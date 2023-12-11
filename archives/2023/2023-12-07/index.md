@@ -63,6 +63,7 @@
 * [2023-12-07, 12:58:35](https://news.ycombinator.com/item?id=38555810) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:52:12](https://news.ycombinator.com/item?id=38555768) - [Everyday performance rules for Ruby on Rails developers](https://www.rorvswild.com/blog/2023/everyday-performance-rules-for-ruby-on-rails-developers)
 * [2023-12-07, 12:50:47](https://news.ycombinator.com/item?id=38555753) - [Voidr – Cutting-edge open source alternatives to mainstream cloud services](https://github.com/voidr-team)
+* [2023-12-07, 12:42:38](https://news.ycombinator.com/item?id=38555696) - [Show HN: Temporary Note – Convenient way to use a browser tab as a notepad](https://temporarynote.com/en)
 * [2023-12-07, 12:36:01](https://news.ycombinator.com/item?id=38555655) - [Electric eel’s zap can transfer genes to nearby animals](https://www.nagoya-u.ac.jp/researchinfo/result-en/2023/12/20231207-01.html)
 * [2023-12-07, 12:30:15](https://news.ycombinator.com/item?id=38555629) - [Show HN: VideoGist – Useful YouTube video summaries](https://www.videogist.co/)
 * [2023-12-07, 12:18:07](https://news.ycombinator.com/item?id=38555555) - [100Gbps RF Sample Offload for RFSoC Using GNU Radio and PYNQ](https://strathprints.strath.ac.uk/86118/)

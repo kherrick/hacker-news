@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
-* [2023-12-11, 04:46:58](https://news.ycombinator.com/item?id=38597720) - [Will this be the last Christmas you can get an Apple Watch?](https://theapopkavoice.com/stories/will-this-be-the-last-christmas-you-can-get-an-apple-watch,69600)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
-* [2023-12-11, 03:55:33](https://news.ycombinator.com/item?id=38597498) - [Humans have 'large, negative impact on wildlife,' researchers find](https://www.msn.com/en-us/health/other/humans-have-large-negative-impact-on-wildlife-researchers-find/ar-AA1lh582)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
 * [2023-12-11, 02:17:39](https://news.ycombinator.com/item?id=38596953) - [Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
 * [2023-12-11, 01:14:13](https://news.ycombinator.com/item?id=38596634) - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
@@ -26,9 +24,11 @@
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
+* [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
+* [2023-12-07, 12:42:38](https://news.ycombinator.com/item?id=38555696) - [Show HN: Temporary Note – Convenient way to use a browser tab as a notepad](https://temporarynote.com/en)
 * [2023-12-07, 11:14:43](https://news.ycombinator.com/item?id=38555169) - [User Interface Typography](https://imperavi.com/books/ui-typography/)
 
 ## [Archives](archives/index.md)
