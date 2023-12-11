@@ -13,6 +13,7 @@
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 * [2023-12-10, 21:27:41](https://news.ycombinator.com/item?id=38595233) - [I Hate MFA](https://www.alexmolas.com/2023/12/10/hate-mfa.html)
 * [2023-12-10, 21:18:21](https://news.ycombinator.com/item?id=38595152) - [The SAT Museum [pdf]](https://ceur-ws.org/Vol-3545/paper6.pdf)
+* [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
 * [2023-12-10, 21:12:41](https://news.ycombinator.com/item?id=38595102) - [The Tech Leaders Who Love the Taste of Boots](https://zkorman.com/posts/tech-leaders-who-love-the-taste-of-boots/8)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)

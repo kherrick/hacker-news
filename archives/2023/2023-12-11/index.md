@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:43:07](https://news.ycombinator.com/item?id=38603653) - [Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers](https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
