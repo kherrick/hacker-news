@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-11, 13:00:57",
+      "https://news.ycombinator.com/item?id=38600260"
+    ],
+    [
+      "Mistral AI, a Paris-based OpenAI rival, closed its $415M funding round",
+      "https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 12:57:09",
+      "https://news.ycombinator.com/item?id=38600238"
+    ],
+    [
+      "The Religion of Techno-Optimism",
+      "https://www.disconnect.blog/p/the-religion-of-techno-optimism"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 12:00:14",
       "https://news.ycombinator.com/item?id=38599832"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38598983"
     ],
     [
-      "Google have removed RSS support from their developer blogs",
+      "We don't have official RSS feed support for now, but we're working on a solution",
       "https://developer.chrome.com/feeds"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Earliest Carpenters: 476,000-year-old log structure discovered in Zambia",
       "https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 08:04:38",
-      "https://news.ycombinator.com/item?id=38598575"
-    ],
-    [
-      "Why Blogging Platforms Suck",
-      "https://bannerblog.dev/why-banner-blog"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-12-11, 02:17:39",
-      "https://news.ycombinator.com/item?id=38596953"
-    ],
-    [
-      "Show HN: I Remade the Fake Google Gemini Demo, Except Using GPT-4 and It's Real",
-      "https://sagittarius.greg.technology/"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 01:14:13",
       "https://news.ycombinator.com/item?id=38596634"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38591084"
     ],
     [
-      "Mechanical Watch",
+      "Mechanical Watch (2022)",
       "https://ciechanow.ski/mechanical-watch/"
     ]
   ],
