@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+* [2023-12-11, 04:46:58](https://news.ycombinator.com/item?id=38597720) - [Will this be the last Christmas you can get an Apple Watch?](https://theapopkavoice.com/stories/will-this-be-the-last-christmas-you-can-get-an-apple-watch,69600)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:55:33](https://news.ycombinator.com/item?id=38597498) - [Humans have 'large, negative impact on wildlife,' researchers find](https://www.msn.com/en-us/health/other/humans-have-large-negative-impact-on-wildlife-researchers-find/ar-AA1lh582)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
@@ -14,7 +16,6 @@
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
-* [2023-12-10, 20:44:29](https://news.ycombinator.com/item?id=38594866) - [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 20:06:29](https://news.ycombinator.com/item?id=38594521) - [I wrote a meta mode for ChatGPT](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
 * [2023-12-10, 19:31:41](https://news.ycombinator.com/item?id=38594178) - [The cfarm compile farm project](https://portal.cfarm.net/)
@@ -25,7 +26,6 @@
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
-* [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
