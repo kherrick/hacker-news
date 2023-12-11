@@ -66,6 +66,7 @@
 * [2023-12-09, 09:25:20](https://news.ycombinator.com/item?id=38580173) - [Life for the Lowest Class in Ancient Pompeii? It Was Awful](https://www.nytimes.com/2023/12/08/world/europe/pompeii-ruins-slaves.html)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
+* [2023-12-09, 08:34:29](https://news.ycombinator.com/item?id=38579913) - [OpenBSD – pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-09, 08:31:50](https://news.ycombinator.com/item?id=38579899) - [If buying isn't owning, piracy isn't stealing](https://pluralistic.net/2023/12/08/playstationed/#tyler-james-hill)
 * [2023-12-09, 08:29:35](https://news.ycombinator.com/item?id=38579890) - [Turning staff into workaholics makes them way less productive, Slack finds](https://www.economist.com/graphic-detail/2022/06/22/the-worlds-most-liveable-cities)
 * [2023-12-09, 08:29:35](https://news.ycombinator.com/item?id=38579890) - [A connection between after-hours work and decreased productivity](https://slack.com/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
