@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-11, 08:02:49](https://news.ycombinator.com/item?id=38598565) - [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
@@ -22,6 +21,7 @@
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
 * [2023-12-10, 18:15:13](https://news.ycombinator.com/item?id=38593538) - [The valley of the cheese of the dead](https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland)
+* [2023-12-10, 17:30:20](https://news.ycombinator.com/item?id=38593177) - [Show HN: Watering my Christmas tree with ESPHome](https://johnzanussi.com/posts/diy-automated-christmas-tree-watering)
 * [2023-12-10, 10:12:12](https://news.ycombinator.com/item?id=38590560) - [First tomato ever grown in space, lost 8 months ago, found by NASA astronauts](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
