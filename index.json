@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-11, 19:45:23",
-      "https://news.ycombinator.com/item?id=38604519"
+      "2023-12-11, 21:01:05",
+      "https://news.ycombinator.com/item?id=38605453"
     ],
     [
-      "GPT-4 has Seasonal Depression",
-      "https://twitter.com/fabianstelzer/status/1734296159873536214"
+      "Deep Learning – Foundations and Concepts (Chris Bishop)",
+      "https://www.bishopbook.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 20:58:12",
+      "https://news.ycombinator.com/item?id=38605422"
+    ],
+    [
+      "The web services I self-host (2022)",
+      "https://thinking.ajdecon.org/2022/10/30/the-web-services-i-self-host/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-12-11, 08:01:29",
-      "https://news.ycombinator.com/item?id=38598559"
-    ],
-    [
-      "Mistral: Mixtral of Experts",
-      "https://mistral.ai/news/mixtral-of-experts/"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 07:09:02",
       "https://news.ycombinator.com/item?id=38598325"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38589764"
     ],
     [
-      "Capturing gestures: from Linux' EVDev to the browser",
+      "The Journey from WebSockets to HTTP Streams",
       "https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html"
     ]
   ],
