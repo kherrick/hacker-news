@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-12-11, 08:40:30",
-      "https://news.ycombinator.com/item?id=38598742"
-    ],
-    [
-      "Earliest Carpenters: 476k-year-old log structure discovered in Zambia",
-      "https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 16:28:44",
       "https://news.ycombinator.com/item?id=38592662"
     ],
@@ -297,6 +287,16 @@
     [
       "Clockhands: Rename-free instruction set architecture for out-of-order processors",
       "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 08:34:29",
+      "https://news.ycombinator.com/item?id=38579913"
+    ],
+    [
+      "OpenBSD – pinning all system calls",
+      "https://marc.info/?l=openbsd-tech&m=170205367232026&w=2"
     ]
   ]
 ]
