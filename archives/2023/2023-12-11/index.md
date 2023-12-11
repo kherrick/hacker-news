@@ -6,6 +6,7 @@
 
 * [2023-12-11, 19:45:23](https://news.ycombinator.com/item?id=38604519) - [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
 * [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
+* [2023-12-11, 19:13:54](https://news.ycombinator.com/item?id=38604104) - [Show HN: Sherlock – AI that chats with your friends about their gift wishes](https://www.giftit.social/)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:43:07](https://news.ycombinator.com/item?id=38603653) - [Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers](https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
