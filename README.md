@@ -2,6 +2,7 @@
 
 * [2023-12-11, 22:58:20](https://news.ycombinator.com/item?id=38606671) - [I turned my side hustle into a cleaning business](https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/)
 * [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
+* [2023-12-11, 22:51:26](https://news.ycombinator.com/item?id=38606590) - [Mamba outperforms transformers \"everywhere we tried\"](https://old.reddit.com/r/singularity/comments/18asto2/announcing_mamba_a_new_ssm_arch_that_has/)
 * [2023-12-11, 22:43:12](https://news.ycombinator.com/item?id=38606488) - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To revive Portland, officials seek to ban public drug use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
@@ -11,7 +12,6 @@
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:29:28](https://news.ycombinator.com/item?id=38603440) - [TSA introducing self-service screening technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
-* [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
 * [2023-12-11, 17:44:26](https://news.ycombinator.com/item?id=38602750) - [The best WebAssembly runtime may be no runtime](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
