@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - [Herds of Mysterious 'Glacier Mice' Baffle Scientists – Atlas Obscura](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
 * [2023-12-11, 16:41:04](https://news.ycombinator.com/item?id=38602102) - [Who will lead the charge to a four-day work week?](https://www.politico.com/newsletters/weekly-shift/2023/12/11/who-will-lead-the-charge-to-a-four-day-work-week-00131035)

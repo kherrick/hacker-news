@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - [Herds of Mysterious 'Glacier Mice' Baffle Scientists – Atlas Obscura](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
 * [2023-12-11, 16:41:04](https://news.ycombinator.com/item?id=38602102) - [Who will lead the charge to a four-day work week?](https://www.politico.com/newsletters/weekly-shift/2023/12/11/who-will-lead-the-charge-to-a-four-day-work-week-00131035)
@@ -21,7 +22,6 @@
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
-* [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He Steals Them, of Course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
