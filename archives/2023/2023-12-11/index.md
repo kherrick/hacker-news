@@ -7,6 +7,7 @@
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [$35 smart calculator for small shops](https://smart.tohands.in/)
 * [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
+* [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
 * [2023-12-11, 08:04:38](https://news.ycombinator.com/item?id=38598575) - [Why Blogging Platforms Suck](https://bannerblog.dev/why-banner-blog)
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
