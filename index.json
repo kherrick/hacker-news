@@ -1,32 +1,22 @@
 [
   [
     [
+      "2023-12-11, 21:03:48",
+      "https://news.ycombinator.com/item?id=38605477"
+    ],
+    [
+      "The depths of the input element",
+      "https://www.htmhell.dev/adventcalendar/2023/8/"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 21:01:05",
       "https://news.ycombinator.com/item?id=38605453"
     ],
     [
       "Deep Learning – Foundations and Concepts (Chris Bishop)",
       "https://www.bishopbook.com/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 19:50:58",
-      "https://news.ycombinator.com/item?id=38604597"
-    ],
-    [
-      "GPT-4-turbo produces shorter completions when it \"thinks\" its December vs. May",
-      "https://twitter.com/RobLynch99/status/1734278713762549970"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 19:28:58",
-      "https://news.ycombinator.com/item?id=38604307"
-    ],
-    [
-      "OpenAI's Investors Don't Own It",
-      "https://www.bloomberg.com/opinion/articles/2023-12-11/openai-s-investors-don-t-own-it"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Building a bare-metal bootable game for Raspberry Pi in C#",
       "https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 09:19:20",
+      "https://news.ycombinator.com/item?id=38598940"
+    ],
+    [
+      "Comparing 6502 Multiply Routines",
+      "https://github.com/TobyLobster/multiply_test"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38581719"
     ],
     [
-      "Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors",
+      "Clockhands: Rename-free instruction set architecture for out-of-order processors",
       "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
     ]
   ]
