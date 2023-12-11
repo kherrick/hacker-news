@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
+* [2023-12-11, 21:10:03](https://news.ycombinator.com/item?id=38605525) - [FISA \"Reform\" Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
 * [2023-12-11, 21:03:48](https://news.ycombinator.com/item?id=38605477) - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
+* [2023-12-11, 21:02:20](https://news.ycombinator.com/item?id=38605466) - [Terminal Trove – A collection of CLIs, TUIs and all things in the terminal](https://terminaltrove.com/)
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
 * [2023-12-11, 20:58:12](https://news.ycombinator.com/item?id=38605422) - [The web services I self-host (2022)](https://thinking.ajdecon.org/2022/10/30/the-web-services-i-self-host/)
