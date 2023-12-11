@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
+* [2023-12-11, 21:44:00](https://news.ycombinator.com/item?id=38605941) - [Sen. Wyden to the DOJ: Govs Gathering Push Notification Data from Google, Apple](https://www.techdirt.com/2023/12/11/letter-from-sen-wyden-to-the-doj-says-governments-are-gathering-push-notification-data-from-google-apple/)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
 * [2023-12-11, 21:10:03](https://news.ycombinator.com/item?id=38605525) - [FISA \"Reform\" Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
 * [2023-12-11, 21:03:48](https://news.ycombinator.com/item?id=38605477) - [The depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
