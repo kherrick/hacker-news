@@ -10,7 +10,6 @@
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - ['Glacier mice' baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
 * [2023-12-11, 16:26:02](https://news.ycombinator.com/item?id=38601960) - [Bad science and bad statistics in the courtroom convict innocent people](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
-* [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
@@ -28,6 +27,7 @@
 * [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-10, 12:28:17](https://news.ycombinator.com/item?id=38591083) - [How many lines of C it takes to execute a + b in Python](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
+* [2023-12-10, 11:15:08](https://news.ycombinator.com/item?id=38590786) - [Cowgol 2.0 (2022)](http://cowlark.com/cowgol/index.html)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
 

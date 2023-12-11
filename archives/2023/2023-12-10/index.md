@@ -70,6 +70,7 @@
 * [2023-12-10, 12:01:01](https://news.ycombinator.com/item?id=38590975) - [Lago (Open-Source Stripe Billing) Is Hiring Back-End Ruby Engineers in EU](https://www.ycombinator.com/companies/lago/jobs/RvvzKuM-sr-back-end-ruby-engineer)
 * [2023-12-10, 11:26:44](https://news.ycombinator.com/item?id=38590827) - [Stealthy Linux rootkit found in the wild after going undetected for 2 years](https://arstechnica.com/security/2023/12/stealthy-linux-rootkit-found-in-the-wild-after-going-undetected-for-2-years/)
 * [2023-12-10, 11:26:10](https://news.ycombinator.com/item?id=38590826) - [HP printer app is installing on PCs whether they have HP printers or not](https://arstechnica.com/gadgets/2023/12/hp-printer-app-is-installing-on-pcs-whether-they-have-hp-printers-or-not/)
+* [2023-12-10, 11:15:08](https://news.ycombinator.com/item?id=38590786) - [Cowgol 2.0 (2022)](http://cowlark.com/cowgol/index.html)
 * [2023-12-10, 10:12:12](https://news.ycombinator.com/item?id=38590560) - [First tomato ever grown in space, lost 8 months ago, found by NASA astronauts](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/)
 * [2023-12-10, 09:21:52](https://news.ycombinator.com/item?id=38590313) - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
