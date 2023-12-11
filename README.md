@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)
+* [2023-12-11, 12:53:16](https://news.ycombinator.com/item?id=38600209) - [Whirlygig Volumetric Display LPC1768 Demo (2014) [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
 * [2023-12-11, 12:00:14](https://news.ycombinator.com/item?id=38599832) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
-* [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [We don't have official RSS feed support for now, but we're working on a solution](https://developer.chrome.com/feeds)
 * [2023-12-11, 09:03:26](https://news.ycombinator.com/item?id=38598861) - [Jedec Publishes New CAMM2 Memory Module Standard](https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard)
@@ -28,7 +29,6 @@
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
-* [2023-12-07, 12:42:38](https://news.ycombinator.com/item?id=38555696) - [Show HN: Temporary Note – Convenient way to use a browser tab as a notepad](https://temporarynote.com/en)
 * [2023-12-07, 11:14:43](https://news.ycombinator.com/item?id=38555169) - [User Interface Typography](https://imperavi.com/books/ui-typography/)
 
 ## [Archives](archives/index.md)
