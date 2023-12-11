@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-11, 18:56:23",
+      "https://news.ycombinator.com/item?id=38603853"
+    ],
+    [
+      "Show HN: I built an OSS alternative to Azure OpenAI services",
+      "https://github.com/bricks-cloud/BricksLLM"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 18:43:07",
+      "https://news.ycombinator.com/item?id=38603653"
+    ],
+    [
+      "Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers",
+      "https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 18:13:28",
       "https://news.ycombinator.com/item?id=38603207"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-12-11, 10:27:03",
-      "https://news.ycombinator.com/item?id=38599270"
-    ],
-    [
-      "Tohands – Smart calculator for small businesses",
-      "https://smart.tohands.in/"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 10:05:58",
       "https://news.ycombinator.com/item?id=38599168"
     ],
@@ -217,16 +227,6 @@
     [
       "Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330",
       "https://datatracker.ietf.org/doc/rfc9330/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 04:18:52",
-      "https://news.ycombinator.com/item?id=38597599"
-    ],
-    [
-      "Templ: A language for writing HTML user interfaces in Go",
-      "https://github.com/a-h/templ"
     ]
   ],
   [
