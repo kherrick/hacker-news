@@ -20,6 +20,8 @@
 * [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+* [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)
+* [2023-12-11, 00:18:05](https://news.ycombinator.com/item?id=38596353) - [Pitivi – Free video editor with a beautiful and intuitive user interface](https://www.pitivi.org/)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He Steals Them, of Course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
@@ -28,8 +30,6 @@
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
 * [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 06:40:02](https://news.ycombinator.com/item?id=38579272) - [Invisible Bunnies That Power World of Warcraft (2017)](https://kotaku.com/the-invisible-bunnies-that-power-world-of-warcraft-1791576630)
-* [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
-* [2023-12-07, 11:14:43](https://news.ycombinator.com/item?id=38555169) - [User Interface Typography](https://imperavi.com/books/ui-typography/)
 
 ## [Archives](archives/index.md)
 
