@@ -71,6 +71,7 @@
 * [2023-12-10, 10:12:12](https://news.ycombinator.com/item?id=38590560) - [First tomato ever grown in space, lost 8 months ago, found by NASA astronauts](https://www.cbsnews.com/news/tomato-lost-in-international-space-station-found-nasa-astronauts/)
 * [2023-12-10, 09:21:52](https://news.ycombinator.com/item?id=38590313) - [Ask HN: Should I subscribe to ChatGPT Plus if we can get it for free on Bing?](https://news.ycombinator.com/item?id=38590313)
 * [2023-12-10, 08:47:56](https://news.ycombinator.com/item?id=38590164) - [Fuzzy Finding with Emacs Instead of Fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
+* [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [A Big Small Leap Forward in Graph Theory](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
 * [2023-12-10, 08:43:59](https://news.ycombinator.com/item?id=38590144) - [Trust-Based Moderation Systems](https://cblgh.org/trustnet/)
 * [2023-12-10, 08:28:38](https://news.ycombinator.com/item?id=38590080) - [Ask HN: Can we do better than Git for version control?](https://news.ycombinator.com/item?id=38590080)
 * [2023-12-10, 08:28:35](https://news.ycombinator.com/item?id=38590078) - [What is a zero refractive index material?](https://skullsinthestars.com/2023/12/09/what-is-a-zero-refractive-index-material/)
