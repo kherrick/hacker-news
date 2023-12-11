@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 09:03:26",
+      "https://news.ycombinator.com/item?id=38598861"
+    ],
+    [
+      "Jedec Publishes New CAMM2 Memory Module Standard",
+      "https://www.jedec.org/news/pressreleases/jedec-publishes-new-camm2-memory-module-standard"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 08:04:38",
       "https://news.ycombinator.com/item?id=38598575"
     ],
@@ -177,16 +187,6 @@
     [
       "Omg.lol: An Oasis on the Internet",
       "https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 19:28:05",
-      "https://news.ycombinator.com/item?id=38594139"
-    ],
-    [
-      "The subtleties of proper B+Tree implementation",
-      "https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation"
     ]
   ],
   [
