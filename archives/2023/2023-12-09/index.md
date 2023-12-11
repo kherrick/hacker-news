@@ -53,6 +53,7 @@
 * [2023-12-09, 13:22:24](https://news.ycombinator.com/item?id=38581735) - [Single-Dose Psilocybin for Major Depressive Disorder: Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2808950)
 * [2023-12-09, 12:32:20](https://news.ycombinator.com/item?id=38581432) - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
+* [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 12:00:36](https://news.ycombinator.com/item?id=38581195) - [Langfuse (YC W23) is hiring its first engineer](https://www.workatastartup.com/jobs/62929)
 * [2023-12-09, 11:40:17](https://news.ycombinator.com/item?id=38581069) - [The Cognitive Style of Unix (2010)](https://blog.vivekhaldar.com/post/3339907908/the-cognitive-style-of-unix)
 * [2023-12-09, 11:24:35](https://news.ycombinator.com/item?id=38580965) - [Tomato lost in space by history-making astronaut has been found](https://www.cnn.com/2023/12/08/world/tomato-frank-rubio-space-station-nasa-scn/index.html)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-10, 23:36:58](https://news.ycombinator.com/item?id=38596127) - [Wasabi linked to \"substantial\" boost in memory, Japanese study finds](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
+* [2023-12-11, 01:14:13](https://news.ycombinator.com/item?id=38596634) - [John Carmack and John Romero reunited to talk DOOM on its 30th Anniversary](https://www.pcgamer.com/for-dooms-30th-anniversary-the-johns-romero-and-carmack-reunited-to-celebrate-the-fps-that-changed-everything-i-want-to-thank-everybody-in-the-doom-community-for-keeping-this-game-alive/)
 * [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, expose your RSS](https://rknight.me/please-expose-your-rss/)
 * [2023-12-10, 22:17:00](https://news.ycombinator.com/item?id=38595630) - [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
@@ -21,9 +21,9 @@
 * [2023-12-10, 17:25:30](https://news.ycombinator.com/item?id=38593147) - [Show HN: Rot - Offline secrets management](https://github.com/candiddev/rot)
 * [2023-12-10, 17:07:10](https://news.ycombinator.com/item?id=38593008) - [‘Inert’ ingredients in pesticides may be more toxic to bees than thought](https://theconversation.com/inert-ingredients-in-pesticides-may-be-more-toxic-to-bees-than-scientists-thought-218005)
 * [2023-12-10, 14:18:25](https://news.ycombinator.com/item?id=38591662) - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
-* [2023-12-10, 13:37:43](https://news.ycombinator.com/item?id=38591437) - [Ask HN: Best UI design courses for hackers?](https://news.ycombinator.com/item?id=38591437)
 * [2023-12-10, 12:03:18](https://news.ycombinator.com/item?id=38590984) - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 * [2023-12-09, 22:45:56](https://news.ycombinator.com/item?id=38586918) - [Introduction to Legion: life in the Roman army](https://www.britishmuseum.org/blog/introduction-legion-life-roman-army)
+* [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-09, 07:22:49](https://news.ycombinator.com/item?id=38579499) - [Neil Armstrong's Visit to Langholm](https://www.historic-uk.com/HistoryUK/HistoryofScotland/Neil-Armstrong-Visits-Langholm/)
 * [2023-12-09, 01:37:35](https://news.ycombinator.com/item?id=38577424) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
