@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-11, 16:26:02](https://news.ycombinator.com/item?id=38601960) - [Bad Science and Bad Statistics in the Courtroom Convict Innocent People](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
-* [2023-12-11, 16:06:09](https://news.ycombinator.com/item?id=38601775) - [A list of factors that act(ed) as drag on the European Tech/Startup scene](http://addxorrol.blogspot.com/2023/12/a-list-of-factors-that-acted-as-drag-on.html)
+* [2023-12-11, 16:15:23](https://news.ycombinator.com/item?id=38601865) - [Low-Background Tokens](https://www.latent.space/i/139368545/the-concept-of-low-background-tokens)
 * [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 13:06:56](https://news.ycombinator.com/item?id=38600303) - [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency/)

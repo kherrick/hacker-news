@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
 * [2023-12-11, 16:26:02](https://news.ycombinator.com/item?id=38601960) - [Bad Science and Bad Statistics in the Courtroom Convict Innocent People](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
+* [2023-12-11, 16:15:23](https://news.ycombinator.com/item?id=38601865) - [Low-Background Tokens](https://www.latent.space/i/139368545/the-concept-of-low-background-tokens)
 * [2023-12-11, 16:06:09](https://news.ycombinator.com/item?id=38601775) - [A list of factors that act(ed) as drag on the European Tech/Startup scene](http://addxorrol.blogspot.com/2023/12/a-list-of-factors-that-acted-as-drag-on.html)
 * [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
