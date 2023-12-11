@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 05:46:41](https://news.ycombinator.com/item?id=38597989) - [Flu cases on the rise in NY, soaring in other states](https://www.fox5ny.com/news/ny-flu-cases-rise-soaring-across-us)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:46:58](https://news.ycombinator.com/item?id=38597720) - [Will this be the last Christmas you can get an Apple Watch?](https://theapopkavoice.com/stories/will-this-be-the-last-christmas-you-can-get-an-apple-watch,69600)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)

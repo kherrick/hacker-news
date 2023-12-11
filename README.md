@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 05:46:41](https://news.ycombinator.com/item?id=38597989) - [Flu cases on the rise in NY, soaring in other states](https://www.fox5ny.com/news/ny-flu-cases-rise-soaring-across-us)
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
 * [2023-12-11, 03:22:38](https://news.ycombinator.com/item?id=38597301) - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
@@ -16,7 +17,6 @@
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
 * [2023-12-10, 20:06:29](https://news.ycombinator.com/item?id=38594521) - [I wrote a meta mode for ChatGPT](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)
-* [2023-12-10, 19:31:41](https://news.ycombinator.com/item?id=38594178) - [The cfarm compile farm project](https://portal.cfarm.net/)
 * [2023-12-10, 19:28:05](https://news.ycombinator.com/item?id=38594139) - [The subtleties of proper B+Tree implementation](https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation)
 * [2023-12-10, 19:15:10](https://news.ycombinator.com/item?id=38594018) - [FFM (Foreign Function and Memory API) Goes Final](https://mail.openjdk.org/pipermail/panama-dev/2023-October/020095.html)
 * [2023-12-10, 18:15:13](https://news.ycombinator.com/item?id=38593538) - [The valley of the cheese of the dead](https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland)
