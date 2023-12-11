@@ -28,8 +28,8 @@
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
 * [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 11:04:10](https://news.ycombinator.com/item?id=38567587) - [Shader Park Is Kinda Neat](https://untested.sonnet.io/Shader+Park+is+Kinda+Neat)
+* [2023-12-07, 11:14:43](https://news.ycombinator.com/item?id=38555169) - [User Interface Typography](https://imperavi.com/books/ui-typography/)
 * [2023-12-07, 09:57:48](https://news.ycombinator.com/item?id=38554691) - [Audiobox: Meta's new foundation research model for audio generation](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/)
-* [2023-12-07, 07:36:00](https://news.ycombinator.com/item?id=38553857) - [Ayllu: Hackable Code Forge Built on Open Standards](https://ayllu-forge.org/)
 
 ## [Archives](archives/index.md)
 
