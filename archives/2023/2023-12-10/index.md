@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 23:36:58](https://news.ycombinator.com/item?id=38596127) - [Wasabi linked to \"substantial\" boost in memory, Japanese study finds](https://www.cbsnews.com/news/wasabi-memory-boost-japanese-study-finds/)
 * [2023-12-10, 22:52:55](https://news.ycombinator.com/item?id=38595855) - [Please, Expose Your RSS](https://rknight.me/please-expose-your-rss/)
+* [2023-12-10, 22:17:00](https://news.ycombinator.com/item?id=38595630) - [The Bare Minimum Video Game: The Odyssey 100](https://nicole.express/2023/special-thanks-to-homer.html)
 * [2023-12-10, 21:55:59](https://news.ycombinator.com/item?id=38595470) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-10, 21:31:55](https://news.ycombinator.com/item?id=38595256) - [Ask HN: Why haven't we seen a race to the bottom in SaaS pricing?](https://news.ycombinator.com/item?id=38595256)
 * [2023-12-10, 21:29:56](https://news.ycombinator.com/item?id=38595245) - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-gb/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity?nojsmode=1)
 * [2023-12-10, 21:27:41](https://news.ycombinator.com/item?id=38595233) - [I Hate MFA](https://www.alexmolas.com/2023/12/10/hate-mfa.html)
+* [2023-12-10, 21:18:21](https://news.ycombinator.com/item?id=38595152) - [The SAT Museum [pdf]](https://ceur-ws.org/Vol-3545/paper6.pdf)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 * [2023-12-10, 20:44:29](https://news.ycombinator.com/item?id=38594866) - [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)

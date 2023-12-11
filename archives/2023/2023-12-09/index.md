@@ -60,6 +60,7 @@
 * [2023-12-09, 10:58:33](https://news.ycombinator.com/item?id=38580768) - [OpenAI's Crisis over the Future of Artificial Intelligence](https://www.nytimes.com/2023/12/09/technology/openai-altman-inside-crisis.html)
 * [2023-12-09, 10:57:41](https://news.ycombinator.com/item?id=38580758) - [French AI startup Mistral secures €2B valuation](https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb)
 * [2023-12-09, 10:55:17](https://news.ycombinator.com/item?id=38580742) - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
+* [2023-12-09, 10:47:44](https://news.ycombinator.com/item?id=38580694) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-09, 09:25:20](https://news.ycombinator.com/item?id=38580173) - [Life for the Lowest Class in Ancient Pompeii? It Was Awful](https://www.nytimes.com/2023/12/08/world/europe/pompeii-ruins-slaves.html)
 * [2023-12-09, 08:53:29](https://news.ycombinator.com/item?id=38580013) - [Arrows of Time](https://www.quantamagazine.org/what-is-time-a-history-of-physics-biology-clocks-and-culture-20200504/)
 * [2023-12-09, 08:46:54](https://news.ycombinator.com/item?id=38579981) - [Spain expels two US spies for infiltrating secret service](https://english.elpais.com/spain/2023-12-08/spain-expels-two-us-spies-for-infiltrating-secret-service.html)
