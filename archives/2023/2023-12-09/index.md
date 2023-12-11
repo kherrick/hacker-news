@@ -51,6 +51,7 @@
 * [2023-12-09, 13:43:39](https://news.ycombinator.com/item?id=38581862) - [Ask HN: Slowly Losing Interest in Software Engineering, should I be worried?](https://news.ycombinator.com/item?id=38581862)
 * [2023-12-09, 13:42:52](https://news.ycombinator.com/item?id=38581852) - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
 * [2023-12-09, 13:22:24](https://news.ycombinator.com/item?id=38581735) - [Single-Dose Psilocybin for Major Depressive Disorder: Randomized Clinical Trial](https://jamanetwork.com/journals/jama/fullarticle/2808950)
+* [2023-12-09, 13:20:24](https://news.ycombinator.com/item?id=38581719) - [Clockhands: Rename-Free Instruction Set Architecture for Out-of-Order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 12:32:20](https://news.ycombinator.com/item?id=38581432) - [Advent of Technical Writing: Style](https://jamesg.blog/2023/12/09/style/)
 * [2023-12-09, 12:22:25](https://news.ycombinator.com/item?id=38581373) - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 * [2023-12-09, 12:12:43](https://news.ycombinator.com/item?id=38581293) - [How the Bassmate Computer came to be](http://blog.beforemario.com/2013/06/how-bassmate-computer-came-to-be.html)
