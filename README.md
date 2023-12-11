@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 21:00:59](https://news.ycombinator.com/item?id=38605451) - [Why Europe Fails to Create Wealth](https://loeber.substack.com/p/14-why-europe-fails-to-create-wealth)
 * [2023-12-11, 19:45:23](https://news.ycombinator.com/item?id=38604519) - [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
 * [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
@@ -20,7 +21,6 @@
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
-* [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
 * [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
