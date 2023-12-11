@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-12-10, 20:06:29",
-      "https://news.ycombinator.com/item?id=38594521"
-    ],
-    [
-      "I wrote a meta mode for ChatGPT",
-      "https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 19:28:05",
       "https://news.ycombinator.com/item?id=38594139"
     ],
@@ -217,6 +207,16 @@
     [
       "The valley of the cheese of the dead",
       "https://www.atlasobscura.com/articles/most-unusual-cheese-switzerland"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 12:28:17",
+      "https://news.ycombinator.com/item?id=38591083"
+    ],
+    [
+      "How many lines of C it takes to execute a + b in Python",
+      "https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals"
     ]
   ],
   [
