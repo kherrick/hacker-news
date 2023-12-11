@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:12:51](https://news.ycombinator.com/item?id=38605550) - [Natl Sheriffs' Assoc. letter against federal civil asset forfeiture reform [pdf]](https://www.sheriffs.org/sites/default/files/NSALetterOpposingHR1525FAIRAct.pdf)
 * [2023-12-11, 21:10:03](https://news.ycombinator.com/item?id=38605525) - [FISA \"Reform\" Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
@@ -20,7 +21,6 @@
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:19:20](https://news.ycombinator.com/item?id=38598940) - [Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
 * [2023-12-11, 08:40:30](https://news.ycombinator.com/item?id=38598742) - [Earliest Carpenters: 476k-year-old log structure discovered in Zambia](https://www.archaeology.org/issues/537-features/top10/11937-zambia-kalambo-river-earliest-woodworking)
-* [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
 * [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein (aperiodic monotile)?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
