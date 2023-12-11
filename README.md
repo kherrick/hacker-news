@@ -2,7 +2,6 @@
 
 * [2023-12-11, 19:45:23](https://news.ycombinator.com/item?id=38604519) - [GPT-4 has Seasonal Depression](https://twitter.com/fabianstelzer/status/1734296159873536214)
 * [2023-12-11, 19:42:02](https://news.ycombinator.com/item?id=38604470) - [Fntastic announces shutdown four days after releasing \"The Day Before\"](https://www.fntastic.com)
-* [2023-12-11, 19:13:54](https://news.ycombinator.com/item?id=38604104) - [Show HN: Sherlock – AI that chats with your friends about their gift wishes](https://www.giftit.social/)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
 * [2023-12-11, 18:12:22](https://news.ycombinator.com/item?id=38603193) - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
@@ -23,6 +22,7 @@
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 * [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
 * [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
+* [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
