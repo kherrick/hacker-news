@@ -6,6 +6,7 @@
 
 * [2023-12-11, 23:45:29](https://news.ycombinator.com/item?id=38607071) - [The House Intelligence Committee's Surveillance 'Reform' Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
 * [2023-12-11, 23:41:13](https://news.ycombinator.com/item?id=38607038) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
+* [2023-12-11, 23:36:20](https://news.ycombinator.com/item?id=38606997) - [Bad Review? Sue the Critic. Whistler Did](https://www.nytimes.com/2023/12/06/books/review/falling-rocket-paul-thomas-murphy.html)
 * [2023-12-11, 23:14:30](https://news.ycombinator.com/item?id=38606804) - [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
 * [2023-12-11, 22:58:20](https://news.ycombinator.com/item?id=38606671) - [This guy makes $53,000 a month cleaning people's litter](https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/)
 * [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
