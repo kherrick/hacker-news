@@ -50,6 +50,7 @@
 * [2023-12-11, 16:06:09](https://news.ycombinator.com/item?id=38601775) - [A list of factors that act(ed) as drag on the European Tech/Startup scene](http://addxorrol.blogspot.com/2023/12/a-list-of-factors-that-acted-as-drag-on.html)
 * [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)
 * [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
+* [2023-12-11, 14:56:51](https://news.ycombinator.com/item?id=38601171) - [Where do Journals go to Die?](https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html)
 * [2023-12-11, 14:23:24](https://news.ycombinator.com/item?id=38600870) - [Attacking Journalists as Terrorists](https://www.craigmurray.org.uk/archives/2023/12/attacking-journalists-as-terrorists/)
 * [2023-12-11, 14:09:02](https://news.ycombinator.com/item?id=38600743) - [Marmot: Multi-writer distributed SQLite based on NATS](https://github.com/maxpert/marmot)
 * [2023-12-11, 14:05:03](https://news.ycombinator.com/item?id=38600714) - [Anti-aging drug for dogs moves closer to gaining FDA approval](https://www.foxnews.com/health/anti-aging-drug-dogs-san-francisco-firm-moves-closer-gaining-fda-approval)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)

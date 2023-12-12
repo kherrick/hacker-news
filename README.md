@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
@@ -8,7 +9,6 @@
 * [2023-12-12, 12:12:52](https://news.ycombinator.com/item?id=38611175) - [The NSA advises move to memory-safe languages](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/)
 * [2023-12-12, 11:52:19](https://news.ycombinator.com/item?id=38611033) - [Qdrant 1.7.0](https://qdrant.tech/articles/qdrant-1.7.x/)
 * [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
-* [2023-12-12, 10:31:56](https://news.ycombinator.com/item?id=38610906) - [Nearly 40% of U.S. homes are mortgage-free, census shows](https://www.axios.com/2023/12/12/mortgage-free-homes)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
@@ -23,11 +23,11 @@
 * [2023-12-11, 21:30:11](https://news.ycombinator.com/item?id=38605765) - [Apple introduces spatial video capture on iPhone 15 Pro](https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/)
 * [2023-12-11, 18:24:09](https://news.ycombinator.com/item?id=38603353) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
+* [2023-12-11, 14:56:51](https://news.ycombinator.com/item?id=38601171) - [Where do Journals go to Die?](https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html)
 * [2023-12-11, 13:42:39](https://news.ycombinator.com/item?id=38600551) - [Ultrasound Enables Remote 3-D Printing – Even in the Human Body](https://www.scientificamerican.com/article/ultrasound-enables-remote-3-d-printing-even-in-the-human-body/)
 * [2023-12-11, 12:58:42](https://news.ycombinator.com/item?id=38600246) - [Show HN: Crunching 1,200 Authors' Favorite Reads of 2023](https://shepherd.com/bboy/2023)
 * [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol (2007) [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)
 * [2023-12-11, 03:57:46](https://news.ycombinator.com/item?id=38597505) - [Flaubert's letters are as hilarious and humane as his best fiction](https://www.washingtonpost.com/books/2023/11/22/gustave-flaubert-letters-review/)
-* [2023-12-10, 20:47:01](https://news.ycombinator.com/item?id=38594891) - [Sliding Doors: The Time GM Fumbled Its Chance to Launch the First Minivan](https://www.thedrive.com/news/sliding-doors-that-time-gm-fumbled-its-chance-to-launch-the-first-minivan)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-09, 08:34:29](https://news.ycombinator.com/item?id=38579913) - [OpenBSD – pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 
