@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 04:28:09](https://news.ycombinator.com/item?id=38609488) - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
@@ -8,7 +9,6 @@
 * [2023-12-11, 22:51:14](https://news.ycombinator.com/item?id=38606587) - [Ask HN: Working with CPG Retail Data](https://news.ycombinator.com/item?id=38606587)
 * [2023-12-11, 22:43:12](https://news.ycombinator.com/item?id=38606488) - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
-* [2023-12-11, 21:30:11](https://news.ycombinator.com/item?id=38605765) - [Apple introduces spatial video capture on iPhone 15 Pro](https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To revive Portland, officials seek to ban public drug use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
 * [2023-12-11, 21:10:03](https://news.ycombinator.com/item?id=38605525) - [FISA \"reform\" bill would greatly expand the entities forced to surveil users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
 * [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
