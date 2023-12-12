@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights 80% smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
+* [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
+* [2023-12-12, 14:46:50](https://news.ycombinator.com/item?id=38612792) - [Destigmatizing Drug Use Has Been a Profound Mistake](https://www.theatlantic.com/ideas/archive/2023/12/destigmatizing-drug-use-mistake-opioid-crisis/676292/)
+* [2023-12-12, 14:45:53](https://news.ycombinator.com/item?id=38612779) - [E3 Is Officially Dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/)
+* [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [SpaceX's next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
