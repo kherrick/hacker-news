@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+* [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)

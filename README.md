@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
+* [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
@@ -25,11 +27,9 @@
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:47:50](https://news.ycombinator.com/item?id=38611466) - [YouTube doesn't want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
-* [2023-12-12, 05:05:35](https://news.ycombinator.com/item?id=38609747) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 00:00:03](https://news.ycombinator.com/item?id=38607221) - [Analogies between Analogies by S. Ulam](https://publishing.cdlib.org/ucpressebooks/view?docId=ft9g50091s&brand=ucpress)
 * [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [An Extremely Rare Occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
 * [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of Basic [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
-* [2023-12-11, 10:44:52](https://news.ycombinator.com/item?id=38599378) - [Send Emails with Rust – SMTP and API Methods with Examples](https://mailtrap.io/blog/rust-send-email/)
 
 ## [Archives](archives/index.md)
 
