@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 04:15:20](https://news.ycombinator.com/item?id=38609390) - [Google Loses Antitrust Court Battle with Makers of Fortnite](https://www.nytimes.com/2023/12/11/technology/epic-games-google-antitrust-ruling.html)
 * [2023-12-12, 02:56:02](https://news.ycombinator.com/item?id=38608763) - [Epic vs. Google Trial Verdict, a Win for All Developers](https://www.epicgames.com/site/en-US/news/epic-v-google-trial-verdict-a-win-for-all-developers)
 * [2023-12-12, 02:16:14](https://news.ycombinator.com/item?id=38608452) - [2×4 Lumber Sizes – The History Behind the Mystery](https://workingforest.com/2x4-lumber-size-the-history-behind-the-mystery/)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
@@ -21,7 +22,6 @@
 * [2023-12-11, 15:27:42](https://news.ycombinator.com/item?id=38601435) - [Text Editor Data Structures: Rethinking Undo](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/)
 * [2023-12-11, 13:42:39](https://news.ycombinator.com/item?id=38600551) - [Ultrasound Enables Remote 3-D Printing – Even in the Human Body](https://www.scientificamerican.com/article/ultrasound-enables-remote-3-d-printing-even-in-the-human-body/)
 * [2023-12-11, 12:58:42](https://news.ycombinator.com/item?id=38600246) - [Show HN: Crunching 1,200 Authors' Favorite Reads of 2023](https://shepherd.com/bboy/2023)
-* [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Transparent wood could soon find uses in smartphone screens, insulated windows](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 * [2023-12-11, 10:23:52](https://news.ycombinator.com/item?id=38599252) - [Wordstar-keys: Implement wordstar cursor control keys in Linux using xkb](https://github.com/berwynhoyt/wordstar-keys)
 * [2023-12-11, 09:19:20](https://news.ycombinator.com/item?id=38598940) - [Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
 * [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)

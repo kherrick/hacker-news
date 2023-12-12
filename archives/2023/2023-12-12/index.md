@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 04:15:20](https://news.ycombinator.com/item?id=38609390) - [Google Loses Antitrust Court Battle with Makers of Fortnite](https://www.nytimes.com/2023/12/11/technology/epic-games-google-antitrust-ruling.html)
 * [2023-12-12, 03:08:59](https://news.ycombinator.com/item?id=38608868) - [Kids with cats have double the risk of developing schizophrenia](https://medicalxpress.com/news/2023-12-kids-cats-schizophrenia.html)
 * [2023-12-12, 02:56:02](https://news.ycombinator.com/item?id=38608763) - [Epic vs. Google Trial Verdict, a Win for All Developers](https://www.epicgames.com/site/en-US/news/epic-v-google-trial-verdict-a-win-for-all-developers)
 * [2023-12-12, 02:16:14](https://news.ycombinator.com/item?id=38608452) - [2×4 Lumber Sizes – The History Behind the Mystery](https://workingforest.com/2x4-lumber-size-the-history-behind-the-mystery/)
