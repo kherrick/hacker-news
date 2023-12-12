@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
+* [2023-12-12, 15:30:19](https://news.ycombinator.com/item?id=38613433) - [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
 * [2023-12-12, 15:24:20](https://news.ycombinator.com/item?id=38613345) - [You Should Be Concerned About the Bill to Remove Section 230 Protections from AI](https://dealbreaker.com/2023/12/even-if-you-hate-both-ai-and-section-230-you-should-be-concerned-about-the-hawley-blumenthal-bill-to-remove-230-protections-from-ai-)
 * [2023-12-12, 15:23:45](https://news.ycombinator.com/item?id=38613336) - [E3 Is Officially Permanently Over](https://twitter.com/E3/status/1734583493592498437)
@@ -14,6 +16,7 @@
 * [2023-12-12, 14:45:53](https://news.ycombinator.com/item?id=38612779) - [E3 Is Officially Dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [SpaceX's next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
+* [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:58:46](https://news.ycombinator.com/item?id=38611565) - [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
