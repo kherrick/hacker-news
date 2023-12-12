@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
+* [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
