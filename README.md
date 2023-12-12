@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-12, 01:38:17](https://news.ycombinator.com/item?id=38608152) - [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-* [2023-12-12, 00:25:34](https://news.ycombinator.com/item?id=38607474) - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
-* [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
+* [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
+* [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
 * [2023-12-11, 23:45:29](https://news.ycombinator.com/item?id=38607071) - [The House Intelligence Committee's Surveillance 'Reform' Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
-* [2023-12-11, 23:41:13](https://news.ycombinator.com/item?id=38607038) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
+* [2023-12-11, 23:41:13](https://news.ycombinator.com/item?id=38607038) - [Behavior belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
 * [2023-12-11, 23:14:30](https://news.ycombinator.com/item?id=38606804) - [Deep in the Wilderness, the Largest Beaver Dam Endures](https://e360.yale.edu/features/worlds-largest-beaver-dam)
 * [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
 * [2023-12-11, 22:43:12](https://news.ycombinator.com/item?id=38606488) - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
