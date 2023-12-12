@@ -14,6 +14,7 @@
 * [2023-12-11, 22:43:12](https://news.ycombinator.com/item?id=38606488) - [The Secret Behind Qualcomm's Margins? Patents](https://blog.withedge.com/p/the-secret-behind-qualcomms-margins)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:44:00](https://news.ycombinator.com/item?id=38605941) - [Sen. Wyden to the DOJ: Govs Gathering Push Notification Data from Google, Apple](https://www.techdirt.com/2023/12/11/letter-from-sen-wyden-to-the-doj-says-governments-are-gathering-push-notification-data-from-google-apple/)
+* [2023-12-11, 21:30:11](https://news.ycombinator.com/item?id=38605765) - [Apple introduces spatial video capture on iPhone 15 Pro](https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To Revive Portland, Officials Seek to Recriminalize Public Drug Use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
 * [2023-12-11, 21:12:51](https://news.ycombinator.com/item?id=38605550) - [Natl Sheriffs' Assoc. letter against federal civil asset forfeiture reform [pdf]](https://www.sheriffs.org/sites/default/files/NSALetterOpposingHR1525FAIRAct.pdf)
 * [2023-12-11, 21:10:03](https://news.ycombinator.com/item?id=38605525) - [FISA \"Reform\" Bill Would Greatly Expand the Entities Forced to Surveil Users](https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/)
