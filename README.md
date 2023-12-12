@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
+* [2023-12-12, 15:24:20](https://news.ycombinator.com/item?id=38613345) - [You Should Be Concerned About the Bill to Remove Section 230 Protections from AI](https://dealbreaker.com/2023/12/even-if-you-hate-both-ai-and-section-230-you-should-be-concerned-about-the-hawley-blumenthal-bill-to-remove-230-protections-from-ai-)
+* [2023-12-12, 15:23:45](https://news.ycombinator.com/item?id=38613336) - [E3 Is Officially Permanently Over](https://twitter.com/E3/status/1734583493592498437)
 * [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights 80% smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
-* [2023-12-12, 14:46:50](https://news.ycombinator.com/item?id=38612792) - [Destigmatizing Drug Use Has Been a Profound Mistake](https://www.theatlantic.com/ideas/archive/2023/12/destigmatizing-drug-use-mistake-opioid-crisis/676292/)
 * [2023-12-12, 14:45:53](https://news.ycombinator.com/item?id=38612779) - [E3 Is Officially Dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [SpaceX's next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
@@ -18,7 +20,6 @@
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 05:05:35](https://news.ycombinator.com/item?id=38609747) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
-* [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
 * [2023-12-11, 23:36:20](https://news.ycombinator.com/item?id=38606997) - [Bad Review? Sue the Critic. Whistler Did](https://www.nytimes.com/2023/12/06/books/review/falling-rocket-paul-thomas-murphy.html)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
@@ -29,7 +30,6 @@
 * [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol (2007) [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)
 * [2023-12-11, 03:57:46](https://news.ycombinator.com/item?id=38597505) - [Flaubert's letters are as hilarious and humane as his best fiction](https://www.washingtonpost.com/books/2023/11/22/gustave-flaubert-letters-review/)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
-* [2023-12-09, 08:34:29](https://news.ycombinator.com/item?id=38579913) - [OpenBSD – pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 
 ## [Archives](archives/index.md)
 

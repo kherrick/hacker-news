@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
+* [2023-12-12, 15:24:20](https://news.ycombinator.com/item?id=38613345) - [You Should Be Concerned About the Bill to Remove Section 230 Protections from AI](https://dealbreaker.com/2023/12/even-if-you-hate-both-ai-and-section-230-you-should-be-concerned-about-the-hawley-blumenthal-bill-to-remove-230-protections-from-ai-)
+* [2023-12-12, 15:23:45](https://news.ycombinator.com/item?id=38613336) - [E3 Is Officially Permanently Over](https://twitter.com/E3/status/1734583493592498437)
 * [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights 80% smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
