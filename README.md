@@ -9,7 +9,6 @@
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What will enter the public domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
-* [2023-12-12, 18:50:46](https://news.ycombinator.com/item?id=38616550) - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
 * [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 18:02:58](https://news.ycombinator.com/item?id=38615868) - [Zapping manure with special electrode to produce fertilizers, other chemicals](https://news.wisc.edu/zapping-manure-with-special-electrode-promises-an-efficient-method-to-produce-fertilizers-other-chemicals/)
@@ -30,6 +29,7 @@
 * [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [A rare occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
 * [2023-12-11, 16:40:38](https://news.ycombinator.com/item?id=38602095) - [Beet Make-Up](https://www.themoscowtimes.com/2023/12/02/the-strange-russian-history-of-beet-make-up-a83296)
 * [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of BASIC (2014) [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+* [2023-12-11, 07:40:16](https://news.ycombinator.com/item?id=38598460) - [Pull Pics from Your Gameboy Camera with an ESP32](https://github.com/tidklaas/esp32-gameboy-printer)
 
 ## [Archives](archives/index.md)
 

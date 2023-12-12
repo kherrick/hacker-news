@@ -82,6 +82,7 @@
 * [2023-12-11, 08:03:06](https://news.ycombinator.com/item?id=38598568) - [Mistral: Our first AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 * [2023-12-11, 08:02:49](https://news.ycombinator.com/item?id=38598565) - [AI rejection letter for being born on the wrong date](https://old.reddit.com/r/antiwork/comments/18eyr87/got_an_ai_rejection_letter_forbeing_born_on_the/)
 * [2023-12-11, 08:01:29](https://news.ycombinator.com/item?id=38598559) - [Mistral: Mixtral of Experts](https://mistral.ai/news/mixtral-of-experts/)
+* [2023-12-11, 07:40:16](https://news.ycombinator.com/item?id=38598460) - [Pull Pics from Your Gameboy Camera with an ESP32](https://github.com/tidklaas/esp32-gameboy-printer)
 * [2023-12-11, 07:09:02](https://news.ycombinator.com/item?id=38598325) - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 * [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)
 * [2023-12-11, 05:47:17](https://news.ycombinator.com/item?id=38597992) - [Eleanor Cross](https://en.wikipedia.org/wiki/Eleanor_cross)
