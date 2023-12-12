@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 20:48:36](https://news.ycombinator.com/item?id=38618273) - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
 * [2023-12-12, 20:37:45](https://news.ycombinator.com/item?id=38618111) - [Hasbro lays off nearly 20% of its workers two weeks before Christmas](https://www.polygon.com/23998290/hasbro-layoffs-before-christmas)
-* [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
+* [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix Engagement Report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
@@ -21,7 +22,6 @@
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
 * [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights 80% smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
-* [2023-12-12, 15:10:57](https://news.ycombinator.com/item?id=38613154) - [Forget spaceships; I just want my music](https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [NASA says SpaceX’s next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
