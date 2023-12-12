@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 21:31:11](https://news.ycombinator.com/item?id=38618865) - [New AI startup from the co-authors of the Original Transformers Paper](https://essential.ai/)
 * [2023-12-12, 20:48:36](https://news.ycombinator.com/item?id=38618273) - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
 * [2023-12-12, 20:37:45](https://news.ycombinator.com/item?id=38618111) - [Hasbro lays off nearly 20% of its workers two weeks before Christmas](https://www.polygon.com/23998290/hasbro-layoffs-before-christmas)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
