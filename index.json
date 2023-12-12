@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-12, 16:29:11",
-      "https://news.ycombinator.com/item?id=38614361"
-    ],
-    [
-      "Phi-2: The surprising power of small language models",
-      "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 16:19:30",
       "https://news.ycombinator.com/item?id=38614232"
     ],
@@ -297,6 +287,16 @@
     [
       "Birth of Basic [video]",
       "https://www.youtube.com/watch?v=WYPNjSoDrqw"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 10:44:52",
+      "https://news.ycombinator.com/item?id=38599378"
+    ],
+    [
+      "Send Emails with Rust – SMTP and API Methods with Examples",
+      "https://mailtrap.io/blog/rust-send-email/"
     ]
   ]
 ]
