@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
+* [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
-* [2023-12-12, 15:59:37](https://news.ycombinator.com/item?id=38613928) - [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
 * [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
 * [2023-12-12, 15:30:19](https://news.ycombinator.com/item?id=38613433) - [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)

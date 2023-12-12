@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
+* [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
 * [2023-12-12, 15:59:37](https://news.ycombinator.com/item?id=38613928) - [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
