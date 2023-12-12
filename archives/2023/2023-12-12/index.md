@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 22:18:45](https://news.ycombinator.com/item?id=38619476) - [Smoking Causes Cancer](https://www.allendowney.com/blog/2023/12/12/smoking-causes-cancer-2/)
 * [2023-12-12, 21:31:11](https://news.ycombinator.com/item?id=38618865) - [New AI startup from the co-authors of the Original Transformers Paper](https://essential.ai/)
 * [2023-12-12, 21:18:08](https://news.ycombinator.com/item?id=38618696) - [Canonical re-licenses LXD under AGPLv3, slaps a CLA on top](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
 * [2023-12-12, 20:48:36](https://news.ycombinator.com/item?id=38618273) - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
@@ -18,6 +19,7 @@
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 * [2023-12-12, 18:50:46](https://news.ycombinator.com/item?id=38616550) - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
+* [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
 * [2023-12-12, 18:29:37](https://news.ycombinator.com/item?id=38616274) - [Jeremy Howard starts a for-profit (Pro OS) R&D Lab with The Lean startup guy](https://www.answer.ai/)
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 18:17:05](https://news.ycombinator.com/item?id=38616092) - [Bae Systems' New Hampshire computer chip plant the first to get CHIPS funding](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html)
