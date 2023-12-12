@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 12:58:46](https://news.ycombinator.com/item?id=38611565) - [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
+* [2023-12-12, 12:54:43](https://news.ycombinator.com/item?id=38611527) - [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
+* [2023-12-12, 12:42:45](https://news.ycombinator.com/item?id=38611432) - [Tesla says California's Autopilot action violates its free speech rights](https://www.theregister.com/2023/12/11/tesla_california_autopilot_lawsuit/)
 * [2023-12-12, 12:21:19](https://news.ycombinator.com/item?id=38611248) - [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
 * [2023-12-12, 11:52:19](https://news.ycombinator.com/item?id=38611033) - [On a roll: Qdrant brings sparse vectors, discovery search and custom sharding](https://qdrant.tech/articles/qdrant-1.7.x/)
 * [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
