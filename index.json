@@ -31,22 +31,22 @@
   ],
   [
     [
+      "2023-12-12, 18:53:28",
+      "https://news.ycombinator.com/item?id=38616591"
+    ],
+    [
+      "Motorola's Pioneering 8-bit 6800: Origins and Architecture",
+      "https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 18:50:46",
       "https://news.ycombinator.com/item?id=38616550"
     ],
     [
       "'Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture",
       "https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 18:13:15",
-      "https://news.ycombinator.com/item?id=38616023"
-    ],
-    [
-      "Why does musl make my Rust code so slow? (2020)",
-      "https://andygrove.io/2020/05/why-musl-extremely-slow/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "VapourSynth: A video processing framework with simplicity in mind",
       "https://www.vapoursynth.com/doc/introduction.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 15:52:30",
-      "https://news.ycombinator.com/item?id=38613804"
-    ],
-    [
-      "Why Hunter-Gatherers' Work Was Play",
-      "https://petergray.substack.com/p/why-hunter-gatherers-work-was-play"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Building a Web Game in C",
       "https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 05:05:35",
+      "https://news.ycombinator.com/item?id=38609747"
+    ],
+    [
+      "The mysterious second parameter to the x86 ENTER instruction",
+      "https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126"
     ]
   ],
   [
