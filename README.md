@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
-* [2023-12-12, 05:01:50](https://news.ycombinator.com/item?id=38609726) - [Stop Reading News](https://fs.blog/stop-reading-news/)
-* [2023-12-12, 04:28:09](https://news.ycombinator.com/item?id=38609488) - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
@@ -19,6 +17,8 @@
 * [2023-12-11, 18:24:09](https://news.ycombinator.com/item?id=38603353) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2023-12-11, 17:44:26](https://news.ycombinator.com/item?id=38602750) - [The best WebAssembly runtime may be no runtime](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini is back](https://blog.beeper.com/p/beeper-mini-is-back)
+* [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - ['Glacier mice' baffle scientists](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
+* [2023-12-11, 16:06:09](https://news.ycombinator.com/item?id=38601775) - [Factors that act(ed) as drag on the European tech/startup scene](http://addxorrol.blogspot.com/2023/12/a-list-of-factors-that-acted-as-drag-on.html)
 * [2023-12-11, 13:42:39](https://news.ycombinator.com/item?id=38600551) - [Ultrasound Enables Remote 3-D Printing – Even in the Human Body](https://www.scientificamerican.com/article/ultrasound-enables-remote-3-d-printing-even-in-the-human-body/)
 * [2023-12-11, 12:58:42](https://news.ycombinator.com/item?id=38600246) - [Show HN: Crunching 1,200 Authors' Favorite Reads of 2023](https://shepherd.com/bboy/2023)
 * [2023-12-11, 10:23:52](https://news.ycombinator.com/item?id=38599252) - [Wordstar-keys: Implement wordstar cursor control keys in Linux using xkb](https://github.com/berwynhoyt/wordstar-keys)
