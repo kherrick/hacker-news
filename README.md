@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 05:05:35](https://news.ycombinator.com/item?id=38609747) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
-* [2023-12-12, 04:06:21](https://news.ycombinator.com/item?id=38609299) - [Why Amazon Has No Profits](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
