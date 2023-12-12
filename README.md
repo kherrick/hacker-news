@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
@@ -14,7 +15,6 @@
 * [2023-12-12, 17:01:09](https://news.ycombinator.com/item?id=38614878) - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
 * [2023-12-12, 16:56:59](https://news.ycombinator.com/item?id=38614824) - [Mozilla \"MemoryCache\" Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
-* [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
 * [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
