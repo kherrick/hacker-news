@@ -65,3 +65,4 @@
 * [2023-12-12, 00:25:34](https://news.ycombinator.com/item?id=38607474) - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
+* [2023-12-12, 00:00:03](https://news.ycombinator.com/item?id=38607221) - [Analogies between Analogies by S. Ulam](https://publishing.cdlib.org/ucpressebooks/view?docId=ft9g50091s&brand=ucpress)
