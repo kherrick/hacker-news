@@ -16,6 +16,7 @@
 * [2023-12-10, 21:16:09](https://news.ycombinator.com/item?id=38595140) - [The First Costume Book: 1562](https://publicdomainreview.org/collection/recueil-de-la-diversite-des-habits/)
 * [2023-12-10, 21:12:41](https://news.ycombinator.com/item?id=38595102) - [The Tech Leaders Who Love the Taste of Boots](https://zkorman.com/posts/tech-leaders-who-love-the-taste-of-boots/8)
 * [2023-12-10, 21:00:06](https://news.ycombinator.com/item?id=38594989) - [Meticulous.ai (YC S21) Is Hiring to make tests obsolete](https://news.ycombinator.com/item?id=38594989)
+* [2023-12-10, 20:47:01](https://news.ycombinator.com/item?id=38594891) - [Sliding Doors: The Time GM Fumbled Its Chance to Launch the First Minivan](https://www.thedrive.com/news/sliding-doors-that-time-gm-fumbled-its-chance-to-launch-the-first-minivan)
 * [2023-12-10, 20:45:49](https://news.ycombinator.com/item?id=38594876) - [PC GEOS: the multitasking DOS-based GUI OS that evolved from a C64 desktop](https://github.com/bluewaysw/pcgeos)
 * [2023-12-10, 20:44:29](https://news.ycombinator.com/item?id=38594866) - [Coherent: The affordable Unix-like PC OS from over a decade before Linux 0.01](https://github.com/gspu/Coherent)
 * [2023-12-10, 20:26:42](https://news.ycombinator.com/item?id=38594697) - [Omg.lol: An Oasis on the Internet](https://blakewatson.com/journal/omg-lol-an-oasis-on-the-internet/)
