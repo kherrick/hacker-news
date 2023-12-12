@@ -6,6 +6,7 @@
 
 * [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 17:01:09](https://news.ycombinator.com/item?id=38614878) - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
+* [2023-12-12, 16:56:59](https://news.ycombinator.com/item?id=38614824) - [Mozilla \"MemoryCache\" Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
 * [2023-12-12, 16:45:17](https://news.ycombinator.com/item?id=38614624) - [Cloud engineer gets 2 years for wiping ex-employer's code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
 * [2023-12-12, 16:42:42](https://news.ycombinator.com/item?id=38614585) - [Arena Group fires CEO in wake of Sports Illustrated AI articles scandal](https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles)
 * [2023-12-12, 16:38:02](https://news.ycombinator.com/item?id=38614512) - [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
@@ -15,6 +16,7 @@
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
+* [2023-12-12, 16:06:19](https://news.ycombinator.com/item?id=38614030) - [We will all become boring: Loneliness, liberalism, and the traditional family](https://www.louiseperry.co.uk/p/we-will-all-become-boring)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
 * [2023-12-12, 15:59:37](https://news.ycombinator.com/item?id=38613928) - [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
 * [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
