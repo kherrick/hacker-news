@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 18:00:33](https://news.ycombinator.com/item?id=38615841) - [Pharmacies share medical data with police without a warrant, inquiry finds](https://www.washingtonpost.com/technology/2023/12/12/pharmacy-records-police-privacy-abortion/)
+* [2023-12-12, 17:39:54](https://news.ycombinator.com/item?id=38615525) - [Landlords Are 'Handing Back the Keys' with Offices 23% Empty](https://www.yahoo.com/news/offices-sitting-empty-landlords-handing-150748386.html)
+* [2023-12-12, 17:25:58](https://news.ycombinator.com/item?id=38615315) - [VMware by Broadcom transition to subscription, end of sale of perpetual licenses](https://news.vmware.com/company/vmware-by-broadcom-business-transformation)
 * [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 17:01:09](https://news.ycombinator.com/item?id=38614878) - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
 * [2023-12-12, 16:56:59](https://news.ycombinator.com/item?id=38614824) - [Mozilla \"MemoryCache\" Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
@@ -19,6 +22,7 @@
 * [2023-12-12, 16:06:19](https://news.ycombinator.com/item?id=38614030) - [We will all become boring: Loneliness, liberalism, and the traditional family](https://www.louiseperry.co.uk/p/we-will-all-become-boring)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
 * [2023-12-12, 15:59:37](https://news.ycombinator.com/item?id=38613928) - [Why Is Bluetooth Sound Quality Bad on My Mac](https://www.recadio.com/blog/why-is-bluetooth-sound-quality-bad-on-my-mac)
+* [2023-12-12, 15:52:30](https://news.ycombinator.com/item?id=38613804) - [Why Hunter-Gatherers' Work Was Play](https://petergray.substack.com/p/why-hunter-gatherers-work-was-play)
 * [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
 * [2023-12-12, 15:30:19](https://news.ycombinator.com/item?id=38613433) - [DeciLM-7B: The Fastest and Most Accurate 7B-Parameter LLM to Date](https://deci.ai/blog/introducing-decilm-7b-the-fastest-and-most-accurate-7b-large-language-model-to-date/)
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
