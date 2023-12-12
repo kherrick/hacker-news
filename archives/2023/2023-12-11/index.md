@@ -65,6 +65,7 @@
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [$35 smart calculator for small shops](https://smart.tohands.in/)
 * [2023-12-11, 10:23:52](https://news.ycombinator.com/item?id=38599252) - [Wordstar-keys: Implement wordstar cursor control keys in Linux using xkb](https://github.com/berwynhoyt/wordstar-keys)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
+* [2023-12-11, 09:52:58](https://news.ycombinator.com/item?id=38599113) - [How to deorbit the Chromebook and repurpose it for innovators](https://www.theregister.com/2023/12/11/opinion_column/)
 * [2023-12-11, 09:49:59](https://news.ycombinator.com/item?id=38599097) - [Books of 2023, as Chosen by The Economist](https://www.economist.com/culture/2023/12/01/the-best-books-of-2023-as-chosen-by-the-economist)
 * [2023-12-11, 09:35:23](https://news.ycombinator.com/item?id=38599027) - [Building a bare-metal bootable game for Raspberry Pi in C#](https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/)
 * [2023-12-11, 09:26:33](https://news.ycombinator.com/item?id=38598983) - [Google have removed RSS support from their developer blogs](https://developer.chrome.com/feeds)
