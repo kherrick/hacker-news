@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
 * [2023-12-12, 21:31:11](https://news.ycombinator.com/item?id=38618865) - [New AI startup from the co-authors of the Original Transformers Paper](https://essential.ai/)
+* [2023-12-12, 21:18:08](https://news.ycombinator.com/item?id=38618696) - [Canonical re-licenses LXD under AGPLv3, slaps a CLA on top](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
 * [2023-12-12, 20:48:36](https://news.ycombinator.com/item?id=38618273) - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
+* [2023-12-12, 20:47:40](https://news.ycombinator.com/item?id=38618264) - [Ernst and Young just laid off 10% of partners in advisory](https://twitter.com/aakashg0/status/1734586251947192662)
 * [2023-12-12, 20:37:45](https://news.ycombinator.com/item?id=38618111) - [Hasbro lays off nearly 20% of its workers two weeks before Christmas](https://www.polygon.com/23998290/hasbro-layoffs-before-christmas)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
