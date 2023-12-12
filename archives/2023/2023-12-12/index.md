@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 18:29:37](https://news.ycombinator.com/item?id=38616274) - [Jeremy Howard starts a for-profit (Pro OS) R&D Lab with The Lean startup guy](https://www.answer.ai/)
 * [2023-12-12, 18:00:33](https://news.ycombinator.com/item?id=38615841) - [Pharmacies share medical data with police without a warrant, inquiry finds](https://www.washingtonpost.com/technology/2023/12/12/pharmacy-records-police-privacy-abortion/)
 * [2023-12-12, 17:39:54](https://news.ycombinator.com/item?id=38615525) - [Landlords Are 'Handing Back the Keys' with Offices 23% Empty](https://www.yahoo.com/news/offices-sitting-empty-landlords-handing-150748386.html)
 * [2023-12-12, 17:25:58](https://news.ycombinator.com/item?id=38615315) - [VMware by Broadcom transition to subscription, end of sale of perpetual licenses](https://news.vmware.com/company/vmware-by-broadcom-business-transformation)
