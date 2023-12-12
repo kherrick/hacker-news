@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:58:46](https://news.ycombinator.com/item?id=38611565) - [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
 * [2023-12-12, 12:54:43](https://news.ycombinator.com/item?id=38611527) - [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
@@ -18,7 +19,6 @@
 * [2023-12-11, 22:57:50](https://news.ycombinator.com/item?id=38606667) - [AdaptNet: Policy Adaptation for Physics-Based Character Control](https://arxiv.org/abs/2310.00239)
 * [2023-12-11, 22:05:52](https://news.ycombinator.com/item?id=38606146) - [What if an SQL statement returned a database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-11, 21:21:17](https://news.ycombinator.com/item?id=38605643) - [To revive Portland, officials seek to ban public drug use](https://www.nytimes.com/2023/12/11/us/portland-oregon-drug-laws.html)
-* [2023-12-11, 21:01:05](https://news.ycombinator.com/item?id=38605453) - [Deep Learning – Foundations and Concepts (Chris Bishop)](https://www.bishopbook.com/)
 * [2023-12-11, 18:56:23](https://news.ycombinator.com/item?id=38603853) - [Show HN: I built an OSS alternative to Azure OpenAI services](https://github.com/bricks-cloud/BricksLLM)
 * [2023-12-11, 18:29:28](https://news.ycombinator.com/item?id=38603440) - [TSA introducing self-service screening technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
 * [2023-12-11, 18:24:09](https://news.ycombinator.com/item?id=38603353) - [Pascal for Small Machines](http://pascal.hansotten.com/)
