@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:50:46](https://news.ycombinator.com/item?id=38616550) - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
