@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 16:45:17](https://news.ycombinator.com/item?id=38614624) - [Cloud engineer gets 2 years for wiping ex-employer's code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
+* [2023-12-12, 16:42:42](https://news.ycombinator.com/item?id=38614585) - [Arena Group fires CEO in wake of Sports Illustrated AI articles scandal](https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles)
+* [2023-12-12, 16:38:02](https://news.ycombinator.com/item?id=38614512) - [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
+* [2023-12-12, 16:33:56](https://news.ycombinator.com/item?id=38614440) - [Nanomaterial stimulates and regrows severed nerves like sci-fi tech](https://newatlas.com/medical/nanomaterial-stimulates-regrows-severed-nerves/)
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
