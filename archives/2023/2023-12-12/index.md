@@ -8,6 +8,7 @@
 * [2023-12-12, 05:01:50](https://news.ycombinator.com/item?id=38609726) - [Stop Reading News](https://fs.blog/stop-reading-news/)
 * [2023-12-12, 04:28:09](https://news.ycombinator.com/item?id=38609488) - [Your Code Displays Japanese Wrong](https://heistak.github.io/your-code-displays-japanese-wrong/)
 * [2023-12-12, 04:15:20](https://news.ycombinator.com/item?id=38609390) - [Google Loses Antitrust Court Battle with Makers of Fortnite](https://www.nytimes.com/2023/12/11/technology/epic-games-google-antitrust-ruling.html)
+* [2023-12-12, 04:06:21](https://news.ycombinator.com/item?id=38609299) - [Why Amazon Has No Profits](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
 * [2023-12-12, 03:08:59](https://news.ycombinator.com/item?id=38608868) - [Kids with cats have double the risk of developing schizophrenia](https://medicalxpress.com/news/2023-12-kids-cats-schizophrenia.html)
 * [2023-12-12, 02:56:02](https://news.ycombinator.com/item?id=38608763) - [Epic vs. Google Trial Verdict, a Win for All Developers](https://www.epicgames.com/site/en-US/news/epic-v-google-trial-verdict-a-win-for-all-developers)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)

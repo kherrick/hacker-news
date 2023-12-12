@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
+* [2023-12-12, 04:06:21](https://news.ycombinator.com/item?id=38609299) - [Why Amazon Has No Profits](https://www.ben-evans.com/benedictevans/2014/9/4/why-amazon-has-no-profits-and-why-it-works)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
@@ -27,7 +28,6 @@
 * [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol (2007) [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)
 * [2023-12-11, 03:57:46](https://news.ycombinator.com/item?id=38597505) - [Flaubert's letters are as hilarious and humane as his best fiction](https://www.washingtonpost.com/books/2023/11/22/gustave-flaubert-letters-review/)
 * [2023-12-10, 20:47:01](https://news.ycombinator.com/item?id=38594891) - [Sliding Doors: The Time GM Fumbled Its Chance to Launch the First Minivan](https://www.thedrive.com/news/sliding-doors-that-time-gm-fumbled-its-chance-to-launch-the-first-minivan)
-* [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-09, 08:34:29](https://news.ycombinator.com/item?id=38579913) - [OpenBSD – pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 
