@@ -1,12 +1,52 @@
 [
   [
     [
-      "2023-12-12, 18:17:05",
-      "https://news.ycombinator.com/item?id=38616092"
+      "2023-12-12, 19:03:55",
+      "https://news.ycombinator.com/item?id=38616753"
     ],
     [
-      "Bae Systems' New Hampshire computer chip plant the first to get CHIPS funding",
-      "https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html"
+      "What Will Enter the Public Domain in 2024?",
+      "https://publicdomainreview.org/features/entering-the-public-domain/2024/"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:59:38",
+      "https://news.ycombinator.com/item?id=38616691"
+    ],
+    [
+      "Edge Functions: Node and native NPM compatibility",
+      "https://supabase.com/blog/edge-functions-node-npm"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:50:46",
+      "https://news.ycombinator.com/item?id=38616550"
+    ],
+    [
+      "'Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture",
+      "https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:13:15",
+      "https://news.ycombinator.com/item?id=38616023"
+    ],
+    [
+      "Why does musl make my Rust code so slow? (2020)",
+      "https://andygrove.io/2020/05/why-musl-extremely-slow/"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:02:58",
+      "https://news.ycombinator.com/item?id=38615868"
+    ],
+    [
+      "Zapping manure with special electrode to produce fertilizers, other chemicals",
+      "https://news.wisc.edu/zapping-manure-with-special-electrode-promises-an-efficient-method-to-produce-fertilizers-other-chemicals/"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Mozilla \"MemoryCache\" Local AI",
       "https://future.mozilla.org/blog/introducing-memorycache/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 16:42:42",
-      "https://news.ycombinator.com/item?id=38614585"
-    ],
-    [
-      "Arena Group fires CEO in wake of Sports Illustrated AI articles scandal",
-      "https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-12-12, 15:24:20",
-      "https://news.ycombinator.com/item?id=38613345"
-    ],
-    [
-      "You Should Be Concerned About the Bill to Remove Section 230 Protections from AI",
-      "https://dealbreaker.com/2023/12/even-if-you-hate-both-ai-and-section-230-you-should-be-concerned-about-the-hawley-blumenthal-bill-to-remove-230-protections-from-ai-"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 15:19:33",
       "https://news.ycombinator.com/item?id=38613280"
     ],
@@ -167,16 +187,6 @@
     [
       "FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades",
       "https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 15:11:49",
-      "https://news.ycombinator.com/item?id=38613170"
-    ],
-    [
-      "Walk and Talk",
-      "https://sive.rs/wt"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Birth of Basic [video]",
       "https://www.youtube.com/watch?v=WYPNjSoDrqw"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 14:56:51",
-      "https://news.ycombinator.com/item?id=38601171"
-    ],
-    [
-      "Where do Journals go to Die?",
-      "https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html"
     ]
   ]
 ]
