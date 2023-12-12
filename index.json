@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-12, 19:42:34",
+      "https://news.ycombinator.com/item?id=38617288"
+    ],
+    [
+      "Ford cutting 2024 F-150 Lightning production plans by half",
+      "https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 19:16:43",
       "https://news.ycombinator.com/item?id=38616922"
     ],
     [
       "Hardening Cellular Basebands in Android",
       "https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 19:13:48",
+      "https://news.ycombinator.com/item?id=38616888"
+    ],
+    [
+      "The Singularity Is Nigh!",
+      "https://www.programmablemutter.com/p/the-singularity-is-nigh-republished"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-12-12, 05:05:35",
-      "https://news.ycombinator.com/item?id=38609747"
-    ],
-    [
-      "The mysterious second parameter to the x86 ENTER instruction",
-      "https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 00:00:03",
       "https://news.ycombinator.com/item?id=38607221"
     ],
@@ -287,16 +297,6 @@
     [
       "Birth of Basic [video]",
       "https://www.youtube.com/watch?v=WYPNjSoDrqw"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 10:44:52",
-      "https://news.ycombinator.com/item?id=38599378"
-    ],
-    [
-      "Send Emails with Rust – SMTP and API Methods with Examples",
-      "https://mailtrap.io/blog/rust-send-email/"
     ]
   ]
 ]
