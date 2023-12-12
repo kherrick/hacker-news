@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 12:21:19](https://news.ycombinator.com/item?id=38611248) - [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
+* [2023-12-12, 11:52:19](https://news.ycombinator.com/item?id=38611033) - [On a roll: Qdrant brings sparse vectors, discovery search and custom sharding](https://qdrant.tech/articles/qdrant-1.7.x/)
 * [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
