@@ -76,6 +76,7 @@
 * [2023-12-11, 04:50:32](https://news.ycombinator.com/item?id=38597744) - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 * [2023-12-11, 04:46:58](https://news.ycombinator.com/item?id=38597720) - [Will this be the last Christmas you can get an Apple Watch?](https://theapopkavoice.com/stories/will-this-be-the-last-christmas-you-can-get-an-apple-watch,69600)
 * [2023-12-11, 04:18:52](https://news.ycombinator.com/item?id=38597599) - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+* [2023-12-11, 03:57:46](https://news.ycombinator.com/item?id=38597505) - [Flaubert's letters are as hilarious and humane as his best fiction](https://www.washingtonpost.com/books/2023/11/22/gustave-flaubert-letters-review/)
 * [2023-12-11, 03:55:33](https://news.ycombinator.com/item?id=38597498) - [Humans have 'large, negative impact on wildlife,' researchers find](https://www.msn.com/en-us/health/other/humans-have-large-negative-impact-on-wildlife-researchers-find/ar-AA1lh582)
 * [2023-12-11, 03:22:38](https://news.ycombinator.com/item?id=38597301) - [HN-comments-drawer: one line HN comments integration into sites](https://github.com/prakhar897/hn-comments-drawer)
 * [2023-12-11, 03:07:21](https://news.ycombinator.com/item?id=38597196) - [NeurIPS 2023: Expo Day](https://mlcontests.com/neurips-2023/expo-day/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 01:38:17](https://news.ycombinator.com/item?id=38608152) - [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 * [2023-12-12, 00:25:34](https://news.ycombinator.com/item?id=38607474) - [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play)
 * [2023-12-12, 00:21:07](https://news.ycombinator.com/item?id=38607424) - [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates)
 * [2023-12-11, 23:45:29](https://news.ycombinator.com/item?id=38607071) - [The House Intelligence Committee's Surveillance 'Reform' Bill Is a Farce](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci)
@@ -22,10 +23,9 @@
 * [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Transparent wood could soon find uses in smartphone screens, insulated windows](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 * [2023-12-11, 10:23:52](https://news.ycombinator.com/item?id=38599252) - [Wordstar-keys: Implement wordstar cursor control keys in Linux using xkb](https://github.com/berwynhoyt/wordstar-keys)
 * [2023-12-11, 09:19:20](https://news.ycombinator.com/item?id=38598940) - [Comparing 6502 Multiply Routines](https://github.com/TobyLobster/multiply_test)
+* [2023-12-11, 03:57:46](https://news.ycombinator.com/item?id=38597505) - [Flaubert's letters are as hilarious and humane as his best fiction](https://www.washingtonpost.com/books/2023/11/22/gustave-flaubert-letters-review/)
 * [2023-12-10, 20:47:01](https://news.ycombinator.com/item?id=38594891) - [Sliding Doors: The Time GM Fumbled Its Chance to Launch the First Minivan](https://www.thedrive.com/news/sliding-doors-that-time-gm-fumbled-its-chance-to-launch-the-first-minivan)
-* [2023-12-10, 16:28:44](https://news.ycombinator.com/item?id=38592662) - [What can you do with an Einstein (aperiodic monotile)?](https://www.nytimes.com/2023/12/10/science/mathematics-tiling-einstein.html)
 * [2023-12-10, 16:02:04](https://news.ycombinator.com/item?id=38592432) - [He steals them, of course](https://literaryreview.co.uk/he-steals-them-of-course)
-* [2023-12-10, 14:05:56](https://news.ycombinator.com/item?id=38591581) - [On Limited Editions (1998)](http://woodblock.com/surimono/atgallery01.html)
 * [2023-12-10, 12:28:49](https://news.ycombinator.com/item?id=38591084) - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 * [2023-12-10, 11:15:08](https://news.ycombinator.com/item?id=38590786) - [Cowgol 2.0 (2022)](http://cowlark.com/cowgol/index.html)
 * [2023-12-10, 08:46:15](https://news.ycombinator.com/item?id=38590156) - [Mathematicians have found a new upper limit to the Ramsey number](https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/)
