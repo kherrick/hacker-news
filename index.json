@@ -1,12 +1,52 @@
 [
   [
     [
-      "2023-12-11, 22:58:20",
-      "https://news.ycombinator.com/item?id=38606671"
+      "2023-12-12, 00:25:34",
+      "https://news.ycombinator.com/item?id=38607474"
     ],
     [
-      "I turned my side hustle into a cleaning business",
-      "https://dollarsanity.com/how-i-turned-my-side-hustle-into-650k-a-year-cleaning-business/"
+      "Epic win: Jury decides Google has illegal monopoly in app store fight",
+      "https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 00:21:07",
+      "https://news.ycombinator.com/item?id=38607424"
+    ],
+    [
+      "Epic vs. Google: Google Loses",
+      "https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 23:45:29",
+      "https://news.ycombinator.com/item?id=38607071"
+    ],
+    [
+      "The House Intelligence Committee's Surveillance 'Reform' Bill Is a Farce",
+      "https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 23:41:13",
+      "https://news.ycombinator.com/item?id=38607038"
+    ],
+    [
+      "Behavior Belongs in the HTML",
+      "https://unplannedobsolescence.com/blog/behavior-belongs-in-html/"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 23:14:30",
+      "https://news.ycombinator.com/item?id=38606804"
+    ],
+    [
+      "Deep in the Wilderness, the Largest Beaver Dam Endures",
+      "https://e360.yale.edu/features/worlds-largest-beaver-dam"
     ]
   ],
   [
@@ -17,16 +57,6 @@
     [
       "AdaptNet: Policy Adaptation for Physics-Based Character Control",
       "https://arxiv.org/abs/2310.00239"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 22:51:26",
-      "https://news.ycombinator.com/item?id=38606590"
-    ],
-    [
-      "Mamba outperforms transformers \"everywhere we tried\"",
-      "https://old.reddit.com/r/singularity/comments/18asto2/announcing_mamba_a_new_ssm_arch_that_has/"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "FISA \"reform\" bill would greatly expand the entities forced to surveil users",
       "https://www.zwillgen.com/law-enforcement/fisa-reform-bill-702-surveillance/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 21:03:48",
-      "https://news.ycombinator.com/item?id=38605477"
-    ],
-    [
-      "The depths of the input element",
-      "https://www.htmhell.dev/adventcalendar/2023/8/"
     ]
   ],
   [
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2023-12-11, 10:05:58",
-      "https://news.ycombinator.com/item?id=38599168"
-    ],
-    [
-      "Magical Fibonacci Formulae",
-      "https://orlp.net/blog/magical-fibonacci-formulae/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 09:35:23",
-      "https://news.ycombinator.com/item?id=38599027"
-    ],
-    [
-      "Building a bare-metal bootable game for Raspberry Pi in C#",
-      "https://migeel.sk/blog/2023/12/08/building-bare-metal-bootable-game-for-raspberry-pi-in-csharp/"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 09:19:20",
       "https://news.ycombinator.com/item?id=38598940"
     ],
     [
       "Comparing 6502 Multiply Routines",
       "https://github.com/TobyLobster/multiply_test"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 20:47:01",
+      "https://news.ycombinator.com/item?id=38594891"
+    ],
+    [
+      "Sliding Doors: The Time GM Fumbled Its Chance to Launch the First Minivan",
+      "https://www.thedrive.com/news/sliding-doors-that-time-gm-fumbled-its-chance-to-launch-the-first-minivan"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mathematicians have found a new upper limit to the Ramsey number",
       "https://www.quantamagazine.org/after-nearly-a-century-a-new-limit-for-patterns-in-graphs-20230502/"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 13:20:24",
-      "https://news.ycombinator.com/item?id=38581719"
-    ],
-    [
-      "Clockhands: Rename-free instruction set architecture for out-of-order processors",
-      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
     ]
   ],
   [
