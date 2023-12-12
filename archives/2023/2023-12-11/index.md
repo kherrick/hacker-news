@@ -47,6 +47,7 @@
 * [2023-12-11, 16:41:04](https://news.ycombinator.com/item?id=38602102) - [Who will lead the charge to a four-day work week?](https://www.politico.com/newsletters/weekly-shift/2023/12/11/who-will-lead-the-charge-to-a-four-day-work-week-00131035)
 * [2023-12-11, 16:31:26](https://news.ycombinator.com/item?id=38602022) - [W4 Games Announces Pricing Model for Console Ports](https://w4games.com/2023/12/11/w4-games-announces-pricing-model-for-console-ports/)
 * [2023-12-11, 16:26:02](https://news.ycombinator.com/item?id=38601960) - [Bad Science and Bad Statistics in the Courtroom Convict Innocent People](https://www.scientificamerican.com/article/bad-science-and-bad-statistics-in-the-courtroom-convict-innocent-people/)
+* [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of Basic [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
 * [2023-12-11, 16:15:23](https://news.ycombinator.com/item?id=38601865) - [Low-Background Tokens](https://www.latent.space/i/139368545/the-concept-of-low-background-tokens)
 * [2023-12-11, 16:06:09](https://news.ycombinator.com/item?id=38601775) - [A list of factors that act(ed) as drag on the European Tech/Startup scene](http://addxorrol.blogspot.com/2023/12/a-list-of-factors-that-acted-as-drag-on.html)
 * [2023-12-11, 16:01:54](https://news.ycombinator.com/item?id=38601725) - [Ego killed the empowered product team](https://jeffgothelf.com/blog/ego-killed-the-empowered-product-team/)

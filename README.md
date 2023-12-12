@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 17:01:09](https://news.ycombinator.com/item?id=38614878) - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
 * [2023-12-12, 16:45:17](https://news.ycombinator.com/item?id=38614624) - [Cloud engineer gets 2 years for wiping ex-employer's code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
 * [2023-12-12, 16:42:42](https://news.ycombinator.com/item?id=38614585) - [Arena Group fires CEO in wake of Sports Illustrated AI articles scandal](https://www.theguardian.com/technology/2023/dec/12/arena-group-ceo-ross-levinsohn-fired-sports-illustrated-ai-articles)
 * [2023-12-12, 16:38:02](https://news.ycombinator.com/item?id=38614512) - [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
 * [2023-12-12, 16:35:31](https://news.ycombinator.com/item?id=38614469) - [Bell Media and other Canadian brands halt ads on X amid extremism concerns](https://www.cbc.ca/news/canada/canadian-brands-advertising-x-extremism-1.7055823)
-* [2023-12-12, 16:33:56](https://news.ycombinator.com/item?id=38614440) - [Nanomaterial stimulates and regrows severed nerves like sci-fi tech](https://newatlas.com/medical/nanomaterial-stimulates-regrows-severed-nerves/)
+* [2023-12-12, 16:29:11](https://news.ycombinator.com/item?id=38614361) - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
@@ -23,13 +24,12 @@
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:47:50](https://news.ycombinator.com/item?id=38611466) - [YouTube doesn't want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
-* [2023-12-12, 12:12:52](https://news.ycombinator.com/item?id=38611175) - [The NSA advises move to memory-safe languages](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 05:05:35](https://news.ycombinator.com/item?id=38609747) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-11, 23:36:20](https://news.ycombinator.com/item?id=38606997) - [Bad Review? Sue the Critic. Whistler Did](https://www.nytimes.com/2023/12/06/books/review/falling-rocket-paul-thomas-murphy.html)
 * [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [An Extremely Rare Occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
+* [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of Basic [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
 * [2023-12-11, 14:56:51](https://news.ycombinator.com/item?id=38601171) - [Where do Journals go to Die?](https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html)
-* [2023-12-11, 06:32:15](https://news.ycombinator.com/item?id=38598171) - [Electing the Doge of Venice: analysis of a 13th Century protocol (2007) [pdf]](https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf)
 
 ## [Archives](archives/index.md)
 
