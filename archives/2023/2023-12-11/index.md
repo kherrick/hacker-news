@@ -53,6 +53,7 @@
 * [2023-12-11, 13:42:39](https://news.ycombinator.com/item?id=38600551) - [Ultrasound Enables Remote 3-D Printing – Even in the Human Body](https://www.scientificamerican.com/article/ultrasound-enables-remote-3-d-printing-even-in-the-human-body/)
 * [2023-12-11, 13:06:56](https://news.ycombinator.com/item?id=38600303) - [Every Programmer Should Know #1: Idempotency](https://www.berkansasmaz.com/every-programmer-should-know-idempotency/)
 * [2023-12-11, 13:00:57](https://news.ycombinator.com/item?id=38600260) - [Mistral AI, a Paris-based OpenAI rival, closed its $415M funding round](https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/)
+* [2023-12-11, 12:58:42](https://news.ycombinator.com/item?id=38600246) - [Show HN: Crunching 1,200 Authors' Favorite Reads of 2023](https://shepherd.com/bboy/2023)
 * [2023-12-11, 12:57:09](https://news.ycombinator.com/item?id=38600238) - [The Religion of Techno-Optimism](https://www.disconnect.blog/p/the-religion-of-techno-optimism)
 * [2023-12-11, 12:53:16](https://news.ycombinator.com/item?id=38600209) - [Whirlygig Volumetric Display LPC1768 Demo (2014) [video]](https://www.youtube.com/watch?v=8MFhoGbUYPY)
 * [2023-12-11, 12:31:00](https://news.ycombinator.com/item?id=38600031) - [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
