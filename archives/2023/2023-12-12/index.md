@@ -7,6 +7,7 @@
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge Functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
+* [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's Pioneering 8-bit 6800: Origins and Architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 * [2023-12-12, 18:50:46](https://news.ycombinator.com/item?id=38616550) - ['Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture](https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture)
 * [2023-12-12, 18:29:37](https://news.ycombinator.com/item?id=38616274) - [Jeremy Howard starts a for-profit (Pro OS) R&D Lab with The Lean startup guy](https://www.answer.ai/)
 * [2023-12-12, 18:17:05](https://news.ycombinator.com/item?id=38616092) - [Bae Systems' New Hampshire computer chip plant the first to get CHIPS funding](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html)
