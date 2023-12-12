@@ -10,7 +10,6 @@
 * [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 17:01:09](https://news.ycombinator.com/item?id=38614878) - [Want to apply for YC W24? We opened some last-minute spots for the next 3 days](https://news.ycombinator.com/item?id=38614878)
 * [2023-12-12, 16:56:59](https://news.ycombinator.com/item?id=38614824) - [Mozilla \"MemoryCache\" Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
-* [2023-12-12, 16:29:11](https://news.ycombinator.com/item?id=38614361) - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 16:17:29](https://news.ycombinator.com/item?id=38614195) - [Tacit Knowledge Is Dangerous](https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/)
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
@@ -30,6 +29,7 @@
 * [2023-12-12, 00:00:03](https://news.ycombinator.com/item?id=38607221) - [Analogies between Analogies by S. Ulam](https://publishing.cdlib.org/ucpressebooks/view?docId=ft9g50091s&brand=ucpress)
 * [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [An Extremely Rare Occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
 * [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of Basic [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+* [2023-12-11, 10:44:52](https://news.ycombinator.com/item?id=38599378) - [Send Emails with Rust – SMTP and API Methods with Examples](https://mailtrap.io/blog/rust-send-email/)
 
 ## [Archives](archives/index.md)
 

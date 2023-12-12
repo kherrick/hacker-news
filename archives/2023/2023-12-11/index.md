@@ -66,6 +66,7 @@
 * [2023-12-11, 12:00:14](https://news.ycombinator.com/item?id=38599832) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-11, 11:57:09](https://news.ycombinator.com/item?id=38599815) - [Alex Jones: Conspiracy theorist returns to X with Andrew Tate repost](https://www.bbc.co.uk/news/world-us-canada-67673623)
 * [2023-12-11, 11:18:49](https://news.ycombinator.com/item?id=38599573) - [Is Northern Ireland a failed state?](https://www.thefitzwilliam.com/p/is-northern-ireland-a-failed-state)
+* [2023-12-11, 10:44:52](https://news.ycombinator.com/item?id=38599378) - [Send Emails with Rust – SMTP and API Methods with Examples](https://mailtrap.io/blog/rust-send-email/)
 * [2023-12-11, 10:27:03](https://news.ycombinator.com/item?id=38599270) - [$35 smart calculator for small shops](https://smart.tohands.in/)
 * [2023-12-11, 10:23:52](https://news.ycombinator.com/item?id=38599252) - [Wordstar-keys: Implement wordstar cursor control keys in Linux using xkb](https://github.com/berwynhoyt/wordstar-keys)
 * [2023-12-11, 10:05:58](https://news.ycombinator.com/item?id=38599168) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
