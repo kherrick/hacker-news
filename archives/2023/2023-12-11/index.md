@@ -32,6 +32,7 @@
 * [2023-12-11, 18:43:07](https://news.ycombinator.com/item?id=38603653) - [Google Fiber - 20 Gig + Wi-Fi 7 will be available to select customers](https://fiber.google.com/blog/2023/12/your-most-exciting-invitation-this.html)
 * [2023-12-11, 18:29:28](https://news.ycombinator.com/item?id=38603440) - [TSA Introducing Self-Service Screening Technology in Las Vegas](https://upgradedpoints.com/news/tsa-self-service-screening/)
 * [2023-12-11, 18:25:24](https://news.ycombinator.com/item?id=38603375) - [Tons of dead sardines, mackerel wash ashore in northern Japan](https://japantoday.com/category/national/Thousands-of-dead-sardines-wash-ashore-in-northern-Japan)
+* [2023-12-11, 18:24:09](https://news.ycombinator.com/item?id=38603353) - [Pascal for Small Machines](http://pascal.hansotten.com/)
 * [2023-12-11, 18:13:28](https://news.ycombinator.com/item?id=38603207) - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code)
 * [2023-12-11, 18:12:22](https://news.ycombinator.com/item?id=38603193) - [Web Browser Telemetry](http://sizeof.cat/post/web-browser-telemetry/)
 * [2023-12-11, 18:00:07](https://news.ycombinator.com/item?id=38603014) - [Photorealistic Video Generation with Diffusion Models](https://walt-video-diffusion.github.io/)
