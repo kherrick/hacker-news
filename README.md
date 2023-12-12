@@ -20,7 +20,6 @@
 * [2023-12-12, 16:00:11](https://news.ycombinator.com/item?id=38613938) - [VapourSynth: A video processing framework with simplicity in mind](https://www.vapoursynth.com/doc/introduction.html)
 * [2023-12-12, 15:39:02](https://news.ycombinator.com/item?id=38613552) - [Telecom Industry Is Mad Because the FCC Might Examine High Broadband Prices](https://www.techdirt.com/2023/12/12/the-telecom-industry-is-very-mad-because-the-fcc-might-examine-high-broadband-prices/)
 * [2023-12-12, 15:27:34](https://news.ycombinator.com/item?id=38613386) - [23andMe frantically changed its terms of service to prevent customers from suing](https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html)
-* [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights 80% smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [NASA says SpaceX’s next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
@@ -29,6 +28,7 @@
 * [2023-12-12, 11:19:00](https://news.ycombinator.com/item?id=38610942) - [Htmx Is a Erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-12, 00:00:03](https://news.ycombinator.com/item?id=38607221) - [Analogies between Analogies by S. Ulam](https://publishing.cdlib.org/ucpressebooks/view?docId=ft9g50091s&brand=ucpress)
 * [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [An Extremely Rare Occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
+* [2023-12-11, 16:40:38](https://news.ycombinator.com/item?id=38602095) - [The Strange Russian History of Beet Make-Up](https://www.themoscowtimes.com/2023/12/02/the-strange-russian-history-of-beet-make-up-a83296)
 * [2023-12-11, 16:23:02](https://news.ycombinator.com/item?id=38601937) - [Birth of Basic [video]](https://www.youtube.com/watch?v=WYPNjSoDrqw)
 
 ## [Archives](archives/index.md)
