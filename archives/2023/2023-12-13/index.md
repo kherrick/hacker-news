@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
+* [2023-12-13, 16:51:35](https://news.ycombinator.com/item?id=38630098) - [Tell HN: Netflix doing mass layoffs today](https://news.ycombinator.com/item?id=38630098)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
+* [2023-12-13, 16:38:17](https://news.ycombinator.com/item?id=38629859) - [All the Carcinogens We Cannot See](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
 * [2023-12-13, 16:34:52](https://news.ycombinator.com/item?id=38629814) - [Etsy is laying off 11% of its staff](https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html)
 * [2023-12-13, 16:31:53](https://news.ycombinator.com/item?id=38629763) - [Adfree Cities: for happier, healthier cities](https://adfreecities.org.uk/)
 * [2023-12-13, 16:23:12](https://news.ycombinator.com/item?id=38629630) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
