@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 18:33:47](https://news.ycombinator.com/item?id=38631970) - [Santa Cruz plans high-rise living as a fix for sky-high housing costs](https://www.latimes.com/california/story/2023-12-07/santa-cruz-plans-downtown-high-rises-to-fix-sky-high-housing-costs)
 * [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) is hiring a PM for our digital tipping product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
@@ -17,7 +18,6 @@
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 * [2023-12-13, 14:28:01](https://news.ycombinator.com/item?id=38627816) - [Artificial intelligence systems found to excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
-* [2023-12-13, 13:52:19](https://news.ycombinator.com/item?id=38627333) - [OpenCola](https://github.com/cognitom/OpenCola)
 * [2023-12-13, 13:36:43](https://news.ycombinator.com/item?id=38627114) - [Origin of mysterious green 'ghosts' in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
 * [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
 * [2023-12-13, 01:05:34](https://news.ycombinator.com/item?id=38621270) - [US agency will not reinstate $900M subsidy for Starlink](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
