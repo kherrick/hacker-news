@@ -2,12 +2,12 @@
 
 * [2023-12-13, 01:37:57](https://news.ycombinator.com/item?id=38621557) - [Tim Sweeney on why Epic did better against Google than Apple in court](https://www.cnbc.com/2023/12/12/tim-sweeney-why-epic-did-better-against-google-than-apple-in-court.html)
 * [2023-12-13, 01:07:43](https://news.ycombinator.com/item?id=38621289) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
+* [2023-12-13, 00:35:03](https://news.ycombinator.com/item?id=38621025) - [Welcome to the Ad-Free Internet](https://www.economist.com/business/2023/12/11/welcome-to-the-ad-free-internet)
 * [2023-12-13, 00:25:56](https://news.ycombinator.com/item?id=38620927) - [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
 * [2023-12-12, 23:05:01](https://news.ycombinator.com/item?id=38620037) - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
-* [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What will enter the public domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:59:38](https://news.ycombinator.com/item?id=38616691) - [Edge functions: Node and native NPM compatibility](https://supabase.com/blog/edge-functions-node-npm)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 * [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
