@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 07:33:31](https://news.ycombinator.com/item?id=38623813) - [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
 * [2023-12-13, 07:24:21](https://news.ycombinator.com/item?id=38623753) - [Apple Is Holding the Final Nail for X’s Coffin](https://www.bloomberg.com/opinion/articles/2023-12-12/apple-is-holding-the-final-nail-for-x-s-coffin)
 * [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 * [2023-12-13, 05:42:08](https://news.ycombinator.com/item?id=38623158) - [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
