@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 03:59:17](https://news.ycombinator.com/item?id=38622476) - [GM Says It's Dropping Apple CarPlay and Android Auto Because They're Unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
 * [2023-12-13, 03:16:36](https://news.ycombinator.com/item?id=38622211) - [Firefox slow to load YouTube? Just another front in Google's war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 02:50:41](https://news.ycombinator.com/item?id=38622057) - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
