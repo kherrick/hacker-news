@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 17:50:05](https://news.ycombinator.com/item?id=38631208) - [How to be a sovereign email user? \"you can't, we don't know how to do it.\"](https://twitter.com/lopp/status/1734911638124302596)
+* [2023-12-13, 17:29:46](https://news.ycombinator.com/item?id=38630790) - [The Biggest Root Cause of Crime Is Fatherlessness](https://www.wsj.com/articles/the-biggest-root-cause-of-crime-is-fatherlessness-single-motherhood-5cdfe763)
 * [2023-12-13, 17:15:31](https://news.ycombinator.com/item?id=38630511) - [Extreme Wealth Unequality in Germany](https://ungleichheit.info/en/home-en)
 * [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
