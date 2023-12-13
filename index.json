@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 09:41:32",
+      "https://news.ycombinator.com/item?id=38624873"
+    ],
+    [
+      "Plane, an open-source alternative to Jira, got to the #1 on GitHub",
+      "https://plane.so/blog/how-we-got-to-20k-github-stars"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 09:27:13",
       "https://news.ycombinator.com/item?id=38624758"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2023-12-13, 05:42:08",
-      "https://news.ycombinator.com/item?id=38623158"
-    ],
-    [
-      "Interview: Epic CEO Tim Sweeney after Google antitrust win",
-      "https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 04:16:56",
       "https://news.ycombinator.com/item?id=38622576"
     ],
     [
       "Apple now requires a judge's consent to hand over push notification data",
       "https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 03:59:17",
+      "https://news.ycombinator.com/item?id=38622476"
+    ],
+    [
+      "GM says it's dropping Apple CarPlay and Android Auto because they're unsafe",
+      "https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013"
     ]
   ],
   [
@@ -141,26 +151,6 @@
   ],
   [
     [
-      "2023-12-12, 19:03:55",
-      "https://news.ycombinator.com/item?id=38616753"
-    ],
-    [
-      "What will enter the public domain in 2024?",
-      "https://publicdomainreview.org/features/entering-the-public-domain/2024/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 18:59:38",
-      "https://news.ycombinator.com/item?id=38616691"
-    ],
-    [
-      "Edge functions: Node and native NPM compatibility",
-      "https://supabase.com/blog/edge-functions-node-npm"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 18:53:28",
       "https://news.ycombinator.com/item?id=38616591"
     ],
@@ -197,6 +187,16 @@
     [
       "Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres",
       "https://news.ycombinator.com/item?id=38615232"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 16:29:11",
+      "https://news.ycombinator.com/item?id=38614361"
+    ],
+    [
+      "Phi-2: The surprising power of small language models",
+      "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"
     ]
   ],
   [
