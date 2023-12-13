@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-12-13, 22:28:26",
+      "https://news.ycombinator.com/item?id=38635102"
+    ],
+    [
+      "Debugging a Failing Hotkey",
+      "https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 22:23:57",
+      "https://news.ycombinator.com/item?id=38635060"
+    ],
+    [
+      "Cybersecurity Isn't Special",
+      "https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 21:43:23",
       "https://news.ycombinator.com/item?id=38634562"
     ],
     [
       "Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django",
       "https://github.com/hbakri/django-ninja-crud"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 21:41:49",
+      "https://news.ycombinator.com/item?id=38634543"
+    ],
+    [
+      "The state of merging technology",
+      "https://bramcohen.com/p/the-state-of-merging-technology"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 21:36:53",
+      "https://news.ycombinator.com/item?id=38634490"
+    ],
+    [
+      "Phi-2",
+      "https://huggingface.co/microsoft/phi-2"
     ]
   ],
   [
@@ -141,26 +181,6 @@
   ],
   [
     [
-      "2023-12-13, 16:38:17",
-      "https://news.ycombinator.com/item?id=38629859"
-    ],
-    [
-      "Carcinogens that don’t create cancer cells but rouse them",
-      "https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 16:23:01",
-      "https://news.ycombinator.com/item?id=38629626"
-    ],
-    [
-      "Ubuntu 24.04 LTS will enable frame pointers by default",
-      "https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 16:17:08",
       "https://news.ycombinator.com/item?id=38629539"
     ],
@@ -177,16 +197,6 @@
     [
       "Cortex A57, Nintendo Switch's CPU",
       "https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 15:07:05",
-      "https://news.ycombinator.com/item?id=38628417"
-    ],
-    [
-      "Google Imagen 2",
-      "https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: Advent of Distributed Systems",
       "https://aods.cryingpotato.com"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 12:41:58",
-      "https://news.ycombinator.com/item?id=38611422"
-    ],
-    [
-      "'Biocomputer' combines lab-grown brain tissue with electronic hardware",
-      "https://www.nature.com/articles/d41586-023-03975-7"
     ]
   ],
   [
