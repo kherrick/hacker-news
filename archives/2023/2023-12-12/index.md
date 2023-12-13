@@ -69,6 +69,7 @@
 * [2023-12-12, 12:34:49](https://news.ycombinator.com/item?id=38611360) - [PainStation](https://en.wikipedia.org/wiki/PainStation)
 * [2023-12-12, 12:21:19](https://news.ycombinator.com/item?id=38611248) - [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
 * [2023-12-12, 12:12:52](https://news.ycombinator.com/item?id=38611175) - [The NSA advises move to memory-safe languages](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/)
+* [2023-12-12, 12:03:21](https://news.ycombinator.com/item?id=38611119) - [Advent of Technical Writing: Placeholders](https://jamesg.blog/2023/12/12/technical-writing-placeholders/)
 * [2023-12-12, 11:52:19](https://news.ycombinator.com/item?id=38611033) - [On a roll: Qdrant brings sparse vectors, discovery search and custom sharding](https://qdrant.tech/articles/qdrant-1.7.x/)
 * [2023-12-12, 11:19:00](https://news.ycombinator.com/item?id=38610942) - [Htmx Is a Erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
