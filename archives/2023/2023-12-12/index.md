@@ -60,6 +60,7 @@
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
 * [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
+* [2023-12-12, 13:03:00](https://news.ycombinator.com/item?id=38611601) - [Explaining the Entombed Algorithm](https://arxiv.org/abs/2104.09982)
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:58:46](https://news.ycombinator.com/item?id=38611565) - [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
 * [2023-12-12, 12:54:43](https://news.ycombinator.com/item?id=38611527) - [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
