@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 03:16:36](https://news.ycombinator.com/item?id=38622211) - [Firefox slow to load YouTube? Just another front in Google's war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 01:07:43](https://news.ycombinator.com/item?id=38621289) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
 * [2023-12-13, 00:35:03](https://news.ycombinator.com/item?id=38621025) - [Welcome to the Ad-Free Internet](https://www.economist.com/business/2023/12/11/welcome-to-the-ad-free-internet)
-* [2023-12-13, 00:25:56](https://news.ycombinator.com/item?id=38620927) - [Seeing how fast people will probe you after you get a new TLS certificate](https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate)
 * [2023-12-12, 23:05:01](https://news.ycombinator.com/item?id=38620037) - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
