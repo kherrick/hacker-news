@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 11:59:52",
+      "https://news.ycombinator.com/item?id=38626078"
+    ],
+    [
+      "Tesla claims California false-advertising law violates First Amendment",
+      "https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 11:11:46",
       "https://news.ycombinator.com/item?id=38625652"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-12-12, 18:53:28",
-      "https://news.ycombinator.com/item?id=38616591"
-    ],
-    [
-      "Motorola's pioneering 8-bit 6800: Origins and architecture",
-      "https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 18:30:56",
       "https://news.ycombinator.com/item?id=38616289"
     ],
@@ -187,16 +187,6 @@
     [
       "Phi-2: The surprising power of small language models",
       "https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 16:19:30",
-      "https://news.ycombinator.com/item?id=38614232"
-    ],
-    [
-      "A new old kind of R&D lab",
-      "https://www.answer.ai/posts/2023-12-12-launch.html"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38610851"
     ],
     [
-      "Cog: Use Python in your source files to generate pieces of code",
+      "Cog: Use Python in your source files to generate pieces of code (2021)",
       "https://nedbatchelder.com/code/cog/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "End of Life of Technologies and Devices",
       "https://endoflife.date/"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 06:44:43",
+      "https://news.ycombinator.com/item?id=38589654"
+    ],
+    [
+      "Show HN: Spiderdash",
+      "http://spiderdash.standupweb.net/"
     ]
   ]
 ]
