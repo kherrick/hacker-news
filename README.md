@@ -2,7 +2,6 @@
 
 * [2023-12-13, 16:03:46](https://news.ycombinator.com/item?id=38629355) - [You Don't Batch Cook When You're Suicidal](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/)
 * [2023-12-13, 15:47:23](https://news.ycombinator.com/item?id=38629085) - [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
-* [2023-12-13, 15:45:42](https://news.ycombinator.com/item?id=38629054) - [$7500 EV tax credit will end for Model 3 RWD and Long Range](https://twitter.com/Tesla/status/1734903337894518991)
 * [2023-12-13, 15:20:57](https://news.ycombinator.com/item?id=38628635) - [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
 * [2023-12-13, 15:11:26](https://news.ycombinator.com/item?id=38628489) - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 * [2023-12-13, 15:09:44](https://news.ycombinator.com/item?id=38628456) - [Google Gemini Pro API Available Through AI Studio](https://ai.google.dev/)
@@ -14,6 +13,7 @@
 * [2023-12-13, 14:30:52](https://news.ycombinator.com/item?id=38627855) - [Storybook for React Server Components](https://storybook.js.org/blog/storybook-react-server-components/)
 * [2023-12-13, 14:30:23](https://news.ycombinator.com/item?id=38627851) - [The Web Floods](https://www.niemanlab.org/2023/12/the-web-floods/)
 * [2023-12-13, 14:30:08](https://news.ycombinator.com/item?id=38627844) - [Human brain cells hooked up to a chip can do speech recognition](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/)
+* [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 * [2023-12-13, 14:28:01](https://news.ycombinator.com/item?id=38627816) - [Artificial intelligence systems found to Excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
 * [2023-12-13, 14:15:50](https://news.ycombinator.com/item?id=38627652) - [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
