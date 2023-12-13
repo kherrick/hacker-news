@@ -84,6 +84,7 @@
 * [2023-12-10, 08:17:05](https://news.ycombinator.com/item?id=38590028) - [Innovation of the Year: BYD Blade Battery](https://www.electrifying.com/blog/best-cars/innovation-of-the-year-byd-blade-battery)
 * [2023-12-10, 08:06:22](https://news.ycombinator.com/item?id=38589981) - [Is RISC-V ready for HPC? Evaluating the 64-core Sophon SG2042 RISC-V CPU](https://arxiv.org/abs/2309.00381)
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
+* [2023-12-10, 07:10:12](https://news.ycombinator.com/item?id=38589742) - [End of Life of Technologies and Devices](https://endoflife.date/)
 * [2023-12-10, 06:51:53](https://news.ycombinator.com/item?id=38589681) - [Decompressing a gzip file by hand (sorta), part 2: Now with Huffman](https://thomastay.dev/blog/decompressing_gzip_2/)
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
 * [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)

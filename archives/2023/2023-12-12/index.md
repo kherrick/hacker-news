@@ -56,6 +56,7 @@
 * [2023-12-12, 15:10:57](https://news.ycombinator.com/item?id=38613154) - [Forget spaceships; I just want my music](https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music)
 * [2023-12-12, 14:46:50](https://news.ycombinator.com/item?id=38612792) - [Destigmatizing Drug Use Has Been a Profound Mistake](https://www.theatlantic.com/ideas/archive/2023/12/destigmatizing-drug-use-mistake-opioid-crisis/676292/)
 * [2023-12-12, 14:45:53](https://news.ycombinator.com/item?id=38612779) - [E3 Is Officially Dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/)
+* [2023-12-12, 14:38:13](https://news.ycombinator.com/item?id=38612680) - [Show HN: Advent of Distributed Systems](https://aods.cryingpotato.com)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [SpaceX's next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
 * [2023-12-12, 14:10:39](https://news.ycombinator.com/item?id=38612259) - [Canada's \"Linked Tax\" Can't Replace a Real Tax](https://news.bloombergtax.com/tax-insights-and-commentary/week-in-insights-canadas-link-tax-cant-replace-a-real-tax)
 * [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
