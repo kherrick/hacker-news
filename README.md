@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 * [2023-12-13, 04:16:56](https://news.ycombinator.com/item?id=38622576) - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
 * [2023-12-13, 03:59:17](https://news.ycombinator.com/item?id=38622476) - [GM says it's dropping Apple CarPlay and Android Auto because they're unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
-* [2023-12-13, 03:38:56](https://news.ycombinator.com/item?id=38622343) - [E-books are becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
 * [2023-12-13, 03:22:56](https://news.ycombinator.com/item?id=38622248) - [Apple's new iPhone security setting keeps thieves out of your digital accounts](https://www.theverge.com/2023/12/12/23998665/apple-stolen-device-protection-face-touch-id-icloud-account-vulnerability-ios-17-3-beta)
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 02:03:51](https://news.ycombinator.com/item?id=38621753) - [A triplet tree forms one of the most beautiful structures in math](https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/)

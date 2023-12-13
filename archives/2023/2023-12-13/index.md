@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 * [2023-12-13, 04:16:56](https://news.ycombinator.com/item?id=38622576) - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
 * [2023-12-13, 03:59:17](https://news.ycombinator.com/item?id=38622476) - [GM Says It's Dropping Apple CarPlay and Android Auto Because They're Unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
 * [2023-12-13, 03:38:56](https://news.ycombinator.com/item?id=38622343) - [E-books are fast becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
