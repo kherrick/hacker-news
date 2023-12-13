@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
+* [2023-12-13, 19:03:44](https://news.ycombinator.com/item?id=38632503) - [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [Smerf: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 18:33:47](https://news.ycombinator.com/item?id=38631970) - [Santa Cruz plans high-rise living as a fix for sky-high housing costs](https://www.latimes.com/california/story/2023-12-07/santa-cruz-plans-downtown-high-rises-to-fix-sky-high-housing-costs)
 * [2023-12-13, 17:50:05](https://news.ycombinator.com/item?id=38631208) - [How to be a sovereign email user? \"you can't, we don't know how to do it.\"](https://twitter.com/lopp/status/1734911638124302596)

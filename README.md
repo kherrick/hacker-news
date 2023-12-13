@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
-* [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [Smerf: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
+* [2023-12-13, 19:03:44](https://news.ycombinator.com/item?id=38632503) - [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
+* [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) is hiring a PM for our digital tipping product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
 * [2023-12-13, 16:38:17](https://news.ycombinator.com/item?id=38629859) - [Carcinogens that don’t create cancer cells but rouse them](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
@@ -16,7 +17,6 @@
 * [2023-12-13, 14:48:17](https://news.ycombinator.com/item?id=38628107) - [Show HN: I made a tool to turn a Spotify artist profile into a website](https://noise.site)
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
-* [2023-12-13, 14:28:01](https://news.ycombinator.com/item?id=38627816) - [Artificial intelligence systems found to excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
 * [2023-12-13, 13:36:43](https://news.ycombinator.com/item?id=38627114) - [Origin of mysterious green 'ghosts' in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
 * [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
