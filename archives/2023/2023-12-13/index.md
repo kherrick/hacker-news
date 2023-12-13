@@ -13,6 +13,8 @@
 * [2023-12-13, 15:07:05](https://news.ycombinator.com/item?id=38628417) - [Google Imagen 2](https://deepmind.google/technologies/imagen-2/)
 * [2023-12-13, 15:00:41](https://news.ycombinator.com/item?id=38628326) - [Tesla Recalls 2M Vehicles over Autopilot Software Issue](https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html)
 * [2023-12-13, 14:52:36](https://news.ycombinator.com/item?id=38628184) - [Whisper: Nvidia RTX 4090 vs. M1 Pro with MLX](https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/)
+* [2023-12-13, 14:48:17](https://news.ycombinator.com/item?id=38628107) - [Show HN: I made a tool to turn your Spotify profile into a website](https://noise.site)
+* [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:30:52](https://news.ycombinator.com/item?id=38627855) - [Storybook for React Server Components](https://storybook.js.org/blog/storybook-react-server-components/)
 * [2023-12-13, 14:30:23](https://news.ycombinator.com/item?id=38627851) - [The Web Floods](https://www.niemanlab.org/2023/12/the-web-floods/)
 * [2023-12-13, 14:30:08](https://news.ycombinator.com/item?id=38627844) - [Human brain cells hooked up to a chip can do speech recognition](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/)

@@ -84,6 +84,7 @@
 * [2023-12-12, 08:40:18](https://news.ycombinator.com/item?id=38610851) - [Cog: Use Python in your source files to generate pieces of code](https://nedbatchelder.com/code/cog/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
+* [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 05:05:35](https://news.ycombinator.com/item?id=38609747) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 05:01:50](https://news.ycombinator.com/item?id=38609726) - [Stop Reading News](https://fs.blog/stop-reading-news/)
