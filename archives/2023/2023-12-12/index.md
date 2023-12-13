@@ -66,6 +66,7 @@
 * [2023-12-12, 13:01:39](https://news.ycombinator.com/item?id=38611590) - [Today Is One of the Biggest Surveillance Votes. Will the FBI Stop Spying?](https://tuta.com/blog/702-open-letter-against-surveillance)
 * [2023-12-12, 12:58:46](https://news.ycombinator.com/item?id=38611565) - [Fitbit fined $11M for misleading consumers about smart watches, fitness trackers](https://www.abc.net.au/news/2023-12-12/fitbit-fined-11-million-after-misleading-consumers/103220970)
 * [2023-12-12, 12:54:43](https://news.ycombinator.com/item?id=38611527) - [Hyundai and Kia Develop Shape Memory Alloy Integrated Snow Chain Technology](https://www.hyundai.news/eu/articles/press-releases/hyundai-and-kia-develop-shape-memory-alloy-integrated-snow-chain-technology.html)
+* [2023-12-12, 12:54:38](https://news.ycombinator.com/item?id=38611525) - [Porting CP/M to the Brother SuperPowerNote Z80 laptop thing [video]](https://www.youtube.com/watch?v=MYo0fhXl754)
 * [2023-12-12, 12:47:50](https://news.ycombinator.com/item?id=38611466) - [YouTube doesn't want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 * [2023-12-12, 12:42:45](https://news.ycombinator.com/item?id=38611432) - [Tesla says California's Autopilot action violates its free speech rights](https://www.theregister.com/2023/12/11/tesla_california_autopilot_lawsuit/)
 * [2023-12-12, 12:34:49](https://news.ycombinator.com/item?id=38611360) - [PainStation](https://en.wikipedia.org/wiki/PainStation)
