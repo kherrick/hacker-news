@@ -4,7 +4,6 @@
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 02:50:41](https://news.ycombinator.com/item?id=38622057) - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
 * [2023-12-13, 01:07:43](https://news.ycombinator.com/item?id=38621289) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
-* [2023-12-13, 00:35:03](https://news.ycombinator.com/item?id=38621025) - [Welcome to the Ad-Free Internet](https://www.economist.com/business/2023/12/11/welcome-to-the-ad-free-internet)
 * [2023-12-12, 23:05:01](https://news.ycombinator.com/item?id=38620037) - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
@@ -28,6 +27,7 @@
 * [2023-12-12, 08:40:18](https://news.ycombinator.com/item?id=38610851) - [Cog: Use Python in your source files to generate pieces of code](https://nedbatchelder.com/code/cog/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 00:15:29](https://news.ycombinator.com/item?id=38607370) - [The Great Transformation (1944) [pdf]](https://inctpped.ie.ufrj.br/spiderweb/pdf_4/Great_Transformation.pdf)
+* [2023-12-11, 19:25:41](https://news.ycombinator.com/item?id=38604265) - [A rare occultation of Betelgeuse](https://spaceweatherarchive.com/2023/12/10/an-extremely-rare-occultation-of-betelgeuse/)
 * [2023-12-11, 18:23:11](https://news.ycombinator.com/item?id=38603342) - [Show HN: Visualize rotating objects from the 4th, 5th, nth dimensions](https://ncube.ndavd.com)
 * [2023-12-11, 12:27:03](https://news.ycombinator.com/item?id=38600004) - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 
