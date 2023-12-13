@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-12-13, 01:07:43",
+      "https://news.ycombinator.com/item?id=38621289"
+    ],
+    [
+      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist",
+      "https://news.ycombinator.com/item?id=38621289"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 00:25:56",
+      "https://news.ycombinator.com/item?id=38620927"
+    ],
+    [
+      "Seeing how fast people will probe you after you get a new TLS certificate",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 23:05:01",
       "https://news.ycombinator.com/item?id=38620037"
     ],
     [
       "Tools for Learning LLVM TableGen",
       "https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 21:18:08",
-      "https://news.ycombinator.com/item?id=38618696"
-    ],
-    [
-      "LXD now re-licensed and under a CLA",
-      "https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-12-12, 18:50:46",
-      "https://news.ycombinator.com/item?id=38616550"
-    ],
-    [
-      "'Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture",
-      "https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 18:30:56",
       "https://news.ycombinator.com/item?id=38616289"
     ],
@@ -127,16 +127,6 @@
     [
       "Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres",
       "https://news.ycombinator.com/item?id=38615232"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 17:01:09",
-      "https://news.ycombinator.com/item?id=38614878"
-    ],
-    [
-      "Want to apply for YC W24? We opened some last-minute spots for the next 3 days",
-      "https://news.ycombinator.com/item?id=38614878"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Where do journals go to die?",
       "https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 12:27:03",
+      "https://news.ycombinator.com/item?id=38600004"
+    ],
+    [
+      "Modern iOS Navigation Patterns",
+      "https://frankrausch.com/ios-navigation"
     ]
   ],
   [
