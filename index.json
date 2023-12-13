@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-12-12, 15:27:34",
-      "https://news.ycombinator.com/item?id=38613386"
-    ],
-    [
-      "23andMe changed its terms of service to prevent hacked customers from suing",
-      "https://www.engadget.com/23andme-frantically-changed-its-terms-of-service-to-prevent-hacked-customers-from-suing-152434306.html"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 15:19:33",
       "https://news.ycombinator.com/item?id=38613280"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2023-12-12, 14:32:38",
-      "https://news.ycombinator.com/item?id=38612585"
+      "2023-12-12, 14:38:13",
+      "https://news.ycombinator.com/item?id=38612680"
     ],
     [
-      "NASA says SpaceX’s next Starship flight could test refueling tech",
-      "https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/"
+      "Show HN: Advent of Distributed Systems",
+      "https://aods.cryingpotato.com"
     ]
   ],
   [
@@ -237,16 +227,6 @@
     [
       "PainStation",
       "https://en.wikipedia.org/wiki/PainStation"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 12:03:21",
-      "https://news.ycombinator.com/item?id=38611119"
-    ],
-    [
-      "Advent of Technical Writing: Placeholders",
-      "https://jamesg.blog/2023/12/12/technical-writing-placeholders/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-12-11, 15:53:15",
+      "https://news.ycombinator.com/item?id=38601655"
+    ],
+    [
+      "Ask HN: Asking for help",
+      "https://news.ycombinator.com/item?id=38601655"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 14:56:51",
       "https://news.ycombinator.com/item?id=38601171"
     ],
@@ -297,6 +287,16 @@
     [
       "Modern iOS Navigation Patterns",
       "https://frankrausch.com/ios-navigation"
+    ]
+  ],
+  [
+    [
+      "2023-12-10, 07:10:12",
+      "https://news.ycombinator.com/item?id=38589742"
+    ],
+    [
+      "End of Life of Technologies and Devices",
+      "https://endoflife.date/"
     ]
   ]
 ]
