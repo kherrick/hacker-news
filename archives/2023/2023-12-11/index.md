@@ -46,6 +46,7 @@
 * [2023-12-11, 17:30:14](https://news.ycombinator.com/item?id=38602575) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 17:00:41](https://news.ycombinator.com/item?id=38602281) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2023-12-11, 16:53:58](https://news.ycombinator.com/item?id=38602228) - [Herds of Mysterious 'Glacier Mice' Baffle Scientists – Atlas Obscura](https://www.atlasobscura.com/articles/herds-of-glacier-mice-baffle-scientists)
+* [2023-12-11, 16:48:16](https://news.ycombinator.com/item?id=38602171) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 * [2023-12-11, 16:41:04](https://news.ycombinator.com/item?id=38602102) - [Who will lead the charge to a four-day work week?](https://www.politico.com/newsletters/weekly-shift/2023/12/11/who-will-lead-the-charge-to-a-four-day-work-week-00131035)
 * [2023-12-11, 16:40:38](https://news.ycombinator.com/item?id=38602095) - [The Strange Russian History of Beet Make-Up](https://www.themoscowtimes.com/2023/12/02/the-strange-russian-history-of-beet-make-up-a83296)
 * [2023-12-11, 16:31:26](https://news.ycombinator.com/item?id=38602022) - [W4 Games Announces Pricing Model for Console Ports](https://w4games.com/2023/12/11/w4-games-announces-pricing-model-for-console-ports/)

@@ -6,6 +6,7 @@
 
 * [2023-12-13, 22:28:26](https://news.ycombinator.com/item?id=38635102) - [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 22:23:57](https://news.ycombinator.com/item?id=38635060) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
+* [2023-12-13, 21:51:54](https://news.ycombinator.com/item?id=38634667) - [Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
 * [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
 * [2023-12-13, 21:41:49](https://news.ycombinator.com/item?id=38634543) - [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
 * [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
