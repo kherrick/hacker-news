@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 03:59:17](https://news.ycombinator.com/item?id=38622476) - [GM says it's dropping Apple CarPlay and Android Auto because they're unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
 * [2023-12-13, 03:38:56](https://news.ycombinator.com/item?id=38622343) - [E-books are fast becoming tools of corporate surveillance](https://www.fastcompany.com/90996547/e-books-are-fast-becoming-tools-of-corporate-surveillance)
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 02:50:41](https://news.ycombinator.com/item?id=38622057) - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
@@ -21,7 +22,6 @@
 * [2023-12-12, 15:19:33](https://news.ycombinator.com/item?id=38613280) - [Active turbulence cancellation makes bumpy flights smoother](https://newatlas.com/aircraft/active-turbulence-cancellation/)
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg lands CLI multi-threading as its \"most complex refactoring\" in decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 14:32:38](https://news.ycombinator.com/item?id=38612585) - [NASA says SpaceX’s next Starship flight could test refueling tech](https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/)
-* [2023-12-12, 14:02:04](https://news.ycombinator.com/item?id=38612164) - [Role-playing with AI will be a powerful tool for writers and educators](https://resobscura.substack.com/p/roleplaying-with-ai-will-be-powerful-tool)
 * [2023-12-12, 13:03:00](https://news.ycombinator.com/item?id=38611601) - [Explaining the Entombed Algorithm](https://arxiv.org/abs/2104.09982)
 * [2023-12-12, 12:34:49](https://news.ycombinator.com/item?id=38611360) - [PainStation](https://en.wikipedia.org/wiki/PainStation)
 * [2023-12-12, 12:03:21](https://news.ycombinator.com/item?id=38611119) - [Advent of Technical Writing: Placeholders](https://jamesg.blog/2023/12/12/technical-writing-placeholders/)
