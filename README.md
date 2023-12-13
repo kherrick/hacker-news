@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 14:15:50](https://news.ycombinator.com/item?id=38627652) - [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
 * [2023-12-13, 13:59:57](https://news.ycombinator.com/item?id=38627429) - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)
 * [2023-12-13, 13:36:43](https://news.ycombinator.com/item?id=38627114) - [Origin of mysterious green 'ghosts' in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
 * [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [Show HN: I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
-* [2023-12-13, 12:55:23](https://news.ycombinator.com/item?id=38626651) - [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
 * [2023-12-13, 12:35:58](https://news.ycombinator.com/item?id=38626454) - [Most companies using AI are 'lighting money on fire,' says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 * [2023-12-13, 11:59:52](https://news.ycombinator.com/item?id=38626078) - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
 * [2023-12-13, 11:11:46](https://news.ycombinator.com/item?id=38625652) - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
