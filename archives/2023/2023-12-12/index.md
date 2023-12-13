@@ -73,6 +73,7 @@
 * [2023-12-12, 11:19:00](https://news.ycombinator.com/item?id=38610942) - [Htmx Is a Erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-12, 10:42:50](https://news.ycombinator.com/item?id=38610912) - [Tell/Ask HN: HN WebSite is/was down. I'm curious why?](https://hn.hund.io/)
 * [2023-12-12, 10:31:56](https://news.ycombinator.com/item?id=38610906) - [Nearly 40% of U.S. homes are mortgage-free, census shows](https://www.axios.com/2023/12/12/mortgage-free-homes)
+* [2023-12-12, 08:40:18](https://news.ycombinator.com/item?id=38610851) - [Cog: Use Python in your source files to generate pieces of code](https://nedbatchelder.com/code/cog/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
