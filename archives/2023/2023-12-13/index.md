@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
 * [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
