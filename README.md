@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
+* [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
@@ -18,7 +19,6 @@
 * [2023-12-13, 16:17:08](https://news.ycombinator.com/item?id=38629539) - [Show HN: PyApp – runtime installer for Python applications](https://github.com/ofek/pyapp)
 * [2023-12-13, 15:11:26](https://news.ycombinator.com/item?id=38628489) - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 * [2023-12-13, 15:07:05](https://news.ycombinator.com/item?id=38628417) - [Google Imagen 2](https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available)
-* [2023-12-13, 14:52:36](https://news.ycombinator.com/item?id=38628184) - [Whisper: Nvidia RTX 4090 vs. M1 Pro with MLX](https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/)
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
