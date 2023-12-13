@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 13:01:41](https://news.ycombinator.com/item?id=38626711) - [Peer-Reviewed Studies That Link Glyphosate to the Destruction of the Microbiome](https://medium.com/collapsenews/10-peer-reviewed-scientific-studies-that-link-glyphosate-to-the-destruction-of-the-microbiome-019898798851)
+* [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [Show HN: I benchmarked six Go SQLite drivers (found you don't need cgo anymore)](https://github.com/cvilsmeier/go-sqlite-bench)
 * [2023-12-13, 12:55:23](https://news.ycombinator.com/item?id=38626651) - [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
+* [2023-12-13, 12:49:40](https://news.ycombinator.com/item?id=38626585) - [America First Legal pushes for inquiry into 'systemic discrimination' at IBM](https://www.washingtonexaminer.com/news/justice/america-first-legal-requests-inquiry-systemic-discrimination-ibm)
 * [2023-12-13, 12:42:38](https://news.ycombinator.com/item?id=38626515) - [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/)
 * [2023-12-13, 12:35:58](https://news.ycombinator.com/item?id=38626454) - [Most companies using AI are 'lighting money on fire,' says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 * [2023-12-13, 11:59:52](https://news.ycombinator.com/item?id=38626078) - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
