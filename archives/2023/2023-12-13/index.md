@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 11:11:46](https://news.ycombinator.com/item?id=38625652) - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
 * [2023-12-13, 10:38:04](https://news.ycombinator.com/item?id=38625380) - [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)
 * [2023-12-13, 09:41:32](https://news.ycombinator.com/item?id=38624873) - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
 * [2023-12-13, 09:27:13](https://news.ycombinator.com/item?id=38624758) - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
