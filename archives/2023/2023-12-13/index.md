@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
 * [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)

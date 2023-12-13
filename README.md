@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
 * [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
@@ -28,7 +29,6 @@
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 14:38:13](https://news.ycombinator.com/item?id=38612680) - [Show HN: Advent of Distributed Systems](https://aods.cryingpotato.com)
 * [2023-12-12, 12:41:58](https://news.ycombinator.com/item?id=38611422) - ['Biocomputer' combines lab-grown brain tissue with electronic hardware](https://www.nature.com/articles/d41586-023-03975-7)
-* [2023-12-12, 11:48:10](https://news.ycombinator.com/item?id=38611001) - [How to Beat Silicon Valley Competitors (2018)](https://www.alexcrompton.com/blog/2018/02/15/how-to-beat-silicon-valley-competitors)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman (2011)](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 
 ## [Archives](archives/index.md)
