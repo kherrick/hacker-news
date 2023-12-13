@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 17:50:05](https://news.ycombinator.com/item?id=38631208) - [How to be a sovereign email user? \"you can't, we don't know how to do it.\"](https://twitter.com/lopp/status/1734911638124302596)
 * [2023-12-13, 17:15:31](https://news.ycombinator.com/item?id=38630511) - [Extreme Wealth Unequality in Germany](https://ungleichheit.info/en/home-en)
 * [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
@@ -14,6 +15,7 @@
 * [2023-12-13, 16:34:52](https://news.ycombinator.com/item?id=38629814) - [Etsy is laying off 11% of its staff](https://www.cnbc.com/2023/12/13/etsy-laying-off-11percent-of-staff-citing-competitive-environment.html)
 * [2023-12-13, 16:31:53](https://news.ycombinator.com/item?id=38629763) - [Adfree Cities: for happier, healthier cities](https://adfreecities.org.uk/)
 * [2023-12-13, 16:23:12](https://news.ycombinator.com/item?id=38629630) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
+* [2023-12-13, 16:23:01](https://news.ycombinator.com/item?id=38629626) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 16:17:08](https://news.ycombinator.com/item?id=38629539) - [Show HN: PyApp – runtime installer for Python applications](https://github.com/ofek/pyapp)
 * [2023-12-13, 16:03:46](https://news.ycombinator.com/item?id=38629355) - [You Don't Batch Cook When You're Suicidal](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/)
 * [2023-12-13, 15:47:23](https://news.ycombinator.com/item?id=38629085) - [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
