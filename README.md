@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
+* [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
 * [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
 * [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
@@ -22,7 +23,6 @@
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
 * [2023-12-13, 13:36:43](https://news.ycombinator.com/item?id=38627114) - [Origin of mysterious green 'ghosts' in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
 * [2023-12-13, 01:05:34](https://news.ycombinator.com/item?id=38621270) - [US agency will not reinstate $900M subsidy for Starlink](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
-* [2023-12-12, 22:37:21](https://news.ycombinator.com/item?id=38619703) - [What did the katydids do when picking up bat sounds?](https://phys.org/news/2020-08-katydids.html)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 15:49:03](https://news.ycombinator.com/item?id=38613739) - [Sirius: 1944 fantasy novel by the British philosopher and author Olaf Stapledon](https://www.fadedpage.com/showbook.php?pid=20190433)
 * [2023-12-12, 14:38:13](https://news.ycombinator.com/item?id=38612680) - [Show HN: Advent of Distributed Systems](https://aods.cryingpotato.com)
