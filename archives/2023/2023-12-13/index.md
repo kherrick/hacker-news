@@ -25,6 +25,7 @@
 * [2023-12-13, 15:11:26](https://news.ycombinator.com/item?id=38628489) - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 * [2023-12-13, 15:09:44](https://news.ycombinator.com/item?id=38628456) - [Google Gemini Pro API Available Through AI Studio](https://ai.google.dev/)
 * [2023-12-13, 15:07:05](https://news.ycombinator.com/item?id=38628417) - [Google Imagen 2](https://deepmind.google/technologies/imagen-2/)
+* [2023-12-13, 15:07:05](https://news.ycombinator.com/item?id=38628417) - [Google Imagen 2](https://cloud.google.com/blog/products/ai-machine-learning/imagen-2-on-vertex-ai-is-now-generally-available)
 * [2023-12-13, 15:00:41](https://news.ycombinator.com/item?id=38628326) - [Tesla Recalls 2M Vehicles over Autopilot Software Issue](https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html)
 * [2023-12-13, 14:52:36](https://news.ycombinator.com/item?id=38628184) - [Whisper: Nvidia RTX 4090 vs. M1 Pro with MLX](https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/)
 * [2023-12-13, 14:48:17](https://news.ycombinator.com/item?id=38628107) - [Show HN: I made a tool to turn your Spotify profile into a website](https://noise.site)
