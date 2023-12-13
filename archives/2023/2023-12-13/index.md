@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 13:01:41](https://news.ycombinator.com/item?id=38626711) - [Peer-Reviewed Studies That Link Glyphosate to the Destruction of the Microbiome](https://medium.com/collapsenews/10-peer-reviewed-scientific-studies-that-link-glyphosate-to-the-destruction-of-the-microbiome-019898798851)
+* [2023-12-13, 12:55:23](https://news.ycombinator.com/item?id=38626651) - [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
+* [2023-12-13, 12:42:38](https://news.ycombinator.com/item?id=38626515) - [Why Are So Many Americans Dying Early?](https://thehill.com/opinion/healthcare/4354004-this-is-bigger-than-covid-why-are-so-many-americans-dying-early/)
 * [2023-12-13, 12:35:58](https://news.ycombinator.com/item?id=38626454) - [Most companies using AI are 'lighting money on fire,' says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 * [2023-12-13, 11:59:52](https://news.ycombinator.com/item?id=38626078) - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
 * [2023-12-13, 11:11:46](https://news.ycombinator.com/item?id=38625652) - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
@@ -11,6 +14,7 @@
 * [2023-12-13, 09:41:32](https://news.ycombinator.com/item?id=38624873) - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
 * [2023-12-13, 09:27:13](https://news.ycombinator.com/item?id=38624758) - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
 * [2023-12-13, 08:58:56](https://news.ycombinator.com/item?id=38624522) - [Andre Braugher: Brooklyn Nine-Nine's Captain Raymond Holt Dies Aged 61](https://www.bbc.co.uk/news/world-us-canada-67700088)
+* [2023-12-13, 08:37:19](https://news.ycombinator.com/item?id=38624344) - [Rare half female, half male bird spotted by University of Otago zoologist](https://www.otago.ac.nz/news/news/extremely-rare-bird-captured-on-film)
 * [2023-12-13, 07:33:31](https://news.ycombinator.com/item?id=38623813) - [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
 * [2023-12-13, 07:24:21](https://news.ycombinator.com/item?id=38623753) - [Apple Is Holding the Final Nail for X’s Coffin](https://www.bloomberg.com/opinion/articles/2023-12-12/apple-is-holding-the-final-nail-for-x-s-coffin)
 * [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)

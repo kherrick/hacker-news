@@ -70,6 +70,7 @@
 * [2023-12-12, 12:54:38](https://news.ycombinator.com/item?id=38611525) - [Porting CP/M to the Brother SuperPowerNote Z80 laptop thing [video]](https://www.youtube.com/watch?v=MYo0fhXl754)
 * [2023-12-12, 12:47:50](https://news.ycombinator.com/item?id=38611466) - [YouTube doesn't want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 * [2023-12-12, 12:42:45](https://news.ycombinator.com/item?id=38611432) - [Tesla says California's Autopilot action violates its free speech rights](https://www.theregister.com/2023/12/11/tesla_california_autopilot_lawsuit/)
+* [2023-12-12, 12:41:58](https://news.ycombinator.com/item?id=38611422) - ['Biocomputer' combines lab-grown brain tissue with electronic hardware](https://www.nature.com/articles/d41586-023-03975-7)
 * [2023-12-12, 12:34:49](https://news.ycombinator.com/item?id=38611360) - [PainStation](https://en.wikipedia.org/wiki/PainStation)
 * [2023-12-12, 12:21:19](https://news.ycombinator.com/item?id=38611248) - [YouTube is crippling Firefox on Asahi Linux](https://social.treehouse.systems/@marcan/111567255619206929)
 * [2023-12-12, 12:12:52](https://news.ycombinator.com/item?id=38611175) - [The NSA advises move to memory-safe languages](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/)
