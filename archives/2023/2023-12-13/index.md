@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:01:46](https://news.ycombinator.com/item?id=38635452) - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet:a love story about predictive power](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
 * [2023-12-13, 22:33:30](https://news.ycombinator.com/item?id=38635151) - [The first supercomputer capable of simulating the human brain in real time](https://www.westernsydney.edu.au/icns/news/icns_to_build_brain-scale_supercomputer)
