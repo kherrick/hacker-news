@@ -18,6 +18,7 @@
 * [2023-12-13, 19:31:25](https://news.ycombinator.com/item?id=38632966) - [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
 * [2023-12-13, 19:24:17](https://news.ycombinator.com/item?id=38632827) - [2nd Batch of the A16Z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/)
 * [2023-12-13, 19:13:53](https://news.ycombinator.com/item?id=38632635) - [Swedish labour union to stop collecting Tesla waste](https://www.reuters.com/business/autos-transportation/swedish-labour-union-stop-collecting-tesla-waste-sweden-2023-12-13/)
+* [2023-12-13, 19:12:53](https://news.ycombinator.com/item?id=38632625) - [About the \"OpenPGP Schism\"](https://articles.59.ca/doku.php?id=pgpfan:schism)
 * [2023-12-13, 19:03:44](https://news.ycombinator.com/item?id=38632503) - [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [Smerf: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 19:02:21](https://news.ycombinator.com/item?id=38632479) - [Lithium-Ion Battery Pack Prices Hit Record Low of $139/KWh](https://about.bnef.com/blog/lithium-ion-battery-pack-prices-hit-record-low-of-139-kwh/)

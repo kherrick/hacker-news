@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
-* [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
@@ -11,6 +10,7 @@
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
 * [2023-12-13, 19:31:25](https://news.ycombinator.com/item?id=38632966) - [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
 * [2023-12-13, 19:24:17](https://news.ycombinator.com/item?id=38632827) - [2nd Batch of the A16Z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/)
+* [2023-12-13, 19:12:53](https://news.ycombinator.com/item?id=38632625) - [About the \"OpenPGP Schism\"](https://articles.59.ca/doku.php?id=pgpfan:schism)
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 18:49:23](https://news.ycombinator.com/item?id=38632250) - [Low-frequency sound can reveal that a tornado is on its way](https://www.bbc.com/future/article/20231212-the-sound-that-warns-a-tornado-is-coming)
 * [2023-12-13, 18:16:01](https://news.ycombinator.com/item?id=38631647) - [My doomed career as a North Korean novelist](https://www.theguardian.com/news/2023/dec/12/my-doomed-career-as-a-north-korean-novelist)
