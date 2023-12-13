@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 15:09:44](https://news.ycombinator.com/item?id=38628456) - [Google Gemini Pro API Available Through AI Studio](https://ai.google.dev/)
+* [2023-12-13, 15:07:05](https://news.ycombinator.com/item?id=38628417) - [Google Imagen 2](https://deepmind.google/technologies/imagen-2/)
 * [2023-12-13, 15:00:41](https://news.ycombinator.com/item?id=38628326) - [Tesla Recalls 2M Vehicles over Autopilot Software Issue](https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html)
+* [2023-12-13, 14:52:36](https://news.ycombinator.com/item?id=38628184) - [Whisper: Nvidia RTX 4090 vs. M1 Pro with MLX](https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/)
 * [2023-12-13, 14:30:08](https://news.ycombinator.com/item?id=38627844) - [Human brain cells hooked up to a chip can do speech recognition](https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/)
 * [2023-12-13, 14:28:01](https://news.ycombinator.com/item?id=38627816) - [Artificial intelligence systems found to Excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
