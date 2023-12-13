@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 17:15:31](https://news.ycombinator.com/item?id=38630511) - [Extreme Wealth Unequality in Germany](https://ungleichheit.info/en/home-en)
+* [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 * [2023-12-13, 16:51:35](https://news.ycombinator.com/item?id=38630098) - [Tell HN: Netflix doing mass layoffs today](https://news.ycombinator.com/item?id=38630098)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)

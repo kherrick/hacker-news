@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 17:15:31](https://news.ycombinator.com/item?id=38630511) - [Extreme Wealth Unequality in Germany](https://ungleichheit.info/en/home-en)
+* [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) Is Hiring a PM for Their Digital Tipping Product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 * [2023-12-13, 16:51:35](https://news.ycombinator.com/item?id=38630098) - [Tell HN: Netflix doing mass layoffs today](https://news.ycombinator.com/item?id=38630098)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
@@ -25,9 +27,7 @@
 * [2023-12-13, 13:52:19](https://news.ycombinator.com/item?id=38627333) - [OpenCola](https://github.com/cognitom/OpenCola)
 * [2023-12-13, 13:39:49](https://news.ycombinator.com/item?id=38627156) - [FCC upholds denial of Starlink's $900M rural broadband subsidies](https://spacenews.com/fcc-upholds-denial-of-starlinks-900-million-rural-broadband-subsidies/)
 * [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [Show HN: I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
-* [2023-12-12, 20:06:05](https://news.ycombinator.com/item?id=38617655) - [The best book covers of 2023 are the ones you'll never see](https://www.fastcompany.com/90993731/the-best-book-covers-of-2023-are-the-ones-youll-never-see)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
-* [2023-12-12, 14:15:27](https://news.ycombinator.com/item?id=38612315) - [The Out-of-Fashion Film Trick That Makes 'The Holdovers' So Affecting](https://www.nytimes.com/2023/12/06/magazine/the-out-of-fashion-film-trick-that-makes-the-holdovers-so-affecting.html)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 * [2023-12-10, 07:10:12](https://news.ycombinator.com/item?id=38589742) - [End of Life of Technologies and Devices](https://endoflife.date/)
 
