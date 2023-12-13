@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-13, 18:33:47](https://news.ycombinator.com/item?id=38631970) - [Santa Cruz plans high-rise living as a fix for sky-high housing costs](https://www.latimes.com/california/story/2023-12-07/santa-cruz-plans-downtown-high-rises-to-fix-sky-high-housing-costs)
-* [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)
+* [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
+* [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [Smerf: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 17:00:26](https://news.ycombinator.com/item?id=38630261) - [Canary (YC S18) is hiring a PM for our digital tipping product](https://jobs.lever.co/canarytechnologies/6300b7f3-4f43-4b33-853b-6cb4dac473c1)
 * [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
 * [2023-12-13, 16:38:17](https://news.ycombinator.com/item?id=38629859) - [Carcinogens that don’t create cancer cells but rouse them](https://www.newyorker.com/magazine/2023/12/18/all-the-carcinogens-we-cannot-see)
