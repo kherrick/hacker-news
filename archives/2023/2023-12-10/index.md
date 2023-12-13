@@ -86,6 +86,7 @@
 * [2023-12-10, 07:16:33](https://news.ycombinator.com/item?id=38589764) - [Capturing gestures: from Linux' EVDev to the browser](https://blog.owulveryck.info/2023/12/02/simplifying-complexity-the-journey-from-websockets-to-http-streams.html)
 * [2023-12-10, 07:10:12](https://news.ycombinator.com/item?id=38589742) - [End of Life of Technologies and Devices](https://endoflife.date/)
 * [2023-12-10, 06:51:53](https://news.ycombinator.com/item?id=38589681) - [Decompressing a gzip file by hand (sorta), part 2: Now with Huffman](https://thomastay.dev/blog/decompressing_gzip_2/)
+* [2023-12-10, 06:44:43](https://news.ycombinator.com/item?id=38589654) - [Show HN: Spiderdash](http://spiderdash.standupweb.net/)
 * [2023-12-10, 06:02:28](https://news.ycombinator.com/item?id=38589520) - [Ask HN: What's the best hardware to run small/medium models locally?](https://news.ycombinator.com/item?id=38589520)
 * [2023-12-10, 05:43:05](https://news.ycombinator.com/item?id=38589430) - [Moore vs. United States: Tax Unrealized Income Case](https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/)
 * [2023-12-10, 05:33:19](https://news.ycombinator.com/item?id=38589389) - [Linux: Ext4 data corruption in 6.1.64-1](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
