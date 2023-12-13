@@ -38,6 +38,7 @@
 * [2023-12-12, 16:38:02](https://news.ycombinator.com/item?id=38614512) - [The evolution of the On/Off power switch symbol](http://designblog.nzeldes.com/2008/05/the-evolution-of-the-onoff-power-switch-symbol/comment-page-2/)
 * [2023-12-12, 16:35:31](https://news.ycombinator.com/item?id=38614469) - [Bell Media and other Canadian brands halt ads on X amid extremism concerns](https://www.cbc.ca/news/canada/canadian-brands-advertising-x-extremism-1.7055823)
 * [2023-12-12, 16:33:56](https://news.ycombinator.com/item?id=38614440) - [Nanomaterial stimulates and regrows severed nerves like sci-fi tech](https://newatlas.com/medical/nanomaterial-stimulates-regrows-severed-nerves/)
+* [2023-12-12, 16:33:23](https://news.ycombinator.com/item?id=38614430) - [Maeve Unveils Plans for 80-Seat Hybrid Regional Airliner](https://aviationweek.com/aerospace/aircraft-propulsion/maeve-unveils-plans-80-seat-hybrid-regional-airliner)
 * [2023-12-12, 16:29:11](https://news.ycombinator.com/item?id=38614361) - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 * [2023-12-12, 16:26:29](https://news.ycombinator.com/item?id=38614320) - [Porn company makes millions by shaming porn consumers](https://www.latimes.com/business/story/2023-12-12/column-this-porn-company-makes-millions-by-shaming-porn-consumers)
 * [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
