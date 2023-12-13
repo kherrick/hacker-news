@@ -15,6 +15,7 @@
 * [2023-12-13, 14:52:36](https://news.ycombinator.com/item?id=38628184) - [Whisper: Nvidia RTX 4090 vs. M1 Pro with MLX](https://owehrens.com/whisper-nvidia-rtx-4090-vs-m1pro-with-mlx/)
 * [2023-12-13, 14:48:17](https://news.ycombinator.com/item?id=38628107) - [Show HN: I made a tool to turn a Spotify artist profile into a website](https://noise.site)
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
+* [2023-12-13, 14:30:23](https://news.ycombinator.com/item?id=38627851) - [The web floods](https://www.niemanlab.org/2023/12/the-web-floods/)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 * [2023-12-13, 14:28:01](https://news.ycombinator.com/item?id=38627816) - [Artificial intelligence systems found to excel at imitation, but not innovation](https://techxplore.com/news/2023-12-artificial-intelligence-excel-imitation.html)
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
@@ -28,7 +29,6 @@
 * [2023-12-12, 11:48:10](https://news.ycombinator.com/item?id=38611001) - [How to Beat Silicon Valley Competitors (2018)](https://www.alexcrompton.com/blog/2018/02/15/how-to-beat-silicon-valley-competitors)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman (2011)](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 * [2023-12-11, 23:56:53](https://news.ycombinator.com/item?id=38607191) - [A Curious Artifact: The Changing Meaning of the Roman Oil Lamp (2022)](https://www.journals.uchicago.edu/doi/10.1086/719422)
-* [2023-12-10, 07:10:12](https://news.ycombinator.com/item?id=38589742) - [End of Life of Technologies and Devices](https://endoflife.date/)
 * [2023-12-10, 06:44:43](https://news.ycombinator.com/item?id=38589654) - [Show HN: Spiderdash](http://spiderdash.standupweb.net/)
 
 ## [Archives](archives/index.md)
