@@ -2,7 +2,9 @@
 
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:01:46](https://news.ycombinator.com/item?id=38635452) - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [2023-12-13, 22:58:55](https://news.ycombinator.com/item?id=38635420) - [It's time for developers and enterprises to build with Gemini Pro](https://developers.googleblog.com/2023/12/build-with-gemini-pro.html)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet:a love story about predictive power](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
+* [2023-12-13, 22:48:17](https://news.ycombinator.com/item?id=38635293) - [Kanye West Launches Yews News Platform](https://www.yews.news/)
 * [2023-12-13, 22:28:26](https://news.ycombinator.com/item?id=38635102) - [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 22:23:57](https://news.ycombinator.com/item?id=38635060) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:51:54](https://news.ycombinator.com/item?id=38634667) - [Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
@@ -17,8 +19,6 @@
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 18:49:23](https://news.ycombinator.com/item?id=38632250) - [Low-frequency sound can reveal that a tornado is on its way](https://www.bbc.com/future/article/20231212-the-sound-that-warns-a-tornado-is-coming)
 * [2023-12-13, 18:16:01](https://news.ycombinator.com/item?id=38631647) - [My doomed career as a North Korean novelist](https://www.theguardian.com/news/2023/dec/12/my-doomed-career-as-a-north-korean-novelist)
-* [2023-12-13, 16:44:10](https://news.ycombinator.com/item?id=38629963) - [Dropbox: How to opt out of 3rd party AI partner access to your Dropbox](https://twitter.com/Werner/status/1734890651378975007)
-* [2023-12-13, 16:17:08](https://news.ycombinator.com/item?id=38629539) - [Show HN: PyApp – runtime installer for Python applications](https://github.com/ofek/pyapp)
 * [2023-12-13, 15:11:26](https://news.ycombinator.com/item?id=38628489) - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)

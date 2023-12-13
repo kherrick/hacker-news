@@ -6,7 +6,9 @@
 
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:01:46](https://news.ycombinator.com/item?id=38635452) - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [2023-12-13, 22:58:55](https://news.ycombinator.com/item?id=38635420) - [It's time for developers and enterprises to build with Gemini Pro](https://developers.googleblog.com/2023/12/build-with-gemini-pro.html)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet:a love story about predictive power](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
+* [2023-12-13, 22:48:17](https://news.ycombinator.com/item?id=38635293) - [Kanye West Launches Yews News Platform](https://www.yews.news/)
 * [2023-12-13, 22:33:30](https://news.ycombinator.com/item?id=38635151) - [The first supercomputer capable of simulating the human brain in real time](https://www.westernsydney.edu.au/icns/news/icns_to_build_brain-scale_supercomputer)
 * [2023-12-13, 22:28:26](https://news.ycombinator.com/item?id=38635102) - [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 22:23:57](https://news.ycombinator.com/item?id=38635060) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
