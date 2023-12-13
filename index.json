@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-13, 02:50:41",
+      "https://news.ycombinator.com/item?id=38622057"
+    ],
+    [
+      "Professor in Jordan sues sleuth who exposed citation anomalies",
+      "https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 01:07:43",
       "https://news.ycombinator.com/item?id=38621289"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2023-12-12, 08:40:18",
+      "https://news.ycombinator.com/item?id=38610851"
+    ],
+    [
+      "Cog: Use Python in your source files to generate pieces of code",
+      "https://nedbatchelder.com/code/cog/"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 07:23:44",
       "https://news.ycombinator.com/item?id=38610636"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-12-11, 14:56:51",
-      "https://news.ycombinator.com/item?id=38601171"
-    ],
-    [
-      "Where do journals go to die?",
-      "https://blog.computationalcomplexity.org/2023/12/where-do-journals-go-to-die.html"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 12:27:03",
       "https://news.ycombinator.com/item?id=38600004"
     ],
     [
       "Modern iOS Navigation Patterns",
       "https://frankrausch.com/ios-navigation"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 07:40:16",
-      "https://news.ycombinator.com/item?id=38598460"
-    ],
-    [
-      "ESP32 Game Boy Printer",
-      "https://github.com/tidklaas/esp32-gameboy-printer"
     ]
   ]
 ]
