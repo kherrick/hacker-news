@@ -2,7 +2,6 @@
 
 * [2023-12-13, 09:41:32](https://news.ycombinator.com/item?id=38624873) - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
 * [2023-12-13, 09:27:13](https://news.ycombinator.com/item?id=38624758) - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
-* [2023-12-13, 08:58:56](https://news.ycombinator.com/item?id=38624522) - [Andre Braugher: Brooklyn Nine-Nine's Captain Raymond Holt Dies Aged 61](https://www.bbc.co.uk/news/world-us-canada-67700088)
 * [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 * [2023-12-13, 04:16:56](https://news.ycombinator.com/item?id=38622576) - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
 * [2023-12-13, 03:59:17](https://news.ycombinator.com/item?id=38622476) - [GM says it's dropping Apple CarPlay and Android Auto because they're unsafe](https://jalopnik.com/gm-drops-apple-carplay-android-auto-unsafe-phone-1851093013)
@@ -20,6 +19,7 @@
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 16:29:11](https://news.ycombinator.com/item?id=38614361) - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+* [2023-12-12, 16:19:30](https://news.ycombinator.com/item?id=38614232) - [A new old kind of R&D lab](https://www.answer.ai/posts/2023-12-12-launch.html)
 * [2023-12-12, 14:38:13](https://news.ycombinator.com/item?id=38612680) - [Show HN: Advent of Distributed Systems](https://aods.cryingpotato.com)
 * [2023-12-12, 13:17:31](https://news.ycombinator.com/item?id=38611700) - [Show HN: Open-source macOS AI copilot using vision and voice](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 * [2023-12-12, 12:54:38](https://news.ycombinator.com/item?id=38611525) - [Porting CP/M to the Brother SuperPowerNote Z80 laptop thing [video]](https://www.youtube.com/watch?v=MYo0fhXl754)
