@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 12:35:58](https://news.ycombinator.com/item?id=38626454) - [Most companies using AI are 'lighting money on fire,' says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 * [2023-12-13, 11:59:52](https://news.ycombinator.com/item?id=38626078) - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
 * [2023-12-13, 11:11:46](https://news.ycombinator.com/item?id=38625652) - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
 * [2023-12-13, 10:38:04](https://news.ycombinator.com/item?id=38625380) - [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)

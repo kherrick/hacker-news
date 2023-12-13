@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-13, 12:35:58](https://news.ycombinator.com/item?id=38626454) - [Most companies using AI are 'lighting money on fire,' says Matthew Prince](https://fortune.com/2023/12/12/cloudflare-ceo-matthew-prince-companies-lighting-money-fire-with-ai/)
 * [2023-12-13, 11:59:52](https://news.ycombinator.com/item?id=38626078) - [Tesla claims California false-advertising law violates First Amendment](https://arstechnica.com/tech-policy/2023/12/tesla-fights-autopilot-false-advertising-claim-with-free-speech-argument/)
 * [2023-12-13, 11:11:46](https://news.ycombinator.com/item?id=38625652) - [Tesla Recalls 2M Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix)
 * [2023-12-13, 10:38:04](https://news.ycombinator.com/item?id=38625380) - [Tesla FSD Timeline](https://motherfrunker.ca/fsd/)
@@ -12,10 +13,9 @@
 * [2023-12-13, 01:07:43](https://news.ycombinator.com/item?id=38621289) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)
 * [2023-12-13, 00:35:03](https://news.ycombinator.com/item?id=38621025) - [Welcome to the ad-free internet](https://www.economist.com/business/2023/12/11/welcome-to-the-ad-free-internet)
 * [2023-12-12, 23:05:01](https://news.ycombinator.com/item?id=38620037) - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
-* [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
-* [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
+* [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 17:20:38](https://news.ycombinator.com/item?id=38615232) - [Launch HN: Bracket (YC W22) – Two-Way Sync Between Salesforce and Postgres](https://news.ycombinator.com/item?id=38615232)
 * [2023-12-12, 16:29:11](https://news.ycombinator.com/item?id=38614361) - [Phi-2: The surprising power of small language models](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
