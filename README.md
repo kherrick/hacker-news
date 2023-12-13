@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-13, 08:58:56](https://news.ycombinator.com/item?id=38624522) - [Andre Braugher: Brooklyn Nine-Nine's Captain Raymond Holt Dies Aged 61](https://www.bbc.co.uk/news/world-us-canada-67700088)
-* [2023-12-13, 07:33:31](https://news.ycombinator.com/item?id=38623813) - [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
 * [2023-12-13, 07:13:43](https://news.ycombinator.com/item?id=38623695) - [Ask HN: What apps have you created for your own use?](https://news.ycombinator.com/item?id=38623695)
 * [2023-12-13, 05:42:08](https://news.ycombinator.com/item?id=38623158) - [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
 * [2023-12-13, 04:16:56](https://news.ycombinator.com/item?id=38622576) - [Apple now requires a judge's consent to hand over push notification data](https://www.reuters.com/technology/apple-now-requires-judges-consent-hand-over-push-notification-data-2023-12-12/)
@@ -15,6 +14,7 @@
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What We Watched: A Netflix engagement report](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening cellular basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [AI’s big rift is like a religious schism](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
+* [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What will enter the public domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
 * [2023-12-12, 18:53:28](https://news.ycombinator.com/item?id=38616591) - [Motorola's pioneering 8-bit 6800: Origins and architecture](https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins)
 * [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
