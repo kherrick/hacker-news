@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
 * [2023-12-13, 20:00:13](https://news.ycombinator.com/item?id=38633387) - [Argentina's Milei Devalues Peso by 54%](https://www.bloomberg.com/news/articles/2023-12-12/argentina-s-milei-devalues-peso-by-54-in-first-batch-of-shock-measures)
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
+* [2023-12-13, 19:31:25](https://news.ycombinator.com/item?id=38632966) - [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
 * [2023-12-13, 19:24:17](https://news.ycombinator.com/item?id=38632827) - [2nd Batch of the A16Z Open Source AI Grant](https://a16z.com/announcing-our-latest-open-source-ai-grants/)
 * [2023-12-13, 19:13:53](https://news.ycombinator.com/item?id=38632635) - [Swedish labour union to stop collecting Tesla waste](https://www.reuters.com/business/autos-transportation/swedish-labour-union-stop-collecting-tesla-waste-sweden-2023-12-13/)
 * [2023-12-13, 19:03:44](https://news.ycombinator.com/item?id=38632503) - [Next Gen Game Engines](https://a16z.com/unbundling-the-game-engine/)
