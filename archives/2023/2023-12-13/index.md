@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 22:28:26](https://news.ycombinator.com/item?id=38635102) - [Debugging a Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+* [2023-12-13, 22:23:57](https://news.ycombinator.com/item?id=38635060) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
+* [2023-12-13, 21:41:49](https://news.ycombinator.com/item?id=38634543) - [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
 * [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
