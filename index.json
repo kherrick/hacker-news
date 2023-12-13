@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 21:36:53",
+      "https://news.ycombinator.com/item?id=38634490"
+    ],
+    [
+      "Phi-2",
+      "https://huggingface.co/microsoft/phi-2"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 21:15:27",
       "https://news.ycombinator.com/item?id=38634218"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-12-13, 20:56:26",
+      "https://news.ycombinator.com/item?id=38634020"
+    ],
+    [
+      "Ask HN: Best resources on abstracting and dealing with complexity",
+      "https://news.ycombinator.com/item?id=38634020"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 20:48:34",
       "https://news.ycombinator.com/item?id=38633926"
     ],
     [
       "Play Othello in your web browser (made with Mithril)",
       "https://jawj.github.io/fliptiles/"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 20:27:56",
+      "https://news.ycombinator.com/item?id=38633715"
+    ],
+    [
+      "Quest 2 is outselling Quest 3",
+      "https://twitter.com/ID_AA_Carmack/status/1734993768980402467"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "SMERF: Streamable Memory Efficient Radiance Fields",
       "https://smerf-3d.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 18:57:12",
-      "https://news.ycombinator.com/item?id=38632390"
-    ],
-    [
-      "QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models",
-      "https://arxiv.org/abs/2310.16795"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-12-12, 15:49:03",
-      "https://news.ycombinator.com/item?id=38613739"
-    ],
-    [
-      "Sirius: 1944 fantasy novel by the British philosopher and author Olaf Stapledon",
-      "https://www.fadedpage.com/showbook.php?pid=20190433"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 14:38:13",
       "https://news.ycombinator.com/item?id=38612680"
     ],
@@ -287,16 +297,6 @@
     [
       "Screenwriters' Lecture: Charlie Kaufman (2011)",
       "https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 23:56:53",
-      "https://news.ycombinator.com/item?id=38607191"
-    ],
-    [
-      "A Curious Artifact: The Changing Meaning of the Roman Oil Lamp (2022)",
-      "https://www.journals.uchicago.edu/doi/10.1086/719422"
     ]
   ]
 ]
