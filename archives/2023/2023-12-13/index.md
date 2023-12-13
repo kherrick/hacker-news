@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 13:36:43](https://news.ycombinator.com/item?id=38627114) - [Origin of mysterious green 'ghosts' in the sky has been discovered](https://english.elpais.com/science-tech/2023-12-12/the-origin-of-mysterious-green-ghosts-in-the-sky-has-been-discovered.html)
 * [2023-12-13, 13:01:41](https://news.ycombinator.com/item?id=38626711) - [Peer-Reviewed Studies That Link Glyphosate to the Destruction of the Microbiome](https://medium.com/collapsenews/10-peer-reviewed-scientific-studies-that-link-glyphosate-to-the-destruction-of-the-microbiome-019898798851)
 * [2023-12-13, 13:00:35](https://news.ycombinator.com/item?id=38626698) - [Show HN: I benchmarked six Go SQLite drivers (found you don't need cgo anymore)](https://github.com/cvilsmeier/go-sqlite-bench)
 * [2023-12-13, 12:55:23](https://news.ycombinator.com/item?id=38626651) - [Vertical farming company raised $500M, and then it all but disappeared](https://sifted.eu/articles/infarm-raised-500m-and-disappeared)
