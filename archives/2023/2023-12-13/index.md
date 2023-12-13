@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 09:41:32](https://news.ycombinator.com/item?id=38624873) - [Plane, an open-source alternative to Jira, got to the #1 on GitHub](https://plane.so/blog/how-we-got-to-20k-github-stars)
 * [2023-12-13, 09:27:13](https://news.ycombinator.com/item?id=38624758) - [Arc browser launches its Windows client in beta](https://techcrunch.com/2023/12/11/arc-browser-launches-its-windows-client-in-beta/)
 * [2023-12-13, 08:58:56](https://news.ycombinator.com/item?id=38624522) - [Andre Braugher: Brooklyn Nine-Nine's Captain Raymond Holt Dies Aged 61](https://www.bbc.co.uk/news/world-us-canada-67700088)
 * [2023-12-13, 07:33:31](https://news.ycombinator.com/item?id=38623813) - [Man with No Ticket or Passport Flew from Copenhagen to Los Angeles, FBI Says](https://www.nytimes.com/2023/12/12/us/sergey-ochigava-passport-lax-flight.html)
