@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
+* [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
 * [2023-12-13, 20:00:13](https://news.ycombinator.com/item?id=38633387) - [Argentina's Milei Devalues Peso by 54%](https://www.bloomberg.com/news/articles/2023-12-12/argentina-s-milei-devalues-peso-by-54-in-first-batch-of-shock-measures)
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
 * [2023-12-13, 19:31:25](https://news.ycombinator.com/item?id=38632966) - [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
