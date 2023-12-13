@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-12, 20:48:36",
-      "https://news.ycombinator.com/item?id=38618273"
-    ],
-    [
-      "Claude for Google Sheets",
-      "https://docs.anthropic.com/claude/docs/using-claude-for-sheets"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 19:46:52",
       "https://news.ycombinator.com/item?id=38617359"
     ],
@@ -87,6 +77,16 @@
     [
       "Motorola's pioneering 8-bit 6800: Origins and architecture",
       "https://thechipletter.substack.com/p/motorolas-pioneering-8-bit-6800-origins"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:50:46",
+      "https://news.ycombinator.com/item?id=38616550"
+    ],
+    [
+      "'Like we were lesser humans': Gaza boys, men recall Israeli arrest, torture",
+      "https://www.aljazeera.com/features/2023/12/12/like-we-were-lesser-humans-gaza-boys-men-recall-israeli-arrests-torture"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-12-12, 16:17:29",
-      "https://news.ycombinator.com/item?id=38614195"
-    ],
-    [
-      "Tacit Knowledge Is Dangerous",
-      "https://er4hn.info/blog/2023.08.26-tacit-knowledge-dangerous/"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 15:27:34",
       "https://news.ycombinator.com/item?id=38613386"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38611700"
     ],
     [
-      "Show HN: Open-source macOS AI copilot (using vision and voice)",
+      "Show HN: Open-source macOS AI copilot using vision and voice",
       "https://github.com/elfvingralf/macOSpilot-ai-assistant"
     ]
   ],
@@ -251,6 +241,26 @@
   ],
   [
     [
+      "2023-12-12, 07:23:44",
+      "https://news.ycombinator.com/item?id=38610636"
+    ],
+    [
+      "BF-SYS: A fantasy computer that uses Brainfuck as its instruction set",
+      "https://brainfuck.zptr.cc/"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 00:15:29",
+      "https://news.ycombinator.com/item?id=38607370"
+    ],
+    [
+      "The Great Transformation by Polanyi [pdf]",
+      "https://inctpped.ie.ufrj.br/spiderweb/pdf_4/Great_Transformation.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 19:25:41",
       "https://news.ycombinator.com/item?id=38604265"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2023-12-11, 16:40:38",
-      "https://news.ycombinator.com/item?id=38602095"
+      "2023-12-11, 18:23:11",
+      "https://news.ycombinator.com/item?id=38603342"
     ],
     [
-      "Beet Make-Up",
-      "https://www.themoscowtimes.com/2023/12/02/the-strange-russian-history-of-beet-make-up-a83296"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 16:23:02",
-      "https://news.ycombinator.com/item?id=38601937"
-    ],
-    [
-      "Birth of BASIC (2014) [video]",
-      "https://www.youtube.com/watch?v=WYPNjSoDrqw"
+      "Show HN: Visualize rotating objects from the 4th, 5th, nth dimensions",
+      "https://ncube.ndavd.com"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38598460"
     ],
     [
-      "Pull Pics from Your Gameboy Camera with an ESP32",
+      "ESP32 Game Boy Printer",
       "https://github.com/tidklaas/esp32-gameboy-printer"
     ]
   ]
