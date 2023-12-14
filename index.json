@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 07:48:17",
+      "https://news.ycombinator.com/item?id=38638865"
+    ],
+    [
+      "Trains were designed to break down after third-party repairs, hackers find",
+      "https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 06:23:36",
       "https://news.ycombinator.com/item?id=38638421"
     ],
@@ -137,16 +147,6 @@
     [
       "Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]",
       "https://doc.cat-v.org/unix/v8/grap.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 21:43:23",
-      "https://news.ycombinator.com/item?id=38634562"
-    ],
-    [
-      "Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django",
-      "https://github.com/hbakri/django-ninja-crud"
     ]
   ],
   [
