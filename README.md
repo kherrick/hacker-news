@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
+* [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:30:14](https://news.ycombinator.com/item?id=38638452) - [QEMU-iOS, an emulator for legacy Apple devices](https://github.com/devos50/qemu-ios)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
@@ -16,7 +17,6 @@
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit authorization](https://www.biscuitsec.org/)
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
-* [2023-12-13, 21:51:54](https://news.ycombinator.com/item?id=38634667) - [Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a transformer represent a Kalman filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to ban engineered stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
 * [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Show HN: Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
