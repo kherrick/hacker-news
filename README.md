@@ -2,6 +2,7 @@
 
 * [2023-12-14, 10:26:36](https://news.ycombinator.com/item?id=38639806) - [On being wrong about AI](https://scottaaronson.blog/?p=7672)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
+* [2023-12-14, 08:16:01](https://news.ycombinator.com/item?id=38639022) - [Xorg being removed. What does this mean?](http://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
@@ -28,7 +29,6 @@
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
 * [2023-12-12, 19:24:46](https://news.ycombinator.com/item?id=38617036) - [There Once Was an Empire](https://novum.substack.com/p/there-once-was-an-empire)
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
-* [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
 * [2023-12-12, 02:25:37](https://news.ycombinator.com/item?id=38608521) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 
 ## [Archives](archives/index.md)
