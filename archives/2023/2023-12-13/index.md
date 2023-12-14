@@ -74,6 +74,7 @@
 * [2023-12-13, 14:17:19](https://news.ycombinator.com/item?id=38627674) - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
 * [2023-12-13, 14:15:50](https://news.ycombinator.com/item?id=38627652) - [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
 * [2023-12-13, 14:15:02](https://news.ycombinator.com/item?id=38627645) - [Tired of Tip Requests, Consumers Are Getting Stingy](https://www.wsj.com/economy/jobs/tipping-down-service-workers-a4c27a2e)
+* [2023-12-13, 14:04:11](https://news.ycombinator.com/item?id=38627478) - [Deleting 50k Lines of Code in 3 Days](https://aakashns.com/delete)
 * [2023-12-13, 13:59:57](https://news.ycombinator.com/item?id=38627429) - [Microsoft is going nuclear to power its AI ambitions](https://www.theverge.com/2023/9/26/23889956/microsoft-next-generation-nuclear-energy-smr-job-hiring)
 * [2023-12-13, 13:52:19](https://news.ycombinator.com/item?id=38627333) - [OpenCola](https://github.com/cognitom/OpenCola)
 * [2023-12-13, 13:47:50](https://news.ycombinator.com/item?id=38627272) - [JSChronicle](https://jskatas.org/jschronicle/)

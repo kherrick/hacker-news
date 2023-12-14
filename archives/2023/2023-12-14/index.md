@@ -6,7 +6,10 @@
 
 * [2023-12-14, 12:00:35](https://news.ycombinator.com/item?id=38640447) - [Doola a \"Business-in-a-Box\" for LLCs (YC S20) Is Hiring a Data Analyst (Remote)](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
+* [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
+* [2023-12-14, 11:50:07](https://news.ycombinator.com/item?id=38640370) - [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
 * [2023-12-14, 10:26:36](https://news.ycombinator.com/item?id=38639806) - [On being wrong about AI](https://scottaaronson.blog/?p=7672)
+* [2023-12-14, 10:09:04](https://news.ycombinator.com/item?id=38639698) - [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:54:55](https://news.ycombinator.com/item?id=38639621) - [Multiple microprocessors as a single CPU (not multiprocessing)](https://forum.vcfed.org/index.php?threads/multiple-microprocessors-as-a-single-cpu-not-multiprocessing.1245942/)
 * [2023-12-14, 09:42:42](https://news.ycombinator.com/item?id=38639552) - [Fracking for Europe](https://www.arte.tv/en/videos/115476-000-A/arte-reportage/)
