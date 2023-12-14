@@ -64,6 +64,7 @@
 * [2023-12-12, 15:15:17](https://news.ycombinator.com/item?id=38613219) - [FFmpeg Lands CLI Multi-Threading as Its \"Most Complex Refactoring\" in Decades](https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged)
 * [2023-12-12, 15:11:49](https://news.ycombinator.com/item?id=38613170) - [Walk and Talk](https://sive.rs/wt)
 * [2023-12-12, 15:10:57](https://news.ycombinator.com/item?id=38613154) - [Forget spaceships; I just want my music](https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music)
+* [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
 * [2023-12-12, 14:46:50](https://news.ycombinator.com/item?id=38612792) - [Destigmatizing Drug Use Has Been a Profound Mistake](https://www.theatlantic.com/ideas/archive/2023/12/destigmatizing-drug-use-mistake-opioid-crisis/676292/)
 * [2023-12-12, 14:45:53](https://news.ycombinator.com/item?id=38612779) - [E3 Is Officially Dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/)
 * [2023-12-12, 14:38:13](https://news.ycombinator.com/item?id=38612680) - [Show HN: Advent of Distributed Systems](https://aods.cryingpotato.com)

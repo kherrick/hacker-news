@@ -2,7 +2,6 @@
 
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) is hiring senior software engineers and other roles (remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
 * [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
-* [2023-12-14, 00:22:04](https://news.ycombinator.com/item?id=38636200) - [Google ad chief stepping down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit authorization](https://www.biscuitsec.org/)
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
@@ -29,6 +28,7 @@
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
 * [2023-12-12, 16:10:22](https://news.ycombinator.com/item?id=38614095) - [A Camera, Not an Engine](https://studio.ribbonfarm.com/p/a-camera-not-an-engine)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
+* [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman (2011)](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 
 ## [Archives](archives/index.md)
