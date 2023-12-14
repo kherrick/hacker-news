@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-14, 01:18:32",
+      "https://news.ycombinator.com/item?id=38636609"
+    ],
+    [
+      "Beginner's Guide to Arguing Constructively",
+      "https://liamrosen.com/arguments.html"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 01:00:27",
       "https://news.ycombinator.com/item?id=38636478"
     ],
     [
-      "Jerry (YC S17) Is Hiring Sr Software Engineers and Other Roles (Remote)",
+      "Jerry (YC S17) is hiring senior software engineers and other roles (remote)",
       "https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38636225"
     ],
     [
-      "Roy Kerr: Do Black Holes Have Singularities?",
+      "Do black holes have singularities?",
       "https://arxiv.org/abs/2312.00841"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38636200"
     ],
     [
-      "Google ad chief Jerry Dischler steps down weeks after antitrust trial testimony",
+      "Google ad chief stepping down weeks after antitrust trial testimony",
       "https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38635617"
     ],
     [
-      "Biscuit Authorization",
+      "Biscuit authorization",
       "https://www.biscuitsec.org/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-12-13, 16:17:08",
-      "https://news.ycombinator.com/item?id=38629539"
-    ],
-    [
-      "Show HN: PyApp – runtime installer for Python applications",
-      "https://github.com/ofek/pyapp"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 15:11:26",
       "https://news.ycombinator.com/item?id=38628489"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38618697"
     ],
     [
-      "Your Novel Should Be More Like Moby-Dick",
+      "The whale fact chapters in Moby-Dick are among the most memorable",
       "https://countercraft.substack.com/p/your-novel-should-be-more-like-moby"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=38615521"
     ],
     [
-      "LoRA Adaptors for Precise Control in Diffusion Models",
+      "Concept sliders: LoRA adaptors for precise control in diffusion models",
       "https://sliders.baulab.info/"
     ]
   ],
