@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer(2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+* [2023-12-14, 18:29:07](https://news.ycombinator.com/item?id=38645095) - [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
-* [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
 * [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 * [2023-12-14, 17:44:41](https://news.ycombinator.com/item?id=38644381) - [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
 * [2023-12-14, 17:26:29](https://news.ycombinator.com/item?id=38644085) - [OpenAI Announces $10M Superalignment Grants](https://openai.com/blog/superalignment-fast-grants)

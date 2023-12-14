@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer(2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+* [2023-12-14, 18:29:07](https://news.ycombinator.com/item?id=38645095) - [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 18:01:52](https://news.ycombinator.com/item?id=38644667) - [Jeff Bezos: Amazon and Blue Origin – Lex Fridman Podcast [video]](https://www.youtube.com/watch?v=DcWqzZ3I2cY)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
