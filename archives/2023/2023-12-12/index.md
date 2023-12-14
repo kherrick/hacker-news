@@ -99,6 +99,7 @@
 * [2023-12-12, 10:09:19](https://news.ycombinator.com/item?id=38610892) - [The new local data stack: Integrating Dagster, dbt and DuckDB](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/)
 * [2023-12-12, 08:40:18](https://news.ycombinator.com/item?id=38610851) - [Cog: Use Python in your source files to generate pieces of code](https://nedbatchelder.com/code/cog/)
 * [2023-12-12, 07:23:44](https://news.ycombinator.com/item?id=38610636) - [BF-SYS: A fantasy computer that uses Brainfuck as its instruction set](https://brainfuck.zptr.cc/)
+* [2023-12-12, 07:10:53](https://news.ycombinator.com/item?id=38610542) - [An Adopted Obsession with Soondubu Jjigae, Korean Silken-Tofu Stew](https://www.newyorker.com/culture/kitchen-notes/an-adopted-obsession-with-soondubu-jjigae-korean-silken-tofu-stew)
 * [2023-12-12, 06:28:55](https://news.ycombinator.com/item?id=38610253) - [The Professionalization of Cryptology in Sixteenth-Century Venice (2018) [pdf]](https://www.researchgate.net/publication/327847251_The_Professionalization_of_Cryptology_in_Sixteenth-Century_Venice)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 * [2023-12-12, 05:28:29](https://news.ycombinator.com/item?id=38609865) - [Building a Web Game in C with Raylib](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
