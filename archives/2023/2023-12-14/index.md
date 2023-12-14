@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
 * [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
+* [2023-12-14, 13:23:37](https://news.ycombinator.com/item?id=38641048) - [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
 * [2023-12-14, 12:00:35](https://news.ycombinator.com/item?id=38640447) - [Doola a \"Business-in-a-Box\" for LLCs (YC S20) Is Hiring a Data Analyst (Remote)](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
