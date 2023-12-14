@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 22:02:44](https://news.ycombinator.com/item?id=38647938) - [Show HN: Airdraw](https://www.airdraw.io/)
+* [2023-12-14, 21:51:10](https://news.ycombinator.com/item?id=38647796) - [Medprompt+: GPT-4 vs. Gemini Ultra](https://github.com/microsoft/promptbase)
+* [2023-12-14, 21:34:13](https://news.ycombinator.com/item?id=38647562) - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 20:54:23](https://news.ycombinator.com/item?id=38647101) - [The Journal of Universal Rejection](https://universalrejection.org/)
 * [2023-12-14, 20:54:09](https://news.ycombinator.com/item?id=38647097) - [After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly](https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly)
@@ -59,6 +62,7 @@
 * [2023-12-14, 13:23:37](https://news.ycombinator.com/item?id=38641048) - [Proton Mail finally gets a desktop app for encrypted email and calendar](https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted)
 * [2023-12-14, 13:17:57](https://news.ycombinator.com/item?id=38640999) - [Ledger Wallet's LedgerHQ/connect-kit hit by supply chain attack](https://www.coindesk.com/business/2023/12/14/defi-protocol-sushis-cto-warns-of-possible-exploit/)
 * [2023-12-14, 13:16:59](https://news.ycombinator.com/item?id=38640995) - [Ledger library confirmed compromised and replaced with a drainer](https://twitter.com/bantg/status/1735279127752540465)
+* [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 12:00:35](https://news.ycombinator.com/item?id=38640447) - [Doola a \"Business-in-a-Box\" for LLCs (YC S20) Is Hiring a Data Analyst (Remote)](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
