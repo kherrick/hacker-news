@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 05:58:53](https://news.ycombinator.com/item?id=38638290) - [Threads Is Testing ActivityPup Integration](https://mastodon.social/@Gargron/111576825980285552)
 * [2023-12-14, 04:42:00](https://news.ycombinator.com/item?id=38637853) - [Windows AI Studio Preview](https://github.com/microsoft/windows-ai-studio)
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 03:53:28](https://news.ycombinator.com/item?id=38637564) - [Google's response to Reptar CPU vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
@@ -28,7 +29,6 @@
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
 * [2023-12-12, 17:36:48](https://news.ycombinator.com/item?id=38615481) - [Takahiro Koga Spikes Ceramics to Show the Power of Objects](https://www.tokyoweekender.com/art_and_culture/takahiro-koga-ceramics-art/)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
-* [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
 * [2023-12-12, 02:25:37](https://news.ycombinator.com/item?id=38608521) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 
 ## [Archives](archives/index.md)
