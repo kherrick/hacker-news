@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 02:54:42](https://news.ycombinator.com/item?id=38637240) - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
 * [2023-12-14, 01:18:32](https://news.ycombinator.com/item?id=38636609) - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) Is Hiring Sr Software Engineers and Other Roles (Remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
 * [2023-12-14, 00:40:32](https://news.ycombinator.com/item?id=38636316) - [The average store size in the US is the smallest it's been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)

@@ -17,6 +17,7 @@
 * [2023-12-12, 20:14:59](https://news.ycombinator.com/item?id=38617762) - [Ask HN: What prevents Google from having the leading LLM?](https://news.ycombinator.com/item?id=38617762)
 * [2023-12-12, 20:06:05](https://news.ycombinator.com/item?id=38617655) - [The best book covers of 2023 are the ones you'll never see](https://www.fastcompany.com/90993731/the-best-book-covers-of-2023-are-the-ones-youll-never-see)
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
+* [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
 * [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
