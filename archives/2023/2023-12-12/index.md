@@ -106,6 +106,7 @@
 * [2023-12-12, 03:08:59](https://news.ycombinator.com/item?id=38608868) - [Kids with cats have double the risk of developing schizophrenia](https://medicalxpress.com/news/2023-12-kids-cats-schizophrenia.html)
 * [2023-12-12, 02:56:02](https://news.ycombinator.com/item?id=38608763) - [Epic vs. Google Trial Verdict, a Win for All Developers](https://www.epicgames.com/site/en-US/news/epic-v-google-trial-verdict-a-win-for-all-developers)
 * [2023-12-12, 02:43:56](https://news.ycombinator.com/item?id=38608672) - [Car Manufacturing Process Overview [video]](https://www.youtube.com/watch?v=zQeQWGqfFN0)
+* [2023-12-12, 02:25:37](https://news.ycombinator.com/item?id=38608521) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 * [2023-12-12, 02:16:14](https://news.ycombinator.com/item?id=38608452) - [2×4 Lumber Sizes – The History Behind the Mystery](https://workingforest.com/2x4-lumber-size-the-history-behind-the-mystery/)
 * [2023-12-12, 01:38:17](https://news.ycombinator.com/item?id=38608152) - [An HTTP Status Code to Report Requester Impairment](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 * [2023-12-12, 00:32:53](https://news.ycombinator.com/item?id=38607540) - [FTC wants Microsoft's relationship with OpenAI under the microscope](https://www.theregister.com/2023/12/11/microsoft_openai_investment_ftc/)
