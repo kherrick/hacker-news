@@ -2,7 +2,8 @@
 
 * [2023-12-14, 10:26:36](https://news.ycombinator.com/item?id=38639806) - [On being wrong about AI](https://scottaaronson.blog/?p=7672)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
-* [2023-12-14, 08:16:01](https://news.ycombinator.com/item?id=38639022) - [Xorg being removed. What does this mean?](http://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
+* [2023-12-14, 09:54:55](https://news.ycombinator.com/item?id=38639621) - [Multiple microprocessors as a single CPU (not multiprocessing)](https://forum.vcfed.org/index.php?threads/multiple-microprocessors-as-a-single-cpu-not-multiprocessing.1245942/)
+* [2023-12-14, 09:42:42](https://news.ycombinator.com/item?id=38639552) - [Fracking for Europe](https://www.arte.tv/en/videos/115476-000-A/arte-reportage/)
 * [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
@@ -19,7 +20,6 @@
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
 * [2023-12-13, 21:51:54](https://news.ycombinator.com/item?id=38634667) - [Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
-* [2023-12-13, 21:19:07](https://news.ycombinator.com/item?id=38634258) - [Stop Hiding the Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a transformer represent a Kalman filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to ban engineered stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
 * [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Show HN: Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
