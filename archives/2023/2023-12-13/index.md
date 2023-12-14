@@ -103,6 +103,7 @@
 * [2023-12-13, 03:16:36](https://news.ycombinator.com/item?id=38622211) - [Firefox slow to load YouTube? Just another front in Google's war on ad blockers](https://www.theregister.com/2023/11/21/ad_block_google/)
 * [2023-12-13, 02:56:28](https://news.ycombinator.com/item?id=38622101) - [A human embryonic limb cell atlas resolved in space and time](https://www.nature.com/articles/s41586-023-06806-x)
 * [2023-12-13, 02:50:41](https://news.ycombinator.com/item?id=38622057) - [Professor in Jordan sues sleuth who exposed citation anomalies](https://retractionwatch.com/2023/11/29/professor-in-jordan-sues-sleuth-who-exposed-citation-anomalies/)
+* [2023-12-13, 02:16:55](https://news.ycombinator.com/item?id=38621838) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-13, 02:03:51](https://news.ycombinator.com/item?id=38621753) - [A triplet tree forms one of the most beautiful structures in math](https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/)
 * [2023-12-13, 01:37:57](https://news.ycombinator.com/item?id=38621557) - [Tim Sweeney on why Epic did better against Google than Apple in court](https://www.cnbc.com/2023/12/12/tim-sweeney-why-epic-did-better-against-google-than-apple-in-court.html)
 * [2023-12-13, 01:07:43](https://news.ycombinator.com/item?id=38621289) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=38621289)

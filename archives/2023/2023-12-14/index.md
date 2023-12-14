@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 * [2023-12-14, 05:58:53](https://news.ycombinator.com/item?id=38638290) - [Threads Is Testing ActivityPup Integration](https://mastodon.social/@Gargron/111576825980285552)
 * [2023-12-14, 05:12:23](https://news.ycombinator.com/item?id=38638045) - [High Scalability is up for sale](http://highscalability.com/blog/2023/12/11/highscalability-is-up-for-sale.html)
 * [2023-12-14, 04:53:26](https://news.ycombinator.com/item?id=38637917) - [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
