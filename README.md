@@ -2,6 +2,7 @@
 
 * [2023-12-14, 20:54:23](https://news.ycombinator.com/item?id=38647101) - [The Journal of Universal Rejection](https://universalrejection.org/)
 * [2023-12-14, 20:54:09](https://news.ycombinator.com/item?id=38647097) - [After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly](https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly)
+* [2023-12-14, 20:51:44](https://news.ycombinator.com/item?id=38647071) - [Unattractive funds managers outperform funds with attractive managers by over 2%](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322134)
 * [2023-12-14, 20:50:28](https://news.ycombinator.com/item?id=38647053) - [Postfix 25 years old today](https://marc.info/?l=postfix-users&m=170256002601828&w=2)
 * [2023-12-14, 20:43:22](https://news.ycombinator.com/item?id=38646969) - [Stable Diffusion Turbo on a Raspberry Pi Zero 2 generates an image in 29 minutes](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
 * [2023-12-14, 20:37:01](https://news.ycombinator.com/item?id=38646903) - [Apple partly halts Beeper's iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
@@ -14,7 +15,6 @@
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer (2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
-* [2023-12-14, 17:44:41](https://news.ycombinator.com/item?id=38644381) - [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
 * [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
 * [2023-12-14, 17:15:27](https://news.ycombinator.com/item?id=38643923) - [What's Going on with Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
