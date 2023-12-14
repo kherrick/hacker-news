@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 * [2023-12-14, 04:53:26](https://news.ycombinator.com/item?id=38637917) - [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
@@ -14,7 +15,6 @@
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
 * [2023-12-13, 21:51:54](https://news.ycombinator.com/item?id=38634667) - [Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]](https://doc.cat-v.org/unix/v8/grap.pdf)
-* [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
 * [2023-12-13, 21:19:07](https://news.ycombinator.com/item?id=38634258) - [Stop Hiding the Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a transformer represent a Kalman filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to ban engineered stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
