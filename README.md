@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer(2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
@@ -8,6 +9,7 @@
 * [2023-12-14, 17:26:29](https://news.ycombinator.com/item?id=38644085) - [OpenAI Announces $10M Superalignment Grants](https://openai.com/blog/superalignment-fast-grants)
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
+* [2023-12-14, 17:15:27](https://news.ycombinator.com/item?id=38643923) - [What's Going on with Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
 * [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [Canadian internet bill S-210 is a step closer to becoming law](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
@@ -17,7 +19,6 @@
 * [2023-12-14, 16:19:46](https://news.ycombinator.com/item?id=38643017) - [JWST Captures Image of Supernova That 'Absolutely Shattered' a Star](https://www.smithsonianmag.com/smart-news/james-webb-telescope-captures-image-of-supernova-that-absolutely-shattered-a-star-180983421/)
 * [2023-12-14, 15:50:55](https://news.ycombinator.com/item?id=38642651) - [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
 * [2023-12-14, 15:45:00](https://news.ycombinator.com/item?id=38642577) - [Effect Cases in Switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
-* [2023-12-14, 15:18:40](https://news.ycombinator.com/item?id=38642273) - [Moderna Melanoma Vaccine Cuts Death Rate in Half](https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/)
 * [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
 * [2023-12-14, 15:09:29](https://news.ycombinator.com/item?id=38642149) - [Engineers Harvest Clean, Continuous Energy from Air](https://nicenews.com/science/engineers-harvest-electricity-from-air/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
@@ -29,7 +30,6 @@
 * [2023-12-13, 17:37:46](https://news.ycombinator.com/item?id=38630968) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2023-12-13, 03:49:25](https://news.ycombinator.com/item?id=38622404) - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 22:31:31](https://news.ycombinator.com/item?id=38619629) - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
-* [2023-12-12, 19:24:46](https://news.ycombinator.com/item?id=38617036) - [There Once Was an Empire](https://novum.substack.com/p/there-once-was-an-empire)
 
 ## [Archives](archives/index.md)
 
