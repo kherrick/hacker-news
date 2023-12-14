@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38646969"
     ],
     [
-      "Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2",
+      "OnnxStream: Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2",
       "https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "Open and portable Postgres-as-a-service. Also available on Hetzner",
       "https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 19:16:24",
+      "https://news.ycombinator.com/item?id=38645865"
+    ],
+    [
+      "Show HN: Hacker News Git Blame",
+      "https://www.hngitblame.com/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-12-14, 17:19:00",
-      "https://news.ycombinator.com/item?id=38643977"
-    ],
-    [
-      "Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates",
-      "https://www.tu-chemnitz.de/mb/mp/weihnachten2023/"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 17:00:55",
       "https://news.ycombinator.com/item?id=38643696"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-12-14, 16:43:36",
-      "https://news.ycombinator.com/item?id=38643369"
-    ],
-    [
-      "Canadian internet bill S-210 is a step closer to becoming law",
-      "https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 16:24:12",
       "https://news.ycombinator.com/item?id=38643076"
     ],
@@ -217,6 +207,16 @@
     [
       "JWST Captures Image of Supernova That 'Absolutely Shattered' a Star",
       "https://www.smithsonianmag.com/smart-news/james-webb-telescope-captures-image-of-supernova-that-absolutely-shattered-a-star-180983421/"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 15:49:33",
+      "https://news.ycombinator.com/item?id=38642638"
+    ],
+    [
+      "Pitfalls of Helm – Insights from 3 years with the leading K8s package manager",
+      "https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/"
     ]
   ],
   [
