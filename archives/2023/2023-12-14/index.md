@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 16:38:59](https://news.ycombinator.com/item?id=38643300) - [Coinbase targets financially vulnerable young adults](https://popular.info/p/coinbase-targets-financially-vulnerable)
+* [2023-12-14, 16:22:36](https://news.ycombinator.com/item?id=38643046) - [The AI Trust Crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
 * [2023-12-14, 16:02:44](https://news.ycombinator.com/item?id=38642791) - [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
 * [2023-12-14, 15:56:46](https://news.ycombinator.com/item?id=38642715) - [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
 * [2023-12-14, 15:50:55](https://news.ycombinator.com/item?id=38642651) - [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
