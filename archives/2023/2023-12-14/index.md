@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-12-14, 16:45:38](https://news.ycombinator.com/item?id=38643405) - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
+* [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [The Most Dangerous Canadian Internet Bill You've Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
+* [2023-12-14, 16:42:06](https://news.ycombinator.com/item?id=38643348) - [Ubiquiti showing other users' consoles](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
 * [2023-12-14, 16:38:59](https://news.ycombinator.com/item?id=38643300) - [Coinbase targets financially vulnerable young adults](https://popular.info/p/coinbase-targets-financially-vulnerable)
 * [2023-12-14, 16:22:36](https://news.ycombinator.com/item?id=38643046) - [The AI Trust Crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
+* [2023-12-14, 16:19:46](https://news.ycombinator.com/item?id=38643017) - [JWST Captures Image of Supernova That 'Absolutely Shattered' a Star](https://www.smithsonianmag.com/smart-news/james-webb-telescope-captures-image-of-supernova-that-absolutely-shattered-a-star-180983421/)
 * [2023-12-14, 16:02:44](https://news.ycombinator.com/item?id=38642791) - [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
 * [2023-12-14, 15:56:46](https://news.ycombinator.com/item?id=38642715) - [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
 * [2023-12-14, 15:50:55](https://news.ycombinator.com/item?id=38642651) - [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
