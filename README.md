@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
+* [2023-12-14, 03:53:28](https://news.ycombinator.com/item?id=38637564) - [Google's Response to Reptar CPU Vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
+* [2023-12-14, 03:09:38](https://news.ycombinator.com/item?id=38637329) - [Ex-Facebook diversity manager pleads guilty to bilking $4M from company](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds/)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) is hiring senior software engineers and other roles (remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit authorization](https://www.biscuitsec.org/)
@@ -28,8 +30,6 @@
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
-* [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
-* [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman (2011)](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
 
 ## [Archives](archives/index.md)
 
