@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
 * [2023-12-14, 12:00:35](https://news.ycombinator.com/item?id=38640447) - [Doola a \"Business-in-a-Box\" for LLCs (YC S20) Is Hiring a Data Analyst (Remote)](https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
@@ -35,3 +36,4 @@
 * [2023-12-14, 00:40:32](https://news.ycombinator.com/item?id=38636316) - [The average store size in the US is the smallest it's been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
 * [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
 * [2023-12-14, 00:22:04](https://news.ycombinator.com/item?id=38636200) - [Google ad chief Jerry Dischler steps down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
+* [2023-12-14, 00:05:44](https://news.ycombinator.com/item?id=38636059) - [Font Sizes from 4px to 99.9px](https://tobylam.xyz/art/scale-rendered)
