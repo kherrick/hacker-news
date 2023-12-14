@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-12-14, 20:54:23",
+      "https://news.ycombinator.com/item?id=38647101"
+    ],
+    [
+      "The Journal of Universal Rejection",
+      "https://universalrejection.org/"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 20:54:09",
+      "https://news.ycombinator.com/item?id=38647097"
+    ],
+    [
+      "After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly",
+      "https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 20:50:28",
+      "https://news.ycombinator.com/item?id=38647053"
+    ],
+    [
+      "Postfix 25 years old today",
+      "https://marc.info/?l=postfix-users&m=170256002601828&w=2"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 20:43:22",
+      "https://news.ycombinator.com/item?id=38646969"
+    ],
+    [
+      "Stable Diffusion Turbo on a Raspberry Pi Zero 2 generates an image in 29 minutes",
+      "https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 20:35:54",
+      "https://news.ycombinator.com/item?id=38646892"
+    ],
+    [
+      "Magic: The Gathering Is Turing Complete (2019)",
+      "https://arxiv.org/abs/1904.09828"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 20:33:50",
+      "https://news.ycombinator.com/item?id=38646872"
+    ],
+    [
+      "Open and portable Postgres-as-a-service. Also available on Hetzner",
+      "https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 19:33:44",
       "https://news.ycombinator.com/item?id=38646123"
     ],
@@ -25,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38645856"
     ],
     [
-      "Maybe Getting Rid of Your QA Team Was Bad, Actually.",
+      "Maybe getting rid of your QA team was bad",
       "https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b"
     ]
   ],
@@ -55,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38645159"
     ],
     [
-      "Interviewing my mother, a mainframe COBOL programmer(2016)",
+      "Interviewing my mother, a mainframe COBOL programmer (2016)",
       "https://ezali.substack.com/p/interviewing-my-mother-a-mainframe"
     ]
   ],
@@ -131,6 +191,16 @@
   ],
   [
     [
+      "2023-12-14, 16:43:36",
+      "https://news.ycombinator.com/item?id=38643369"
+    ],
+    [
+      "Canadian internet bill S-210 is a step closer to becoming law",
+      "https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 16:42:06",
       "https://news.ycombinator.com/item?id=38643348"
     ],
@@ -151,32 +221,12 @@
   ],
   [
     [
-      "2023-12-14, 16:22:36",
-      "https://news.ycombinator.com/item?id=38643046"
-    ],
-    [
-      "The AI Trust Crisis",
-      "https://simonwillison.net/2023/Dec/14/ai-trust-crisis/"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 16:19:46",
       "https://news.ycombinator.com/item?id=38643017"
     ],
     [
       "JWST Captures Image of Supernova That 'Absolutely Shattered' a Star",
       "https://www.smithsonianmag.com/smart-news/james-webb-telescope-captures-image-of-supernova-that-absolutely-shattered-a-star-180983421/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 16:16:38",
-      "https://news.ycombinator.com/item?id=38642977"
-    ],
-    [
-      "FCC votes to ban termination fees for cable and satellite services",
-      "https://www.cnbc.com/2023/12/13/fcc-votes-to-ban-termination-fees-for-cable-and-satellite-services.html"
     ]
   ],
   [
@@ -201,32 +251,12 @@
   ],
   [
     [
-      "2023-12-14, 15:18:40",
-      "https://news.ycombinator.com/item?id=38642273"
-    ],
-    [
-      "Moderna Melanoma Vaccine Cuts Death Rate in Half",
-      "https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 15:13:11",
       "https://news.ycombinator.com/item?id=38642199"
     ],
     [
       "S-LoRA: Serving Concurrent LoRA Adapters",
       "https://github.com/S-LoRA/S-LoRA"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 13:42:41",
-      "https://news.ycombinator.com/item?id=38641211"
-    ],
-    [
-      "Ledger's NPM account has been hacked",
-      "https://github.com/LedgerHQ/connect-kit/issues/29"
     ]
   ],
   [
@@ -247,36 +277,6 @@
     [
       "Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip",
       "https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 09:56:00",
-      "https://news.ycombinator.com/item?id=38639629"
-    ],
-    [
-      "Should you add screenshots to documentation?",
-      "https://thisisimportant.net/posts/screenshots-in-documentation/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 08:43:38",
-      "https://news.ycombinator.com/item?id=38639206"
-    ],
-    [
-      "AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking",
-      "https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 06:23:36",
-      "https://news.ycombinator.com/item?id=38638421"
-    ],
-    [
-      "Sci-Fi Interfaces: Hackers",
-      "https://scifiinterfaces.com/2023/12/11/hackers/"
     ]
   ],
   [
