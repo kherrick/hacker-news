@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 07:25:51](https://news.ycombinator.com/item?id=38638719) - [Why are you so sure I'll lose?](https://twitter.com/esyudkowsky/status/1735047116001792175?s=46)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 * [2023-12-14, 05:58:53](https://news.ycombinator.com/item?id=38638290) - [Threads Is Testing ActivityPup Integration](https://mastodon.social/@Gargron/111576825980285552)

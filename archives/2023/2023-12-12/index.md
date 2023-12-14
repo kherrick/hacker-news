@@ -7,6 +7,7 @@
 * [2023-12-12, 23:05:01](https://news.ycombinator.com/item?id=38620037) - [Tools for Learning LLVM TableGen](https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/)
 * [2023-12-12, 22:38:42](https://news.ycombinator.com/item?id=38619724) - [What should we make of the return of Sigmund Freud?](https://www.chronicle.com/article/the-old-mans-back-again)
 * [2023-12-12, 22:37:21](https://news.ycombinator.com/item?id=38619703) - [What did the katydids do when picking up bat sounds?](https://phys.org/news/2020-08-katydids.html)
+* [2023-12-12, 22:31:31](https://news.ycombinator.com/item?id=38619629) - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
 * [2023-12-12, 22:18:45](https://news.ycombinator.com/item?id=38619476) - [Smoking Causes Cancer](https://www.allendowney.com/blog/2023/12/12/smoking-causes-cancer-2/)
 * [2023-12-12, 21:31:11](https://news.ycombinator.com/item?id=38618865) - [New AI startup from the co-authors of the Original Transformers Paper](https://essential.ai/)
 * [2023-12-12, 21:18:13](https://news.ycombinator.com/item?id=38618697) - [Your Novel Should Be More Like Moby-Dick](https://countercraft.substack.com/p/your-novel-should-be-more-like-moby)
