@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 16:02:44](https://news.ycombinator.com/item?id=38642791) - [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/)
+* [2023-12-14, 15:56:46](https://news.ycombinator.com/item?id=38642715) - [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
+* [2023-12-14, 15:50:55](https://news.ycombinator.com/item?id=38642651) - [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
 * [2023-12-14, 15:49:33](https://news.ycombinator.com/item?id=38642638) - [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
+* [2023-12-14, 15:40:04](https://news.ycombinator.com/item?id=38642519) - [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/)
 * [2023-12-14, 15:18:40](https://news.ycombinator.com/item?id=38642273) - [Moderna Melanoma Vaccine Cuts Death Rate in Half](https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/)
+* [2023-12-14, 15:17:12](https://news.ycombinator.com/item?id=38642252) - [The Old Internet Is Dying, and Something Worse Is Being Born](https://www.vice.com/en/article/epv8xa/the-old-internet-is-dying-and-something-worse-is-being-born)
 * [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
 * [2023-12-14, 14:04:23](https://news.ycombinator.com/item?id=38641421) - [Idea to App Store in 7 days](https://masilotti.com/idea-to-app-store-in-7-days/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
