@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 09:56:00",
+      "https://news.ycombinator.com/item?id=38639629"
+    ],
+    [
+      "Should you add screenshots to documentation?",
+      "https://thisisimportant.net/posts/screenshots-in-documentation/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 08:43:38",
       "https://news.ycombinator.com/item?id=38639206"
     ],
@@ -27,16 +37,6 @@
     [
       "Trains were designed to break down after third-party repairs, hackers find",
       "https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 06:30:14",
-      "https://news.ycombinator.com/item?id=38638452"
-    ],
-    [
-      "QEMU-iOS, an emulator for legacy Apple devices",
-      "https://github.com/devos50/qemu-ios"
     ]
   ],
   [
