@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 17:24:01](https://news.ycombinator.com/item?id=38644049) - [Former Facebook diversity head pleads guilty to stealing millions](https://www.foxbusiness.com/technology/former-facebook-diversity-head-pleads-guilty-stealing-millions-kickback-scheme-doj-says)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:45:38](https://news.ycombinator.com/item?id=38643405) - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
 * [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [The Most Dangerous Canadian Internet Bill You've Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
@@ -16,6 +17,7 @@
 * [2023-12-14, 15:56:46](https://news.ycombinator.com/item?id=38642715) - [Intel launches Core Ultra processors, can it compete with the Apple M3?](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
 * [2023-12-14, 15:50:55](https://news.ycombinator.com/item?id=38642651) - [Turing Awardees Republished Key Methods and Ideas Without Credit](https://people.idsia.ch/~juergen/ai-priority-disputes.html)
 * [2023-12-14, 15:49:33](https://news.ycombinator.com/item?id=38642638) - [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
+* [2023-12-14, 15:45:00](https://news.ycombinator.com/item?id=38642577) - [Effect Cases in Switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 15:40:04](https://news.ycombinator.com/item?id=38642519) - [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/)
 * [2023-12-14, 15:18:40](https://news.ycombinator.com/item?id=38642273) - [Moderna Melanoma Vaccine Cuts Death Rate in Half](https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/)
 * [2023-12-14, 15:17:12](https://news.ycombinator.com/item?id=38642252) - [The Old Internet Is Dying, and Something Worse Is Being Born](https://www.vice.com/en/article/epv8xa/the-old-internet-is-dying-and-something-worse-is-being-born)
