@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 18:01:52](https://news.ycombinator.com/item?id=38644667) - [Jeff Bezos: Amazon and Blue Origin – Lex Fridman Podcast [video]](https://www.youtube.com/watch?v=DcWqzZ3I2cY)
+* [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
+* [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
+* [2023-12-14, 17:44:41](https://news.ycombinator.com/item?id=38644381) - [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
 * [2023-12-14, 17:24:01](https://news.ycombinator.com/item?id=38644049) - [Former Facebook diversity head pleads guilty to stealing millions](https://www.foxbusiness.com/technology/former-facebook-diversity-head-pleads-guilty-stealing-millions-kickback-scheme-doj-says)
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
 * [2023-12-14, 16:45:38](https://news.ycombinator.com/item?id=38643405) - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
 * [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [The Most Dangerous Canadian Internet Bill You've Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
 * [2023-12-14, 16:42:06](https://news.ycombinator.com/item?id=38643348) - [Ubiquiti showing other users' consoles](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
