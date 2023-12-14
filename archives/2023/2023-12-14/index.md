@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 19:21:06](https://news.ycombinator.com/item?id=38645927) - [Japan says reason behind 1,200 tonnes of fish washing ashore is unknown](https://www.theguardian.com/world/2023/dec/14/ive-never-seen-anything-like-this-japan-says-reason-behind-1200-tonnes-of-fish-washing-ashore-is-unknown)
+* [2023-12-14, 18:36:12](https://news.ycombinator.com/item?id=38645180) - [Show HN: Octopus – a directed acyclic graph for app development](https://github.com/bbsimonbb/octopus-turbo)
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer(2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 18:29:07](https://news.ycombinator.com/item?id=38645095) - [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
