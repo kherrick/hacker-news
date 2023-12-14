@@ -3,6 +3,7 @@
 * [2023-12-14, 22:02:44](https://news.ycombinator.com/item?id=38647938) - [Show HN: Airdraw](https://www.airdraw.io/)
 * [2023-12-14, 21:34:13](https://news.ycombinator.com/item?id=38647562) - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
+* [2023-12-14, 20:50:28](https://news.ycombinator.com/item?id=38647053) - [Postfix 25 years old today](https://marc.info/?l=postfix-users&m=170256002601828&w=2)
 * [2023-12-14, 20:43:22](https://news.ycombinator.com/item?id=38646969) - [OnnxStream: Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2](https://github.com/vitoplantamura/OnnxStream/tree/c0cb4b3d7b419e4b10129904fbe16b850ca5d385)
 * [2023-12-14, 20:37:01](https://news.ycombinator.com/item?id=38646903) - [Apple partly halts Beeper's iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
 * [2023-12-14, 20:35:54](https://news.ycombinator.com/item?id=38646892) - [Magic: The Gathering Is Turing Complete (2019)](https://arxiv.org/abs/1904.09828)
@@ -28,7 +29,6 @@
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
-* [2023-12-14, 06:58:26](https://news.ycombinator.com/item?id=38638580) - [How to Clean Chemistry Glassware](https://www.chem.rochester.edu/notvoodoo/pages/how_to.php?page=clean_glassware)
 * [2023-12-13, 03:49:25](https://news.ycombinator.com/item?id=38622404) - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 
 ## [Archives](archives/index.md)
