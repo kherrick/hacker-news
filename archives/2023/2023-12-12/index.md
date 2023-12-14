@@ -9,6 +9,7 @@
 * [2023-12-12, 22:37:21](https://news.ycombinator.com/item?id=38619703) - [What did the katydids do when picking up bat sounds?](https://phys.org/news/2020-08-katydids.html)
 * [2023-12-12, 22:18:45](https://news.ycombinator.com/item?id=38619476) - [Smoking Causes Cancer](https://www.allendowney.com/blog/2023/12/12/smoking-causes-cancer-2/)
 * [2023-12-12, 21:31:11](https://news.ycombinator.com/item?id=38618865) - [New AI startup from the co-authors of the Original Transformers Paper](https://essential.ai/)
+* [2023-12-12, 21:18:13](https://news.ycombinator.com/item?id=38618697) - [Your Novel Should Be More Like Moby-Dick](https://countercraft.substack.com/p/your-novel-should-be-more-like-moby)
 * [2023-12-12, 21:18:08](https://news.ycombinator.com/item?id=38618696) - [Canonical re-licenses LXD under AGPLv3, slaps a CLA on top](https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/)
 * [2023-12-12, 20:48:36](https://news.ycombinator.com/item?id=38618273) - [Claude for Google Sheets](https://docs.anthropic.com/claude/docs/using-claude-for-sheets)
 * [2023-12-12, 20:47:40](https://news.ycombinator.com/item?id=38618264) - [Ernst and Young just laid off 10% of partners in advisory](https://twitter.com/aakashg0/status/1734586251947192662)

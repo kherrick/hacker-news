@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
+* [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit Authorization](https://www.biscuitsec.org/)
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 23:01:46](https://news.ycombinator.com/item?id=38635452) - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [2023-12-13, 22:58:55](https://news.ycombinator.com/item?id=38635420) - [It's time for developers and enterprises to build with Gemini Pro](https://developers.googleblog.com/2023/12/build-with-gemini-pro.html)
