@@ -40,6 +40,7 @@
 * [2023-12-13, 18:33:47](https://news.ycombinator.com/item?id=38631970) - [Santa Cruz plans high-rise living as a fix for sky-high housing costs](https://www.latimes.com/california/story/2023-12-07/santa-cruz-plans-downtown-high-rises-to-fix-sky-high-housing-costs)
 * [2023-12-13, 18:16:01](https://news.ycombinator.com/item?id=38631647) - [My doomed career as a North Korean novelist](https://www.theguardian.com/news/2023/dec/12/my-doomed-career-as-a-north-korean-novelist)
 * [2023-12-13, 17:50:05](https://news.ycombinator.com/item?id=38631208) - [How to be a sovereign email user? \"you can't, we don't know how to do it.\"](https://twitter.com/lopp/status/1734911638124302596)
+* [2023-12-13, 17:37:46](https://news.ycombinator.com/item?id=38630968) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2023-12-13, 17:29:46](https://news.ycombinator.com/item?id=38630790) - [The Biggest Root Cause of Crime Is Fatherlessness](https://www.wsj.com/articles/the-biggest-root-cause-of-crime-is-fatherlessness-single-motherhood-5cdfe763)
 * [2023-12-13, 17:15:31](https://news.ycombinator.com/item?id=38630511) - [Extreme Wealth Unequality in Germany](https://ungleichheit.info/en/home-en)
 * [2023-12-13, 17:05:49](https://news.ycombinator.com/item?id=38630349) - [First Impressions with Google Gemini](https://blog.roboflow.com/first-impressions-with-google-gemini/)

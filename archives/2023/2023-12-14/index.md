@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
 * [2023-12-14, 18:01:52](https://news.ycombinator.com/item?id=38644667) - [Jeff Bezos: Amazon and Blue Origin – Lex Fridman Podcast [video]](https://www.youtube.com/watch?v=DcWqzZ3I2cY)
+* [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
 * [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 * [2023-12-14, 17:44:41](https://news.ycombinator.com/item?id=38644381) - [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
+* [2023-12-14, 17:26:29](https://news.ycombinator.com/item?id=38644085) - [OpenAI Announces $10M Superalignment Grants](https://openai.com/blog/superalignment-fast-grants)
 * [2023-12-14, 17:24:01](https://news.ycombinator.com/item?id=38644049) - [Former Facebook diversity head pleads guilty to stealing millions](https://www.foxbusiness.com/technology/former-facebook-diversity-head-pleads-guilty-stealing-millions-kickback-scheme-doj-says)
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
