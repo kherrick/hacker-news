@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
 * [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
-* [2023-12-14, 06:30:14](https://news.ycombinator.com/item?id=38638452) - [QEMU-iOS, an emulator for legacy Apple devices](https://github.com/devos50/qemu-ios)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 * [2023-12-14, 04:53:26](https://news.ycombinator.com/item?id=38637917) - [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
