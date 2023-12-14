@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 15:49:33](https://news.ycombinator.com/item?id=38642638) - [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
 * [2023-12-14, 15:18:40](https://news.ycombinator.com/item?id=38642273) - [Moderna Melanoma Vaccine Cuts Death Rate in Half](https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/)
+* [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
 * [2023-12-14, 14:04:23](https://news.ycombinator.com/item?id=38641421) - [Idea to App Store in 7 days](https://masilotti.com/idea-to-app-store-in-7-days/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 * [2023-12-14, 13:40:35](https://news.ycombinator.com/item?id=38641198) - [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
