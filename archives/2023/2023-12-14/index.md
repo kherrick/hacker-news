@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 07:25:51](https://news.ycombinator.com/item?id=38638719) - [Why are you so sure I'll lose?](https://twitter.com/esyudkowsky/status/1735047116001792175?s=46)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)

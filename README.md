@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
@@ -22,7 +23,6 @@
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 18:49:23](https://news.ycombinator.com/item?id=38632250) - [Low-frequency sound can reveal that a tornado is on its way](https://www.bbc.com/future/article/20231212-the-sound-that-warns-a-tornado-is-coming)
-* [2023-12-13, 16:06:44](https://news.ycombinator.com/item?id=38629409) - [Software Applications Incorporated](https://software.inc/)
 * [2023-12-13, 02:16:55](https://news.ycombinator.com/item?id=38621838) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-12, 22:31:31](https://news.ycombinator.com/item?id=38619629) - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
