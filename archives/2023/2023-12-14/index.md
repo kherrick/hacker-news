@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 18:01:52](https://news.ycombinator.com/item?id=38644667) - [Jeff Bezos: Amazon and Blue Origin – Lex Fridman Podcast [video]](https://www.youtube.com/watch?v=DcWqzZ3I2cY)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)

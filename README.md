@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:58:18](https://news.ycombinator.com/item?id=38644596) - [Mark Zuckerberg's Top-Secret Hawaii Compound](https://www.wired.com/story/mark-zuckerberg-inside-hawaii-compound/)
 * [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
@@ -22,7 +23,6 @@
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 * [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing fighting game mechanics (2020)](https://janezhang.ca/work/tekken/)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
-* [2023-12-14, 10:09:04](https://news.ycombinator.com/item?id=38639698) - [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
