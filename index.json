@@ -171,6 +171,26 @@
   ],
   [
     [
+      "2023-12-13, 21:51:54",
+      "https://news.ycombinator.com/item?id=38634667"
+    ],
+    [
+      "Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]",
+      "https://doc.cat-v.org/unix/v8/grap.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 21:19:07",
+      "https://news.ycombinator.com/item?id=38634258"
+    ],
+    [
+      "Stop Hiding the Sharp Knives: The WebAssembly Linux Interface",
+      "https://arxiv.org/abs/2312.03858"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 21:15:27",
       "https://news.ycombinator.com/item?id=38634218"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-12-13, 19:31:44",
-      "https://news.ycombinator.com/item?id=38632970"
-    ],
-    [
-      "Show HN: A pure C89 implementation of Go channels, with blocking selects",
-      "https://github.com/rochus-keller/CspChan"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 19:03:13",
       "https://news.ycombinator.com/item?id=38632492"
     ],
     [
       "SMERF: Streamable Memory Efficient Radiance Fields",
       "https://smerf-3d.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 18:49:23",
-      "https://news.ycombinator.com/item?id=38632250"
-    ],
-    [
-      "Low-frequency sound can reveal that a tornado is on its way",
-      "https://www.bbc.com/future/article/20231212-the-sound-that-warns-a-tornado-is-coming"
     ]
   ],
   [
