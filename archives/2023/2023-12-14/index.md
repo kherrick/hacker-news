@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 02:54:42](https://news.ycombinator.com/item?id=38637240) - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
 * [2023-12-14, 01:18:32](https://news.ycombinator.com/item?id=38636609) - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) Is Hiring Sr Software Engineers and Other Roles (Remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)

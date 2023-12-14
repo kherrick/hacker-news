@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-14, 02:54:42](https://news.ycombinator.com/item?id=38637240) - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
+* [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) is hiring senior software engineers and other roles (remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit authorization](https://www.biscuitsec.org/)
