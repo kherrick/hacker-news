@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-14, 18:01:52",
-      "https://news.ycombinator.com/item?id=38644667"
+      "2023-12-14, 17:58:48",
+      "https://news.ycombinator.com/item?id=38644608"
     ],
     [
-      "Jeff Bezos: Amazon and Blue Origin – Lex Fridman Podcast [video]",
-      "https://www.youtube.com/watch?v=DcWqzZ3I2cY"
+      "Mozilla expands extension support for Firefox for Android",
+      "https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Why did older computers and OSes use UPPER case instead of lower case?",
       "https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 17:26:29",
+      "https://news.ycombinator.com/item?id=38644085"
+    ],
+    [
+      "OpenAI Announces $10M Superalignment Grants",
+      "https://openai.com/blog/superalignment-fast-grants"
     ]
   ],
   [
@@ -141,12 +151,12 @@
   ],
   [
     [
-      "2023-12-14, 15:40:04",
-      "https://news.ycombinator.com/item?id=38642519"
+      "2023-12-14, 15:45:00",
+      "https://news.ycombinator.com/item?id=38642577"
     ],
     [
-      "Men should abstain from drinking at least three months prior to conceiving",
-      "https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/"
+      "Effect Cases in Switch",
+      "https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-12-14, 10:09:04",
+      "https://news.ycombinator.com/item?id=38639698"
+    ],
+    [
+      "Deno 1.39: The Return of WebGPU",
+      "https://deno.com/blog/v1.39"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 07:48:17",
       "https://news.ycombinator.com/item?id=38638865"
     ],
@@ -241,6 +261,16 @@
   ],
   [
     [
+      "2023-12-13, 17:37:46",
+      "https://news.ycombinator.com/item?id=38630968"
+    ],
+    [
+      "What is the index of an empty string in an empty string?",
+      "https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 03:49:25",
       "https://news.ycombinator.com/item?id=38622404"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-12-12, 10:09:19",
-      "https://news.ycombinator.com/item?id=38610892"
+      "2023-12-12, 19:24:46",
+      "https://news.ycombinator.com/item?id=38617036"
     ],
     [
-      "The new local data stack: Integrating Dagster, dbt and DuckDB",
-      "https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 07:22:50",
-      "https://news.ycombinator.com/item?id=38610629"
-    ],
-    [
-      "Home Alone: A Post-Incident Review (2020)",
-      "https://ferd.ca/home-alone-a-post-incident-review.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 07:10:53",
-      "https://news.ycombinator.com/item?id=38610542"
-    ],
-    [
-      "An Adopted Obsession with Soondubu Jjigae, Korean Silken-Tofu Stew",
-      "https://www.newyorker.com/culture/kitchen-notes/an-adopted-obsession-with-soondubu-jjigae-korean-silken-tofu-stew"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 02:25:37",
-      "https://news.ycombinator.com/item?id=38608521"
-    ],
-    [
-      "Donkey Kong: A Record of Struggle",
-      "https://shmuplations.com/donkeykong/"
+      "There Once Was an Empire",
+      "https://novum.substack.com/p/there-once-was-an-empire"
     ]
   ]
 ]
