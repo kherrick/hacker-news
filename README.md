@@ -15,7 +15,6 @@
 * [2023-12-14, 17:15:27](https://news.ycombinator.com/item?id=38643923) - [What's Going on with Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
-* [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [Canadian internet bill S-210 is a step closer to becoming law](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
 * [2023-12-14, 16:42:06](https://news.ycombinator.com/item?id=38643348) - [Security Issue: Cloud Site Manager presented me your consoles, not mine](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
 * [2023-12-14, 16:24:12](https://news.ycombinator.com/item?id=38643076) - [FunSearch: Making new discoveries in mathematical sciences using LLMs](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/)
 * [2023-12-14, 16:22:36](https://news.ycombinator.com/item?id=38643046) - [The AI Trust Crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
@@ -28,6 +27,7 @@
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers](https://scifiinterfaces.com/2023/12/11/hackers/)
+* [2023-12-13, 21:41:49](https://news.ycombinator.com/item?id=38634543) - [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
 * [2023-12-13, 03:49:25](https://news.ycombinator.com/item?id=38622404) - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 22:31:31](https://news.ycombinator.com/item?id=38619629) - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
 
