@@ -34,6 +34,7 @@
 * [2023-12-14, 15:49:33](https://news.ycombinator.com/item?id=38642638) - [Pitfalls of Helm – Insights from 3 yrs with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
 * [2023-12-14, 15:45:00](https://news.ycombinator.com/item?id=38642577) - [Effect Cases in Switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 15:40:04](https://news.ycombinator.com/item?id=38642519) - [Men should abstain from drinking at least three months prior to conceiving](https://today.tamu.edu/2023/12/13/drinking-prior-to-conceiving/)
+* [2023-12-14, 15:30:21](https://news.ycombinator.com/item?id=38642403) - [Link's Awakening DX HD](https://linksawakeningdxhd.itch.io/links-awakening-dx-hd)
 * [2023-12-14, 15:18:40](https://news.ycombinator.com/item?id=38642273) - [Moderna Melanoma Vaccine Cuts Death Rate in Half](https://www.reuters.com/business/healthcare-pharmaceuticals/benefits-moderna-merck-melanoma-vaccine-plus-keytruda-extend-three-years-2023-12-14/)
 * [2023-12-14, 15:17:12](https://news.ycombinator.com/item?id=38642252) - [The Old Internet Is Dying, and Something Worse Is Being Born](https://www.vice.com/en/article/epv8xa/the-old-internet-is-dying-and-something-worse-is-being-born)
 * [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
