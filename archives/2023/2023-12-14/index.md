@@ -18,6 +18,7 @@
 * [2023-12-14, 20:33:50](https://news.ycombinator.com/item?id=38646872) - [Open and portable Postgres-as-a-service. Also available on Hetzner](https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner)
 * [2023-12-14, 19:33:44](https://news.ycombinator.com/item?id=38646123) - [DeepMind AI outdoes human mathematicians on unsolved problem](https://www.nature.com/articles/d41586-023-04043-w)
 * [2023-12-14, 19:21:06](https://news.ycombinator.com/item?id=38645927) - [Japan says reason behind 1,200 tonnes of fish washing ashore is unknown](https://www.theguardian.com/world/2023/dec/14/ive-never-seen-anything-like-this-japan-says-reason-behind-1200-tonnes-of-fish-washing-ashore-is-unknown)
+* [2023-12-14, 19:16:24](https://news.ycombinator.com/item?id=38645865) - [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
 * [2023-12-14, 19:15:58](https://news.ycombinator.com/item?id=38645856) - [Maybe Getting Rid of Your QA Team Was Bad, Actually.](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 * [2023-12-14, 18:46:45](https://news.ycombinator.com/item?id=38645340) - ['It's all gone': CAR-T therapy forces autoimmune diseases into remission](https://www.nature.com/articles/d41586-023-03968-6)
 * [2023-12-14, 18:36:12](https://news.ycombinator.com/item?id=38645180) - [Show HN: Octopus – a directed acyclic graph for app development](https://github.com/bbsimonbb/octopus-turbo)
