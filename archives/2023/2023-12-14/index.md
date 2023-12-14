@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
 * [2023-12-14, 05:58:53](https://news.ycombinator.com/item?id=38638290) - [Threads Is Testing ActivityPup Integration](https://mastodon.social/@Gargron/111576825980285552)
+* [2023-12-14, 05:12:23](https://news.ycombinator.com/item?id=38638045) - [High Scalability is up for sale](http://highscalability.com/blog/2023/12/11/highscalability-is-up-for-sale.html)
 * [2023-12-14, 04:42:00](https://news.ycombinator.com/item?id=38637853) - [Microsoft releases Windows AI studio to run and fine tune models locally](https://github.com/microsoft/windows-ai-studio)
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 03:53:28](https://news.ycombinator.com/item?id=38637564) - [Google's Response to Reptar CPU Vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
