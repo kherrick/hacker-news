@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) Is Hiring Sr Software Engineers and Other Roles (Remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
-* [2023-12-14, 00:40:32](https://news.ycombinator.com/item?id=38636316) - [The average store size in the US is the smallest it's been in at least 17 years](https://www.wsj.com/real-estate/commercial/the-american-store-is-shrinking-7603e979)
 * [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
+* [2023-12-14, 00:22:04](https://news.ycombinator.com/item?id=38636200) - [Google ad chief Jerry Dischler steps down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit Authorization](https://www.biscuitsec.org/)
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
@@ -20,6 +20,7 @@
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
 * [2023-12-13, 18:49:23](https://news.ycombinator.com/item?id=38632250) - [Low-frequency sound can reveal that a tornado is on its way](https://www.bbc.com/future/article/20231212-the-sound-that-warns-a-tornado-is-coming)
 * [2023-12-13, 18:16:01](https://news.ycombinator.com/item?id=38631647) - [My doomed career as a North Korean novelist](https://www.theguardian.com/news/2023/dec/12/my-doomed-career-as-a-north-korean-novelist)
+* [2023-12-13, 16:17:08](https://news.ycombinator.com/item?id=38629539) - [Show HN: PyApp – runtime installer for Python applications](https://github.com/ofek/pyapp)
 * [2023-12-13, 15:11:26](https://news.ycombinator.com/item?id=38628489) - [Cortex A57, Nintendo Switch's CPU](https://chipsandcheese.com/2023/12/12/cortex-a57-nintendo-switchs-cpu/)
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
@@ -29,7 +30,6 @@
 * [2023-12-12, 16:10:22](https://news.ycombinator.com/item?id=38614095) - [A Camera, Not an Engine](https://studio.ribbonfarm.com/p/a-camera-not-an-engine)
 * [2023-12-12, 16:08:06](https://news.ycombinator.com/item?id=38614054) - [Dungeons and Directories, an exploration game in your file explorer](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 06:03:37](https://news.ycombinator.com/item?id=38610090) - [Screenwriters' Lecture: Charlie Kaufman (2011)](https://www.bafta.org/media-centre/transcripts/screenwriters-lecture-charlie-kaufman)
-* [2023-12-11, 16:48:16](https://news.ycombinator.com/item?id=38602171) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 
 ## [Archives](archives/index.md)
 
