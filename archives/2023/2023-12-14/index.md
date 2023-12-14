@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
 * [2023-12-14, 17:24:01](https://news.ycombinator.com/item?id=38644049) - [Former Facebook diversity head pleads guilty to stealing millions](https://www.foxbusiness.com/technology/former-facebook-diversity-head-pleads-guilty-stealing-millions-kickback-scheme-doj-says)
+* [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
+* [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:45:38](https://news.ycombinator.com/item?id=38643405) - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
 * [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [The Most Dangerous Canadian Internet Bill You've Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
