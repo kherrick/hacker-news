@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-14, 06:30:14",
+      "https://news.ycombinator.com/item?id=38638452"
+    ],
+    [
+      "QEMU-iOS, an emulator for legacy Apple devices",
+      "https://github.com/devos50/qemu-ios"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 06:23:36",
       "https://news.ycombinator.com/item?id=38638421"
     ],
@@ -157,16 +167,6 @@
     [
       "Grap – Kernighan and Bentley's language for typesetting graphs (1984) [pdf]",
       "https://doc.cat-v.org/unix/v8/grap.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 21:19:07",
-      "https://news.ycombinator.com/item?id=38634258"
-    ],
-    [
-      "Stop Hiding the Sharp Knives: The WebAssembly Linux Interface",
-      "https://arxiv.org/abs/2312.03858"
     ]
   ],
   [
