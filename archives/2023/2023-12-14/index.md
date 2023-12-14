@@ -20,6 +20,7 @@
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:54:55](https://news.ycombinator.com/item?id=38639621) - [Multiple microprocessors as a single CPU (not multiprocessing)](https://forum.vcfed.org/index.php?threads/multiple-microprocessors-as-a-single-cpu-not-multiprocessing.1245942/)
 * [2023-12-14, 09:42:42](https://news.ycombinator.com/item?id=38639552) - [Fracking for Europe](https://www.arte.tv/en/videos/115476-000-A/arte-reportage/)
+* [2023-12-14, 08:57:24](https://news.ycombinator.com/item?id=38639283) - [Improving Node.js Loader Performance](https://sentry.engineering/blog/improving-nodejs-loader-performance)
 * [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
 * [2023-12-14, 08:16:01](https://news.ycombinator.com/item?id=38639022) - [Xorg being removed. What does this mean?](http://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
