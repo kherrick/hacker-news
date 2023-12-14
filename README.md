@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-14, 07:25:51](https://news.ycombinator.com/item?id=38638719) - [Why are you so sure I'll lose?](https://twitter.com/esyudkowsky/status/1735047116001792175?s=46)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 * [2023-12-14, 06:14:23](https://news.ycombinator.com/item?id=38638373) - [Ask HN: Daily practices for building AI/ML skills?](https://news.ycombinator.com/item?id=38638373)
 * [2023-12-14, 04:53:26](https://news.ycombinator.com/item?id=38637917) - [Diffusion Models for Robotics Control](https://diffusion-policy.cs.columbia.edu/)
@@ -27,6 +26,7 @@
 * [2023-12-13, 02:16:55](https://news.ycombinator.com/item?id=38621838) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-12, 22:31:31](https://news.ycombinator.com/item?id=38619629) - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
+* [2023-12-12, 19:24:46](https://news.ycombinator.com/item?id=38617036) - [There Once Was an Empire](https://novum.substack.com/p/there-once-was-an-empire)
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
 * [2023-12-12, 15:07:32](https://news.ycombinator.com/item?id=38613106) - [Building Node.js applications without dependencies](https://www.bonaroo.nl/2023/12/12/building-node-applications-without-dependencies.html)
 * [2023-12-12, 02:25:37](https://news.ycombinator.com/item?id=38608521) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)

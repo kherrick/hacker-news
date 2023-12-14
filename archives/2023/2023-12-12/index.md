@@ -20,6 +20,7 @@
 * [2023-12-12, 19:46:52](https://news.ycombinator.com/item?id=38617359) - [What we watched: Netflix releases global viewing figures](https://about.netflix.com/en/news/what-we-watched-a-netflix-engagement-report)
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
 * [2023-12-12, 19:42:34](https://news.ycombinator.com/item?id=38617288) - [Ford cutting 2024 F-150 Lightning production plans by half](https://www.autonews.com/manufacturing/ford-cutting-f-150-lightning-ev-production-half-memo-says)
+* [2023-12-12, 19:24:46](https://news.ycombinator.com/item?id=38617036) - [There Once Was an Empire](https://novum.substack.com/p/there-once-was-an-empire)
 * [2023-12-12, 19:16:43](https://news.ycombinator.com/item?id=38616922) - [Hardening Cellular Basebands in Android](https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html)
 * [2023-12-12, 19:13:48](https://news.ycombinator.com/item?id=38616888) - [The Singularity Is Nigh!](https://www.programmablemutter.com/p/the-singularity-is-nigh-republished)
 * [2023-12-12, 19:03:55](https://news.ycombinator.com/item?id=38616753) - [What Will Enter the Public Domain in 2024?](https://publicdomainreview.org/features/entering-the-public-domain/2024/)
