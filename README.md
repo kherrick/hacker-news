@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-14, 10:26:36](https://news.ycombinator.com/item?id=38639806) - [On being wrong about AI](https://scottaaronson.blog/?p=7672)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:54:55](https://news.ycombinator.com/item?id=38639621) - [Multiple microprocessors as a single CPU (not multiprocessing)](https://forum.vcfed.org/index.php?threads/multiple-microprocessors-as-a-single-cpu-not-multiprocessing.1245942/)
 * [2023-12-14, 09:42:42](https://news.ycombinator.com/item?id=38639552) - [Fracking for Europe](https://www.arte.tv/en/videos/115476-000-A/arte-reportage/)
@@ -29,6 +28,7 @@
 * [2023-12-12, 19:46:05](https://news.ycombinator.com/item?id=38617346) - [Making OKRs more playful using hill charts](https://martin.sh/engaging-okr-checkins-with-hill-charts/)
 * [2023-12-12, 19:24:46](https://news.ycombinator.com/item?id=38617036) - [There Once Was an Empire](https://novum.substack.com/p/there-once-was-an-empire)
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
+* [2023-12-12, 10:09:19](https://news.ycombinator.com/item?id=38610892) - [The new local data stack: Integrating Dagster, dbt and DuckDB](https://georgheiler.com/2023/12/11/dagster-dbt-duckdb-as-new-local-mds/)
 * [2023-12-12, 02:25:37](https://news.ycombinator.com/item?id=38608521) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 
 ## [Archives](archives/index.md)
