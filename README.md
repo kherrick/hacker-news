@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-14, 01:18:32](https://news.ycombinator.com/item?id=38636609) - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) is hiring senior software engineers and other roles (remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
 * [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
 * [2023-12-14, 00:22:04](https://news.ycombinator.com/item?id=38636200) - [Google ad chief stepping down weeks after antitrust trial testimony](https://nypost.com/2023/11/29/business/google-ad-chief-jerry-dischler-stepping-down-weeks-after-antitrust-trial-testimony/)
@@ -25,6 +24,7 @@
 * [2023-12-13, 14:31:27](https://news.ycombinator.com/item?id=38627864) - [The Linux Scheduler: A Decade of Wasted Cores (2016) [pdf]](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-13, 14:28:09](https://news.ycombinator.com/item?id=38627821) - [Q&A With Bill Mensch, co-creator of the 6502](https://spectrum.ieee.org/q-a-with-co-creator-of-the-6502-processor)
 * [2023-12-13, 01:05:34](https://news.ycombinator.com/item?id=38621270) - [US agency will not reinstate $900M subsidy for Starlink](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
+* [2023-12-12, 22:38:42](https://news.ycombinator.com/item?id=38619724) - [What’s behind the Freud resurgence?](https://www.chronicle.com/article/the-old-mans-back-again)
 * [2023-12-12, 21:18:13](https://news.ycombinator.com/item?id=38618697) - [The whale fact chapters in Moby-Dick are among the most memorable](https://countercraft.substack.com/p/your-novel-should-be-more-like-moby)
 * [2023-12-12, 17:39:39](https://news.ycombinator.com/item?id=38615521) - [Concept sliders: LoRA adaptors for precise control in diffusion models](https://sliders.baulab.info/)
 * [2023-12-12, 16:10:22](https://news.ycombinator.com/item?id=38614095) - [A Camera, Not an Engine](https://studio.ribbonfarm.com/p/a-camera-not-an-engine)
