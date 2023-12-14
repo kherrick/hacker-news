@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-14, 12:00:35",
+      "https://news.ycombinator.com/item?id=38640447"
+    ],
+    [
+      "Doola a \"Business-in-a-Box\" for LLCs (YC S20) Is Hiring a Data Analyst (Remote)",
+      "https://www.ycombinator.com/companies/doola/jobs/Vt6SnyX-data-scientist-remote"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 11:55:37",
+      "https://news.ycombinator.com/item?id=38640406"
+    ],
+    [
+      "Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip",
+      "https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 09:56:00",
       "https://news.ycombinator.com/item?id=38639629"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38639552"
     ],
     [
-      "Fracking for Europe",
+      "Fracking for Europe [video]",
       "https://www.arte.tv/en/videos/115476-000-A/arte-reportage/"
     ]
   ],
@@ -131,22 +151,22 @@
   ],
   [
     [
-      "2023-12-14, 01:00:27",
-      "https://news.ycombinator.com/item?id=38636478"
-    ],
-    [
-      "Jerry (YC S17) is hiring senior software engineers and other roles (remote)",
-      "https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 00:26:25",
       "https://news.ycombinator.com/item?id=38636225"
     ],
     [
       "Do black holes have singularities?",
       "https://arxiv.org/abs/2312.00841"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 23:26:38",
+      "https://news.ycombinator.com/item?id=38635695"
+    ],
+    [
+      "Show HN: I scraped 25M Shopify products to build a search engine",
+      "https://www.searchagora.com/"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-12-13, 21:15:27",
-      "https://news.ycombinator.com/item?id=38634218"
+      "2023-12-13, 21:19:07",
+      "https://news.ycombinator.com/item?id=38634258"
     ],
     [
-      "Can a transformer represent a Kalman filter?",
-      "https://arxiv.org/abs/2312.06937"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 21:14:15",
-      "https://news.ycombinator.com/item?id=38634213"
-    ],
-    [
-      "Australia to ban engineered stone",
-      "https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 20:48:34",
-      "https://news.ycombinator.com/item?id=38633926"
-    ],
-    [
-      "Show HN: Play Othello in your web browser (made with Mithril)",
-      "https://jawj.github.io/fliptiles/"
+      "Stop Hiding the Sharp Knives: The WebAssembly Linux Interface",
+      "https://arxiv.org/abs/2312.03858"
     ]
   ],
   [
