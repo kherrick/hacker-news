@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 14:04:23](https://news.ycombinator.com/item?id=38641421) - [Idea to App Store in 7 days](https://masilotti.com/idea-to-app-store-in-7-days/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 * [2023-12-14, 13:40:35](https://news.ycombinator.com/item?id=38641198) - [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
 * [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-14, 14:04:23](https://news.ycombinator.com/item?id=38641421) - [Idea to App Store in 7 days](https://masilotti.com/idea-to-app-store-in-7-days/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 * [2023-12-14, 13:40:35](https://news.ycombinator.com/item?id=38641198) - [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
 * [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
@@ -19,7 +20,6 @@
 * [2023-12-14, 04:42:00](https://news.ycombinator.com/item?id=38637853) - [Windows AI Studio Preview](https://github.com/microsoft/windows-ai-studio)
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Do black holes have singularities?](https://arxiv.org/abs/2312.00841)
-* [2023-12-14, 00:05:44](https://news.ycombinator.com/item?id=38636059) - [Font Sizes from 4px to 99.9px](https://tobylam.xyz/art/scale-rendered)
 * [2023-12-13, 23:18:57](https://news.ycombinator.com/item?id=38635617) - [Biscuit authorization](https://www.biscuitsec.org/)
 * [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 19:03:13](https://news.ycombinator.com/item?id=38632492) - [SMERF: Streamable Memory Efficient Radiance Fields](https://smerf-3d.github.io/)
