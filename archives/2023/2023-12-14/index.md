@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 20:54:23](https://news.ycombinator.com/item?id=38647101) - [The Journal of Universal Rejection](https://universalrejection.org/)
 * [2023-12-14, 20:54:09](https://news.ycombinator.com/item?id=38647097) - [After getting $824M in state aid, GM to cut 900 jobs at Orion Assembly](https://www.michigancapitolconfidential.com/news/after-getting-824m-in-state-aid-gm-to-cut-900-jobs-at-orion-assembly)
 * [2023-12-14, 20:51:44](https://news.ycombinator.com/item?id=38647071) - [Unattractive funds managers outperform funds with attractive managers by over 2%](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4322134)
