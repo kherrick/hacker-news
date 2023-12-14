@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
 * [2023-12-13, 23:26:38](https://news.ycombinator.com/item?id=38635695) - [Show HN: I scraped 25M Shopify products to build a search engine](https://www.searchagora.com/)
+* [2023-12-13, 23:17:20](https://news.ycombinator.com/item?id=38635599) - [New insights into neural end-of-life](https://neurosciencenews.com/death-brain-neuroscience-25356/)
 * [2023-12-13, 23:01:46](https://news.ycombinator.com/item?id=38635452) - [The limitations of deep learning (2017)](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [2023-12-13, 22:58:55](https://news.ycombinator.com/item?id=38635420) - [It's time for developers and enterprises to build with Gemini Pro](https://developers.googleblog.com/2023/12/build-with-gemini-pro.html)
 * [2023-12-13, 22:56:06](https://news.ycombinator.com/item?id=38635382) - [Remembering things that haven't happened yet:a love story about predictive power](https://bessstillman.substack.com/p/remembering-things-that-havent-happened)
@@ -16,6 +17,7 @@
 * [2023-12-13, 21:43:23](https://news.ycombinator.com/item?id=38634562) - [Show HN: Django Ninja CRUD – Rethinking CRUD Operations in Django](https://github.com/hbakri/django-ninja-crud)
 * [2023-12-13, 21:41:49](https://news.ycombinator.com/item?id=38634543) - [The state of merging technology](https://bramcohen.com/p/the-state-of-merging-technology)
 * [2023-12-13, 21:36:53](https://news.ycombinator.com/item?id=38634490) - [Phi-2](https://huggingface.co/microsoft/phi-2)
+* [2023-12-13, 21:19:07](https://news.ycombinator.com/item?id=38634258) - [Stop Hiding the Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 21:15:27](https://news.ycombinator.com/item?id=38634218) - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/abs/2312.06937)
 * [2023-12-13, 21:14:15](https://news.ycombinator.com/item?id=38634213) - [Australia to Ban Engineered Stone](https://www.abc.net.au/news/2023-12-13/engineered-stone-ban-discussed-at-ministers-meeting/103224362)
 * [2023-12-13, 21:09:13](https://news.ycombinator.com/item?id=38634164) - [Tech Predictions for 2024 and Beyond Dr. Werner Vogels, CTO, Amazon.com](https://www.allthingsdistributed.com/2023/11/tech-predictions-for-2024-and-beyond.html)

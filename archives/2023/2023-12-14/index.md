@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-14](index.md)
+
+* [2023-12-14, 00:26:25](https://news.ycombinator.com/item?id=38636225) - [Roy Kerr: Do Black Holes Have Singularities?](https://arxiv.org/abs/2312.00841)
