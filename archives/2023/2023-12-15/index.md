@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 * [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
@@ -13,6 +14,7 @@
 * [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII British female code breaker Mary Ratcliffe dies](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
 * [2023-12-15, 13:52:13](https://news.ycombinator.com/item?id=38654160) - [Half-Male, Half-Female Bird Captured on Film in Colombia](https://www.forbes.com/sites/grrlscientist/2023/12/14/bizarre-half-male-half-female-bird-captured-on-film-in-colombia/)
 * [2023-12-15, 13:27:58](https://news.ycombinator.com/item?id=38653958) - [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
+* [2023-12-15, 13:07:30](https://news.ycombinator.com/item?id=38653771) - [Quantum Batteries Break Causality](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
