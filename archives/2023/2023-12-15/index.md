@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+* [2023-12-15, 18:01:05](https://news.ycombinator.com/item?id=38656727) - [Fastmail Employees Form a Union](https://union.place/@fastmailunited/111563614375789166)
 * [2023-12-15, 18:00:30](https://news.ycombinator.com/item?id=38656721) - [Gym Class VR (YC W22) Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2023-12-15, 17:43:54](https://news.ycombinator.com/item?id=38656529) - [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
 * [2023-12-15, 17:31:13](https://news.ycombinator.com/item?id=38656382) - [NixOS has one fatal flaw](https://changelog.com/posts/nixos-fatal-flaw)
