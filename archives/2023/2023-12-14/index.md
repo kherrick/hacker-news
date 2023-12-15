@@ -83,6 +83,7 @@
 * [2023-12-14, 10:09:04](https://news.ycombinator.com/item?id=38639698) - [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:54:55](https://news.ycombinator.com/item?id=38639621) - [Multiple microprocessors as a single CPU (not multiprocessing)](https://forum.vcfed.org/index.php?threads/multiple-microprocessors-as-a-single-cpu-not-multiprocessing.1245942/)
+* [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-14, 09:42:42](https://news.ycombinator.com/item?id=38639552) - [Fracking for Europe](https://www.arte.tv/en/videos/115476-000-A/arte-reportage/)
 * [2023-12-14, 08:57:24](https://news.ycombinator.com/item?id=38639283) - [Improving Node.js Loader Performance](https://sentry.engineering/blog/improving-nodejs-loader-performance)
 * [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)

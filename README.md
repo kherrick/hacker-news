@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 17:00:55](https://news.ycombinator.com/item?id=38656038) - [Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
@@ -18,7 +19,6 @@
 * [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-* [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
@@ -26,7 +26,7 @@
 * [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
-* [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
+* [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
 * [2023-12-13, 20:47:49](https://news.ycombinator.com/item?id=38633916) - [Why the Oracle of Delphi Still Beguiles](https://www.historytoday.com/archive/making-history/why-oracle-delphi-still-beguiles)
 * [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime related server crashes (2011)](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
