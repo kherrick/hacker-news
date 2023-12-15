@@ -41,6 +41,7 @@
 * [2023-12-14, 17:09:37](https://news.ycombinator.com/item?id=38643843) - [Ruby's private keyword is weird](https://blog.jez.io/ruby-private/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
+* [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 16:45:38](https://news.ycombinator.com/item?id=38643405) - [When the New York Times lost its way](https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-its-way)
 * [2023-12-14, 16:43:36](https://news.ycombinator.com/item?id=38643369) - [The Most Dangerous Canadian Internet Bill You've Never Heard of Is a Step Closer](https://www.michaelgeist.ca/2023/12/the-most-dangerous-canadian-internet-bill-youve-never-heard-of-is-a-step-closer-to-becoming-law/)
 * [2023-12-14, 16:42:06](https://news.ycombinator.com/item?id=38643348) - [Ubiquiti showing other users' consoles](https://community.ui.com/questions/Security-Issue-Cloud-Site-Manager-presented-me-your-consoles-not-mine/376ec514-572d-476d-b089-030c4313888c)
