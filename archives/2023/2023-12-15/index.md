@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 * [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
 * [2023-12-15, 18:06:04](https://news.ycombinator.com/item?id=38656776) - [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)

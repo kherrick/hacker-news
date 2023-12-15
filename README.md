@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 * [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
 * [2023-12-15, 18:06:04](https://news.ycombinator.com/item?id=38656776) - [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)
@@ -22,7 +23,6 @@
 * [2023-12-15, 11:15:46](https://news.ycombinator.com/item?id=38653017) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
-* [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-14, 21:27:49](https://news.ycombinator.com/item?id=38647490) - [A group of radical artists smuggled political messages into Melrose Place](https://slate.com/culture/2023/12/melrose-place-abortion-art-gala-committee-mel-chin.html)
 * [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
