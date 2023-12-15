@@ -82,6 +82,7 @@
 * [2023-12-14, 07:54:14](https://news.ycombinator.com/item?id=38638893) - [Fast Fashion Casino](https://dirt.fyi/article/2023/11/fast-fashion-casino)
 * [2023-12-14, 07:48:17](https://news.ycombinator.com/item?id=38638865) - [Trains were designed to break down after third-party repairs, hackers find](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)
 * [2023-12-14, 07:25:51](https://news.ycombinator.com/item?id=38638719) - [Why are you so sure I'll lose?](https://twitter.com/esyudkowsky/status/1735047116001792175?s=46)
+* [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-14, 06:58:26](https://news.ycombinator.com/item?id=38638580) - [How to Clean Chemistry Glassware](https://www.chem.rochester.edu/notvoodoo/pages/how_to.php?page=clean_glassware)
 * [2023-12-14, 06:30:14](https://news.ycombinator.com/item?id=38638452) - [QEMU-iOS, an emulator for legacy Apple devices](https://github.com/devos50/qemu-ios)
 * [2023-12-14, 06:23:36](https://news.ycombinator.com/item?id=38638421) - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)

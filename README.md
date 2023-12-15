@@ -28,7 +28,7 @@
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
-* [2023-12-14, 03:05:54](https://news.ycombinator.com/item?id=38637310) - [TV Detector Vans](https://en.wikipedia.org/wiki/TV_detector_van)
+* [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-13, 03:49:25](https://news.ycombinator.com/item?id=38622404) - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 
 ## [Archives](archives/index.md)
