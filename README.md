@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
+* [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:34:51](https://news.ycombinator.com/item?id=38654567) - [September 11th That You Have Never Seen](https://medium.com/@jeremiahjw/31-photos-from-september-11th-that-you-have-never-seen-9514aaac2d54)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
