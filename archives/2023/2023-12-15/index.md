@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 22:21:23](https://news.ycombinator.com/item?id=38659549) - [It's Been 2 Months. Why Can't NASA Open the Asteroid Sample Container?](https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598)
 * [2023-12-15, 22:14:46](https://news.ycombinator.com/item?id=38659485) - [Jury Orders Giuliani to Pay $148M to Election Workers He Defamed](https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html)
+* [2023-12-15, 22:06:25](https://news.ycombinator.com/item?id=38659404) - [Cloudflare is experiencing elevated 5xx responses](https://news.ycombinator.com/item?id=38659404)
 * [2023-12-15, 21:55:18](https://news.ycombinator.com/item?id=38659291) - [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 * [2023-12-15, 21:27:36](https://news.ycombinator.com/item?id=38659045) - [Greek-yogurt maker Chobani buys coffee company La Colombe for $900M](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
 * [2023-12-15, 20:52:02](https://news.ycombinator.com/item?id=38658658) - [Adblock Plus is showing a fake progress bar after updating](https://twitter.com/gorhill/status/1735718771908628724)
