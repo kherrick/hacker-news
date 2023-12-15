@@ -14,6 +14,7 @@
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+* [2023-12-15, 04:04:42](https://news.ycombinator.com/item?id=38650860) - [Computers are an inherently oppressive technology](https://www.devever.net/~hl/ruthlessness)
 * [2023-12-15, 03:57:49](https://news.ycombinator.com/item?id=38650810) - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 * [2023-12-15, 00:37:37](https://news.ycombinator.com/item?id=38649554) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
@@ -29,7 +30,6 @@
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
-* [2023-12-14, 02:49:40](https://news.ycombinator.com/item?id=38637211) - [This device might be England’s oldest dated scientific instrument](https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/)
 
 ## [Archives](archives/index.md)
 
