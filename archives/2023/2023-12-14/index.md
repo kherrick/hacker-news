@@ -79,6 +79,7 @@
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
 * [2023-12-14, 11:50:07](https://news.ycombinator.com/item?id=38640370) - [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival)
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
+* [2023-12-14, 10:46:39](https://news.ycombinator.com/item?id=38639946) - [Mesh Neural Cellular Automata](https://meshnca.github.io/)
 * [2023-12-14, 10:26:36](https://news.ycombinator.com/item?id=38639806) - [On being wrong about AI](https://scottaaronson.blog/?p=7672)
 * [2023-12-14, 10:09:04](https://news.ycombinator.com/item?id=38639698) - [Deno 1.39: The Return of WebGPU](https://deno.com/blog/v1.39)
 * [2023-12-14, 09:56:00](https://news.ycombinator.com/item?id=38639629) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)

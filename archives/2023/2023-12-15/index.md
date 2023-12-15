@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 18:00:30](https://news.ycombinator.com/item?id=38656721) - [Gym Class VR (YC W22) Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+* [2023-12-15, 17:43:54](https://news.ycombinator.com/item?id=38656529) - [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
 * [2023-12-15, 17:00:56](https://news.ycombinator.com/item?id=38656039) - [Do large language models need all those layers?](https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers)
 * [2023-12-15, 17:00:55](https://news.ycombinator.com/item?id=38656038) - [Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
 * [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)

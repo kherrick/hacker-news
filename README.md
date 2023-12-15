@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 18:00:30](https://news.ycombinator.com/item?id=38656721) - [Gym Class VR (YC W22) Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+* [2023-12-15, 17:43:54](https://news.ycombinator.com/item?id=38656529) - [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
 * [2023-12-15, 17:00:56](https://news.ycombinator.com/item?id=38656039) - [Do large language models need all those layers?](https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers)
 * [2023-12-15, 17:00:55](https://news.ycombinator.com/item?id=38656038) - [Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
-* [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)
 * [2023-12-15, 16:11:57](https://news.ycombinator.com/item?id=38655536) - [Threestudio – A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio)
 * [2023-12-15, 15:57:13](https://news.ycombinator.com/item?id=38655377) - [\"CSS is dramatically more difficult than learning assembly language\" [audio]](https://feeds.resonaterecordings.com/software-unscripted)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
@@ -16,7 +17,6 @@
 * [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 * [2023-12-15, 13:07:30](https://news.ycombinator.com/item?id=38653771) - [Quantum Batteries Break Causality](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
-* [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 11:15:46](https://news.ycombinator.com/item?id=38653017) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
 * [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
@@ -27,8 +27,8 @@
 * [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
+* [2023-12-14, 10:46:39](https://news.ycombinator.com/item?id=38639946) - [Mesh Neural Cellular Automata](https://meshnca.github.io/)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
-* [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
 * [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime related server crashes (2011)](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 
 ## [Archives](archives/index.md)
