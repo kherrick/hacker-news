@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 22:14:46](https://news.ycombinator.com/item?id=38659485) - [Jury Orders Giuliani to Pay $148M to Election Workers He Defamed](https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html)
 * [2023-12-15, 21:27:36](https://news.ycombinator.com/item?id=38659045) - [Greek-yogurt maker Chobani buys coffee company La Colombe for $900M](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
 * [2023-12-15, 20:52:02](https://news.ycombinator.com/item?id=38658658) - [Adblock Plus is showing a fake progress bar after updating](https://twitter.com/gorhill/status/1735718771908628724)
 * [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
+* [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
 * [2023-12-15, 20:13:57](https://news.ycombinator.com/item?id=38658262) - [A simple programming productivity trick: leave work unfinished to reach flow](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 * [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
 * [2023-12-15, 19:42:17](https://news.ycombinator.com/item?id=38657910) - [The case of the missing Vega AVUM propellant tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
@@ -40,6 +42,7 @@
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 * [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
 * [2023-12-15, 15:11:19](https://news.ycombinator.com/item?id=38654910) - [Cautionary tale about letting big companies on federated communication protocols](https://cloudisland.nz/@fincham/111581381415456989)
+* [2023-12-15, 15:05:03](https://news.ycombinator.com/item?id=38654850) - [Queer People with Paws and Claws and Their Kweer Kapers (1888)](https://ufdc.ufl.edu/UF00055868/00001)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:34:51](https://news.ycombinator.com/item?id=38654567) - [September 11th That You Have Never Seen](https://medium.com/@jeremiahjw/31-photos-from-september-11th-that-you-have-never-seen-9514aaac2d54)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
