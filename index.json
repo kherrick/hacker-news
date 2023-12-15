@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-15, 21:27:36",
+      "https://news.ycombinator.com/item?id=38659045"
+    ],
+    [
+      "Greek-yogurt maker Chobani buys coffee company La Colombe for $900M",
+      "https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 20:52:02",
+      "https://news.ycombinator.com/item?id=38658658"
+    ],
+    [
+      "Adblock Plus is showing a fake progress bar after updating",
+      "https://twitter.com/gorhill/status/1735718771908628724"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 20:38:31",
       "https://news.ycombinator.com/item?id=38658508"
     ],
@@ -27,6 +47,16 @@
     [
       "Merriam-Webster's 404 Page",
       "https://www.merriam-webster.com/notfound"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 19:42:17",
+      "https://news.ycombinator.com/item?id=38657910"
+    ],
+    [
+      "ESA Confirms Vega Tanks Missing: Theft or Asymmetric Warfare?",
+      "https://orbitaltoday.com/2023/12/09/avio-fuel-tanks-theft-or-asymmetric-warfare/"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-12-15, 11:32:44",
-      "https://news.ycombinator.com/item?id=38653110"
-    ],
-    [
-      "WebP is so great except it's not (2021)",
-      "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 11:15:46",
       "https://news.ycombinator.com/item?id=38653017"
     ],
     [
       "Troubleshooting an intermittent failure in CI tests on ARM64",
       "https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 10:31:37",
-      "https://news.ycombinator.com/item?id=38652806"
-    ],
-    [
-      "Interactive tour of James Clerk Maxwell's house",
-      "https://clerkmaxwellfoundation.org/india-street/housetour.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Embeddings, vectors, and arithmetic",
       "https://montyanderson.net/writing/embeddings"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 10:46:39",
-      "https://news.ycombinator.com/item?id=38639946"
-    ],
-    [
-      "Mesh Neural Cellular Automata",
-      "https://meshnca.github.io/"
     ]
   ],
   [
