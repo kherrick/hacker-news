@@ -7,6 +7,7 @@
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+* [2023-12-15, 10:51:29](https://news.ycombinator.com/item?id=38652905) - [EU tweaks law to allow using spyware against journalists](https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
 * [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – written in Rust – 50-100 Times Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
