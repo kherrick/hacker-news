@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-15, 06:10:22",
+      "https://news.ycombinator.com/item?id=38651491"
+    ],
+    [
+      "Fragmentation",
+      "http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 04:18:19",
       "https://news.ycombinator.com/item?id=38650937"
     ],
@@ -161,42 +171,12 @@
   ],
   [
     [
-      "2023-12-14, 18:24:37",
-      "https://news.ycombinator.com/item?id=38645021"
-    ],
-    [
-      "Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 17:20:13",
-      "https://news.ycombinator.com/item?id=38643995"
-    ],
-    [
-      "Weak-to-Strong Generalization",
-      "https://openai.com/research/weak-to-strong-generalization"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 17:09:37",
       "https://news.ycombinator.com/item?id=38643843"
     ],
     [
       "Ruby's private keyword is weird",
       "https://blog.jez.io/ruby-private/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 16:57:32",
-      "https://news.ycombinator.com/item?id=38643614"
-    ],
-    [
-      "In Indonesia, humanity's oldest art is flaking away. Can scientists save it?",
-      "https://www.nature.com/immersive/d41586-023-03818-5/index.html"
     ]
   ],
   [
@@ -211,22 +191,22 @@
   ],
   [
     [
+      "2023-12-14, 16:24:12",
+      "https://news.ycombinator.com/item?id=38643076"
+    ],
+    [
+      "FunSearch: Making new discoveries in mathematical sciences using LLMs",
+      "https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 16:13:56",
       "https://news.ycombinator.com/item?id=38642940"
     ],
     [
       "Using analytics on my website",
       "https://azan-n.com/projects/2023-11-11t061246138z/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 15:56:46",
-      "https://news.ycombinator.com/item?id=38642715"
-    ],
-    [
-      "Intel launches Core Ultra processors",
-      "https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai"
     ]
   ],
   [
@@ -257,6 +237,16 @@
     [
       "Interpolation methods (1999)",
       "https://paulbourke.net/miscellaneous/interpolation/"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 11:08:20",
+      "https://news.ycombinator.com/item?id=38640098"
+    ],
+    [
+      "The Borsuk-Ulam Explorer",
+      "http://julius-ross.com/Borsuk-Ulam/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Reverse Engineering an LCD Display",
       "https://sudhir.nl/lcd?al=projects"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 02:49:40",
+      "https://news.ycombinator.com/item?id=38637211"
+    ],
+    [
+      "This device might be England’s oldest dated scientific instrument",
+      "https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/"
     ]
   ]
 ]
