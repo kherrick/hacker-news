@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 20:13:57",
+      "https://news.ycombinator.com/item?id=38658262"
+    ],
+    [
+      "A simple programming productivity trick: leave work unfinished to reach flow",
+      "https://read.engineerscodex.com/p/simple-software-engineering-habits"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 19:43:44",
       "https://news.ycombinator.com/item?id=38657931"
     ],
@@ -15,8 +25,8 @@
       "https://news.ycombinator.com/item?id=38657779"
     ],
     [
-      "Prince Harry wins landmark phone hacking case against Britain's major tabloids",
-      "https://text.npr.org/1219536863"
+      "Prince Harry wins phone hacking case against British tabloid",
+      "https://www.npr.org/2023/12/15/1219536863/prince-harry-phone-hacking-trial"
     ]
   ],
   [
@@ -31,11 +41,21 @@
   ],
   [
     [
+      "2023-12-15, 19:06:19",
+      "https://news.ycombinator.com/item?id=38657427"
+    ],
+    [
+      "Children born, raised during lockdown developing language skills at slower rate",
+      "https://theconversation.com/children-born-or-raised-during-lockdown-are-developing-language-skills-at-a-slower-rate-219648"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 18:47:32",
       "https://news.ycombinator.com/item?id=38657192"
     ],
     [
-      "McDonald's Ice Cream Machine Hackers Say They Found 'Smoking Gun'",
+      "McDonald's ice cream machine hackers say they found 'smoking gun'",
       "https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/"
     ]
   ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-12-15, 18:23:10",
-      "https://news.ycombinator.com/item?id=38656953"
-    ],
-    [
-      "Show HN: Ottehr is a modern, open-source EHR (Electronic Health Record)",
-      "https://github.com/masslight/ottehr"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 18:06:04",
       "https://news.ycombinator.com/item?id=38656776"
     ],
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2023-12-15, 18:01:05",
-      "https://news.ycombinator.com/item?id=38656727"
-    ],
-    [
-      "Fastmail Employees Form a Union",
-      "https://union.place/@fastmailunited/111563614375789166"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 18:00:30",
       "https://news.ycombinator.com/item?id=38656721"
     ],
     [
-      "Gym Class VR (YC W22) Is Hiring Lead AI Engineer",
+      "Gym Class VR (YC W22) Is Hiring a Lead AI Engineer",
       "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=38655536"
     ],
     [
-      "Threestudio – A unified framework for 3D content generation",
+      "Threestudio – Framework for 3D content generation",
       "https://github.com/threestudio-project/threestudio"
     ]
   ],
@@ -155,18 +155,8 @@
       "https://news.ycombinator.com/item?id=38654968"
     ],
     [
-      "Double-Mirror Illusion",
+      "Double-mirror illusion",
       "https://journalofillusion.net/index.php/joi/article/view/9839/16407"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 14:59:37",
-      "https://news.ycombinator.com/item?id=38654805"
-    ],
-    [
-      "Delta Dental says data breach exposed info of 7M people",
-      "https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38654432"
     ],
     [
-      "'Green Roads' Are Plowing Ahead, Buffering Drought and Floods",
+      "'Green roads' are plowing ahead, buffering drought and floods",
       "https://e360.yale.edu/features/green-roads"
     ]
   ],
@@ -197,16 +187,6 @@
     [
       "What happens in the brain while daydreaming?",
       "https://hms.harvard.edu/news/what-happens-brain-while-daydreaming"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 13:07:30",
-      "https://news.ycombinator.com/item?id=38653771"
-    ],
-    [
-      "Quantum Batteries Break Causality",
-      "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html"
     ]
   ],
   [
@@ -231,11 +211,31 @@
   ],
   [
     [
+      "2023-12-15, 10:48:24",
+      "https://news.ycombinator.com/item?id=38652887"
+    ],
+    [
+      "Oxlint – Faster than ESLint",
+      "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 10:31:37",
+      "https://news.ycombinator.com/item?id=38652806"
+    ],
+    [
+      "Interactive Tour of James Clerk Maxwell's House",
+      "https://clerkmaxwellfoundation.org/india-street/housetour.html"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 10:29:40",
       "https://news.ycombinator.com/item?id=38652794"
     ],
     [
-      "An Interactive Guide to the Fourier Transform",
+      "An interactive guide to the Fourier transform (2012)",
       "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/"
     ]
   ],
