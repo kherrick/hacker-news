@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 21:27:36](https://news.ycombinator.com/item?id=38659045) - [Greek-yogurt maker Chobani buys coffee company La Colombe for $900M](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
+* [2023-12-15, 20:52:02](https://news.ycombinator.com/item?id=38658658) - [Adblock Plus is showing a fake progress bar after updating](https://twitter.com/gorhill/status/1735718771908628724)
 * [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 * [2023-12-15, 20:13:57](https://news.ycombinator.com/item?id=38658262) - [A simple programming productivity trick: leave work unfinished to reach flow](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 * [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
+* [2023-12-15, 19:42:17](https://news.ycombinator.com/item?id=38657910) - [ESA Confirms Vega Tanks Missing: Theft or Asymmetric Warfare?](https://orbitaltoday.com/2023/12/09/avio-fuel-tanks-theft-or-asymmetric-warfare/)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins phone hacking case against British tabloid](https://www.npr.org/2023/12/15/1219536863/prince-harry-phone-hacking-trial)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
 * [2023-12-15, 19:18:29](https://news.ycombinator.com/item?id=38657610) - [Thoughts on Threads and ActivityPub](https://anderegg.ca/2023/12/15/the-threads-invasion)
