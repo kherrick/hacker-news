@@ -25,6 +25,7 @@
 * [2023-12-13, 21:00:27](https://news.ycombinator.com/item?id=38634068) - [Prelay (YC W20) Is Hiring](https://jobs.lever.co/prelay/832af523-bf6c-4fe0-8b9a-29084543a923)
 * [2023-12-13, 20:56:26](https://news.ycombinator.com/item?id=38634020) - [Ask HN: Best resources on abstracting and dealing with complexity](https://news.ycombinator.com/item?id=38634020)
 * [2023-12-13, 20:48:34](https://news.ycombinator.com/item?id=38633926) - [Play Othello in your web browser (made with Mithril)](https://jawj.github.io/fliptiles/)
+* [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime Related Server Crashes](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 * [2023-12-13, 20:27:56](https://news.ycombinator.com/item?id=38633715) - [Quest 2 is outselling Quest 3](https://twitter.com/ID_AA_Carmack/status/1734993768980402467)
 * [2023-12-13, 20:00:13](https://news.ycombinator.com/item?id=38633387) - [Argentina's Milei Devalues Peso by 54%](https://www.bloomberg.com/news/articles/2023-12-12/argentina-s-milei-devalues-peso-by-54-in-first-batch-of-shock-measures)
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
