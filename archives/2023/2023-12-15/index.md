@@ -6,6 +6,7 @@
 
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
+* [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)

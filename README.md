@@ -2,6 +2,7 @@
 
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
+* [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
@@ -9,7 +10,6 @@
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 11:15:46](https://news.ycombinator.com/item?id=38653017) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
-* [2023-12-15, 10:51:29](https://news.ycombinator.com/item?id=38652905) - [EU tweaks law to allow using spyware against journalists](https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
 * [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
