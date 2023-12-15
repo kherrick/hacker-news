@@ -129,6 +129,69 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38650878">
+          <h3>
+            <a class="item" href="https://retool.com/pipes"
+              >Pipe Dreams: The life and times of Yahoo Pipes</a
+            >
+          </h3>
+        </section>
+        <section id="38650810">
+          <h3>
+            <a
+              class="item"
+              href="http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html"
+              >Researchers creat transparent magnetic materials using laser
+              heating</a
+            >
+          </h3>
+        </section>
+        <section id="38650570">
+          <h3>
+            <a class="item" href="https://github.com/ncruces/go-sqlite-bench"
+              >Show HN: My Go SQLite driver did poorly on a benchmark, so I
+              fixed it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-15 @ 02:44:23</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38650570"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/ncruces/go-sqlite3"
+                >https://github.com/ncruces/go-sqlite3</a
+              >
+              was doing poorly on this benchmark that was posted yesterday to
+              HackerNews [1].
+              <p>
+                With the help of some pprof, I was able to trace it to a serious
+                performance regression introduced two weeks ago, and come up
+                with the fix (happy to field questions, if you're interested in
+                the nitty gritty).
+              </p>
+              <p>
+                It's not the fastest driver around, but it's no longer the
+                slowest: comfortably middle of the pack. It's based on a WASM
+                build of SQLite, and thanks to
+                <a href="https://wazero.io">https://wazero.io</a> doesn't need
+                CGO.
+              </p>
+              <p>
+                [1]:
+                <a href="https://news.ycombinator.com/item?id=38626698"
+                  >https://news.ycombinator.com/item?id=38626698</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="38649748">
           <h3>
             <a
@@ -468,49 +531,6 @@
             </h4>
           </section>
         </section>
-        <section id="38644479">
-          <h3>
-            <a
-              class="item"
-              href="https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/"
-              >Celebrated Cryptography Algorithm Gets an Upgrade</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-14 @ 17:51:12</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38644479"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38644381">
-          <h3>
-            <a
-              class="item"
-              href="https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case"
-              >Why did older computers and OSes use UPPER case instead of lower
-              case?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-14 @ 17:44:41</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38644381"
-                  >Comments</a
-                ><span class="descendants">: 128</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="38643995">
           <h3>
             <a
@@ -744,47 +764,6 @@
             </h4>
           </section>
         </section>
-        <section id="38640406">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain"
-              >Barcelona Supercomputing Center presents Sargantana: new
-              open-source RISC-V chip</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-14 @ 11:55:37</span
-              ><span class="points-container"
-                >Points: <span class="points">343</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38640406"
-                  >Comments</a
-                ><span class="descendants">: 138</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38640098">
-          <h3>
-            <a class="item" href="http://julius-ross.com/Borsuk-Ulam/"
-              >The Borsuk-Ulam Explorer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-12-14 @ 11:08:20</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38640098"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="38638691">
           <h3>
             <a class="item" href="https://spectrum.ieee.org/metalens-2660294513"
@@ -799,6 +778,28 @@
                 >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38638691"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38637211">
+          <h3>
+            <a
+              class="item"
+              href="https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/"
+              >This device might be England’s oldest dated scientific
+              instrument</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-12-14 @ 02:49:40</span
+              ><span class="points-container"
+                >Points: <span class="points">2</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38637211"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
