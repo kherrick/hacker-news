@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-15, 19:43:44",
+      "https://news.ycombinator.com/item?id=38657931"
+    ],
+    [
+      "Merriam-Webster's 404 Page",
+      "https://www.merriam-webster.com/notfound"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 19:32:44",
       "https://news.ycombinator.com/item?id=38657779"
     ],
     [
       "Prince Harry wins landmark phone hacking case against Britain's major tabloids",
       "https://text.npr.org/1219536863"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 19:16:23",
+      "https://news.ycombinator.com/item?id=38657577"
+    ],
+    [
+      "Suspects can refuse to provide phone passcodes to police, court rules",
+      "https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38657029"
     ],
     [
-      "OpenAI: Prompt Engineering",
+      "Prompt engineering",
       "https://platform.openai.com/docs/guides/prompt-engineering"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38656953"
     ],
     [
-      "Show HN: Ottehr is a modern, open-source EHR",
+      "Show HN: Ottehr is a modern, open-source EHR (Electronic Health Record)",
       "https://github.com/masslight/ottehr"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-12-15, 17:31:13",
-      "https://news.ycombinator.com/item?id=38656382"
-    ],
-    [
-      "NixOS has one fatal flaw",
-      "https://changelog.com/posts/nixos-fatal-flaw"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 17:00:56",
       "https://news.ycombinator.com/item?id=38656039"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38655047"
     ],
     [
-      "Scheme in Scheme on WASM in the Browser",
+      "Scheme in Scheme on WASM in the browser",
       "https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Mesh Neural Cellular Automata",
       "https://meshnca.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 09:44:37",
-      "https://news.ycombinator.com/item?id=38639564"
-    ],
-    [
-      "The Rise and Fall of the 'IBM Way'",
-      "https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/"
     ]
   ],
   [
