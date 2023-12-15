@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
+* [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – written in Rust – 50-100 Times Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
