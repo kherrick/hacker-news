@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-12-15, 06:10:22",
-      "https://news.ycombinator.com/item?id=38651491"
-    ],
-    [
-      "Fragmentation",
-      "http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 04:18:19",
       "https://news.ycombinator.com/item?id=38650937"
     ],
@@ -157,6 +147,16 @@
     [
       "Open and portable Postgres-as-a-service. Also available on Hetzner",
       "https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 19:16:24",
+      "https://news.ycombinator.com/item?id=38645865"
+    ],
+    [
+      "Show HN: Hacker News Git Blame",
+      "https://www.hngitblame.com/"
     ]
   ],
   [
