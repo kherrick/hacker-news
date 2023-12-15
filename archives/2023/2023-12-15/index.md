@@ -7,6 +7,7 @@
 * [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 * [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
+* [2023-12-15, 18:21:52](https://news.ycombinator.com/item?id=38656939) - [Behind the Scenes at the Dismantling of Roe vs. Wade](https://www.nytimes.com/2023/12/15/us/supreme-court-dobbs-roe-abortion.html)
 * [2023-12-15, 18:06:04](https://news.ycombinator.com/item?id=38656776) - [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)
 * [2023-12-15, 18:01:05](https://news.ycombinator.com/item?id=38656727) - [Fastmail Employees Form a Union](https://union.place/@fastmailunited/111563614375789166)
 * [2023-12-15, 18:00:30](https://news.ycombinator.com/item?id=38656721) - [Gym Class VR (YC W22) Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
