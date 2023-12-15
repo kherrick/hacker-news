@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-15, 01:01:11](https://news.ycombinator.com/item?id=38649748) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
-* [2023-12-15, 00:53:25](https://news.ycombinator.com/item?id=38649682) - [Microsoft defends Edge's predatory practices with cringe, audacious reply on X](https://www.neowin.net/news/microsoft-defends-edges-predatory-practices-with-cringe-and-audacious-reply-on-x/)
 * [2023-12-15, 00:37:37](https://news.ycombinator.com/item?id=38649554) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-14, 23:26:58](https://news.ycombinator.com/item?id=38648883) - [The Stanford Prison Experiment was hugely influential. We learned it was a fraud (2018)](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
 * [2023-12-14, 22:02:44](https://news.ycombinator.com/item?id=38647938) - [Show HN: Airdraw](https://www.airdraw.io/)
+* [2023-12-14, 21:34:13](https://news.ycombinator.com/item?id=38647562) - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 20:37:01](https://news.ycombinator.com/item?id=38646903) - [Apple partly halts Beeper's iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
 * [2023-12-14, 20:35:54](https://news.ycombinator.com/item?id=38646892) - [Magic: The Gathering Is Turing Complete (2019)](https://arxiv.org/abs/1904.09828)
@@ -15,6 +15,7 @@
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer (2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
 * [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
+* [2023-12-14, 17:51:12](https://news.ycombinator.com/item?id=38644479) - [Celebrated Cryptography Algorithm Gets an Upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 * [2023-12-14, 17:44:41](https://news.ycombinator.com/item?id=38644381) - [Why did older computers and OSes use UPPER case instead of lower case?](https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case)
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:15:27](https://news.ycombinator.com/item?id=38643923) - [What's Going on with Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
@@ -29,7 +30,6 @@
 * [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
-* [2023-12-13, 03:49:25](https://news.ycombinator.com/item?id=38622404) - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 
 ## [Archives](archives/index.md)
 
