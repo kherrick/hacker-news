@@ -22,6 +22,7 @@
 * [2023-12-14, 19:16:24](https://news.ycombinator.com/item?id=38645865) - [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
 * [2023-12-14, 19:15:58](https://news.ycombinator.com/item?id=38645856) - [Maybe Getting Rid of Your QA Team Was Bad, Actually.](https://davidkcaudill.medium.com/maybe-getting-rid-of-your-qa-team-was-bad-actually-52c408bd048b)
 * [2023-12-14, 18:46:45](https://news.ycombinator.com/item?id=38645340) - ['It's all gone': CAR-T therapy forces autoimmune diseases into remission](https://www.nature.com/articles/d41586-023-03968-6)
+* [2023-12-14, 18:42:59](https://news.ycombinator.com/item?id=38645283) - [Vision Pro will change photography](https://om.co/2023/12/14/why-vision-pro-will-change-photography/)
 * [2023-12-14, 18:36:12](https://news.ycombinator.com/item?id=38645180) - [Show HN: Octopus – a directed acyclic graph for app development](https://github.com/bbsimonbb/octopus-turbo)
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer(2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 18:29:07](https://news.ycombinator.com/item?id=38645095) - [Rising costs mean food companies are making snacks, sodas taste worse](https://www.businessinsider.com/inflation-high-prices-costs-making-food-snacks-sodas-worse-quality-2023-12)
