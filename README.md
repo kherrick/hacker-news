@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
-* [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 03:57:49](https://news.ycombinator.com/item?id=38650810) - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
@@ -16,6 +15,7 @@
 * [2023-12-14, 19:16:24](https://news.ycombinator.com/item?id=38645865) - [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer (2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
 * [2023-12-14, 18:24:37](https://news.ycombinator.com/item?id=38645021) - [Intel CEO: 'The entire industry is motivated to eliminate the CUDA market'](https://www.tomshardware.com/tech-industry/artificial-intelligence/intel-ceo-attacks-nvidia-on-ai-the-entire-industry-is-motivated-to-eliminate-the-cuda-market)
+* [2023-12-14, 17:58:48](https://news.ycombinator.com/item?id=38644608) - [Mozilla expands extension support for Firefox for Android](https://blog.mozilla.org/en/mozilla/new-extensions-youll-love-now-available-on-firefox-for-android/)
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:09:37](https://news.ycombinator.com/item?id=38643843) - [Ruby's private keyword is weird](https://blog.jez.io/ruby-private/)
 * [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
