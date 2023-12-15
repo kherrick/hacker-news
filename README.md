@@ -6,7 +6,6 @@
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
-* [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:34:51](https://news.ycombinator.com/item?id=38654567) - [September 11th That You Have Never Seen](https://medium.com/@jeremiahjw/31-photos-from-september-11th-that-you-have-never-seen-9514aaac2d54)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
@@ -28,6 +27,7 @@
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 11:52:04](https://news.ycombinator.com/item?id=38640380) - [Ed(1) mastery is a must for a real Unix person](https://bsdly.blogspot.com/2018/04/ed1-mastery-is-must-for-real-unix-person.html)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
+* [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
 * [2023-12-13, 20:47:49](https://news.ycombinator.com/item?id=38633916) - [Why the Oracle of Delphi Still Beguiles](https://www.historytoday.com/archive/making-history/why-oracle-delphi-still-beguiles)
 * [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime related server crashes (2011)](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 
