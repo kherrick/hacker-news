@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII British female code breaker Mary Ratcliffe dies](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
 * [2023-12-15, 13:52:13](https://news.ycombinator.com/item?id=38654160) - [Half-Male, Half-Female Bird Captured on Film in Colombia](https://www.forbes.com/sites/grrlscientist/2023/12/14/bizarre-half-male-half-female-bird-captured-on-film-in-colombia/)
 * [2023-12-15, 13:27:58](https://news.ycombinator.com/item?id=38653958) - [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
+* [2023-12-15, 11:15:46](https://news.ycombinator.com/item?id=38653017) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
 * [2023-12-15, 10:51:29](https://news.ycombinator.com/item?id=38652905) - [EU tweaks law to allow using spyware against journalists](https://www.politico.eu/article/eu-capitals-want-media-law-carve-out-to-spy-on-reporters/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
 * [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – written in Rust – 50-100 Times Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
