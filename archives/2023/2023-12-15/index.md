@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
 * [2023-12-15, 05:09:45](https://news.ycombinator.com/item?id=38651200) - [Americans Are Skipping Doctor Visits Due to Costs](https://www.msn.com/en-us/health/other/americans-are-skipping-doctor-visits-due-to-costs/ar-AA1lodWL)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
