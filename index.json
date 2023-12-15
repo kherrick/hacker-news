@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-15, 10:00:22",
-      "https://news.ycombinator.com/item?id=38652648"
-    ],
-    [
-      "Ubiquiti users report having access to others' UniFi routers, cameras",
-      "https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 08:56:59",
       "https://news.ycombinator.com/item?id=38652339"
     ],
@@ -147,6 +137,16 @@
     [
       "Pipe Dreams: The life and times of Yahoo Pipes",
       "https://retool.com/pipes"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 03:57:49",
+      "https://news.ycombinator.com/item?id=38650810"
+    ],
+    [
+      "Researchers create transparent magnetic materials using laser heating",
+      "http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38633858"
     ],
     [
-      "Uptime Related Server Crashes",
+      "Uptime related server crashes",
       "https://barry.blog/2011/06/14/uptime-related-server-crashes/"
     ]
   ]
