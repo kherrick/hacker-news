@@ -30,6 +30,7 @@
 * [2023-12-12, 18:30:56](https://news.ycombinator.com/item?id=38616289) - [The Einstein-Szilard Refrigerator (2020)](https://www.invention.si.edu/einstein-szilard-refrigerator)
 * [2023-12-12, 18:29:37](https://news.ycombinator.com/item?id=38616274) - [Jeremy Howard starts a for-profit (Pro OS) R&D Lab with The Lean startup guy](https://www.answer.ai/)
 * [2023-12-12, 18:22:51](https://news.ycombinator.com/item?id=38616181) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
+* [2023-12-12, 18:19:16](https://news.ycombinator.com/item?id=38616131) - [Measuring the size of the cache line empirically](https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/)
 * [2023-12-12, 18:17:05](https://news.ycombinator.com/item?id=38616092) - [Bae Systems' New Hampshire computer chip plant the first to get CHIPS funding](https://www.cnbc.com/2023/12/11/bae-systems-new-hampshire-computer-chip-plant-the-first-to-get-funding-from-chips-law.html)
 * [2023-12-12, 18:13:15](https://news.ycombinator.com/item?id=38616023) - [Why does musl make my Rust code so slow? (2020)](https://andygrove.io/2020/05/why-musl-extremely-slow/)
 * [2023-12-12, 18:02:58](https://news.ycombinator.com/item?id=38615868) - [Zapping manure with special electrode to produce fertilizers, other chemicals](https://news.wisc.edu/zapping-manure-with-special-electrode-promises-an-efficient-method-to-produce-fertilizers-other-chemicals/)

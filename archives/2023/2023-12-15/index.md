@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+* [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
+* [2023-12-15, 18:06:04](https://news.ycombinator.com/item?id=38656776) - [Mfio – Completion I/O for Rust](https://blaz.is/blog/post/mfio-release/)
 * [2023-12-15, 18:01:05](https://news.ycombinator.com/item?id=38656727) - [Fastmail Employees Form a Union](https://union.place/@fastmailunited/111563614375789166)
 * [2023-12-15, 18:00:30](https://news.ycombinator.com/item?id=38656721) - [Gym Class VR (YC W22) Is Hiring Lead AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2023-12-15, 17:43:54](https://news.ycombinator.com/item?id=38656529) - [Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support](https://www.phoronix.com/news/COSMIC-December-2023)
@@ -40,6 +42,7 @@
 * [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
 * [2023-12-15, 10:00:22](https://news.ycombinator.com/item?id=38652648) - [Ubiquiti users report having access to others' UniFi routers, cameras](https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
+* [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
 * [2023-12-15, 05:09:45](https://news.ycombinator.com/item?id=38651200) - [Americans Are Skipping Doctor Visits Due to Costs](https://www.msn.com/en-us/health/other/americans-are-skipping-doctor-visits-due-to-costs/ar-AA1lodWL)
