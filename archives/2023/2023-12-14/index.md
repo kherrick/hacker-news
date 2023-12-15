@@ -66,6 +66,7 @@
 * [2023-12-14, 15:17:12](https://news.ycombinator.com/item?id=38642252) - [The Old Internet Is Dying, and Something Worse Is Being Born](https://www.vice.com/en/article/epv8xa/the-old-internet-is-dying-and-something-worse-is-being-born)
 * [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
 * [2023-12-14, 15:09:29](https://news.ycombinator.com/item?id=38642149) - [Engineers Harvest Clean, Continuous Energy from Air](https://nicenews.com/science/engineers-harvest-electricity-from-air/)
+* [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
 * [2023-12-14, 14:04:23](https://news.ycombinator.com/item?id=38641421) - [Idea to App Store in 7 days](https://masilotti.com/idea-to-app-store-in-7-days/)
 * [2023-12-14, 13:42:41](https://news.ycombinator.com/item?id=38641211) - [Ledger's NPM account has been hacked](https://github.com/LedgerHQ/connect-kit/issues/29)
 * [2023-12-14, 13:40:35](https://news.ycombinator.com/item?id=38641198) - [Police Have Undermined the Promise of Body Cameras](https://www.propublica.org/article/how-police-undermined-promise-body-cameras)
