@@ -58,6 +58,7 @@
 * [2023-12-13, 16:17:08](https://news.ycombinator.com/item?id=38629539) - [Show HN: PyApp – runtime installer for Python applications](https://github.com/ofek/pyapp)
 * [2023-12-13, 16:06:44](https://news.ycombinator.com/item?id=38629409) - [Software Applications Incorporated](https://software.inc/)
 * [2023-12-13, 16:03:46](https://news.ycombinator.com/item?id=38629355) - [You Don't Batch Cook When You're Suicidal](https://cookingonabootstrap.com/2020/07/30/the-price-of-potatoes-and-the-value-of-compassion/)
+* [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 * [2023-12-13, 15:47:23](https://news.ycombinator.com/item?id=38629085) - [US agency will not reinstate $900M subsidy for SpaceX Starlink unit](https://www.reuters.com/technology/space/us-agency-will-not-reinstate-900-mln-subsidy-spacex-starlink-unit-2023-12-13/)
 * [2023-12-13, 15:45:42](https://news.ycombinator.com/item?id=38629054) - [$7500 EV tax credit will end for Model 3 RWD and Long Range](https://twitter.com/Tesla/status/1734903337894518991)
 * [2023-12-13, 15:20:57](https://news.ycombinator.com/item?id=38628635) - [Polish Hackers that repaired DRM trains threatened by train company](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
