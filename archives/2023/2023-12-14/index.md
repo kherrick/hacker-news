@@ -97,6 +97,7 @@
 * [2023-12-14, 03:09:38](https://news.ycombinator.com/item?id=38637329) - [Ex-Facebook diversity manager pleads guilty to bilking $4M from company](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds/)
 * [2023-12-14, 03:05:54](https://news.ycombinator.com/item?id=38637310) - [TV Detector Vans](https://en.wikipedia.org/wiki/TV_detector_van)
 * [2023-12-14, 02:54:42](https://news.ycombinator.com/item?id=38637240) - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
+* [2023-12-14, 02:49:40](https://news.ycombinator.com/item?id=38637211) - [This device might be England’s oldest dated scientific instrument](https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/)
 * [2023-12-14, 01:50:12](https://news.ycombinator.com/item?id=38636835) - [Earlyoom – Early OOM Daemon for Linux](https://github.com/rfjakob/earlyoom)
 * [2023-12-14, 01:18:32](https://news.ycombinator.com/item?id=38636609) - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
 * [2023-12-14, 01:00:27](https://news.ycombinator.com/item?id=38636478) - [Jerry (YC S17) Is Hiring Sr Software Engineers and Other Roles (Remote)](https://jobs.ashbyhq.com/Jerry/62e5f7b1-0a09-460a-8135-bf1f091a9394)
