@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 23:26:58](https://news.ycombinator.com/item?id=38648883) - [The Stanford Prison Experiment was hugely influential. We learned it was a fraud](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
 * [2023-12-14, 22:02:44](https://news.ycombinator.com/item?id=38647938) - [Show HN: Airdraw](https://www.airdraw.io/)
 * [2023-12-14, 21:51:10](https://news.ycombinator.com/item?id=38647796) - [Medprompt+: GPT-4 vs. Gemini Ultra](https://github.com/microsoft/promptbase)
 * [2023-12-14, 21:34:13](https://news.ycombinator.com/item?id=38647562) - [Stable Zero123: Quality 3D Object Generation from Single Images](https://stability.ai/news/stable-zero123-3d-generation)
@@ -91,6 +92,7 @@
 * [2023-12-14, 04:07:01](https://news.ycombinator.com/item?id=38637652) - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 * [2023-12-14, 03:53:28](https://news.ycombinator.com/item?id=38637564) - [Google's Response to Reptar CPU Vulnerability](https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability)
 * [2023-12-14, 03:09:38](https://news.ycombinator.com/item?id=38637329) - [Ex-Facebook diversity manager pleads guilty to bilking $4M from company](https://nypost.com/2023/12/13/business/ex-facebook-diversity-manager-pleads-guilty-to-bilking-4m-from-company-in-kickback-scheme-feds/)
+* [2023-12-14, 03:05:54](https://news.ycombinator.com/item?id=38637310) - [TV Detector Vans](https://en.wikipedia.org/wiki/TV_detector_van)
 * [2023-12-14, 02:54:42](https://news.ycombinator.com/item?id=38637240) - [Mohammad Alotol (From YC S22 Cohort) Killed in Gaza](https://twitter.com/teammanara/status/1734966168262148511?s=46)
 * [2023-12-14, 01:50:12](https://news.ycombinator.com/item?id=38636835) - [Earlyoom – Early OOM Daemon for Linux](https://github.com/rfjakob/earlyoom)
 * [2023-12-14, 01:18:32](https://news.ycombinator.com/item?id=38636609) - [Beginner's Guide to Arguing Constructively](https://liamrosen.com/arguments.html)
