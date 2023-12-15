@@ -10,11 +10,11 @@
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
-* [2023-12-15, 10:00:22](https://news.ycombinator.com/item?id=38652648) - [Ubiquiti users report having access to others' UniFi routers, cameras](https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+* [2023-12-15, 03:57:49](https://news.ycombinator.com/item?id=38650810) - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 * [2023-12-15, 00:37:37](https://news.ycombinator.com/item?id=38649554) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
@@ -29,7 +29,7 @@
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
-* [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime Related Server Crashes](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
+* [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime related server crashes](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 
 ## [Archives](archives/index.md)
 
