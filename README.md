@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-15, 22:14:46](https://news.ycombinator.com/item?id=38659485) - [Jury Orders Giuliani to Pay $148M to Election Workers He Defamed](https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html)
-* [2023-12-15, 21:27:36](https://news.ycombinator.com/item?id=38659045) - [Chobani buys coffee company La Colombe](https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/)
+* [2023-12-15, 21:55:18](https://news.ycombinator.com/item?id=38659291) - [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 * [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 * [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
 * [2023-12-15, 20:13:57](https://news.ycombinator.com/item?id=38658262) - [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
@@ -17,9 +16,9 @@
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-mirror illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
-* [2023-12-15, 15:11:19](https://news.ycombinator.com/item?id=38654910) - [Cautionary tale about letting big companies on federated communication protocols](https://cloudisland.nz/@fincham/111581381415456989)
 * [2023-12-15, 15:05:03](https://news.ycombinator.com/item?id=38654850) - [Queer People with Paws and Claws and Their Kweer Kapers (1888)](https://ufdc.ufl.edu/UF00055868/00001)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
+* [2023-12-15, 14:21:40](https://news.ycombinator.com/item?id=38654432) - ['Green roads' are plowing ahead, buffering drought and floods](https://e360.yale.edu/features/green-roads)
 * [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What happens in the brain while daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 * [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII code breaker Mary Ratcliffe has died](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
@@ -30,6 +29,7 @@
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
+* [2023-12-12, 18:19:16](https://news.ycombinator.com/item?id=38616131) - [Measuring the size of the cache line empirically](https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/)
 
 ## [Archives](archives/index.md)
 
