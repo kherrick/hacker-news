@@ -25,9 +25,9 @@
 * [2023-12-14, 15:56:46](https://news.ycombinator.com/item?id=38642715) - [Intel launches Core Ultra processors](https://www.techradar.com/computing/cpu/intel-launches-core-ultra-processors-to-power-up-your-next-laptop-with-ai)
 * [2023-12-14, 15:49:33](https://news.ycombinator.com/item?id=38642638) - [Pitfalls of Helm – Insights from 3 years with the leading K8s package manager](https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/)
 * [2023-12-14, 15:30:21](https://news.ycombinator.com/item?id=38642403) - [Link's Awakening DX HD](https://linksawakeningdxhd.itch.io/links-awakening-dx-hd)
+* [2023-12-14, 15:13:11](https://news.ycombinator.com/item?id=38642199) - [S-LoRA: Serving Concurrent LoRA Adapters](https://github.com/S-LoRA/S-LoRA)
 * [2023-12-14, 13:29:04](https://news.ycombinator.com/item?id=38641105) - [Visualizing fighting game mechanics (2020)](https://janezhang.ca/work/tekken/)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
-* [2023-12-14, 11:55:37](https://news.ycombinator.com/item?id=38640406) - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 
