@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 18:30:30",
+      "https://news.ycombinator.com/item?id=38657029"
+    ],
+    [
+      "OpenAI: Prompt Engineering",
+      "https://platform.openai.com/docs/guides/prompt-engineering"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 18:00:30",
       "https://news.ycombinator.com/item?id=38656721"
     ],
@@ -17,6 +27,16 @@
     [
       "Pop _OS Cosmic Desktop Improving Multi-Monitor and Multi-Window Support",
       "https://www.phoronix.com/news/COSMIC-December-2023"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 17:31:13",
+      "https://news.ycombinator.com/item?id=38656382"
+    ],
+    [
+      "NixOS has one fatal flaw",
+      "https://changelog.com/posts/nixos-fatal-flaw"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-12-15, 08:56:59",
-      "https://news.ycombinator.com/item?id=38652339"
-    ],
-    [
-      "Let it snow in your terminal",
-      "https://pypi.org/project/snowjob/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 04:18:19",
       "https://news.ycombinator.com/item?id=38650937"
     ],
@@ -247,16 +257,6 @@
     [
       "Embeddings, vectors, and arithmetic",
       "https://montyanderson.net/writing/embeddings"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 16:45:41",
-      "https://news.ycombinator.com/item?id=38643406"
-    ],
-    [
-      "First look at Microsoft 365 Copilot",
-      "https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/"
     ]
   ],
   [
