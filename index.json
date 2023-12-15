@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-12-15, 22:14:46",
-      "https://news.ycombinator.com/item?id=38659485"
+      "2023-12-15, 21:55:18",
+      "https://news.ycombinator.com/item?id=38659291"
     ],
     [
-      "Jury Orders Giuliani to Pay $148M to Election Workers He Defamed",
-      "https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 21:27:36",
-      "https://news.ycombinator.com/item?id=38659045"
-    ],
-    [
-      "Chobani buys coffee company La Colombe",
-      "https://www.reuters.com/markets/deals/greek-yogurt-maker-chobani-buys-coffee-company-la-colombe-900-mln-2023-12-15/"
+      "Secureblue: Hardened Immutable Fedora Images",
+      "https://github.com/secureblue/secureblue"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2023-12-15, 15:11:19",
-      "https://news.ycombinator.com/item?id=38654910"
-    ],
-    [
-      "Cautionary tale about letting big companies on federated communication protocols",
-      "https://cloudisland.nz/@fincham/111581381415456989"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 15:05:03",
       "https://news.ycombinator.com/item?id=38654850"
     ],
@@ -197,6 +177,16 @@
     [
       "Data exfiltration from Writer.com with indirect prompt injection",
       "https://promptarmor.substack.com/p/data-exfiltration-from-writercom"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 14:21:40",
+      "https://news.ycombinator.com/item?id=38654432"
+    ],
+    [
+      "'Green roads' are plowing ahead, buffering drought and floods",
+      "https://e360.yale.edu/features/green-roads"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A read through the original WorldWideWeb proposal",
       "https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:19:16",
+      "https://news.ycombinator.com/item?id=38616131"
+    ],
+    [
+      "Measuring the size of the cache line empirically",
+      "https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/"
     ]
   ]
 ]
