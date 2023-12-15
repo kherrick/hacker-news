@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 05:09:45](https://news.ycombinator.com/item?id=38651200) - [Americans Are Skipping Doctor Visits Due to Costs](https://www.msn.com/en-us/health/other/americans-are-skipping-doctor-visits-due-to-costs/ar-AA1lodWL)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 03:57:49](https://news.ycombinator.com/item?id=38650810) - [Researchers create transparent magnetic materials using laser heating](http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html)
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 * [2023-12-15, 01:01:11](https://news.ycombinator.com/item?id=38649748) - [Scratch Data (YC S21) Is Hiring](https://www.ycombinator.com/companies/scratch-data/jobs/fyTdOHH-founding-software-engineer)
 * [2023-12-15, 00:37:37](https://news.ycombinator.com/item?id=38649554) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-* [2023-12-14, 23:26:58](https://news.ycombinator.com/item?id=38648883) - [The Stanford Prison Experiment was hugely influential. We learned it was a fraud (2018)](https://www.vox.com/2018/6/13/17449118/stanford-prison-experiment-fraud-psychology-replication)
 * [2023-12-14, 22:02:44](https://news.ycombinator.com/item?id=38647938) - [Show HN: Airdraw](https://www.airdraw.io/)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 20:37:01](https://news.ycombinator.com/item?id=38646903) - [Apple partly halts Beeper's iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
