@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII British female code breaker Mary Ratcliffe dies](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
+* [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
+* [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
 * [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
@@ -19,8 +20,6 @@
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
-* [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer (2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
-* [2023-12-14, 17:09:37](https://news.ycombinator.com/item?id=38643843) - [Ruby's private keyword is weird](https://blog.jez.io/ruby-private/)
 * [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 16:13:56](https://news.ycombinator.com/item?id=38642940) - [Using analytics on my website](https://azan-n.com/projects/2023-11-11t061246138z/)
 * [2023-12-14, 15:30:49](https://news.ycombinator.com/item?id=38642412) - [Programs are games, programming is a game](https://blog.charliemeyer.co/programs-are-games-programming-is-a-game/)
@@ -29,6 +28,7 @@
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
+* [2023-12-13, 20:47:49](https://news.ycombinator.com/item?id=38633916) - [Why the Oracle of Delphi Still Beguiles](https://www.historytoday.com/archive/making-history/why-oracle-delphi-still-beguiles)
 * [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime related server crashes (2011)](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
+* [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 * [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII British female code breaker Mary Ratcliffe dies](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
 * [2023-12-15, 13:52:13](https://news.ycombinator.com/item?id=38654160) - [Half-Male, Half-Female Bird Captured on Film in Colombia](https://www.forbes.com/sites/grrlscientist/2023/12/14/bizarre-half-male-half-female-bird-captured-on-film-in-colombia/)
 * [2023-12-15, 13:27:58](https://news.ycombinator.com/item?id=38653958) - [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
