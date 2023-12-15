@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)

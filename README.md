@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the Browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
@@ -21,7 +22,6 @@
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
 * [2023-12-15, 04:07:09](https://news.ycombinator.com/item?id=38650878) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 02:44:23](https://news.ycombinator.com/item?id=38650570) - [Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it](https://github.com/ncruces/go-sqlite-bench)
-* [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
