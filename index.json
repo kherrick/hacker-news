@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-15, 04:07:09",
+      "https://news.ycombinator.com/item?id=38650878"
+    ],
+    [
+      "Pipe Dreams: The life and times of Yahoo Pipes",
+      "https://retool.com/pipes"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 03:57:49",
+      "https://news.ycombinator.com/item?id=38650810"
+    ],
+    [
+      "Researchers creat transparent magnetic materials using laser heating",
+      "http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 02:44:23",
+      "https://news.ycombinator.com/item?id=38650570"
+    ],
+    [
+      "Show HN: My Go SQLite driver did poorly on a benchmark, so I fixed it",
+      "https://github.com/ncruces/go-sqlite-bench"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 01:01:11",
       "https://news.ycombinator.com/item?id=38649748"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-12-14, 17:51:12",
-      "https://news.ycombinator.com/item?id=38644479"
-    ],
-    [
-      "Celebrated Cryptography Algorithm Gets an Upgrade",
-      "https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 17:44:41",
-      "https://news.ycombinator.com/item?id=38644381"
-    ],
-    [
-      "Why did older computers and OSes use UPPER case instead of lower case?",
-      "https://retrocomputing.stackexchange.com/questions/28141/why-did-older-computers-and-oses-use-upper-case-instead-of-lower-case"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 17:20:13",
       "https://news.ycombinator.com/item?id=38643995"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2023-12-14, 11:55:37",
-      "https://news.ycombinator.com/item?id=38640406"
-    ],
-    [
-      "Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip",
-      "https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 11:08:20",
-      "https://news.ycombinator.com/item?id=38640098"
-    ],
-    [
-      "The Borsuk-Ulam Explorer",
-      "http://julius-ross.com/Borsuk-Ulam/"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 07:21:09",
       "https://news.ycombinator.com/item?id=38638691"
     ],
     [
       "Flat lenses made of nanostructures transform tiny cameras and projectors",
       "https://spectrum.ieee.org/metalens-2660294513"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 02:49:40",
+      "https://news.ycombinator.com/item?id=38637211"
+    ],
+    [
+      "This device might be England’s oldest dated scientific instrument",
+      "https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/"
     ]
   ]
 ]
