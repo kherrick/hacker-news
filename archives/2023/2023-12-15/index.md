@@ -8,6 +8,7 @@
 * [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins phone hacking case against British tabloid](https://www.npr.org/2023/12/15/1219536863/prince-harry-phone-hacking-trial)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
+* [2023-12-15, 19:17:43](https://news.ycombinator.com/item?id=38657600) - [Twitch rescinds its artistic nudity policy](https://www.theverge.com/2023/12/15/24002779/twitch-artistic-nudity-policy-cancelled)
 * [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 * [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
 * [2023-12-15, 19:06:19](https://news.ycombinator.com/item?id=38657427) - [Children born, raised during lockdown developing language skills at slower rate](https://theconversation.com/children-born-or-raised-during-lockdown-are-developing-language-skills-at-a-slower-rate-219648)
