@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
+* [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)

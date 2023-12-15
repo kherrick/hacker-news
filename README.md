@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 10:49:26](https://news.ycombinator.com/item?id=38652892) - [The Emergence of Full-Body Gaussian Splat Deepfake Humans](https://blog.metaphysic.ai/the-emergence-of-full-body-gaussian-splat-deepfake-humans/)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
+* [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
@@ -14,9 +16,8 @@
 * [2023-12-14, 21:27:17](https://news.ycombinator.com/item?id=38647484) - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
 * [2023-12-14, 20:37:01](https://news.ycombinator.com/item?id=38646903) - [Apple partly halts Beeper's iMessage app again, suggesting a long fight ahead](https://arstechnica.com/gadgets/2023/12/apple-partly-halts-beepers-imessage-app-again-suggesting-a-long-fight-ahead/)
 * [2023-12-14, 20:35:54](https://news.ycombinator.com/item?id=38646892) - [Magic: The Gathering Is Turing Complete (2019)](https://arxiv.org/abs/1904.09828)
-* [2023-12-14, 20:33:50](https://news.ycombinator.com/item?id=38646872) - [Open and portable Postgres-as-a-service. Also available on Hetzner](https://www.ubicloud.com/blog/open-and-portable-managed-postgresql-avail-hetzner)
-* [2023-12-14, 19:16:24](https://news.ycombinator.com/item?id=38645865) - [Show HN: Hacker News Git Blame](https://www.hngitblame.com/)
 * [2023-12-14, 18:34:21](https://news.ycombinator.com/item?id=38645159) - [Interviewing my mother, a mainframe COBOL programmer (2016)](https://ezali.substack.com/p/interviewing-my-mother-a-mainframe)
+* [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 17:09:37](https://news.ycombinator.com/item?id=38643843) - [Ruby's private keyword is weird](https://blog.jez.io/ruby-private/)
 * [2023-12-14, 16:45:41](https://news.ycombinator.com/item?id=38643406) - [First look at Microsoft 365 Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/)
 * [2023-12-14, 16:24:12](https://news.ycombinator.com/item?id=38643076) - [FunSearch: Making new discoveries in mathematical sciences using LLMs](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/)
@@ -27,7 +28,6 @@
 * [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
-* [2023-12-14, 06:58:26](https://news.ycombinator.com/item?id=38638580) - [How to clean chemistry glassware](https://www.chem.rochester.edu/notvoodoo/pages/how_to.php?page=clean_glassware)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
 * [2023-12-14, 02:49:40](https://news.ycombinator.com/item?id=38637211) - [This device might be England’s oldest dated scientific instrument](https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/)
 
