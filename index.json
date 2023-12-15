@@ -31,22 +31,12 @@
   ],
   [
     [
-      "2023-12-15, 19:43:44",
-      "https://news.ycombinator.com/item?id=38657931"
-    ],
-    [
-      "Merriam-Webster's 404 Page",
-      "https://www.merriam-webster.com/notfound"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 19:42:17",
       "https://news.ycombinator.com/item?id=38657910"
     ],
     [
-      "ESA confirms Vega tanks missing",
-      "https://orbitaltoday.com/2023/12/09/avio-fuel-tanks-theft-or-asymmetric-warfare/"
+      "The case of the missing Vega AVUM propellant tanks",
+      "https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "How Lego builds a new Lego set",
       "https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 11:52:56",
+      "https://news.ycombinator.com/item?id=38653212"
+    ],
+    [
+      "Fly Postgres, Managed by Supabase",
+      "https://supabase.com/blog/postgres-on-fly-by-supabase"
     ]
   ],
   [
