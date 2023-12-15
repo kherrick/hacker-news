@@ -36,6 +36,7 @@
 * [2023-12-14, 17:20:13](https://news.ycombinator.com/item?id=38643995) - [Weak-to-Strong Generalization](https://openai.com/research/weak-to-strong-generalization)
 * [2023-12-14, 17:19:00](https://news.ycombinator.com/item?id=38643977) - [Spin the IKAT Christmas Pyramid with Your Clicks – TU Chemnitz Celebrates](https://www.tu-chemnitz.de/mb/mp/weihnachten2023/)
 * [2023-12-14, 17:15:27](https://news.ycombinator.com/item?id=38643923) - [What's Going on with Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
+* [2023-12-14, 17:10:12](https://news.ycombinator.com/item?id=38643856) - [Dynamic vs. Static Dispatch](https://lukasatkinson.de/2016/dynamic-vs-static-dispatch/)
 * [2023-12-14, 17:09:37](https://news.ycombinator.com/item?id=38643843) - [Ruby's private keyword is weird](https://blog.jez.io/ruby-private/)
 * [2023-12-14, 17:00:55](https://news.ycombinator.com/item?id=38643696) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-14, 16:57:32](https://news.ycombinator.com/item?id=38643614) - [In Indonesia, humanity's oldest art is flaking away. Can scientists save it?](https://www.nature.com/immersive/d41586-023-03818-5/index.html)
