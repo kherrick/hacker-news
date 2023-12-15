@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
 * [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
+* [2023-12-15, 18:47:32](https://news.ycombinator.com/item?id=38657192) - [McDonald's Ice Cream Machine Hackers Say They Found 'Smoking Gun'](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 * [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)

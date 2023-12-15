@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
+* [2023-12-15, 18:47:32](https://news.ycombinator.com/item?id=38657192) - [McDonald's Ice Cream Machine Hackers Say They Found 'Smoking Gun'](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 18:30:30](https://news.ycombinator.com/item?id=38657029) - [OpenAI: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 * [2023-12-15, 18:23:10](https://news.ycombinator.com/item?id=38656953) - [Show HN: Ottehr is a modern, open-source EHR](https://github.com/masslight/ottehr)
@@ -20,10 +22,8 @@
 * [2023-12-15, 13:07:30](https://news.ycombinator.com/item?id=38653771) - [Quantum Batteries Break Causality](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 11:15:46](https://news.ycombinator.com/item?id=38653017) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
-* [2023-12-15, 10:48:24](https://news.ycombinator.com/item?id=38652887) - [Oxlint – Faster than ESLint](https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
-* [2023-12-14, 21:27:49](https://news.ycombinator.com/item?id=38647490) - [A group of radical artists smuggled political messages into Melrose Place](https://slate.com/culture/2023/12/melrose-place-abortion-art-gala-committee-mel-chin.html)
 * [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 10:46:39](https://news.ycombinator.com/item?id=38639946) - [Mesh Neural Cellular Automata](https://meshnca.github.io/)
