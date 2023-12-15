@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 * [2023-12-15, 20:13:57](https://news.ycombinator.com/item?id=38658262) - [A simple programming productivity trick: leave work unfinished to reach flow](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 * [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins phone hacking case against British tabloid](https://www.npr.org/2023/12/15/1219536863/prince-harry-phone-hacking-trial)
@@ -34,6 +35,7 @@
 * [2023-12-15, 15:22:11](https://news.ycombinator.com/item?id=38655010) - [Cognitive Distortions That Undermine Clear Thinking](https://www.leadingsapiens.com/cognitive-distortions-leaders/)
 * [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-Mirror Illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 * [2023-12-15, 15:17:00](https://news.ycombinator.com/item?id=38654966) - [Applesauce pouches may have been contaminated on purpose, FDA foods chief says](https://www.politico.com/news/2023/12/14/applesauce-pouches-may-have-been-contaminated-on-purpose-fda-foods-chief-says-00131797)
+* [2023-12-15, 15:11:19](https://news.ycombinator.com/item?id=38654910) - [Cautionary tale about letting big companies on federated communication protocols](https://cloudisland.nz/@fincham/111581381415456989)
 * [2023-12-15, 14:59:37](https://news.ycombinator.com/item?id=38654805) - [Delta Dental says data breach exposed info of 7M people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [2023-12-15, 14:34:51](https://news.ycombinator.com/item?id=38654567) - [September 11th That You Have Never Seen](https://medium.com/@jeremiahjw/31-photos-from-september-11th-that-you-have-never-seen-9514aaac2d54)
 * [2023-12-15, 14:31:00](https://news.ycombinator.com/item?id=38654533) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
