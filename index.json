@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-12-15, 18:23:10",
+      "https://news.ycombinator.com/item?id=38656953"
+    ],
+    [
+      "Show HN: Ottehr is a modern, open-source EHR",
+      "https://github.com/masslight/ottehr"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 18:06:04",
+      "https://news.ycombinator.com/item?id=38656776"
+    ],
+    [
+      "Mfio – Completion I/O for Rust",
+      "https://blaz.is/blog/post/mfio-release/"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 18:01:05",
       "https://news.ycombinator.com/item?id=38656727"
     ],
@@ -57,16 +77,6 @@
     [
       "Do large language models need all those layers?",
       "https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 17:00:55",
-      "https://news.ycombinator.com/item?id=38656038"
-    ],
-    [
-      "Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned",
-      "https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38654388"
     ],
     [
-      "What Happens in the Brain While Daydreaming?",
+      "What happens in the brain while daydreaming?",
       "https://hms.harvard.edu/news/what-happens-brain-while-daydreaming"
     ]
   ],
@@ -181,42 +191,12 @@
   ],
   [
     [
-      "2023-12-15, 11:32:44",
-      "https://news.ycombinator.com/item?id=38653110"
-    ],
-    [
-      "WebP is so great except it's not (2021)",
-      "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 11:15:46",
       "https://news.ycombinator.com/item?id=38653017"
     ],
     [
       "Troubleshooting an Intermittent Failure in CI Tests on ARM64",
       "https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 10:48:24",
-      "https://news.ycombinator.com/item?id=38652887"
-    ],
-    [
-      "Oxlint – Faster than ESLint",
-      "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 10:31:37",
-      "https://news.ycombinator.com/item?id=38652806"
-    ],
-    [
-      "Interactive Tour of James Clerk Maxwell's House",
-      "https://clerkmaxwellfoundation.org/india-street/housetour.html"
     ]
   ],
   [
@@ -236,17 +216,7 @@
     ],
     [
       "Let it snow in your terminal",
-      "https://pypi.org/project/snowjob/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 04:18:19",
-      "https://news.ycombinator.com/item?id=38650937"
-    ],
-    [
-      "AMD's Next GPU Is a 3D-Integrated Superchip",
-      "https://spectrum.ieee.org/amd-mi300"
+      "https://github.com/sontek/snowmachine"
     ]
   ],
   [
@@ -257,6 +227,16 @@
     [
       "Pipe Dreams: The life and times of Yahoo Pipes",
       "https://retool.com/pipes"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 21:27:49",
+      "https://news.ycombinator.com/item?id=38647490"
+    ],
+    [
+      "A group of radical artists smuggled political messages into Melrose Place",
+      "https://slate.com/culture/2023/12/melrose-place-abortion-art-gala-committee-mel-chin.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "The Rise and Fall of the 'IBM Way'",
       "https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 09:21:42",
+      "https://news.ycombinator.com/item?id=38639437"
+    ],
+    [
+      "Falcon 3.0 game manual (1991) [pdf]",
+      "https://www.dosdays.co.uk/media/games/falcon3/Falcon%203.0.PDF"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:19:16",
+      "https://news.ycombinator.com/item?id=38616131"
+    ],
+    [
+      "Measuring the size of the cache line empirically",
+      "https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/"
     ]
   ]
 ]
