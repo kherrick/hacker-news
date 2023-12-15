@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 13:27:58",
+      "https://news.ycombinator.com/item?id=38653958"
+    ],
+    [
+      "Ask HN: Best information sources to learn about VC",
+      "https://news.ycombinator.com/item?id=38653958"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 12:25:26",
       "https://news.ycombinator.com/item?id=38653456"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38653110"
     ],
     [
-      "WebP is so great except it's not",
+      "WebP is so great except it's not (2021)",
       "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/"
     ]
   ],
@@ -137,26 +147,6 @@
     [
       "Pipe Dreams: The life and times of Yahoo Pipes",
       "https://retool.com/pipes"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 04:04:42",
-      "https://news.ycombinator.com/item?id=38650860"
-    ],
-    [
-      "Computers are an inherently oppressive technology",
-      "https://www.devever.net/~hl/ruthlessness"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 03:57:49",
-      "https://news.ycombinator.com/item?id=38650810"
-    ],
-    [
-      "Researchers create transparent magnetic materials using laser heating",
-      "http://www.tohoku.ac.jp/en/press/new_transparent_magnetic_material_created_by_adding_heat_with_a_laser.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Reverse Engineering an LCD Display",
       "https://sudhir.nl/lcd?al=projects"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 20:42:39",
+      "https://news.ycombinator.com/item?id=38633858"
+    ],
+    [
+      "Uptime Related Server Crashes",
+      "https://barry.blog/2011/06/14/uptime-related-server-crashes/"
     ]
   ]
 ]
