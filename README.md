@@ -27,9 +27,9 @@
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive tour of James Clerk Maxwell's house](https://clerkmaxwellfoundation.org/india-street/housetour.html)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An interactive guide to the Fourier transform (2012)](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
-* [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
+* [2023-12-12, 18:19:16](https://news.ycombinator.com/item?id=38616131) - [Measuring the size of the cache line empirically](https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/)
 
 ## [Archives](archives/index.md)
 
