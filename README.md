@@ -26,10 +26,10 @@
 * [2023-12-14, 15:30:49](https://news.ycombinator.com/item?id=38642412) - [Programs are games, programming is a game](https://blog.charliemeyer.co/programs-are-games-programming-is-a-game/)
 * [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 12:54:09](https://news.ycombinator.com/item?id=38640786) - [Interpolation methods (1999)](https://paulbourke.net/miscellaneous/interpolation/)
+* [2023-12-14, 11:08:20](https://news.ycombinator.com/item?id=38640098) - [The Borsuk-Ulam Explorer](http://julius-ross.com/Borsuk-Ulam/)
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
 * [2023-12-14, 07:21:09](https://news.ycombinator.com/item?id=38638691) - [Flat lenses made of nanostructures transform tiny cameras and projectors](https://spectrum.ieee.org/metalens-2660294513)
 * [2023-12-14, 04:52:36](https://news.ycombinator.com/item?id=38637911) - [Reverse Engineering an LCD Display](https://sudhir.nl/lcd?al=projects)
-* [2023-12-14, 02:49:40](https://news.ycombinator.com/item?id=38637211) - [This device might be England’s oldest dated scientific instrument](https://www.smithsonianmag.com/smart-news/englands-oldest-known-scientific-instrument-is-for-sale-180983425/)
 
 ## [Archives](archives/index.md)
 
