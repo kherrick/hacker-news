@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
+* [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 * [2023-12-15, 19:09:14](https://news.ycombinator.com/item?id=38657482) - [Ad Company Claims 'It's True. Your Devices Are Listening to You'](https://gizmodo.com/cmg-local-solutions-ads-listening-on-devices-1851102426)
 * [2023-12-15, 18:47:32](https://news.ycombinator.com/item?id=38657192) - [McDonald's Ice Cream Machine Hackers Say They Found 'Smoking Gun'](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
