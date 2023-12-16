@@ -22,7 +22,7 @@
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer captured one image of Cambridge every day for 13 years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 * [2023-12-15, 10:25:44](https://news.ycombinator.com/item?id=38652773) - [Calculation before we went digital [pdf]](https://www.nicolamarras.it/Was-There-Life-Before-Computer-en.pdf)
-* [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
+* [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-15, 05:40:06](https://news.ycombinator.com/item?id=38651346) - [Open source rules engine for Magic: The Gathering](https://github.com/Card-Forge/forge/wiki)
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
