@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 19:43:26](https://news.ycombinator.com/item?id=38667100) - [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
+* [2023-12-16, 19:37:46](https://news.ycombinator.com/item?id=38667063) - [AMD FSR is the building block for Apple's hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
+* [2023-12-16, 18:40:22](https://news.ycombinator.com/item?id=38666631) - [Cats play fetch longer, with more retrievals, when they initiate the game](https://arstechnica.com/science/2023/12/yes-some-cats-like-to-play-fetch-its-science/)
 * [2023-12-16, 18:15:14](https://news.ycombinator.com/item?id=38666458) - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
 * [2023-12-16, 17:59:48](https://news.ycombinator.com/item?id=38666340) - [Sydney man dubbed the 'Annihilator' wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
 * [2023-12-16, 17:57:54](https://news.ycombinator.com/item?id=38666317) - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
@@ -13,6 +16,7 @@
 * [2023-12-16, 17:25:02](https://news.ycombinator.com/item?id=38666031) - [Apple responds to the Beeper iMessage saga: 'We took steps to protect our users'](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
+* [2023-12-16, 17:14:57](https://news.ycombinator.com/item?id=38665918) - [My Raspberry Pi Learns to Drive](https://smist08.wordpress.com/2023/12/15/my-raspberry-pi-learns-to-drive/)
 * [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
 * [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 * [2023-12-16, 16:03:51](https://news.ycombinator.com/item?id=38665206) - [Bang&Olufsen says it will defy luxury slowdown as 'rich will only become richer'](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
