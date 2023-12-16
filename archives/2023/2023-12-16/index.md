@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
 * [2023-12-16, 22:12:31](https://news.ycombinator.com/item?id=38668237) - [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
+* [2023-12-16, 21:57:37](https://news.ycombinator.com/item?id=38668121) - [Tastes Are a Point in Space](https://dynomight.substack.com/p/class)
 * [2023-12-16, 21:56:52](https://news.ycombinator.com/item?id=38668113) - [Ask HN: How to get started with practical hardware?](https://news.ycombinator.com/item?id=38668113)
 * [2023-12-16, 21:52:11](https://news.ycombinator.com/item?id=38668080) - [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
 * [2023-12-16, 21:39:12](https://news.ycombinator.com/item?id=38667962) - [How the Feds bounced Binance: Crypto isn't \"incentive compatible\"](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
