@@ -18,6 +18,7 @@
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
 * [2023-12-16, 12:20:56](https://news.ycombinator.com/item?id=38663713) - [Preparing for Missions in Difficult Places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 * [2023-12-16, 12:02:42](https://news.ycombinator.com/item?id=38663636) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2023-12-16, 11:51:59](https://news.ycombinator.com/item?id=38663590) - [Island gigantism](https://en.wikipedia.org/wiki/Island_gigantism)
 * [2023-12-16, 09:28:26](https://news.ycombinator.com/item?id=38662986) - [Are electric cars too expensive to tempt motorists away from petrol vehicles?](https://www.theguardian.com/business/2023/dec/16/are-electric-cars-too-expensive-to-tempt-motorists-away-from-petrol-and-diesel-vehicles)
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-16, 08:58:35](https://news.ycombinator.com/item?id=38662852) - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
