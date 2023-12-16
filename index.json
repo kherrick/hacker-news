@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 05:36:39",
+      "https://news.ycombinator.com/item?id=38662016"
+    ],
+    [
+      "Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors",
+      "https://github.com/Doubiiu/DynamiCrafter"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 04:37:01",
       "https://news.ycombinator.com/item?id=38661765"
     ],
@@ -27,6 +37,16 @@
     [
       "CRDT Concepts: Causal Trees",
       "https://www.farley.ai/posts/causal"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 03:52:05",
+      "https://news.ycombinator.com/item?id=38661565"
+    ],
+    [
+      "Self-Supervised Behavior Cloned Transformers Are Path Crawlers for Text Games",
+      "https://arxiv.org/abs/2312.04657"
     ]
   ],
   [
@@ -191,36 +211,6 @@
   ],
   [
     [
-      "2023-12-15, 15:28:30",
-      "https://news.ycombinator.com/item?id=38655066"
-    ],
-    [
-      "Database Fundamentals",
-      "https://tontinton.com/posts/database-fundementals/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 15:26:10",
-      "https://news.ycombinator.com/item?id=38655047"
-    ],
-    [
-      "Scheme in Scheme on WASM in the browser",
-      "https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 15:17:11",
-      "https://news.ycombinator.com/item?id=38654968"
-    ],
-    [
-      "Double-mirror illusion",
-      "https://journalofillusion.net/index.php/joi/article/view/9839/16407"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 12:58:11",
       "https://news.ycombinator.com/item?id=38653677"
     ],
@@ -287,6 +277,16 @@
     [
       "LinkedIn shelved plan to migrate to Microsoft Azure cloud",
       "https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 09:44:37",
+      "https://news.ycombinator.com/item?id=38639564"
+    ],
+    [
+      "The Rise and Fall of the 'IBM Way'",
+      "https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/"
     ]
   ],
   [
