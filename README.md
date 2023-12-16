@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-16, 01:00:18](https://news.ycombinator.com/item?id=38660772) - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
 * [2023-12-16, 00:54:56](https://news.ycombinator.com/item?id=38660744) - [City Council Passes Bill Enabling Tenants to Report Vacant Apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
 * [2023-12-16, 00:39:43](https://news.ycombinator.com/item?id=38660646) - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
-* [2023-12-15, 22:33:47](https://news.ycombinator.com/item?id=38659654) - [Tortured conference series thriving in computer science](https://hal.science/hal-04311585v1)
 * [2023-12-15, 22:18:56](https://news.ycombinator.com/item?id=38659529) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-15, 22:09:25](https://news.ycombinator.com/item?id=38659430) - [Prompt – A terminal for a container-oriented desktop](https://blogs.gnome.org/chergert/2023/12/14/prompt/)
 * [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
