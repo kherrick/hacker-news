@@ -18,7 +18,7 @@
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
-* [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
+* [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Once I bet, it's not my money any more](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 18:27:22](https://news.ycombinator.com/item?id=38656994) - [The Notebook by Roland Allen review – notes on living](https://www.theguardian.com/books/2023/dec/01/the-notebook-by-roland-allen-review-notes-on-living)
 * [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
