@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 * [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
 * [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 * [2023-12-16, 16:03:51](https://news.ycombinator.com/item?id=38665206) - [Bang&Olufsen says it will defy luxury slowdown as 'rich will only become richer'](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
@@ -19,6 +20,7 @@
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
 * [2023-12-16, 12:20:56](https://news.ycombinator.com/item?id=38663713) - [Preparing for Missions in Difficult Places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 * [2023-12-16, 12:02:42](https://news.ycombinator.com/item?id=38663636) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
+* [2023-12-16, 11:59:06](https://news.ycombinator.com/item?id=38663619) - [No Stinking Loops](https://www.nsl.com/)
 * [2023-12-16, 11:51:59](https://news.ycombinator.com/item?id=38663590) - [Island gigantism](https://en.wikipedia.org/wiki/Island_gigantism)
 * [2023-12-16, 09:28:26](https://news.ycombinator.com/item?id=38662986) - [Are electric cars too expensive to tempt motorists away from petrol vehicles?](https://www.theguardian.com/business/2023/dec/16/are-electric-cars-too-expensive-to-tempt-motorists-away-from-petrol-and-diesel-vehicles)
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
