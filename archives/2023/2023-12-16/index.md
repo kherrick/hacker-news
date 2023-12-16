@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 16:03:51](https://news.ycombinator.com/item?id=38665206) - [Bang&Olufsen says it will defy luxury slowdown as 'rich will only become richer'](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
 * [2023-12-16, 15:28:07](https://news.ycombinator.com/item?id=38664895) - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
 * [2023-12-16, 15:26:22](https://news.ycombinator.com/item?id=38664875) - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
 * [2023-12-16, 15:06:42](https://news.ycombinator.com/item?id=38664729) - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
+* [2023-12-16, 14:52:05](https://news.ycombinator.com/item?id=38664626) - [Fractional Fourier Transform](https://en.wikipedia.org/wiki/Fractional_Fourier_transform)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 * [2023-12-16, 13:00:11](https://news.ycombinator.com/item?id=38663881) - [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 * [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
