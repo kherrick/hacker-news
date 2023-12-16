@@ -24,10 +24,10 @@
 * [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII code breaker Mary Ratcliffe has died](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 11:52:56](https://news.ycombinator.com/item?id=38653212) - [Fly Postgres, Managed by Supabase](https://supabase.com/blog/postgres-on-fly-by-supabase)
+* [2023-12-15, 11:32:44](https://news.ycombinator.com/item?id=38653110) - [WebP is so great except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive tour of James Clerk Maxwell's house](https://clerkmaxwellfoundation.org/india-street/housetour.html)
-* [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An interactive guide to the Fourier transform (2012)](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
-* [2023-12-14, 18:50:37](https://news.ycombinator.com/item?id=38645411) - [Embeddings, vectors, and arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-14, 13:36:49](https://news.ycombinator.com/item?id=38641166) - [Out with the long (2004)](https://www.economist.com/leaders/2004/10/07/out-with-the-long)
+* [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 
