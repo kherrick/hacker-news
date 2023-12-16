@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
-* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
@@ -20,6 +19,7 @@
 * [2023-12-15, 19:26:13](https://news.ycombinator.com/item?id=38657701) - [Against Superficial Simplicity (2022)](https://jarango.com/2022/09/15/against-superficial-simplicity/)
 * [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
+* [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer captured one image of Cambridge every day for 13 years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
 * [2023-12-15, 11:52:56](https://news.ycombinator.com/item?id=38653212) - [Fly Postgres, Managed by Supabase](https://supabase.com/blog/postgres-on-fly-by-supabase)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
