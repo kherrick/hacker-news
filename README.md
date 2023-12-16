@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 15:28:07](https://news.ycombinator.com/item?id=38664895) - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
+* [2023-12-16, 15:26:22](https://news.ycombinator.com/item?id=38664875) - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
 * [2023-12-16, 15:06:42](https://news.ycombinator.com/item?id=38664729) - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
@@ -16,7 +18,6 @@
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
-* [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Once I bet, it's not my money any more](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 18:27:22](https://news.ycombinator.com/item?id=38656994) - [The Notebook by Roland Allen review – notes on living](https://www.theguardian.com/books/2023/dec/01/the-notebook-by-roland-allen-review-notes-on-living)
@@ -27,7 +28,6 @@
 * [2023-12-15, 10:25:44](https://news.ycombinator.com/item?id=38652773) - [Calculation before we went digital [pdf]](https://www.nicolamarras.it/Was-There-Life-Before-Computer-en.pdf)
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-15, 05:40:06](https://news.ycombinator.com/item?id=38651346) - [Open source rules engine for Magic: The Gathering](https://github.com/Card-Forge/forge/wiki)
-* [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-14, 09:17:51](https://news.ycombinator.com/item?id=38639415) - [Deciyear Calendar](https://deciyear.com/)
 * [2023-12-13, 20:18:53](https://news.ycombinator.com/item?id=38633611) - [Mutual Friends: The Adventures of Charles Dickens and Wilkie Collins](https://quillette.com/2023/12/11/mutual-friends-the-adventures-of-charles-dickens-wilkie-collins/)
 
