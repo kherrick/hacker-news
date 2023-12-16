@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
+* [2023-12-16, 05:53:51](https://news.ycombinator.com/item?id=38662071) - [Transactional Email Delivery Made Easy](https://maileroo.com/)
 * [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
@@ -14,7 +16,6 @@
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
 * [2023-12-15, 22:18:56](https://news.ycombinator.com/item?id=38659529) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-15, 22:09:25](https://news.ycombinator.com/item?id=38659430) - [Prompt – A terminal for a container-oriented desktop](https://blogs.gnome.org/chergert/2023/12/14/prompt/)
-* [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 * [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 19:26:13](https://news.ycombinator.com/item?id=38657701) - [Against Superficial Simplicity (2022)](https://jarango.com/2022/09/15/against-superficial-simplicity/)
@@ -27,7 +28,6 @@
 * [2023-12-15, 02:35:57](https://news.ycombinator.com/item?id=38650504) - [Bug in my code from compiler optimization [video]](https://www.youtube.com/watch?v=hBjQ3HqCfxs)
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
-* [2023-12-14, 13:07:12](https://news.ycombinator.com/item?id=38640900) - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 * [2023-12-13, 20:18:53](https://news.ycombinator.com/item?id=38633611) - [Mutual Friends: The Adventures of Charles Dickens and Wilkie Collins](https://quillette.com/2023/12/11/mutual-friends-the-adventures-of-charles-dickens-wilkie-collins/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 
