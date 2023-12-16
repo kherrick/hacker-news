@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 17:23:20",
+      "https://news.ycombinator.com/item?id=38666009"
+    ],
+    [
+      "Christmas deliveries at risk as shipping giant suspends Red Sea journeys",
+      "https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 16:41:55",
       "https://news.ycombinator.com/item?id=38665573"
     ],
@@ -47,16 +57,6 @@
     [
       "SSH3: SSHv2 using HTTP/3 and QUIC",
       "https://github.com/francoismichel/ssh3"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 15:04:54",
-      "https://news.ycombinator.com/item?id=38664713"
-    ],
-    [
-      "A Beautiful library of SVG logos",
-      "https://svgl.vercel.app/"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2023-12-16, 11:59:06",
+      "https://news.ycombinator.com/item?id=38663619"
+    ],
+    [
+      "No Stinking Loops",
+      "https://www.nsl.com/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 11:51:59",
       "https://news.ycombinator.com/item?id=38663590"
     ],
@@ -127,16 +137,6 @@
     [
       "Structure of FTS5 Index in SQLite",
       "https://darksi.de/13.sqlite-fts5-structure/"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 05:36:39",
-      "https://news.ycombinator.com/item?id=38662016"
-    ],
-    [
-      "Show HN: DynamiCrafter: Animating open-domain images with video diffusion priors",
-      "https://github.com/Doubiiu/DynamiCrafter"
     ]
   ],
   [
