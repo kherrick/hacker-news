@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 22:12:31](https://news.ycombinator.com/item?id=38668237) - [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
 * [2023-12-16, 21:52:11](https://news.ycombinator.com/item?id=38668080) - [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
 * [2023-12-16, 21:39:12](https://news.ycombinator.com/item?id=38667962) - [How the Feds bounced Binance: Crypto isn't \"incentive compatible\"](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
 * [2023-12-16, 21:34:20](https://news.ycombinator.com/item?id=38667916) - [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
@@ -25,7 +26,6 @@
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-16, 05:07:21](https://news.ycombinator.com/item?id=38661903) - [NASA study finds life-sparking energy source and molecule at Enceladus](https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html)
 * [2023-12-16, 04:42:56](https://news.ycombinator.com/item?id=38661795) - [Immune cells shape lung tissue before birth giving new ways of treating diseases](https://medicalxpress.com/news/2023-12-immune-cells-lung-tissue-birth.html)
-* [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 13:01:19](https://news.ycombinator.com/item?id=38653711) - [Chesterton's Fence: A lesson in second order thinking (2021)](https://fs.blog/chestertons-fence/)
 * [2023-12-15, 09:54:43](https://news.ycombinator.com/item?id=38652626) - [What we lose when curating follows the money](https://hyperallergic.com/861508/what-we-lose-when-curating-follows-the-money-capturing-moment-tate-modern/)
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
