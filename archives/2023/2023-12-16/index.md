@@ -19,6 +19,7 @@
 * [2023-12-16, 13:00:11](https://news.ycombinator.com/item?id=38663881) - [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 * [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
+* [2023-12-16, 12:21:38](https://news.ycombinator.com/item?id=38663717) - [Show HN: SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-16, 12:20:56](https://news.ycombinator.com/item?id=38663713) - [Preparing for Missions in Difficult Places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 * [2023-12-16, 12:02:42](https://news.ycombinator.com/item?id=38663636) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-12-16, 11:59:06](https://news.ycombinator.com/item?id=38663619) - [No Stinking Loops](https://www.nsl.com/)
