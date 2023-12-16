@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
+* [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 * [2023-12-16, 16:03:51](https://news.ycombinator.com/item?id=38665206) - [Bang&Olufsen says it will defy luxury slowdown as 'rich will only become richer'](https://www.ft.com/content/028d9968-2d6d-4e8c-affb-d36d4986cbae)
 * [2023-12-16, 15:28:07](https://news.ycombinator.com/item?id=38664895) - [Stop Planting Trees, Says Guy Who Inspired World to Plant a Trillion Trees](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
 * [2023-12-16, 15:26:22](https://news.ycombinator.com/item?id=38664875) - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
