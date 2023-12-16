@@ -65,6 +65,7 @@
 * [2023-12-15, 13:52:13](https://news.ycombinator.com/item?id=38654160) - [Half-Male, Half-Female Bird Captured on Film in Colombia](https://www.forbes.com/sites/grrlscientist/2023/12/14/bizarre-half-male-half-female-bird-captured-on-film-in-colombia/)
 * [2023-12-15, 13:27:58](https://news.ycombinator.com/item?id=38653958) - [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
 * [2023-12-15, 13:07:30](https://news.ycombinator.com/item?id=38653771) - [Quantum Batteries Break Causality](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html)
+* [2023-12-15, 13:01:19](https://news.ycombinator.com/item?id=38653711) - [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/chestertons-fence/)
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer Captured One Image of Cambridge Every Day for 13 Years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
 * [2023-12-15, 12:25:26](https://news.ycombinator.com/item?id=38653456) - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 * [2023-12-15, 12:01:03](https://news.ycombinator.com/item?id=38653282) - [OneSignal (YC S11) Is Hiring Engineers for It's SMS Platform Team](https://onesignal.com/careers/4303015006)
