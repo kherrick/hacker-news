@@ -7,6 +7,8 @@
 * [2023-12-16, 18:15:14](https://news.ycombinator.com/item?id=38666458) - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
 * [2023-12-16, 17:59:48](https://news.ycombinator.com/item?id=38666340) - [Sydney man dubbed the 'Annihilator' wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
 * [2023-12-16, 17:57:54](https://news.ycombinator.com/item?id=38666317) - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
+* [2023-12-16, 17:52:48](https://news.ycombinator.com/item?id=38666287) - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
+* [2023-12-16, 17:52:17](https://news.ycombinator.com/item?id=38666280) - [Interview: The Threat of Self-Censorship in Science](https://undark.org/2023/12/15/interview-self-censorship/)
 * [2023-12-16, 17:25:04](https://news.ycombinator.com/item?id=38666032) - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
