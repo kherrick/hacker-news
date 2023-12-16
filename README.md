@@ -21,7 +21,7 @@
 * [2023-12-15, 16:11:57](https://news.ycombinator.com/item?id=38655536) - [Threestudio – Framework for 3D content generation](https://github.com/threestudio-project/threestudio)
 * [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
-* [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII code breaker Mary Ratcliffe has died](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
+* [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-mirror illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer captured one image of Cambridge every day for 13 years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
 * [2023-12-15, 11:52:56](https://news.ycombinator.com/item?id=38653212) - [Fly Postgres, Managed by Supabase](https://supabase.com/blog/postgres-on-fly-by-supabase)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
