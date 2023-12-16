@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 18:15:14](https://news.ycombinator.com/item?id=38666458) - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
 * [2023-12-16, 17:57:54](https://news.ycombinator.com/item?id=38666317) - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
@@ -32,6 +33,7 @@
 * [2023-12-16, 05:53:51](https://news.ycombinator.com/item?id=38662071) - [Transactional Email Delivery Made Easy](https://maileroo.com/)
 * [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 05:15:04](https://news.ycombinator.com/item?id=38661930) - [25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)
+* [2023-12-16, 05:07:21](https://news.ycombinator.com/item?id=38661903) - [NASA study finds life-sparking energy source and molecule at Enceladus](https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html)
 * [2023-12-16, 05:03:34](https://news.ycombinator.com/item?id=38661890) - [Show HN: I've built a MySQL proxy that supports online ddl](https://github.com/wesql/wescale)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
