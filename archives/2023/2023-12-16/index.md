@@ -9,6 +9,7 @@
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
 * [2023-12-16, 05:53:51](https://news.ycombinator.com/item?id=38662071) - [Transactional Email Delivery Made Easy](https://maileroo.com/)
 * [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
+* [2023-12-16, 05:15:04](https://news.ycombinator.com/item?id=38661930) - [25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
