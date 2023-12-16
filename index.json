@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-16, 21:34:20",
+      "https://news.ycombinator.com/item?id=38667916"
+    ],
+    [
+      "US begins review that could eventually lead to PVC ban",
+      "https://phys.org/news/2023-12-pvc.amp"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 21:14:54",
+      "https://news.ycombinator.com/item?id=38667739"
+    ],
+    [
+      "A guide to technical report writing [pdf]",
+      "https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 21:03:09",
       "https://news.ycombinator.com/item?id=38667654"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-12-16, 05:03:34",
-      "https://news.ycombinator.com/item?id=38661890"
-    ],
-    [
-      "Show HN: I've built a MySQL proxy that supports online DDL",
-      "https://github.com/wesql/wescale"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 18:41:10",
       "https://news.ycombinator.com/item?id=38657126"
     ],
@@ -287,16 +297,6 @@
     [
       "Open source rules engine for Magic: The Gathering",
       "https://github.com/Card-Forge/forge/wiki"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 08:56:20",
-      "https://news.ycombinator.com/item?id=38639279"
-    ],
-    [
-      "Netlink, auditing, and counting bytes (2020)",
-      "https://blog.des.no/2020/08/netlink-auditing-and-counting-bytes/"
     ]
   ]
 ]
