@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 09:28:26](https://news.ycombinator.com/item?id=38662986) - [Are electric cars too expensive to tempt motorists away from petrol vehicles?](https://www.theguardian.com/business/2023/dec/16/are-electric-cars-too-expensive-to-tempt-motorists-away-from-petrol-and-diesel-vehicles)
+* [2023-12-16, 08:58:35](https://news.ycombinator.com/item?id=38662852) - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
 * [2023-12-16, 05:53:51](https://news.ycombinator.com/item?id=38662071) - [Transactional Email Delivery Made Easy](https://maileroo.com/)
 * [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
