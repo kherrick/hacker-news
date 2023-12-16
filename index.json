@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 18:15:14",
+      "https://news.ycombinator.com/item?id=38666458"
+    ],
+    [
+      "What is the point of a public key fingerprint?",
+      "https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 17:57:54",
       "https://news.ycombinator.com/item?id=38666317"
     ],
@@ -37,16 +47,6 @@
     [
       "What This Country Needs is an 18¢ Piece [pdf]",
       "https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 15:28:07",
-      "https://news.ycombinator.com/item?id=38664895"
-    ],
-    [
-      "Tree plantations are not the environmental solution they’re purported to be",
-      "https://www.wired.com/story/stop-planting-trees-thomas-crowther/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-12-16, 05:07:21",
+      "https://news.ycombinator.com/item?id=38661903"
+    ],
+    [
+      "NASA study finds life-sparking energy source and molecule at Enceladus",
+      "https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 05:03:34",
       "https://news.ycombinator.com/item?id=38661890"
     ],
@@ -207,16 +217,6 @@
     [
       "Advancements in machine learning for machine learning",
       "https://blog.research.google/2023/12/advancements-in-machine-learning-for.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 02:26:15",
-      "https://news.ycombinator.com/item?id=38661182"
-    ],
-    [
-      "Bluetooth keystroke-injection in Android, Linux, macOS and iOS",
-      "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ]
   ],
   [
