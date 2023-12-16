@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [CVE-2023-45866: Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
@@ -27,7 +28,6 @@
 * [2023-12-15, 02:35:57](https://news.ycombinator.com/item?id=38650504) - [Bug in my code from compiler optimization [video]](https://www.youtube.com/watch?v=hBjQ3HqCfxs)
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
-* [2023-12-14, 13:36:49](https://news.ycombinator.com/item?id=38641166) - [Out with the long (2004)](https://www.economist.com/leaders/2004/10/07/out-with-the-long)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 

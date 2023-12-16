@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:31:21](https://news.ycombinator.com/item?id=38661209) - [Introduction to free software and the liberation of cyberspace](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/?pk_campaign=RMSTEDx&pk_kwd=social_media)
