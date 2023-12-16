@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 15:06:42](https://news.ycombinator.com/item?id=38664729) - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
+* [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 * [2023-12-16, 13:00:11](https://news.ycombinator.com/item?id=38663881) - [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
@@ -8,7 +10,6 @@
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-16, 08:58:35](https://news.ycombinator.com/item?id=38662852) - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
-* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 05:15:04](https://news.ycombinator.com/item?id=38661930) - [25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
@@ -16,7 +17,6 @@
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Once I bet, it's not my money any more](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
-* [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 18:27:22](https://news.ycombinator.com/item?id=38656994) - [The Notebook by Roland Allen review – notes on living](https://www.theguardian.com/books/2023/dec/01/the-notebook-by-roland-allen-review-notes-on-living)

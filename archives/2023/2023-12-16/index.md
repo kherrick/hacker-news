@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 15:06:42](https://news.ycombinator.com/item?id=38664729) - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
+* [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 * [2023-12-16, 13:00:11](https://news.ycombinator.com/item?id=38663881) - [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 * [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
