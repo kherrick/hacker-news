@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 * [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 * [2023-12-16, 15:28:07](https://news.ycombinator.com/item?id=38664895) - [Tree plantations are not the environmental solution they’re purported to be](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
@@ -22,7 +23,6 @@
 * [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Not my money any more: Lessons from poker (2010)](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
-* [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
 * [2023-12-15, 13:01:19](https://news.ycombinator.com/item?id=38653711) - [Chesterton's Fence: A lesson in second order thinking (2021)](https://fs.blog/chestertons-fence/)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A close look at a spinlock (2021)](https://blog.regehr.org/archives/2173)
 * [2023-12-15, 10:25:44](https://news.ycombinator.com/item?id=38652773) - [Calculation before we went digital [pdf]](https://www.nicolamarras.it/Was-There-Life-Before-Computer-en.pdf)
