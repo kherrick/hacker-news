@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-16, 17:52:17",
-      "https://news.ycombinator.com/item?id=38666280"
-    ],
-    [
-      "Interview: The Threat of Self-Censorship in Science",
-      "https://undark.org/2023/12/15/interview-self-censorship/"
-    ]
-  ],
-  [
-    [
       "2023-12-16, 17:25:04",
       "https://news.ycombinator.com/item?id=38666032"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-12-16, 05:36:39",
+      "https://news.ycombinator.com/item?id=38662016"
+    ],
+    [
+      "Show HN: DynamiCrafter: Animating open-domain images with video diffusion priors",
+      "https://github.com/Doubiiu/DynamiCrafter"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 05:07:21",
       "https://news.ycombinator.com/item?id=38661903"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2023-12-16, 04:37:01",
-      "https://news.ycombinator.com/item?id=38661765"
+      "2023-12-16, 03:55:17",
+      "https://news.ycombinator.com/item?id=38661580"
     ],
     [
-      "Astronomers detect almost 100 new extremely metal-poor galaxies",
-      "https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html"
+      "Causal Trees",
+      "https://www.farley.ai/posts/causal"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Advancements in machine learning for machine learning",
       "https://blog.research.google/2023/12/advancements-in-machine-learning-for.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 02:26:15",
+      "https://news.ycombinator.com/item?id=38661182"
+    ],
+    [
+      "Bluetooth keystroke-injection in Android, Linux, macOS and iOS",
+      "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Chesterton's Fence: A lesson in second order thinking (2021)",
       "https://fs.blog/chestertons-fence/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 10:30:13",
-      "https://news.ycombinator.com/item?id=38652796"
-    ],
-    [
-      "A close look at a spinlock (2021)",
-      "https://blog.regehr.org/archives/2173"
     ]
   ],
   [
