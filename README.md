@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 01:00:18](https://news.ycombinator.com/item?id=38660772) - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
 * [2023-12-16, 00:39:43](https://news.ycombinator.com/item?id=38660646) - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
@@ -9,7 +10,6 @@
 * [2023-12-15, 21:55:18](https://news.ycombinator.com/item?id=38659291) - [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
 * [2023-12-15, 20:38:31](https://news.ycombinator.com/item?id=38658508) - [First look at asteroid dust brought to Earth offers surprises](https://www.nature.com/articles/d41586-023-03978-4)
 * [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
-* [2023-12-15, 20:13:57](https://news.ycombinator.com/item?id=38658262) - [Leave work slightly unfinished for easier flow the next day](https://read.engineerscodex.com/p/simple-software-engineering-habits)
 * [2023-12-15, 19:42:17](https://news.ycombinator.com/item?id=38657910) - [The case of the missing Vega AVUM propellant tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
 * [2023-12-15, 19:26:13](https://news.ycombinator.com/item?id=38657701) - [Against Superficial Simplicity (2022)](https://jarango.com/2022/09/15/against-superficial-simplicity/)
 * [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
