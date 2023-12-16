@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
-* [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
 * [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
 * [2023-12-16, 15:28:07](https://news.ycombinator.com/item?id=38664895) - [Tree plantations are not the environmental solution they’re purported to be](https://www.wired.com/story/stop-planting-trees-thomas-crowther/)
 * [2023-12-16, 15:26:22](https://news.ycombinator.com/item?id=38664875) - [The falling nutritional value of crops](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
@@ -20,6 +19,7 @@
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+* [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Not my money any more: Lessons from poker (2010)](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
