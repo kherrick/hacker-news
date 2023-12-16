@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
 * [2023-12-15, 22:33:47](https://news.ycombinator.com/item?id=38659654) - [Tortured conference series thriving in Computer Science](https://hal.science/hal-04311585v1)
 * [2023-12-15, 22:21:23](https://news.ycombinator.com/item?id=38659549) - [It's Been 2 Months. Why Can't NASA Open the Asteroid Sample Container?](https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598)
 * [2023-12-15, 22:18:56](https://news.ycombinator.com/item?id=38659529) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-15, 22:14:46](https://news.ycombinator.com/item?id=38659485) - [Jury Orders Giuliani to Pay $148M to Election Workers He Defamed](https://www.nytimes.com/2023/12/15/us/politics/rudy-giuliani-defamation-trial-damages.html)
+* [2023-12-15, 22:09:25](https://news.ycombinator.com/item?id=38659430) - [Prompt – A terminal for a container-oriented desktop](https://blogs.gnome.org/chergert/2023/12/14/prompt/)
 * [2023-12-15, 22:06:25](https://news.ycombinator.com/item?id=38659404) - [Cloudflare is experiencing elevated 5xx responses](https://news.ycombinator.com/item?id=38659404)
 * [2023-12-15, 21:57:22](https://news.ycombinator.com/item?id=38659315) - [Noteable.io Is Shutting Down](https://community.noteable.io/c/announcements-4da7da/noteable-is-terminating-its-platform-and-services)
 * [2023-12-15, 21:55:18](https://news.ycombinator.com/item?id=38659291) - [Secureblue: Hardened Immutable Fedora Images](https://github.com/secureblue/secureblue)
