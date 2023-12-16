@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 21:34:20](https://news.ycombinator.com/item?id=38667916) - [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
+* [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 21:03:09](https://news.ycombinator.com/item?id=38667654) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-16, 20:57:02](https://news.ycombinator.com/item?id=38667596) - [MongoDB is actively investigating a security incident](https://www.mongodb.com/alerts)
 * [2023-12-16, 20:01:04](https://news.ycombinator.com/item?id=38667206) - [Recent data shows AI job losses rising, but the numbers don't tell full story](https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html)
@@ -22,14 +24,12 @@
 * [2023-12-16, 11:51:59](https://news.ycombinator.com/item?id=38663590) - [Island gigantism](https://en.wikipedia.org/wiki/Island_gigantism)
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-16, 05:07:21](https://news.ycombinator.com/item?id=38661903) - [NASA study finds life-sparking energy source and molecule at Enceladus](https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html)
-* [2023-12-16, 05:03:34](https://news.ycombinator.com/item?id=38661890) - [Show HN: I've built a MySQL proxy that supports online DDL](https://github.com/wesql/wescale)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 13:01:19](https://news.ycombinator.com/item?id=38653711) - [Chesterton's Fence: A lesson in second order thinking (2021)](https://fs.blog/chestertons-fence/)
 * [2023-12-15, 10:25:44](https://news.ycombinator.com/item?id=38652773) - [Calculation before we went digital [pdf]](https://www.nicolamarras.it/Was-There-Life-Before-Computer-en.pdf)
 * [2023-12-15, 09:54:43](https://news.ycombinator.com/item?id=38652626) - [What we lose when curating follows the money](https://hyperallergic.com/861508/what-we-lose-when-curating-follows-the-money-capturing-moment-tate-modern/)
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS (2022)](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-15, 05:40:06](https://news.ycombinator.com/item?id=38651346) - [Open source rules engine for Magic: The Gathering](https://github.com/Card-Forge/forge/wiki)
-* [2023-12-14, 08:56:20](https://news.ycombinator.com/item?id=38639279) - [Netlink, auditing, and counting bytes (2020)](https://blog.des.no/2020/08/netlink-auditing-and-counting-bytes/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 21:34:20](https://news.ycombinator.com/item?id=38667916) - [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
+* [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 21:03:09](https://news.ycombinator.com/item?id=38667654) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2023-12-16, 20:57:02](https://news.ycombinator.com/item?id=38667596) - [MongoDB is actively investigating a security incident](https://www.mongodb.com/alerts)
 * [2023-12-16, 20:45:54](https://news.ycombinator.com/item?id=38667509) - [Ask HN: Stories of political intrigue in large companies](https://news.ycombinator.com/item?id=38667509)
