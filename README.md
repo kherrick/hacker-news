@@ -19,7 +19,6 @@
 * [2023-12-15, 20:36:56](https://news.ycombinator.com/item?id=38658497) - [Smallest USB-C MIDI Synth](https://mitxela.com/projects/smsc)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 19:26:13](https://news.ycombinator.com/item?id=38657701) - [Against Superficial Simplicity (2022)](https://jarango.com/2022/09/15/against-superficial-simplicity/)
-* [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer captured one image of Cambridge every day for 13 years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
@@ -28,6 +27,7 @@
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
+* [2023-12-14, 09:17:51](https://news.ycombinator.com/item?id=38639415) - [Deciyear Calendar](https://deciyear.com/)
 * [2023-12-13, 20:18:53](https://news.ycombinator.com/item?id=38633611) - [Mutual Friends: The Adventures of Charles Dickens and Wilkie Collins](https://quillette.com/2023/12/11/mutual-friends-the-adventures-of-charles-dickens-wilkie-collins/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 
