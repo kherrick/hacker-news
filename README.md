@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 17:57:54](https://news.ycombinator.com/item?id=38666317) - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 * [2023-12-16, 16:17:33](https://news.ycombinator.com/item?id=38665334) - [What This Country Needs is an 18¢ Piece [pdf]](https://cs.uwaterloo.ca/~shallit/Papers/change2.pdf)
@@ -15,7 +16,6 @@
 * [2023-12-16, 11:59:06](https://news.ycombinator.com/item?id=38663619) - [No Stinking Loops](https://www.nsl.com/)
 * [2023-12-16, 11:51:59](https://news.ycombinator.com/item?id=38663590) - [Island gigantism](https://en.wikipedia.org/wiki/Island_gigantism)
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
-* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating open-domain images with video diffusion priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 05:03:34](https://news.ycombinator.com/item?id=38661890) - [Show HN: I've built a MySQL proxy that supports online DDL](https://github.com/wesql/wescale)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely metal-poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [Causal Trees](https://www.farley.ai/posts/causal)

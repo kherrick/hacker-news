@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 17:57:54](https://news.ycombinator.com/item?id=38666317) - [Google moves to end geofence warrants, a surveillance problem it largely created](https://techcrunch.com/2023/12/16/google-geofence-warrants-law-enforcement-privacy/)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 * [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
