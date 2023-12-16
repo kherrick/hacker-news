@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 21:03:09](https://news.ycombinator.com/item?id=38667654) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2023-12-16, 20:45:54](https://news.ycombinator.com/item?id=38667509) - [Ask HN: Stories of political intrigue in large companies](https://news.ycombinator.com/item?id=38667509)
 * [2023-12-16, 20:10:51](https://news.ycombinator.com/item?id=38667266) - [Paris mayor plans to triple SUV parking tariffs to cut air pollution](https://www.theguardian.com/world/2023/dec/08/paris-mayor-plans-to-triple-suv-parking-tariffs-cut-air-pollution)
 * [2023-12-16, 20:01:04](https://news.ycombinator.com/item?id=38667206) - [Recent data shows AI job losses rising, but the numbers don't tell full story](https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html)
 * [2023-12-16, 19:50:28](https://news.ycombinator.com/item?id=38667142) - [Apple workers deserve iDorms as good as the technology](https://www.ft.com/content/6f6e3e62-c06c-42b3-8b1b-a4dabbf2334c)
