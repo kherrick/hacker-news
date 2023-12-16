@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 20:01:04](https://news.ycombinator.com/item?id=38667206) - [Recent data shows AI job losses rising, but the numbers don't tell full story](https://www.cnbc.com/2023/12/16/ai-job-losses-are-rising-but-the-numbers-dont-tell-the-full-story.html)
 * [2023-12-16, 19:43:26](https://news.ycombinator.com/item?id=38667100) - [Apple makes it easier for app makers to compete for your dollars](https://www.theverge.com/2023/12/16/24004074/ios-apps-contingent-pricing-subscription-discounts)
 * [2023-12-16, 19:37:46](https://news.ycombinator.com/item?id=38667063) - [AMD FSR is the building block for Apple's hybrid MetalFX upscaling tech](https://www.tomshardware.com/pc-components/gpus/amd-fsr-is-the-building-block-for-apples-metalfx-upscaling-tech-the-apps-legal-info-references-the-usage-of-amd-fsr)
+* [2023-12-16, 19:29:03](https://news.ycombinator.com/item?id=38667006) - [Solar and Wind to Top Coal Power in US for First Time in 2024](https://www.bloomberg.com/news/articles/2023-12-12/solar-and-wind-to-top-coal-power-in-us-for-first-time-in-2024)
 * [2023-12-16, 18:40:22](https://news.ycombinator.com/item?id=38666631) - [Cats play fetch longer, with more retrievals, when they initiate the game](https://arstechnica.com/science/2023/12/yes-some-cats-like-to-play-fetch-its-science/)
 * [2023-12-16, 18:15:14](https://news.ycombinator.com/item?id=38666458) - [What is the point of a public key fingerprint?](https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/)
 * [2023-12-16, 17:59:48](https://news.ycombinator.com/item?id=38666340) - [Sydney man dubbed the 'Annihilator' wins spreadsheet world championship](https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship)
