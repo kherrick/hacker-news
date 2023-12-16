@@ -10,6 +10,7 @@
 * [2023-12-16, 17:52:48](https://news.ycombinator.com/item?id=38666287) - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
 * [2023-12-16, 17:52:17](https://news.ycombinator.com/item?id=38666280) - [Interview: The Threat of Self-Censorship in Science](https://undark.org/2023/12/15/interview-self-censorship/)
 * [2023-12-16, 17:25:04](https://news.ycombinator.com/item?id=38666032) - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
+* [2023-12-16, 17:25:02](https://news.ycombinator.com/item?id=38666031) - [Apple responds to the Beeper iMessage saga: 'We took steps to protect our users'](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
 * [2023-12-16, 17:23:20](https://news.ycombinator.com/item?id=38666009) - [Christmas deliveries at risk as shipping giant suspends Red Sea journeys](https://www.telegraph.co.uk/business/2023/12/15/christmas-deliveries-risk-shipping-giant-suspends-red-sea/)
 * [2023-12-16, 16:41:55](https://news.ycombinator.com/item?id=38665573) - [California DMV Digital ID Pilot Program](https://www.dmv.ca.gov/portal/ca-dmv-wallet/)
