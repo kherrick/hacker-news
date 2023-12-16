@@ -75,6 +75,7 @@
 * [2023-12-15, 10:31:37](https://news.ycombinator.com/item?id=38652806) - [Interactive Tour of James Clerk Maxwell's House](https://clerkmaxwellfoundation.org/india-street/housetour.html)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 * [2023-12-15, 10:29:40](https://news.ycombinator.com/item?id=38652794) - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+* [2023-12-15, 10:25:44](https://news.ycombinator.com/item?id=38652773) - [Calculation before we went digital [pdf]](https://www.nicolamarras.it/Was-There-Life-Before-Computer-en.pdf)
 * [2023-12-15, 10:19:14](https://news.ycombinator.com/item?id=38652736) - [Ask HN: AI/ML papers to catch up with current state of AI?](https://news.ycombinator.com/item?id=38652736)
 * [2023-12-15, 10:09:54](https://news.ycombinator.com/item?id=38652689) - [How Did the Romans Calculate?](https://cacm.acm.org/blogs/blog-cacm/234881-how-did-the-romans-calculate/fulltext)
 * [2023-12-15, 10:00:22](https://news.ycombinator.com/item?id=38652648) - [Ubiquiti users report having access to others' UniFi routers, cameras](https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/)
