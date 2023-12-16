@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-12-16, 12:24:49",
-      "https://news.ycombinator.com/item?id=38663733"
-    ],
-    [
-      "Self-teaching, spaced repetition, and why books don't work",
-      "https://www.dwarkeshpatel.com/p/andy-matuschak"
-    ]
-  ],
-  [
-    [
       "2023-12-16, 12:21:38",
       "https://news.ycombinator.com/item?id=38663717"
     ],
@@ -227,6 +217,16 @@
     [
       "Advancements in machine learning for machine learning",
       "https://blog.research.google/2023/12/advancements-in-machine-learning-for.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 02:26:15",
+      "https://news.ycombinator.com/item?id=38661182"
+    ],
+    [
+      "Bluetooth keystroke-injection in Android, Linux, macOS and iOS",
+      "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ]
   ],
   [
