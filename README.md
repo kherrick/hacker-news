@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
+* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
@@ -9,7 +10,6 @@
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-16, 02:04:13](https://news.ycombinator.com/item?id=38661095) - [Securing the Fundamentals: Our Support for Log4j](https://www.sovereigntechfund.de/news/log4j-investment)
 * [2023-12-16, 01:00:18](https://news.ycombinator.com/item?id=38660772) - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
-* [2023-12-16, 00:54:56](https://news.ycombinator.com/item?id=38660744) - [City council passes bill enabling tenants to report vacant apartments](https://www.thecity.nyc/2023/12/06/warehousing-vacant-apartments-report-council/)
 * [2023-12-16, 00:39:43](https://news.ycombinator.com/item?id=38660646) - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
 * [2023-12-15, 22:18:56](https://news.ycombinator.com/item?id=38659529) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
