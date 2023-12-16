@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
+* [2023-12-16, 03:52:05](https://news.ycombinator.com/item?id=38661565) - [Self-Supervised Behavior Cloned Transformers Are Path Crawlers for Text Games](https://arxiv.org/abs/2312.04657)
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
@@ -19,9 +21,6 @@
 * [2023-12-15, 19:16:23](https://news.ycombinator.com/item?id=38657577) - [Suspects can refuse to provide phone passcodes to police, court rules](https://arstechnica.com/tech-policy/2023/12/suspects-can-refuse-to-provide-phone-passcodes-to-police-court-rules/)
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 16:11:57](https://news.ycombinator.com/item?id=38655536) - [Threestudio – Framework for 3D content generation](https://github.com/threestudio-project/threestudio)
-* [2023-12-15, 15:28:30](https://news.ycombinator.com/item?id=38655066) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
-* [2023-12-15, 15:26:10](https://news.ycombinator.com/item?id=38655047) - [Scheme in Scheme on WASM in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
-* [2023-12-15, 15:17:11](https://news.ycombinator.com/item?id=38654968) - [Double-mirror illusion](https://journalofillusion.net/index.php/joi/article/view/9839/16407)
 * [2023-12-15, 12:58:11](https://news.ycombinator.com/item?id=38653677) - [Photographer captured one image of Cambridge every day for 13 years](https://www.smithsonianmag.com/smart-news/cambridge-photographer-daily-photo-challenge-13-years-180983428/)
 * [2023-12-15, 11:52:56](https://news.ycombinator.com/item?id=38653212) - [Fly Postgres, Managed by Supabase](https://supabase.com/blog/postgres-on-fly-by-supabase)
 * [2023-12-15, 10:30:13](https://news.ycombinator.com/item?id=38652796) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
@@ -29,6 +28,7 @@
 * [2023-12-15, 02:35:57](https://news.ycombinator.com/item?id=38650504) - [Bug in my code from compiler optimization [video]](https://www.youtube.com/watch?v=hBjQ3HqCfxs)
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
+* [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 
 ## [Archives](archives/index.md)

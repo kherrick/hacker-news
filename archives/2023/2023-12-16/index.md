@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
+* [2023-12-16, 03:52:05](https://news.ycombinator.com/item?id=38661565) - [Self-Supervised Behavior Cloned Transformers Are Path Crawlers for Text Games](https://arxiv.org/abs/2312.04657)
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:31:21](https://news.ycombinator.com/item?id=38661209) - [Introduction to free software and the liberation of cyberspace](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society/?pk_campaign=RMSTEDx&pk_kwd=social_media)
