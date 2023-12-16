@@ -4,7 +4,6 @@
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 04:31:58](https://news.ycombinator.com/item?id=38661735) - [The music player you wish you had in the early 2000s](https://www.crowdsupply.com/cool-tech-zone/tangara)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
-* [2023-12-16, 03:52:05](https://news.ycombinator.com/item?id=38661565) - [Self-Supervised Behavior Cloned Transformers Are Path Crawlers for Text Games](https://arxiv.org/abs/2312.04657)
 * [2023-12-16, 03:30:32](https://news.ycombinator.com/item?id=38661462) - [RAG to Riches](https://sourcegraph.com/blog/rag-to-riches)
 * [2023-12-16, 02:50:47](https://news.ycombinator.com/item?id=38661296) - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
@@ -29,6 +28,7 @@
 * [2023-12-14, 17:16:52](https://news.ycombinator.com/item?id=38643951) - [The UX of delivering parcels](https://builtformars.com/case-studies/ux-of-parcels)
 * [2023-12-14, 14:04:53](https://news.ycombinator.com/item?id=38641427) - [LinkedIn shelved plan to migrate to Microsoft Azure cloud](https://www.cnbc.com/2023/12/14/linkedin-shelved-plan-to-migrate-to-microsoft-azure-cloud.html)
 * [2023-12-14, 09:44:37](https://news.ycombinator.com/item?id=38639564) - [The Rise and Fall of the 'IBM Way'](https://www.theatlantic.com/magazine/archive/2024/01/ibm-greatest-capitalist-tom-watson/676147/)
+* [2023-12-13, 20:18:53](https://news.ycombinator.com/item?id=38633611) - [Mutual Friends: The Adventures of Charles Dickens and Wilkie Collins](https://quillette.com/2023/12/11/mutual-friends-the-adventures-of-charles-dickens-wilkie-collins/)
 * [2023-12-13, 15:52:04](https://news.ycombinator.com/item?id=38629161) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 
 ## [Archives](archives/index.md)

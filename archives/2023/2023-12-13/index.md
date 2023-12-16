@@ -28,6 +28,7 @@
 * [2023-12-13, 20:47:49](https://news.ycombinator.com/item?id=38633916) - [Why the Oracle of Delphi Still Beguiles](https://www.historytoday.com/archive/making-history/why-oracle-delphi-still-beguiles)
 * [2023-12-13, 20:42:39](https://news.ycombinator.com/item?id=38633858) - [Uptime Related Server Crashes](https://barry.blog/2011/06/14/uptime-related-server-crashes/)
 * [2023-12-13, 20:27:56](https://news.ycombinator.com/item?id=38633715) - [Quest 2 is outselling Quest 3](https://twitter.com/ID_AA_Carmack/status/1734993768980402467)
+* [2023-12-13, 20:18:53](https://news.ycombinator.com/item?id=38633611) - [Mutual Friends: The Adventures of Charles Dickens and Wilkie Collins](https://quillette.com/2023/12/11/mutual-friends-the-adventures-of-charles-dickens-wilkie-collins/)
 * [2023-12-13, 20:00:13](https://news.ycombinator.com/item?id=38633387) - [Argentina's Milei Devalues Peso by 54%](https://www.bloomberg.com/news/articles/2023-12-12/argentina-s-milei-devalues-peso-by-54-in-first-batch-of-shock-measures)
 * [2023-12-13, 19:31:44](https://news.ycombinator.com/item?id=38632970) - [Show HN: A pure C89 implementation of Go channels, with blocking selects](https://github.com/rochus-keller/CspChan)
 * [2023-12-13, 19:31:25](https://news.ycombinator.com/item?id=38632966) - [The Long Shadow of Checks](https://www.bitsaboutmoney.com/archive/the-long-shadow-of-checks/)
