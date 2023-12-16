@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
 * [2023-12-16, 12:02:42](https://news.ycombinator.com/item?id=38663636) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-12-16, 09:09:07](https://news.ycombinator.com/item?id=38662900) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-16, 08:58:35](https://news.ycombinator.com/item?id=38662852) - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
-* [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
 * [2023-12-16, 05:15:04](https://news.ycombinator.com/item?id=38661930) - [25 hours of Xcode Cloud now included with the Apple Developer Program](https://developer.apple.com/news/?id=ik9z4ll6)
 * [2023-12-16, 04:37:01](https://news.ycombinator.com/item?id=38661765) - [Astronomers detect almost 100 new extremely-metal poor galaxies](https://phys.org/news/2023-12-astronomers-extremely-metal-poor-galaxies.html)
 * [2023-12-16, 03:55:17](https://news.ycombinator.com/item?id=38661580) - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
 * [2023-12-16, 12:02:42](https://news.ycombinator.com/item?id=38663636) - [Emerge (YC W21) is hiring a Senior Front end Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2023-12-16, 09:28:26](https://news.ycombinator.com/item?id=38662986) - [Are electric cars too expensive to tempt motorists away from petrol vehicles?](https://www.theguardian.com/business/2023/dec/16/are-electric-cars-too-expensive-to-tempt-motorists-away-from-petrol-and-diesel-vehicles)
