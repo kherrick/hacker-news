@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-16, 15:06:42",
+      "https://news.ycombinator.com/item?id=38664729"
+    ],
+    [
+      "SSH3: SSH using HTTP/3 and QUIC",
+      "https://github.com/francoismichel/ssh3"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 15:04:54",
+      "https://news.ycombinator.com/item?id=38664713"
+    ],
+    [
+      "A Beautiful library of SVG logos",
+      "https://svgl.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 14:27:18",
       "https://news.ycombinator.com/item?id=38664412"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-12-16, 05:36:39",
-      "https://news.ycombinator.com/item?id=38662016"
-    ],
-    [
-      "Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors",
-      "https://github.com/Doubiiu/DynamiCrafter"
-    ]
-  ],
-  [
-    [
       "2023-12-16, 05:15:04",
       "https://news.ycombinator.com/item?id=38661930"
     ],
@@ -157,16 +167,6 @@
     [
       "Once I bet, it's not my money any more",
       "https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 20:36:56",
-      "https://news.ycombinator.com/item?id=38658497"
-    ],
-    [
-      "Smallest USB-C MIDI Synth",
-      "https://mitxela.com/projects/smsc"
     ]
   ],
   [
