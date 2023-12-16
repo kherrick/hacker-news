@@ -92,6 +92,7 @@
 * [2023-12-14, 09:21:42](https://news.ycombinator.com/item?id=38639437) - [Falcon 3.0 game manual (1991) [pdf]](https://www.dosdays.co.uk/media/games/falcon3/Falcon%203.0.PDF)
 * [2023-12-14, 09:17:51](https://news.ycombinator.com/item?id=38639415) - [Deciyear Calendar](https://deciyear.com/)
 * [2023-12-14, 08:57:24](https://news.ycombinator.com/item?id=38639283) - [Improving Node.js Loader Performance](https://sentry.engineering/blog/improving-nodejs-loader-performance)
+* [2023-12-14, 08:56:20](https://news.ycombinator.com/item?id=38639279) - [Netlink, auditing, and counting bytes (2020)](https://blog.des.no/2020/08/netlink-auditing-and-counting-bytes/)
 * [2023-12-14, 08:43:38](https://news.ycombinator.com/item?id=38639206) - [AMD's New Threadripper Chips Have a Hidden Fuse That Blows When Overclocking](https://www.extremetech.com/computing/amds-new-threadripper-chips-have-a-hidden-fuse-that-blows-when-overclocking)
 * [2023-12-14, 08:16:01](https://news.ycombinator.com/item?id=38639022) - [Xorg being removed. What does this mean?](http://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 08:02:51](https://news.ycombinator.com/item?id=38638946) - [Qt Widgets Rendering Pipeline](https://felipefarinon.com/articles/qt-widgets-rendering-pipeline)
