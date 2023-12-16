@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-16, 09:28:26](https://news.ycombinator.com/item?id=38662986) - [Are electric cars too expensive to tempt motorists away from petrol vehicles?](https://www.theguardian.com/business/2023/dec/16/are-electric-cars-too-expensive-to-tempt-motorists-away-from-petrol-and-diesel-vehicles)
 * [2023-12-16, 08:58:35](https://news.ycombinator.com/item?id=38662852) - [UK court allows ANN patent saying computer programs exclusion does not apply](https://www.bailii.org/ew/cases/EWHC/Ch/2023/2948.html)
 * [2023-12-16, 06:17:46](https://news.ycombinator.com/item?id=38662160) - [OpenAI suspends ByteDance's account after it used GPT to train its own AI model](https://www.theverge.com/2023/12/15/24003542/openai-suspends-bytedances-account-after-it-used-gpt-to-train-its-own-ai-model)
 * [2023-12-16, 05:36:39](https://news.ycombinator.com/item?id=38662016) - [Show HN: DynamiCrafter: Animating Open-Domain Images with Video Diffusion Priors](https://github.com/Doubiiu/DynamiCrafter)
@@ -13,6 +12,7 @@
 * [2023-12-16, 02:26:15](https://news.ycombinator.com/item?id=38661182) - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-16, 02:04:13](https://news.ycombinator.com/item?id=38661095) - [Securing the Fundamentals: Our Support for Log4j](https://www.sovereigntechfund.de/news/log4j-investment)
 * [2023-12-16, 01:00:18](https://news.ycombinator.com/item?id=38660772) - [InpharmD (YC W21) Is Hiring – NLP/ML Engineer](https://www.inpharmd.com/jobs/inpharmd-is-hiring-ai-ml-engineer)
+* [2023-12-16, 00:39:43](https://news.ycombinator.com/item?id=38660646) - [Location history data in Google Maps will soon be stored on user devices](https://www.businessinsider.com/google-maps-location-data-history-stored-locally-2023-12)
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
 * [2023-12-15, 22:18:56](https://news.ycombinator.com/item?id=38659529) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-15, 22:09:25](https://news.ycombinator.com/item?id=38659430) - [Prompt – A terminal for a container-oriented desktop](https://blogs.gnome.org/chergert/2023/12/14/prompt/)
