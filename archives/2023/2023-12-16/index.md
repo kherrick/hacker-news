@@ -13,6 +13,7 @@
 * [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
 * [2023-12-16, 14:52:05](https://news.ycombinator.com/item?id=38664626) - [Fractional Fourier Transform](https://en.wikipedia.org/wiki/Fractional_Fourier_transform)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+* [2023-12-16, 13:15:58](https://news.ycombinator.com/item?id=38663960) - [Act-R the theory is embodied in ACT-R the software](http://act-r.psy.cmu.edu/software/)
 * [2023-12-16, 13:00:11](https://news.ycombinator.com/item?id=38663881) - [Rising Temperatures in the Netherlands](https://koenvangilst.nl/blog/rising-temperatures)
 * [2023-12-16, 12:27:53](https://news.ycombinator.com/item?id=38663740) - [Homelessness reaches highest reported level in the U.S. in 2023](https://www.axios.com/2023/12/15/homelessness-increase-rent-crisis-2023)
 * [2023-12-16, 12:24:49](https://news.ycombinator.com/item?id=38663733) - [Andy Matuschak – Self-Teaching, Spaced Repetition, Why Books Don't Work](https://www.dwarkeshpatel.com/p/andy-matuschak)
