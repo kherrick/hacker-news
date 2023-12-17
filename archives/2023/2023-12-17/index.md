@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 * [2023-12-17, 21:36:03](https://news.ycombinator.com/item?id=38676697) - [Google Tables Is Dead](https://support.google.com/area120-tables/answer/10831919?hl=en)
 * [2023-12-17, 21:25:53](https://news.ycombinator.com/item?id=38676612) - [How to Choose Cookware (2014)](https://www.centurylife.org/how-to-choose-cookware/)

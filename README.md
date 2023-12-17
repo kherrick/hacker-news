@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 * [2023-12-17, 21:25:53](https://news.ycombinator.com/item?id=38676612) - [How to Choose Cookware (2014)](https://www.centurylife.org/how-to-choose-cookware/)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
@@ -8,7 +9,6 @@
 * [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
 * [2023-12-17, 20:27:43](https://news.ycombinator.com/item?id=38676084) - [NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.](https://github.com/naivesystems/analyze)
 * [2023-12-17, 20:21:00](https://news.ycombinator.com/item?id=38676040) - [The largest money-printing UI element ever made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
-* [2023-12-17, 20:05:44](https://news.ycombinator.com/item?id=38675903) - [Cyrus Cylinder Translation: Propaganda from Babylon from the Year -539](https://braddelong.substack.com/p/reading-cyrus-cylinder)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 * [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
