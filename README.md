@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-17, 03:36:21](https://news.ycombinator.com/item?id=38670116) - [Why it's taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
-* [2023-12-17, 03:10:50](https://news.ycombinator.com/item?id=38670006) - [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
 * [2023-12-17, 02:53:55](https://news.ycombinator.com/item?id=38669928) - [Augmenting long-term memory (2018)](https://augmentingcognition.com/ltm.html)
 * [2023-12-17, 02:18:02](https://news.ycombinator.com/item?id=38669781) - [Show HN: NowDo – a super-simple todo app for procrastinators (macOS)](https://nowdo.org/)
+* [2023-12-17, 01:44:22](https://news.ycombinator.com/item?id=38669636) - [Opposed to Bill S-210, a Canadian bill that may introduce internet censorship](https://fev.al/posts/opposed-to-s210/)
 * [2023-12-17, 01:00:37](https://news.ycombinator.com/item?id=38669395) - [Unlogged (YC S22) is hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
-* [2023-12-17, 00:10:44](https://news.ycombinator.com/item?id=38669093) - [QuickTake for Apple II](https://www.colino.net/wordpress/en/quicktake-for-apple-ii/)
+* [2023-12-17, 00:10:44](https://news.ycombinator.com/item?id=38669093) - [Quicktake for Apple II](https://www.colino.net/wordpress/en/quicktake-for-apple-ii/)
 * [2023-12-16, 23:40:04](https://news.ycombinator.com/item?id=38668884) - [Possible to detect an industrial civilization in geological record? (2018)](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
 * [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 22:06:23](https://news.ycombinator.com/item?id=38668181) - [The many faces of fsck](https://lwn.net/Articles/248180/)
