@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 18:45:48](https://news.ycombinator.com/item?id=38675212) - [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
 * [2023-12-17, 18:09:21](https://news.ycombinator.com/item?id=38674905) - [The X Files – how Elon Musk's new rules allow hate to flourish](https://www.businesspost.ie/news/exclusive-the-x-files-how-elon-musks-new-rules-allow-hate-to-flourish/)
 * [2023-12-17, 17:59:07](https://news.ycombinator.com/item?id=38674788) - [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
