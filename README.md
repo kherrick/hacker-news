@@ -13,7 +13,6 @@
 * [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
-* [2023-12-17, 17:59:07](https://news.ycombinator.com/item?id=38674788) - [Things we learned analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023](https://forum.misra.org.uk/thread-1668.html)
 * [2023-12-17, 16:37:53](https://news.ycombinator.com/item?id=38673973) - [Show HN: Get any piece of Google Earth as a single normalized glTF 3D model](https://github.com/OmarShehata/google-earth-as-gltf)
@@ -30,6 +29,7 @@
 * [2023-12-16, 13:12:11](https://news.ycombinator.com/item?id=38663942) - [The Ballad of Hank McCain](https://cinemasojourns.com/2023/12/15/the-ballad-of-hank-mccain/)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
+* [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 
 ## [Archives](archives/index.md)
 
