@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:45:48](https://news.ycombinator.com/item?id=38675212) - [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
 * [2023-12-17, 18:09:21](https://news.ycombinator.com/item?id=38674905) - [The X Files – how Elon Musk's new rules allow hate to flourish](https://www.businesspost.ie/news/exclusive-the-x-files-how-elon-musks-new-rules-allow-hate-to-flourish/)
 * [2023-12-17, 17:59:07](https://news.ycombinator.com/item?id=38674788) - [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
