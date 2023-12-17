@@ -24,6 +24,7 @@
 * [2023-12-15, 19:43:44](https://news.ycombinator.com/item?id=38657931) - [Merriam-Webster's 404 Page](https://www.merriam-webster.com/notfound)
 * [2023-12-15, 19:42:17](https://news.ycombinator.com/item?id=38657910) - [The case of the missing Vega AVUM propellant tanks](https://europeanspaceflight.com/the-case-of-the-missing-vega-avum-propellant-tanks/)
 * [2023-12-15, 19:42:17](https://news.ycombinator.com/item?id=38657910) - [ESA Confirms Vega Tanks Missing: Theft or Asymmetric Warfare?](https://orbitaltoday.com/2023/12/09/avio-fuel-tanks-theft-or-asymmetric-warfare/)
+* [2023-12-15, 19:37:58](https://news.ycombinator.com/item?id=38657847) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-15, 19:36:49](https://news.ycombinator.com/item?id=38657830) - [How to Lose a Library](https://www.publicbooks.org/how-to-lose-a-library/)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins phone hacking case against British tabloid](https://www.npr.org/2023/12/15/1219536863/prince-harry-phone-hacking-trial)
 * [2023-12-15, 19:32:44](https://news.ycombinator.com/item?id=38657779) - [Prince Harry wins landmark phone hacking case against Britain's major tabloids](https://text.npr.org/1219536863)
