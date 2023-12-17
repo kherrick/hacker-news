@@ -6,7 +6,9 @@
 * [2023-12-17, 21:18:56](https://news.ycombinator.com/item?id=38676558) - [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
 * [2023-12-17, 21:06:30](https://news.ycombinator.com/item?id=38676420) - [Show HN: WebGPU Particles Simulation](https://github.com/psincf/WebGPU-particles)
 * [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
+* [2023-12-17, 20:27:43](https://news.ycombinator.com/item?id=38676084) - [NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.](https://github.com/naivesystems/analyze)
 * [2023-12-17, 20:21:00](https://news.ycombinator.com/item?id=38676040) - [The largest money-printing UI element ever made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
+* [2023-12-17, 20:05:44](https://news.ycombinator.com/item?id=38675903) - [Cyrus Cylinder Translation: Propaganda from Babylon from the Year -539](https://braddelong.substack.com/p/reading-cyrus-cylinder)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 * [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
@@ -21,7 +23,6 @@
 * [2023-12-17, 12:35:47](https://news.ycombinator.com/item?id=38672446) - [Salmon in the Loop](https://thegradient.pub/salmon-in-the-loop/)
 * [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
 * [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
-* [2023-12-17, 06:38:00](https://news.ycombinator.com/item?id=38670850) - [The Divorce Colony (2015)](https://magazine.atavist.com/the-divorce-colony/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:26:41](https://news.ycombinator.com/item?id=38666045) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
@@ -29,7 +30,6 @@
 * [2023-12-16, 13:12:11](https://news.ycombinator.com/item?id=38663942) - [The Ballad of Hank McCain](https://cinemasojourns.com/2023/12/15/the-ballad-of-hank-mccain/)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
-* [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 
 ## [Archives](archives/index.md)
 
