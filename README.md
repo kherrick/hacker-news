@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
 * [2023-12-17, 04:39:09](https://news.ycombinator.com/item?id=38670358) - [WyGPT: Minimal mature GPT model in C++](https://github.com/wangyi-fudan/wyGPT)
 * [2023-12-17, 03:36:21](https://news.ycombinator.com/item?id=38670116) - [Why it's taking so long for Americans to get payments instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
 * [2023-12-17, 02:53:55](https://news.ycombinator.com/item?id=38669928) - [Augmenting long-term memory (2018)](https://augmentingcognition.com/ltm.html)
@@ -11,7 +12,6 @@
 * [2023-12-16, 22:06:23](https://news.ycombinator.com/item?id=38668181) - [The many faces of fsck (2007)](https://lwn.net/Articles/248180/)
 * [2023-12-16, 21:57:37](https://news.ycombinator.com/item?id=38668121) - [Tastes are a point in space](https://dynomight.substack.com/p/class)
 * [2023-12-16, 21:52:11](https://news.ycombinator.com/item?id=38668080) - [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
-* [2023-12-16, 21:29:09](https://news.ycombinator.com/item?id=38667876) - [S3 Express One Zone, not quite what I hoped for](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
 * [2023-12-16, 21:25:02](https://news.ycombinator.com/item?id=38667828) - [Run Mistral 7B on M1 Mac](https://wandb.ai/byyoung3/ml-news/reports/How-to-Run-Mistral-7B-on-an-M1-Mac-With-Ollama--Vmlldzo2MTg4MjA0)
 * [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 20:45:35](https://news.ycombinator.com/item?id=38667503) - [Chimera Linux](https://chimera-linux.org/)
