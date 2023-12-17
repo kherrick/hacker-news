@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-17, 01:00:37](https://news.ycombinator.com/item?id=38669395) - [Unlogged (YC S22) Is Hiring to automate regression testing](https://news.ycombinator.com/item?id=38669395)
+* [2023-12-17, 00:40:28](https://news.ycombinator.com/item?id=38669266) - [Seximal is objectively the best way to represent numbers](https://www.seximal.net)
 * [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 23:40:04](https://news.ycombinator.com/item?id=38668884) - [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
 * [2023-12-16, 23:31:29](https://news.ycombinator.com/item?id=38668823) - [Transformers on Chips](https://www.etched.ai)
@@ -11,7 +12,6 @@
 * [2023-12-16, 21:39:12](https://news.ycombinator.com/item?id=38667962) - [How the Feds bounced Binance](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
 * [2023-12-16, 21:29:09](https://news.ycombinator.com/item?id=38667876) - [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
 * [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
-* [2023-12-16, 20:57:02](https://news.ycombinator.com/item?id=38667596) - [MongoDB security notice](https://www.mongodb.com/alerts)
 * [2023-12-16, 20:45:35](https://news.ycombinator.com/item?id=38667503) - [Chimera Linux](https://chimera-linux.org/)
 * [2023-12-16, 20:34:43](https://news.ycombinator.com/item?id=38667435) - [Rotor Technologies Launches Production of R550X Autonomous Helicopter](https://www.futureflight.aero/news-article/2023-12-07/rotor-technologies-launches-production-r550x-autonomous-helicopter)
 * [2023-12-16, 19:29:03](https://news.ycombinator.com/item?id=38667006) - [Solar and Wind to Top Coal Power in US for First Time in 2024](https://www.bloomberg.com/news/articles/2023-12-12/solar-and-wind-to-top-coal-power-in-us-for-first-time-in-2024)
