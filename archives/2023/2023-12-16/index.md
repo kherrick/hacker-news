@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 23:40:04](https://news.ycombinator.com/item?id=38668884) - [Would it be possible to detect an industrial civilization in geological record?](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
+* [2023-12-16, 23:31:29](https://news.ycombinator.com/item?id=38668823) - [Transformers on Chips](https://www.etched.ai)
+* [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 22:12:31](https://news.ycombinator.com/item?id=38668237) - [Is there a black hole in the center of the Sun?](https://arxiv.org/abs/2312.07647)
 * [2023-12-16, 21:57:37](https://news.ycombinator.com/item?id=38668121) - [Tastes Are a Point in Space](https://dynomight.substack.com/p/class)
 * [2023-12-16, 21:56:52](https://news.ycombinator.com/item?id=38668113) - [Ask HN: How to get started with practical hardware?](https://news.ycombinator.com/item?id=38668113)
 * [2023-12-16, 21:52:11](https://news.ycombinator.com/item?id=38668080) - [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
 * [2023-12-16, 21:39:12](https://news.ycombinator.com/item?id=38667962) - [How the Feds bounced Binance: Crypto isn't \"incentive compatible\"](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
 * [2023-12-16, 21:34:20](https://news.ycombinator.com/item?id=38667916) - [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
+* [2023-12-16, 21:29:09](https://news.ycombinator.com/item?id=38667876) - [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
 * [2023-12-16, 21:18:52](https://news.ycombinator.com/item?id=38667774) - [Tesla driver who killed 2 people while using autopilot must pay $23,000, no jail](https://fortune.com/2023/12/15/tesla-driver-to-pay-23k-in-restitution-crash-killed-2-people/)
 * [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 21:03:09](https://news.ycombinator.com/item?id=38667654) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
