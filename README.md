@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
-* [2023-12-17, 18:45:48](https://news.ycombinator.com/item?id=38675212) - [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
 * [2023-12-17, 17:59:07](https://news.ycombinator.com/item?id=38674788) - [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
@@ -25,6 +24,7 @@
 * [2023-12-16, 17:26:41](https://news.ycombinator.com/item?id=38666045) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash Came From](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 17:13:36](https://news.ycombinator.com/item?id=38665900) - [The Quest for Cather](https://theamericanscholar.org/the-quest-for-cather/)
+* [2023-12-16, 14:54:11](https://news.ycombinator.com/item?id=38664643) - [The Art of Conducting (2018)](https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/)
 * [2023-12-16, 13:12:11](https://news.ycombinator.com/item?id=38663942) - [The Ballad of Hank McCain](https://cinemasojourns.com/2023/12/15/the-ballad-of-hank-mccain/)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
 * [2023-12-15, 19:37:58](https://news.ycombinator.com/item?id=38657847) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
