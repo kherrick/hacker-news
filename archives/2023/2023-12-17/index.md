@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 15:55:34](https://news.ycombinator.com/item?id=38673654) - [US nuclear-fusion lab enters new era: achieving 'ignition' over and over](https://www.nature.com/articles/d41586-023-04045-8)
 * [2023-12-17, 15:32:01](https://news.ycombinator.com/item?id=38673499) - [Goodreads asks users to help combat 'review bombing'](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
+* [2023-12-17, 15:03:15](https://news.ycombinator.com/item?id=38673292) - [We think too much and feel too little](https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-)
 * [2023-12-17, 14:58:21](https://news.ycombinator.com/item?id=38673253) - [Ask HN: Does anyone here use Haxe?](https://news.ycombinator.com/item?id=38673253)
+* [2023-12-17, 14:26:18](https://news.ycombinator.com/item?id=38673044) - [Ancient 'Dragon' Unearthed in Japan Is Unlike Anything We've Ever Seen](https://www.sciencealert.com/ancient-dragon-unearthed-in-japan-is-unlike-anything-weve-ever-seen)
+* [2023-12-17, 14:26:09](https://news.ycombinator.com/item?id=38673042) - [A new Suez crisis threatens the world economy](https://www.economist.com/international/2023/12/16/a-new-suez-crisis-threatens-the-world-economy)
 * [2023-12-17, 14:16:25](https://news.ycombinator.com/item?id=38672968) - [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
 * [2023-12-17, 13:02:48](https://news.ycombinator.com/item?id=38672575) - [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
 * [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [Rob Pike on the Pronunciation of \"Fsck\"](https://hachyderm.io/@robpike/111593487329402102)
