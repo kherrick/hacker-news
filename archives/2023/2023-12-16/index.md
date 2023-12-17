@@ -40,6 +40,7 @@
 * [2023-12-16, 17:52:48](https://news.ycombinator.com/item?id=38666287) - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
 * [2023-12-16, 17:52:17](https://news.ycombinator.com/item?id=38666280) - [Interview: The Threat of Self-Censorship in Science](https://undark.org/2023/12/15/interview-self-censorship/)
 * [2023-12-16, 17:37:05](https://news.ycombinator.com/item?id=38666148) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
+* [2023-12-16, 17:26:41](https://news.ycombinator.com/item?id=38666045) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 17:25:04](https://news.ycombinator.com/item?id=38666032) - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 * [2023-12-16, 17:25:02](https://news.ycombinator.com/item?id=38666031) - [Apple responds to the Beeper iMessage saga: 'We took steps to protect our users'](https://www.theverge.com/2023/12/9/23995150/beeper-imessage-android-apple-statement)
 * [2023-12-16, 17:24:03](https://news.ycombinator.com/item?id=38666016) - [Hubless-wheel electric penny farthing is a one-of-a-kind masterpiece](https://newatlas.com/bicycles/penn-e-farthing-hubless-wheel-electric-penny-farthing/)
