@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 18:09:21](https://news.ycombinator.com/item?id=38674905) - [The X Files – how Elon Musk's new rules allow hate to flourish](https://www.businesspost.ie/news/exclusive-the-x-files-how-elon-musks-new-rules-allow-hate-to-flourish/)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
 * [2023-12-17, 16:37:26](https://news.ycombinator.com/item?id=38673966) - [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
@@ -25,7 +26,6 @@
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash Came From](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 17:13:36](https://news.ycombinator.com/item?id=38665900) - [The Quest for Cather](https://theamericanscholar.org/the-quest-for-cather/)
 * [2023-12-16, 14:54:11](https://news.ycombinator.com/item?id=38664643) - [The Art of Conducting (2018)](https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/)
-* [2023-12-16, 05:27:28](https://news.ycombinator.com/item?id=38661981) - [Schedule Chicken (2007)](https://wiki.c2.com/?ScheduleChicken)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
 * [2023-12-15, 19:37:58](https://news.ycombinator.com/item?id=38657847) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
