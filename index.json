@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-12-16, 14:54:11",
-      "https://news.ycombinator.com/item?id=38664643"
-    ],
-    [
-      "The Art of Conducting (2018)",
-      "https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/"
-    ]
-  ],
-  [
-    [
       "2023-12-16, 07:25:00",
       "https://news.ycombinator.com/item?id=38662454"
     ],
@@ -247,6 +237,16 @@
     [
       "ZFS Profiling on Arch Linux",
       "https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 19:37:58",
+      "https://news.ycombinator.com/item?id=38657847"
+    ],
+    [
+      "Balm in GILead: Fast string construction for CPython extensions",
+      "https://blog.vito.nyc/posts/gil-balm/"
     ]
   ],
   [
