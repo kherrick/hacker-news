@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-12-17, 08:43:42",
-      "https://news.ycombinator.com/item?id=38671343"
-    ],
-    [
-      "Solopreneur rollercoaster: first $1 online to depression",
-      "https://marclou.beehiiv.com/p/solopreneur-rollercoaster"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 07:27:38",
       "https://news.ycombinator.com/item?id=38671030"
     ],
@@ -187,6 +177,16 @@
     [
       "Dev onboarding, then and now",
       "https://blog.fahhem.com/2023/12/dev-onboarding-then-now/"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 17:52:48",
+      "https://news.ycombinator.com/item?id=38666287"
+    ],
+    [
+      "Atree: A simple and efficient pointer-free tree implementation",
+      "https://github.com/tlack/atree"
     ]
   ],
   [
