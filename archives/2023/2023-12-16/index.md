@@ -51,6 +51,7 @@
 * [2023-12-16, 15:26:22](https://news.ycombinator.com/item?id=38664875) - [How the nutritional value of staple crops dropped by 50% since the 1960s](https://jeroenvanbaar.substack.com/p/data-dispatch-4-the-falling-nutritional)
 * [2023-12-16, 15:06:42](https://news.ycombinator.com/item?id=38664729) - [SSH3: SSH using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-16, 15:04:54](https://news.ycombinator.com/item?id=38664713) - [A Beautiful library of SVG logos](https://svgl.vercel.app/)
+* [2023-12-16, 14:54:11](https://news.ycombinator.com/item?id=38664643) - [The Art of Conducting (2018)](https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/)
 * [2023-12-16, 14:52:05](https://news.ycombinator.com/item?id=38664626) - [Fractional Fourier Transform](https://en.wikipedia.org/wiki/Fractional_Fourier_transform)
 * [2023-12-16, 14:27:18](https://news.ycombinator.com/item?id=38664412) - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 * [2023-12-16, 13:15:58](https://news.ycombinator.com/item?id=38663960) - [Act-R the theory is embodied in ACT-R the software](http://act-r.psy.cmu.edu/software/)
