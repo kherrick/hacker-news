@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 19:39:12](https://news.ycombinator.com/item?id=38675686) - [Ask HN: How to figure out a good direction/goals for the year ahead?](https://news.ycombinator.com/item?id=38675686)
+* [2023-12-17, 19:30:47](https://news.ycombinator.com/item?id=38675616) - [3M knew its chemicals were harmful decades ago, but didn't tell the public](https://minnesotareformer.com/2022/12/15/toxic-3m-knew-its-chemicals-were-harmful-decades-ago-but-didnt-tell-the-public-government/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:45:48](https://news.ycombinator.com/item?id=38675212) - [Wikipedia exec salaries are sparking a debate on tech sector wages](https://www.businessinsider.com/wikipedia-wikimedia-executive-salaries-sparking-debate-tech-sector-wages-2023-12)
 * [2023-12-17, 18:09:21](https://news.ycombinator.com/item?id=38674905) - [The X Files – how Elon Musk's new rules allow hate to flourish](https://www.businesspost.ie/news/exclusive-the-x-files-how-elon-musks-new-rules-allow-hate-to-flourish/)
@@ -37,6 +39,7 @@
 * [2023-12-17, 08:17:41](https://news.ycombinator.com/item?id=38671212) - [Retailers have a crime problem. It's in the numbers](https://www.retaildive.com/news/retailers-crime-problem-numbers/699107/)
 * [2023-12-17, 07:38:27](https://news.ycombinator.com/item?id=38671072) - [Ask HN: Where should I incoporate my business](https://news.ycombinator.com/item?id=38671072)
 * [2023-12-17, 07:27:38](https://news.ycombinator.com/item?id=38671030) - [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
+* [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
 * [2023-12-17, 06:40:28](https://news.ycombinator.com/item?id=38670866) - [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
 * [2023-12-17, 06:38:00](https://news.ycombinator.com/item?id=38670850) - [The Divorce Colony](https://magazine.atavist.com/the-divorce-colony/)
 * [2023-12-17, 06:36:10](https://news.ycombinator.com/item?id=38670845) - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
