@@ -11,7 +11,7 @@
 * [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 22:06:23](https://news.ycombinator.com/item?id=38668181) - [The many faces of fsck (2007)](https://lwn.net/Articles/248180/)
 * [2023-12-16, 21:57:37](https://news.ycombinator.com/item?id=38668121) - [Tastes are a point in space](https://dynomight.substack.com/p/class)
-* [2023-12-16, 21:52:11](https://news.ycombinator.com/item?id=38668080) - [ASML and Samsung seal deal on 2nm chips](https://www.koreaherald.com/view.php?ud=20231215000518)
+* [2023-12-16, 21:29:09](https://news.ycombinator.com/item?id=38667876) - [S3 Express One Zone, not quite what I hoped for](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
 * [2023-12-16, 21:25:02](https://news.ycombinator.com/item?id=38667828) - [Run Mistral 7B on M1 Mac](https://wandb.ai/byyoung3/ml-news/reports/How-to-Run-Mistral-7B-on-an-M1-Mac-With-Ollama--Vmlldzo2MTg4MjA0)
 * [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 20:45:35](https://news.ycombinator.com/item?id=38667503) - [Chimera Linux](https://chimera-linux.org/)
