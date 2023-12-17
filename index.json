@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-17, 21:36:03",
-      "https://news.ycombinator.com/item?id=38676697"
+      "2023-12-17, 21:25:53",
+      "https://news.ycombinator.com/item?id=38676612"
     ],
     [
-      "Google Tables Is Dead",
-      "https://support.google.com/area120-tables/answer/10831919?hl=en"
+      "How to Choose Cookware (2014)",
+      "https://www.centurylife.org/how-to-choose-cookware/"
     ]
   ],
   [
@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2023-12-17, 21:18:56",
+      "https://news.ycombinator.com/item?id=38676558"
+    ],
+    [
+      "ArtBot for Stable Diffusion",
+      "https://tinybots.net/artbot"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 20:53:40",
+      "https://news.ycombinator.com/item?id=38676304"
+    ],
+    [
+      "Perl Poetry Generators in 256 Characters",
+      "https://nickm.com/poems/ppg256.html"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 20:21:00",
       "https://news.ycombinator.com/item?id=38676040"
     ],
@@ -31,42 +51,12 @@
   ],
   [
     [
-      "2023-12-17, 20:18:30",
-      "https://news.ycombinator.com/item?id=38676018"
-    ],
-    [
-      "A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth",
-      "https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 19:58:57",
       "https://news.ycombinator.com/item?id=38675836"
     ],
     [
-      "How Africans Are Changing French – One Joke, Rap and Book at a Time",
+      "How Africans are changing French, one joke, rap and book at a time",
       "https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 19:53:22",
-      "https://news.ycombinator.com/item?id=38675794"
-    ],
-    [
-      "How to maximize a free time at work?",
-      "https://news.ycombinator.com/item?id=38675794"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 19:39:12",
-      "https://news.ycombinator.com/item?id=38675686"
-    ],
-    [
-      "Ask HN: How to figure out a good direction/goals for the year ahead?",
-      "https://news.ycombinator.com/item?id=38675686"
     ]
   ],
   [
@@ -81,12 +71,42 @@
   ],
   [
     [
+      "2023-12-17, 19:18:09",
+      "https://news.ycombinator.com/item?id=38675503"
+    ],
+    [
+      "Intel proposes XeGPU dialect for LLVM MLIR",
+      "https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 19:04:33",
+      "https://news.ycombinator.com/item?id=38675379"
+    ],
+    [
+      "So you want custom allocator support in your C library",
+      "https://nullprogram.com/blog/2023/12/17/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 18:51:43",
       "https://news.ycombinator.com/item?id=38675258"
     ],
     [
       "AMD's CDNA 3 Compute Architecture",
       "https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 17:59:07",
+      "https://news.ycombinator.com/item?id=38674788"
+    ],
+    [
+      "Things we learned analyzing 515M Wordles",
+      "https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html"
     ]
   ],
   [
@@ -105,18 +125,18 @@
       "https://news.ycombinator.com/item?id=38674158"
     ],
     [
-      "Misra C++:2023 Published",
+      "Misra C++:2023",
       "https://forum.misra.org.uk/thread-1668.html"
     ]
   ],
   [
     [
-      "2023-12-17, 16:36:22",
-      "https://news.ycombinator.com/item?id=38673954"
+      "2023-12-17, 16:37:53",
+      "https://news.ycombinator.com/item?id=38673973"
     ],
     [
-      "Promptbase: All things prompt engineering",
-      "https://github.com/microsoft/promptbase"
+      "Show HN: Get any piece of Google Earth as a single normalized glTF 3D model",
+      "https://github.com/OmarShehata/google-earth-as-gltf"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "BrainGPT turns thoughts into text",
       "https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 15:55:34",
-      "https://news.ycombinator.com/item?id=38673654"
-    ],
-    [
-      "US nuclear-fusion lab enters new era: achieving 'ignition' over and over",
-      "https://www.nature.com/articles/d41586-023-04045-8"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38667088"
     ],
     [
-      "Victorian Romantic Rituals and Charms",
+      "Victorian romantic rituals and charms",
       "https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38665911"
     ],
     [
-      "Where Johnny Cash Came From",
+      "Where Johnny Cash came from",
       "https://www.neh.gov/article/where-johnny-cash-came"
     ]
   ],
@@ -251,11 +261,21 @@
   ],
   [
     [
+      "2023-12-16, 13:12:11",
+      "https://news.ycombinator.com/item?id=38663942"
+    ],
+    [
+      "The Ballad of Hank McCain",
+      "https://cinemasojourns.com/2023/12/15/the-ballad-of-hank-mccain/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 05:37:42",
       "https://news.ycombinator.com/item?id=38662025"
     ],
     [
-      "Fakes: Not an Internet Thing, a Human Thing",
+      "Fakes: Not an internet thing, a human thing",
       "https://spectrum.ieee.org/deepfake-history-of-internet"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-12-15, 19:37:58",
-      "https://news.ycombinator.com/item?id=38657847"
-    ],
-    [
-      "Balm in GILead: Fast string construction for CPython extensions",
-      "https://blog.vito.nyc/posts/gil-balm/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 16:57:53",
       "https://news.ycombinator.com/item?id=38656007"
     ],
     [
       "Risk management is not project management",
       "https://mattrucker.com/risk-management-is-not-project-management/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 09:53:35",
-      "https://news.ycombinator.com/item?id=38652619"
-    ],
-    [
-      "More product, fewer product managers",
-      "https://kitemaker.co/blog/more_product_fewer_pms"
     ]
   ]
 ]
