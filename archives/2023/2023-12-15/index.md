@@ -46,6 +46,7 @@
 * [2023-12-15, 17:31:13](https://news.ycombinator.com/item?id=38656382) - [NixOS has one fatal flaw](https://changelog.com/posts/nixos-fatal-flaw)
 * [2023-12-15, 17:00:56](https://news.ycombinator.com/item?id=38656039) - [Do large language models need all those layers?](https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers)
 * [2023-12-15, 17:00:55](https://news.ycombinator.com/item?id=38656038) - [Not even LinkedIn is that keen on Microsoft's cloud: Shift to Azure abandoned](https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/)
+* [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 * [2023-12-15, 16:49:53](https://news.ycombinator.com/item?id=38655922) - [How museum items go missing](https://www.sapiens.org/archaeology/british-museum-thefts/)
 * [2023-12-15, 16:46:12](https://news.ycombinator.com/item?id=38655895) - [DIY dual-channel bioprinter](https://2023.igem.wiki/rochester/)
 * [2023-12-15, 16:24:11](https://news.ycombinator.com/item?id=38655656) - [The Darwin Awards: sex differences in idiotic behaviour](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263959/)
