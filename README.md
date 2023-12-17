@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 16:27:09](https://news.ycombinator.com/item?id=38673887) - [High dose dietary Vitamin D allocates surplus calories to muscle and growth [pdf]](https://www.biorxiv.org/content/10.1101/2022.05.19.492715v1.full.pdf)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT Turns Thoughts into Text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 16:04:07](https://news.ycombinator.com/item?id=38673725) - [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you)
 * [2023-12-17, 15:55:34](https://news.ycombinator.com/item?id=38673654) - [US nuclear-fusion lab enters new era: achieving 'ignition' over and over](https://www.nature.com/articles/d41586-023-04045-8)
@@ -22,7 +23,6 @@
 * [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 17:37:05](https://news.ycombinator.com/item?id=38666148) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
-* [2023-12-16, 17:25:04](https://news.ycombinator.com/item?id=38666032) - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 * [2023-12-16, 17:13:36](https://news.ycombinator.com/item?id=38665900) - [The Quest for Cather](https://theamericanscholar.org/the-quest-for-cather/)
 * [2023-12-16, 05:07:21](https://news.ycombinator.com/item?id=38661903) - [NASA study finds life-sparking energy source and molecule at Enceladus](https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
