@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [Rob Pike on the Pronunciation of \"Fsck\"](https://hachyderm.io/@robpike/111593487329402102)
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
@@ -18,7 +19,6 @@
 * [2023-12-16, 21:57:37](https://news.ycombinator.com/item?id=38668121) - [Tastes are a point in space](https://dynomight.substack.com/p/class)
 * [2023-12-16, 20:45:35](https://news.ycombinator.com/item?id=38667503) - [Chimera Linux](https://chimera-linux.org/)
 * [2023-12-16, 19:37:57](https://news.ycombinator.com/item?id=38667064) - [Dev onboarding, then and now](https://blog.fahhem.com/2023/12/dev-onboarding-then-now/)
-* [2023-12-16, 17:52:48](https://news.ycombinator.com/item?id=38666287) - [Atree: A simple and efficient pointer-free tree implementation](https://github.com/tlack/atree)
 * [2023-12-16, 17:25:04](https://news.ycombinator.com/item?id=38666032) - [The New Essential Guide to Electronics in Shenzhen](https://www.bunniestudios.com/blog/?p=6886)
 * [2023-12-16, 14:54:11](https://news.ycombinator.com/item?id=38664643) - [The Art of Conducting (2018)](https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/)
 * [2023-12-16, 07:25:00](https://news.ycombinator.com/item?id=38662454) - [A female albatross over 70 years old](https://www.lemonde.fr/en/science/article/2023/12/16/a-female-albatross-over-70-years-old_6349131_10.html)

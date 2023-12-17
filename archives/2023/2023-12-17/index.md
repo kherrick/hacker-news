@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [Rob Pike on the Pronunciation of \"Fsck\"](https://hachyderm.io/@robpike/111593487329402102)
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
