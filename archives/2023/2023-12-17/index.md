@@ -9,6 +9,7 @@
 * [2023-12-17, 06:09:14](https://news.ycombinator.com/item?id=38670729) - [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
 * [2023-12-17, 06:04:52](https://news.ycombinator.com/item?id=38670712) - [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
 * [2023-12-17, 05:10:31](https://news.ycombinator.com/item?id=38670465) - [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
+* [2023-12-17, 05:08:15](https://news.ycombinator.com/item?id=38670456) - [Germany starts dismantling wind farm to make room for coal mine](https://brusselssignal.eu/2023/08/germany-starts-dismantling-wind-farm-to-make-room-for-lignite-coal-mine/)
 * [2023-12-17, 04:39:09](https://news.ycombinator.com/item?id=38670358) - [WyGPT: Minimal mature GPT model in C++](https://github.com/wangyi-fudan/wyGPT)
 * [2023-12-17, 03:36:21](https://news.ycombinator.com/item?id=38670116) - [Why It's Taking So Long for Americans to Get Payments Instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
 * [2023-12-17, 03:10:50](https://news.ycombinator.com/item?id=38670006) - [Steve Jobs Rigged the First iPhone Demo by Faking Full Signal Strength](https://finance.yahoo.com/news/steve-jobs-rigged-first-iphone-152527272.html)
