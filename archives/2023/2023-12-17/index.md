@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
 * [2023-12-17, 07:38:27](https://news.ycombinator.com/item?id=38671072) - [Ask HN: Where should I incoporate my business](https://news.ycombinator.com/item?id=38671072)
+* [2023-12-17, 06:40:28](https://news.ycombinator.com/item?id=38670866) - [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
 * [2023-12-17, 06:36:10](https://news.ycombinator.com/item?id=38670845) - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 * [2023-12-17, 06:21:25](https://news.ycombinator.com/item?id=38670781) - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
