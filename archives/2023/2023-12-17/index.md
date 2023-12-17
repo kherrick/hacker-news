@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT Turns Thoughts into Text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
+* [2023-12-17, 16:04:07](https://news.ycombinator.com/item?id=38673725) - [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you)
 * [2023-12-17, 15:55:34](https://news.ycombinator.com/item?id=38673654) - [US nuclear-fusion lab enters new era: achieving 'ignition' over and over](https://www.nature.com/articles/d41586-023-04045-8)
 * [2023-12-17, 15:32:01](https://news.ycombinator.com/item?id=38673499) - [Goodreads asks users to help combat 'review bombing'](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
 * [2023-12-17, 15:03:15](https://news.ycombinator.com/item?id=38673292) - [We think too much and feel too little](https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-)
