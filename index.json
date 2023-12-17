@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-17, 16:36:22",
+      "https://news.ycombinator.com/item?id=38673954"
+    ],
+    [
+      "microsoft/promptbase: All things prompt engineering",
+      "https://github.com/microsoft/promptbase"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 16:22:05",
       "https://news.ycombinator.com/item?id=38673854"
     ],
@@ -51,6 +61,26 @@
   ],
   [
     [
+      "2023-12-17, 15:49:26",
+      "https://news.ycombinator.com/item?id=38673608"
+    ],
+    [
+      "Everyone on Earth is your cousin (2014)",
+      "https://qz.com/557639/everyone-on-earth-is-actually-your-cousin"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 15:17:13",
+      "https://news.ycombinator.com/item?id=38673392"
+    ],
+    [
+      "How does Base32 (or any Base2^n) work exactly?",
+      "https://ptrchm.com/posts/base32-explained/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 15:03:15",
       "https://news.ycombinator.com/item?id=38673292"
     ],
@@ -71,21 +101,11 @@
   ],
   [
     [
-      "2023-12-17, 14:26:18",
-      "https://news.ycombinator.com/item?id=38673044"
-    ],
-    [
-      "Ancient 'Dragon' Unearthed in Japan Is Unlike Anything We've Ever Seen",
-      "https://www.sciencealert.com/ancient-dragon-unearthed-in-japan-is-unlike-anything-weve-ever-seen"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 13:02:48",
       "https://news.ycombinator.com/item?id=38672575"
     ],
     [
-      "Show HN: I have created a free text-to-image website that supports SDXL Turbo",
+      "Show HN: A free text-to-image website that supports SDXL Turbo",
       "https://comfyuiweb.com/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Evaluating new software forges",
       "https://notgull.net/finding-a-forge/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 10:29:23",
-      "https://news.ycombinator.com/item?id=38671857"
-    ],
-    [
-      "Two interesting XOR circuits inside the Intel 386 processor",
-      "https://www.righto.com/2023/12/386-xor-circuits.html"
     ]
   ],
   [
@@ -135,8 +145,18 @@
       "https://news.ycombinator.com/item?id=38670850"
     ],
     [
-      "The Divorce Colony",
+      "The Divorce Colony (2015)",
       "https://magazine.atavist.com/the-divorce-colony/"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 06:36:10",
+      "https://news.ycombinator.com/item?id=38670845"
+    ],
+    [
+      "Hylomorphism",
+      "https://1000wordphilosophy.com/2023/12/04/hylomorphism/"
     ]
   ],
   [
@@ -155,18 +175,8 @@
       "https://news.ycombinator.com/item?id=38670465"
     ],
     [
-      "AI bots are now outperforming humans in solving CAPTCHAs",
+      "An Empirical Study and Evaluation of Modern CAPTCHAs",
       "https://arxiv.org/abs/2307.12108"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 02:53:55",
-      "https://news.ycombinator.com/item?id=38669928"
-    ],
-    [
-      "Augmenting long-term memory (2018)",
-      "https://augmentingcognition.com/ltm.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Show HN: NowDo – MacOS todo app for procrastinators",
       "https://nowdo.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 23:42:21",
-      "https://news.ycombinator.com/item?id=38668906"
-    ],
-    [
-      "Hasbro laying off Wizards of the Coast staff is baffling",
-      "https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-12-16, 17:25:04",
-      "https://news.ycombinator.com/item?id=38666032"
+      "2023-12-16, 17:26:41",
+      "https://news.ycombinator.com/item?id=38666045"
     ],
     [
-      "The New Essential Guide to Electronics in Shenzhen",
-      "https://www.bunniestudios.com/blog/?p=6886"
+      "Two interesting XOR circuits inside the Intel 386 processor",
+      "https://www.righto.com/2023/12/386-xor-circuits.html"
     ]
   ],
   [
@@ -231,12 +231,22 @@
   ],
   [
     [
-      "2023-12-16, 05:07:21",
-      "https://news.ycombinator.com/item?id=38661903"
+      "2023-12-16, 14:54:11",
+      "https://news.ycombinator.com/item?id=38664643"
     ],
     [
-      "NASA study finds life-sparking energy source and molecule at Enceladus",
-      "https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html"
+      "The Art of Conducting (2018)",
+      "https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 05:27:28",
+      "https://news.ycombinator.com/item?id=38661981"
+    ],
+    [
+      "Schedule Chicken (2007)",
+      "https://wiki.c2.com/?ScheduleChicken"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Balm in GILead: Fast string construction for CPython extensions",
       "https://blog.vito.nyc/posts/gil-balm/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 18:41:10",
-      "https://news.ycombinator.com/item?id=38657126"
-    ],
-    [
-      "I bricked my Christmas lights",
-      "https://www.whizzy.org/2023-12-14-bricked-xmas/"
     ]
   ],
   [
