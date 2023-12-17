@@ -9,6 +9,7 @@
 * [2023-12-17, 11:33:56](https://news.ycombinator.com/item?id=38672162) - [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
 * [2023-12-17, 08:17:41](https://news.ycombinator.com/item?id=38671212) - [Retailers have a crime problem. It's in the numbers](https://www.retaildive.com/news/retailers-crime-problem-numbers/699107/)
 * [2023-12-17, 07:38:27](https://news.ycombinator.com/item?id=38671072) - [Ask HN: Where should I incoporate my business](https://news.ycombinator.com/item?id=38671072)
+* [2023-12-17, 07:27:38](https://news.ycombinator.com/item?id=38671030) - [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
 * [2023-12-17, 06:40:28](https://news.ycombinator.com/item?id=38670866) - [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
 * [2023-12-17, 06:36:10](https://news.ycombinator.com/item?id=38670845) - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 * [2023-12-17, 06:21:25](https://news.ycombinator.com/item?id=38670781) - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
