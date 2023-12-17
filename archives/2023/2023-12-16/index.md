@@ -16,6 +16,7 @@
 * [2023-12-16, 21:39:12](https://news.ycombinator.com/item?id=38667962) - [How the Feds bounced Binance: Crypto isn't \"incentive compatible\"](https://www.programmablemutter.com/p/how-the-feds-bounced-binance)
 * [2023-12-16, 21:34:20](https://news.ycombinator.com/item?id=38667916) - [US begins review that could eventually lead to PVC ban](https://phys.org/news/2023-12-pvc.amp)
 * [2023-12-16, 21:29:09](https://news.ycombinator.com/item?id=38667876) - [S3 Express One Zone, Not Quite What I Hoped For](https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for)
+* [2023-12-16, 21:25:02](https://news.ycombinator.com/item?id=38667828) - [Run Mistral 7B on M1 Mac](https://wandb.ai/byyoung3/ml-news/reports/How-to-Run-Mistral-7B-on-an-M1-Mac-With-Ollama--Vmlldzo2MTg4MjA0)
 * [2023-12-16, 21:18:52](https://news.ycombinator.com/item?id=38667774) - [Tesla driver who killed 2 people while using autopilot must pay $23,000, no jail](https://fortune.com/2023/12/15/tesla-driver-to-pay-23k-in-restitution-crash-killed-2-people/)
 * [2023-12-16, 21:14:54](https://news.ycombinator.com/item?id=38667739) - [A guide to technical report writing [pdf]](https://ias.ieee.org/wp-content/uploads/2023/06/2020-01-16_IET_Technical_Report_Writing_Guidelines.pdf)
 * [2023-12-16, 21:03:09](https://news.ycombinator.com/item?id=38667654) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
