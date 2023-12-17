@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-17, 02:55:04",
+      "https://news.ycombinator.com/item?id=38669939"
+    ],
+    [
+      "Freight Trains: Last Week Tonight",
+      "https://www.youtube.com/watch?v=AJ2keSJzYyY"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 02:53:55",
       "https://news.ycombinator.com/item?id=38669928"
     ],
     [
-      "Augmenting Long-Term Memory",
+      "Augmenting long-term memory (2018)",
       "https://augmentingcognition.com/ltm.html"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38669395"
     ],
     [
-      "Unlogged (YC S22) Is Hiring to automate regression testing",
+      "Unlogged (YC S22) is hiring to automate regression testing",
       "https://news.ycombinator.com/item?id=38669395"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=38668884"
     ],
     [
-      "Would it be possible to detect an industrial civilization in geological record?",
+      "Possible to detect an industrial civilization in geological record? (2018)",
       "https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 23:31:29",
-      "https://news.ycombinator.com/item?id=38668823"
-    ],
-    [
-      "Transformers on Chips",
-      "https://www.etched.ai"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Intel, Samsung, and TSMC Demo 3D-Stacked Transistors",
       "https://spectrum.ieee.org/cfet-intel-samsung-tsmc"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 22:12:31",
+      "https://news.ycombinator.com/item?id=38668237"
+    ],
+    [
+      "Studying stars with central black holes",
+      "https://arxiv.org/abs/2312.07647"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38667876"
     ],
     [
-      "S3 Express One Zone, Not Quite What I Hoped For",
+      "S3 Express One Zone, not quite what I hoped for",
       "https://jack-vanlightly.com/blog/2023/11/29/s3-express-one-zone-not-quite-what-i-hoped-for"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Solar and Wind to Top Coal Power in US for First Time in 2024",
       "https://www.bloomberg.com/news/articles/2023-12-12/solar-and-wind-to-top-coal-power-in-us-for-first-time-in-2024"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 19:14:48",
-      "https://news.ycombinator.com/item?id=38666904"
-    ],
-    [
-      "A Full Hardware Guide to Deep Learning",
-      "https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/"
     ]
   ],
   [
