@@ -84,6 +84,7 @@
 * [2023-12-15, 10:09:54](https://news.ycombinator.com/item?id=38652689) - [How Did the Romans Calculate?](https://cacm.acm.org/blogs/blog-cacm/234881-how-did-the-romans-calculate/fulltext)
 * [2023-12-15, 10:00:22](https://news.ycombinator.com/item?id=38652648) - [Ubiquiti users report having access to others' UniFi routers, cameras](https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/)
 * [2023-12-15, 09:54:43](https://news.ycombinator.com/item?id=38652626) - [What we lose when curating follows the money](https://hyperallergic.com/861508/what-we-lose-when-curating-follows-the-money-capturing-moment-tate-modern/)
+* [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 * [2023-12-15, 09:41:09](https://news.ycombinator.com/item?id=38652554) - [A new, modern, and secure print experience from Windows](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
