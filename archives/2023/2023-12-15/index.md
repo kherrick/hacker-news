@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
 * [2023-12-15, 23:14:15](https://news.ycombinator.com/item?id=38660042) - [Breakthrough in 'detonating' hypersonic propulsion](https://www.thedrive.com/the-war-zone/ges-breakthrough-in-detonating-hypersonic-propulsion-is-a-big-deal)
+* [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
 * [2023-12-15, 22:35:53](https://news.ycombinator.com/item?id=38659679) - [Once I bet, it's not my money any more](https://tidyfirst.substack.com/p/not-my-money-any-more-lessons-from)
 * [2023-12-15, 22:33:47](https://news.ycombinator.com/item?id=38659654) - [Tortured conference series thriving in Computer Science](https://hal.science/hal-04311585v1)
 * [2023-12-15, 22:21:23](https://news.ycombinator.com/item?id=38659549) - [It's Been 2 Months. Why Can't NASA Open the Asteroid Sample Container?](https://gizmodo.com/nasa-osiris-rex-asteroid-samples-bennu-stuck-container-1851102598)
