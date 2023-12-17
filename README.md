@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 23:08:16](https://news.ycombinator.com/item?id=38677344) - [Qatar Airways Bans YouTuber for Negative Review](https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
+* [2023-12-17, 22:06:24](https://news.ycombinator.com/item?id=38676952) - [The Debt Problem Is Enormous, and the System for Fixing It Is Broken](https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html)
 * [2023-12-17, 21:25:53](https://news.ycombinator.com/item?id=38676612) - [How to Choose Cookware (2014)](https://www.centurylife.org/how-to-choose-cookware/)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 21:18:56](https://news.ycombinator.com/item?id=38676558) - [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
@@ -26,10 +28,8 @@
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:26:41](https://news.ycombinator.com/item?id=38666045) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash came from](https://www.neh.gov/article/where-johnny-cash-came)
-* [2023-12-16, 13:12:11](https://news.ycombinator.com/item?id=38663942) - [The Ballad of Hank McCain](https://cinemasojourns.com/2023/12/15/the-ballad-of-hank-mccain/)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
-* [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 
 ## [Archives](archives/index.md)
 
