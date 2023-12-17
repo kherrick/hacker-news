@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-17, 02:55:04",
-      "https://news.ycombinator.com/item?id=38669939"
-    ],
-    [
-      "Freight Trains: Last Week Tonight",
-      "https://www.youtube.com/watch?v=AJ2keSJzYyY"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 02:53:55",
       "https://news.ycombinator.com/item?id=38669928"
     ],
@@ -27,26 +17,6 @@
     [
       "Unlogged (YC S22) Is Hiring to automate regression testing",
       "https://news.ycombinator.com/item?id=38669395"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 00:10:44",
-      "https://news.ycombinator.com/item?id=38669093"
-    ],
-    [
-      "QuickTake for Apple II",
-      "https://www.colino.net/wordpress/en/quicktake-for-apple-ii/"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 23:42:21",
-      "https://news.ycombinator.com/item?id=38668906"
-    ],
-    [
-      "Hasbro laying off Wizards of the Coast staff is baffling",
-      "https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/"
     ]
   ],
   [
@@ -77,6 +47,16 @@
     [
       "Intel, Samsung, and TSMC Demo 3D-Stacked Transistors",
       "https://spectrum.ieee.org/cfet-intel-samsung-tsmc"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 22:06:23",
+      "https://news.ycombinator.com/item?id=38668181"
+    ],
+    [
+      "The many faces of fsck",
+      "https://lwn.net/Articles/248180/"
     ]
   ],
   [
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2023-12-16, 19:14:48",
+      "https://news.ycombinator.com/item?id=38666904"
+    ],
+    [
+      "A Full Hardware Guide to Deep Learning",
+      "https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 18:15:14",
       "https://news.ycombinator.com/item?id=38666458"
     ],
     [
       "What is the point of a public key fingerprint?",
       "https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/"
+    ]
+  ],
+  [
+    [
+      "2023-12-16, 17:59:48",
+      "https://news.ycombinator.com/item?id=38666340"
+    ],
+    [
+      "Sydney man dubbed the 'Annihilator' wins spreadsheet world championship",
+      "https://www.theguardian.com/australia-news/2023/dec/15/you-didnt-just-succeed-you-exceled-sydney-man-dubbed-the-annihilator-wins-excel-world-championship"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-12-16, 11:51:59",
-      "https://news.ycombinator.com/item?id=38663590"
-    ],
-    [
-      "Island gigantism",
-      "https://en.wikipedia.org/wiki/Island_gigantism"
-    ]
-  ],
-  [
-    [
       "2023-12-16, 07:25:00",
       "https://news.ycombinator.com/item?id=38662454"
     ],
@@ -297,6 +287,16 @@
     [
       "What we lose when curating follows the money",
       "https://hyperallergic.com/861508/what-we-lose-when-curating-follows-the-money-capturing-moment-tate-modern/"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 09:41:09",
+      "https://news.ycombinator.com/item?id=38652554"
+    ],
+    [
+      "A new, modern, and secure print experience from Windows",
+      "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645"
     ]
   ]
 ]
