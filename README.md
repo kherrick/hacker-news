@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 20:18:30](https://news.ycombinator.com/item?id=38676018) - [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
 * [2023-12-17, 20:04:02](https://news.ycombinator.com/item?id=38675886) - ['Tranq tourism': alarm in Philadelphia as TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans Are Changing French – One Joke, Rap and Book at a Time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 * [2023-12-17, 19:53:22](https://news.ycombinator.com/item?id=38675794) - [How to maximize a free time at work?](https://news.ycombinator.com/item?id=38675794)
@@ -12,7 +13,6 @@
 * [2023-12-17, 16:36:22](https://news.ycombinator.com/item?id=38673954) - [microsoft/promptbase: All things prompt engineering](https://github.com/microsoft/promptbase)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 15:55:34](https://news.ycombinator.com/item?id=38673654) - [US nuclear-fusion lab enters new era: achieving 'ignition' over and over](https://www.nature.com/articles/d41586-023-04045-8)
-* [2023-12-17, 15:49:26](https://news.ycombinator.com/item?id=38673608) - [Everyone on Earth is your cousin (2014)](https://qz.com/557639/everyone-on-earth-is-actually-your-cousin)
 * [2023-12-17, 15:32:01](https://news.ycombinator.com/item?id=38673499) - [Goodreads asks users to help combat 'review bombing'](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
 * [2023-12-17, 15:17:13](https://news.ycombinator.com/item?id=38673392) - [How does Base32 (or any Base2^n) work exactly?](https://ptrchm.com/posts/base32-explained/)
 * [2023-12-17, 15:03:15](https://news.ycombinator.com/item?id=38673292) - [The Final Speech from The Great Dictator](https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-)
