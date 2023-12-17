@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 12:34:15",
+      "https://news.ycombinator.com/item?id=38672435"
+    ],
+    [
+      "Rob Pike on the Pronunciation of \"Fsck\"",
+      "https://hachyderm.io/@robpike/111593487329402102"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 12:26:17",
       "https://news.ycombinator.com/item?id=38672386"
     ],
@@ -177,16 +187,6 @@
     [
       "Dev onboarding, then and now",
       "https://blog.fahhem.com/2023/12/dev-onboarding-then-now/"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 17:52:48",
-      "https://news.ycombinator.com/item?id=38666287"
-    ],
-    [
-      "Atree: A simple and efficient pointer-free tree implementation",
-      "https://github.com/tlack/atree"
     ]
   ],
   [
