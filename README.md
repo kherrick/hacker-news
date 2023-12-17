@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 08:17:41](https://news.ycombinator.com/item?id=38671212) - [Retailers have a crime problem. It's in the numbers](https://www.retaildive.com/news/retailers-crime-problem-numbers/699107/)
 * [2023-12-17, 06:40:28](https://news.ycombinator.com/item?id=38670866) - [The origin of the law of torture: A cautionary tale](https://daviddfriedman.substack.com/p/torture)
 * [2023-12-17, 06:36:10](https://news.ycombinator.com/item?id=38670845) - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
@@ -26,7 +27,6 @@
 * [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 * [2023-12-15, 14:13:01](https://news.ycombinator.com/item?id=38654331) - [Flying Friday: My first precautionary engine shutdown](https://paulrobichaux.com/2023/12/15/flying-friday-my-first-precautionary-engine-shutdown/)
-* [2023-12-15, 09:54:43](https://news.ycombinator.com/item?id=38652626) - [What we lose when curating follows the money](https://hyperallergic.com/861508/what-we-lose-when-curating-follows-the-money-capturing-moment-tate-modern/)
 * [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 * [2023-12-15, 09:41:09](https://news.ycombinator.com/item?id=38652554) - [Windows Protected Print Mode](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645)
 * [2023-12-15, 08:20:49](https://news.ycombinator.com/item?id=38652141) - [Jurassic Systems](https://www.jurassicsystems.com/)
