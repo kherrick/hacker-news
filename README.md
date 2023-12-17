@@ -25,11 +25,11 @@
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash Came From](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 17:13:36](https://news.ycombinator.com/item?id=38665900) - [The Quest for Cather](https://theamericanscholar.org/the-quest-for-cather/)
 * [2023-12-16, 14:54:11](https://news.ycombinator.com/item?id=38664643) - [The Art of Conducting (2018)](https://www.commentary.org/articles/terry-teachout/the-art-of-conducting/)
+* [2023-12-16, 05:27:28](https://news.ycombinator.com/item?id=38661981) - [Schedule Chicken (2007)](https://wiki.c2.com/?ScheduleChicken)
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
 * [2023-12-15, 19:37:58](https://news.ycombinator.com/item?id=38657847) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
 * [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
-* [2023-12-15, 08:20:49](https://news.ycombinator.com/item?id=38652141) - [Jurassic Systems](https://www.jurassicsystems.com/)
 
 ## [Archives](archives/index.md)
 
