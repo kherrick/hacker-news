@@ -64,6 +64,7 @@
 * [2023-12-15, 14:21:40](https://news.ycombinator.com/item?id=38654432) - ['Green Roads' Are Plowing Ahead, Buffering Drought and Floods](https://e360.yale.edu/features/green-roads)
 * [2023-12-15, 14:18:04](https://news.ycombinator.com/item?id=38654388) - [What Happens in the Brain While Daydreaming?](https://hms.harvard.edu/news/what-happens-brain-while-daydreaming)
 * [2023-12-15, 14:17:24](https://news.ycombinator.com/item?id=38654375) - [WWII British female code breaker Mary Ratcliffe dies](https://www.dailymail.co.uk/news/article-12867531/code-breaker-Alan-Turing-Nazi-secrets-dies-aged-98.html)
+* [2023-12-15, 14:13:01](https://news.ycombinator.com/item?id=38654331) - [Flying Friday: My first precautionary engine shutdown](https://paulrobichaux.com/2023/12/15/flying-friday-my-first-precautionary-engine-shutdown/)
 * [2023-12-15, 13:52:13](https://news.ycombinator.com/item?id=38654160) - [Half-Male, Half-Female Bird Captured on Film in Colombia](https://www.forbes.com/sites/grrlscientist/2023/12/14/bizarre-half-male-half-female-bird-captured-on-film-in-colombia/)
 * [2023-12-15, 13:27:58](https://news.ycombinator.com/item?id=38653958) - [Ask HN: Best information sources to learn about VC](https://news.ycombinator.com/item?id=38653958)
 * [2023-12-15, 13:07:30](https://news.ycombinator.com/item?id=38653771) - [Quantum Batteries Break Causality](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00323.html)
