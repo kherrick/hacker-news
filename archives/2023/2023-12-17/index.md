@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2023-12-17, 16:37:26](https://news.ycombinator.com/item?id=38673966) - [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
 * [2023-12-17, 16:27:09](https://news.ycombinator.com/item?id=38673887) - [High dose dietary Vitamin D allocates surplus calories to muscle and growth [pdf]](https://www.biorxiv.org/content/10.1101/2022.05.19.492715v1.full.pdf)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT Turns Thoughts into Text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 16:04:07](https://news.ycombinator.com/item?id=38673725) - [Becoming a go-to person gets you promoted](https://careercutler.substack.com/p/becoming-a-go-to-person-gets-you)
