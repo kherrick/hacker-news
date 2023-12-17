@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 21:36:03](https://news.ycombinator.com/item?id=38676697) - [Google Tables Is Dead](https://support.google.com/area120-tables/answer/10831919?hl=en)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 20:21:00](https://news.ycombinator.com/item?id=38676040) - [The Largest Money-Printing Element Ever Made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 * [2023-12-17, 20:18:30](https://news.ycombinator.com/item?id=38676018) - [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
