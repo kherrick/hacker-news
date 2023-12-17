@@ -7,6 +7,7 @@
 * [2023-12-17, 06:21:25](https://news.ycombinator.com/item?id=38670781) - [Show HN: Made a forum for depressed founders to confide](https://www.depressedfounders.com/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
 * [2023-12-17, 06:09:14](https://news.ycombinator.com/item?id=38670729) - [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
+* [2023-12-17, 06:04:52](https://news.ycombinator.com/item?id=38670712) - [Ask HN: Terrified I wont find another job](https://news.ycombinator.com/item?id=38670712)
 * [2023-12-17, 05:10:31](https://news.ycombinator.com/item?id=38670465) - [AI bots are now outperforming humans in solving CAPTCHAs](https://arxiv.org/abs/2307.12108)
 * [2023-12-17, 04:39:09](https://news.ycombinator.com/item?id=38670358) - [WyGPT: Minimal mature GPT model in C++](https://github.com/wangyi-fudan/wyGPT)
 * [2023-12-17, 03:36:21](https://news.ycombinator.com/item?id=38670116) - [Why It's Taking So Long for Americans to Get Payments Instantly](https://www.wsj.com/finance/banking/why-its-taking-so-long-for-americans-to-get-payments-instantly-83dc468a)
