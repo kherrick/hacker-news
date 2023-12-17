@@ -14,6 +14,7 @@
 * [2023-12-17, 14:26:18](https://news.ycombinator.com/item?id=38673044) - [Ancient 'Dragon' Unearthed in Japan Is Unlike Anything We've Ever Seen](https://www.sciencealert.com/ancient-dragon-unearthed-in-japan-is-unlike-anything-weve-ever-seen)
 * [2023-12-17, 14:26:09](https://news.ycombinator.com/item?id=38673042) - [A new Suez crisis threatens the world economy](https://www.economist.com/international/2023/12/16/a-new-suez-crisis-threatens-the-world-economy)
 * [2023-12-17, 14:16:25](https://news.ycombinator.com/item?id=38672968) - [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
+* [2023-12-17, 13:06:21](https://news.ycombinator.com/item?id=38672594) - [Next UK election is set to be most unequal for over 60 years, finds IPPR](https://www.ippr.org/news-and-media/press-releases/next-election-is-set-to-be-most-unequal-for-over-60-years-finds-ippr)
 * [2023-12-17, 13:02:48](https://news.ycombinator.com/item?id=38672575) - [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
 * [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [Rob Pike on the Pronunciation of \"Fsck\"](https://hachyderm.io/@robpike/111593487329402102)
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
