@@ -87,6 +87,7 @@
 * [2023-12-15, 09:41:09](https://news.ycombinator.com/item?id=38652554) - [A new, modern, and secure print experience from Windows](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/a-new-modern-and-secure-print-experience-from-windows/ba-p/4002645)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://pypi.org/project/snowjob/)
 * [2023-12-15, 08:56:59](https://news.ycombinator.com/item?id=38652339) - [Let it snow in your terminal](https://github.com/sontek/snowmachine)
+* [2023-12-15, 08:20:49](https://news.ycombinator.com/item?id=38652141) - [Jurassic Systems](https://www.jurassicsystems.com/)
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
