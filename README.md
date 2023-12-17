@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 20:18:30](https://news.ycombinator.com/item?id=38676018) - [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
 * [2023-12-17, 20:04:02](https://news.ycombinator.com/item?id=38675886) - ['Tranq tourism': alarm in Philadelphia as TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans Are Changing French – One Joke, Rap and Book at a Time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
@@ -29,7 +30,6 @@
 * [2023-12-15, 23:09:27](https://news.ycombinator.com/item?id=38660007) - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
 * [2023-12-15, 19:37:58](https://news.ycombinator.com/item?id=38657847) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-15, 16:57:53](https://news.ycombinator.com/item?id=38656007) - [Risk management is not project management](https://mattrucker.com/risk-management-is-not-project-management/)
-* [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
 
