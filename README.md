@@ -2,8 +2,7 @@
 
 * [2023-12-17, 15:32:01](https://news.ycombinator.com/item?id=38673499) - [Goodreads asks users to help combat 'review bombing'](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
 * [2023-12-17, 14:58:21](https://news.ycombinator.com/item?id=38673253) - [Ask HN: Does anyone here use Haxe?](https://news.ycombinator.com/item?id=38673253)
-* [2023-12-17, 14:16:25](https://news.ycombinator.com/item?id=38672968) - [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
-* [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [On the pronunciation of “fsck”](https://hachyderm.io/@robpike/111593487329402102)
+* [2023-12-17, 13:02:48](https://news.ycombinator.com/item?id=38672575) - [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-17, 10:29:23](https://news.ycombinator.com/item?id=38671857) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
@@ -17,6 +16,7 @@
 * [2023-12-17, 02:53:55](https://news.ycombinator.com/item?id=38669928) - [Augmenting long-term memory (2018)](https://augmentingcognition.com/ltm.html)
 * [2023-12-17, 02:18:02](https://news.ycombinator.com/item?id=38669781) - [Show HN: NowDo – MacOS todo app for procrastinators](https://nowdo.org/)
 * [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
+* [2023-12-16, 23:40:04](https://news.ycombinator.com/item?id=38668884) - [Possible to detect an industrial civilization in geological record? (2018)](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6)
 * [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 20:45:35](https://news.ycombinator.com/item?id=38667503) - [Chimera Linux](https://chimera-linux.org/)
 * [2023-12-16, 17:37:05](https://news.ycombinator.com/item?id=38666148) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)

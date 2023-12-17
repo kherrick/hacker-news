@@ -7,6 +7,7 @@
 * [2023-12-17, 15:32:01](https://news.ycombinator.com/item?id=38673499) - [Goodreads asks users to help combat 'review bombing'](https://www.npr.org/2023/12/17/1219599404/goodreads-review-bombing-cait-corrain)
 * [2023-12-17, 14:58:21](https://news.ycombinator.com/item?id=38673253) - [Ask HN: Does anyone here use Haxe?](https://news.ycombinator.com/item?id=38673253)
 * [2023-12-17, 14:16:25](https://news.ycombinator.com/item?id=38672968) - [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
+* [2023-12-17, 13:02:48](https://news.ycombinator.com/item?id=38672575) - [Show HN: I have created a free text-to-image website that supports SDXL Turbo](https://comfyuiweb.com/)
 * [2023-12-17, 12:34:15](https://news.ycombinator.com/item?id=38672435) - [Rob Pike on the Pronunciation of \"Fsck\"](https://hachyderm.io/@robpike/111593487329402102)
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
