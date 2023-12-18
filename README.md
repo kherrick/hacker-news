@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 08:44:08](https://news.ycombinator.com/item?id=38680394) - [Germany Ends Electric Vehicle Subsidies Abruptly in Latest Blow to Tesla](https://www.investors.com/news/electric-vehicle-subsidies-germany-ends-ev-bonus-abruptly-in-latest-blow-to-tesla/)
-* [2023-12-18, 07:16:33](https://news.ycombinator.com/item?id=38679992) - [History will not remember us fondly (2021)](https://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.html)
+* [2023-12-18, 08:14:51](https://news.ycombinator.com/item?id=38680230) - [Why I Hate Frameworks (2019)](https://medium.com/@johnfliu/why-i-hate-frameworks-6af8cbadba42)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
+* [2023-12-18, 04:34:56](https://news.ycombinator.com/item?id=38679274) - [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
