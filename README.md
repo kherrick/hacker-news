@@ -2,12 +2,12 @@
 
 * [2023-12-18, 22:43:18](https://news.ycombinator.com/item?id=38689459) - [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
 * [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
+* [2023-12-18, 21:40:22](https://news.ycombinator.com/item?id=38688726) - [December's Windows 11 KB5033375 update breaks Wi-Fi connectivity](https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/)
 * [2023-12-18, 21:11:51](https://news.ycombinator.com/item?id=38688355) - [Tiny Code Christmas](https://tcc.lovebyte.party/)
 * [2023-12-18, 21:06:12](https://news.ycombinator.com/item?id=38688271) - [Internet Archive appeals, says judge Koeltl \"misapplied the fair use factors\"](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93985-internet-archive-seeks-reversal-in-book-scanning-suit.html)
 * [2023-12-18, 20:55:29](https://news.ycombinator.com/item?id=38688127) - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
 * [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 * [2023-12-18, 20:34:18](https://news.ycombinator.com/item?id=38687809) - [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
-* [2023-12-18, 20:24:11](https://news.ycombinator.com/item?id=38687679) - [The rise and fall of peer review](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review)
 * [2023-12-18, 19:58:02](https://news.ycombinator.com/item?id=38687357) - [PostgreSQL 16 Bi-Directional Logical Replication](https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/)
 * [2023-12-18, 19:26:30](https://news.ycombinator.com/item?id=38686997) - [To be great, be good, repeatably (2019)](https://blog.stephsmith.io/how-to-be-great/)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
