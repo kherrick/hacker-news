@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 06:11:39](https://news.ycombinator.com/item?id=38679731) - [My 20 year old son doesn't date. His friends don't date](https://old.reddit.com/r/NoStupidQuestions/comments/18kg3e3/my_20_year_old_son_doesnt_date_his_friends_dont/)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
-* [2023-12-18, 05:04:07](https://news.ycombinator.com/item?id=38679414) - [We're Not a CDN – Highlight.js](https://highlightjs.org/not-a-cdn)
+* [2023-12-18, 04:34:56](https://news.ycombinator.com/item?id=38679274) - [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)
 * [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
@@ -26,6 +25,7 @@
 * [2023-12-17, 08:19:48](https://news.ycombinator.com/item?id=38671224) - [A medieval map that made cartography into a science](https://www.newscientist.com/article/mg26034692-100-the-magnificent-medieval-map-that-made-cartography-into-a-science/)
 * [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
+* [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash came from](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
