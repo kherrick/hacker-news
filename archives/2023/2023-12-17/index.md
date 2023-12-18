@@ -64,6 +64,7 @@
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
 * [2023-12-17, 11:33:56](https://news.ycombinator.com/item?id=38672162) - [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
+* [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:29:23](https://news.ycombinator.com/item?id=38671857) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-17, 08:43:42](https://news.ycombinator.com/item?id=38671343) - [Solopreneur rollercoaster: first $1 online to depression](https://marclou.beehiiv.com/p/solopreneur-rollercoaster)
 * [2023-12-17, 08:19:48](https://news.ycombinator.com/item?id=38671224) - [The magnificent medieval map that made cartography into a science](https://www.newscientist.com/article/mg26034692-100-the-magnificent-medieval-map-that-made-cartography-into-a-science/)
