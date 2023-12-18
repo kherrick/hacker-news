@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
+* [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
 * [2023-12-18, 17:25:51](https://news.ycombinator.com/item?id=38685440) - [Apple's Metal FX upscaling is powered by AMD](https://www.notebookcheck.net/Apple-s-Metal-FX-upscaling-is-powered-by-AMD-FidelityFX-Super-Resolution-technology.784429.0.html)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)

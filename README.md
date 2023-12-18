@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
+* [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
-* [2023-12-18, 17:25:51](https://news.ycombinator.com/item?id=38685440) - [Apple's Metal FX upscaling is powered by AMD](https://www.notebookcheck.net/Apple-s-Metal-FX-upscaling-is-powered-by-AMD-FidelityFX-Super-Resolution-technology.784429.0.html)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
@@ -15,7 +15,6 @@
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
 * [2023-12-18, 14:25:53](https://news.ycombinator.com/item?id=38682931) - [Church vs. Curry Types](https://ericnormand.me/article/church-vs-curry-types)
-* [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 12:43:38](https://news.ycombinator.com/item?id=38681672) - [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
 * [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk/)
@@ -28,6 +27,7 @@
 * [2023-12-17, 11:27:48](https://news.ycombinator.com/item?id=38672133) - [Trumpet is an operating system for simple and robust cell-free biocomputing](https://www.nature.com/articles/s41467-023-37752-x)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
+* [2023-12-17, 09:21:18](https://news.ycombinator.com/item?id=38671540) - [M Cave and the Unexplained Disappearance of Kenny Veach (2019)](https://nevadamagazine.com/issue/september-october-2019/11423/)
 * [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
 * [2023-12-16, 05:59:35](https://news.ycombinator.com/item?id=38662088) - [XLights – open source light sequencer and show scheduler](https://xlights.org/)
 
