@@ -68,6 +68,7 @@
 * [2023-12-17, 08:43:42](https://news.ycombinator.com/item?id=38671343) - [Solopreneur rollercoaster: first $1 online to depression](https://marclou.beehiiv.com/p/solopreneur-rollercoaster)
 * [2023-12-17, 08:19:48](https://news.ycombinator.com/item?id=38671224) - [The magnificent medieval map that made cartography into a science](https://www.newscientist.com/article/mg26034692-100-the-magnificent-medieval-map-that-made-cartography-into-a-science/)
 * [2023-12-17, 08:17:41](https://news.ycombinator.com/item?id=38671212) - [Retailers have a crime problem. It's in the numbers](https://www.retaildive.com/news/retailers-crime-problem-numbers/699107/)
+* [2023-12-17, 07:57:40](https://news.ycombinator.com/item?id=38671134) - [Oi (Interjection)](https://en.wikipedia.org/wiki/Oi_(interjection))
 * [2023-12-17, 07:38:27](https://news.ycombinator.com/item?id=38671072) - [Ask HN: Where should I incoporate my business](https://news.ycombinator.com/item?id=38671072)
 * [2023-12-17, 07:27:38](https://news.ycombinator.com/item?id=38671030) - [Pearl: A Production-Ready Reinforcement Learning Agent](https://github.com/facebookresearch/Pearl)
 * [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
