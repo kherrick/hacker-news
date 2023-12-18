@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
+* [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 * [2023-12-18, 16:05:13](https://news.ycombinator.com/item?id=38684309) - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
 * [2023-12-18, 15:54:56](https://news.ycombinator.com/item?id=38684162) - [Sturgeon's law (90% of everything is crap)](https://en.wikipedia.org/wiki/Sturgeon%27s_law)

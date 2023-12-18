@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
+* [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 * [2023-12-18, 16:05:13](https://news.ycombinator.com/item?id=38684309) - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
 * [2023-12-18, 15:54:56](https://news.ycombinator.com/item?id=38684162) - [Sturgeon's law (90% of everything is crap)](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
@@ -25,7 +25,7 @@
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 03:53:21](https://news.ycombinator.com/item?id=38679078) - [Figgie: Simulate stock trading with a deck of cards](https://figgie.com/how-to-play)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-* [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
+* [2023-12-17, 20:05:44](https://news.ycombinator.com/item?id=38675903) - [Cyrus Cylinder Translation: Propaganda from Babylon from the Year -539](https://braddelong.substack.com/p/reading-cyrus-cylinder)
 * [2023-12-17, 11:27:48](https://news.ycombinator.com/item?id=38672133) - [Trumpet is an operating system for simple and robust cell-free biocomputing](https://www.nature.com/articles/s41467-023-37752-x)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
