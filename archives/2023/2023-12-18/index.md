@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 * [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 19:41:34](https://news.ycombinator.com/item?id=38687171) - [The teenager who lives like it's the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
 * [2023-12-18, 19:37:13](https://news.ycombinator.com/item?id=38687133) - [A new world of open extensions on Firefox for Android has arrived](https://blog.mozilla.org/addons/2023/12/14/a-new-world-of-open-extensions-on-firefox-for-android-has-arrived/)

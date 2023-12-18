@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
+* [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 * [2023-12-18, 19:41:34](https://news.ycombinator.com/item?id=38687171) - [The teenager who lives like it's the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
 * [2023-12-18, 19:37:13](https://news.ycombinator.com/item?id=38687133) - [A new world of open extensions on Firefox for Android has arrived](https://blog.mozilla.org/addons/2023/12/14/a-new-world-of-open-extensions-on-firefox-for-android-has-arrived/)
 * [2023-12-18, 19:26:30](https://news.ycombinator.com/item?id=38686997) - [How to Be Great? Just Be Good, Repeatedly (2019)](https://blog.stephsmith.io/how-to-be-great/)
@@ -22,13 +22,13 @@
 * [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
 * [2023-12-18, 14:25:53](https://news.ycombinator.com/item?id=38682931) - [Church vs. Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
-* [2023-12-18, 12:43:38](https://news.ycombinator.com/item?id=38681672) - [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
 * [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk/)
 * [2023-12-18, 12:06:07](https://news.ycombinator.com/item?id=38681437) - [The \"Cheap\" Web](https://potato.cheap)
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
 * [2023-12-17, 11:27:48](https://news.ycombinator.com/item?id=38672133) - [Trumpet is an operating system for simple and robust cell-free biocomputing](https://www.nature.com/articles/s41467-023-37752-x)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
+* [2023-12-17, 09:21:18](https://news.ycombinator.com/item?id=38671540) - [M Cave and the Unexplained Disappearance of Kenny Veach (2019)](https://nevadamagazine.com/issue/september-october-2019/11423/)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
 
 ## [Archives](archives/index.md)
