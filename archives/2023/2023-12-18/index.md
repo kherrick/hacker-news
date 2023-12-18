@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 12:19:36](https://news.ycombinator.com/item?id=38681519) - [How artists are sabotaging AI to take revenge on image generators](https://theconversation.com/data-poisoning-how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators-219335)
 * [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
 * [2023-12-18, 12:09:48](https://news.ycombinator.com/item?id=38681463) - [This year in Servo: over 1000 pull requests and beyond](https://servo.org/blog/2023/12/18/this-year-in-servo/)
 * [2023-12-18, 12:08:51](https://news.ycombinator.com/item?id=38681450) - [\"I just bought a 2024 Chevy Tahoe for $1\"](https://twitter.com/ChrisJBakke/status/1736533308849443121)
