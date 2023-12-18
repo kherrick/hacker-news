@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 20:40:24](https://news.ycombinator.com/item?id=38687899) - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
 * [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 * [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 20:03:06](https://news.ycombinator.com/item?id=38687430) - [The Pontiac Aztek Was Not a Design Tragedy, It Was a Corporate Tragedy](https://www.theautopian.com/the-pontiac-aztek-was-not-a-design-tragedy-it-was-a-corporate-tragedy/)

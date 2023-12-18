@@ -21,6 +21,7 @@
 * [2023-12-17, 20:27:43](https://news.ycombinator.com/item?id=38676084) - [NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.](https://github.com/naivesystems/analyze)
 * [2023-12-17, 20:21:00](https://news.ycombinator.com/item?id=38676040) - [The Largest Money-Printing Element Ever Made](https://blog.jim-nielsen.com/2023/most-profitable-ui-element-ever/)
 * [2023-12-17, 20:18:30](https://news.ycombinator.com/item?id=38676018) - [A celebrated startup promised Kentuckians green jobs. It gave them hell on Earth](https://grist.org/agriculture/appharvest-indoor-farming-morehead-kentucky/)
+* [2023-12-17, 20:05:44](https://news.ycombinator.com/item?id=38675903) - [Cyrus Cylinder Translation](https://www.livius.org/sources/content/cyrus-cylinder/cyrus-cylinder-translation/)
 * [2023-12-17, 20:05:44](https://news.ycombinator.com/item?id=38675903) - [Cyrus Cylinder Translation: Propaganda from Babylon from the Year -539](https://braddelong.substack.com/p/reading-cyrus-cylinder)
 * [2023-12-17, 20:04:02](https://news.ycombinator.com/item?id=38675886) - ['Tranq tourism': alarm in Philadelphia as TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans Are Changing French – One Joke, Rap and Book at a Time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
