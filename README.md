@@ -21,7 +21,6 @@
 * [2023-12-17, 15:17:13](https://news.ycombinator.com/item?id=38673392) - [How does Base32 (or any Base2^n) work exactly?](https://ptrchm.com/posts/base32-explained/)
 * [2023-12-17, 15:03:15](https://news.ycombinator.com/item?id=38673292) - [The Final Speech from The Great Dictator](https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-)
 * [2023-12-17, 13:20:56](https://news.ycombinator.com/item?id=38672670) - [Games in the GPU Shaders (2021)](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894)
-* [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
 * [2023-12-17, 08:19:48](https://news.ycombinator.com/item?id=38671224) - [The magnificent medieval map that made cartography into a science](https://www.newscientist.com/article/mg26034692-100-the-magnificent-medieval-map-that-made-cartography-into-a-science/)
 * [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
 * [2023-12-17, 06:38:00](https://news.ycombinator.com/item?id=38670850) - [The Divorce Colony (2015)](https://magazine.atavist.com/the-divorce-colony/)
@@ -30,6 +29,7 @@
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash came from](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
+* [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
 
