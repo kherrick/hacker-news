@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
+* [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
 * [2023-12-18, 13:12:28](https://news.ycombinator.com/item?id=38681941) - [Adobe, Figma to terminate $20B deal](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
 * [2023-12-18, 13:11:14](https://news.ycombinator.com/item?id=38681928) - [\"Adobe and Figma have decided to end [the] pending merger\"](https://twitter.com/zoink/status/1736733082332348718)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 12:58:05](https://news.ycombinator.com/item?id=38681804) - [Why do people feel the need to litter?](https://www.discovermagazine.com/mind/why-do-people-feel-the-need-to-litter)
+* [2023-12-18, 12:48:35](https://news.ycombinator.com/item?id=38681717) - [USB-C Cures Mosquito Bites](https://shkspr.mobi/blog/2023/12/usb-c-cures-mosquito-bites/)
 * [2023-12-18, 12:43:38](https://news.ycombinator.com/item?id=38681672) - [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
 * [2023-12-18, 12:42:17](https://news.ycombinator.com/item?id=38681661) - [Inside the Booming Business of Cutting Babies' Tongues](https://www.nytimes.com/2023/12/18/health/tongue-tie-release-breastfeeding.html)
 * [2023-12-18, 12:22:36](https://news.ycombinator.com/item?id=38681541) - [Behind the scenes scaling ChatGPT and the OpenAI APIs [video] - Eng Mgr @ OpenAI](https://www.youtube.com/watch?v=PeKMEXUrlq4)
