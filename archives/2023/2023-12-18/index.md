@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 * [2023-12-18, 20:40:24](https://news.ycombinator.com/item?id=38687899) - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
 * [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 * [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 20:04:14](https://news.ycombinator.com/item?id=38687443) - [Tofu-maker Yamami sees shares surge after automating ancient craft](https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/)
 * [2023-12-18, 20:03:06](https://news.ycombinator.com/item?id=38687430) - [The Pontiac Aztek Was Not a Design Tragedy, It Was a Corporate Tragedy](https://www.theautopian.com/the-pontiac-aztek-was-not-a-design-tragedy-it-was-a-corporate-tragedy/)
+* [2023-12-18, 19:58:02](https://news.ycombinator.com/item?id=38687357) - [PostgreSQL 16 Bi-Directional Logical Replication](https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/)
 * [2023-12-18, 19:41:34](https://news.ycombinator.com/item?id=38687171) - [The teenager who lives like it's the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
 * [2023-12-18, 19:37:13](https://news.ycombinator.com/item?id=38687133) - [A new world of open extensions on Firefox for Android has arrived](https://blog.mozilla.org/addons/2023/12/14/a-new-world-of-open-extensions-on-firefox-for-android-has-arrived/)
 * [2023-12-18, 19:29:55](https://news.ycombinator.com/item?id=38687050) - [Casualties Rise in Gaza: 70% of Killed Are Women and Children](https://www.financial-world.org/news/news/financial/24169/casualties-rise-in-gaza-70-of-killed-women-and-children/)
