@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 04:23:17](https://news.ycombinator.com/item?id=38679220) - [Widespread FBI abuse of foreign spy law sets off \"alarm bells,\" tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 * [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
 * [2023-12-18, 02:20:00](https://news.ycombinator.com/item?id=38678569) - [Significantly Enhancing Adult Intelligence with Gene Editing May Be Possible](https://www.lesswrong.com/posts/JEhW3HDMKzekDShva/significantly-enhancing-adult-intelligence-with-gene-editing)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
@@ -17,7 +18,6 @@
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-* [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023](https://forum.misra.org.uk/thread-1668.html)
 * [2023-12-17, 16:37:53](https://news.ycombinator.com/item?id=38673973) - [Show HN: Get any piece of Google Earth as a single normalized glTF 3D model](https://github.com/OmarShehata/google-earth-as-gltf)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 15:17:13](https://news.ycombinator.com/item?id=38673392) - [How does Base32 (or any Base2^n) work exactly?](https://ptrchm.com/posts/base32-explained/)

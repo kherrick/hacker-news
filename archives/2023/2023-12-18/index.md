@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 04:23:17](https://news.ycombinator.com/item?id=38679220) - [Widespread FBI abuse of foreign spy law sets off \"alarm bells,\" tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 * [2023-12-18, 03:41:35](https://news.ycombinator.com/item?id=38679009) - [Why liberalism and leftism are increasingly at odds](https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly)
 * [2023-12-18, 03:11:51](https://news.ycombinator.com/item?id=38678853) - [Volkswagen Admits Failure, Will Bring Back Physical Buttons](https://afronomist.com/volkswagen-admits-touchscreen-experiment-failed-will-bring-back-physical-buttons/)
 * [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
