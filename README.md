@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents Capable of Self-Editing Their Prompts / Python Code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 04:23:17](https://news.ycombinator.com/item?id=38679220) - [Widespread FBI abuse of foreign spy law sets off \"alarm bells,\" tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 * [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous Subs Use AI to Wayfind Without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
@@ -11,7 +12,6 @@
 * [2023-12-17, 22:32:10](https://news.ycombinator.com/item?id=38677124) - [0% of the phrases of the original Wikipedia \"Ship of Theseus\" article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 21:06:30](https://news.ycombinator.com/item?id=38676420) - [Show HN: WebGPU Particles Simulation](https://github.com/psincf/WebGPU-particles)
-* [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 * [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)

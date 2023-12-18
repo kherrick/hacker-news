@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents Capable of Self-Editing Their Prompts / Python Code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 04:23:17](https://news.ycombinator.com/item?id=38679220) - [Widespread FBI abuse of foreign spy law sets off \"alarm bells,\" tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 * [2023-12-18, 03:41:35](https://news.ycombinator.com/item?id=38679009) - [Why liberalism and leftism are increasingly at odds](https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly)
 * [2023-12-18, 03:11:51](https://news.ycombinator.com/item?id=38678853) - [Volkswagen Admits Failure, Will Bring Back Physical Buttons](https://afronomist.com/volkswagen-admits-touchscreen-experiment-failed-will-bring-back-physical-buttons/)
