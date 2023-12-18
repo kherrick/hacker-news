@@ -13,6 +13,7 @@
 * [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination Can Beat Out Batteries for Excess Energy](https://spectrum.ieee.org/pumped-water-energy-storage)
 * [2023-12-18, 17:02:00](https://news.ycombinator.com/item?id=38685101) - [Show HN: DanswerChat – open-source GPTs with access to your org's knowledge](https://news.ycombinator.com/item?id=38685101)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
+* [2023-12-18, 16:40:52](https://news.ycombinator.com/item?id=38684879) - [Show HN: Turn Kafka into an MQTT Broker for IoT with Zilla](https://github.com/aklivity/zilla)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
