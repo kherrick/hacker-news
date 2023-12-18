@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-12-18, 18:27:35",
-      "https://news.ycombinator.com/item?id=38686221"
-    ],
-    [
-      "Many options for running Mistral models in your terminal using LLM",
-      "https://simonwillison.net/2023/Dec/18/mistral/"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 17:38:06",
       "https://news.ycombinator.com/item?id=38685607"
     ],
@@ -147,6 +137,16 @@
     [
       "Terrapin Attack for prefix truncation in SSH",
       "https://terrapin-attack.com"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 16:30:13",
+      "https://news.ycombinator.com/item?id=38684724"
+    ],
+    [
+      "Show HN: Paradict – Streamable multi-format serialization with schema",
+      "https://github.com/pyrustic/paradict"
     ]
   ],
   [
