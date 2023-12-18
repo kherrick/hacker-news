@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 19:29:55](https://news.ycombinator.com/item?id=38687050) - [Casualties Rise in Gaza: 70% of Killed Are Women and Children](https://www.financial-world.org/news/news/financial/24169/casualties-rise-in-gaza-70-of-killed-women-and-children/)
 * [2023-12-18, 18:31:50](https://news.ycombinator.com/item?id=38686273) - [Ruby 3.3's YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
-* [2023-12-18, 18:26:44](https://news.ycombinator.com/item?id=38686209) - [Note G](https://en.wikipedia.org/wiki/Note_G)
 * [2023-12-18, 18:16:15](https://news.ycombinator.com/item?id=38686086) - [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
@@ -14,7 +14,7 @@
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 * [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 15:36:03](https://news.ycombinator.com/item?id=38683852) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
-* [2023-12-18, 15:12:15](https://news.ycombinator.com/item?id=38683493) - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
+* [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
 * [2023-12-18, 14:25:53](https://news.ycombinator.com/item?id=38682931) - [Church vs. Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 14:02:53](https://news.ycombinator.com/item?id=38682623) - [Greyhound bus stops are valuable assets](https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html)
