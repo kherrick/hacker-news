@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
+* [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
@@ -17,9 +19,11 @@
 * [2023-12-18, 12:22:36](https://news.ycombinator.com/item?id=38681541) - [Behind the scenes scaling ChatGPT and the OpenAI APIs [video] - Eng Mgr @ OpenAI](https://www.youtube.com/watch?v=PeKMEXUrlq4)
 * [2023-12-18, 12:19:36](https://news.ycombinator.com/item?id=38681519) - [How artists are sabotaging AI to take revenge on image generators](https://theconversation.com/data-poisoning-how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators-219335)
 * [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
+* [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk/)
 * [2023-12-18, 12:09:48](https://news.ycombinator.com/item?id=38681463) - [This year in Servo: over 1000 pull requests and beyond](https://servo.org/blog/2023/12/18/this-year-in-servo/)
 * [2023-12-18, 12:08:51](https://news.ycombinator.com/item?id=38681450) - [\"I just bought a 2024 Chevy Tahoe for $1\"](https://twitter.com/ChrisJBakke/status/1736533308849443121)
 * [2023-12-18, 12:06:07](https://news.ycombinator.com/item?id=38681437) - [The \"Cheap\" Web](https://potato.cheap)
+* [2023-12-18, 12:04:09](https://news.ycombinator.com/item?id=38681428) - [Paying Netflix $0.53/H, etc.](https://taylor.town/dollar-per-hour)
 * [2023-12-18, 11:50:50](https://news.ycombinator.com/item?id=38681353) - [EU opens proceedings against X over efforts to combat information manipulation](https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/)
 * [2023-12-18, 11:44:57](https://news.ycombinator.com/item?id=38681329) - [EU opens formal DSA investigation into X](https://www.theverge.com/2023/12/18/24005947/eu-x-twitter-dsa-formal-investigation-hamas-israel-terrorist-attacks)
 * [2023-12-18, 11:44:54](https://news.ycombinator.com/item?id=38681328) - [MrBeast's analytics platform ViewStats is out in beta](https://www.viewstats.com/)
