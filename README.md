@@ -2,7 +2,7 @@
 
 * [2023-12-18, 04:23:17](https://news.ycombinator.com/item?id=38679220) - [Widespread FBI abuse of foreign spy law sets off \"alarm bells,\" tech group says](https://arstechnica.com/tech-policy/2023/05/fbi-misused-foreign-surveillance-law-280k-times-to-snoop-on-people-in-the-us/)
 * [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
-* [2023-12-18, 02:20:00](https://news.ycombinator.com/item?id=38678569) - [Significantly Enhancing Adult Intelligence with Gene Editing May Be Possible](https://www.lesswrong.com/posts/JEhW3HDMKzekDShva/significantly-enhancing-adult-intelligence-with-gene-editing)
+* [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous Subs Use AI to Wayfind Without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
 * [2023-12-18, 00:58:21](https://news.ycombinator.com/item?id=38678066) - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
