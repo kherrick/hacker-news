@@ -16,7 +16,7 @@
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:44:47](https://news.ycombinator.com/item?id=38675202) - [Tree of Life Explorer](https://www.evogeneao.com/en/explore/tree-of-life-explorer)
-* [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023](https://forum.misra.org.uk/thread-1668.html)
+* [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-17, 16:37:53](https://news.ycombinator.com/item?id=38673973) - [Show HN: Get any piece of Google Earth as a single normalized glTF 3D model](https://github.com/OmarShehata/google-earth-as-gltf)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 15:03:15](https://news.ycombinator.com/item?id=38673292) - [The Final Speech from The Great Dictator (1940)](https://www.charliechaplin.com/en/articles/29-the-final-speech-from-the-great-dictator-)
