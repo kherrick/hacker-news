@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 11:50:50](https://news.ycombinator.com/item?id=38681353) - [EU opens proceedings against X over efforts to combat information manipulation](https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/)
+* [2023-12-18, 11:44:54](https://news.ycombinator.com/item?id=38681328) - [MrBeast's analytics platform ViewStats is out in beta](https://www.viewstats.com/)
 * [2023-12-18, 11:41:35](https://news.ycombinator.com/item?id=38681312) - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
+* [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
 * [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:39:41](https://news.ycombinator.com/item?id=38680702) - [European heat pump sales are collapsing](https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/)
 * [2023-12-18, 09:08:49](https://news.ycombinator.com/item?id=38680538) - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
@@ -25,5 +28,6 @@
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous Subs Use AI to Wayfind Without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 * [2023-12-18, 02:20:00](https://news.ycombinator.com/item?id=38678569) - [Significantly Enhancing Adult Intelligence with Gene Editing May Be Possible](https://www.lesswrong.com/posts/JEhW3HDMKzekDShva/significantly-enhancing-adult-intelligence-with-gene-editing)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
+* [2023-12-18, 01:17:18](https://news.ycombinator.com/item?id=38678195) - [The Death of Caspar Hauser](https://www.historytoday.com/archive/months-past/death-caspar-hauser)
 * [2023-12-18, 00:58:21](https://news.ycombinator.com/item?id=38678066) - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
