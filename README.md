@@ -2,7 +2,6 @@
 
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 04:34:56](https://news.ycombinator.com/item?id=38679274) - [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)
-* [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
@@ -10,6 +9,7 @@
 * [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java native memory with JDK flight recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
+* [2023-12-17, 21:06:30](https://news.ycombinator.com/item?id=38676420) - [Show HN: WebGPU Particles Simulation](https://github.com/psincf/WebGPU-particles)
 * [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
 * [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
