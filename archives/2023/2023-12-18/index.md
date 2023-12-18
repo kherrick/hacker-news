@@ -9,6 +9,7 @@
 * [2023-12-18, 15:02:43](https://news.ycombinator.com/item?id=38683381) - [Pope formally allows priests to bless same-sex couples](https://www.pbs.org/newshour/world/pope-formally-allows-priests-to-bless-same-sex-couples)
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
+* [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
