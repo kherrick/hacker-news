@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
+* [2023-12-17, 23:48:55](https://news.ycombinator.com/item?id=38677620) - [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
 * [2023-12-17, 23:08:16](https://news.ycombinator.com/item?id=38677344) - [Qatar Airways Bans YouTuber for Negative Review](https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
+* [2023-12-17, 22:32:10](https://news.ycombinator.com/item?id=38677124) - [0% of the phrases of the original Wikipedia \"Ship of Theseus\" article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 * [2023-12-17, 22:06:24](https://news.ycombinator.com/item?id=38676952) - [The Debt Problem Is Enormous, and the System for Fixing It Is Broken](https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html)
 * [2023-12-17, 21:36:03](https://news.ycombinator.com/item?id=38676697) - [Google Tables Is Dead](https://support.google.com/area120-tables/answer/10831919?hl=en)
