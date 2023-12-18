@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 22:43:18](https://news.ycombinator.com/item?id=38689459) - [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
 * [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
 * [2023-12-18, 21:18:52](https://news.ycombinator.com/item?id=38688453) - [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
 * [2023-12-18, 21:11:51](https://news.ycombinator.com/item?id=38688355) - [Tiny Code Christmas](https://tcc.lovebyte.party/)
@@ -12,6 +13,7 @@
 * [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 * [2023-12-18, 20:40:24](https://news.ycombinator.com/item?id=38687899) - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
 * [2023-12-18, 20:34:18](https://news.ycombinator.com/item?id=38687809) - [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
+* [2023-12-18, 20:24:11](https://news.ycombinator.com/item?id=38687679) - [The rise and fall of peer review](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review)
 * [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
 * [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 20:04:14](https://news.ycombinator.com/item?id=38687443) - [Tofu-maker Yamami sees shares surge after automating ancient craft](https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/)
