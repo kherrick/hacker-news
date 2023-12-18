@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why Are Things Expensive?](https://www.why-expensive.com/)
 * [2023-12-18, 15:12:15](https://news.ycombinator.com/item?id=38683493) - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
+* [2023-12-18, 15:02:43](https://news.ycombinator.com/item?id=38683381) - [Pope formally allows priests to bless same-sex couples](https://www.pbs.org/newshour/world/pope-formally-allows-priests-to-bless-same-sex-couples)
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
@@ -22,13 +24,11 @@
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
-* [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java native memory with JDK flight recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:44:47](https://news.ycombinator.com/item?id=38675202) - [Tree of Life Explorer](https://www.evogeneao.com/en/explore/tree-of-life-explorer)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
-* [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 05:59:35](https://news.ycombinator.com/item?id=38662088) - [XLights – open source light sequencer and show scheduler](https://xlights.org/)
 
 ## [Archives](archives/index.md)
