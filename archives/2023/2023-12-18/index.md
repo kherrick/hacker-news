@@ -14,6 +14,7 @@
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 * [2023-12-18, 16:05:13](https://news.ycombinator.com/item?id=38684309) - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
 * [2023-12-18, 15:54:56](https://news.ycombinator.com/item?id=38684162) - [Sturgeon's law (90% of everything is crap)](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+* [2023-12-18, 15:54:44](https://news.ycombinator.com/item?id=38684156) - [Apple to Halt Watch Sales as It Prepares to Comply with U.S. Import Ban](https://www.wsj.com/tech/apple-to-halt-watch-sales-as-it-prepares-to-comply-with-u-s-import-ban-432a018c)
 * [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 15:36:03](https://news.ycombinator.com/item?id=38683852) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 * [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why Are Things Expensive?](https://www.why-expensive.com/)

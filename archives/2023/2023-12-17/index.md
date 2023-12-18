@@ -67,6 +67,7 @@
 * [2023-12-17, 11:27:48](https://news.ycombinator.com/item?id=38672133) - [Trumpet is an operating system for simple and robust cell-free biocomputing](https://www.nature.com/articles/s41467-023-37752-x)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:29:23](https://news.ycombinator.com/item?id=38671857) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
+* [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
 * [2023-12-17, 08:43:42](https://news.ycombinator.com/item?id=38671343) - [Solopreneur rollercoaster: first $1 online to depression](https://marclou.beehiiv.com/p/solopreneur-rollercoaster)
 * [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
 * [2023-12-17, 08:19:48](https://news.ycombinator.com/item?id=38671224) - [The magnificent medieval map that made cartography into a science](https://www.newscientist.com/article/mg26034692-100-the-magnificent-medieval-map-that-made-cartography-into-a-science/)
