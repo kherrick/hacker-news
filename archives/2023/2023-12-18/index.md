@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
+* [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
+* [2023-12-18, 17:25:51](https://news.ycombinator.com/item?id=38685440) - [Apple's Metal FX upscaling is powered by AMD](https://www.notebookcheck.net/Apple-s-Metal-FX-upscaling-is-powered-by-AMD-FidelityFX-Super-Resolution-technology.784429.0.html)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
