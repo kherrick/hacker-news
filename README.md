@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 03:41:35](https://news.ycombinator.com/item?id=38679009) - [Why liberalism and leftism are increasingly at odds](https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly)
+* [2023-12-18, 02:58:26](https://news.ycombinator.com/item?id=38678779) - [Pilots hide mental health problems so they don't lose their licenses](https://www.washingtonpost.com/travel/2023/12/15/pilots-mental-health-faa-certification/)
+* [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
 * [2023-12-18, 00:58:21](https://news.ycombinator.com/item?id=38678066) - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 * [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
@@ -7,6 +10,7 @@
 * [2023-12-17, 22:32:10](https://news.ycombinator.com/item?id=38677124) - [0% of the phrases of the original Wikipedia \"Ship of Theseus\" article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
 * [2023-12-17, 21:18:56](https://news.ycombinator.com/item?id=38676558) - [ArtBot for Stable Diffusion](https://tinybots.net/artbot)
+* [2023-12-17, 21:06:30](https://news.ycombinator.com/item?id=38676420) - [Show HN: WebGPU Particles Simulation](https://github.com/psincf/WebGPU-particles)
 * [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
 * [2023-12-17, 20:04:02](https://news.ycombinator.com/item?id=38675886) - ['Tranq tourism': TikTokers travel to film drug users](https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
@@ -14,8 +18,6 @@
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
-* [2023-12-17, 16:54:45](https://news.ycombinator.com/item?id=38674175) - [MySQL 8.2 Introduces Transparent Read/Write Splitting](https://www.infoq.com/news/2023/11/mysql-read-write-splitting/)
-* [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023](https://forum.misra.org.uk/thread-1668.html)
 * [2023-12-17, 16:37:53](https://news.ycombinator.com/item?id=38673973) - [Show HN: Get any piece of Google Earth as a single normalized glTF 3D model](https://github.com/OmarShehata/google-earth-as-gltf)
 * [2023-12-17, 16:22:05](https://news.ycombinator.com/item?id=38673854) - [BrainGPT turns thoughts into text](https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054)
 * [2023-12-17, 15:17:13](https://news.ycombinator.com/item?id=38673392) - [How does Base32 (or any Base2^n) work exactly?](https://ptrchm.com/posts/base32-explained/)
@@ -25,11 +27,9 @@
 * [2023-12-17, 06:41:30](https://news.ycombinator.com/item?id=38670875) - [Don't wake me up too soon](https://granta.com/dont-wake-me-up-too-soon/)
 * [2023-12-17, 06:36:10](https://news.ycombinator.com/item?id=38670845) - [Hylomorphism](https://1000wordphilosophy.com/2023/12/04/hylomorphism/)
 * [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
-* [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash came from](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
-* [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
 
