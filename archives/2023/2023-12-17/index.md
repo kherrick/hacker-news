@@ -9,6 +9,7 @@
 * [2023-12-17, 23:08:16](https://news.ycombinator.com/item?id=38677344) - [Qatar Airways Bans YouTuber for Negative Review](https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/)
 * [2023-12-17, 23:06:38](https://news.ycombinator.com/item?id=38677332) - [Do schools kill creativity? – Sir Ken Robinson [video]](https://www.youtube.com/watch?v=iG9CE55wbtY)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
+* [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 22:32:10](https://news.ycombinator.com/item?id=38677124) - [0% of the phrases of the original Wikipedia \"Ship of Theseus\" article remain](https://twitter.com/depthsofwiki/status/1735800801455419697)
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 * [2023-12-17, 22:06:24](https://news.ycombinator.com/item?id=38676952) - [The Debt Problem Is Enormous, and the System for Fixing It Is Broken](https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html)

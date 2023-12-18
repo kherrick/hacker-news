@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 22:53:00](https://news.ycombinator.com/item?id=38689544) - [Cal Newport: It's Time to Dismantle the Technopoly](https://www.newyorker.com/tech/annals-of-technology/its-time-to-dismantle-the-technopoly)
 * [2023-12-18, 22:43:18](https://news.ycombinator.com/item?id=38689459) - [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
 * [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
 * [2023-12-18, 21:40:22](https://news.ycombinator.com/item?id=38688726) - [December's Windows 11 KB5033375 update breaks Wi-Fi connectivity](https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/)
