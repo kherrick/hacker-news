@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 08:44:08](https://news.ycombinator.com/item?id=38680394) - [Germany Ends Electric Vehicle Subsidies Abruptly in Latest Blow to Tesla](https://www.investors.com/news/electric-vehicle-subsidies-germany-ends-ev-bonus-abruptly-in-latest-blow-to-tesla/)
+* [2023-12-18, 07:16:33](https://news.ycombinator.com/item?id=38679992) - [History will not remember us fondly (2021)](https://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.html)
 * [2023-12-18, 06:11:39](https://news.ycombinator.com/item?id=38679731) - [My 20 year old son doesn't date. His friends don't date](https://old.reddit.com/r/NoStupidQuestions/comments/18kg3e3/my_20_year_old_son_doesnt_date_his_friends_dont/)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents Capable of Self-Editing Their Prompts / Python Code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 05:04:07](https://news.ycombinator.com/item?id=38679414) - [We're Not a CDN – Highlight.js](https://highlightjs.org/not-a-cdn)
