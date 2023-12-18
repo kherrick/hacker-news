@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-18, 09:08:49](https://news.ycombinator.com/item?id=38680538) - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
-* [2023-12-18, 08:14:51](https://news.ycombinator.com/item?id=38680230) - [Why I Hate Frameworks (2019)](https://medium.com/@johnfliu/why-i-hate-frameworks-6af8cbadba42)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 04:34:56](https://news.ycombinator.com/item?id=38679274) - [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)
 * [2023-12-18, 03:53:21](https://news.ycombinator.com/item?id=38679078) - [Figgie: Simulate stock trading with a deck of cards](https://figgie.com/how-to-play)
@@ -29,6 +28,7 @@
 * [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
+* [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
