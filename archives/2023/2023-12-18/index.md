@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 19:41:34](https://news.ycombinator.com/item?id=38687171) - [The teenager who lives like it's the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
 * [2023-12-18, 19:37:13](https://news.ycombinator.com/item?id=38687133) - [A new world of open extensions on Firefox for Android has arrived](https://blog.mozilla.org/addons/2023/12/14/a-new-world-of-open-extensions-on-firefox-for-android-has-arrived/)
 * [2023-12-18, 19:29:55](https://news.ycombinator.com/item?id=38687050) - [Casualties Rise in Gaza: 70% of Killed Are Women and Children](https://www.financial-world.org/news/news/financial/24169/casualties-rise-in-gaza-70-of-killed-women-and-children/)
@@ -25,6 +26,7 @@
 * [2023-12-18, 16:47:14](https://news.ycombinator.com/item?id=38684904) - [Terrapin Attack for prefix truncation in SSH](https://terrapin-attack.com)
 * [2023-12-18, 16:40:52](https://news.ycombinator.com/item?id=38684879) - [Show HN: Turn Kafka into an MQTT Broker for IoT with Zilla](https://github.com/aklivity/zilla)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
+* [2023-12-18, 16:14:22](https://news.ycombinator.com/item?id=38684461) - [Python, C, Assembly – Faster Cosine Similarity](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2023-12-18, 16:09:01](https://news.ycombinator.com/item?id=38684368) - [Paged Out Issue #3](https://pagedout.institute/?page=issues.php)
 * [2023-12-18, 16:05:13](https://news.ycombinator.com/item?id=38684309) - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
