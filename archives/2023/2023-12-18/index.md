@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
 * [2023-12-18, 13:12:28](https://news.ycombinator.com/item?id=38681941) - [Adobe, Figma to terminate $20B deal](https://www.theverge.com/2023/12/18/24005975/adobe-figma-merger-cma-investigation-refuse-remediations)
 * [2023-12-18, 13:11:14](https://news.ycombinator.com/item?id=38681928) - [\"Adobe and Figma have decided to end [the] pending merger\"](https://twitter.com/zoink/status/1736733082332348718)
@@ -11,6 +12,7 @@
 * [2023-12-18, 12:58:05](https://news.ycombinator.com/item?id=38681804) - [Why do people feel the need to litter?](https://www.discovermagazine.com/mind/why-do-people-feel-the-need-to-litter)
 * [2023-12-18, 12:43:38](https://news.ycombinator.com/item?id=38681672) - [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
 * [2023-12-18, 12:42:17](https://news.ycombinator.com/item?id=38681661) - [Inside the Booming Business of Cutting Babies' Tongues](https://www.nytimes.com/2023/12/18/health/tongue-tie-release-breastfeeding.html)
+* [2023-12-18, 12:22:36](https://news.ycombinator.com/item?id=38681541) - [Behind the scenes scaling ChatGPT and the OpenAI APIs [video] - Eng Mgr @ OpenAI](https://www.youtube.com/watch?v=PeKMEXUrlq4)
 * [2023-12-18, 12:19:36](https://news.ycombinator.com/item?id=38681519) - [How artists are sabotaging AI to take revenge on image generators](https://theconversation.com/data-poisoning-how-artists-are-sabotaging-ai-to-take-revenge-on-image-generators-219335)
 * [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
 * [2023-12-18, 12:09:48](https://news.ycombinator.com/item?id=38681463) - [This year in Servo: over 1000 pull requests and beyond](https://servo.org/blog/2023/12/18/this-year-in-servo/)
