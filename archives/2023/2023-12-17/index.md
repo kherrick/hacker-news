@@ -38,6 +38,7 @@
 * [2023-12-17, 17:59:07](https://news.ycombinator.com/item?id=38674788) - [Seven Things We Learned Analyzing 515M Wordles](https://www.nytimes.com/2023/12/17/upshot/wordle-bot-year-in-review.html)
 * [2023-12-17, 17:00:45](https://news.ycombinator.com/item?id=38674240) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-17, 16:55:04](https://news.ycombinator.com/item?id=38674179) - [ChatGPT powered CS chat by Chevrolet of Watsonville answers coding questions](https://www.threads.net/@documentingmeta/post/C08iWrBudcD)
+* [2023-12-17, 16:54:45](https://news.ycombinator.com/item?id=38674175) - [MySQL 8.2 Introduces Transparent Read/Write Splitting](https://www.infoq.com/news/2023/11/mysql-read-write-splitting/)
 * [2023-12-17, 16:52:34](https://news.ycombinator.com/item?id=38674158) - [Misra C++:2023 Published](https://forum.misra.org.uk/thread-1668.html)
 * [2023-12-17, 16:37:53](https://news.ycombinator.com/item?id=38673973) - [Show HN: Get any piece of Google Earth as a single normalized glTF 3D model](https://github.com/OmarShehata/google-earth-as-gltf)
 * [2023-12-17, 16:37:26](https://news.ycombinator.com/item?id=38673966) - [A bullying scandal closed a historic astronomy department](https://www.nature.com/articles/d41586-023-03953-z)
