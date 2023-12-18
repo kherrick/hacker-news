@@ -28,6 +28,7 @@
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
 * [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:39:41](https://news.ycombinator.com/item?id=38680702) - [European heat pump sales are collapsing](https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/)
+* [2023-12-18, 09:21:29](https://news.ycombinator.com/item?id=38680605) - [Plan to End E-Vehicle Subsidies Sparks Anger in Germany](https://www.voanews.com/a/plan-to-end-e-vehicle-subsidies-sparks-anger-in-germany-/7401578.html)
 * [2023-12-18, 09:08:49](https://news.ycombinator.com/item?id=38680538) - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
 * [2023-12-18, 08:48:30](https://news.ycombinator.com/item?id=38680421) - [Smart EMF Shield Curtain for Windows and Balconies](https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies)
 * [2023-12-18, 08:44:08](https://news.ycombinator.com/item?id=38680394) - [Germany Ends Electric Vehicle Subsidies Abruptly in Latest Blow to Tesla](https://www.investors.com/news/electric-vehicle-subsidies-germany-ends-ev-bonus-abruptly-in-latest-blow-to-tesla/)
