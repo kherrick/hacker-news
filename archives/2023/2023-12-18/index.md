@@ -10,6 +10,7 @@
 * [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
 * [2023-12-18, 17:25:51](https://news.ycombinator.com/item?id=38685440) - [Apple's Metal FX upscaling is powered by AMD](https://www.notebookcheck.net/Apple-s-Metal-FX-upscaling-is-powered-by-AMD-FidelityFX-Super-Resolution-technology.784429.0.html)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)
+* [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination Can Beat Out Batteries for Excess Energy](https://spectrum.ieee.org/pumped-water-energy-storage)
 * [2023-12-18, 17:02:00](https://news.ycombinator.com/item?id=38685101) - [Show HN: DanswerChat – open-source GPTs with access to your org's knowledge](https://news.ycombinator.com/item?id=38685101)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
