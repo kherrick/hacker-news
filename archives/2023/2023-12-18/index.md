@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 18:26:44](https://news.ycombinator.com/item?id=38686209) - [Note G](https://en.wikipedia.org/wiki/Note_G)
+* [2023-12-18, 18:16:15](https://news.ycombinator.com/item?id=38686086) - [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
 * [2023-12-18, 17:49:55](https://news.ycombinator.com/item?id=38685782) - [A Handful of Companies Rule the Internet with DDoS Mitigation](https://madattheinternet.substack.com/p/a-handful-of-companies-rule-the-internet)
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
@@ -13,6 +15,7 @@
 * [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination Can Beat Out Batteries for Excess Energy](https://spectrum.ieee.org/pumped-water-energy-storage)
 * [2023-12-18, 17:02:00](https://news.ycombinator.com/item?id=38685101) - [Show HN: DanswerChat – open-source GPTs with access to your org's knowledge](https://news.ycombinator.com/item?id=38685101)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
+* [2023-12-18, 16:47:14](https://news.ycombinator.com/item?id=38684904) - [Terrapin Attack for prefix truncation in SSH](https://terrapin-attack.com)
 * [2023-12-18, 16:40:52](https://news.ycombinator.com/item?id=38684879) - [Show HN: Turn Kafka into an MQTT Broker for IoT with Zilla](https://github.com/aklivity/zilla)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
