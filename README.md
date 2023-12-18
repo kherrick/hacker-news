@@ -4,7 +4,6 @@
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
 * [2023-12-18, 02:35:48](https://news.ycombinator.com/item?id=38678657) - [Autonomous subs use AI to wayfind without GPS](https://spectrum.ieee.org/reinforcement-learning-autonomous-submarines)
 * [2023-12-18, 01:50:38](https://news.ycombinator.com/item?id=38678415) - [Bricks Can Absorb Traffic Noise – Thesis Preso on Helmholtz Resonators [video]](https://www.youtube.com/watch?v=y9-p4AkgVU8)
-* [2023-12-18, 00:58:21](https://news.ycombinator.com/item?id=38678066) - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 * [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java native memory with JDK flight recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [“Yes” means “no”: The language of VCs](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
@@ -29,6 +28,7 @@
 * [2023-12-16, 23:15:55](https://news.ycombinator.com/item?id=38668713) - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
+* [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
