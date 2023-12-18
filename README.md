@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 18:31:50](https://news.ycombinator.com/item?id=38686273) - [Ruby 3.3's YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-18, 18:26:44](https://news.ycombinator.com/item?id=38686209) - [Note G](https://en.wikipedia.org/wiki/Note_G)
 * [2023-12-18, 18:16:15](https://news.ycombinator.com/item?id=38686086) - [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
@@ -29,7 +30,6 @@
 * [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
 * [2023-12-17, 09:21:18](https://news.ycombinator.com/item?id=38671540) - [M Cave and the Unexplained Disappearance of Kenny Veach (2019)](https://nevadamagazine.com/issue/september-october-2019/11423/)
 * [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
-* [2023-12-16, 05:59:35](https://news.ycombinator.com/item?id=38662088) - [XLights – open source light sequencer and show scheduler](https://xlights.org/)
 
 ## [Archives](archives/index.md)
 
