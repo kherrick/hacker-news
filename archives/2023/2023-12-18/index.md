@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 17:49:55](https://news.ycombinator.com/item?id=38685782) - [A Handful of Companies Rule the Internet with DDoS Mitigation](https://madattheinternet.substack.com/p/a-handful-of-companies-rule-the-internet)
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [Carolina chemists discover eight new PFAS with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
 * [2023-12-18, 17:25:51](https://news.ycombinator.com/item?id=38685440) - [Apple's Metal FX upscaling is powered by AMD](https://www.notebookcheck.net/Apple-s-Metal-FX-upscaling-is-powered-by-AMD-FidelityFX-Super-Resolution-technology.784429.0.html)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)
+* [2023-12-18, 17:02:00](https://news.ycombinator.com/item?id=38685101) - [Show HN: DanswerChat – open-source GPTs with access to your org's knowledge](https://news.ycombinator.com/item?id=38685101)
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
@@ -26,6 +28,7 @@
 * [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
 * [2023-12-18, 14:27:13](https://news.ycombinator.com/item?id=38682941) - [My \"getting paid for the work\" story (2018)](https://www.mooreds.com/wordpress/archives/2650)
 * [2023-12-18, 14:25:53](https://news.ycombinator.com/item?id=38682931) - [Church vs. Curry Types](https://ericnormand.me/article/church-vs-curry-types)
+* [2023-12-18, 14:02:53](https://news.ycombinator.com/item?id=38682623) - [Greyhound bus stops are valuable assets](https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
