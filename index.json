@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-18, 09:39:41",
-      "https://news.ycombinator.com/item?id=38680702"
+      "2023-12-18, 11:41:35",
+      "https://news.ycombinator.com/item?id=38681312"
     ],
     [
-      "European heat pump sales are collapsing",
-      "https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/"
+      "Commission opens formal proceedings against X under the Digital Services Act",
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 10:13:34",
+      "https://news.ycombinator.com/item?id=38680846"
+    ],
+    [
+      "Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents",
+      "https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Continue will generate, refactor, and explain entire sections of code",
       "https://continue.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 05:58:47",
+      "https://news.ycombinator.com/item?id=38679660"
+    ],
+    [
+      "Show HN: SPF Deconstructor in Rust",
+      "https://github.com/Bas-Man/rust-decon-spf"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "How Africans are changing French, one joke, rap and book at a time",
       "https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 19:18:09",
-      "https://news.ycombinator.com/item?id=38675503"
-    ],
-    [
-      "Intel proposes XeGPU dialect for LLVM MLIR",
-      "https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Fakes: Not an internet thing, a human thing",
       "https://spectrum.ieee.org/deepfake-history-of-internet"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 18:41:10",
-      "https://news.ycombinator.com/item?id=38657126"
-    ],
-    [
-      "I bricked my Christmas lights",
-      "https://www.whizzy.org/2023-12-14-bricked-xmas/"
     ]
   ],
   [
