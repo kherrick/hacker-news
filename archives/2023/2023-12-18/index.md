@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
 * [2023-12-18, 19:29:55](https://news.ycombinator.com/item?id=38687050) - [Casualties Rise in Gaza: 70% of Killed Are Women and Children](https://www.financial-world.org/news/news/financial/24169/casualties-rise-in-gaza-70-of-killed-women-and-children/)
+* [2023-12-18, 19:26:30](https://news.ycombinator.com/item?id=38686997) - [How to Be Great? Just Be Good, Repeatedly](https://blog.stephsmith.io/how-to-be-great/)
 * [2023-12-18, 18:31:50](https://news.ycombinator.com/item?id=38686273) - [Ruby 3.3's YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-18, 18:26:44](https://news.ycombinator.com/item?id=38686209) - [Note G](https://en.wikipedia.org/wiki/Note_G)
 * [2023-12-18, 18:16:15](https://news.ycombinator.com/item?id=38686086) - [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
