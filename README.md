@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
 * [2023-12-18, 21:18:52](https://news.ycombinator.com/item?id=38688453) - [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
 * [2023-12-18, 21:11:51](https://news.ycombinator.com/item?id=38688355) - [Tiny Code Christmas](https://tcc.lovebyte.party/)
 * [2023-12-18, 20:55:29](https://news.ycombinator.com/item?id=38688127) - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
 * [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
-* [2023-12-18, 20:40:24](https://news.ycombinator.com/item?id=38687899) - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
 * [2023-12-18, 20:34:18](https://news.ycombinator.com/item?id=38687809) - [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
 * [2023-12-18, 20:04:14](https://news.ycombinator.com/item?id=38687443) - [Tofu-maker Yamami sees shares surge after automating ancient craft](https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/)
 * [2023-12-18, 19:58:02](https://news.ycombinator.com/item?id=38687357) - [PostgreSQL 16 Bi-Directional Logical Replication](https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/)

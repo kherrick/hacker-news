@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)
 * [2023-12-18, 21:18:52](https://news.ycombinator.com/item?id=38688453) - [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
 * [2023-12-18, 21:11:51](https://news.ycombinator.com/item?id=38688355) - [Tiny Code Christmas](https://tcc.lovebyte.party/)
 * [2023-12-18, 20:55:29](https://news.ycombinator.com/item?id=38688127) - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
