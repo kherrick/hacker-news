@@ -97,6 +97,7 @@
 * [2023-12-15, 07:16:12](https://news.ycombinator.com/item?id=38651818) - [Godot: A Collaboration with Google and the Forge](https://godotengine.org/article/collaboration-with-google-forge-2023/)
 * [2023-12-15, 06:50:17](https://news.ycombinator.com/item?id=38651690) - [Swift was always going to be part of the OS](https://belkadan.com/blog/2022/10/Swift-in-the-OS/)
 * [2023-12-15, 06:10:22](https://news.ycombinator.com/item?id=38651491) - [Fragmentation](http://theprogrammersparadox.blogspot.com/2023/12/fragmentation.html)
+* [2023-12-15, 06:04:38](https://news.ycombinator.com/item?id=38651466) - [Assessment of cats shows they eat more types o creatures than previously thought](https://phys.org/news/2023-12-global-free-ranging-cats-creatures-previously.html)
 * [2023-12-15, 05:40:06](https://news.ycombinator.com/item?id=38651346) - [Open source rules engine for Magic: The Gathering](https://github.com/Card-Forge/forge/wiki)
 * [2023-12-15, 05:09:45](https://news.ycombinator.com/item?id=38651200) - [Americans Are Skipping Doctor Visits Due to Costs](https://www.msn.com/en-us/health/other/americans-are-skipping-doctor-visits-due-to-costs/ar-AA1lodWL)
 * [2023-12-15, 04:18:19](https://news.ycombinator.com/item?id=38650937) - [AMD's Next GPU Is a 3D-Integrated Superchip](https://spectrum.ieee.org/amd-mi300)
