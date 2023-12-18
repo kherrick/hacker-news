@@ -31,6 +31,7 @@
 * [2023-12-18, 16:48:38](https://news.ycombinator.com/item?id=38684925) - [Word2Vec Received 'Strong Reject' Four Times at ICLR2013](https://openreview.net/forum?id=idpCdOWtqXd60)
 * [2023-12-18, 16:47:14](https://news.ycombinator.com/item?id=38684904) - [Terrapin Attack for prefix truncation in SSH](https://terrapin-attack.com)
 * [2023-12-18, 16:40:52](https://news.ycombinator.com/item?id=38684879) - [Show HN: Turn Kafka into an MQTT Broker for IoT with Zilla](https://github.com/aklivity/zilla)
+* [2023-12-18, 16:30:13](https://news.ycombinator.com/item?id=38684724) - [Show HN: Paradict – Streamable multi-format serialization with schema](https://github.com/pyrustic/paradict)
 * [2023-12-18, 16:15:45](https://news.ycombinator.com/item?id=38684486) - ['e/acc' – Silicon Valley's favorite obscure theory about progress at all costs](https://www.businessinsider.com/silicon-valley-tech-leaders-accelerationism-eacc-twitter-profiles-2023-7)
 * [2023-12-18, 16:14:22](https://news.ycombinator.com/item?id=38684461) - [Python, C, Assembly – Faster Cosine Similarity](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 * [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
