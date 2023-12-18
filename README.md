@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-18, 21:18:52](https://news.ycombinator.com/item?id=38688453) - [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+* [2023-12-18, 20:55:29](https://news.ycombinator.com/item?id=38688127) - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
 * [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 * [2023-12-18, 20:40:24](https://news.ycombinator.com/item?id=38687899) - [Apple Loses One of the Last Remaining Designers from Jony Ive Era](https://www.bloomberg.com/news/articles/2023-12-18/apple-loses-one-of-last-remaining-designers-from-jony-ive-era)
 * [2023-12-18, 20:34:18](https://news.ycombinator.com/item?id=38687809) - [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
@@ -9,7 +10,6 @@
 * [2023-12-18, 19:41:34](https://news.ycombinator.com/item?id=38687171) - [The teenager who lives like it's the 1940s](https://www.bbc.com/news/articles/crgpjpr35nko)
 * [2023-12-18, 19:26:30](https://news.ycombinator.com/item?id=38686997) - [To be great, be good, repeatably (2019)](https://blog.stephsmith.io/how-to-be-great/)
 * [2023-12-18, 18:31:50](https://news.ycombinator.com/item?id=38686273) - [Ruby 3.3's YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
-* [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:27:20](https://news.ycombinator.com/item?id=38685458) - [New PFAS discovered with novel testing method](https://research.unc.edu/2023/12/12/carolina-chemists-discover-eight-new-pfas-with-novel-testing-method/)
 * [2023-12-18, 17:21:34](https://news.ycombinator.com/item?id=38685393) - [Fly Kubernetes](https://fly.io/blog/fks/)
@@ -28,7 +28,7 @@
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:30:18](https://news.ycombinator.com/item?id=38671864) - [The OS Classics](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
-* [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
+* [2023-12-17, 10:17:28](https://news.ycombinator.com/item?id=38671807) - [Ideas for DataScript 2 (2022)](https://tonsky.me/blog/datascript-2/)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
 
 ## [Archives](archives/index.md)

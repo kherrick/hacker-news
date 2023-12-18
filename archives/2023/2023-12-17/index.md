@@ -69,6 +69,7 @@
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:30:18](https://news.ycombinator.com/item?id=38671864) - [The OS Classics](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
 * [2023-12-17, 10:29:23](https://news.ycombinator.com/item?id=38671857) - [Two interesting XOR circuits inside the Intel 386 processor](https://www.righto.com/2023/12/386-xor-circuits.html)
+* [2023-12-17, 10:17:28](https://news.ycombinator.com/item?id=38671807) - [Ideas for DataScript 2 (2022)](https://tonsky.me/blog/datascript-2/)
 * [2023-12-17, 09:54:32](https://news.ycombinator.com/item?id=38671709) - [Hissp](https://github.com/gilch/hissp)
 * [2023-12-17, 09:21:18](https://news.ycombinator.com/item?id=38671540) - [M Cave and the Unexplained Disappearance of Kenny Veach (2019)](https://nevadamagazine.com/issue/september-october-2019/11423/)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
