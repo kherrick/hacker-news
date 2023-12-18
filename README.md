@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 03:11:51](https://news.ycombinator.com/item?id=38678853) - [Volkswagen Admits Failure, Will Bring Back Physical Buttons](https://afronomist.com/volkswagen-admits-touchscreen-experiment-failed-will-bring-back-physical-buttons/)
 * [2023-12-18, 00:58:21](https://news.ycombinator.com/item?id=38678066) - [AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack](https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack)
 * [2023-12-18, 00:50:22](https://news.ycombinator.com/item?id=38678021) - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 * [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
@@ -30,6 +29,7 @@
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 17:14:30](https://news.ycombinator.com/item?id=38665911) - [Where Johnny Cash came from](https://www.neh.gov/article/where-johnny-cash-came)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
+* [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
 
