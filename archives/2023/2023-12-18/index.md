@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 11:41:35](https://news.ycombinator.com/item?id=38681312) - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
+* [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:39:41](https://news.ycombinator.com/item?id=38680702) - [European heat pump sales are collapsing](https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/)
 * [2023-12-18, 09:08:49](https://news.ycombinator.com/item?id=38680538) - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
 * [2023-12-18, 08:44:08](https://news.ycombinator.com/item?id=38680394) - [Germany Ends Electric Vehicle Subsidies Abruptly in Latest Blow to Tesla](https://www.investors.com/news/electric-vehicle-subsidies-germany-ends-ev-bonus-abruptly-in-latest-blow-to-tesla/)
 * [2023-12-18, 08:14:51](https://news.ycombinator.com/item?id=38680230) - [Why I Hate Frameworks (2019)](https://medium.com/@johnfliu/why-i-hate-frameworks-6af8cbadba42)
 * [2023-12-18, 07:16:33](https://news.ycombinator.com/item?id=38679992) - [History will not remember us fondly (2021)](https://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.html)
 * [2023-12-18, 06:11:39](https://news.ycombinator.com/item?id=38679731) - [My 20 year old son doesn't date. His friends don't date](https://old.reddit.com/r/NoStupidQuestions/comments/18kg3e3/my_20_year_old_son_doesnt_date_his_friends_dont/)
+* [2023-12-18, 05:58:47](https://news.ycombinator.com/item?id=38679660) - [Show HN: SPF Deconstructor in Rust](https://github.com/Bas-Man/rust-decon-spf)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents Capable of Self-Editing Their Prompts / Python Code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 05:04:07](https://news.ycombinator.com/item?id=38679414) - [We're Not a CDN – Highlight.js](https://highlightjs.org/not-a-cdn)
 * [2023-12-18, 04:34:56](https://news.ycombinator.com/item?id=38679274) - [The Remarkable Decline in Home Burglary Rates in Japan](https://www.tokyodev.com/articles/home-burglary-rates-in-japan)

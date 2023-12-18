@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-18, 09:39:41](https://news.ycombinator.com/item?id=38680702) - [European heat pump sales are collapsing](https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/)
+* [2023-12-18, 11:41:35](https://news.ycombinator.com/item?id=38681312) - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
+* [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:08:49](https://news.ycombinator.com/item?id=38680538) - [Continue will generate, refactor, and explain entire sections of code](https://continue.dev/)
+* [2023-12-18, 05:58:47](https://news.ycombinator.com/item?id=38679660) - [Show HN: SPF Deconstructor in Rust](https://github.com/Bas-Man/rust-decon-spf)
 * [2023-12-18, 05:13:39](https://news.ycombinator.com/item?id=38679453) - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
 * [2023-12-18, 03:53:21](https://news.ycombinator.com/item?id=38679078) - [Figgie: Simulate stock trading with a deck of cards](https://figgie.com/how-to-play)
 * [2023-12-18, 02:57:28](https://news.ycombinator.com/item?id=38678773) - [Small offline large language model – TinyChatEngine from MIT](https://graphthinking.blogspot.com/2023/12/small-offline-large-language-model.html)
@@ -14,7 +16,6 @@
 * [2023-12-17, 21:06:30](https://news.ycombinator.com/item?id=38676420) - [Show HN: WebGPU Particles Simulation](https://github.com/psincf/WebGPU-particles)
 * [2023-12-17, 20:53:40](https://news.ycombinator.com/item?id=38676304) - [Perl Poetry Generators in 256 Characters](https://nickm.com/poems/ppg256.html)
 * [2023-12-17, 19:58:57](https://news.ycombinator.com/item?id=38675836) - [How Africans are changing French, one joke, rap and book at a time](https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html)
-* [2023-12-17, 19:18:09](https://news.ycombinator.com/item?id=38675503) - [Intel proposes XeGPU dialect for LLVM MLIR](https://discourse.llvm.org/t/rfc-add-xegpu-dialect-for-intel-gpus/75723)
 * [2023-12-17, 19:04:33](https://news.ycombinator.com/item?id=38675379) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:44:47](https://news.ycombinator.com/item?id=38675202) - [Tree of Life Explorer](https://www.evogeneao.com/en/explore/tree-of-life-explorer)
@@ -28,7 +29,6 @@
 * [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 19:40:55](https://news.ycombinator.com/item?id=38667088) - [Victorian romantic rituals and charms](https://www.historytoday.com/archive/history-matters/victorian-romantic-rituals-and-charms)
 * [2023-12-16, 05:37:42](https://news.ycombinator.com/item?id=38662025) - [Fakes: Not an internet thing, a human thing](https://spectrum.ieee.org/deepfake-history-of-internet)
-* [2023-12-15, 18:41:10](https://news.ycombinator.com/item?id=38657126) - [I bricked my Christmas lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 09:53:35](https://news.ycombinator.com/item?id=38652619) - [More product, fewer product managers](https://kitemaker.co/blog/more_product_fewer_pms)
 
 ## [Archives](archives/index.md)
