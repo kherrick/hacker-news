@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 15:12:15](https://news.ycombinator.com/item?id=38683493) - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)

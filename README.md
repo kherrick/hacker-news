@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-18, 15:12:15](https://news.ycombinator.com/item?id=38683493) - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
@@ -12,8 +13,6 @@
 * [2023-12-18, 12:08:51](https://news.ycombinator.com/item?id=38681450) - [\"I just bought a 2024 Chevy Tahoe for $1\"](https://twitter.com/ChrisJBakke/status/1736533308849443121)
 * [2023-12-18, 12:06:07](https://news.ycombinator.com/item?id=38681437) - [The \"Cheap\" Web](https://potato.cheap)
 * [2023-12-18, 12:04:09](https://news.ycombinator.com/item?id=38681428) - [Paying Netflix $0.53/H, etc.](https://taylor.town/dollar-per-hour)
-* [2023-12-18, 11:50:50](https://news.ycombinator.com/item?id=38681353) - [EU opens proceedings against X over efforts to combat information manipulation](https://www.reuters.com/technology/eu-opens-proceedings-against-x-over-its-efforts-combat-information-manipulation-2023-12-18/)
-* [2023-12-18, 11:44:57](https://news.ycombinator.com/item?id=38681329) - [EU opens formal DSA investigation into X](https://www.theverge.com/2023/12/18/24005947/eu-x-twitter-dsa-formal-investigation-hamas-israel-terrorist-attacks)
 * [2023-12-18, 11:44:54](https://news.ycombinator.com/item?id=38681328) - [ViewStats – YouTube Channel Statistics](https://www.viewstats.com/)
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
 * [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
@@ -28,7 +27,8 @@
 * [2023-12-17, 18:51:43](https://news.ycombinator.com/item?id=38675258) - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 18:44:47](https://news.ycombinator.com/item?id=38675202) - [Tree of Life Explorer](https://www.evogeneao.com/en/explore/tree-of-life-explorer)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
-* [2023-12-17, 06:16:40](https://news.ycombinator.com/item?id=38670760) - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
+* [2023-12-17, 08:30:52](https://news.ycombinator.com/item?id=38671283) - [What made Apollo a success? (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf)
+* [2023-12-16, 23:42:21](https://news.ycombinator.com/item?id=38668906) - [Hasbro laying off Wizards of the Coast staff is baffling](https://www.geekwire.com/2023/hasbro-laying-off-wizards-of-the-coast-staff-is-baffling-and-could-lead-to-a-brain-drain/)
 * [2023-12-16, 05:59:35](https://news.ycombinator.com/item?id=38662088) - [XLights – open source light sequencer and show scheduler](https://xlights.org/)
 
 ## [Archives](archives/index.md)
