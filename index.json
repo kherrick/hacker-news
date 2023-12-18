@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 20:47:36",
+      "https://news.ycombinator.com/item?id=38687997"
+    ],
+    [
+      "PostgREST: Providing HTML Content Using Htmx",
+      "https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 20:40:24",
       "https://news.ycombinator.com/item?id=38687899"
     ],
@@ -17,6 +27,16 @@
     [
       "Tofu-maker Yamami sees shares surge after automating ancient craft",
       "https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 19:58:02",
+      "https://news.ycombinator.com/item?id=38687357"
+    ],
+    [
+      "PostgreSQL 16 Bi-Directional Logical Replication",
+      "https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-12-18, 12:09:48",
-      "https://news.ycombinator.com/item?id=38681463"
-    ],
-    [
-      "This year in Servo: over 1000 pull requests and beyond",
-      "https://servo.org/blog/2023/12/18/this-year-in-servo/"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 12:06:07",
       "https://news.ycombinator.com/item?id=38681437"
     ],
@@ -247,16 +257,6 @@
     [
       "Interactive Code Cells",
       "https://antonz.org/code-cells/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 11:27:48",
-      "https://news.ycombinator.com/item?id=38672133"
-    ],
-    [
-      "Trumpet is an operating system for simple and robust cell-free biocomputing",
-      "https://www.nature.com/articles/s41467-023-37752-x"
     ]
   ],
   [
