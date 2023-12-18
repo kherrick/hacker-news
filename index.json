@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-18, 00:58:21",
+      "https://news.ycombinator.com/item?id=38678066"
+    ],
+    [
+      "AMD MI300X 30% higher performance than Nvidia H100, even with optimized stack",
+      "https://www.tomshardware.com/pc-components/gpus/amd-strikes-back-at-nvidia-with-new-mi300x-benchmarks-mi300x-shows-30-higher-performance-than-h100-even-with-an-optimized-software-stack"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 00:50:22",
+      "https://news.ycombinator.com/item?id=38678021"
+    ],
+    [
+      "Mickey, Disney, and the public domain: A 95-year love triangle",
+      "https://web.law.duke.edu/cspd/mickey/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 23:49:38",
       "https://news.ycombinator.com/item?id=38677628"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-12-17, 23:08:16",
-      "https://news.ycombinator.com/item?id=38677344"
+      "2023-12-17, 23:06:38",
+      "https://news.ycombinator.com/item?id=38677332"
     ],
     [
-      "Qatar Airways Bans YouTuber for Negative Review",
-      "https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/"
+      "Do schools kill creativity? – Sir Ken Robinson [video]",
+      "https://www.youtube.com/watch?v=iG9CE55wbtY"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38677251"
     ],
     [
-      "\"Yes\" Means \"No\": The Curious Language of Venture Capitalists",
+      "“Yes” means “no”: The language of VCs",
       "https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious"
     ]
   ],
@@ -47,26 +67,6 @@
     [
       "0% of the phrases of the original Wikipedia \"Ship of Theseus\" article remain",
       "https://twitter.com/depthsofwiki/status/1735800801455419697"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 22:16:51",
-      "https://news.ycombinator.com/item?id=38677025"
-    ],
-    [
-      "OpenAI employee: GPT-4.5 rumor was a hallucination",
-      "https://twitter.com/willdepue/status/1736470540351950867"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 21:25:53",
-      "https://news.ycombinator.com/item?id=38676612"
-    ],
-    [
-      "How to Choose Cookware (2014)",
-      "https://www.centurylife.org/how-to-choose-cookware/"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-12-17, 21:06:30",
-      "https://news.ycombinator.com/item?id=38676420"
-    ],
-    [
-      "Show HN: WebGPU Particles Simulation",
-      "https://github.com/psincf/WebGPU-particles"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 20:53:40",
       "https://news.ycombinator.com/item?id=38676304"
     ],
@@ -117,6 +107,16 @@
     [
       "NaiveSystems Analyze – FOSS static analyzer for MISRA C/C++, AUTOSAR C++14, etc.",
       "https://github.com/naivesystems/analyze"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 20:04:02",
+      "https://news.ycombinator.com/item?id=38675886"
+    ],
+    [
+      "'Tranq tourism': TikTokers travel to film drug users",
+      "https://www.theguardian.com/society/2023/dec/17/tranq-tourism-tiktok-philadelphia-drug-use-xylazine"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-15, 23:09:27",
-      "https://news.ycombinator.com/item?id=38660007"
+      "2023-12-15, 06:04:38",
+      "https://news.ycombinator.com/item?id=38651466"
     ],
     [
-      "ZFS Profiling on Arch Linux",
-      "https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html"
+      "Assessment of cats shows they eat more types o creatures than previously thought",
+      "https://phys.org/news/2023-12-global-free-ranging-cats-creatures-previously.html"
     ]
   ]
 ]
