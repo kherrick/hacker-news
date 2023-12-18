@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 18:31:50",
+      "https://news.ycombinator.com/item?id=38686273"
+    ],
+    [
+      "Ruby 3.3's YJIT: Faster While Using Less Memory",
+      "https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 18:26:44",
       "https://news.ycombinator.com/item?id=38686209"
     ],
@@ -287,16 +297,6 @@
     [
       "What made Apollo a success? (1971) [pdf]",
       "https://ntrs.nasa.gov/api/citations/19720005243/downloads/19720005243.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 05:59:35",
-      "https://news.ycombinator.com/item?id=38662088"
-    ],
-    [
-      "XLights – open source light sequencer and show scheduler",
-      "https://xlights.org/"
     ]
   ]
 ]
