@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 16:05:13](https://news.ycombinator.com/item?id=38684309) - [Facebook Is Being Overrun with Stolen, AI-Gen Images That People Think Are Real](https://www.404media.co/facebook-is-being-overrun-with-stolen-ai-generated-images-that-people-think-are-real/)
+* [2023-12-18, 15:54:56](https://news.ycombinator.com/item?id=38684162) - [Sturgeon's law (90% of everything is crap)](https://en.wikipedia.org/wiki/Sturgeon%27s_law)
+* [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why Are Things Expensive?](https://www.why-expensive.com/)
 * [2023-12-18, 15:12:15](https://news.ycombinator.com/item?id=38683493) - [US Steel, once the largest corporation, agrees to sell to Nippon Steel](https://www.cnn.com/2023/12/18/investing/us-steel-nippon-steel-deal/index.html)
 * [2023-12-18, 15:02:43](https://news.ycombinator.com/item?id=38683381) - [Pope formally allows priests to bless same-sex couples](https://www.pbs.org/newshour/world/pope-formally-allows-priests-to-bless-same-sex-couples)
 * [2023-12-18, 14:51:26](https://news.ycombinator.com/item?id=38683256) - [Send Me to Heaven](https://en.wikipedia.org/wiki/Send_Me_To_Heaven)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
 * [2023-12-18, 14:28:56](https://news.ycombinator.com/item?id=38682964) - [New scalable, fault-tolerant, and efficient open-source MQTT broker](https://github.com/thingsboard/tbmq)
+* [2023-12-18, 14:27:13](https://news.ycombinator.com/item?id=38682941) - [My \"getting paid for the work\" story (2018)](https://www.mooreds.com/wordpress/archives/2650)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
 * [2023-12-18, 13:14:08](https://news.ycombinator.com/item?id=38681959) - [Adobe, Figma to terminate $20B deal over regulatory hurdles](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/)
