@@ -10,6 +10,7 @@
 * [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:29:17](https://news.ycombinator.com/item?id=38692195) - [Large amounts of benzene detected in Texas.The residents werent told for decades](https://publichealthwatch.org/2023/12/13/houston-chemical-air-pollution-benzene/)
 * [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
+* [2023-12-19, 03:59:53](https://news.ycombinator.com/item?id=38691652) - [No star, No fix](https://github.com/daeuniverse/dae/issues/368)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:30:02](https://news.ycombinator.com/item?id=38691468) - [Why do programmers need private offices with doors? (Do Not Disturb)](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
