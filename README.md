@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 19:34:37](https://news.ycombinator.com/item?id=38700387) - [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
+* [2023-12-19, 19:33:16](https://news.ycombinator.com/item?id=38700363) - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
 * [2023-12-19, 19:07:52](https://news.ycombinator.com/item?id=38700038) - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
 * [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
-* [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 17:57:39](https://news.ycombinator.com/item?id=38699007) - [UK plan to digitise wills and destroy paper originals \"insane\" say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
-* [2023-12-19, 17:53:54](https://news.ycombinator.com/item?id=38698945) - [Electrified cloth extracts uranium from seawater](https://newatlas.com/science/electrified-cloth-extracts-uranium-from-seawater/)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
 * [2023-12-19, 17:40:03](https://news.ycombinator.com/item?id=38698707) - [Google agrees to pay $700M in antitrust settlement reached with states](https://apnews.com/article/google-android-play-store-apps-antitrust-settlement-e4e2f422baa846c66deac90c7866c5fd)
