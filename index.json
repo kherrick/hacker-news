@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 14:17:25",
+      "https://news.ycombinator.com/item?id=38695750"
+    ],
+    [
+      "Jepsen: MySQL 8.0.34",
+      "https://jepsen.io/analyses/mysql-8.0.34"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 13:52:00",
       "https://news.ycombinator.com/item?id=38695500"
     ],
@@ -17,6 +27,16 @@
     [
       "In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors",
       "https://spectrum.ieee.org/intel-20a"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 13:48:19",
+      "https://news.ycombinator.com/item?id=38695456"
+    ],
+    [
+      "Mapping the semantic void: Strange goings-on in GPT embedding spaces",
+      "https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding"
     ]
   ],
   [
@@ -151,42 +171,22 @@
   ],
   [
     [
+      "2023-12-18, 23:40:44",
+      "https://news.ycombinator.com/item?id=38689924"
+    ],
+    [
+      "Grindavik [video]",
+      "https://www.youtube.com/watch?v=hvcP4kVVOnk"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 23:33:22",
       "https://news.ycombinator.com/item?id=38689869"
     ],
     [
       "Lessons from a never-ending personal project",
       "https://siddhesh.substack.com/p/projects"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 23:05:29",
-      "https://news.ycombinator.com/item?id=38689653"
-    ],
-    [
-      "LLMLingua: Compressing Prompts for Faster Inferencing",
-      "https://github.com/microsoft/LLMLingua"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 21:18:52",
-      "https://news.ycombinator.com/item?id=38688453"
-    ],
-    [
-      "I Love Ruby",
-      "https://eliseshaffer.com/2023/12/18/i-love-ruby/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 21:11:51",
-      "https://news.ycombinator.com/item?id=38688355"
-    ],
-    [
-      "Tiny Code Christmas",
-      "https://tcc.lovebyte.party/"
     ]
   ],
   [
