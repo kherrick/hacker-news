@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
+* [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
 * [2023-12-19, 21:42:51](https://news.ycombinator.com/item?id=38702083) - [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
 * [2023-12-19, 21:41:51](https://news.ycombinator.com/item?id=38702067) - [Twitch U-turns on 'artistic nudity' policy](https://www.bbc.co.uk/news/technology-67747949)
