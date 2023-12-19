@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-12-19, 18:11:10",
+      "https://news.ycombinator.com/item?id=38699223"
+    ],
+    [
+      "C++ Should Be C++",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 18:09:27",
+      "https://news.ycombinator.com/item?id=38699201"
+    ],
+    [
+      "Bit banging a 3.5\" Floppy Drive",
+      "https://floppy.cafe/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 17:57:39",
+      "https://news.ycombinator.com/item?id=38699007"
+    ],
+    [
+      "UK plan to digitise wills and destroy paper originals \"insane\" say experts",
+      "https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 17:51:38",
+      "https://news.ycombinator.com/item?id=38698907"
+    ],
+    [
+      "Simulating Fluids, Fire, and Smoke in Real-Time",
+      "https://andrewkchan.dev/posts/fire.html"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 17:44:33",
       "https://news.ycombinator.com/item?id=38698782"
     ],
@@ -111,36 +151,6 @@
   ],
   [
     [
-      "2023-12-19, 15:17:40",
-      "https://news.ycombinator.com/item?id=38696612"
-    ],
-    [
-      "Fedora Asahi Remix",
-      "https://asahilinux.org/fedora/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 14:17:25",
-      "https://news.ycombinator.com/item?id=38695750"
-    ],
-    [
-      "Jepsen: MySQL 8.0.34",
-      "https://jepsen.io/analyses/mysql-8.0.34"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 13:48:19",
-      "https://news.ycombinator.com/item?id=38695456"
-    ],
-    [
-      "Mapping the semantic void: Strange goings-on in GPT embedding spaces",
-      "https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 13:37:28",
       "https://news.ycombinator.com/item?id=38695337"
     ],
@@ -157,6 +167,16 @@
     [
       "Construct in 2023: Year in Review",
       "https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 12:50:15",
+      "https://news.ycombinator.com/item?id=38694880"
+    ],
+    [
+      "Making my own Bed Sensor",
+      "https://www.homeautomationguy.io/blog/making-my-own-bed-sensor"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Figma and Adobe abandon proposed merger",
       "https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 10:30:54",
-      "https://news.ycombinator.com/item?id=38680950"
-    ],
-    [
-      "Handbook of Applied Cryptography",
-      "https://cacr.uwaterloo.ca/hac/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 09:19:37",
-      "https://news.ycombinator.com/item?id=38680598"
-    ],
-    [
-      "The Birth of Rock 'N' Roll Is Found at Sam Phillips's Sun Records (2016)",
-      "https://www.neh.gov/humanities/2016/januaryfebruary/statement/the-birth-rock-%E2%80%98n%E2%80%99-roll-found-sam-phillips%E2%80%99s-sun-records"
     ]
   ],
   [
