@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
-* [2023-12-19, 05:56:56](https://news.ycombinator.com/item?id=38692350) - [Australian sea captain says he may have found missing Malaysian Airlines flight](https://www.smh.com.au/national/a-trawler-skipper-s-memory-from-the-deep-dredges-up-intriguing-questions-20231214-p5erln.html)
 * [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
 * [2023-12-19, 03:59:53](https://news.ycombinator.com/item?id=38691652) - [No star, No fix](https://github.com/daeuniverse/dae/issues/368)
@@ -26,6 +25,7 @@
 * [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 09:38:38](https://news.ycombinator.com/item?id=38680698) - [Ed Roberts: The Secret Father of Modern Computing](https://every.to/p/the-secret-father-of-modern-computing)
 * [2023-12-18, 09:19:37](https://news.ycombinator.com/item?id=38680598) - [The Birth of Rock 'N' Roll Is Found at Sam Phillips's Sun Records](https://www.neh.gov/humanities/2016/januaryfebruary/statement/the-birth-rock-%E2%80%98n%E2%80%99-roll-found-sam-phillips%E2%80%99s-sun-records)
+* [2023-12-18, 08:36:03](https://news.ycombinator.com/item?id=38680346) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How to learn chess as an adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
