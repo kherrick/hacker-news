@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-19, 03:23:02",
-      "https://news.ycombinator.com/item?id=38691416"
-    ],
-    [
-      "She Gave a Hotel a Mediocre Review. Then Came the Badgering",
-      "https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 03:20:14",
       "https://news.ycombinator.com/item?id=38691396"
     ],
@@ -207,6 +197,16 @@
     [
       "Python, C, Assembly – Faster Cosine Similarity",
       "https://ashvardanian.com/posts/python-c-assembly-comparison/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 16:13:46",
+      "https://news.ycombinator.com/item?id=38684447"
+    ],
+    [
+      "Transaction Isolation in Postgres",
+      "https://www.thenile.dev/blog/transaction-isolation-postgres"
     ]
   ],
   [
