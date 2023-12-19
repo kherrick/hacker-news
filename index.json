@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-19, 15:59:15",
+      "https://news.ycombinator.com/item?id=38697218"
+    ],
+    [
+      "Google podcasts is shutting down",
+      "https://support.google.com/youtubemusic/answer/14151168?hl=en"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 15:56:53",
+      "https://news.ycombinator.com/item?id=38697195"
+    ],
+    [
+      "NASA sends cat video over laser from 80 lunar distances",
+      "https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 15:27:44",
       "https://news.ycombinator.com/item?id=38696764"
     ],
@@ -47,16 +67,6 @@
     [
       "Jepsen: MySQL 8.0.34",
       "https://jepsen.io/analyses/mysql-8.0.34"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 14:01:53",
-      "https://news.ycombinator.com/item?id=38695583"
-    ],
-    [
-      "Gemini Pro achieves accuracy slightly inferior to GPT 3.5 Turbo",
-      "https://arxiv.org/abs/2312.11444"
     ]
   ],
   [
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-12-19, 12:27:04",
+      "https://news.ycombinator.com/item?id=38694719"
+    ],
+    [
+      "A transformer-based network model for pitch detection",
+      "https://github.com/TuneNN/TuneNN"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 12:03:36",
       "https://news.ycombinator.com/item?id=38694549"
     ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38692477"
     ],
     [
-      "Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels",
+      "Marvin Attack: potential key recovery through timing sidechannels",
       "https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr"
     ]
   ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-12-18, 13:34:25",
-      "https://news.ycombinator.com/item?id=38682204"
-    ],
-    [
-      "Vectors from Leibniz to Einstein",
-      "https://mathenchant.wordpress.com/2023/12/17/vectors-from-leibniz-to-einstein/"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 13:04:34",
       "https://news.ycombinator.com/item?id=38681861"
     ],
@@ -237,16 +247,6 @@
     [
       "Handbook of Applied Cryptography",
       "https://cacr.uwaterloo.ca/hac/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 09:38:38",
-      "https://news.ycombinator.com/item?id=38680698"
-    ],
-    [
-      "Ed Roberts: The Secret Father of Modern Computing",
-      "https://every.to/p/the-secret-father-of-modern-computing"
     ]
   ],
   [
