@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 17:15:05](https://news.ycombinator.com/item?id=38698353) - [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
-* [2023-12-19, 17:04:09](https://news.ycombinator.com/item?id=38698190) - [Cory Doctorow: What Kind of Bubble Is AI?](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
+* [2023-12-19, 17:08:22](https://news.ycombinator.com/item?id=38698261) - [AGI Breakthrough: An Open Letter to the Board of Directors at OpenAI](https://www.verses.ai/open-letter)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
+* [2023-12-19, 16:32:19](https://news.ycombinator.com/item?id=38697723) - [National Engineering Handbook](https://directives.sc.egov.usda.gov/RollupViewer.aspx?hid=17092)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
@@ -12,7 +13,6 @@
 * [2023-12-19, 15:00:12](https://news.ycombinator.com/item?id=38696325) - [JetBrains forces AI freemium plugin that cannot be completely removed into IDEs](https://youtrack.jetbrains.com/issue/LLM-1760/Can-not-remove-Jetbrains-AI-Assistant-plugin-completely)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 13:56:19](https://news.ycombinator.com/item?id=38695533) - [Firefox 121 defaults to Wayland on Linux](https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux)
-* [2023-12-19, 13:48:19](https://news.ycombinator.com/item?id=38695456) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 13:17:04](https://news.ycombinator.com/item?id=38695132) - [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)

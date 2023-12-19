@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
 * [2023-12-19, 17:15:05](https://news.ycombinator.com/item?id=38698353) - [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
+* [2023-12-19, 17:08:22](https://news.ycombinator.com/item?id=38698261) - [AGI Breakthrough: An Open Letter to the Board of Directors at OpenAI](https://www.verses.ai/open-letter)
 * [2023-12-19, 17:04:09](https://news.ycombinator.com/item?id=38698190) - [Cory Doctorow: What Kind of Bubble Is AI?](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
+* [2023-12-19, 16:32:19](https://news.ycombinator.com/item?id=38697723) - [National Engineering Handbook](https://directives.sc.egov.usda.gov/RollupViewer.aspx?hid=17092)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
 * [2023-12-19, 16:04:44](https://news.ycombinator.com/item?id=38697293) - [Why do we have weird LLM sizes like 3B, 7B, 13B, 33B, 70B? Who invented those?](https://old.reddit.com/r/LocalLLaMA/comments/18h9p51/eli5_why_do_we_have_weird_llm_sizes_like_3b_7b/)
