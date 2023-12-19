@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 20:41:51](https://news.ycombinator.com/item?id=38701227) - [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
 * [2023-12-19, 20:36:52](https://news.ycombinator.com/item?id=38701159) - [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
 * [2023-12-19, 20:19:58](https://news.ycombinator.com/item?id=38700927) - [The Ministry of Justice is engaged in historical vandalism](https://www.spectator.co.uk/article/the-ministry-of-justice-is-engaged-in-historical-vandalism/)
 * [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://x.com/dominicstpierre/status/1737069029976617420?s=46)
@@ -15,6 +16,7 @@
 * [2023-12-19, 19:24:50](https://news.ycombinator.com/item?id=38700250) - [Law enforcement took more stuff from people than burglars did last year (2015)](https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/)
 * [2023-12-19, 19:07:52](https://news.ycombinator.com/item?id=38700038) - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
 * [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
+* [2023-12-19, 18:21:37](https://news.ycombinator.com/item?id=38699383) - [Meta's news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:11:10](https://news.ycombinator.com/item?id=38699223) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)

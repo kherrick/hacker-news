@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 20:41:51](https://news.ycombinator.com/item?id=38701227) - [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
 * [2023-12-19, 20:36:52](https://news.ycombinator.com/item?id=38701159) - [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
-* [2023-12-19, 19:42:12](https://news.ycombinator.com/item?id=38700483) - [Microsoft nears glass storage breakthrough; could make ransomware attacks harder](https://www.techradar.com/pro/microsoft-inches-closer-to-glass-storage-breakthrough-that-could-finally-make-ransomware-attacks-impossible-in-the-data-center-and-hyperscalers-but-only-azure-customers-will-benefit-from-it)
 * [2023-12-19, 19:33:16](https://news.ycombinator.com/item?id=38700363) - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
-* [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
+* [2023-12-19, 18:21:37](https://news.ycombinator.com/item?id=38699383) - [Meta's news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 17:57:39](https://news.ycombinator.com/item?id=38699007) - [UK plan to digitise wills and destroy paper originals \"insane\" say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
