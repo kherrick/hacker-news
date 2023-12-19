@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 20:19:58](https://news.ycombinator.com/item?id=38700927) - [The Ministry of Justice is engaged in historical vandalism](https://www.spectator.co.uk/article/the-ministry-of-justice-is-engaged-in-historical-vandalism/)
+* [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://x.com/dominicstpierre/status/1737069029976617420?s=46)
 * [2023-12-19, 20:02:24](https://news.ycombinator.com/item?id=38700742) - [Due to AI, \"We are about to enter the era of mass spying,\" says Bruce Schneier](https://arstechnica.com/information-technology/2023/12/due-to-ai-we-are-about-to-enter-the-era-of-mass-spying-says-bruce-schneier/)
 * [2023-12-19, 19:34:37](https://news.ycombinator.com/item?id=38700387) - [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
 * [2023-12-19, 19:33:16](https://news.ycombinator.com/item?id=38700363) - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
