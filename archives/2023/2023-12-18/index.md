@@ -94,6 +94,7 @@
 * [2023-12-18, 11:41:35](https://news.ycombinator.com/item?id=38681312) - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
 * [2023-12-18, 11:01:41](https://news.ycombinator.com/item?id=38681117) - [The Oldest Settlements Were Built by a Culture Nobody Expected](https://www.sciencealert.com/the-worlds-oldest-settlements-were-built-by-a-culture-nobody-expected)
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
+* [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
 * [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:39:41](https://news.ycombinator.com/item?id=38680702) - [European heat pump sales are collapsing](https://www.euractiv.com/section/energy-environment/news/european-heat-pump-sales-are-collapsing/)
 * [2023-12-18, 09:21:29](https://news.ycombinator.com/item?id=38680605) - [Plan to End E-Vehicle Subsidies Sparks Anger in Germany](https://www.voanews.com/a/plan-to-end-e-vehicle-subsidies-sparks-anger-in-germany-/7401578.html)

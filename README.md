@@ -27,8 +27,8 @@
 * [2023-12-18, 14:02:53](https://news.ycombinator.com/item?id=38682623) - [Greyhound bus stops are valuable assets](https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html)
 * [2023-12-18, 13:29:06](https://news.ycombinator.com/item?id=38682120) - [The future of [insert here], according to Wesley Faulkner](https://blog.polywork.com/the-future-of-work-with-wesley-faulkner/)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
+* [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
-* [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
 
 ## [Archives](archives/index.md)
