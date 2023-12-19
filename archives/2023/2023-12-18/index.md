@@ -37,6 +37,7 @@
 * [2023-12-18, 18:31:50](https://news.ycombinator.com/item?id=38686273) - [Ruby 3.3's YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-18, 18:27:35](https://news.ycombinator.com/item?id=38686221) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 18:26:44](https://news.ycombinator.com/item?id=38686209) - [Note G](https://en.wikipedia.org/wiki/Note_G)
+* [2023-12-18, 18:26:40](https://news.ycombinator.com/item?id=38686207) - [He Made a Magazine, 95 Issues, While Hiding from the Nazis in an Attic](https://www.nytimes.com/2023/12/18/arts/design/dutch-resistance-ww2-magazine-holocaust.html)
 * [2023-12-18, 18:16:15](https://news.ycombinator.com/item?id=38686086) - [Apple halts US sales of Watch before Christmas after losing patent case](https://www.ft.com/content/52a15bec-8dc2-4a19-9749-8b353c53035c)
 * [2023-12-18, 17:49:55](https://news.ycombinator.com/item?id=38685782) - [A Handful of Companies Rule the Internet with DDoS Mitigation](https://madattheinternet.substack.com/p/a-handful-of-companies-rule-the-internet)
 * [2023-12-18, 17:38:06](https://news.ycombinator.com/item?id=38685607) - [Nikola founder to be sentenced for federal fraud charges](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)

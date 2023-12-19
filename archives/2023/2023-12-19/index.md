@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 20:53:14](https://news.ycombinator.com/item?id=38701381) - [Molecular jackhammers' 'good vibrations' eradicate cancer cells](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-19, 20:41:51](https://news.ycombinator.com/item?id=38701227) - [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
 * [2023-12-19, 20:36:52](https://news.ycombinator.com/item?id=38701159) - [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
 * [2023-12-19, 20:19:58](https://news.ycombinator.com/item?id=38700927) - [The Ministry of Justice is engaged in historical vandalism](https://www.spectator.co.uk/article/the-ministry-of-justice-is-engaged-in-historical-vandalism/)
@@ -18,6 +19,7 @@
 * [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
 * [2023-12-19, 18:21:37](https://news.ycombinator.com/item?id=38699383) - [Meta's news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
+* [2023-12-19, 18:18:07](https://news.ycombinator.com/item?id=38699331) - [A Mathematical Perspective on Transformers](https://arxiv.org/abs/2312.10794)
 * [2023-12-19, 18:11:10](https://news.ycombinator.com/item?id=38699223) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 17:57:39](https://news.ycombinator.com/item?id=38699007) - [UK plan to digitise wills and destroy paper originals \"insane\" say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
