@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 17:15:05](https://news.ycombinator.com/item?id=38698353) - [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
 * [2023-12-19, 17:04:09](https://news.ycombinator.com/item?id=38698190) - [Cory Doctorow: What Kind of Bubble Is AI?](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)

@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 17:15:05](https://news.ycombinator.com/item?id=38698353) - [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
 * [2023-12-19, 17:04:09](https://news.ycombinator.com/item?id=38698190) - [Cory Doctorow: What Kind of Bubble Is AI?](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
-* [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
