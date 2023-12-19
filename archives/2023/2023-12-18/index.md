@@ -71,6 +71,7 @@
 * [2023-12-18, 14:03:12](https://news.ycombinator.com/item?id=38682631) - [Apple to halt Apple Watch Series 9 and Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/)
 * [2023-12-18, 14:02:53](https://news.ycombinator.com/item?id=38682623) - [Greyhound bus stops are valuable assets](https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html)
 * [2023-12-18, 13:34:25](https://news.ycombinator.com/item?id=38682204) - [Vectors from Leibniz to Einstein](https://mathenchant.wordpress.com/2023/12/17/vectors-from-leibniz-to-einstein/)
+* [2023-12-18, 13:31:48](https://news.ycombinator.com/item?id=38682167) - [Stephen Colbert on Saying Yes (2006)](https://www.edbatista.com/2006/06/stephen_colbert_1.html)
 * [2023-12-18, 13:29:06](https://news.ycombinator.com/item?id=38682120) - [The future of [insert here], according to Wesley Faulkner](https://blog.polywork.com/the-future-of-work-with-wesley-faulkner/)
 * [2023-12-18, 13:27:35](https://news.ycombinator.com/item?id=38682095) - [Jarvis: A Voice Virtual Assistant in Python (OpenAI, ElevenLabs, Deepgram)](https://github.com/AlexandreSajus/JARVIS)
 * [2023-12-18, 13:19:08](https://news.ycombinator.com/item?id=38682003) - [SEC's new data breach disclosure rules take effect, here's what you need to know](https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/)
