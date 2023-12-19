@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
 * [2023-12-19, 21:42:51](https://news.ycombinator.com/item?id=38702083) - [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
+* [2023-12-19, 21:41:51](https://news.ycombinator.com/item?id=38702067) - [Twitch U-turns on 'artistic nudity' policy](https://www.bbc.co.uk/news/technology-67747949)
 * [2023-12-19, 21:29:32](https://news.ycombinator.com/item?id=38701899) - [Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)](https://github.com/wavetermdev/waveterm)
 * [2023-12-19, 21:24:34](https://news.ycombinator.com/item?id=38701822) - [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
@@ -63,6 +64,7 @@
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 13:25:29](https://news.ycombinator.com/item?id=38695221) - [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
 * [2023-12-19, 13:17:04](https://news.ycombinator.com/item?id=38695132) - [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
+* [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
 * [2023-12-19, 12:51:12](https://news.ycombinator.com/item?id=38694886) - [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
