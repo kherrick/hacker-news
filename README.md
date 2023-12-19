@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 * [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 * [2023-12-18, 23:58:38](https://news.ycombinator.com/item?id=38690060) - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 * [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
-* [2023-12-18, 23:30:14](https://news.ycombinator.com/item?id=38689852) - [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
 * [2023-12-18, 23:05:29](https://news.ycombinator.com/item?id=38689653) - [LLMLingua: Compressing Prompts for Faster Inferencing](https://github.com/microsoft/LLMLingua)
 * [2023-12-18, 21:18:52](https://news.ycombinator.com/item?id=38688453) - [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
 * [2023-12-18, 21:11:51](https://news.ycombinator.com/item?id=38688355) - [Tiny Code Christmas](https://tcc.lovebyte.party/)
