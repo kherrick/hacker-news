@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:30:02](https://news.ycombinator.com/item?id=38691468) - [Why do programmers need private offices with doors? (Do Not Disturb)](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
@@ -16,8 +17,6 @@
 * [2023-12-18, 19:58:02](https://news.ycombinator.com/item?id=38687357) - [PostgreSQL 16 Bi-Directional Logical Replication](https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/)
 * [2023-12-18, 18:27:35](https://news.ycombinator.com/item?id=38686221) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
-* [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination can beat batteries for excess energy](https://spectrum.ieee.org/pumped-water-energy-storage)
-* [2023-12-18, 16:47:14](https://news.ycombinator.com/item?id=38684904) - [Terrapin Attack for prefix truncation in SSH](https://terrapin-attack.com)
 * [2023-12-18, 16:14:22](https://news.ycombinator.com/item?id=38684461) - [Python, C, Assembly – Faster Cosine Similarity](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 * [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why are things expensive?](https://www.why-expensive.com/)
@@ -25,6 +24,7 @@
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
+* [2023-12-18, 09:40:30](https://news.ycombinator.com/item?id=38680709) - [You Don't Need HTML](https://shkspr.mobi/blog/2022/12/you-dont-need-html/)
 * [2023-12-18, 09:38:38](https://news.ycombinator.com/item?id=38680698) - [Ed Roberts: The Secret Father of Modern Computing](https://every.to/p/the-secret-father-of-modern-computing)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How To Learn Chess As An Adult (or, how I went from 300 to 1500 ELO in 9 months) (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
