@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 (Brussels, Feb 3-4) – Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
