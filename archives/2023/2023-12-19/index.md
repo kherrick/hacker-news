@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
+* [2023-12-19, 17:40:03](https://news.ycombinator.com/item?id=38698707) - [Google agrees to pay $700M in antitrust settlement reached with states](https://apnews.com/article/google-android-play-store-apps-antitrust-settlement-e4e2f422baa846c66deac90c7866c5fd)
 * [2023-12-19, 17:15:05](https://news.ycombinator.com/item?id=38698353) - [New York City population declined by 5.3% since 2020](https://www.osc.ny.gov/press/releases/2023/12/changing-face-post-pandemic-new-york-city)
 * [2023-12-19, 17:14:37](https://news.ycombinator.com/item?id=38698343) - [Comcast says hackers stole data of close to 36M Xfinity customers](https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/)
 * [2023-12-19, 17:08:22](https://news.ycombinator.com/item?id=38698261) - [AGI Breakthrough: An Open Letter to the Board of Directors at OpenAI](https://www.verses.ai/open-letter)
 * [2023-12-19, 17:04:09](https://news.ycombinator.com/item?id=38698190) - [Cory Doctorow: What Kind of Bubble Is AI?](https://locusmag.com/2023/12/commentary-cory-doctorow-what-kind-of-bubble-is-ai/)
+* [2023-12-19, 16:46:43](https://news.ycombinator.com/item?id=38697922) - [Show HN: Git, from scratch, in Python, Spelled out](https://github.com/yash-srivastava19/verizon)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
 * [2023-12-19, 16:32:19](https://news.ycombinator.com/item?id=38697723) - [National Engineering Handbook](https://directives.sc.egov.usda.gov/RollupViewer.aspx?hid=17092)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
