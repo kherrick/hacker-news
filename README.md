@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 12:03:36](https://news.ycombinator.com/item?id=38694549) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
@@ -8,7 +9,6 @@
 * [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:30:02](https://news.ycombinator.com/item?id=38691468) - [Why do programmers need private offices with doors?](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors-do-not-disturb/)
-* [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 * [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 * [2023-12-18, 23:58:38](https://news.ycombinator.com/item?id=38690060) - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
@@ -27,7 +27,7 @@
 * [2023-12-18, 09:19:37](https://news.ycombinator.com/item?id=38680598) - [The Birth of Rock 'N' Roll Is Found at Sam Phillips's Sun Records (2016)](https://www.neh.gov/humanities/2016/januaryfebruary/statement/the-birth-rock-%E2%80%98n%E2%80%99-roll-found-sam-phillips%E2%80%99s-sun-records)
 * [2023-12-18, 08:36:03](https://news.ycombinator.com/item?id=38680346) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
-* [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot (2022) [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
+* [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How to learn chess as an adult (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
 * [2023-12-16, 06:17:23](https://news.ycombinator.com/item?id=38662158) - [Tabletop RPGs we played in 2023](https://www.polygon.com/23989775/best-tabletop-rpgs-2023)
 
