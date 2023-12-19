@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:42:51](https://news.ycombinator.com/item?id=38702083) - [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
 * [2023-12-19, 21:41:51](https://news.ycombinator.com/item?id=38702067) - [Twitch U-turns on 'artistic nudity' policy](https://www.bbc.co.uk/news/technology-67747949)
 * [2023-12-19, 21:29:32](https://news.ycombinator.com/item?id=38701899) - [Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)](https://github.com/wavetermdev/waveterm)

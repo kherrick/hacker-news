@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:41:51](https://news.ycombinator.com/item?id=38702067) - [Twitch U-turns on 'artistic nudity' policy](https://www.bbc.co.uk/news/technology-67747949)
 * [2023-12-19, 21:29:32](https://news.ycombinator.com/item?id=38701899) - [Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)](https://github.com/wavetermdev/waveterm)
 * [2023-12-19, 21:24:34](https://news.ycombinator.com/item?id=38701822) - [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
@@ -24,7 +25,6 @@
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [TuneNN: A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
-* [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 * [2023-12-18, 20:16:51](https://news.ycombinator.com/item?id=38687586) - [A silken web](https://aeon.co/essays/silk-is-a-thread-that-opens-up-the-weave-of-human-history)
 * [2023-12-18, 18:26:40](https://news.ycombinator.com/item?id=38686207) - [The Underwater Cabaret: A magazine made while hiding from the Nazis in an attic](https://www.nytimes.com/2023/12/18/arts/design/dutch-resistance-ww2-magazine-holocaust.html)
