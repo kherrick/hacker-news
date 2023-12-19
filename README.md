@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
+* [2023-12-18, 23:58:38](https://news.ycombinator.com/item?id=38690060) - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 * [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
 * [2023-12-18, 23:30:14](https://news.ycombinator.com/item?id=38689852) - [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
@@ -26,7 +27,6 @@
 * [2023-12-18, 14:02:53](https://news.ycombinator.com/item?id=38682623) - [Greyhound bus stops are valuable assets](https://www.cnn.com/2023/12/17/business/greyhound-buses-transportation-cities/index.html)
 * [2023-12-18, 13:29:06](https://news.ycombinator.com/item?id=38682120) - [The future of [insert here], according to Wesley Faulkner](https://blog.polywork.com/the-future-of-work-with-wesley-faulkner/)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
-* [2023-12-18, 12:10:22](https://news.ycombinator.com/item?id=38681468) - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk/)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)

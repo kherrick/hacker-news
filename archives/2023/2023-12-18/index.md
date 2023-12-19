@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 23:58:38](https://news.ycombinator.com/item?id=38690060) - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 * [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
 * [2023-12-18, 23:30:14](https://news.ycombinator.com/item?id=38689852) - [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
