@@ -25,11 +25,11 @@
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
-* [2023-12-18, 09:40:30](https://news.ycombinator.com/item?id=38680709) - [You Don't Need HTML](https://shkspr.mobi/blog/2022/12/you-dont-need-html/)
 * [2023-12-18, 09:38:38](https://news.ycombinator.com/item?id=38680698) - [Ed Roberts: The Secret Father of Modern Computing](https://every.to/p/the-secret-father-of-modern-computing)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How To Learn Chess As An Adult (or, how I went from 300 to 1500 ELO in 9 months) (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
+* [2023-12-16, 06:17:23](https://news.ycombinator.com/item?id=38662158) - [Tabletop RPGs we played in 2023](https://www.polygon.com/23989775/best-tabletop-rpgs-2023)
 
 ## [Archives](archives/index.md)
 
