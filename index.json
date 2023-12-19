@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-19, 16:34:15",
+      "https://news.ycombinator.com/item?id=38697752"
+    ],
+    [
+      "TSDocs.dev: type docs for any javascript library",
+      "https://tsdocs.dev"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 16:06:14",
       "https://news.ycombinator.com/item?id=38697309"
     ],
     [
       "Does quantum theory imply the entire Universe is preordained?",
       "https://www.nature.com/articles/d41586-023-04024-z"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 16:04:44",
+      "https://news.ycombinator.com/item?id=38697293"
+    ],
+    [
+      "Why do we have weird LLM sizes like 3B, 7B, 13B, 33B, 70B? Who invented those?",
+      "https://old.reddit.com/r/LocalLLaMA/comments/18h9p51/eli5_why_do_we_have_weird_llm_sizes_like_3b_7b/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-12-19, 15:00:12",
+      "https://news.ycombinator.com/item?id=38696325"
+    ],
+    [
+      "JetBrains forces AI freemium plugin that cannot be completely removed into IDEs",
+      "https://youtrack.jetbrains.com/issue/LLM-1760/Can-not-remove-Jetbrains-AI-Assistant-plugin-completely"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 14:17:25",
       "https://news.ycombinator.com/item?id=38695750"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-12-19, 13:25:29",
-      "https://news.ycombinator.com/item?id=38695221"
-    ],
-    [
-      "The Hidden Secrets of Alien Resurrection on the PS1 [video]",
-      "https://www.youtube.com/watch?v=uRB7iUCX4KQ"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 13:17:04",
       "https://news.ycombinator.com/item?id=38695132"
     ],
@@ -147,26 +167,6 @@
     [
       "FOSDEM 2024 Schedule",
       "https://fosdem.org/2024/schedule/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 10:36:35",
-      "https://news.ycombinator.com/item?id=38694004"
-    ],
-    [
-      "RFC 9518 – What can internet standards do about centralisation?",
-      "https://www.mnot.net/blog/2023/12/19/standards-and-centralization"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 10:27:22",
-      "https://news.ycombinator.com/item?id=38693948"
-    ],
-    [
-      "Hardware Intrinsics in .NET 8",
-      "https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/"
     ]
   ],
   [
