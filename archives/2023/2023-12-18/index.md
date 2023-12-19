@@ -94,6 +94,7 @@
 * [2023-12-18, 11:41:35](https://news.ycombinator.com/item?id=38681312) - [Commission opens formal proceedings against X under the Digital Services Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6709)
 * [2023-12-18, 11:01:41](https://news.ycombinator.com/item?id=38681117) - [The Oldest Settlements Were Built by a Culture Nobody Expected](https://www.sciencealert.com/the-worlds-oldest-settlements-were-built-by-a-culture-nobody-expected)
 * [2023-12-18, 11:00:57](https://news.ycombinator.com/item?id=38681115) - [Interactive Code Cells](https://antonz.org/code-cells/)
+* [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
 * [2023-12-18, 10:13:34](https://news.ycombinator.com/item?id=38680846) - [Fritzbox: AVM is threatened with a sales ban due to violations of Huawei patents](https://www.aroged.com/2023/12/15/fritzbox-avm-is-threatened-with-a-sales-ban-due-to-violations-of-huaweis-wlan-patents/)
 * [2023-12-18, 09:40:30](https://news.ycombinator.com/item?id=38680709) - [You Don't Need HTML](https://shkspr.mobi/blog/2022/12/you-dont-need-html/)

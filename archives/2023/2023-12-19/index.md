@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 * [2023-12-19, 03:23:02](https://news.ycombinator.com/item?id=38691416) - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
 * [2023-12-19, 03:20:14](https://news.ycombinator.com/item?id=38691396) - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
