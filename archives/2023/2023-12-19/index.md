@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
+* [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:59:15](https://news.ycombinator.com/item?id=38697218) - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [Inner Ring – CS Lewis](https://www.lewissociety.org/innerring/)

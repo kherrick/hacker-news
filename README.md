@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
+* [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:59:15](https://news.ycombinator.com/item?id=38697218) - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 15:17:40](https://news.ycombinator.com/item?id=38696612) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
-* [2023-12-19, 14:32:05](https://news.ycombinator.com/item?id=38695938) - [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 13:56:19](https://news.ycombinator.com/item?id=38695533) - [Firefox 121 defaults to Wayland on Linux](https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux)
 * [2023-12-19, 13:48:19](https://news.ycombinator.com/item?id=38695456) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
