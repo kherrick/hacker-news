@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
+* [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app – the visual builder for your tech stack](https://www.plasmic.app/)
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
-* [2023-12-19, 16:04:44](https://news.ycombinator.com/item?id=38697293) - [Why do we have weird LLM sizes like 3B, 7B, 13B, 33B, 70B? Who invented those?](https://old.reddit.com/r/LocalLLaMA/comments/18h9p51/eli5_why_do_we_have_weird_llm_sizes_like_3b_7b/)
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
@@ -26,8 +26,8 @@
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 09:19:37](https://news.ycombinator.com/item?id=38680598) - [The Birth of Rock 'N' Roll Is Found at Sam Phillips's Sun Records (2016)](https://www.neh.gov/humanities/2016/januaryfebruary/statement/the-birth-rock-%E2%80%98n%E2%80%99-roll-found-sam-phillips%E2%80%99s-sun-records)
-* [2023-12-18, 08:36:03](https://news.ycombinator.com/item?id=38680346) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
+* [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He was 'creatively dead.' Then he harnessed the power of boredom](https://text.npr.org/1219463824)
 * [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How to learn chess as an adult (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
 
