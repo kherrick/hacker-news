@@ -2,7 +2,6 @@
 
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
-* [2023-12-19, 03:23:02](https://news.ycombinator.com/item?id=38691416) - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
 * [2023-12-19, 03:20:14](https://news.ycombinator.com/item?id=38691396) - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
 * [2023-12-19, 03:01:36](https://news.ycombinator.com/item?id=38691268) - [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
 * [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
@@ -21,6 +20,7 @@
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination can beat batteries for excess energy](https://spectrum.ieee.org/pumped-water-energy-storage)
 * [2023-12-18, 16:14:22](https://news.ycombinator.com/item?id=38684461) - [Python, C, Assembly – Faster Cosine Similarity](https://ashvardanian.com/posts/python-c-assembly-comparison/)
+* [2023-12-18, 16:13:46](https://news.ycombinator.com/item?id=38684447) - [Transaction Isolation in Postgres](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why are things expensive?](https://www.why-expensive.com/)
 * [2023-12-18, 14:45:39](https://news.ycombinator.com/item?id=38683178) - [Beeper vs. Apple battle intensifies: Lawmakers demand DOJ investigation](https://www.androidauthority.com/beeper-vs-apple-us-senators-letter-doj-3395333/)
