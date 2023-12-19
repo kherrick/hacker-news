@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 05:29:17](https://news.ycombinator.com/item?id=38692195) - [Large amounts of benzene detected in Texas.The residents werent told for decades](https://publichealthwatch.org/2023/12/13/houston-chemical-air-pollution-benzene/)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 * [2023-12-19, 03:27:08](https://news.ycombinator.com/item?id=38691447) - [3D Printer Auto Bed Leveling Mesh Visualizer](https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/)
 * [2023-12-19, 03:23:02](https://news.ycombinator.com/item?id=38691416) - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
