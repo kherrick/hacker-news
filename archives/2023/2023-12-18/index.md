@@ -111,6 +111,7 @@
 * [2023-12-18, 08:36:03](https://news.ycombinator.com/item?id=38680346) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
 * [2023-12-18, 08:14:51](https://news.ycombinator.com/item?id=38680230) - [Why I Hate Frameworks (2019)](https://medium.com/@johnfliu/why-i-hate-frameworks-6af8cbadba42)
+* [2023-12-18, 07:17:51](https://news.ycombinator.com/item?id=38680003) - [It All Started with a Mouse](https://pluralistic.net/2023/12/15/mouse-liberation-front/)
 * [2023-12-18, 07:16:33](https://news.ycombinator.com/item?id=38679992) - [History will not remember us fondly (2021)](https://drewdevault.com/2021/01/07/History-will-not-remember-us-fondly.html)
 * [2023-12-18, 06:51:53](https://news.ycombinator.com/item?id=38679901) - [Chili Oil Notes Part 2](https://uptointerpretation.com/posts/chili-oil-notes-part-2/)
 * [2023-12-18, 06:11:39](https://news.ycombinator.com/item?id=38679731) - [My 20 year old son doesn't date. His friends don't date](https://old.reddit.com/r/NoStupidQuestions/comments/18kg3e3/my_20_year_old_son_doesnt_date_his_friends_dont/)
