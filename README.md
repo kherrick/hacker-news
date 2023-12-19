@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
 * [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
@@ -18,7 +19,6 @@
 * [2023-12-18, 18:27:35](https://news.ycombinator.com/item?id=38686221) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 16:14:22](https://news.ycombinator.com/item?id=38684461) - [Python, C, Assembly – Faster Cosine Similarity](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 * [2023-12-18, 15:51:06](https://news.ycombinator.com/item?id=38684102) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
-* [2023-12-18, 15:19:30](https://news.ycombinator.com/item?id=38683594) - [Why are things expensive?](https://www.why-expensive.com/)
 * [2023-12-18, 14:03:12](https://news.ycombinator.com/item?id=38682631) - [Apple to halt Apple Watch Series 9 and Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/)
 * [2023-12-18, 13:34:25](https://news.ycombinator.com/item?id=38682204) - [Vectors from Leibniz to Einstein](https://mathenchant.wordpress.com/2023/12/17/vectors-from-leibniz-to-einstein/)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
