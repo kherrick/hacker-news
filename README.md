@@ -2,7 +2,6 @@
 
 * [2023-12-19, 21:20:04](https://news.ycombinator.com/item?id=38701751) - [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)
 * [2023-12-19, 20:53:14](https://news.ycombinator.com/item?id=38701381) - [Molecular jackhammers' 'good vibrations' eradicate cancer cells](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
-* [2023-12-19, 20:41:51](https://news.ycombinator.com/item?id=38701227) - [$750 a month, no questions asked, improved the lives of homeless people](https://www.latimes.com/california/story/2023-12-19/750-a-month-no-questions-asked-improved-the-lives-of-homeless-people)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's frustrating Oakland diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:11:10](https://news.ycombinator.com/item?id=38699223) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" floppy drive](https://floppy.cafe/)
@@ -29,6 +28,7 @@
 * [2023-12-18, 20:16:51](https://news.ycombinator.com/item?id=38687586) - [A silken web](https://aeon.co/essays/silk-is-a-thread-that-opens-up-the-weave-of-human-history)
 * [2023-12-18, 18:26:40](https://news.ycombinator.com/item?id=38686207) - [The Underwater Cabaret: A magazine made while hiding from the Nazis in an attic](https://www.nytimes.com/2023/12/18/arts/design/dutch-resistance-ww2-magazine-holocaust.html)
 * [2023-12-18, 16:04:00](https://news.ycombinator.com/item?id=38684295) - [How many CPU cores can you use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
+* [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He felt 'creatively dead', then harnessed the power of boredom](https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom)
 
 ## [Archives](archives/index.md)
