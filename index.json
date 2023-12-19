@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-19, 14:49:01",
-      "https://news.ycombinator.com/item?id=38696174"
-    ],
-    [
-      "Firefox 121",
-      "https://www.mozilla.org/en-US/firefox/121.0/releasenotes/"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 14:32:05",
       "https://news.ycombinator.com/item?id=38695938"
     ],
@@ -127,6 +117,16 @@
     [
       "RFC 9518 – What can internet standards do about centralisation?",
       "https://www.mnot.net/blog/2023/12/19/standards-and-centralization"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 10:36:05",
+      "https://news.ycombinator.com/item?id=38694001"
+    ],
+    [
+      "Basic Gerrit Walkthrough – For GitHub Users",
+      "https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html"
     ]
   ],
   [
