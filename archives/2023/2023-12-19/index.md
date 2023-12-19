@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [TSDocs.dev: type docs for any javascript library](https://tsdocs.dev)
 * [2023-12-19, 16:06:14](https://news.ycombinator.com/item?id=38697309) - [Does quantum theory imply the entire Universe is preordained?](https://www.nature.com/articles/d41586-023-04024-z)
+* [2023-12-19, 16:04:44](https://news.ycombinator.com/item?id=38697293) - [Why do we have weird LLM sizes like 3B, 7B, 13B, 33B, 70B? Who invented those?](https://old.reddit.com/r/LocalLLaMA/comments/18h9p51/eli5_why_do_we_have_weird_llm_sizes_like_3b_7b/)
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:59:15](https://news.ycombinator.com/item?id=38697218) - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
@@ -12,6 +14,7 @@
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 15:17:40](https://news.ycombinator.com/item?id=38696612) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
 * [2023-12-19, 15:07:57](https://news.ycombinator.com/item?id=38696454) - [LAPD helicopters cost $50M a year, more than 14 city offices' entire budget](https://www.theguardian.com/us-news/2023/dec/11/los-angeles-police-helicopters-cost-benefit-dispute)
+* [2023-12-19, 15:00:12](https://news.ycombinator.com/item?id=38696325) - [JetBrains forces AI freemium plugin that cannot be completely removed into IDEs](https://youtrack.jetbrains.com/issue/LLM-1760/Can-not-remove-Jetbrains-AI-Assistant-plugin-completely)
 * [2023-12-19, 14:49:01](https://news.ycombinator.com/item?id=38696174) - [Firefox 121](https://www.mozilla.org/en-US/firefox/121.0/releasenotes/)
 * [2023-12-19, 14:32:05](https://news.ycombinator.com/item?id=38695938) - [The day I started believing in Unit Tests (2023)](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 14:23:03](https://news.ycombinator.com/item?id=38695822) - ['Fake' Seal Impression of Biblical King Jeroboam Is Authentic](https://www.haaretz.com/archaeology/2023-12-18/ty-article/fake-seal-impression-of-biblical-king-jeroboam-is-authentic-new-study-says/0000018c-7853-d98c-abef-fed7f4370000)
