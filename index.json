@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-19, 00:16:19",
-      "https://news.ycombinator.com/item?id=38690192"
-    ],
-    [
-      "Rapid Loss of Habitat for Homo sapiens (2021) [pdf]",
-      "https://guymcpherson.com/wp-content/uploads/2021/04/Academia-Letters-Number-498-Rapid_Loss_of_Habitat_for_Homo_sapiens.pdf"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 23:40:44",
       "https://news.ycombinator.com/item?id=38689924"
     ],
@@ -127,6 +117,16 @@
     [
       "PostgreSQL 16 Bi-Directional Logical Replication",
       "https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 18:27:35",
+      "https://news.ycombinator.com/item?id=38686221"
+    ],
+    [
+      "Many options for running Mistral models in your terminal using LLM",
+      "https://simonwillison.net/2023/Dec/18/mistral/"
     ]
   ],
   [
