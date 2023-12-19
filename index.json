@@ -16,27 +16,17 @@
     ],
     [
       "Did the cloud made us over-engineer some systems that could have been simpler?",
-      "https://x.com/dominicstpierre/status/1737069029976617420?s=46"
+      "https://twitter.com/dominicstpierre/status/1737069029976617420"
     ]
   ],
   [
     [
-      "2023-12-19, 19:34:37",
-      "https://news.ycombinator.com/item?id=38700387"
+      "2023-12-19, 19:33:16",
+      "https://news.ycombinator.com/item?id=38700363"
     ],
     [
-      "Stupid by Choice",
-      "https://www.alexmolas.com/2023/09/18/embracing-dumbness.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 19:24:50",
-      "https://news.ycombinator.com/item?id=38700250"
-    ],
-    [
-      "Law enforcement took more stuff from people than burglars did last year (2015)",
-      "https://www.washingtonpost.com/news/wonk/wp/2015/11/23/cops-took-more-stuff-from-people-than-burglars-did-last-year/"
+      "Asyncio Task Cancellation Best Practices",
+      "https://superfastpython.com/asyncio-task-cancellation-best-practices/"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2023-12-19, 15:44:33",
+      "https://news.ycombinator.com/item?id=38697000"
+    ],
+    [
+      "Diablo 2 Parallax",
+      "https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 15:27:44",
       "https://news.ycombinator.com/item?id=38696764"
     ],
@@ -167,6 +167,26 @@
     [
       "XetCache: Improve Jupyter notebook reruns by caching cells",
       "https://github.com/xetdata/xetcache"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 15:17:40",
+      "https://news.ycombinator.com/item?id=38696612"
+    ],
+    [
+      "Fedora Asahi Remix",
+      "https://asahilinux.org/fedora/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 14:17:25",
+      "https://news.ycombinator.com/item?id=38695750"
+    ],
+    [
+      "Jepsen: MySQL 8.0.34",
+      "https://jepsen.io/analyses/mysql-8.0.34"
     ]
   ],
   [
@@ -211,21 +231,11 @@
   ],
   [
     [
-      "2023-12-19, 05:23:20",
-      "https://news.ycombinator.com/item?id=38692167"
-    ],
-    [
-      "Gokrazy – Go Appliances",
-      "https://gokrazy.org/"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 20:16:51",
       "https://news.ycombinator.com/item?id=38687586"
     ],
     [
-      "A Silken Web",
+      "A silken web",
       "https://aeon.co/essays/silk-is-a-thread-that-opens-up-the-weave-of-human-history"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Serendipity is too important to be left to chance (1996)",
       "https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 07:17:51",
-      "https://news.ycombinator.com/item?id=38680003"
-    ],
-    [
-      "It All Started with a Mouse",
-      "https://pluralistic.net/2023/12/15/mouse-liberation-front/"
     ]
   ],
   [
