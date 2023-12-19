@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-19, 18:11:10",
-      "https://news.ycombinator.com/item?id=38699223"
-    ],
-    [
-      "C++ Should Be C++",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 18:09:27",
       "https://news.ycombinator.com/item?id=38699201"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38698907"
     ],
     [
-      "Simulating Fluids, Fire, and Smoke in Real-Time",
+      "Simulating fluids, fire, and smoke in real-time",
       "https://andrewkchan.dev/posts/fire.html"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38697752"
     ],
     [
-      "TSDocs.dev: type docs for any javascript library",
+      "Tsdocs.dev: Type docs for any JavaScript library",
       "https://tsdocs.dev"
     ]
   ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38697650"
     ],
     [
-      "Plasmic.app – the visual builder for your tech stack",
+      "Plasmic.app: Visual editing and content platform for building websites and apps",
       "https://www.plasmic.app/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=38696631"
     ],
     [
-      "Improve Jupyter Notebook Reruns by Caching Cells",
+      "XetCache: Improve Jupyter notebook reruns by caching cells",
       "https://github.com/xetdata/xetcache"
     ]
   ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2023-12-19, 13:48:19",
+      "https://news.ycombinator.com/item?id=38695456"
+    ],
+    [
+      "Mapping the semantic void: Strange goings-on in GPT embedding spaces",
+      "https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 13:37:28",
       "https://news.ycombinator.com/item?id=38695337"
     ],
@@ -181,21 +181,11 @@
   ],
   [
     [
-      "2023-12-19, 13:17:04",
-      "https://news.ycombinator.com/item?id=38695132"
-    ],
-    [
-      "Construct in 2023: Year in Review",
-      "https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 12:50:15",
       "https://news.ycombinator.com/item?id=38694880"
     ],
     [
-      "Making my own Bed Sensor",
+      "Making my own bed sensor",
       "https://www.homeautomationguy.io/blog/making-my-own-bed-sensor"
     ]
   ],
@@ -205,8 +195,18 @@
       "https://news.ycombinator.com/item?id=38694719"
     ],
     [
-      "A transformer-based network model for pitch detection",
+      "TuneNN: A transformer-based network model for pitch detection",
       "https://github.com/TuneNN/TuneNN"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 12:03:36",
+      "https://news.ycombinator.com/item?id=38694549"
+    ],
+    [
+      "My cat water fountain comes with a spicy USB power adapter",
+      "https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/"
     ]
   ],
   [
@@ -285,8 +285,8 @@
       "https://news.ycombinator.com/item?id=38676942"
     ],
     [
-      "He was 'creatively dead.' Then he harnessed the power of boredom",
-      "https://text.npr.org/1219463824"
+      "He felt 'creatively dead', then harnessed the power of boredom",
+      "https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom"
     ]
   ],
   [
