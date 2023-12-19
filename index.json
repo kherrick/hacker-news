@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2023-12-19, 21:41:51",
-      "https://news.ycombinator.com/item?id=38702067"
-    ],
-    [
-      "Twitch U-turns on 'artistic nudity' policy",
-      "https://www.bbc.co.uk/news/technology-67747949"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 21:29:32",
-      "https://news.ycombinator.com/item?id=38701899"
-    ],
-    [
-      "Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)",
-      "https://github.com/wavetermdev/waveterm"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 21:24:34",
       "https://news.ycombinator.com/item?id=38701822"
     ],
@@ -57,6 +37,16 @@
     [
       "TC39: Add Object.groupBy and Map.groupBy",
       "https://github.com/tc39/ecma262/pull/3176"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 20:53:14",
+      "https://news.ycombinator.com/item?id=38701381"
+    ],
+    [
+      "Molecular jackhammers' 'good vibrations' eradicate cancer cells",
+      "https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "XetCache: Improve Jupyter notebook reruns by caching cells",
       "https://github.com/xetdata/xetcache"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 14:32:05",
+      "https://news.ycombinator.com/item?id=38695938"
+    ],
+    [
+      "The day I started believing in unit tests",
+      "https://mental-reverb.com/blog.php?id=42"
     ]
   ],
   [
