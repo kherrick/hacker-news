@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-19, 20:19:58](https://news.ycombinator.com/item?id=38700927) - [The Ministry of Justice is engaged in historical vandalism](https://www.spectator.co.uk/article/the-ministry-of-justice-is-engaged-in-historical-vandalism/)
-* [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://twitter.com/dominicstpierre/status/1737069029976617420)
+* [2023-12-19, 20:36:52](https://news.ycombinator.com/item?id=38701159) - [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
+* [2023-12-19, 19:42:12](https://news.ycombinator.com/item?id=38700483) - [Microsoft nears glass storage breakthrough; could make ransomware attacks harder](https://www.techradar.com/pro/microsoft-inches-closer-to-glass-storage-breakthrough-that-could-finally-make-ransomware-attacks-impossible-in-the-data-center-and-hyperscalers-but-only-azure-customers-will-benefit-from-it)
 * [2023-12-19, 19:33:16](https://news.ycombinator.com/item?id=38700363) - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
 * [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
