@@ -20,6 +20,7 @@
 * [2023-12-19, 12:03:36](https://news.ycombinator.com/item?id=38694549) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 (Brussels, Feb 3-4) – Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
+* [2023-12-19, 10:36:05](https://news.ycombinator.com/item?id=38694001) - [Basic Gerrit Walkthrough – For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
 * [2023-12-19, 06:46:32](https://news.ycombinator.com/item?id=38692623) - [Why Bitcoin is up by almost 150% this year](https://www.economist.com/finance-and-economics/2023/12/18/why-bitcoin-is-up-by-almost-150-this-year)

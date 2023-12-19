@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-19, 14:49:01](https://news.ycombinator.com/item?id=38696174) - [Firefox 121](https://www.mozilla.org/en-US/firefox/121.0/releasenotes/)
 * [2023-12-19, 14:32:05](https://news.ycombinator.com/item?id=38695938) - [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 14:01:53](https://news.ycombinator.com/item?id=38695583) - [Gemini Pro achieves accuracy slightly inferior to GPT 3.5 Turbo](https://arxiv.org/abs/2312.11444)
@@ -13,6 +12,7 @@
 * [2023-12-19, 12:03:36](https://news.ycombinator.com/item?id=38694549) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What can internet standards do about centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
+* [2023-12-19, 10:36:05](https://news.ycombinator.com/item?id=38694001) - [Basic Gerrit Walkthrough – For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
 * [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
