@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 15:59:15](https://news.ycombinator.com/item?id=38697218) - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
+* [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [Inner Ring – CS Lewis](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 15:17:40](https://news.ycombinator.com/item?id=38696612) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
@@ -21,6 +23,7 @@
 * [2023-12-19, 13:25:29](https://news.ycombinator.com/item?id=38695221) - [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
 * [2023-12-19, 13:17:04](https://news.ycombinator.com/item?id=38695132) - [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
 * [2023-12-19, 12:51:12](https://news.ycombinator.com/item?id=38694886) - [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
+* [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
 * [2023-12-19, 12:03:36](https://news.ycombinator.com/item?id=38694549) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 (Brussels, Feb 3-4) – Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
