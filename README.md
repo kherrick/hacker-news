@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
 * [2023-12-19, 05:51:11](https://news.ycombinator.com/item?id=38692318) - [Qt 6.6 and 6.7 Make QML Faster Than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:23:20](https://news.ycombinator.com/item?id=38692167) - [Gokrazy – Go Appliances](https://gokrazy.org/)
 * [2023-12-19, 03:48:23](https://news.ycombinator.com/item?id=38691583) - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
@@ -24,7 +25,6 @@
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 10:30:54](https://news.ycombinator.com/item?id=38680950) - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 * [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
-* [2023-12-18, 09:40:30](https://news.ycombinator.com/item?id=38680709) - [You Don't Need HTML](https://shkspr.mobi/blog/2022/12/you-dont-need-html/)
 * [2023-12-18, 09:38:38](https://news.ycombinator.com/item?id=38680698) - [Ed Roberts: The Secret Father of Modern Computing](https://every.to/p/the-secret-father-of-modern-computing)
 * [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How To Learn Chess As An Adult (or, how I went from 300 to 1500 ELO in 9 months) (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
