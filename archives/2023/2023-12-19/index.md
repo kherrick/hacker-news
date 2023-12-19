@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 12:51:12](https://news.ycombinator.com/item?id=38694886) - [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
 * [2023-12-19, 12:03:36](https://news.ycombinator.com/item?id=38694549) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 (Brussels, Feb 3-4) – Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
