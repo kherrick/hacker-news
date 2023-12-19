@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 21:20:04",
+      "https://news.ycombinator.com/item?id=38701751"
+    ],
+    [
+      "TC39: Add Object.groupBy and Map.groupBy",
+      "https://github.com/tc39/ecma262/pull/3176"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 20:53:14",
       "https://news.ycombinator.com/item?id=38701381"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-12-19, 18:18:07",
-      "https://news.ycombinator.com/item?id=38699331"
-    ],
-    [
-      "A Mathematical Perspective on Transformers",
-      "https://arxiv.org/abs/2312.10794"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 18:11:10",
       "https://news.ycombinator.com/item?id=38699223"
     ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38699201"
     ],
     [
-      "Bit banging a 3.5\" Floppy Drive",
+      "Bit banging a 3.5\" floppy drive",
       "https://floppy.cafe/"
     ]
   ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-12-19, 16:00:06",
+      "https://news.ycombinator.com/item?id=38697227"
+    ],
+    [
+      "Nobody knows what's happening online anymore",
+      "https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 15:56:53",
       "https://news.ycombinator.com/item?id=38697195"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-12-19, 14:32:05",
+      "https://news.ycombinator.com/item?id=38695938"
+    ],
+    [
+      "The day I started believing in unit tests",
+      "https://mental-reverb.com/blog.php?id=42"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 13:37:28",
       "https://news.ycombinator.com/item?id=38695337"
     ],
@@ -221,12 +241,22 @@
   ],
   [
     [
-      "2023-12-19, 06:21:07",
-      "https://news.ycombinator.com/item?id=38692477"
+      "2023-12-19, 10:36:35",
+      "https://news.ycombinator.com/item?id=38694004"
     ],
     [
-      "The Marvin Attack",
-      "https://people.redhat.com/~hkario/marvin/"
+      "RFC 9518 – What can internet standards do about centralisation?",
+      "https://www.mnot.net/blog/2023/12/19/standards-and-centralization"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 03:27:08",
+      "https://news.ycombinator.com/item?id=38691447"
+    ],
+    [
+      "3D Printer Auto Bed Leveling Mesh Visualizer",
+      "https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/"
     ]
   ],
   [
@@ -245,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38686207"
     ],
     [
-      "He Made a Magazine, 95 Issues, While Hiding from the Nazis in an Attic",
+      "The Underwater Cabaret: A magazine made while hiding from the Nazis in an attic",
       "https://www.nytimes.com/2023/12/18/arts/design/dutch-resistance-ww2-magazine-holocaust.html"
     ]
   ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-12-18, 13:04:34",
-      "https://news.ycombinator.com/item?id=38681861"
-    ],
-    [
-      "Figma and Adobe abandon proposed merger",
-      "https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 08:16:20",
-      "https://news.ycombinator.com/item?id=38680239"
-    ],
-    [
-      "Serendipity is too important to be left to chance (1996)",
-      "https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html"
-    ]
-  ],
-  [
-    [
       "2023-12-17, 22:05:29",
       "https://news.ycombinator.com/item?id=38676942"
     ],
     [
       "He felt 'creatively dead', then harnessed the power of boredom",
       "https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 10:32:13",
-      "https://news.ycombinator.com/item?id=38671876"
-    ],
-    [
-      "How to learn chess as an adult (2021)",
-      "https://www.alexcrompton.com/blog/how-to-learn-chess"
     ]
   ]
 ]
