@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [Inner Ring – CS Lewis](https://www.lewissociety.org/innerring/)
+* [2023-12-19, 15:17:40](https://news.ycombinator.com/item?id=38696612) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
+* [2023-12-19, 15:07:57](https://news.ycombinator.com/item?id=38696454) - [LAPD helicopters cost $50M a year, more than 14 city offices' entire budget](https://www.theguardian.com/us-news/2023/dec/11/los-angeles-police-helicopters-cost-benefit-dispute)
 * [2023-12-19, 14:49:01](https://news.ycombinator.com/item?id=38696174) - [Firefox 121](https://www.mozilla.org/en-US/firefox/121.0/releasenotes/)
 * [2023-12-19, 14:32:05](https://news.ycombinator.com/item?id=38695938) - [The day I started believing in Unit Tests (2023)](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 14:23:03](https://news.ycombinator.com/item?id=38695822) - ['Fake' Seal Impression of Biblical King Jeroboam Is Authentic](https://www.haaretz.com/archaeology/2023-12-18/ty-article/fake-seal-impression-of-biblical-king-jeroboam-is-authentic-new-study-says/0000018c-7853-d98c-abef-fed7f4370000)
