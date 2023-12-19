@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 03:48:23",
+      "https://news.ycombinator.com/item?id=38691583"
+    ],
+    [
+      "The Illustrated GPT-2",
+      "https://jalammar.github.io/illustrated-gpt2/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 03:27:08",
       "https://news.ycombinator.com/item?id=38691447"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-12-18, 16:13:46",
-      "https://news.ycombinator.com/item?id=38684447"
-    ],
-    [
-      "Transaction Isolation in Postgres",
-      "https://www.thenile.dev/blog/transaction-isolation-postgres"
-    ]
-  ],
-  [
-    [
       "2023-12-18, 15:51:06",
       "https://news.ycombinator.com/item?id=38684102"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-12-18, 10:30:54",
+      "https://news.ycombinator.com/item?id=38680950"
+    ],
+    [
+      "Handbook of Applied Cryptography",
+      "https://cacr.uwaterloo.ca/hac/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 10:30:39",
       "https://news.ycombinator.com/item?id=38680946"
     ],
@@ -287,16 +297,6 @@
     [
       "Ed Roberts: The Secret Father of Modern Computing",
       "https://every.to/p/the-secret-father-of-modern-computing"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 08:48:25",
-      "https://news.ycombinator.com/item?id=38671377"
-    ],
-    [
-      "A Forth Vocabulary for Iteration",
-      "https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration"
     ]
   ]
 ]
