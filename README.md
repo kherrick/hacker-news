@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 03:23:02](https://news.ycombinator.com/item?id=38691416) - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
 * [2023-12-19, 03:20:14](https://news.ycombinator.com/item?id=38691396) - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
 * [2023-12-19, 03:01:36](https://news.ycombinator.com/item?id=38691268) - [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
 * [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
@@ -28,7 +29,6 @@
 * [2023-12-18, 10:30:39](https://news.ycombinator.com/item?id=38680946) - [KLM leaked data customers: private data easily collected](https://translations.lab.nos.nl/articles/2501984)
 * [2023-12-18, 09:40:30](https://news.ycombinator.com/item?id=38680709) - [You Don't Need HTML](https://shkspr.mobi/blog/2022/12/you-dont-need-html/)
 * [2023-12-18, 09:38:38](https://news.ycombinator.com/item?id=38680698) - [Ed Roberts: The Secret Father of Modern Computing](https://every.to/p/the-secret-father-of-modern-computing)
-* [2023-12-17, 22:42:50](https://news.ycombinator.com/item?id=38677185) - [Wordle-Solving Robot [video]](https://www.youtube.com/watch?v=_QHz_5pqPuo)
 * [2023-12-17, 08:48:25](https://news.ycombinator.com/item?id=38671377) - [A Forth Vocabulary for Iteration](https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration)
 
 ## [Archives](archives/index.md)
