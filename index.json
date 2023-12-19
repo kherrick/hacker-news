@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-12-19, 05:29:17",
-      "https://news.ycombinator.com/item?id=38692195"
-    ],
-    [
-      "Large amounts of benzene detected in Texas.The residents werent told for decades",
-      "https://publichealthwatch.org/2023/12/13/houston-chemical-air-pollution-benzene/"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 03:48:23",
       "https://news.ycombinator.com/item?id=38691583"
     ],
     [
-      "The Illustrated GPT-2",
+      "The Illustrated GPT-2: Visualizing Transformer Language Models (2019)",
       "https://jalammar.github.io/illustrated-gpt2/"
     ]
   ],
@@ -27,16 +17,6 @@
     [
       "3D Printer Auto Bed Leveling Mesh Visualizer",
       "https://i.chillrain.com/index.php/3d-printer-auto-bed-leveling-mesh-visualizer/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 03:20:14",
-      "https://news.ycombinator.com/item?id=38691396"
-    ],
-    [
-      "Zombie fly fungus lures healthy male flies to mate with female corpses (2022)",
-      "https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html"
     ]
   ],
   [
@@ -97,16 +77,6 @@
     [
       "LLMLingua: Compressing Prompts for Faster Inferencing",
       "https://github.com/microsoft/LLMLingua"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 23:01:12",
-      "https://news.ycombinator.com/item?id=38689617"
-    ],
-    [
-      "Volcanic eruption started just north of the town of Grindavik, Iceland",
-      "https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga"
     ]
   ],
   [
@@ -191,12 +161,32 @@
   ],
   [
     [
+      "2023-12-18, 16:47:14",
+      "https://news.ycombinator.com/item?id=38684904"
+    ],
+    [
+      "Terrapin Attack for prefix truncation in SSH",
+      "https://terrapin-attack.com"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 16:14:22",
       "https://news.ycombinator.com/item?id=38684461"
     ],
     [
       "Python, C, Assembly – Faster Cosine Similarity",
       "https://ashvardanian.com/posts/python-c-assembly-comparison/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 16:13:46",
+      "https://news.ycombinator.com/item?id=38684447"
+    ],
+    [
+      "Transaction Isolation in Postgres",
+      "https://www.thenile.dev/blog/transaction-isolation-postgres"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Chili Oil Notes Part 2",
       "https://uptointerpretation.com/posts/chili-oil-notes-part-2/"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 08:48:25",
+      "https://news.ycombinator.com/item?id=38671377"
+    ],
+    [
+      "A Forth Vocabulary for Iteration",
+      "https://blog.information-superhighway.net/a-forth-vocabulary-for-iteration"
     ]
   ]
 ]
