@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-12-19, 17:08:22",
-      "https://news.ycombinator.com/item?id=38698261"
+      "2023-12-19, 17:14:37",
+      "https://news.ycombinator.com/item?id=38698343"
     ],
     [
-      "AGI Breakthrough: An Open Letter to the Board of Directors at OpenAI",
-      "https://www.verses.ai/open-letter"
+      "Comcast says hackers stole data of close to 36M Xfinity customers",
+      "https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Plasmic.app – the visual builder for your tech stack",
       "https://www.plasmic.app/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 16:06:14",
-      "https://news.ycombinator.com/item?id=38697309"
-    ],
-    [
-      "Does quantum theory imply the entire Universe is preordained?",
-      "https://www.nature.com/articles/d41586-023-04024-z"
     ]
   ],
   [
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2023-12-19, 15:00:12",
-      "https://news.ycombinator.com/item?id=38696325"
-    ],
-    [
-      "JetBrains forces AI freemium plugin that cannot be completely removed into IDEs",
-      "https://youtrack.jetbrains.com/issue/LLM-1760/Can-not-remove-Jetbrains-AI-Assistant-plugin-completely"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 14:17:25",
       "https://news.ycombinator.com/item?id=38695750"
     ],
@@ -127,6 +107,16 @@
     [
       "Firefox 121 defaults to Wayland on Linux",
       "https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 13:48:19",
+      "https://news.ycombinator.com/item?id=38695456"
+    ],
+    [
+      "Mapping the semantic void: Strange goings-on in GPT embedding spaces",
+      "https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "FOSDEM 2024 Schedule",
       "https://fosdem.org/2024/schedule/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 06:21:07",
+      "https://news.ycombinator.com/item?id=38692477"
+    ],
+    [
+      "Marvin Attack: potential key recovery through timing sidechannels",
+      "https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr"
     ]
   ],
   [
