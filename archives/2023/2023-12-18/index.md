@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
+* [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
+* [2023-12-18, 23:01:12](https://news.ycombinator.com/item?id=38689617) - [Volcanic eruption started just north of the town of Grindavik, Iceland](https://www.visir.is/g/20232505181d/eld-gos-hafid-a-reykja-nes-skaga)
 * [2023-12-18, 22:53:00](https://news.ycombinator.com/item?id=38689544) - [Cal Newport: It's Time to Dismantle the Technopoly](https://www.newyorker.com/tech/annals-of-technology/its-time-to-dismantle-the-technopoly)
 * [2023-12-18, 22:43:18](https://news.ycombinator.com/item?id=38689459) - [My Ordinary Life: Improvements Since the 1990s](https://gwern.net/improvement)
 * [2023-12-18, 22:14:47](https://news.ycombinator.com/item?id=38689137) - [Apple to Pause Selling New Versions of Its Watch After Losing Patent Dispute](https://www.nytimes.com/2023/12/18/technology/apple-ban-watch-sales-patent-dispute.html)

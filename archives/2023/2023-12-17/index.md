@@ -6,6 +6,7 @@
 
 * [2023-12-17, 23:49:38](https://news.ycombinator.com/item?id=38677628) - [Tracking Java Native Memory with JDK Flight Recorder](https://www.morling.dev/blog/tracking-java-native-memory-with-jdk-flight-recorder/)
 * [2023-12-17, 23:48:55](https://news.ycombinator.com/item?id=38677620) - [Reindeer can see UV light](https://journals.sagepub.com/doi/full/10.1177/20416695231218520)
+* [2023-12-17, 23:20:34](https://news.ycombinator.com/item?id=38677436) - [Sometimes you just have to ship it (2020)](https://letterstoanewdeveloper.com/2020/09/07/sometimes-you-just-have-to-ship-it/)
 * [2023-12-17, 23:08:16](https://news.ycombinator.com/item?id=38677344) - [Qatar Airways Bans YouTuber for Negative Review](https://onemileatatime.com/news/qatar-airways-bans-youtuber-negative-review/)
 * [2023-12-17, 23:06:38](https://news.ycombinator.com/item?id=38677332) - [Do schools kill creativity? – Sir Ken Robinson [video]](https://www.youtube.com/watch?v=iG9CE55wbtY)
 * [2023-12-17, 22:53:52](https://news.ycombinator.com/item?id=38677251) - [\"Yes\" Means \"No\": The Curious Language of Venture Capitalists](https://jacobbartlett.substack.com/p/yes-actually-means-no-the-curious)
