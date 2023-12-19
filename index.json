@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-19, 15:59:15",
-      "https://news.ycombinator.com/item?id=38697218"
-    ],
-    [
-      "Google podcasts is shutting down",
-      "https://support.google.com/youtubemusic/answer/14151168?hl=en"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 15:56:53",
       "https://news.ycombinator.com/item?id=38697195"
     ],
@@ -167,6 +157,16 @@
     [
       "RFC 9518 – What can internet standards do about centralisation?",
       "https://www.mnot.net/blog/2023/12/19/standards-and-centralization"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 10:27:22",
+      "https://news.ycombinator.com/item?id=38693948"
+    ],
+    [
+      "Hardware Intrinsics in .NET 8",
+      "https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/"
     ]
   ],
   [
