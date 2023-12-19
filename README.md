@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-19, 00:16:19](https://news.ycombinator.com/item?id=38690192) - [Rapid Loss of Habitat for Homo sapiens (2021) [pdf]](https://guymcpherson.com/wp-content/uploads/2021/04/Academia-Letters-Number-498-Rapid_Loss_of_Habitat_for_Homo_sapiens.pdf)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 * [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
 * [2023-12-18, 23:30:14](https://news.ycombinator.com/item?id=38689852) - [Copyright claim against Tolkien estate backfires on LOTR fanfiction author](https://www.theguardian.com/books/2023/dec/18/copyright-claim-against-tolkien-estate-backfires-on-lord-of-the-rings-fanfiction-author)
@@ -13,6 +12,7 @@
 * [2023-12-18, 20:55:29](https://news.ycombinator.com/item?id=38688127) - [Librum: Open-Source e-book platform](https://github.com/Librum-Reader/Librum)
 * [2023-12-18, 20:47:36](https://news.ycombinator.com/item?id=38687997) - [PostgREST: Providing HTML Content Using Htmx](https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html)
 * [2023-12-18, 19:58:02](https://news.ycombinator.com/item?id=38687357) - [PostgreSQL 16 Bi-Directional Logical Replication](https://www.highgo.ca/2023/12/18/new-in-postgresql-16-bi-directional-logical-replication/)
+* [2023-12-18, 18:27:35](https://news.ycombinator.com/item?id=38686221) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:37:47](https://news.ycombinator.com/item?id=38685598) - [Flipboard Begins to Federate](https://flipboard.medium.com/flipboard-begins-to-federate-c56ec788feaa)
 * [2023-12-18, 17:11:00](https://news.ycombinator.com/item?id=38685239) - [Desalination can beat batteries for excess energy](https://spectrum.ieee.org/pumped-water-energy-storage)
 * [2023-12-18, 16:47:14](https://news.ycombinator.com/item?id=38684904) - [Terrapin Attack for prefix truncation in SSH](https://terrapin-attack.com)
