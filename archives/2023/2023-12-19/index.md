@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
 * [2023-12-19, 21:42:51](https://news.ycombinator.com/item?id=38702083) - [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
+* [2023-12-19, 21:29:32](https://news.ycombinator.com/item?id=38701899) - [Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)](https://github.com/wavetermdev/waveterm)
 * [2023-12-19, 21:24:34](https://news.ycombinator.com/item?id=38701822) - [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 21:20:04](https://news.ycombinator.com/item?id=38701751) - [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)

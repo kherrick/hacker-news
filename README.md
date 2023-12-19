@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-19, 21:42:51](https://news.ycombinator.com/item?id=38702083) - [The Housing Shortage Is Larger Than You Think](https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65)
+* [2023-12-19, 21:29:32](https://news.ycombinator.com/item?id=38701899) - [Show HN: Wave – Modern Open-Source Terminal (macOS and Linux)](https://github.com/wavetermdev/waveterm)
 * [2023-12-19, 21:24:34](https://news.ycombinator.com/item?id=38701822) - [PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan Video Extensions for Accelerated H.264 and H.265 Encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 21:20:04](https://news.ycombinator.com/item?id=38701751) - [TC39: Add Object.groupBy and Map.groupBy](https://github.com/tc39/ecma262/pull/3176)
@@ -20,7 +21,6 @@
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Diablo 2 Parallax](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [XetCache: Improve Jupyter notebook reruns by caching cells](https://github.com/xetdata/xetcache)
-* [2023-12-19, 14:32:05](https://news.ycombinator.com/item?id=38695938) - [The day I started believing in unit tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [TuneNN: A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
