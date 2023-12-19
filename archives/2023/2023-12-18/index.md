@@ -24,6 +24,7 @@
 * [2023-12-18, 20:34:18](https://news.ycombinator.com/item?id=38687809) - [3Blue1Brown Calculus Blog Series](https://www.3blue1brown.com/topics/calculus)
 * [2023-12-18, 20:24:11](https://news.ycombinator.com/item?id=38687679) - [The rise and fall of peer review](https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review)
 * [2023-12-18, 20:20:44](https://news.ycombinator.com/item?id=38687637) - [AI may be on a trajectory to surpass human intelligence; we should be prepared](https://www.imf.org/en/Publications/fandd/issues/2023/12/Scenario-Planning-for-an-AGI-future-Anton-korinek)
+* [2023-12-18, 20:16:51](https://news.ycombinator.com/item?id=38687586) - [A Silken Web](https://aeon.co/essays/silk-is-a-thread-that-opens-up-the-weave-of-human-history)
 * [2023-12-18, 20:14:50](https://news.ycombinator.com/item?id=38687567) - ['Long flu' has emerged as a consequence similar to long Covid](https://medicine.wustl.edu/news/long-flu-has-emerged-as-a-consequence-similar-to-long-covid-19/)
 * [2023-12-18, 20:04:14](https://news.ycombinator.com/item?id=38687443) - [Tofu-maker Yamami sees shares surge after automating ancient craft](https://www.japantimes.co.jp/business/2023/12/18/companies/japan-tofu-maker-share-up/)
 * [2023-12-18, 20:03:06](https://news.ycombinator.com/item?id=38687430) - [The Pontiac Aztek Was Not a Design Tragedy, It Was a Corporate Tragedy](https://www.theautopian.com/the-pontiac-aztek-was-not-a-design-tragedy-it-was-a-corporate-tragedy/)
