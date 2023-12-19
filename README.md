@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-19, 19:07:52](https://news.ycombinator.com/item?id=38700038) - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
+* [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 17:57:39](https://news.ycombinator.com/item?id=38699007) - [UK plan to digitise wills and destroy paper originals \"insane\" say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
@@ -24,11 +26,9 @@
 * [2023-12-18, 16:04:00](https://news.ycombinator.com/item?id=38684295) - [How many CPU cores can you use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-18, 09:19:37](https://news.ycombinator.com/item?id=38680598) - [The Birth of Rock 'N' Roll Is Found at Sam Phillips's Sun Records (2016)](https://www.neh.gov/humanities/2016/januaryfebruary/statement/the-birth-rock-%E2%80%98n%E2%80%99-roll-found-sam-phillips%E2%80%99s-sun-records)
-* [2023-12-18, 08:36:03](https://news.ycombinator.com/item?id=38680346) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
 * [2023-12-18, 07:17:51](https://news.ycombinator.com/item?id=38680003) - [It All Started with a Mouse](https://pluralistic.net/2023/12/15/mouse-liberation-front/)
 * [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He felt 'creatively dead', then harnessed the power of boredom](https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom)
-* [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 * [2023-12-17, 10:32:13](https://news.ycombinator.com/item?id=38671876) - [How to learn chess as an adult (2021)](https://www.alexcrompton.com/blog/how-to-learn-chess)
 
 ## [Archives](archives/index.md)

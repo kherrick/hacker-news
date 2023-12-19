@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 19:07:52](https://news.ycombinator.com/item?id=38700038) - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
+* [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:11:10](https://news.ycombinator.com/item?id=38699223) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
