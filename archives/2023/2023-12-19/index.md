@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 14:23:03](https://news.ycombinator.com/item?id=38695822) - ['Fake' Seal Impression of Biblical King Jeroboam Is Authentic](https://www.haaretz.com/archaeology/2023-12-18/ty-article/fake-seal-impression-of-biblical-king-jeroboam-is-authentic-new-study-says/0000018c-7853-d98c-abef-fed7f4370000)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
+* [2023-12-19, 14:01:53](https://news.ycombinator.com/item?id=38695583) - [Gemini Pro achieves accuracy slightly inferior to GPT 3.5 Turbo](https://arxiv.org/abs/2312.11444)
 * [2023-12-19, 13:52:00](https://news.ycombinator.com/item?id=38695500) - [It Sure Looks Like Phones Are Making Students Dumber](https://www.theatlantic.com/ideas/archive/2023/12/cell-phones-student-test-scores-dropping/676889/)
 * [2023-12-19, 13:51:47](https://news.ycombinator.com/item?id=38695496) - [In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors](https://spectrum.ieee.org/intel-20a)
 * [2023-12-19, 13:48:19](https://news.ycombinator.com/item?id=38695456) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
