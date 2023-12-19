@@ -5,7 +5,7 @@
 * [2023-12-19, 03:23:02](https://news.ycombinator.com/item?id=38691416) - [She Gave a Hotel a Mediocre Review. Then Came the Badgering](https://www.wsj.com/business/online-reviews-positive-customers-pressured-to-leave-9efbade7)
 * [2023-12-19, 03:20:14](https://news.ycombinator.com/item?id=38691396) - [Zombie fly fungus lures healthy male flies to mate with female corpses (2022)](https://phys.org/news/2022-07-zombie-fungus-lures-healthy-male.html)
 * [2023-12-19, 03:01:36](https://news.ycombinator.com/item?id=38691268) - [The first experimental support for LK99-type superconductivity](https://arxiv.org/abs/2312.10391)
-* [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook (and a #1 post on Hacker News)](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
+* [2023-12-19, 02:19:21](https://news.ycombinator.com/item?id=38691025) - [Unbricking my MacBook took an email to Tim Cook](https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook)
 * [2023-12-18, 23:58:38](https://news.ycombinator.com/item?id=38690060) - [Google's True Moonshot](https://stratechery.com/2023/googles-true-moonshot/)
 * [2023-12-18, 23:40:44](https://news.ycombinator.com/item?id=38689924) - [Grindavik [video]](https://www.youtube.com/watch?v=hvcP4kVVOnk)
 * [2023-12-18, 23:33:22](https://news.ycombinator.com/item?id=38689869) - [Lessons from a never-ending personal project](https://siddhesh.substack.com/p/projects)
