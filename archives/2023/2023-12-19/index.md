@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-19](index.md)
+
+* [2023-12-19, 00:16:19](https://news.ycombinator.com/item?id=38690192) - [Rapid Loss of Habitat for Homo sapiens (2021) [pdf]](https://guymcpherson.com/wp-content/uploads/2021/04/Academia-Letters-Number-498-Rapid_Loss_of_Habitat_for_Homo_sapiens.pdf)
