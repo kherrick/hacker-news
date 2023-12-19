@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
+* [2023-12-19, 06:46:32](https://news.ycombinator.com/item?id=38692623) - [Why Bitcoin is up by almost 150% this year](https://www.economist.com/finance-and-economics/2023/12/18/why-bitcoin-is-up-by-almost-150-this-year)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
 * [2023-12-19, 06:03:18](https://news.ycombinator.com/item?id=38692393) - [I've Misunderstood the Single Responsibility Principle](https://www.sicpers.info/2023/10/ive-vastly-misunderstood-the-single-responsibility-principle/)
 * [2023-12-19, 05:56:56](https://news.ycombinator.com/item?id=38692350) - [Australian sea captain says he may have found missing Malaysian Airlines flight](https://www.smh.com.au/national/a-trawler-skipper-s-memory-from-the-deep-dredges-up-intriguing-questions-20231214-p5erln.html)
