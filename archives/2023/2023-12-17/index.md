@@ -15,6 +15,7 @@
 * [2023-12-17, 22:16:51](https://news.ycombinator.com/item?id=38677025) - [OpenAI employee: GPT-4.5 rumor was a hallucination](https://twitter.com/willdepue/status/1736470540351950867)
 * [2023-12-17, 22:06:24](https://news.ycombinator.com/item?id=38676952) - [The Debt Problem Is Enormous, and the System for Fixing It Is Broken](https://www.nytimes.com/2023/12/16/business/economy/imf-world-bank-sovereign-debt.html)
 * [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He was 'creatively dead.' Then he harnessed the power of boredom](https://text.npr.org/1219463824)
+* [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He felt 'creatively dead', then harnessed the power of boredom](https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom)
 * [2023-12-17, 21:36:03](https://news.ycombinator.com/item?id=38676697) - [Google Tables Is Dead](https://support.google.com/area120-tables/answer/10831919?hl=en)
 * [2023-12-17, 21:25:53](https://news.ycombinator.com/item?id=38676612) - [How to Choose Cookware (2014)](https://www.centurylife.org/how-to-choose-cookware/)
 * [2023-12-17, 21:19:26](https://news.ycombinator.com/item?id=38676563) - [Fsearch, a fast file search utility for Unix-like systems](https://github.com/cboxdoerfer/fsearch)
