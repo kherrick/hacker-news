@@ -25,11 +25,11 @@
 * [2023-12-19, 13:04:58](https://news.ycombinator.com/item?id=38695010) - [The daredevil flight to save rare birds](https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds)
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [TuneNN: A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
+* [2023-12-19, 10:10:22](https://news.ycombinator.com/item?id=38693852) - [Everything you know about the podcast industry is a lie](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
-* [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 
 ## [Archives](archives/index.md)
 

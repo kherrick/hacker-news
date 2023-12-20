@@ -84,6 +84,7 @@
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 10:36:05](https://news.ycombinator.com/item?id=38694001) - [Basic Gerrit Walkthrough – For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
+* [2023-12-19, 10:10:22](https://news.ycombinator.com/item?id=38693852) - [Everything you know about the podcast industry is a lie](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
