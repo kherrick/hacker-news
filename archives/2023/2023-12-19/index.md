@@ -85,6 +85,7 @@
 * [2023-12-19, 10:36:05](https://news.ycombinator.com/item?id=38694001) - [Basic Gerrit Walkthrough – For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
+* [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 06:46:32](https://news.ycombinator.com/item?id=38692623) - [Why Bitcoin is up by almost 150% this year](https://www.economist.com/finance-and-economics/2023/12/18/why-bitcoin-is-up-by-almost-150-this-year)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [Marvin Attack on RSA (Rust): potential key recovery through timing sidechannels](https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr)
