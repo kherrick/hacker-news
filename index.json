@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-20, 02:38:42",
-      "https://news.ycombinator.com/item?id=38704830"
-    ],
-    [
-      "Rite Aid banned from using AI facial recognition for five years",
-      "https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 02:19:19",
       "https://news.ycombinator.com/item?id=38704725"
     ],
@@ -57,6 +47,16 @@
     [
       "Build a search engine, not a vector DB",
       "https://blog.elicit.com/search-vs-vector-db/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 00:01:34",
+      "https://news.ycombinator.com/item?id=38703724"
+    ],
+    [
+      "MiniLang: A type-safe C successor that compiles directly to x86_64 assembly",
+      "https://github.com/NICUP14/MiniLang"
     ]
   ],
   [
