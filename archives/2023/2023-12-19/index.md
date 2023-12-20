@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 23:38:40](https://news.ycombinator.com/item?id=38703529) - [Shoplifting and frustrated customers plague self-checkout](https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning)
 * [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
+* [2023-12-19, 22:37:02](https://news.ycombinator.com/item?id=38702859) - [Beeper's esoteric fix for iMessage access suggests why it's pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
+* [2023-12-19, 22:30:52](https://news.ycombinator.com/item?id=38702783) - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
@@ -22,6 +25,7 @@
 * [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://x.com/dominicstpierre/status/1737069029976617420?s=46)
 * [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://twitter.com/dominicstpierre/status/1737069029976617420)
 * [2023-12-19, 20:02:24](https://news.ycombinator.com/item?id=38700742) - [Due to AI, \"We are about to enter the era of mass spying,\" says Bruce Schneier](https://arstechnica.com/information-technology/2023/12/due-to-ai-we-are-about-to-enter-the-era-of-mass-spying-says-bruce-schneier/)
+* [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
 * [2023-12-19, 19:42:12](https://news.ycombinator.com/item?id=38700483) - [Microsoft nears glass storage breakthrough; could make ransomware attacks harder](https://www.techradar.com/pro/microsoft-inches-closer-to-glass-storage-breakthrough-that-could-finally-make-ransomware-attacks-impossible-in-the-data-center-and-hyperscalers-but-only-azure-customers-will-benefit-from-it)
 * [2023-12-19, 19:34:37](https://news.ycombinator.com/item?id=38700387) - [Stupid by Choice](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
 * [2023-12-19, 19:33:16](https://news.ycombinator.com/item?id=38700363) - [Asyncio Task Cancellation Best Practices](https://superfastpython.com/asyncio-task-cancellation-best-practices/)
