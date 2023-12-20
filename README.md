@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 15:24:38](https://news.ycombinator.com/item?id=38709653) - [On Car Seats as Contraception](https://thezvi.substack.com/p/on-car-seats-as-contraception)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 14:37:13](https://news.ycombinator.com/item?id=38709127) - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 * [2023-12-20, 14:36:31](https://news.ycombinator.com/item?id=38709121) - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
@@ -27,7 +28,6 @@
 * [2023-12-19, 11:19:55](https://news.ycombinator.com/item?id=38694278) - [Quint: A specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
-* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-17, 11:46:12](https://news.ycombinator.com/item?id=38672211) - [Responsive scrollable videos without obscure video encoding requirements](https://scrollyvideo.js.org/)
 
