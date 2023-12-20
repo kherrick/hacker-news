@@ -2,11 +2,11 @@
 
 * [2023-12-20, 04:17:53](https://news.ycombinator.com/item?id=38705399) - [Hn.js](https://news.ycombinator.com/hn.js)
 * [2023-12-20, 03:02:43](https://news.ycombinator.com/item?id=38704982) - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-* [2023-12-20, 02:42:52](https://news.ycombinator.com/item?id=38704847) - [All Our Patent Are Belong to You (2014)](https://www.tesla.com/blog/all-our-patent-are-belong-you)
-* [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
+* [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 * [2023-12-20, 02:19:19](https://news.ycombinator.com/item?id=38704725) - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 * [2023-12-20, 02:16:03](https://news.ycombinator.com/item?id=38704704) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-20, 01:00:13](https://news.ycombinator.com/item?id=38704232) - [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
+* [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
