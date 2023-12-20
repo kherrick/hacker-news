@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 11:46:33](https://news.ycombinator.com/item?id=38707589) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 * [2023-12-20, 10:53:58](https://news.ycombinator.com/item?id=38707275) - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
 * [2023-12-20, 10:28:32](https://news.ycombinator.com/item?id=38707156) - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
 * [2023-12-20, 10:18:02](https://news.ycombinator.com/item?id=38707095) - [Elite: \"The game that couldn't be written\" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
@@ -21,7 +22,6 @@
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
-* [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
 * [2023-12-19, 13:04:58](https://news.ycombinator.com/item?id=38695010) - [A daredevil flight to save rare birds](https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
