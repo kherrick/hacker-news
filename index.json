@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-12-19, 23:38:40",
+      "https://news.ycombinator.com/item?id=38703529"
+    ],
+    [
+      "Shoplifting and frustrated customers plague self-checkout",
+      "https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 23:02:03",
       "https://news.ycombinator.com/item?id=38703161"
     ],
     [
       "Performance of llama.cpp on Apple Silicon A-series",
       "https://github.com/ggerganov/llama.cpp/discussions/4508"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 22:37:02",
+      "https://news.ycombinator.com/item?id=38702859"
+    ],
+    [
+      "Beeper's esoteric fix for iMessage access suggests why it's pushing politically",
+      "https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 22:30:52",
+      "https://news.ycombinator.com/item?id=38702783"
+    ],
+    [
+      "Tell HN: Microsoft.com added 192.168.1.1 to their DNS record",
+      "https://news.ycombinator.com/item?id=38702783"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2023-12-19, 20:28:11",
-      "https://news.ycombinator.com/item?id=38701043"
+      "2023-12-19, 19:48:31",
+      "https://news.ycombinator.com/item?id=38700552"
     ],
     [
-      "Winning over hearts and minds work: ADKAR my favorite change management approach",
-      "https://blog.dagworks.io/p/winning-hearts-and-minds-at-work"
+      "Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2",
+      "https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "A Lufthansa A350's frustrating Oakland diversion",
       "https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 18:18:07",
-      "https://news.ycombinator.com/item?id=38699331"
-    ],
-    [
-      "A Mathematical Perspective on Transformers",
-      "https://arxiv.org/abs/2312.10794"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 18:11:10",
-      "https://news.ycombinator.com/item?id=38699223"
-    ],
-    [
-      "C++ Should Be C++",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Perplexity Labs Playground",
       "https://labs.perplexity.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 17:14:37",
-      "https://news.ycombinator.com/item?id=38698343"
-    ],
-    [
-      "Comcast says hackers stole data of close to 36M Xfinity customers",
-      "https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2023-12-19, 15:18:31",
-      "https://news.ycombinator.com/item?id=38696631"
+      "2023-12-19, 14:17:25",
+      "https://news.ycombinator.com/item?id=38695750"
     ],
     [
-      "XetCache: Improve Jupyter notebook reruns by caching cells",
-      "https://github.com/xetdata/xetcache"
+      "Jepsen: MySQL 8.0.34",
+      "https://jepsen.io/analyses/mysql-8.0.34"
     ]
   ],
   [
@@ -251,32 +251,12 @@
   ],
   [
     [
-      "2023-12-19, 10:36:35",
-      "https://news.ycombinator.com/item?id=38694004"
-    ],
-    [
-      "RFC 9518 – What can internet standards do about centralisation?",
-      "https://www.mnot.net/blog/2023/12/19/standards-and-centralization"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 04:22:30",
       "https://news.ycombinator.com/item?id=38691776"
     ],
     [
       "The Magic of a Crooked Sixpence",
       "https://daily.jstor.org/the-magic-of-a-crooked-sixpence/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 18:26:40",
-      "https://news.ycombinator.com/item?id=38686207"
-    ],
-    [
-      "The Underwater Cabaret: A magazine made while hiding from the Nazis in an attic",
-      "https://www.nytimes.com/2023/12/18/arts/design/dutch-resistance-ww2-magazine-holocaust.html"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-12-18, 08:16:20",
+      "https://news.ycombinator.com/item?id=38680239"
+    ],
+    [
+      "Serendipity is too important to be left to chance (1996)",
+      "https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 22:05:29",
       "https://news.ycombinator.com/item?id=38676942"
     ],
     [
       "He felt 'creatively dead', then harnessed the power of boredom",
       "https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 13:39:49",
+      "https://news.ycombinator.com/item?id=38672762"
+    ],
+    [
+      "A 90-year-old man who built a western wear empire",
+      "https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/"
     ]
   ]
 ]
