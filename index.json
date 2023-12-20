@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 14:37:13",
+      "https://news.ycombinator.com/item?id=38709127"
+    ],
+    [
+      "Show HN: I made a dead simple logo maker",
+      "https://shipfa.st/tools/logo-fast"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 14:36:31",
       "https://news.ycombinator.com/item?id=38709121"
     ],
@@ -37,6 +47,26 @@
     [
       "Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)",
       "https://www.zachleat.com/web/netlify-and-nextjs/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 13:58:51",
+      "https://news.ycombinator.com/item?id=38708730"
+    ],
+    [
+      "Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch",
+      "https://github.com/johnma2006/mamba-minimal"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 13:46:08",
+      "https://news.ycombinator.com/item?id=38708585"
+    ],
+    [
+      "High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs",
+      "https://github.com/SJTU-IPADS/PowerInfer"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material",
       "https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 12:52:44",
-      "https://news.ycombinator.com/item?id=38708065"
-    ],
-    [
-      "Rite Aid banned from using face recognition software after false ID shoplifters",
-      "https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-20, 01:00:13",
-      "https://news.ycombinator.com/item?id=38704232"
-    ],
-    [
-      "Sudo without a setuid binary or SSH over a Unix socket",
-      "https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 00:27:10",
       "https://news.ycombinator.com/item?id=38703943"
     ],
@@ -217,16 +227,6 @@
     [
       "Simulating fluids, fire, and smoke in real-time",
       "https://andrewkchan.dev/posts/fire.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 17:44:33",
-      "https://news.ycombinator.com/item?id=38698782"
-    ],
-    [
-      "Perplexity Labs Playground",
-      "https://labs.perplexity.ai/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-12-19, 08:15:21",
+      "https://news.ycombinator.com/item?id=38693120"
+    ],
+    [
+      "Borges and AI",
+      "https://arxiv.org/abs/2310.01425"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 07:02:54",
       "https://news.ycombinator.com/item?id=38692715"
     ],
     [
       "Open Source Infrastructure Somleng",
       "https://www.somleng.org/blog.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 13:04:34",
-      "https://news.ycombinator.com/item?id=38681861"
-    ],
-    [
-      "Figma and Adobe abandon proposed merger",
-      "https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/"
     ]
   ],
   [
