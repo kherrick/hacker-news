@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 21:25:21](https://news.ycombinator.com/item?id=38713844) - [Clear wants to scan your face at airports. Privacy experts are worried.](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 20:26:43](https://news.ycombinator.com/item?id=38713167) - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
 * [2023-12-20, 20:15:43](https://news.ycombinator.com/item?id=38713055) - [Null Island Tourist Shirt](https://github.com/yetzt/null-island)
@@ -54,6 +55,7 @@
 * [2023-12-20, 12:56:45](https://news.ycombinator.com/item?id=38708099) - [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
 * [2023-12-20, 12:52:44](https://news.ycombinator.com/item?id=38708065) - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
+* [2023-12-20, 12:43:33](https://news.ycombinator.com/item?id=38707980) - [A new technology is upending bowling](https://www.latimes.com/california/story/2023-11-21/la-me-bowling-revolution)
 * [2023-12-20, 12:19:21](https://news.ycombinator.com/item?id=38707809) - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
 * [2023-12-20, 11:46:33](https://news.ycombinator.com/item?id=38707589) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 * [2023-12-20, 11:30:15](https://news.ycombinator.com/item?id=38707475) - [Show HN: Easily train AlphaZero-like agents on any environment you want!](https://github.com/s-casci/tinyzero)
