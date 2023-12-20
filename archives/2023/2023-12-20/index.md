@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 23:07:17](https://news.ycombinator.com/item?id=38714855) - [NRF retracts its assertion that organized retail crime led to 50% of losses](https://stateline.org/2023/12/19/smash-and-grab-robberies-fuel-new-laws-but-critics-question-the-need/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:44:00](https://news.ycombinator.com/item?id=38714650) - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)

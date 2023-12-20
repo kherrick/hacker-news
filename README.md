@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 23:07:17](https://news.ycombinator.com/item?id=38714855) - [NRF retracts its assertion that organized retail crime led to 50% of losses](https://stateline.org/2023/12/19/smash-and-grab-robberies-fuel-new-laws-but-critics-question-the-need/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:44:00](https://news.ycombinator.com/item?id=38714650) - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
@@ -13,7 +14,6 @@
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
 * [2023-12-20, 16:43:10](https://news.ycombinator.com/item?id=38710600) - [Show HN: Quack Companion – VSCode extension for OSS contribution assistance](https://github.com/quack-ai/companion)
-* [2023-12-20, 16:26:35](https://news.ycombinator.com/item?id=38710387) - [Building a faster hash table for high performance SQL joins](https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 13:59:59](https://news.ycombinator.com/item?id=38708743) - [How I Work](https://blar.do/how-i-work/)
