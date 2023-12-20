@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 * [2023-12-20, 15:24:38](https://news.ycombinator.com/item?id=38709653) - [On Car Seats as Contraception](https://thezvi.substack.com/p/on-car-seats-as-contraception)
 * [2023-12-20, 15:18:44](https://news.ycombinator.com/item?id=38709583) - [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
