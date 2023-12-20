@@ -2,10 +2,10 @@
 
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 03:02:43](https://news.ycombinator.com/item?id=38704982) - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
-* [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid banned from using AI facial recognition for five years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 * [2023-12-20, 02:19:19](https://news.ycombinator.com/item?id=38704725) - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 * [2023-12-20, 02:16:03](https://news.ycombinator.com/item?id=38704704) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-20, 00:27:10](https://news.ycombinator.com/item?id=38703943) - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
+* [2023-12-20, 00:01:34](https://news.ycombinator.com/item?id=38703724) - [MiniLang: A type-safe C successor that compiles directly to x86_64 assembly](https://github.com/NICUP14/MiniLang)
 * [2023-12-19, 22:26:00](https://news.ycombinator.com/item?id=38702738) - [Nio ET7 with 150 kWh semi-solid state battery achieves a 1,044 km range](https://carnewschina.com/2023/12/17/nio-et7-with-150-kwh-semi-solid-state-battery-achieves-a-1044-km-range/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
