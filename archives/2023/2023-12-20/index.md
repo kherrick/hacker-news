@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
+* [2023-12-20, 20:26:43](https://news.ycombinator.com/item?id=38713167) - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
+* [2023-12-20, 20:15:43](https://news.ycombinator.com/item?id=38713055) - [Null Island Tourist Shirt](https://github.com/yetzt/null-island)
 * [2023-12-20, 20:08:05](https://news.ycombinator.com/item?id=38712992) - [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
 * [2023-12-20, 19:50:24](https://news.ycombinator.com/item?id=38712802) - [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 * [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)

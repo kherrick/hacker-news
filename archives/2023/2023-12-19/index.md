@@ -40,6 +40,7 @@
 * [2023-12-19, 18:18:07](https://news.ycombinator.com/item?id=38699331) - [A Mathematical Perspective on Transformers](https://arxiv.org/abs/2312.10794)
 * [2023-12-19, 18:11:10](https://news.ycombinator.com/item?id=38699223) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" Floppy Drive](https://floppy.cafe/)
+* [2023-12-19, 17:57:48](https://news.ycombinator.com/item?id=38699010) - [Dyalog '18: Rectangles All the Way Down (2018) [video]](https://www.youtube.com/watch?v=mK2WUDIY4hk)
 * [2023-12-19, 17:57:39](https://news.ycombinator.com/item?id=38699007) - [UK plan to digitise wills and destroy paper originals \"insane\" say experts](https://www.theguardian.com/society/2023/dec/18/ministry-of-justice-plan-to-destroy-historical-wills-is-insane-say-experts)
 * [2023-12-19, 17:53:54](https://news.ycombinator.com/item?id=38698945) - [Electrified cloth extracts uranium from seawater](https://newatlas.com/science/electrified-cloth-extracts-uranium-from-seawater/)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
