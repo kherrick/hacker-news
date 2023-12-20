@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 20:08:05](https://news.ycombinator.com/item?id=38712992) - [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
 * [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
@@ -24,7 +25,6 @@
 * [2023-12-20, 09:01:29](https://news.ycombinator.com/item?id=38706697) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 02:19:19](https://news.ycombinator.com/item?id=38704725) - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 * [2023-12-20, 00:58:07](https://news.ycombinator.com/item?id=38704215) - [Math Team](https://benexdict.io/p/math-team)
-* [2023-12-19, 20:28:11](https://news.ycombinator.com/item?id=38701043) - [Winning over hearts and minds work: ADKAR my favorite change management approach](https://blog.dagworks.io/p/winning-hearts-and-minds-at-work)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
