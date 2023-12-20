@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 12:52:44](https://news.ycombinator.com/item?id=38708065) - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
+* [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
 * [2023-12-20, 12:19:21](https://news.ycombinator.com/item?id=38707809) - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
 * [2023-12-20, 11:46:33](https://news.ycombinator.com/item?id=38707589) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 * [2023-12-20, 10:53:58](https://news.ycombinator.com/item?id=38707275) - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
