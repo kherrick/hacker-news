@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-20, 04:17:53",
+      "https://news.ycombinator.com/item?id=38705399"
+    ],
+    [
+      "Hn.js",
+      "https://news.ycombinator.com/hn.js"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 03:02:43",
+      "https://news.ycombinator.com/item?id=38704982"
+    ],
+    [
+      "LLM in a Flash: Efficient LLM Inference with Limited Memory",
+      "https://huggingface.co/papers/2312.11514"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 02:42:52",
       "https://news.ycombinator.com/item?id=38704847"
     ],
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2023-12-20, 02:34:07",
-      "https://news.ycombinator.com/item?id=38704802"
+      "2023-12-20, 02:19:19",
+      "https://news.ycombinator.com/item?id=38704725"
     ],
     [
-      "Sam Altman got $75M from the University of Michigan for a new VC fund",
-      "https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 02:33:45",
-      "https://news.ycombinator.com/item?id=38704798"
-    ],
-    [
-      "The Private Equity Firm Tapping America's Spring Water",
-      "https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/"
+      "An underground delivery train comes to the Atlanta suburbs",
+      "https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38695010"
     ],
     [
-      "The daredevil flight to save rare birds",
+      "A daredevil flight to save rare birds",
       "https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds"
     ]
   ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-12-19, 10:10:22",
-      "https://news.ycombinator.com/item?id=38693852"
-    ],
-    [
-      "Everything you know about the podcast industry is a lie",
-      "https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 09:34:29",
       "https://news.ycombinator.com/item?id=38693603"
     ],
@@ -271,21 +271,11 @@
   ],
   [
     [
-      "2023-12-19, 08:43:37",
-      "https://news.ycombinator.com/item?id=38693276"
-    ],
-    [
-      "The World Before Git",
-      "https://osshistory.org/p/the-world-before-git"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 06:48:46",
       "https://news.ycombinator.com/item?id=38692634"
     ],
     [
-      "About time: how to unit test code that depends on time",
+      "How to unit test code that depends on time",
       "https://playfulprogramming.blogspot.com/2023/12/about-time.html"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Serendipity is too important to be left to chance (1996)",
       "https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-17, 13:39:49",
+      "https://news.ycombinator.com/item?id=38672762"
+    ],
+    [
+      "A 90-year-old man who built a western wear empire",
+      "https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/"
     ]
   ]
 ]
