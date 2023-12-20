@@ -8,6 +8,7 @@
 * [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
 * [2023-12-19, 22:37:02](https://news.ycombinator.com/item?id=38702859) - [Beeper's esoteric fix for iMessage access suggests why it's pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
 * [2023-12-19, 22:30:52](https://news.ycombinator.com/item?id=38702783) - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
+* [2023-12-19, 22:26:00](https://news.ycombinator.com/item?id=38702738) - [Nio ET7 with 150 kWh semi-solid state battery achieves a 1,044 km range](https://carnewschina.com/2023/12/17/nio-et7-with-150-kwh-semi-solid-state-battery-achieves-a-1044-km-range/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
