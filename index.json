@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38710818"
     ],
     [
-      "Dear ImGui: Bloat-free Graphical User interface with minimal dependencies",
+      "Dear ImGui: Graphical User Interface library for C++",
       "https://github.com/ocornut/imgui"
     ]
   ],
