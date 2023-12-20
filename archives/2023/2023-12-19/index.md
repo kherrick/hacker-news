@@ -22,6 +22,7 @@
 * [2023-12-19, 20:36:52](https://news.ycombinator.com/item?id=38701159) - [Tesla Drivers Have the Highest Crash Rate of Any Brand: Study](https://www.thedrive.com/news/tesla-drivers-have-the-highest-crash-rate-of-any-brand-study)
 * [2023-12-19, 20:28:11](https://news.ycombinator.com/item?id=38701043) - [Winning over hearts and minds work: ADKAR my favorite change management approach](https://blog.dagworks.io/p/winning-hearts-and-minds-at-work)
 * [2023-12-19, 20:19:58](https://news.ycombinator.com/item?id=38700927) - [The Ministry of Justice is engaged in historical vandalism](https://www.spectator.co.uk/article/the-ministry-of-justice-is-engaged-in-historical-vandalism/)
+* [2023-12-19, 20:08:40](https://news.ycombinator.com/item?id=38700805) - [Show HN: Chrome Reaper](https://github.com/usnistgov/Metrology/tree/master/Reaper)
 * [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://x.com/dominicstpierre/status/1737069029976617420?s=46)
 * [2023-12-19, 20:07:16](https://news.ycombinator.com/item?id=38700794) - [Did the cloud made us over-engineer some systems that could have been simpler?](https://twitter.com/dominicstpierre/status/1737069029976617420)
 * [2023-12-19, 20:02:24](https://news.ycombinator.com/item?id=38700742) - [Due to AI, \"We are about to enter the era of mass spying,\" says Bruce Schneier](https://arstechnica.com/information-technology/2023/12/due-to-ai-we-are-about-to-enter-the-era-of-mass-spying-says-bruce-schneier/)
