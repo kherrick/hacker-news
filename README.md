@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 03:30:01](https://news.ycombinator.com/item?id=38705132) - [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
@@ -17,7 +16,7 @@
 * [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
 * [2023-12-19, 19:09:23](https://news.ycombinator.com/item?id=38700060) - [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's frustrating Oakland diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
-* [2023-12-19, 18:18:07](https://news.ycombinator.com/item?id=38699331) - [A Mathematical Perspective on Transformers](https://arxiv.org/abs/2312.10794)
+* [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" floppy drive](https://floppy.cafe/)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
@@ -25,6 +24,7 @@
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
 * [2023-12-19, 13:04:58](https://news.ycombinator.com/item?id=38695010) - [A daredevil flight to save rare birds](https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds)
+* [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [How to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
