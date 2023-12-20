@@ -4,7 +4,6 @@
 * [2023-12-20, 14:37:13](https://news.ycombinator.com/item?id=38709127) - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 * [2023-12-20, 14:36:31](https://news.ycombinator.com/item?id=38709121) - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
 * [2023-12-20, 14:31:56](https://news.ycombinator.com/item?id=38709070) - [JP Krucker's weight shift amphibious autogyro [video]](https://www.youtube.com/watch?v=M77amKgBWOY)
-* [2023-12-20, 14:17:54](https://news.ycombinator.com/item?id=38708938) - [Exploitive, illegal photos of children found in the data that trains some AI](https://www.washingtonpost.com/technology/2023/12/20/ai-child-pornography-abuse-photos-laion/)
 * [2023-12-20, 14:04:05](https://news.ycombinator.com/item?id=38708794) - [Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)](https://www.zachleat.com/web/netlify-and-nextjs/)
 * [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 * [2023-12-20, 13:46:08](https://news.ycombinator.com/item?id=38708585) - [High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
@@ -28,6 +27,7 @@
 * [2023-12-19, 11:19:55](https://news.ycombinator.com/item?id=38694278) - [Quint: A specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
+* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-17, 11:46:12](https://news.ycombinator.com/item?id=38672211) - [Responsive scrollable videos without obscure video encoding requirements](https://scrollyvideo.js.org/)
 
