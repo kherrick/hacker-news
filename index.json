@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-12-19, 21:24:34",
-      "https://news.ycombinator.com/item?id=38701822"
-    ],
-    [
-      "PowerInfer: Fast Large Language Model Serving with a Consumer-Grade GPU [pdf]",
-      "https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 21:21:36",
       "https://news.ycombinator.com/item?id=38701780"
     ],
@@ -187,6 +177,16 @@
     [
       "The Inner Ring (1944)",
       "https://www.lewissociety.org/innerring/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 15:18:31",
+      "https://news.ycombinator.com/item?id=38696631"
+    ],
+    [
+      "XetCache: Improve Jupyter notebook reruns by caching cells",
+      "https://github.com/xetdata/xetcache"
     ]
   ],
   [
