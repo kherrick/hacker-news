@@ -14,7 +14,6 @@
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
 * [2023-12-20, 11:30:15](https://news.ycombinator.com/item?id=38707475) - [Show HN: Easily train AlphaZero-like agents on any environment you want!](https://github.com/s-casci/tinyzero)
 * [2023-12-20, 10:53:58](https://news.ycombinator.com/item?id=38707275) - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
-* [2023-12-20, 10:28:32](https://news.ycombinator.com/item?id=38707156) - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
 * [2023-12-20, 10:18:02](https://news.ycombinator.com/item?id=38707095) - [Elite: \"The game that couldn't be written\" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
 * [2023-12-20, 09:01:29](https://news.ycombinator.com/item?id=38706697) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
@@ -28,6 +27,7 @@
 * [2023-12-19, 11:19:55](https://news.ycombinator.com/item?id=38694278) - [Quint: A specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
+* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-17, 11:46:12](https://news.ycombinator.com/item?id=38672211) - [Responsive scrollable videos without obscure video encoding requirements](https://scrollyvideo.js.org/)
 
