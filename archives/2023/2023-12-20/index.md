@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
+* [2023-12-20, 22:44:00](https://news.ycombinator.com/item?id=38714650) - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
 * [2023-12-20, 21:32:53](https://news.ycombinator.com/item?id=38713927) - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 * [2023-12-20, 21:25:21](https://news.ycombinator.com/item?id=38713844) - [Clear wants to scan your face at airports. Privacy experts are worried.](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
