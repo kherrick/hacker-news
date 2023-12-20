@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 03:30:01](https://news.ycombinator.com/item?id=38705132) - [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
@@ -17,7 +18,6 @@
 * [2023-12-19, 19:09:23](https://news.ycombinator.com/item?id=38700060) - [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's frustrating Oakland diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:18:07](https://news.ycombinator.com/item?id=38699331) - [A Mathematical Perspective on Transformers](https://arxiv.org/abs/2312.10794)
-* [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" floppy drive](https://floppy.cafe/)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
