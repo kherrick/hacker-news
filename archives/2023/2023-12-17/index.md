@@ -69,6 +69,7 @@
 * [2023-12-17, 12:26:17](https://news.ycombinator.com/item?id=38672386) - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:03:00](https://news.ycombinator.com/item?id=38672295) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-17, 11:49:15](https://news.ycombinator.com/item?id=38672224) - [Dynamic Soaring](https://en.wikipedia.org/wiki/Dynamic_soaring)
+* [2023-12-17, 11:46:12](https://news.ycombinator.com/item?id=38672211) - [Responsive scrollable videos without obscure video encoding requirements](https://scrollyvideo.js.org/)
 * [2023-12-17, 11:33:56](https://news.ycombinator.com/item?id=38672162) - [Texas power plants have no responsibility to provide electricity in emergencies](https://www.kut.org/energy-environment/2023-12-15/texas-power-plants-have-no-responsibility-to-provide-electricity-in-emergencies-judges-rule)
 * [2023-12-17, 11:27:48](https://news.ycombinator.com/item?id=38672133) - [Trumpet is an operating system for simple and robust cell-free biocomputing](https://www.nature.com/articles/s41467-023-37752-x)
 * [2023-12-17, 11:23:45](https://news.ycombinator.com/item?id=38672112) - [Ventoy](https://www.ventoy.net/en/index.html)
