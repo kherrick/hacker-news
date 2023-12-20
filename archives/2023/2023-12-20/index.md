@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 * [2023-12-20, 17:18:45](https://news.ycombinator.com/item?id=38711003) - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
@@ -18,6 +19,7 @@
 * [2023-12-20, 16:26:35](https://news.ycombinator.com/item?id=38710387) - [Building a faster hash table for high performance SQL joins](https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
+* [2023-12-20, 15:30:47](https://news.ycombinator.com/item?id=38709734) - [Show HN: Forwarder – FOSS MITM proxy written in Go](https://forwarder-proxy.io)
 * [2023-12-20, 15:24:38](https://news.ycombinator.com/item?id=38709653) - [On Car Seats as Contraception](https://thezvi.substack.com/p/on-car-seats-as-contraception)
 * [2023-12-20, 15:18:44](https://news.ycombinator.com/item?id=38709583) - [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
 * [2023-12-20, 15:14:10](https://news.ycombinator.com/item?id=38709523) - [Elizabeth line: Central stations now boasting 4G phone coverage](https://www.ianvisits.co.uk/articles/elizabeth-lines-central-stations-now-boasting-full-4g-phone-coverage-68356/)
