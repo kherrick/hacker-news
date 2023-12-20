@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
 * [2023-12-20, 20:08:05](https://news.ycombinator.com/item?id=38712992) - [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
+* [2023-12-20, 19:50:24](https://news.ycombinator.com/item?id=38712802) - [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 * [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 * [2023-12-20, 19:25:16](https://news.ycombinator.com/item?id=38712521) - [AI Developer working on your repo](https://github.com/e2b-dev/e2b-cookbook/tree/main/guides/ai-github-developer-py)
 * [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
@@ -13,6 +14,7 @@
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 * [2023-12-20, 17:18:45](https://news.ycombinator.com/item?id=38711003) - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
+* [2023-12-20, 17:16:45](https://news.ycombinator.com/item?id=38710976) - [Five Apache projects you probably didn't know about](https://blog.frankel.ch/five-apache-projects/)
 * [2023-12-20, 17:05:23](https://news.ycombinator.com/item?id=38710874) - [Waymo significantly outperforms comparable human benchmarks over 7M+ miles](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
 * [2023-12-20, 17:01:26](https://news.ycombinator.com/item?id=38710818) - [Dear ImGui: Bloat-free Graphical User interface with minimal dependencies](https://github.com/ocornut/imgui)
 * [2023-12-20, 17:00:30](https://news.ycombinator.com/item?id=38710806) - [Reflex (YC W23) Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
