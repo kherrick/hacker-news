@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 19:25:16](https://news.ycombinator.com/item?id=38712521) - [AI Developer working on your repo](https://github.com/e2b-dev/e2b-cookbook/tree/main/guides/ai-github-developer-py)
 * [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
@@ -14,6 +13,7 @@
 * [2023-12-20, 16:32:23](https://news.ycombinator.com/item?id=38710452) - [Efficient Large Language Model Inference with Limited Memory](https://browse.arxiv.org/html/2312.11514v1)
 * [2023-12-20, 16:26:35](https://news.ycombinator.com/item?id=38710387) - [Building a faster hash table for high performance SQL joins](https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
+* [2023-12-20, 15:30:47](https://news.ycombinator.com/item?id=38709734) - [Show HN: Forwarder – FOSS MITM proxy written in Go](https://forwarder-proxy.io)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 14:42:08](https://news.ycombinator.com/item?id=38709172) - [Hacker News Activity Analysis with GPT-4 Agent](https://eu.getdot.ai/share/c80139c9-13f4-4db4-88f6-6e058ba31ad4?org_id=getdot.ai)
 * [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
