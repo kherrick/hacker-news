@@ -4,7 +4,7 @@
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [What's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 * [2023-12-20, 17:18:45](https://news.ycombinator.com/item?id=38711003) - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
-* [2023-12-20, 17:01:26](https://news.ycombinator.com/item?id=38710818) - [Dear ImGui: Bloat-free Graphical User interface with minimal dependencies](https://github.com/ocornut/imgui)
+* [2023-12-20, 17:01:26](https://news.ycombinator.com/item?id=38710818) - [Dear ImGui: Graphical User Interface library for C++](https://github.com/ocornut/imgui)
 * [2023-12-20, 17:00:30](https://news.ycombinator.com/item?id=38710806) - [Reflex (YC W23) Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
 * [2023-12-20, 16:58:53](https://news.ycombinator.com/item?id=38710786) - [Swimming Pools and Granite Countertops: How College Dorms Got So Expensive](https://www.wsj.com/us-news/education/college-housing-dorms-cost-tuition-9d98c1a4)
 * [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
