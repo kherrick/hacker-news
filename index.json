@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-12-20, 22:44:00",
+      "https://news.ycombinator.com/item?id=38714650"
+    ],
+    [
+      "Rolex fined $100M for preventing its watches being sold online",
+      "https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 22:40:14",
       "https://news.ycombinator.com/item?id=38714607"
     ],
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2023-12-19, 17:57:48",
-      "https://news.ycombinator.com/item?id=38699010"
-    ],
-    [
-      "Dyalog '18: Rectangles All the Way Down (2018) [video]",
-      "https://www.youtube.com/watch?v=mK2WUDIY4hk"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 11:19:55",
-      "https://news.ycombinator.com/item?id=38694278"
-    ],
-    [
-      "Quint: A specification language based on the temporal logic of actions (TLA)",
-      "https://github.com/informalsystems/quint"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 10:46:47",
       "https://news.ycombinator.com/item?id=38694051"
     ],
@@ -297,6 +287,16 @@
     [
       "Lisa Emulator Project",
       "https://lisa.sunder.net/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 02:50:22",
+      "https://news.ycombinator.com/item?id=38691205"
+    ],
+    [
+      "Improving Emacs Isearch Usability with Transient",
+      "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html"
     ]
   ]
 ]
