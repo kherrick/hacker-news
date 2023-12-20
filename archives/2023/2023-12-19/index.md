@@ -75,6 +75,7 @@
 * [2023-12-19, 13:25:29](https://news.ycombinator.com/item?id=38695221) - [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
 * [2023-12-19, 13:17:04](https://news.ycombinator.com/item?id=38695132) - [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
+* [2023-12-19, 13:04:58](https://news.ycombinator.com/item?id=38695010) - [The daredevil flight to save rare birds](https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds)
 * [2023-12-19, 12:51:12](https://news.ycombinator.com/item?id=38694886) - [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 12:27:04](https://news.ycombinator.com/item?id=38694719) - [A transformer-based network model for pitch detection](https://github.com/TuneNN/TuneNN)
