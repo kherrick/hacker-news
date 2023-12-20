@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-20, 21:25:21",
-      "https://news.ycombinator.com/item?id=38713844"
-    ],
-    [
-      "Clear wants to scan your face at airports – privacy experts are worried",
-      "https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 21:00:33",
       "https://news.ycombinator.com/item?id=38713578"
     ],
@@ -37,6 +27,16 @@
     [
       "Null Island Tourist Shirt",
       "https://github.com/yetzt/null-island"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 19:57:48",
+      "https://news.ycombinator.com/item?id=38712883"
+    ],
+    [
+      "Jeff Bezos lessons on building business value",
+      "https://lockedinspace.com/posts/002.html"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-12-20, 15:30:47",
-      "https://news.ycombinator.com/item?id=38709734"
-    ],
-    [
-      "Show HN: Forwarder – FOSS MITM proxy written in Go",
-      "https://forwarder-proxy.io"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 14:56:26",
       "https://news.ycombinator.com/item?id=38709319"
     ],
@@ -171,12 +161,32 @@
   ],
   [
     [
+      "2023-12-20, 13:59:59",
+      "https://news.ycombinator.com/item?id=38708743"
+    ],
+    [
+      "How I Work",
+      "https://blar.do/how-i-work/"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 13:58:51",
       "https://news.ycombinator.com/item?id=38708730"
     ],
     [
       "Implementation of Mamba in one file of PyTorch",
       "https://github.com/johnma2006/mamba-minimal"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 13:48:09",
+      "https://news.ycombinator.com/item?id=38708606"
+    ],
+    [
+      "Making synthesized sounds more acoustic",
+      "https://nathan.ho.name/posts/acoustic-sounds/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Dyalog '18: Rectangles All the Way Down (2018) [video]",
       "https://www.youtube.com/watch?v=mK2WUDIY4hk"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 17:51:38",
-      "https://news.ycombinator.com/item?id=38698907"
-    ],
-    [
-      "Simulating fluids, fire, and smoke in real-time",
-      "https://andrewkchan.dev/posts/fire.html"
     ]
   ],
   [
