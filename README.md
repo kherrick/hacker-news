@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
-* [2023-12-20, 08:21:39](https://news.ycombinator.com/item?id=38706492) - [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 03:30:01](https://news.ycombinator.com/item?id=38705132) - [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
 * [2023-12-20, 03:02:43](https://news.ycombinator.com/item?id=38704982) - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
@@ -27,6 +26,7 @@
 * [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
+* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [How to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 05:06:15](https://news.ycombinator.com/item?id=38692049) - [Terry Gross and the Art of Opening Up (2015)](https://www.nytimes.com/2015/10/25/magazine/terry-gross-and-the-art-of-opening-up.html)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)

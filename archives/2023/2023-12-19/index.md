@@ -92,6 +92,7 @@
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
+* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 06:46:32](https://news.ycombinator.com/item?id=38692623) - [Why Bitcoin is up by almost 150% this year](https://www.economist.com/finance-and-economics/2023/12/18/why-bitcoin-is-up-by-almost-150-this-year)
 * [2023-12-19, 06:21:07](https://news.ycombinator.com/item?id=38692477) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
