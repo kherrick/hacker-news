@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 17:00:30](https://news.ycombinator.com/item?id=38710806) - [Reflex (YC W23) Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 * [2023-12-20, 15:18:44](https://news.ycombinator.com/item?id=38709583) - [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
@@ -27,7 +28,6 @@
 * [2023-12-19, 11:19:55](https://news.ycombinator.com/item?id=38694278) - [Quint: A specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
-* [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 * [2023-12-17, 11:46:12](https://news.ycombinator.com/item?id=38672211) - [Responsive scrollable videos without obscure video encoding requirements](https://scrollyvideo.js.org/)
 
