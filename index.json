@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-20, 15:24:38",
-      "https://news.ycombinator.com/item?id=38709653"
+      "2023-12-20, 15:51:03",
+      "https://news.ycombinator.com/item?id=38709977"
     ],
     [
-      "On Car Seats as Contraception",
-      "https://thezvi.substack.com/p/on-car-seats-as-contraception"
+      "JWST Images of 2023",
+      "https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 15:18:44",
+      "https://news.ycombinator.com/item?id=38709583"
+    ],
+    [
+      "Show HN: Playing Telephone with GPT-4 and Dall-E-3",
+      "https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F"
     ]
   ],
   [
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-12-20, 14:37:13",
-      "https://news.ycombinator.com/item?id=38709127"
-    ],
-    [
-      "Show HN: I made a dead simple logo maker",
-      "https://shipfa.st/tools/logo-fast"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 14:36:31",
       "https://news.ycombinator.com/item?id=38709121"
     ],
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-12-20, 14:04:05",
-      "https://news.ycombinator.com/item?id=38708794"
+      "2023-12-20, 14:33:13",
+      "https://news.ycombinator.com/item?id=38709081"
     ],
     [
-      "Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)",
-      "https://www.zachleat.com/web/netlify-and-nextjs/"
+      "A Record Number of Billion-Dollar Weather Disasters Hit the U.S. in 2023",
+      "https://e360.yale.edu/digest/billion-dollar-disasters-us-climate-change"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-12-20, 13:34:20",
-      "https://news.ycombinator.com/item?id=38708471"
-    ],
-    [
-      "VanJS: A 0.9KB JavaScript UI framework",
-      "https://vanjs.org/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 13:31:30",
       "https://news.ycombinator.com/item?id=38708436"
     ],
@@ -101,22 +91,22 @@
   ],
   [
     [
-      "2023-12-20, 12:52:44",
-      "https://news.ycombinator.com/item?id=38708065"
-    ],
-    [
-      "Rite Aid banned from using face recognition software after false ID shoplifters",
-      "https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 12:45:12",
       "https://news.ycombinator.com/item?id=38707995"
     ],
     [
       "There's a Concorde Engine Complete with Afterburner for Sale on eBay",
       "https://simpleflying.com/concorde-engine-for-sale-ebay/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 11:30:15",
+      "https://news.ycombinator.com/item?id=38707475"
+    ],
+    [
+      "Show HN: Easily train AlphaZero-like agents on any environment you want!",
+      "https://github.com/s-casci/tinyzero"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2023-12-20, 01:00:13",
-      "https://news.ycombinator.com/item?id=38704232"
-    ],
-    [
-      "Sudo without a setuid binary or SSH over a Unix socket",
-      "https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 00:27:10",
       "https://news.ycombinator.com/item?id=38703943"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-12-19, 10:48:32",
+      "https://news.ycombinator.com/item?id=38694061"
+    ],
+    [
+      "He closed a video game shop decades ago. His games could sell for $1M",
+      "https://www.washingtonpost.com/nation/2023/12/19/nebraska-rare-vintage-video-games-sale/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 09:10:03",
       "https://news.ycombinator.com/item?id=38693439"
     ],
@@ -277,6 +267,16 @@
     [
       "Borges and AI",
       "https://arxiv.org/abs/2310.01425"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 07:02:54",
+      "https://news.ycombinator.com/item?id=38692715"
+    ],
+    [
+      "Open Source Infrastructure Somleng",
+      "https://www.somleng.org/blog.html"
     ]
   ],
   [
