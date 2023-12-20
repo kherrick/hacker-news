@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 02:42:52](https://news.ycombinator.com/item?id=38704847) - [All Our Patent Are Belong to You (2014)](https://www.tesla.com/blog/all-our-patent-are-belong-you)
 * [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 * [2023-12-20, 02:34:07](https://news.ycombinator.com/item?id=38704802) - [Sam Altman got $75M from the University of Michigan for a new VC fund](https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/)
 * [2023-12-20, 02:33:45](https://news.ycombinator.com/item?id=38704798) - [The Private Equity Firm Tapping America's Spring Water](https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/)
 * [2023-12-20, 02:16:03](https://news.ycombinator.com/item?id=38704704) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-20, 01:00:13](https://news.ycombinator.com/item?id=38704232) - [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
-* [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
 * [2023-12-19, 19:09:23](https://news.ycombinator.com/item?id=38700060) - [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
@@ -15,7 +15,6 @@
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 17:44:33](https://news.ycombinator.com/item?id=38698782) - [Perplexity Labs Playground](https://labs.perplexity.ai/)
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [Tsdocs.dev: Type docs for any JavaScript library](https://tsdocs.dev)
-* [2023-12-19, 16:32:19](https://news.ycombinator.com/item?id=38697723) - [National Engineering Handbook](https://directives.sc.egov.usda.gov/RollupViewer.aspx?hid=17092)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app: Visual editing and content platform for building websites and apps](https://www.plasmic.app/)
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody knows what's happening online anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
@@ -30,6 +29,7 @@
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
+* [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 
 ## [Archives](archives/index.md)
 

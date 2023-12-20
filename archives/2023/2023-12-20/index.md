@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 02:42:52](https://news.ycombinator.com/item?id=38704847) - [All Our Patent Are Belong to You (2014)](https://www.tesla.com/blog/all-our-patent-are-belong-you)
 * [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 * [2023-12-20, 02:34:07](https://news.ycombinator.com/item?id=38704802) - [Sam Altman got $75M from the University of Michigan for a new VC fund](https://fortune.com/2023/12/19/sam-altman-university-michigan-venture-fund/)
 * [2023-12-20, 02:33:45](https://news.ycombinator.com/item?id=38704798) - [The Private Equity Firm Tapping America's Spring Water](https://www.bloomberg.com/features/2023-california-spring-water-bluetriton/)
