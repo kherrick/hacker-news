@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 14:17:54](https://news.ycombinator.com/item?id=38708938) - [Exploitive, illegal photos of children found in the data that trains some AI](https://www.washingtonpost.com/technology/2023/12/20/ai-child-pornography-abuse-photos-laion/)
 * [2023-12-20, 13:34:20](https://news.ycombinator.com/item?id=38708471) - [VanJS: A 0.9KB JavaScript UI framework](https://vanjs.org/)
 * [2023-12-20, 13:31:30](https://news.ycombinator.com/item?id=38708436) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-20, 13:23:53](https://news.ycombinator.com/item?id=38708357) - [Wayland vs. X – Overview](https://wayland.freedesktop.org/docs/html/ch01.html)
