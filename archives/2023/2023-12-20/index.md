@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 14:37:13](https://news.ycombinator.com/item?id=38709127) - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 * [2023-12-20, 14:36:31](https://news.ycombinator.com/item?id=38709121) - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
 * [2023-12-20, 14:31:56](https://news.ycombinator.com/item?id=38709070) - [JP Krucker's weight shift amphibious autogyro [video]](https://www.youtube.com/watch?v=M77amKgBWOY)
