@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
 * [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
+* [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
@@ -40,6 +41,7 @@
 * [2023-12-20, 13:31:30](https://news.ycombinator.com/item?id=38708436) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-20, 13:23:53](https://news.ycombinator.com/item?id=38708357) - [Wayland vs. X – Overview](https://wayland.freedesktop.org/docs/html/ch01.html)
 * [2023-12-20, 13:09:52](https://news.ycombinator.com/item?id=38708215) - [SSH protects the most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/)
+* [2023-12-20, 13:05:53](https://news.ycombinator.com/item?id=38708185) - [IBM demonstrates useful Quantum computing within 133-qubit Heron](https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era)
 * [2023-12-20, 12:56:45](https://news.ycombinator.com/item?id=38708099) - [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
 * [2023-12-20, 12:52:44](https://news.ycombinator.com/item?id=38708065) - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
