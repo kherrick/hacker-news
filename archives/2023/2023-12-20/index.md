@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
+* [2023-12-20, 17:18:45](https://news.ycombinator.com/item?id=38711003) - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
+* [2023-12-20, 17:05:23](https://news.ycombinator.com/item?id=38710874) - [Waymo significantly outperforms comparable human benchmarks over 7M+ miles](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
 * [2023-12-20, 17:00:30](https://news.ycombinator.com/item?id=38710806) - [Reflex (YC W23) Is Hiring: Fullstack / Open Source](https://www.workatastartup.com/jobs/63855)
+* [2023-12-20, 16:58:53](https://news.ycombinator.com/item?id=38710786) - [Swimming Pools and Granite Countertops: How College Dorms Got So Expensive](https://www.wsj.com/us-news/education/college-housing-dorms-cost-tuition-9d98c1a4)
+* [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 * [2023-12-20, 15:24:38](https://news.ycombinator.com/item?id=38709653) - [On Car Seats as Contraception](https://thezvi.substack.com/p/on-car-seats-as-contraception)
