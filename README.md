@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [What's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
@@ -28,6 +27,7 @@
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
+* [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
 
