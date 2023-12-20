@@ -25,6 +25,7 @@
 * [2023-12-20, 15:14:10](https://news.ycombinator.com/item?id=38709523) - [Elizabeth line: Central stations now boasting 4G phone coverage](https://www.ianvisits.co.uk/articles/elizabeth-lines-central-stations-now-boasting-full-4g-phone-coverage-68356/)
 * [2023-12-20, 15:07:56](https://news.ycombinator.com/item?id=38709444) - [Look mum The photo you took is on Wikipedia](https://diff.wikimedia.org/2023/12/20/look-mum-the-photo-you-took-is-on-wikipedia/)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
+* [2023-12-20, 14:42:08](https://news.ycombinator.com/item?id=38709172) - [Hacker News Activity Analysis with GPT-4 Agent](https://eu.getdot.ai/share/c80139c9-13f4-4db4-88f6-6e058ba31ad4?org_id=getdot.ai)
 * [2023-12-20, 14:37:13](https://news.ycombinator.com/item?id=38709127) - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 * [2023-12-20, 14:36:31](https://news.ycombinator.com/item?id=38709121) - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
 * [2023-12-20, 14:34:59](https://news.ycombinator.com/item?id=38709098) - [Analysis of ancient Scythian leather samples shows two were made from human skin](https://phys.org/news/2023-12-analysis-ancient-scythian-leather-samples.html)
