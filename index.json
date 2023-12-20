@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-20, 18:19:33",
-      "https://news.ycombinator.com/item?id=38711808"
+      "2023-12-20, 19:44:27",
+      "https://news.ycombinator.com/item?id=38712734"
     ],
     [
-      "Bird, once valued at $2.5B, just filed for bankruptcy",
-      "https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12"
+      "Tesla blamed drivers for failures of parts it long knew were defective",
+      "https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38708730"
     ],
     [
-      "Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch",
+      "Implementation of Mamba in one file of PyTorch",
       "https://github.com/johnma2006/mamba-minimal"
     ]
   ],
