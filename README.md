@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 01:00:20](https://news.ycombinator.com/item?id=38704234) - [GM Dealer Chat Bot Agrees to Sell 2024 Chevy Tahoe for $1](https://gmauthority.com/blog/2023/12/gm-dealer-chat-bot-agrees-to-sell-2024-chevy-tahoe-for-1/)
 * [2023-12-20, 01:00:13](https://news.ycombinator.com/item?id=38704232) - [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
 * [2023-12-19, 22:30:52](https://news.ycombinator.com/item?id=38702783) - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
@@ -20,6 +19,7 @@
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody knows what's happening online anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
+* [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [XetCache: Improve Jupyter notebook reruns by caching cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
