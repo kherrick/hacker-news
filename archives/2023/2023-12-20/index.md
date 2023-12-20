@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 20:08:05](https://news.ycombinator.com/item?id=38712992) - [California Regulators Vote to Keep Diablo Canyon Nuclear Plant Open 5 More Years](https://www.powermag.com/california-regulators-vote-to-keep-diablo-canyon-nuclear-plant-open-another-five-years/)
 * [2023-12-20, 19:50:24](https://news.ycombinator.com/item?id=38712802) - [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 * [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
@@ -12,6 +13,7 @@
 * [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
+* [2023-12-20, 17:29:59](https://news.ycombinator.com/item?id=38711135) - [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://purl.stanford.edu/kh752sm9123)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
 * [2023-12-20, 17:18:45](https://news.ycombinator.com/item?id=38711003) - [A KDE Plasma theme that aims to replicate the look and feel of Windows 7](https://gitgud.io/wackyideas/aerothemeplasma)
 * [2023-12-20, 17:16:45](https://news.ycombinator.com/item?id=38710976) - [Five Apache projects you probably didn't know about](https://blog.frankel.ch/five-apache-projects/)
