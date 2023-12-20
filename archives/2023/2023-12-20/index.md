@@ -6,6 +6,7 @@
 
 * [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
+* [2023-12-20, 08:21:39](https://news.ycombinator.com/item?id=38706492) - [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
 * [2023-12-20, 05:26:52](https://news.ycombinator.com/item?id=38705747) - [Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 04:17:53](https://news.ycombinator.com/item?id=38705399) - [Hn.js](https://news.ycombinator.com/hn.js)

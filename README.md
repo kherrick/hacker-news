@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
+* [2023-12-20, 08:21:39](https://news.ycombinator.com/item?id=38706492) - [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 03:30:01](https://news.ycombinator.com/item?id=38705132) - [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
 * [2023-12-20, 03:02:43](https://news.ycombinator.com/item?id=38704982) - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
@@ -14,7 +15,6 @@
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 20:08:40](https://news.ycombinator.com/item?id=38700805) - [Show HN: Chrome Reaper](https://github.com/usnistgov/Metrology/tree/master/Reaper)
 * [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
-* [2023-12-19, 19:09:23](https://news.ycombinator.com/item?id=38700060) - [CUDA vs. ROCm: A case study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's frustrating Oakland diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:09:27](https://news.ycombinator.com/item?id=38699201) - [Bit banging a 3.5\" floppy drive](https://floppy.cafe/)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
