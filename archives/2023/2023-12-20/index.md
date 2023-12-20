@@ -51,6 +51,7 @@
 * [2023-12-20, 12:19:21](https://news.ycombinator.com/item?id=38707809) - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
 * [2023-12-20, 11:46:33](https://news.ycombinator.com/item?id=38707589) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
 * [2023-12-20, 11:30:15](https://news.ycombinator.com/item?id=38707475) - [Show HN: Easily train AlphaZero-like agents on any environment you want!](https://github.com/s-casci/tinyzero)
+* [2023-12-20, 11:28:34](https://news.ycombinator.com/item?id=38707467) - [Vintage IKEA furnishings fetch £32,000 at auction in Stockholm](https://www.theguardian.com/business/2023/dec/19/vintage-ikea-furnishings-fetch-32000-at-auction-in-stockholm)
 * [2023-12-20, 10:53:58](https://news.ycombinator.com/item?id=38707275) - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
 * [2023-12-20, 10:34:43](https://news.ycombinator.com/item?id=38707190) - [Show HN: ClimateTriage – Impactful open source contributions](https://climatetriage.com/)
 * [2023-12-20, 10:28:32](https://news.ycombinator.com/item?id=38707156) - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
