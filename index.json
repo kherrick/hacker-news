@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-12-20, 13:09:52",
+      "https://news.ycombinator.com/item?id=38708215"
+    ],
+    [
+      "SSH protects the most sensitive networks. It just got a lot weaker",
+      "https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 12:56:45",
       "https://news.ycombinator.com/item?id=38708099"
     ],
@@ -37,26 +47,6 @@
     [
       "There's a Concorde Engine Complete with Afterburner for Sale on eBay",
       "https://simpleflying.com/concorde-engine-for-sale-ebay/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 12:19:21",
-      "https://news.ycombinator.com/item?id=38707809"
-    ],
-    [
-      "Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations",
-      "https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 11:46:33",
-      "https://news.ycombinator.com/item?id=38707589"
-    ],
-    [
-      "Tesla blamed drivers for failures of parts it long knew were defective",
-      "https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2023-12-20, 01:00:13",
+      "https://news.ycombinator.com/item?id=38704232"
+    ],
+    [
+      "Sudo without a setuid binary or SSH over a Unix socket",
+      "https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 00:27:10",
       "https://news.ycombinator.com/item?id=38703943"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-12-19, 21:42:51",
-      "https://news.ycombinator.com/item?id=38702083"
+      "2023-12-19, 21:59:18",
+      "https://news.ycombinator.com/item?id=38702271"
     ],
     [
-      "The housing shortage is larger than you think",
-      "https://kevinerdmann.substack.com/p/the-housing-shortage-is-larger-than-c65"
+      "The Linux graphics stack in a nutshell",
+      "https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/"
     ]
   ],
   [
