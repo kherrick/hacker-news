@@ -2,7 +2,6 @@
 
 * [2023-12-19, 23:38:40](https://news.ycombinator.com/item?id=38703529) - [Shoplifting and frustrated customers plague self-checkout](https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning)
 * [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
-* [2023-12-19, 22:37:02](https://news.ycombinator.com/item?id=38702859) - [Beeper's esoteric fix for iMessage access suggests why it's pushing politically](https://arstechnica.com/gadgets/2023/12/beepers-esoteric-fix-for-imessage-access-suggests-why-its-pushing-politically/)
 * [2023-12-19, 22:30:52](https://news.ycombinator.com/item?id=38702783) - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
@@ -20,6 +19,7 @@
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody knows what's happening online anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [The Inner Ring (1944)](https://www.lewissociety.org/innerring/)
+* [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [XetCache: Improve Jupyter notebook reruns by caching cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 14:17:25](https://news.ycombinator.com/item?id=38695750) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
