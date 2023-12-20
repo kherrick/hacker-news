@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38713844"
     ],
     [
-      "Clear wants to scan your face at airports. Privacy experts are worried.",
+      "Clear wants to scan your face at airports – privacy experts are worried",
       "https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/"
     ]
   ],
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-12-20, 19:05:11",
+      "https://news.ycombinator.com/item?id=38712326"
+    ],
+    [
+      "The transparent chip inside a vintage Hewlett-Packard floppy drive",
+      "https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 17:38:23",
       "https://news.ycombinator.com/item?id=38711278"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38711135"
     ],
     [
-      "Identifying and Eliminating CSAM in Generative ML Training Data and Models",
+      "Identifying and eliminating CSAM in generative ML training data and models",
       "https://purl.stanford.edu/kh752sm9123"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-12-20, 13:34:20",
-      "https://news.ycombinator.com/item?id=38708471"
-    ],
-    [
-      "VanJS – A no-JSX framework based on vanilla JavaScript",
-      "https://vanjs.org/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 13:05:53",
       "https://news.ycombinator.com/item?id=38708185"
     ],
@@ -205,28 +205,18 @@
       "https://news.ycombinator.com/item?id=38707980"
     ],
     [
-      "A new technology is upending bowling",
+      "String pinsetters are upending bowling",
       "https://www.latimes.com/california/story/2023-11-21/la-me-bowling-revolution"
     ]
   ],
   [
     [
-      "2023-12-20, 09:01:29",
-      "https://news.ycombinator.com/item?id=38706697"
+      "2023-12-20, 09:51:03",
+      "https://news.ycombinator.com/item?id=38706951"
     ],
     [
-      "Advice for new software devs who've read all those other advice essays",
-      "https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 02:19:19",
-      "https://news.ycombinator.com/item?id=38704725"
-    ],
-    [
-      "An underground delivery train comes to the Atlanta suburbs",
-      "https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so"
+      "Creating a Disc Golf picker upper",
+      "https://victorguyard.com/projects/createxcapstone"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Simulating fluids, fire, and smoke in real-time",
       "https://andrewkchan.dev/posts/fire.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 11:19:55",
+      "https://news.ycombinator.com/item?id=38694278"
+    ],
+    [
+      "Quint: A specification language based on the temporal logic of actions (TLA)",
+      "https://github.com/informalsystems/quint"
     ]
   ],
   [
