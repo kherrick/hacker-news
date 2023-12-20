@@ -93,6 +93,7 @@
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
+* [2023-12-19, 08:15:21](https://news.ycombinator.com/item?id=38693120) - [Borges and AI](https://arxiv.org/abs/2310.01425)
 * [2023-12-19, 07:36:33](https://news.ycombinator.com/item?id=38692898) - [Finally We May Have a Path to the Fundamental Theory of Physics](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)
 * [2023-12-19, 07:02:54](https://news.ycombinator.com/item?id=38692715) - [Open Source Infrastructure Somleng](https://www.somleng.org/blog.html)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
