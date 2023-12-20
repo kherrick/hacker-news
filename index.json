@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-12-20, 17:19:15",
+      "https://news.ycombinator.com/item?id=38711007"
+    ],
+    [
+      "Ten years from Snowden revelations – what's next for Tor and privacy online?",
+      "https://blog.torproject.org/tor-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 17:18:45",
+      "https://news.ycombinator.com/item?id=38711003"
+    ],
+    [
+      "A KDE Plasma theme that aims to replicate the look and feel of Windows 7",
+      "https://gitgud.io/wackyideas/aerothemeplasma"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 17:05:23",
+      "https://news.ycombinator.com/item?id=38710874"
+    ],
+    [
+      "Waymo significantly outperforms comparable human benchmarks over 7M+ miles",
+      "https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 17:00:30",
       "https://news.ycombinator.com/item?id=38710806"
     ],
     [
       "Reflex (YC W23) Is Hiring: Fullstack / Open Source",
       "https://www.workatastartup.com/jobs/63855"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 16:58:53",
+      "https://news.ycombinator.com/item?id=38710786"
+    ],
+    [
+      "Swimming Pools and Granite Countertops: How College Dorms Got So Expensive",
+      "https://www.wsj.com/us-news/education/college-housing-dorms-cost-tuition-9d98c1a4"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 16:53:05",
+      "https://news.ycombinator.com/item?id=38710709"
+    ],
+    [
+      "Uniting the Linux random-number devices",
+      "https://lwn.net/Articles/884875/"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2023-12-20, 10:53:58",
-      "https://news.ycombinator.com/item?id=38707275"
-    ],
-    [
-      "Update tinsel bunting",
-      "https://github.com/alphagov/frontend/pull/3895"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 10:18:02",
       "https://news.ycombinator.com/item?id=38707095"
     ],
@@ -191,42 +231,12 @@
   ],
   [
     [
-      "2023-12-20, 00:27:10",
-      "https://news.ycombinator.com/item?id=38703943"
-    ],
-    [
-      "Build a search engine, not a vector DB",
-      "https://blog.elicit.com/search-vs-vector-db/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 21:21:36",
-      "https://news.ycombinator.com/item?id=38701780"
-    ],
-    [
-      "Vulkan video extensions for accelerated H.264 and H.265 encode",
-      "https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 17:51:38",
       "https://news.ycombinator.com/item?id=38698907"
     ],
     [
       "Simulating fluids, fire, and smoke in real-time",
       "https://andrewkchan.dev/posts/fire.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 17:44:33",
-      "https://news.ycombinator.com/item?id=38698782"
-    ],
-    [
-      "Perplexity Labs Playground",
-      "https://labs.perplexity.ai/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Borges and AI",
       "https://arxiv.org/abs/2310.01425"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 13:04:34",
-      "https://news.ycombinator.com/item?id=38681861"
-    ],
-    [
-      "Figma and Adobe abandon proposed merger",
-      "https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/"
     ]
   ],
   [
