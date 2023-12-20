@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
 * [2023-12-20, 13:34:20](https://news.ycombinator.com/item?id=38708471) - [VanJS: A 0.9KB JavaScript UI framework](https://vanjs.org/)
+* [2023-12-20, 13:09:52](https://news.ycombinator.com/item?id=38708215) - [SSH protects the most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/)
 * [2023-12-20, 12:56:45](https://news.ycombinator.com/item?id=38708099) - [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
 * [2023-12-20, 12:52:44](https://news.ycombinator.com/item?id=38708065) - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
