@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38713578"
     ],
     [
-      "TigerEye (YC S22) Is Hiring an Experienced Front End Engineer",
+      "TigerEye (YC S22) is hiring an experienced front end engineer",
       "https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-12-20, 16:32:23",
-      "https://news.ycombinator.com/item?id=38710452"
-    ],
-    [
-      "Efficient Large Language Model Inference with Limited Memory",
-      "https://browse.arxiv.org/html/2312.11514v1"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 16:26:35",
       "https://news.ycombinator.com/item?id=38710387"
     ],
@@ -137,6 +127,16 @@
     [
       "Wireflow – free, online, open source tool for creating user-flow prototypes",
       "https://wireflow.co"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 15:30:47",
+      "https://news.ycombinator.com/item?id=38709734"
+    ],
+    [
+      "Show HN: Forwarder – FOSS MITM proxy written in Go",
+      "https://forwarder-proxy.io"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=38708185"
     ],
     [
-      "IBM demonstrates useful Quantum computing within 133-qubit Heron",
+      "IBM demonstrates 133-qubit Heron",
       "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era"
     ]
   ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-12-20, 11:28:34",
-      "https://news.ycombinator.com/item?id=38707467"
+      "2023-12-20, 09:01:29",
+      "https://news.ycombinator.com/item?id=38706697"
     ],
     [
-      "Vintage IKEA furnishings fetch £32,000 at auction in Stockholm",
-      "https://www.theguardian.com/business/2023/dec/19/vintage-ikea-furnishings-fetch-32000-at-auction-in-stockholm"
+      "Advice for new software devs who've read all those other advice essays",
+      "https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Math Team",
       "https://benexdict.io/p/math-team"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 21:59:39",
+      "https://news.ycombinator.com/item?id=38702276"
+    ],
+    [
+      "The Closing of the Bulgarian Frontier",
+      "https://www.switchyardmag.com/issue-1/bulgarianfrontier"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Lisa Emulator Project",
       "https://lisa.sunder.net/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 08:15:21",
-      "https://news.ycombinator.com/item?id=38693120"
-    ],
-    [
-      "Borges and AI",
-      "https://arxiv.org/abs/2310.01425"
     ]
   ]
 ]
