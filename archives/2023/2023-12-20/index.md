@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 * [2023-12-20, 15:24:38](https://news.ycombinator.com/item?id=38709653) - [On Car Seats as Contraception](https://thezvi.substack.com/p/on-car-seats-as-contraception)
+* [2023-12-20, 15:18:44](https://news.ycombinator.com/item?id=38709583) - [Show HN: Playing Telephone with GPT-4 and Dall-E-3](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fimage-telephone.streamlit.app%2F)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi finally say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 14:37:13](https://news.ycombinator.com/item?id=38709127) - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 * [2023-12-20, 14:36:31](https://news.ycombinator.com/item?id=38709121) - [Podman Desktop 1.6 released: Even more Kubernetes and Containers features](https://podman-desktop.io/blog/podman-desktop-release-1.6)
+* [2023-12-20, 14:33:13](https://news.ycombinator.com/item?id=38709081) - [A Record Number of Billion-Dollar Weather Disasters Hit the U.S. in 2023](https://e360.yale.edu/digest/billion-dollar-disasters-us-climate-change)
 * [2023-12-20, 14:31:56](https://news.ycombinator.com/item?id=38709070) - [JP Krucker's weight shift amphibious autogyro [video]](https://www.youtube.com/watch?v=M77amKgBWOY)
 * [2023-12-20, 14:17:54](https://news.ycombinator.com/item?id=38708938) - [Exploitive, illegal photos of children found in the data that trains some AI](https://www.washingtonpost.com/technology/2023/12/20/ai-child-pornography-abuse-photos-laion/)
 * [2023-12-20, 14:04:05](https://news.ycombinator.com/item?id=38708794) - [Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)](https://www.zachleat.com/web/netlify-and-nextjs/)
@@ -22,6 +25,7 @@
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
 * [2023-12-20, 12:19:21](https://news.ycombinator.com/item?id=38707809) - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
 * [2023-12-20, 11:46:33](https://news.ycombinator.com/item?id=38707589) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/investigates/special-report/tesla-musk-steering-suspension/)
+* [2023-12-20, 11:30:15](https://news.ycombinator.com/item?id=38707475) - [Show HN: Easily train AlphaZero-like agents on any environment you want!](https://github.com/s-casci/tinyzero)
 * [2023-12-20, 10:53:58](https://news.ycombinator.com/item?id=38707275) - [Update tinsel bunting](https://github.com/alphagov/frontend/pull/3895)
 * [2023-12-20, 10:34:43](https://news.ycombinator.com/item?id=38707190) - [Show HN: ClimateTriage – Impactful open source contributions](https://climatetriage.com/)
 * [2023-12-20, 10:28:32](https://news.ycombinator.com/item?id=38707156) - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
