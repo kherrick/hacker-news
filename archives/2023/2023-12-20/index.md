@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 * [2023-12-20, 19:25:16](https://news.ycombinator.com/item?id=38712521) - [AI Developer working on your repo](https://github.com/e2b-dev/e2b-cookbook/tree/main/guides/ai-github-developer-py)
 * [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
 * [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)

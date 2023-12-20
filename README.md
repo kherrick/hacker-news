@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
+* [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [An AI that learns about chemical reactions and designs a procedure to make them](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [What's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
@@ -16,7 +16,7 @@
 * [2023-12-20, 15:30:47](https://news.ycombinator.com/item?id=38709734) - [Show HN: Forwarder – FOSS MITM proxy written in Go](https://forwarder-proxy.io)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
 * [2023-12-20, 14:42:08](https://news.ycombinator.com/item?id=38709172) - [Hacker News Activity Analysis with GPT-4 Agent](https://eu.getdot.ai/share/c80139c9-13f4-4db4-88f6-6e058ba31ad4?org_id=getdot.ai)
-* [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
+* [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Implementation of Mamba in one file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 * [2023-12-20, 13:46:08](https://news.ycombinator.com/item?id=38708585) - [High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
 * [2023-12-20, 13:34:20](https://news.ycombinator.com/item?id=38708471) - [VanJS – A no-JSX framework based on vanilla JavaScript](https://vanjs.org/)
 * [2023-12-20, 13:05:53](https://news.ycombinator.com/item?id=38708185) - [IBM demonstrates useful Quantum computing within 133-qubit Heron](https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era)
