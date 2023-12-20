@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-19, 23:38:40",
-      "https://news.ycombinator.com/item?id=38703529"
+      "2023-12-20, 01:00:20",
+      "https://news.ycombinator.com/item?id=38704234"
     ],
     [
-      "Shoplifting and frustrated customers plague self-checkout",
-      "https://www.fastcompany.com/91000069/shoplifting-and-frustrated-customers-plague-self-checkout-now-retailers-are-having-a-reckoning"
+      "GM Dealer Chat Bot Agrees to Sell 2024 Chevy Tahoe for $1",
+      "https://gmauthority.com/blog/2023/12/gm-dealer-chat-bot-agrees-to-sell-2024-chevy-tahoe-for-1/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 01:00:13",
+      "https://news.ycombinator.com/item?id=38704232"
+    ],
+    [
+      "Sudo without a setuid binary or SSH over a Unix socket",
+      "https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-12-19, 15:18:31",
-      "https://news.ycombinator.com/item?id=38696631"
-    ],
-    [
-      "XetCache: Improve Jupyter notebook reruns by caching cells",
-      "https://github.com/xetdata/xetcache"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 14:17:25",
       "https://news.ycombinator.com/item?id=38695750"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-12-19, 13:04:58",
+      "https://news.ycombinator.com/item?id=38695010"
+    ],
+    [
+      "The daredevil flight to save rare birds",
+      "https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 12:50:15",
       "https://news.ycombinator.com/item?id=38694880"
     ],
@@ -257,16 +267,6 @@
     [
       "The Magic of a Crooked Sixpence",
       "https://daily.jstor.org/the-magic-of-a-crooked-sixpence/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 16:04:00",
-      "https://news.ycombinator.com/item?id=38684295"
-    ],
-    [
-      "How many CPU cores can you use in parallel?",
-      "https://pythonspeed.com/articles/cpu-thread-pool-size/"
     ]
   ],
   [
