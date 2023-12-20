@@ -6,6 +6,7 @@
 * [2023-12-20, 02:19:19](https://news.ycombinator.com/item?id=38704725) - [An underground delivery train comes to the Atlanta suburbs](https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so)
 * [2023-12-20, 02:16:03](https://news.ycombinator.com/item?id=38704704) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-20, 01:00:13](https://news.ycombinator.com/item?id=38704232) - [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
+* [2023-12-20, 00:27:10](https://news.ycombinator.com/item?id=38703943) - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:47:57](https://news.ycombinator.com/item?id=38702141) - [VideoPoet A large language model for zero-shot video generation](https://sites.research.google/videopoet/)
@@ -28,7 +29,6 @@
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [How to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 05:06:15](https://news.ycombinator.com/item?id=38692049) - [Terry Gross and the Art of Opening Up (2015)](https://www.nytimes.com/2015/10/25/magazine/terry-gross-and-the-art-of-opening-up.html)
-* [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He felt 'creatively dead', then harnessed the power of boredom](https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom)
 * [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 
 ## [Archives](archives/index.md)
