@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-12-20, 17:16:45",
-      "https://news.ycombinator.com/item?id=38710976"
-    ],
-    [
-      "Five Apache projects you probably didn't know about",
-      "https://blog.frankel.ch/five-apache-projects/"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 17:01:26",
       "https://news.ycombinator.com/item?id=38710818"
     ],
@@ -207,6 +197,16 @@
     [
       "IBM demonstrates useful Quantum computing within 133-qubit Heron",
       "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 11:30:15",
+      "https://news.ycombinator.com/item?id=38707475"
+    ],
+    [
+      "Show HN: Easily train AlphaZero-like agents on any environment you want!",
+      "https://github.com/s-casci/tinyzero"
     ]
   ],
   [
