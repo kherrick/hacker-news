@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 12:56:45](https://news.ycombinator.com/item?id=38708099) - [Laion Took Down Its Datasets After Discovery of Child Sexual Abuse Material](https://www.404media.co/laion-datasets-removed-stanford-csam-child-abuse/)
 * [2023-12-20, 12:52:44](https://news.ycombinator.com/item?id=38708065) - [Rite Aid banned from using face recognition software after false ID shoplifters](https://techcrunch.com/2023/12/20/rite-aid-facial-recognition/)
 * [2023-12-20, 12:45:12](https://news.ycombinator.com/item?id=38707995) - [There's a Concorde Engine Complete with Afterburner for Sale on eBay](https://simpleflying.com/concorde-engine-for-sale-ebay/)
 * [2023-12-20, 12:19:21](https://news.ycombinator.com/item?id=38707809) - [Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations](https://www.theverge.com/2023/12/20/24009125/eu-dsa-pornhub-xvideos-stripchat-digital-services-act-age-verification)
@@ -17,7 +18,6 @@
 * [2023-12-20, 00:27:10](https://news.ycombinator.com/item?id=38703943) - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
 * [2023-12-20, 00:01:34](https://news.ycombinator.com/item?id=38703724) - [MiniLang: A type-safe C successor that compiles directly to x86_64 assembly](https://github.com/NICUP14/MiniLang)
 * [2023-12-19, 22:26:00](https://news.ycombinator.com/item?id=38702738) - [Nio ET7 with 150 kWh semi-solid state battery achieves a 1,044 km range](https://carnewschina.com/2023/12/17/nio-et7-with-150-kwh-semi-solid-state-battery-achieves-a-1044-km-range/)
-* [2023-12-19, 21:59:18](https://news.ycombinator.com/item?id=38702271) - [The Linux graphics stack in a nutshell](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-19, 21:21:36](https://news.ycombinator.com/item?id=38701780) - [Vulkan video extensions for accelerated H.264 and H.265 encode](https://www.khronos.org/blog/khronos-finalizes-vulkan-video-extensions-for-accelerated-h.264-and-h.265-encode)
 * [2023-12-19, 19:48:31](https://news.ycombinator.com/item?id=38700552) - [Show HN: Interactive ECS Systems/Component Explorer for Cities: Skylines 2](https://captain-of-coit.github.io/cs2-ecs-explorer/#system/Game.Simulation.ServiceFeeSystem)
 * [2023-12-19, 17:51:38](https://news.ycombinator.com/item?id=38698907) - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
