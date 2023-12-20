@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:19:15](https://news.ycombinator.com/item?id=38711007) - [Ten years from Snowden revelations – what's next for Tor and privacy online?](https://blog.torproject.org/tor-in-2023/)
