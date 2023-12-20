@@ -21,7 +21,6 @@
 * [2023-12-19, 16:34:15](https://news.ycombinator.com/item?id=38697752) - [Tsdocs.dev: Type docs for any JavaScript library](https://tsdocs.dev)
 * [2023-12-19, 16:32:19](https://news.ycombinator.com/item?id=38697723) - [National Engineering Handbook](https://directives.sc.egov.usda.gov/RollupViewer.aspx?hid=17092)
 * [2023-12-19, 16:27:48](https://news.ycombinator.com/item?id=38697650) - [Plasmic.app: Visual editing and content platform for building websites and apps](https://www.plasmic.app/)
-* [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody knows what's happening online anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Don’t starve, Diablo – Parallax 7](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
@@ -30,6 +29,7 @@
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [How to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 05:06:15](https://news.ycombinator.com/item?id=38692049) - [Terry Gross and the Art of Opening Up (2015)](https://www.nytimes.com/2015/10/25/magazine/terry-gross-and-the-art-of-opening-up.html)
+* [2023-12-18, 13:04:34](https://news.ycombinator.com/item?id=38681861) - [Figma and Adobe abandon proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 
 ## [Archives](archives/index.md)
 
