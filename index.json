@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 17:38:23",
+      "https://news.ycombinator.com/item?id=38711278"
+    ],
+    [
+      "The Machiavellian Maze",
+      "https://www.robkhenderson.com/p/the-machiavellian-maze"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 17:32:21",
       "https://news.ycombinator.com/item?id=38711174"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38711007"
     ],
     [
-      "Ten years from Snowden revelations – what's next for Tor and privacy online?",
+      "What's next for Tor and privacy online?",
       "https://blog.torproject.org/tor-in-2023/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "A KDE Plasma theme that aims to replicate the look and feel of Windows 7",
       "https://gitgud.io/wackyideas/aerothemeplasma"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 17:05:23",
-      "https://news.ycombinator.com/item?id=38710874"
-    ],
-    [
-      "Waymo outperforms comparable human benchmarks over 7M+ miles",
-      "https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Reflex (YC W23) Is Hiring: Fullstack / Open Source",
       "https://www.workatastartup.com/jobs/63855"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 16:58:53",
-      "https://news.ycombinator.com/item?id=38710786"
-    ],
-    [
-      "Swimming Pools and Granite Countertops: How College Dorms Got So Expensive",
-      "https://www.wsj.com/us-news/education/college-housing-dorms-cost-tuition-9d98c1a4"
     ]
   ],
   [
@@ -131,32 +121,22 @@
   ],
   [
     [
+      "2023-12-20, 15:30:47",
+      "https://news.ycombinator.com/item?id=38709734"
+    ],
+    [
+      "Show HN: Forwarder – FOSS MITM proxy written in Go",
+      "https://forwarder-proxy.io"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 15:14:10",
       "https://news.ycombinator.com/item?id=38709523"
     ],
     [
       "Elizabeth line: Central stations now boasting 4G phone coverage",
       "https://www.ianvisits.co.uk/articles/elizabeth-lines-central-stations-now-boasting-full-4g-phone-coverage-68356/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 14:36:31",
-      "https://news.ycombinator.com/item?id=38709121"
-    ],
-    [
-      "Podman Desktop 1.6 released: Even more Kubernetes and Containers features",
-      "https://podman-desktop.io/blog/podman-desktop-release-1.6"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 14:34:59",
-      "https://news.ycombinator.com/item?id=38709098"
-    ],
-    [
-      "Analysis of ancient Scythian leather samples shows two were made from human skin",
-      "https://phys.org/news/2023-12-analysis-ancient-scythian-leather-samples.html"
     ]
   ],
   [
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2023-12-20, 04:44:54",
-      "https://news.ycombinator.com/item?id=38705535"
+      "2023-12-20, 02:19:19",
+      "https://news.ycombinator.com/item?id=38704725"
     ],
     [
-      "Show HN: I built an open source AI video search engine to learn more about AI",
-      "https://avse.vercel.app"
+      "An underground delivery train comes to the Atlanta suburbs",
+      "https://www.bloomberg.com/news/articles/2023-12-14/are-underground-tubes-the-future-of-home-delivery-this-startup-hopes-so"
     ]
   ],
   [
@@ -241,22 +221,22 @@
   ],
   [
     [
+      "2023-12-19, 20:28:11",
+      "https://news.ycombinator.com/item?id=38701043"
+    ],
+    [
+      "Winning over hearts and minds work: ADKAR my favorite change management approach",
+      "https://blog.dagworks.io/p/winning-hearts-and-minds-at-work"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 17:51:38",
       "https://news.ycombinator.com/item?id=38698907"
     ],
     [
       "Simulating fluids, fire, and smoke in real-time",
       "https://andrewkchan.dev/posts/fire.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 13:48:11",
-      "https://news.ycombinator.com/item?id=38695453"
-    ],
-    [
-      "Application Traffic with eBPF",
-      "https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-12-19, 10:46:47",
+      "https://news.ycombinator.com/item?id=38694051"
+    ],
+    [
+      "All code is technical debt",
+      "https://www.tokyodev.com/articles/all-code-is-technical-debt"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 09:10:03",
       "https://news.ycombinator.com/item?id=38693439"
     ],
     [
       "Common Lisp interface to the pigpio Raspberry Pi hardware library",
       "https://github.com/jetmonk/cl-pigpio"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 09:06:33",
+      "https://news.ycombinator.com/item?id=38693421"
+    ],
+    [
+      "Lisa Emulator Project",
+      "https://lisa.sunder.net/"
     ]
   ],
   [
