@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-12-20, 14:42:08",
-      "https://news.ycombinator.com/item?id=38709172"
-    ],
-    [
-      "Hacker News Activity Analysis with GPT-4 Agent",
-      "https://eu.getdot.ai/share/c80139c9-13f4-4db4-88f6-6e058ba31ad4?org_id=getdot.ai"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 13:59:59",
       "https://news.ycombinator.com/item?id=38708743"
     ],
@@ -267,6 +257,16 @@
     [
       "Dyalog '18: Rectangles All the Way Down (2018) [video]",
       "https://www.youtube.com/watch?v=mK2WUDIY4hk"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 11:19:55",
+      "https://news.ycombinator.com/item?id=38694278"
+    ],
+    [
+      "Quint: A specification language based on the temporal logic of actions (TLA)",
+      "https://github.com/informalsystems/quint"
     ]
   ],
   [
