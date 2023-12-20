@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
-* [2023-12-20, 04:17:53](https://news.ycombinator.com/item?id=38705399) - [Hn.js](https://news.ycombinator.com/hn.js)
+* [2023-12-20, 03:30:01](https://news.ycombinator.com/item?id=38705132) - [Was an ancient bacterium awakened by an industrial accident?](https://www.economist.com/science-and-technology/2023/11/15/was-an-ancient-bacterium-awakened-by-an-industrial-accident)
 * [2023-12-20, 03:02:43](https://news.ycombinator.com/item?id=38704982) - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
 * [2023-12-20, 02:16:03](https://news.ycombinator.com/item?id=38704704) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-20, 00:27:10](https://news.ycombinator.com/item?id=38703943) - [Build a search engine, not a vector DB](https://blog.elicit.com/search-vs-vector-db/)
@@ -24,7 +25,6 @@
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
 * [2023-12-19, 13:12:49](https://news.ycombinator.com/item?id=38695091) - [Encouraging students to understand the 1D wave equation](https://journals.aps.org/prper/abstract/10.1103/PhysRevPhysEducRes.19.020161)
 * [2023-12-19, 13:04:58](https://news.ycombinator.com/item?id=38695010) - [A daredevil flight to save rare birds](https://www.bbc.com/future/article/20231130-the-scientists-flying-with-rare-birds)
-* [2023-12-19, 12:50:15](https://news.ycombinator.com/item?id=38694880) - [Making my own bed sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [How to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
