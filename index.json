@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-12-20, 14:36:31",
+      "https://news.ycombinator.com/item?id=38709121"
+    ],
+    [
+      "Podman Desktop 1.6 released: Even more Kubernetes and Containers features",
+      "https://podman-desktop.io/blog/podman-desktop-release-1.6"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 14:31:56",
+      "https://news.ycombinator.com/item?id=38709070"
+    ],
+    [
+      "JP Krucker's weight shift amphibious autogyro [video]",
+      "https://www.youtube.com/watch?v=M77amKgBWOY"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 14:17:54",
       "https://news.ycombinator.com/item?id=38708938"
     ],
     [
       "Exploitive, illegal photos of children found in the data that trains some AI",
       "https://www.washingtonpost.com/technology/2023/12/20/ai-child-pornography-abuse-photos-laion/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 14:04:05",
+      "https://news.ycombinator.com/item?id=38708794"
+    ],
+    [
+      "Netlify's disingenuous survey-based attack on Next.js (and eleventy, too)",
+      "https://www.zachleat.com/web/netlify-and-nextjs/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-12-20, 02:16:03",
-      "https://news.ycombinator.com/item?id=38704704"
-    ],
-    [
-      "An update on HDR and color management in KWin",
-      "https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 01:00:13",
       "https://news.ycombinator.com/item?id=38704232"
     ],
@@ -177,16 +197,6 @@
     [
       "MiniLang: A type-safe C successor that compiles directly to x86_64 assembly",
       "https://github.com/NICUP14/MiniLang"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 21:59:18",
-      "https://news.ycombinator.com/item?id=38702271"
-    ],
-    [
-      "The Linux graphics stack in a nutshell",
-      "https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Open Source Infrastructure Somleng",
       "https://www.somleng.org/blog.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 06:48:46",
-      "https://news.ycombinator.com/item?id=38692634"
-    ],
-    [
-      "How to unit test code that depends on time",
-      "https://playfulprogramming.blogspot.com/2023/12/about-time.html"
     ]
   ],
   [
