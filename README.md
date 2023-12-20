@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-20, 02:38:42](https://news.ycombinator.com/item?id=38704830) - [Rite Aid Banned from Using AI Facial Recognition for Five Years](https://www.ftc.gov/news-events/news/press-releases/2023/12/rite-aid-banned-using-ai-facial-recognition-after-ftc-says-retailer-deployed-technology-without)
 * [2023-12-20, 01:00:13](https://news.ycombinator.com/item?id=38704232) - [Sudo without a setuid binary or SSH over a Unix socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-19, 23:02:03](https://news.ycombinator.com/item?id=38703161) - [Performance of llama.cpp on Apple Silicon A-series](https://github.com/ggerganov/llama.cpp/discussions/4508)
 * [2023-12-19, 22:30:52](https://news.ycombinator.com/item?id=38702783) - [Tell HN: Microsoft.com added 192.168.1.1 to their DNS record](https://news.ycombinator.com/item?id=38702783)
@@ -28,7 +29,6 @@
 * [2023-12-19, 06:48:46](https://news.ycombinator.com/item?id=38692634) - [About time: how to unit test code that depends on time](https://playfulprogramming.blogspot.com/2023/12/about-time.html)
 * [2023-12-19, 04:22:30](https://news.ycombinator.com/item?id=38691776) - [The Magic of a Crooked Sixpence](https://daily.jstor.org/the-magic-of-a-crooked-sixpence/)
 * [2023-12-18, 08:16:20](https://news.ycombinator.com/item?id=38680239) - [Serendipity is too important to be left to chance (1996)](https://web.media.mit.edu/%7Elieber/Teaching/Collaboration/Final-Projects/Starner-Project.html)
-* [2023-12-17, 22:05:29](https://news.ycombinator.com/item?id=38676942) - [He felt 'creatively dead', then harnessed the power of boredom](https://www.npr.org/2023/12/17/1219463824/he-was-creatively-dead-then-he-harnessed-the-power-of-boredom)
 * [2023-12-17, 13:39:49](https://news.ycombinator.com/item?id=38672762) - [A 90-year-old man who built a western wear empire](https://thehustle.co/the-90-year-old-man-who-built-a-western-wear-empire/)
 
 ## [Archives](archives/index.md)
