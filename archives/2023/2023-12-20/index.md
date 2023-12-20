@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
 * [2023-12-20, 21:32:53](https://news.ycombinator.com/item?id=38713927) - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 * [2023-12-20, 21:25:21](https://news.ycombinator.com/item?id=38713844) - [Clear wants to scan your face at airports. Privacy experts are worried.](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
@@ -18,6 +19,7 @@
 * [2023-12-20, 19:05:11](https://news.ycombinator.com/item?id=38712326) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 18:59:18](https://news.ycombinator.com/item?id=38712263) - [What kind of bubble is AI?](https://pluralistic.net/2023/12/19/bubblenomics/)
 * [2023-12-20, 18:19:33](https://news.ycombinator.com/item?id=38711808) - [Bird, once valued at $2.5B, just filed for bankruptcy](https://www.businessinsider.com/bird-silicon-valley-electric-scooter-startup-files-for-bankruptcy-2023-12)
+* [2023-12-20, 17:55:22](https://news.ycombinator.com/item?id=38711494) - [100 Lines of C, in a Closet (2020)](https://blog.notryan.com/009.txt)
 * [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 17:32:21](https://news.ycombinator.com/item?id=38711174) - [Meet 'Coscientist,' your AI lab partner](https://new.nsf.gov/science-matters/meet-coscientist-your-ai-lab-partner)
 * [2023-12-20, 17:29:59](https://news.ycombinator.com/item?id=38711135) - [Identifying and Eliminating CSAM in Generative ML Training Data and Models](https://purl.stanford.edu/kh752sm9123)
