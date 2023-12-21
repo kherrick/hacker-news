@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-21, 21:26:47](https://news.ycombinator.com/item?id=38727202) - [Ask HN: Why aren't all heaters computers?](https://news.ycombinator.com/item?id=38727202)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
-* [2023-12-21, 20:56:50](https://news.ycombinator.com/item?id=38726825) - [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
@@ -10,6 +8,7 @@
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
+* [2023-12-21, 17:43:54](https://news.ycombinator.com/item?id=38723799) - [Orchid without bumblebee on island finds wasp, loses self](https://www.kobe-u.ac.jp/en/news/article/2023_10_18_01/)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need foreign keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
 * [2023-12-21, 16:08:05](https://news.ycombinator.com/item?id=38722292) - [Plastic is now a geological phenomenon](https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
@@ -30,6 +29,7 @@
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-19, 20:28:11](https://news.ycombinator.com/item?id=38701043) - [Winning over hearts and minds work: ADKAR my favorite change management approach](https://blog.dagworks.io/p/winning-hearts-and-minds-at-work)
 * [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
+* [2023-12-19, 09:16:02](https://news.ycombinator.com/item?id=38693469) - [Show HN: 4-bit Brick Game emulator in ASCII graphics](https://github.com/ilyakurdyukov/brickgame-4bit)
 
 ## [Archives](archives/index.md)
 

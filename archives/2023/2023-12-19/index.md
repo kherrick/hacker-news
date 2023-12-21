@@ -102,6 +102,7 @@
 * [2023-12-19, 10:27:22](https://news.ycombinator.com/item?id=38693948) - [Hardware Intrinsics in .NET 8](https://devblogs.microsoft.com/dotnet/dotnet-8-hardware-intrinsics/)
 * [2023-12-19, 10:10:22](https://news.ycombinator.com/item?id=38693852) - [Everything you know about the podcast industry is a lie](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
 * [2023-12-19, 09:34:29](https://news.ycombinator.com/item?id=38693603) - [Humans progressively feel agency over events triggered before their actions](https://www.biorxiv.org/content/10.1101/2023.12.01.569449v1)
+* [2023-12-19, 09:16:02](https://news.ycombinator.com/item?id=38693469) - [Show HN: 4-bit Brick Game emulator in ASCII graphics](https://github.com/ilyakurdyukov/brickgame-4bit)
 * [2023-12-19, 09:10:03](https://news.ycombinator.com/item?id=38693439) - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
 * [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 08:43:37](https://news.ycombinator.com/item?id=38693276) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
