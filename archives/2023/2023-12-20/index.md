@@ -78,6 +78,7 @@
 * [2023-12-20, 10:18:02](https://news.ycombinator.com/item?id=38707095) - [Elite: \"The game that couldn't be written\" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
 * [2023-12-20, 09:51:03](https://news.ycombinator.com/item?id=38706951) - [Creating a Disc Golf picker upper](https://victorguyard.com/projects/createxcapstone)
 * [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)
+* [2023-12-20, 09:21:01](https://news.ycombinator.com/item?id=38706781) - [Electric scooter company Bird files for bankruptcy](https://techcrunch.com/2023/12/20/bird-bankruptcy/)
 * [2023-12-20, 09:15:24](https://news.ycombinator.com/item?id=38706760) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-20, 09:01:29](https://news.ycombinator.com/item?id=38706697) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 08:32:17](https://news.ycombinator.com/item?id=38706547) - [End of an era for electronics giant Toshiba](https://www.bbc.com/news/business-67757333)
