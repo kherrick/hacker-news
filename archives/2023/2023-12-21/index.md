@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:24:52](https://news.ycombinator.com/item?id=38717948) - [South Korea Will Police 'Shrinkflation' at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
 * [2023-12-21, 06:36:17](https://news.ycombinator.com/item?id=38717692) - [X: All Tweets Disappeared](https://twitter.com/)
