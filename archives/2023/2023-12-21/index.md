@@ -6,10 +6,13 @@
 
 * [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking Free of Plastic Pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
+* [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
 * [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
 * [2023-12-21, 11:19:18](https://news.ycombinator.com/item?id=38719122) - [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
+* [2023-12-21, 10:14:10](https://news.ycombinator.com/item?id=38718772) - [Twitter puts link warning on report about child labour mines connected to Tesla](https://old.reddit.com/r/europe/comments/18kmlfd/twitterx_puts_a_harmful_link_warning_on/)
+* [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
 * [2023-12-21, 09:08:00](https://news.ycombinator.com/item?id=38718438) - [Couch surfing predator: how a group of drugged and assaulted women fought back](https://www.theguardian.com/society/2023/dec/21/the-couch-surfing-predator-how-a-group-of-women-were-drugged-and-assaulted-then-fought-back)
