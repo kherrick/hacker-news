@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 05:44:05](https://news.ycombinator.com/item?id=38717367) - [Is Twitter/X Down](https://twitter.com/home)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
 * [2023-12-21, 02:53:33](https://news.ycombinator.com/item?id=38716496) - [HP raising Instant Ink subscription pricing significantly](https://www.ghacks.net/2023/12/20/hp-raising-instant-ink-subscription-pricing-significantly/)
 * [2023-12-21, 02:37:55](https://news.ycombinator.com/item?id=38716390) - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson's](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
