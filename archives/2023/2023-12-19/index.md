@@ -77,6 +77,7 @@
 * [2023-12-19, 13:51:47](https://news.ycombinator.com/item?id=38695496) - [In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors](https://spectrum.ieee.org/intel-20a)
 * [2023-12-19, 13:48:19](https://news.ycombinator.com/item?id=38695456) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
+* [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 13:37:28](https://news.ycombinator.com/item?id=38695337) - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 * [2023-12-19, 13:25:29](https://news.ycombinator.com/item?id=38695221) - [The Hidden Secrets of Alien Resurrection on the PS1 [video]](https://www.youtube.com/watch?v=uRB7iUCX4KQ)
 * [2023-12-19, 13:17:04](https://news.ycombinator.com/item?id=38695132) - [Construct in 2023: Year in Review](https://www.construct.net/en/blogs/construct-official-blog-1/construct-2023-year-review-1874)

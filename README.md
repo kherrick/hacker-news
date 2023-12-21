@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-20, 23:07:17](https://news.ycombinator.com/item?id=38714855) - [NRF retracts its assertion that organized retail crime led to 50% of losses](https://stateline.org/2023/12/19/smash-and-grab-robberies-fuel-new-laws-but-critics-question-the-need/)
+* [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:44:00](https://news.ycombinator.com/item?id=38714650) - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
-* [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
 * [2023-12-20, 21:32:53](https://news.ycombinator.com/item?id=38713927) - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 20:26:43](https://news.ycombinator.com/item?id=38713167) - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
@@ -26,6 +25,7 @@
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 20:49:26](https://news.ycombinator.com/item?id=38701327) - [Conditioning Is Grouping By](https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html)
 * [2023-12-19, 20:05:37](https://news.ycombinator.com/item?id=38700779) - [My failed attempt at using a closet as an office](http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html)
+* [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
 * [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
