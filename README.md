@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
+* [2023-12-21, 07:24:52](https://news.ycombinator.com/item?id=38717948) - [South Korea Will Police 'Shrinkflation' at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
 * [2023-12-21, 02:37:55](https://news.ycombinator.com/item?id=38716390) - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson's](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
 * [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
-* [2023-12-21, 01:38:10](https://news.ycombinator.com/item?id=38716075) - [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
 * [2023-12-21, 01:31:47](https://news.ycombinator.com/item?id=38716032) - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 * [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis in mice](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
