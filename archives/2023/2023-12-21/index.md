@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 * [2023-12-21, 22:48:48](https://news.ycombinator.com/item?id=38728193) - [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
 * [2023-12-21, 22:46:29](https://news.ycombinator.com/item?id=38728172) - [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
