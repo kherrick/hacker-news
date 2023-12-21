@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 22:31:08",
+      "https://news.ycombinator.com/item?id=38728018"
+    ],
+    [
+      "LLM in a Flash: Efficient Large Language Model Inference with Limited Memory",
+      "https://arxiv.org/abs/2312.11514"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 22:03:04",
       "https://news.ycombinator.com/item?id=38727676"
     ],
@@ -27,16 +37,6 @@
     [
       "The right to use adblockers",
       "https://fsfe.org/news/2023/news-20231220-01.sl.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 20:25:35",
-      "https://news.ycombinator.com/item?id=38726370"
-    ],
-    [
-      "YAML, Python and the Holy Graal",
-      "https://yamlscript.org/posts/advent-2023/dec-21/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-21, 17:43:54",
-      "https://news.ycombinator.com/item?id=38723799"
-    ],
-    [
-      "Orchid without bumblebee on island finds wasp, loses self",
-      "https://www.kobe-u.ac.jp/en/news/article/2023_10_18_01/"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 16:08:05",
       "https://news.ycombinator.com/item?id=38722292"
     ],
@@ -147,6 +137,16 @@
     [
       "Apple allows some iOS apps to track user locations via lists of nearby SSIDs",
       "https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 14:15:06",
+      "https://news.ycombinator.com/item?id=38720615"
+    ],
+    [
+      "Cisco to acquire Isovalent",
+      "https://isovalent.com/blog/post/cisco-acquires-isovalent/"
     ]
   ],
   [
