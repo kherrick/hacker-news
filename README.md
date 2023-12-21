@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+* [2023-12-21, 01:31:47](https://news.ycombinator.com/item?id=38716032) - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 * [2023-12-20, 23:57:44](https://news.ycombinator.com/item?id=38715286) - [What It's Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
 * [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
@@ -11,7 +13,6 @@
 * [2023-12-20, 19:50:24](https://news.ycombinator.com/item?id=38712802) - [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
 * [2023-12-20, 19:05:11](https://news.ycombinator.com/item?id=38712326) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 17:55:22](https://news.ycombinator.com/item?id=38711494) - [100 Lines of C, in a Closet (2020)](https://blog.notryan.com/009.txt)
-* [2023-12-20, 17:38:23](https://news.ycombinator.com/item?id=38711278) - [The Machiavellian Maze](https://www.robkhenderson.com/p/the-machiavellian-maze)
 * [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
@@ -28,7 +29,6 @@
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
-* [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
