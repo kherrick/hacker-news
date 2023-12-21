@@ -14,6 +14,7 @@
 * [2023-12-21, 16:42:38](https://news.ycombinator.com/item?id=38722831) - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:53:27](https://news.ycombinator.com/item?id=38722049) - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
+* [2023-12-21, 15:43:12](https://news.ycombinator.com/item?id=38721865) - [Windows and macOS targeted by new Go-based malware](https://www.techradar.com/pro/security/windows-and-macos-targeted-by-new-go-based-malware)
 * [2023-12-21, 15:41:30](https://news.ycombinator.com/item?id=38721830) - [A larger family worsens kids' cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
 * [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
