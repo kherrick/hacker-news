@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
 * [2023-12-21, 21:02:50](https://news.ycombinator.com/item?id=38726911) - [Tech's DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
@@ -11,7 +12,6 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need foreign keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
-* [2023-12-21, 16:47:43](https://news.ycombinator.com/item?id=38722911) - [New York’s attorney general says SiriusXM’s cancellation process is illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
 * [2023-12-21, 16:08:05](https://news.ycombinator.com/item?id=38722292) - [Plastic is now a geological phenomenon](https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
