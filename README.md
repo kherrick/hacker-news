@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police get medical records without a warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
-* [2023-12-21, 12:32:39](https://news.ycombinator.com/item?id=38719644) - [iPhone thief explains how he breaks into phones [video]](https://www.youtube.com/watch?v=gi96HKr2vo8)
 * [2023-12-21, 12:30:51](https://news.ycombinator.com/item?id=38719623) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking free of plastic pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
@@ -12,6 +11,7 @@
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
 * [2023-12-21, 09:08:00](https://news.ycombinator.com/item?id=38718438) - [Couch surfing predator: how a group of drugged and assaulted women fought back](https://www.theguardian.com/society/2023/dec/21/the-couch-surfing-predator-how-a-group-of-women-were-drugged-and-assaulted-then-fought-back)
+* [2023-12-21, 07:48:10](https://news.ycombinator.com/item?id=38718043) - [DocuSeal – Open-source Document Signing](https://www.docuseal.co/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
