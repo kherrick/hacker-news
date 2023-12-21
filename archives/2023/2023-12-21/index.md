@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel set to spin off FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 * [2023-12-21, 18:03:42](https://news.ycombinator.com/item?id=38724093) - [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
 * [2023-12-21, 17:59:17](https://news.ycombinator.com/item?id=38724030) - [US utility firms offer builders cash/trips to fit new homes with gas appliances](https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas)
+* [2023-12-21, 17:50:44](https://news.ycombinator.com/item?id=38723906) - [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need Foreign Keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
 * [2023-12-21, 17:17:35](https://news.ycombinator.com/item?id=38723373) - [Faster Arxiv.org with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
 * [2023-12-21, 17:16:11](https://news.ycombinator.com/item?id=38723344) - [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
@@ -15,6 +17,7 @@
 * [2023-12-21, 16:48:03](https://news.ycombinator.com/item?id=38722915) - [Why is my Mac trying to force me to enroll with Expedia Group upon installation?](https://apple.stackexchange.com/questions/467625/why-is-my-mac-trying-to-force-me-to-enroll-with-expedia-group-upon-installation)
 * [2023-12-21, 16:47:43](https://news.ycombinator.com/item?id=38722911) - [NY Attorney General: SiriusXM's annoying cancellation process illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
 * [2023-12-21, 16:42:38](https://news.ycombinator.com/item?id=38722831) - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
+* [2023-12-21, 16:08:05](https://news.ycombinator.com/item?id=38722292) - [Geologists say plastic rocks are now a thing](https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:53:27](https://news.ycombinator.com/item?id=38722049) - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
 * [2023-12-21, 15:43:12](https://news.ycombinator.com/item?id=38721865) - [Windows and macOS targeted by new Go-based malware](https://www.techradar.com/pro/security/windows-and-macos-targeted-by-new-go-based-malware)
