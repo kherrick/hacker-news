@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-21, 15:53:27](https://news.ycombinator.com/item?id=38722049) - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
 * [2023-12-21, 15:41:30](https://news.ycombinator.com/item?id=38721830) - [A larger family worsens kids' cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
 * [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
@@ -28,6 +27,7 @@
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
+* [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
 * [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 13:57:26](https://news.ycombinator.com/item?id=38695542) - [Tigger: A database proxy that bounces with user-bypass [pdf]](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
 
