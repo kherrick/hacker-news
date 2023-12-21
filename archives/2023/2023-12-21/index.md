@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
 * [2023-12-21, 19:24:21](https://news.ycombinator.com/item?id=38725442) - [Hyperloop One to Shut Down After Failing to Reinvent Transit](https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit)
+* [2023-12-21, 19:23:20](https://news.ycombinator.com/item?id=38725426) - [Whole Foods beats NLRB case over ban on Black Lives Matter apparel](https://www.reuters.com/legal/government/whole-foods-beats-nlrb-case-over-ban-black-lives-matter-apparel-2023-12-21/)
 * [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
