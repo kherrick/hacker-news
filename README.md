@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 21:02:50](https://news.ycombinator.com/item?id=38726911) - [Tech's DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
+* [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
@@ -9,7 +11,6 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need foreign keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
-* [2023-12-21, 17:01:11](https://news.ycombinator.com/item?id=38723115) - [Juniper (YC W21) is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 * [2023-12-21, 16:47:43](https://news.ycombinator.com/item?id=38722911) - [New York’s attorney general says SiriusXM’s cancellation process is illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
 * [2023-12-21, 16:08:05](https://news.ycombinator.com/item?id=38722292) - [Plastic is now a geological phenomenon](https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
@@ -25,7 +26,6 @@
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Flare, a video sharing site built on Nostr](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
-* [2023-12-20, 17:05:23](https://news.ycombinator.com/item?id=38710874) - [Waymo outperforms comparable human benchmarks over 7M+ miles](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-19, 20:28:11](https://news.ycombinator.com/item?id=38701043) - [Winning over hearts and minds work: ADKAR my favorite change management approach](https://blog.dagworks.io/p/winning-hearts-and-minds-at-work)
