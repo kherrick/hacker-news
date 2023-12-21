@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 17:01:11](https://news.ycombinator.com/item?id=38723115) - [Juniper (YC W21) is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+* [2023-12-21, 16:48:03](https://news.ycombinator.com/item?id=38722915) - [Why is my Mac trying to force me to enroll with Expedia Group upon installation?](https://apple.stackexchange.com/questions/467625/why-is-my-mac-trying-to-force-me-to-enroll-with-expedia-group-upon-installation)
+* [2023-12-21, 16:47:43](https://news.ycombinator.com/item?id=38722911) - [NY Attorney General: SiriusXM's annoying cancellation process illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
 * [2023-12-21, 16:42:38](https://news.ycombinator.com/item?id=38722831) - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
 * [2023-12-21, 15:53:27](https://news.ycombinator.com/item?id=38722049) - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
 * [2023-12-21, 15:41:30](https://news.ycombinator.com/item?id=38721830) - [A larger family worsens kids' cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
