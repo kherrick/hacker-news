@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
+* [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:31:50](https://news.ycombinator.com/item?id=38724591) - [Google Makes over $92B per Year by Owning Android](https://interestingcontent.substack.com/p/google-makes-over-92-billion-per)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel set to spin off FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
