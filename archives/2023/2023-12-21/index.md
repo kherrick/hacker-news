@@ -6,6 +6,7 @@
 
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police Get Medical Records Without a Warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:38:36](https://news.ycombinator.com/item?id=38719694) - [X Gives Security Warning on Swedish Newspapers Tesla Critical Article](https://twitter.com/safety/unsafe_link_warning)
+* [2023-12-21, 12:32:39](https://news.ycombinator.com/item?id=38719644) - [iPhone thief explains how he breaks into phones [video]](https://www.youtube.com/watch?v=gi96HKr2vo8)
 * [2023-12-21, 12:30:51](https://news.ycombinator.com/item?id=38719623) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking Free of Plastic Pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
