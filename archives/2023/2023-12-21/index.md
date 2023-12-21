@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need Foreign Keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
 * [2023-12-21, 17:16:11](https://news.ycombinator.com/item?id=38723344) - [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
 * [2023-12-21, 17:14:06](https://news.ycombinator.com/item?id=38723309) - [Lapsus$: GTA 6 hacker sentenced to life in hospital prison](https://www.bbc.co.uk/news/technology-67663128)
 * [2023-12-21, 17:01:11](https://news.ycombinator.com/item?id=38723115) - [Juniper (YC W21) is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
@@ -20,11 +21,13 @@
 * [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 * [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
+* [2023-12-21, 14:22:43](https://news.ycombinator.com/item?id=38720694) - [The Loneliness of the Mid-Level Vimmer](https://johnwhiles.com/posts/vimming-pains)
 * [2023-12-21, 14:18:46](https://news.ycombinator.com/item?id=38720656) - [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
 * [2023-12-21, 14:15:06](https://news.ycombinator.com/item?id=38720615) - [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
 * [2023-12-21, 14:08:44](https://news.ycombinator.com/item?id=38720544) - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
 * [2023-12-21, 14:05:50](https://news.ycombinator.com/item?id=38720512) - [Spotify's Push into Audiobooks Sparks Concern Among Authors](https://www.bloomberg.com/news/articles/2023-12-19/spotify-s-audiobooks-plan-is-getting-blasted-by-authors-around-the-world)
 * [2023-12-21, 14:03:27](https://news.ycombinator.com/item?id=38720483) - [Why Is the Press Attacking Home Schoolers?](https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a)
+* [2023-12-21, 14:02:12](https://news.ycombinator.com/item?id=38720471) - [Llamafile: Bringing LLMs to the people, and to your own computer](https://future.mozilla.org/blog/introducing-llamafile/)
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
 * [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
