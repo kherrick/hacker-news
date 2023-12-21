@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking Free of Plastic Pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
 * [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
+* [2023-12-21, 11:19:18](https://news.ycombinator.com/item?id=38719122) - [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
@@ -14,6 +16,7 @@
 * [2023-12-21, 08:36:11](https://news.ycombinator.com/item?id=38718245) - [Social media platform X suffers global outages](https://www.bbc.com/news/business-67783058)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:24:52](https://news.ycombinator.com/item?id=38717948) - [South Korea Will Police 'Shrinkflation' at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
+* [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-21, 06:36:17](https://news.ycombinator.com/item?id=38717692) - [X: All Tweets Disappeared](https://twitter.com/)
 * [2023-12-21, 05:44:05](https://news.ycombinator.com/item?id=38717367) - [Is Twitter/X Down](https://twitter.com/home)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
