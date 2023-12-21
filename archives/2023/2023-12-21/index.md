@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
 * [2023-12-21, 14:18:46](https://news.ycombinator.com/item?id=38720656) - [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
 * [2023-12-21, 14:15:06](https://news.ycombinator.com/item?id=38720615) - [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
 * [2023-12-21, 14:08:44](https://news.ycombinator.com/item?id=38720544) - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)

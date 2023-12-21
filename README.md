@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
 * [2023-12-21, 14:18:46](https://news.ycombinator.com/item?id=38720656) - [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
 * [2023-12-21, 14:15:06](https://news.ycombinator.com/item?id=38720615) - [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
 * [2023-12-21, 14:08:44](https://news.ycombinator.com/item?id=38720544) - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
@@ -22,7 +23,6 @@
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
-* [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Implementation of Mamba in one file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 * [2023-12-20, 13:48:09](https://news.ycombinator.com/item?id=38708606) - [Making synthesized sounds more acoustic](https://nathan.ho.name/posts/acoustic-sounds/)
 * [2023-12-20, 13:46:08](https://news.ycombinator.com/item?id=38708585) - [High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
