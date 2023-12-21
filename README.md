@@ -2,14 +2,12 @@
 
 * [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
-* [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
+* [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:31:50](https://news.ycombinator.com/item?id=38724591) - [Google Makes over $92B per Year by Owning Android](https://interestingcontent.substack.com/p/google-makes-over-92-billion-per)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need foreign keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
-* [2023-12-21, 17:17:35](https://news.ycombinator.com/item?id=38723373) - [Faster arXiv with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
-* [2023-12-21, 17:14:06](https://news.ycombinator.com/item?id=38723309) - [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.co.uk/news/technology-67663128)
 * [2023-12-21, 17:01:11](https://news.ycombinator.com/item?id=38723115) - [Juniper (YC W21) is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 * [2023-12-21, 16:47:43](https://news.ycombinator.com/item?id=38722911) - [New York’s attorney general says SiriusXM’s cancellation process is illegal](https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
@@ -29,7 +27,9 @@
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-20, 05:26:52](https://news.ycombinator.com/item?id=38705747) - [Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
+* [2023-12-19, 20:28:11](https://news.ycombinator.com/item?id=38701043) - [Winning over hearts and minds work: ADKAR my favorite change management approach](https://blog.dagworks.io/p/winning-hearts-and-minds-at-work)
 * [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
+* [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 
 ## [Archives](archives/index.md)
 
