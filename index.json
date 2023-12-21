@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-21, 05:44:05",
-      "https://news.ycombinator.com/item?id=38717367"
-    ],
-    [
-      "Is Twitter/X Down",
-      "https://twitter.com/home"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 04:48:20",
       "https://news.ycombinator.com/item?id=38717114"
     ],
@@ -71,12 +61,12 @@
   ],
   [
     [
-      "2023-12-20, 22:46:35",
-      "https://news.ycombinator.com/item?id=38714674"
+      "2023-12-20, 22:40:14",
+      "https://news.ycombinator.com/item?id=38714607"
     ],
     [
-      "iMessage Key Verification",
-      "https://support.apple.com/en-gb/HT213465"
+      "How to Escape a Container",
+      "https://www.panoptica.app/research/7-ways-to-escape-a-container"
     ]
   ],
   [
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2023-12-20, 19:50:24",
-      "https://news.ycombinator.com/item?id=38712802"
-    ],
-    [
-      "Mistral 7B Fine-Tune Optimized",
-      "https://openpipe.ai/blog/mistral-7b-fine-tune-optimized"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 19:05:11",
       "https://news.ycombinator.com/item?id=38712326"
     ],
@@ -147,6 +127,26 @@
     [
       "Uniting the Linux random-number devices (2022)",
       "https://lwn.net/Articles/884875/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 16:43:10",
+      "https://news.ycombinator.com/item?id=38710600"
+    ],
+    [
+      "Show HN: Quack Companion – VSCode extension for OSS contribution assistance",
+      "https://github.com/quack-ai/companion"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 16:26:35",
+      "https://news.ycombinator.com/item?id=38710387"
+    ],
+    [
+      "Building a faster hash table for high performance SQL joins",
+      "https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/"
     ]
   ],
   [
