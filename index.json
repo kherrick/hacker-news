@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-12-21, 21:26:47",
-      "https://news.ycombinator.com/item?id=38727202"
-    ],
-    [
-      "Ask HN: Why aren't all heaters computers?",
-      "https://news.ycombinator.com/item?id=38727202"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 21:01:11",
       "https://news.ycombinator.com/item?id=38726883"
     ],
     [
       "Eqtble (YC W21) is hiring a software engineer",
       "https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 20:56:50",
-      "https://news.ycombinator.com/item?id=38726825"
-    ],
-    [
-      "WinUAE 5.1.0",
-      "https://www.winuae.net/2023/12/08/winuae-5-1-0/"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "Intel plans spinoff of FPGA unit",
       "https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 17:43:54",
+      "https://news.ycombinator.com/item?id=38723799"
+    ],
+    [
+      "Orchid without bumblebee on island finds wasp, loses self",
+      "https://www.kobe-u.ac.jp/en/news/article/2023_10_18_01/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Discovering copy-on-write in R",
       "https://franklin.dyer.me/post/213"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 09:16:02",
+      "https://news.ycombinator.com/item?id=38693469"
+    ],
+    [
+      "Show HN: 4-bit Brick Game emulator in ASCII graphics",
+      "https://github.com/ilyakurdyukov/brickgame-4bit"
     ]
   ]
 ]
