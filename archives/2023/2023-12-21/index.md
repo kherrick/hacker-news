@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 06:36:17](https://news.ycombinator.com/item?id=38717692) - [X: All Tweets Disappeared](https://twitter.com/)
 * [2023-12-21, 05:44:05](https://news.ycombinator.com/item?id=38717367) - [Is Twitter/X Down](https://twitter.com/home)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
