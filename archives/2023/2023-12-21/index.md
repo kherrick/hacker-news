@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 16:42:38](https://news.ycombinator.com/item?id=38722831) - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
 * [2023-12-21, 15:53:27](https://news.ycombinator.com/item?id=38722049) - [1992 – Interest rate 500% – the Swedish krona floats](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1900-1999/interest-rate-500--the-krona-floats/)
 * [2023-12-21, 15:41:30](https://news.ycombinator.com/item?id=38721830) - [A larger family worsens kids' cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
 * [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
 * [2023-12-21, 15:18:02](https://news.ycombinator.com/item?id=38721462) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
+* [2023-12-21, 15:07:49](https://news.ycombinator.com/item?id=38721329) - [Tolkien Estate Wins Court Order to Destroy Fan's 'Lord of the Rings' Sequel](https://www.nytimes.com/2023/12/21/arts/lord-of-the-rings-sequel-lawsuit.html)
 * [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 * [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)

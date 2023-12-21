@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 16:42:38](https://news.ycombinator.com/item?id=38722831) - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down)
 * [2023-12-21, 15:41:30](https://news.ycombinator.com/item?id=38721830) - [A larger family worsens kids' cognitive development, suggests 30-year study](https://bigthink.com/the-present/large-family-worsens-kids-cognitive-development/)
 * [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
 * [2023-12-21, 15:18:02](https://news.ycombinator.com/item?id=38721462) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
+* [2023-12-21, 15:07:49](https://news.ycombinator.com/item?id=38721329) - [Tolkien Estate Wins Court Order to Destroy Fan's 'Lord of the Rings' Sequel](https://www.nytimes.com/2023/12/21/arts/lord-of-the-rings-sequel-lawsuit.html)
 * [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 * [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
@@ -18,7 +20,6 @@
 * [2023-12-21, 12:26:27](https://news.ycombinator.com/item?id=38719582) - [Stop Worrying About Deepfakes](https://nautil.us/stop-worrying-about-deepfakes-470212/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
-* [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [Many VCs have stopped investing this year](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
 * [2023-12-21, 07:48:10](https://news.ycombinator.com/item?id=38718043) - [DocuSeal – Open-source Document Signing](https://www.docuseal.co/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
@@ -29,7 +30,6 @@
 * [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
 * [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 13:57:26](https://news.ycombinator.com/item?id=38695542) - [Tigger: A database proxy that bounces with user-bypass [pdf]](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
-* [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
 
 ## [Archives](archives/index.md)
 
