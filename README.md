@@ -25,10 +25,10 @@
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 20:49:26](https://news.ycombinator.com/item?id=38701327) - [Conditioning Is Grouping By](https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html)
 * [2023-12-19, 20:05:37](https://news.ycombinator.com/item?id=38700779) - [My failed attempt at using a closet as an office](http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html)
-* [2023-12-19, 15:47:08](https://news.ycombinator.com/item?id=38697038) - [Security and crashing with modal logic](https://ryanbrewer.dev/posts/security-crashing-modal-logic.html)
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
+* [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
