@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
+* [2023-12-21, 18:31:50](https://news.ycombinator.com/item?id=38724591) - [Google Makes over $92B per Year by Owning Android](https://interestingcontent.substack.com/p/google-makes-over-92-billion-per)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel set to spin off FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
 * [2023-12-21, 18:03:42](https://news.ycombinator.com/item?id=38724093) - [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
 * [2023-12-21, 17:59:17](https://news.ycombinator.com/item?id=38724030) - [US utility firms offer builders cash/trips to fit new homes with gas appliances](https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas)
