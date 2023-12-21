@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
+* [2023-12-21, 22:46:29](https://news.ycombinator.com/item?id=38728172) - [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 * [2023-12-21, 22:31:08](https://news.ycombinator.com/item?id=38728018) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
+* [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 22:03:04](https://news.ycombinator.com/item?id=38727676) - [British teenager behind GTA 6 hack receives indefinite hospital order](https://www.theguardian.com/uk-news/2023/dec/21/british-teenager-behind-gta-6-hack-receives-indefinite-hospital-order)
 * [2023-12-21, 21:26:47](https://news.ycombinator.com/item?id=38727202) - [Ask HN: Why aren't all heaters computers?](https://news.ycombinator.com/item?id=38727202)
 * [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
