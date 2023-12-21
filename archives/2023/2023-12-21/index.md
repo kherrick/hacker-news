@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
+* [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
 * [2023-12-21, 14:18:46](https://news.ycombinator.com/item?id=38720656) - [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
 * [2023-12-21, 14:15:06](https://news.ycombinator.com/item?id=38720615) - [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
