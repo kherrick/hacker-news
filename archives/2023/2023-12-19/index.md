@@ -61,6 +61,7 @@
 * [2023-12-19, 16:00:06](https://news.ycombinator.com/item?id=38697227) - [Nobody Knows What's Happening Online Anymore](https://www.theatlantic.com/technology/archive/2023/12/internet-information-trends-virality-tracking/676888/)
 * [2023-12-19, 15:59:15](https://news.ycombinator.com/item?id=38697218) - [Google podcasts is shutting down](https://support.google.com/youtubemusic/answer/14151168?hl=en)
 * [2023-12-19, 15:56:53](https://news.ycombinator.com/item?id=38697195) - [NASA sends cat video over laser from 80 lunar distances](https://www.jpl.nasa.gov/news/nasas-tech-demo-streams-first-video-from-deep-space-via-laser)
+* [2023-12-19, 15:47:08](https://news.ycombinator.com/item?id=38697038) - [Security and crashing with modal logic](https://ryanbrewer.dev/posts/security-crashing-modal-logic.html)
 * [2023-12-19, 15:44:33](https://news.ycombinator.com/item?id=38697000) - [Diablo 2 Parallax](https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/)
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [Inner Ring – CS Lewis](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
