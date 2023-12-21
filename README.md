@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 06:36:17](https://news.ycombinator.com/item?id=38717692) - [X: All Tweets Disappeared](https://twitter.com/)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
 * [2023-12-21, 02:37:55](https://news.ycombinator.com/item?id=38716390) - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson's](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
 * [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
@@ -13,7 +14,6 @@
 * [2023-12-20, 19:05:11](https://news.ycombinator.com/item?id=38712326) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 17:55:22](https://news.ycombinator.com/item?id=38711494) - [100 Lines of C, in a Closet (2020)](https://blog.notryan.com/009.txt)
 * [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
-* [2023-12-20, 16:43:10](https://news.ycombinator.com/item?id=38710600) - [Show HN: Quack Companion – VSCode extension for OSS contribution assistance](https://github.com/quack-ai/companion)
 * [2023-12-20, 16:26:35](https://news.ycombinator.com/item?id=38710387) - [Building a faster hash table for high performance SQL joins](https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Implementation of Mamba in one file of PyTorch](https://github.com/johnma2006/mamba-minimal)
