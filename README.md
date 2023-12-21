@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 19:24:21](https://news.ycombinator.com/item?id=38725442) - [Hyperloop One to Shut Down After Failing to Reinvent Transit](https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit)
-* [2023-12-21, 19:23:20](https://news.ycombinator.com/item?id=38725426) - [Whole Foods beats NLRB case over ban on Black Lives Matter apparel](https://www.reuters.com/legal/government/whole-foods-beats-nlrb-case-over-ban-black-lives-matter-apparel-2023-12-21/)
 * [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
@@ -26,6 +25,7 @@
 * [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The great cousin decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Flare, a video sharing site built on Nostr](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
+* [2023-12-20, 17:05:23](https://news.ycombinator.com/item?id=38710874) - [Waymo outperforms comparable human benchmarks over 7M+ miles](https://waymo.com/blog/2023/12/waymo-significantly-outperforms.html)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-20, 05:26:52](https://news.ycombinator.com/item?id=38705747) - [Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
