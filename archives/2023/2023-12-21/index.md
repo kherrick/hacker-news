@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
