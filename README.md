@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-21, 02:37:55](https://news.ycombinator.com/item?id=38716390) - [U.S. workers say banned weed killer in 50 countries is giving them Parkinson's](https://www.latimes.com/environment/story/2023-12-20/california-workers-say-herbicide-is-giving-them-parkinsons)
 * [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
 * [2023-12-21, 01:38:10](https://news.ycombinator.com/item?id=38716075) - [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
 * [2023-12-21, 01:31:47](https://news.ycombinator.com/item?id=38716032) - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
@@ -23,12 +22,13 @@
 * [2023-12-20, 13:05:53](https://news.ycombinator.com/item?id=38708185) - [IBM demonstrates 133-qubit Heron](https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era)
 * [2023-12-20, 11:06:39](https://news.ycombinator.com/item?id=38707344) - [AI cannot be patent 'inventor', UK Supreme Court rules in landmark case](https://www.reuters.com/technology/ai-cannot-be-patent-inventor-uk-supreme-court-rules-landmark-case-2023-12-20/)
 * [2023-12-20, 09:51:03](https://news.ycombinator.com/item?id=38706951) - [Creating a Disc Golf picker upper](https://victorguyard.com/projects/createxcapstone)
-* [2023-12-20, 09:21:01](https://news.ycombinator.com/item?id=38706781) - [Electric scooter company Bird files for bankruptcy](https://techcrunch.com/2023/12/20/bird-bankruptcy/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
+* [2023-12-19, 20:49:26](https://news.ycombinator.com/item?id=38701327) - [Conditioning Is Grouping By](https://www.alexmolas.com/2023/11/30/conditioning-is-grouping-by.html)
 * [2023-12-19, 20:05:37](https://news.ycombinator.com/item?id=38700779) - [My failed attempt at using a closet as an office](http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html)
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
+* [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
