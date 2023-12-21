@@ -12,14 +12,13 @@
 * [2023-12-21, 14:08:44](https://news.ycombinator.com/item?id=38720544) - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
-* [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:38:32](https://news.ycombinator.com/item?id=38720226) - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police get medical records without a warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:30:51](https://news.ycombinator.com/item?id=38719623) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
-* [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking free of plastic pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 12:26:27](https://news.ycombinator.com/item?id=38719582) - [Stop Worrying About Deepfakes](https://nautil.us/stop-worrying-about-deepfakes-470212/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
+* [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [Many VCs have stopped investing this year](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
 * [2023-12-21, 07:48:10](https://news.ycombinator.com/item?id=38718043) - [DocuSeal – Open-source Document Signing](https://www.docuseal.co/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
@@ -30,6 +29,7 @@
 * [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
 * [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 13:57:26](https://news.ycombinator.com/item?id=38695542) - [Tigger: A database proxy that bounces with user-bypass [pdf]](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
+* [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
 
 ## [Archives](archives/index.md)
 
