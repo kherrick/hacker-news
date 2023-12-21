@@ -87,6 +87,7 @@
 * [2023-12-20, 08:21:39](https://news.ycombinator.com/item?id=38706492) - [What seven hours in London teaches me about surveillance capitalism](https://brettscott.substack.com/p/the-war-on-informality)
 * [2023-12-20, 08:20:31](https://news.ycombinator.com/item?id=38706485) - [Airbnb is deploying AI to block New Year's Eve bookings that could be parties](https://news.airbnb.com/airbnb-using-ai-to-help-clampdown-on-new-years-eve-parties-globally/)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
+* [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-20, 07:11:49](https://news.ycombinator.com/item?id=38706190) - [Show HN: A Website to Turn Your Apple Notes into Blogs](https://quotion.co/)
 * [2023-12-20, 07:06:37](https://news.ycombinator.com/item?id=38706167) - [Ask HN: Who needs holiday help? (Follow up thread)](https://news.ycombinator.com/item?id=38706167)
 * [2023-12-20, 05:26:52](https://news.ycombinator.com/item?id=38705747) - [Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)

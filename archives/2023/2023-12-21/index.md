@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel set to spin off FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
+* [2023-12-21, 18:03:42](https://news.ycombinator.com/item?id=38724093) - [Wikimedia Russia has been dissolved](https://mastodon.xyz/@johl/111618899554454932)
+* [2023-12-21, 17:59:17](https://news.ycombinator.com/item?id=38724030) - [US utility firms offer builders cash/trips to fit new homes with gas appliances](https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas)
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need Foreign Keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
 * [2023-12-21, 17:17:35](https://news.ycombinator.com/item?id=38723373) - [Faster Arxiv.org with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
 * [2023-12-21, 17:16:11](https://news.ycombinator.com/item?id=38723344) - [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
