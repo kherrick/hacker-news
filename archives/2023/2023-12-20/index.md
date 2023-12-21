@@ -78,6 +78,7 @@
 * [2023-12-20, 10:34:43](https://news.ycombinator.com/item?id=38707190) - [Show HN: ClimateTriage – Impactful open source contributions](https://climatetriage.com/)
 * [2023-12-20, 10:28:32](https://news.ycombinator.com/item?id=38707156) - [Notesnook – open-source and zero knowledge private note taking app](https://notesnook.com/)
 * [2023-12-20, 10:18:02](https://news.ycombinator.com/item?id=38707095) - [Elite: \"The game that couldn't be written\" [video]](https://www.youtube.com/watch?v=lC4YLMLar5I)
+* [2023-12-20, 09:55:50](https://news.ycombinator.com/item?id=38706989) - [2001's Pre- and Post-Premiere Edits](http://www.visual-memory.co.uk/amk/doc/brown3.html)
 * [2023-12-20, 09:51:03](https://news.ycombinator.com/item?id=38706951) - [Creating a Disc Golf picker upper](https://victorguyard.com/projects/createxcapstone)
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)

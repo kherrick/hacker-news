@@ -2,7 +2,6 @@
 
 * [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 * [2023-12-21, 22:48:48](https://news.ycombinator.com/item?id=38728193) - [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
-* [2023-12-21, 22:46:29](https://news.ycombinator.com/item?id=38728172) - [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:30:50](https://news.ycombinator.com/item?id=38727252) - [My Journey to build daisyUI: Why Tailwind CSS was not enough?](https://daisyui.com/blog/my-journey-to-build-daisyui/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
@@ -26,6 +25,7 @@
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Flare, a video sharing site built on Nostr](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
 * [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-20, 12:46:44](https://news.ycombinator.com/item?id=38708010) - [C Object Oriented Programming (2014)](https://nullprogram.com/blog/2014/10/21/)
+* [2023-12-20, 09:55:50](https://news.ycombinator.com/item?id=38706989) - [2001's Pre- and Post-Premiere Edits](http://www.visual-memory.co.uk/amk/doc/brown3.html)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-19, 17:08:16](https://news.ycombinator.com/item?id=38698259) - [Discovering copy-on-write in R](https://franklin.dyer.me/post/213)
