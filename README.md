@@ -20,7 +20,6 @@
 * [2023-12-20, 13:48:09](https://news.ycombinator.com/item?id=38708606) - [Making synthesized sounds more acoustic](https://nathan.ho.name/posts/acoustic-sounds/)
 * [2023-12-20, 13:46:08](https://news.ycombinator.com/item?id=38708585) - [High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
 * [2023-12-20, 13:05:53](https://news.ycombinator.com/item?id=38708185) - [IBM demonstrates 133-qubit Heron](https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era)
-* [2023-12-20, 11:06:39](https://news.ycombinator.com/item?id=38707344) - [AI cannot be patent 'inventor', UK Supreme Court rules in landmark case](https://www.reuters.com/technology/ai-cannot-be-patent-inventor-uk-supreme-court-rules-landmark-case-2023-12-20/)
 * [2023-12-20, 09:51:03](https://news.ycombinator.com/item?id=38706951) - [Creating a Disc Golf picker upper](https://victorguyard.com/projects/createxcapstone)
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
@@ -29,6 +28,7 @@
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
 * [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
+* [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
