@@ -9,6 +9,7 @@
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 19:34:52](https://news.ycombinator.com/item?id=38725595) - [Sniffing women's tears reduces aggressive behavior in men](https://medicalxpress.com/news/2023-12-sniffing-women-aggressive-behavior-men.html)
+* [2023-12-21, 19:26:07](https://news.ycombinator.com/item?id=38725478) - [Custom Semantic Analyzer library written Rust lang](https://github.com/mrLSD/semantic-analyzer-rs)
 * [2023-12-21, 19:24:21](https://news.ycombinator.com/item?id=38725442) - [Hyperloop One to Shut Down After Failing to Reinvent Transit](https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit)
 * [2023-12-21, 19:23:20](https://news.ycombinator.com/item?id=38725426) - [Whole Foods beats NLRB case over ban on Black Lives Matter apparel](https://www.reuters.com/legal/government/whole-foods-beats-nlrb-case-over-ban-black-lives-matter-apparel-2023-12-21/)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find Out Who Owns a Nursing Home with Our Nursing Home Inspect Tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
