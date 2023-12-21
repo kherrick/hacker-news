@@ -7,7 +7,6 @@
 * [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
-* [2023-12-20, 21:32:53](https://news.ycombinator.com/item?id=38713927) - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 20:26:43](https://news.ycombinator.com/item?id=38713167) - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
 * [2023-12-20, 19:57:48](https://news.ycombinator.com/item?id=38712883) - [Lessons on building business value](https://lockedinspace.com/posts/002.html)
@@ -29,6 +28,7 @@
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:33:19](https://news.ycombinator.com/item?id=38693984) - [Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts](https://neumannspace.com/neumann-drive/)
+* [2023-12-19, 09:06:33](https://news.ycombinator.com/item?id=38693421) - [Lisa Emulator Project](https://lisa.sunder.net/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
