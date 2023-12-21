@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-21, 15:02:08",
+      "https://news.ycombinator.com/item?id=38721268"
+    ],
+    [
+      "7.1M miles, 3 minor injuries: Waymo's safety data looks good",
+      "https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 14:47:34",
+      "https://news.ycombinator.com/item?id=38721039"
+    ],
+    [
+      "Rust to stabilize `async fn` and return-position `impl Trait` in traits",
+      "https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 14:42:48",
       "https://news.ycombinator.com/item?id=38720977"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-12-21, 11:19:18",
-      "https://news.ycombinator.com/item?id=38719122"
-    ],
-    [
-      "Own the problem, not the solution",
-      "https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 11:02:57",
       "https://news.ycombinator.com/item?id=38719048"
     ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2023-12-20, 13:48:09",
-      "https://news.ycombinator.com/item?id=38708606"
-    ],
-    [
-      "Making synthesized sounds more acoustic",
-      "https://nathan.ho.name/posts/acoustic-sounds/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 13:46:08",
-      "https://news.ycombinator.com/item?id=38708585"
-    ],
-    [
-      "High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs",
-      "https://github.com/SJTU-IPADS/PowerInfer"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 09:45:05",
       "https://news.ycombinator.com/item?id=38706914"
     ],
@@ -287,6 +277,16 @@
     [
       "A better Mastodon client?",
       "https://timkellogg.me/blog/2023/12/19/fossil"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 13:57:26",
+      "https://news.ycombinator.com/item?id=38695542"
+    ],
+    [
+      "Tigger: A database proxy that bounces with user-bypass [pdf]",
+      "https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf"
     ]
   ],
   [
