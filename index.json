@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 16:42:38",
+      "https://news.ycombinator.com/item?id=38722831"
+    ],
+    [
+      "Beeper is giving up on its iMessage dream",
+      "https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 15:41:30",
       "https://news.ycombinator.com/item?id=38721830"
     ],
@@ -37,6 +47,16 @@
     [
       "Gleam v0.33 – Exhaustive Gleam",
       "https://gleam.run/news/v0.33-exhaustive-gleam/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 15:07:49",
+      "https://news.ycombinator.com/item?id=38721329"
+    ],
+    [
+      "Tolkien Estate Wins Court Order to Destroy Fan's 'Lord of the Rings' Sequel",
+      "https://www.nytimes.com/2023/12/21/arts/lord-of-the-rings-sequel-lawsuit.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-12-21, 11:02:57",
-      "https://news.ycombinator.com/item?id=38719048"
-    ],
-    [
-      "Many VCs have stopped investing this year",
-      "https://pitchbook.com/news/articles/active-VC-investors-decline"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 09:58:37",
       "https://news.ycombinator.com/item?id=38718702"
     ],
@@ -287,16 +297,6 @@
     [
       "Tigger: A database proxy that bounces with user-bypass [pdf]",
       "https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 08:29:33",
-      "https://news.ycombinator.com/item?id=38693200"
-    ],
-    [
-      "Development slowness in big and legacy applications",
-      "https://michaelscodingspot.com/slow-development-in-big-companies/"
     ]
   ]
 ]
