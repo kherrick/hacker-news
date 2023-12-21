@@ -2,7 +2,6 @@
 
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
-* [2023-12-21, 22:48:48](https://news.ycombinator.com/item?id=38728193) - [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:30:50](https://news.ycombinator.com/item?id=38727252) - [My Journey to build daisyUI: Why Tailwind CSS was not enough?](https://daisyui.com/blog/my-journey-to-build-daisyui/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
@@ -14,6 +13,7 @@
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 18:17:48](https://news.ycombinator.com/item?id=38724327) - [Intel plans spinoff of FPGA unit](https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html)
+* [2023-12-21, 16:08:05](https://news.ycombinator.com/item?id=38722292) - [Plastic is now a geological phenomenon](https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
 * [2023-12-21, 14:18:46](https://news.ycombinator.com/item?id=38720656) - [Apple allows some iOS apps to track user locations via lists of nearby SSIDs](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
