@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-21, 15:34:08",
+      "https://news.ycombinator.com/item?id=38721726"
+    ],
+    [
+      "WASM Container Orchestration with Visual Flows",
+      "https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 15:18:02",
+      "https://news.ycombinator.com/item?id=38721462"
+    ],
+    [
+      "Gleam v0.33 – Exhaustive Gleam",
+      "https://gleam.run/news/v0.33-exhaustive-gleam/"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 15:02:08",
       "https://news.ycombinator.com/item?id=38721268"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-12-20, 13:58:51",
-      "https://news.ycombinator.com/item?id=38708730"
-    ],
-    [
-      "Implementation of Mamba in one file of PyTorch",
-      "https://github.com/johnma2006/mamba-minimal"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 09:45:05",
       "https://news.ycombinator.com/item?id=38706914"
     ],
@@ -287,16 +297,6 @@
     [
       "Tigger: A database proxy that bounces with user-bypass [pdf]",
       "https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 08:29:33",
-      "https://news.ycombinator.com/item?id=38693200"
-    ],
-    [
-      "Development slowness in big and legacy applications",
-      "https://michaelscodingspot.com/slow-development-in-big-companies/"
     ]
   ]
 ]
