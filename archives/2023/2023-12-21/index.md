@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
+* [2023-12-21, 15:18:02](https://news.ycombinator.com/item?id=38721462) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 * [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)

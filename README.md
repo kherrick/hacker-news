@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-21, 15:34:08](https://news.ycombinator.com/item?id=38721726) - [WASM Container Orchestration with Visual Flows](https://medium.com/@prajzler/webassembly-orchestration-with-visual-flows-eef4df56bde2)
+* [2023-12-21, 15:18:02](https://news.ycombinator.com/item?id=38721462) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-21, 15:02:08](https://news.ycombinator.com/item?id=38721268) - [7.1M miles, 3 minor injuries: Waymo's safety data looks good](https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/)
 * [2023-12-21, 14:47:34](https://news.ycombinator.com/item?id=38721039) - [Rust to stabilize `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:42:48](https://news.ycombinator.com/item?id=38720977) - [Nvidia CEO: We bet the farm on AI and no one knew it](https://techcrunch.com/2023/08/08/nvidia-ceo-we-bet-the-farm-on-ai-and-no-one-knew-it/)
@@ -24,12 +26,10 @@
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) is hiring an experienced front end engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
-* [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Implementation of Mamba in one file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 13:57:26](https://news.ycombinator.com/item?id=38695542) - [Tigger: A database proxy that bounces with user-bypass [pdf]](https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf)
-* [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
 
 ## [Archives](archives/index.md)
 
