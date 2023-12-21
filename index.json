@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-21, 17:16:11",
+      "https://news.ycombinator.com/item?id=38723344"
+    ],
+    [
+      "Nuclear energy is more expensive than renewables, CSIRO report finds",
+      "https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 17:14:06",
+      "https://news.ycombinator.com/item?id=38723309"
+    ],
+    [
+      "Lapsus$: GTA 6 hacker sentenced to life in hospital prison",
+      "https://www.bbc.co.uk/news/technology-67663128"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 17:01:11",
       "https://news.ycombinator.com/item?id=38723115"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2023-12-21, 16:05:18",
+      "https://news.ycombinator.com/item?id=38722246"
+    ],
+    [
+      "Beeper – Moving Forward",
+      "https://blog.beeper.com/p/beeper-moving-forward"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 15:34:08",
       "https://news.ycombinator.com/item?id=38721726"
     ],
@@ -57,16 +87,6 @@
     [
       "PHOLED Will Transform Displays",
       "https://spectrum.ieee.org/blue-pholed"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 15:18:02",
-      "https://news.ycombinator.com/item?id=38721462"
-    ],
-    [
-      "Gleam v0.33 – Exhaustive Gleam",
-      "https://gleam.run/news/v0.33-exhaustive-gleam/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-12-21, 13:53:02",
-      "https://news.ycombinator.com/item?id=38720369"
-    ],
-    [
-      "Show HN: Hucksh – A Shell with a Very Good Memory",
-      "https://news.ycombinator.com/item?id=38720369"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 13:38:32",
       "https://news.ycombinator.com/item?id=38720226"
     ],
@@ -197,16 +207,6 @@
     [
       "Stop Worrying About Deepfakes",
       "https://nautil.us/stop-worrying-about-deepfakes-470212/"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 11:53:24",
-      "https://news.ycombinator.com/item?id=38719349"
-    ],
-    [
-      "The Register looks at the first release of Fedora Asahi Remix",
-      "https://www.theregister.com/2023/12/21/fed39_asahi_remix/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-12-20, 08:20:24",
+      "https://news.ycombinator.com/item?id=38706483"
+    ],
+    [
+      "DOS on Dope: The last MVC web framework you'll ever need",
+      "https://secretgeek.net/dod_intro"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 21:59:39",
       "https://news.ycombinator.com/item?id=38702276"
     ],
@@ -287,16 +297,6 @@
     [
       "A better Mastodon client?",
       "https://timkellogg.me/blog/2023/12/19/fossil"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 13:57:26",
-      "https://news.ycombinator.com/item?id=38695542"
-    ],
-    [
-      "Tigger: A database proxy that bounces with user-bypass [pdf]",
-      "https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf"
     ]
   ]
 ]
