@@ -66,6 +66,7 @@
 * [2023-12-19, 15:27:44](https://news.ycombinator.com/item?id=38696764) - [Inner Ring – CS Lewis](https://www.lewissociety.org/innerring/)
 * [2023-12-19, 15:18:31](https://news.ycombinator.com/item?id=38696631) - [Improve Jupyter Notebook Reruns by Caching Cells](https://github.com/xetdata/xetcache)
 * [2023-12-19, 15:17:40](https://news.ycombinator.com/item?id=38696612) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
+* [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 15:07:57](https://news.ycombinator.com/item?id=38696454) - [LAPD helicopters cost $50M a year, more than 14 city offices' entire budget](https://www.theguardian.com/us-news/2023/dec/11/los-angeles-police-helicopters-cost-benefit-dispute)
 * [2023-12-19, 15:00:12](https://news.ycombinator.com/item?id=38696325) - [JetBrains forces AI freemium plugin that cannot be completely removed into IDEs](https://youtrack.jetbrains.com/issue/LLM-1760/Can-not-remove-Jetbrains-AI-Assistant-plugin-completely)
 * [2023-12-19, 14:49:01](https://news.ycombinator.com/item?id=38696174) - [Firefox 121](https://www.mozilla.org/en-US/firefox/121.0/releasenotes/)

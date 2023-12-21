@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 14:15:06](https://news.ycombinator.com/item?id=38720615) - [Cisco to Acquire Cloud Native Networking and Security Leader Isovalent](https://isovalent.com/blog/post/cisco-acquires-isovalent/)
+* [2023-12-21, 14:08:44](https://news.ycombinator.com/item?id=38720544) - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
+* [2023-12-21, 14:05:50](https://news.ycombinator.com/item?id=38720512) - [Spotify's Push into Audiobooks Sparks Concern Among Authors](https://www.bloomberg.com/news/articles/2023-12-19/spotify-s-audiobooks-plan-is-getting-blasted-by-authors-around-the-world)
+* [2023-12-21, 14:03:27](https://news.ycombinator.com/item?id=38720483) - [Why Is the Press Attacking Home Schoolers?](https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a)
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
+* [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:38:32](https://news.ycombinator.com/item?id=38720226) - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police Get Medical Records Without a Warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:41:57](https://news.ycombinator.com/item?id=38719736) - [US homelessness up 12% from 2022, hits highest level since 2007](https://blobstreaming.org/us-homelessness-up-12-to-highest-reported-level-as-rents-soar-and-coronavirus-pandemic-aid-lapses/)
