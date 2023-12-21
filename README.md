@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
+* [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
 * [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
@@ -26,7 +27,6 @@
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 20:05:37](https://news.ycombinator.com/item?id=38700779) - [My failed attempt at using a closet as an office](http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html)
-* [2023-12-19, 17:57:48](https://news.ycombinator.com/item?id=38699010) - [Dyalog '18: Rectangles All the Way Down (2018) [video]](https://www.youtube.com/watch?v=mK2WUDIY4hk)
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
 * [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
 * [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
