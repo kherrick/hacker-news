@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 21:26:47](https://news.ycombinator.com/item?id=38727202) - [Ask HN: Why aren't all heaters computers?](https://news.ycombinator.com/item?id=38727202)
 * [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
 * [2023-12-21, 21:02:50](https://news.ycombinator.com/item?id=38726911) - [Tech's DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
