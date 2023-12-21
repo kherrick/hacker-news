@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
-* [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+* [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+* [2023-12-21, 20:56:50](https://news.ycombinator.com/item?id=38726825) - [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [The right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
-* [2023-12-21, 19:26:07](https://news.ycombinator.com/item?id=38725478) - [Custom Semantic Analyzer library written Rust lang](https://github.com/mrLSD/semantic-analyzer-rs)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)

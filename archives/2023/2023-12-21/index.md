@@ -7,6 +7,7 @@
 * [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
 * [2023-12-21, 21:02:50](https://news.ycombinator.com/item?id=38726911) - [Tech's DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+* [2023-12-21, 20:56:50](https://news.ycombinator.com/item?id=38726825) - [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 19:34:52](https://news.ycombinator.com/item?id=38725595) - [Sniffing women's tears reduces aggressive behavior in men](https://medicalxpress.com/news/2023-12-sniffing-women-aggressive-behavior-men.html)
 * [2023-12-21, 19:26:07](https://news.ycombinator.com/item?id=38725478) - [Custom Semantic Analyzer library written Rust lang](https://github.com/mrLSD/semantic-analyzer-rs)
