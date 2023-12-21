@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
 * [2023-12-21, 17:26:09](https://news.ycombinator.com/item?id=38723509) - [Do you really need Foreign Keys?](https://www.shayon.dev/post/2023/355/do-you-really-need-foreign-keys/)
+* [2023-12-21, 17:17:35](https://news.ycombinator.com/item?id=38723373) - [Faster Arxiv.org with Fastly](https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/)
 * [2023-12-21, 17:16:11](https://news.ycombinator.com/item?id=38723344) - [Nuclear energy is more expensive than renewables, CSIRO report finds](https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678)
 * [2023-12-21, 17:14:06](https://news.ycombinator.com/item?id=38723309) - [Lapsus$: GTA 6 hacker sentenced to life in hospital prison](https://www.bbc.co.uk/news/technology-67663128)
 * [2023-12-21, 17:01:11](https://news.ycombinator.com/item?id=38723115) - [Juniper (YC W21) is hiring senior software engineers to fix insurance billing](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
