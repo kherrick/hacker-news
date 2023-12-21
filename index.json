@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-21, 18:34:53",
+      "https://news.ycombinator.com/item?id=38724665"
+    ],
+    [
+      "ArXiv now offers papers in HTML format",
+      "https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 18:17:48",
       "https://news.ycombinator.com/item?id=38724327"
     ],
     [
-      "Intel set to spin off FPGA unit",
+      "Intel plans spinoff of FPGA unit",
       "https://www.networkworld.com/article/957338/intel-plans-spinoff-of-fpga-unit.html"
     ]
   ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-12-21, 17:59:17",
-      "https://news.ycombinator.com/item?id=38724030"
+      "2023-12-21, 17:50:44",
+      "https://news.ycombinator.com/item?id=38723906"
     ],
     [
-      "US utility firms offer builders cash/trips to fit new homes with gas appliances",
-      "https://www.theguardian.com/us-news/2023/dec/21/new-home-builder-contractor-fossil-fuel-utilities-natural-gas"
+      "Lapsus$: GTA 6 hacker handed indefinite hospital order",
+      "https://www.bbc.com/news/technology-67663128"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38723373"
     ],
     [
-      "Faster Arxiv.org with Fastly",
+      "Faster arXiv with Fastly",
       "https://blog.arxiv.org/2023/12/18/faster-arxiv-with-fastly/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38723344"
     ],
     [
-      "Nuclear energy is more expensive than renewables, CSIRO report finds",
+      "Nuclear energy is more expensive than renewables, report finds",
       "https://www.abc.net.au/news/2023-12-21/nuclear-energy-most-expensive-csiro-gencost-report-draft/103253678"
     ]
   ],
@@ -75,8 +85,18 @@
       "https://news.ycombinator.com/item?id=38722911"
     ],
     [
-      "NY Attorney General: SiriusXM's annoying cancellation process illegal",
+      "New York’s attorney general says SiriusXM’s cancellation process is illegal",
       "https://www.theverge.com/2023/12/21/24010975/siriusxm-lawsuit-new-york-tish-james-cancel"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 16:08:05",
+      "https://news.ycombinator.com/item?id=38722292"
+    ],
+    [
+      "Geologists say plastic rocks are now a thing",
+      "https://www.zmescience.com/science/geology/geologists-say-plastic-rocks-are-now-a-thing/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "PHOLED Will Transform Displays",
       "https://spectrum.ieee.org/blue-pholed"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 15:02:08",
-      "https://news.ycombinator.com/item?id=38721268"
-    ],
-    [
-      "7.1M miles, 3 minor injuries: Waymo's safety data looks good",
-      "https://arstechnica.com/cars/2023/12/human-drivers-crash-a-lot-more-than-waymos-software-data-shows/"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38720615"
     ],
     [
-      "Cisco to Acquire Cloud Native Networking and Security Leader Isovalent",
+      "Cisco to acquire Isovalent",
       "https://isovalent.com/blog/post/cisco-acquires-isovalent/"
     ]
   ],
@@ -171,21 +181,11 @@
   ],
   [
     [
-      "2023-12-21, 14:02:12",
-      "https://news.ycombinator.com/item?id=38720471"
-    ],
-    [
-      "Llamafile: Bringing LLMs to the people, and to your own computer",
-      "https://future.mozilla.org/blog/introducing-llamafile/"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 13:56:50",
       "https://news.ycombinator.com/item?id=38720412"
     ],
     [
-      "CC0-licensed fantasy map brushes based on historical cartography",
+      "Fantasy Map Brushes",
       "https://kmalexander.com/free-stuff/fantasy-map-brushes/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38706299"
     ],
     [
-      "I'm open-sourcing my game engine",
+      "Show HN: I'm open-sourcing my game engine",
       "https://github.com/moddio/moddio2"
     ]
   ],
