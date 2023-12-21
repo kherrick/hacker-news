@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-12-21, 14:15:06",
+      "https://news.ycombinator.com/item?id=38720615"
+    ],
+    [
+      "Cisco to Acquire Cloud Native Networking and Security Leader Isovalent",
+      "https://isovalent.com/blog/post/cisco-acquires-isovalent/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 14:08:44",
+      "https://news.ycombinator.com/item?id=38720544"
+    ],
+    [
+      "Google OAuth is broken (sort of)",
+      "https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 14:05:50",
+      "https://news.ycombinator.com/item?id=38720512"
+    ],
+    [
+      "Spotify's Push into Audiobooks Sparks Concern Among Authors",
+      "https://www.bloomberg.com/news/articles/2023-12-19/spotify-s-audiobooks-plan-is-getting-blasted-by-authors-around-the-world"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 14:03:27",
+      "https://news.ycombinator.com/item?id=38720483"
+    ],
+    [
+      "Why Is the Press Attacking Home Schoolers?",
+      "https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 13:56:50",
       "https://news.ycombinator.com/item?id=38720412"
     ],
@@ -17,6 +57,16 @@
     [
       "Show HN: Hucksh – A Shell with a Very Good Memory",
       "https://news.ycombinator.com/item?id=38720369"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 13:40:17",
+      "https://news.ycombinator.com/item?id=38720248"
+    ],
+    [
+      "How Two Pharmacists Figured Out That Decongestants Don't Work",
+      "https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2023-12-21, 09:28:30",
-      "https://news.ycombinator.com/item?id=38718544"
-    ],
-    [
-      "Today I'm launching Flare, a video sharing site built on Nostr Like YouTube",
-      "https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 09:27:02",
       "https://news.ycombinator.com/item?id=38718537"
     ],
@@ -201,42 +241,12 @@
   ],
   [
     [
-      "2023-12-20, 19:05:11",
-      "https://news.ycombinator.com/item?id=38712326"
-    ],
-    [
-      "The transparent chip inside a vintage Hewlett-Packard floppy drive",
-      "https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 15:55:07",
-      "https://news.ycombinator.com/item?id=38710030"
-    ],
-    [
-      "Wireflow – free, online, open source tool for creating user-flow prototypes",
-      "https://wireflow.co"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 13:58:51",
       "https://news.ycombinator.com/item?id=38708730"
     ],
     [
       "Implementation of Mamba in one file of PyTorch",
       "https://github.com/johnma2006/mamba-minimal"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 13:48:09",
-      "https://news.ycombinator.com/item?id=38708606"
-    ],
-    [
-      "Making synthesized sounds more acoustic",
-      "https://nathan.ho.name/posts/acoustic-sounds/"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2023-12-19, 13:40:23",
-      "https://news.ycombinator.com/item?id=38695377"
+      "2023-12-19, 15:12:04",
+      "https://news.ycombinator.com/item?id=38696523"
     ],
     [
-      "Blogging Like a Hacker (2008)",
-      "https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker"
+      "A better Mastodon client?",
+      "https://timkellogg.me/blog/2023/12/19/fossil"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Development slowness in big and legacy applications",
       "https://michaelscodingspot.com/slow-development-in-big-companies/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 02:50:22",
-      "https://news.ycombinator.com/item?id=38691205"
-    ],
-    [
-      "Improving Emacs Isearch Usability with Transient",
-      "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html"
     ]
   ]
 ]
