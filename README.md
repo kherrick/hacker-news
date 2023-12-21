@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-21, 02:12:41](https://news.ycombinator.com/item?id=38716267) - [A closer look at e/OS: Murena's privacy-first 'deGoogled' Android alternative](https://techcrunch.com/2023/09/05/murena-eos-fairphone-4/)
+* [2023-12-21, 01:38:10](https://news.ycombinator.com/item?id=38716075) - [OpenAI Begins Tackling ChatGPT Data Leak Vulnerability](https://embracethered.com/blog/posts/2023/openai-data-exfiltration-first-mitigations-implemented/)
 * [2023-12-21, 01:31:47](https://news.ycombinator.com/item?id=38716032) - [Catalyst – Tailwind CSS Application UI Kit](https://tailwindui.com/templates/catalyst)
 * [2023-12-20, 23:57:44](https://news.ycombinator.com/item?id=38715286) - [What It's Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
 * [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
@@ -16,7 +17,6 @@
 * [2023-12-20, 16:53:05](https://news.ycombinator.com/item?id=38710709) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 14:56:26](https://news.ycombinator.com/item?id=38709319) - [Volkswagen, Porsche, and Audi say they will use Tesla's EV charging plug](https://www.theverge.com/2023/12/19/24008426/volkswagen-audi-porsche-tesla-nacs-ev-charging-plug)
-* [2023-12-20, 13:59:59](https://news.ycombinator.com/item?id=38708743) - [How I Work](https://blar.do/how-i-work/)
 * [2023-12-20, 13:58:51](https://news.ycombinator.com/item?id=38708730) - [Implementation of Mamba in one file of PyTorch](https://github.com/johnma2006/mamba-minimal)
 * [2023-12-20, 13:48:09](https://news.ycombinator.com/item?id=38708606) - [Making synthesized sounds more acoustic](https://nathan.ho.name/posts/acoustic-sounds/)
 * [2023-12-20, 13:46:08](https://news.ycombinator.com/item?id=38708585) - [High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
