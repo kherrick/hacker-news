@@ -14,6 +14,7 @@
 * [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking free of plastic pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
+* [2023-12-21, 11:19:18](https://news.ycombinator.com/item?id=38719122) - [Own the problem, not the solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [Many VCs have stopped investing this year](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
 * [2023-12-21, 09:27:02](https://news.ycombinator.com/item?id=38718537) - [Fireworks: Function Calling Model and API](https://blog.fireworks.ai/fireworks-raises-the-quality-bar-with-function-calling-model-and-api-release-e7f49d1e98e9)
@@ -29,7 +30,6 @@
 * [2023-12-19, 21:59:39](https://news.ycombinator.com/item?id=38702276) - [The Closing of the Bulgarian Frontier](https://www.switchyardmag.com/issue-1/bulgarianfrontier)
 * [2023-12-19, 15:12:04](https://news.ycombinator.com/item?id=38696523) - [A better Mastodon client?](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 08:29:33](https://news.ycombinator.com/item?id=38693200) - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
-* [2023-12-19, 02:50:22](https://news.ycombinator.com/item?id=38691205) - [Improving Emacs Isearch Usability with Transient](http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html)
 
 ## [Archives](archives/index.md)
 
