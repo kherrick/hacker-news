@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 14:18:46",
+      "https://news.ycombinator.com/item?id=38720656"
+    ],
+    [
+      "Apple allows applications to track user locations without authorization",
+      "https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 14:15:06",
       "https://news.ycombinator.com/item?id=38720615"
     ],
@@ -27,16 +37,6 @@
     [
       "Spotify's Push into Audiobooks Sparks Concern Among Authors",
       "https://www.bloomberg.com/news/articles/2023-12-19/spotify-s-audiobooks-plan-is-getting-blasted-by-authors-around-the-world"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 14:03:27",
-      "https://news.ycombinator.com/item?id=38720483"
-    ],
-    [
-      "Why Is the Press Attacking Home Schoolers?",
-      "https://www.wsj.com/articles/why-is-the-press-attacking-home-schoolers-washington-post-teachers-unions-covid-9290468a"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-12-21, 09:08:00",
-      "https://news.ycombinator.com/item?id=38718438"
-    ],
-    [
-      "Couch surfing predator: how a group of drugged and assaulted women fought back",
-      "https://www.theguardian.com/society/2023/dec/21/the-couch-surfing-predator-how-a-group-of-women-were-drugged-and-assaulted-then-fought-back"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 07:48:10",
       "https://news.ycombinator.com/item?id=38718043"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-12-20, 22:40:14",
-      "https://news.ycombinator.com/item?id=38714607"
-    ],
-    [
-      "How to Escape a Container",
-      "https://www.panoptica.app/research/7-ways-to-escape-a-container"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 21:00:33",
       "https://news.ycombinator.com/item?id=38713578"
     ],
@@ -247,6 +227,16 @@
     [
       "Implementation of Mamba in one file of PyTorch",
       "https://github.com/johnma2006/mamba-minimal"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 13:48:09",
+      "https://news.ycombinator.com/item?id=38708606"
+    ],
+    [
+      "Making synthesized sounds more acoustic",
+      "https://nathan.ho.name/posts/acoustic-sounds/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Development slowness in big and legacy applications",
       "https://michaelscodingspot.com/slow-development-in-big-companies/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 02:50:22",
+      "https://news.ycombinator.com/item?id=38691205"
+    ],
+    [
+      "Improving Emacs Isearch Usability with Transient",
+      "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html"
     ]
   ]
 ]
