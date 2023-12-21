@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-12-20, 22:46:35",
+      "https://news.ycombinator.com/item?id=38714674"
+    ],
+    [
+      "iMessage Key Verification",
+      "https://support.apple.com/en-gb/HT213465"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 22:40:14",
       "https://news.ycombinator.com/item?id=38714607"
     ],
@@ -131,22 +141,12 @@
   ],
   [
     [
-      "2023-12-20, 16:53:05",
-      "https://news.ycombinator.com/item?id=38710709"
+      "2023-12-20, 16:43:10",
+      "https://news.ycombinator.com/item?id=38710600"
     ],
     [
-      "Uniting the Linux random-number devices (2022)",
-      "https://lwn.net/Articles/884875/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 16:26:35",
-      "https://news.ycombinator.com/item?id=38710387"
-    ],
-    [
-      "Building a faster hash table for high performance SQL joins",
-      "https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/"
+      "Show HN: Quack Companion – VSCode extension for OSS contribution assistance",
+      "https://github.com/quack-ai/companion"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "Wireflow – free, online, open source tool for creating user-flow prototypes",
       "https://wireflow.co"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 15:30:47",
+      "https://news.ycombinator.com/item?id=38709734"
+    ],
+    [
+      "Show HN: Forwarder – FOSS MITM proxy written in Go",
+      "https://forwarder-proxy.io"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "IBM demonstrates 133-qubit Heron",
       "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-demonstrates-useful-quantum-computing-within-133-qubit-heron-announces-entry-into-quantum-centric-supercomputing-era"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 11:06:39",
+      "https://news.ycombinator.com/item?id=38707344"
+    ],
+    [
+      "AI cannot be patent 'inventor', UK Supreme Court rules in landmark case",
+      "https://www.reuters.com/technology/ai-cannot-be-patent-inventor-uk-supreme-court-rules-landmark-case-2023-12-20/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-12-19, 10:46:47",
-      "https://news.ycombinator.com/item?id=38694051"
-    ],
-    [
-      "All code is technical debt",
-      "https://www.tokyodev.com/articles/all-code-is-technical-debt"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 10:33:19",
       "https://news.ycombinator.com/item?id=38693984"
     ],
     [
       "Neumann Drive: A Pulsed Cathodic Arc Thruster for Spacecrafts",
       "https://neumannspace.com/neumann-drive/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 09:06:33",
-      "https://news.ycombinator.com/item?id=38693421"
-    ],
-    [
-      "Lisa Emulator Project",
-      "https://lisa.sunder.net/"
     ]
   ],
   [
