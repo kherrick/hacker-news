@@ -88,6 +88,7 @@
 * [2023-12-20, 09:51:03](https://news.ycombinator.com/item?id=38706951) - [Creating a Disc Golf picker upper](https://victorguyard.com/projects/createxcapstone)
 * [2023-12-20, 09:45:05](https://news.ycombinator.com/item?id=38706914) - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 * [2023-12-20, 09:33:53](https://news.ycombinator.com/item?id=38706844) - [Pissandshittium: The Browser that doesn't give a shit](https://pissandshittium.org/)
+* [2023-12-20, 09:31:43](https://news.ycombinator.com/item?id=38706831) - [In-browser ordered dither maker](https://seleb.github.io/ordered-dither-maker/)
 * [2023-12-20, 09:21:01](https://news.ycombinator.com/item?id=38706781) - [Electric scooter company Bird files for bankruptcy](https://techcrunch.com/2023/12/20/bird-bankruptcy/)
 * [2023-12-20, 09:15:24](https://news.ycombinator.com/item?id=38706760) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-20, 09:01:29](https://news.ycombinator.com/item?id=38706697) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
