@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-22, 18:17:46",
-      "https://news.ycombinator.com/item?id=38736880"
+      "2023-12-22, 18:22:44",
+      "https://news.ycombinator.com/item?id=38736919"
     ],
     [
-      "LLMs break the internet with Simon Willison",
-      "https://changelog.com/podcast/534"
+      "Granting Pardon for the Offense of Simple Possession of or Use of Marijuana",
+      "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 18:20:58",
+      "https://news.ycombinator.com/item?id=38736904"
+    ],
+    [
+      "Database Isolation Is Broken and You Should Care",
+      "https://materializedview.io/p/database-isolation-is-broken-you-should-care"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38736798"
     ],
     [
-      "Texas A&M Team Develops Polymers That Can Kill Bacteria",
+      "Polymers capable of killing bacteria without inducing antibiotic resistance",
       "https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/"
     ]
   ],
@@ -55,18 +65,8 @@
       "https://news.ycombinator.com/item?id=38736525"
     ],
     [
-      "3,500 arrested, $300M seized in global cybercrime crackdown",
+      "3500 arrested in global cybercrime crackdown",
       "https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 17:25:08",
-      "https://news.ycombinator.com/item?id=38736374"
-    ],
-    [
-      "People like me are why you shouldn't run a hosting company",
-      "https://swizec.com/blog/people-like-me-are-why-you-shouldnt-run-a-hosting-company/"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=38735066"
     ],
     [
-      "From Nand to Tetris: Building a Modern Computer from First Principles",
+      "From Nand to Tetris",
       "https://www.nand2tetris.org"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38733241"
     ],
     [
-      "Lost history of Antarctica revealed in octopus DNA",
+      "History of Antarctica revealed in octopus DNA",
       "https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna"
     ]
   ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-12-22, 10:12:08",
-      "https://news.ycombinator.com/item?id=38732770"
+      "2023-12-22, 10:14:25",
+      "https://news.ycombinator.com/item?id=38732781"
     ],
     [
-      "A clickjacking vulnerability in WhatsApp that enables phishing attacks",
-      "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/"
+      "NewPipe 0.26",
+      "https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0"
     ]
   ],
   [
