@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 16:55:28](https://news.ycombinator.com/item?id=38736032) - [Twitter Now Showing Ads for Nonconsensual 'AI Undress' Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
 * [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)

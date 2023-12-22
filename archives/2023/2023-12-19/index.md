@@ -37,6 +37,7 @@
 * [2023-12-19, 19:09:23](https://news.ycombinator.com/item?id=38700060) - [CUDA vs. ROCm: A Case Study](https://shihab-shahriar.github.io//blog/2023/Cuda-vs-Rocm-A-Case-Study-Through-Random-Number-Libraries/)
 * [2023-12-19, 19:07:52](https://news.ycombinator.com/item?id=38700038) - [At Least 15% of Reddit Content Is Corporate Trolls Manipulating Public Opinion](https://medium.com/collapsenews/new-study-at-least-15-of-all-reddit-content-is-corporate-trolls-trying-to-manipulate-public-b249bd42ab42)
 * [2023-12-19, 18:42:48](https://news.ycombinator.com/item?id=38699707) - [Mercedes adds a new car light color: Blue for self-driving](https://www.cnn.com/2023/12/19/business/mercedes-adds-new-light-color-blue-for-self-driving/index.html)
+* [2023-12-19, 18:34:20](https://news.ycombinator.com/item?id=38699576) - [Am I One of the Last Living Relatives of a Literary Legend?](https://www.newyorker.com/magazine/2023/12/25/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-book-review)
 * [2023-12-19, 18:21:37](https://news.ycombinator.com/item?id=38699383) - [Meta's news ban in Canada remains as Online News Act goes into effect](https://www.bbc.com/news/world-us-canada-67755133)
 * [2023-12-19, 18:19:08](https://news.ycombinator.com/item?id=38699343) - [A Lufthansa A350's Frustrating Oakland Diversion](https://onemileatatime.com/news/lufthansa-a350-oakland-diversion/)
 * [2023-12-19, 18:18:07](https://news.ycombinator.com/item?id=38699331) - [A Mathematical Perspective on Transformers](https://arxiv.org/abs/2312.10794)
