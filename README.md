@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
 * [2023-12-22, 18:20:58](https://news.ycombinator.com/item?id=38736904) - [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
 * [2023-12-22, 18:07:40](https://news.ycombinator.com/item?id=38736798) - [Polymers capable of killing bacteria without inducing antibiotic resistance](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
-* [2023-12-22, 17:46:59](https://news.ycombinator.com/item?id=38736625) - [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
 * [2023-12-22, 17:45:45](https://news.ycombinator.com/item?id=38736612) - [Discovery is the original sin of the modern age](https://www.strangeloopcanon.com/p/discovery-is-the-original-sin-of)
 * [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3500 arrested in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
@@ -18,6 +18,7 @@
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:42:04](https://news.ycombinator.com/item?id=38733241) - [History of Antarctica revealed in octopus DNA](https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna)
 * [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
+* [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe 0.26](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
@@ -28,7 +29,6 @@
 * [2023-12-20, 23:47:11](https://news.ycombinator.com/item?id=38715186) - [Even the Eyelashes: Review of \"Empires of the Dead\"](https://www.lrb.co.uk/the-paper/v46/n01/erin-l.-thompson/even-the-eyelashes)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968 sounds beautifully bizarre](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
-* [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 * [2023-12-19, 18:34:20](https://news.ycombinator.com/item?id=38699576) - [Am I one of the last living relatives of Bruno Schulz?](https://www.newyorker.com/magazine/2023/12/25/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-book-review)
 
 ## [Archives](archives/index.md)
