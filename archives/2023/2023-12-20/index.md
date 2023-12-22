@@ -39,6 +39,7 @@
 * [2023-12-20, 16:34:03](https://news.ycombinator.com/item?id=38710479) - [Making Software Reliable: The Importance of Testability](https://www.codereliant.io/making-software-reliable-the-importance-of-testability/)
 * [2023-12-20, 16:32:23](https://news.ycombinator.com/item?id=38710452) - [Efficient Large Language Model Inference with Limited Memory](https://browse.arxiv.org/html/2312.11514v1)
 * [2023-12-20, 16:26:35](https://news.ycombinator.com/item?id=38710387) - [Building a faster hash table for high performance SQL joins](https://questdb.io/blog/building-faster-hash-table-high-performance-sql-joins/)
+* [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 15:55:07](https://news.ycombinator.com/item?id=38710030) - [Wireflow – free, online, open source tool for creating user-flow prototypes](https://wireflow.co)
 * [2023-12-20, 15:51:03](https://news.ycombinator.com/item?id=38709977) - [JWST Images of 2023](https://bigthink.com/starts-with-a-bang/top-jwst-images-2023/)
 * [2023-12-20, 15:30:47](https://news.ycombinator.com/item?id=38709734) - [Show HN: Forwarder – FOSS MITM proxy written in Go](https://forwarder-proxy.io)

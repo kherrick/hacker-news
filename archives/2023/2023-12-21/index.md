@@ -16,6 +16,7 @@
 * [2023-12-21, 22:03:04](https://news.ycombinator.com/item?id=38727676) - [British teenager behind GTA 6 hack receives indefinite hospital order](https://www.theguardian.com/uk-news/2023/dec/21/british-teenager-behind-gta-6-hack-receives-indefinite-hospital-order)
 * [2023-12-21, 21:30:50](https://news.ycombinator.com/item?id=38727252) - [My Journey to build daisyUI: Why Tailwind CSS was not enough?](https://daisyui.com/blog/my-journey-to-build-daisyui/)
 * [2023-12-21, 21:26:47](https://news.ycombinator.com/item?id=38727202) - [Ask HN: Why aren't all heaters computers?](https://news.ycombinator.com/item?id=38727202)
+* [2023-12-21, 21:21:12](https://news.ycombinator.com/item?id=38727124) - [The Great AI Weirding](https://deliprao.substack.com/p/the-great-ai-weirding)
 * [2023-12-21, 21:10:31](https://news.ycombinator.com/item?id=38727001) - [Anabolic response to protein ingestion has no upper limit in humans](https://pubmed.ncbi.nlm.nih.gov/38118410/)
 * [2023-12-21, 21:02:50](https://news.ycombinator.com/item?id=38726911) - [Tech's DEI backlash is here](https://techcrunch.com/2023/12/21/techs-dei-backlash-is-here/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
