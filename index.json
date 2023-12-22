@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-12-22, 17:36:55",
-      "https://news.ycombinator.com/item?id=38736525"
-    ],
-    [
-      "3500 arrested in global cybercrime crackdown",
-      "https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 17:28:51",
       "https://news.ycombinator.com/item?id=38736419"
     ],
@@ -217,6 +207,16 @@
     [
       "A clickjacking vulnerability in WhatsApp that enables phishing attacks",
       "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 10:01:41",
+      "https://news.ycombinator.com/item?id=38732713"
+    ],
+    [
+      "TextDiffuser-2: Unleashing the power of language models for text rendering",
+      "https://jingyechen.github.io/textdiffuser2/"
     ]
   ],
   [
