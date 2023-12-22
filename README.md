@@ -3,7 +3,6 @@
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
-* [2023-12-22, 14:40:44](https://news.ycombinator.com/item?id=38734524) - ['Demonic forces' stopped official investigations into UFOs in the UK](https://www.msn.com/en-gb/news/world/demonic-forces-stopped-official-investigations-into-ufos-in-the-uk/ar-AA1lTert)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the long run, we're all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
@@ -28,6 +27,7 @@
 * [2023-12-21, 08:49:10](https://news.ycombinator.com/item?id=38718314) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-21, 08:35:45](https://news.ycombinator.com/item?id=38718244) - [QOwnNotes](https://www.qownnotes.org/)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
+* [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 * [2023-12-19, 11:14:16](https://news.ycombinator.com/item?id=38694237) - [Humans as Cyborgs](https://anima.nz/cyborg/)
 
