@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
 * [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
 * [2023-12-22, 18:47:02](https://news.ycombinator.com/item?id=38737164) - [Mickey Mouse to Enter Public Domain: \"It's Finally Happening'\"](https://variety.com/2023/biz/news/mickey-mouse-public-domain-disney-copyright-lawsuits-1235844322/)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
