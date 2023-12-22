@@ -99,6 +99,7 @@
 * [2023-12-21, 08:49:10](https://news.ycombinator.com/item?id=38718314) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-21, 08:36:11](https://news.ycombinator.com/item?id=38718245) - [Social media platform X suffers global outages](https://www.bbc.com/news/business-67783058)
+* [2023-12-21, 08:35:45](https://news.ycombinator.com/item?id=38718244) - [QOwnNotes](https://www.qownnotes.org/)
 * [2023-12-21, 07:48:10](https://news.ycombinator.com/item?id=38718043) - [DocuSeal – Open-source Document Signing](https://www.docuseal.co/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 * [2023-12-21, 07:24:52](https://news.ycombinator.com/item?id=38717948) - [South Korea Will Police 'Shrinkflation' at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)

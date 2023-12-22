@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
 * [2023-12-22, 12:29:45](https://news.ycombinator.com/item?id=38733499) - [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+* [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 * [2023-12-22, 12:12:28](https://news.ycombinator.com/item?id=38733396) - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
+* [2023-12-22, 12:05:03](https://news.ycombinator.com/item?id=38733364) - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
 * [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
