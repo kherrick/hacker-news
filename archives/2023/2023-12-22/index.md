@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 23:16:42](https://news.ycombinator.com/item?id=38739790) - [Scientists have 20-minute \"conversation\" with a humpback whale named Twain](https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/)
 * [2023-12-22, 22:36:53](https://news.ycombinator.com/item?id=38739416) - [God Is Dead So They Are Building a New One](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
 * [2023-12-22, 22:27:46](https://news.ycombinator.com/item?id=38739357) - [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
 * [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)

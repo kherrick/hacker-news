@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 23:16:42](https://news.ycombinator.com/item?id=38739790) - [Scientists have 20-minute \"conversation\" with a humpback whale named Twain](https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/)
 * [2023-12-22, 22:36:53](https://news.ycombinator.com/item?id=38739416) - [God Is Dead So They Are Building a New One](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
 * [2023-12-22, 22:27:46](https://news.ycombinator.com/item?id=38739357) - [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 * [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
 * [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 * [2023-12-22, 21:37:05](https://news.ycombinator.com/item?id=38738967) - [P vs NP: The most important unsolved problem in computer science](https://www.scientificamerican.com/article/the-most-important-unsolved-problem-in-computer-science/)
-* [2023-12-22, 21:04:37](https://news.ycombinator.com/item?id=38738648) - [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
