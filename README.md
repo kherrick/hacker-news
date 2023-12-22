@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)
+* [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 * [2023-12-22, 21:37:05](https://news.ycombinator.com/item?id=38738967) - [P vs NP: The most important unsolved problem in computer science](https://www.scientificamerican.com/article/the-most-important-unsolved-problem-in-computer-science/)
 * [2023-12-22, 21:04:37](https://news.ycombinator.com/item?id=38738648) - [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
@@ -16,7 +18,6 @@
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-22, 12:09:27](https://news.ycombinator.com/item?id=38733384) - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
-* [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualizing expert firing frequencies in Mixtral MoE](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 * [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [A clickjacking vulnerability in WhatsApp that enables phishing attacks](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the power of language models for text rendering](https://jingyechen.github.io/textdiffuser2/)
@@ -26,7 +27,6 @@
 * [2023-12-21, 13:40:33](https://news.ycombinator.com/item?id=38720249) - [Verilog HDL and its ancestors and descendants [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386337)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS, unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
-* [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
 * [2023-12-20, 09:31:43](https://news.ycombinator.com/item?id=38706831) - [In-browser ordered dither maker](https://seleb.github.io/ordered-dither-maker/)
 * [2023-12-19, 18:34:20](https://news.ycombinator.com/item?id=38699576) - [Am I one of the last living relatives of Bruno Schulz?](https://www.newyorker.com/magazine/2023/12/25/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-book-review)
