@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-22, 13:38:53](https://news.ycombinator.com/item?id=38734008) - [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
@@ -8,6 +7,7 @@
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
 * [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
+* [2023-12-22, 11:16:23](https://news.ycombinator.com/item?id=38733118) - [FTC suggests new rules to shift parents' burden of protecting kids to websites](https://arstechnica.com/tech-policy/2023/12/ftc-moves-to-block-platforms-from-making-money-off-data-of-children/)
 * [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering-iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [Don't Believe Your Eyes – A WhatsApp Clickjacking Vulnerability](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
