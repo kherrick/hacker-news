@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
 * [2023-12-22, 18:20:58](https://news.ycombinator.com/item?id=38736904) - [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
 * [2023-12-22, 18:07:40](https://news.ycombinator.com/item?id=38736798) - [Polymers capable of killing bacteria without inducing antibiotic resistance](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
 * [2023-12-22, 17:46:59](https://news.ycombinator.com/item?id=38736625) - [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
+* [2023-12-22, 17:45:45](https://news.ycombinator.com/item?id=38736612) - [Discovery is the original sin of the modern age](https://www.strangeloopcanon.com/p/discovery-is-the-original-sin-of)
 * [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3500 arrested in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 17:10:28](https://news.ycombinator.com/item?id=38736214) - [Show HN: Rewriting our engine on Rust and going open source](https://github.com/doseiai/engine)
