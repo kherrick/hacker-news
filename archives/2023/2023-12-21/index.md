@@ -72,6 +72,7 @@
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
 * [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:38:32](https://news.ycombinator.com/item?id=38720226) - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
+* [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police Get Medical Records Without a Warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:41:57](https://news.ycombinator.com/item?id=38719736) - [US homelessness up 12% from 2022, hits highest level since 2007](https://blobstreaming.org/us-homelessness-up-12-to-highest-reported-level-as-rents-soar-and-coronavirus-pandemic-aid-lapses/)
 * [2023-12-21, 12:38:36](https://news.ycombinator.com/item?id=38719694) - [X Gives Security Warning on Swedish Newspapers Tesla Critical Article](https://twitter.com/safety/unsafe_link_warning)
