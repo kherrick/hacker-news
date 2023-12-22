@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 19:27:25](https://news.ycombinator.com/item?id=38737629) - [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
-* [2023-12-22, 19:18:29](https://news.ycombinator.com/item?id=38737526) - [A New Look for Bluesky: The Social Butterfly](https://blueskyweb.xyz/blog/12-21-2023-butterfly)
 * [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
-* [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
@@ -27,8 +25,10 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS – unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
 * [2023-12-21, 05:12:08](https://news.ycombinator.com/item?id=38717214) - [Craftsmanship](https://www.mwiya.com/craftsmanship/)
+* [2023-12-20, 23:47:11](https://news.ycombinator.com/item?id=38715186) - [Even the Eyelashes: Review of \"Empires of the Dead\"](https://www.lrb.co.uk/the-paper/v46/n01/erin-l.-thompson/even-the-eyelashes)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968 sounds beautifully bizarre](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
+* [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 * [2023-12-19, 18:34:20](https://news.ycombinator.com/item?id=38699576) - [Am I one of the last living relatives of Bruno Schulz?](https://www.newyorker.com/magazine/2023/12/25/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-book-review)
 
 ## [Archives](archives/index.md)
