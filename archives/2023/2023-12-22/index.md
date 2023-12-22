@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [What's Going on at Google? Massive Search Engine Spam Attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 20:13:01](https://news.ycombinator.com/item?id=38738106) - [AI Can Diagnose Childhood Autism from Retinal Photos with '100% Accuracy'](https://petapixel.com/2023/12/20/ai-can-diagnose-childhood-autism-in-eye-photos-with-100-accuracy/)
 * [2023-12-22, 20:09:54](https://news.ycombinator.com/item?id=38738072) - [Warner Eyes Paramount; Its Last Two Disastrous Mergers Weren't Disastrous Enough](https://www.techdirt.com/2023/12/22/warner-bros-discovery-eyes-paramount-merger-because-its-last-two-disastrous-mergers-apparently-werent-disastrous-enough/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
@@ -12,8 +13,10 @@
 * [2023-12-22, 19:05:30](https://news.ycombinator.com/item?id=38737405) - [Tech companies like Google and Meta made cuts to DEI programs in 2023](https://www.cnbc.com/2023/12/22/google-meta-other-tech-giants-cut-dei-programs-in-2023.html)
 * [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
 * [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
+* [2023-12-22, 18:54:46](https://news.ycombinator.com/item?id=38737259) - [Delicious Vegan and Vegetarian Recipes – The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
 * [2023-12-22, 18:47:02](https://news.ycombinator.com/item?id=38737164) - [Mickey Mouse to Enter Public Domain: \"It's Finally Happening'\"](https://variety.com/2023/biz/news/mickey-mouse-public-domain-disney-copyright-lawsuits-1235844322/)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
+* [2023-12-22, 18:40:30](https://news.ycombinator.com/item?id=38737081) - [Detecting Unwanted Location Trackers](https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/01/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 18:27:10](https://news.ycombinator.com/item?id=38736956) - [Teen Hacked GTA VI Company from Hotel TV](https://nymag.com/intelligencer/2023/12/teen-hacked-grand-theft-auto-vi-company-from-hotel-tv.html)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
