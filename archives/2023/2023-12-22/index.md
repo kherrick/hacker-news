@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
 * [2023-12-22, 20:13:01](https://news.ycombinator.com/item?id=38738106) - [AI Can Diagnose Childhood Autism from Retinal Photos with '100% Accuracy'](https://petapixel.com/2023/12/20/ai-can-diagnose-childhood-autism-in-eye-photos-with-100-accuracy/)
+* [2023-12-22, 20:09:54](https://news.ycombinator.com/item?id=38738072) - [Warner Eyes Paramount; Its Last Two Disastrous Mergers Weren't Disastrous Enough](https://www.techdirt.com/2023/12/22/warner-bros-discovery-eyes-paramount-merger-because-its-last-two-disastrous-mergers-apparently-werent-disastrous-enough/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2023-12-22, 19:27:25](https://news.ycombinator.com/item?id=38737629) - [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
 * [2023-12-22, 19:18:29](https://news.ycombinator.com/item?id=38737526) - [A New Look for Bluesky: The Social Butterfly](https://blueskyweb.xyz/blog/12-21-2023-butterfly)
