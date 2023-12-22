@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 03:34:04](https://news.ycombinator.com/item?id=38730670) - [Humans have driven more than 1,400 bird species to extinction](https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html)
 * [2023-12-22, 02:20:05](https://news.ycombinator.com/item?id=38730143) - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
 * [2023-12-22, 02:08:12](https://news.ycombinator.com/item?id=38730070) - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
 * [2023-12-22, 01:21:43](https://news.ycombinator.com/item?id=38729707) - [Meccano Build of Leonardo da Vinci's Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
@@ -12,7 +13,6 @@
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:21:12](https://news.ycombinator.com/item?id=38727124) - [The Great AI Weirding](https://deliprao.substack.com/p/the-great-ai-weirding)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
-* [2023-12-21, 19:56:15](https://news.ycombinator.com/item?id=38725930) - [Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling](https://arxiv.org/abs/2312.07625)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
