@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 18:54:47](https://news.ycombinator.com/item?id=38737261) - [\"Nightmare Tenant\" Story Amplified by Seattle Times Crumbles Under Scrutiny](https://publicola.com/2023/12/22/nightmare-tenant-story-amplified-by-seattle-times-right-wing-media-crumbles-under-scrutiny/)
 * [2023-12-22, 18:47:02](https://news.ycombinator.com/item?id=38737164) - [Mickey Mouse to Enter Public Domain: \"It's Finally Happening'\"](https://variety.com/2023/biz/news/mickey-mouse-public-domain-disney-copyright-lawsuits-1235844322/)
+* [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
+* [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 18:27:10](https://news.ycombinator.com/item?id=38736956) - [Teen Hacked GTA VI Company from Hotel TV](https://nymag.com/intelligencer/2023/12/teen-hacked-grand-theft-auto-vi-company-from-hotel-tv.html)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
 * [2023-12-22, 18:20:58](https://news.ycombinator.com/item?id=38736904) - [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
@@ -15,6 +18,7 @@
 * [2023-12-22, 17:45:20](https://news.ycombinator.com/item?id=38736608) - [The problems you'll face developing product onboarding in-house](https://blog.dopt.com/problems-faced-building-onboarding)
 * [2023-12-22, 17:40:25](https://news.ycombinator.com/item?id=38736555) - [Chevrolet Blazer first drive: GM's EV platform goes mainstream](https://arstechnica.com/cars/2023/12/the-2024-chevrolet-blazer-first-drive-gms-ev-platform-goes-mainstream/)
 * [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3,500 arrested, $300M seized in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
+* [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 17:25:08](https://news.ycombinator.com/item?id=38736374) - [People like me are why you shouldn't run a hosting company](https://swizec.com/blog/people-like-me-are-why-you-shouldnt-run-a-hosting-company/)
 * [2023-12-22, 17:10:56](https://news.ycombinator.com/item?id=38736224) - [Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show](https://futurism.com/tesla-flaws-failures-blame-drivers)
 * [2023-12-22, 17:10:28](https://news.ycombinator.com/item?id=38736214) - [Show HN: Rewriting our engine on Rust and going open source](https://github.com/doseiai/engine)
