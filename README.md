@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-22, 12:29:45](https://news.ycombinator.com/item?id=38733499) - [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+* [2023-12-22, 13:38:53](https://news.ycombinator.com/item?id=38734008) - [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
+* [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 * [2023-12-22, 12:12:28](https://news.ycombinator.com/item?id=38733396) - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
 * [2023-12-22, 12:05:03](https://news.ycombinator.com/item?id=38733364) - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
@@ -20,7 +21,6 @@
 * [2023-12-22, 01:18:43](https://news.ycombinator.com/item?id=38729684) - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
 * [2023-12-22, 00:34:27](https://news.ycombinator.com/item?id=38729278) - [Modern C for Fedora (and the World)](https://lwn.net/Articles/954018/)
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
-* [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
