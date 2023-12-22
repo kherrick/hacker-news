@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-22, 02:20:05",
+      "https://news.ycombinator.com/item?id=38730143"
+    ],
+    [
+      "Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model",
+      "https://news.ycombinator.com/item?id=38730143"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 02:08:12",
+      "https://news.ycombinator.com/item?id=38730070"
+    ],
+    [
+      "NLP Research in the Era of LLMs",
+      "https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 01:21:43",
       "https://news.ycombinator.com/item?id=38729707"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
+      "2023-12-22, 01:20:12",
+      "https://news.ycombinator.com/item?id=38729696"
+    ],
+    [
+      "What Is OIDC?",
+      "https://fusionauth.io/articles/identity-basics/what-is-oidc"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 01:18:43",
       "https://news.ycombinator.com/item?id=38729684"
     ],
     [
       "WARC'in the Crawler",
       "https://www.marginalia.nu/log/94_warc_warc/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 00:34:27",
-      "https://news.ycombinator.com/item?id=38729278"
-    ],
-    [
-      "Modern C for Fedora (and the World)",
-      "https://lwn.net/Articles/954018/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2023-12-21, 20:25:35",
-      "https://news.ycombinator.com/item?id=38726370"
-    ],
-    [
-      "YAML, Python and the Holy Graal",
-      "https://yamlscript.org/posts/advent-2023/dec-21/"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 19:56:15",
       "https://news.ycombinator.com/item?id=38725930"
     ],
     [
       "Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling",
       "https://arxiv.org/abs/2312.07625"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 19:24:21",
-      "https://news.ycombinator.com/item?id=38725442"
-    ],
-    [
-      "Hyperloop One to shut down",
-      "https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-12-21, 13:10:17",
+      "https://news.ycombinator.com/item?id=38719971"
+    ],
+    [
+      "GitHub Snakes SVG",
+      "https://github.com/Platane/snk"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 12:18:35",
       "https://news.ycombinator.com/item?id=38719511"
     ],
@@ -247,16 +257,6 @@
     [
       "The Year in Computer Science",
       "https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 12:46:44",
-      "https://news.ycombinator.com/item?id=38708010"
-    ],
-    [
-      "C Object Oriented Programming (2014)",
-      "https://nullprogram.com/blog/2014/10/21/"
     ]
   ],
   [
