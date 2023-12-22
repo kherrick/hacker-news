@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
+* [2023-12-22, 14:40:44](https://news.ycombinator.com/item?id=38734524) - ['Demonic forces' stopped official investigations into UFOs in the UK](https://www.msn.com/en-gb/news/world/demonic-forces-stopped-official-investigations-into-ufos-in-the-uk/ar-AA1lTert)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
-* [2023-12-22, 13:12:12](https://news.ycombinator.com/item?id=38733784) - [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the long run, we're all Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
-* [2023-12-22, 12:05:03](https://news.ycombinator.com/item?id=38733364) - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
+* [2023-12-22, 12:09:27](https://news.ycombinator.com/item?id=38733384) - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
 * [2023-12-22, 11:42:04](https://news.ycombinator.com/item?id=38733241) - [Lost history of Antarctica revealed in octopus DNA](https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna)

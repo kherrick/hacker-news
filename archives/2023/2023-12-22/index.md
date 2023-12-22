@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
+* [2023-12-22, 14:40:44](https://news.ycombinator.com/item?id=38734524) - ['Demonic forces' stopped official investigations into UFOs in the UK](https://www.msn.com/en-gb/news/world/demonic-forces-stopped-official-investigations-into-ufos-in-the-uk/ar-AA1lTert)
 * [2023-12-22, 13:38:53](https://news.ycombinator.com/item?id=38734008) - [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
 * [2023-12-22, 13:12:12](https://news.ycombinator.com/item?id=38733784) - [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
@@ -12,6 +13,7 @@
 * [2023-12-22, 12:29:45](https://news.ycombinator.com/item?id=38733499) - [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 * [2023-12-22, 12:12:28](https://news.ycombinator.com/item?id=38733396) - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
+* [2023-12-22, 12:09:27](https://news.ycombinator.com/item?id=38733384) - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [2023-12-22, 12:05:03](https://news.ycombinator.com/item?id=38733364) - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
