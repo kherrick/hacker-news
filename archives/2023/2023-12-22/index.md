@@ -6,6 +6,7 @@
 
 * [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:10:42](https://news.ycombinator.com/item?id=38732760) - [Mistral 7B 4-bit quantization runs no problem on an 8GB M2](https://x.com/awnihannun/status/1738031136994181376)
+* [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:43:38](https://news.ycombinator.com/item?id=38732628) - [Darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
