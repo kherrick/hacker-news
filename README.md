@@ -17,7 +17,6 @@
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
-* [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
@@ -29,6 +28,7 @@
 * [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
 * [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
+* [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 
 ## [Archives](archives/index.md)
