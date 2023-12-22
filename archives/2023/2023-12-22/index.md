@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 18:47:02](https://news.ycombinator.com/item?id=38737164) - [Mickey Mouse to Enter Public Domain: \"It's Finally Happening'\"](https://variety.com/2023/biz/news/mickey-mouse-public-domain-disney-copyright-lawsuits-1235844322/)
+* [2023-12-22, 18:27:10](https://news.ycombinator.com/item?id=38736956) - [Teen Hacked GTA VI Company from Hotel TV](https://nymag.com/intelligencer/2023/12/teen-hacked-grand-theft-auto-vi-company-from-hotel-tv.html)
 * [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
 * [2023-12-22, 18:20:58](https://news.ycombinator.com/item?id=38736904) - [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
 * [2023-12-22, 18:17:46](https://news.ycombinator.com/item?id=38736880) - [LLMs break the internet with Simon Willison](https://changelog.com/podcast/534)
@@ -15,6 +17,7 @@
 * [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3,500 arrested, $300M seized in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 * [2023-12-22, 17:25:08](https://news.ycombinator.com/item?id=38736374) - [People like me are why you shouldn't run a hosting company](https://swizec.com/blog/people-like-me-are-why-you-shouldnt-run-a-hosting-company/)
 * [2023-12-22, 17:10:56](https://news.ycombinator.com/item?id=38736224) - [Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show](https://futurism.com/tesla-flaws-failures-blame-drivers)
+* [2023-12-22, 17:10:28](https://news.ycombinator.com/item?id=38736214) - [Show HN: Rewriting our engine on Rust and going open source](https://github.com/doseiai/engine)
 * [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
 * [2023-12-22, 16:55:28](https://news.ycombinator.com/item?id=38736032) - [Twitter Now Showing Ads for Nonconsensual 'AI Undress' Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
 * [2023-12-22, 16:42:26](https://news.ycombinator.com/item?id=38735878) - [Turkish central bank raises interest rate to 42.5% to combat high inflation](https://www.breakingnews.ie/world/turkish-central-bank-raises-interest-rate-to-42-5-to-combat-high-inflation-1567338.html)
