@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 17:25:08](https://news.ycombinator.com/item?id=38736374) - [People like me are why you shouldn't run a hosting company](https://swizec.com/blog/people-like-me-are-why-you-shouldnt-run-a-hosting-company/)
 * [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
 * [2023-12-22, 16:29:27](https://news.ycombinator.com/item?id=38735725) - [Schrödinger equation emerges mathematically from classical mechanics (2012)](https://www.researchgate.net/publication/241778960_A_Pseudo-Quantum_Triad_Schrodinger%27s_Equation_the_Uncertainty_Principle_and_the_Heisenberg_Group)
-* [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
