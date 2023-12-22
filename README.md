@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 * [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)
@@ -16,7 +17,6 @@
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
-* [2023-12-21, 20:13:09](https://news.ycombinator.com/item?id=38726182) - [Show HN: Local fine tuning for Mistral and SDXL, GPU mem/latency optimization](https://docs.helix.ml/docs/overview)
 * [2023-12-21, 19:56:15](https://news.ycombinator.com/item?id=38725930) - [Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling](https://arxiv.org/abs/2312.07625)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
