@@ -88,6 +88,7 @@
 * [2023-12-21, 11:29:38](https://news.ycombinator.com/item?id=38719188) - [Uniform Handling of Failure in Switch](https://inside.java/2023/12/15/switch-case-effect/)
 * [2023-12-21, 11:25:59](https://news.ycombinator.com/item?id=38719163) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 11:19:18](https://news.ycombinator.com/item?id=38719122) - [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
+* [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
 * [2023-12-21, 10:14:10](https://news.ycombinator.com/item?id=38718772) - [Twitter puts link warning on report about child labour mines connected to Tesla](https://old.reddit.com/r/europe/comments/18kmlfd/twitterx_puts_a_harmful_link_warning_on/)
 * [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
