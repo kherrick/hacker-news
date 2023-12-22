@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 12:29:45](https://news.ycombinator.com/item?id=38733499) - [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+* [2023-12-22, 12:12:28](https://news.ycombinator.com/item?id=38733396) - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
 * [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
@@ -13,9 +15,7 @@
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
-* [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
-* [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 * [2023-12-22, 01:21:43](https://news.ycombinator.com/item?id=38729707) - [Leonardo Da Vinci’s Self-Powered Cart (2021)](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
 * [2023-12-22, 01:20:12](https://news.ycombinator.com/item?id=38729696) - [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
 * [2023-12-22, 01:18:43](https://news.ycombinator.com/item?id=38729684) - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
@@ -25,9 +25,9 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
-* [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
 * [2023-12-21, 08:49:10](https://news.ycombinator.com/item?id=38718314) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
+* [2023-12-20, 19:58:42](https://news.ycombinator.com/item?id=38712892) - [The military transformation of medieval Europe: Stirrups vs. social cohesion](https://www.benlandautaylor.com/p/the-military-transformation-of-medieval)
 * [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 * [2023-12-19, 11:14:16](https://news.ycombinator.com/item?id=38694237) - [Humans as Cyborgs](https://anima.nz/cyborg/)
 
