@@ -25,7 +25,7 @@
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:29:38](https://news.ycombinator.com/item?id=38719188) - [Uniform Handling of Failure in Switch](https://inside.java/2023/12/15/switch-case-effect/)
-* [2023-12-21, 11:25:59](https://news.ycombinator.com/item?id=38719163) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
+* [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
 * [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
