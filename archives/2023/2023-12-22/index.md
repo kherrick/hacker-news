@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 * [2023-12-22, 14:40:44](https://news.ycombinator.com/item?id=38734524) - ['Demonic forces' stopped official investigations into UFOs in the UK](https://www.msn.com/en-gb/news/world/demonic-forces-stopped-official-investigations-into-ufos-in-the-uk/ar-AA1lTert)

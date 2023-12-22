@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 * [2023-12-22, 14:40:44](https://news.ycombinator.com/item?id=38734524) - ['Demonic forces' stopped official investigations into UFOs in the UK](https://www.msn.com/en-gb/news/world/demonic-forces-stopped-official-investigations-into-ufos-in-the-uk/ar-AA1lTert)
@@ -22,7 +23,6 @@
 * [2023-12-22, 01:18:43](https://news.ycombinator.com/item?id=38729684) - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
-* [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:50:13](https://news.ycombinator.com/item?id=38719328) - [A Nevada Tale: Tesla, Google, and the Mustang Ranch](https://www.altaonline.com/dispatches/a44941268/mustang-ranch-geoffrey-gray-lance-gilman/)
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS – unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
 * [2023-12-21, 08:49:10](https://news.ycombinator.com/item?id=38718314) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
