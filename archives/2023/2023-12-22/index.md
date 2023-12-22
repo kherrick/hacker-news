@@ -36,6 +36,7 @@
 * [2023-12-22, 16:55:28](https://news.ycombinator.com/item?id=38736032) - [Twitter Now Showing Ads for Nonconsensual 'AI Undress' Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
 * [2023-12-22, 16:42:26](https://news.ycombinator.com/item?id=38735878) - [Turkish central bank raises interest rate to 42.5% to combat high inflation](https://www.breakingnews.ie/world/turkish-central-bank-raises-interest-rate-to-42-5-to-combat-high-inflation-1567338.html)
 * [2023-12-22, 16:29:27](https://news.ycombinator.com/item?id=38735725) - [Schrödinger equation emerges mathematically from classical mechanics (2012)](https://www.researchgate.net/publication/241778960_A_Pseudo-Quantum_Triad_Schrodinger%27s_Equation_the_Uncertainty_Principle_and_the_Heisenberg_Group)
+* [2023-12-22, 16:04:02](https://news.ycombinator.com/item?id=38735409) - [A chemical signal in human female tears lowers aggression in males](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002442)
 * [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
