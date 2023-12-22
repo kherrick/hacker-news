@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-22, 19:27:25](https://news.ycombinator.com/item?id=38737629) - [Google Searches can, and will, be held against you](https://twitter.com/alanfeuer/status/1737845283126730858)
 * [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
 * [2023-12-22, 18:42:34](https://news.ycombinator.com/item?id=38737113) - [Shitflation, Shrinkflation, Inflation Database](https://jonatron.github.io/shitflation/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
@@ -18,6 +17,7 @@
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:42:04](https://news.ycombinator.com/item?id=38733241) - [History of Antarctica revealed in octopus DNA](https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna)
 * [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
+* [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe 0.26](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
