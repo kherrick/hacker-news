@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
+* [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)
 * [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 * [2023-12-22, 03:50:39](https://news.ycombinator.com/item?id=38730752) - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
+* [2023-12-22, 03:34:04](https://news.ycombinator.com/item?id=38730670) - [Humans have driven more than 1,400 bird species to extinction](https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html)
 * [2023-12-22, 03:12:33](https://news.ycombinator.com/item?id=38730528) - [Guidance on man pages for the GNU project is wild](https://social.jvns.ca/@b0rk/111607416578693170)
 * [2023-12-22, 02:20:05](https://news.ycombinator.com/item?id=38730143) - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
 * [2023-12-22, 02:08:12](https://news.ycombinator.com/item?id=38730070) - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
@@ -20,7 +22,6 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
-* [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [Fantasy Map Brushes](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:29:38](https://news.ycombinator.com/item?id=38719188) - [Uniform Handling of Failure in Switch](https://inside.java/2023/12/15/switch-case-effect/)
@@ -29,7 +30,6 @@
 * [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
-* [2023-12-19, 01:19:46](https://news.ycombinator.com/item?id=38690626) - [Software architecture pitfalls and how to avoid them](https://www.infoq.com/articles/avoid-architecture-pitfalls/)
 
 ## [Archives](archives/index.md)
 

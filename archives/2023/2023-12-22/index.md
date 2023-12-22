@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
+* [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)
 * [2023-12-22, 04:22:48](https://news.ycombinator.com/item?id=38730914) - [Windows 10 end of life could prompt torrent of e-waste](https://www.itpro.com/software/windows/windows-10-end-of-life-could-prompt-torrent-of-e-waste-as-240-million-devices-set-for-scrapheap)
 * [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 * [2023-12-22, 03:50:39](https://news.ycombinator.com/item?id=38730752) - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
