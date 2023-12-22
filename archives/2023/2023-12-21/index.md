@@ -71,6 +71,7 @@
 * [2023-12-21, 14:02:12](https://news.ycombinator.com/item?id=38720471) - [Llamafile: Bringing LLMs to the people, and to your own computer](https://future.mozilla.org/blog/introducing-llamafile/)
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A Shell with a Very Good Memory](https://news.ycombinator.com/item?id=38720369)
+* [2023-12-21, 13:40:33](https://news.ycombinator.com/item?id=38720249) - [Verilog HDL and its ancestors and descendants [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386337)
 * [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:38:32](https://news.ycombinator.com/item?id=38720226) - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
