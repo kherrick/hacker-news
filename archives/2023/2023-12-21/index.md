@@ -24,6 +24,7 @@
 * [2023-12-21, 20:46:22](https://news.ycombinator.com/item?id=38726683) - [In the Shadow of the Holocaust](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 20:25:35](https://news.ycombinator.com/item?id=38726370) - [YAML, Python and the Holy Graal](https://yamlscript.org/posts/advent-2023/dec-21/)
+* [2023-12-21, 20:13:09](https://news.ycombinator.com/item?id=38726182) - [Show HN: Local fine tuning for Mistral and SDXL, GPU mem/latency optimization](https://docs.helix.ml/docs/overview)
 * [2023-12-21, 19:56:15](https://news.ycombinator.com/item?id=38725930) - [Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling](https://arxiv.org/abs/2312.07625)
 * [2023-12-21, 19:34:52](https://news.ycombinator.com/item?id=38725595) - [Sniffing women's tears reduces aggressive behavior in men](https://medicalxpress.com/news/2023-12-sniffing-women-aggressive-behavior-men.html)
 * [2023-12-21, 19:26:07](https://news.ycombinator.com/item?id=38725478) - [Custom Semantic Analyzer library written Rust lang](https://github.com/mrLSD/semantic-analyzer-rs)

@@ -16,6 +16,7 @@
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
+* [2023-12-21, 20:13:09](https://news.ycombinator.com/item?id=38726182) - [Show HN: Local fine tuning for Mistral and SDXL, GPU mem/latency optimization](https://docs.helix.ml/docs/overview)
 * [2023-12-21, 19:56:15](https://news.ycombinator.com/item?id=38725930) - [Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling](https://arxiv.org/abs/2312.07625)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
@@ -27,7 +28,6 @@
 * [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
 * [2023-12-21, 08:49:10](https://news.ycombinator.com/item?id=38718314) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
-* [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
 * [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 
