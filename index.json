@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 18:54:56",
+      "https://news.ycombinator.com/item?id=38737262"
+    ],
+    [
+      "Direct initialization of transformers using larger pretrained ones",
+      "https://arxiv.org/abs/2312.09299"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 18:54:47",
       "https://news.ycombinator.com/item?id=38737261"
     ],
@@ -177,16 +187,6 @@
     [
       "Visualize Mixtral Moe",
       "https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 10:14:25",
-      "https://news.ycombinator.com/item?id=38732781"
-    ],
-    [
-      "NewPipe 0.26",
-      "https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0"
     ]
   ],
   [
