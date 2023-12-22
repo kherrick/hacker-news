@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-12-22, 12:00:04",
+      "https://news.ycombinator.com/item?id=38733332"
+    ],
+    [
+      "Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers",
+      "https://sievedata.com/about/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 11:55:17",
+      "https://news.ycombinator.com/item?id=38733307"
+    ],
+    [
+      "Anthropocene traps that challenge global sustainability",
+      "https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 11:50:57",
+      "https://news.ycombinator.com/item?id=38733282"
+    ],
+    [
+      "Ask HN: What's your \"it's not stupid if it works\" story?",
+      "https://news.ycombinator.com/item?id=38733282"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 11:34:36",
+      "https://news.ycombinator.com/item?id=38733208"
+    ],
+    [
+      "Visualize Mixtral Moe",
+      "https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 11:23:19",
       "https://news.ycombinator.com/item?id=38733154"
     ],
@@ -17,6 +57,16 @@
     [
       "FTC suggests new rules to shift parents' burden of protecting kids to websites",
       "https://arstechnica.com/tech-policy/2023/12/ftc-moves-to-block-platforms-from-making-money-off-data-of-children/"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 10:27:35",
+      "https://news.ycombinator.com/item?id=38732862"
+    ],
+    [
+      "Do I need to get out the soldering-iron again? (2018)",
+      "https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2023-12-22, 04:34:37",
-      "https://news.ycombinator.com/item?id=38730966"
-    ],
-    [
-      "FreeBasic",
-      "https://www.freebasic.net/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 03:59:17",
       "https://news.ycombinator.com/item?id=38730790"
     ],
     [
       "Open-source AI knowledge database with web UI and Enterprise SSO",
       "https://github.com/casibase/casibase"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 02:20:05",
-      "https://news.ycombinator.com/item?id=38730143"
-    ],
-    [
-      "Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model",
-      "https://news.ycombinator.com/item?id=38730143"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-12-21, 21:01:11",
-      "https://news.ycombinator.com/item?id=38726883"
-    ],
-    [
-      "Eqtble (YC W21) is hiring a software engineer",
-      "https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 18:34:53",
       "https://news.ycombinator.com/item?id=38724665"
     ],
@@ -227,16 +247,6 @@
     [
       "Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support",
       "https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 11:25:59",
-      "https://news.ycombinator.com/item?id=38719163"
-    ],
-    [
-      "FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands",
-      "https://susam.net/fxyt.html"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2023-12-20, 19:58:42",
-      "https://news.ycombinator.com/item?id=38712892"
-    ],
-    [
-      "The military transformation of medieval Europe: Stirrups vs. social cohesion",
-      "https://www.benlandautaylor.com/p/the-military-transformation-of-medieval"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 11:03:13",
       "https://news.ycombinator.com/item?id=38707324"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-20, 07:38:11",
-      "https://news.ycombinator.com/item?id=38706299"
+      "2023-12-19, 11:14:16",
+      "https://news.ycombinator.com/item?id=38694237"
     ],
     [
-      "Show HN: I'm open-sourcing my game engine",
-      "https://github.com/moddio/moddio2"
+      "Humans as Cyborgs",
+      "https://anima.nz/cyborg/"
     ]
   ]
 ]
