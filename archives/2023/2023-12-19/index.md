@@ -94,6 +94,7 @@
 * [2023-12-19, 11:39:14](https://news.ycombinator.com/item?id=38694411) - [Suica Technology and Strategy for Future Development (2016) [pdf]](https://www.jreast.co.jp/e/development/tech/pdf_6/Tec-06-40-49eng.pdf)
 * [2023-12-19, 11:36:37](https://news.ycombinator.com/item?id=38694390) - [FOSDEM 2024 (Brussels, Feb 3-4) – Schedule](https://fosdem.org/2024/schedule/)
 * [2023-12-19, 11:19:55](https://news.ycombinator.com/item?id=38694278) - [Quint: A specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
+* [2023-12-19, 11:14:16](https://news.ycombinator.com/item?id=38694237) - [Humans as Cyborgs](https://anima.nz/cyborg/)
 * [2023-12-19, 10:48:32](https://news.ycombinator.com/item?id=38694061) - [He closed a video game shop decades ago. His games could sell for $1M](https://www.washingtonpost.com/nation/2023/12/19/nebraska-rare-vintage-video-games-sale/)
 * [2023-12-19, 10:46:47](https://news.ycombinator.com/item?id=38694051) - [All code is technical debt](https://www.tokyodev.com/articles/all-code-is-technical-debt)
 * [2023-12-19, 10:36:35](https://news.ycombinator.com/item?id=38694004) - [RFC 9518 – What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)

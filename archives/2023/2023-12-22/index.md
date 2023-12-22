@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
+* [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
+* [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
+* [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 * [2023-12-22, 11:23:19](https://news.ycombinator.com/item?id=38733154) - [Challenges with Unsupervised LLM Knowledge Discovery](https://www.lesswrong.com/posts/wtfvbsYjNHYYBmT3k/discussion-challenges-with-unsupervised-llm-knowledge-1)
 * [2023-12-22, 11:16:23](https://news.ycombinator.com/item?id=38733118) - [FTC suggests new rules to shift parents' burden of protecting kids to websites](https://arstechnica.com/tech-policy/2023/12/ftc-moves-to-block-platforms-from-making-money-off-data-of-children/)
+* [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering-iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [Don't Believe Your Eyes – A WhatsApp Clickjacking Vulnerability](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
 * [2023-12-22, 10:10:42](https://news.ycombinator.com/item?id=38732760) - [Mistral 7B 4-bit quantization runs no problem on an 8GB M2](https://x.com/awnihannun/status/1738031136994181376)
