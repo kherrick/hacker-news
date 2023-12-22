@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 23:16:42](https://news.ycombinator.com/item?id=38739790) - [Scientists have 20-minute \"conversation\" with a humpback whale named Twain](https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/)
-* [2023-12-22, 22:27:46](https://news.ycombinator.com/item?id=38739357) - [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 * [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
 * [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
@@ -19,6 +18,7 @@
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-22, 12:09:27](https://news.ycombinator.com/item?id=38733384) - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
+* [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualizing expert firing frequencies in Mixtral MoE](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 * [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [A clickjacking vulnerability in WhatsApp that enables phishing attacks](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the power of language models for text rendering](https://jingyechen.github.io/textdiffuser2/)
