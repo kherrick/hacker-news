@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [What's Going on at Google? Massive Search Engine Spam Attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
+* [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google search overwhelmed by massive spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 20:13:01](https://news.ycombinator.com/item?id=38738106) - [AI Can Diagnose Childhood Autism from Retinal Photos with '100% Accuracy'](https://petapixel.com/2023/12/20/ai-can-diagnose-childhood-autism-in-eye-photos-with-100-accuracy/)
 * [2023-12-22, 20:09:54](https://news.ycombinator.com/item?id=38738072) - [Warner Eyes Paramount; Its Last Two Disastrous Mergers Weren't Disastrous Enough](https://www.techdirt.com/2023/12/22/warner-bros-discovery-eyes-paramount-merger-because-its-last-two-disastrous-mergers-apparently-werent-disastrous-enough/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
@@ -19,7 +19,6 @@
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 11:42:04](https://news.ycombinator.com/item?id=38733241) - [History of Antarctica revealed in octopus DNA](https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna)
 * [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
-* [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering-iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
@@ -27,8 +26,9 @@
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with Finite-Difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS – unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
+* [2023-12-20, 23:47:11](https://news.ycombinator.com/item?id=38715186) - [Even the Eyelashes: Review of \"Empires of the Dead\"](https://www.lrb.co.uk/the-paper/v46/n01/erin-l.-thompson/even-the-eyelashes)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
-* [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968 sounds beautifully bizarre](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
+* [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
 * [2023-12-20, 11:03:13](https://news.ycombinator.com/item?id=38707324) - [SOGo: Open-source groupware solution to Share calendars, address books and mails](https://www.sogo.nu/)
 
 ## [Archives](archives/index.md)
