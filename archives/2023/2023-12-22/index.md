@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 17:10:56](https://news.ycombinator.com/item?id=38736224) - [Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show](https://futurism.com/tesla-flaws-failures-blame-drivers)
+* [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
 * [2023-12-22, 16:55:28](https://news.ycombinator.com/item?id=38736032) - [Twitter Now Showing Ads for Nonconsensual 'AI Undress' Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
 * [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
