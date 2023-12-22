@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 23:44:58](https://news.ycombinator.com/item?id=38728808) - [Some Mexican pharmacies are selling full bottles of Adderall. But it's meth](https://www.latimes.com/world-nation/story/2023-12-21/counterfeit-adderall-in-mexico)
+* [2023-12-21, 23:41:13](https://news.ycombinator.com/item?id=38728765) - [Meta-Learning: the future for foundation models, and how to improve it](https://machine-learning-made-simple.medium.com/meta-learning-why-its-a-big-deal-it-s-future-for-foundation-models-and-how-to-improve-it-c70b8be2931b)
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep Cloning Objects in JavaScript, the Modern Way](https://www.builder.io/blog/structured-clone)
+* [2023-12-21, 23:13:04](https://news.ycombinator.com/item?id=38728429) - [Food price hikes are no longer outpacing overall inflation](https://www.cnn.com/2023/12/12/economy/food-inflation-november-cpi/index.html)
 * [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 * [2023-12-21, 22:48:48](https://news.ycombinator.com/item?id=38728193) - [A Tesla owner says he got a $14,000 repair bill one day after buying a Model Y](https://www.businessinsider.com/tesla-owner-repair-bill-day-after-buying-suspension-issue-report-2023-12)
 * [2023-12-21, 22:46:29](https://news.ycombinator.com/item?id=38728172) - [What I wish someone had told me](https://blog.samaltman.com/what-i-wish-someone-had-told-me)
@@ -20,6 +23,7 @@
 * [2023-12-21, 20:46:22](https://news.ycombinator.com/item?id=38726683) - [In the Shadow of the Holocaust](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 20:25:35](https://news.ycombinator.com/item?id=38726370) - [YAML, Python and the Holy Graal](https://yamlscript.org/posts/advent-2023/dec-21/)
+* [2023-12-21, 19:56:15](https://news.ycombinator.com/item?id=38725930) - [Astrocyte-Enabled Spiking Neural Networks for Large Language Modeling](https://arxiv.org/abs/2312.07625)
 * [2023-12-21, 19:34:52](https://news.ycombinator.com/item?id=38725595) - [Sniffing women's tears reduces aggressive behavior in men](https://medicalxpress.com/news/2023-12-sniffing-women-aggressive-behavior-men.html)
 * [2023-12-21, 19:26:07](https://news.ycombinator.com/item?id=38725478) - [Custom Semantic Analyzer library written Rust lang](https://github.com/mrLSD/semantic-analyzer-rs)
 * [2023-12-21, 19:24:21](https://news.ycombinator.com/item?id=38725442) - [Hyperloop One to Shut Down After Failing to Reinvent Transit](https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit)
