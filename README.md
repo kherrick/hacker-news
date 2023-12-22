@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 22:27:46](https://news.ycombinator.com/item?id=38739357) - [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
 * [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 * [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
@@ -21,7 +22,6 @@
 * [2023-12-22, 12:00:04](https://news.ycombinator.com/item?id=38733332) - [Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers](https://sievedata.com/about/jobs)
 * [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [A clickjacking vulnerability in WhatsApp that enables phishing attacks](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
-* [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the power of language models for text rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
