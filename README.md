@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
-* [2023-12-22, 04:22:48](https://news.ycombinator.com/item?id=38730914) - [Windows 10 end of life could prompt torrent of e-waste](https://www.itpro.com/software/windows/windows-10-end-of-life-could-prompt-torrent-of-e-waste-as-240-million-devices-set-for-scrapheap)
 * [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 * [2023-12-22, 03:50:39](https://news.ycombinator.com/item?id=38730752) - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
 * [2023-12-22, 03:12:33](https://news.ycombinator.com/item?id=38730528) - [Guidance on man pages for the GNU project is wild](https://social.jvns.ca/@b0rk/111607416578693170)
@@ -30,6 +29,7 @@
 * [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
 * [2023-12-20, 08:20:24](https://news.ycombinator.com/item?id=38706483) - [DOS on Dope: The last MVC web framework you'll ever need (2010)](https://secretgeek.net/dod_intro)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
+* [2023-12-19, 01:19:46](https://news.ycombinator.com/item?id=38690626) - [Software architecture pitfalls and how to avoid them](https://www.infoq.com/articles/avoid-architecture-pitfalls/)
 
 ## [Archives](archives/index.md)
 
