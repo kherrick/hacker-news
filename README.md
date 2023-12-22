@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 22:36:53](https://news.ycombinator.com/item?id=38739416) - [God Is Dead So They Are Building a New One](https://thealgorithmicbridge.substack.com/p/god-is-dead-so-they-are-building)
 * [2023-12-22, 22:27:46](https://news.ycombinator.com/item?id=38739357) - [OpenAI Is in Talks to Raise New Funding at Valuation of $100B or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation)
-* [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
 * [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
 * [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
@@ -24,12 +24,12 @@
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [A clickjacking vulnerability in WhatsApp that enables phishing attacks](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
-* [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
 * [2023-12-21, 13:40:33](https://news.ycombinator.com/item?id=38720249) - [Verilog HDL and its ancestors and descendants [pdf]](https://dl.acm.org/doi/pdf/10.1145/3386337)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS, unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
+* [2023-12-21, 07:41:28](https://news.ycombinator.com/item?id=38718013) - [Logical Replication from Postgres 16 Stand-By Servers](https://www.decodable.co/blog/logical-replication-from-postgres-16-stand-by-servers-part-1-of-2)
+* [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
-* [2023-12-20, 09:31:43](https://news.ycombinator.com/item?id=38706831) - [In-browser ordered dither maker](https://seleb.github.io/ordered-dither-maker/)
 
 ## [Archives](archives/index.md)
 

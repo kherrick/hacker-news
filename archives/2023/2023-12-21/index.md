@@ -106,6 +106,7 @@
 * [2023-12-21, 08:35:45](https://news.ycombinator.com/item?id=38718244) - [QOwnNotes](https://www.qownnotes.org/)
 * [2023-12-21, 07:48:10](https://news.ycombinator.com/item?id=38718043) - [DocuSeal – Open-source Document Signing](https://www.docuseal.co/)
 * [2023-12-21, 07:42:40](https://news.ycombinator.com/item?id=38718020) - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
+* [2023-12-21, 07:41:28](https://news.ycombinator.com/item?id=38718013) - [Logical Replication from Postgres 16 Stand-By Servers](https://www.decodable.co/blog/logical-replication-from-postgres-16-stand-by-servers-part-1-of-2)
 * [2023-12-21, 07:24:52](https://news.ycombinator.com/item?id=38717948) - [South Korea Will Police 'Shrinkflation' at the Supermarket](https://www.wsj.com/world/asia/this-country-will-police-shrinkflation-at-the-supermarket-aeeec892)
 * [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
