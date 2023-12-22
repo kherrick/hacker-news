@@ -6,6 +6,8 @@
 
 * [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
+* [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
+* [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 * [2023-12-22, 21:37:05](https://news.ycombinator.com/item?id=38738967) - [P vs NP: The most important unsolved problem in computer science](https://www.scientificamerican.com/article/the-most-important-unsolved-problem-in-computer-science/)
 * [2023-12-22, 21:04:37](https://news.ycombinator.com/item?id=38738648) - [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [What's Going on at Google? Massive Search Engine Spam Attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)

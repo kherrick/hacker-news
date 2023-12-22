@@ -2,6 +2,8 @@
 
 * [2023-12-22, 22:14:09](https://news.ycombinator.com/item?id=38739272) - [The stories of teenage hacking are sensationalized](https://twitter.com/ErrataRob/status/1738022454767882537)
 * [2023-12-22, 22:12:25](https://news.ycombinator.com/item?id=38739259) - [Seven Years of Factorio Friday Facts (2020)](https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts)
+* [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
+* [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Bluesky makes web view public, login no longer required to read posts](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 * [2023-12-22, 21:37:05](https://news.ycombinator.com/item?id=38738967) - [P vs NP: The most important unsolved problem in computer science](https://www.scientificamerican.com/article/the-most-important-unsolved-problem-in-computer-science/)
 * [2023-12-22, 21:04:37](https://news.ycombinator.com/item?id=38738648) - [2023: A year of groundbreaking advances in AI and computing](https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google search overwhelmed by spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
@@ -9,7 +11,6 @@
 * [2023-12-22, 18:54:56](https://news.ycombinator.com/item?id=38737262) - [Direct initialization of transformers using larger pretrained ones](https://arxiv.org/abs/2312.09299)
 * [2023-12-22, 18:40:30](https://news.ycombinator.com/item?id=38737081) - [Detecting Unwanted Location Trackers](https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/01/)
 * [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
-* [2023-12-22, 18:07:40](https://news.ycombinator.com/item?id=38736798) - [Polymers capable of killing bacteria without inducing antibiotic resistance](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
 * [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3500 arrested in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS Z80 multitasking operating system](http://www.symbos.de/)
@@ -29,7 +30,6 @@
 * [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS, unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
 * [2023-12-20, 09:31:43](https://news.ycombinator.com/item?id=38706831) - [In-browser ordered dither maker](https://seleb.github.io/ordered-dither-maker/)
-* [2023-12-19, 18:34:20](https://news.ycombinator.com/item?id=38699576) - [Am I one of the last living relatives of Bruno Schulz?](https://www.newyorker.com/magazine/2023/12/25/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-book-review)
 
 ## [Archives](archives/index.md)
 
