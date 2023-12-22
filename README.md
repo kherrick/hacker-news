@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
+* [2023-12-22, 13:12:12](https://news.ycombinator.com/item?id=38733784) - [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 * [2023-12-22, 12:05:03](https://news.ycombinator.com/item?id=38733364) - [African Ports Overwhelmed by Red Sea Reroutings](https://gcaptain.com/african-ports-overwhelmed-by-red-sea-reroutings/)
@@ -19,7 +20,6 @@
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 * [2023-12-22, 01:21:43](https://news.ycombinator.com/item?id=38729707) - [Leonardo Da Vinci’s Self-Powered Cart (2021)](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
 * [2023-12-22, 01:18:43](https://news.ycombinator.com/item?id=38729684) - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
-* [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
