@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 18:17:46](https://news.ycombinator.com/item?id=38736880) - [LLMs break the internet with Simon Willison](https://changelog.com/podcast/534)
+* [2023-12-22, 18:07:40](https://news.ycombinator.com/item?id=38736798) - [Texas A&M Team Develops Polymers That Can Kill Bacteria](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
 * [2023-12-22, 17:46:59](https://news.ycombinator.com/item?id=38736625) - [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
 * [2023-12-22, 17:45:45](https://news.ycombinator.com/item?id=38736612) - [Discovery is the original sin of the modern age](https://www.strangeloopcanon.com/p/discovery-is-the-original-sin-of)
+* [2023-12-22, 17:45:20](https://news.ycombinator.com/item?id=38736608) - [The problems you'll face developing product onboarding in-house](https://blog.dopt.com/problems-faced-building-onboarding)
 * [2023-12-22, 17:40:25](https://news.ycombinator.com/item?id=38736555) - [Chevrolet Blazer first drive: GM's EV platform goes mainstream](https://arstechnica.com/cars/2023/12/the-2024-chevrolet-blazer-first-drive-gms-ev-platform-goes-mainstream/)
+* [2023-12-22, 17:36:55](https://news.ycombinator.com/item?id=38736525) - [3,500 arrested, $300M seized in global cybercrime crackdown](https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown)
 * [2023-12-22, 17:25:08](https://news.ycombinator.com/item?id=38736374) - [People like me are why you shouldn't run a hosting company](https://swizec.com/blog/people-like-me-are-why-you-shouldnt-run-a-hosting-company/)
 * [2023-12-22, 17:10:56](https://news.ycombinator.com/item?id=38736224) - [Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show](https://futurism.com/tesla-flaws-failures-blame-drivers)
 * [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS – Crazy Preemptive Multitasking OS for Z80](http://www.symbos.de/)
 * [2023-12-22, 16:55:28](https://news.ycombinator.com/item?id=38736032) - [Twitter Now Showing Ads for Nonconsensual 'AI Undress' Apps](https://www.404media.co/twitter-x-now-showing-ads-for-nonconsensual-ai-undress-apps/)
+* [2023-12-22, 16:42:26](https://news.ycombinator.com/item?id=38735878) - [Turkish central bank raises interest rate to 42.5% to combat high inflation](https://www.breakingnews.ie/world/turkish-central-bank-raises-interest-rate-to-42-5-to-combat-high-inflation-1567338.html)
 * [2023-12-22, 16:29:27](https://news.ycombinator.com/item?id=38735725) - [Schrödinger equation emerges mathematically from classical mechanics (2012)](https://www.researchgate.net/publication/241778960_A_Pseudo-Quantum_Triad_Schrodinger%27s_Equation_the_Uncertainty_Principle_and_the_Heisenberg_Group)
 * [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
