@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 * [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)
 * [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
@@ -7,7 +8,7 @@
 * [2023-12-22, 02:20:05](https://news.ycombinator.com/item?id=38730143) - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
 * [2023-12-22, 02:13:39](https://news.ycombinator.com/item?id=38730107) - [Labs.Google](https://labs.google/)
 * [2023-12-22, 02:08:12](https://news.ycombinator.com/item?id=38730070) - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
-* [2023-12-22, 01:21:43](https://news.ycombinator.com/item?id=38729707) - [Meccano Build of Leonardo da Vinci's Self-Powered Cart](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
+* [2023-12-22, 01:21:43](https://news.ycombinator.com/item?id=38729707) - [Leonardo Da Vinci’s Self-Powered Cart (2021)](https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart)
 * [2023-12-22, 01:20:12](https://news.ycombinator.com/item?id=38729696) - [What Is OIDC?](https://fusionauth.io/articles/identity-basics/what-is-oidc)
 * [2023-12-22, 01:18:43](https://news.ycombinator.com/item?id=38729684) - [WARC'in the Crawler](https://www.marginalia.nu/log/94_warc_warc/)
 * [2023-12-22, 00:34:27](https://news.ycombinator.com/item?id=38729278) - [Modern C for Fedora (and the World)](https://lwn.net/Articles/954018/)
@@ -26,7 +27,6 @@
 * [2023-12-21, 11:29:38](https://news.ycombinator.com/item?id=38719188) - [Uniform Handling of Failure in Switch](https://inside.java/2023/12/15/switch-case-effect/)
 * [2023-12-21, 11:25:59](https://news.ycombinator.com/item?id=38719163) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
-* [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
 * [2023-12-20, 17:25:25](https://news.ycombinator.com/item?id=38711075) - [I spent a year building an app and failed – The story of Taskwer](https://www.buildingwithchris.com/how-i-spent-a-year-building-an-app-and-failed-the-story-of-taskwer/)
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [Show HN: I'm open-sourcing my game engine](https://github.com/moddio/moddio2)

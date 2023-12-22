@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 * [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)
 * [2023-12-22, 04:22:48](https://news.ycombinator.com/item?id=38730914) - [Windows 10 end of life could prompt torrent of e-waste](https://www.itpro.com/software/windows/windows-10-end-of-life-could-prompt-torrent-of-e-waste-as-240-million-devices-set-for-scrapheap)
