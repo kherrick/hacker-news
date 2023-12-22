@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-22, 00:34:27",
+      "https://news.ycombinator.com/item?id=38729278"
+    ],
+    [
+      "Modern C for Fedora (and the World)",
+      "https://lwn.net/Articles/954018/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 00:10:59",
       "https://news.ycombinator.com/item?id=38729035"
     ],
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2023-12-21, 23:13:25",
+      "https://news.ycombinator.com/item?id=38728435"
+    ],
+    [
+      "Deep cloning objects in JavaScript",
+      "https://www.builder.io/blog/structured-clone"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 22:57:15",
       "https://news.ycombinator.com/item?id=38728278"
     ],
     [
-      "How to Turn Off Google's \"Privacy Sandbox\" Ad Tracking–and Why You Should",
+      "How to turn off Google's \"privacy sandbox\" ad tracking, and why you should",
       "https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Eqtble (YC W21) is hiring a software engineer",
       "https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 20:26:39",
-      "https://news.ycombinator.com/item?id=38726389"
-    ],
-    [
-      "The right to use adblockers",
-      "https://fsfe.org/news/2023/news-20231220-01.sl.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: I'm open-sourcing my game engine",
       "https://github.com/moddio/moddio2"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 17:08:16",
-      "https://news.ycombinator.com/item?id=38698259"
-    ],
-    [
-      "Discovering copy-on-write in R",
-      "https://franklin.dyer.me/post/213"
     ]
   ],
   [
