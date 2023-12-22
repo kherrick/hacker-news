@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 18:22:44](https://news.ycombinator.com/item?id=38736919) - [Granting Pardon for the Offense of Simple Possession of or Use of Marijuana](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/12/22/a-proclamation-on-granting-pardon-for-the-offense-of-simple-possession-of-marijuana-attempted-simple-possession-of-marijuana-or-use-of-marijuana/)
+* [2023-12-22, 18:20:58](https://news.ycombinator.com/item?id=38736904) - [Database Isolation Is Broken and You Should Care](https://materializedview.io/p/database-isolation-is-broken-you-should-care)
 * [2023-12-22, 18:17:46](https://news.ycombinator.com/item?id=38736880) - [LLMs break the internet with Simon Willison](https://changelog.com/podcast/534)
 * [2023-12-22, 18:07:40](https://news.ycombinator.com/item?id=38736798) - [Texas A&M Team Develops Polymers That Can Kill Bacteria](https://today.tamu.edu/2023/12/21/texas-am-team-develops-polymers-that-can-kill-bacteria/)
 * [2023-12-22, 17:46:59](https://news.ycombinator.com/item?id=38736625) - [Ask HN: Best modern file transfer/synchronization protocol?](https://news.ycombinator.com/item?id=38736625)
