@@ -79,6 +79,7 @@
 * [2023-12-21, 12:30:51](https://news.ycombinator.com/item?id=38719623) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 12:26:59](https://news.ycombinator.com/item?id=38719586) - [Breaking Free of Plastic Pollution](https://worldsensorium.com/breaking-free-of-plastic-pollution-one-of-the-biggest-threats-to-biodiversity/)
 * [2023-12-21, 12:26:27](https://news.ycombinator.com/item?id=38719582) - [Stop Worrying About Deepfakes](https://nautil.us/stop-worrying-about-deepfakes-470212/)
+* [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)

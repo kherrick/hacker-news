@@ -21,7 +21,7 @@
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [Fantasy Map Brushes](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
 * [2023-12-21, 13:53:02](https://news.ycombinator.com/item?id=38720369) - [Show HN: Hucksh – A shell with a very good memory](https://news.ycombinator.com/item?id=38720369)
 * [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [Two pharmacists figured out that oral phenylephrine doesn't work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
-* [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The great cousin decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
+* [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:25:59](https://news.ycombinator.com/item?id=38719163) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 08:48:01](https://news.ycombinator.com/item?id=38718306) - [The Year in Computer Science](https://www.quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220/)
 * [2023-12-20, 12:46:44](https://news.ycombinator.com/item?id=38708010) - [C Object Oriented Programming (2014)](https://nullprogram.com/blog/2014/10/21/)
