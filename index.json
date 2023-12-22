@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 04:36:07",
+      "https://news.ycombinator.com/item?id=38730979"
+    ],
+    [
+      "A structured note-taking app for personal use",
+      "https://github.com/penxio/penx"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 04:22:48",
       "https://news.ycombinator.com/item?id=38730914"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2023-12-22, 03:34:04",
-      "https://news.ycombinator.com/item?id=38730670"
+      "2023-12-22, 03:50:39",
+      "https://news.ycombinator.com/item?id=38730752"
     ],
     [
-      "Humans have driven more than 1,400 bird species to extinction",
-      "https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html"
+      "3D-GPT: Procedural 3D Modeling with Large Language Models",
+      "https://chuny1.github.io/3DGPT/3dgpt.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 03:12:33",
+      "https://news.ycombinator.com/item?id=38730528"
+    ],
+    [
+      "Guidance on man pages for the GNU project is wild",
+      "https://social.jvns.ca/@b0rk/111607416578693170"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Deep cloning objects in JavaScript",
       "https://www.builder.io/blog/structured-clone"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 22:57:15",
-      "https://news.ycombinator.com/item?id=38728278"
-    ],
-    [
-      "How to turn off Google's \"privacy sandbox\" ad tracking, and why you should",
-      "https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should"
     ]
   ],
   [
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-12-21, 11:29:38",
+      "https://news.ycombinator.com/item?id=38719188"
+    ],
+    [
+      "Uniform Handling of Failure in Switch",
+      "https://inside.java/2023/12/15/switch-case-effect/"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 11:25:59",
       "https://news.ycombinator.com/item?id=38719163"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-12-20, 09:55:50",
-      "https://news.ycombinator.com/item?id=38706989"
-    ],
-    [
-      "2001's Pre- and Post-Premiere Edits",
-      "http://www.visual-memory.co.uk/amk/doc/brown3.html"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 08:20:24",
       "https://news.ycombinator.com/item?id=38706483"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: I'm open-sourcing my game engine",
       "https://github.com/moddio/moddio2"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 01:19:46",
-      "https://news.ycombinator.com/item?id=38690626"
-    ],
-    [
-      "Software architecture pitfalls and how to avoid them",
-      "https://www.infoq.com/articles/avoid-architecture-pitfalls/"
     ]
   ]
 ]
