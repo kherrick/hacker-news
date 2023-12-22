@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-22, 04:22:48](https://news.ycombinator.com/item?id=38730914) - [Windows 10 end of life could prompt torrent of e-waste](https://www.itpro.com/software/windows/windows-10-end-of-life-could-prompt-torrent-of-e-waste-as-240-million-devices-set-for-scrapheap)
+* [2023-12-22, 03:59:17](https://news.ycombinator.com/item?id=38730790) - [Open-source AI knowledge database with web UI and Enterprise SSO](https://github.com/casibase/casibase)
 * [2023-12-22, 03:34:04](https://news.ycombinator.com/item?id=38730670) - [Humans have driven more than 1,400 bird species to extinction](https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html)
 * [2023-12-22, 02:20:05](https://news.ycombinator.com/item?id=38730143) - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
 * [2023-12-22, 02:08:12](https://news.ycombinator.com/item?id=38730070) - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
@@ -11,7 +13,6 @@
 * [2023-12-21, 23:13:25](https://news.ycombinator.com/item?id=38728435) - [Deep cloning objects in JavaScript](https://www.builder.io/blog/structured-clone)
 * [2023-12-21, 22:57:15](https://news.ycombinator.com/item?id=38728278) - [How to turn off Google's \"privacy sandbox\" ad tracking, and why you should](https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should)
 * [2023-12-21, 22:28:26](https://news.ycombinator.com/item?id=38727987) - [SMTP Smuggling – Spoofing Emails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
-* [2023-12-21, 21:21:12](https://news.ycombinator.com/item?id=38727124) - [The Great AI Weirding](https://deliprao.substack.com/p/the-great-ai-weirding)
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) is hiring a software engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find out who owns a nursing home with our Nursing Home Inspect tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [Tell HN: I salute everyone on call/working support through the holidays](https://news.ycombinator.com/item?id=38725015)
@@ -20,7 +21,6 @@
 * [2023-12-21, 16:05:18](https://news.ycombinator.com/item?id=38722246) - [Beeper – Moving Forward](https://blog.beeper.com/p/beeper-moving-forward)
 * [2023-12-21, 15:26:38](https://news.ycombinator.com/item?id=38721604) - [PHOLED Will Transform Displays](https://spectrum.ieee.org/blue-pholed)
 * [2023-12-21, 13:56:50](https://news.ycombinator.com/item?id=38720412) - [Fantasy Map Brushes](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
-* [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [Two pharmacists figured out that oral phenylephrine doesn't work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 12:18:35](https://news.ycombinator.com/item?id=38719511) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-21, 11:25:59](https://news.ycombinator.com/item?id=38719163) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
