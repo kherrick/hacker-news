@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-23, 13:37:52](https://news.ycombinator.com/item?id=38744138) - [Spare a Thought for Julian Assange Spending His Fifth Christmas Behind Bars](https://www.sydneycriminallawyers.com.au/blog/spare-a-thought-for-julian-assange-spending-his-fifth-christmas-behind-bars/)
-* [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
 * [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids (2019)](https://www.qfbox.info/4d/johnson)
 * [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
+* [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
