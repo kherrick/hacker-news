@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (3rd Edition)](https://artofelectronics.net/)
 * [2023-12-23, 20:49:43](https://news.ycombinator.com/item?id=38748087) - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
 * [2023-12-23, 19:19:19](https://news.ycombinator.com/item?id=38747191) - [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
@@ -25,7 +26,6 @@
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 * [2023-12-22, 12:50:18](https://news.ycombinator.com/item?id=38733617) - [Qsv: Efficient CSV CLI Toolkit](https://github.com/jqnatividad/qsv)
-* [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory Safety Is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-21, 13:16:12](https://news.ycombinator.com/item?id=38720036) - [My reference was dropped, why is the compiler complaining about multiple borrow](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
