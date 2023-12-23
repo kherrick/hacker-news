@@ -19,6 +19,7 @@
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
 * [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids](https://www.qfbox.info/4d/johnson)
 * [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
+* [2023-12-23, 12:29:31](https://news.ycombinator.com/item?id=38743750) - [Department of Justice and FTC Looking into Beeper iMessage Controversy](https://www.macrumors.com/2023/12/22/doj-and-ftc-looking-into-beeper-controversy/)
 * [2023-12-23, 12:24:14](https://news.ycombinator.com/item?id=38743719) - [Suno AI](https://www.suno.ai/)
 * [2023-12-23, 12:24:03](https://news.ycombinator.com/item?id=38743718) - [Repeat complex ideas back to people (\"two phase commit\" for humans)](https://roughlywritten.substack.com/p/let-me-repeat-that-back-to-you)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
