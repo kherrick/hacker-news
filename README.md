@@ -4,7 +4,6 @@
 * [2023-12-23, 22:59:31](https://news.ycombinator.com/item?id=38749155) - [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
 * [2023-12-23, 22:31:27](https://news.ycombinator.com/item?id=38748943) - [GM halts sales of its new Chevy Blazer EV amid reports of major software issues](https://www.engadget.com/gm-halts-sales-of-its-new-chevy-blazer-ev-amid-reports-of-major-software-issues-214225984.html)
 * [2023-12-23, 21:33:01](https://news.ycombinator.com/item?id=38748433) - [How does a B-tree make queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
-* [2023-12-23, 21:27:56](https://news.ycombinator.com/item?id=38748401) - [AI as Algorithmic Thatcherism](https://danmcquillan.org/ai_thatcherism.html)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (3rd Edition)](https://artofelectronics.net/)
 * [2023-12-23, 21:11:40](https://news.ycombinator.com/item?id=38748280) - [Circl Unveils Festive Nostalgic Initiatives – Gopher Protocol and BBS Revival](https://www.circl.lu/pub/tr-567d30/)
 * [2023-12-23, 20:52:55](https://news.ycombinator.com/item?id=38748120) - [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
@@ -29,6 +28,7 @@
 * [2023-12-22, 09:32:29](https://news.ycombinator.com/item?id=38732545) - [Telavar's Mysterious Sosaria (2000)](http://surfing.net/ultima/)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory safety is necessary, not sufficient](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 13:16:12](https://news.ycombinator.com/item?id=38720036) - [My reference was dropped, why is the compiler complaining about multiple borrow](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
+* [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software Audio Routers](https://danmackinlay.name/notebook/audio_routers.html)
 * [2023-12-20, 19:50:19](https://news.ycombinator.com/item?id=38712798) - [The End of Enlightenment: Empire, Commerce, Crisis](https://www.historytoday.com/archive/review/end-enlightenment-richard-whatmore-review)
 
 ## [Archives](archives/index.md)
