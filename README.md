@@ -7,7 +7,7 @@
 * [2023-12-23, 19:15:35](https://news.ycombinator.com/item?id=38747151) - [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
 * [2023-12-23, 18:54:20](https://news.ycombinator.com/item?id=38746926) - [First Images of Spaceship Neptune's Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
 * [2023-12-23, 18:10:53](https://news.ycombinator.com/item?id=38746478) - [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
-* [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
+* [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary (2005)](http://www.bbsdocumentary.com/)
 * [2023-12-23, 17:42:46](https://news.ycombinator.com/item?id=38746187) - [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
