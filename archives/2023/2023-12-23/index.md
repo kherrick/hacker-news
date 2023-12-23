@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
 * [2023-12-23, 09:48:19](https://news.ycombinator.com/item?id=38742954) - [Europe has a wolf problem, and a late Norwegian philosopher had the solution](https://theconversation.com/europe-has-a-wolf-problem-and-a-late-norwegian-philosopher-had-the-solution-220113)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
