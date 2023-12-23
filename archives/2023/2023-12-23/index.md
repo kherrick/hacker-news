@@ -10,6 +10,7 @@
 * [2023-12-23, 14:42:07](https://news.ycombinator.com/item?id=38744531) - [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
 * [2023-12-23, 14:30:53](https://news.ycombinator.com/item?id=38744444) - [Sudan Is on the Brink of a New Catastrophe](https://www.fairobserver.com/world-news/sudan-is-on-the-brink-of-a-new-catastrophe/)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
+* [2023-12-23, 14:10:33](https://news.ycombinator.com/item?id=38744319) - [I Stopped Cosmonauts from Carrying Guns (2014)](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
 * [2023-12-23, 13:47:07](https://news.ycombinator.com/item?id=38744197) - [Why do poor people commit more crime?](https://marginalrevolution.com/marginalrevolution/2023/12/why-do-wealthier-people-commit-less-crime.html)
 * [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
