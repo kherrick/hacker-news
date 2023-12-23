@@ -13,6 +13,7 @@
 * [2023-12-20, 22:40:14](https://news.ycombinator.com/item?id=38714607) - [How to Escape a Container](https://www.panoptica.app/research/7-ways-to-escape-a-container)
 * [2023-12-20, 21:32:53](https://news.ycombinator.com/item?id=38713927) - [Text-to-CAD](https://zoo.dev/blog/introducing-text-to-cad)
 * [2023-12-20, 21:25:21](https://news.ycombinator.com/item?id=38713844) - [Clear wants to scan your face at airports. Privacy experts are worried.](https://www.washingtonpost.com/travel/2023/12/20/clear-facial-recognition-technology-airport-security/)
+* [2023-12-20, 21:04:45](https://news.ycombinator.com/item?id=38713615) - [A Life in Wonderland (2018)](https://mountainjournal.org/story-232)
 * [2023-12-20, 21:00:33](https://news.ycombinator.com/item?id=38713578) - [TigerEye (YC S22) Is Hiring an Experienced Front End Engineer](https://jobs.ashbyhq.com/TigerEye/1dc43727-c2f8-4528-a5ac-7a875001f14f)
 * [2023-12-20, 20:26:43](https://news.ycombinator.com/item?id=38713167) - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)
 * [2023-12-20, 20:15:43](https://news.ycombinator.com/item?id=38713055) - [Null Island Tourist Shirt](https://github.com/yetzt/null-island)
