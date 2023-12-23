@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
+* [2023-12-23, 13:47:07](https://news.ycombinator.com/item?id=38744197) - [Why do poor people commit more crime?](https://marginalrevolution.com/marginalrevolution/2023/12/why-do-wealthier-people-commit-less-crime.html)
 * [2023-12-23, 13:37:52](https://news.ycombinator.com/item?id=38744138) - [Spare a Thought for Julian Assange Spending His Fifth Christmas Behind Bars](https://www.sydneycriminallawyers.com.au/blog/spare-a-thought-for-julian-assange-spending-his-fifth-christmas-behind-bars/)
 * [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
