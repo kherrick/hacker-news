@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 18:32:45](https://news.ycombinator.com/item?id=38746674) - [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
+* [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 * [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
+* [2023-12-23, 17:42:46](https://news.ycombinator.com/item?id=38746187) - [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model by Apple](https://github.com/apple/ml-ferret)
@@ -21,15 +24,12 @@
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
-* [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris (2017)](https://www.nand2tetris.org)
-* [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 12:50:18](https://news.ycombinator.com/item?id=38733617) - [Qsv: Efficient CSV CLI Toolkit](https://github.com/jqnatividad/qsv)
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
-* [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
-* [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
+* [2023-12-21, 13:16:12](https://news.ycombinator.com/item?id=38720036) - [My reference was dropped, why is the compiler complaining about multiple borrow](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 
 ## [Archives](archives/index.md)
 

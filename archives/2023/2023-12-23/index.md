@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 18:32:45](https://news.ycombinator.com/item?id=38746674) - [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
+* [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 * [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
+* [2023-12-23, 17:42:46](https://news.ycombinator.com/item?id=38746187) - [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)

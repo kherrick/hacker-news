@@ -77,6 +77,7 @@
 * [2023-12-21, 13:40:17](https://news.ycombinator.com/item?id=38720248) - [How Two Pharmacists Figured Out That Decongestants Don't Work](https://www.scientificamerican.com/article/how-two-pharmacists-figured-out-that-decongestants-dont-work/)
 * [2023-12-21, 13:38:32](https://news.ycombinator.com/item?id=38720226) - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
+* [2023-12-21, 13:16:12](https://news.ycombinator.com/item?id=38720036) - [My reference was dropped, why is the compiler complaining about multiple borrow](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police Get Medical Records Without a Warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with Finite-Difference](https://tastyhedge.com/blog/finite-difference-americans)
