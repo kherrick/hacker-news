@@ -7,6 +7,7 @@
 * [2023-12-20, 23:57:44](https://news.ycombinator.com/item?id=38715286) - [What It's Like to Be a Bee](https://press.princeton.edu/ideas/what-its-like-to-be-a-bee)
 * [2023-12-20, 23:51:38](https://news.ycombinator.com/item?id=38715230) - [Researchers uncover on/off switch for breast cancer metastasis](https://news.stanford.edu/2023/12/20/breast-cancer-metastasis-off-switch-revealed/)
 * [2023-12-20, 23:47:11](https://news.ycombinator.com/item?id=38715186) - [Even the Eyelashes: Review of \"Empires of the Dead\"](https://www.lrb.co.uk/the-paper/v46/n01/erin-l.-thompson/even-the-eyelashes)
+* [2023-12-20, 23:37:51](https://news.ycombinator.com/item?id=38715111) - [Uniqlo's Automated Self-Checkout](https://www.wsj.com/business/retail/uniqlo-self-checkout-rfid-holiday-shopping-fast-retailing-c4287e2f)
 * [2023-12-20, 23:07:17](https://news.ycombinator.com/item?id=38714855) - [NRF retracts its assertion that organized retail crime led to 50% of losses](https://stateline.org/2023/12/19/smash-and-grab-robberies-fuel-new-laws-but-critics-question-the-need/)
 * [2023-12-20, 22:46:35](https://news.ycombinator.com/item?id=38714674) - [iMessage Key Verification](https://support.apple.com/en-gb/HT213465)
 * [2023-12-20, 22:44:00](https://news.ycombinator.com/item?id=38714650) - [Rolex fined $100M for preventing its watches being sold online](https://usa.watchpro.com/rolex-fined-100-million-for-preventing-its-watches-being-sold-online/)
