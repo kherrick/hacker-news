@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 16:18:22](https://news.ycombinator.com/item?id=38745331) - [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
 * [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
-* [2023-12-23, 14:10:33](https://news.ycombinator.com/item?id=38744319) - [I stopped cosmonauts from carrying guns (2014)](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral found under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
 * [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding every byte in a WASM module](https://danielmangum.com/posts/every-byte-wasm-module/)
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)

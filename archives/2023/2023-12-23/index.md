@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 16:18:22](https://news.ycombinator.com/item?id=38745331) - [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
 * [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
 * [2023-12-23, 14:52:19](https://news.ycombinator.com/item?id=38744612) - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
