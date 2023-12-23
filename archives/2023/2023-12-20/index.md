@@ -102,6 +102,7 @@
 * [2023-12-20, 07:38:11](https://news.ycombinator.com/item?id=38706299) - [I'm open-sourcing my game engine](https://github.com/moddio/moddio2)
 * [2023-12-20, 07:11:49](https://news.ycombinator.com/item?id=38706190) - [Show HN: A Website to Turn Your Apple Notes into Blogs](https://quotion.co/)
 * [2023-12-20, 07:06:37](https://news.ycombinator.com/item?id=38706167) - [Ask HN: Who needs holiday help? (Follow up thread)](https://news.ycombinator.com/item?id=38706167)
+* [2023-12-20, 06:40:02](https://news.ycombinator.com/item?id=38706072) - [Mercedes Gets Approval for Turquoise Automated Driving Lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
 * [2023-12-20, 05:26:52](https://news.ycombinator.com/item?id=38705747) - [Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
 * [2023-12-20, 04:44:54](https://news.ycombinator.com/item?id=38705535) - [Show HN: I built an open source AI video search engine to learn more about AI](https://avse.vercel.app)
 * [2023-12-20, 04:17:53](https://news.ycombinator.com/item?id=38705399) - [Hn.js](https://news.ycombinator.com/hn.js)

@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
-* [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
+* [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 * [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
-* [2023-12-23, 09:21:14](https://news.ycombinator.com/item?id=38742818) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch report](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:49:22](https://news.ycombinator.com/item?id=38742679) - [How to Become a Great Software Engineer](https://newsletter.techworld-with-milan.com/p/how-to-become-a-great-software-engineer)
@@ -28,6 +27,7 @@
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 11:57:22](https://news.ycombinator.com/item?id=38707655) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
+* [2023-12-20, 06:40:02](https://news.ycombinator.com/item?id=38706072) - [Mercedes Gets Approval for Turquoise Automated Driving Lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
 * [2023-12-19, 13:50:30](https://news.ycombinator.com/item?id=38695478) - [SVD Image Compression](https://dmicz.github.io/machine-learning/svd-image-compression/)
 * [2023-12-19, 13:29:40](https://news.ycombinator.com/item?id=38695258) - [The art of slide design: Maximise signal, minimise noise](https://www.seckington.com/the-art-of-slide-design-maximise-signal-minimise-noise/)
 
