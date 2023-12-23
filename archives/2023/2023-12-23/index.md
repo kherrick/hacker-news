@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)
 * [2023-12-23, 05:36:22](https://news.ycombinator.com/item?id=38741905) - [Scammers Are Ruining Facebook Marketplace](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)

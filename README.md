@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 03:17:20](https://news.ycombinator.com/item?id=38741315) - [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
@@ -9,7 +10,6 @@
 * [2023-12-22, 21:50:48](https://news.ycombinator.com/item?id=38739086) - [Shein forces Amazon to lower seller fees](https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google is apparently struggling to contain an ongoing spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
-* [2023-12-22, 19:00:22](https://news.ycombinator.com/item?id=38737326) - [Show HN: Zaranova – A game where you must pretend you are an AI](https://zaranova.xyz/)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris (2017)](https://www.nand2tetris.org)
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
