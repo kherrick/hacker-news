@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 20:49:43](https://news.ycombinator.com/item?id=38748087) - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
 * [2023-12-23, 20:13:57](https://news.ycombinator.com/item?id=38747733) - [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
 * [2023-12-23, 19:49:56](https://news.ycombinator.com/item?id=38747482) - [Beeper Mini is now open-source](https://github.com/beeper/imessage)
