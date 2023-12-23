@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 16:50:06](https://news.ycombinator.com/item?id=38745605) - [The end of Windows 10 support could turn 240M PCs into e-waste](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste)
