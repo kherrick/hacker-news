@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)

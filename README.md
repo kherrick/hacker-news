@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 * [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
@@ -16,7 +17,6 @@
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 13:51:57](https://news.ycombinator.com/item?id=38734106) - [Celebrating the first NES Tetris game crash](https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/)
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
-* [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
 * [2023-12-22, 11:46:22](https://news.ycombinator.com/item?id=38733264) - [Cyberrunner – robot playing Labyrinth board game](https://www.cyberrunner.ai/)
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
