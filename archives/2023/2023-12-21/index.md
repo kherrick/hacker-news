@@ -78,6 +78,7 @@
 * [2023-12-21, 13:10:17](https://news.ycombinator.com/item?id=38719971) - [GitHub Snakes SVG](https://github.com/Platane/snk)
 * [2023-12-21, 13:05:02](https://news.ycombinator.com/item?id=38719918) - [Police Get Medical Records Without a Warrant](https://arstechnica.com/science/2023/12/cvs-rite-aid-walgreens-hand-out-medical-records-to-cops-without-warrants/)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with Finite-Difference](https://tastyhedge.com/blog/finite-difference-americans)
+* [2023-12-21, 12:45:09](https://news.ycombinator.com/item?id=38719766) - [Eigensolutions: Composability as the Antidote to Overfit](https://lea.verou.me/blog/2023/eigensolutions/?latest)
 * [2023-12-21, 12:41:57](https://news.ycombinator.com/item?id=38719736) - [US homelessness up 12% from 2022, hits highest level since 2007](https://blobstreaming.org/us-homelessness-up-12-to-highest-reported-level-as-rents-soar-and-coronavirus-pandemic-aid-lapses/)
 * [2023-12-21, 12:38:36](https://news.ycombinator.com/item?id=38719694) - [X Gives Security Warning on Swedish Newspapers Tesla Critical Article](https://twitter.com/safety/unsafe_link_warning)
 * [2023-12-21, 12:32:39](https://news.ycombinator.com/item?id=38719644) - [iPhone thief explains how he breaks into phones [video]](https://www.youtube.com/watch?v=gi96HKr2vo8)
