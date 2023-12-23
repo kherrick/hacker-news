@@ -66,6 +66,7 @@
 * [2023-12-22, 13:12:12](https://news.ycombinator.com/item?id=38733784) - [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:29:45](https://news.ycombinator.com/item?id=38733499) - [New bill to bar wealthy colleges in the US from accepting federal student loans](https://www.theatlantic.com/ideas/archive/2023/12/threat-diversity-elite-colleges-affirmative-action-student-loans/676356/)
+* [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 12:20:19](https://news.ycombinator.com/item?id=38733440) - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
 * [2023-12-22, 12:12:28](https://news.ycombinator.com/item?id=38733396) - [The Richest Countries in 2023](https://www.economist.com/graphic-detail/2023/12/15/the-worlds-richest-countries-in-2023)
 * [2023-12-22, 12:09:27](https://news.ycombinator.com/item?id=38733384) - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
