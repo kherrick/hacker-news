@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 16:19:49",
+      "https://news.ycombinator.com/item?id=38745348"
+    ],
+    [
+      "Ferret: An End-to-End MLLM by Apple",
+      "https://github.com/apple/ml-ferret"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 16:18:22",
       "https://news.ycombinator.com/item?id=38745331"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-12-23, 14:22:18",
+      "https://news.ycombinator.com/item?id=38744395"
+    ],
+    [
+      "Iowa state researchers claim Lk-99 really is a superconductor",
+      "https://pubs.acs.org/doi/10.1021/acs.jpcc.3c06709"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 14:07:26",
       "https://news.ycombinator.com/item?id=38744296"
     ],
     [
       "2,300-year-old mosaic made of shells and coral found under Rome",
       "https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 13:51:17",
+      "https://news.ycombinator.com/item?id=38744224"
+    ],
+    [
+      "Indexing a Billion Pages",
+      "https://blog.mwmbl.org/articles/indexing-a-billion/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-12-23, 09:46:13",
-      "https://news.ycombinator.com/item?id=38742942"
-    ],
-    [
-      "Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy",
-      "https://4dmodeller.github.io/fdmr/"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 08:52:29",
       "https://news.ycombinator.com/item?id=38742694"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-12-22, 13:51:57",
-      "https://news.ycombinator.com/item?id=38734106"
-    ],
-    [
-      "Celebrating the first NES Tetris game crash",
-      "https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 12:21:21",
       "https://news.ycombinator.com/item?id=38733446"
     ],
@@ -257,16 +267,6 @@
     [
       "eBPF Networking Techniques – Packet Redirection",
       "https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 12:45:09",
-      "https://news.ycombinator.com/item?id=38719766"
-    ],
-    [
-      "Eigensolutions: Composability as the Antidote to Overfit",
-      "https://lea.verou.me/blog/2023/eigensolutions/?latest"
     ]
   ],
   [
