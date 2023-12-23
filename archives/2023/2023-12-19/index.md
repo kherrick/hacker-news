@@ -80,6 +80,7 @@
 * [2023-12-19, 13:56:19](https://news.ycombinator.com/item?id=38695533) - [Firefox 121 defaults to Wayland on Linux](https://www.omgubuntu.co.uk/2023/12/firefox-121-released-now-defaults-to-wayland-on-linux)
 * [2023-12-19, 13:52:00](https://news.ycombinator.com/item?id=38695500) - [It Sure Looks Like Phones Are Making Students Dumber](https://www.theatlantic.com/ideas/archive/2023/12/cell-phones-student-test-scores-dropping/676889/)
 * [2023-12-19, 13:51:47](https://news.ycombinator.com/item?id=38695496) - [In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors](https://spectrum.ieee.org/intel-20a)
+* [2023-12-19, 13:50:30](https://news.ycombinator.com/item?id=38695478) - [SVD Image Compression](https://dmicz.github.io/machine-learning/svd-image-compression/)
 * [2023-12-19, 13:48:19](https://news.ycombinator.com/item?id=38695456) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 13:48:11](https://news.ycombinator.com/item?id=38695453) - [Application Traffic with eBPF](https://thebsdbox.co.uk/2023/12/08/Application-traffic-with-eBPF/)
 * [2023-12-19, 13:40:23](https://news.ycombinator.com/item?id=38695377) - [Blogging Like a Hacker (2008)](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker)
