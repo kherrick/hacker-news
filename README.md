@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-23, 18:44:22](https://news.ycombinator.com/item?id=38746814) - [Tesla recalls over 120k cars over door risks](https://www.cnn.com/2023/12/23/economy/tesla-recall-door-defect/index.html)
-* [2023-12-23, 18:32:45](https://news.ycombinator.com/item?id=38746674) - [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
 * [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 * [2023-12-23, 18:10:53](https://news.ycombinator.com/item?id=38746478) - [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
 * [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
@@ -25,9 +23,11 @@
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+* [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris (2017)](https://www.nand2tetris.org)
 * [2023-12-22, 12:50:18](https://news.ycombinator.com/item?id=38733617) - [Qsv: Efficient CSV CLI Toolkit](https://github.com/jqnatividad/qsv)
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
+* [2023-12-21, 21:02:24](https://news.ycombinator.com/item?id=38726898) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
 * [2023-12-21, 13:16:12](https://news.ycombinator.com/item?id=38720036) - [My reference was dropped, why is the compiler complaining about multiple borrow](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 
