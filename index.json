@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-23, 07:21:18",
-      "https://news.ycombinator.com/item?id=38742324"
-    ],
-    [
-      "Detecting FTL with LIGO",
-      "https://blog.georgovassilis.com/2023/12/23/detecting-ftl-travel-with-ligo/"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 04:06:42",
       "https://news.ycombinator.com/item?id=38741536"
     ],
@@ -217,6 +207,16 @@
     [
       "Aura FPGA: The Replacement of YM2151",
       "https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 08:40:48",
+      "https://news.ycombinator.com/item?id=38732254"
+    ],
+    [
+      "Gooey: My take on a Rusty GUI framework",
+      "https://ecton.dev/introducing-gooey/"
     ]
   ],
   [
