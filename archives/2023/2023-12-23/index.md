@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
+* [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
+* [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids](https://www.qfbox.info/4d/johnson)
 * [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)

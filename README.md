@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
+* [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
+* [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids](https://www.qfbox.info/4d/johnson)
 * [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
-* [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
@@ -12,7 +14,6 @@
 * [2023-12-23, 03:17:20](https://news.ycombinator.com/item?id=38741315) - [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
 * [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 * [2023-12-22, 21:50:48](https://news.ycombinator.com/item?id=38739086) - [Shein forces Amazon to lower seller fees](https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees)
-* [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google is apparently struggling to contain an ongoing spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris (2017)](https://www.nand2tetris.org)
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 13:51:57](https://news.ycombinator.com/item?id=38734106) - [Celebrating the first NES Tetris game crash](https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/)
@@ -29,7 +30,6 @@
 * [2023-12-20, 11:57:22](https://news.ycombinator.com/item?id=38707655) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
 * [2023-12-20, 06:40:02](https://news.ycombinator.com/item?id=38706072) - [Mercedes Gets Approval for Turquoise Automated Driving Lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
 * [2023-12-19, 13:50:30](https://news.ycombinator.com/item?id=38695478) - [SVD Image Compression](https://dmicz.github.io/machine-learning/svd-image-compression/)
-* [2023-12-19, 13:29:40](https://news.ycombinator.com/item?id=38695258) - [The art of slide design: Maximise signal, minimise noise](https://www.seckington.com/the-art-of-slide-design-maximise-signal-minimise-noise/)
 
 ## [Archives](archives/index.md)
 
