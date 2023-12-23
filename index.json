@@ -1,22 +1,32 @@
 [
   [
     [
-      "2023-12-23, 00:08:58",
-      "https://news.ycombinator.com/item?id=38740280"
+      "2023-12-23, 00:44:40",
+      "https://news.ycombinator.com/item?id=38740544"
     ],
     [
-      "Using Sequences of Life-Events to Predict Human Lives",
-      "https://arxiv.org/abs/2306.03009"
+      "Researchers discover neuronal biomarkers of schizophrenia in the blood",
+      "https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood"
     ]
   ],
   [
     [
-      "2023-12-22, 23:33:52",
-      "https://news.ycombinator.com/item?id=38739953"
+      "2023-12-23, 00:25:48",
+      "https://news.ycombinator.com/item?id=38740417"
     ],
     [
-      "Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show",
-      "https://futurism.com/tesla-flaws-failures-blame-drivers"
+      "New York Gov. Kathy Hochul to Reject Ban on Noncompete Agreements",
+      "https://www.wsj.com/us-news/law/new-york-gov-kathy-hochul-to-reject-ban-on-noncompete-agreements-3f0eb7d4"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 00:08:58",
+      "https://news.ycombinator.com/item?id=38740280"
+    ],
+    [
+      "Using sequences of life-events to predict human lives",
+      "https://arxiv.org/abs/2306.03009"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38739563"
     ],
     [
-      "How Big Is YouTube?",
+      "How big is YouTube?",
       "https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/"
     ]
   ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-12-22, 12:00:04",
-      "https://news.ycombinator.com/item?id=38733332"
+      "2023-12-22, 11:34:36",
+      "https://news.ycombinator.com/item?id=38733208"
     ],
     [
-      "Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers",
-      "https://sievedata.com/about/jobs"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 10:27:35",
-      "https://news.ycombinator.com/item?id=38732862"
-    ],
-    [
-      "Do I need to get out the soldering iron again? (2018)",
-      "https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 10:12:08",
-      "https://news.ycombinator.com/item?id=38732770"
-    ],
-    [
-      "A clickjacking vulnerability in WhatsApp that enables phishing attacks",
-      "https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/"
+      "Visualizing expert firing frequencies in Mixtral MoE",
+      "https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Logical Replication from Postgres 16 Stand-By Servers",
       "https://www.decodable.co/blog/logical-replication-from-postgres-16-stand-by-servers-part-1-of-2"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 21:04:45",
+      "https://news.ycombinator.com/item?id=38713615"
+    ],
+    [
+      "A Life in Wonderland (2018)",
+      "https://mountainjournal.org/story-232"
     ]
   ],
   [
