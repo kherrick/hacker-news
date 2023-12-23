@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
 * [2023-12-23, 09:48:19](https://news.ycombinator.com/item?id=38742954) - [Europe has a wolf problem, and a late Norwegian philosopher had the solution](https://theconversation.com/europe-has-a-wolf-problem-and-a-late-norwegian-philosopher-had-the-solution-220113)
+* [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
 * [2023-12-23, 09:21:14](https://news.ycombinator.com/item?id=38742818) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch report](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:49:22](https://news.ycombinator.com/item?id=38742679) - [How to Become a Great Software Engineer](https://newsletter.techworld-with-milan.com/p/how-to-become-a-great-software-engineer)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+* [2023-12-23, 07:21:18](https://news.ycombinator.com/item?id=38742324) - [Detecting FTL with LIGO](https://blog.georgovassilis.com/2023/12/23/detecting-ftl-travel-with-ligo/)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)
 * [2023-12-23, 05:36:22](https://news.ycombinator.com/item?id=38741905) - [Scammers Are Ruining Facebook Marketplace](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
