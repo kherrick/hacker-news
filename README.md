@@ -6,6 +6,7 @@
 * [2023-12-23, 16:16:54](https://news.ycombinator.com/item?id=38745315) - [Show HN: Talk Paper Scissors](https://talkpaperscissors.com/)
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
 * [2023-12-23, 15:17:09](https://news.ycombinator.com/item?id=38744791) - [Termdbms – A TUI for viewing and editing database files](https://github.com/mathaou/termdbms)
+* [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians Moving from Defense to Offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral found under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
@@ -23,13 +24,12 @@
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 12:50:18](https://news.ycombinator.com/item?id=38733617) - [Qsv: Efficient CSV CLI Toolkit](https://github.com/jqnatividad/qsv)
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
+* [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
-* [2023-12-21, 21:02:24](https://news.ycombinator.com/item?id=38726898) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
-* [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
+* [2023-12-21, 12:45:09](https://news.ycombinator.com/item?id=38719766) - [Eigensolutions: Composability as the Antidote to Overfit](https://lea.verou.me/blog/2023/eigensolutions/?latest)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
-* [2023-12-20, 06:40:02](https://news.ycombinator.com/item?id=38706072) - [Mercedes gets approval for turquoise automated driving lights](https://jalopnik.com/mercedes-turquoise-automated-driving-lights-level-3-1851110043)
 
 ## [Archives](archives/index.md)
 
