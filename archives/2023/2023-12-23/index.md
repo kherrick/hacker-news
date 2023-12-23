@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
+* [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)

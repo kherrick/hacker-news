@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
+* [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
@@ -9,7 +11,6 @@
 * [2023-12-22, 21:56:37](https://news.ycombinator.com/item?id=38739130) - [Posts, profiles, and user search are now available without login](https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x)
 * [2023-12-22, 21:50:48](https://news.ycombinator.com/item?id=38739086) - [Shein forces Amazon to lower seller fees](https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees)
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google is apparently struggling to contain an ongoing spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
-* [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris (2017)](https://www.nand2tetris.org)
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
@@ -20,7 +21,6 @@
 * [2023-12-22, 11:46:22](https://news.ycombinator.com/item?id=38733264) - [Cyberrunner – robot playing Labyrinth board game](https://www.cyberrunner.ai/)
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
-* [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
 * [2023-12-21, 12:45:09](https://news.ycombinator.com/item?id=38719766) - [Eigensolutions: Composability as the Antidote to Overfit](https://lea.verou.me/blog/2023/eigensolutions/?latest)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
