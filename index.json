@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-12-22, 23:16:42",
-      "https://news.ycombinator.com/item?id=38739790"
+      "2023-12-23, 00:08:58",
+      "https://news.ycombinator.com/item?id=38740280"
     ],
     [
-      "Scientists have 20-minute \"conversation\" with a humpback whale named Twain",
-      "https://www.earth.com/news/scientists-have-20-minute-conversation-with-a-humpback-whale-named-twain/"
+      "Using Sequences of Life-Events to Predict Human Lives",
+      "https://arxiv.org/abs/2306.03009"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 23:33:52",
+      "https://news.ycombinator.com/item?id=38739953"
+    ],
+    [
+      "Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show",
+      "https://futurism.com/tesla-flaws-failures-blame-drivers"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 22:55:19",
+      "https://news.ycombinator.com/item?id=38739563"
+    ],
+    [
+      "How Big Is YouTube?",
+      "https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/"
     ]
   ],
   [
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=38739130"
     ],
     [
-      "Bluesky makes web view public, login no longer required to read posts",
+      "Posts, profiles, and user search are now available without login",
       "https://bsky.app/profile/bsky.app/post/3kh5rbndrjd2x"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 21:44:40",
+      "https://news.ycombinator.com/item?id=38739033"
+    ],
+    [
+      "Watching the World",
+      "https://webcamaze.engineering.zhaw.ch/watchingtheworld/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "WebGPU now available for testing in Safari Technology Preview",
       "https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 17:36:55",
-      "https://news.ycombinator.com/item?id=38736525"
-    ],
-    [
-      "3500 arrested in global cybercrime crackdown",
-      "https://www.scmagazine.com/news/3500-arrested-300m-seized-in-global-cybercrime-crackdown"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-12-22, 11:34:36",
-      "https://news.ycombinator.com/item?id=38733208"
-    ],
-    [
-      "Visualizing expert firing frequencies in Mixtral MoE",
-      "https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 10:27:35",
       "https://news.ycombinator.com/item?id=38732862"
     ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2023-12-22, 10:01:41",
-      "https://news.ycombinator.com/item?id=38732713"
-    ],
-    [
-      "TextDiffuser-2: Unleashing the power of language models for text rendering",
-      "https://jingyechen.github.io/textdiffuser2/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 09:32:07",
       "https://news.ycombinator.com/item?id=38732542"
     ],
     [
       "Mindustry: Open-source automation tower defense game",
       "https://mindustrygame.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 09:11:08",
-      "https://news.ycombinator.com/item?id=38732401"
-    ],
-    [
-      "Maze Generator",
-      "https://mazegenerator.net/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Restored 478-key, 31-tone Moog synthesizer from 1968",
       "https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 13:50:30",
+      "https://news.ycombinator.com/item?id=38695478"
+    ],
+    [
+      "SVD Image Compression",
+      "https://dmicz.github.io/machine-learning/svd-image-compression/"
     ]
   ]
 ]
