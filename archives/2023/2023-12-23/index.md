@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They Want You to Forget What a Film Looks Like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 03:47:07](https://news.ycombinator.com/item?id=38741450) - [Banksy referencing Gaza taken from London street](https://www.abc.net.au/news/2023-12-23/banksy-stop-sign-artwork-taken-from-london-street/103261392)
 * [2023-12-23, 00:44:40](https://news.ycombinator.com/item?id=38740544) - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 * [2023-12-23, 00:25:48](https://news.ycombinator.com/item?id=38740417) - [New York Gov. Kathy Hochul to Reject Ban on Noncompete Agreements](https://www.wsj.com/us-news/law/new-york-gov-kathy-hochul-to-reject-ban-on-noncompete-agreements-3f0eb7d4)
