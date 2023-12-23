@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 19:49:56](https://news.ycombinator.com/item?id=38747482) - [Beeper Mini is now open-source](https://github.com/beeper/imessage)
 * [2023-12-23, 18:54:20](https://news.ycombinator.com/item?id=38746926) - [First Images of Spaceship Neptune's Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
-* [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 * [2023-12-23, 18:10:53](https://news.ycombinator.com/item?id=38746478) - [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
 * [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
 * [2023-12-23, 17:54:07](https://news.ycombinator.com/item?id=38746307) - [A one line code change inside iOS made me waste 5 minutes](https://blog.charliemeyer.co/a-one-line-code-change-inside-ios-wasted-me-5-minutes/)
