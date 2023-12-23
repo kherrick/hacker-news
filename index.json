@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-22, 22:12:25",
-      "https://news.ycombinator.com/item?id=38739259"
-    ],
-    [
-      "Seven Years of Factorio Friday Facts (2020)",
-      "https://spieswl.github.io/blog/2020/seven-years-of-factorio-friday-facts"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 22:03:04",
       "https://news.ycombinator.com/item?id=38739199"
     ],
@@ -81,21 +71,11 @@
   ],
   [
     [
-      "2023-12-22, 21:04:37",
-      "https://news.ycombinator.com/item?id=38738648"
-    ],
-    [
-      "2023: A year of groundbreaking advances in AI and computing",
-      "https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-in.html"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 21:00:21",
       "https://news.ycombinator.com/item?id=38738619"
     ],
     [
-      "Google search overwhelmed by spam attack",
+      "Google is apparently struggling to contain an ongoing spam attack",
       "https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/"
     ]
   ],
@@ -241,12 +221,22 @@
   ],
   [
     [
-      "2023-12-21, 13:40:33",
-      "https://news.ycombinator.com/item?id=38720249"
+      "2023-12-22, 11:50:57",
+      "https://news.ycombinator.com/item?id=38733282"
     ],
     [
-      "Verilog HDL and its ancestors and descendants [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/3386337"
+      "Ask HN: What's your \"it's not stupid if it works\" story?",
+      "https://news.ycombinator.com/item?id=38733282"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 20:36:10",
+      "https://news.ycombinator.com/item?id=38726533"
+    ],
+    [
+      "Wild Pigeon Chase",
+      "https://www.noemamag.com/wild-pigeon-chase/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Pricing Americans with finite-difference",
       "https://tastyhedge.com/blog/finite-difference-americans"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 11:20:02",
+      "https://news.ycombinator.com/item?id=38719126"
+    ],
+    [
+      "It's not always DNS, unless it is",
+      "https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38695258"
     ],
     [
-      "The Art of Slide Design: Maximise Signal, Minimise Noise",
+      "The art of slide design: Maximise signal, minimise noise",
       "https://www.seckington.com/the-art-of-slide-design-maximise-signal-minimise-noise/"
     ]
   ]
