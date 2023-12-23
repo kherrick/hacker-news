@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
 * [2023-12-23, 14:52:19](https://news.ycombinator.com/item?id=38744612) - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
+* [2023-12-23, 14:42:07](https://news.ycombinator.com/item?id=38744531) - [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
+* [2023-12-23, 14:30:53](https://news.ycombinator.com/item?id=38744444) - [Sudan Is on the Brink of a New Catastrophe](https://www.fairobserver.com/world-news/sudan-is-on-the-brink-of-a-new-catastrophe/)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
 * [2023-12-23, 13:47:07](https://news.ycombinator.com/item?id=38744197) - [Why do poor people commit more crime?](https://marginalrevolution.com/marginalrevolution/2023/12/why-do-wealthier-people-commit-less-crime.html)
