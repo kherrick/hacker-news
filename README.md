@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 04:21:49](https://news.ycombinator.com/item?id=38741606) - [Twitter violated contract by failing to pay millions in bonuses, US judge rules](https://www.reuters.com/legal/twitter-violated-contract-by-failing-pay-millions-bonuses-us-judge-rules-2023-12-23/)
 * [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They Want You to Forget What a Film Looks Like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 00:44:40](https://news.ycombinator.com/item?id=38740544) - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 * [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
@@ -24,7 +25,6 @@
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The Personal, Political Art of Board-Game Design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
-* [2023-12-21, 11:20:02](https://news.ycombinator.com/item?id=38719126) - [It's not always DNS, unless it is](https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
 * [2023-12-20, 11:57:22](https://news.ycombinator.com/item?id=38707655) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
