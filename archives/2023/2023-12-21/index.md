@@ -22,6 +22,7 @@
 * [2023-12-21, 21:01:11](https://news.ycombinator.com/item?id=38726883) - [Eqtble (YC W21) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/eqtble/jobs/uXrVcaj-full-stack-engineer)
 * [2023-12-21, 20:56:50](https://news.ycombinator.com/item?id=38726825) - [WinUAE 5.1.0](https://www.winuae.net/2023/12/08/winuae-5-1-0/)
 * [2023-12-21, 20:46:22](https://news.ycombinator.com/item?id=38726683) - [In the Shadow of the Holocaust](https://www.newyorker.com/news/the-weekend-essay/in-the-shadow-of-the-holocaust)
+* [2023-12-21, 20:36:10](https://news.ycombinator.com/item?id=38726533) - [Wild Pigeon Chase](https://www.noemamag.com/wild-pigeon-chase/)
 * [2023-12-21, 20:26:39](https://news.ycombinator.com/item?id=38726389) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.sl.html)
 * [2023-12-21, 20:25:35](https://news.ycombinator.com/item?id=38726370) - [YAML, Python and the Holy Graal](https://yamlscript.org/posts/advent-2023/dec-21/)
 * [2023-12-21, 20:13:09](https://news.ycombinator.com/item?id=38726182) - [Show HN: Local fine tuning for Mistral and SDXL, GPU mem/latency optimization](https://docs.helix.ml/docs/overview)
