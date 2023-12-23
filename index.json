@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-22, 18:34:53",
-      "https://news.ycombinator.com/item?id=38737028"
-    ],
-    [
-      "WebGPU now available for testing in Safari Technology Preview",
-      "https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 17:28:51",
       "https://news.ycombinator.com/item?id=38736419"
     ],
@@ -217,6 +207,16 @@
     [
       "ArXiv now offers papers in HTML format",
       "https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 13:18:30",
+      "https://news.ycombinator.com/item?id=38720057"
+    ],
+    [
+      "eBPF Networking Techniques – Packet Redirection",
+      "https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/"
     ]
   ],
   [
