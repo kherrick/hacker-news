@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 05:36:22](https://news.ycombinator.com/item?id=38741905) - [Scammers Are Ruining Facebook Marketplace](https://www.wired.com/story/zelle-scammers-are-ruining-facebook-marketplace/)
 * [2023-12-23, 04:21:49](https://news.ycombinator.com/item?id=38741606) - [Twitter violated contract by failing to pay millions in bonuses, US judge rules](https://www.reuters.com/legal/twitter-violated-contract-by-failing-pay-millions-bonuses-us-judge-rules-2023-12-23/)
 * [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They Want You to Forget What a Film Looks Like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 03:47:07](https://news.ycombinator.com/item?id=38741450) - [Banksy referencing Gaza taken from London street](https://www.abc.net.au/news/2023-12-23/banksy-stop-sign-artwork-taken-from-london-street/103261392)
