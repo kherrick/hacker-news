@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 18:54:20](https://news.ycombinator.com/item?id=38746926) - [First Images of Spaceship Neptune's Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
 * [2023-12-23, 18:44:22](https://news.ycombinator.com/item?id=38746814) - [Tesla recalls over 120k cars over door risks](https://www.cnn.com/2023/12/23/economy/tesla-recall-door-defect/index.html)
 * [2023-12-23, 18:32:45](https://news.ycombinator.com/item?id=38746674) - [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
 * [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)

@@ -117,6 +117,7 @@
 * [2023-12-21, 07:09:04](https://news.ycombinator.com/item?id=38717873) - [Code Is Not Technical Debt](https://gavinhoward.com/2023/12/code-is-not-technical-debt/)
 * [2023-12-21, 06:40:10](https://news.ycombinator.com/item?id=38717725) - [Welcome to Apache OpenDAL](https://opendal.apache.org/docs/overview/)
 * [2023-12-21, 06:36:17](https://news.ycombinator.com/item?id=38717692) - [X: All Tweets Disappeared](https://twitter.com/)
+* [2023-12-21, 05:47:10](https://news.ycombinator.com/item?id=38717378) - [Postcards from Elizabeth Bishop](https://www.theparisreview.org/blog/2023/11/27/postcards-from-elizabeth-bishop/)
 * [2023-12-21, 05:44:05](https://news.ycombinator.com/item?id=38717367) - [Is Twitter/X Down](https://twitter.com/home)
 * [2023-12-21, 05:12:08](https://news.ycombinator.com/item?id=38717214) - [Craftsmanship](https://www.mwiya.com/craftsmanship/)
 * [2023-12-21, 04:48:20](https://news.ycombinator.com/item?id=38717114) - [Show HN: Talk to any ArXiv paper just by changing the URL](https://github.com/evanhu1/talk2arxiv)
