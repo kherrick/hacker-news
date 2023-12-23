@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 14:52:19](https://news.ycombinator.com/item?id=38744612) - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
 * [2023-12-23, 13:47:07](https://news.ycombinator.com/item?id=38744197) - [Why do poor people commit more crime?](https://marginalrevolution.com/marginalrevolution/2023/12/why-do-wealthier-people-commit-less-crime.html)
+* [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
 * [2023-12-23, 13:37:52](https://news.ycombinator.com/item?id=38744138) - [Spare a Thought for Julian Assange Spending His Fifth Christmas Behind Bars](https://www.sydneycriminallawyers.com.au/blog/spare-a-thought-for-julian-assange-spending-his-fifth-christmas-behind-bars/)
 * [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
 * [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids](https://www.qfbox.info/4d/johnson)
 * [2023-12-23, 12:40:40](https://news.ycombinator.com/item?id=38743822) - [Story-driven adventure set in a hard sci-fi world by Stanisław Lem](https://store.steampowered.com/app/731040/The_Invincible/)
+* [2023-12-23, 12:24:14](https://news.ycombinator.com/item?id=38743719) - [Suno AI](https://www.suno.ai/)
+* [2023-12-23, 12:24:03](https://news.ycombinator.com/item?id=38743718) - [Repeat complex ideas back to people (\"two phase commit\" for humans)](https://roughlywritten.substack.com/p/let-me-repeat-that-back-to-you)
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
