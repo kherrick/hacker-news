@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-23, 16:18:22",
-      "https://news.ycombinator.com/item?id=38745331"
-    ],
-    [
-      "Whatever happened to the zero waste movement?",
-      "https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 16:16:54",
       "https://news.ycombinator.com/item?id=38745315"
     ],
@@ -57,6 +47,16 @@
     [
       "Otter, Fastest Go in-memory cache based on S3-FIFO algorithm",
       "https://github.com/maypok86/otter"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 15:17:09",
+      "https://news.ycombinator.com/item?id=38744791"
+    ],
+    [
+      "Termdbms – A TUI for viewing and editing database files",
+      "https://github.com/mathaou/termdbms"
     ]
   ],
   [
