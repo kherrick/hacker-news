@@ -101,12 +101,32 @@
   ],
   [
     [
+      "2023-12-22, 20:41:05",
+      "https://news.ycombinator.com/item?id=38738431"
+    ],
+    [
+      "How I made a 3D Modeler in C",
+      "https://twitter.com/DanielcHooper/status/1737541489985483075"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 19:37:57",
       "https://news.ycombinator.com/item?id=38737747"
     ],
     [
       "The persistence of tradition: the curious case of Henry Symeonis",
       "https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 19:00:22",
+      "https://news.ycombinator.com/item?id=38737326"
+    ],
+    [
+      "Show HN: Zaranova – A game where you must pretend you are an AI",
+      "https://zaranova.xyz/"
     ]
   ],
   [
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2023-12-22, 13:51:57",
+      "https://news.ycombinator.com/item?id=38734106"
+    ],
+    [
+      "Celebrating the first NES Tetris game crash",
+      "https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 13:33:51",
       "https://news.ycombinator.com/item?id=38733968"
     ],
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2023-12-22, 12:00:04",
-      "https://news.ycombinator.com/item?id=38733332"
-    ],
-    [
-      "Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers",
-      "https://sievedata.com/about/jobs"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 09:32:07",
-      "https://news.ycombinator.com/item?id=38732542"
-    ],
-    [
-      "Mindustry: Open-source automation tower defense game",
-      "https://mindustrygame.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 13:40:33",
       "https://news.ycombinator.com/item?id=38720249"
     ],
@@ -247,26 +257,6 @@
     [
       "Pricing Americans with finite-difference",
       "https://tastyhedge.com/blog/finite-difference-americans"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 11:20:02",
-      "https://news.ycombinator.com/item?id=38719126"
-    ],
-    [
-      "It's not always DNS, unless it is",
-      "https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 21:04:45",
-      "https://news.ycombinator.com/item?id=38713615"
-    ],
-    [
-      "A Life in Wonderland (2018)",
-      "https://mountainjournal.org/story-232"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "SVD Image Compression",
       "https://dmicz.github.io/machine-learning/svd-image-compression/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 13:29:40",
+      "https://news.ycombinator.com/item?id=38695258"
+    ],
+    [
+      "The Art of Slide Design: Maximise Signal, Minimise Noise",
+      "https://www.seckington.com/the-art-of-slide-design-maximise-signal-minimise-noise/"
     ]
   ]
 ]
