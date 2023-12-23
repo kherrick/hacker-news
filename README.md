@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
+* [2023-12-23, 20:13:57](https://news.ycombinator.com/item?id=38747733) - [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
 * [2023-12-23, 19:49:56](https://news.ycombinator.com/item?id=38747482) - [Beeper Mini is now open-source](https://github.com/beeper/imessage)
-* [2023-12-23, 19:19:19](https://news.ycombinator.com/item?id=38747191) - [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
+* [2023-12-23, 19:15:35](https://news.ycombinator.com/item?id=38747151) - [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
 * [2023-12-23, 18:54:20](https://news.ycombinator.com/item?id=38746926) - [First Images of Spaceship Neptune's Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
 * [2023-12-23, 18:10:53](https://news.ycombinator.com/item?id=38746478) - [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
@@ -15,7 +16,6 @@
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
 * [2023-12-23, 15:17:09](https://news.ycombinator.com/item?id=38744791) - [Termdbms – A TUI for viewing and editing database files](https://github.com/mathaou/termdbms)
 * [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians Moving from Defense to Offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
-* [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral found under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
 * [2023-12-23, 13:51:17](https://news.ycombinator.com/item?id=38744224) - [Indexing a Billion Pages](https://blog.mwmbl.org/articles/indexing-a-billion/)
 * [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding every byte in a WASM module](https://danielmangum.com/posts/every-byte-wasm-module/)
 * [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids (2019)](https://www.qfbox.info/4d/johnson)
