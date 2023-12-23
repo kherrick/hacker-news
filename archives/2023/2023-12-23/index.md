@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
+* [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
@@ -14,6 +16,7 @@
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
 * [2023-12-23, 15:17:09](https://news.ycombinator.com/item?id=38744791) - [Termdbms – A TUI for viewing and editing database files](https://github.com/mathaou/termdbms)
 * [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
+* [2023-12-23, 15:14:10](https://news.ycombinator.com/item?id=38744771) - [Tech Hubs Are Losing the Talent War to Everywhere Else](https://www.wsj.com/tech/personal-tech/smaller-tech-hubs-rise-of-the-rest-6c2b142f)
 * [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
 * [2023-12-23, 14:52:19](https://news.ycombinator.com/item?id=38744612) - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
 * [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians Moving from Defense to Offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
