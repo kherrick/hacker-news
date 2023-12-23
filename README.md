@@ -23,7 +23,7 @@
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
 * [2023-12-22, 11:46:22](https://news.ycombinator.com/item?id=38733264) - [Cyberrunner – robot playing Labyrinth board game](https://www.cyberrunner.ai/)
-* [2023-12-21, 20:36:10](https://news.ycombinator.com/item?id=38726533) - [Wild Pigeon Chase](https://www.noemamag.com/wild-pigeon-chase/)
+* [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
