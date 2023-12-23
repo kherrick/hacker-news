@@ -92,6 +92,7 @@
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
+* [2023-12-22, 06:11:47](https://news.ycombinator.com/item?id=38731448) - [Dutch storm surge barrier closes automatically](https://www.paudal.com/2023/12/21/maeslantkering-automatically-closed-for-the-first-time-due-to-high-water-domestic/)
 * [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 * [2023-12-22, 04:34:37](https://news.ycombinator.com/item?id=38730966) - [FreeBasic](https://www.freebasic.net/)

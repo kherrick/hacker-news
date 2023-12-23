@@ -20,7 +20,7 @@
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
-* [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
+* [2023-12-22, 06:11:47](https://news.ycombinator.com/item?id=38731448) - [Dutch storm surge barrier closes automatically](https://www.paudal.com/2023/12/21/maeslantkering-automatically-closed-for-the-first-time-due-to-high-water-domestic/)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
 * [2023-12-21, 12:45:09](https://news.ycombinator.com/item?id=38719766) - [Eigensolutions: Composability as the Antidote to Overfit](https://lea.verou.me/blog/2023/eigensolutions/?latest)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
