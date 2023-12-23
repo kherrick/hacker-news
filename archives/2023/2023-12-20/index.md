@@ -22,6 +22,7 @@
 * [2023-12-20, 19:58:42](https://news.ycombinator.com/item?id=38712892) - [The military transformation of medieval Europe: Stirrups vs. social cohesion](https://www.benlandautaylor.com/p/the-military-transformation-of-medieval)
 * [2023-12-20, 19:57:48](https://news.ycombinator.com/item?id=38712883) - [Jeff Bezos lessons on building business value](https://lockedinspace.com/posts/002.html)
 * [2023-12-20, 19:50:24](https://news.ycombinator.com/item?id=38712802) - [Mistral 7B Fine-Tune Optimized](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
+* [2023-12-20, 19:50:19](https://news.ycombinator.com/item?id=38712798) - ['The End of Enlightenment' by Richard Whatmore Review](https://www.historytoday.com/archive/review/end-enlightenment-richard-whatmore-review)
 * [2023-12-20, 19:44:27](https://news.ycombinator.com/item?id=38712734) - [Tesla blamed drivers for failures of parts it long knew were defective](https://www.reuters.com/world/tesla-blamed-drivers-failures-parts-it-long-knew-were-defective-2023-12-20/)
 * [2023-12-20, 19:25:16](https://news.ycombinator.com/item?id=38712521) - [AI Developer working on your repo](https://github.com/e2b-dev/e2b-cookbook/tree/main/guides/ai-github-developer-py)
 * [2023-12-20, 19:05:11](https://news.ycombinator.com/item?id=38712326) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](https://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
