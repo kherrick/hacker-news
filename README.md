@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-23, 04:21:49](https://news.ycombinator.com/item?id=38741606) - [Twitter violated contract by failing to pay millions in bonuses, US judge rules](https://www.reuters.com/legal/twitter-violated-contract-by-failing-pay-millions-bonuses-us-judge-rules-2023-12-23/)
-* [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They Want You to Forget What a Film Looks Like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
+* [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 00:44:40](https://news.ycombinator.com/item?id=38740544) - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 * [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 * [2023-12-22, 22:03:04](https://news.ycombinator.com/item?id=38739199) - [Groqchat](https://chat.groq.com/)
@@ -11,6 +10,7 @@
 * [2023-12-22, 21:00:21](https://news.ycombinator.com/item?id=38738619) - [Google is apparently struggling to contain an ongoing spam attack](https://www.searchenginejournal.com/google-search-overwhelmed-by-massive-spam-attack/504527/)
 * [2023-12-22, 19:37:57](https://news.ycombinator.com/item?id=38737747) - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/)
 * [2023-12-22, 19:00:22](https://news.ycombinator.com/item?id=38737326) - [Show HN: Zaranova – A game where you must pretend you are an AI](https://zaranova.xyz/)
+* [2023-12-22, 18:34:53](https://news.ycombinator.com/item?id=38737028) - [WebGPU now available for testing in Safari Technology Preview](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
 * [2023-12-22, 17:28:51](https://news.ycombinator.com/item?id=38736419) - [Ohio gives historical status to building that once housed CompuServe](https://news.wosu.org/2023-12-21/ohio-gives-historical-status-to-building-that-once-housed-internet-service-pioneer-compuserve)
 * [2023-12-22, 16:57:22](https://news.ycombinator.com/item?id=38736054) - [SymbOS Z80 multitasking operating system](http://www.symbos.de/)
 * [2023-12-22, 16:29:27](https://news.ycombinator.com/item?id=38735725) - [Schrödinger equation emerges mathematically from classical mechanics (2012)](https://www.researchgate.net/publication/241778960_A_Pseudo-Quantum_Triad_Schrodinger%27s_Equation_the_Uncertainty_Principle_and_the_Heisenberg_Group)
