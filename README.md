@@ -22,7 +22,7 @@
 * [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
 * [2023-12-22, 11:46:22](https://news.ycombinator.com/item?id=38733264) - [Cyberrunner – robot playing Labyrinth board game](https://www.cyberrunner.ai/)
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
-* [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
+* [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
 * [2023-12-20, 23:37:51](https://news.ycombinator.com/item?id=38715111) - [Uniqlo's Automated Self-Checkout](https://www.wsj.com/business/retail/uniqlo-self-checkout-rfid-holiday-shopping-fast-retailing-c4287e2f)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
