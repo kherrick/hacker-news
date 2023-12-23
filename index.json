@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-23, 21:33:01",
+      "https://news.ycombinator.com/item?id=38748433"
+    ],
+    [
+      "How does B-tree make your queries fast?",
+      "https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 21:23:59",
       "https://news.ycombinator.com/item?id=38748370"
     ],
     [
       "The Art of Electronics (3rd Edition)",
       "https://artofelectronics.net/"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 20:52:55",
+      "https://news.ycombinator.com/item?id=38748120"
+    ],
+    [
+      "Par: Paragraph reformatter, vaguely similar to fmt, but better",
+      "http://www.nicemice.net/par/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Xmas.c, winner of the 1988 International Obfuscated C Code Contest",
       "https://udel.edu/~mm/xmas/"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 16:53:52",
-      "https://news.ycombinator.com/item?id=38745637"
-    ],
-    [
-      "Bug Story: Sorting by Timestamp",
-      "https://adam-p.ca/blog/2023/12/sort-by-timestamp/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Qsv: Efficient CSV CLI Toolkit",
       "https://github.com/jqnatividad/qsv"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 12:21:21",
-      "https://news.ycombinator.com/item?id=38733446"
-    ],
-    [
-      "How to Build a Windmill (2012)",
-      "https://jacquesmattheij.com/how-to-build-a-windmill/"
     ]
   ],
   [
