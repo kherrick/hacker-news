@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 17:23:47",
+      "https://news.ycombinator.com/item?id=38745970"
+    ],
+    [
+      "Quantum Computing's Hard, Cold Reality Check",
+      "https://spectrum.ieee.org/quantum-computing-skeptics"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 16:56:46",
       "https://news.ycombinator.com/item?id=38745668"
     ],
@@ -47,16 +57,6 @@
     [
       "Otter, Fastest Go in-memory cache based on S3-FIFO algorithm",
       "https://github.com/maypok86/otter"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 15:16:05",
-      "https://news.ycombinator.com/item?id=38744785"
-    ],
-    [
-      "AI companies required to disclose copyrighted training data under new bill",
-      "https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-12-22, 12:50:18",
+      "https://news.ycombinator.com/item?id=38733617"
+    ],
+    [
+      "Qsv: Efficient CSV CLI Toolkit",
+      "https://github.com/jqnatividad/qsv"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 12:21:21",
       "https://news.ycombinator.com/item?id=38733446"
     ],
     [
       "How to Build a Windmill (2012)",
       "https://jacquesmattheij.com/how-to-build-a-windmill/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 09:21:12",
-      "https://news.ycombinator.com/item?id=38732466"
-    ],
-    [
-      "Aura FPGA: The Replacement of YM2151",
-      "https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/"
     ]
   ],
   [
