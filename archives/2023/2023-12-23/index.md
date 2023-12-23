@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 13:37:52](https://news.ycombinator.com/item?id=38744138) - [Spare a Thought for Julian Assange Spending His Fifth Christmas Behind Bars](https://www.sydneycriminallawyers.com.au/blog/spare-a-thought-for-julian-assange-spending-his-fifth-christmas-behind-bars/)
 * [2023-12-23, 13:18:50](https://news.ycombinator.com/item?id=38744050) - [Paul Biggar removed from CircleCI board for pro-Palestine blog post](https://hachyderm.io/@paulbiggar/111627367674590120)
 * [2023-12-23, 13:13:41](https://news.ycombinator.com/item?id=38744021) - [\"King of the Cannibals\": How Sam Altman Took over Silicon Valley](https://www.washingtonpost.com/technology/2023/12/23/sam-altman-openai-peter-thiel-silicon-valley/)
 * [2023-12-23, 12:48:56](https://news.ycombinator.com/item?id=38743867) - [The Johnson Solids](https://www.qfbox.info/4d/johnson)
