@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 20:15:25",
+      "https://news.ycombinator.com/item?id=38747747"
+    ],
+    [
+      "Cummins pickup truck engines systematically tricked air pollution controls",
+      "https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 19:49:56",
       "https://news.ycombinator.com/item?id=38747482"
     ],
@@ -37,16 +47,6 @@
     [
       "Show HN: Open-source superhuman like email client",
       "https://github.com/curdinc/skylar-email"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 18:08:30",
-      "https://news.ycombinator.com/item?id=38746460"
-    ],
-    [
-      "Rumble Turns Off Access in Brazil Because of Government's Censorship Demands",
-      "https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-12-23, 12:24:03",
-      "https://news.ycombinator.com/item?id=38743718"
-    ],
-    [
-      "Let me repeat that back to you",
-      "https://roughlywritten.substack.com/p/let-me-repeat-that-back-to-you"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 12:00:48",
       "https://news.ycombinator.com/item?id=38743588"
     ],
@@ -287,6 +277,16 @@
     [
       "eBPF Networking Techniques – Packet Redirection",
       "https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 13:16:12",
+      "https://news.ycombinator.com/item?id=38720036"
+    ],
+    [
+      "My reference was dropped, why is the compiler complaining about multiple borrow",
+      "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
     ]
   ],
   [
