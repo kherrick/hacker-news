@@ -75,6 +75,7 @@
 * [2023-12-22, 11:55:17](https://news.ycombinator.com/item?id=38733307) - [Anthropocene traps that challenge global sustainability](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0261)
 * [2023-12-22, 11:50:57](https://news.ycombinator.com/item?id=38733282) - [Ask HN: What's your \"it's not stupid if it works\" story?](https://news.ycombinator.com/item?id=38733282)
 * [2023-12-22, 11:50:41](https://news.ycombinator.com/item?id=38733280) - [Are you smarter than an LLM?](https://d.erenrich.net/are-you-smarter-than-an-llm/index.html)
+* [2023-12-22, 11:46:22](https://news.ycombinator.com/item?id=38733264) - [Cyberrunner – robot playing Labyrinth board game](https://www.cyberrunner.ai/)
 * [2023-12-22, 11:42:04](https://news.ycombinator.com/item?id=38733241) - [Lost history of Antarctica revealed in octopus DNA](https://www.science.org/content/article/lost-history-antarctica-revealed-octopus-dna)
 * [2023-12-22, 11:34:36](https://news.ycombinator.com/item?id=38733208) - [Visualize Mixtral Moe](https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/)
 * [2023-12-22, 11:23:19](https://news.ycombinator.com/item?id=38733154) - [Challenges with Unsupervised LLM Knowledge Discovery](https://www.lesswrong.com/posts/wtfvbsYjNHYYBmT3k/discussion-challenges-with-unsupervised-llm-knowledge-1)
