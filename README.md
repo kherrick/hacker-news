@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
 * [2023-12-23, 14:52:19](https://news.ycombinator.com/item?id=38744612) - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
 * [2023-12-23, 14:42:07](https://news.ycombinator.com/item?id=38744531) - [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
@@ -16,7 +17,6 @@
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
-* [2023-12-23, 03:17:20](https://news.ycombinator.com/item?id=38741315) - [Is Tetr.io Legal?](https://blog.osk.sh/post.php?p=643dbb578e1ba3.57021842)
 * [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 * [2023-12-22, 21:44:40](https://news.ycombinator.com/item?id=38739033) - [Watching the world](https://webcamaze.engineering.zhaw.ch/watchingtheworld/)
 * [2023-12-22, 13:59:03](https://news.ycombinator.com/item?id=38734164) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
@@ -24,7 +24,7 @@
 * [2023-12-22, 12:21:21](https://news.ycombinator.com/item?id=38733446) - [How to Build a Windmill (2012)](https://jacquesmattheij.com/how-to-build-a-windmill/)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 08:40:48](https://news.ycombinator.com/item?id=38732254) - [Gooey: My take on a Rusty GUI framework](https://ecton.dev/introducing-gooey/)
-* [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
+* [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-21, 13:18:30](https://news.ycombinator.com/item?id=38720057) - [eBPF Networking Techniques – Packet Redirection](https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
