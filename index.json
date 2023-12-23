@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-23, 18:32:45",
+      "https://news.ycombinator.com/item?id=38746674"
+    ],
+    [
+      "Why Gibiru attempts to take the canvas image data of my browser?",
+      "https://gibiru.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 18:32:04",
+      "https://news.ycombinator.com/item?id=38746664"
+    ],
+    [
+      "Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks",
+      "https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 18:08:30",
       "https://news.ycombinator.com/item?id=38746460"
     ],
@@ -17,6 +37,16 @@
     [
       "BBS: The Documentary",
       "http://www.bbsdocumentary.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 17:42:46",
+      "https://news.ycombinator.com/item?id=38746187"
+    ],
+    [
+      "In 2023 Organic Maps got its first million users",
+      "https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2023-12-22, 22:55:19",
-      "https://news.ycombinator.com/item?id=38739563"
-    ],
-    [
-      "How big is YouTube?",
-      "https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 15:31:59",
       "https://news.ycombinator.com/item?id=38735066"
     ],
     [
       "From Nand to Tetris (2017)",
       "https://www.nand2tetris.org"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 13:59:03",
-      "https://news.ycombinator.com/item?id=38734164"
-    ],
-    [
-      "LED Industrial Piercing",
-      "https://mitxela.com/projects/scaffold"
     ]
   ],
   [
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2023-12-22, 08:24:32",
-      "https://news.ycombinator.com/item?id=38732160"
-    ],
-    [
-      "Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore",
-      "https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore"
-    ]
-  ],
-  [
-    [
       "2023-12-21, 13:18:30",
       "https://news.ycombinator.com/item?id=38720057"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-20, 16:20:59",
-      "https://news.ycombinator.com/item?id=38710318"
+      "2023-12-21, 13:16:12",
+      "https://news.ycombinator.com/item?id=38720036"
     ],
     [
-      "Most 16-year-olds don't have servers in their rooms",
-      "https://varun.ch/server"
+      "My reference was dropped, why is the compiler complaining about multiple borrow",
+      "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
     ]
   ]
 ]
