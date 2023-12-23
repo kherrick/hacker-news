@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, report claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
+* [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c, winner of the 1988 International Obfuscated C Code Contest](https://udel.edu/~mm/xmas/)
+* [2023-12-23, 16:50:06](https://news.ycombinator.com/item?id=38745605) - [The end of Windows 10 support could turn 240M PCs into e-waste](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste)
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: An End-to-End MLLM by Apple](https://github.com/apple/ml-ferret)
 * [2023-12-23, 16:18:22](https://news.ycombinator.com/item?id=38745331) - [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
+* [2023-12-23, 16:16:54](https://news.ycombinator.com/item?id=38745315) - [Show HN: Talk Paper Scissors](https://talkpaperscissors.com/)
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
 * [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
