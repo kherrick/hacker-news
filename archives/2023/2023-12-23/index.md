@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: An End-to-End MLLM by Apple](https://github.com/apple/ml-ferret)
 * [2023-12-23, 16:18:22](https://news.ycombinator.com/item?id=38745331) - [Whatever happened to the zero waste movement?](https://www.nationalgeographic.com/environment/article/zero-waste-movement-plastic-straw-bans-evolution)
 * [2023-12-23, 15:16:05](https://news.ycombinator.com/item?id=38744785) - [AI companies required to disclose copyrighted training data under new bill](https://www.theverge.com/2023/12/22/24012757/ai-foundation-model-transparency-act-bill-copyright-regulation)
 * [2023-12-23, 15:00:50](https://news.ycombinator.com/item?id=38744664) - [Verizon Once Again Gives Out Sensitive Wireless Subscriber Information to Anyone](https://www.techdirt.com/2023/12/22/verizon-once-again-busted-handing-out-sensitive-wireless-subscriber-information-to-any-nitwit-who-asks-for-it/)
@@ -12,8 +13,10 @@
 * [2023-12-23, 14:42:07](https://news.ycombinator.com/item?id=38744531) - [Polar bear fur-inspired sweater is thinner than a down jacket – and just as warm](https://www.nature.com/articles/d41586-023-04145-5)
 * [2023-12-23, 14:30:53](https://news.ycombinator.com/item?id=38744444) - [Sudan Is on the Brink of a New Catastrophe](https://www.fairobserver.com/world-news/sudan-is-on-the-brink-of-a-new-catastrophe/)
 * [2023-12-23, 14:25:56](https://news.ycombinator.com/item?id=38744414) - [The unfortunate math behind consulting companies (2011)](https://longform.asmartbear.com/consulting-company-accounting/)
+* [2023-12-23, 14:22:18](https://news.ycombinator.com/item?id=38744395) - [Iowa state researchers claim Lk-99 really is a superconductor](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c06709)
 * [2023-12-23, 14:10:33](https://news.ycombinator.com/item?id=38744319) - [I Stopped Cosmonauts from Carrying Guns (2014)](https://spectrum.ieee.org/how-i-stop-cosmonauts-carrying-guns)
 * [2023-12-23, 14:07:26](https://news.ycombinator.com/item?id=38744296) - [2,300-year-old mosaic made of shells and coral has been found buried under Rome](https://www.cnn.com/style/rome-palatine-hill-archaeology-discovery/index.html)
+* [2023-12-23, 13:51:17](https://news.ycombinator.com/item?id=38744224) - [Indexing a Billion Pages](https://blog.mwmbl.org/articles/indexing-a-billion/)
 * [2023-12-23, 13:47:07](https://news.ycombinator.com/item?id=38744197) - [Why do poor people commit more crime?](https://marginalrevolution.com/marginalrevolution/2023/12/why-do-wealthier-people-commit-less-crime.html)
 * [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
 * [2023-12-23, 13:37:52](https://news.ycombinator.com/item?id=38744138) - [Spare a Thought for Julian Assange Spending His Fifth Christmas Behind Bars](https://www.sydneycriminallawyers.com.au/blog/spare-a-thought-for-julian-assange-spending-his-fifth-christmas-behind-bars/)
