@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-23, 00:25:48",
-      "https://news.ycombinator.com/item?id=38740417"
-    ],
-    [
-      "New York Gov. Kathy Hochul to Reject Ban on Noncompete Agreements",
-      "https://www.wsj.com/us-news/law/new-york-gov-kathy-hochul-to-reject-ban-on-noncompete-agreements-3f0eb7d4"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 00:08:58",
       "https://news.ycombinator.com/item?id=38740280"
     ],
@@ -71,11 +61,21 @@
   ],
   [
     [
+      "2023-12-22, 21:50:48",
+      "https://news.ycombinator.com/item?id=38739086"
+    ],
+    [
+      "Shein forces Amazon to lower seller fees",
+      "https://www.marketplacepulse.com/articles/shein-forces-amazon-to-lower-seller-fees"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 21:44:40",
       "https://news.ycombinator.com/item?id=38739033"
     ],
     [
-      "Watching the World",
+      "Watching the world",
       "https://webcamaze.engineering.zhaw.ch/watchingtheworld/"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-12-22, 13:59:03",
+      "https://news.ycombinator.com/item?id=38734164"
+    ],
+    [
+      "LED Industrial Piercing",
+      "https://mitxela.com/projects/scaffold"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 13:33:51",
       "https://news.ycombinator.com/item?id=38733968"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-12-22, 11:34:36",
-      "https://news.ycombinator.com/item?id=38733208"
+      "2023-12-22, 12:00:04",
+      "https://news.ycombinator.com/item?id=38733332"
     ],
     [
-      "Visualizing expert firing frequencies in Mixtral MoE",
-      "https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/"
+      "Sieve (YC W22), the video/audio AI cloud, is hiring ML infrastructure engineers",
+      "https://sievedata.com/about/jobs"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "It's not always DNS, unless it is",
       "https://medium.com/adevinta-tech-blog/its-not-always-dns-unless-it-is-16858df17d3f"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 07:41:28",
-      "https://news.ycombinator.com/item?id=38718013"
-    ],
-    [
-      "Logical Replication from Postgres 16 Stand-By Servers",
-      "https://www.decodable.co/blog/logical-replication-from-postgres-16-stand-by-servers-part-1-of-2"
     ]
   ],
   [
