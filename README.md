@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)
+* [2023-12-23, 05:00:19](https://news.ycombinator.com/item?id=38741746) - [Vancouver EV owner shares cautionary tale after car deemed 'total loss'](https://vancouver.citynews.ca/2023/12/11/hyundai-ev-battery-icbc-cost/)
 * [2023-12-23, 04:06:42](https://news.ycombinator.com/item?id=38741536) - [They want you to forget what a film looks like](https://aftermath.site/true-lies-4k-uhd-blu-ray-james-cameron-peter-jackson-park-road-post)
 * [2023-12-23, 00:44:40](https://news.ycombinator.com/item?id=38740544) - [Researchers discover neuronal biomarkers of schizophrenia in the blood](https://hmri.org.au/news-article/researchers-discover-neuronal-biomarkers-schizophrenia-blood)
 * [2023-12-22, 22:55:19](https://news.ycombinator.com/item?id=38739563) - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
@@ -22,9 +22,9 @@
 * [2023-12-22, 10:17:28](https://news.ycombinator.com/item?id=38732804) - [Enigmash Game](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
+* [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 * [2023-12-21, 12:55:00](https://news.ycombinator.com/item?id=38719843) - [Pricing Americans with finite-difference](https://tastyhedge.com/blog/finite-difference-americans)
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The personal, political art of board-game design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
-* [2023-12-20, 23:37:51](https://news.ycombinator.com/item?id=38715111) - [Uniqlo's Automated Self-Checkout](https://www.wsj.com/business/retail/uniqlo-self-checkout-rfid-holiday-shopping-fast-retailing-c4287e2f)
 * [2023-12-20, 16:20:59](https://news.ycombinator.com/item?id=38710318) - [Most 16-year-olds don't have servers in their rooms](https://varun.ch/server)
 * [2023-12-20, 12:24:32](https://news.ycombinator.com/item?id=38707847) - [Restored 478-key, 31-tone Moog synthesizer from 1968](https://arstechnica.com/gadgets/2023/12/restored-478-key-31-tone-moog-synthesizer-from-1968-sounds-beautifully-bizarre/)
 * [2023-12-20, 11:57:22](https://news.ycombinator.com/item?id=38707655) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
