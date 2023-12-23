@@ -9,6 +9,7 @@
 * [2023-12-23, 18:32:04](https://news.ycombinator.com/item?id=38746664) - [Cummins Fined $1.6B for Diesel Defeat Devices in 630K RAM Trucks](https://www.thedrive.com/news/cummins-fined-1-67-billion-for-diesel-defeat-devices-in-630000-ram-pickups)
 * [2023-12-23, 18:10:53](https://news.ycombinator.com/item?id=38746478) - [Show HN: Open-source superhuman like email client](https://github.com/curdinc/skylar-email)
 * [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble Turns Off Access in Brazil Because of Government's Censorship Demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
+* [2023-12-23, 17:54:07](https://news.ycombinator.com/item?id=38746307) - [A one line code change inside iOS made me waste 5 minutes](https://blog.charliemeyer.co/a-one-line-code-change-inside-ios-wasted-me-5-minutes/)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary](http://www.bbsdocumentary.com/)
 * [2023-12-23, 17:42:46](https://news.ycombinator.com/item?id=38746187) - [In 2023 Organic Maps got its first million users](https://organicmaps.app/news/2023-12-23/in-2023-organic-maps-got-its-first-million-users/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum Computing's Hard, Cold Reality Check](https://spectrum.ieee.org/quantum-computing-skeptics)
