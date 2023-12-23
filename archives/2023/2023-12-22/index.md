@@ -90,6 +90,7 @@
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
+* [2023-12-22, 08:40:48](https://news.ycombinator.com/item?id=38732254) - [Gooey: My take on a Rusty GUI framework](https://ecton.dev/introducing-gooey/)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
 * [2023-12-22, 06:11:47](https://news.ycombinator.com/item?id=38731448) - [Dutch storm surge barrier closes automatically](https://www.paudal.com/2023/12/21/maeslantkering-automatically-closed-for-the-first-time-due-to-high-water-domestic/)
