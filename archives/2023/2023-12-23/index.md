@@ -19,6 +19,7 @@
 * [2023-12-23, 20:49:43](https://news.ycombinator.com/item?id=38748087) - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
 * [2023-12-23, 20:13:57](https://news.ycombinator.com/item?id=38747733) - [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
+* [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 19:49:56](https://news.ycombinator.com/item?id=38747482) - [Beeper Mini is now open-source](https://github.com/beeper/imessage)
 * [2023-12-23, 19:19:19](https://news.ycombinator.com/item?id=38747191) - [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
 * [2023-12-23, 19:15:35](https://news.ycombinator.com/item?id=38747151) - [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)

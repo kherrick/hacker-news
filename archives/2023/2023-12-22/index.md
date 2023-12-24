@@ -100,6 +100,7 @@
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982) [pdf]](https://gwern.net/doc/cs/algorithm/1982-perlis.pdf)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
+* [2023-12-22, 07:32:31](https://news.ycombinator.com/item?id=38731862) - [A cartographer drew a freehand map of North America (2019)](https://www.atlasobscura.com/articles/north-america-big-map)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:11:47](https://news.ycombinator.com/item?id=38731448) - [Dutch storm surge barrier closes automatically](https://www.paudal.com/2023/12/21/maeslantkering-automatically-closed-for-the-first-time-due-to-high-water-domestic/)
 * [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [Actual SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
