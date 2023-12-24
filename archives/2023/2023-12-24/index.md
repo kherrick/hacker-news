@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
+* [2023-12-24, 17:54:36](https://news.ycombinator.com/item?id=38755180) - [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
 * [2023-12-24, 17:52:46](https://news.ycombinator.com/item?id=38755165) - [Sam Altman's Knack for Dodging Bullets–With a Little Help from Bigshot Friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
 * [2023-12-24, 17:23:40](https://news.ycombinator.com/item?id=38754949) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
