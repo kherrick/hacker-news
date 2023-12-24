@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 23:50:05](https://news.ycombinator.com/item?id=38749473) - [Ask yourself dumb questions – and answer them](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
+* [2023-12-23, 23:42:54](https://news.ycombinator.com/item?id=38749434) - [StreamDiffusion: Over 100fps Stable Diffusion on a 4090](https://github.com/cumulo-autumn/StreamDiffusion)
+* [2023-12-23, 23:40:28](https://news.ycombinator.com/item?id=38749417) - [Our Chevy Blazer EV Has 23 Problems After Only 2 Months](https://www.edmunds.com/car-news/2024-chevy-blazer-ev-long-term-faults.html)
 * [2023-12-23, 23:00:57](https://news.ycombinator.com/item?id=38749170) - [Crown Shyness](https://en.wikipedia.org/wiki/Crown_shyness)
 * [2023-12-23, 22:59:31](https://news.ycombinator.com/item?id=38749155) - [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
+* [2023-12-23, 22:45:41](https://news.ycombinator.com/item?id=38749057) - [Julia GPU-based ODE solver 20x-100x faster than those in Jax and PyTorch](https://arxiv.org/abs/2304.06835)
 * [2023-12-23, 22:31:27](https://news.ycombinator.com/item?id=38748943) - [GM halts sales of its new Chevy Blazer EV amid reports of major software issues](https://www.engadget.com/gm-halts-sales-of-its-new-chevy-blazer-ev-amid-reports-of-major-software-issues-214225984.html)
 * [2023-12-23, 21:33:01](https://news.ycombinator.com/item?id=38748433) - [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
 * [2023-12-23, 21:27:56](https://news.ycombinator.com/item?id=38748401) - [AI as Algorithmic Thatcherism](https://danmcquillan.org/ai_thatcherism.html)
