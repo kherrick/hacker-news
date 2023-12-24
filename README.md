@@ -2,7 +2,6 @@
 
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
-* [2023-12-24, 17:54:36](https://news.ycombinator.com/item?id=38755180) - [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
 * [2023-12-24, 17:52:46](https://news.ycombinator.com/item?id=38755165) - [Sam Altman's knack for dodging bullets with a little help from bigshot friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
 * [2023-12-24, 16:44:09](https://news.ycombinator.com/item?id=38754653) - [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
@@ -19,6 +18,7 @@
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
+* [2023-12-23, 23:50:05](https://news.ycombinator.com/item?id=38749473) - [Ask yourself dumb questions and answer them (2020)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 09:13:36](https://news.ycombinator.com/item?id=38742783) - [A further short history of the SI prefixes (2022)](https://iopscience.iop.org/article/10.1088/1681-7575/ac6afd)
