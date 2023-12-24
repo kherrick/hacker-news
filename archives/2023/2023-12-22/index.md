@@ -89,6 +89,7 @@
 * [2023-12-22, 10:14:25](https://news.ycombinator.com/item?id=38732781) - [NewPipe v0.26.0 Released](https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0)
 * [2023-12-22, 10:12:08](https://news.ycombinator.com/item?id=38732770) - [Don't Believe Your Eyes – A WhatsApp Clickjacking Vulnerability](https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/)
 * [2023-12-22, 10:10:42](https://news.ycombinator.com/item?id=38732760) - [Mistral 7B 4-bit quantization runs no problem on an 8GB M2](https://x.com/awnihannun/status/1738031136994181376)
+* [2023-12-22, 10:02:31](https://news.ycombinator.com/item?id=38732717) - [Mozilla sccache: ccache with cloud storage](https://github.com/mozilla/sccache)
 * [2023-12-22, 10:01:41](https://news.ycombinator.com/item?id=38732713) - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
 * [2023-12-22, 09:43:38](https://news.ycombinator.com/item?id=38732628) - [Darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-22, 09:32:29](https://news.ycombinator.com/item?id=38732545) - [Telavar's Mysterious Sosaria](http://surfing.net/ultima/)
