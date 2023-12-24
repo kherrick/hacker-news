@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 21:11:43](https://news.ycombinator.com/item?id=38756896) - [Half of US Buick dealers chose buyouts over selling EVs in 2023](https://electrek.co/2023/12/20/half-of-us-buick-dealers-chose-buyouts-over-selling-evs-in-2023/)
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
 * [2023-12-24, 21:00:13](https://news.ycombinator.com/item?id=38756798) - [Fedora 40 Plans To Unify /usr/bin and /usr/sbin](https://www.phoronix.com/news/Fedora-40-Unify-usr-bin-sbin)
 * [2023-12-24, 20:49:45](https://news.ycombinator.com/item?id=38756707) - [Intel's CEO says Moore's Law is slowing to a three-year cadence but not dead yet](https://www.tomshardware.com/tech-industry/semiconductors/intels-ceo-says-moores-law-is-slowing-to-a-three-year-cadence-but-its-not-dead-yet)

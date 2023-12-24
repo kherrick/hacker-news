@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 21:11:43](https://news.ycombinator.com/item?id=38756896) - [Half of US Buick dealers chose buyouts over selling EVs in 2023](https://electrek.co/2023/12/20/half-of-us-buick-dealers-chose-buyouts-over-selling-evs-in-2023/)
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
 * [2023-12-24, 21:00:13](https://news.ycombinator.com/item?id=38756798) - [Fedora 40 Plans To Unify /usr/bin and /usr/sbin](https://www.phoronix.com/news/Fedora-40-Unify-usr-bin-sbin)
 * [2023-12-24, 20:49:45](https://news.ycombinator.com/item?id=38756707) - [Intel's CEO says Moore's Law is slowing to a three-year cadence but not dead yet](https://www.tomshardware.com/tech-industry/semiconductors/intels-ceo-says-moores-law-is-slowing-to-a-three-year-cadence-but-its-not-dead-yet)
@@ -21,7 +22,6 @@
 * [2023-12-24, 11:06:43](https://news.ycombinator.com/item?id=38752691) - [Resetting the Timer in My Toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
-* [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 13:20:20](https://news.ycombinator.com/item?id=38733855) - [Objective-S](https://objective.st/About)
