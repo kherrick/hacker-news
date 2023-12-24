@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
@@ -21,14 +22,13 @@
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model](https://github.com/apple/ml-ferret)
 * [2023-12-23, 16:16:54](https://news.ycombinator.com/item?id=38745315) - [Show HN: Talk Paper Scissors](https://talkpaperscissors.com/)
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
-* [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians moving from defense to offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
 * [2023-12-23, 12:17:39](https://news.ycombinator.com/item?id=38743683) - [Network Science by Albert-László Barabási](http://networksciencebook.com/)
-* [2023-12-22, 13:12:18](https://news.ycombinator.com/item?id=38733785) - [Kids with chattier parents are more talkative, may have bigger vocabulary](https://www.science.org/content/article/kids-chattier-parents-are-more-talkative-may-have-bigger-vocabulary)
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory safety is necessary, not sufficient](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
+* [2023-12-21, 09:11:00](https://news.ycombinator.com/item?id=38718457) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
 * [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software audio routers](https://danmackinlay.name/notebook/audio_routers.html)
 
 ## [Archives](archives/index.md)
