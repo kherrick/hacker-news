@@ -63,6 +63,7 @@
 * [2023-12-22, 13:51:57](https://news.ycombinator.com/item?id=38734106) - [Celebrating the first NES Tetris game crash](https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/)
 * [2023-12-22, 13:38:53](https://news.ycombinator.com/item?id=38734008) - [Post-affirmative action,Asian Americans are stressed about college admissions](https://www.latimes.com/california/story/2023-11-26/post-affirmative-action-asian-american-students-stress-college-admissions)
 * [2023-12-22, 13:33:51](https://news.ycombinator.com/item?id=38733968) - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
+* [2023-12-22, 13:12:18](https://news.ycombinator.com/item?id=38733785) - [Kids with chattier parents are more talkative, may have bigger vocabulary](https://www.science.org/content/article/kids-chattier-parents-are-more-talkative-may-have-bigger-vocabulary)
 * [2023-12-22, 13:12:12](https://news.ycombinator.com/item?id=38733784) - [Midjourney v6](https://mid-journey.ai/midjourney-v6-release/)
 * [2023-12-22, 13:02:12](https://news.ycombinator.com/item?id=38733707) - [How to Install Windows 11 On A Device That Does Not Meet Windows 11 Requirements](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e)
 * [2023-12-22, 12:50:18](https://news.ycombinator.com/item?id=38733617) - [Qsv: Efficient CSV CLI Toolkit](https://github.com/jqnatividad/qsv)
