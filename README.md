@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 15:28:54](https://news.ycombinator.com/item?id=38754087) - [Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
 * [2023-12-24, 14:34:18](https://news.ycombinator.com/item?id=38753694) - [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
 * [2023-12-24, 14:12:23](https://news.ycombinator.com/item?id=38753567) - [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
-* [2023-12-24, 12:37:56](https://news.ycombinator.com/item?id=38753096) - [Heat pumps of the 1800s are becoming the technology of the future](https://knowablemagazine.org/content/article/technology/2023/heat-pumps-becoming-technology-future)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
