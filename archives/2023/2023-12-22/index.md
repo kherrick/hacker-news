@@ -97,6 +97,7 @@
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory Safety Is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:40:48](https://news.ycombinator.com/item?id=38732254) - [Gooey: My take on a Rusty GUI framework](https://ecton.dev/introducing-gooey/)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
+* [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982) [pdf]](https://gwern.net/doc/cs/algorithm/1982-perlis.pdf)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)

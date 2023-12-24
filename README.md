@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
+* [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
@@ -25,7 +25,7 @@
 * [2023-12-23, 12:17:39](https://news.ycombinator.com/item?id=38743683) - [Network Science by Albert-László Barabási](http://networksciencebook.com/)
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory safety is necessary, not sufficient](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
-* [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
+* [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982) [pdf]](https://gwern.net/doc/cs/algorithm/1982-perlis.pdf)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-21, 09:11:00](https://news.ycombinator.com/item?id=38718457) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
