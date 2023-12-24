@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 07:05:54](https://news.ycombinator.com/item?id=38751750) - [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
 * [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech](https://web.mit.edu/jmorzins/www/C-H-speech.html)
+* [2023-12-24, 05:41:46](https://news.ycombinator.com/item?id=38751427) - [Storyteller: Self-hosted platform to automatically sync ebooks and audiobooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-24, 04:35:22](https://news.ycombinator.com/item?id=38751167) - [I Just Need a Programmer](https://blobstreaming.org/i-just-need-a-programmer/)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
