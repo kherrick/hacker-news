@@ -26,7 +26,7 @@
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory safety is necessary, not sufficient](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
-* [2023-12-21, 21:02:24](https://news.ycombinator.com/item?id=38726898) - [The Hofmann Wobble: Wikipedia and the problem of historical memory](https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/)
+* [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-21, 11:52:40](https://news.ycombinator.com/item?id=38719346) - [Roll the Credits](https://cinemasojourns.com/2023/12/20/roll-the-credits/)
 * [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software audio routers](https://danmackinlay.name/notebook/audio_routers.html)
 * [2023-12-20, 19:50:19](https://news.ycombinator.com/item?id=38712798) - [The End of Enlightenment: Empire, Commerce, Crisis](https://www.historytoday.com/archive/review/end-enlightenment-richard-whatmore-review)

@@ -98,6 +98,7 @@
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 08:24:32](https://news.ycombinator.com/item?id=38732160) - [Visualize-Ing Air: Data, Icons, and Translations of Smog in Lahore](https://culanth.org/fieldsights/visualize-ing-air-data-icons-and-translations-of-smog-in-lahore)
 * [2023-12-22, 08:06:23](https://news.ycombinator.com/item?id=38732049) - [Rough.js: Create graphics with a hand-drawn, sketchy, appearance](https://roughjs.com/)
+* [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:11:47](https://news.ycombinator.com/item?id=38731448) - [Dutch storm surge barrier closes automatically](https://www.paudal.com/2023/12/21/maeslantkering-automatically-closed-for-the-first-time-due-to-high-water-domestic/)
 * [2023-12-22, 05:50:51](https://news.ycombinator.com/item?id=38731355) - [What We Need Instead of \"Web Components\"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 04:36:07](https://news.ycombinator.com/item?id=38730979) - [A structured note-taking app for personal use](https://github.com/penxio/penx)
