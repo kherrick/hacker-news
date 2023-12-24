@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-24, 13:08:01",
-      "https://news.ycombinator.com/item?id=38753229"
-    ],
-    [
-      "Should We Tell People It's Too Late to Save Civilization?",
-      "https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 12:29:18",
       "https://news.ycombinator.com/item?id=38753048"
     ],
@@ -171,22 +161,12 @@
   ],
   [
     [
-      "2023-12-23, 22:45:41",
-      "https://news.ycombinator.com/item?id=38749057"
+      "2023-12-23, 22:59:31",
+      "https://news.ycombinator.com/item?id=38749155"
     ],
     [
-      "Translation and accelerated solving of differential equations on GPU platforms",
-      "https://arxiv.org/abs/2304.06835"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 21:33:01",
-      "https://news.ycombinator.com/item?id=38748433"
-    ],
-    [
-      "How does a B-tree make queries fast?",
-      "https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html"
+      "NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill",
+      "https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill"
     ]
   ],
   [
@@ -221,22 +201,32 @@
   ],
   [
     [
+      "2023-12-23, 16:19:49",
+      "https://news.ycombinator.com/item?id=38745348"
+    ],
+    [
+      "Ferret: A Multimodal Large Language Model",
+      "https://github.com/apple/ml-ferret"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 08:03:59",
+      "https://news.ycombinator.com/item?id=38742505"
+    ],
+    [
+      "How the light gets in: a solstice at the border of life and death",
+      "https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 06:01:29",
       "https://news.ycombinator.com/item?id=38742021"
     ],
     [
       "Improving our safety with a physical quantities and units library",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 10:56:41",
-      "https://news.ycombinator.com/item?id=38733004"
-    ],
-    [
-      "IP over Spaghetti (2019)",
-      "https://github.com/peterheinrich/InternetOverSpaghetti"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2023-12-21, 19:02:01",
+      "https://news.ycombinator.com/item?id=38725117"
+    ],
+    [
+      "Commentary on Xunzi's \"Discourse on Heaven\"",
+      "https://alicemaz.substack.com/p/commentary-on-xunzis-discourse-on"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 10:28:18",
+      "https://news.ycombinator.com/item?id=38718857"
+    ],
+    [
+      "The mystery of the mimic plant (2022)",
+      "https://www.vox.com/down-to-earth/2022/11/30/23473062/plant-mimicry-boquila-trifoliolata"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 09:11:00",
       "https://news.ycombinator.com/item?id=38718457"
     ],
     [
       "Looking into the Stadia Controller Bluetooth Mode Website",
       "https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 07:10:00",
-      "https://news.ycombinator.com/item?id=38717878"
-    ],
-    [
-      "Software audio routers",
-      "https://danmackinlay.name/notebook/audio_routers.html"
     ]
   ]
 ]
