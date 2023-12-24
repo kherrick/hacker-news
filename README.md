@@ -2,6 +2,7 @@
 
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
 * [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America Lost the Chestnut, Its One Perfect Tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
+* [2023-12-24, 15:34:27](https://news.ycombinator.com/item?id=38754125) - [Show HN: I made a Fallout inspired PIP-Boy portfolio](https://purplecandy.github.io/kibibyte-pipboy/)
 * [2023-12-24, 15:28:54](https://news.ycombinator.com/item?id=38754087) - [Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
@@ -17,7 +18,6 @@
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-24, 02:08:13](https://news.ycombinator.com/item?id=38750411) - [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
 * [2023-12-23, 23:42:54](https://news.ycombinator.com/item?id=38749434) - [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
-* [2023-12-23, 23:00:57](https://news.ycombinator.com/item?id=38749170) - [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
