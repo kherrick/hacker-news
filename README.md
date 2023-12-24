@@ -2,6 +2,7 @@
 
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
+* [2023-12-24, 14:34:18](https://news.ycombinator.com/item?id=38753694) - [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
 * [2023-12-24, 14:12:23](https://news.ycombinator.com/item?id=38753567) - [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
 * [2023-12-24, 12:37:56](https://news.ycombinator.com/item?id=38753096) - [Heat pumps of the 1800s are becoming the technology of the future](https://knowablemagazine.org/content/article/technology/2023/heat-pumps-becoming-technology-future)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
@@ -20,7 +21,6 @@
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
-* [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model](https://github.com/apple/ml-ferret)
 * [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 10:21:37](https://news.ycombinator.com/item?id=38732825) - [Earthquakes make gold veins in an instant (2013)](https://www.nature.com/articles/nature.2013.12615)

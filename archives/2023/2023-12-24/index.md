@@ -6,6 +6,7 @@
 
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [Holcim launches Phoenix, the first-of-its-kind 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
+* [2023-12-24, 14:34:18](https://news.ycombinator.com/item?id=38753694) - [Germany hits 80 GW milestone](https://www.pv-magazine.com/2023/12/21/germany-hits-80-gw-milestone/)
 * [2023-12-24, 14:28:47](https://news.ycombinator.com/item?id=38753664) - [The End of Retirement](https://thewalrus.ca/the-end-of-retirement/)
 * [2023-12-24, 14:12:23](https://news.ycombinator.com/item?id=38753567) - [Dolphin-2_6-Phi-2](https://huggingface.co/cognitivecomputations/dolphin-2_6-phi-2)
 * [2023-12-24, 13:08:01](https://news.ycombinator.com/item?id=38753229) - [Should We Tell People It's Too Late to Save Civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
