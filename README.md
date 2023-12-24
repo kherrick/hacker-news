@@ -14,6 +14,7 @@
 * [2023-12-23, 21:33:01](https://news.ycombinator.com/item?id=38748433) - [How does a B-tree make queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:52:55](https://news.ycombinator.com/item?id=38748120) - [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
+* [2023-12-23, 18:08:30](https://news.ycombinator.com/item?id=38746460) - [Rumble turns off access in Brazil because of government's censorship demands](https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary (2005)](http://www.bbsdocumentary.com/)
 * [2023-12-23, 17:23:47](https://news.ycombinator.com/item?id=38745970) - [Quantum computing's reality check](https://spectrum.ieee.org/quantum-computing-skeptics)
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
@@ -28,7 +29,6 @@
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [Actual SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
-* [2023-12-21, 20:36:10](https://news.ycombinator.com/item?id=38726533) - [Wild Pigeon Chase](https://www.noemamag.com/wild-pigeon-chase/)
 * [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software audio routers](https://danmackinlay.name/notebook/audio_routers.html)
 
 ## [Archives](archives/index.md)
