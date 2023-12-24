@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 13:08:01](https://news.ycombinator.com/item?id=38753229) - [Should We Tell People It's Too Late to Save Civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
+* [2023-12-24, 11:06:43](https://news.ycombinator.com/item?id=38752691) - [Resetting the Timer in My Toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
 * [2023-12-24, 08:57:05](https://news.ycombinator.com/item?id=38752232) - [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
