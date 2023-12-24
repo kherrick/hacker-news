@@ -94,6 +94,7 @@
 * [2023-12-22, 09:43:38](https://news.ycombinator.com/item?id=38732628) - [Darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-22, 09:32:29](https://news.ycombinator.com/item?id=38732545) - [Telavar's Mysterious Sosaria](http://surfing.net/ultima/)
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
+* [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0 Released](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
 * [2023-12-22, 08:50:04](https://news.ycombinator.com/item?id=38732306) - [ABBA's virtual show raked in $323M in first year](https://www.reuters.com/lifestyle/abbas-virtual-show-boosts-londons-economy-tune-225-million-2023-12-21/)
