@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [Holcim launches Phoenix, the first-of-its-kind 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
+* [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
 * [2023-12-24, 14:28:47](https://news.ycombinator.com/item?id=38753664) - [The End of Retirement](https://thewalrus.ca/the-end-of-retirement/)
 * [2023-12-24, 13:08:01](https://news.ycombinator.com/item?id=38753229) - [Should We Tell People It's Too Late to Save Civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
 * [2023-12-24, 13:08:00](https://news.ycombinator.com/item?id=38753228) - [OpenAI in talks to raise new funding at $100B valuation](https://www.reuters.com/technology/openai-talks-raise-new-funding-100-bln-valuation-bloomberg-news-2023-12-22/)

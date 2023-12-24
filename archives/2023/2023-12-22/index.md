@@ -96,6 +96,7 @@
 * [2023-12-22, 09:32:07](https://news.ycombinator.com/item?id=38732542) - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 * [2023-12-22, 09:21:12](https://news.ycombinator.com/item?id=38732466) - [Aura FPGA: The Replacement of YM2151](https://www.jsykora.info/2023/11/aura-fpga-the-replacement-of-ym2151/)
 * [2023-12-22, 09:11:08](https://news.ycombinator.com/item?id=38732401) - [Maze Generator](https://mazegenerator.net/)
+* [2023-12-22, 08:50:04](https://news.ycombinator.com/item?id=38732306) - [ABBA's virtual show raked in $323M in first year](https://www.reuters.com/lifestyle/abbas-virtual-show-boosts-londons-economy-tune-225-million-2023-12-21/)
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory Safety Is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:40:48](https://news.ycombinator.com/item?id=38732254) - [Gooey: My take on a Rusty GUI framework](https://ecton.dev/introducing-gooey/)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming](https://cpsc.yale.edu/epigrams-programming)
