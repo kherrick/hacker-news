@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-24, 04:35:22](https://news.ycombinator.com/item?id=38751167) - [I Just Need a Programmer](https://blobstreaming.org/i-just-need-a-programmer/)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-24, 02:08:13](https://news.ycombinator.com/item?id=38750411) - [Can Microsoft Flight Simulator help me learn to fly (or make me a better pilot)?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
@@ -20,6 +19,7 @@
 * [2023-12-23, 16:57:00](https://news.ycombinator.com/item?id=38745673) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch claims](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model](https://github.com/apple/ml-ferret)
+* [2023-12-23, 16:16:54](https://news.ycombinator.com/item?id=38745315) - [Show HN: Talk Paper Scissors](https://talkpaperscissors.com/)
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
 * [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians moving from defense to offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
 * [2023-12-23, 12:17:39](https://news.ycombinator.com/item?id=38743683) - [Network Science by Albert-László Barabási](http://networksciencebook.com/)
