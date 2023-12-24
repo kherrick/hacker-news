@@ -2,6 +2,7 @@
 
 * [2023-12-24, 17:23:40](https://news.ycombinator.com/item?id=38754949) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
+* [2023-12-24, 16:44:09](https://news.ycombinator.com/item?id=38754653) - [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
 * [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America Lost the Chestnut, Its One Perfect Tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:34:27](https://news.ycombinator.com/item?id=38754125) - [Show HN: I made a Fallout inspired PIP-Boy portfolio](https://purplecandy.github.io/kibibyte-pipboy/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://informedinfrastructure.com/91930/holcim-launches-phoenix-the-first-of-its-kind-circular-3d-printed-concrete-bridge/)
@@ -16,7 +17,6 @@
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:08:13](https://news.ycombinator.com/item?id=38750411) - [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
-* [2023-12-23, 23:42:54](https://news.ycombinator.com/item?id=38749434) - [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
 * [2023-12-23, 23:00:57](https://news.ycombinator.com/item?id=38749170) - [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)

@@ -6,6 +6,7 @@
 
 * [2023-12-24, 17:23:40](https://news.ycombinator.com/item?id=38754949) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
+* [2023-12-24, 16:44:09](https://news.ycombinator.com/item?id=38754653) - [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
 * [2023-12-24, 16:37:26](https://news.ycombinator.com/item?id=38754584) - [Declinism](https://en.wikipedia.org/wiki/Declinism)
 * [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America Lost the Chestnut, Its One Perfect Tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:45:22](https://news.ycombinator.com/item?id=38754226) - [Stop the same song from autoplaying every time you plug your phone into a car](https://www.theverge.com/2017/8/13/16127392/car-smartphone-autoplay-apple-silent-song)
