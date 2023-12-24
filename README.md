@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-24, 13:08:01](https://news.ycombinator.com/item?id=38753229) - [Should We Tell People It's Too Late to Save Civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
+* [2023-12-24, 14:28:47](https://news.ycombinator.com/item?id=38753664) - [The End of Retirement](https://thewalrus.ca/the-end-of-retirement/)
+* [2023-12-24, 13:08:01](https://news.ycombinator.com/item?id=38753229) - [Should we tell people it's too late to save civilization?](https://www.collapsemusings.com/should-we-tell-people-its-too-late-to-save-civilization/)
 * [2023-12-24, 13:08:00](https://news.ycombinator.com/item?id=38753228) - [OpenAI in talks to raise new funding at $100B valuation](https://www.reuters.com/technology/openai-talks-raise-new-funding-100-bln-valuation-bloomberg-news-2023-12-22/)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
@@ -20,7 +21,6 @@
 * [2023-12-23, 23:00:57](https://news.ycombinator.com/item?id=38749170) - [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
-* [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 10:21:37](https://news.ycombinator.com/item?id=38732825) - [Earthquakes make gold veins in an instant (2013)](https://www.nature.com/articles/nature.2013.12615)
