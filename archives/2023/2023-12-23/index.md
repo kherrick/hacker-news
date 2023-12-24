@@ -69,6 +69,7 @@
 * [2023-12-23, 12:00:48](https://news.ycombinator.com/item?id=38743588) - [Vocode (YC W23) is hiring to build realistic voice bots](https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa)
 * [2023-12-23, 12:00:13](https://news.ycombinator.com/item?id=38743586) - [Sniffing women's tears reduces male aggression by 44%, study finds](https://newatlas.com/science/chemosignals-womens-tears-reduces-male-aggression-decreases-brain-activity/)
 * [2023-12-23, 10:13:23](https://news.ycombinator.com/item?id=38743062) - [Was BASIC that horrible or better?](https://retrofun.pl/2023/12/18/was-basic-that-horrible-or-better/)
+* [2023-12-23, 10:05:07](https://news.ycombinator.com/item?id=38743029) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-23, 09:48:19](https://news.ycombinator.com/item?id=38742954) - [Europe has a wolf problem, and a late Norwegian philosopher had the solution](https://theconversation.com/europe-has-a-wolf-problem-and-a-late-norwegian-philosopher-had-the-solution-220113)
 * [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
 * [2023-12-23, 09:21:14](https://news.ycombinator.com/item?id=38742818) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch report](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
