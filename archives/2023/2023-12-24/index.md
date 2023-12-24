@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 20:40:33](https://news.ycombinator.com/item?id=38756629) - [New Zealand Officially Recognizes Lobsters, Octopuses, Crabs as Sentient Beings](https://bnnbreaking.com/world/new-zealand/new-zealand-officially-recognizes-lobsters-octopuses-and-crabs-as-sentient-beings/)
 * [2023-12-24, 19:33:23](https://news.ycombinator.com/item?id=38756044) - [Toyota's Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
 * [2023-12-24, 19:24:18](https://news.ycombinator.com/item?id=38755949) - [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/)
