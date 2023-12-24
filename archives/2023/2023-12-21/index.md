@@ -103,6 +103,7 @@
 * [2023-12-21, 11:19:18](https://news.ycombinator.com/item?id=38719122) - [Own the Problem, Not the Solution](https://blog.mangoteque.com//blog/2023/11/28/own-the-problem-not-the-solution/)
 * [2023-12-21, 11:14:24](https://news.ycombinator.com/item?id=38719101) - [American Airlines demonstrated contrail-reducing technology](https://qz.com/american-airlines-contrail-technology-global-warming-1850792287)
 * [2023-12-21, 11:02:57](https://news.ycombinator.com/item?id=38719048) - [38% of VCs disappeared from dealmaking in 2023](https://pitchbook.com/news/articles/active-VC-investors-decline)
+* [2023-12-21, 10:28:18](https://news.ycombinator.com/item?id=38718857) - [The mystery of the mimic plant (2022)](https://www.vox.com/down-to-earth/2022/11/30/23473062/plant-mimicry-boquila-trifoliolata)
 * [2023-12-21, 10:14:10](https://news.ycombinator.com/item?id=38718772) - [Twitter puts link warning on report about child labour mines connected to Tesla](https://old.reddit.com/r/europe/comments/18kmlfd/twitterx_puts_a_harmful_link_warning_on/)
 * [2023-12-21, 09:58:37](https://news.ycombinator.com/item?id=38718702) - [New UK record for wind power set today – 21.81 GW between 0900-0930 GMT](https://grid.iamkate.com/)
 * [2023-12-21, 09:28:30](https://news.ycombinator.com/item?id=38718544) - [Today I'm launching Flare, a video sharing site built on Nostr Like YouTube](https://njump.me/nevent1qqs9tsvza8x5t93jtyh3ktmwsdkxpwarcwstadlr0fc0rcxfvn5umzqzyqthz7k56g8z5sjumg9zr9tzfg9y5u7y76t47943tyluslayduk4sr3946l)
