@@ -55,6 +55,7 @@
 * [2023-12-22, 16:04:02](https://news.ycombinator.com/item?id=38735409) - [A chemical signal in human female tears lowers aggression in males](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002442)
 * [2023-12-22, 15:32:17](https://news.ycombinator.com/item?id=38735068) - [Scientists Finally Find Mysterious Mesospheric Ghosts](https://www.atlasobscura.com/articles/mesospheric-ghosts)
 * [2023-12-22, 15:31:59](https://news.ycombinator.com/item?id=38735066) - [From Nand to Tetris: Building a Modern Computer from First Principles](https://www.nand2tetris.org)
+* [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
 * [2023-12-22, 15:16:35](https://news.ycombinator.com/item?id=38734909) - [The Hyperloop was always a scam](https://www.disconnect.blog/p/the-hyperloop-was-always-a-scam)
 * [2023-12-22, 15:02:18](https://news.ycombinator.com/item?id=38734773) - [Interoperability, Privacy, & Security](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2023/12/interoperability-privacy-security)
 * [2023-12-22, 14:47:16](https://news.ycombinator.com/item?id=38734595) - [Seven great but notoriously hard-to-finish books](https://bigthink.com/high-culture/7-great-but-hard-to-finish-books/)
