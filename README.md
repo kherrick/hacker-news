@@ -20,7 +20,7 @@
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
 * [2023-12-24, 11:06:43](https://news.ycombinator.com/item?id=38752691) - [Resetting the timer in my toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
-* [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch expands search power with Arroy's filtered disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
+* [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 10:05:07](https://news.ycombinator.com/item?id=38743029) - [What is a parser mismatch vulnerability? (2022)](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
