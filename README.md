@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
+* [2023-12-24, 21:00:13](https://news.ycombinator.com/item?id=38756798) - [Fedora 40 Plans To Unify /usr/bin and /usr/sbin](https://www.phoronix.com/news/Fedora-40-Unify-usr-bin-sbin)
 * [2023-12-24, 20:49:45](https://news.ycombinator.com/item?id=38756707) - [Intel's CEO says Moore's Law is slowing to a three-year cadence but not dead yet](https://www.tomshardware.com/tech-industry/semiconductors/intels-ceo-says-moores-law-is-slowing-to-a-three-year-cadence-but-its-not-dead-yet)
 * [2023-12-24, 19:33:23](https://news.ycombinator.com/item?id=38756044) - [Toyota's Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
@@ -16,7 +17,6 @@
 * [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
 * [2023-12-24, 17:54:36](https://news.ycombinator.com/item?id=38755180) - [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
 * [2023-12-24, 16:44:09](https://news.ycombinator.com/item?id=38754653) - [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
-* [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America lost the chestnut, its one perfect tree](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:06:56](https://news.ycombinator.com/item?id=38753911) - [Show HN: Weeks of Your Life](https://www.weeksofyour.life/)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
 * [2023-12-24, 11:06:43](https://news.ycombinator.com/item?id=38752691) - [Resetting the Timer in My Toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
