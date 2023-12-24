@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 18:54:11](https://news.ycombinator.com/item?id=38755636) - [How can Santa keep his lists when the GDPR is around?](https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around)
 * [2023-12-24, 18:40:41](https://news.ycombinator.com/item?id=38755548) - [Damian Lewis as Antony in Julius Caesar: 'Friends, Romans, Countrymen' [video]](https://www.youtube.com/watch?v=q89MLuLSJgk)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
+* [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
 * [2023-12-24, 18:13:36](https://news.ycombinator.com/item?id=38755322) - [I have interviewed 100s of candidates for software engineering positions](https://mastodon.cyborch.com/@anders/111630551621669604)
 * [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
 * [2023-12-24, 17:54:36](https://news.ycombinator.com/item?id=38755180) - [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
