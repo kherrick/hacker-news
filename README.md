@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-24, 08:57:05](https://news.ycombinator.com/item?id=38752232) - [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
 * [2023-12-24, 07:00:26](https://news.ycombinator.com/item?id=38751731) - [Preparedness Framework](https://openai.com/safety/preparedness)
@@ -26,6 +25,7 @@
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 10:21:37](https://news.ycombinator.com/item?id=38732825) - [Earthquakes make gold veins in an instant (2013)](https://www.nature.com/articles/nature.2013.12615)
 * [2023-12-22, 07:32:31](https://news.ycombinator.com/item?id=38731862) - [A cartographer drew a freehand map of North America (2019)](https://www.atlasobscura.com/articles/north-america-big-map)
+* [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-21, 19:02:01](https://news.ycombinator.com/item?id=38725117) - [Commentary on Xunzi's \"Discourse on Heaven\"](https://alicemaz.substack.com/p/commentary-on-xunzis-discourse-on)
 * [2023-12-21, 09:11:00](https://news.ycombinator.com/item?id=38718457) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
