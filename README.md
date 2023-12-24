@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 13:08:00](https://news.ycombinator.com/item?id=38753228) - [OpenAI in talks to raise new funding at $100B valuation](https://www.reuters.com/technology/openai-talks-raise-new-funding-100-bln-valuation-bloomberg-news-2023-12-22/)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
@@ -16,7 +17,6 @@
 * [2023-12-23, 23:50:05](https://news.ycombinator.com/item?id=38749473) - [Ask yourself dumb questions and answer them (2020)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 * [2023-12-23, 23:42:54](https://news.ycombinator.com/item?id=38749434) - [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
 * [2023-12-23, 23:00:57](https://news.ycombinator.com/item?id=38749170) - [Crown shyness](https://en.wikipedia.org/wiki/Crown_shyness)
-* [2023-12-23, 22:59:31](https://news.ycombinator.com/item?id=38749155) - [NY Governor vetoes ban on noncompete clauses, waters down LLC transparency bill](https://gothamist.com/news/ny-gov-hochul-vetoes-ban-on-noncompete-clauses-waters-down-llc-transparency-bill)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
