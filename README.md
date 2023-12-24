@@ -2,6 +2,7 @@
 
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-24, 02:08:13](https://news.ycombinator.com/item?id=38750411) - [Can Microsoft Flight Simulator help me learn to fly (or make me a better pilot)?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+* [2023-12-24, 01:23:06](https://news.ycombinator.com/item?id=38750138) - [The Limits to Growth–Now Available to Read Online](https://donellameadows.org/the-limits-to-growth-now-available-to-read-online/)
 * [2023-12-24, 01:14:29](https://news.ycombinator.com/item?id=38750079) - [San Francisco’s rent prices have never returned to pre-2020 levels](https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php)
 * [2023-12-23, 23:50:05](https://news.ycombinator.com/item?id=38749473) - [Ask yourself dumb questions and answer them (2020)](https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/)
 * [2023-12-23, 23:42:54](https://news.ycombinator.com/item?id=38749434) - [StreamDiffusion: A pipeline-level solution for real-time interactive generation](https://github.com/cumulo-autumn/StreamDiffusion)
@@ -29,7 +30,6 @@
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
 * [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software audio routers](https://danmackinlay.name/notebook/audio_routers.html)
-* [2023-12-20, 19:50:19](https://news.ycombinator.com/item?id=38712798) - [The End of Enlightenment: Empire, Commerce, Crisis](https://www.historytoday.com/archive/review/end-enlightenment-richard-whatmore-review)
 
 ## [Archives](archives/index.md)
 
