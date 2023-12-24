@@ -92,6 +92,7 @@
 * [2023-12-21, 12:08:52](https://news.ycombinator.com/item?id=38719439) - [The Personal, Political Art of Board-Game Design](https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design)
 * [2023-12-21, 11:59:07](https://news.ycombinator.com/item?id=38719382) - [US spent more on health care in 2022 than 6 countries combined with universal](https://www.statnews.com/2023/12/19/us-healthcare-costs-government-covers-41-percent-of-total/)
 * [2023-12-21, 11:53:24](https://news.ycombinator.com/item?id=38719349) - [The Register looks at the first release of Fedora Asahi Remix](https://www.theregister.com/2023/12/21/fed39_asahi_remix/)
+* [2023-12-21, 11:52:40](https://news.ycombinator.com/item?id=38719346) - [Roll the Credits](https://cinemasojourns.com/2023/12/20/roll-the-credits/)
 * [2023-12-21, 11:50:13](https://news.ycombinator.com/item?id=38719328) - [A Nevada Tale: Tesla, Google, and the Mustang Ranch](https://www.altaonline.com/dispatches/a44941268/mustang-ranch-geoffrey-gray-lance-gilman/)
 * [2023-12-21, 11:48:14](https://news.ycombinator.com/item?id=38719309) - [Stratechery Year in Review](https://stratechery.com/2023/the-2023-stratechery-year-in-review/)
 * [2023-12-21, 11:38:53](https://news.ycombinator.com/item?id=38719249) - [The Great Cousin Decline](https://www.theatlantic.com/family/archive/2023/12/cousin-relationships-fertility-rate/676892/)
