@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
@@ -20,7 +21,6 @@
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary (2005)](http://www.bbsdocumentary.com/)
-* [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
