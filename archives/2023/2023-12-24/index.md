@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 18:40:41](https://news.ycombinator.com/item?id=38755548) - [Damian Lewis as Antony in Julius Caesar: 'Friends, Romans, Countrymen' [video]](https://www.youtube.com/watch?v=q89MLuLSJgk)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
+* [2023-12-24, 18:13:36](https://news.ycombinator.com/item?id=38755322) - [I have interviewed 100s of candidates for software engineering positions](https://mastodon.cyborch.com/@anders/111630551621669604)
 * [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
 * [2023-12-24, 17:54:36](https://news.ycombinator.com/item?id=38755180) - [If only someone told me this before my first startup](https://news.ycombinator.com/item?id=38755180)
 * [2023-12-24, 17:52:46](https://news.ycombinator.com/item?id=38755165) - [Sam Altman's Knack for Dodging Bullets–With a Little Help from Bigshot Friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
 * [2023-12-24, 17:23:40](https://news.ycombinator.com/item?id=38754949) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
+* [2023-12-24, 17:06:30](https://news.ycombinator.com/item?id=38754819) - [Material made of carbon and nitrogen is nearly as hard as diamond](https://www.newscientist.com/article/2408386-material-made-of-carbon-and-nitrogen-is-nearly-as-hard-as-diamond/)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
 * [2023-12-24, 16:44:09](https://news.ycombinator.com/item?id=38754653) - [Study: TikTok Global Platform Anomalies Align with CCP Geostrategic Objectives [pdf]](https://networkcontagion.us/wp-content/uploads/A-Tik-Tok-ing-Timebomb_12.21.23.pdf)
 * [2023-12-24, 16:37:26](https://news.ycombinator.com/item?id=38754584) - [Declinism](https://en.wikipedia.org/wiki/Declinism)
