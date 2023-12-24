@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 18:02:11](https://news.ycombinator.com/item?id=38755234) - [Uncontrolled chemical reactions fuel crises at LA County's two largest landfills](https://phys.org/news/2023-12-uncontrolled-chemical-reactions-fuel-crises.html)
 * [2023-12-24, 17:52:46](https://news.ycombinator.com/item?id=38755165) - [Sam Altman's Knack for Dodging Bullets–With a Little Help from Bigshot Friends](https://www.wsj.com/tech/ai/sam-altman-openai-protected-by-silicon-valley-friends-f3efcf68)
 * [2023-12-24, 17:23:40](https://news.ycombinator.com/item?id=38754949) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:00:44](https://news.ycombinator.com/item?id=38754785) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38754785)
@@ -17,7 +18,6 @@
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 03:49:28](https://news.ycombinator.com/item?id=38750931) - [Why isn't the new year on the winter solstice? (2018)](https://slj.ma/cal.html)
-* [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (2015)](https://artofelectronics.net/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 09:13:36](https://news.ycombinator.com/item?id=38742783) - [A further short history of the SI prefixes (2022)](https://iopscience.iop.org/article/10.1088/1681-7575/ac6afd)
