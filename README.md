@@ -21,7 +21,6 @@
 * [2023-12-23, 16:56:42](https://news.ycombinator.com/item?id=38745667) - [Hbomberguy didn't want to make that 4-hour plagiarism video](https://www.vulture.com/2023/12/hbomberguy-interview-james-somerton-plagiarism.html)
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model](https://github.com/apple/ml-ferret)
 * [2023-12-23, 15:49:21](https://news.ycombinator.com/item?id=38745070) - [Otter, Fastest Go in-memory cache based on S3-FIFO algorithm](https://github.com/maypok86/otter)
-* [2023-12-23, 15:17:09](https://news.ycombinator.com/item?id=38744791) - [Termdbms – A TUI for viewing and editing database files](https://github.com/mathaou/termdbms)
 * [2023-12-23, 14:48:35](https://news.ycombinator.com/item?id=38744588) - [Bayesians moving from defense to offense](https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/)
 * [2023-12-23, 13:41:48](https://news.ycombinator.com/item?id=38744168) - [Understanding every byte in a WASM module](https://danielmangum.com/posts/every-byte-wasm-module/)
 * [2023-12-23, 12:17:39](https://news.ycombinator.com/item?id=38743683) - [Network Science by Albert-László Barabási](http://networksciencebook.com/)
@@ -29,6 +28,7 @@
 * [2023-12-22, 08:44:34](https://news.ycombinator.com/item?id=38732272) - [Memory safety is necessary, not sufficient](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-22, 08:34:55](https://news.ycombinator.com/item?id=38732223) - [Epigrams in Programming (1982)](https://cpsc.yale.edu/epigrams-programming)
 * [2023-12-22, 07:11:30](https://news.ycombinator.com/item?id=38731743) - [The Scale of the Brain vs. Machine Learning (2022)](https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/)
+* [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [Actual SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-21, 07:10:00](https://news.ycombinator.com/item?id=38717878) - [Software audio routers](https://danmackinlay.name/notebook/audio_routers.html)
 
 ## [Archives](archives/index.md)
