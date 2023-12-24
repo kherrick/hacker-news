@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-24, 17:23:40",
+      "https://news.ycombinator.com/item?id=38754949"
+    ],
+    [
+      "You don't need analytics on your blog",
+      "https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog"
+    ]
+  ],
+  [
+    [
       "2023-12-24, 17:00:44",
       "https://news.ycombinator.com/item?id=38754785"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: I made a Fallout inspired PIP-Boy portfolio",
       "https://purplecandy.github.io/kibibyte-pipboy/"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 15:28:54",
-      "https://news.ycombinator.com/item?id=38754087"
-    ],
-    [
-      "Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII",
-      "https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-12-24, 02:15:56",
-      "https://news.ycombinator.com/item?id=38750459"
-    ],
-    [
-      "Unveiling the big leap in Ruby 3.3's IRB",
-      "https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 02:08:13",
       "https://news.ycombinator.com/item?id=38750411"
     ],
@@ -177,6 +167,16 @@
     [
       "StreamDiffusion: A pipeline-level solution for real-time interactive generation",
       "https://github.com/cumulo-autumn/StreamDiffusion"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 23:00:57",
+      "https://news.ycombinator.com/item?id=38749170"
+    ],
+    [
+      "Crown shyness",
+      "https://en.wikipedia.org/wiki/Crown_shyness"
     ]
   ],
   [
