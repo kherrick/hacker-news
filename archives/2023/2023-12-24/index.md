@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 08:57:05](https://news.ycombinator.com/item?id=38752232) - [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 07:05:54](https://news.ycombinator.com/item?id=38751750) - [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
 * [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
