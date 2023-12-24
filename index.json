@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-24, 08:16:44",
+      "https://news.ycombinator.com/item?id=38752060"
+    ],
+    [
+      "Meilisearch Expands Search Power with Arroy's Filtered Disk ANN",
+      "https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann"
+    ]
+  ],
+  [
+    [
       "2023-12-24, 07:05:54",
       "https://news.ycombinator.com/item?id=38751750"
     ],
@@ -17,6 +27,16 @@
     [
       "Langfuse (YC W23) is hiring a founding engineer in Berlin",
       "https://www.workatastartup.com/jobs/62929"
+    ]
+  ],
+  [
+    [
+      "2023-12-24, 07:00:26",
+      "https://news.ycombinator.com/item?id=38751731"
+    ],
+    [
+      "Preparedness Framework",
+      "https://openai.com/safety/preparedness"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "The Limits to Growth (1972)",
       "https://donellameadows.org/the-limits-to-growth-now-available-to-read-online/"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 01:14:29",
-      "https://news.ycombinator.com/item?id=38750079"
-    ],
-    [
-      "San Francisco’s rent prices have never returned to pre-2020 levels",
-      "https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-12-23, 18:08:30",
-      "https://news.ycombinator.com/item?id=38746460"
-    ],
-    [
-      "Rumble turns off access in Brazil because of government's censorship demands",
-      "https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 17:45:17",
       "https://news.ycombinator.com/item?id=38746221"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-12-23, 06:01:29",
+      "https://news.ycombinator.com/item?id=38742021"
+    ],
+    [
+      "Improving our safety with a physical quantities and units library",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 13:12:18",
       "https://news.ycombinator.com/item?id=38733785"
     ],
@@ -237,16 +247,6 @@
     [
       "IP over Spaghetti (2019)",
       "https://github.com/peterheinrich/InternetOverSpaghetti"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 08:44:34",
-      "https://news.ycombinator.com/item?id=38732272"
-    ],
-    [
-      "Memory safety is necessary, not sufficient",
-      "https://steveklabnik.com/writing/memory-safety-is-a-red-herring"
     ]
   ],
   [
