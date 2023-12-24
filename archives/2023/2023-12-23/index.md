@@ -76,6 +76,7 @@
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:49:22](https://news.ycombinator.com/item?id=38742679) - [How to Become a Great Software Engineer](https://newsletter.techworld-with-milan.com/p/how-to-become-a-great-software-engineer)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+* [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
 * [2023-12-23, 07:21:18](https://news.ycombinator.com/item?id=38742324) - [Detecting FTL with LIGO](https://blog.georgovassilis.com/2023/12/23/detecting-ftl-travel-with-ligo/)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)
