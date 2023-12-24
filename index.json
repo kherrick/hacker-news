@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-12-24, 01:14:29",
+      "https://news.ycombinator.com/item?id=38750079"
+    ],
+    [
+      "San Francisco’s rent prices have never returned to pre-2020 levels",
+      "https://www.sfchronicle.com/realestate/article/sf-rent-prices-18534829.php"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 23:50:05",
       "https://news.ycombinator.com/item?id=38749473"
     ],
     [
-      "Ask yourself dumb questions – and answer them",
+      "Ask yourself dumb questions and answer them (2020)",
       "https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/"
     ]
   ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=38749434"
     ],
     [
-      "StreamDiffusion: Over 100fps Stable Diffusion on a 4090",
+      "StreamDiffusion: A pipeline-level solution for real-time interactive generation",
       "https://github.com/cumulo-autumn/StreamDiffusion"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 23:40:28",
-      "https://news.ycombinator.com/item?id=38749417"
-    ],
-    [
-      "Our Chevy Blazer EV Has 23 Problems After Only 2 Months",
-      "https://www.edmunds.com/car-news/2024-chevy-blazer-ev-long-term-faults.html"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38749170"
     ],
     [
-      "Crown Shyness",
+      "Crown shyness",
       "https://en.wikipedia.org/wiki/Crown_shyness"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38749057"
     ],
     [
-      "Julia GPU-based ODE solver 20x-100x faster than those in Jax and PyTorch",
+      "Translation and accelerated solving of differential equations on GPU platforms",
       "https://arxiv.org/abs/2304.06835"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38748943"
     ],
     [
-      "GM halts sales of its new Chevy Blazer EV amid reports of major software issues",
+      "GM halts sales of its new Chevy Blazer EV amid reports of software issues",
       "https://www.engadget.com/gm-halts-sales-of-its-new-chevy-blazer-ev-amid-reports-of-major-software-issues-214225984.html"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38748370"
     ],
     [
-      "The Art of Electronics (3rd Edition)",
+      "The Art of Electronics (2015)",
       "https://artofelectronics.net/"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "Par: Paragraph reformatter, vaguely similar to fmt, but better",
       "http://www.nicemice.net/par/"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 18:08:30",
+      "https://news.ycombinator.com/item?id=38746460"
+    ],
+    [
+      "Rumble turns off access in Brazil because of government's censorship demands",
+      "https://reclaimthenet.org/rumble-challenges-brazil-censorship-demands"
     ]
   ],
   [
@@ -135,18 +145,18 @@
       "https://news.ycombinator.com/item?id=38745668"
     ],
     [
-      "Xmas.c, winner of the 1988 International Obfuscated C Code Contest",
+      "Xmas.c (1988)",
       "https://udel.edu/~mm/xmas/"
     ]
   ],
   [
     [
-      "2023-12-23, 16:53:52",
-      "https://news.ycombinator.com/item?id=38745637"
+      "2023-12-23, 16:56:42",
+      "https://news.ycombinator.com/item?id=38745667"
     ],
     [
-      "Bug story: Sorting by timestamp",
-      "https://adam-p.ca/blog/2023/12/sort-by-timestamp/"
+      "Hbomberguy didn't want to make that 4-hour plagiarism video",
+      "https://www.vulture.com/2023/12/hbomberguy-interview-james-somerton-plagiarism.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Ferret: A Multimodal Large Language Model",
       "https://github.com/apple/ml-ferret"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 16:16:54",
-      "https://news.ycombinator.com/item?id=38745315"
-    ],
-    [
-      "Show HN: Talk Paper Scissors",
-      "https://talkpaperscissors.com/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-12-23, 13:51:17",
-      "https://news.ycombinator.com/item?id=38744224"
-    ],
-    [
-      "Indexing a billion pages",
-      "https://blog.mwmbl.org/articles/indexing-a-billion/"
-    ]
-  ],
-  [
-    [
       "2023-12-23, 13:41:48",
       "https://news.ycombinator.com/item?id=38744168"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2023-12-23, 12:00:48",
-      "https://news.ycombinator.com/item?id=38743588"
+      "2023-12-23, 12:17:39",
+      "https://news.ycombinator.com/item?id=38743683"
     ],
     [
-      "Vocode (YC W23) is hiring to build realistic voice bots",
-      "https://vocode.notion.site/Vocode-Careers-47f27748419d48f9bcc3bbbb54118afa"
+      "Network Science by Albert-László Barabási",
+      "http://networksciencebook.com/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2023-12-22, 09:32:29",
-      "https://news.ycombinator.com/item?id=38732545"
-    ],
-    [
-      "Telavar's Mysterious Sosaria (2000)",
-      "http://surfing.net/ultima/"
-    ]
-  ],
-  [
-    [
       "2023-12-22, 08:44:34",
       "https://news.ycombinator.com/item?id=38732272"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
-      "2023-12-21, 13:16:12",
-      "https://news.ycombinator.com/item?id=38720036"
+      "2023-12-22, 08:34:55",
+      "https://news.ycombinator.com/item?id=38732223"
     ],
     [
-      "My reference was dropped, why is the compiler complaining about multiple borrow",
-      "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
+      "Epigrams in Programming (1982)",
+      "https://cpsc.yale.edu/epigrams-programming"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 21:02:24",
+      "https://news.ycombinator.com/item?id=38726898"
+    ],
+    [
+      "The Hofmann Wobble: Wikipedia and the problem of historical memory",
+      "https://harpers.org/archive/2023/12/the-hofmann-wobble-wikipedia-and-the-problem-of-historical-memory/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 11:52:40",
+      "https://news.ycombinator.com/item?id=38719346"
+    ],
+    [
+      "Roll the Credits",
+      "https://cinemasojourns.com/2023/12/20/roll-the-credits/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38717878"
     ],
     [
-      "Software Audio Routers",
+      "Software audio routers",
       "https://danmackinlay.name/notebook/audio_routers.html"
     ]
   ],
