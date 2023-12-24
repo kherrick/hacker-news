@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 19:33:23](https://news.ycombinator.com/item?id=38756044) - [Toyota's Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
+* [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
+* [2023-12-24, 19:24:18](https://news.ycombinator.com/item?id=38755949) - [Philips recalls 340 MRI machines because they may explode in an emergency](https://www.theregister.com/2023/12/21/philips_exploding_mri/)
+* [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the (terminal) bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
 * [2023-12-24, 18:54:11](https://news.ycombinator.com/item?id=38755636) - [How can Santa keep his lists when the GDPR is around?](https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around)
+* [2023-12-24, 18:45:45](https://news.ycombinator.com/item?id=38755577) - [Differences Between NT Server and Workstation Are Minimal (1996)](https://www.digiater.nl/openvms/decus/vmslt97a/ntstuff/ntnodiff.html)
 * [2023-12-24, 18:40:41](https://news.ycombinator.com/item?id=38755548) - [Damian Lewis as Antony in Julius Caesar: 'Friends, Romans, Countrymen' [video]](https://www.youtube.com/watch?v=q89MLuLSJgk)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"?](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
