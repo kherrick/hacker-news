@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring to make tests obsolete](https://news.ycombinator.com/item?id=38756804)
+* [2023-12-24, 20:49:45](https://news.ycombinator.com/item?id=38756707) - [Intel's CEO says Moore's Law is slowing to a three-year cadence but not dead yet](https://www.tomshardware.com/tech-industry/semiconductors/intels-ceo-says-moores-law-is-slowing-to-a-three-year-cadence-but-its-not-dead-yet)
 * [2023-12-24, 20:40:33](https://news.ycombinator.com/item?id=38756629) - [New Zealand Officially Recognizes Lobsters, Octopuses, Crabs as Sentient Beings](https://bnnbreaking.com/world/new-zealand/new-zealand-officially-recognizes-lobsters-octopuses-and-crabs-as-sentient-beings/)
 * [2023-12-24, 19:33:23](https://news.ycombinator.com/item?id=38756044) - [Toyota's Daihatsu to halt all vehicle shipments as safety scandal widens](https://www.cnbc.com/2023/12/20/toyotas-daihatsu-to-halt-vehicle-shipments-as-safety-scandal-widens.html)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
