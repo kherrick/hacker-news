@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 07:01:07](https://news.ycombinator.com/item?id=38751732) - [Langfuse (YC W23) is hiring a founding engineer in Berlin](https://www.workatastartup.com/jobs/62929)
@@ -21,7 +22,6 @@
 * [2023-12-23, 17:45:17](https://news.ycombinator.com/item?id=38746221) - [BBS: The Documentary (2005)](http://www.bbsdocumentary.com/)
 * [2023-12-23, 16:56:46](https://news.ycombinator.com/item?id=38745668) - [Xmas.c (1988)](https://udel.edu/~mm/xmas/)
 * [2023-12-23, 16:19:49](https://news.ycombinator.com/item?id=38745348) - [Ferret: A Multimodal Large Language Model](https://github.com/apple/ml-ferret)
-* [2023-12-23, 12:17:39](https://news.ycombinator.com/item?id=38743683) - [Network Science by Albert-László Barabási](http://networksciencebook.com/)
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti (2019)](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 10:21:37](https://news.ycombinator.com/item?id=38732825) - [Earthquakes make gold veins in an instant (2013)](https://www.nature.com/articles/nature.2013.12615)
