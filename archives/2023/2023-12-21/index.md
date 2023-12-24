@@ -35,6 +35,7 @@
 * [2023-12-21, 19:13:36](https://news.ycombinator.com/item?id=38725264) - [Find Out Who Owns a Nursing Home with Our Nursing Home Inspect Tool](https://www.propublica.org/article/find-nursing-home-ownership-information)
 * [2023-12-21, 19:08:34](https://news.ycombinator.com/item?id=38725206) - [The CEO and the Three Envelopes (2010)](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 * [2023-12-21, 19:06:38](https://news.ycombinator.com/item?id=38725167) - [Apple wants AI to run directly on its hardware instead of in the cloud](https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/)
+* [2023-12-21, 19:02:01](https://news.ycombinator.com/item?id=38725117) - [Commentary on Xunzi's \"Discourse on Heaven\"](https://alicemaz.substack.com/p/commentary-on-xunzis-discourse-on)
 * [2023-12-21, 18:54:47](https://news.ycombinator.com/item?id=38725015) - [I salute everyone on call/working production support through the holidays](https://news.ycombinator.com/item?id=38725015)
 * [2023-12-21, 18:38:25](https://news.ycombinator.com/item?id=38724729) - [Introducing The New Wasmer JavaScript SDK](https://wasmer.io/posts/introducing-the-wasmer-js-sdk)
 * [2023-12-21, 18:34:53](https://news.ycombinator.com/item?id=38724665) - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
