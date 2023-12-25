@@ -76,6 +76,7 @@
 * [2023-12-24, 05:47:51](https://news.ycombinator.com/item?id=38751452) - [Bill Watterson Commencement Speech](https://web.mit.edu/jmorzins/www/C-H-speech.html)
 * [2023-12-24, 05:41:46](https://news.ycombinator.com/item?id=38751427) - [Storyteller: Self-hosted platform to automatically sync ebooks and audiobooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
+* [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music. What the Heck?](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-24, 04:35:22](https://news.ycombinator.com/item?id=38751167) - [I Just Need a Programmer](https://blobstreaming.org/i-just-need-a-programmer/)
 * [2023-12-24, 03:49:28](https://news.ycombinator.com/item?id=38750931) - [Why isn't the new year on the winter solstice? (2018)](https://slj.ma/cal.html)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
