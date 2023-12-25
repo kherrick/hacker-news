@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 09:28:41](https://news.ycombinator.com/item?id=38761131) - [T-Mobile introduce fines from Jan 1 for \"Code of Conduct\" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
 * [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
