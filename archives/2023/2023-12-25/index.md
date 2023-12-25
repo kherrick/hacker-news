@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 18:52:14](https://news.ycombinator.com/item?id=38765027) - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 * [2023-12-25, 18:42:33](https://news.ycombinator.com/item?id=38764936) - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
 * [2023-12-25, 18:41:07](https://news.ycombinator.com/item?id=38764921) - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
 * [2023-12-25, 18:01:48](https://news.ycombinator.com/item?id=38764628) - [Japan's SLIM 'moon sniper' lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
+* [2023-12-25, 17:45:06](https://news.ycombinator.com/item?id=38764482) - [TLA+ in Isabelle/HOL](https://davecturner.github.io/2018/02/12/tla-in-isabelle.html)
 * [2023-12-25, 17:38:04](https://news.ycombinator.com/item?id=38764430) - [The Neat Programming Language](https://neat-lang.github.io/)
 * [2023-12-25, 17:37:39](https://news.ycombinator.com/item?id=38764427) - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
 * [2023-12-25, 17:35:52](https://news.ycombinator.com/item?id=38764412) - [Show HN: Towards Oberon+ concurrency; request for comments](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
