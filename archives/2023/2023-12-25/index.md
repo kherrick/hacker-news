@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+* [2023-12-25, 12:45:09](https://news.ycombinator.com/item?id=38762167) - [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
 * [2023-12-25, 12:35:38](https://news.ycombinator.com/item?id=38762113) - [Electricity That's Too Cheap to Meter](https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/)
 * [2023-12-25, 12:31:44](https://news.ycombinator.com/item?id=38762095) - [Goodbye Windows Mixed Reality, we hardly knew Microsoft's VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
 * [2023-12-25, 12:27:50](https://news.ycombinator.com/item?id=38762065) - [I told the flight attendant \"the WiFi isn't working\"](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
