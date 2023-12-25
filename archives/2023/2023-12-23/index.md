@@ -16,6 +16,7 @@
 * [2023-12-23, 21:23:59](https://news.ycombinator.com/item?id=38748370) - [The Art of Electronics (3rd Edition)](https://artofelectronics.net/)
 * [2023-12-23, 21:11:40](https://news.ycombinator.com/item?id=38748280) - [Circl Unveils Festive Nostalgic Initiatives – Gopher Protocol and BBS Revival](https://www.circl.lu/pub/tr-567d30/)
 * [2023-12-23, 21:08:06](https://news.ycombinator.com/item?id=38748249) - [OCaml as the Universal Translator – DkSDK Merry Christmas 2023](https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023)
+* [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What Lies Beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
 * [2023-12-23, 20:52:55](https://news.ycombinator.com/item?id=38748120) - [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
 * [2023-12-23, 20:49:43](https://news.ycombinator.com/item?id=38748087) - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)

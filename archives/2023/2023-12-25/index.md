@@ -14,6 +14,7 @@
 * [2023-12-25, 18:34:44](https://news.ycombinator.com/item?id=38764866) - [Kremlin critic Alexey Navalny has been found in Arctic Prison after ~3 weeks](https://old.reddit.com/r/worldnews/comments/18qi7k3/kremlin_critic_alexey_navalny_has_been_found/)
 * [2023-12-25, 18:01:48](https://news.ycombinator.com/item?id=38764628) - [Japan's SLIM 'moon sniper' lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 * [2023-12-25, 17:45:06](https://news.ycombinator.com/item?id=38764482) - [TLA+ in Isabelle/HOL](https://davecturner.github.io/2018/02/12/tla-in-isabelle.html)
+* [2023-12-25, 17:40:56](https://news.ycombinator.com/item?id=38764452) - [Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)
 * [2023-12-25, 17:38:04](https://news.ycombinator.com/item?id=38764430) - [The Neat Programming Language](https://neat-lang.github.io/)
 * [2023-12-25, 17:37:39](https://news.ycombinator.com/item?id=38764427) - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
 * [2023-12-25, 17:35:52](https://news.ycombinator.com/item?id=38764412) - [Show HN: Towards Oberon+ concurrency; request for comments](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
