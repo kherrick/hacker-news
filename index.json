@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-12-25, 17:01:48",
+      "https://news.ycombinator.com/item?id=38764147"
+    ],
+    [
+      "Patterns (YC S21) is hiring to automate analytics with LLMs",
+      "https://www.patterns.app/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 16:38:36",
+      "https://news.ycombinator.com/item?id=38763933"
+    ],
+    [
+      "War of the workstations: How the lowest bidders shaped today's tech landscape",
+      "https://www.theregister.com/2023/12/25/the_war_of_the_workstations/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 16:17:38",
       "https://news.ycombinator.com/item?id=38763777"
     ],
     [
       "Much of North America may face electricity shortages starting in 2024",
       "https://www.newscientist.com/article/2409679-much-of-north-america-may-face-electricity-shortages-starting-in-2024/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 16:17:21",
+      "https://news.ycombinator.com/item?id=38763772"
+    ],
+    [
+      "B&H Photo Published an AI-Generated Guide Written by a Fake Person",
+      "https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Non-interactive SSH password authentication",
       "https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 12:01:29",
-      "https://news.ycombinator.com/item?id=38761915"
-    ],
-    [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
-      "https://skio.com/careers/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-12-24, 05:26:04",
-      "https://news.ycombinator.com/item?id=38751363"
-    ],
-    [
-      "YM3812 Register Basics",
-      "https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 05:14:20",
       "https://news.ycombinator.com/item?id=38751326"
     ],
@@ -287,16 +297,6 @@
     [
       "The King of Silent Animation",
       "https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 10:03:24",
-      "https://news.ycombinator.com/item?id=38732722"
-    ],
-    [
-      "GNU Radio – Project Update 2023 Q4",
-      "https://www.gnuradio.org/news/2023-12-15-2023-Q4-Project-Update/"
     ]
   ]
 ]
