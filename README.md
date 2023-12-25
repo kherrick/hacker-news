@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
-* [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu by Ed Jorgensen](http://www.egr.unlv.edu/~ed/x86.html)
-* [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The Era of American Computer Magazines Has Drawn to a Close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
+* [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu (2022)](http://www.egr.unlv.edu/~ed/x86.html)
+* [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 22:52:43](https://news.ycombinator.com/item?id=38757815) - [Mexico is now the 12th largest economy in the world](https://mexiconewsdaily.com/business/mexico-is-now-the-12th-largest-economy-in-the-world/)
 * [2023-12-24, 22:46:53](https://news.ycombinator.com/item?id=38757779) - [The History of Xenix](https://www.abortretry.fail/p/the-history-of-xenix)
 * [2023-12-24, 21:53:03](https://news.ycombinator.com/item?id=38757269) - [Time Is Encoded in the Weights of Finetuned Language Models](https://arxiv.org/abs/2312.13401)
@@ -27,9 +27,9 @@
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
 * [2023-12-22, 10:02:31](https://news.ycombinator.com/item?id=38732717) - [Mozilla sccache: ccache with cloud storage](https://github.com/mozilla/sccache)
 * [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
+* [2023-12-22, 06:02:57](https://news.ycombinator.com/item?id=38731402) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 * [2023-12-21, 19:02:01](https://news.ycombinator.com/item?id=38725117) - [Commentary on Xunzi's \"Discourse on Heaven\"](https://alicemaz.substack.com/p/commentary-on-xunzis-discourse-on)
-* [2023-12-21, 10:28:18](https://news.ycombinator.com/item?id=38718857) - [The mystery of the mimic plant (2022)](https://www.vox.com/down-to-earth/2022/11/30/23473062/plant-mimicry-boquila-trifoliolata)
 
 ## [Archives](archives/index.md)
 
