@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-12-25, 20:35:37",
+      "https://news.ycombinator.com/item?id=38765862"
+    ],
+    [
+      "Ask HN: How to practice data analytics skills?",
+      "https://news.ycombinator.com/item?id=38765862"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 20:02:08",
       "https://news.ycombinator.com/item?id=38765627"
     ],
     [
       "Stirling-PDF: local web application to perform various operations on PDFs",
       "https://github.com/Frooodle/Stirling-PDF"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 19:15:03",
-      "https://news.ycombinator.com/item?id=38765224"
-    ],
-    [
-      "Most homes for sale in 2023 were not affordable for a typical U.S. household",
-      "https://text.npr.org/1221480443"
     ]
   ],
   [
@@ -31,42 +31,12 @@
   ],
   [
     [
-      "2023-12-25, 19:09:29",
-      "https://news.ycombinator.com/item?id=38765176"
-    ],
-    [
-      "Ask HN: Share your favorite software blog posts of 2023",
-      "https://news.ycombinator.com/item?id=38765176"
-    ]
-  ],
-  [
-    [
       "2023-12-25, 18:52:14",
       "https://news.ycombinator.com/item?id=38765027"
     ],
     [
       "2023: The Year of AI",
       "https://journal.everypixel.com/2023-the-year-of-ai"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 18:42:33",
-      "https://news.ycombinator.com/item?id=38764936"
-    ],
-    [
-      "Woman pregnant in each of her two uteruses gives birth to twins",
-      "https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 18:34:44",
-      "https://news.ycombinator.com/item?id=38764866"
-    ],
-    [
-      "Kremlin critic Alexey Navalny has been found in Arctic Prison after ~3 weeks",
-      "https://old.reddit.com/r/worldnews/comments/18qi7k3/kremlin_critic_alexey_navalny_has_been_found/"
     ]
   ],
   [
@@ -115,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38764412"
     ],
     [
-      "Show HN: Towards Oberon+ concurrency; request for comments",
+      "Towards Oberon+ Concurrency",
       "https://oberon-lang.github.io/2023/12/25/towards-concurrency.html"
     ]
   ],
@@ -175,18 +145,8 @@
       "https://news.ycombinator.com/item?id=38761708"
     ],
     [
-      "A nano like text editor built with pure C",
+      "Ptext: A Nano-like text editor built with pure C",
       "https://github.com/proh14/ptext"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 09:58:48",
-      "https://news.ycombinator.com/item?id=38761285"
-    ],
-    [
-      "Breakdown of AV1 Video Codec",
-      "https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec"
     ]
   ],
   [
@@ -205,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38760193"
     ],
     [
-      "Petrov: A man who lived in the woods of Mendocino County",
+      "Petrov: A man who lived in the woods of Mendocino County (2022)",
       "https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/"
     ]
   ],
@@ -221,12 +181,42 @@
   ],
   [
     [
+      "2023-12-25, 03:08:18",
+      "https://news.ycombinator.com/item?id=38759297"
+    ],
+    [
+      "The Star – Arthur C. Clarke (1967) [pdf]",
+      "https://sites.uni.edu/morgans/astro/course/TheStar.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 00:16:34",
       "https://news.ycombinator.com/item?id=38758355"
     ],
     [
       "Cray-1 vs Raspberry Pi",
       "http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm"
+    ]
+  ],
+  [
+    [
+      "2023-12-24, 23:03:01",
+      "https://news.ycombinator.com/item?id=38757887"
+    ],
+    [
+      "The era of American computer magazines has drawn to a close",
+      "https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/"
+    ]
+  ],
+  [
+    [
+      "2023-12-24, 12:55:52",
+      "https://news.ycombinator.com/item?id=38753170"
+    ],
+    [
+      "My first Z80 assembly language program",
+      "https://nanochess.org/notebook.html"
     ]
   ],
   [
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38748243"
     ],
     [
-      "What Lies Beneath the Vatican of the Zapotecs?",
+      "What lies beneath the Vatican of the Zapotecs?",
       "https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Mathematical Intimidation: Driven by the data (2011) [pdf]",
       "https://www.ams.org/notices/201105/rtx110500667p.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-23, 08:27:20",
+      "https://news.ycombinator.com/item?id=38742585"
+    ],
+    [
+      "Optical Media Durability (2020)",
+      "https://blog.dshr.org/2020/08/optical-media-durability-update.html"
     ]
   ],
   [
