@@ -80,6 +80,7 @@
 * [2023-12-23, 08:51:55](https://news.ycombinator.com/item?id=38742692) - [Pinterest's simple tech stack to scale to 11M monthly users](https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million)
 * [2023-12-23, 08:49:22](https://news.ycombinator.com/item?id=38742679) - [How to Become a Great Software Engineer](https://newsletter.techworld-with-milan.com/p/how-to-become-a-great-software-engineer)
 * [2023-12-23, 08:40:57](https://news.ycombinator.com/item?id=38742637) - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+* [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
 * [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
 * [2023-12-23, 07:21:18](https://news.ycombinator.com/item?id=38742324) - [Detecting FTL with LIGO](https://blog.georgovassilis.com/2023/12/23/detecting-ftl-travel-with-ligo/)
