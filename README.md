@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-25, 04:42:46](https://news.ycombinator.com/item?id=38759877) - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
 * [2023-12-25, 04:37:13](https://news.ycombinator.com/item?id=38759853) - [Flu deaths in the US (2017-2023) per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 * [2023-12-25, 02:58:52](https://news.ycombinator.com/item?id=38759257) - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
@@ -29,6 +28,7 @@
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [You Need Felix the Cat? Early Popeye? Talk to the King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
+* [2023-12-22, 11:12:38](https://news.ycombinator.com/item?id=38733088) - [Rare museum specimen reveals how trilobites curled themselves into a ball](https://phys.org/news/2023-12-rare-museum-specimen-reveals-insights.html)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)

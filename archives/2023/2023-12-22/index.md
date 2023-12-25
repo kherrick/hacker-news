@@ -87,6 +87,7 @@
 * [2023-12-22, 11:23:19](https://news.ycombinator.com/item?id=38733154) - [Challenges with Unsupervised LLM Knowledge Discovery](https://www.lesswrong.com/posts/wtfvbsYjNHYYBmT3k/discussion-challenges-with-unsupervised-llm-knowledge-1)
 * [2023-12-22, 11:20:28](https://news.ycombinator.com/item?id=38733142) - [How I Obtained a Business Manager Visa in Japan](https://www.tokyodev.com/articles/obtaining-a-business-manager-visa-in-japan)
 * [2023-12-22, 11:16:23](https://news.ycombinator.com/item?id=38733118) - [FTC suggests new rules to shift parents' burden of protecting kids to websites](https://arstechnica.com/tech-policy/2023/12/ftc-moves-to-block-platforms-from-making-money-off-data-of-children/)
+* [2023-12-22, 11:12:38](https://news.ycombinator.com/item?id=38733088) - [Rare museum specimen reveals how trilobites curled themselves into a ball](https://phys.org/news/2023-12-rare-museum-specimen-reveals-insights.html)
 * [2023-12-22, 10:56:41](https://news.ycombinator.com/item?id=38733004) - [IP over Spaghetti](https://github.com/peterheinrich/InternetOverSpaghetti)
 * [2023-12-22, 10:27:35](https://news.ycombinator.com/item?id=38732862) - [Do I need to get out the soldering-iron again? (2018)](https://www.naughtycomputer.uk/do_i_really_need_to_get_out_the_soldering_iron_again.html)
 * [2023-12-22, 10:21:37](https://news.ycombinator.com/item?id=38732825) - [Earthquakes make gold veins in an instant (2013)](https://www.nature.com/articles/nature.2013.12615)
