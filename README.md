@@ -25,11 +25,11 @@
 * [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
-* [2023-12-24, 04:09:02](https://news.ycombinator.com/item?id=38751025) - [The Renaissance changed beauty standards](https://www.washingtonpost.com/books/2023/12/14/how-be-renaissance-woman-jill-burke-review/)
 * [2023-12-23, 21:08:06](https://news.ycombinator.com/item?id=38748249) - [OCaml as the Universal Translator – DkSDK Merry Christmas 2023](https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023)
 * [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What lies beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
 * [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
+* [2023-12-23, 05:50:17](https://news.ycombinator.com/item?id=38741969) - [Microsoft Announces the End of Windows Mixed Reality](https://www.extremetech.com/electronics/microsoft-quietly-announces-the-end-of-windows-mixed-reality)
 
 ## [Archives](archives/index.md)
 
