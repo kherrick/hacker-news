@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 02:35:31](https://news.ycombinator.com/item?id=38759142) - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu (2022)](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
@@ -24,7 +25,6 @@
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-23, 10:05:07](https://news.ycombinator.com/item?id=38743029) - [What is a parser mismatch vulnerability? (2022)](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
-* [2023-12-23, 09:36:12](https://news.ycombinator.com/item?id=38742896) - [Exploring Brazil's Remnant Atlantic Forest](https://photographylife.com/exploring-brazils-remnant-atlantic-forest)
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
