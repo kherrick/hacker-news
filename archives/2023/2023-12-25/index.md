@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 * [2023-12-25, 14:59:04](https://news.ycombinator.com/item?id=38763094) - [Threads is blocking servers on the Fediverse. Here's how we unblocked ourselves.](https://soapbox.pub/blog/threads-server-blocking/)
 * [2023-12-25, 14:13:17](https://news.ycombinator.com/item?id=38762747) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)

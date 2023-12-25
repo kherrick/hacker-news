@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:01:29](https://news.ycombinator.com/item?id=38761915) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -18,10 +19,8 @@
 * [2023-12-25, 02:28:41](https://news.ycombinator.com/item?id=38759092) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=38759092)
 * [2023-12-25, 02:22:15](https://news.ycombinator.com/item?id=38759057) - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
-* [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu (2022)](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
-* [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
 * [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music. What the Heck?](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
@@ -30,6 +29,7 @@
 * [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
+* [2023-12-22, 10:03:24](https://news.ycombinator.com/item?id=38732722) - [GNU Radio – Project Update 2023 Q4](https://www.gnuradio.org/news/2023-12-15-2023-Q4-Project-Update/)
 
 ## [Archives](archives/index.md)
 
