@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
 * [2023-12-25, 07:44:30](https://news.ycombinator.com/item?id=38760637) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:13:25](https://news.ycombinator.com/item?id=38760521) - [\"How to Be Successful\" by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
