@@ -7,6 +7,7 @@
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:15:03](https://news.ycombinator.com/item?id=38765224) - [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
+* [2023-12-25, 19:09:29](https://news.ycombinator.com/item?id=38765176) - [Ask HN: Share your favorite software blog posts of 2023](https://news.ycombinator.com/item?id=38765176)
 * [2023-12-25, 18:52:14](https://news.ycombinator.com/item?id=38765027) - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 * [2023-12-25, 18:42:33](https://news.ycombinator.com/item?id=38764936) - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
 * [2023-12-25, 18:41:07](https://news.ycombinator.com/item?id=38764921) - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
