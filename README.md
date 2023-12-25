@@ -3,7 +3,6 @@
 * [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
-* [2023-12-25, 07:44:30](https://news.ycombinator.com/item?id=38760637) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:49:09](https://news.ycombinator.com/item?id=38760193) - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
@@ -28,6 +27,7 @@
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 09:42:28](https://news.ycombinator.com/item?id=38752395) - [Commodore Season's Greetings for the PET](https://www.masswerk.at/pet/?run=seasonsgreetings2023&ram=8&color=white)
 * [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
+* [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
 
