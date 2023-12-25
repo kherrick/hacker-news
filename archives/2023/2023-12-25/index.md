@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 18:42:33](https://news.ycombinator.com/item?id=38764936) - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
+* [2023-12-25, 18:41:07](https://news.ycombinator.com/item?id=38764921) - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
+* [2023-12-25, 18:01:48](https://news.ycombinator.com/item?id=38764628) - [Japan's SLIM 'moon sniper' lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 * [2023-12-25, 17:38:04](https://news.ycombinator.com/item?id=38764430) - [The Neat Programming Language](https://neat-lang.github.io/)
 * [2023-12-25, 17:37:39](https://news.ycombinator.com/item?id=38764427) - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
 * [2023-12-25, 17:35:52](https://news.ycombinator.com/item?id=38764412) - [Show HN: Towards Oberon+ concurrency; request for comments](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
@@ -18,6 +21,7 @@
 * [2023-12-25, 16:17:21](https://news.ycombinator.com/item?id=38763772) - [B&H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
 * [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
+* [2023-12-25, 15:28:29](https://news.ycombinator.com/item?id=38763366) - [Sid Meier's Memoir! A Life in Computer Games](https://wwnorton.com/books/9781324005872)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 * [2023-12-25, 14:59:04](https://news.ycombinator.com/item?id=38763094) - [Threads is blocking servers on the Fediverse. Here's how we unblocked ourselves.](https://soapbox.pub/blog/threads-server-blocking/)
 * [2023-12-25, 14:18:09](https://news.ycombinator.com/item?id=38762781) - [Ruby AOT Compiler – Keynote by Yukihiro \"Matz\" Matsumoto [video]](https://www.youtube.com/watch?v=4MM5b2F9zrM)
