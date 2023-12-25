@@ -11,7 +11,6 @@
 * [2023-12-24, 21:53:03](https://news.ycombinator.com/item?id=38757269) - [Time is encoded in the weights of finetuned language models](https://arxiv.org/abs/2312.13401)
 * [2023-12-24, 21:10:14](https://news.ycombinator.com/item?id=38756888) - [\"Attention\", \"Transformers\", in Neural Network \"Large Language Models\"](http://bactra.org/notebooks/nn-attention-and-transformers.html)
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring a founding engineer](https://news.ycombinator.com/item?id=38756804)
-* [2023-12-24, 21:00:43](https://news.ycombinator.com/item?id=38756803) - [Logika: Programming Logics (2016)](https://logika.v3.sireum.org/dschmidt/)
 * [2023-12-24, 20:58:28](https://news.ycombinator.com/item?id=38756780) - [Sireum Logika](https://logika.v3.sireum.org/)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
 * [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the (terminal) bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
@@ -29,6 +28,7 @@
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [You Need Felix the Cat? Early Popeye? Talk to the King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
+* [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)
