@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-25, 09:50:45](https://news.ycombinator.com/item?id=38761243) - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
 * [2023-12-25, 09:28:41](https://news.ycombinator.com/item?id=38761131) - [T-Mobile introduce fines from Jan 1 for \"Code of Conduct\" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
 * [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
 * [2023-12-25, 08:34:32](https://news.ycombinator.com/item?id=38760869) - [Serving the web with 6 lines of Rust](https://jeffmitchelldev.wordpress.com/2023/12/24/serving-the-web-with-6-lines-of-rust/)
@@ -22,6 +21,7 @@
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring a founding engineer](https://news.ycombinator.com/item?id=38756804)
 * [2023-12-24, 20:14:56](https://news.ycombinator.com/item?id=38756441) - [Can flow batteries finally beat lithium?](https://spectrum.ieee.org/flow-battery-2666672335)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
+* [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the terminal bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
