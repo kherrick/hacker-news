@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 04:37:13](https://news.ycombinator.com/item?id=38759853) - [Flu deaths in the US (2017-2023) per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 * [2023-12-25, 02:58:52](https://news.ycombinator.com/item?id=38759257) - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 * [2023-12-25, 02:35:31](https://news.ycombinator.com/item?id=38759142) - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
@@ -12,11 +13,11 @@
 * [2023-12-24, 21:10:14](https://news.ycombinator.com/item?id=38756888) - [\"Attention\", \"Transformers\", in Neural Network \"Large Language Models\"](http://bactra.org/notebooks/nn-attention-and-transformers.html)
 * [2023-12-24, 21:00:44](https://news.ycombinator.com/item?id=38756804) - [Meticulous (YC S21) is hiring a founding engineer](https://news.ycombinator.com/item?id=38756804)
 * [2023-12-24, 20:58:28](https://news.ycombinator.com/item?id=38756780) - [Sireum Logika](https://logika.v3.sireum.org/)
+* [2023-12-24, 20:14:56](https://news.ycombinator.com/item?id=38756441) - [Can Flow Batteries Finally Beat Lithium?](https://spectrum.ieee.org/flow-battery-2666672335)
 * [2023-12-24, 19:31:59](https://news.ycombinator.com/item?id=38756029) - [Costs of running a macOS app studio business](https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business)
 * [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the (terminal) bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
-* [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America lost the chestnut, its \"perfect tree\"](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:28:54](https://news.ycombinator.com/item?id=38754087) - [Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://www.designboom.com/technology/holcim-3d-prints-phoenix-reinforcement-free-concrete-bridge-12-14-2023/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
@@ -28,7 +29,6 @@
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [You Need Felix the Cat? Early Popeye? Talk to the King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
-* [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)
