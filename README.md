@@ -19,7 +19,6 @@
 * [2023-12-25, 04:42:11](https://news.ycombinator.com/item?id=38759875) - [Reforming Unix](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
 * [2023-12-25, 03:24:11](https://news.ycombinator.com/item?id=38759392) - [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
-* [2023-12-25, 02:22:15](https://news.ycombinator.com/item?id=38759057) - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
@@ -30,6 +29,7 @@
 * [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
+* [2023-12-22, 10:03:24](https://news.ycombinator.com/item?id=38732722) - [GNU Radio – Project Update 2023 Q4](https://www.gnuradio.org/news/2023-12-15-2023-Q4-Project-Update/)
 
 ## [Archives](archives/index.md)
 
