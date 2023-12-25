@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 09:50:45](https://news.ycombinator.com/item?id=38761243) - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
 * [2023-12-25, 09:28:41](https://news.ycombinator.com/item?id=38761131) - [T-Mobile introduce fines from Jan 1 for \"Code of Conduct\" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
 * [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
+* [2023-12-25, 08:34:32](https://news.ycombinator.com/item?id=38760869) - [Serving the web with 6 lines of Rust](https://jeffmitchelldev.wordpress.com/2023/12/24/serving-the-web-with-6-lines-of-rust/)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
 * [2023-12-25, 07:44:30](https://news.ycombinator.com/item?id=38760637) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
@@ -13,6 +15,7 @@
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:49:09](https://news.ycombinator.com/item?id=38760193) - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
+* [2023-12-25, 05:35:59](https://news.ycombinator.com/item?id=38760120) - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
 * [2023-12-25, 04:42:46](https://news.ycombinator.com/item?id=38759877) - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
 * [2023-12-25, 04:42:11](https://news.ycombinator.com/item?id=38759875) - [Reforming Unix](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
 * [2023-12-25, 04:37:13](https://news.ycombinator.com/item?id=38759853) - [Flu deaths in the US (2017-2023) per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)

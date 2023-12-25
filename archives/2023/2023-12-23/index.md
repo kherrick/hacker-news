@@ -23,6 +23,7 @@
 * [2023-12-23, 19:49:56](https://news.ycombinator.com/item?id=38747482) - [Beeper Mini is now open-source](https://github.com/beeper/imessage)
 * [2023-12-23, 19:19:19](https://news.ycombinator.com/item?id=38747191) - [Another Hit Piece on Open-Source AI [video]](https://www.youtube.com/watch?v=bXYLyDhcyWY)
 * [2023-12-23, 19:15:35](https://news.ycombinator.com/item?id=38747151) - [NLP Course – For You](https://lena-voita.github.io/nlp_course.html)
+* [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 * [2023-12-23, 18:54:20](https://news.ycombinator.com/item?id=38746926) - [First Images of Spaceship Neptune's Capsule Structure](https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/)
 * [2023-12-23, 18:44:22](https://news.ycombinator.com/item?id=38746814) - [Tesla recalls over 120k cars over door risks](https://www.cnn.com/2023/12/23/economy/tesla-recall-door-defect/index.html)
 * [2023-12-23, 18:32:45](https://news.ycombinator.com/item?id=38746674) - [Why Gibiru attempts to take the canvas image data of my browser?](https://gibiru.com/)
