@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 13:50:40](https://news.ycombinator.com/item?id=38762564) - [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:45:09](https://news.ycombinator.com/item?id=38762167) - [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
-* [2023-12-25, 12:35:38](https://news.ycombinator.com/item?id=38762113) - [Electricity That's Too Cheap to Meter](https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/)
 * [2023-12-25, 12:31:44](https://news.ycombinator.com/item?id=38762095) - [Goodbye Windows Mixed Reality, we hardly knew Microsoft's VR software](https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/)
 * [2023-12-25, 12:27:50](https://news.ycombinator.com/item?id=38762065) - [I told the flight attendant \"the WiFi isn't working\"](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
 * [2023-12-25, 12:01:29](https://news.ycombinator.com/item?id=38761915) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
