@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 14:13:17](https://news.ycombinator.com/item?id=38762747) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2023-12-25, 13:50:40](https://news.ycombinator.com/item?id=38762564) - [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:45:09](https://news.ycombinator.com/item?id=38762167) - [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
@@ -26,7 +27,6 @@
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
-* [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
 * [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 * [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
