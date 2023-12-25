@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
+* [2023-12-25, 19:15:03](https://news.ycombinator.com/item?id=38765224) - [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 * [2023-12-25, 18:52:14](https://news.ycombinator.com/item?id=38765027) - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 * [2023-12-25, 18:42:33](https://news.ycombinator.com/item?id=38764936) - [Woman pregnant in each of her two uteruses gives birth to twins](https://www.cnn.com/2023/12/24/health/woman-two-uteruses-birth-twins/index.html)
 * [2023-12-25, 18:41:07](https://news.ycombinator.com/item?id=38764921) - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
+* [2023-12-25, 18:34:44](https://news.ycombinator.com/item?id=38764866) - [Kremlin critic Alexey Navalny has been found in Arctic Prison after ~3 weeks](https://old.reddit.com/r/worldnews/comments/18qi7k3/kremlin_critic_alexey_navalny_has_been_found/)
 * [2023-12-25, 18:01:48](https://news.ycombinator.com/item?id=38764628) - [Japan's SLIM 'moon sniper' lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 * [2023-12-25, 17:45:06](https://news.ycombinator.com/item?id=38764482) - [TLA+ in Isabelle/HOL](https://davecturner.github.io/2018/02/12/tla-in-isabelle.html)
 * [2023-12-25, 17:38:04](https://news.ycombinator.com/item?id=38764430) - [The Neat Programming Language](https://neat-lang.github.io/)
