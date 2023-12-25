@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-25, 17:38:04",
+      "https://news.ycombinator.com/item?id=38764430"
+    ],
+    [
+      "The Neat Programming Language",
+      "https://neat-lang.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 17:37:39",
       "https://news.ycombinator.com/item?id=38764427"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2023-12-25, 17:35:52",
+      "https://news.ycombinator.com/item?id=38764412"
+    ],
+    [
+      "Show HN: Towards Oberon+ concurrency; request for comments",
+      "https://oberon-lang.github.io/2023/12/25/towards-concurrency.html"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 17:26:17",
       "https://news.ycombinator.com/item?id=38764353"
     ],
     [
       "TKey is a RISC-V computer in a USB-C case, that can run security applications",
       "https://dev.tillitis.se/intro/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 17:04:44",
+      "https://news.ycombinator.com/item?id=38764182"
+    ],
+    [
+      "Code of silence: How one techie unmasked Silicon Valley's hypocrisy on Gaza",
+      "https://www.trtworld.com/magazine/code-of-silence-how-one-techie-unmasked-silicon-valleys-hypocrisy-on-gaza-16385719"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-12-25, 04:42:11",
-      "https://news.ycombinator.com/item?id=38759875"
-    ],
-    [
-      "Reforming Unix",
-      "https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc"
-    ]
-  ],
-  [
-    [
       "2023-12-25, 03:08:18",
       "https://news.ycombinator.com/item?id=38759297"
     ],
@@ -187,16 +207,6 @@
     [
       "Cray-1 vs Raspberry Pi",
       "http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 23:28:10",
-      "https://news.ycombinator.com/item?id=38758063"
-    ],
-    [
-      "x86-64 Assembly Language Programming with Ubuntu (2022)",
-      "http://www.egr.unlv.edu/~ed/x86.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Quantum Computer Music. What the Heck?",
       "https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 20:11:58",
-      "https://news.ycombinator.com/item?id=38747710"
-    ],
-    [
-      "Show HN: An open-source, self-hostable synced narration platform for ebooks",
-      "https://smoores.gitlab.io/storyteller/"
     ]
   ],
   [
