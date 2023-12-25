@@ -15,13 +15,14 @@
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
 * [2023-12-25, 15:28:29](https://news.ycombinator.com/item?id=38763366) - [Sid Meier's Memoir: A Life in Computer Games](https://wwnorton.com/books/9781324005872)
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
-* [2023-12-25, 14:18:09](https://news.ycombinator.com/item?id=38762781) - [Ruby AOT Compiler – Keynote [video]](https://www.youtube.com/watch?v=4MM5b2F9zrM)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [Ptext: A Nano-like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 09:25:54](https://news.ycombinator.com/item?id=38761115) - [Some Useful Bash Aliases](https://chuck.is/alias/)
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
+* [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+* [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
@@ -29,7 +30,6 @@
 * [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What lies beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
 * [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
-* [2023-12-23, 05:50:17](https://news.ycombinator.com/item?id=38741969) - [Microsoft Announces the End of Windows Mixed Reality](https://www.extremetech.com/electronics/microsoft-quietly-announces-the-end-of-windows-mixed-reality)
 
 ## [Archives](archives/index.md)
 
