@@ -6,6 +6,7 @@
 
 * [2023-12-25, 21:58:23](https://news.ycombinator.com/item?id=38766530) - [The Chevy Blazer EV Launch Has Gone from Rough to Worse as GM Issues Stop-Sale](https://www.thedrive.com/news/the-chevy-blazer-ev-launch-has-gone-from-rough-to-worse-as-gm-issues-stop-sale)
 * [2023-12-25, 21:56:56](https://news.ycombinator.com/item?id=38766512) - [How many legs do ten elephants have, if two of them are legless?](https://bard.google.com/share/038d1dc14e78?hl=en)
+* [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 * [2023-12-25, 21:37:36](https://news.ycombinator.com/item?id=38766366) - [Has gratuity culture reached a tipping point?](https://www.newyorker.com/magazine/2023/01/01/has-gratuity-culture-reached-a-tipping-point)
 * [2023-12-25, 21:35:45](https://news.ycombinator.com/item?id=38766352) - [The dark side of social media on youth mental health](https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179)
 * [2023-12-25, 21:22:50](https://news.ycombinator.com/item?id=38766244) - [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 * [2023-12-25, 21:35:45](https://news.ycombinator.com/item?id=38766352) - [The dark side of social media on youth mental health](https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179)
 * [2023-12-25, 21:22:50](https://news.ycombinator.com/item?id=38766244) - [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
-* [2023-12-25, 21:13:56](https://news.ycombinator.com/item?id=38766178) - [A recent software update was not successful. Your vehicle cannot be driven](https://twitter.com/danluu/status/1739387245034139692)
 * [2023-12-25, 20:13:13](https://news.ycombinator.com/item?id=38765698) - [Data scientists need to learn about significant digits](https://lemire.me/blog/2019/01/29/data-scientists-need-to-learn-about-significant-digits/)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [Do all roads lead to Rome?](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
