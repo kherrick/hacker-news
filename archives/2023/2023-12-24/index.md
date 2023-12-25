@@ -79,6 +79,7 @@
 * [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music. What the Heck?](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-24, 04:35:22](https://news.ycombinator.com/item?id=38751167) - [I Just Need a Programmer](https://blobstreaming.org/i-just-need-a-programmer/)
+* [2023-12-24, 04:09:02](https://news.ycombinator.com/item?id=38751025) - [The Renaissance changed beauty standards](https://www.washingtonpost.com/books/2023/12/14/how-be-renaissance-woman-jill-burke-review/)
 * [2023-12-24, 03:49:28](https://news.ycombinator.com/item?id=38750931) - [Why isn't the new year on the winter solstice? (2018)](https://slj.ma/cal.html)
 * [2023-12-24, 03:26:05](https://news.ycombinator.com/item?id=38750807) - [When the Power Macintosh Ran NetWare (Featuring Wormhole and Cyberpunk)](http://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:15:56](https://news.ycombinator.com/item?id=38750459) - [Unveiling the big leap in Ruby 3.3's IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
