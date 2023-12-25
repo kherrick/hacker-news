@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-25, 12:55:23",
+      "https://news.ycombinator.com/item?id=38762214"
+    ],
+    [
+      "Non-interactive SSH password authentication",
+      "https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 12:35:38",
+      "https://news.ycombinator.com/item?id=38762113"
+    ],
+    [
+      "Electricity That's Too Cheap to Meter",
+      "https://shkspr.mobi/blog/2023/12/electricity-thats-too-cheap-to-meter/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 12:31:44",
+      "https://news.ycombinator.com/item?id=38762095"
+    ],
+    [
+      "Goodbye Windows Mixed Reality, we hardly knew Microsoft's VR software",
+      "https://liliputing.com/goodbye-windows-mixed-reality-we-hardly-knew-microsofts-vr-software/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 12:27:50",
       "https://news.ycombinator.com/item?id=38762065"
     ],
@@ -17,6 +47,16 @@
     [
       "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
       "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 09:58:48",
+      "https://news.ycombinator.com/item?id=38761285"
+    ],
+    [
+      "Breakdown of AV1 Video Codec",
+      "https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2023-12-25, 02:58:52",
-      "https://news.ycombinator.com/item?id=38759257"
-    ],
-    [
-      "GTA 5 source code leaks online",
-      "https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report"
-    ]
-  ],
-  [
-    [
       "2023-12-25, 02:28:41",
       "https://news.ycombinator.com/item?id=38759092"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-12-24, 21:10:14",
-      "https://news.ycombinator.com/item?id=38756888"
-    ],
-    [
-      "\"Attention\", \"Transformers\", in Neural Network \"Large Language Models\"",
-      "http://bactra.org/notebooks/nn-attention-and-transformers.html"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 18:25:38",
       "https://news.ycombinator.com/item?id=38755412"
     ],
     [
       "Did English ever have a formal version of \"you\"? (2011)",
       "https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 18:23:18",
-      "https://news.ycombinator.com/item?id=38755388"
-    ],
-    [
-      "Synthesis Methods Explained: What Is FM Synthesis?",
-      "https://www.perfectcircuit.com/signal/what-is-fm-synthesis"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-12-24, 09:42:28",
-      "https://news.ycombinator.com/item?id=38752395"
+      "2023-12-24, 09:56:56",
+      "https://news.ycombinator.com/item?id=38752435"
     ],
     [
-      "Commodore Season's Greetings for the PET",
-      "https://www.masswerk.at/pet/?run=seasonsgreetings2023&ram=8&color=white"
+      "Neocities – Developers API",
+      "https://neocities.org/api"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "YM3812 Register Basics",
       "https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 20:11:58",
-      "https://news.ycombinator.com/item?id=38747710"
-    ],
-    [
-      "Show HN: An open-source, self-hostable synced narration platform for ebooks",
-      "https://smoores.gitlab.io/storyteller/"
     ]
   ],
   [
