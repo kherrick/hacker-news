@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
+* [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 16:17:38](https://news.ycombinator.com/item?id=38763777) - [Much of North America may face electricity shortages starting in 2024](https://www.newscientist.com/article/2409679-much-of-north-america-may-face-electricity-shortages-starting-in-2024/)
+* [2023-12-25, 16:17:21](https://news.ycombinator.com/item?id=38763772) - [B&H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
 * [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)

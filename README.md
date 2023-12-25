@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
+* [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 16:17:38](https://news.ycombinator.com/item?id=38763777) - [Much of North America may face electricity shortages starting in 2024](https://www.newscientist.com/article/2409679-much-of-north-america-may-face-electricity-shortages-starting-in-2024/)
+* [2023-12-25, 16:17:21](https://news.ycombinator.com/item?id=38763772) - [B&H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
 * [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
-* [2023-12-25, 12:01:29](https://news.ycombinator.com/item?id=38761915) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 09:58:48](https://news.ycombinator.com/item?id=38761285) - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
@@ -23,13 +25,11 @@
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
-* [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music. What the Heck?](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 * [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
-* [2023-12-22, 10:03:24](https://news.ycombinator.com/item?id=38732722) - [GNU Radio – Project Update 2023 Q4](https://www.gnuradio.org/news/2023-12-15-2023-Q4-Project-Update/)
 
 ## [Archives](archives/index.md)
 
