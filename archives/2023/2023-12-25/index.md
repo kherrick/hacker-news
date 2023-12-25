@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 21:13:56](https://news.ycombinator.com/item?id=38766178) - [A recent software update was not successful. Your vehicle cannot be driven](https://twitter.com/danluu/status/1739387245034139692)
 * [2023-12-25, 20:35:37](https://news.ycombinator.com/item?id=38765862) - [Ask HN: How to practice data analytics skills?](https://news.ycombinator.com/item?id=38765862)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:15:03](https://news.ycombinator.com/item?id=38765224) - [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)

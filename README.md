@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-25, 20:35:37](https://news.ycombinator.com/item?id=38765862) - [Ask HN: How to practice data analytics skills?](https://news.ycombinator.com/item?id=38765862)
+* [2023-12-25, 21:13:56](https://news.ycombinator.com/item?id=38766178) - [A recent software update was not successful. Your vehicle cannot be driven](https://twitter.com/danluu/status/1739387245034139692)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector (2018)](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 * [2023-12-25, 18:52:14](https://news.ycombinator.com/item?id=38765027) - [2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
