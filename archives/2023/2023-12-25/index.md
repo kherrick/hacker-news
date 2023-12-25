@@ -6,6 +6,7 @@
 
 * [2023-12-25, 17:37:39](https://news.ycombinator.com/item?id=38764427) - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
 * [2023-12-25, 17:26:18](https://news.ycombinator.com/item?id=38764354) - [Ask HN: All my iCloud Desktop files are gone](https://news.ycombinator.com/item?id=38764354)
+* [2023-12-25, 17:26:17](https://news.ycombinator.com/item?id=38764353) - [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 * [2023-12-25, 16:59:19](https://news.ycombinator.com/item?id=38764120) - [A cargo plane flew 50 miles with no pilot onboard using a semi-automated system](https://www.businessinsider.com/semi-automated-aviation-system-combat-pilot-shortage-cargo-plane-2023)
 * [2023-12-25, 16:47:05](https://news.ycombinator.com/item?id=38764005) - [Progressively Enhanced WebGL Lens Refraction](https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-25, 17:37:39](https://news.ycombinator.com/item?id=38764427) - [Is Software Getting Worse?](https://stackoverflow.blog/2023/12/25/is-software-getting-worse/)
+* [2023-12-25, 17:26:17](https://news.ycombinator.com/item?id=38764353) - [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 * [2023-12-25, 16:59:19](https://news.ycombinator.com/item?id=38764120) - [A cargo plane flew 50 miles with no pilot onboard using a semi-automated system](https://www.businessinsider.com/semi-automated-aviation-system-combat-pilot-shortage-cargo-plane-2023)
 * [2023-12-25, 16:17:21](https://news.ycombinator.com/item?id=38763772) - [B&H Photo Published an AI-Generated Guide Written by a Fake Person](https://petapixel.com/2023/12/14/bh-photo-published-an-ai-generated-guide-written-by-a-fake-person/)
@@ -21,7 +22,6 @@
 * [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu (2022)](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
-* [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
 * [2023-12-24, 05:26:04](https://news.ycombinator.com/item?id=38751363) - [YM3812 Register Basics](https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music. What the Heck?](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
