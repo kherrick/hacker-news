@@ -72,6 +72,7 @@
 * [2023-12-23, 10:05:07](https://news.ycombinator.com/item?id=38743029) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-23, 09:48:19](https://news.ycombinator.com/item?id=38742954) - [Europe has a wolf problem, and a late Norwegian philosopher had the solution](https://theconversation.com/europe-has-a-wolf-problem-and-a-late-norwegian-philosopher-had-the-solution-220113)
 * [2023-12-23, 09:46:13](https://news.ycombinator.com/item?id=38742942) - [Show HN: 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy](https://4dmodeller.github.io/fdmr/)
+* [2023-12-23, 09:36:12](https://news.ycombinator.com/item?id=38742896) - [Exploring Brazil's Remnant Atlantic Forest](https://photographylife.com/exploring-brazils-remnant-atlantic-forest)
 * [2023-12-23, 09:21:14](https://news.ycombinator.com/item?id=38742818) - [Meta censors pro-Palestinian views on a global scale, Human Rights Watch report](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report)
 * [2023-12-23, 09:13:36](https://news.ycombinator.com/item?id=38742783) - [A further short history of the SI prefixes (2022)](https://iopscience.iop.org/article/10.1088/1681-7575/ac6afd)
 * [2023-12-23, 08:52:29](https://news.ycombinator.com/item?id=38742694) - [DIY ventilation heat exchanger (2010)](https://ecorenovator.org/forum/showthread.php?s=41c17447383e29b03903f4e0136e55be&p=5792)
