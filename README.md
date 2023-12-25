@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-25, 04:42:46](https://news.ycombinator.com/item?id=38759877) - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
+* [2023-12-25, 03:24:11](https://news.ycombinator.com/item?id=38759392) - [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 * [2023-12-25, 02:58:52](https://news.ycombinator.com/item?id=38759257) - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 * [2023-12-25, 02:35:31](https://news.ycombinator.com/item?id=38759142) - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
@@ -18,7 +19,6 @@
 * [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the terminal bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
-* [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America lost the chestnut, its \"perfect tree\"](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:28:54](https://news.ycombinator.com/item?id=38754087) - [Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://www.designboom.com/technology/holcim-3d-prints-phoenix-reinforcement-free-concrete-bridge-12-14-2023/)
 * [2023-12-24, 09:42:28](https://news.ycombinator.com/item?id=38752395) - [Commodore Season's Greetings for the PET](https://www.masswerk.at/pet/?run=seasonsgreetings2023&ram=8&color=white)
@@ -28,7 +28,7 @@
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
-* [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
+* [2023-12-22, 11:12:38](https://news.ycombinator.com/item?id=38733088) - [Rare museum specimen reveals how trilobites curled themselves into a ball](https://phys.org/news/2023-12-rare-museum-specimen-reveals-insights.html)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)
