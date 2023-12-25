@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
 * [2023-12-25, 22:57:11](https://news.ycombinator.com/item?id=38767101) - [California Solar Duck Curve Gets Bigger](https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/)
+* [2023-12-25, 22:23:42](https://news.ycombinator.com/item?id=38766763) - [How Did Polyamory Become So Popular?](https://www.newyorker.com/magazine/2024/01/01/american-poly-christopher-gleason-book-review-more-a-memoir-of-open-marriage-molly-roden-winter)
 * [2023-12-25, 21:58:23](https://news.ycombinator.com/item?id=38766530) - [The Chevy Blazer EV Launch Has Gone from Rough to Worse as GM Issues Stop-Sale](https://www.thedrive.com/news/the-chevy-blazer-ev-launch-has-gone-from-rough-to-worse-as-gm-issues-stop-sale)
 * [2023-12-25, 21:56:56](https://news.ycombinator.com/item?id=38766512) - [How many legs do ten elephants have, if two of them are legless?](https://bard.google.com/share/038d1dc14e78?hl=en)
 * [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)

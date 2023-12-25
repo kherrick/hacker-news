@@ -71,6 +71,7 @@
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
 * [2023-12-24, 09:42:28](https://news.ycombinator.com/item?id=38752395) - [Commodore Season's Greetings for the PET](https://www.masswerk.at/pet/?run=seasonsgreetings2023&ram=8&color=white)
 * [2023-12-24, 09:38:09](https://news.ycombinator.com/item?id=38752385) - [Generals.io – Capture enemy generals to defeat them](https://generals.io/)
+* [2023-12-24, 08:58:59](https://news.ycombinator.com/item?id=38752241) - [Displays We Love Hacking: SPI and I2C](https://hackaday.com/2023/12/21/displays-we-love-hacking-spi-and-i2c/)
 * [2023-12-24, 08:57:05](https://news.ycombinator.com/item?id=38752232) - [Tesla Has a Design Problem](https://www.feedme.design/tesla-has-a-design-problem/)
 * [2023-12-24, 08:16:44](https://news.ycombinator.com/item?id=38752060) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 07:05:54](https://news.ycombinator.com/item?id=38751750) - [Beeper Mini Removed from Google Play](https://play.google.com/store/apps/details?id=com.beeper.ima)
