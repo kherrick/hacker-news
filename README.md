@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 07:13:25](https://news.ycombinator.com/item?id=38760521) - [\"How to Be Successful\" by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:49:09](https://news.ycombinator.com/item?id=38760193) - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
@@ -7,7 +8,6 @@
 * [2023-12-25, 04:42:11](https://news.ycombinator.com/item?id=38759875) - [Reforming Unix](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
 * [2023-12-25, 03:24:11](https://news.ycombinator.com/item?id=38759392) - [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
-* [2023-12-25, 02:58:52](https://news.ycombinator.com/item?id=38759257) - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 * [2023-12-25, 02:35:31](https://news.ycombinator.com/item?id=38759142) - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
 * [2023-12-25, 02:28:41](https://news.ycombinator.com/item?id=38759092) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=38759092)
 * [2023-12-25, 02:22:15](https://news.ycombinator.com/item?id=38759057) - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
