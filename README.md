@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
 * [2023-12-25, 04:42:46](https://news.ycombinator.com/item?id=38759877) - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
 * [2023-12-25, 03:24:11](https://news.ycombinator.com/item?id=38759392) - [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
 * [2023-12-25, 03:08:18](https://news.ycombinator.com/item?id=38759297) - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
@@ -28,7 +29,6 @@
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 20:16:08](https://news.ycombinator.com/item?id=38738144) - [The King of Silent Animation](https://www.nytimes.com/2023/12/19/nyregion/stathes-vintage-cartoons.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
-* [2023-12-22, 11:12:38](https://news.ycombinator.com/item?id=38733088) - [Rare museum specimen reveals how trilobites curled themselves into a ball](https://phys.org/news/2023-12-rare-museum-specimen-reveals-insights.html)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)
