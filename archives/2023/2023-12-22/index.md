@@ -120,6 +120,7 @@
 * [2023-12-22, 03:50:39](https://news.ycombinator.com/item?id=38730752) - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://chuny1.github.io/3DGPT/3dgpt.html)
 * [2023-12-22, 03:34:04](https://news.ycombinator.com/item?id=38730670) - [Humans have driven more than 1,400 bird species to extinction](https://english.elpais.com/science-tech/2023-12-20/humans-have-driven-more-than-1400-bird-species-to-extinction-double-what-was-previously-thought.html)
 * [2023-12-22, 03:12:33](https://news.ycombinator.com/item?id=38730528) - [Guidance on man pages for the GNU project is wild](https://social.jvns.ca/@b0rk/111607416578693170)
+* [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 * [2023-12-22, 02:20:05](https://news.ycombinator.com/item?id=38730143) - [Show HN: Emu2 – A Gemini-like open-source 37B Multimodal Model](https://news.ycombinator.com/item?id=38730143)
 * [2023-12-22, 02:13:39](https://news.ycombinator.com/item?id=38730107) - [Labs.Google](https://labs.google/)
 * [2023-12-22, 02:08:12](https://news.ycombinator.com/item?id=38730070) - [NLP Research in the Era of LLMs](https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms)
