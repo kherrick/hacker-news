@@ -66,6 +66,7 @@
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
 * [2023-12-24, 11:06:43](https://news.ycombinator.com/item?id=38752691) - [Resetting the Timer in My Toothbrush](https://nonnullish.pages.dev/posts/resetting-the-timer-in-my-toothbrush/)
+* [2023-12-24, 10:58:57](https://news.ycombinator.com/item?id=38752648) - [Capitalize My Title](https://capitalizemytitle.com/)
 * [2023-12-24, 10:36:29](https://news.ycombinator.com/item?id=38752569) - [Apple released an open source multimodal LLM in October](https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/)
 * [2023-12-24, 09:56:56](https://news.ycombinator.com/item?id=38752435) - [Neocities – Developers API](https://neocities.org/api)
 * [2023-12-24, 09:42:28](https://news.ycombinator.com/item?id=38752395) - [Commodore Season's Greetings for the PET](https://www.masswerk.at/pet/?run=seasonsgreetings2023&ram=8&color=white)

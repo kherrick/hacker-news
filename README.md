@@ -24,12 +24,12 @@
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [Ptext: A Nano-like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 09:25:54](https://news.ycombinator.com/item?id=38761115) - [Some Useful Bash Aliases (2022)](https://chuck.is/alias/)
-* [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
+* [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
+* [2023-12-24, 10:58:57](https://news.ycombinator.com/item?id=38752648) - [Capitalize My Title](https://capitalizemytitle.com/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 21:08:06](https://news.ycombinator.com/item?id=38748249) - [OCaml as the Universal Translator – DkSDK Merry Christmas 2023](https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023)
 * [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What lies beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
-* [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 
 ## [Archives](archives/index.md)
 
