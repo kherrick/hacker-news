@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
+* [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
 * [2023-12-25, 07:44:30](https://news.ycombinator.com/item?id=38760637) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:13:25](https://news.ycombinator.com/item?id=38760521) - [\"How to Be Successful\" by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
