@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 22:57:11](https://news.ycombinator.com/item?id=38767101) - [California Solar Duck Curve Gets Bigger](https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/)
 * [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 * [2023-12-25, 21:35:45](https://news.ycombinator.com/item?id=38766352) - [The dark side of social media on youth mental health](https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179)
 * [2023-12-25, 21:22:50](https://news.ycombinator.com/item?id=38766244) - [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
@@ -24,7 +25,6 @@
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [Ptext: A Nano-like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 09:25:54](https://news.ycombinator.com/item?id=38761115) - [Some Useful Bash Aliases (2022)](https://chuck.is/alias/)
-* [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
 * [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
