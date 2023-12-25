@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-25, 03:55:32](https://news.ycombinator.com/item?id=38759561) - [Most people think the U.S. crime rate is rising. They're wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
 * [2023-12-25, 02:58:52](https://news.ycombinator.com/item?id=38759257) - [GTA 5 source code leaks online](https://www.sportskeeda.com/gta/news-gta-5-source-code-leaks-online-giving-rockstar-huge-blow-christmas-report)
 * [2023-12-25, 02:35:31](https://news.ycombinator.com/item?id=38759142) - [Post-apocalyptic life in American health care](https://metarationality.com/post-apocalyptic-health-care)
 * [2023-12-25, 02:22:15](https://news.ycombinator.com/item?id=38759057) - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
+* [2023-12-25, 00:46:24](https://news.ycombinator.com/item?id=38758522) - [Genetic engineering was meant to save chestnut trees. Then there was a mistake.](https://www.washingtonpost.com/climate-environment/2023/12/24/chestnut-tree-genetic-engineering-mistake/)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2023-12-24, 23:28:10](https://news.ycombinator.com/item?id=38758063) - [x86-64 Assembly Language Programming with Ubuntu (2022)](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 23:03:01](https://news.ycombinator.com/item?id=38757887) - [The era of American computer magazines has drawn to a close](https://bytecellar.com/2023/12/23/the-era-of-american-computer-magazines-has-drawn-to-a-close/)
@@ -17,7 +19,6 @@
 * [2023-12-24, 19:00:26](https://news.ycombinator.com/item?id=38755694) - [Let the (terminal) bells ring out](https://muxup.com/2023q4/let-the-terminal-bells-ring-out)
 * [2023-12-24, 18:25:38](https://news.ycombinator.com/item?id=38755412) - [Did English ever have a formal version of \"you\"? (2011)](https://english.stackexchange.com/questions/9780/did-english-ever-have-a-formal-version-of-you)
 * [2023-12-24, 18:23:18](https://news.ycombinator.com/item?id=38755388) - [Synthesis Methods Explained: What Is FM Synthesis?](https://www.perfectcircuit.com/signal/what-is-fm-synthesis)
-* [2023-12-24, 16:37:18](https://news.ycombinator.com/item?id=38754581) - [America lost the chestnut, its \"perfect tree\"](https://www.theatlantic.com/science/archive/2023/12/american-chestnut-perfect-tree-restoration/676927/)
 * [2023-12-24, 15:28:54](https://news.ycombinator.com/item?id=38754087) - [Putting the \"J\" in the RPG, Part 3: Playing Final Fantasy VII](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-3-playing-final-fantasy-vii-or-old-man-yells-at-jrpg/)
 * [2023-12-24, 14:55:57](https://news.ycombinator.com/item?id=38753814) - [A circular 3D-printed concrete bridge](https://www.designboom.com/technology/holcim-3d-prints-phoenix-reinforcement-free-concrete-bridge-12-14-2023/)
 * [2023-12-24, 14:52:36](https://news.ycombinator.com/item?id=38753791) - [2024 Quadrantid meteor shower to peak January 3-4](https://earthsky.org/astronomy-essentials/everything-you-need-to-know-quadrantid-meteor-shower/)
@@ -28,7 +29,6 @@
 * [2023-12-23, 06:01:29](https://news.ycombinator.com/item?id=38742021) - [Improving our safety with a physical quantities and units library](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2981r1.html)
 * [2023-12-22, 20:23:38](https://news.ycombinator.com/item?id=38738224) - [Anselm's Ontological Argument: A Guide for the Perplexed](https://philosophicaldisquisitions.blogspot.com/2023/12/anselms-ontological-argument-guide-for.html)
 * [2023-12-22, 15:26:14](https://news.ycombinator.com/item?id=38735010) - [The Sphere](https://www.theparisreview.org/blog/2023/12/22/the-sphere/)
-* [2023-12-22, 09:28:59](https://news.ycombinator.com/item?id=38732520) - [Lazarus IDE 3.0](https://forum.lazarus.freepascal.org/index.php?topic=65612.0)
 * [2023-12-22, 03:00:18](https://news.ycombinator.com/item?id=38730455) - [Ichiki Shirō](https://en.wikipedia.org/wiki/Ichiki_Shir%C5%8D)
 
 ## [Archives](archives/index.md)
