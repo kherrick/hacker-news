@@ -2,7 +2,6 @@
 
 * [2023-12-25, 21:58:23](https://news.ycombinator.com/item?id=38766530) - [The Chevy Blazer EV Launch Has Gone from Rough to Worse as GM Issues Stop-Sale](https://www.thedrive.com/news/the-chevy-blazer-ev-launch-has-gone-from-rough-to-worse-as-gm-issues-stop-sale)
 * [2023-12-25, 21:56:56](https://news.ycombinator.com/item?id=38766512) - [How many legs do ten elephants have, if two of them are legless?](https://bard.google.com/share/038d1dc14e78?hl=en)
-* [2023-12-25, 21:37:36](https://news.ycombinator.com/item?id=38766366) - [Has gratuity culture reached a tipping point?](https://www.newyorker.com/magazine/2023/01/01/has-gratuity-culture-reached-a-tipping-point)
 * [2023-12-25, 21:22:50](https://news.ycombinator.com/item?id=38766244) - [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
 * [2023-12-25, 21:13:56](https://news.ycombinator.com/item?id=38766178) - [A recent software update was not successful. Your vehicle cannot be driven](https://twitter.com/danluu/status/1739387245034139692)
 * [2023-12-25, 20:13:13](https://news.ycombinator.com/item?id=38765698) - [Data scientists need to learn about significant digits](https://lemire.me/blog/2019/01/29/data-scientists-need-to-learn-about-significant-digits/)
@@ -20,16 +19,17 @@
 * [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 * [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
+* [2023-12-25, 15:28:29](https://news.ycombinator.com/item?id=38763366) - [Sid Meier's Memoir: A Life in Computer Games](https://wwnorton.com/books/9781324005872)
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [Ptext: A Nano-like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 09:25:54](https://news.ycombinator.com/item?id=38761115) - [Some Useful Bash Aliases (2022)](https://chuck.is/alias/)
 * [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
 * [2023-12-24, 12:55:52](https://news.ycombinator.com/item?id=38753170) - [My first Z80 assembly language program](https://nanochess.org/notebook.html)
-* [2023-12-24, 10:58:57](https://news.ycombinator.com/item?id=38752648) - [Capitalize My Title](https://capitalizemytitle.com/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 21:08:06](https://news.ycombinator.com/item?id=38748249) - [OCaml as the Universal Translator – DkSDK Merry Christmas 2023](https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023)
 * [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What lies beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
+* [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
 
 ## [Archives](archives/index.md)
 
