@@ -14,6 +14,7 @@
 * [2023-12-25, 15:51:53](https://news.ycombinator.com/item?id=38763566) - [Stupid Patent of the Month: Selfie Contests](https://www.eff.org/deeplinks/2023/12/stupid-patent-month-selfie-contests)
 * [2023-12-25, 15:06:06](https://news.ycombinator.com/item?id=38763165) - [Unblocking User Freedom: the right to use adblockers](https://fsfe.org/news/2023/news-20231220-01.en.html)
 * [2023-12-25, 14:59:04](https://news.ycombinator.com/item?id=38763094) - [Threads is blocking servers on the Fediverse. Here's how we unblocked ourselves.](https://soapbox.pub/blog/threads-server-blocking/)
+* [2023-12-25, 14:18:09](https://news.ycombinator.com/item?id=38762781) - [Ruby AOT Compiler – Keynote by Yukihiro \"Matz\" Matsumoto [video]](https://www.youtube.com/watch?v=4MM5b2F9zrM)
 * [2023-12-25, 14:13:17](https://news.ycombinator.com/item?id=38762747) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2023-12-25, 13:50:40](https://news.ycombinator.com/item?id=38762564) - [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
