@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 05:49:09](https://news.ycombinator.com/item?id=38760193) - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
 * [2023-12-25, 04:42:46](https://news.ycombinator.com/item?id=38759877) - [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
+* [2023-12-25, 04:42:11](https://news.ycombinator.com/item?id=38759875) - [Reforming Unix](https://github.com/Ericson2314/baccumulation/blob/main/reforming-unix.adoc)
 * [2023-12-25, 04:37:13](https://news.ycombinator.com/item?id=38759853) - [Flu deaths in the US (2017-2023) per week](https://old.reddit.com/r/dataisbeautiful/comments/18q3fi8/oc_flu_deaths_in_the_us_20172023/)
 * [2023-12-25, 03:55:32](https://news.ycombinator.com/item?id=38759561) - [Most people think the U.S. crime rate is rising. They're wrong](https://www.nbcnews.com/news/us-news/people-think-crime-rate-up-actually-down-rcna129585)
 * [2023-12-25, 03:24:11](https://news.ycombinator.com/item?id=38759392) - [Welcome to the Chata Programming Language](https://github.com/Slackadays/Chata)
