@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-25, 23:11:09](https://news.ycombinator.com/item?id=38767223) - [Internet Reset Button](https://twitter.com/ErrataRob/status/1739132876732674539)
+* [2023-12-26, 00:11:55](https://news.ycombinator.com/item?id=38767634) - [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
+* [2023-12-26, 00:00:44](https://news.ycombinator.com/item?id=38767548) - [Mystery of missing MH370 could be solved in a matter of \"days\"](https://www.news.com.au/travel/travel-updates/new-claim-mh370-hijacked-by-experienced-pilot-before-disappearance/news-story/fde7cda0991c581cafcf504f12090362)
+* [2023-12-25, 23:13:43](https://news.ycombinator.com/item?id=38767240) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 * [2023-12-25, 22:57:11](https://news.ycombinator.com/item?id=38767101) - [California Solar Duck Curve Gets Bigger](https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/)
-* [2023-12-25, 22:23:42](https://news.ycombinator.com/item?id=38766763) - [How Did Polyamory Become So Popular?](https://www.newyorker.com/magazine/2024/01/01/american-poly-christopher-gleason-book-review-more-a-memoir-of-open-marriage-molly-roden-winter)
+* [2023-12-25, 22:04:19](https://news.ycombinator.com/item?id=38766570) - [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
 * [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 * [2023-12-25, 21:35:45](https://news.ycombinator.com/item?id=38766352) - [The dark side of social media on youth mental health](https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179)
 * [2023-12-25, 21:22:50](https://news.ycombinator.com/item?id=38766244) - [Zapping municipal waste helps recover valuable phosphorus fertilizer](https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html)
@@ -10,7 +12,6 @@
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [Do all roads lead to Rome?](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector (2018)](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 * [2023-12-25, 19:09:29](https://news.ycombinator.com/item?id=38765176) - [Ask HN: Share your favorite software blog posts of 2023](https://news.ycombinator.com/item?id=38765176)
-* [2023-12-25, 18:01:48](https://news.ycombinator.com/item?id=38764628) - [Japan's SLIM 'moon sniper' lander arrives in lunar orbit for Christmas](https://www.space.com/japan-slim-moon-lander-arrives-lunar-orbit)
 * [2023-12-25, 17:45:06](https://news.ycombinator.com/item?id=38764482) - [TLA+ in Isabelle/HOL](https://davecturner.github.io/2018/02/12/tla-in-isabelle.html)
 * [2023-12-25, 17:40:56](https://news.ycombinator.com/item?id=38764452) - [Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)
 * [2023-12-25, 17:38:04](https://news.ycombinator.com/item?id=38764430) - [The Neat Programming Language](https://neat-lang.github.io/)
@@ -19,7 +20,6 @@
 * [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 * [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 16:15:02](https://news.ycombinator.com/item?id=38763743) - [Matter, set to fix smart home standards in 2023, stumbled in the real market](https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/)
-* [2023-12-25, 15:28:29](https://news.ycombinator.com/item?id=38763366) - [Sid Meier's Memoir: A Life in Computer Games](https://wwnorton.com/books/9781324005872)
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
 * [2023-12-25, 12:56:22](https://news.ycombinator.com/item?id=38762223) - [Lagrange points could become battlegrounds in a new space race](https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
@@ -29,7 +29,7 @@
 * [2023-12-24, 08:58:59](https://news.ycombinator.com/item?id=38752241) - [Displays We Love Hacking: SPI and I2C](https://hackaday.com/2023/12/21/displays-we-love-hacking-spi-and-i2c/)
 * [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 21:08:06](https://news.ycombinator.com/item?id=38748249) - [OCaml as the Universal Translator – DkSDK Merry Christmas 2023](https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023)
-* [2023-12-23, 18:57:17](https://news.ycombinator.com/item?id=38746954) - [Mathematical Intimidation: Driven by the data (2011) [pdf]](https://www.ams.org/notices/201105/rtx110500667p.pdf)
+* [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [Collections: How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 
 ## [Archives](archives/index.md)
 

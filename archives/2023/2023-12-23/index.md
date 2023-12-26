@@ -86,6 +86,7 @@
 * [2023-12-23, 08:27:20](https://news.ycombinator.com/item?id=38742585) - [Optical Media Durability (2020)](https://blog.dshr.org/2020/08/optical-media-durability-update.html)
 * [2023-12-23, 08:05:06](https://news.ycombinator.com/item?id=38742510) - [Filmolino SlideScanner](https://filmolino.com/slidescanner/)
 * [2023-12-23, 08:03:59](https://news.ycombinator.com/item?id=38742505) - [How the light gets in: a solstice at the border of life and death](https://bessstillman.substack.com/p/how-the-light-gets-in-a-solstice)
+* [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [Collections: How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 * [2023-12-23, 07:21:18](https://news.ycombinator.com/item?id=38742324) - [Detecting FTL with LIGO](https://blog.georgovassilis.com/2023/12/23/detecting-ftl-travel-with-ligo/)
 * [2023-12-23, 07:17:53](https://news.ycombinator.com/item?id=38742311) - [Ask HN: What's the coolest non standard application of LLMs you've seen?](https://news.ycombinator.com/item?id=38742311)
 * [2023-12-23, 06:18:27](https://news.ycombinator.com/item?id=38742092) - [You're Supposed to Be Glad Your Tesla Is a Brittle Heap of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)
