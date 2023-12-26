@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 19:46:45](https://news.ycombinator.com/item?id=38775323) - [There is a misconception that if something's on the internet it'll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
 * [2023-12-26, 19:27:20](https://news.ycombinator.com/item?id=38775096) - [A guide to block Facebook, Twitter, and TikTok from your Linux machine](https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
@@ -12,11 +13,13 @@
 * [2023-12-26, 17:29:16](https://news.ycombinator.com/item?id=38773775) - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
 * [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
 * [2023-12-26, 17:17:45](https://news.ycombinator.com/item?id=38773662) - [Positive News for 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
+* [2023-12-26, 17:05:38](https://news.ycombinator.com/item?id=38773533) - [37C3 Unlocked (37th Chaos Communication Congress)](https://events.ccc.de/congress/2023/infos/startpage.html)
 * [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:54:19](https://news.ycombinator.com/item?id=38773426) - [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
 * [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
 * [2023-12-26, 16:30:05](https://news.ycombinator.com/item?id=38773177) - [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
 * [2023-12-26, 16:27:09](https://news.ycombinator.com/item?id=38773147) - [OpenAI Pissed Off Developers by Phasing Out Plugins for GPTs](https://gizmodo.com/openai-pissed-off-developers-by-phasing-out-plugins-for-1851124124)
+* [2023-12-26, 16:23:49](https://news.ycombinator.com/item?id=38773104) - [Osdev.org](https://wiki.osdev.org/Expanded_Main_Page)
 * [2023-12-26, 16:18:33](https://news.ycombinator.com/item?id=38773049) - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
