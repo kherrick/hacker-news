@@ -14,6 +14,7 @@
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
+* [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [Simple Made Easy (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
 * [2023-12-26, 00:02:53](https://news.ycombinator.com/item?id=38767561) - [Electronic soil boosts crop growth](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
@@ -29,7 +30,6 @@
 * [2023-12-25, 08:01:58](https://news.ycombinator.com/item?id=38760727) - [The impact of non-participation on results from PISA 2015](https://link.springer.com/article/10.1007/s11092-020-09329-5)
 * [2023-12-25, 00:44:32](https://news.ycombinator.com/item?id=38758506) - [Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 * [2023-12-23, 20:20:22](https://news.ycombinator.com/item?id=38747798) - [Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
-* [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 
 ## [Archives](archives/index.md)
 
