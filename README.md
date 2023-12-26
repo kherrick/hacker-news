@@ -2,7 +2,7 @@
 
 * [2023-12-26, 22:27:35](https://news.ycombinator.com/item?id=38776782) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
 * [2023-12-26, 22:04:05](https://news.ycombinator.com/item?id=38776591) - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
-* [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob](http://cryptocouple.com/)
+* [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob (2017)](http://cryptocouple.com/)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:46:24](https://news.ycombinator.com/item?id=38775882) - [30 years of Donald Knuth's 'Christmas Lectures' are online – including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
 * [2023-12-26, 20:26:55](https://news.ycombinator.com/item?id=38775696) - [Putting the \"J\" in the RPG, Part 2: Playstation for the Win](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-2-playstation-for-the-win/)
