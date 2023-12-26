@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-26, 13:08:24",
+      "https://news.ycombinator.com/item?id=38771452"
+    ],
+    [
+      "Why Prusa is floundering, and how you can avoid their fate",
+      "https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 12:53:33",
       "https://news.ycombinator.com/item?id=38771354"
     ],
@@ -47,16 +57,6 @@
     [
       "A copy-and-patch JIT compiler for CPython",
       "https://github.com/python/cpython/pull/113465"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 06:41:35",
-      "https://news.ycombinator.com/item?id=38769416"
-    ],
-    [
-      "Croquet: Live, network-transparent 3D gaming",
-      "https://www.theregister.com/2023/03/23/croquet_for_unity/"
     ]
   ],
   [
