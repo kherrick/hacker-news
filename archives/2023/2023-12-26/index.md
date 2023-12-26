@@ -7,6 +7,7 @@
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 * [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs Emails Eric Schmidt](https://twitter.com/TechEmails/status/1443263744906305543)
 * [2023-12-26, 05:18:33](https://news.ycombinator.com/item?id=38769117) - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
+* [2023-12-26, 05:01:46](https://news.ycombinator.com/item?id=38769056) - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 04:32:29](https://news.ycombinator.com/item?id=38768940) - [I Reviewed 1,000s of Opinions on gRPC](https://konfigthis.com/blog/grpc)
 * [2023-12-26, 03:48:43](https://news.ycombinator.com/item?id=38768755) - [Is Social Media Making Us Stupid?](https://chuck.is/stupid/)
