@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 14:23:01](https://news.ycombinator.com/item?id=38771981) - [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
+* [2023-12-26, 13:24:41](https://news.ycombinator.com/item?id=38771561) - [Obsidian 1.5 Desktop (Public)](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
 * [2023-12-26, 13:18:43](https://news.ycombinator.com/item?id=38771513) - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
+* [2023-12-26, 13:14:35](https://news.ycombinator.com/item?id=38771488) - [Ask HN: How are you using ChatGPT for yourself?](https://news.ycombinator.com/item?id=38771488)
 * [2023-12-26, 13:08:24](https://news.ycombinator.com/item?id=38771452) - [Why Prusa is floundering, and how you can avoid their fate](https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html)
 * [2023-12-26, 13:06:48](https://news.ycombinator.com/item?id=38771437) - [Extinguishing the EV Battery Fire Hype](https://spectrum.ieee.org/lithium-ion-battery-fires)
 * [2023-12-26, 13:06:29](https://news.ycombinator.com/item?id=38771436) - [Apple is officially no longer selling the newest Apple Watch in America](https://www.cnn.com/2023/12/26/tech/apple-watch-ban/index.html)
@@ -13,8 +16,6 @@
 * [2023-12-26, 05:01:46](https://news.ycombinator.com/item?id=38769056) - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
-* [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
-* [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [Simple Made Easy (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
 * [2023-12-26, 00:02:53](https://news.ycombinator.com/item?id=38767561) - [Electronic soil boosts crop growth](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
@@ -29,7 +30,6 @@
 * [2023-12-25, 08:01:58](https://news.ycombinator.com/item?id=38760727) - [The impact of non-participation on results from PISA 2015](https://link.springer.com/article/10.1007/s11092-020-09329-5)
 * [2023-12-25, 00:44:32](https://news.ycombinator.com/item?id=38758506) - [Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 * [2023-12-23, 20:20:22](https://news.ycombinator.com/item?id=38747798) - [Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
-* [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 
 ## [Archives](archives/index.md)
 
