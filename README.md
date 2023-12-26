@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
 * [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:55:15](https://news.ycombinator.com/item?id=38768262) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
@@ -22,10 +23,9 @@
 * [2023-12-25, 17:35:52](https://news.ycombinator.com/item?id=38764412) - [Towards Oberon+ Concurrency](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
 * [2023-12-25, 17:26:17](https://news.ycombinator.com/item?id=38764353) - [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
-* [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
-* [2023-12-25, 12:56:22](https://news.ycombinator.com/item?id=38762223) - [Lagrange points could become battlegrounds in a new space race](https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+* [2023-12-25, 00:44:32](https://news.ycombinator.com/item?id=38758506) - [Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 * [2023-12-24, 12:11:09](https://news.ycombinator.com/item?id=38752959) - [toastermuseum.com](http://www.toastermuseum.com/scripts/toastercollection/collection01.html)
 * [2023-12-24, 12:07:30](https://news.ycombinator.com/item?id=38752946) - [Many prehistoric handprints show missing finger. What if this wasn't accidental?](https://www.theguardian.com/science/2023/dec/23/prehistoric-handprints-finger-missing-ritually-removed)
 * [2023-12-24, 08:58:59](https://news.ycombinator.com/item?id=38752241) - [Displays We Love Hacking: SPI and I2C](https://hackaday.com/2023/12/21/displays-we-love-hacking-spi-and-i2c/)

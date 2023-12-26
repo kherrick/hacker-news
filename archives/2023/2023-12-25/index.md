@@ -89,4 +89,5 @@
 * [2023-12-25, 02:28:41](https://news.ycombinator.com/item?id=38759092) - [Tell HN: Merry Christmas](https://news.ycombinator.com/item?id=38759092)
 * [2023-12-25, 02:22:15](https://news.ycombinator.com/item?id=38759057) - [Retro-Computing Society of Rhode Island](https://rcsri.org/rcs-info.shtml)
 * [2023-12-25, 00:46:24](https://news.ycombinator.com/item?id=38758522) - [Genetic engineering was meant to save chestnut trees. Then there was a mistake.](https://www.washingtonpost.com/climate-environment/2023/12/24/chestnut-tree-genetic-engineering-mistake/)
+* [2023-12-25, 00:44:32](https://news.ycombinator.com/item?id=38758506) - [Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 * [2023-12-25, 00:16:34](https://news.ycombinator.com/item?id=38758355) - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
