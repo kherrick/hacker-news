@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 11:01:01](https://news.ycombinator.com/item?id=38770693) - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
 * [2023-12-26, 09:21:11](https://news.ycombinator.com/item?id=38770168) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 09:18:04](https://news.ycombinator.com/item?id=38770151) - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
@@ -20,7 +21,6 @@
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [A closer look at the Tabula Peutingeriana](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector (2018)](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 * [2023-12-25, 17:40:56](https://news.ycombinator.com/item?id=38764452) - [Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)
-* [2023-12-25, 17:26:17](https://news.ycombinator.com/item?id=38764353) - [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 13:35:19](https://news.ycombinator.com/item?id=38762461) - [Writing Code Is the Same Thing as Writing Prose](https://www.gybe.ca/writing-code-is-the-same-thing-as-writing-prose/)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 10:35:04](https://news.ycombinator.com/item?id=38761464) - [The Walk and Talk: Everything We Know](https://craigmod.com/ridgeline/176/)

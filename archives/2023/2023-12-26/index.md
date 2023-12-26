@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 11:01:01](https://news.ycombinator.com/item?id=38770693) - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
 * [2023-12-26, 09:21:11](https://news.ycombinator.com/item?id=38770168) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 09:18:04](https://news.ycombinator.com/item?id=38770151) - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
