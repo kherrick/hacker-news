@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:47:12](https://news.ycombinator.com/item?id=38775890) - [Women from privileged backgrounds pursue prestigious professions over lucrative](https://phys.org/news/2023-12-women-privileged-backgrounds-pursue-prestigious.html)
 * [2023-12-26, 20:46:24](https://news.ycombinator.com/item?id=38775882) - [30 years of Donald Knuth's 'Christmas Lectures' are online – including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
@@ -14,6 +15,7 @@
 * [2023-12-26, 19:02:18](https://news.ycombinator.com/item?id=38774792) - [XPath Scraping with FreshRSS](https://danq.me/2022/09/27/freshrss-xpath/)
 * [2023-12-26, 18:38:02](https://news.ycombinator.com/item?id=38774547) - [Multicellularity arose several times in the evolution of eukaryotes (2013)](https://onlinelibrary.wiley.com/doi/10.1002/bies.201200143)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
+* [2023-12-26, 18:21:52](https://news.ycombinator.com/item?id=38774350) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
 * [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
