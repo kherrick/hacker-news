@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-26, 17:53:56",
+      "https://news.ycombinator.com/item?id=38774026"
+    ],
+    [
+      "Show HN: I made a GPU VRAM calculator for transformer-based models",
+      "https://vram.asmirnov.xyz/"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 17:47:27",
       "https://news.ycombinator.com/item?id=38773957"
     ],
@@ -287,16 +297,6 @@
     [
       "YoWASP aims to distribute up-to-date FOSS FPGA tools compiled to WebAssembly",
       "http://yowasp.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 20:20:22",
-      "https://news.ycombinator.com/item?id=38747798"
-    ],
-    [
-      "Goodsteins theorem",
-      "https://en.wikipedia.org/wiki/Goodstein%27s_theorem"
     ]
   ]
 ]
