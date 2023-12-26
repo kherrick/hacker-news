@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
+* [2023-12-26, 19:58:41](https://news.ycombinator.com/item?id=38775439) - [Moderna's mRNA cancer vaccine works even better than thought](https://www.freethink.com/health/cancer-vaccine)
 * [2023-12-26, 19:46:45](https://news.ycombinator.com/item?id=38775323) - [There is a misconception that if something's on the internet it'll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
 * [2023-12-26, 19:27:20](https://news.ycombinator.com/item?id=38775096) - [A guide to block Facebook, Twitter, and TikTok from your Linux machine](https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html)
 * [2023-12-26, 19:20:46](https://news.ycombinator.com/item?id=38775017) - [YouTube Bans Baldur's Gate 3 Jaheira Actor](https://gamerant.com/baldurs-gate-3-jaheira-tracy-wiles-youtube-banned-why/)

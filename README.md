@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
+* [2023-12-26, 19:58:41](https://news.ycombinator.com/item?id=38775439) - [Moderna's mRNA cancer vaccine works even better than thought](https://www.freethink.com/health/cancer-vaccine)
 * [2023-12-26, 19:46:45](https://news.ycombinator.com/item?id=38775323) - [There is a misconception that if something's on the internet it'll last for](https://www.theguardian.com/media/2023/nov/18/giulia-carla-rossi-british-library-digital-curator-preserving-internet-publications)
 * [2023-12-26, 19:20:46](https://news.ycombinator.com/item?id=38775017) - [YouTube Bans Baldur's Gate 3 Jaheira Actor](https://gamerant.com/baldurs-gate-3-jaheira-tracy-wiles-youtube-banned-why/)
 * [2023-12-26, 19:02:18](https://news.ycombinator.com/item?id=38774792) - [XPath Scraping with FreshRSS](https://danq.me/2022/09/27/freshrss-xpath/)
-* [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
