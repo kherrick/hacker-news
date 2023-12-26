@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
-* [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
 * [2023-12-26, 05:18:33](https://news.ycombinator.com/item?id=38769117) - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
 * [2023-12-26, 05:01:46](https://news.ycombinator.com/item?id=38769056) - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
@@ -15,6 +14,7 @@
 * [2023-12-25, 23:38:55](https://news.ycombinator.com/item?id=38767408) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-25, 23:13:43](https://news.ycombinator.com/item?id=38767240) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 * [2023-12-25, 22:04:19](https://news.ycombinator.com/item?id=38766570) - [Nintendo Network shutdown – The beginning of the end](https://pretendo.network/blog/12-23-23)
+* [2023-12-25, 21:52:11](https://news.ycombinator.com/item?id=38766484) - [When a postdoc in my lab committed fraud, I had to face my own culpability](https://www.science.org/content/article/when-postdoc-in-my-lab-committed-fraud-i-had-to-face-my-culpability)
 * [2023-12-25, 21:39:46](https://news.ycombinator.com/item?id=38766381) - [Evolving Reservoirs for Meta Reinforcement Learning](https://arxiv.org/abs/2312.06695)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [A closer look at the Tabula Peutingeriana](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
