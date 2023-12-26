@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
 * [2023-12-26, 09:21:11](https://news.ycombinator.com/item?id=38770168) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
+* [2023-12-26, 09:18:04](https://news.ycombinator.com/item?id=38770151) - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 * [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs Emails Eric Schmidt](https://twitter.com/TechEmails/status/1443263744906305543)
