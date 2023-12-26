@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [\"Simple Made Easy\" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 01:01:51](https://news.ycombinator.com/item?id=38767936) - [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [\"Simple Made Easy\" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 01:01:51](https://news.ycombinator.com/item?id=38767936) - [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
-* [2023-12-26, 00:11:55](https://news.ycombinator.com/item?id=38767634) - [Live in Cook County Jail](https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail)
 * [2023-12-26, 00:02:53](https://news.ycombinator.com/item?id=38767561) - [Electronic soil boosts crop growth by over 50%](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
 * [2023-12-25, 23:38:55](https://news.ycombinator.com/item?id=38767408) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-25, 23:13:43](https://news.ycombinator.com/item?id=38767240) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
