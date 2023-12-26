@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
 * [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:55:15](https://news.ycombinator.com/item?id=38768262) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [\"Simple Made Easy\" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
@@ -25,7 +26,6 @@
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
 * [2023-12-25, 12:56:22](https://news.ycombinator.com/item?id=38762223) - [Lagrange points could become battlegrounds in a new space race](https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
-* [2023-12-24, 20:01:12](https://news.ycombinator.com/item?id=38756319) - [Interview about Austral, a systems programming language with linear types](https://blog.lambdaclass.com/austral/)
 * [2023-12-24, 12:11:09](https://news.ycombinator.com/item?id=38752959) - [toastermuseum.com](http://www.toastermuseum.com/scripts/toastercollection/collection01.html)
 * [2023-12-24, 12:07:30](https://news.ycombinator.com/item?id=38752946) - [Many prehistoric handprints show missing finger. What if this wasn't accidental?](https://www.theguardian.com/science/2023/dec/23/prehistoric-handprints-finger-missing-ritually-removed)
 * [2023-12-24, 08:58:59](https://news.ycombinator.com/item?id=38752241) - [Displays We Love Hacking: SPI and I2C](https://hackaday.com/2023/12/21/displays-we-love-hacking-spi-and-i2c/)
