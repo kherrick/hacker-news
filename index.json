@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-26, 01:01:51",
+      "https://news.ycombinator.com/item?id=38767936"
+    ],
+    [
+      "Fed court rules for retired engineer told by state to not talk about math",
+      "https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 00:11:55",
       "https://news.ycombinator.com/item?id=38767634"
     ],
     [
       "Live in Cook County Jail",
       "https://en.wikipedia.org/wiki/Live_in_Cook_County_Jail"
+    ]
+  ],
+  [
+    [
+      "2023-12-26, 00:02:53",
+      "https://news.ycombinator.com/item?id=38767561"
+    ],
+    [
+      "Electronic soil boosts crop growth by over 50%",
+      "https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/"
     ]
   ],
   [
@@ -21,22 +41,22 @@
   ],
   [
     [
-      "2023-12-25, 23:13:43",
-      "https://news.ycombinator.com/item?id=38767240"
+      "2023-12-25, 23:38:55",
+      "https://news.ycombinator.com/item?id=38767408"
     ],
     [
-      "Emulating an iPod Touch 2G using QEMU",
-      "https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/"
+      "Using Qt for Mobile in 2023",
+      "https://camg.me/qt-mobile-2023/"
     ]
   ],
   [
     [
-      "2023-12-25, 22:57:11",
-      "https://news.ycombinator.com/item?id=38767101"
+      "2023-12-25, 23:38:11",
+      "https://news.ycombinator.com/item?id=38767402"
     ],
     [
-      "California Solar Duck Curve Gets Bigger",
-      "https://cleantechnica.com/2023/12/19/california-solar-duck-curve-gets-bigger/"
+      "NYU Student Owns a $6M Crypto Mine. His Secret Is Out",
+      "https://www.nytimes.com/2023/12/25/technology/bitrush-bitcoin-cryptocurrency-china.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Nintendo Network shutdown – The beginning of the end",
       "https://pretendo.network/blog/12-23-23"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 21:52:11",
+      "https://news.ycombinator.com/item?id=38766484"
+    ],
+    [
+      "When a postdoc in my lab committed fraud, I had to face my own culpability",
+      "https://www.science.org/content/article/when-postdoc-in-my-lab-committed-fraud-i-had-to-face-my-culpability"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "The dark side of social media on youth mental health",
       "https://www.psypost.org/2023/12/the-dark-side-of-social-media-on-youth-mental-health-215179"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 21:22:50",
-      "https://news.ycombinator.com/item?id=38766244"
-    ],
-    [
-      "Zapping municipal waste helps recover valuable phosphorus fertilizer",
-      "https://phys.org/news/2023-06-zapping-municipal-recover-valuable-phosphorus.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-12-25, 16:15:02",
-      "https://news.ycombinator.com/item?id=38763743"
-    ],
-    [
-      "Matter, set to fix smart home standards in 2023, stumbled in the real market",
-      "https://arstechnica.com/gadgets/2023/12/matter-was-more-of-a-nice-smart-home-concept-than-useful-reality-in-2023/"
-    ]
-  ],
-  [
-    [
       "2023-12-25, 15:18:52",
       "https://news.ycombinator.com/item?id=38763285"
     ],
@@ -241,22 +251,22 @@
   ],
   [
     [
-      "2023-12-25, 09:25:54",
-      "https://news.ycombinator.com/item?id=38761115"
-    ],
-    [
-      "Some Useful Bash Aliases (2022)",
-      "https://chuck.is/alias/"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 20:01:12",
       "https://news.ycombinator.com/item?id=38756319"
     ],
     [
       "Interview about Austral, a systems programming language with linear types",
       "https://blog.lambdaclass.com/austral/"
+    ]
+  ],
+  [
+    [
+      "2023-12-24, 12:11:09",
+      "https://news.ycombinator.com/item?id=38752959"
+    ],
+    [
+      "toastermuseum.com",
+      "http://www.toastermuseum.com/scripts/toastercollection/collection01.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Quantum Computer Music",
       "https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck"
-    ]
-  ],
-  [
-    [
-      "2023-12-23, 21:08:06",
-      "https://news.ycombinator.com/item?id=38748249"
-    ],
-    [
-      "OCaml as the Universal Translator – DkSDK Merry Christmas 2023",
-      "https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023"
     ]
   ],
   [
