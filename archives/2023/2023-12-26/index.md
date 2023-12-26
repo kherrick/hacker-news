@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 17:17:45](https://news.ycombinator.com/item?id=38773662) - [Positive News for 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
 * [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:54:19](https://news.ycombinator.com/item?id=38773426) - [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
 * [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
@@ -12,9 +13,11 @@
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 * [2023-12-26, 16:02:47](https://news.ycombinator.com/item?id=38772907) - [Deploying the Octothorpe (#)](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
+* [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
 * [2023-12-26, 15:39:53](https://news.ycombinator.com/item?id=38772680) - [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
 * [2023-12-26, 15:13:08](https://news.ycombinator.com/item?id=38772382) - [Show HN: Whataaabout.com – unique activity ideas for the holiday break](https://www.whataaabout.com/)
 * [2023-12-26, 14:31:11](https://news.ycombinator.com/item?id=38772045) - [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
+* [2023-12-26, 14:30:05](https://news.ycombinator.com/item?id=38772039) - [Show HN: Just.sh – compiler that turns Justfiles into portable shell scripts](https://github.com/jstrieb/just.sh)
 * [2023-12-26, 14:28:19](https://news.ycombinator.com/item?id=38772024) - [Shelf life: novelist Hanya Yanagihara on living with 12,000 books (2017)](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
 * [2023-12-26, 14:23:01](https://news.ycombinator.com/item?id=38771981) - [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
 * [2023-12-26, 13:24:41](https://news.ycombinator.com/item?id=38771561) - [Obsidian 1.5 Desktop (Public)](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
@@ -39,6 +42,7 @@
 * [2023-12-26, 05:01:46](https://news.ycombinator.com/item?id=38769056) - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 04:32:29](https://news.ycombinator.com/item?id=38768940) - [I Reviewed 1,000s of Opinions on gRPC](https://konfigthis.com/blog/grpc)
+* [2023-12-26, 03:53:44](https://news.ycombinator.com/item?id=38768779) - [2023 Medley Interlisp Project Annual Report](https://interlisp.org/project/status/2023medleyannualreport/)
 * [2023-12-26, 03:48:43](https://news.ycombinator.com/item?id=38768755) - [Is Social Media Making Us Stupid?](https://chuck.is/stupid/)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
