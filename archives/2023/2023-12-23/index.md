@@ -19,6 +19,7 @@
 * [2023-12-23, 21:07:36](https://news.ycombinator.com/item?id=38748243) - [What Lies Beneath the Vatican of the Zapotecs?](https://www.nytimes.com/2023/12/23/science/archaeology-mexico-zapotecs.html)
 * [2023-12-23, 20:52:55](https://news.ycombinator.com/item?id=38748120) - [Par: Paragraph reformatter, vaguely similar to fmt, but better](http://www.nicemice.net/par/)
 * [2023-12-23, 20:49:43](https://news.ycombinator.com/item?id=38748087) - [2TB microSD card is on the way early next year](https://overkill.wtf/2tb-microsd-card-on-the-way/)
+* [2023-12-23, 20:20:22](https://news.ycombinator.com/item?id=38747798) - [Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
 * [2023-12-23, 20:15:25](https://news.ycombinator.com/item?id=38747747) - [Cummins pickup truck engines systematically tricked air pollution controls](https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/)
 * [2023-12-23, 20:13:57](https://news.ycombinator.com/item?id=38747733) - [The Rise of the Forever Renters](https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249)
 * [2023-12-23, 20:11:58](https://news.ycombinator.com/item?id=38747710) - [Show HN: An open-source, self-hostable synced narration platform for ebooks](https://smoores.gitlab.io/storyteller/)
