@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
+* [2023-12-26, 17:29:16](https://news.ycombinator.com/item?id=38773775) - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
+* [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
 * [2023-12-26, 17:17:45](https://news.ycombinator.com/item?id=38773662) - [Positive News for 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
 * [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:54:19](https://news.ycombinator.com/item?id=38773426) - [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
