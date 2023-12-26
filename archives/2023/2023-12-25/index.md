@@ -66,6 +66,7 @@
 * [2023-12-25, 11:48:13](https://news.ycombinator.com/item?id=38761849) - [Where Are the Sanity Checks?](https://eclecticlight.co/2023/12/25/where-are-the-sanity-checks/)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
 * [2023-12-25, 11:16:06](https://news.ycombinator.com/item?id=38761666) - [Two Minute Tips: The Dark Secrets of Bools](https://jacobbartlett.substack.com/p/2-minute-tips-the-dark-secrets-of)
+* [2023-12-25, 10:35:04](https://news.ycombinator.com/item?id=38761464) - [The Walk and Talk: Everything We Know](https://craigmod.com/ridgeline/176/)
 * [2023-12-25, 10:11:26](https://news.ycombinator.com/item?id=38761346) - [CrayZee Eighty](https://rc2014.co.uk/1865/crayzee-eighty/)
 * [2023-12-25, 09:58:48](https://news.ycombinator.com/item?id=38761285) - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 * [2023-12-25, 09:50:45](https://news.ycombinator.com/item?id=38761243) - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
