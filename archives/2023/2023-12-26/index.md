@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 19:27:20](https://news.ycombinator.com/item?id=38775096) - [A guide to block Facebook, Twitter, and TikTok from your Linux machine](https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)

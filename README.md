@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 19:27:20](https://news.ycombinator.com/item?id=38775096) - [A guide to block Facebook, Twitter, and TikTok from your Linux machine](https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
@@ -10,7 +11,7 @@
 * [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
 * [2023-12-26, 16:18:33](https://news.ycombinator.com/item?id=38773049) - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
-* [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
+* [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 * [2023-12-26, 15:57:43](https://news.ycombinator.com/item?id=38772862) - [Adventures in reverse engineering Broadcom NIC firmware](https://www.devever.net/~hl/ortega)
 * [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
@@ -22,7 +23,6 @@
 * [2023-12-26, 08:21:45](https://news.ycombinator.com/item?id=38769850) - [Black Triangles (2014)](https://rampantgames.com/blog/?p=7745)
 * [2023-12-26, 08:18:03](https://news.ycombinator.com/item?id=38769827) - [Learn Modern C++](https://learnmoderncpp.com/)
 * [2023-12-26, 07:53:25](https://news.ycombinator.com/item?id=38769700) - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
-* [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 03:53:44](https://news.ycombinator.com/item?id=38768779) - [2023 Medley Interlisp Project Annual Report](https://interlisp.org/project/status/2023medleyannualreport/)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [A closer look at the Tabula Peutingeriana](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
 * [2023-12-25, 16:53:19](https://news.ycombinator.com/item?id=38764063) - [Bob Dylan's Christmas Lights: A Scholarly Treatise](https://merrillmarkoe.substack.com/p/dylans-christmas-lights-a-scholarly)
