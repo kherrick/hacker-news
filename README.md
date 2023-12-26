@@ -4,6 +4,7 @@
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
+* [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
 * [2023-12-26, 17:17:45](https://news.ycombinator.com/item?id=38773662) - [Positive news from 2023](https://www.gapminder.org/news/100-positive-news-from-2023/)
@@ -29,7 +30,6 @@
 * [2023-12-25, 16:53:19](https://news.ycombinator.com/item?id=38764063) - [Bob Dylan's Christmas Lights: A Scholarly Treatise](https://merrillmarkoe.substack.com/p/dylans-christmas-lights-a-scholarly)
 * [2023-12-25, 13:03:28](https://news.ycombinator.com/item?id=38762272) - [Researchers are scaling up solar-powered kelp farms](https://spectrum.ieee.org/kelp-farm-carbon)
 * [2023-12-25, 03:52:47](https://news.ycombinator.com/item?id=38759549) - [YoWASP aims to distribute up-to-date FOSS FPGA tools compiled to WebAssembly](http://yowasp.org/)
-* [2023-12-23, 20:20:22](https://news.ycombinator.com/item?id=38747798) - [Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
 
 ## [Archives](archives/index.md)
 
