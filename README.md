@@ -2,7 +2,6 @@
 
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
-* [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs emails Eric Schmidt (2007)](https://twitter.com/TechEmails/status/1443263744906305543)
 * [2023-12-26, 05:18:33](https://news.ycombinator.com/item?id=38769117) - [All I want for Christmas is 1TW of solar deployed annually](https://pv-magazine-usa.com/2023/12/25/all-i-want-for-christmas-is-one-terawatt-of-solar-deployed-annually/)
 * [2023-12-26, 05:01:46](https://news.ycombinator.com/item?id=38769056) - [Cathedral, Mountain, Moon](https://apod.nasa.gov/apod/ap231225.html)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
@@ -22,6 +21,7 @@
 * [2023-12-25, 19:12:09](https://news.ycombinator.com/item?id=38765196) - [DIY Night Clock Projector (2018)](https://microengineer.eu/2018/05/01/diy-night-clock-projector/)
 * [2023-12-25, 19:09:29](https://news.ycombinator.com/item?id=38765176) - [Ask HN: Share your favorite software blog posts of 2023](https://news.ycombinator.com/item?id=38765176)
 * [2023-12-25, 17:40:56](https://news.ycombinator.com/item?id=38764452) - [Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)
+* [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 11:48:13](https://news.ycombinator.com/item?id=38761849) - [Where Are the Sanity Checks?](https://eclecticlight.co/2023/12/25/where-are-the-sanity-checks/)
 * [2023-12-25, 10:11:26](https://news.ycombinator.com/item?id=38761346) - [CrayZee Eighty](https://rc2014.co.uk/1865/crayzee-eighty/)
 * [2023-12-25, 08:44:28](https://news.ycombinator.com/item?id=38760903) - [Building a decentralized name system on top of IRC](https://roberts.pm/irc_kvs/)
