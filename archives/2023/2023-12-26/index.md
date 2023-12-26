@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 13:18:43](https://news.ycombinator.com/item?id=38771513) - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
 * [2023-12-26, 13:08:24](https://news.ycombinator.com/item?id=38771452) - [Why Prusa is floundering, and how you can avoid their fate](https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html)
+* [2023-12-26, 13:06:48](https://news.ycombinator.com/item?id=38771437) - [Extinguishing the EV Battery Fire Hype](https://spectrum.ieee.org/lithium-ion-battery-fires)
 * [2023-12-26, 12:53:33](https://news.ycombinator.com/item?id=38771354) - [The effects of grounding (earthing) on inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
 * [2023-12-26, 12:23:36](https://news.ycombinator.com/item?id=38771185) - [Gas utilities used tobacco tactics to avoid gas stove regulations](https://www.npr.org/2023/10/17/1183551603/gas-stove-utility-tobacco)
 * [2023-12-26, 11:01:01](https://news.ycombinator.com/item?id=38770693) - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
