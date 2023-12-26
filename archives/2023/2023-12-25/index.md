@@ -23,6 +23,7 @@
 * [2023-12-25, 20:55:06](https://news.ycombinator.com/item?id=38766022) - [Tell HN: Y logo on HN now matches your topcolor](https://news.ycombinator.com/item?id=38766022)
 * [2023-12-25, 20:35:37](https://news.ycombinator.com/item?id=38765862) - [Ask HN: How to practice data analytics skills?](https://news.ycombinator.com/item?id=38765862)
 * [2023-12-25, 20:13:13](https://news.ycombinator.com/item?id=38765698) - [Data scientists need to learn about significant digits](https://lemire.me/blog/2019/01/29/data-scientists-need-to-learn-about-significant-digits/)
+* [2023-12-25, 20:03:17](https://news.ycombinator.com/item?id=38765640) - [Mathematics in India](https://www.jstor.org/stable/j.ctt7s03d)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [Do all roads lead to Rome?](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
 * [2023-12-25, 19:15:03](https://news.ycombinator.com/item?id=38765224) - [Most homes for sale in 2023 were not affordable for a typical U.S. household](https://text.npr.org/1221480443)

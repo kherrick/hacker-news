@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 16:30:05](https://news.ycombinator.com/item?id=38773177) - [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
+* [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
+* [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 * [2023-12-26, 16:02:47](https://news.ycombinator.com/item?id=38772907) - [Deploying the Octothorpe (#)](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
 * [2023-12-26, 15:39:53](https://news.ycombinator.com/item?id=38772680) - [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
+* [2023-12-26, 15:13:08](https://news.ycombinator.com/item?id=38772382) - [Show HN: Whataaabout.com – unique activity ideas for the holiday break](https://www.whataaabout.com/)
 * [2023-12-26, 14:31:11](https://news.ycombinator.com/item?id=38772045) - [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
 * [2023-12-26, 14:28:19](https://news.ycombinator.com/item?id=38772024) - [Shelf life: novelist Hanya Yanagihara on living with 12,000 books (2017)](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
 * [2023-12-26, 14:23:01](https://news.ycombinator.com/item?id=38771981) - [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
