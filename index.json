@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-26, 19:27:20",
-      "https://news.ycombinator.com/item?id=38775096"
-    ],
-    [
-      "A guide to block Facebook, Twitter, and TikTok from your Linux machine",
-      "https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 18:32:17",
       "https://news.ycombinator.com/item?id=38774471"
     ],
@@ -237,6 +227,16 @@
     [
       "2023 Medley Interlisp Project Annual Report",
       "https://interlisp.org/project/status/2023medleyannualreport/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 20:02:08",
+      "https://news.ycombinator.com/item?id=38765627"
+    ],
+    [
+      "Stirling-PDF: local web application to perform various operations on PDFs",
+      "https://github.com/Frooodle/Stirling-PDF"
     ]
   ],
   [
