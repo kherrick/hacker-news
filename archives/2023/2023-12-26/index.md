@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
+* [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [2023-12-26, 17:29:16](https://news.ycombinator.com/item?id=38773775) - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
 * [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
@@ -16,6 +18,7 @@
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 * [2023-12-26, 16:02:47](https://news.ycombinator.com/item?id=38772907) - [Deploying the Octothorpe (#)](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
+* [2023-12-26, 15:57:43](https://news.ycombinator.com/item?id=38772862) - [Adventures in reverse engineering Broadcom NIC firmware](https://www.devever.net/~hl/ortega)
 * [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
 * [2023-12-26, 15:39:53](https://news.ycombinator.com/item?id=38772680) - [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
 * [2023-12-26, 15:13:08](https://news.ycombinator.com/item?id=38772382) - [Show HN: Whataaabout.com – unique activity ideas for the holiday break](https://www.whataaabout.com/)
