@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
+* [2023-12-26, 16:54:19](https://news.ycombinator.com/item?id=38773426) - [Quality of care declines after private equity takes over hospitals](https://medicalxpress.com/news/2023-12-quality-declines-private-equity-hospitals.html)
 * [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
 * [2023-12-26, 16:30:05](https://news.ycombinator.com/item?id=38773177) - [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
