@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
+* [2023-12-26, 01:55:15](https://news.ycombinator.com/item?id=38768262) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [\"Simple Made Easy\" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 01:01:51](https://news.ycombinator.com/item?id=38767936) - [Fed court rules for retired engineer told by state to not talk about math](https://www.wect.com/2023/12/20/federal-court-decides-favor-retired-engineer-told-by-state-not-talk-about-math-public/)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
@@ -28,7 +29,6 @@
 * [2023-12-24, 12:11:09](https://news.ycombinator.com/item?id=38752959) - [toastermuseum.com](http://www.toastermuseum.com/scripts/toastercollection/collection01.html)
 * [2023-12-24, 12:07:30](https://news.ycombinator.com/item?id=38752946) - [Many prehistoric handprints show missing finger. What if this wasn't accidental?](https://www.theguardian.com/science/2023/dec/23/prehistoric-handprints-finger-missing-ritually-removed)
 * [2023-12-24, 08:58:59](https://news.ycombinator.com/item?id=38752241) - [Displays We Love Hacking: SPI and I2C](https://hackaday.com/2023/12/21/displays-we-love-hacking-spi-and-i2c/)
-* [2023-12-24, 05:14:20](https://news.ycombinator.com/item?id=38751326) - [Quantum Computer Music](https://www.ctm-festival.de/magazine/quantum-computer-music-what-the-heck)
 * [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [Collections: How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 
 ## [Archives](archives/index.md)
