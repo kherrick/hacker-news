@@ -9,6 +9,7 @@
 * [2023-12-26, 13:06:48](https://news.ycombinator.com/item?id=38771437) - [Extinguishing the EV Battery Fire Hype](https://spectrum.ieee.org/lithium-ion-battery-fires)
 * [2023-12-26, 12:53:33](https://news.ycombinator.com/item?id=38771354) - [The effects of grounding (earthing) on inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
 * [2023-12-26, 12:23:36](https://news.ycombinator.com/item?id=38771185) - [Gas utilities used tobacco tactics to avoid gas stove regulations](https://www.npr.org/2023/10/17/1183551603/gas-stove-utility-tobacco)
+* [2023-12-26, 11:34:05](https://news.ycombinator.com/item?id=38770869) - [Ask HN: What is the current state of \"logical\" AI?](https://news.ycombinator.com/item?id=38770869)
 * [2023-12-26, 11:01:01](https://news.ycombinator.com/item?id=38770693) - [UK becomes first G20 country to halve its carbon emissions](https://www.spectator.co.uk/article/uk-becomes-first-g20-country-to-halve-its-carbon-emissions/)
 * [2023-12-26, 09:21:11](https://news.ycombinator.com/item?id=38770168) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 09:18:04](https://news.ycombinator.com/item?id=38770151) - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
