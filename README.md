@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-26, 22:27:35](https://news.ycombinator.com/item?id=38776782) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
+* [2023-12-26, 22:04:05](https://news.ycombinator.com/item?id=38776591) - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
 * [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob](http://cryptocouple.com/)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:46:24](https://news.ycombinator.com/item?id=38775882) - [30 years of Donald Knuth's 'Christmas Lectures' are online – including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
@@ -9,7 +10,6 @@
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 * [2023-12-26, 19:58:41](https://news.ycombinator.com/item?id=38775439) - [Moderna's mRNA cancer vaccine works better than thought](https://www.freethink.com/health/cancer-vaccine)
 * [2023-12-26, 19:02:18](https://news.ycombinator.com/item?id=38774792) - [XPath Scraping with FreshRSS](https://danq.me/2022/09/27/freshrss-xpath/)
-* [2023-12-26, 18:57:29](https://news.ycombinator.com/item?id=38774730) - [The Psychology of Poverty: Where Do We Stand? [pdf]](https://www.nber.org/system/files/working_papers/w31977/w31977.pdf)
 * [2023-12-26, 18:38:02](https://news.ycombinator.com/item?id=38774547) - [Multicellularity arose several times in the evolution of eukaryotes (2013)](https://onlinelibrary.wiley.com/doi/10.1002/bies.201200143)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)

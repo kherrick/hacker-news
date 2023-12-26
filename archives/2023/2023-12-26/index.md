@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
 * [2023-12-26, 22:27:35](https://news.ycombinator.com/item?id=38776782) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
+* [2023-12-26, 22:04:05](https://news.ycombinator.com/item?id=38776591) - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
 * [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob](http://cryptocouple.com/)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:47:12](https://news.ycombinator.com/item?id=38775890) - [Women from privileged backgrounds pursue prestigious professions over lucrative](https://phys.org/news/2023-12-women-privileged-backgrounds-pursue-prestigious.html)
