@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
+* [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [2023-12-26, 17:29:16](https://news.ycombinator.com/item?id=38773775) - [12VO power standard appears to be gaining steam, will reduce PC cabling, costs](https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs)
@@ -15,6 +16,7 @@
 * [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
 * [2023-12-26, 16:30:05](https://news.ycombinator.com/item?id=38773177) - [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
 * [2023-12-26, 16:27:09](https://news.ycombinator.com/item?id=38773147) - [OpenAI Pissed Off Developers by Phasing Out Plugins for GPTs](https://gizmodo.com/openai-pissed-off-developers-by-phasing-out-plugins-for-1851124124)
+* [2023-12-26, 16:18:33](https://news.ycombinator.com/item?id=38773049) - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
 * [2023-12-26, 16:02:47](https://news.ycombinator.com/item?id=38772907) - [Deploying the Octothorpe (#)](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
