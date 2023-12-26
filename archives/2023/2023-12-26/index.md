@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 04:32:29](https://news.ycombinator.com/item?id=38768940) - [I Reviewed 1,000s of Opinions on gRPC](https://konfigthis.com/blog/grpc)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
 * [2023-12-26, 02:40:15](https://news.ycombinator.com/item?id=38768475) - [The hunter-gather brain is closer to the ADHD brain](https://www.londonpsychiatry.clinic/blog/hunter-gatherers-to-modern-biohackers)

@@ -63,6 +63,7 @@
 * [2023-12-25, 12:27:50](https://news.ycombinator.com/item?id=38762065) - [I told the flight attendant \"the WiFi isn't working\"](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
 * [2023-12-25, 12:01:29](https://news.ycombinator.com/item?id=38761915) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
+* [2023-12-25, 10:11:26](https://news.ycombinator.com/item?id=38761346) - [CrayZee Eighty](https://rc2014.co.uk/1865/crayzee-eighty/)
 * [2023-12-25, 09:58:48](https://news.ycombinator.com/item?id=38761285) - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 * [2023-12-25, 09:50:45](https://news.ycombinator.com/item?id=38761243) - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
 * [2023-12-25, 09:28:41](https://news.ycombinator.com/item?id=38761131) - [T-Mobile introduce fines from Jan 1 for \"Code of Conduct\" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
