@@ -63,6 +63,7 @@
 * [2023-12-25, 12:27:50](https://news.ycombinator.com/item?id=38762065) - [I told the flight attendant \"the WiFi isn't working\"](https://x.com/erratarob/status/1739132876732674539?s=46&t=FFxXRm_qmWG4nJwsccRUbA)
 * [2023-12-25, 12:01:29](https://news.ycombinator.com/item?id=38761915) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-12-25, 11:21:45](https://news.ycombinator.com/item?id=38761708) - [A nano like text editor built with pure C](https://github.com/proh14/ptext)
+* [2023-12-25, 11:16:06](https://news.ycombinator.com/item?id=38761666) - [Two Minute Tips: The Dark Secrets of Bools](https://jacobbartlett.substack.com/p/2-minute-tips-the-dark-secrets-of)
 * [2023-12-25, 10:11:26](https://news.ycombinator.com/item?id=38761346) - [CrayZee Eighty](https://rc2014.co.uk/1865/crayzee-eighty/)
 * [2023-12-25, 09:58:48](https://news.ycombinator.com/item?id=38761285) - [Breakdown of AV1 Video Codec](https://github.com/QuPengfei/Technical-Overview-Of-AV1-Spec)
 * [2023-12-25, 09:50:45](https://news.ycombinator.com/item?id=38761243) - [What is 10x better than Calendly?](https://news.ycombinator.com/item?id=38761243)
