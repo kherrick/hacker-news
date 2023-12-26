@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-26, 19:27:20](https://news.ycombinator.com/item?id=38775096) - [A guide to block Facebook, Twitter, and TikTok from your Linux machine](https://myria.math.aegean.gr/~atsol/newpage/software/blockfacebook/blockfacebook.html)
 * [2023-12-26, 18:32:17](https://news.ycombinator.com/item?id=38774471) - [Colorado wolf reintroduction to move forward as ranchers' legal effort fails](https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 18:00:25](https://news.ycombinator.com/item?id=38774097) - [How to Perfectly Crack an Egg (With One Hand) [video]](https://www.youtube.com/watch?v=AE-XeZ3R98U)
@@ -24,6 +23,7 @@
 * [2023-12-26, 08:18:03](https://news.ycombinator.com/item?id=38769827) - [Learn Modern C++](https://learnmoderncpp.com/)
 * [2023-12-26, 07:53:25](https://news.ycombinator.com/item?id=38769700) - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
 * [2023-12-26, 03:53:44](https://news.ycombinator.com/item?id=38768779) - [2023 Medley Interlisp Project Annual Report](https://interlisp.org/project/status/2023medleyannualreport/)
+* [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [A closer look at the Tabula Peutingeriana](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
 * [2023-12-25, 16:53:19](https://news.ycombinator.com/item?id=38764063) - [Bob Dylan's Christmas Lights: A Scholarly Treatise](https://merrillmarkoe.substack.com/p/dylans-christmas-lights-a-scholarly)
 * [2023-12-25, 13:03:28](https://news.ycombinator.com/item?id=38762272) - [Researchers are scaling up solar-powered kelp farms](https://spectrum.ieee.org/kelp-farm-carbon)
