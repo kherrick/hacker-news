@@ -31,22 +31,12 @@
   ],
   [
     [
-      "2023-12-26, 12:53:33",
-      "https://news.ycombinator.com/item?id=38771354"
+      "2023-12-26, 11:34:05",
+      "https://news.ycombinator.com/item?id=38770869"
     ],
     [
-      "The effects of grounding (earthing) on inflammation",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 12:23:36",
-      "https://news.ycombinator.com/item?id=38771185"
-    ],
-    [
-      "Gas utilities used tobacco tactics to avoid gas stove regulations",
-      "https://www.npr.org/2023/10/17/1183551603/gas-stove-utility-tobacco"
+      "Ask HN: What is the current state of \"logical\" AI?",
+      "https://news.ycombinator.com/item?id=38770869"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2023-12-25, 23:13:43",
-      "https://news.ycombinator.com/item?id=38767240"
-    ],
-    [
-      "Emulating an iPod Touch 2G using QEMU",
-      "https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/"
-    ]
-  ],
-  [
-    [
       "2023-12-25, 22:04:19",
       "https://news.ycombinator.com/item?id=38766570"
     ],
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2023-12-25, 17:40:56",
+      "https://news.ycombinator.com/item?id=38764452"
+    ],
+    [
+      "Reproducible Git Bundles",
+      "https://baecher.dev/stdout/reproducible-git-bundles/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 13:03:28",
       "https://news.ycombinator.com/item?id=38762272"
     ],
     [
       "Researchers are scaling up solar-powered kelp farms",
       "https://spectrum.ieee.org/kelp-farm-carbon"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 12:55:23",
+      "https://news.ycombinator.com/item?id=38762214"
+    ],
+    [
+      "Non-interactive SSH password authentication",
+      "https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass"
     ]
   ],
   [
