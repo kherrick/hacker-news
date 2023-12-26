@@ -79,6 +79,7 @@
 * [2023-12-25, 07:13:25](https://news.ycombinator.com/item?id=38760521) - [\"How to Be Successful\" by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [2023-12-25, 07:03:39](https://news.ycombinator.com/item?id=38760491) - [Ask HN: What is a quote that permanently changed the way you think?](https://news.ycombinator.com/item?id=38760491)
 * [2023-12-25, 07:01:17](https://news.ycombinator.com/item?id=38760477) - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
+* [2023-12-25, 06:25:24](https://news.ycombinator.com/item?id=38760331) - [Photo of Swansea police arresting drunk man likened to Renaissance art](https://www.theguardian.com/uk-news/2023/dec/24/photo-of-swansea-police-arresting-drunk-likened-to-renaissance-art)
 * [2023-12-25, 05:49:09](https://news.ycombinator.com/item?id=38760193) - [Petrov: A man who lived in the woods of Mendocino County](https://www.ukiahdailyjournal.com/2022/08/02/petrov-the-man-who-lived-in-the-woods/)
 * [2023-12-25, 05:39:01](https://news.ycombinator.com/item?id=38760131) - [Constellations are younger than continents](https://www.lesswrong.com/posts/YMakfmwZsoLdXAZhb/constellations-are-younger-than-continents)
 * [2023-12-25, 05:35:59](https://news.ycombinator.com/item?id=38760120) - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
