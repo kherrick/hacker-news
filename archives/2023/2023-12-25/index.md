@@ -57,6 +57,7 @@
 * [2023-12-25, 14:13:17](https://news.ycombinator.com/item?id=38762747) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2023-12-25, 13:50:40](https://news.ycombinator.com/item?id=38762564) - [2024 could be the year the PC dumps x86 for Arm, thanks to Windows 12](https://www.pcgamer.com/2024-could-be-the-year-the-pc-finally-dumps-x86-for-arm-all-thanks-to-windows-12-and-qualcomms-new-chip/)
 * [2023-12-25, 13:35:19](https://news.ycombinator.com/item?id=38762461) - [Writing Code Is the Same Thing as Writing Prose](https://www.gybe.ca/writing-code-is-the-same-thing-as-writing-prose/)
+* [2023-12-25, 13:03:28](https://news.ycombinator.com/item?id=38762272) - [Researchers are scaling up solar-powered kelp farms](https://spectrum.ieee.org/kelp-farm-carbon)
 * [2023-12-25, 12:56:22](https://news.ycombinator.com/item?id=38762223) - [Lagrange points could become battlegrounds in a new space race](https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race)
 * [2023-12-25, 12:55:23](https://news.ycombinator.com/item?id=38762214) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:45:09](https://news.ycombinator.com/item?id=38762167) - [Why British chocolate tastes the way it does](https://www.bbc.com/future/article/20231221-why-british-chocolate-tastes-the-way-it-does)
