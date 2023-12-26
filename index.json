@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-12-25, 17:38:04",
+      "https://news.ycombinator.com/item?id=38764430"
+    ],
+    [
+      "The Neat Programming Language",
+      "https://neat-lang.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 17:35:52",
       "https://news.ycombinator.com/item?id=38764412"
     ],
@@ -237,16 +247,6 @@
     [
       "Non-interactive SSH password authentication",
       "https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 11:21:45",
-      "https://news.ycombinator.com/item?id=38761708"
-    ],
-    [
-      "Ptext: A Nano-like text editor built with pure C",
-      "https://github.com/proh14/ptext"
     ]
   ],
   [
