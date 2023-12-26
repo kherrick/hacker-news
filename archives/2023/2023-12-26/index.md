@@ -6,6 +6,7 @@
 
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
+* [2023-12-26, 02:32:32](https://news.ycombinator.com/item?id=38768441) - [High school student allegedly uses device to turn off nearby iPhones](https://www.arlnow.com/2023/12/19/__trashed-8/)
 * [2023-12-26, 02:30:40](https://news.ycombinator.com/item?id=38768434) - [Maildir-utils: index, search and manage Maildir mailboxes](https://www.djcbsoftware.nl/code/mu/)
 * [2023-12-26, 01:55:15](https://news.ycombinator.com/item?id=38768262) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [\"Simple Made Easy\" – Rich Hickey (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
