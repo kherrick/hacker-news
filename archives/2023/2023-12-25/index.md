@@ -79,6 +79,7 @@
 * [2023-12-25, 08:34:32](https://news.ycombinator.com/item?id=38760869) - [Serving the web with 6 lines of Rust](https://jeffmitchelldev.wordpress.com/2023/12/24/serving-the-web-with-6-lines-of-rust/)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
+* [2023-12-25, 08:01:58](https://news.ycombinator.com/item?id=38760727) - [The impact of non-participation on results from PISA 2015](https://link.springer.com/article/10.1007/s11092-020-09329-5)
 * [2023-12-25, 07:44:30](https://news.ycombinator.com/item?id=38760637) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:13:25](https://news.ycombinator.com/item?id=38760521) - [\"How to Be Successful\" by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
 * [2023-12-25, 07:03:39](https://news.ycombinator.com/item?id=38760491) - [Ask HN: What is a quote that permanently changed the way you think?](https://news.ycombinator.com/item?id=38760491)
