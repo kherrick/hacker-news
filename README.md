@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs Emails Eric Schmidt](https://twitter.com/TechEmails/status/1443263744906305543)
+* [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
-* [2023-12-26, 02:44:11](https://news.ycombinator.com/item?id=38768500) - [Not All Exercise Is Beneficial: The Physical Activity Paradox Explained](https://www.medscape.com/viewarticle/998772)
 * [2023-12-26, 02:32:32](https://news.ycombinator.com/item?id=38768441) - [High school student allegedly uses device to turn off nearby iPhones](https://www.arlnow.com/2023/12/19/__trashed-8/)
 * [2023-12-26, 01:55:15](https://news.ycombinator.com/item?id=38768262) - [What are farm animals thinking?](https://www.science.org/content/article/not-dumb-creatures-livestock-surprise-scientists-their-complex-emotional-minds/?src=longreads)
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [Simple Made Easy (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
@@ -20,7 +21,6 @@
 * [2023-12-25, 17:40:56](https://news.ycombinator.com/item?id=38764452) - [Reproducible Git Bundles](https://baecher.dev/stdout/reproducible-git-bundles/)
 * [2023-12-25, 17:35:52](https://news.ycombinator.com/item?id=38764412) - [Towards Oberon+ Concurrency](https://oberon-lang.github.io/2023/12/25/towards-concurrency.html)
 * [2023-12-25, 17:26:17](https://news.ycombinator.com/item?id=38764353) - [TKey is a RISC-V computer in a USB-C case, that can run security applications](https://dev.tillitis.se/intro/)
-* [2023-12-25, 17:01:48](https://news.ycombinator.com/item?id=38764147) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.patterns.app/)
 * [2023-12-25, 16:38:36](https://news.ycombinator.com/item?id=38763933) - [War of the workstations: How the lowest bidders shaped today's tech landscape](https://www.theregister.com/2023/12/25/the_war_of_the_workstations/)
 * [2023-12-25, 15:18:52](https://news.ycombinator.com/item?id=38763285) - [Datsun 240Z L24 Engine Full Rebuild [video]](https://www.youtube.com/watch?v=j0GmBwB0yrI)
 * [2023-12-25, 10:11:26](https://news.ycombinator.com/item?id=38761346) - [CrayZee Eighty](https://rc2014.co.uk/1865/crayzee-eighty/)
