@@ -18,7 +18,6 @@
 * [2023-12-26, 01:30:02](https://news.ycombinator.com/item?id=38768107) - [Simple Made Easy (2011) [video]](https://www.youtube.com/watch?v=SxdOUGdseq4)
 * [2023-12-26, 00:40:43](https://news.ycombinator.com/item?id=38767815) - [DreamCoder: Growing Generalizable, Interpretable Knowledge](https://arxiv.org/abs/2006.08381)
 * [2023-12-26, 00:02:53](https://news.ycombinator.com/item?id=38767561) - [Electronic soil boosts crop growth](https://www.earth.com/news/electronic-soil-boosts-crop-growth-by-over-50/)
-* [2023-12-25, 23:38:55](https://news.ycombinator.com/item?id=38767408) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-25, 21:45:35](https://news.ycombinator.com/item?id=38766432) - [Parry Encounters the Doctor (1973)](https://www.rfc-editor.org/rfc/rfc439.html)
 * [2023-12-25, 20:02:08](https://news.ycombinator.com/item?id=38765627) - [Stirling-PDF: local web application to perform various operations on PDFs](https://github.com/Frooodle/Stirling-PDF)
 * [2023-12-25, 19:50:32](https://news.ycombinator.com/item?id=38765525) - [A closer look at the Tabula Peutingeriana](https://blog.datawrapper.de/roman-roads-tabula-peutingeriana/)
@@ -30,6 +29,7 @@
 * [2023-12-25, 08:01:58](https://news.ycombinator.com/item?id=38760727) - [The impact of non-participation on results from PISA 2015](https://link.springer.com/article/10.1007/s11092-020-09329-5)
 * [2023-12-25, 00:44:32](https://news.ycombinator.com/item?id=38758506) - [Fake It 'Til You Fake It](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 * [2023-12-23, 20:20:22](https://news.ycombinator.com/item?id=38747798) - [Goodsteins theorem](https://en.wikipedia.org/wiki/Goodstein%27s_theorem)
+* [2023-12-23, 07:22:19](https://news.ycombinator.com/item?id=38742330) - [How Many People? Ancient Demography](https://acoup.blog/2023/12/22/collections-how-many-people-ancient-demography/)
 
 ## [Archives](archives/index.md)
 
