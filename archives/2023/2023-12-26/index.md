@@ -7,6 +7,7 @@
 * [2023-12-26, 05:47:53](https://news.ycombinator.com/item?id=38769203) - [Steve Jobs Emails Eric Schmidt](https://twitter.com/TechEmails/status/1443263744906305543)
 * [2023-12-26, 04:45:59](https://news.ycombinator.com/item?id=38768997) - [The Life and Death of Open Source Companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
 * [2023-12-26, 04:32:29](https://news.ycombinator.com/item?id=38768940) - [I Reviewed 1,000s of Opinions on gRPC](https://konfigthis.com/blog/grpc)
+* [2023-12-26, 03:48:43](https://news.ycombinator.com/item?id=38768755) - [Is Social Media Making Us Stupid?](https://chuck.is/stupid/)
 * [2023-12-26, 03:25:24](https://news.ycombinator.com/item?id=38768678) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 03:17:01](https://news.ycombinator.com/item?id=38768645) - [Let it snow()](https://discourse.julialang.org/t/let-it-snow/72950)
 * [2023-12-26, 02:44:11](https://news.ycombinator.com/item?id=38768500) - [Not All Exercise Is Beneficial: The Physical Activity Paradox Explained](https://www.medscape.com/viewarticle/998772)
