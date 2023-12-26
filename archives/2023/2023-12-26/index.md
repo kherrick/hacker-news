@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 16:02:47](https://news.ycombinator.com/item?id=38772907) - [Deploying the Octothorpe (#)](https://exchanges.warwick.ac.uk/index.php/exchanges/article/download/837/831)
 * [2023-12-26, 15:39:53](https://news.ycombinator.com/item?id=38772680) - [With 1 Sentence, Patagonia Just Gave a Masterclass on How to Treat Your People](https://www.inc.com/jason-aten/with-1-sentence-patagonia-just-gave-a-masterclass-on-how-to-treat-your-people.html)
 * [2023-12-26, 14:31:11](https://news.ycombinator.com/item?id=38772045) - [Holiday Spending Increased, Defying Fears of a Decline](https://www.nytimes.com/2023/12/26/business/economy/christmas-holiday-spending-retail.html)
 * [2023-12-26, 14:28:19](https://news.ycombinator.com/item?id=38772024) - [Shelf life: novelist Hanya Yanagihara on living with 12,000 books (2017)](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
