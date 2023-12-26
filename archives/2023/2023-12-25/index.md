@@ -68,6 +68,7 @@
 * [2023-12-25, 09:28:41](https://news.ycombinator.com/item?id=38761131) - [T-Mobile introduce fines from Jan 1 for \"Code of Conduct\" violations](https://support.bandwidth.com/hc/en-us/articles/19939626519575-New-non-compliance-fees-on-January-1)
 * [2023-12-25, 09:25:54](https://news.ycombinator.com/item?id=38761115) - [Some Useful Bash Aliases](https://chuck.is/alias/)
 * [2023-12-25, 08:51:11](https://news.ycombinator.com/item?id=38760933) - [Breakdown of faults by car brand: Tesla has replaced Dacia at the bottom](https://www.tuvsud.com/en/press-and-media/2023/november/regular-servicing-makes-all-the-difference)
+* [2023-12-25, 08:44:28](https://news.ycombinator.com/item?id=38760903) - [Building a decentralized name system on top of IRC](https://roberts.pm/irc_kvs/)
 * [2023-12-25, 08:34:32](https://news.ycombinator.com/item?id=38760869) - [Serving the web with 6 lines of Rust](https://jeffmitchelldev.wordpress.com/2023/12/24/serving-the-web-with-6-lines-of-rust/)
 * [2023-12-25, 08:30:59](https://news.ycombinator.com/item?id=38760864) - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 * [2023-12-25, 08:22:46](https://news.ycombinator.com/item?id=38760827) - [OpenAI Engineers Earning $800k a Year Turn Rare Skillset into Leverage](https://finance.yahoo.com/news/openai-engineers-earning-800-000-183139353.html)
