@@ -63,6 +63,7 @@
 * [2023-12-24, 12:37:56](https://news.ycombinator.com/item?id=38753096) - [Heat pumps of the 1800s are becoming the technology of the future](https://knowablemagazine.org/content/article/technology/2023/heat-pumps-becoming-technology-future)
 * [2023-12-24, 12:29:18](https://news.ycombinator.com/item?id=38753048) - [Enlightenment 0.26.0 Release](https://www.enlightenment.org/news/2022-12-23-enlightenment-0.26.0)
 * [2023-12-24, 12:11:09](https://news.ycombinator.com/item?id=38752959) - [toastermuseum.com](http://www.toastermuseum.com/scripts/toastercollection/collection01.html)
+* [2023-12-24, 12:07:30](https://news.ycombinator.com/item?id=38752946) - [Many prehistoric handprints show missing finger. What if this wasn't accidental?](https://www.theguardian.com/science/2023/dec/23/prehistoric-handprints-finger-missing-ritually-removed)
 * [2023-12-24, 11:24:09](https://news.ycombinator.com/item?id=38752760) - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 * [2023-12-24, 11:23:38](https://news.ycombinator.com/item?id=38752757) - [Is Bach the greatest achiever of all time?](https://marginalrevolution.com/marginalrevolution/2023/09/is-bach-the-greatest-achiever-of-all-time.html)
 * [2023-12-24, 11:07:14](https://news.ycombinator.com/item?id=38752693) - [Pixelating Live with SVG](https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/)
