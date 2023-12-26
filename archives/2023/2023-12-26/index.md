@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 16:32:17](https://news.ycombinator.com/item?id=38773203) - [How to Run Hackathons in 2024](https://gitroom.com/blog/run-hackathons-2024)
 * [2023-12-26, 16:30:05](https://news.ycombinator.com/item?id=38773177) - [Apple appeals US ban on Apple Watch](https://www.theverge.com/2023/12/26/24015238/apple-watch-ban-response-store-appeal-stay-court)
 * [2023-12-26, 16:17:31](https://news.ycombinator.com/item?id=38773037) - [No last-minute reprieve, US ban on some Apple Watch sales now in effect](https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
