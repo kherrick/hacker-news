@@ -56,6 +56,7 @@
 * [2023-12-26, 13:18:43](https://news.ycombinator.com/item?id=38771513) - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
 * [2023-12-26, 13:14:35](https://news.ycombinator.com/item?id=38771488) - [Ask HN: How are you using ChatGPT for yourself?](https://news.ycombinator.com/item?id=38771488)
 * [2023-12-26, 13:08:24](https://news.ycombinator.com/item?id=38771452) - [Why Prusa is floundering, and how you can avoid their fate](https://drewdevault.com/2023/12/26/2023-12-26-Prusa-is-floundering.html)
+* [2023-12-26, 13:07:21](https://news.ycombinator.com/item?id=38771444) - [Tools and Apps for Technical Theater](https://www.captitles.com/apps-for-technical-theatre)
 * [2023-12-26, 13:06:48](https://news.ycombinator.com/item?id=38771437) - [Extinguishing the EV Battery Fire Hype](https://spectrum.ieee.org/lithium-ion-battery-fires)
 * [2023-12-26, 13:06:29](https://news.ycombinator.com/item?id=38771436) - [Apple is officially no longer selling the newest Apple Watch in America](https://www.cnn.com/2023/12/26/tech/apple-watch-ban/index.html)
 * [2023-12-26, 12:53:33](https://news.ycombinator.com/item?id=38771354) - [The effects of grounding (earthing) on inflammation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/)
