@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
 * [2023-12-27, 03:06:33](https://news.ycombinator.com/item?id=38778657) - [Pizza Hut fires all delivery drivers due to CA fast food minimum wage law](https://www.businessinsider.com/california-pizza-hut-lays-off-delivery-drivers-amid-new-wage-law-2023-12)
+* [2023-12-27, 02:49:17](https://news.ycombinator.com/item?id=38778550) - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
 * [2023-12-27, 02:49:07](https://news.ycombinator.com/item?id=38778548) - [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
 * [2023-12-27, 02:28:48](https://news.ycombinator.com/item?id=38778440) - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
