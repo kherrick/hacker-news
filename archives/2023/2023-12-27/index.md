@@ -9,6 +9,7 @@
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2023-12-27, 08:44:59](https://news.ycombinator.com/item?id=38780194) - [Show HN: I've built a tool that summarizes 3-hour YouTube videos](https://voxweave.xyz/)
+* [2023-12-27, 08:21:16](https://news.ycombinator.com/item?id=38780091) - [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)

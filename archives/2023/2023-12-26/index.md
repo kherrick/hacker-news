@@ -8,6 +8,7 @@
 * [2023-12-26, 23:05:46](https://news.ycombinator.com/item?id=38777060) - [Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
 * [2023-12-26, 22:27:35](https://news.ycombinator.com/item?id=38776782) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
 * [2023-12-26, 22:04:05](https://news.ycombinator.com/item?id=38776591) - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
+* [2023-12-26, 21:56:35](https://news.ycombinator.com/item?id=38776522) - ['The Egyptian Book of the Dead' Review: An Ancient Guide to the Afterlife](https://www.wsj.com/arts-culture/books/the-egyptian-book-of-the-dead-review-an-ancient-guide-to-the-afterlife-85eadb35)
 * [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob](http://cryptocouple.com/)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:47:12](https://news.ycombinator.com/item?id=38775890) - [Women from privileged backgrounds pursue prestigious professions over lucrative](https://phys.org/news/2023-12-women-privileged-backgrounds-pursue-prestigious.html)
