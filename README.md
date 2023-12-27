@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
@@ -25,7 +26,6 @@
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 13:10:02](https://news.ycombinator.com/item?id=38771466) - [20 GOTO 10: 10101001 facts about retro computers (book)](https://unbound.com/books/20goto10)
-* [2023-12-26, 13:07:21](https://news.ycombinator.com/item?id=38771444) - [Tools and Apps for Technical Theater](https://www.captitles.com/apps-for-technical-theatre)
 * [2023-12-26, 12:53:16](https://news.ycombinator.com/item?id=38771349) - [Implementing a Minesweeper clone for the Gameboy Advance](https://exelo.tl/poopsweeper.html)
 * [2023-12-26, 09:06:17](https://news.ycombinator.com/item?id=38770101) - [Clanging](https://en.wikipedia.org/wiki/Clanging)
 * [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)

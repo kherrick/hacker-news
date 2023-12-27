@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 13:35:21](https://news.ycombinator.com/item?id=38781771) - [Scholars asked Harvard President Claudine Gay for her data. She said no.](https://www.dossier.today/p/these-scholars-asked-claudine-gay)
 * [2023-12-27, 13:19:04](https://news.ycombinator.com/item?id=38781631) - [Open source added €65-€95B to the EU's GDP in 2021](https://shiftprint.writeas.com/open-source-gdp-add-approaching-data-ownership-blockchain-based-identity-and)
