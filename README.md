@@ -26,10 +26,10 @@
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 12:53:16](https://news.ycombinator.com/item?id=38771349) - [Implementing a Minesweeper clone for the Gameboy Advance](https://exelo.tl/poopsweeper.html)
+* [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
 * [2023-12-26, 08:21:45](https://news.ycombinator.com/item?id=38769850) - [Black Triangles (2014)](https://rampantgames.com/blog/?p=7745)
 * [2023-12-26, 07:53:25](https://news.ycombinator.com/item?id=38769700) - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
-* [2023-12-25, 22:44:52](https://news.ycombinator.com/item?id=38766990) - [Show HN: Actually Portable Vim (With a Cute Vimrc)](https://github.com/csdvrx/CuteVim)
 
 ## [Archives](archives/index.md)
 

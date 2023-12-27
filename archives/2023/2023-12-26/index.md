@@ -65,6 +65,7 @@
 * [2023-12-26, 09:21:11](https://news.ycombinator.com/item?id=38770168) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 09:18:04](https://news.ycombinator.com/item?id=38770151) - [It's All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan)
 * [2023-12-26, 08:26:52](https://news.ycombinator.com/item?id=38769874) - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
+* [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
 * [2023-12-26, 08:21:45](https://news.ycombinator.com/item?id=38769850) - [Black Triangles](https://rampantgames.com/blog/?p=7745)
 * [2023-12-26, 08:18:03](https://news.ycombinator.com/item?id=38769827) - [Learn Modern C++](https://learnmoderncpp.com/)
 * [2023-12-26, 07:53:25](https://news.ycombinator.com/item?id=38769700) - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
