@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 21:23:38](https://news.ycombinator.com/item?id=38786920) - [Disney CEO Bob Iger says company's movies have been too focused on messaging](https://www.cnbc.com/2023/11/30/disney-ceo-bob-iger-says-movies-have-been-too-focused-on-messaging.html)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle (2014)](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
@@ -12,6 +11,7 @@
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 17:25:53](https://news.ycombinator.com/item?id=38784188) - [Pluto, a Modern Lua Dialect](https://pluto-lang.org/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
+* [2023-12-27, 16:57:29](https://news.ycombinator.com/item?id=38783886) - [Julia 1.10](https://docs.julialang.org/en/v1/NEWS/)
 * [2023-12-27, 16:26:54](https://news.ycombinator.com/item?id=38783517) - [The ghost of a colonial road on the eastern side of the Chrysler Building](https://ephemeralnewyork.wordpress.com/tag/building-the-chrysler-building/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
