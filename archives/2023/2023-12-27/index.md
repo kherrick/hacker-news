@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
+* [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
@@ -15,6 +16,7 @@
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 * [2023-12-27, 02:12:03](https://news.ycombinator.com/item?id=38778330) - [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
+* [2023-12-27, 02:10:12](https://news.ycombinator.com/item?id=38778319) - [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
 * [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Clones of Games](https://osgameclones.com/)
 * [2023-12-27, 01:20:29](https://news.ycombinator.com/item?id=38778007) - [Laptop of the magi: an annoyed iMessage antitrust anecdote](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
 * [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
