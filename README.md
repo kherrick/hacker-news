@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 08:44:59](https://news.ycombinator.com/item?id=38780194) - [Show HN: I've built a tool that summarizes 3-hour YouTube videos](https://voxweave.xyz/)
+* [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
+* [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
-* [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 02:49:17](https://news.ycombinator.com/item?id=38778550) - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
 * [2023-12-27, 02:23:20](https://news.ycombinator.com/item?id=38778402) - [A Lighthouse Keeper Hangs Up Her Bonnet](https://hakaimagazine.com/videos-visuals/a-lighthouse-keeper-hangs-up-her-bonnet/)
