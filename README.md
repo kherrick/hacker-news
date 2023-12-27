@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+* [2023-12-27, 02:12:03](https://news.ycombinator.com/item?id=38778330) - [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
 * [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
@@ -11,7 +12,6 @@
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
-* [2023-12-26, 19:58:41](https://news.ycombinator.com/item?id=38775439) - [Moderna's mRNA cancer vaccine works better than thought](https://www.freethink.com/health/cancer-vaccine)
 * [2023-12-26, 19:02:18](https://news.ycombinator.com/item?id=38774792) - [XPath Scraping with FreshRSS](https://danq.me/2022/09/27/freshrss-xpath/)
 * [2023-12-26, 18:05:54](https://news.ycombinator.com/item?id=38774165) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
