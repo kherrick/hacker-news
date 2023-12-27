@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
 * [2023-12-27, 03:06:33](https://news.ycombinator.com/item?id=38778657) - [Pizza Hut fires all delivery drivers due to CA fast food minimum wage law](https://www.businessinsider.com/california-pizza-hut-lays-off-delivery-drivers-amid-new-wage-law-2023-12)

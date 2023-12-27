@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 02:49:17](https://news.ycombinator.com/item?id=38778550) - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
 * [2023-12-27, 02:28:48](https://news.ycombinator.com/item?id=38778440) - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
@@ -21,7 +22,6 @@
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 * [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
-* [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 13:07:21](https://news.ycombinator.com/item?id=38771444) - [Tools and Apps for Technical Theater](https://www.captitles.com/apps-for-technical-theatre)
