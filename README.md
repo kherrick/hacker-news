@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 15:06:26](https://news.ycombinator.com/item?id=38782637) - [Lee Sun-Kyun, 'Parasite' Actor, Dies at 48](https://www.nytimes.com/2023/12/27/world/asia/lee-sun-kyun-parasite-dead.html)
 * [2023-12-27, 15:05:54](https://news.ycombinator.com/item?id=38782636) - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
+* [2023-12-27, 15:00:16](https://news.ycombinator.com/item?id=38782573) - [Amazon Prime video to now include Ads](https://www.macrumors.com/2023/12/27/amazon-prime-video-to-feature-ads-from-january-29/)
 * [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
@@ -19,7 +21,6 @@
 * [2023-12-27, 01:20:29](https://news.ycombinator.com/item?id=38778007) - [Laptop of the magi: an annoyed iMessage antitrust anecdote](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
-* [2023-12-27, 00:17:29](https://news.ycombinator.com/item?id=38777553) - [Operation Snow White](https://en.wikipedia.org/wiki/Operation_Snow_White)
 * [2023-12-27, 00:06:26](https://news.ycombinator.com/item?id=38777485) - [Performance of Large Language Models on a Neurology Board–Style Examination](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812620)
 * [2023-12-27, 00:02:10](https://news.ycombinator.com/item?id=38777460) - [2nd City Zoning](https://secondcityzoning.org)
 * [2023-12-26, 23:57:55](https://news.ycombinator.com/item?id=38777427) - [BASIC was not just a programming language](https://gcher.com/posts/2023-12-24-basic/)
@@ -27,7 +28,6 @@
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 13:10:02](https://news.ycombinator.com/item?id=38771466) - [20 GOTO 10: 10101001 facts about retro computers (book)](https://unbound.com/books/20goto10)
-* [2023-12-26, 09:06:17](https://news.ycombinator.com/item?id=38770101) - [Clanging](https://en.wikipedia.org/wiki/Clanging)
 * [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 
