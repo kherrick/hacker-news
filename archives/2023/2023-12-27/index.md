@@ -59,6 +59,7 @@
 * [2023-12-27, 02:12:03](https://news.ycombinator.com/item?id=38778330) - [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
 * [2023-12-27, 02:10:12](https://news.ycombinator.com/item?id=38778319) - [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
 * [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Clones of Games](https://osgameclones.com/)
+* [2023-12-27, 01:28:18](https://news.ycombinator.com/item?id=38778072) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-27, 01:20:29](https://news.ycombinator.com/item?id=38778007) - [Laptop of the magi: an annoyed iMessage antitrust anecdote](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
 * [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
 * [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
