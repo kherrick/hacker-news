@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-27, 05:46:03",
+      "https://news.ycombinator.com/item?id=38779443"
+    ],
+    [
+      "Reminiscing CGI Scripts",
+      "https://rednafi.com/go/reminiscing_cgi_scripts/"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 02:49:17",
+      "https://news.ycombinator.com/item?id=38778550"
+    ],
+    [
+      "A programming language coding in a grid",
+      "https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 02:28:48",
       "https://news.ycombinator.com/item?id=38778440"
     ],
@@ -181,42 +201,12 @@
   ],
   [
     [
-      "2023-12-26, 17:18:20",
-      "https://news.ycombinator.com/item?id=38773669"
-    ],
-    [
-      "The Invisible Screen – An E-Paper Smart Display",
-      "https://shop.invisible-computers.com/products/invisible-calendar"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 16:54:31",
-      "https://news.ycombinator.com/item?id=38773429"
-    ],
-    [
-      "Japan to crack down on Apple and Google app store monopolies",
-      "https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 16:18:33",
       "https://news.ycombinator.com/item?id=38773049"
     ],
     [
-      "Let's Build a Compiler",
+      "Let's Build a Compiler (1988)",
       "https://compilers.iecc.com/crenshaw/"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 16:10:44",
-      "https://news.ycombinator.com/item?id=38772980"
-    ],
-    [
-      "How thermal management is changing in the age of the kilowatt chip",
-      "https://www.theregister.com/2023/12/26/thermal_management_is_changing/"
     ]
   ],
   [
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2023-12-26, 03:53:44",
+      "https://news.ycombinator.com/item?id=38768779"
+    ],
+    [
+      "2023 Medley Interlisp Project Annual Report",
+      "https://interlisp.org/project/status/2023medleyannualreport/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 22:44:52",
       "https://news.ycombinator.com/item?id=38766990"
     ],
     [
-      "Show HN: Actually Portable Vim (With a Cute Vimrc)",
+      "Show HN: CuteVim – Portable Vim with a cute vimrc",
       "https://github.com/csdvrx/CuteVim"
     ]
   ]
