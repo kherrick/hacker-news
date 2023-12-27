@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 21:23:38](https://news.ycombinator.com/item?id=38786920) - [Disney CEO Bob Iger says company's movies have been too focused on messaging](https://www.cnbc.com/2023/11/30/disney-ceo-bob-iger-says-movies-have-been-too-focused-on-messaging.html)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle (2014)](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
@@ -20,7 +21,6 @@
 * [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
 * [2023-12-27, 15:09:19](https://news.ycombinator.com/item?id=38782678) - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
 * [2023-12-27, 14:47:47](https://news.ycombinator.com/item?id=38782421) - [Scratch in the Browser](https://squeak.js.org/scratch/#fullscreen)
-* [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
