@@ -22,14 +22,14 @@
 * [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:18:33](https://news.ycombinator.com/item?id=38773049) - [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
-* [2023-12-26, 15:57:43](https://news.ycombinator.com/item?id=38772862) - [Adventures in reverse engineering Broadcom NIC firmware](https://www.devever.net/~hl/ortega)
-* [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 12:53:16](https://news.ycombinator.com/item?id=38771349) - [Implementing a Minesweeper clone for the Gameboy Advance](https://exelo.tl/poopsweeper.html)
+* [2023-12-26, 10:23:47](https://news.ycombinator.com/item?id=38770465) - [Show HN: TBMK – A Commands Bookmark for Terminal](https://github.com/linhx/tbmk)
 * [2023-12-26, 09:06:17](https://news.ycombinator.com/item?id=38770101) - [Clanging](https://en.wikipedia.org/wiki/Clanging)
 * [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
+* [2023-12-25, 22:44:52](https://news.ycombinator.com/item?id=38766990) - [Show HN: Actually Portable Vim (With a Cute Vimrc)](https://github.com/csdvrx/CuteVim)
 
 ## [Archives](archives/index.md)
 
