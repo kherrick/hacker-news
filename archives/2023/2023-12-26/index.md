@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 23:57:55](https://news.ycombinator.com/item?id=38777427) - [BASIC was not just a programming language](https://gcher.com/posts/2023-12-24-basic/)
 * [2023-12-26, 23:05:46](https://news.ycombinator.com/item?id=38777060) - [Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole](https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/)
 * [2023-12-26, 22:27:35](https://news.ycombinator.com/item?id=38776782) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html)
 * [2023-12-26, 22:04:05](https://news.ycombinator.com/item?id=38776591) - [Amazon Prime Video starts showing ads in January unless you pay $2.99/month xtra](https://9to5google.com/2023/12/26/amazon-prime-video-ads-january-2024/)
