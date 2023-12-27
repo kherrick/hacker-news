@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 18:31:31](https://news.ycombinator.com/item?id=38784943) - [Glock Founder Gaston Glock Has Died: 1929-2023](https://www.recoilweb.com/glock-founder-gaston-glock-has-died-1929-2023-183034.html)
 * [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
 * [2023-12-27, 17:12:18](https://news.ycombinator.com/item?id=38784039) - [Creating custom ChatGPT agents for fun and for profit](https://techsquidtv.com/blog/creating-custom-chatgpt-agents-for-fun-and-for-profit/)
@@ -32,6 +33,7 @@
 * [2023-12-27, 13:35:21](https://news.ycombinator.com/item?id=38781771) - [Scholars asked Harvard President Claudine Gay for her data. She said no.](https://www.dossier.today/p/these-scholars-asked-claudine-gay)
 * [2023-12-27, 13:19:04](https://news.ycombinator.com/item?id=38781631) - [Open source added €65-€95B to the EU's GDP in 2021](https://shiftprint.writeas.com/open-source-gdp-add-approaching-data-ownership-blockchain-based-identity-and)
 * [2023-12-27, 13:16:11](https://news.ycombinator.com/item?id=38781615) - [Is GitHub Gone Mad?](https://github.com/trending)
+* [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
