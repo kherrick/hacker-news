@@ -2,6 +2,7 @@
 
 * [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
+* [2023-12-27, 16:57:29](https://news.ycombinator.com/item?id=38783886) - [Julia 1.10 Released](https://docs.julialang.org/en/v1/NEWS/)
 * [2023-12-27, 16:43:24](https://news.ycombinator.com/item?id=38783718) - [Apple wins bid to pause Apple Watch ban at US appeals court](https://www.reuters.com/legal/apple-wins-bid-pause-apple-watch-ban-us-appeals-court-2023-12-27/)
 * [2023-12-27, 16:26:54](https://news.ycombinator.com/item?id=38783517) - [The ghost of a colonial road on the eastern side of the Chrysler Building](https://ephemeralnewyork.wordpress.com/tag/building-the-chrysler-building/)
 * [2023-12-27, 16:25:33](https://news.ycombinator.com/item?id=38783500) - [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
@@ -29,7 +30,6 @@
 * [2023-12-26, 20:19:11](https://news.ycombinator.com/item?id=38775635) - [Sometimes a Little Bullshit Is Fine: A Conversation with Charles Simic](https://www.theparisreview.org/blog/2023/01/19/sometimes-a-little-bullshit-is-fine-a-conversation-with-charles-simic/)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 * [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
-* [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
 
 ## [Archives](archives/index.md)
 
