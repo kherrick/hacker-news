@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 10:17:35](https://news.ycombinator.com/item?id=38780642) - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
 * [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
+* [2023-12-27, 10:09:27](https://news.ycombinator.com/item?id=38780599) - [X will go to court after failing to pay staff millions in annual bonuses](https://www.businessinsider.com/elon-musk-x-faces-court-failed-pay-bonuses-lawsuit-judge-2023-12)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2023-12-27, 08:21:16](https://news.ycombinator.com/item?id=38780091) - [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
