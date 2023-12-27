@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 22:53:45](https://news.ycombinator.com/item?id=38787869) - [Apple Watch Series 9 and Ultra 2 returning to select Apple Stores](https://9to5mac.com/2023/12/27/apple-watch-series-9-and-ultra-2-returning-to-select-apple-stores-today-online-tomorrow/)
 * [2023-12-27, 21:23:38](https://news.ycombinator.com/item?id=38786920) - [Disney CEO Bob Iger says company's movies have been too focused on messaging](https://www.cnbc.com/2023/11/30/disney-ceo-bob-iger-says-movies-have-been-too-focused-on-messaging.html)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 20:23:44](https://news.ycombinator.com/item?id=38786253) - [Why We Sleep: a tale of institutional failure (2020)](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 22:53:45](https://news.ycombinator.com/item?id=38787869) - [Apple Watch Series 9 and Ultra 2 returning to select Apple Stores](https://9to5mac.com/2023/12/27/apple-watch-series-9-and-ultra-2-returning-to-select-apple-stores-today-online-tomorrow/)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle (2014)](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
@@ -24,7 +25,6 @@
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 03:32:36](https://news.ycombinator.com/item?id=38778807) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
-* [2023-12-27, 02:23:20](https://news.ycombinator.com/item?id=38778402) - [A Lighthouse Keeper Hangs Up Her Bonnet](https://hakaimagazine.com/videos-visuals/a-lighthouse-keeper-hangs-up-her-bonnet/)
 * [2023-12-27, 01:28:18](https://news.ycombinator.com/item?id=38778072) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-27, 01:13:22](https://news.ycombinator.com/item?id=38777946) - [Perses: Syntax-Directed Program Reduction](https://github.com/uw-pluverse/perses)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
