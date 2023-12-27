@@ -6,6 +6,7 @@
 
 * [2023-12-27, 03:06:33](https://news.ycombinator.com/item?id=38778657) - [Pizza Hut fires all delivery drivers due to CA fast food minimum wage law](https://www.businessinsider.com/california-pizza-hut-lays-off-delivery-drivers-amid-new-wage-law-2023-12)
 * [2023-12-27, 02:49:07](https://news.ycombinator.com/item?id=38778548) - [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
+* [2023-12-27, 02:28:48](https://news.ycombinator.com/item?id=38778440) - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 * [2023-12-27, 02:12:03](https://news.ycombinator.com/item?id=38778330) - [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
