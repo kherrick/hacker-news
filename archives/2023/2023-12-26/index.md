@@ -15,6 +15,7 @@
 * [2023-12-26, 20:46:24](https://news.ycombinator.com/item?id=38775882) - [30 years of Donald Knuth's 'Christmas Lectures' are online – including 2023's](https://science.slashdot.org/story/23/12/23/0516244/30-years-of-donald-knuths-christmas-lectures-go-online---including-2023s)
 * [2023-12-26, 20:26:55](https://news.ycombinator.com/item?id=38775696) - [Putting the \"J\" in the RPG, Part 2: Playstation for the Win](https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-2-playstation-for-the-win/)
 * [2023-12-26, 20:19:11](https://news.ycombinator.com/item?id=38775635) - [Sometimes a Little Bullshit Is Fine: A Conversation with Charles Simic](https://www.theparisreview.org/blog/2023/01/19/sometimes-a-little-bullshit-is-fine-a-conversation-with-charles-simic/)
+* [2023-12-26, 20:14:16](https://news.ycombinator.com/item?id=38775586) - [The Unlikely Rise and Collapse of the Bulgarian Computer [video]](https://www.youtube.com/watch?v=t-UVPw1c_So)
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 * [2023-12-26, 19:58:41](https://news.ycombinator.com/item?id=38775439) - [Moderna's mRNA cancer vaccine works even better than thought](https://www.freethink.com/health/cancer-vaccine)
