@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-27, 03:06:33",
+      "https://news.ycombinator.com/item?id=38778657"
+    ],
+    [
+      "Pizza Hut fires all delivery drivers due to CA fast food minimum wage law",
+      "https://www.businessinsider.com/california-pizza-hut-lays-off-delivery-drivers-amid-new-wage-law-2023-12"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 02:49:07",
+      "https://news.ycombinator.com/item?id=38778548"
+    ],
+    [
+      "Unlock Complex Time Series Analysis in SQL with Range Queries",
+      "https://greptime.com/blogs/2023-12-26-range-query"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 02:21:39",
       "https://news.ycombinator.com/item?id=38778390"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2023-12-27, 00:17:29",
+      "https://news.ycombinator.com/item?id=38777553"
+    ],
+    [
+      "Operation Snow White",
+      "https://en.wikipedia.org/wiki/Operation_Snow_White"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 00:11:59",
       "https://news.ycombinator.com/item?id=38777516"
     ],
@@ -81,22 +111,22 @@
   ],
   [
     [
+      "2023-12-27, 00:06:26",
+      "https://news.ycombinator.com/item?id=38777485"
+    ],
+    [
+      "Performance of Large Language Models on a Neurology Board–Style Examination",
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812620"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 00:02:10",
       "https://news.ycombinator.com/item?id=38777460"
     ],
     [
       "2nd City Zoning",
       "https://secondcityzoning.org"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 23:05:46",
-      "https://news.ycombinator.com/item?id=38777060"
-    ],
-    [
-      "Reckless DMCA Deindexing Pushes NASA's Artemis Towards Black Hole",
-      "https://torrentfreak.com/reckless-dmca-deindexing-pushes-nasas-artemis-towards-black-hole-231226/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-12-26, 19:02:18",
-      "https://news.ycombinator.com/item?id=38774792"
-    ],
-    [
-      "XPath Scraping with FreshRSS",
-      "https://danq.me/2022/09/27/freshrss-xpath/"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 18:05:54",
       "https://news.ycombinator.com/item?id=38774165"
     ],
@@ -167,16 +187,6 @@
     [
       "Show HN: I made a GPU VRAM calculator for transformer-based models",
       "https://vram.asmirnov.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 17:47:27",
-      "https://news.ycombinator.com/item?id=38773957"
-    ],
-    [
-      "A list of Hacker News's undocumented features and behaviors",
-      "https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "How thermal management is changing in the age of the kilowatt chip",
       "https://www.theregister.com/2023/12/26/thermal_management_is_changing/"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 15:57:43",
-      "https://news.ycombinator.com/item?id=38772862"
-    ],
-    [
-      "Adventures in reverse engineering Broadcom NIC firmware",
-      "https://www.devever.net/~hl/ortega"
     ]
   ],
   [
