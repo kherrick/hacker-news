@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 10:17:35](https://news.ycombinator.com/item?id=38780642) - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
 * [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
