@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 13:19:04](https://news.ycombinator.com/item?id=38781631) - [Open source added €65-€95B to the EU's GDP in 2021](https://shiftprint.writeas.com/open-source-gdp-add-approaching-data-ownership-blockchain-based-identity-and)
+* [2023-12-27, 13:16:11](https://news.ycombinator.com/item?id=38781615) - [Is GitHub Gone Mad?](https://github.com/trending)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
@@ -13,7 +15,6 @@
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 * [2023-12-27, 02:10:12](https://news.ycombinator.com/item?id=38778319) - [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
 * [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Game Clones](https://osgameclones.com/)
-* [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 * [2023-12-27, 00:17:29](https://news.ycombinator.com/item?id=38777553) - [Operation Snow White](https://en.wikipedia.org/wiki/Operation_Snow_White)
@@ -21,7 +22,6 @@
 * [2023-12-27, 00:02:10](https://news.ycombinator.com/item?id=38777460) - [2nd City Zoning](https://secondcityzoning.org)
 * [2023-12-26, 21:56:35](https://news.ycombinator.com/item?id=38776522) - ['The Egyptian Book of the Dead' Review: An Ancient Guide to the Afterlife](https://www.wsj.com/arts-culture/books/the-egyptian-book-of-the-dead-review-an-ancient-guide-to-the-afterlife-85eadb35)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
-* [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
