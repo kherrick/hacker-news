@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
-* [2023-12-27, 02:12:03](https://news.ycombinator.com/item?id=38778330) - [Ask HN: Best offline LLM in case OpenAI goes rogue?](https://news.ycombinator.com/item?id=38778330)
 * [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
@@ -26,6 +25,7 @@
 * [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
 * [2023-12-26, 15:13:08](https://news.ycombinator.com/item?id=38772382) - [Show HN: Whataaabout.com – unique activity ideas for the holiday break](https://www.whataaabout.com/)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
+* [2023-12-26, 12:53:16](https://news.ycombinator.com/item?id=38771349) - [Implementing a Minesweeper clone for the Gameboy Advance](https://exelo.tl/poopsweeper.html)
 * [2023-12-26, 08:21:45](https://news.ycombinator.com/item?id=38769850) - [Black Triangles (2014)](https://rampantgames.com/blog/?p=7745)
 * [2023-12-26, 07:53:25](https://news.ycombinator.com/item?id=38769700) - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
