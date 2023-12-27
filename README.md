@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
 * [2023-12-27, 02:28:48](https://news.ycombinator.com/item?id=38778440) - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
@@ -19,7 +18,9 @@
 * [2023-12-26, 17:53:56](https://news.ycombinator.com/item?id=38774026) - [Show HN: I made a GPU VRAM calculator for transformer-based models](https://vram.asmirnov.xyz/)
 * [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [2023-12-26, 17:18:20](https://news.ycombinator.com/item?id=38773669) - [The Invisible Screen – An E-Paper Smart Display](https://shop.invisible-computers.com/products/invisible-calendar)
+* [2023-12-26, 16:54:31](https://news.ycombinator.com/item?id=38773429) - [Japan to crack down on Apple and Google app store monopolies](https://asia.nikkei.com/Business/Technology/Japan-to-crack-down-on-Apple-and-Google-app-store-monopolies)
 * [2023-12-26, 16:10:44](https://news.ycombinator.com/item?id=38772980) - [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/)
+* [2023-12-26, 15:57:43](https://news.ycombinator.com/item?id=38772862) - [Adventures in reverse engineering Broadcom NIC firmware](https://www.devever.net/~hl/ortega)
 * [2023-12-26, 15:48:15](https://news.ycombinator.com/item?id=38772754) - [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html)
 * [2023-12-26, 15:13:08](https://news.ycombinator.com/item?id=38772382) - [Show HN: Whataaabout.com – unique activity ideas for the holiday break](https://www.whataaabout.com/)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
@@ -27,7 +28,6 @@
 * [2023-12-26, 12:53:16](https://news.ycombinator.com/item?id=38771349) - [Implementing a Minesweeper clone for the Gameboy Advance](https://exelo.tl/poopsweeper.html)
 * [2023-12-26, 09:06:17](https://news.ycombinator.com/item?id=38770101) - [Clanging](https://en.wikipedia.org/wiki/Clanging)
 * [2023-12-26, 08:23:38](https://news.ycombinator.com/item?id=38769859) - [Nintendo Switch's iGPU: Maxwell Nerfed Edition](https://chipsandcheese.com/2023/12/23/nintendo-switchs-igpu-maxwell-nerfed-edition/)
-* [2023-12-26, 08:21:45](https://news.ycombinator.com/item?id=38769850) - [Black Triangles (2014)](https://rampantgames.com/blog/?p=7745)
 * [2023-12-26, 06:41:35](https://news.ycombinator.com/item?id=38769416) - [Croquet: Live, network-transparent 3D gaming](https://www.theregister.com/2023/03/23/croquet_for_unity/)
 * [2023-12-25, 22:44:52](https://news.ycombinator.com/item?id=38766990) - [Show HN: Actually Portable Vim (With a Cute Vimrc)](https://github.com/csdvrx/CuteVim)
 
