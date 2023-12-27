@@ -10,6 +10,7 @@
 * [2023-12-27, 15:09:19](https://news.ycombinator.com/item?id=38782678) - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
 * [2023-12-27, 15:06:26](https://news.ycombinator.com/item?id=38782637) - [Lee Sun-Kyun, 'Parasite' Actor, Dies at 48](https://www.nytimes.com/2023/12/27/world/asia/lee-sun-kyun-parasite-dead.html)
 * [2023-12-27, 15:05:54](https://news.ycombinator.com/item?id=38782636) - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
+* [2023-12-27, 15:03:50](https://news.ycombinator.com/item?id=38782613) - [Ask HN: What skill do you want to develop or improve in 2024?](https://news.ycombinator.com/item?id=38782613)
 * [2023-12-27, 15:00:16](https://news.ycombinator.com/item?id=38782573) - [Amazon Prime video to now include Ads](https://www.macrumors.com/2023/12/27/amazon-prime-video-to-feature-ads-from-january-29/)
 * [2023-12-27, 14:52:37](https://news.ycombinator.com/item?id=38782482) - [The World Is Going Blind. Taiwan Offers a Warning, and a Cure](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)
 * [2023-12-27, 14:52:23](https://news.ycombinator.com/item?id=38782475) - [She spent her inheritance on TikTok Livestreamers](https://www.businessinsider.com/she-spent-her-inheritance-sending-money-to-tiktok-influencers-2023-12)
