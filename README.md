@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
+* [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
+* [2023-12-27, 11:36:07](https://news.ycombinator.com/item?id=38781031) - [Tell HN: Hacker News dataset on BigQuery hasn't been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
 * [2023-12-27, 10:09:27](https://news.ycombinator.com/item?id=38780599) - [X will go to court after failing to pay staff millions in annual bonuses](https://www.businessinsider.com/elon-musk-x-faces-court-failed-pay-bonuses-lawsuit-judge-2023-12)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
@@ -21,7 +22,6 @@
 * [2023-12-26, 21:56:35](https://news.ycombinator.com/item?id=38776522) - ['The Egyptian Book of the Dead' Review: An Ancient Guide to the Afterlife](https://www.wsj.com/arts-culture/books/the-egyptian-book-of-the-dead-review-an-ancient-guide-to-the-afterlife-85eadb35)
 * [2023-12-26, 21:08:11](https://news.ycombinator.com/item?id=38776074) - [History of Alice and Bob (2017)](http://cryptocouple.com/)
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
-* [2023-12-26, 20:19:11](https://news.ycombinator.com/item?id=38775635) - [Sometimes a Little Bullshit Is Fine: A Conversation with Charles Simic](https://www.theparisreview.org/blog/2023/01/19/sometimes-a-little-bullshit-is-fine-a-conversation-with-charles-simic/)
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
