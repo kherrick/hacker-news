@@ -50,6 +50,7 @@
 * [2023-12-26, 14:28:19](https://news.ycombinator.com/item?id=38772024) - [Shelf life: novelist Hanya Yanagihara on living with 12,000 books (2017)](https://www.theguardian.com/books/2017/aug/12/homes-author-hanya-yanagihara-new-york-12000-books)
 * [2023-12-26, 14:23:01](https://news.ycombinator.com/item?id=38771981) - [After a brutal stretch, cryptocurrencies are surging](https://www.npr.org/2023/12/26/1220603847/crypto-cryptocurrency-bitcoin-ftx-binance-cz-bankman-fried)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
+* [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 13:24:41](https://news.ycombinator.com/item?id=38771561) - [Obsidian 1.5 Desktop (Public)](https://obsidian.md/changelog/2023-12-26-desktop-v1.5.3/)
 * [2023-12-26, 13:18:43](https://news.ycombinator.com/item?id=38771513) - [Website Search Hurts My Feelings](https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/)
 * [2023-12-26, 13:14:35](https://news.ycombinator.com/item?id=38771488) - [Ask HN: How are you using ChatGPT for yourself?](https://news.ycombinator.com/item?id=38771488)
