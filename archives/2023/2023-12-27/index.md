@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
 * [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)

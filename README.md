@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle (2014)](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
@@ -17,7 +18,6 @@
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We turned the tide in the roach wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
 * [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
 * [2023-12-27, 15:09:19](https://news.ycombinator.com/item?id=38782678) - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
-* [2023-12-27, 15:05:54](https://news.ycombinator.com/item?id=38782636) - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
 * [2023-12-27, 14:47:47](https://news.ycombinator.com/item?id=38782421) - [Scratch in the Browser](https://squeak.js.org/scratch/#fullscreen)
 * [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
