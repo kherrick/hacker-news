@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
+* [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
