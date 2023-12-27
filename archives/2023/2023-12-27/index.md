@@ -83,6 +83,7 @@
 * [2023-12-27, 01:20:29](https://news.ycombinator.com/item?id=38778007) - [Laptop of the magi: an annoyed iMessage antitrust anecdote](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
 * [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
 * [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
+* [2023-12-27, 01:13:22](https://news.ycombinator.com/item?id=38777946) - [Perses: Syntax-Directed Program Reduction](https://github.com/uw-pluverse/perses)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things Software Developers Should Learn about Learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 * [2023-12-27, 00:17:29](https://news.ycombinator.com/item?id=38777553) - [Operation Snow White](https://en.wikipedia.org/wiki/Operation_Snow_White)
