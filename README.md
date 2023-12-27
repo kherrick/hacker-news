@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 02:49:07](https://news.ycombinator.com/item?id=38778548) - [Unlock Complex Time Series Analysis in SQL with Range Queries](https://greptime.com/blogs/2023-12-26-range-query)
 * [2023-12-27, 02:28:48](https://news.ycombinator.com/item?id=38778440) - [History-making SpaceX booster mostly destroyed in post-flight topple](http://www.collectspace.com/news/news-122623a-spacex-falcon-9-first-stage-1058-lost-recovery.html)
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+* [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Game Clones](https://osgameclones.com/)
 * [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
