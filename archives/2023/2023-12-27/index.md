@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 16:43:24](https://news.ycombinator.com/item?id=38783718) - [Apple wins bid to pause Apple Watch ban at US appeals court](https://www.reuters.com/legal/apple-wins-bid-pause-apple-watch-ban-us-appeals-court-2023-12-27/)
+* [2023-12-27, 16:26:54](https://news.ycombinator.com/item?id=38783517) - [The ghost of a colonial road on the eastern side of the Chrysler Building](https://ephemeralnewyork.wordpress.com/tag/building-the-chrysler-building/)
 * [2023-12-27, 16:25:33](https://news.ycombinator.com/item?id=38783500) - [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
+* [2023-12-27, 16:10:10](https://news.ycombinator.com/item?id=38783338) - [Ask HN: Favorite Podcast Episodes of 2023?](https://news.ycombinator.com/item?id=38783338)
 * [2023-12-27, 16:05:21](https://news.ycombinator.com/item?id=38783286) - [Injection of \"smart insulin\" regulates blood glucose levels for one week](https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
