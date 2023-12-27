@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 11:36:07](https://news.ycombinator.com/item?id=38781031) - [Tell HN: Hacker News dataset on BigQuery hasn't been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
 * [2023-12-27, 10:17:35](https://news.ycombinator.com/item?id=38780642) - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)

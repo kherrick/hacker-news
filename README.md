@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
@@ -22,7 +23,6 @@
 * [2023-12-26, 20:49:10](https://news.ycombinator.com/item?id=38775904) - [Game Boy / Color Architecture](https://www.copetti.org/writings/consoles/game-boy/)
 * [2023-12-26, 20:13:48](https://news.ycombinator.com/item?id=38775579) - [FUSE-T is a kext-less implementation of FUSE for macOS that uses NFSv4](https://github.com/macos-fuse-t/fuse-t)
 * [2023-12-26, 20:04:15](https://news.ycombinator.com/item?id=38775505) - [Veritasium: The SAT Question Everyone Got Wrong [video]](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
-* [2023-12-26, 17:47:27](https://news.ycombinator.com/item?id=38773957) - [A list of Hacker News's undocumented features and behaviors](https://github.com/minimaxir/hacker-news-undocumented/blob/master/README.md)
 * [2023-12-26, 14:21:23](https://news.ycombinator.com/item?id=38771962) - [Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs](https://github.com/vnmakarov/mir)
 * [2023-12-26, 14:20:36](https://news.ycombinator.com/item?id=38771952) - [Buzz: A lightweight statically typed scripting language](https://buzz-lang.dev/)
 * [2023-12-26, 13:10:02](https://news.ycombinator.com/item?id=38771466) - [20 GOTO 10: 10101001 facts about retro computers (book)](https://unbound.com/books/20goto10)
