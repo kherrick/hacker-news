@@ -6,6 +6,7 @@
 
 * [2023-12-27, 21:23:38](https://news.ycombinator.com/item?id=38786920) - [Disney CEO Bob Iger says company's movies have been too focused on messaging](https://www.cnbc.com/2023/11/30/disney-ceo-bob-iger-says-movies-have-been-too-focused-on-messaging.html)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+* [2023-12-27, 20:23:44](https://news.ycombinator.com/item?id=38786253) - [Why We Sleep: a tale of institutional failure (2020)](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
 * [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
@@ -50,6 +51,7 @@
 * [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 13:35:21](https://news.ycombinator.com/item?id=38781771) - [Scholars asked Harvard President Claudine Gay for her data. She said no.](https://www.dossier.today/p/these-scholars-asked-claudine-gay)
+* [2023-12-27, 13:21:06](https://news.ycombinator.com/item?id=38781645) - [The Uncommon Advantage from Training in Unpopular Programming Languages](https://www.stackbuilders.com/blog/the-uncommon-advantage-from-training-in-unpopular-programming-languages/)
 * [2023-12-27, 13:19:04](https://news.ycombinator.com/item?id=38781631) - [Open source added €65-€95B to the EU's GDP in 2021](https://shiftprint.writeas.com/open-source-gdp-add-approaching-data-ownership-blockchain-based-identity-and)
 * [2023-12-27, 13:16:11](https://news.ycombinator.com/item?id=38781615) - [Is GitHub Gone Mad?](https://github.com/trending)
 * [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
