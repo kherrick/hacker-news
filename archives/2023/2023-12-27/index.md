@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 15:05:54](https://news.ycombinator.com/item?id=38782636) - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
 * [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
