@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-27, 18:31:31](https://news.ycombinator.com/item?id=38784943) - [Glock Founder Gaston Glock Has Died: 1929-2023](https://www.recoilweb.com/glock-founder-gaston-glock-has-died-1929-2023-183034.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
@@ -28,6 +27,7 @@
 * [2023-12-27, 02:21:39](https://news.ycombinator.com/item?id=38778390) - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 * [2023-12-27, 01:28:18](https://news.ycombinator.com/item?id=38778072) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-26, 21:56:35](https://news.ycombinator.com/item?id=38776522) - ['The Egyptian Book of the Dead' Review: An Ancient Guide to the Afterlife](https://www.wsj.com/arts-culture/books/the-egyptian-book-of-the-dead-review-an-ancient-guide-to-the-afterlife-85eadb35)
+* [2023-12-26, 20:19:11](https://news.ycombinator.com/item?id=38775635) - [Sometimes a Little Bullshit Is Fine: A Conversation with Charles Simic](https://www.theparisreview.org/blog/2023/01/19/sometimes-a-little-bullshit-is-fine-a-conversation-with-charles-simic/)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 * [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
