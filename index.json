@@ -221,26 +221,6 @@
   ],
   [
     [
-      "2023-12-26, 15:57:43",
-      "https://news.ycombinator.com/item?id=38772862"
-    ],
-    [
-      "Adventures in reverse engineering Broadcom NIC firmware",
-      "https://www.devever.net/~hl/ortega"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 15:48:15",
-      "https://news.ycombinator.com/item?id=38772754"
-    ],
-    [
-      "Text Editor: Data Structures",
-      "https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 14:21:23",
       "https://news.ycombinator.com/item?id=38771962"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2023-12-26, 10:23:47",
+      "https://news.ycombinator.com/item?id=38770465"
+    ],
+    [
+      "Show HN: TBMK – A Commands Bookmark for Terminal",
+      "https://github.com/linhx/tbmk"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 09:06:17",
       "https://news.ycombinator.com/item?id=38770101"
     ],
@@ -297,6 +287,16 @@
     [
       "Croquet: Live, network-transparent 3D gaming",
       "https://www.theregister.com/2023/03/23/croquet_for_unity/"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 22:44:52",
+      "https://news.ycombinator.com/item?id=38766990"
+    ],
+    [
+      "Show HN: Actually Portable Vim (With a Cute Vimrc)",
+      "https://github.com/csdvrx/CuteVim"
     ]
   ]
 ]
