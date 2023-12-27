@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
 * [2023-12-27, 19:13:37](https://news.ycombinator.com/item?id=38785415) - [Tesla robot attacks an engineer at company's Texas factory](https://www.dailymail.co.uk/sciencetech/article-12869629/Tesla-robot-ATTACKS-engineer-companys-Texas-factory-violent-malfunction-leaving-trail-blood-forcing-workers-hit-emergency-shutdown-button.html)
+* [2023-12-27, 19:13:34](https://news.ycombinator.com/item?id=38785414) - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
 * [2023-12-27, 19:12:33](https://news.ycombinator.com/item?id=38785405) - [A CCPA Request to OpenAI Took 101 Days and Raises More Questions Than Answers](https://www.dbreunig.com/2023/12/27/openai-ccpa-request.html)
+* [2023-12-27, 18:54:29](https://news.ycombinator.com/item?id=38785206) - [Ask HN: Why is my web server being attacked?](https://news.ycombinator.com/item?id=38785206)
 * [2023-12-27, 18:31:31](https://news.ycombinator.com/item?id=38784943) - [Glock Founder Gaston Glock Has Died: 1929-2023](https://www.recoilweb.com/glock-founder-gaston-glock-has-died-1929-2023-183034.html)
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
+* [2023-12-27, 18:09:45](https://news.ycombinator.com/item?id=38784695) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://events.ccc.de/congress/2023/hub/de/event/operation_triangulation_what_you_get_when_attack_iphones_of_researchers/)
 * [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
 * [2023-12-27, 17:12:18](https://news.ycombinator.com/item?id=38784039) - [Creating custom ChatGPT agents for fun and for profit](https://techsquidtv.com/blog/creating-custom-chatgpt-agents-for-fun-and-for-profit/)
