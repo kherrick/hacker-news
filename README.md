@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 23:43:42](https://news.ycombinator.com/item?id=38788273) - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 21:32:22](https://news.ycombinator.com/item?id=38787005) - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
@@ -28,7 +29,6 @@
 * [2023-12-27, 01:13:22](https://news.ycombinator.com/item?id=38777946) - [Perses: Syntax-Directed Program Reduction](https://github.com/uw-pluverse/perses)
 * [2023-12-26, 20:14:16](https://news.ycombinator.com/item?id=38775586) - [The Unlikely Rise and Collapse of the Bulgarian Computer [video]](https://www.youtube.com/watch?v=t-UVPw1c_So)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
-* [2023-12-26, 17:07:32](https://news.ycombinator.com/item?id=38773547) - [Making the Teletype Christmas Song [video]](https://www.youtube.com/watch?v=Mt4EDsT7Gto)
 * [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
 ## [Archives](archives/index.md)
