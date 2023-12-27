@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-27, 02:12:03",
-      "https://news.ycombinator.com/item?id=38778330"
-    ],
-    [
-      "Ask HN: Best offline LLM in case OpenAI goes rogue?",
-      "https://news.ycombinator.com/item?id=38778330"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 01:20:03",
       "https://news.ycombinator.com/item?id=38778003"
     ],
@@ -257,6 +247,16 @@
     [
       "Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs",
       "https://github.com/vnmakarov/mir"
+    ]
+  ],
+  [
+    [
+      "2023-12-26, 12:53:16",
+      "https://news.ycombinator.com/item?id=38771349"
+    ],
+    [
+      "Implementing a Minesweeper clone for the Gameboy Advance",
+      "https://exelo.tl/poopsweeper.html"
     ]
   ],
   [
