@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
+* [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 19:27:49](https://news.ycombinator.com/item?id=38785562) - [Nearly half of Americans age 18 to 29 are living with their parents](https://blobstreaming.org/nearly-half-of-americans-age-18-to-29-are-living-with-their-parents/)
 * [2023-12-27, 19:13:37](https://news.ycombinator.com/item?id=38785415) - [Tesla robot attacks an engineer at company's Texas factory](https://www.dailymail.co.uk/sciencetech/article-12869629/Tesla-robot-ATTACKS-engineer-companys-Texas-factory-violent-malfunction-leaving-trail-blood-forcing-workers-hit-emergency-shutdown-button.html)
 * [2023-12-27, 19:13:34](https://news.ycombinator.com/item?id=38785414) - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)

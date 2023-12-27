@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
-* [2023-12-27, 19:27:49](https://news.ycombinator.com/item?id=38785562) - [Nearly half of Americans age 18 to 29 are living with their parents](https://blobstreaming.org/nearly-half-of-americans-age-18-to-29-are-living-with-their-parents/)
+* [2023-12-27, 19:40:13](https://news.ycombinator.com/item?id=38785699) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 19:13:34](https://news.ycombinator.com/item?id=38785414) - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
@@ -21,7 +22,6 @@
 * [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
-* [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 06:19:19](https://news.ycombinator.com/item?id=38779562) - [Neolithic high mountain settlers were doing complex livestock/farming activities](https://phys.org/news/2023-12-early-neolithic-high-mountain-settlers.html)
