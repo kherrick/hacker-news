@@ -2,6 +2,7 @@
 
 * [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
+* [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [Hrvach/Deskhop: Fast Desktop Switching Device](https://github.com/hrvach/deskhop)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 02:49:17](https://news.ycombinator.com/item?id=38778550) - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)
@@ -10,7 +11,6 @@
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 * [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Game Clones](https://osgameclones.com/)
 * [2023-12-27, 01:20:29](https://news.ycombinator.com/item?id=38778007) - [Laptop of the magi: an annoyed iMessage antitrust anecdote](https://maya.land/monologues/2023/12/26/laptop-of-the-magi-apple-antitrust.html)
-* [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 * [2023-12-27, 00:17:29](https://news.ycombinator.com/item?id=38777553) - [Operation Snow White](https://en.wikipedia.org/wiki/Operation_Snow_White)
