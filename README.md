@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
 * [2023-12-27, 19:27:49](https://news.ycombinator.com/item?id=38785562) - [Nearly half of Americans age 18 to 29 are living with their parents](https://blobstreaming.org/nearly-half-of-americans-age-18-to-29-are-living-with-their-parents/)
 * [2023-12-27, 19:13:34](https://news.ycombinator.com/item?id=38785414) - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 18:09:45](https://news.ycombinator.com/item?id=38784695) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://events.ccc.de/congress/2023/hub/de/event/operation_triangulation_what_you_get_when_attack_iphones_of_researchers/)
-* [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:25:53](https://news.ycombinator.com/item?id=38784188) - [Pluto, a Modern Lua Dialect](https://pluto-lang.org/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
 * [2023-12-27, 16:57:29](https://news.ycombinator.com/item?id=38783886) - [Julia 1.10 Released](https://docs.julialang.org/en/v1/NEWS/)
