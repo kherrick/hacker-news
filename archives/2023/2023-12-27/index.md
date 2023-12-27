@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
 * [2023-12-27, 15:06:26](https://news.ycombinator.com/item?id=38782637) - [Lee Sun-Kyun, 'Parasite' Actor, Dies at 48](https://www.nytimes.com/2023/12/27/world/asia/lee-sun-kyun-parasite-dead.html)
 * [2023-12-27, 15:05:54](https://news.ycombinator.com/item?id=38782636) - [Scientists discover the first new antibiotics in over 60 years using AI](https://www.euronews.com/next/2023/12/20/scientists-discover-the-first-new-antibiotics-in-over-60-years-using-ai)
 * [2023-12-27, 15:00:16](https://news.ycombinator.com/item?id=38782573) - [Amazon Prime video to now include Ads](https://www.macrumors.com/2023/12/27/amazon-prime-video-to-feature-ads-from-january-29/)
+* [2023-12-27, 14:52:23](https://news.ycombinator.com/item?id=38782475) - [She spent her inheritance on TikTok Livestreamers](https://www.businessinsider.com/she-spent-her-inheritance-sending-money-to-tiktok-influencers-2023-12)
 * [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
@@ -25,6 +27,7 @@
 * [2023-12-27, 08:21:16](https://news.ycombinator.com/item?id=38780091) - [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
+* [2023-12-27, 06:19:19](https://news.ycombinator.com/item?id=38779562) - [Neolithic high mountain settlers were doing complex livestock/farming activities](https://phys.org/news/2023-12-early-neolithic-high-mountain-settlers.html)
 * [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
