@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-27, 19:13:34](https://news.ycombinator.com/item?id=38785414) - [Show HN: Scan QR codes to check-in guests registered via Google Forms™](https://workspace.google.com/marketplace/app/qr_code_ticket_for_attendance/9398047938)
-* [2023-12-27, 19:12:33](https://news.ycombinator.com/item?id=38785405) - [A CCPA Request to OpenAI Took 101 Days and Raises More Questions Than Answers](https://www.dbreunig.com/2023/12/27/openai-ccpa-request.html)
-* [2023-12-27, 18:54:29](https://news.ycombinator.com/item?id=38785206) - [Ask HN: Why is my web server being attacked?](https://news.ycombinator.com/item?id=38785206)
+* [2023-12-27, 18:54:03](https://news.ycombinator.com/item?id=38785199) - [We Were Once Masters of the Air: It's High Time to Restore US Air Power](https://www.vermilionchina.com/p/we-were-once-masters-of-the-air)
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 18:09:45](https://news.ycombinator.com/item?id=38784695) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://events.ccc.de/congress/2023/hub/de/event/operation_triangulation_what_you_get_when_attack_iphones_of_researchers/)
@@ -26,6 +25,7 @@
 * [2023-12-27, 08:21:16](https://news.ycombinator.com/item?id=38780091) - [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 06:19:19](https://news.ycombinator.com/item?id=38779562) - [Neolithic high mountain settlers were doing complex livestock/farming activities](https://phys.org/news/2023-12-early-neolithic-high-mountain-settlers.html)
+* [2023-12-27, 03:32:36](https://news.ycombinator.com/item?id=38778807) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 * [2023-12-27, 02:23:20](https://news.ycombinator.com/item?id=38778402) - [A Lighthouse Keeper Hangs Up Her Bonnet](https://hakaimagazine.com/videos-visuals/a-lighthouse-keeper-hangs-up-her-bonnet/)
 * [2023-12-27, 01:28:18](https://news.ycombinator.com/item?id=38778072) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
