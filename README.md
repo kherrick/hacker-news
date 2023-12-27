@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-27, 13:19:04](https://news.ycombinator.com/item?id=38781631) - [Open source added €65-€95B to the EU's GDP in 2021](https://shiftprint.writeas.com/open-source-gdp-add-approaching-data-ownership-blockchain-based-identity-and)
-* [2023-12-27, 13:16:11](https://news.ycombinator.com/item?id=38781615) - [Is GitHub Gone Mad?](https://github.com/trending)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 09:53:33](https://news.ycombinator.com/item?id=38780522) - [2023: Focusing on a single product pays off](https://maxrozen.com/2023-focus-single-product-pays-off)
@@ -15,6 +14,7 @@
 * [2023-12-27, 02:21:12](https://news.ycombinator.com/item?id=38778386) - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
 * [2023-12-27, 02:10:12](https://news.ycombinator.com/item?id=38778319) - [Public Facing Dog](https://sarahendren.com/2023/11/27/public-facing-dog/)
 * [2023-12-27, 02:09:22](https://news.ycombinator.com/item?id=38778313) - [Open Source Game Clones](https://osgameclones.com/)
+* [2023-12-27, 01:16:04](https://news.ycombinator.com/item?id=38777970) - [Optimizing Raku Programs with Zig](https://raku-advent.blog/2023/12/23/day-23-optimizing-raku-programs-with-zig/)
 * [2023-12-27, 01:07:53](https://news.ycombinator.com/item?id=38777908) - [Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer](https://news.ycombinator.com/item?id=38777908)
 * [2023-12-27, 00:32:20](https://news.ycombinator.com/item?id=38777647) - [Things software developers should learn about learning](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 * [2023-12-27, 00:17:29](https://news.ycombinator.com/item?id=38777553) - [Operation Snow White](https://en.wikipedia.org/wiki/Operation_Snow_White)
