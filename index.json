@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-27, 01:07:53",
+      "https://news.ycombinator.com/item?id=38777908"
+    ],
+    [
+      "Imbue (FKA Generally Intelligent) (YC S17) Is Hiring a Technical Interviewer",
+      "https://news.ycombinator.com/item?id=38777908"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 00:32:20",
+      "https://news.ycombinator.com/item?id=38777647"
+    ],
+    [
+      "Things Software Developers Should Learn about Learning",
+      "https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 00:11:59",
       "https://news.ycombinator.com/item?id=38777516"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-12-26, 18:32:17",
-      "https://news.ycombinator.com/item?id=38774471"
-    ],
-    [
-      "Colorado wolf reintroduction to move forward",
-      "https://phys.org/news/2023-12-colorado-wolf-reintroduction-ranchers-legal.html"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 18:05:54",
       "https://news.ycombinator.com/item?id=38774165"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-12-26, 16:17:31",
-      "https://news.ycombinator.com/item?id=38773037"
-    ],
-    [
-      "US ban on some Apple Watch sales now in effect",
-      "https://arstechnica.com/apple/2023/12/no-last-minute-reprieve-us-ban-on-some-apple-watch-sales-now-in-effect/"
-    ]
-  ],
-  [
-    [
       "2023-12-26, 16:10:44",
       "https://news.ycombinator.com/item?id=38772980"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-12-26, 14:21:23",
+      "https://news.ycombinator.com/item?id=38771962"
+    ],
+    [
+      "Mir: Strongly typed IR to implement fast and lightweight interpreters and JITs",
+      "https://github.com/vnmakarov/mir"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 08:21:45",
       "https://news.ycombinator.com/item?id=38769850"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Actually Portable Vim (With a Cute Vimrc)",
       "https://github.com/csdvrx/CuteVim"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 16:53:19",
-      "https://news.ycombinator.com/item?id=38764063"
-    ],
-    [
-      "Bob Dylan's Christmas Lights: A Scholarly Treatise",
-      "https://merrillmarkoe.substack.com/p/dylans-christmas-lights-a-scholarly"
     ]
   ]
 ]
