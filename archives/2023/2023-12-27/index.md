@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 19:13:37](https://news.ycombinator.com/item?id=38785415) - [Tesla robot attacks an engineer at company's Texas factory](https://www.dailymail.co.uk/sciencetech/article-12869629/Tesla-robot-ATTACKS-engineer-companys-Texas-factory-violent-malfunction-leaving-trail-blood-forcing-workers-hit-emergency-shutdown-button.html)
+* [2023-12-27, 19:12:33](https://news.ycombinator.com/item?id=38785405) - [A CCPA Request to OpenAI Took 101 Days and Raises More Questions Than Answers](https://www.dbreunig.com/2023/12/27/openai-ccpa-request.html)
 * [2023-12-27, 18:31:31](https://news.ycombinator.com/item?id=38784943) - [Glock Founder Gaston Glock Has Died: 1929-2023](https://www.recoilweb.com/glock-founder-gaston-glock-has-died-1929-2023-183034.html)
+* [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 17:26:09](https://news.ycombinator.com/item?id=38784194) - ['A business model based on mass copyright infringement'](https://www.theregister.com/2023/12/27/the_new_york_times_files/)
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
