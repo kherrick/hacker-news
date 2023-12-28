@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
+* [2023-12-28, 16:50:13](https://news.ycombinator.com/item?id=38795376) - [SliTaz GNU/Linux](https://www.slitaz.org/en/about/)
+* [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 * [2023-12-28, 16:21:45](https://news.ycombinator.com/item?id=38795009) - [The New York Times Company vs. Microsoft Corporation](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation)
 * [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
@@ -18,8 +20,6 @@
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-28, 05:07:07](https://news.ycombinator.com/item?id=38790255) - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
 * [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
-* [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
-* [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 20:08:28](https://news.ycombinator.com/item?id=38786046) - [Medieval Icelandic Feasts](https://www.historytoday.com/archive/miscellanies/medieval-icelandic-feasts)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 15:19:47](https://news.ycombinator.com/item?id=38782806) - [Schumpeter on Strategy (2019)](https://reactionwheel.net/2019/01/schumpeter-on-strategy.html)
