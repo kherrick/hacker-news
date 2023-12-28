@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 10:03:56](https://news.ycombinator.com/item?id=38791870) - [37C3 Video List](https://media.ccc.de/b/congress/2023)
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
@@ -18,7 +19,6 @@
 * [2023-12-27, 23:43:42](https://news.ycombinator.com/item?id=38788273) - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
-* [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 19:04:52](https://news.ycombinator.com/item?id=38785317) - [Web Development History – Internet history for the technically curious](https://webdevelopmenthistory.com/index/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
