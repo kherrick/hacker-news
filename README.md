@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
+* [2023-12-28, 18:38:17](https://news.ycombinator.com/item?id=38796842) - [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
 * [2023-12-28, 18:16:17](https://news.ycombinator.com/item?id=38796524) - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla 2023 annual report: CEO pay skyrockets, Firefox market share nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
@@ -27,7 +28,6 @@
 * [2023-12-27, 15:19:47](https://news.ycombinator.com/item?id=38782806) - [Schumpeter on Strategy (2019)](https://reactionwheel.net/2019/01/schumpeter-on-strategy.html)
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of object oriented programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
-* [2023-12-27, 09:30:47](https://news.ycombinator.com/item?id=38780433) - [Poor Man's Web](https://zserge.com/posts/small-web/)
 * [2023-12-27, 06:54:23](https://news.ycombinator.com/item?id=38779706) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-27, 04:18:47](https://news.ycombinator.com/item?id=38779059) - [Humans are not automatically strategic (2010)](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic)
 
