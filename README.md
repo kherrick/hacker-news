@@ -6,6 +6,7 @@
 * [2023-12-28, 18:16:17](https://news.ycombinator.com/item?id=38796524) - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
+* [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
 * [2023-12-28, 16:00:21](https://news.ycombinator.com/item?id=38794733) - [Show HN: Anytype – local-first, P2P knowledge management](https://anytype.io/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
@@ -20,7 +21,6 @@
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-28, 05:07:07](https://news.ycombinator.com/item?id=38790255) - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
-* [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 20:09:37](https://news.ycombinator.com/item?id=38786069) - [A Claxonomy of Mexico City's Traffic](https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/)
 * [2023-12-27, 20:08:28](https://news.ycombinator.com/item?id=38786046) - [Medieval Icelandic Feasts](https://www.historytoday.com/archive/miscellanies/medieval-icelandic-feasts)
@@ -29,7 +29,7 @@
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of object oriented programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
 * [2023-12-27, 06:54:23](https://news.ycombinator.com/item?id=38779706) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
-* [2023-12-27, 04:18:47](https://news.ycombinator.com/item?id=38779059) - [Humans are not automatically strategic (2010)](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic)
+* [2023-12-27, 03:32:36](https://news.ycombinator.com/item?id=38778807) - [Remote controlling an HP 1670g logic analyzer with a Linux PC x server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 
 ## [Archives](archives/index.md)
 
