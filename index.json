@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-12-27, 17:15:54",
-      "https://news.ycombinator.com/item?id=38784073"
-    ],
-    [
-      "4-year campaign backdoored iPhones using advanced exploit",
-      "https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 16:25:33",
       "https://news.ycombinator.com/item?id=38783500"
     ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=38783112"
     ],
     [
-      "Operation Triangulation: What You Get When Attack iPhones of Researchers",
+      "Operation Triangulation: What you get when attack iPhones of researchers",
       "https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Evolving the Infinite Canvas",
       "https://wattenberger.com/thoughts/evolving-the-infinite-canvas"
+    ]
+  ],
+  [
+    [
+      "2023-12-26, 12:12:22",
+      "https://news.ycombinator.com/item?id=38771119"
+    ],
+    [
+      "Bad Apple as MS-DOS Escape Sequences",
+      "https://16colo.rs/pack/badapple/BADAPPLE.ANS"
     ]
   ]
 ]
