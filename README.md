@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Nothing I Buy Works](https://walterkirn.substack.com/p/generation-junk)
+* [2023-12-28, 03:05:45](https://news.ycombinator.com/item?id=38789528) - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+* [2023-12-28, 02:52:00](https://news.ycombinator.com/item?id=38789452) - [The Smothers Brothers Comedy Hour](https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour)
+* [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
 * [2023-12-28, 02:33:43](https://news.ycombinator.com/item?id=38789332) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 * [2023-12-28, 01:03:49](https://news.ycombinator.com/item?id=38788788) - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 * [2023-12-28, 01:01:39](https://news.ycombinator.com/item?id=38788776) - [Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)](https://getjerry.com/careers)
@@ -20,7 +22,7 @@
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We turned the tide in the roach wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
-* [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
+* [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer sleep and eat simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
 * [2023-12-27, 15:09:19](https://news.ycombinator.com/item?id=38782678) - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
 * [2023-12-27, 14:52:37](https://news.ycombinator.com/item?id=38782482) - [High myopia is now the leading cause of blindness in Japan, China, and Taiwan](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)
 * [2023-12-27, 13:25:52](https://news.ycombinator.com/item?id=38781691) - [Kupuna Kalo](https://www.kupunakalo.com/)
@@ -28,8 +30,6 @@
 * [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
-* [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
-* [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
 ## [Archives](archives/index.md)
 
