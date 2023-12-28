@@ -2,7 +2,7 @@
 
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-12-28, 20:51:58](https://news.ycombinator.com/item?id=38798430) - [It's time to put REST to rest](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-09-22-put-rest-to-rest/)
+* [2023-12-28, 20:54:07](https://news.ycombinator.com/item?id=38798460) - [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
 * [2023-12-28, 20:31:14](https://news.ycombinator.com/item?id=38798233) - [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
