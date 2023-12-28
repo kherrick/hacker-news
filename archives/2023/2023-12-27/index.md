@@ -66,6 +66,7 @@
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:36:07](https://news.ycombinator.com/item?id=38781031) - [Tell HN: Hacker News dataset on BigQuery hasn't been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
+* [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
 * [2023-12-27, 10:17:35](https://news.ycombinator.com/item?id=38780642) - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
 * [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
 * [2023-12-27, 10:09:27](https://news.ycombinator.com/item?id=38780599) - [X will go to court after failing to pay staff millions in annual bonuses](https://www.businessinsider.com/elon-musk-x-faces-court-failed-pay-bonuses-lawsuit-judge-2023-12)

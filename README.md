@@ -26,8 +26,8 @@
 * [2023-12-27, 14:52:37](https://news.ycombinator.com/item?id=38782482) - [High myopia is now the leading cause of blindness in Japan, China, and Taiwan](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Will scaling work?](https://www.dwarkeshpatel.com/p/will-scaling-work)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
+* [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
-* [2023-12-27, 01:20:03](https://news.ycombinator.com/item?id=38778003) - [Hubble sights a galaxy with 'forbidden' light](https://phys.org/news/2023-12-hubble-sights-galaxy-forbidden.html)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 * [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
