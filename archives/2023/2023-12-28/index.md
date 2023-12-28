@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
 * [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
+* [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
+* [2023-12-28, 18:16:17](https://news.ycombinator.com/item?id=38796524) - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
 * [2023-12-28, 18:05:13](https://news.ycombinator.com/item?id=38796374) - [Home-schoolers dismantled state oversight. Now they fear pushback](https://www.washingtonpost.com/education/2023/12/28/homeschooling-regulation-esa-school-choice/)
 * [2023-12-28, 17:44:27](https://news.ycombinator.com/item?id=38796078) - [After self-hosting email for 23 years I have thrown in the towel (2022)](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 * [2023-12-28, 17:17:14](https://news.ycombinator.com/item?id=38795711) - [Dear Self; we need to talk about ambition](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1)

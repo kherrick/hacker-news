@@ -13,6 +13,7 @@
 * [2023-12-27, 21:23:38](https://news.ycombinator.com/item?id=38786920) - [Disney CEO Bob Iger says company's movies have been too focused on messaging](https://www.cnbc.com/2023/11/30/disney-ceo-bob-iger-says-movies-have-been-too-focused-on-messaging.html)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 20:23:44](https://news.ycombinator.com/item?id=38786253) - [Why We Sleep: a tale of institutional failure (2020)](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)
+* [2023-12-27, 20:09:37](https://news.ycombinator.com/item?id=38786069) - [A Claxonomy of Mexico City's Traffic](https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/)
 * [2023-12-27, 20:08:28](https://news.ycombinator.com/item?id=38786046) - [Medieval Icelandic Feasts](https://www.historytoday.com/archive/miscellanies/medieval-icelandic-feasts)
 * [2023-12-27, 19:59:15](https://news.ycombinator.com/item?id=38785925) - [The Curse of the Excluded Middle](https://queue.acm.org/detail.cfm?id=2611829)
 * [2023-12-27, 19:41:30](https://news.ycombinator.com/item?id=38785714) - [California Pizza Huts lay off all delivery drivers ahead of minimum wage increas](https://www.usatoday.com/story/money/2023/12/26/pizza-hut-layoffs-california-minimum-wage/72033582007/)
