@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
+* [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 13:20:40](https://news.ycombinator.com/item?id=38793184) - [I am the fold (2015)](https://iamthefold.com)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
@@ -25,7 +26,6 @@
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It? (2020)](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
-* [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 09:30:47](https://news.ycombinator.com/item?id=38780433) - [Poor Man's Web](https://zserge.com/posts/small-web/)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
 * [2023-12-27, 07:02:09](https://news.ycombinator.com/item?id=38779746) - [Tagged PDF Funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
