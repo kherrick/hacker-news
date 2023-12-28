@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
 * [2023-12-28, 18:38:17](https://news.ycombinator.com/item?id=38796842) - [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
@@ -20,6 +21,7 @@
 * [2023-12-28, 16:00:21](https://news.ycombinator.com/item?id=38794733) - [Show HN: Anytype – local-first, P2P knowledge management](https://anytype.io/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
+* [2023-12-28, 15:14:05](https://news.ycombinator.com/item?id=38794149) - [Single-celled protists in the guts of animals thrive without mitochondria](https://phys.org/news/2023-12-single-celled-protists-guts-animals-mitochondria.html)
 * [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
 * [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
 * [2023-12-28, 14:14:46](https://news.ycombinator.com/item?id=38793651) - [ChatGPT will lie, cheat, use insider trading when under pressure to make money](https://www.livescience.com/technology/artificial-intelligence/chatgpt-will-lie-cheat-and-use-insider-trading-when-under-pressure-to-make-money-research-shows)
