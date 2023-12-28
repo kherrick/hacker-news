@@ -95,6 +95,7 @@
 * [2023-12-27, 05:57:07](https://news.ycombinator.com/item?id=38779480) - [Change of Name: Coq –> The Rocq Prover](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md)
 * [2023-12-27, 05:46:03](https://news.ycombinator.com/item?id=38779443) - [Reminiscing CGI Scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-27, 05:13:19](https://news.ycombinator.com/item?id=38779297) - [I built an online database for the best \"Buy It For Life\" products](https://www.bifl.xyz/)
+* [2023-12-27, 04:18:47](https://news.ycombinator.com/item?id=38779059) - [Humans are not automatically strategic (2010)](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic)
 * [2023-12-27, 03:32:36](https://news.ycombinator.com/item?id=38778807) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 * [2023-12-27, 03:06:33](https://news.ycombinator.com/item?id=38778657) - [Pizza Hut fires all delivery drivers due to CA fast food minimum wage law](https://www.businessinsider.com/california-pizza-hut-lays-off-delivery-drivers-amid-new-wage-law-2023-12)
 * [2023-12-27, 02:49:17](https://news.ycombinator.com/item?id=38778550) - [A programming language coding in a grid](https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
+* [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
+* [2023-12-28, 16:21:45](https://news.ycombinator.com/item?id=38795009) - [The New York Times Company vs. Microsoft Corporation](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation)
 * [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
