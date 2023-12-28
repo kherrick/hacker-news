@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-28, 05:07:29](https://news.ycombinator.com/item?id=38790258) - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
 * [2023-12-28, 05:07:07](https://news.ycombinator.com/item?id=38790255) - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
 * [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – ~40KB File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
