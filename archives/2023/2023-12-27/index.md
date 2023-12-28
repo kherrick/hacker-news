@@ -43,6 +43,7 @@
 * [2023-12-27, 16:05:21](https://news.ycombinator.com/item?id=38783286) - [Injection of \"smart insulin\" regulates blood glucose levels for one week](https://arstechnica.com/health/2023/12/injection-of-smart-insulin-regulates-blood-glucose-levels-for-one-week/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [A National Evil – the curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
+* [2023-12-27, 15:33:44](https://news.ycombinator.com/item?id=38782948) - [Ask HN: Questions for two 40 year IBM Mainframe repair and programmers](https://news.ycombinator.com/item?id=38782948)
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We Turned the Tide in the Roach Wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
 * [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
 * [2023-12-27, 15:09:19](https://news.ycombinator.com/item?id=38782678) - [Pushing ChatGPT's Structured Data Support to Its Limits](https://minimaxir.com/2023/12/chatgpt-structured-data/)
