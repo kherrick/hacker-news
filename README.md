@@ -2,7 +2,6 @@
 
 * [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – ~40KB File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 * [2023-12-28, 03:05:45](https://news.ycombinator.com/item?id=38789528) - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
-* [2023-12-28, 03:01:25](https://news.ycombinator.com/item?id=38789509) - [Invariance, Covariance, and Contravariance in .NET C#](https://www.developmentsimplyput.com/post/variance-invariance-covariance-contravariance-dotnet)
 * [2023-12-28, 02:52:00](https://news.ycombinator.com/item?id=38789452) - [The Smothers Brothers Comedy Hour](https://tvtropes.org/pmwiki/pmwiki.php/Series/TheSmothersBrothersComedyHour)
 * [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
 * [2023-12-28, 02:33:43](https://news.ycombinator.com/item?id=38789332) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
@@ -13,6 +12,7 @@
 * [2023-12-27, 23:51:24](https://news.ycombinator.com/item?id=38788326) - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2023-12-27, 23:43:42](https://news.ycombinator.com/item?id=38788273) - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
+* [2023-12-27, 21:32:22](https://news.ycombinator.com/item?id=38787005) - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 19:04:52](https://news.ycombinator.com/item?id=38785317) - [Web Development History – Internet history for the technically curious](https://webdevelopmenthistory.com/index/)
