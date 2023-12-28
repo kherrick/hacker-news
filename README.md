@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-28, 18:05:13](https://news.ycombinator.com/item?id=38796374) - [Home-schoolers dismantled state oversight. Now they fear pushback](https://www.washingtonpost.com/education/2023/12/28/homeschooling-regulation-esa-school-choice/)
+* [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
