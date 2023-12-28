@@ -21,7 +21,6 @@
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:04:52](https://news.ycombinator.com/item?id=38785317) - [Web Development History – Internet history for the technically curious](https://webdevelopmenthistory.com/index/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
-* [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
 * [2023-12-27, 14:12:06](https://news.ycombinator.com/item?id=38782039) - [ASCII Art: From a Commodity into an Obscurity](https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/)
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
@@ -30,6 +29,7 @@
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
+* [2023-12-27, 07:02:09](https://news.ycombinator.com/item?id=38779746) - [Tagged PDF Funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 
 ## [Archives](archives/index.md)
 

@@ -83,6 +83,7 @@
 * [2023-12-27, 08:21:16](https://news.ycombinator.com/item?id=38780091) - [CSS Is Fun Again](https://pdx.su/blog/2023-10-25-css-is-fun-again/)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
 * [2023-12-27, 07:41:07](https://news.ycombinator.com/item?id=38779900) - [Discovering Malmesbury's 'gangster' medieval monk](https://www.bbc.com/news/uk-england-wiltshire-67707973)
+* [2023-12-27, 07:02:09](https://news.ycombinator.com/item?id=38779746) - [Tagged PDF Funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Scientists Destroy 99% of Cancer Cells in the Lab Using Vibrating Molecules](https://www.sciencealert.com/scientists-destroy-99-of-cancer-cells-in-the-lab-using-vibrating-molecules)
 * [2023-12-27, 06:46:17](https://news.ycombinator.com/item?id=38779667) - [Light-induced whole-molecule vibration can rupture melanoma cells’ membrane](https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells)
 * [2023-12-27, 06:19:19](https://news.ycombinator.com/item?id=38779562) - [Neolithic high mountain settlers were doing complex livestock/farming activities](https://phys.org/news/2023-12-early-neolithic-high-mountain-settlers.html)
