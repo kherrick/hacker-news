@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 20:32:20](https://news.ycombinator.com/item?id=38798242) - [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
 * [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
+* [2023-12-28, 19:52:35](https://news.ycombinator.com/item?id=38797800) - [American Cars Are Huge and Unsafe, but Automakers Don't Want the Simple Solution](https://jalopnik.com/american-cars-are-huge-and-unsafe-but-automakers-dont-1851126751)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
