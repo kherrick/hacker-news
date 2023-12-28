@@ -16,9 +16,8 @@
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 17:25:53](https://news.ycombinator.com/item?id=38784188) - [Pluto, a Modern Lua Dialect](https://pluto-lang.org/)
-* [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using advanced exploit](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
 * [2023-12-27, 16:25:33](https://news.ycombinator.com/item?id=38783500) - [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
-* [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What You Get When Attack iPhones of Researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
+* [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We turned the tide in the roach wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
 * [2023-12-27, 15:25:44](https://news.ycombinator.com/item?id=38782859) - [Reindeer Sleep and Eat Simultaneously](https://www.smithsonianmag.com/science-nature/reindeer-sleep-and-eat-simultaneously-saving-precious-time-in-the-short-arctic-summer-180983495/)
@@ -30,6 +29,7 @@
 * [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
+* [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
 ## [Archives](archives/index.md)
 
