@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
 * [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
 * [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
+* [2023-12-28, 14:14:46](https://news.ycombinator.com/item?id=38793651) - [ChatGPT will lie, cheat, use insider trading when under pressure to make money](https://www.livescience.com/technology/artificial-intelligence/chatgpt-will-lie-cheat-and-use-insider-trading-when-under-pressure-to-make-money-research-shows)
 * [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 * [2023-12-28, 13:28:10](https://news.ycombinator.com/item?id=38793249) - [Foundations – Greg Egan](https://www.gregegan.net/FOUNDATIONS/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
@@ -17,7 +19,6 @@
 * [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 * [2023-12-28, 03:05:45](https://news.ycombinator.com/item?id=38789528) - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 * [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Generation Junk](https://walterkirn.substack.com/p/generation-junk)
-* [2023-12-27, 23:51:24](https://news.ycombinator.com/item?id=38788326) - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 20:08:28](https://news.ycombinator.com/item?id=38786046) - [Medieval Icelandic Feasts](https://www.historytoday.com/archive/miscellanies/medieval-icelandic-feasts)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
@@ -28,7 +29,6 @@
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It? (2020)](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 09:30:47](https://news.ycombinator.com/item?id=38780433) - [Poor Man's Web](https://zserge.com/posts/small-web/)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
-* [2023-12-27, 07:02:09](https://news.ycombinator.com/item?id=38779746) - [Tagged PDF Funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 * [2023-12-27, 06:54:23](https://news.ycombinator.com/item?id=38779706) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 
 ## [Archives](archives/index.md)

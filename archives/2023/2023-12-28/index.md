@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
 * [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
