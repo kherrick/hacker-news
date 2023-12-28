@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 13:20:40](https://news.ycombinator.com/item?id=38793184) - [I Am the Fold](https://iamthefold.com)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
 * [2023-12-28, 12:06:47](https://news.ycombinator.com/item?id=38792631) - [How random is xkcd? (2015)](https://hardmath123.github.io/xkcd-random.html)
 * [2023-12-28, 12:00:14](https://news.ycombinator.com/item?id=38792581) - [Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)](https://www.ashbyhq.com/careers?utm_source=hn)
@@ -24,7 +25,6 @@
 * [2023-12-27, 14:12:06](https://news.ycombinator.com/item?id=38782039) - [ASCII Art: From a Commodity into an Obscurity](https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/)
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
-* [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of Object Oriented Programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It? (2020)](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
