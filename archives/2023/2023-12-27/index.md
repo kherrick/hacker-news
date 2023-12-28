@@ -57,6 +57,7 @@
 * [2023-12-27, 14:47:47](https://news.ycombinator.com/item?id=38782421) - [Scratch in the Browser](https://squeak.js.org/scratch/#fullscreen)
 * [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
+* [2023-12-27, 14:12:06](https://news.ycombinator.com/item?id=38782039) - [ASCII Art: From a Commodity into an Obscurity](https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/)
 * [2023-12-27, 13:58:21](https://news.ycombinator.com/item?id=38781941) - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 * [2023-12-27, 13:35:21](https://news.ycombinator.com/item?id=38781771) - [Scholars asked Harvard President Claudine Gay for her data. She said no.](https://www.dossier.today/p/these-scholars-asked-claudine-gay)
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)

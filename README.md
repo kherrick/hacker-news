@@ -2,7 +2,6 @@
 
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
-* [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
 * [2023-12-28, 06:29:55](https://news.ycombinator.com/item?id=38790684) - [I created an ephemeral group chat app for strangers](https://www.commonroom.chat/)
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-28, 05:07:29](https://news.ycombinator.com/item?id=38790258) - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
@@ -22,8 +21,9 @@
 * [2023-12-27, 19:04:52](https://news.ycombinator.com/item?id=38785317) - [Web Development History – Internet history for the technically curious](https://webdevelopmenthistory.com/index/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
+* [2023-12-27, 14:12:06](https://news.ycombinator.com/item?id=38782039) - [ASCII Art: From a Commodity into an Obscurity](https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/)
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)
-* [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com/)
+* [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of Object Oriented Programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
