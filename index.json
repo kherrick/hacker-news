@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-28, 18:16:17",
-      "https://news.ycombinator.com/item?id=38796524"
-    ],
-    [
-      "Lapce: Fast and Powerful Code Editor Written in Rust",
-      "https://github.com/lapce/lapce"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 17:01:07",
       "https://news.ycombinator.com/item?id=38795516"
     ],
@@ -241,11 +231,21 @@
   ],
   [
     [
+      "2023-12-27, 19:19:37",
+      "https://news.ycombinator.com/item?id=38785468"
+    ],
+    [
+      "First new U.S. nuclear reactor since 2016 is now in operation",
+      "https://www.eia.gov/todayinenergy/detail.php?id=61106"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 16:56:18",
       "https://news.ycombinator.com/item?id=38783870"
     ],
     [
-      "Chinese villagers capture video of falling Long March rocket booster",
+      "Chinese villagers capture video of falling Long March rocket booster [video]",
       "https://www.youtube.com/shorts/j1b4whvmIOc"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38778807"
     ],
     [
-      "Remote controlling an HP 1670g logic analyzer with a Linux PC x server",
+      "Remote controlling an HP 1670G logic analyzer with a Linux PC X server",
       "https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html"
     ]
   ]
