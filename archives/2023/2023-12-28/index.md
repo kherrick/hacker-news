@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 21:25:12](https://news.ycombinator.com/item?id=38798825) - [TikTok is making users give their iPhone passwords for unclear reasons](https://nypost.com/2023/12/27/tech/tiktok-makes-users-give-iphone-passwords-reasons-unclear/)
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-28, 20:54:07](https://news.ycombinator.com/item?id=38798460) - [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
