@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 23:09:50](https://news.ycombinator.com/item?id=38799897) - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
 * [2023-12-28, 21:25:12](https://news.ycombinator.com/item?id=38798825) - [TikTok is making users give their iPhone passwords for unclear reasons](https://nypost.com/2023/12/27/tech/tiktok-makes-users-give-iphone-passwords-reasons-unclear/)
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
+* [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)
 * [2023-12-28, 20:54:07](https://news.ycombinator.com/item?id=38798460) - [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
 * [2023-12-28, 20:51:58](https://news.ycombinator.com/item?id=38798430) - [It's time to put REST to rest](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-09-22-put-rest-to-rest/)
 * [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
