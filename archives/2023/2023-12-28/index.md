@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [37C3 – You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
+* [2023-12-28, 08:31:16](https://news.ycombinator.com/item?id=38791297) - [Google layoffs: Tech giant to cut down 30k jobs, says report](https://www.timesnownews.com/business-economy/companies/google-layoffs-tech-giant-to-cut-down-30000-jobs-says-report-article-106242749)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
 * [2023-12-28, 06:29:55](https://news.ycombinator.com/item?id=38790684) - [I created an ephemeral group chat app for strangers](https://www.commonroom.chat/)
