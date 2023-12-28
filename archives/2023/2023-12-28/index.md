@@ -10,6 +10,7 @@
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 * [2023-12-28, 20:54:07](https://news.ycombinator.com/item?id=38798460) - [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
 * [2023-12-28, 20:51:58](https://news.ycombinator.com/item?id=38798430) - [It's time to put REST to rest](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-09-22-put-rest-to-rest/)
+* [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [2023-12-28, 20:32:20](https://news.ycombinator.com/item?id=38798242) - [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
 * [2023-12-28, 20:31:14](https://news.ycombinator.com/item?id=38798233) - [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 * [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
