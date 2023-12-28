@@ -66,6 +66,7 @@
 * [2023-12-27, 13:16:11](https://news.ycombinator.com/item?id=38781615) - [Is GitHub Gone Mad?](https://github.com/trending)
 * [2023-12-27, 13:03:16](https://news.ycombinator.com/item?id=38781535) - [TU Berlin Scientists Hack Tesla Autopilot and Discover Secret Elon-Mode](https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/)
 * [2023-12-27, 12:54:38](https://news.ycombinator.com/item?id=38781484) - [Why LLMs scaling will not work](https://www.dwarkeshpatel.com/p/will-scaling-work)
+* [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of Object Oriented Programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
 * [2023-12-27, 12:18:38](https://news.ycombinator.com/item?id=38781273) - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:36:07](https://news.ycombinator.com/item?id=38781031) - [Tell HN: Hacker News dataset on BigQuery hasn't been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
