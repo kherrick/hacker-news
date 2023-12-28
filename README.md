@@ -3,7 +3,7 @@
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
 * [2023-12-28, 18:16:17](https://news.ycombinator.com/item?id=38796524) - [Lapce: Fast and Powerful Code Editor Written in Rust](https://github.com/lapce/lapce)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
-* [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
+* [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla 2023 annual report: CEO pay skyrockets, Firefox market share nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 * [2023-12-28, 16:00:21](https://news.ycombinator.com/item?id=38794733) - [Show HN: Anytype – local-first, P2P knowledge management](https://anytype.io/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
