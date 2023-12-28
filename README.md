@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-28, 20:32:20](https://news.ycombinator.com/item?id=38798242) - [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
 * [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:52:35](https://news.ycombinator.com/item?id=38797800) - [American Cars Are Huge and Unsafe, but Automakers Don't Want the Simple Solution](https://jalopnik.com/american-cars-are-huge-and-unsafe-but-automakers-dont-1851126751)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Liero – Sling'n'shoot Worms Game](http://www.liero.be/)
 * [2023-12-28, 17:44:20](https://news.ycombinator.com/item?id=38796075) - [The Technological Innovations That Produced the Shale Revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
+* [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [Osmapp – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 * [2023-12-28, 16:02:24](https://news.ycombinator.com/item?id=38794757) - [Knowledge Graph Reasoning Based on Attention GCN](https://arxiv.org/abs/2312.10049)
