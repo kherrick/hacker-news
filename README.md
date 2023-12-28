@@ -2,7 +2,6 @@
 
 * [2023-12-28, 17:44:27](https://news.ycombinator.com/item?id=38796078) - [After self-hosting email for 23 years I have thrown in the towel (2022)](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
-* [2023-12-28, 16:50:13](https://news.ycombinator.com/item?id=38795376) - [SliTaz GNU/Linux](https://www.slitaz.org/en/about/)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
 * [2023-12-28, 16:43:06](https://news.ycombinator.com/item?id=38795290) - [Details on Xiaomi EV](https://www.engadget.com/xiaomi-says-its-su7-ev-can-outperform-porsche-and-has-more-tech-than-tesla-095637762.html)
 * [2023-12-28, 16:21:45](https://news.ycombinator.com/item?id=38795009) - [The New York Times Company vs. Microsoft Corporation](https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation)
@@ -11,7 +10,8 @@
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
 * [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
-* [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
+* [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
+* [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [Firefox Sync actually works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 * [2023-12-28, 13:28:10](https://news.ycombinator.com/item?id=38793249) - [Foundations – Greg Egan](https://www.gregegan.net/FOUNDATIONS/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
