@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-12-28, 16:02:24",
+      "https://news.ycombinator.com/item?id=38794757"
+    ],
+    [
+      "Knowledge Graph Reasoning Based on Attention GCN",
+      "https://arxiv.org/abs/2312.10049"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 16:00:21",
       "https://news.ycombinator.com/item?id=38794733"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-12-28, 04:11:13",
-      "https://news.ycombinator.com/item?id=38789958"
-    ],
-    [
-      "Little File Explorer – File Manager for Android 1.0 and above",
-      "https://github.com/martinmimigames/little-file-explorer"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 22:56:22",
       "https://news.ycombinator.com/item?id=38787892"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-27, 04:18:47",
-      "https://news.ycombinator.com/item?id=38779059"
+      "2023-12-27, 03:32:36",
+      "https://news.ycombinator.com/item?id=38778807"
     ],
     [
-      "Humans are not automatically strategic (2010)",
-      "https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic"
+      "Remote controlling an HP 1670g logic analyzer with a Linux PC x server",
+      "https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html"
     ]
   ]
 ]
