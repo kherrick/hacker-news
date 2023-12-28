@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
@@ -13,6 +14,7 @@
 * [2023-12-28, 17:44:27](https://news.ycombinator.com/item?id=38796078) - [After self-hosting email for 23 years I have thrown in the towel (2022)](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 * [2023-12-28, 17:44:20](https://news.ycombinator.com/item?id=38796075) - [The Technological Innovations That Produced the Shale Revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
 * [2023-12-28, 17:17:14](https://news.ycombinator.com/item?id=38795711) - [Dear Self; we need to talk about ambition](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1)
+* [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [Osmapp – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:50:13](https://news.ycombinator.com/item?id=38795376) - [SliTaz GNU/Linux](https://www.slitaz.org/en/about/)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
