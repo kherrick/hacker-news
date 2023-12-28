@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 02:33:43](https://news.ycombinator.com/item?id=38789332) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 * [2023-12-28, 01:03:49](https://news.ycombinator.com/item?id=38788788) - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 * [2023-12-28, 01:01:39](https://news.ycombinator.com/item?id=38788776) - [Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)](https://getjerry.com/careers)
 * [2023-12-28, 00:28:21](https://news.ycombinator.com/item?id=38788552) - [Game-icons.net: Free icons for your games](https://game-icons.net/)
@@ -10,7 +11,6 @@
 * [2023-12-27, 21:32:22](https://news.ycombinator.com/item?id=38787005) - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
-* [2023-12-27, 19:10:26](https://news.ycombinator.com/item?id=38785386) - [CloudEvents Event Specification](https://cloudevents.io/)
 * [2023-12-27, 19:04:52](https://news.ycombinator.com/item?id=38785317) - [Web Development History – Internet history for the technically curious](https://webdevelopmenthistory.com/index/)
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
