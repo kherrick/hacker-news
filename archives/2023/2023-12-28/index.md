@@ -15,6 +15,7 @@
 * [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [2023-12-28, 20:32:20](https://news.ycombinator.com/item?id=38798242) - [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
 * [2023-12-28, 20:31:14](https://news.ycombinator.com/item?id=38798233) - [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+* [2023-12-28, 20:24:21](https://news.ycombinator.com/item?id=38798160) - [California Cops Can't Ask Drivers 'Do You Know Why I Pulled You Over?'](https://themessenger.com/news/california-cops-can-no-longer-ask-drivers-do-you-know-why-i-pulled-you-over)
 * [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:52:35](https://news.ycombinator.com/item?id=38797800) - [American Cars Are Huge and Unsafe, but Automakers Don't Want the Simple Solution](https://jalopnik.com/american-cars-are-huge-and-unsafe-but-automakers-dont-1851126751)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
