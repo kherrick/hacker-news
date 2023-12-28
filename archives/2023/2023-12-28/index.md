@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 17:17:14](https://news.ycombinator.com/item?id=38795711) - [Dear Self; we need to talk about ambition](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:50:13](https://news.ycombinator.com/item?id=38795376) - [SliTaz GNU/Linux](https://www.slitaz.org/en/about/)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)

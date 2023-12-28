@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 17:17:14](https://news.ycombinator.com/item?id=38795711) - [Dear Self; we need to talk about ambition](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:50:13](https://news.ycombinator.com/item?id=38795376) - [SliTaz GNU/Linux](https://www.slitaz.org/en/about/)
 * [2023-12-28, 16:44:34](https://news.ycombinator.com/item?id=38795308) - [Mozilla '23 Ann. Report: CEO pay skyrockets while Firefox Marketshare nosedives](https://lunduke.locals.com/post/5053290/mozilla-2023-annual-report-ceo-pay-skyrockets-while-firefox-marketshare-nosedives)
@@ -27,7 +28,6 @@
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It? (2020)](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 09:30:47](https://news.ycombinator.com/item?id=38780433) - [Poor Man's Web](https://zserge.com/posts/small-web/)
-* [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
 * [2023-12-27, 06:54:23](https://news.ycombinator.com/item?id=38779706) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-27, 04:18:47](https://news.ycombinator.com/item?id=38779059) - [Humans are not automatically strategic (2010)](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic)
 
