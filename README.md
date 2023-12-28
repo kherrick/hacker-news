@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 02:44:12](https://news.ycombinator.com/item?id=38789411) - [Nothing I Buy Works](https://walterkirn.substack.com/p/generation-junk)
 * [2023-12-28, 02:33:43](https://news.ycombinator.com/item?id=38789332) - [Book list for streetfighting computer scientists](https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists)
 * [2023-12-28, 01:03:49](https://news.ycombinator.com/item?id=38788788) - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 * [2023-12-28, 01:01:39](https://news.ycombinator.com/item?id=38788776) - [Jerry (YC S17) Is Hiring PMs, Engineers, Data Roles (Remote)](https://getjerry.com/careers)
@@ -29,7 +30,6 @@
 * [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-26, 17:49:57](https://news.ycombinator.com/item?id=38773991) - [Evolving the Infinite Canvas](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
-* [2023-12-26, 12:12:22](https://news.ycombinator.com/item?id=38771119) - [Bad Apple as MS-DOS Escape Sequences](https://16colo.rs/pack/badapple/BADAPPLE.ANS)
 
 ## [Archives](archives/index.md)
 
