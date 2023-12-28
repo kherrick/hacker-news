@@ -37,6 +37,7 @@
 * [2023-12-27, 17:15:54](https://news.ycombinator.com/item?id=38784073) - [4-year campaign backdoored iPhones using possibly most advanced exploit ever](https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/)
 * [2023-12-27, 17:12:18](https://news.ycombinator.com/item?id=38784039) - [Creating custom ChatGPT agents for fun and for profit](https://techsquidtv.com/blog/creating-custom-chatgpt-agents-for-fun-and-for-profit/)
 * [2023-12-27, 16:57:29](https://news.ycombinator.com/item?id=38783886) - [Julia 1.10 Released](https://docs.julialang.org/en/v1/NEWS/)
+* [2023-12-27, 16:56:18](https://news.ycombinator.com/item?id=38783870) - [Chinese villagers capture video of falling Long March rocket booster](https://www.youtube.com/shorts/j1b4whvmIOc)
 * [2023-12-27, 16:43:24](https://news.ycombinator.com/item?id=38783718) - [Apple wins bid to pause Apple Watch ban at US appeals court](https://www.reuters.com/legal/apple-wins-bid-pause-apple-watch-ban-us-appeals-court-2023-12-27/)
 * [2023-12-27, 16:26:54](https://news.ycombinator.com/item?id=38783517) - [The ghost of a colonial road on the eastern side of the Chrysler Building](https://ephemeralnewyork.wordpress.com/tag/building-the-chrysler-building/)
 * [2023-12-27, 16:25:33](https://news.ycombinator.com/item?id=38783500) - [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
