@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
 * [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
 * [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
@@ -18,7 +19,6 @@
 * [2023-12-28, 01:03:49](https://news.ycombinator.com/item?id=38788788) - [Docs Deserve More Respect](https://www.ramijames.com/thoughts/docs-deserve-more-respect)
 * [2023-12-28, 00:28:21](https://news.ycombinator.com/item?id=38788552) - [Game-icons.net: Free icons for your games](https://game-icons.net/)
 * [2023-12-27, 23:51:24](https://news.ycombinator.com/item?id=38788326) - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
-* [2023-12-27, 23:43:42](https://news.ycombinator.com/item?id=38788273) - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 15:19:47](https://news.ycombinator.com/item?id=38782806) - [Schumpeter on Strategy (2019)](https://reactionwheel.net/2019/01/schumpeter-on-strategy.html)
