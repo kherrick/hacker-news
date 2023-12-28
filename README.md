@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 13:20:40](https://news.ycombinator.com/item?id=38793184) - [I am the fold (2015)](https://iamthefold.com)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
 * [2023-12-28, 12:06:47](https://news.ycombinator.com/item?id=38792631) - [How random is xkcd? (2015)](https://hardmath123.github.io/xkcd-random.html)
@@ -26,7 +27,6 @@
 * [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming (2009)](https://codersatwork.com/)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It? (2020)](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
-* [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
 * [2023-12-27, 07:02:09](https://news.ycombinator.com/item?id=38779746) - [Tagged PDF Funsies](https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html)
 * [2023-12-27, 06:54:23](https://news.ycombinator.com/item?id=38779706) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)

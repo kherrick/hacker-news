@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 13:20:40](https://news.ycombinator.com/item?id=38793184) - [I Am the Fold](https://iamthefold.com)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
 * [2023-12-28, 12:06:47](https://news.ycombinator.com/item?id=38792631) - [How random is xkcd? (2015)](https://hardmath123.github.io/xkcd-random.html)
