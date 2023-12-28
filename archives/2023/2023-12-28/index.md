@@ -32,6 +32,7 @@
 * [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 10:03:56](https://news.ycombinator.com/item?id=38791870) - [37C3 Video List](https://media.ccc.de/b/congress/2023)
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [37C3 – You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
+* [2023-12-28, 09:08:05](https://news.ycombinator.com/item?id=38791517) - [Formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-28, 08:31:16](https://news.ycombinator.com/item?id=38791297) - [Google layoffs: Tech giant to cut down 30k jobs, says report](https://www.timesnownews.com/business-economy/companies/google-layoffs-tech-giant-to-cut-down-30000-jobs-says-report-article-106242749)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
