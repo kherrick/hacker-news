@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-12-28, 12:24:06",
+      "https://news.ycombinator.com/item?id=38792753"
+    ],
+    [
+      "Lode Runner (HTML5 Remake)",
+      "https://loderunnerwebgame.com/game/"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 12:06:47",
+      "https://news.ycombinator.com/item?id=38792631"
+    ],
+    [
+      "How random is xkcd? (2015)",
+      "https://hardmath123.github.io/xkcd-random.html"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 12:00:14",
       "https://news.ycombinator.com/item?id=38792581"
     ],
     [
       "Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)",
       "https://www.ashbyhq.com/careers?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 11:38:57",
+      "https://news.ycombinator.com/item?id=38792446"
+    ],
+    [
+      "IDEs we had 30 years ago",
+      "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and"
     ]
   ],
   [
@@ -181,36 +211,6 @@
   ],
   [
     [
-      "2023-12-27, 19:04:52",
-      "https://news.ycombinator.com/item?id=38785317"
-    ],
-    [
-      "Web Development History – Internet history for the technically curious",
-      "https://webdevelopmenthistory.com/index/"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 15:47:55",
-      "https://news.ycombinator.com/item?id=38783112"
-    ],
-    [
-      "Operation Triangulation: What you get when attack iPhones of researchers",
-      "https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 15:34:21",
-      "https://news.ycombinator.com/item?id=38782954"
-    ],
-    [
-      "The curse of the goitre in Switzerland",
-      "https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 14:12:06",
       "https://news.ycombinator.com/item?id=38782039"
     ],
@@ -227,6 +227,16 @@
     [
       "Clash: A Functional Hardware Description Language",
       "https://clash-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 13:28:06",
+      "https://news.ycombinator.com/item?id=38781713"
+    ],
+    [
+      "Rich people are more likely to steal from self-checkout. Why?",
+      "https://www.businessinsider.com/rich-people-shoplift-self-checkout-why-explained-2023-12"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Suggestions: A simple human-readable format for suggesting changes to text files",
       "https://suggestions.ink"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 09:53:20",
-      "https://news.ycombinator.com/item?id=38780519"
-    ],
-    [
-      "DeskHop – Fast Desktop Switching",
-      "https://github.com/hrvach/deskhop"
     ]
   ],
   [
