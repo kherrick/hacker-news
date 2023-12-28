@@ -2,6 +2,7 @@
 
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
+* [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
 * [2023-12-28, 06:29:55](https://news.ycombinator.com/item?id=38790684) - [I created an ephemeral group chat app for strangers](https://www.commonroom.chat/)
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-28, 05:07:29](https://news.ycombinator.com/item?id=38790258) - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
@@ -29,7 +30,6 @@
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
-* [2023-12-27, 07:41:07](https://news.ycombinator.com/item?id=38779900) - [Discovering Malmesbury's 'gangster' medieval monk](https://www.bbc.com/news/uk-england-wiltshire-67707973)
 
 ## [Archives](archives/index.md)
 
