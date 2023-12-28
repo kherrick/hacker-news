@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-12-28, 20:32:20](https://news.ycombinator.com/item?id=38798242) - [Are EU banks just mass surveillance devices?](https://news.ycombinator.com/item?id=38798242)
+* [2023-12-28, 20:51:58](https://news.ycombinator.com/item?id=38798430) - [It's time to put REST to rest](https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-09-22-put-rest-to-rest/)
 * [2023-12-28, 20:31:14](https://news.ycombinator.com/item?id=38798233) - [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Liero – Sling'n'shoot Worms Game](http://www.liero.be/)
