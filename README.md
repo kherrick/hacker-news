@@ -24,12 +24,12 @@
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 13:31:32](https://news.ycombinator.com/item?id=38781739) - [Clash: A Functional Hardware Description Language](https://clash-lang.org/)
+* [2023-12-27, 12:30:35](https://news.ycombinator.com/item?id=38781351) - [Coders at Work: Reflections on the Craft of Programming](https://codersatwork.com/)
 * [2023-12-27, 12:19:46](https://news.ycombinator.com/item?id=38781277) - [Pitfalls of Object Oriented Programming (2009) [pdf]](https://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf)
 * [2023-12-27, 11:51:49](https://news.ycombinator.com/item?id=38781116) - [Bread, How Did They Make It?](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/)
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 * [2023-12-27, 07:55:41](https://news.ycombinator.com/item?id=38779968) - [Thanks to Don Bateman, airplanes don't crash into mountains anymore (2016)](https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/)
-* [2023-12-27, 07:41:07](https://news.ycombinator.com/item?id=38779900) - [Discovering Malmesbury's 'gangster' medieval monk](https://www.bbc.com/news/uk-england-wiltshire-67707973)
 
 ## [Archives](archives/index.md)
 
