@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-28, 05:07:29](https://news.ycombinator.com/item?id=38790258) - [New Photonic Chip Is the Full Package](https://spectrum.ieee.org/photonic-chip)
 * [2023-12-28, 05:07:07](https://news.ycombinator.com/item?id=38790255) - [NY Times copyright suit wants OpenAI to delete all GPT instances](https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/)
 * [2023-12-28, 04:11:13](https://news.ycombinator.com/item?id=38789958) - [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
 * [2023-12-28, 03:05:45](https://news.ycombinator.com/item?id=38789528) - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
@@ -19,7 +20,6 @@
 * [2023-12-27, 18:20:17](https://news.ycombinator.com/item?id=38784817) - [HyperRogue, a open-source non-Euclidean roguelike: new weapons](http://zenorogue.blogspot.com/2023/12/hyperrogue-130.html)
 * [2023-12-27, 18:18:36](https://news.ycombinator.com/item?id=38784797) - [What's up Python? Epic CPython commit, Django 5 and 2FA for PyPI](https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit)
 * [2023-12-27, 17:25:53](https://news.ycombinator.com/item?id=38784188) - [Pluto, a Modern Lua Dialect](https://pluto-lang.org/)
-* [2023-12-27, 16:25:33](https://news.ycombinator.com/item?id=38783500) - [What comes after open source? Bruce Perens is working on it](https://www.theregister.com/2023/12/27/bruce_perens_post_open/)
 * [2023-12-27, 15:47:55](https://news.ycombinator.com/item?id=38783112) - [Operation Triangulation: What you get when attack iPhones of researchers](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 15:34:21](https://news.ycombinator.com/item?id=38782954) - [The curse of the goitre in Switzerland](https://www.lrb.co.uk/the-paper/v45/n23/jonah-goodman/a-national-evil)
 * [2023-12-27, 15:33:29](https://news.ycombinator.com/item?id=38782944) - [We turned the tide in the roach wars](https://www.theatlantic.com/podcasts/archive/2023/11/cockroach-bait-invention-combat/676167/)
