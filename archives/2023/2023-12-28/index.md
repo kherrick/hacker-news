@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
+* [2023-12-28, 15:17:37](https://news.ycombinator.com/item?id=38794190) - [Show HN: Vocab Miner – find new words in Spanish from texts](https://vocabminer.com/)
 * [2023-12-28, 15:07:24](https://news.ycombinator.com/item?id=38794068) - [Amazon receives FDA warning letter for supplements with undeclared ingredients](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amazoncom-inc-662503-12202023)
 * [2023-12-28, 14:24:12](https://news.ycombinator.com/item?id=38793735) - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
 * [2023-12-28, 13:46:08](https://news.ycombinator.com/item?id=38793414) - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
