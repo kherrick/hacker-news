@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-29, 19:53:57",
+      "https://news.ycombinator.com/item?id=38809450"
+    ],
+    [
+      "Why large companies and fast-moving startups are banning merge commits",
+      "https://graphite.dev/blog/why-ban-merge-commits"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 19:27:52",
+      "https://news.ycombinator.com/item?id=38809156"
+    ],
+    [
+      "The companies employees don't want to leave in 2023",
+      "https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 19:26:42",
       "https://news.ycombinator.com/item?id=38809145"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=38808944"
     ],
     [
-      "Homicides in U.S. to drop by record numbers in 2023",
+      "Homicides in U.S. set to drop by record numbers this year",
       "https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38808626"
     ],
     [
-      "Social media companies made $11B in US ad revenue from minors",
+      "Social media companies made $11B in US ad revenue from minors, study finds",
       "https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d"
     ]
   ],
@@ -35,18 +55,8 @@
       "https://news.ycombinator.com/item?id=38808574"
     ],
     [
-      "Increasing customer purchases at farmers markets using POS scanner data",
+      "Increasing purchases at farmers markets using point‐of‐sale scanner data",
       "https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 18:28:35",
-      "https://news.ycombinator.com/item?id=38808433"
-    ],
-    [
-      "They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?",
-      "https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html"
     ]
   ],
   [
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2023-12-29, 17:19:58",
-      "https://news.ycombinator.com/item?id=38807531"
-    ],
-    [
-      "Chemicals of \"Concern\" Found in Philips Breathing Machines",
-      "https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 17:00:58",
       "https://news.ycombinator.com/item?id=38807225"
     ],
     [
       "OneSignal (YC S11) Is Hiring Engineers",
       "https://onesignal.com/careers#section-job"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 16:50:13",
+      "https://news.ycombinator.com/item?id=38807057"
+    ],
+    [
+      "So I Quit Spotify",
+      "https://oliviarafferty.substack.com/p/so-i-finally-quit-spotify"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=38805439"
     ],
     [
-      "The Linux Backdoor Attempt of 2003 (2013)",
+      "The Linux backdoor attempt of 2003 (2013)",
       "https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=38805383"
     ],
     [
-      "How the append-only btree works",
+      "How the append-only btree works (2010)",
       "https://www.bzero.se/ldapd/btree.html"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=38804135"
     ],
     [
-      "Gentoo Linux Goes Binary",
+      "Gentoo goes Binary",
       "https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html"
     ]
   ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38802086"
     ],
     [
-      "Ideal Monitor Rotation for Programmers (2021)",
+      "Ideal monitor rotation for programmers (2021)",
       "https://sprocketfox.io/xssfox/2021/12/02/xrandr/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "The Crypt of Civilization (2006)",
       "https://www.damninteresting.com/the-crypt-of-civilization/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 15:52:17",
-      "https://news.ycombinator.com/item?id=38794625"
-    ],
-    [
-      "Particle Life",
-      "https://github.com/hunar4321/particle-life"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38791489"
     ],
     [
-      "Developer Productivity for Humans, Part 7: Software Quality",
+      "Developer Productivity for Humans: Software Quality",
       "https://ieeexplore.ieee.org/document/10372494"
     ]
   ],
