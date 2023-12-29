@@ -22,7 +22,6 @@
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected ways memory subsystem interacts with branch prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
-* [2023-12-29, 02:33:58](https://news.ycombinator.com/item?id=38801221) - [The Web Is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 * [2023-12-28, 22:18:02](https://news.ycombinator.com/item?id=38799426) - [The Crypt of Civilization (2006)](https://www.damninteresting.com/the-crypt-of-civilization/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
@@ -30,6 +29,7 @@
 * [2023-12-28, 08:57:58](https://news.ycombinator.com/item?id=38791461) - [First Carbon-Based Cave Drawings Found in France](https://news.artnet.com/art-world/charcoal-drawings-cave-painting-2411212)
 * [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
 * [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The Surprising Genius of Sewing Machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
+* [2023-12-27, 14:35:51](https://news.ycombinator.com/item?id=38782296) - [Operation Cat [pdf]](https://ia601900.us.archive.org/20/items/USAVJaneKemberAndMorrisBudlong/USA%20v%20Jane%20Kember%20and%20Morris%20Budlong%20Exhibit%205.pdf)
 
 ## [Archives](archives/index.md)
 

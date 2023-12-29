@@ -60,6 +60,7 @@
 * [2023-12-27, 14:52:37](https://news.ycombinator.com/item?id=38782482) - [The World Is Going Blind. Taiwan Offers a Warning, and a Cure](https://www.wired.com/story/taiwan-epicenter-of-world-myopia-epidemic/)
 * [2023-12-27, 14:52:23](https://news.ycombinator.com/item?id=38782475) - [She spent her inheritance on TikTok Livestreamers](https://www.businessinsider.com/she-spent-her-inheritance-sending-money-to-tiktok-influencers-2023-12)
 * [2023-12-27, 14:47:47](https://news.ycombinator.com/item?id=38782421) - [Scratch in the Browser](https://squeak.js.org/scratch/#fullscreen)
+* [2023-12-27, 14:35:51](https://news.ycombinator.com/item?id=38782296) - [Operation Cat [pdf]](https://ia601900.us.archive.org/20/items/USAVJaneKemberAndMorrisBudlong/USA%20v%20Jane%20Kember%20and%20Morris%20Budlong%20Exhibit%205.pdf)
 * [2023-12-27, 14:30:19](https://news.ycombinator.com/item?id=38782236) - [Swiss Privacy and Honest Competition](https://proton.me/blog/swiss-privacy-honest-competition)
 * [2023-12-27, 14:14:55](https://news.ycombinator.com/item?id=38782071) - [Physics Girl: health update #2](https://www.youtube.com/watch?v=xbcjf-hrOAs)
 * [2023-12-27, 14:12:06](https://news.ycombinator.com/item?id=38782039) - [ASCII Art: From a Commodity into an Obscurity](https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/)
