@@ -2,7 +2,6 @@
 
 * [2023-12-29, 13:51:15](https://news.ycombinator.com/item?id=38804843) - [Nuclear Power Gets New Push in U.S., Winning Converts (2022)](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
 * [2023-12-29, 13:50:43](https://news.ycombinator.com/item?id=38804841) - [Google Voice goes US only](https://news.ycombinator.com/item?id=38804841)
-* [2023-12-29, 13:28:41](https://news.ycombinator.com/item?id=38804638) - [Don't Say Velcro (2017)](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
 * [2023-12-29, 13:23:59](https://news.ycombinator.com/item?id=38804603) - [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
 * [2023-12-29, 13:13:12](https://news.ycombinator.com/item?id=38804502) - [2023 was the year that GPUs stood still](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/)
 * [2023-12-29, 13:08:22](https://news.ycombinator.com/item?id=38804452) - [Korea to welcome 'digital nomads' with new visa starting Jan. 1](https://koreajoongangdaily.joins.com/news/2023-12-29/national/kcampus/Korea-to-welcome-digital-nomads-with-new-visa-starting-Jan-1/1947155)
@@ -30,6 +29,7 @@
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The Surprising Genius of Sewing Machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
+* [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 
 ## [Archives](archives/index.md)
 
