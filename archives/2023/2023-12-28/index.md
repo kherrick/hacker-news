@@ -58,6 +58,7 @@
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
 * [2023-12-28, 12:06:47](https://news.ycombinator.com/item?id=38792631) - [How random is xkcd? (2015)](https://hardmath123.github.io/xkcd-random.html)
 * [2023-12-28, 12:00:14](https://news.ycombinator.com/item?id=38792581) - [Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)](https://www.ashbyhq.com/careers?utm_source=hn)
+* [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
 * [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 10:03:56](https://news.ycombinator.com/item?id=38791870) - [37C3 Video List](https://media.ccc.de/b/congress/2023)
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [37C3 – You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)

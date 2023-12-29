@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
@@ -17,6 +18,7 @@
 * [2023-12-29, 02:45:16](https://news.ycombinator.com/item?id=38801275) - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 * [2023-12-29, 02:33:58](https://news.ycombinator.com/item?id=38801221) - [The Web Is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 * [2023-12-29, 02:01:32](https://news.ycombinator.com/item?id=38801037) - [AstroForge, a private company, wants to mine a space rock](https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html)
+* [2023-12-29, 01:50:03](https://news.ycombinator.com/item?id=38800963) - [America Doesn't Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
 * [2023-12-29, 01:35:01](https://news.ycombinator.com/item?id=38800837) - [Women builds tunnel system under her house](https://www.tiktok.com/@engineer.everything/video/7268826326511930666?_t=8iZhD9LQwSr&_r=1)
 * [2023-12-29, 00:31:51](https://news.ycombinator.com/item?id=38800458) - [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Vitalik Buterin proposes to make Ethereum PoS 'lighter and simpler'](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
