@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 12:48:58](https://news.ycombinator.com/item?id=38804324) - [Harnessing microbes for removing indoor pollutants](https://phys.org/news/2023-12-fresh-air-harnessing-microbes-indoor.html)
 * [2023-12-29, 12:45:20](https://news.ycombinator.com/item?id=38804306) - [Berlin researchers hacked Tesla autopilot to unlock \"Elon mode\"](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
 * [2023-12-29, 12:36:46](https://news.ycombinator.com/item?id=38804263) - [California's Aristocracy of Lunatics](https://unherd.com/2023/12/californias-aristocracy-of-lunatics/)
 * [2023-12-29, 12:22:48](https://news.ycombinator.com/item?id=38804179) - [5G Considered Tired Already](https://www.theregister.com/2023/12/29/mobile_industry_looks_to_6g/)
