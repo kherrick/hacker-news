@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:48:58](https://news.ycombinator.com/item?id=38805514) - [Family testimony reveals new insights into how Hitler became radicalised](https://www.abdn.ac.uk/news/22651/)
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)

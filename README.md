@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
@@ -24,7 +25,6 @@
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 12:24:38](https://news.ycombinator.com/item?id=38792761) - [A/UX: Apple Unix for Macintosh](https://en.wikipedia.org/wiki/A/UX)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
-* [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
 * [2023-12-28, 08:57:58](https://news.ycombinator.com/item?id=38791461) - [First Carbon-Based Cave Drawings Found in France](https://news.artnet.com/art-world/charcoal-drawings-cave-painting-2411212)
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
