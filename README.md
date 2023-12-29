@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
+* [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
-* [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner made from carbon nanotubes](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
 * [2023-12-28, 23:38:52](https://news.ycombinator.com/item?id=38800111) - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
 * [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
+* [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – The most popular tool to discover AuthZ/AuthN flaws](https://github.com/Quitten/Autorize)
 * [2023-12-29, 03:39:47](https://news.ycombinator.com/item?id=38801549) - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
