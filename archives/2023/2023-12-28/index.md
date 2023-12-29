@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
 * [2023-12-28, 23:57:45](https://news.ycombinator.com/item?id=38800241) - [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
+* [2023-12-28, 23:38:52](https://news.ycombinator.com/item?id=38800111) - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 * [2023-12-28, 23:09:50](https://news.ycombinator.com/item?id=38799897) - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
 * [2023-12-28, 22:55:16](https://news.ycombinator.com/item?id=38799778) - [An artist fights back, and Midjourney has embarrassed themselves](https://garymarcus.substack.com/p/an-artist-fights-back-and-midjourney)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface (3x3)](http://luc.devroye.org/fonts-51468.html)
