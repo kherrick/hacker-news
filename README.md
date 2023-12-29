@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 12:45:20](https://news.ycombinator.com/item?id=38804306) - [Berlin researchers hacked Tesla autopilot to unlock \"Elon mode\"](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
-* [2023-12-29, 12:36:46](https://news.ycombinator.com/item?id=38804263) - [California's Aristocracy of Lunatics](https://unherd.com/2023/12/californias-aristocracy-of-lunatics/)
 * [2023-12-29, 12:22:48](https://news.ycombinator.com/item?id=38804179) - [5G Considered Tired Already](https://www.theregister.com/2023/12/29/mobile_industry_looks_to_6g/)
 * [2023-12-29, 12:12:59](https://news.ycombinator.com/item?id=38804135) - [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:12:48](https://news.ycombinator.com/item?id=38804133) - [It's \"shakeout\" time as losses of Netflix rivals top $5B](https://arstechnica.com/culture/2023/12/its-shakeout-time-as-losses-of-netflix-rivals-top-5-billion/)
@@ -21,6 +20,7 @@
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 * [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)
+* [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [OsmAPP – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 12:24:38](https://news.ycombinator.com/item?id=38792761) - [A/UX: Apple Unix for Macintosh](https://en.wikipedia.org/wiki/A/UX)
