@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-29](index.md)
+
+* [2023-12-29, 00:31:51](https://news.ycombinator.com/item?id=38800458) - [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)

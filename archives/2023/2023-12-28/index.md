@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
 * [2023-12-28, 23:09:50](https://news.ycombinator.com/item?id=38799897) - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
+* [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface (3x3)](http://luc.devroye.org/fonts-51468.html)
 * [2023-12-28, 21:25:12](https://news.ycombinator.com/item?id=38798825) - [TikTok is making users give their iPhone passwords for unclear reasons](https://nypost.com/2023/12/27/tech/tiktok-makes-users-give-iphone-passwords-reasons-unclear/)
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -20,6 +21,7 @@
 * [2023-12-28, 19:52:35](https://news.ycombinator.com/item?id=38797800) - [American Cars Are Huge and Unsafe, but Automakers Don't Want the Simple Solution](https://jalopnik.com/american-cars-are-huge-and-unsafe-but-automakers-dont-1851126751)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
+* [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
 * [2023-12-28, 18:44:41](https://news.ycombinator.com/item?id=38796939) - [Steve Ballmer is set to make $1B a year for doing nothing](https://www.cnn.com/business/investing/steve-ballmer-one-billion-dividends)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Original Sling'n'shoot Worms Game](http://www.liero.be/)
 * [2023-12-28, 18:38:17](https://news.ycombinator.com/item?id=38796842) - [Ask HN: What are ethical companies like Patagonia and some digital counterparts?](https://news.ycombinator.com/item?id=38796842)
