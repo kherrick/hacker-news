@@ -28,6 +28,7 @@
 * [2023-12-28, 20:01:03](https://news.ycombinator.com/item?id=38797908) - [You can't do that because I hate you](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:52:35](https://news.ycombinator.com/item?id=38797800) - [American Cars Are Huge and Unsafe, but Automakers Don't Want the Simple Solution](https://jalopnik.com/american-cars-are-huge-and-unsafe-but-automakers-dont-1851126751)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
+* [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 19:30:00](https://news.ycombinator.com/item?id=38797487) - [Dark Visitors – A list of known AI agents on the internet](https://darkvisitors.com)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
 * [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)

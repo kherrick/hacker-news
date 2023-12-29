@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 22:14:03](https://news.ycombinator.com/item?id=38810881) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
+* [2023-12-29, 21:41:42](https://news.ycombinator.com/item?id=38810546) - [Natural Language Corpus Data: Beautiful Data](https://norvig.com/ngrams/)
 * [2023-12-29, 21:05:12](https://news.ycombinator.com/item?id=38810167) - [Wi-Fi 7 Signals the Industry's New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
+* [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
 * [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
 * [2023-12-29, 20:29:51](https://news.ycombinator.com/item?id=38809841) - [Who made millions trading the October 7th attacks?](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
 * [2023-12-29, 20:27:04](https://news.ycombinator.com/item?id=38809810) - [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
@@ -18,6 +21,7 @@
 * [2023-12-29, 19:27:44](https://news.ycombinator.com/item?id=38809154) - [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
 * [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
+* [2023-12-29, 19:02:27](https://news.ycombinator.com/item?id=38808889) - [Parsing an Undocumented File Format](https://blog.vivekpanyam.com/parsing-an-undocumented-file-format)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
 * [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
