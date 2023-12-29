@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 16:25:53](https://news.ycombinator.com/item?id=38806707) - [First reported Tesla Cybertruck accident results in only 'minor' injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
 * [2023-12-29, 16:11:54](https://news.ycombinator.com/item?id=38806473) - [Everyone's getting ghosted, the new normal in tech recruiting](https://medium.com/@k0ryk/everyones-getting-ghosted-dbf0fbaf161)
 * [2023-12-29, 15:57:18](https://news.ycombinator.com/item?id=38806270) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
+* [2023-12-29, 15:16:07](https://news.ycombinator.com/item?id=38805811) - [Strawberry Case Study: What If Farmers Had to Pay for Water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:48:58](https://news.ycombinator.com/item?id=38805514) - [Family testimony reveals new insights into how Hitler became radicalised](https://www.abdn.ac.uk/news/22651/)
