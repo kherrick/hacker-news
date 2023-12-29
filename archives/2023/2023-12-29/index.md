@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
+* [2023-12-29, 20:18:31](https://news.ycombinator.com/item?id=38809719) - [Show HN: Intuitive nutrition information](https://spe.lt/)
 * [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
@@ -67,4 +69,5 @@
 * [2023-12-29, 01:50:03](https://news.ycombinator.com/item?id=38800963) - [America Doesn't Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
 * [2023-12-29, 01:35:01](https://news.ycombinator.com/item?id=38800837) - [Women builds tunnel system under her house](https://www.tiktok.com/@engineer.everything/video/7268826326511930666?_t=8iZhD9LQwSr&_r=1)
 * [2023-12-29, 00:31:51](https://news.ycombinator.com/item?id=38800458) - [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
+* [2023-12-29, 00:31:06](https://news.ycombinator.com/item?id=38800454) - [The merge vs. rebase debate](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Vitalik Buterin proposes to make Ethereum PoS 'lighter and simpler'](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
