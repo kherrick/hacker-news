@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-29, 22:14:03",
-      "https://news.ycombinator.com/item?id=38810881"
+      "2023-12-29, 22:21:19",
+      "https://news.ycombinator.com/item?id=38810943"
     ],
     [
-      "Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop",
-      "https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop"
+      "Happy 14th Birthday, KrebsOnSecurity",
+      "https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 22:03:12",
+      "https://news.ycombinator.com/item?id=38810782"
+    ],
+    [
+      "Show HN: Rust9x 1.76-beta – Rust on Windows 95+",
+      "https://seri.tools/blog/rust9x-1-76/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38810546"
     ],
     [
-      "Natural Language Corpus Data: Beautiful Data",
+      "Natural Language Corpus Data: Beautiful Data (2009)",
       "https://norvig.com/ngrams/"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Intentionally buggy commits for fame and papers (2021)",
       "https://lwn.net/Articles/853717/"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:29:51",
-      "https://news.ycombinator.com/item?id=38809841"
-    ],
-    [
-      "Who made millions trading the October 7th attacks?",
-      "https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-12-29, 01:50:03",
+      "https://news.ycombinator.com/item?id=38800963"
+    ],
+    [
+      "America doesn't know tofu",
+      "https://asteriskmag.com/issues/02/america-doesn-t-know-tofu"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 19:41:35",
       "https://news.ycombinator.com/item?id=38797640"
     ],
@@ -267,16 +277,6 @@
     [
       "Developer Productivity for Humans: Software Quality",
       "https://ieeexplore.ieee.org/document/10372494"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 08:22:17",
-      "https://news.ycombinator.com/item?id=38791237"
-    ],
-    [
-      "Lichen: The Sed Build System",
-      "https://github.com/mcandre/lichen"
     ]
   ],
   [
