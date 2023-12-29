@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 21:05:12](https://news.ycombinator.com/item?id=38810167) - [Wi-Fi 7 Signals the Industry's New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
-* [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
+* [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame and papers (2021)](https://lwn.net/Articles/853717/)
+* [2023-12-29, 20:29:51](https://news.ycombinator.com/item?id=38809841) - [Who made millions trading the October 7th attacks?](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
 * [2023-12-29, 20:27:04](https://news.ycombinator.com/item?id=38809810) - [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
 * [2023-12-29, 20:18:31](https://news.ycombinator.com/item?id=38809719) - [Show HN: Intuitive nutrition information](https://spe.lt/)
 * [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
@@ -20,7 +21,6 @@
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
-* [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected ways memory subsystem interacts with branch prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 * [2023-12-29, 00:31:06](https://news.ycombinator.com/item?id=38800454) - [The merge vs. rebase debate](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-28, 22:18:02](https://news.ycombinator.com/item?id=38799426) - [The Crypt of Civilization (2006)](https://www.damninteresting.com/the-crypt-of-civilization/)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
