@@ -3,7 +3,6 @@
 * [2023-12-29, 21:53:49](https://news.ycombinator.com/item?id=38810678) - [Show HN: Vowl daily word guessing game](https://vowlgame.com)
 * [2023-12-29, 21:41:42](https://news.ycombinator.com/item?id=38810546) - [Natural Language Corpus Data: Beautiful Data (2009)](https://norvig.com/ngrams/)
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
-* [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame and papers (2021)](https://lwn.net/Articles/853717/)
 * [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 * [2023-12-29, 20:19:21](https://news.ycombinator.com/item?id=38809728) - [Bourbaki dangerous bend symbol](https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol)
 * [2023-12-29, 20:18:31](https://news.ycombinator.com/item?id=38809719) - [Show HN: Intuitive nutrition information](https://spe.lt/)
@@ -28,6 +27,7 @@
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+* [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
 * [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
 * [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The surprising genius of sewing machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
 
