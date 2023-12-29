@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-29, 08:43:04",
+      "https://news.ycombinator.com/item?id=38802895"
+    ],
+    [
+      "Unexpected Ways Memory Subsystem Interacts with Branch Prediction",
+      "https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 05:57:29",
       "https://news.ycombinator.com/item?id=38802152"
     ],
@@ -287,16 +297,6 @@
     [
       "Comedian Tom Smothers has died",
       "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 09:53:20",
-      "https://news.ycombinator.com/item?id=38780519"
-    ],
-    [
-      "DeskHop – Fast Desktop Switching",
-      "https://github.com/hrvach/deskhop"
     ]
   ]
 ]
