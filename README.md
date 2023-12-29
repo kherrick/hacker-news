@@ -3,7 +3,7 @@
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
-* [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
+* [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
 * [2023-12-28, 23:25:06](https://news.ycombinator.com/item?id=38800008) - [Emacs from Scratch Part Two](https://arne.me/articles/emacs-from-scratch-part-two)
