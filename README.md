@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 16:11:54](https://news.ycombinator.com/item?id=38806473) - [Everyone's getting ghosted, the new normal in tech recruiting](https://medium.com/@k0ryk/everyones-getting-ghosted-dbf0fbaf161)
@@ -13,7 +14,6 @@
 * [2023-12-29, 13:28:41](https://news.ycombinator.com/item?id=38804638) - [Don't Say Velcro (2017)](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
 * [2023-12-29, 13:23:59](https://news.ycombinator.com/item?id=38804603) - [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
 * [2023-12-29, 13:13:12](https://news.ycombinator.com/item?id=38804502) - [2023 was the year that GPUs stood still](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/)
-* [2023-12-29, 13:08:22](https://news.ycombinator.com/item?id=38804452) - [Korea to welcome 'digital nomads' with new visa starting Jan. 1](https://koreajoongangdaily.joins.com/news/2023-12-29/national/kcampus/Korea-to-welcome-digital-nomads-with-new-visa-starting-Jan-1/1947155)
 * [2023-12-29, 12:12:59](https://news.ycombinator.com/item?id=38804135) - [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)

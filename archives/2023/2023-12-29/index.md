@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 16:25:53](https://news.ycombinator.com/item?id=38806707) - [First reported Tesla Cybertruck accident results in only 'minor' injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
