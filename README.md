@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 02:45:16](https://news.ycombinator.com/item?id=38801275) - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
@@ -25,7 +26,6 @@
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 20:09:37](https://news.ycombinator.com/item?id=38786069) - [A Claxonomy of Mexico City's Traffic](https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/)
 * [2023-12-27, 20:08:28](https://news.ycombinator.com/item?id=38786046) - [Medieval Icelandic Feasts](https://www.historytoday.com/archive/miscellanies/medieval-icelandic-feasts)
-* [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 18:36:16](https://news.ycombinator.com/item?id=38784994) - [Comedian Tom Smothers has died](https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56)
 * [2023-12-27, 16:56:18](https://news.ycombinator.com/item?id=38783870) - [Chinese villagers capture video of falling Long March rocket booster [video]](https://www.youtube.com/shorts/j1b4whvmIOc)
 * [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
