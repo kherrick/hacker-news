@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – The most popular tool to discover AuthZ/AuthN flaws](https://github.com/Quitten/Autorize)
 * [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 02:45:16](https://news.ycombinator.com/item?id=38801275) - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Vitalik Buterin proposes to make Ethereum PoS 'lighter and simpler'](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
@@ -7,7 +8,6 @@
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 * [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)
-* [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
 * [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Liero – Sling'n'shoot Worms Game](http://www.liero.be/)
