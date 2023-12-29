@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
-* [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
+* [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner made from carbon nanotubes](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
-* [2023-12-28, 23:38:52](https://news.ycombinator.com/item?id=38800111) - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
@@ -29,6 +28,7 @@
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 20:09:37](https://news.ycombinator.com/item?id=38786069) - [A Claxonomy of Mexico City's Traffic](https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
+* [2023-12-27, 18:36:16](https://news.ycombinator.com/item?id=38784994) - [Comedian Tom Smothers has died](https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56)
 * [2023-12-27, 16:56:18](https://news.ycombinator.com/item?id=38783870) - [Chinese villagers capture video of falling Long March rocket booster [video]](https://www.youtube.com/shorts/j1b4whvmIOc)
 
 ## [Archives](archives/index.md)
