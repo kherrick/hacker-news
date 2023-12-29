@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
+* [2023-12-29, 03:39:47](https://news.ycombinator.com/item?id=38801549) - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
 * [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner made from carbon nanotubes](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 00:28:27](https://news.ycombinator.com/item?id=38800438) - [Sticking to 8192 signatures per slot post-SSF: how and why](https://ethresear.ch/t/sticking-to-8192-signatures-per-slot-post-ssf-how-and-why/17989)
 * [2023-12-28, 23:38:52](https://news.ycombinator.com/item?id=38800111) - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
@@ -17,7 +18,6 @@
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 16:00:21](https://news.ycombinator.com/item?id=38794733) - [Show HN: Anytype – local-first, P2P knowledge management](https://anytype.io/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
-* [2023-12-28, 13:28:10](https://news.ycombinator.com/item?id=38793249) - [Foundations (1997-2000)](https://www.gregegan.net/FOUNDATIONS/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 12:56:02](https://news.ycombinator.com/item?id=38793015) - [It's not microservice or monolith; it's cognitive load](https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith)
 * [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
