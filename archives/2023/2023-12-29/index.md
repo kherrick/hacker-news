@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 13:51:15](https://news.ycombinator.com/item?id=38804843) - [Nuclear Power Gets New Push in U.S., Winning Converts (2022)](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
 * [2023-12-29, 13:50:43](https://news.ycombinator.com/item?id=38804841) - [Google Voice goes US only](https://news.ycombinator.com/item?id=38804841)
 * [2023-12-29, 13:33:38](https://news.ycombinator.com/item?id=38804687) - [Why are the elites suddenly terrified of AI?](https://www.spiked-online.com/2023/12/28/why-are-the-elites-suddenly-so-terrified-about-ai/)
 * [2023-12-29, 13:28:41](https://news.ycombinator.com/item?id=38804638) - [Don't Say Velcro](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
