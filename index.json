@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-29, 05:57:29",
-      "https://news.ycombinator.com/item?id=38802152"
-    ],
-    [
-      "40% of US electricity is now emissions-free",
-      "https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 05:39:17",
       "https://news.ycombinator.com/item?id=38802086"
     ],
@@ -137,16 +127,6 @@
     [
       "Custom firmware for MI fitness band",
       "https://github.com/atc1441/ATCmiBand8fw"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 18:40:30",
-      "https://news.ycombinator.com/item?id=38796870"
-    ],
-    [
-      "Liero – Sling'n'shoot Worms Game",
-      "http://www.liero.be/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "First new U.S. nuclear reactor since 2016 is now in operation",
       "https://www.eia.gov/todayinenergy/detail.php?id=61106"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 18:36:16",
+      "https://news.ycombinator.com/item?id=38784994"
+    ],
+    [
+      "Comedian Tom Smothers has died",
+      "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 09:53:20",
+      "https://news.ycombinator.com/item?id=38780519"
+    ],
+    [
+      "DeskHop – Fast Desktop Switching",
+      "https://github.com/hrvach/deskhop"
     ]
   ]
 ]
