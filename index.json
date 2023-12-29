@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-29, 10:29:38",
+      "https://news.ycombinator.com/item?id=38803556"
+    ],
+    [
+      "Why are Apple Silicon VMs so different?",
+      "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 09:18:48",
       "https://news.ycombinator.com/item?id=38803092"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-12-29, 02:33:58",
-      "https://news.ycombinator.com/item?id=38801221"
+      "2023-12-29, 01:50:03",
+      "https://news.ycombinator.com/item?id=38800963"
     ],
     [
-      "The Web Is Fantastic",
-      "https://rknight.me/blog/the-web-is-fantastic/"
+      "America Doesn't Know Tofu",
+      "https://asteriskmag.com/issues/02/america-doesn-t-know-tofu"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-12-28, 11:53:10",
+      "https://news.ycombinator.com/item?id=38792541"
+    ],
+    [
+      "Ask HN: Good examples of fault-tolerant Erlang code?",
+      "https://news.ycombinator.com/item?id=38792541"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 11:38:57",
       "https://news.ycombinator.com/item?id=38792446"
     ],
@@ -277,26 +297,6 @@
     [
       "First new U.S. nuclear reactor since 2016 is now in operation",
       "https://www.eia.gov/todayinenergy/detail.php?id=61106"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 18:36:16",
-      "https://news.ycombinator.com/item?id=38784994"
-    ],
-    [
-      "Comedian Tom Smothers has died",
-      "https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 09:53:20",
-      "https://news.ycombinator.com/item?id=38780519"
-    ],
-    [
-      "DeskHop – Fast Desktop Switching",
-      "https://github.com/hrvach/deskhop"
     ]
   ]
 ]
