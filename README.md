@@ -23,11 +23,11 @@
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
 * [2023-12-29, 09:31:04](https://news.ycombinator.com/item?id=38803160) - [Herringbone Wang Tiles (2011)](https://nothings.org/gamedev/herringbone/)
+* [2023-12-28, 21:31:06](https://news.ycombinator.com/item?id=38798902) - [Crashes in HTTP server used in routers found with simple fuzzing](https://github.com/cybergarage/mupnp/issues/21)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans: Software Quality](https://ieeexplore.ieee.org/document/10372494)
-* [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
 * [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
 * [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The surprising genius of sewing machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
 
