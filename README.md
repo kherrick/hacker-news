@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
 * [2023-12-29, 17:04:47](https://news.ycombinator.com/item?id=38807299) - [Travel Routers Improve Your Life [video]](https://www.youtube.com/watch?v=szqme3j7h10)
@@ -24,7 +25,6 @@
 * [2023-12-29, 02:33:58](https://news.ycombinator.com/item?id=38801221) - [The Web Is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 * [2023-12-28, 22:18:02](https://news.ycombinator.com/item?id=38799426) - [The Crypt of Civilization (2006)](https://www.damninteresting.com/the-crypt-of-civilization/)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
-* [2023-12-28, 12:24:38](https://news.ycombinator.com/item?id=38792761) - [A/UX: Apple Unix for Macintosh](https://en.wikipedia.org/wiki/A/UX)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
 * [2023-12-28, 09:00:40](https://news.ycombinator.com/item?id=38791480) - [Some of the future is now for CSS](https://www.brycewray.com/posts/2023/02/some-future-now-css/)

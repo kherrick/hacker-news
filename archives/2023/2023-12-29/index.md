@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
 * [2023-12-29, 17:04:47](https://news.ycombinator.com/item?id=38807299) - [Travel Routers Improve Your Life [video]](https://www.youtube.com/watch?v=szqme3j7h10)
