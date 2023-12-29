@@ -11,6 +11,7 @@
 * [2023-12-28, 22:31:57](https://news.ycombinator.com/item?id=38799561) - [One of the Most Controversial US Spy Programs Just Got Renewed](https://www.motherjones.com/politics/2023/12/one-of-the-most-controversial-us-spy-programs-just-got-quietly-renewed/)
 * [2023-12-28, 21:25:12](https://news.ycombinator.com/item?id=38798825) - [TikTok is making users give their iPhone passwords for unclear reasons](https://nypost.com/2023/12/27/tech/tiktok-makes-users-give-iphone-passwords-reasons-unclear/)
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
+* [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 * [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)

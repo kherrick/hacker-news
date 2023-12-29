@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 02:01:32](https://news.ycombinator.com/item?id=38801037) - [AstroForge, a private company, wants to mine a space rock](https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html)
 * [2023-12-29, 00:31:51](https://news.ycombinator.com/item?id=38800458) - [U.S. Government Database of Dad Jokes](https://fatherhood.gov:443/for-dads/dad-jokes)
 * [2023-12-28, 23:57:45](https://news.ycombinator.com/item?id=38800241) - [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
-* [2023-12-28, 22:31:57](https://news.ycombinator.com/item?id=38799561) - [One of the Most Controversial US Spy Programs Just Got Renewed](https://www.motherjones.com/politics/2023/12/one-of-the-most-controversial-us-spy-programs-just-got-quietly-renewed/)
+* [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
-* [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)
 * [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
 * [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
