@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 16:25:53](https://news.ycombinator.com/item?id=38806707) - [First reported Tesla Cybertruck accident results in only 'minor' injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
 * [2023-12-29, 16:11:54](https://news.ycombinator.com/item?id=38806473) - [Everyone's getting ghosted, the new normal in tech recruiting](https://medium.com/@k0ryk/everyones-getting-ghosted-dbf0fbaf161)
 * [2023-12-29, 15:57:18](https://news.ycombinator.com/item?id=38806270) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
