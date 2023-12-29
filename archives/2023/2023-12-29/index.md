@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
 * [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)

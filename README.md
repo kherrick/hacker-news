@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
 * [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
@@ -10,7 +11,6 @@
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
-* [2023-12-29, 15:16:07](https://news.ycombinator.com/item?id=38805811) - [Strawberry Case Study: What If Farmers Had to Pay for Water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every major pharmacy chain giving government warrantless medical record access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux Backdoor Attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
@@ -28,7 +28,7 @@
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
 * [2023-12-28, 08:57:58](https://news.ycombinator.com/item?id=38791461) - [First Carbon-Based Cave Drawings Found in France](https://news.artnet.com/art-world/charcoal-drawings-cave-painting-2411212)
 * [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
-* [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The Surprising Genius of Sewing Machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
+* [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The surprising genius of sewing machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
 * [2023-12-27, 14:35:51](https://news.ycombinator.com/item?id=38782296) - [Operation Cat [pdf]](https://ia601900.us.archive.org/20/items/USAVJaneKemberAndMorrisBudlong/USA%20v%20Jane%20Kember%20and%20Morris%20Budlong%20Exhibit%205.pdf)
 
 ## [Archives](archives/index.md)
