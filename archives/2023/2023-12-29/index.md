@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
+* [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
+* [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
 * [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)

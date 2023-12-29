@@ -71,6 +71,7 @@
 * [2023-12-28, 09:00:40](https://news.ycombinator.com/item?id=38791480) - [Some of the future is now for CSS](https://www.brycewray.com/posts/2023/02/some-future-now-css/)
 * [2023-12-28, 08:57:58](https://news.ycombinator.com/item?id=38791461) - [First Carbon-Based Cave Drawings Found in France](https://news.artnet.com/art-world/charcoal-drawings-cave-painting-2411212)
 * [2023-12-28, 08:31:16](https://news.ycombinator.com/item?id=38791297) - [Google layoffs: Tech giant to cut down 30k jobs, says report](https://www.timesnownews.com/business-economy/companies/google-layoffs-tech-giant-to-cut-down-30000-jobs-says-report-article-106242749)
+* [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
 * [2023-12-28, 06:37:33](https://news.ycombinator.com/item?id=38790709) - [Why We Sleep: a tale of institutional failure](https://yngve.hoiseth.net/articles/why-we-sleep-institutional-failure/)
