@@ -8,6 +8,7 @@
 * [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
 * [2023-12-29, 20:29:51](https://news.ycombinator.com/item?id=38809841) - [Who made millions trading the October 7th attacks?](https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks)
 * [2023-12-29, 20:27:04](https://news.ycombinator.com/item?id=38809810) - [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
+* [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 * [2023-12-29, 20:18:31](https://news.ycombinator.com/item?id=38809719) - [Show HN: Intuitive nutrition information](https://spe.lt/)
 * [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 * [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
