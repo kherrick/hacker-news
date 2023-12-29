@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 10:37:41](https://news.ycombinator.com/item?id=38803614) - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 10:37:41](https://news.ycombinator.com/item?id=38803614) - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
@@ -19,7 +20,6 @@
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
 * [2023-12-28, 13:28:10](https://news.ycombinator.com/item?id=38793249) - [Foundations (1997-2000)](https://www.gregegan.net/FOUNDATIONS/)
 * [2023-12-28, 13:22:56](https://news.ycombinator.com/item?id=38793206) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
-* [2023-12-28, 12:56:02](https://news.ycombinator.com/item?id=38793015) - [It's not microservice or monolith; it's cognitive load](https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
 * [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 09:17:46](https://news.ycombinator.com/item?id=38791575) - [You've just been fucked by psyops [video]](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops)
