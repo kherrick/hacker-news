@@ -67,6 +67,7 @@
 * [2023-12-28, 09:08:19](https://news.ycombinator.com/item?id=38791519) - [Quairading shire erects signs telling travellers to ignore Google Maps](https://www.abc.net.au/news/2023-12-28/google-maps-sending-people-wrong-way-quairading-shire/103207090)
 * [2023-12-28, 09:08:05](https://news.ycombinator.com/item?id=38791517) - [Formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+* [2023-12-28, 08:57:58](https://news.ycombinator.com/item?id=38791461) - [First Carbon-Based Cave Drawings Found in France](https://news.artnet.com/art-world/charcoal-drawings-cave-painting-2411212)
 * [2023-12-28, 08:31:16](https://news.ycombinator.com/item?id=38791297) - [Google layoffs: Tech giant to cut down 30k jobs, says report](https://www.timesnownews.com/business-economy/companies/google-layoffs-tech-giant-to-cut-down-30000-jobs-says-report-article-106242749)
 * [2023-12-28, 07:06:03](https://news.ycombinator.com/item?id=38790854) - [Outlook/Hotmail is no longer blocking my mail server](https://taoshu.in/net/outlook-delist.html)
 * [2023-12-28, 06:54:39](https://news.ycombinator.com/item?id=38790796) - [Para-infectious brain injury in Covid-19 persists at follow-up](https://www.nature.com/articles/s41467-023-42320-4)
