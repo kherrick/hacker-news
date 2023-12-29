@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
 * [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
@@ -8,7 +9,6 @@
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
-* [2023-12-29, 15:57:18](https://news.ycombinator.com/item?id=38806270) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 * [2023-12-29, 15:16:07](https://news.ycombinator.com/item?id=38805811) - [Strawberry Case Study: What If Farmers Had to Pay for Water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every major pharmacy chain giving government warrantless medical record access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
