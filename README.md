@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-29, 10:37:41](https://news.ycombinator.com/item?id=38803614) - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
+* [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: were Roman soldiers paid in salt? [No; mythbusting article]](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
-* [2023-12-29, 01:50:03](https://news.ycombinator.com/item?id=38800963) - [America Doesn't Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
 * [2023-12-28, 23:25:06](https://news.ycombinator.com/item?id=38800008) - [Emacs from Scratch Part Two](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface](http://luc.devroye.org/fonts-51468.html)
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
