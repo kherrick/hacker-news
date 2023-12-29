@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-12-29, 21:05:12",
-      "https://news.ycombinator.com/item?id=38810167"
+      "2023-12-29, 22:14:03",
+      "https://news.ycombinator.com/item?id=38810881"
     ],
     [
-      "Wi-Fi 7 Signals the Industry's New Priority: Stability",
-      "https://spectrum.ieee.org/wi-fi-7"
+      "Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop",
+      "https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 21:41:42",
+      "https://news.ycombinator.com/item?id=38810546"
+    ],
+    [
+      "Natural Language Corpus Data: Beautiful Data",
+      "https://norvig.com/ngrams/"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 20:53:16",
+      "https://news.ycombinator.com/item?id=38810073"
+    ],
+    [
+      "Koka: Strongly typed functional-style language with effect types and handlers",
+      "https://koka-lang.github.io/koka/doc/index.html"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Who made millions trading the October 7th attacks?",
       "https://www.economist.com/finance-and-economics/2023/12/05/did-hamas-make-millions-trading-the-october-7th-attacks"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:27:04",
-      "https://news.ycombinator.com/item?id=38809810"
-    ],
-    [
-      "What makes cheddar cheese taste so good?",
-      "https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-12-29, 19:02:27",
+      "https://news.ycombinator.com/item?id=38808889"
+    ],
+    [
+      "Parsing an Undocumented File Format",
+      "https://blog.vivekpanyam.com/parsing-an-undocumented-file-format"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 18:40:24",
       "https://news.ycombinator.com/item?id=38808574"
     ],
@@ -137,16 +157,6 @@
     [
       "UK announces commercial operations of longest land/subsea interconnector",
       "https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 15:16:07",
-      "https://news.ycombinator.com/item?id=38805811"
-    ],
-    [
-      "Strawberry case study: What if farmers had to pay for water?",
-      "https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2023-12-28, 22:18:02",
-      "https://news.ycombinator.com/item?id=38799426"
-    ],
-    [
-      "The Crypt of Civilization (2006)",
-      "https://www.damninteresting.com/the-crypt-of-civilization/"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 19:41:35",
       "https://news.ycombinator.com/item?id=38797640"
     ],
     [
       "Tracking developer build times to decide if the M3 MacBook is worth upgrading",
       "https://incident.io/blog/festive-macbooks"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 19:41:08",
+      "https://news.ycombinator.com/item?id=38797629"
+    ],
+    [
+      "How big can a snowflake get?",
+      "https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The surprising genius of sewing machines [video]",
       "https://www.youtube.com/watch?v=RQYuyHNLPTQ"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 14:35:51",
-      "https://news.ycombinator.com/item?id=38782296"
-    ],
-    [
-      "Operation Cat (1976) [pdf]",
-      "https://ia601900.us.archive.org/20/items/USAVJaneKemberAndMorrisBudlong/USA%20v%20Jane%20Kember%20and%20Morris%20Budlong%20Exhibit%205.pdf"
     ]
   ]
 ]
