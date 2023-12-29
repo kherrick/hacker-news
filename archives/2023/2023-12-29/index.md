@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
+* [2023-12-29, 19:27:52](https://news.ycombinator.com/item?id=38809156) - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
 * [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
@@ -14,6 +16,7 @@
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
 * [2023-12-29, 17:04:47](https://news.ycombinator.com/item?id=38807299) - [Travel Routers Improve Your Life [video]](https://www.youtube.com/watch?v=szqme3j7h10)
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+* [2023-12-29, 16:50:13](https://news.ycombinator.com/item?id=38807057) - [So I Quit Spotify](https://oliviarafferty.substack.com/p/so-i-finally-quit-spotify)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 16:25:53](https://news.ycombinator.com/item?id=38806707) - [First reported Tesla Cybertruck accident results in only 'minor' injury](https://www.theverge.com/2023/12/28/24018383/tesla-cybertruck-crash-corolla-palo-alto)
 * [2023-12-29, 16:11:54](https://news.ycombinator.com/item?id=38806473) - [Everyone's getting ghosted, the new normal in tech recruiting](https://medium.com/@k0ryk/everyones-getting-ghosted-dbf0fbaf161)
