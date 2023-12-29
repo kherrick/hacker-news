@@ -17,6 +17,7 @@
 * [2023-12-28, 21:10:07](https://news.ycombinator.com/item?id=38798655) - [Microplastics: How much do we consume and from which sources?](https://molecularspec.substack.com/p/microplastics-how-much-do-we-consume)
 * [2023-12-28, 21:05:22](https://news.ycombinator.com/item?id=38798600) - [Electronics Flea Market](https://www.electronicsfleamarket.com)
 * [2023-12-28, 21:01:16](https://news.ycombinator.com/item?id=38798555) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
 * [2023-12-28, 20:56:51](https://news.ycombinator.com/item?id=38798496) - [GraphWords: Visual Dictionary and Thesaurus](https://graphwords.com)
 * [2023-12-28, 20:56:18](https://news.ycombinator.com/item?id=38798489) - [Multiplayer Online Science](http://mmos.ch/)
 * [2023-12-28, 20:54:07](https://news.ycombinator.com/item?id=38798460) - [Kagi – Sourcing from Brave Search, improved image search, and new Safari ext](https://kagi.com/changelog#2793)
