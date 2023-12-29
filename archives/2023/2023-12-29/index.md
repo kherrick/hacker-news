@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 12:45:20](https://news.ycombinator.com/item?id=38804306) - [Berlin researchers hacked Tesla autopilot to unlock \"Elon mode\"](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
+* [2023-12-29, 12:36:46](https://news.ycombinator.com/item?id=38804263) - [California's Aristocracy of Lunatics](https://unherd.com/2023/12/californias-aristocracy-of-lunatics/)
+* [2023-12-29, 12:22:48](https://news.ycombinator.com/item?id=38804179) - [5G Considered Tired Already](https://www.theregister.com/2023/12/29/mobile_industry_looks_to_6g/)
 * [2023-12-29, 12:12:59](https://news.ycombinator.com/item?id=38804135) - [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:12:48](https://news.ycombinator.com/item?id=38804133) - [It's \"shakeout\" time as losses of Netflix rivals top $5B](https://arstechnica.com/culture/2023/12/its-shakeout-time-as-losses-of-netflix-rivals-top-5-billion/)
 * [2023-12-29, 12:03:09](https://news.ycombinator.com/item?id=38804085) - [\"I'm a world champion pea thrower\"](https://www.theguardian.com/lifeandstyle/2023/dec/29/experience-im-a-world-champion-pea-thrower)
