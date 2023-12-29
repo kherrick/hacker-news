@@ -1,32 +1,22 @@
 [
   [
     [
-      "2023-12-29, 19:57:58",
-      "https://news.ycombinator.com/item?id=38809485"
+      "2023-12-29, 20:39:04",
+      "https://news.ycombinator.com/item?id=38809930"
     ],
     [
-      "Tracking developer build times to decide if the M3 MacBook is worth upgrading",
-      "https://incident.io/blog/festive-macbooks"
+      "Intentionally buggy commits for fame–and papers",
+      "https://lwn.net/Articles/853717/"
     ]
   ],
   [
     [
-      "2023-12-29, 19:53:57",
-      "https://news.ycombinator.com/item?id=38809450"
+      "2023-12-29, 20:18:31",
+      "https://news.ycombinator.com/item?id=38809719"
     ],
     [
-      "Why large companies and fast-moving startups are banning merge commits",
-      "https://graphite.dev/blog/why-ban-merge-commits"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 19:37:16",
-      "https://news.ycombinator.com/item?id=38809248"
-    ],
-    [
-      "Using Rust for Gamedev (2019)",
-      "https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c"
+      "Show HN: Intuitive nutrition information",
+      "https://spe.lt/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "UK announces commercial operations of longest land/subsea interconnector",
       "https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 15:18:12",
-      "https://news.ycombinator.com/item?id=38805830"
-    ],
-    [
-      "Derinkuyu: Mysterious underground city in Turkey found in man's basement",
-      "https://bigthink.com/strange-maps/derinkuyu-underground-city/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-12-29, 00:31:06",
+      "https://news.ycombinator.com/item?id=38800454"
+    ],
+    [
+      "The merge vs. rebase debate",
+      "https://graphite.dev/blog/why-ban-merge-commits"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 22:18:02",
       "https://news.ycombinator.com/item?id=38799426"
     ],
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2023-12-28, 11:53:10",
-      "https://news.ycombinator.com/item?id=38792541"
+      "2023-12-28, 19:41:35",
+      "https://news.ycombinator.com/item?id=38797640"
     ],
     [
-      "Ask HN: Good examples of fault-tolerant Erlang code?",
-      "https://news.ycombinator.com/item?id=38792541"
+      "Tracking developer build times to decide if the M3 MacBook is worth upgrading",
+      "https://incident.io/blog/festive-macbooks"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 12:24:38",
+      "https://news.ycombinator.com/item?id=38792761"
+    ],
+    [
+      "A/UX",
+      "https://en.wikipedia.org/wiki/A/UX"
     ]
   ],
   [
