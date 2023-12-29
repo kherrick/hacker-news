@@ -3,7 +3,6 @@
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
-* [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – Authorization enforcement detection extension for Burp Suite](https://github.com/Quitten/Autorize)
 * [2023-12-28, 23:25:06](https://news.ycombinator.com/item?id=38800008) - [Emacs from Scratch Part Two](https://arne.me/articles/emacs-from-scratch-part-two)
@@ -14,7 +13,6 @@
 * [2023-12-28, 20:47:24](https://news.ycombinator.com/item?id=38798383) - [BCHS software stack: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
 * [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
-* [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Liero – Sling'n'shoot Worms Game](http://www.liero.be/)
 * [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [OsmAPP – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
@@ -30,6 +28,8 @@
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
+* [2023-12-27, 18:36:16](https://news.ycombinator.com/item?id=38784994) - [Comedian Tom Smothers has died](https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56)
+* [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 
 ## [Archives](archives/index.md)
 
