@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 22:21:19](https://news.ycombinator.com/item?id=38810943) - [Happy 14th Birthday, KrebsOnSecurity](https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/)
 * [2023-12-29, 22:14:03](https://news.ycombinator.com/item?id=38810881) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
+* [2023-12-29, 22:03:12](https://news.ycombinator.com/item?id=38810782) - [Show HN: Rust9x 1.76-beta – Rust on Windows 95+](https://seri.tools/blog/rust9x-1-76/)
 * [2023-12-29, 21:41:42](https://news.ycombinator.com/item?id=38810546) - [Natural Language Corpus Data: Beautiful Data](https://norvig.com/ngrams/)
 * [2023-12-29, 21:05:12](https://news.ycombinator.com/item?id=38810167) - [Wi-Fi 7 Signals the Industry's New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
