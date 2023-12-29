@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 21:05:12](https://news.ycombinator.com/item?id=38810167) - [Wi-Fi 7 Signals the Industry's New Priority: Stability](https://spectrum.ieee.org/wi-fi-7)
 * [2023-12-29, 20:39:04](https://news.ycombinator.com/item?id=38809930) - [Intentionally buggy commits for fame–and papers](https://lwn.net/Articles/853717/)
 * [2023-12-29, 20:27:04](https://news.ycombinator.com/item?id=38809810) - [What makes cheddar cheese taste so good?](https://www.smithsonianmag.com/smart-news/what-makes-cheddar-cheese-taste-so-good-180983506/)
 * [2023-12-29, 20:18:31](https://news.ycombinator.com/item?id=38809719) - [Show HN: Intuitive nutrition information](https://spe.lt/)
+* [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 * [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
@@ -17,6 +19,7 @@
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
 * [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
+* [2023-12-29, 18:20:28](https://news.ycombinator.com/item?id=38808313) - [Learning to love to draw with Commander Mark](https://www.npr.org/2023/12/28/1217590736/mark-kistler-secret-city)
 * [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
