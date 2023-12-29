@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
+* [2023-12-29, 14:48:58](https://news.ycombinator.com/item?id=38805514) - [Family testimony reveals new insights into how Hitler became radicalised](https://www.abdn.ac.uk/news/22651/)
+* [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
+* [2023-12-29, 14:26:03](https://news.ycombinator.com/item?id=38805209) - [Blockchain dev's wallet emptied in \"job interview\" using NPM package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 * [2023-12-29, 13:51:15](https://news.ycombinator.com/item?id=38804843) - [Nuclear Power Gets New Push in U.S., Winning Converts (2022)](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
 * [2023-12-29, 13:50:43](https://news.ycombinator.com/item?id=38804841) - [Google Voice goes US only](https://news.ycombinator.com/item?id=38804841)
 * [2023-12-29, 13:33:38](https://news.ycombinator.com/item?id=38804687) - [Why are the elites suddenly terrified of AI?](https://www.spiked-online.com/2023/12/28/why-are-the-elites-suddenly-so-terrified-about-ai/)
