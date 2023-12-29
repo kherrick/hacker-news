@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 * [2023-12-29, 19:27:52](https://news.ycombinator.com/item?id=38809156) - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
@@ -13,7 +14,6 @@
 * [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 * [2023-12-29, 15:16:07](https://news.ycombinator.com/item?id=38805811) - [Strawberry case study: What if farmers had to pay for water?](https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every major pharmacy chain giving government warrantless medical record access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
-* [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux backdoor attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works (2010)](https://www.bzero.se/ldapd/btree.html)
 * [2023-12-29, 13:23:59](https://news.ycombinator.com/item?id=38804603) - [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 * [2023-12-29, 19:27:52](https://news.ycombinator.com/item?id=38809156) - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
