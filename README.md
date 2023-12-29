@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 15:57:18](https://news.ycombinator.com/item?id=38806270) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+* [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
@@ -10,10 +12,8 @@
 * [2023-12-29, 13:13:12](https://news.ycombinator.com/item?id=38804502) - [2023 was the year that GPUs stood still](https://arstechnica.com/gadgets/2023/12/2023-was-the-year-that-gpus-stood-still/)
 * [2023-12-29, 13:08:22](https://news.ycombinator.com/item?id=38804452) - [Korea to welcome 'digital nomads' with new visa starting Jan. 1](https://koreajoongangdaily.joins.com/news/2023-12-29/national/kcampus/Korea-to-welcome-digital-nomads-with-new-visa-starting-Jan-1/1947155)
 * [2023-12-29, 12:12:59](https://news.ycombinator.com/item?id=38804135) - [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
-* [2023-12-29, 12:12:48](https://news.ycombinator.com/item?id=38804133) - [Disney, Warner, Comcast, and Paramount are contemplating cuts, possible mergers](https://arstechnica.com/culture/2023/12/its-shakeout-time-as-losses-of-netflix-rivals-top-5-billion/)
 * [2023-12-29, 12:03:09](https://news.ycombinator.com/item?id=38804085) - [\"I'm a world champion pea thrower\"](https://www.theguardian.com/lifeandstyle/2023/dec/29/experience-im-a-world-champion-pea-thrower)
 * [2023-12-29, 12:00:39](https://news.ycombinator.com/item?id=38804068) - [Dyte (YC W21) Is Hiring a Support Engineer (Latin America)](https://jobs.lever.co/dyte-io/e8c32043-b478-4c91-ab5e-634c15690236)
-* [2023-12-29, 10:37:41](https://news.ycombinator.com/item?id=38803614) - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO?](https://news.ycombinator.com/item?id=38803092)

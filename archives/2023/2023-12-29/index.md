@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 15:57:18](https://news.ycombinator.com/item?id=38806270) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+* [2023-12-29, 15:18:12](https://news.ycombinator.com/item?id=38805830) - [Derinkuyu: Mysterious underground city in Turkey found in man's basement](https://bigthink.com/strange-maps/derinkuyu-underground-city/)
 * [2023-12-29, 15:13:22](https://news.ycombinator.com/item?id=38805779) - [Every Major Pharmacy Chain Giving Government Warrantless Medical Record Access](https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/)
 * [2023-12-29, 14:52:16](https://news.ycombinator.com/item?id=38805554) - [One man saved a generation of premature babies (2016)](https://www.bbc.com/news/magazine-36321692)
 * [2023-12-29, 14:48:58](https://news.ycombinator.com/item?id=38805514) - [Family testimony reveals new insights into how Hitler became radicalised](https://www.abdn.ac.uk/news/22651/)
