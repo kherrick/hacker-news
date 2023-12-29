@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works](https://www.bzero.se/ldapd/btree.html)
 * [2023-12-29, 13:51:15](https://news.ycombinator.com/item?id=38804843) - [Nuclear Power Gets New Push in U.S., Winning Converts (2022)](https://www.nytimes.com/2022/07/05/business/energy-environment/nuclear-energy-politics.html)
 * [2023-12-29, 13:28:41](https://news.ycombinator.com/item?id=38804638) - [Don't Say Velcro (2017)](https://www.velcro.com/original-thinking/the-velcro-brand-trademark-guidelines/dont-say-velcro/)
 * [2023-12-29, 13:23:59](https://news.ycombinator.com/item?id=38804603) - [Ask HN: Programming Courses for Experienced Coders?](https://news.ycombinator.com/item?id=38804603)
@@ -24,7 +25,6 @@
 * [2023-12-28, 12:24:38](https://news.ycombinator.com/item?id=38792761) - [A/UX: Apple Unix for Macintosh](https://en.wikipedia.org/wiki/A/UX)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
 * [2023-12-28, 11:38:57](https://news.ycombinator.com/item?id=38792446) - [IDEs we had 30 years ago](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
-* [2023-12-28, 09:08:05](https://news.ycombinator.com/item?id=38791517) - [Formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-28, 09:02:00](https://news.ycombinator.com/item?id=38791489) - [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
