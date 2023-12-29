@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
+* [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 * [2023-12-29, 19:27:52](https://news.ycombinator.com/item?id=38809156) - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
+* [2023-12-29, 19:27:44](https://news.ycombinator.com/item?id=38809154) - [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
 * [2023-12-29, 19:07:45](https://news.ycombinator.com/item?id=38808944) - [Homicides in U.S. to drop by record numbers in 2023](https://www.axios.com/2023/12/28/us-murder-violent-crime-rates-drop)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
@@ -47,6 +49,7 @@
 * [2023-12-29, 10:37:41](https://news.ycombinator.com/item?id=38803614) - [Copyright is not a moral right, it's a monetization strategy](https://twitter.com/Plinz/status/1740597001652461895)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: were Roman soldiers paid in salt? [No; mythbusting article]](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
+* [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
 * [2023-12-29, 08:43:04](https://news.ycombinator.com/item?id=38802895) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
