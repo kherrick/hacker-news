@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 07:25:28](https://news.ycombinator.com/item?id=38802502) - [Berlin researchers hacked Tesla autopilot to unlock \"Elon mode\"](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
 * [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
 * [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)

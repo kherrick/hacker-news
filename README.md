@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-29, 07:25:28](https://news.ycombinator.com/item?id=38802502) - [Berlin researchers hacked Tesla autopilot to unlock \"Elon mode\"](https://cybernews.com/tech/berlin-researchers-hacked-tesla-autopilot/)
 * [2023-12-29, 05:57:29](https://news.ycombinator.com/item?id=38802152) - [40% of US electricity is now emissions-free](https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/)
 * [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
@@ -13,7 +14,6 @@
 * [2023-12-28, 19:29:14](https://news.ycombinator.com/item?id=38797472) - [Hexcodle](https://hexcodle.com/)
 * [2023-12-28, 18:54:53](https://news.ycombinator.com/item?id=38797076) - [Custom firmware for MI fitness band](https://github.com/atc1441/ATCmiBand8fw)
 * [2023-12-28, 18:40:30](https://news.ycombinator.com/item?id=38796870) - [Liero – Sling'n'shoot Worms Game](http://www.liero.be/)
-* [2023-12-28, 17:44:20](https://news.ycombinator.com/item?id=38796075) - [Technological innovations that produced the shale revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
 * [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [OsmAPP – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)
 * [2023-12-28, 15:52:17](https://news.ycombinator.com/item?id=38794625) - [Particle Life](https://github.com/hunar4321/particle-life)
@@ -27,9 +27,9 @@
 * [2023-12-28, 06:11:31](https://news.ycombinator.com/item?id=38790597) - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 20:50:04](https://news.ycombinator.com/item?id=38786581) - [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
-* [2023-12-27, 20:09:37](https://news.ycombinator.com/item?id=38786069) - [A Claxonomy of Mexico City's Traffic](https://allegralaboratory.net/a-claxonomy-of-mexico-citys-traffic/)
 * [2023-12-27, 19:19:37](https://news.ycombinator.com/item?id=38785468) - [First new U.S. nuclear reactor since 2016 is now in operation](https://www.eia.gov/todayinenergy/detail.php?id=61106)
 * [2023-12-27, 18:36:16](https://news.ycombinator.com/item?id=38784994) - [Comedian Tom Smothers has died](https://apnews.com/article/tom-smothers-dies-smothers-brothers-3e1727faf1b6469da7b2cfc7b2874c56)
+* [2023-12-27, 09:53:20](https://news.ycombinator.com/item?id=38780519) - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 
 ## [Archives](archives/index.md)
 
