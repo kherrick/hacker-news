@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
@@ -10,7 +11,6 @@
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
 * [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 * [2023-12-29, 20:19:21](https://news.ycombinator.com/item?id=38809728) - [Bourbaki dangerous bend symbol](https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol)
-* [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 * [2023-12-29, 20:03:02](https://news.ycombinator.com/item?id=38809543) - [48x32: A 1536 LED Game Computer](https://jacquesmattheij.com/48x32-introduction/)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 19:20:11](https://news.ycombinator.com/item?id=38809072) - [Higher error correction makes scanning undamaged QR codes less reliable (2021)](https://huonw.github.io/blog/2021/09/qr-error-correction/)
