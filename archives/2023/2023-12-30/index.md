@@ -39,6 +39,7 @@
 * [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 * [2023-12-30, 14:27:17](https://news.ycombinator.com/item?id=38815500) - [Cork will protect the next spacecraft to visit the Moon](https://www.bbc.com/future/article/20231228-champagne-stoppers-in-space-how-cork-will-protect-the-next-spacecraft-to-visit-the-moon)
+* [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline Paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:08:02](https://news.ycombinator.com/item?id=38815370) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 14:00:36](https://news.ycombinator.com/item?id=38815324) - [Emoji are legally actionable](https://www.theatlantic.com/technology/archive/2023/12/emoji-corporate-lawsuits-court/676967/)

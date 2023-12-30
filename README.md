@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-30, 21:18:01](https://news.ycombinator.com/item?id=38819263) - [PHP Sadness](http://phpsadness.com/)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
@@ -11,9 +10,10 @@
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether reveals partnerships with Secret Service, FBI in letter to U.S. Senate](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
 * [2023-12-30, 18:09:54](https://news.ycombinator.com/item?id=38817264) - [Sir Humphry Davy’s unpublished poetry found in notebooks](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
-* [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
+* [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Court of Appeal ruling will prevent UK museums from charging reproduction fees](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
 * [2023-12-30, 17:15:09](https://news.ycombinator.com/item?id=38816802) - [Electric light transmits data faster than Wi-Fi](https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+* [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline Paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
