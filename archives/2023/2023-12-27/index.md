@@ -7,6 +7,7 @@
 * [2023-12-27, 23:56:37](https://news.ycombinator.com/item?id=38788360) - [Breaking \"DRM\" in Polish trains [video] – 37c3 presentation](https://streaming.media.ccc.de/37c3/relive/12142)
 * [2023-12-27, 23:51:24](https://news.ycombinator.com/item?id=38788326) - [Valetudo – Cloud replacement for vacuum robots enabling local-only operation](https://valetudo.cloud/)
 * [2023-12-27, 23:43:42](https://news.ycombinator.com/item?id=38788273) - [No new iPhone? No secure iOS: Looking at an unfixed iOS vulnerability](https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities)
+* [2023-12-27, 23:04:49](https://news.ycombinator.com/item?id=38787960) - [Challenges with semantic search on transcribed audio files](https://notjoemartinez.com/blog/chromadb_for_yt-fts/)
 * [2023-12-27, 22:56:22](https://news.ycombinator.com/item?id=38787892) - [Show HN: Rem: Remember Everything (open source)](https://github.com/jasonjmcghee/rem)
 * [2023-12-27, 22:53:45](https://news.ycombinator.com/item?id=38787869) - [Apple Watch Series 9 and Ultra 2 returning to select Apple Stores](https://9to5mac.com/2023/12/27/apple-watch-series-9-and-ultra-2-returning-to-select-apple-stores-today-online-tomorrow/)
 * [2023-12-27, 21:32:22](https://news.ycombinator.com/item?id=38787005) - [Debian Statement on the Cyber Resilience Act](https://lwn.net/Articles/956187/)
