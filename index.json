@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-30, 14:08:02",
+      "https://news.ycombinator.com/item?id=38815370"
+    ],
+    [
+      "Bullshit Jobs",
+      "https://en.wikipedia.org/wiki/Bullshit_Jobs"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 13:07:44",
       "https://news.ycombinator.com/item?id=38815005"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2023-12-30, 09:48:39",
+      "https://news.ycombinator.com/item?id=38813976"
+    ],
+    [
+      "\"Tech Billionaires Need to Stop Making Sci-Fi Real\"",
+      "https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 08:31:51",
       "https://news.ycombinator.com/item?id=38813685"
     ],
@@ -47,16 +67,6 @@
     [
       "The value of canonicity (2020)",
       "https://building.nubank.com.br/the-value-of-canonicity/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 07:48:08",
-      "https://news.ycombinator.com/item?id=38813496"
-    ],
-    [
-      "The case for a pipe assignment operator in R",
-      "http://hughjonesd.github.io/case-for-pipe-assignment.html"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2023-12-30, 01:28:43",
+      "https://news.ycombinator.com/item?id=38812087"
+    ],
+    [
+      "A modern data stack for startups (2022)",
+      "https://incident.io/blog/data-stack"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 00:10:51",
       "https://news.ycombinator.com/item?id=38811704"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-12-29, 20:53:16",
-      "https://news.ycombinator.com/item?id=38810073"
-    ],
-    [
-      "Koka: Strongly typed functional-style language with effect types and handlers",
-      "https://koka-lang.github.io/koka/doc/index.html"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 20:22:26",
       "https://news.ycombinator.com/item?id=38809770"
     ],
     [
       "Show HN: Inbox Zero – open-source email assistant",
       "https://www.getinboxzero.com"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:19:21",
-      "https://news.ycombinator.com/item?id=38809728"
-    ],
-    [
-      "Bourbaki dangerous bend symbol",
-      "https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38801972"
     ],
     [
-      "A Man Behind the Mosque (2003)",
+      "The man behind the mosque (2003)",
       "https://amitavghosh.com/other-works-contributions/essays-and-posts/the-man-behind-the-mosque/"
     ]
   ],
