@@ -21,6 +21,7 @@
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
+* [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works (2010)](https://www.bzero.se/ldapd/btree.html)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-28, 23:38:37](https://news.ycombinator.com/item?id=38800109) - [Read the Chronicles of Narnia in Publication Order (2018)](https://www.tor.com/2018/11/23/why-you-should-read-the-chronicles-of-narnia-in-publication-order/)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
@@ -28,7 +29,6 @@
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 17:18:47](https://news.ycombinator.com/item?id=38795735) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
 * [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
-* [2023-12-27, 23:04:49](https://news.ycombinator.com/item?id=38787960) - [Challenges with semantic search on transcribed audio files](https://notjoemartinez.com/blog/chromadb_for_yt-fts/)
 * [2023-12-27, 12:46:45](https://news.ycombinator.com/item?id=38781442) - [PostgreSQL Internals: Things to Know About Update Statements](https://patrick.engineering/posts/postgres-internals/)
 
 ## [Archives](archives/index.md)
