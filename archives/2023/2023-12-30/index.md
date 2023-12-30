@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 * [2023-12-30, 13:02:56](https://news.ycombinator.com/item?id=38814979) - [CBC cancels New Year's Eve broadcast special due to 'financial pressures'](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
