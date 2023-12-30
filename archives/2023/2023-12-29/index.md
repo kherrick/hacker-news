@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 23:18:17](https://news.ycombinator.com/item?id=38811385) - [The Year of Ozempic](https://www.newyorker.com/culture/2023-in-review/the-year-of-ozempic)
 * [2023-12-29, 22:57:44](https://news.ycombinator.com/item?id=38811215) - [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
