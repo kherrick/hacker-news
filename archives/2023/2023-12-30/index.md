@@ -14,6 +14,7 @@
 * [2023-12-30, 17:15:28](https://news.ycombinator.com/item?id=38816811) - [Microsoft's Copilot AI chatbot app arrives on iOS](https://www.engadget.com/microsofts-copilot-ai-chatbot-app-arrives-on-ios-112559129.html)
 * [2023-12-30, 17:10:58](https://news.ycombinator.com/item?id=38816772) - [Sam Bankman-Fried: Convicted 'Crypto King' will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
 * [2023-12-30, 16:59:57](https://news.ycombinator.com/item?id=38816698) - [Biggest Boutique Fitness Company Turns Suburban Moms into Bankrupt Franchisees](https://www.bloomberg.com/news/features/2023-12-07/club-pilates-pure-barre-owners-say-xponential-left-them-bankrupt)
+* [2023-12-30, 16:36:55](https://news.ycombinator.com/item?id=38816506) - [ScummVM 2.8.0 released with tons of new games](https://www.scummvm.org/news/20231230/)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [Drugs](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 16:19:53](https://news.ycombinator.com/item?id=38816383) - [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
