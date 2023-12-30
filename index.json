@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-30, 21:56:11",
+      "https://news.ycombinator.com/item?id=38819618"
+    ],
+    [
+      "More fun with Apple's internal tools: creating a PDS card",
+      "https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 21:17:56",
       "https://news.ycombinator.com/item?id=38819262"
     ],
     [
       "Ugrep – a more powerful, ultra fast, user-friendly, compatible grep",
       "https://ugrep.com/"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 21:13:03",
+      "https://news.ycombinator.com/item?id=38819212"
+    ],
+    [
+      "LIPS: Powerful Scheme based Lisp interpreter in JavaScript",
+      "https://lips.js.org/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-12-30, 07:22:35",
-      "https://news.ycombinator.com/item?id=38813395"
-    ],
-    [
-      "Wikipedia daily most viewed pages",
-      "https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes="
-    ]
-  ],
-  [
-    [
       "2023-12-30, 06:23:39",
       "https://news.ycombinator.com/item?id=38813187"
     ],
     [
       "Efficient Hash Probes on Modern Processors (2007) [pdf]",
       "https://www.cs.columbia.edu/~kar/pubsk/icde2007.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 19:26:42",
-      "https://news.ycombinator.com/item?id=38809145"
-    ],
-    [
-      "Blot turns a folder into a website",
-      "https://blot.im/how"
     ]
   ],
   [
