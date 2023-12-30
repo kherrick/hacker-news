@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-30, 13:02:56](https://news.ycombinator.com/item?id=38814979) - [CBC cancels New Year's Eve broadcast special due to 'financial pressures'](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:29:31](https://news.ycombinator.com/item?id=38813915) - [Ethernet over HTTPS Protocol](https://www.ietf.org/archive/id/draft-bouaram-ethernet-over-https-00.html)
@@ -13,6 +12,7 @@
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
+* [2023-12-30, 01:28:43](https://news.ycombinator.com/item?id=38812087) - [A modern data stack for startups (2022)](https://incident.io/blog/data-stack)
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
