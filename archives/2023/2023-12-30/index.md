@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
 * [2023-12-30, 20:03:49](https://news.ycombinator.com/item?id=38818542) - [Google's Android app store monopoly violates antitrust law, jury finds](https://arstechnica.com/gaming/2023/12/googles-android-app-store-monopoly-violates-antitrust-law-jury-finds/)

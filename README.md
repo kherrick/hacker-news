@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
 * [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
@@ -9,7 +10,6 @@
 * [2023-12-30, 18:09:54](https://news.ycombinator.com/item?id=38817264) - [Sir Humphry Davy’s unpublished poetry found in notebooks](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
 * [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
 * [2023-12-30, 17:15:09](https://news.ycombinator.com/item?id=38816802) - [Electric light transmits data faster than Wi-Fi](https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html)
-* [2023-12-30, 16:03:47](https://news.ycombinator.com/item?id=38816240) - [Show HN: Fill and sign PDF from any website with a single line of code](https://simplepdf.github.io)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 14:00:36](https://news.ycombinator.com/item?id=38815324) - [Emoji are legally actionable](https://www.theatlantic.com/technology/archive/2023/12/emoji-corporate-lawsuits-court/676967/)
