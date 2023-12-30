@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
 * [2023-12-30, 14:08:02](https://news.ycombinator.com/item?id=38815370) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+* [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 * [2023-12-30, 13:02:56](https://news.ycombinator.com/item?id=38814979) - [CBC cancels New Year's Eve broadcast special due to 'financial pressures'](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [The Hidden Gems of Moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:48:39](https://news.ycombinator.com/item?id=38813976) - [\"Tech Billionaires Need to Stop Making Sci-Fi Real\"](https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/)
 * [2023-12-30, 09:29:31](https://news.ycombinator.com/item?id=38813915) - [Ethernet over HTTPS Protocol](https://www.ietf.org/archive/id/draft-bouaram-ethernet-over-https-00.html)
