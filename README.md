@@ -22,7 +22,7 @@
 * [2023-12-29, 14:42:36](https://news.ycombinator.com/item?id=38805439) - [The Linux backdoor attempt of 2003 (2013)](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * [2023-12-29, 14:38:26](https://news.ycombinator.com/item?id=38805383) - [How the append-only btree works (2010)](https://www.bzero.se/ldapd/btree.html)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
-* [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
+* [2023-12-28, 23:38:37](https://news.ycombinator.com/item?id=38800109) - [Read the Chronicles of Narnia in Publication Order (2018)](https://www.tor.com/2018/11/23/why-you-should-read-the-chronicles-of-narnia-in-publication-order/)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)

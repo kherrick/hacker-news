@@ -6,6 +6,7 @@
 
 * [2023-12-28, 23:57:45](https://news.ycombinator.com/item?id=38800241) - [The Linux graphics stack in a nutshell, part 2](https://lwn.net/SubscriberLink/955708/d024fd20cb3c0ff2/)
 * [2023-12-28, 23:38:52](https://news.ycombinator.com/item?id=38800111) - [Make Ethereum Cypherpunk Again](https://vitalik.eth.limo/general/2023/12/28/cypherpunk.html)
+* [2023-12-28, 23:38:37](https://news.ycombinator.com/item?id=38800109) - [Read the Chronicles of Narnia in Publication Order (2018)](https://www.tor.com/2018/11/23/why-you-should-read-the-chronicles-of-narnia-in-publication-order/)
 * [2023-12-28, 23:25:06](https://news.ycombinator.com/item?id=38800008) - [Emacs from Scratch Part Two](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 23:09:50](https://news.ycombinator.com/item?id=38799897) - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
 * [2023-12-28, 22:55:16](https://news.ycombinator.com/item?id=38799778) - [An artist fights back, and Midjourney has embarrassed themselves](https://garymarcus.substack.com/p/an-artist-fights-back-and-midjourney)
