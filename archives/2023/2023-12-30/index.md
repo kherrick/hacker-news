@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
+* [2023-12-30, 17:46:43](https://news.ycombinator.com/item?id=38817028) - [The Downfall of Amazon: Top Ranking Electrical Fuses Show Dangerous Results [video]](https://www.youtube.com/watch?v=B90_SNNbcoU)
 * [2023-12-30, 17:36:59](https://news.ycombinator.com/item?id=38816944) - [NY Times is asking that *ALL* LLMs trained on Times data be destroyed](https://twitter.com/Dan_Jeffries1/status/1741053245756211560)
 * [2023-12-30, 17:22:55](https://news.ycombinator.com/item?id=38816867) - [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
+* [2023-12-30, 17:15:28](https://news.ycombinator.com/item?id=38816811) - [Microsoft's Copilot AI chatbot app arrives on iOS](https://www.engadget.com/microsofts-copilot-ai-chatbot-app-arrives-on-ios-112559129.html)
 * [2023-12-30, 17:10:58](https://news.ycombinator.com/item?id=38816772) - [Sam Bankman-Fried: Convicted 'Crypto King' will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
+* [2023-12-30, 16:59:57](https://news.ycombinator.com/item?id=38816698) - [Biggest Boutique Fitness Company Turns Suburban Moms into Bankrupt Franchisees](https://www.bloomberg.com/news/features/2023-12-07/club-pilates-pure-barre-owners-say-xponential-left-them-bankrupt)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [Drugs](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 16:19:53](https://news.ycombinator.com/item?id=38816383) - [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
