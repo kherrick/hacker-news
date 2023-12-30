@@ -12,7 +12,6 @@
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
 * [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 * [2023-12-29, 20:19:21](https://news.ycombinator.com/item?id=38809728) - [Bourbaki dangerous bend symbol](https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol)
-* [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 * [2023-12-29, 20:03:02](https://news.ycombinator.com/item?id=38809543) - [48x32: A 1536 LED Game Computer](https://jacquesmattheij.com/48x32-introduction/)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 19:20:11](https://news.ycombinator.com/item?id=38809072) - [Higher error correction makes scanning undamaged QR codes less reliable (2021)](https://huonw.github.io/blog/2021/09/qr-error-correction/)
@@ -28,6 +27,7 @@
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 17:18:47](https://news.ycombinator.com/item?id=38795735) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
 * [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
+* [2023-12-28, 07:58:26](https://news.ycombinator.com/item?id=38791101) - [Sys.monitoring: Python Execution event monitoring](https://docs.python.org/3/library/sys.monitoring.html)
 * [2023-12-27, 23:04:49](https://news.ycombinator.com/item?id=38787960) - [Challenges with semantic search on transcribed audio files](https://notjoemartinez.com/blog/chromadb_for_yt-fts/)
 * [2023-12-27, 12:46:45](https://news.ycombinator.com/item?id=38781442) - [PostgreSQL Internals: Things to Know About Update Statements](https://patrick.engineering/posts/postgres-internals/)
 
