@@ -8,7 +8,7 @@
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
-* [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+* [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether reveals partnerships with Secret Service, FBI in letter to U.S. Senate](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
 * [2023-12-30, 18:09:54](https://news.ycombinator.com/item?id=38817264) - [Sir Humphry Davy’s unpublished poetry found in notebooks](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
