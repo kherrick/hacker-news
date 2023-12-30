@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
+* [2023-12-29, 23:18:17](https://news.ycombinator.com/item?id=38811385) - [The Year of Ozempic](https://www.newyorker.com/culture/2023-in-review/the-year-of-ozempic)
 * [2023-12-29, 22:21:19](https://news.ycombinator.com/item?id=38810943) - [Happy 14th Birthday, KrebsOnSecurity](https://krebsonsecurity.com/2023/12/happy-14th-birthday-krebsonsecurity/)
 * [2023-12-29, 22:14:03](https://news.ycombinator.com/item?id=38810881) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 22:03:12](https://news.ycombinator.com/item?id=38810782) - [Show HN: Rust9x 1.76-beta – Rust on Windows 95+](https://seri.tools/blog/rust9x-1-76/)
