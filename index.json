@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-12-30, 08:31:51",
+      "https://news.ycombinator.com/item?id=38813685"
+    ],
+    [
+      "Economic downturn and the influence of AI are claiming numerous jobs",
+      "https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 08:19:22",
       "https://news.ycombinator.com/item?id=38813647"
     ],
@@ -57,16 +67,6 @@
     [
       "Wikipedia daily most viewed pages",
       "https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes="
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 06:52:55",
-      "https://news.ycombinator.com/item?id=38813297"
-    ],
-    [
-      "What I Learned Using Private LLMs to Write an Undergraduate History Essay",
-      "https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38781442"
     ],
     [
-      "PostgreSQL Internals: Things to Know About Update Statements",
+      "PostgreSQL internals: Things to know about update statements",
       "https://patrick.engineering/posts/postgres-internals/"
     ]
   ],
