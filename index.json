@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-12-29, 09:31:04",
-      "https://news.ycombinator.com/item?id=38803160"
-    ],
-    [
-      "Herringbone Wang Tiles (2011)",
-      "https://nothings.org/gamedev/herringbone/"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 20:57:05",
       "https://news.ycombinator.com/item?id=38798501"
     ],
@@ -297,6 +287,16 @@
     [
       "Challenges with semantic search on transcribed audio files",
       "https://notjoemartinez.com/blog/chromadb_for_yt-fts/"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 12:46:45",
+      "https://news.ycombinator.com/item?id=38781442"
+    ],
+    [
+      "PostgreSQL Internals: Things to Know About Update Statements",
+      "https://patrick.engineering/posts/postgres-internals/"
     ]
   ]
 ]
