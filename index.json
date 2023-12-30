@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-30, 18:35:37",
+      "https://news.ycombinator.com/item?id=38817550"
+    ],
+    [
+      "Big Layoff at Duolingo",
+      "https://sh.reddit.com/r/duolingo/comments/18sx06i/big_layoff_at_duolingo/"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 18:32:42",
+      "https://news.ycombinator.com/item?id=38817518"
+    ],
+    [
+      "Spain confirms nuclear power phase-out, extends renewable projects deadlines",
+      "https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 18:03:46",
       "https://news.ycombinator.com/item?id=38817190"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38816429"
     ],
     [
-      "Drugs",
+      "DRµGS",
       "https://github.com/EGjoni/DRUGS"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "LinuxDAW – Quality audio software for Linux",
       "https://linuxdaw.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 14:31:13",
-      "https://news.ycombinator.com/item?id=38815531"
-    ],
-    [
-      "Driverless cars immune from traffic tickets in California under current laws",
-      "https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-12-30, 07:48:08",
+      "https://news.ycombinator.com/item?id=38813496"
+    ],
+    [
+      "The case for a pipe assignment operator in R",
+      "http://hughjonesd.github.io/case-for-pipe-assignment.html"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 07:22:35",
       "https://news.ycombinator.com/item?id=38813395"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-12-28, 20:57:05",
-      "https://news.ycombinator.com/item?id=38798501"
-    ],
-    [
-      "THAT: A brand new analog computer",
-      "https://spectrum.ieee.org/try-this-new-analog-computer"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 19:41:35",
       "https://news.ycombinator.com/item?id=38797640"
     ],
     [
       "Tracking developer build times to decide if the M3 MacBook is worth upgrading",
       "https://incident.io/blog/festive-macbooks"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 17:17:14",
-      "https://news.ycombinator.com/item?id=38795711"
-    ],
-    [
-      "Dear Self; we need to talk about ambition",
-      "https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1"
     ]
   ]
 ]
