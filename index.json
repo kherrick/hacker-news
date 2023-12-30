@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-12-29, 23:18:17",
-      "https://news.ycombinator.com/item?id=38811385"
+      "2023-12-29, 22:57:44",
+      "https://news.ycombinator.com/item?id=38811215"
     ],
     [
-      "The Year of Ozempic",
-      "https://www.newyorker.com/culture/2023-in-review/the-year-of-ozempic"
+      "SETI at FAST in China",
+      "https://arxiv.org/abs/2312.16847"
     ]
   ],
   [
@@ -67,26 +67,6 @@
     [
       "Bourbaki dangerous bend symbol",
       "https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:18:31",
-      "https://news.ycombinator.com/item?id=38809719"
-    ],
-    [
-      "Show HN: Intuitive nutrition information",
-      "https://spe.lt/"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:12:58",
-      "https://news.ycombinator.com/item?id=38809642"
-    ],
-    [
-      "Most favorited articles by the top 10k most active HN members (2020)",
-      "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-12-28, 21:31:06",
+      "https://news.ycombinator.com/item?id=38798902"
+    ],
+    [
+      "Crashes in HTTP server used in routers found with simple fuzzing",
+      "https://github.com/cybergarage/mupnp/issues/21"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 20:57:05",
       "https://news.ycombinator.com/item?id=38798501"
     ],
@@ -287,6 +277,16 @@
     [
       "Sys.monitoring: Python Execution event monitoring",
       "https://docs.python.org/3/library/sys.monitoring.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-27, 23:04:49",
+      "https://news.ycombinator.com/item?id=38787960"
+    ],
+    [
+      "Challenges with semantic search on transcribed audio files",
+      "https://notjoemartinez.com/blog/chromadb_for_yt-fts/"
     ]
   ],
   [
