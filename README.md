@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
@@ -12,7 +13,6 @@
 * [2023-12-30, 17:15:09](https://news.ycombinator.com/item?id=38816802) - [Electric light transmits data faster than Wi-Fi](https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
-* [2023-12-30, 14:00:36](https://news.ycombinator.com/item?id=38815324) - [Emoji are legally actionable](https://www.theatlantic.com/technology/archive/2023/12/emoji-corporate-lawsuits-court/676967/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 * [2023-12-30, 12:10:12](https://news.ycombinator.com/item?id=38814652) - [A Hobby Coding Biography](https://www.marginalia.nu/log/97_projects/)
