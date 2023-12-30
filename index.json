@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-29, 23:50:39",
+      "https://news.ycombinator.com/item?id=38811572"
+    ],
+    [
+      "Using linear programming to assess spatial access",
+      "https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 23:18:17",
+      "https://news.ycombinator.com/item?id=38811385"
+    ],
+    [
+      "The Year of Ozempic",
+      "https://www.newyorker.com/culture/2023-in-review/the-year-of-ozempic"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 21:53:49",
       "https://news.ycombinator.com/item?id=38810678"
     ],
@@ -67,16 +87,6 @@
     [
       "Most favorited articles by the top 10k most active HN members (2020)",
       "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 19:27:44",
-      "https://news.ycombinator.com/item?id=38809154"
-    ],
-    [
-      "Toyota-owned automaker tampered with safety tests for 30 years",
-      "https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-12-28, 21:31:06",
-      "https://news.ycombinator.com/item?id=38798902"
-    ],
-    [
-      "Crashes in HTTP server used in routers found with simple fuzzing",
-      "https://github.com/cybergarage/mupnp/issues/21"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 20:57:05",
       "https://news.ycombinator.com/item?id=38798501"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-12-28, 09:02:00",
-      "https://news.ycombinator.com/item?id=38791489"
+      "2023-12-28, 17:18:47",
+      "https://news.ycombinator.com/item?id=38795735"
     ],
     [
-      "Developer Productivity for Humans: Software Quality",
-      "https://ieeexplore.ieee.org/document/10372494"
+      "Repurposing Hugo as a wiki",
+      "https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/"
     ]
   ],
   [
