@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 17:36:59](https://news.ycombinator.com/item?id=38816944) - [NY Times is asking that *ALL* LLMs trained on Times data be destroyed](https://twitter.com/Dan_Jeffries1/status/1741053245756211560)
 * [2023-12-30, 17:22:55](https://news.ycombinator.com/item?id=38816867) - [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
 * [2023-12-30, 17:10:58](https://news.ycombinator.com/item?id=38816772) - [Sam Bankman-Fried: Convicted 'Crypto King' will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [Drugs](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 15:34:11](https://news.ycombinator.com/item?id=38816004) - [The Subscription Trap](https://sufyaan.me/subs/)
 * [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
-* [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)

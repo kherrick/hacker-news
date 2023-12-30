@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 17:36:59](https://news.ycombinator.com/item?id=38816944) - [NY Times is asking that *ALL* LLMs trained on Times data be destroyed](https://twitter.com/Dan_Jeffries1/status/1741053245756211560)
 * [2023-12-30, 17:22:55](https://news.ycombinator.com/item?id=38816867) - [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
 * [2023-12-30, 17:10:58](https://news.ycombinator.com/item?id=38816772) - [Sam Bankman-Fried: Convicted 'Crypto King' will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [Drugs](https://github.com/EGjoni/DRUGS)
