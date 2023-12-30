@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 * [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 * [2023-12-30, 14:27:17](https://news.ycombinator.com/item?id=38815500) - [Cork will protect the next spacecraft to visit the Moon](https://www.bbc.com/future/article/20231228-champagne-stoppers-in-space-how-cork-will-protect-the-next-spacecraft-to-visit-the-moon)

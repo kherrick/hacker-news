@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 * [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
@@ -12,7 +13,6 @@
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity (2020)](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
-* [2023-12-30, 06:52:55](https://news.ycombinator.com/item?id=38813297) - [What I learned using private LLMs to write an undergraduate history essay](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
 * [2023-12-30, 04:54:12](https://news.ycombinator.com/item?id=38812912) - [These Are the Highest-Resolution Photos Ever Taken of Snowflakes](https://www.smithsonianmag.com/innovation/these-are-highest-resolution-photos-ever-taken-snowflakes-180976710/)
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
