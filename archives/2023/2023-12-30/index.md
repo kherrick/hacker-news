@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 18:35:37](https://news.ycombinator.com/item?id=38817550) - [Big Layoff at Duolingo](https://sh.reddit.com/r/duolingo/comments/18sx06i/big_layoff_at_duolingo/)
+* [2023-12-30, 18:32:42](https://news.ycombinator.com/item?id=38817518) - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
 * [2023-12-30, 18:03:46](https://news.ycombinator.com/item?id=38817190) - [Brexit has failed for UK, say clear majority of Britons – poll](https://www.theguardian.com/politics/2023/dec/30/britons-brexit-bad-uk-poll-eu-finances-nhs)
 * [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
 * [2023-12-30, 17:46:43](https://news.ycombinator.com/item?id=38817028) - [The Downfall of Amazon: Top Ranking Electrical Fuses Show Dangerous Results [video]](https://www.youtube.com/watch?v=B90_SNNbcoU)
