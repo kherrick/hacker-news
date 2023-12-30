@@ -30,6 +30,7 @@
 * [2023-12-30, 05:59:39](https://news.ycombinator.com/item?id=38813108) - [Memes and mental health: How teens are coping with increasing stress](https://nourishyourmind.com/memes-mental-health-how-teens-are-coping-with-increasing-stress/)
 * [2023-12-30, 05:32:12](https://news.ycombinator.com/item?id=38813024) - [How the Ancient Egyptians Raise Their Obelisks?](https://historicaleve.com/how-the-ancient-egyptians-raise-their-colossal-obelisks/)
 * [2023-12-30, 05:12:04](https://news.ycombinator.com/item?id=38812953) - [NFL, Fanatics Face New Antitrust Claims over Licensed Merchandise Sales](https://www.law.com/newyorklawjournal/2022/03/22/nfl-fanatics-faces-new-antitrust-claims-over-licensed-merchandise-sales/?slreturn=20231130001211)
+* [2023-12-30, 04:54:12](https://news.ycombinator.com/item?id=38812912) - [These Are the Highest-Resolution Photos Ever Taken of Snowflakes](https://www.smithsonianmag.com/innovation/these-are-highest-resolution-photos-ever-taken-snowflakes-180976710/)
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
