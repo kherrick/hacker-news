@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 * [2023-12-30, 08:31:51](https://news.ycombinator.com/item?id=38813685) - [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity (2020)](https://building.nubank.com.br/the-value-of-canonicity/)
@@ -15,7 +16,6 @@
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
-* [2023-12-29, 21:41:42](https://news.ycombinator.com/item?id=38810546) - [Natural Language Corpus Data: Beautiful Data (2009)](https://norvig.com/ngrams/)
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
 * [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
 * [2023-12-29, 20:19:21](https://news.ycombinator.com/item?id=38809728) - [Bourbaki dangerous bend symbol](https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol)
