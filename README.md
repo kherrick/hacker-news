@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
+* [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
+* [2023-12-30, 19:05:39](https://news.ycombinator.com/item?id=38817918) - [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
 * [2023-12-30, 18:44:13](https://news.ycombinator.com/item?id=38817652) - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
-* [2023-12-30, 18:32:42](https://news.ycombinator.com/item?id=38817518) - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether Reveals Partnerships with Secret Service, FBI](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
 * [2023-12-30, 18:09:54](https://news.ycombinator.com/item?id=38817264) - [Reams of secret poetry by pioneering British scientist come to light](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
 * [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
-* [2023-12-30, 16:36:55](https://news.ycombinator.com/item?id=38816506) - [ScummVM 2.8.0 released with tons of new games](https://www.scummvm.org/news/20231230/)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [DRµGS: Deep Random Micro-Glitch Sampling](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 16:03:47](https://news.ycombinator.com/item?id=38816240) - [Show HN: Fill and Sign PDF from any website with a single line of code](https://simplepdf.github.io)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
@@ -28,7 +29,6 @@
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
-* [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 17:18:30](https://news.ycombinator.com/item?id=38795731) - [Butterfly Ideas](https://www.lesswrong.com/posts/R6M4vmShiowDn56of/butterfly-ideas)
 
 ## [Archives](archives/index.md)

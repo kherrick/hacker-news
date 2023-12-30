@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
+* [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
 * [2023-12-30, 19:24:00](https://news.ycombinator.com/item?id=38818129) - ['Suicide pod' is completely legal and approved for use in Switzerland](https://www.unilad.com/news/world-news/suicide-pod-legal-switzerland-330617-20231229)
+* [2023-12-30, 19:05:39](https://news.ycombinator.com/item?id=38817918) - [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
 * [2023-12-30, 18:44:13](https://news.ycombinator.com/item?id=38817652) - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
 * [2023-12-30, 18:35:37](https://news.ycombinator.com/item?id=38817550) - [Big Layoff at Duolingo](https://sh.reddit.com/r/duolingo/comments/18sx06i/big_layoff_at_duolingo/)
 * [2023-12-30, 18:32:42](https://news.ycombinator.com/item?id=38817518) - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
