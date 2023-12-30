@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-30, 14:08:02",
-      "https://news.ycombinator.com/item?id=38815370"
+      "2023-12-30, 13:35:35",
+      "https://news.ycombinator.com/item?id=38815150"
     ],
     [
-      "Bullshit Jobs",
-      "https://en.wikipedia.org/wiki/Bullshit_Jobs"
+      "Fake Trees: Using Indents for Simpler UIs",
+      "https://ratfactor.com/cards/fake-trees"
     ]
   ],
   [
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-12-30, 12:00:38",
+      "https://news.ycombinator.com/item?id=38814599"
+    ],
+    [
+      "The Hidden Gems of Moreutils",
+      "https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 10:17:10",
       "https://news.ycombinator.com/item?id=38814093"
     ],
@@ -47,6 +57,16 @@
     [
       "\"Tech Billionaires Need to Stop Making Sci-Fi Real\"",
       "https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 09:29:31",
+      "https://news.ycombinator.com/item?id=38813915"
+    ],
+    [
+      "Ethernet over HTTPS Protocol",
+      "https://www.ietf.org/archive/id/draft-bouaram-ethernet-over-https-00.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "The Art and Science of PCB Design",
       "https://pcb.mit.edu/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 01:28:43",
-      "https://news.ycombinator.com/item?id=38812087"
-    ],
-    [
-      "A modern data stack for startups (2022)",
-      "https://incident.io/blog/data-stack"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The man behind the mosque (2003)",
       "https://amitavghosh.com/other-works-contributions/essays-and-posts/the-man-behind-the-mosque/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 20:57:05",
-      "https://news.ycombinator.com/item?id=38798501"
-    ],
-    [
-      "THAT: A brand new analog computer",
-      "https://spectrum.ieee.org/try-this-new-analog-computer"
     ]
   ],
   [
