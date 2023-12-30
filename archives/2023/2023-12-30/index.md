@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
+* [2023-12-30, 15:34:11](https://news.ycombinator.com/item?id=38816004) - [The Subscription Trap](https://sufyaan.me/subs/)
 * [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 * [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
@@ -23,6 +24,7 @@
 * [2023-12-30, 10:49:00](https://news.ycombinator.com/item?id=38814230) - [High Performance Voxel Engine (2021)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:48:39](https://news.ycombinator.com/item?id=38813976) - [\"Tech Billionaires Need to Stop Making Sci-Fi Real\"](https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/)
+* [2023-12-30, 09:29:55](https://news.ycombinator.com/item?id=38813917) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 09:29:31](https://news.ycombinator.com/item?id=38813915) - [Ethernet over HTTPS Protocol](https://www.ietf.org/archive/id/draft-bouaram-ethernet-over-https-00.html)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 * [2023-12-30, 08:31:51](https://news.ycombinator.com/item?id=38813685) - [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
