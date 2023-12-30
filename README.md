@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-30, 05:12:04](https://news.ycombinator.com/item?id=38812953) - [NFL, Fanatics Face New Antitrust Claims over Licensed Merchandise Sales](https://www.law.com/newyorklawjournal/2022/03/22/nfl-fanatics-faces-new-antitrust-claims-over-licensed-merchandise-sales/?slreturn=20231130001211)
 * [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
+* [2023-12-30, 01:28:43](https://news.ycombinator.com/item?id=38812087) - [A modern data stack for startups (2022)](https://incident.io/blog/data-stack)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 22:57:44](https://news.ycombinator.com/item?id=38811215) - [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
