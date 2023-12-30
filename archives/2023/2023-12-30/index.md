@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
+* [2023-12-30, 14:27:17](https://news.ycombinator.com/item?id=38815500) - [Cork will protect the next spacecraft to visit the Moon](https://www.bbc.com/future/article/20231228-champagne-stoppers-in-space-how-cork-will-protect-the-next-spacecraft-to-visit-the-moon)
 * [2023-12-30, 14:08:02](https://news.ycombinator.com/item?id=38815370) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
+* [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 * [2023-12-30, 13:02:56](https://news.ycombinator.com/item?id=38814979) - [CBC cancels New Year's Eve broadcast special due to 'financial pressures'](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
