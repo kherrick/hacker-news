@@ -83,6 +83,7 @@
 * [2023-12-27, 11:36:07](https://news.ycombinator.com/item?id=38781031) - [Tell HN: Hacker News dataset on BigQuery hasn't been updated since Nov 2022](https://news.ycombinator.com/item?id=38781031)
 * [2023-12-27, 11:22:22](https://news.ycombinator.com/item?id=38780959) - [Suggestions: A simple human-readable format for suggesting changes to text files](https://suggestions.ink)
 * [2023-12-27, 11:14:49](https://news.ycombinator.com/item?id=38780919) - [Seventy versus One Hundred](https://www.solipsys.co.uk/new/SeventyVersusOneHundred.html?wk27hn)
+* [2023-12-27, 10:31:40](https://news.ycombinator.com/item?id=38780716) - [Rep and Ren: A new approach to CLI find, replace, and renaming](https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/)
 * [2023-12-27, 10:17:35](https://news.ycombinator.com/item?id=38780642) - [Ask HN: Should I medicate my ADHD?](https://news.ycombinator.com/item?id=38780642)
 * [2023-12-27, 10:10:02](https://news.ycombinator.com/item?id=38780601) - [37c3 Live Streams](https://streaming.media.ccc.de/37c3)
 * [2023-12-27, 10:09:27](https://news.ycombinator.com/item?id=38780599) - [X will go to court after failing to pay staff millions in annual bonuses](https://www.businessinsider.com/elon-musk-x-faces-court-failed-pay-bonuses-lawsuit-judge-2023-12)
