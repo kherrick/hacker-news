@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 * [2023-12-30, 08:31:51](https://news.ycombinator.com/item?id=38813685) - [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
