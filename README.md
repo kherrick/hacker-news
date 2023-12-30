@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
@@ -23,7 +24,6 @@
 * [2023-12-30, 10:44:53](https://news.ycombinator.com/item?id=38814215) - [The history of MSX computers [video]](https://www.youtube.com/watch?v=i7Fdfveb3Es)
 * [2023-12-30, 09:29:55](https://news.ycombinator.com/item?id=38813917) - [Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
-* [2023-12-30, 07:48:08](https://news.ycombinator.com/item?id=38813496) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 * [2023-12-30, 06:23:39](https://news.ycombinator.com/item?id=38813187) - [Efficient Hash Probes on Modern Processors (2007) [pdf]](https://www.cs.columbia.edu/~kar/pubsk/icde2007.pdf)
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
