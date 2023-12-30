@@ -25,11 +25,11 @@
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [Hidden gems of moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
 * [2023-12-30, 11:20:15](https://news.ycombinator.com/item?id=38814367) - [Centralization, Decentralization, and Internet Standards](https://www.rfc-editor.org/rfc/rfc9518.html)
-* [2023-12-30, 10:44:53](https://news.ycombinator.com/item?id=38814215) - [The history of MSX computers [video]](https://www.youtube.com/watch?v=i7Fdfveb3Es)
+* [2023-12-30, 10:49:00](https://news.ycombinator.com/item?id=38814230) - [High Performance Voxel Engine (2021)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [2023-12-30, 09:29:55](https://news.ycombinator.com/item?id=38813917) - [Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
+* [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
-* [2023-12-28, 17:18:30](https://news.ycombinator.com/item?id=38795731) - [Butterfly Ideas](https://www.lesswrong.com/posts/R6M4vmShiowDn56of/butterfly-ideas)
 
 ## [Archives](archives/index.md)
 
