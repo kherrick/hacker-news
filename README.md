@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 05:12:04](https://news.ycombinator.com/item?id=38812953) - [NFL, Fanatics Face New Antitrust Claims over Licensed Merchandise Sales](https://www.law.com/newyorklawjournal/2022/03/22/nfl-fanatics-faces-new-antitrust-claims-over-licensed-merchandise-sales/?slreturn=20231130001211)
 * [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
@@ -21,7 +22,6 @@
 * [2023-12-29, 17:00:58](https://news.ycombinator.com/item?id=38807225) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-12-29, 16:45:39](https://news.ycombinator.com/item?id=38807001) - [UK announces commercial operations of longest land/subsea interconnector](https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
-* [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
 * [2023-12-28, 23:38:37](https://news.ycombinator.com/item?id=38800109) - [Read the Chronicles of Narnia in Publication Order (2018)](https://www.tor.com/2018/11/23/why-you-should-read-the-chronicles-of-narnia-in-publication-order/)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
