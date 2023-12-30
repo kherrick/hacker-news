@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
+* [2023-12-30, 20:03:49](https://news.ycombinator.com/item?id=38818542) - [Google's Android app store monopoly violates antitrust law, jury finds](https://arstechnica.com/gaming/2023/12/googles-android-app-store-monopoly-violates-antitrust-law-jury-finds/)
 * [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
 * [2023-12-30, 19:05:39](https://news.ycombinator.com/item?id=38817918) - [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
-* [2023-12-30, 18:44:13](https://news.ycombinator.com/item?id=38817652) - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether Reveals Partnerships with Secret Service, FBI](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
 * [2023-12-30, 18:09:54](https://news.ycombinator.com/item?id=38817264) - [Reams of secret poetry by pioneering British scientist come to light](https://www.theguardian.com/science/2023/dec/30/reams-of-secret-poetry-by-a-sir-humphry-davy-british-scientist-finally-come-to-light)
@@ -11,7 +12,6 @@
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [DRµGS: Deep Random Micro-Glitch Sampling](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 16:03:47](https://news.ycombinator.com/item?id=38816240) - [Show HN: Fill and Sign PDF from any website with a single line of code](https://simplepdf.github.io)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
-* [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 14:00:36](https://news.ycombinator.com/item?id=38815324) - [Emoji are legally actionable](https://www.theatlantic.com/technology/archive/2023/12/emoji-corporate-lawsuits-court/676967/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
@@ -28,7 +28,7 @@
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
-* [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
+* [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [2023-12-28, 17:18:30](https://news.ycombinator.com/item?id=38795731) - [Butterfly Ideas](https://www.lesswrong.com/posts/R6M4vmShiowDn56of/butterfly-ideas)
 
 ## [Archives](archives/index.md)

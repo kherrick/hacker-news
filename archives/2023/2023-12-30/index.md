@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:07:15](https://news.ycombinator.com/item?id=38818578) - [Amazon allegedly resells damaged books](https://twitter.com/joabaldwin/status/1741145625809559933)
+* [2023-12-30, 20:03:49](https://news.ycombinator.com/item?id=38818542) - [Google's Android app store monopoly violates antitrust law, jury finds](https://arstechnica.com/gaming/2023/12/googles-android-app-store-monopoly-violates-antitrust-law-jury-finds/)
 * [2023-12-30, 19:42:50](https://news.ycombinator.com/item?id=38818319) - [Amazon's Silent Sacking](https://justingarrison.com/blog/2023-12-30-amazons-silent-sacking/)
 * [2023-12-30, 19:24:00](https://news.ycombinator.com/item?id=38818129) - ['Suicide pod' is completely legal and approved for use in Switzerland](https://www.unilad.com/news/world-news/suicide-pod-legal-switzerland-330617-20231229)
 * [2023-12-30, 19:05:39](https://news.ycombinator.com/item?id=38817918) - [The High Price of Empty Office Space: Billions in Tax Breaks, with More to Come](https://www.thecity.nyc/2023/12/19/tax-breaks-pilot-office-space-nyc/)
