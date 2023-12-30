@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-30, 09:48:39",
+      "https://news.ycombinator.com/item?id=38813976"
+    ],
+    [
+      "\"Tech Billionaires Need to Stop Making Sci-Fi Real\"",
+      "https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 09:10:54",
       "https://news.ycombinator.com/item?id=38813856"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-12-29, 20:19:21",
-      "https://news.ycombinator.com/item?id=38809728"
-    ],
-    [
-      "Bourbaki dangerous bend symbol",
-      "https://en.wikipedia.org/wiki/Bourbaki_dangerous_bend_symbol"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 20:03:02",
       "https://news.ycombinator.com/item?id=38809543"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38809072"
     ],
     [
-      "Higher error correction makes scanning undamaged QR codes less reliable (2021)",
+      "QR error correction helps and hinders scanning (2021)",
       "https://huonw.github.io/blog/2021/09/qr-error-correction/"
     ]
   ],
