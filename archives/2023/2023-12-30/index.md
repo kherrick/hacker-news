@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 * [2023-12-30, 05:12:04](https://news.ycombinator.com/item?id=38812953) - [NFL, Fanatics Face New Antitrust Claims over Licensed Merchandise Sales](https://www.law.com/newyorklawjournal/2022/03/22/nfl-fanatics-faces-new-antitrust-claims-over-licensed-merchandise-sales/?slreturn=20231130001211)
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
