@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 21:56:11](https://news.ycombinator.com/item?id=38819618) - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 21:18:01](https://news.ycombinator.com/item?id=38819263) - [PHP Sadness](http://phpsadness.com/)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
+* [2023-12-30, 21:13:03](https://news.ycombinator.com/item?id=38819212) - [LIPS: Powerful Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
