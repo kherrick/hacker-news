@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2023-12-30, 07:48:08](https://news.ycombinator.com/item?id=38813496) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
@@ -16,3 +17,4 @@
 * [2023-12-30, 01:36:51](https://news.ycombinator.com/item?id=38812130) - [Keyboard Builders' Digest](https://kbd.news/)
 * [2023-12-30, 01:28:43](https://news.ycombinator.com/item?id=38812087) - [A modern data stack for startups (2022)](https://incident.io/blog/data-stack)
 * [2023-12-30, 00:55:54](https://news.ycombinator.com/item?id=38811918) - [Getting Started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
+* [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)

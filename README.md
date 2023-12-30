@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2023-12-30, 07:48:08](https://news.ycombinator.com/item?id=38813496) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
@@ -7,8 +8,8 @@
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
-* [2023-12-30, 01:36:51](https://news.ycombinator.com/item?id=38812130) - [Keyboard Builders' Digest](https://kbd.news/)
 * [2023-12-30, 01:28:43](https://news.ycombinator.com/item?id=38812087) - [A modern data stack for startups (2022)](https://incident.io/blog/data-stack)
+* [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 22:57:44](https://news.ycombinator.com/item?id=38811215) - [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
@@ -27,7 +28,6 @@
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 17:18:47](https://news.ycombinator.com/item?id=38795735) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
-* [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
 * [2023-12-27, 12:46:45](https://news.ycombinator.com/item?id=38781442) - [PostgreSQL Internals: Things to Know About Update Statements](https://patrick.engineering/posts/postgres-internals/)
 * [2023-12-27, 10:31:40](https://news.ycombinator.com/item?id=38780716) - [Rep and Ren: A new approach to CLI find, replace, and renaming](https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/)
 
