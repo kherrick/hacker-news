@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
 * [2023-12-30, 19:24:00](https://news.ycombinator.com/item?id=38818129) - ['Suicide pod' is completely legal and approved for use in Switzerland](https://www.unilad.com/news/world-news/suicide-pod-legal-switzerland-330617-20231229)
+* [2023-12-30, 18:44:13](https://news.ycombinator.com/item?id=38817652) - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
 * [2023-12-30, 18:35:37](https://news.ycombinator.com/item?id=38817550) - [Big Layoff at Duolingo](https://sh.reddit.com/r/duolingo/comments/18sx06i/big_layoff_at_duolingo/)
 * [2023-12-30, 18:32:42](https://news.ycombinator.com/item?id=38817518) - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether Reveals Partnerships with Secret Service, FBI](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)

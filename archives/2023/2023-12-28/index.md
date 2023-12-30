@@ -43,6 +43,7 @@
 * [2023-12-28, 17:44:27](https://news.ycombinator.com/item?id=38796078) - [After self-hosting email for 23 years I have thrown in the towel (2022)](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)
 * [2023-12-28, 17:44:20](https://news.ycombinator.com/item?id=38796075) - [The Technological Innovations That Produced the Shale Revolution](https://www.construction-physics.com/p/the-technological-innovations-that)
 * [2023-12-28, 17:18:47](https://news.ycombinator.com/item?id=38795735) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
+* [2023-12-28, 17:18:30](https://news.ycombinator.com/item?id=38795731) - [Butterfly Ideas](https://www.lesswrong.com/posts/R6M4vmShiowDn56of/butterfly-ideas)
 * [2023-12-28, 17:17:14](https://news.ycombinator.com/item?id=38795711) - [Dear Self; we need to talk about ambition](https://www.lesswrong.com/posts/uGDtroD26aLvHSoK2/dear-self-we-need-to-talk-about-ambition-1)
 * [2023-12-28, 17:05:25](https://news.ycombinator.com/item?id=38795559) - [Osmapp – A Universal OpenStreetMap App](https://osmapp.org)
 * [2023-12-28, 17:01:07](https://news.ycombinator.com/item?id=38795516) - [Doola a \"Business-in-a-Box\" (YC S20) Is Hiring a CPA](https://x.com/ArjunMahadevan/status/1737555905900658815?s=20)

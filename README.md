@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-30, 19:24:00](https://news.ycombinator.com/item?id=38818129) - ['Suicide pod' is completely legal and approved for use in Switzerland](https://www.unilad.com/news/world-news/suicide-pod-legal-switzerland-330617-20231229)
+* [2023-12-30, 18:44:13](https://news.ycombinator.com/item?id=38817652) - [The Google 0-day all Infostealer groups are exploiting](https://www.infostealers.com/article/the-0-day-all-infostealer-groups-are-exploiting/)
 * [2023-12-30, 18:32:42](https://news.ycombinator.com/item?id=38817518) - [Spain confirms nuclear power phase-out, extends renewable projects deadlines](https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/)
 * [2023-12-30, 18:10:17](https://news.ycombinator.com/item?id=38817271) - [Tether Reveals Partnerships with Secret Service, FBI](https://finance.yahoo.com/news/tether-reveals-partnerships-secret-fbi-053041589.html)
 * [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Photographs of out-of-copyright images are not copyrightable](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
-* [2023-12-30, 16:59:57](https://news.ycombinator.com/item?id=38816698) - [Club Pilates, Pure Barre owners say Xponential left them bankrupt](https://www.bloomberg.com/news/features/2023-12-07/club-pilates-pure-barre-owners-say-xponential-left-them-bankrupt)
 * [2023-12-30, 16:36:55](https://news.ycombinator.com/item?id=38816506) - [ScummVM 2.8.0 released with tons of new games](https://www.scummvm.org/news/20231230/)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [DRµGS: Deep Random Micro-Glitch Sampling](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
@@ -26,10 +26,10 @@
 * [2023-12-30, 04:54:12](https://news.ycombinator.com/item?id=38812912) - [The highest-resolution photos of snowflakes (2021)](https://www.smithsonianmag.com/innovation/these-are-highest-resolution-photos-ever-taken-snowflakes-180976710/)
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
-* [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
+* [2023-12-28, 17:18:30](https://news.ycombinator.com/item?id=38795731) - [Butterfly Ideas](https://www.lesswrong.com/posts/R6M4vmShiowDn56of/butterfly-ideas)
 
 ## [Archives](archives/index.md)
 
