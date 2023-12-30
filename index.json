@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2023-12-29, 20:03:02",
+      "https://news.ycombinator.com/item?id=38809543"
+    ],
+    [
+      "48x32: A 1536 LED Game Computer",
+      "https://jacquesmattheij.com/48x32-introduction/"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 19:26:42",
       "https://news.ycombinator.com/item?id=38809145"
     ],
     [
       "Blot turns a folder into a website",
       "https://blot.im/how"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 19:20:11",
+      "https://news.ycombinator.com/item?id=38809072"
+    ],
+    [
+      "Higher error correction makes scanning undamaged QR codes less reliable",
+      "https://huonw.github.io/blog/2021/09/qr-error-correction/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-12-29, 10:29:38",
-      "https://news.ycombinator.com/item?id=38803556"
-    ],
-    [
-      "Why are Apple Silicon VMs so different?",
-      "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 10:25:19",
       "https://news.ycombinator.com/item?id=38803528"
     ],
@@ -267,16 +277,6 @@
     [
       "Lichen: The Sed Build System",
       "https://github.com/mcandre/lichen"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 07:58:26",
-      "https://news.ycombinator.com/item?id=38791101"
-    ],
-    [
-      "Sys.monitoring: Python Execution event monitoring",
-      "https://docs.python.org/3/library/sys.monitoring.html"
     ]
   ],
   [
