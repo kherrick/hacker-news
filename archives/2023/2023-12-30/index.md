@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
 * [2023-12-30, 14:39:08](https://news.ycombinator.com/item?id=38815590) - [New theory seeks to unite Einstein's gravity with quantum mechanics](https://www.ucl.ac.uk/news/2023/dec/new-theory-seeks-unite-einsteins-gravity-quantum-mechanics)
 * [2023-12-30, 14:31:13](https://news.ycombinator.com/item?id=38815531) - [Driverless cars immune from traffic tickets in California under current laws](https://www.nbcnews.com/business/business-news/can-driverless-cars-get-tickets-california-law-rcna131538)
@@ -17,6 +18,7 @@
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [The Hidden Gems of Moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
 * [2023-12-30, 11:28:26](https://news.ycombinator.com/item?id=38814415) - [Dad Jokes](https://fatherhood.gov/for-dads/dad-jokes)
+* [2023-12-30, 11:20:15](https://news.ycombinator.com/item?id=38814367) - [Centralization, Decentralization, and Internet Standards](https://www.rfc-editor.org/rfc/rfc9518.html)
 * [2023-12-30, 11:14:37](https://news.ycombinator.com/item?id=38814343) - [What the tractor and the horse tell you about generative AI](https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english)
 * [2023-12-30, 10:49:00](https://news.ycombinator.com/item?id=38814230) - [High Performance Voxel Engine (2021)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
