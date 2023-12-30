@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
+* [2023-12-30, 00:55:54](https://news.ycombinator.com/item?id=38811918) - [Getting Started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 22:57:44](https://news.ycombinator.com/item?id=38811215) - [SETI at FAST in China](https://arxiv.org/abs/2312.16847)
 * [2023-12-29, 21:53:49](https://news.ycombinator.com/item?id=38810678) - [Show HN: Vowl daily word guessing game](https://vowlgame.com)
@@ -21,7 +22,7 @@
 * [2023-12-29, 12:03:09](https://news.ycombinator.com/item?id=38804085) - [I'm a world champion pea thrower](https://www.theguardian.com/lifeandstyle/2023/dec/29/experience-im-a-world-champion-pea-thrower)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
-* [2023-12-28, 21:31:06](https://news.ycombinator.com/item?id=38798902) - [Crashes in HTTP server used in routers found with simple fuzzing](https://github.com/cybergarage/mupnp/issues/21)
+* [2023-12-29, 09:31:04](https://news.ycombinator.com/item?id=38803160) - [Herringbone Wang Tiles (2011)](https://nothings.org/gamedev/herringbone/)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
@@ -29,7 +30,6 @@
 * [2023-12-28, 11:50:28](https://news.ycombinator.com/item?id=38792520) - [Please Identify Yourself [video]](https://media.ccc.de/v/37c3-12004-please_identify_yourself)
 * [2023-12-28, 08:22:17](https://news.ycombinator.com/item?id=38791237) - [Lichen: The Sed Build System](https://github.com/mcandre/lichen)
 * [2023-12-27, 23:04:49](https://news.ycombinator.com/item?id=38787960) - [Challenges with semantic search on transcribed audio files](https://notjoemartinez.com/blog/chromadb_for_yt-fts/)
-* [2023-12-27, 19:41:15](https://news.ycombinator.com/item?id=38785711) - [The surprising genius of sewing machines [video]](https://www.youtube.com/watch?v=RQYuyHNLPTQ)
 
 ## [Archives](archives/index.md)
 
