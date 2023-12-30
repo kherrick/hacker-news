@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-30, 16:19:53](https://news.ycombinator.com/item?id=38816383) - [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 15:34:11](https://news.ycombinator.com/item?id=38816004) - [The Subscription Trap](https://sufyaan.me/subs/)
 * [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
@@ -23,7 +24,6 @@
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
-* [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: Were Roman soldiers paid in salt? (2017)](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-28, 20:57:05](https://news.ycombinator.com/item?id=38798501) - [THAT: A brand new analog computer](https://spectrum.ieee.org/try-this-new-analog-computer)

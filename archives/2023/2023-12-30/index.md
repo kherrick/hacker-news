@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 16:19:53](https://news.ycombinator.com/item?id=38816383) - [SolarPunk Cities: Our Last Hope?](https://www.youtube.com/watch?v=UVlBmdvIC6s)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 15:34:11](https://news.ycombinator.com/item?id=38816004) - [The Subscription Trap](https://sufyaan.me/subs/)
 * [2023-12-30, 15:21:12](https://news.ycombinator.com/item?id=38815893) - [Show HN: LinuxDAW – Quality audio software for Linux](https://linuxdaw.org/)
