@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-30, 17:22:55](https://news.ycombinator.com/item?id=38816867) - [BYD Overtakes Tesla as Most Popular EV Maker](https://www.bloomberg.com/news/features/2023-12-27/elon-musk-s-tesla-is-losing-ev-race-to-china-s-byd)
+* [2023-12-30, 17:10:58](https://news.ycombinator.com/item?id=38816772) - [Sam Bankman-Fried: Convicted 'Crypto King' will not face second trial](https://www.bbc.com/news/world-us-canada-67846711)
 * [2023-12-30, 16:25:05](https://news.ycombinator.com/item?id=38816429) - [Drugs](https://github.com/EGjoni/DRUGS)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM officially released in the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
 * [2023-12-30, 15:34:11](https://news.ycombinator.com/item?id=38816004) - [The Subscription Trap](https://sufyaan.me/subs/)
@@ -22,7 +23,6 @@
 * [2023-12-30, 04:54:12](https://news.ycombinator.com/item?id=38812912) - [These Are the Highest-Resolution Photos Ever Taken of Snowflakes](https://www.smithsonianmag.com/innovation/these-are-highest-resolution-photos-ever-taken-snowflakes-180976710/)
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
-* [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
