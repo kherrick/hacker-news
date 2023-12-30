@@ -14,7 +14,6 @@
 * [2023-12-30, 00:10:51](https://news.ycombinator.com/item?id=38811704) - [How is AI impacting science?](https://michaelnotebook.com/mc2023/index.html)
 * [2023-12-29, 23:51:28](https://news.ycombinator.com/item?id=38811576) - [Understanding Parquet, Iceberg and Data Lakehouses](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-29, 23:50:39](https://news.ycombinator.com/item?id=38811572) - [Using linear programming to assess spatial access](https://andrewpwheeler.com/2022/07/01/using-linear-programming-to-assess-spatial-access/)
-* [2023-12-29, 21:53:49](https://news.ycombinator.com/item?id=38810678) - [Show HN: Vowl daily word guessing game](https://vowlgame.com)
 * [2023-12-29, 21:41:42](https://news.ycombinator.com/item?id=38810546) - [Natural Language Corpus Data: Beautiful Data (2009)](https://norvig.com/ngrams/)
 * [2023-12-29, 20:53:16](https://news.ycombinator.com/item?id=38810073) - [Koka: Strongly typed functional-style language with effect types and handlers](https://koka-lang.github.io/koka/doc/index.html)
 * [2023-12-29, 20:22:26](https://news.ycombinator.com/item?id=38809770) - [Show HN: Inbox Zero – open-source email assistant](https://www.getinboxzero.com)
@@ -28,6 +27,7 @@
 * [2023-12-28, 19:41:35](https://news.ycombinator.com/item?id=38797640) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-28, 19:41:08](https://news.ycombinator.com/item?id=38797629) - [How big can a snowflake get?](https://www.npr.org/2023/12/25/1217356234/just-how-big-can-a-snowflake-get-it-depends-on-what-you-mean-by-snowflake)
 * [2023-12-28, 17:18:47](https://news.ycombinator.com/item?id=38795735) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
+* [2023-12-28, 12:07:29](https://news.ycombinator.com/item?id=38792638) - [Semantic versioning is a mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
 * [2023-12-27, 12:46:45](https://news.ycombinator.com/item?id=38781442) - [PostgreSQL Internals: Things to Know About Update Statements](https://patrick.engineering/posts/postgres-internals/)
 * [2023-12-27, 10:31:40](https://news.ycombinator.com/item?id=38780716) - [Rep and Ren: A new approach to CLI find, replace, and renaming](https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/)
 

@@ -65,6 +65,7 @@
 * [2023-12-28, 12:56:02](https://news.ycombinator.com/item?id=38793015) - [Not microservice or monolith; it's cognitive load you need to understand first](https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith)
 * [2023-12-28, 12:24:38](https://news.ycombinator.com/item?id=38792761) - [A/UX: Apple Unix for Macintosh](https://en.wikipedia.org/wiki/A/UX)
 * [2023-12-28, 12:24:06](https://news.ycombinator.com/item?id=38792753) - [Lode Runner (HTML5 Remake)](https://loderunnerwebgame.com/game/)
+* [2023-12-28, 12:07:29](https://news.ycombinator.com/item?id=38792638) - [Semantic versioning is a mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
 * [2023-12-28, 12:06:47](https://news.ycombinator.com/item?id=38792631) - [How random is xkcd? (2015)](https://hardmath123.github.io/xkcd-random.html)
 * [2023-12-28, 12:00:14](https://news.ycombinator.com/item?id=38792581) - [Ashby (YC W19) Hiring Eng Managers to Rethink Eng Culture (EMEA and Americas)](https://www.ashbyhq.com/careers?utm_source=hn)
 * [2023-12-28, 11:53:10](https://news.ycombinator.com/item?id=38792541) - [Ask HN: Good examples of fault-tolerant Erlang code?](https://news.ycombinator.com/item?id=38792541)
