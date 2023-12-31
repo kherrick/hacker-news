@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 00:10:41](https://news.ycombinator.com/item?id=38820557) - [Cuis-Smalltalk](https://cuis.st/)
 * [2023-12-30, 23:53:42](https://news.ycombinator.com/item?id=38820454) - [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
@@ -24,7 +25,6 @@
 * [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
-* [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
 * [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [Hidden gems of moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
 * [2023-12-29, 17:15:54](https://news.ycombinator.com/item?id=38807477) - [Day 20: My favourite problem from Advent of Code 2023](https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html)
 * [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
