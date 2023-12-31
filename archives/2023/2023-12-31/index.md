@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 18:28:41](https://news.ycombinator.com/item?id=38826242) - [Electric School Buses More Than Doubled in USA from March 2022 to June 2023](https://cleantechnica.com/2023/12/29/electric-school-buses-more-than-doubled-in-usa-from-march-2022-to-june-2023/)
 * [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
+* [2023-12-31, 17:20:51](https://news.ycombinator.com/item?id=38825623) - [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
 * [2023-12-31, 17:08:13](https://news.ycombinator.com/item?id=38825520) - [How to run a small social network](https://runyourown.social/)
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-31, 16:54:11](https://news.ycombinator.com/item?id=38825395) - [Beep Beep](https://daringfireball.net/2023/12/beep_beep)
 * [2023-12-31, 16:26:37](https://news.ycombinator.com/item?id=38825158) - [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
 * [2023-12-31, 16:24:41](https://news.ycombinator.com/item?id=38825136) - [Cheapest and Most Expensive Appliances to Run Each Year](https://moneytransfers.com/news/2023/01/09/cheapest-and-most-expensive-appliances-to-run-each-year)
+* [2023-12-31, 15:54:55](https://news.ycombinator.com/item?id=38824886) - [Ambient Co-Presence](https://maggieappleton.com/ambient-copresence)
 * [2023-12-31, 15:50:46](https://news.ycombinator.com/item?id=38824852) - [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
 * [2023-12-31, 15:25:49](https://news.ycombinator.com/item?id=38824644) - [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
 * [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
