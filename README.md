@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
+* [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
@@ -13,7 +15,6 @@
 * [2023-12-30, 21:21:01](https://news.ycombinator.com/item?id=38819288) - [Freeaim VR Shoes](https://www.freeaim.com/consumer)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 21:13:03](https://news.ycombinator.com/item?id=38819212) - [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
-* [2023-12-30, 21:04:49](https://news.ycombinator.com/item?id=38819121) - [Silent Flyer – A Birdlike Drone](https://www.silentflyer.tech/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
 * [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
@@ -22,7 +23,6 @@
 * [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:05:00](https://news.ycombinator.com/item?id=38814990) - [Switching Things over to Ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
-* [2023-12-30, 11:30:35](https://news.ycombinator.com/item?id=38814424) - [Midihum: An ML-Based MIDI Humanizing Tool](https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/)
 * [2023-12-30, 10:30:33](https://news.ycombinator.com/item?id=38814152) - [Asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
 * [2023-12-30, 08:34:35](https://news.ycombinator.com/item?id=38813700) - [Adventures with compression](https://jamesg.blog/2023/12/29/compression-adventures/)
 * [2023-12-29, 19:28:16](https://news.ycombinator.com/item?id=38809160) - [Demand the impossible: Rigorous database benchmarking](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
