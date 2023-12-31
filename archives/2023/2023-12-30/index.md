@@ -76,6 +76,7 @@
 * [2023-12-30, 09:29:55](https://news.ycombinator.com/item?id=38813917) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 09:29:31](https://news.ycombinator.com/item?id=38813915) - [Ethernet over HTTPS Protocol](https://www.ietf.org/archive/id/draft-bouaram-ethernet-over-https-00.html)
 * [2023-12-30, 09:10:54](https://news.ycombinator.com/item?id=38813856) - [Stoßlüften: Shock Ventilation](https://www.thelocal.de/20190117/stolften)
+* [2023-12-30, 08:34:35](https://news.ycombinator.com/item?id=38813700) - [Adventures with compression](https://jamesg.blog/2023/12/29/compression-adventures/)
 * [2023-12-30, 08:31:51](https://news.ycombinator.com/item?id=38813685) - [Biggest layoffs of 2023: Firms fired employees in jaw-dropping numbers](https://www.peoplematters.in/article/strategic-hr/the-biggest-layoffs-of-2023-amazon-to-microsoft-firms-fired-employees-in-jaw-dropping-numbers-39753)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2023-12-30, 07:48:08](https://news.ycombinator.com/item?id=38813496) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
