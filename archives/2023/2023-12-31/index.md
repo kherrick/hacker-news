@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
 * [2023-12-31, 17:08:13](https://news.ycombinator.com/item?id=38825520) - [How to run a small social network](https://runyourown.social/)
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-31, 16:54:11](https://news.ycombinator.com/item?id=38825395) - [Beep Beep](https://daringfireball.net/2023/12/beep_beep)
