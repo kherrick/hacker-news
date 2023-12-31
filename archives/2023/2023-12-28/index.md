@@ -9,6 +9,7 @@
 * [2023-12-28, 23:38:37](https://news.ycombinator.com/item?id=38800109) - [Read the Chronicles of Narnia in Publication Order (2018)](https://www.tor.com/2018/11/23/why-you-should-read-the-chronicles-of-narnia-in-publication-order/)
 * [2023-12-28, 23:25:06](https://news.ycombinator.com/item?id=38800008) - [Emacs from Scratch Part Two](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 23:09:50](https://news.ycombinator.com/item?id=38799897) - [Bram Moolenaar passed away in 2023. Consider donating to ICCF in his honor](https://vimhelp.org/uganda.txt.html)
+* [2023-12-28, 23:04:37](https://news.ycombinator.com/item?id=38799856) - [Apple's Predicament – NSPredicate Exploitation on macOS and iOS [video]](https://www.youtube.com/watch?v=R62sm30G2Jw)
 * [2023-12-28, 22:55:16](https://news.ycombinator.com/item?id=38799778) - [An artist fights back, and Midjourney has embarrassed themselves](https://garymarcus.substack.com/p/an-artist-fights-back-and-midjourney)
 * [2023-12-28, 22:45:58](https://news.ycombinator.com/item?id=38799697) - [MicroHs: Haskell Implemented with Combinators](https://github.com/augustss/MicroHs)
 * [2023-12-28, 22:44:57](https://news.ycombinator.com/item?id=38799686) - [Smallest Typeface (3x3)](http://luc.devroye.org/fonts-51468.html)

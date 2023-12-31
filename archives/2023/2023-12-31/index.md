@@ -7,6 +7,7 @@
 * [2023-12-31, 22:36:11](https://news.ycombinator.com/item?id=38828124) - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 22:16:52](https://news.ycombinator.com/item?id=38828007) - [86-DOS Version 0.11 Found](https://virtuallyfun.com/2023/12/30/86-dos-version-0-11-found/)
+* [2023-12-31, 21:49:10](https://news.ycombinator.com/item?id=38827801) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 * [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 * [2023-12-31, 21:17:44](https://news.ycombinator.com/item?id=38827599) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
 * [2023-12-31, 20:45:42](https://news.ycombinator.com/item?id=38827388) - [Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
