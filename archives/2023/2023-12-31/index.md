@@ -12,6 +12,7 @@
 * [2023-12-31, 15:50:46](https://news.ycombinator.com/item?id=38824852) - [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
 * [2023-12-31, 15:25:49](https://news.ycombinator.com/item?id=38824644) - [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
 * [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
+* [2023-12-31, 14:13:00](https://news.ycombinator.com/item?id=38824150) - [Testing Tesla's Autopilot recall, I don't feel much safer-and neither should you](https://www.washingtonpost.com/technology/2023/12/31/tesla-autopilot-recall-test/)
 * [2023-12-31, 14:12:48](https://news.ycombinator.com/item?id=38824149) - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
 * [2023-12-31, 14:09:15](https://news.ycombinator.com/item?id=38824121) - [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 * [2023-12-31, 14:00:00](https://news.ycombinator.com/item?id=38824070) - [A Modern Web for Hacker News – Open-Source and Seeking Feedback](https://modern-hacker-news.vercel.app/)
