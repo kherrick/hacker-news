@@ -2,7 +2,6 @@
 
 * [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
-* [2023-12-31, 19:13:01](https://news.ycombinator.com/item?id=38826617) - [Threads.net is the new app.net but with ads and interoperable](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 * [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 * [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
@@ -27,6 +26,7 @@
 * [2023-12-30, 11:33:15](https://news.ycombinator.com/item?id=38814434) - [Death by Thomas Nagel (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
+* [2023-12-30, 04:03:33](https://news.ycombinator.com/item?id=38812736) - [How a script doctor found his own voice](https://www.newyorker.com/magazine/2024/01/01/how-a-script-doctor-found-his-own-voice)
 * [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 03:32:55](https://news.ycombinator.com/item?id=38801513) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
