@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 23:54:22](https://news.ycombinator.com/item?id=38820460) - [Ask HN: Online BS – Grey Beard needs advice](https://news.ycombinator.com/item?id=38820460)
+* [2023-12-30, 23:38:25](https://news.ycombinator.com/item?id=38820391) - [Show HN: Common Lisp Vim Compiler Plug-In](https://git.sr.ht/~skin/roswell-sbcl.vim)
+* [2023-12-30, 23:28:13](https://news.ycombinator.com/item?id=38820329) - [20 years of Mars Express](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before)
+* [2023-12-30, 23:02:11](https://news.ycombinator.com/item?id=38820152) - [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
 * [2023-12-30, 22:51:33](https://news.ycombinator.com/item?id=38820078) - [An Elegy for the Jewish Retirees of Miami Beach](https://www.newyorker.com/culture/photo-booth/an-elegy-for-the-jewish-retirees-of-miami-beach)
+* [2023-12-30, 22:05:34](https://news.ycombinator.com/item?id=38819706) - [PlasMa – Mini-mainframe simulator project](http://www.philizound.co.uk/plasma/plasma.html?i=1)
 * [2023-12-30, 21:56:11](https://news.ycombinator.com/item?id=38819618) - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 21:18:01](https://news.ycombinator.com/item?id=38819263) - [PHP Sadness](http://phpsadness.com/)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
