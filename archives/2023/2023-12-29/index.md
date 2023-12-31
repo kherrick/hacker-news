@@ -84,6 +84,7 @@
 * [2023-12-29, 05:44:26](https://news.ycombinator.com/item?id=38802105) - [The Dark Arts – LessWrong](https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts)
 * [2023-12-29, 05:39:17](https://news.ycombinator.com/item?id=38802086) - [Ideal Monitor Rotation for Programmers](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 * [2023-12-29, 05:14:26](https://news.ycombinator.com/item?id=38801972) - [A Man Behind the Mosque (2003)](https://amitavghosh.com/other-works-contributions/essays-and-posts/the-man-behind-the-mosque/)
+* [2023-12-29, 04:14:30](https://news.ycombinator.com/item?id=38801698) - [First personal search engine prototype](https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html)
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – The most popular tool to discover AuthZ/AuthN flaws](https://github.com/Quitten/Autorize)
 * [2023-12-29, 03:39:47](https://news.ycombinator.com/item?id=38801549) - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
 * [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
