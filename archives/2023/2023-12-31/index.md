@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 02:25:54](https://news.ycombinator.com/item?id=38821208) - [ECS, Finally](https://www.mark-pekala.dev/posts/ecs-finally)

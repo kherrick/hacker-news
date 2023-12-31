@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 02:25:54](https://news.ycombinator.com/item?id=38821208) - [ECS, Finally](https://www.mark-pekala.dev/posts/ecs-finally)
@@ -18,7 +19,6 @@
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
-* [2023-12-30, 17:58:22](https://news.ycombinator.com/item?id=38817128) - [Court of Appeal ruling will prevent UK museums from charging reproduction fees](https://www.theartnewspaper.com/2023/12/29/court-of-appeal-ruling-will-prevent-uk-museums-from-charging-reproduction-feesat-last)
 * [2023-12-30, 17:15:09](https://news.ycombinator.com/item?id=38816802) - [Electric light transmits data faster than Wi-Fi](https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html)
 * [2023-12-30, 15:51:39](https://news.ycombinator.com/item?id=38816135) - [I'm skeptical of low-code](https://nick.scialli.me/blog/why-im-skeptical-of-low-code/)
 * [2023-12-30, 15:37:37](https://news.ycombinator.com/item?id=38816029) - [ScummVM on the App Store](https://apps.apple.com/us/app/scummvm/id6446184412)
