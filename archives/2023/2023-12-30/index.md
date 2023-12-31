@@ -13,6 +13,7 @@
 * [2023-12-30, 22:51:33](https://news.ycombinator.com/item?id=38820078) - [An Elegy for the Jewish Retirees of Miami Beach](https://www.newyorker.com/culture/photo-booth/an-elegy-for-the-jewish-retirees-of-miami-beach)
 * [2023-12-30, 22:05:34](https://news.ycombinator.com/item?id=38819706) - [PlasMa – Mini-mainframe simulator project](http://www.philizound.co.uk/plasma/plasma.html?i=1)
 * [2023-12-30, 21:56:11](https://news.ycombinator.com/item?id=38819618) - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
+* [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 21:21:01](https://news.ycombinator.com/item?id=38819288) - [Freeaim VR Shoes](https://www.freeaim.com/consumer)
 * [2023-12-30, 21:18:01](https://news.ycombinator.com/item?id=38819263) - [PHP Sadness](http://phpsadness.com/)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, ultra fast, user-friendly, compatible grep](https://ugrep.com/)
