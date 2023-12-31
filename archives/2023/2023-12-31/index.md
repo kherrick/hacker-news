@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
 * [2023-12-31, 15:50:46](https://news.ycombinator.com/item?id=38824852) - [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
+* [2023-12-31, 15:25:49](https://news.ycombinator.com/item?id=38824644) - [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
 * [2023-12-31, 14:12:48](https://news.ycombinator.com/item?id=38824149) - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
 * [2023-12-31, 14:09:15](https://news.ycombinator.com/item?id=38824121) - [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 * [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant Messaging: Protocols Are \"Commons\", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
@@ -12,6 +13,7 @@
 * [2023-12-31, 12:49:04](https://news.ycombinator.com/item?id=38823719) - [There is an oom kill count in Linux](https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102)
 * [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
 * [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
+* [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 * [2023-12-31, 12:04:23](https://news.ycombinator.com/item?id=38823482) - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 * [2023-12-31, 12:03:30](https://news.ycombinator.com/item?id=38823476) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-31, 12:01:44](https://news.ycombinator.com/item?id=38823467) - [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
