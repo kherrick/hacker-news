@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-31, 12:49:04",
+      "https://news.ycombinator.com/item?id=38823719"
+    ],
+    [
+      "There is an oom kill count in Linux",
+      "https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 12:40:39",
+      "https://news.ycombinator.com/item?id=38823673"
+    ],
+    [
+      "Bun, JavaScript, and TCO",
+      "https://www.onsclom.net/posts/javascript-tco"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 12:04:23",
       "https://news.ycombinator.com/item?id=38823482"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-12-29, 19:26:42",
-      "https://news.ycombinator.com/item?id=38809145"
-    ],
-    [
-      "Blot turns a folder into a website",
-      "https://blot.im/how"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 17:15:54",
       "https://news.ycombinator.com/item?id=38807477"
     ],
     [
       "Day 20: My favourite problem from Advent of Code 2023",
       "https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 16:22:55",
-      "https://news.ycombinator.com/item?id=38806650"
-    ],
-    [
-      "Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts",
-      "https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/"
     ]
   ],
   [
