@@ -22,6 +22,7 @@
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:05:00](https://news.ycombinator.com/item?id=38814990) - [Switching Things over to Ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 11:45:25](https://news.ycombinator.com/item?id=38814492) - [Committing Without Git](https://matheustavares.gitlab.io/posts/committing-without-git)
+* [2023-12-30, 11:30:35](https://news.ycombinator.com/item?id=38814424) - [Midihum: An ML-Based MIDI Humanizing Tool](https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/)
 * [2023-12-30, 10:30:33](https://news.ycombinator.com/item?id=38814152) - [Asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
 * [2023-12-30, 08:34:35](https://news.ycombinator.com/item?id=38813700) - [Adventures with compression](https://jamesg.blog/2023/12/29/compression-adventures/)
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
@@ -29,7 +30,6 @@
 * [2023-12-29, 19:28:16](https://news.ycombinator.com/item?id=38809160) - [Demand the impossible: Rigorous database benchmarking](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
 * [2023-12-29, 04:14:30](https://news.ycombinator.com/item?id=38801698) - [First personal search engine prototype](https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
-* [2023-12-28, 14:09:13](https://news.ycombinator.com/item?id=38793604) - [Personics: The cassette-based iTunes Store of the 1980s [video]](https://www.youtube.com/watch?v=PYpD6g6nLd0)
 
 ## [Archives](archives/index.md)
 
