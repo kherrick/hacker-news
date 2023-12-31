@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-12-30, 23:38:25",
+      "https://news.ycombinator.com/item?id=38820391"
+    ],
+    [
+      "Show HN: Common Lisp Vim Compiler Plug-In",
+      "https://git.sr.ht/~skin/roswell-sbcl.vim"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 23:28:13",
       "https://news.ycombinator.com/item?id=38820329"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-12-30, 20:19:07",
-      "https://news.ycombinator.com/item?id=38818700"
-    ],
-    [
-      "Thinking About Internet History",
-      "https://content.cooperate.com/post/internet_history/"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 20:18:36",
       "https://news.ycombinator.com/item?id=38818695"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-12-30, 15:37:37",
-      "https://news.ycombinator.com/item?id=38816029"
-    ],
-    [
-      "ScummVM on the App Store",
-      "https://apps.apple.com/us/app/scummvm/id6446184412"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 14:18:24",
       "https://news.ycombinator.com/item?id=38815439"
     ],
@@ -237,6 +227,16 @@
     [
       "Fake Trees: Using Indents for Simpler UIs",
       "https://ratfactor.com/cards/fake-trees"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 11:30:35",
+      "https://news.ycombinator.com/item?id=38814424"
+    ],
+    [
+      "Midihum: An ML-Based MIDI Humanizing Tool",
+      "https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/"
     ]
   ],
   [
