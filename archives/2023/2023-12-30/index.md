@@ -71,6 +71,7 @@
 * [2023-12-30, 11:14:37](https://news.ycombinator.com/item?id=38814343) - [What the tractor and the horse tell you about generative AI](https://www.economist.com/christmas-specials/2023/12/20/a-short-history-of-tractors-in-english)
 * [2023-12-30, 10:49:00](https://news.ycombinator.com/item?id=38814230) - [High Performance Voxel Engine (2021)](https://nickmcd.me/2021/04/04/high-performance-voxel-engine/)
 * [2023-12-30, 10:44:53](https://news.ycombinator.com/item?id=38814215) - [The history of MSX computers [video]](https://www.youtube.com/watch?v=i7Fdfveb3Es)
+* [2023-12-30, 10:30:33](https://news.ycombinator.com/item?id=38814152) - [Asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
 * [2023-12-30, 10:17:10](https://news.ycombinator.com/item?id=38814093) - [Things are about to get a lot worse for Generative AI](https://garymarcus.substack.com/p/things-are-about-to-get-a-lot-worse)
 * [2023-12-30, 09:48:39](https://news.ycombinator.com/item?id=38813976) - [\"Tech Billionaires Need to Stop Making Sci-Fi Real\"](https://www.scientificamerican.com/article/tech-billionaires-need-to-stop-trying-to-make-the-science-fiction-they-grew-up-on-real/)
 * [2023-12-30, 09:29:55](https://news.ycombinator.com/item?id=38813917) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
