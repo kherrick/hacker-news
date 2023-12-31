@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-12-31, 00:37:47](https://news.ycombinator.com/item?id=38820726) - [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX's Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
+* [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 00:10:41](https://news.ycombinator.com/item?id=38820557) - [Cuis-Smalltalk](https://cuis.st/)
 * [2023-12-30, 23:53:42](https://news.ycombinator.com/item?id=38820454) - [The Heart of a Language Server](https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html)
 * [2023-12-30, 23:38:25](https://news.ycombinator.com/item?id=38820391) - [Show HN: Common Lisp Vim Compiler Plug-In](https://git.sr.ht/~skin/roswell-sbcl.vim)
@@ -8,6 +8,7 @@
 * [2023-12-30, 23:02:11](https://news.ycombinator.com/item?id=38820152) - [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
 * [2023-12-30, 22:05:34](https://news.ycombinator.com/item?id=38819706) - [PlasMa – Mini-mainframe simulator project](http://www.philizound.co.uk/plasma/plasma.html?i=1)
 * [2023-12-30, 21:56:11](https://news.ycombinator.com/item?id=38819618) - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
+* [2023-12-30, 21:21:01](https://news.ycombinator.com/item?id=38819288) - [Freeaim VR Shoes](https://www.freeaim.com/consumer)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 21:13:03](https://news.ycombinator.com/item?id=38819212) - [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 * [2023-12-30, 21:04:49](https://news.ycombinator.com/item?id=38819121) - [Silent Flyer – A Birdlike Drone](https://www.silentflyer.tech/)
@@ -24,7 +25,6 @@
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
-* [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [Hidden gems of moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
 * [2023-12-29, 17:15:54](https://news.ycombinator.com/item?id=38807477) - [Day 20: My favourite problem from Advent of Code 2023](https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html)
 * [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
