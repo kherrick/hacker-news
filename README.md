@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
-* [2023-12-31, 07:32:47](https://news.ycombinator.com/item?id=38822456) - [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
 * [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
@@ -16,6 +15,7 @@
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 21:13:03](https://news.ycombinator.com/item?id=38819212) - [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+* [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 15:51:39](https://news.ycombinator.com/item?id=38816135) - [I'm skeptical of low-code](https://nick.scialli.me/blog/why-im-skeptical-of-low-code/)
 * [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
