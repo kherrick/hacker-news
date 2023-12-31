@@ -10,7 +10,6 @@
 * [2023-12-31, 15:54:55](https://news.ycombinator.com/item?id=38824886) - [Ambient Co-Presence](https://maggieappleton.com/ambient-copresence)
 * [2023-12-31, 15:25:49](https://news.ycombinator.com/item?id=38824644) - [iOS Wi-Fi Profile Generator](https://daduckmsft.github.io/WiFiProfileGenerator/)
 * [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
-* [2023-12-31, 14:09:15](https://news.ycombinator.com/item?id=38824121) - [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 * [2023-12-31, 14:00:00](https://news.ycombinator.com/item?id=38824070) - [A Modern Web for Hacker News – Open-Source and Seeking Feedback](https://modern-hacker-news.vercel.app/)
 * [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant messaging: Protocols are \"commons\", let's take them seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 13:13:00](https://news.ycombinator.com/item?id=38823817) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
@@ -28,6 +27,7 @@
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
 * [2023-12-30, 04:03:33](https://news.ycombinator.com/item?id=38812736) - [How a script doctor found his own voice](https://www.newyorker.com/magazine/2024/01/01/how-a-script-doctor-found-his-own-voice)
+* [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 03:32:55](https://news.ycombinator.com/item?id=38801513) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
 

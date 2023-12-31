@@ -24,6 +24,7 @@
 * [2023-12-29, 20:12:58](https://news.ycombinator.com/item?id=38809642) - [Most favorited articles by the top 10k most active HN members (2020)](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis)
 * [2023-12-29, 20:03:02](https://news.ycombinator.com/item?id=38809543) - [48x32: A 1536 LED Game Computer](https://jacquesmattheij.com/48x32-introduction/)
 * [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
+* [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
 * [2023-12-29, 19:28:16](https://news.ycombinator.com/item?id=38809160) - [Demand the impossible: Rigorous database benchmarking](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
