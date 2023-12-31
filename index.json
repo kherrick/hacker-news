@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-12-31, 21:17:44",
+      "https://news.ycombinator.com/item?id=38827599"
+    ],
+    [
+      "O(1) Build File",
+      "https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 18:33:34",
       "https://news.ycombinator.com/item?id=38826283"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-12-31, 11:56:29",
-      "https://news.ycombinator.com/item?id=38823445"
-    ],
-    [
-      "A future for SQL on the web (2021)",
-      "https://jlongster.com/future-sql-web"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 11:28:25",
       "https://news.ycombinator.com/item?id=38823304"
     ],
@@ -187,16 +187,6 @@
     [
       "I forked SteamOS for my living room PC",
       "https://iliana.fyi/blog/build-your-own-steamos-updates/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 05:59:11",
-      "https://news.ycombinator.com/item?id=38822164"
-    ],
-    [
-      "Emacs-copilot: Large language model code completion for Emacs",
-      "https://github.com/jart/emacs-copilot"
     ]
   ],
   [
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-12-30, 11:33:15",
-      "https://news.ycombinator.com/item?id=38814434"
+      "2023-12-30, 10:40:32",
+      "https://news.ycombinator.com/item?id=38814193"
     ],
     [
-      "Death by Thomas Nagel (1970) [pdf]",
-      "https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf"
+      "A Brief Retrospective on Sparc Register Windows",
+      "https://danielmangum.com/posts/retrospective-sparc-register-windows/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The step-by-step mechanical logic of old pinball machines [video]",
       "https://www.youtube.com/watch?v=E3p_Cv32tEo"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 18:38:38",
+      "https://news.ycombinator.com/item?id=38808552"
+    ],
+    [
+      "A Core Calculus for Documents [pdf]",
+      "https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf"
     ]
   ],
   [
