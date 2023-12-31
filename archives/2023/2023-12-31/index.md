@@ -15,6 +15,7 @@
 * [2023-12-31, 11:56:29](https://news.ycombinator.com/item?id=38823445) - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web)
 * [2023-12-31, 11:53:35](https://news.ycombinator.com/item?id=38823433) - [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
+* [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
 * [2023-12-31, 07:32:47](https://news.ycombinator.com/item?id=38822456) - [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
 * [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
