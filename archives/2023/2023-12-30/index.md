@@ -86,6 +86,7 @@
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
 * [2023-12-30, 08:19:22](https://news.ycombinator.com/item?id=38813647) - [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2023-12-30, 08:13:16](https://news.ycombinator.com/item?id=38813611) - [Back to Basics](https://smist08.wordpress.com/2022/09/04/back-to-basics/)
+* [2023-12-30, 08:11:50](https://news.ycombinator.com/item?id=38813605) - [Adding Vision to the SunFounder PiCar-X](https://smist08.wordpress.com/2023/12/29/adding-vision-to-the-sunfounder-picar-x/)
 * [2023-12-30, 07:48:08](https://news.ycombinator.com/item?id=38813496) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2023-12-30, 07:22:35](https://news.ycombinator.com/item?id=38813395) - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 * [2023-12-30, 06:52:55](https://news.ycombinator.com/item?id=38813297) - [What I Learned Using Private LLMs to Write an Undergraduate History Essay](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
