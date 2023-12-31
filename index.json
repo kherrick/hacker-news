@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-12-31, 10:45:33",
+      "https://news.ycombinator.com/item?id=38823101"
+    ],
+    [
+      "I forked SteamOS for my living room PC",
+      "https://iliana.fyi/blog/build-your-own-steamos-updates/"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 05:59:11",
       "https://news.ycombinator.com/item?id=38822164"
     ],
@@ -181,22 +191,12 @@
   ],
   [
     [
-      "2023-12-30, 23:28:13",
-      "https://news.ycombinator.com/item?id=38820329"
+      "2023-12-30, 23:38:25",
+      "https://news.ycombinator.com/item?id=38820391"
     ],
     [
-      "20 years of Mars Express",
-      "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 23:25:36",
-      "https://news.ycombinator.com/item?id=38820305"
-    ],
-    [
-      "Misty Programming Language",
-      "https://www.crockford.com/misty/"
+      "Show HN: Common Lisp Vim Compiler Plug-In",
+      "https://git.sr.ht/~skin/roswell-sbcl.vim"
     ]
   ],
   [
