@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
+* [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [How bad are search results? Compare Google, Bing, Marginalia, Kagi, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
