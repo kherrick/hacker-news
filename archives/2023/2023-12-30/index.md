@@ -63,6 +63,7 @@
 * [2023-12-30, 13:36:10](https://news.ycombinator.com/item?id=38815155) - [Xi Goes Full Stalin with Purge](https://www.politico.eu/article/chinas-paranoid-purge-xi-jinping-li-keqiang-qin-gang-li-shangfu/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 * [2023-12-30, 13:07:44](https://news.ycombinator.com/item?id=38815005) - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
+* [2023-12-30, 13:05:00](https://news.ycombinator.com/item?id=38814990) - [Switching Things over to Ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 13:02:56](https://news.ycombinator.com/item?id=38814979) - [CBC cancels New Year's Eve broadcast special due to 'financial pressures'](https://www.cbc.ca/news/canada/cbc-cancels-new-year-eve-broadcast-1.7071478)
 * [2023-12-30, 12:10:12](https://news.ycombinator.com/item?id=38814652) - [A Hobby Coding Biography](https://www.marginalia.nu/log/97_projects/)
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
