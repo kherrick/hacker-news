@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-31, 19:59:33",
-      "https://news.ycombinator.com/item?id=38827026"
-    ],
-    [
-      "2023: Year in Review",
-      "https://jvns.ca/blog/2023/12/31/2023--year-in-review/"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 19:16:11",
       "https://news.ycombinator.com/item?id=38826649"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38826014"
     ],
     [
-      "Get your work recognized: write a brag document",
+      "Get your work recognized: write a brag document (2019)",
       "https://jvns.ca/blog/brag-documents/"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "Synctify – Sync a music drop with a time in the real world",
       "https://synctify.app"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 14:00:00",
+      "https://news.ycombinator.com/item?id=38824070"
+    ],
+    [
+      "A Modern Web for Hacker News – Open-Source and Seeking Feedback",
+      "https://modern-hacker-news.vercel.app/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=38809454"
     ],
     [
-      "The step-by-step logic of old pinball machines [video]",
+      "The step-by-step mechanical logic of old pinball machines [video]",
       "https://www.youtube.com/watch?v=E3p_Cv32tEo"
     ]
   ],
