@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-12-31, 11:15:08",
-      "https://news.ycombinator.com/item?id=38823252"
-    ],
-    [
-      "Mazzle – A Pipelines as Code Tool",
-      "http://devops-pipeline.com/"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 10:45:33",
       "https://news.ycombinator.com/item?id=38823101"
     ],
@@ -177,6 +167,16 @@
     [
       "Show HN: Common Lisp Vim Compiler Plug-In",
       "https://git.sr.ht/~skin/roswell-sbcl.vim"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 23:25:36",
+      "https://news.ycombinator.com/item?id=38820305"
+    ],
+    [
+      "Misty Programming Language",
+      "https://www.crockford.com/misty/"
     ]
   ],
   [
