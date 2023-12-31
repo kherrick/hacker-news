@@ -68,6 +68,7 @@
 * [2023-12-30, 12:10:12](https://news.ycombinator.com/item?id=38814652) - [A Hobby Coding Biography](https://www.marginalia.nu/log/97_projects/)
 * [2023-12-30, 12:03:24](https://news.ycombinator.com/item?id=38814622) - [Emerge (YC W21) is hiring a Senior Android Engineer (remote, small team)](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2023-12-30, 12:00:38](https://news.ycombinator.com/item?id=38814599) - [The Hidden Gems of Moreutils](https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils)
+* [2023-12-30, 11:45:25](https://news.ycombinator.com/item?id=38814492) - [Committing Without Git](https://matheustavares.gitlab.io/posts/committing-without-git)
 * [2023-12-30, 11:30:35](https://news.ycombinator.com/item?id=38814424) - [Midihum: An ML-Based MIDI Humanizing Tool](https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/)
 * [2023-12-30, 11:28:26](https://news.ycombinator.com/item?id=38814415) - [Dad Jokes](https://fatherhood.gov/for-dads/dad-jokes)
 * [2023-12-30, 11:20:15](https://news.ycombinator.com/item?id=38814367) - [Centralization, Decentralization, and Internet Standards](https://www.rfc-editor.org/rfc/rfc9518.html)
