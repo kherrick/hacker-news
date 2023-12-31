@@ -2,6 +2,7 @@
 
 * [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+* [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk ship hit by missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 02:20:44](https://news.ycombinator.com/item?id=38821187) - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
@@ -10,7 +11,6 @@
 * [2023-12-30, 23:28:13](https://news.ycombinator.com/item?id=38820329) - [20 years of Mars Express](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/20_years_of_Mars_Express_Mars_as_never_seen_before)
 * [2023-12-30, 23:25:36](https://news.ycombinator.com/item?id=38820305) - [Misty Programming Language](https://www.crockford.com/misty/)
 * [2023-12-30, 23:02:11](https://news.ycombinator.com/item?id=38820152) - [Android data encryption in depth](https://blog.quarkslab.com/android-data-encryption-in-depth.html)
-* [2023-12-30, 22:05:34](https://news.ycombinator.com/item?id=38819706) - [PlasMa – Mini-mainframe simulator project](http://www.philizound.co.uk/plasma/plasma.html?i=1)
 * [2023-12-30, 21:56:11](https://news.ycombinator.com/item?id=38819618) - [More fun with Apple's internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 21:21:01](https://news.ycombinator.com/item?id=38819288) - [Freeaim VR Shoes](https://www.freeaim.com/consumer)
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
