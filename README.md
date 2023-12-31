@@ -2,6 +2,7 @@
 
 * [2023-12-31, 18:39:48](https://news.ycombinator.com/item?id=38826345) - [I want a city, not a museum](https://www.nytimes.com/2023/12/30/opinion/new-york-housing-costs.html)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
+* [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 * [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
 * [2023-12-31, 17:20:51](https://news.ycombinator.com/item?id=38825623) - [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
 * [2023-12-31, 17:08:13](https://news.ycombinator.com/item?id=38825520) - [How to run a small social network (2019)](https://runyourown.social/)
@@ -12,7 +13,6 @@
 * [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
 * [2023-12-31, 14:09:15](https://news.ycombinator.com/item?id=38824121) - [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 * [2023-12-31, 14:00:00](https://news.ycombinator.com/item?id=38824070) - [A Modern Web for Hacker News – Open-Source and Seeking Feedback](https://modern-hacker-news.vercel.app/)
-* [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant messaging: Protocols are \"commons\", let's take them seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
 * [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The forecasting fallacy (2020)](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 * [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
