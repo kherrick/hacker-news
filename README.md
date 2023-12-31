@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 12:49:04](https://news.ycombinator.com/item?id=38823719) - [There is an oom kill count in Linux](https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102)
+* [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
 * [2023-12-31, 12:04:23](https://news.ycombinator.com/item?id=38823482) - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 * [2023-12-31, 12:03:30](https://news.ycombinator.com/item?id=38823476) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
@@ -24,9 +26,7 @@
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
 * [2023-12-30, 08:11:50](https://news.ycombinator.com/item?id=38813605) - [Adding Vision to the SunFounder PiCar-X](https://smist08.wordpress.com/2023/12/29/adding-vision-to-the-sunfounder-picar-x/)
 * [2023-12-29, 19:28:16](https://news.ycombinator.com/item?id=38809160) - [Demand the impossible: Rigorous database benchmarking](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
-* [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot turns a folder into a website](https://blot.im/how)
 * [2023-12-29, 17:15:54](https://news.ycombinator.com/item?id=38807477) - [Day 20: My favourite problem from Advent of Code 2023](https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html)
-* [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [2023-12-29, 04:14:30](https://news.ycombinator.com/item?id=38801698) - [First personal search engine prototype](https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
 * [2023-12-28, 14:09:13](https://news.ycombinator.com/item?id=38793604) - [Personics: The cassette-based iTunes Store of the 1980s [video]](https://www.youtube.com/watch?v=PYpD6g6nLd0)
