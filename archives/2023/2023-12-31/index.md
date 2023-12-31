@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 19:50:07](https://news.ycombinator.com/item?id=38826947) - [Tesla Cybertruck Charging Curve Confirms Poor Charging Performance](https://www.autoevolution.com/news/tesla-cybertruck-charging-curve-confirms-the-4680-cell-suspected-poor-charging-performance-226935.html)
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 19:13:01](https://news.ycombinator.com/item?id=38826617) - [Threads.net is the new app.net but with ads and interoperable](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
 * [2023-12-31, 18:39:48](https://news.ycombinator.com/item?id=38826345) - [I want a city, not a museum](https://www.nytimes.com/2023/12/30/opinion/new-york-housing-costs.html)
