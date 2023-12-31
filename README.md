@@ -26,7 +26,7 @@
 * [2023-12-30, 11:33:15](https://news.ycombinator.com/item?id=38814434) - [Death by Thomas Nagel (1970) [pdf]](https://rintintin.colorado.edu/~vancecd/phil150/Nagel.pdf)
 * [2023-12-30, 08:29:29](https://news.ycombinator.com/item?id=38813677) - [LuaX: A Lua Dialect with JSX](https://bvisness.me/luax/)
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
-* [2023-12-30, 04:03:33](https://news.ycombinator.com/item?id=38812736) - [How a script doctor found his own voice](https://www.newyorker.com/magazine/2024/01/01/how-a-script-doctor-found-his-own-voice)
+* [2023-12-30, 04:09:08](https://news.ycombinator.com/item?id=38812758) - [Once the Largest, a Hotel Goes 'Poof ' Before Our Eyes](https://www.nytimes.com/2023/03/02/nyregion/hotel-pennsylvania-nyc.html)
 * [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 03:32:55](https://news.ycombinator.com/item?id=38801513) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
