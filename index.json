@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-31, 21:49:10",
+      "https://news.ycombinator.com/item?id=38827801"
+    ],
+    [
+      "Signs that it's time to leave a company",
+      "https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 21:21:30",
       "https://news.ycombinator.com/item?id=38827620"
     ],
@@ -57,16 +67,6 @@
     [
       "Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip",
       "https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 18:13:16",
-      "https://news.ycombinator.com/item?id=38826130"
-    ],
-    [
-      "WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight",
-      "https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/"
     ]
   ],
   [
@@ -221,21 +221,11 @@
   ],
   [
     [
-      "2023-12-30, 11:45:25",
-      "https://news.ycombinator.com/item?id=38814492"
-    ],
-    [
-      "Committing Without Git",
-      "https://matheustavares.gitlab.io/posts/committing-without-git"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 10:40:32",
       "https://news.ycombinator.com/item?id=38814193"
     ],
     [
-      "A Brief Retrospective on Sparc Register Windows",
+      "A Brief Retrospective on SPARC Register Windows",
       "https://danielmangum.com/posts/retrospective-sparc-register-windows/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Unprivileged process injection techniques in Linux",
       "https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 23:04:37",
+      "https://news.ycombinator.com/item?id=38799856"
+    ],
+    [
+      "Apple's Predicament – NSPredicate Exploitation on macOS and iOS [video]",
+      "https://www.youtube.com/watch?v=R62sm30G2Jw"
     ]
   ]
 ]
