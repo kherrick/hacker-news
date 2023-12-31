@@ -6,6 +6,7 @@
 
 * [2023-12-31, 15:50:46](https://news.ycombinator.com/item?id=38824852) - [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
 * [2023-12-31, 14:12:48](https://news.ycombinator.com/item?id=38824149) - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
+* [2023-12-31, 14:09:15](https://news.ycombinator.com/item?id=38824121) - [Genuary 2024: Generative Art / Creative Coding Month](https://genuary.art)
 * [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant Messaging: Protocols Are \"Commons\", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 13:13:00](https://news.ycombinator.com/item?id=38823817) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
 * [2023-12-31, 12:49:04](https://news.ycombinator.com/item?id=38823719) - [There is an oom kill count in Linux](https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102)
