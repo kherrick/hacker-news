@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 * [2023-12-31, 20:45:42](https://news.ycombinator.com/item?id=38827388) - [Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
 * [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:50:07](https://news.ycombinator.com/item?id=38826947) - [Tesla Cybertruck Charging Curve Confirms Poor Charging Performance](https://www.autoevolution.com/news/tesla-cybertruck-charging-curve-confirms-the-4680-cell-suspected-poor-charging-performance-226935.html)
@@ -15,6 +16,7 @@
 * [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 * [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
 * [2023-12-31, 17:58:48](https://news.ycombinator.com/item?id=38826014) - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)
+* [2023-12-31, 17:44:58](https://news.ycombinator.com/item?id=38825884) - [Warchalking](https://en.wikipedia.org/wiki/Warchalking)
 * [2023-12-31, 17:20:51](https://news.ycombinator.com/item?id=38825623) - [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
 * [2023-12-31, 17:08:13](https://news.ycombinator.com/item?id=38825520) - [How to run a small social network](https://runyourown.social/)
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
