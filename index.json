@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-31, 16:26:37",
+      "https://news.ycombinator.com/item?id=38825158"
+    ],
+    [
+      "Logistic Regression for Image Classification Using OpenCV",
+      "https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 16:24:41",
       "https://news.ycombinator.com/item?id=38825136"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2023-12-31, 15:05:32",
+      "https://news.ycombinator.com/item?id=38824504"
+    ],
+    [
+      "Synctify – Sync a music drop with a time in the real world",
+      "https://synctify.app"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 14:12:48",
       "https://news.ycombinator.com/item?id=38824149"
     ],
@@ -57,6 +77,16 @@
     [
       "Genuary 2024: Generative Art / Creative Coding Month",
       "https://genuary.art"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 13:40:20",
+      "https://news.ycombinator.com/item?id=38823973"
+    ],
+    [
+      "January 1, 2024 is Public Domain Day",
+      "https://web.law.duke.edu/cspd/publicdomainday/2024/"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2023-12-31, 02:20:44",
-      "https://news.ycombinator.com/item?id=38821187"
-    ],
-    [
-      "Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP",
-      "https://playspindle.com/"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 23:38:25",
       "https://news.ycombinator.com/item?id=38820391"
     ],
     [
       "Show HN: Common Lisp Vim Compiler Plug-In",
       "https://git.sr.ht/~skin/roswell-sbcl.vim"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 15:51:39",
-      "https://news.ycombinator.com/item?id=38816135"
-    ],
-    [
-      "I'm skeptical of low-code",
-      "https://nick.scialli.me/blog/why-im-skeptical-of-low-code/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "LuaX: A Lua Dialect with JSX",
       "https://bvisness.me/luax/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 04:03:33",
-      "https://news.ycombinator.com/item?id=38812736"
-    ],
-    [
-      "How a script doctor found his own voice",
-      "https://www.newyorker.com/magazine/2024/01/01/how-a-script-doctor-found-his-own-voice"
     ]
   ],
   [
