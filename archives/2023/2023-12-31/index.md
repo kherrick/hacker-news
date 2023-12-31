@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
+* [2023-12-31, 19:13:01](https://news.ycombinator.com/item?id=38826617) - [Threads.net is the new app.net but with ads and interoperable](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
 * [2023-12-31, 18:39:48](https://news.ycombinator.com/item?id=38826345) - [I want a city, not a museum](https://www.nytimes.com/2023/12/30/opinion/new-york-housing-costs.html)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 * [2023-12-31, 18:28:41](https://news.ycombinator.com/item?id=38826242) - [Electric School Buses More Than Doubled in USA from March 2022 to June 2023](https://cleantechnica.com/2023/12/29/electric-school-buses-more-than-doubled-in-usa-from-march-2022-to-june-2023/)
