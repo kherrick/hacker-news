@@ -22,6 +22,7 @@
 * [2023-12-30, 21:08:28](https://news.ycombinator.com/item?id=38819163) - [Will Google offer an iOS compatibility layer for running Android apps?](https://news.ycombinator.com/item?id=38819163)
 * [2023-12-30, 21:04:49](https://news.ycombinator.com/item?id=38819121) - [Silent Flyer – A Birdlike Drone](https://www.silentflyer.tech/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+* [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 20:23:28](https://news.ycombinator.com/item?id=38818734) - [EU Cyber Resilience Act: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)

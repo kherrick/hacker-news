@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 22:36:11](https://news.ycombinator.com/item?id=38828124) - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 22:16:52](https://news.ycombinator.com/item?id=38828007) - [86-DOS Version 0.11 Found](https://virtuallyfun.com/2023/12/30/86-dos-version-0-11-found/)
 * [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
