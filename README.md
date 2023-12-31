@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 20:45:42](https://news.ycombinator.com/item?id=38827388) - [Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
 * [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
@@ -15,7 +16,6 @@
 * [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
 * [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The forecasting fallacy (2020)](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 * [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
-* [2023-12-31, 11:56:29](https://news.ycombinator.com/item?id=38823445) - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 * [2023-12-31, 11:15:08](https://news.ycombinator.com/item?id=38823252) - [Mazzle – A Pipelines as Code Tool](http://devops-pipeline.com/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
