@@ -91,6 +91,7 @@
 * [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
 * [2023-12-29, 02:45:16](https://news.ycombinator.com/item?id=38801275) - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 * [2023-12-29, 02:33:58](https://news.ycombinator.com/item?id=38801221) - [The Web Is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
+* [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
 * [2023-12-29, 02:01:32](https://news.ycombinator.com/item?id=38801037) - [AstroForge, a private company, wants to mine a space rock](https://www.nytimes.com/2023/12/27/science/secret-asteroid-mission-astroforge.html)
 * [2023-12-29, 01:50:03](https://news.ycombinator.com/item?id=38800963) - [America Doesn't Know Tofu](https://asteriskmag.com/issues/02/america-doesn-t-know-tofu)
 * [2023-12-29, 01:35:01](https://news.ycombinator.com/item?id=38800837) - [Women builds tunnel system under her house](https://www.tiktok.com/@engineer.everything/video/7268826326511930666?_t=8iZhD9LQwSr&_r=1)

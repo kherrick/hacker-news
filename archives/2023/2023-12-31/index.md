@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 12:03:30](https://news.ycombinator.com/item?id=38823476) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-12-31, 12:01:44](https://news.ycombinator.com/item?id=38823467) - [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
+* [2023-12-31, 11:53:35](https://news.ycombinator.com/item?id=38823433) - [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 * [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
 * [2023-12-31, 07:32:47](https://news.ycombinator.com/item?id=38822456) - [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
