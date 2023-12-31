@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 * [2023-12-31, 18:28:41](https://news.ycombinator.com/item?id=38826242) - [Electric School Buses More Than Doubled in USA from March 2022 to June 2023](https://cleantechnica.com/2023/12/29/electric-school-buses-more-than-doubled-in-usa-from-march-2022-to-june-2023/)
 * [2023-12-31, 18:13:16](https://news.ycombinator.com/item?id=38826130) - [WWII heroics of 'Bazooka Charlie' doubted until daughter sets record straight](https://www.dispatch.com/story/news/local/2023/12/31/bazooka-charlies-granville-daughter-shares-wwii-heroics-in-new-book/72033226007/)
 * [2023-12-31, 17:20:51](https://news.ycombinator.com/item?id=38825623) - [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
