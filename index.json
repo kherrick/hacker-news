@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-12-30, 23:54:22",
-      "https://news.ycombinator.com/item?id=38820460"
+      "2023-12-31, 00:37:47",
+      "https://news.ycombinator.com/item?id=38820726"
     ],
     [
-      "Ask HN: Online BS – Grey Beard needs advice",
-      "https://news.ycombinator.com/item?id=38820460"
+      "Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX's Prices",
+      "https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 00:10:41",
+      "https://news.ycombinator.com/item?id=38820557"
+    ],
+    [
+      "Cuis-Smalltalk",
+      "https://cuis.st/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Android data encryption in depth",
       "https://blog.quarkslab.com/android-data-encryption-in-depth.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 22:51:33",
-      "https://news.ycombinator.com/item?id=38820078"
-    ],
-    [
-      "An elegy for the Jewish retirees of Miami Beach (2019)",
-      "https://www.newyorker.com/culture/photo-booth/an-elegy-for-the-jewish-retirees-of-miami-beach"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "LIPS: Scheme based Lisp interpreter in JavaScript",
       "https://lips.js.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 21:12:36",
-      "https://news.ycombinator.com/item?id=38819210"
-    ],
-    [
-      "Show HN: I made a resistor calculator with TS+React",
-      "https://ubavic.rs/om/index_en.html"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-12-30, 17:15:09",
+      "https://news.ycombinator.com/item?id=38816802"
+    ],
+    [
+      "Electric light transmits data faster than Wi-Fi",
+      "https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 15:51:39",
       "https://news.ycombinator.com/item?id=38816135"
     ],
@@ -197,16 +197,6 @@
     [
       "ScummVM on the App Store",
       "https://apps.apple.com/us/app/scummvm/id6446184412"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 14:22:16",
-      "https://news.ycombinator.com/item?id=38815461"
-    ],
-    [
-      "Lock Strategy (2017)",
-      "https://www.sheldonbrown.com/lock-strategy.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts",
       "https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 04:14:30",
+      "https://news.ycombinator.com/item?id=38801698"
+    ],
+    [
+      "First personal search engine prototype",
+      "https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html"
     ]
   ]
 ]
