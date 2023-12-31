@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 * [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk Ship Hit by Missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)

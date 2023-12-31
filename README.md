@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 * [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-* [2023-12-31, 03:03:11](https://news.ycombinator.com/item?id=38821372) - [Maersk ship hit by missile in the Red Sea](https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:28:56](https://news.ycombinator.com/item?id=38821224) - [Building ColdFusion for the Web](https://thehistoryoftheweb.com/building-coldfusion-for-the-web/)
 * [2023-12-31, 02:20:44](https://news.ycombinator.com/item?id=38821187) - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
@@ -25,7 +25,7 @@
 * [2023-12-30, 11:30:35](https://news.ycombinator.com/item?id=38814424) - [Midihum: An ML-Based MIDI Humanizing Tool](https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/)
 * [2023-12-30, 10:30:33](https://news.ycombinator.com/item?id=38814152) - [Asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
 * [2023-12-30, 08:34:35](https://news.ycombinator.com/item?id=38813700) - [Adventures with compression](https://jamesg.blog/2023/12/29/compression-adventures/)
-* [2023-12-30, 08:13:16](https://news.ycombinator.com/item?id=38813611) - [Back to Basics](https://smist08.wordpress.com/2022/09/04/back-to-basics/)
+* [2023-12-30, 08:13:16](https://news.ycombinator.com/item?id=38813611) - [Back to Basics (2022)](https://smist08.wordpress.com/2022/09/04/back-to-basics/)
 * [2023-12-29, 17:15:54](https://news.ycombinator.com/item?id=38807477) - [Day 20: My favourite problem from Advent of Code 2023](https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html)
 * [2023-12-29, 16:22:55](https://news.ycombinator.com/item?id=38806650) - [Malware abuses Google OAuth endpoint to 'revive' cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [2023-12-29, 04:14:30](https://news.ycombinator.com/item?id=38801698) - [First personal search engine prototype](https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html)
