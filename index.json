@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38821372"
     ],
     [
-      "Maersk Ship Hit by Missile in the Red Sea",
+      "Maersk ship hit by missile in the Red Sea",
       "https://gcaptain.com/maersk-ship-hit-by-missile-in-the-red-sea/"
     ]
   ],
@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-12-31, 02:20:44",
+      "https://news.ycombinator.com/item?id=38821187"
+    ],
+    [
+      "Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP",
+      "https://playspindle.com/"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 00:10:41",
       "https://news.ycombinator.com/item?id=38820557"
     ],
@@ -47,16 +57,6 @@
     [
       "The Heart of a Language Server",
       "https://rust-analyzer.github.io//blog/2023/12/26/the-heart-of-a-language-server.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 23:38:25",
-      "https://news.ycombinator.com/item?id=38820391"
-    ],
-    [
-      "Show HN: Common Lisp Vim Compiler Plug-In",
-      "https://git.sr.ht/~skin/roswell-sbcl.vim"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-12-30, 15:37:37",
-      "https://news.ycombinator.com/item?id=38816029"
-    ],
-    [
-      "ScummVM on the App Store",
-      "https://apps.apple.com/us/app/scummvm/id6446184412"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 14:18:24",
       "https://news.ycombinator.com/item?id=38815439"
     ],
@@ -247,6 +237,16 @@
     [
       "Fake Trees: Using Indents for Simpler UIs",
       "https://ratfactor.com/cards/fake-trees"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 10:30:33",
+      "https://news.ycombinator.com/item?id=38814152"
+    ],
+    [
+      "Asking your customers what they want doesn't work",
+      "https://techbooks.substack.com/p/why-asking-your-customers-what-they"
     ]
   ],
   [
