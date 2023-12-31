@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-12-31, 18:20:55",
+      "https://news.ycombinator.com/item?id=38826187"
+    ],
+    [
+      "Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip",
+      "https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 18:13:16",
       "https://news.ycombinator.com/item?id=38826130"
     ],
@@ -117,16 +127,6 @@
     [
       "A Modern Web for Hacker News – Open-Source and Seeking Feedback",
       "https://modern-hacker-news.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 13:13:05",
-      "https://news.ycombinator.com/item?id=38823819"
-    ],
-    [
-      "Instant messaging: Protocols are \"commons\", let's take them seriously",
-      "https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/"
     ]
   ],
   [
