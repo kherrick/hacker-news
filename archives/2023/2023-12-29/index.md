@@ -36,6 +36,7 @@
 * [2023-12-29, 19:02:27](https://news.ycombinator.com/item?id=38808889) - [Parsing an Undocumented File Format](https://blog.vivekpanyam.com/parsing-an-undocumented-file-format)
 * [2023-12-29, 18:43:28](https://news.ycombinator.com/item?id=38808626) - [Social media companies made $11B in US ad revenue from minors](https://apnews.com/article/tiktok-meta-instagram-revenue-teens-harvard-cc9bf875d6f7259ba2aee8805ccdaf3d)
 * [2023-12-29, 18:40:24](https://news.ycombinator.com/item?id=38808574) - [Increasing customer purchases at farmers markets using POS scanner data](https://onlinelibrary.wiley.com/doi/10.1002/jaa2.96)
+* [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
 * [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
 * [2023-12-29, 18:20:28](https://news.ycombinator.com/item?id=38808313) - [Learning to love to draw with Commander Mark](https://www.npr.org/2023/12/28/1217590736/mark-kistler-secret-city)
 * [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
