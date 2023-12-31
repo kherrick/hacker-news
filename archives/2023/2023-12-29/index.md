@@ -26,6 +26,7 @@
 * [2023-12-29, 19:57:58](https://news.ycombinator.com/item?id=38809485) - [Tracking developer build times to decide if the M3 MacBook is worth upgrading](https://incident.io/blog/festive-macbooks)
 * [2023-12-29, 19:53:57](https://news.ycombinator.com/item?id=38809450) - [Why large companies and fast-moving startups are banning merge commits](https://graphite.dev/blog/why-ban-merge-commits)
 * [2023-12-29, 19:37:16](https://news.ycombinator.com/item?id=38809248) - [Using Rust for Gamedev (2019)](https://medium.com/@michelotti.matthew/using-rust-for-gamedev-2f60b0e4cc5c)
+* [2023-12-29, 19:28:16](https://news.ycombinator.com/item?id=38809160) - [Demand the impossible: Rigorous database benchmarking](https://erthalion.info/2023/12/29/statistics-and-benchmarking/)
 * [2023-12-29, 19:27:52](https://news.ycombinator.com/item?id=38809156) - [The companies employees don't want to leave in 2023](https://resume.io/blog/the-companies-employees-dont-want-to-leave-in-2023)
 * [2023-12-29, 19:27:44](https://news.ycombinator.com/item?id=38809154) - [Toyota-owned automaker tampered with safety tests for 30 years](https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html)
 * [2023-12-29, 19:26:42](https://news.ycombinator.com/item?id=38809145) - [Blot Turns a Folder into a Website](https://blot.im/how)
