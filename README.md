@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
-* [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
 * [2023-12-31, 03:36:01](https://news.ycombinator.com/item?id=38821506) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:20:44](https://news.ycombinator.com/item?id=38821187) - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
@@ -15,6 +14,7 @@
 * [2023-12-30, 21:17:56](https://news.ycombinator.com/item?id=38819262) - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
 * [2023-12-30, 21:13:03](https://news.ycombinator.com/item?id=38819212) - [LIPS: Scheme based Lisp interpreter in JavaScript](https://lips.js.org/)
 * [2023-12-30, 20:56:23](https://news.ycombinator.com/item?id=38819030) - [Claude Bragdon: Drawings of the Fourth Dimension (2022)](https://socks-studio.com/2022/10/23/claude-bragdon-drawings/)
+* [2023-12-30, 20:19:07](https://news.ycombinator.com/item?id=38818700) - [Thinking About Internet History](https://content.cooperate.com/post/internet_history/)
 * [2023-12-30, 20:18:36](https://news.ycombinator.com/item?id=38818695) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 18:27:20](https://news.ycombinator.com/item?id=38817456) - [Show HN: dextk - Android dex file parser in Go](https://github.com/csnewman/dextk)
 * [2023-12-30, 17:15:09](https://news.ycombinator.com/item?id=38816802) - [Electric light transmits data faster than Wi-Fi](https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html)
