@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant Messaging: Protocols Are \"Commons\", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 12:49:04](https://news.ycombinator.com/item?id=38823719) - [There is an oom kill count in Linux](https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102)
 * [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
+* [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 * [2023-12-31, 12:04:23](https://news.ycombinator.com/item?id=38823482) - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 * [2023-12-31, 12:03:30](https://news.ycombinator.com/item?id=38823476) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-31, 12:01:44](https://news.ycombinator.com/item?id=38823467) - [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
