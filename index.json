@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2023-12-30, 18:27:20",
-      "https://news.ycombinator.com/item?id=38817456"
-    ],
-    [
-      "Show HN: dextk - Android dex file parser in Go",
-      "https://github.com/csnewman/dextk"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 17:15:09",
-      "https://news.ycombinator.com/item?id=38816802"
-    ],
-    [
-      "Electric light transmits data faster than Wi-Fi",
-      "https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 15:51:39",
       "https://news.ycombinator.com/item?id=38816135"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-12-30, 11:30:35",
+      "https://news.ycombinator.com/item?id=38814424"
+    ],
+    [
+      "Midihum: An ML-Based MIDI Humanizing Tool",
+      "https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 10:30:33",
       "https://news.ycombinator.com/item?id=38814152"
     ],
@@ -247,6 +237,16 @@
     [
       "Adventures with compression",
       "https://jamesg.blog/2023/12/29/compression-adventures/"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 08:29:29",
+      "https://news.ycombinator.com/item?id=38813677"
+    ],
+    [
+      "LuaX: A Lua Dialect with JSX",
+      "https://bvisness.me/luax/"
     ]
   ],
   [
