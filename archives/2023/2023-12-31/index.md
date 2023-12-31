@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 15:50:46](https://news.ycombinator.com/item?id=38824852) - [Your Car Is Tracking You. Abusive Partners May Be, Too.](https://www.nytimes.com/2023/12/31/technology/car-trackers-gps-abuse.html)
 * [2023-12-31, 14:12:48](https://news.ycombinator.com/item?id=38824149) - [Farewell, Java stingaree: Scientist declare the first marine fish extinction](https://news.mongabay.com/2023/12/farewell-java-stingaree-scientist-declare-the-first-marine-fish-extinction/)
 * [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant Messaging: Protocols Are \"Commons\", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 13:13:00](https://news.ycombinator.com/item?id=38823817) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)

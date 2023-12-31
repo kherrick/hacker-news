@@ -89,6 +89,7 @@
 * [2023-12-29, 03:49:54](https://news.ycombinator.com/item?id=38801589) - [Autorize – The most popular tool to discover AuthZ/AuthN flaws](https://github.com/Quitten/Autorize)
 * [2023-12-29, 03:39:47](https://news.ycombinator.com/item?id=38801549) - [Linux is the only OS to support diagonal PC monitor mode](https://www.tomshardware.com/monitors/linux-is-the-only-os-to-support-diagonal-pc-monitor-mode-dev-champions-the-case-for-22-degree-rotation-computing)
 * [2023-12-29, 03:34:27](https://news.ycombinator.com/item?id=38801519) - [Novel helmet liner 30 times better at stopping concussions](https://newatlas.com/medical/carbon-nanotube-foam-helmet-liner-concussion/)
+* [2023-12-29, 03:32:55](https://news.ycombinator.com/item?id=38801513) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-29, 02:45:16](https://news.ycombinator.com/item?id=38801275) - [Kaspersky discloses iPhone hardware feature vital in Operation Triangulation](https://www.kaspersky.com/about/press-releases/2023_kaspersky-discloses-iphone-hardware-feature-vital-in-operation-triangulation-case)
 * [2023-12-29, 02:33:58](https://news.ycombinator.com/item?id=38801221) - [The Web Is Fantastic](https://rknight.me/blog/the-web-is-fantastic/)
 * [2023-12-29, 02:27:59](https://news.ycombinator.com/item?id=38801183) - [Unprivileged process injection techniques in Linux](https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux)
