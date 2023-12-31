@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 12:04:23](https://news.ycombinator.com/item?id=38823482) - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 * [2023-12-31, 12:03:30](https://news.ycombinator.com/item?id=38823476) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-12-31, 12:01:44](https://news.ycombinator.com/item?id=38823467) - [Sell your micro startup for less than 25k dollars](https://www.buymicrostartups.com/)
 * [2023-12-31, 11:53:35](https://news.ycombinator.com/item?id=38823433) - [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
