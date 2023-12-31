@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:50:07](https://news.ycombinator.com/item?id=38826947) - [Tesla Cybertruck Charging Curve Confirms Poor Charging Performance](https://www.autoevolution.com/news/tesla-cybertruck-charging-curve-confirms-the-4680-cell-suspected-poor-charging-performance-226935.html)
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 19:13:01](https://news.ycombinator.com/item?id=38826617) - [Threads.net is the new app.net but with ads and interoperable](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
@@ -18,7 +19,6 @@
 * [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The forecasting fallacy (2020)](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)
 * [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
-* [2023-12-31, 11:15:08](https://news.ycombinator.com/item?id=38823252) - [Mazzle – A Pipelines as Code Tool](http://devops-pipeline.com/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
