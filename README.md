@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+* [2023-12-31, 22:16:52](https://news.ycombinator.com/item?id=38828007) - [86-DOS Version 0.11 Found](https://virtuallyfun.com/2023/12/30/86-dos-version-0-11-found/)
 * [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 * [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
@@ -18,7 +19,6 @@
 * [2023-12-31, 12:04:23](https://news.ycombinator.com/item?id=38823482) - [Sweden Solar System](https://en.wikipedia.org/wiki/Sweden_Solar_System)
 * [2023-12-31, 11:56:29](https://news.ycombinator.com/item?id=38823445) - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
-* [2023-12-31, 11:15:08](https://news.ycombinator.com/item?id=38823252) - [Mazzle – A pipelines as code tool](http://devops-pipeline.com/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
