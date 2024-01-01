@@ -15,6 +15,7 @@
 * [2023-12-31, 20:45:42](https://news.ycombinator.com/item?id=38827388) - [Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
 * [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:50:07](https://news.ycombinator.com/item?id=38826947) - [Tesla Cybertruck Charging Curve Confirms Poor Charging Performance](https://www.autoevolution.com/news/tesla-cybertruck-charging-curve-confirms-the-4680-cell-suspected-poor-charging-performance-226935.html)
+* [2023-12-31, 19:28:33](https://news.ycombinator.com/item?id=38826763) - [White Elephant is surprisingly effective](https://bobbiec.github.io/white-elephant.html)
 * [2023-12-31, 19:16:11](https://news.ycombinator.com/item?id=38826649) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 19:13:01](https://news.ycombinator.com/item?id=38826617) - [Threads.net is the new app.net but with ads and interoperable](https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/)
 * [2023-12-31, 19:07:46](https://news.ycombinator.com/item?id=38826564) - [Live proxy and VPN detection](https://proxy.incolumitas.com/proxy_detect.html)
