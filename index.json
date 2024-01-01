@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38830132"
     ],
     [
-      "Website Impersonating a Desktop Environment",
+      "DaedalOS – Desktop environment in the browser",
       "https://dustinbrett.com/"
     ]
   ],
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2023-12-31, 19:07:46",
-      "https://news.ycombinator.com/item?id=38826564"
-    ],
-    [
-      "Live proxy and VPN detection",
-      "https://proxy.incolumitas.com/proxy_detect.html"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 18:20:55",
       "https://news.ycombinator.com/item?id=38826187"
     ],
     [
       "Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip",
       "https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 13:13:00",
+      "https://news.ycombinator.com/item?id=38823817"
+    ],
+    [
+      "Email addresses are not good 'permanent' identifiers for accounts",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=38822319"
     ],
     [
-      "Decision Table Patterns",
+      "Decision Table Patterns (2020)",
       "https://www.hillelwayne.com/post/decision-table-patterns/"
     ]
   ],
