@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-12-31, 15:05:32",
-      "https://news.ycombinator.com/item?id=38824504"
-    ],
-    [
-      "Synctify – Sync a music drop with a time in the real world",
-      "https://synctify.app"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 12:10:52",
       "https://news.ycombinator.com/item?id=38823514"
     ],
@@ -297,6 +287,16 @@
     [
       "A Core Calculus for Documents [pdf]",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 10:02:28",
+      "https://news.ycombinator.com/item?id=38803367"
+    ],
+    [
+      "Why my print didn't output before a segmentation fault",
+      "https://blog.yelinaung.com/posts/what-happened-to-my-print/"
     ]
   ]
 ]
