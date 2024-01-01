@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-01, 02:30:59",
+      "https://news.ycombinator.com/item?id=38829303"
+    ],
+    [
+      "Show HN: Pokemon prototype game made with JavaScript and p5.js",
+      "https://github.com/JSLegendDev/Pokemon-p5js"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 02:17:47",
       "https://news.ycombinator.com/item?id=38829235"
     ],
     [
       "Merkle Town: Explore the certificate transparency ecosystem",
       "https://ct.cloudflare.com/"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 02:04:26",
+      "https://news.ycombinator.com/item?id=38829177"
+    ],
+    [
+      "Show HN: Raiseto – Discover and Share Ideas",
+      "https://raiseto.com/"
     ]
   ],
   [
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2023-12-31, 22:36:11",
-      "https://news.ycombinator.com/item?id=38828124"
+      "2024-01-01, 00:27:12",
+      "https://news.ycombinator.com/item?id=38828682"
     ],
     [
-      "A Cypherpunk's Manifesto (1993)",
-      "https://www.activism.net/cypherpunk/manifesto.html"
+      "Ask HN: What software/tech blogs/magazines should I be reading in 2024?",
+      "https://news.ycombinator.com/item?id=38828682"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 00:15:45",
+      "https://news.ycombinator.com/item?id=38828619"
+    ],
+    [
+      "Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC",
+      "https://lupyuen.codeberg.page/articles/nim.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-12-31, 17:44:58",
-      "https://news.ycombinator.com/item?id=38825884"
-    ],
-    [
-      "Warchalking",
-      "https://en.wikipedia.org/wiki/Warchalking"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 17:20:51",
       "https://news.ycombinator.com/item?id=38825623"
     ],
@@ -167,16 +187,6 @@
     [
       "Bun, JavaScript, and TCO",
       "https://www.onsclom.net/posts/javascript-tco"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 12:16:36",
-      "https://news.ycombinator.com/item?id=38823542"
-    ],
-    [
-      "The forecasting fallacy (2020)",
-      "https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Core Calculus for Documents [pdf]",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 03:32:55",
-      "https://news.ycombinator.com/item?id=38801513"
-    ],
-    [
-      "A weird CPIO discrepancy",
-      "https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/"
     ]
   ]
 ]
