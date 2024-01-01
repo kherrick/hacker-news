@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-01, 18:46:08",
+      "https://news.ycombinator.com/item?id=38834244"
+    ],
+    [
+      "Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory",
+      "https://arxiv.org/abs/2310.20360"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 18:37:26",
+      "https://news.ycombinator.com/item?id=38834156"
+    ],
+    [
+      "Microdot: Yet Another Python Web Framework",
+      "https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 18:31:42",
       "https://news.ycombinator.com/item?id=38834077"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-01-01, 15:18:47",
-      "https://news.ycombinator.com/item?id=38832336"
-    ],
-    [
-      "Archaeologists reconstructed the burning of Jerusalem in 586 BCE",
-      "https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 15:16:32",
       "https://news.ycombinator.com/item?id=38832317"
     ],
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2024-01-01, 07:41:22",
-      "https://news.ycombinator.com/item?id=38830281"
-    ],
-    [
-      "Magnitude 7.6 earthquake strikes Japan, tsunami warning issued for Ishikawa",
-      "https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 07:35:09",
-      "https://news.ycombinator.com/item?id=38830264"
-    ],
-    [
-      "Disney's Mickey Mouse enter public domain",
-      "https://www.bbc.com/news/entertainment-arts-67833411"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 06:48:45",
       "https://news.ycombinator.com/item?id=38830132"
     ],
@@ -217,6 +207,16 @@
     [
       "Using a Markov chain to generate readable nonsense with 20 lines of Python",
       "https://benhoyt.com/writings/markov-chain/"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 21:52:51",
+      "https://news.ycombinator.com/item?id=38827820"
+    ],
+    [
+      "Generative Uncertainty",
+      "https://vaughntan.org/generative-uncertainty"
     ]
   ],
   [
