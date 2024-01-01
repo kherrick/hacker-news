@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+* [2024-01-01, 04:45:13](https://news.ycombinator.com/item?id=38829786) - [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 * [2024-01-01, 02:33:52](https://news.ycombinator.com/item?id=38829322) - [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 * [2024-01-01, 02:30:59](https://news.ycombinator.com/item?id=38829303) - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
@@ -14,7 +15,6 @@
 * [2023-12-31, 19:07:46](https://news.ycombinator.com/item?id=38826564) - [Live proxy and VPN detection](https://proxy.incolumitas.com/proxy_detect.html)
 * [2023-12-31, 18:33:34](https://news.ycombinator.com/item?id=38826283) - [Happy New Year HN!](https://news.ycombinator.com/item?id=38826283)
 * [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
-* [2023-12-31, 17:20:51](https://news.ycombinator.com/item?id=38825623) - [Sony software updates breaks movie theater projectors](https://bsky.app/profile/donohoe.dev/post/3khu7w2kz7l2b)
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-31, 16:26:37](https://news.ycombinator.com/item?id=38825158) - [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
 * [2023-12-31, 15:54:55](https://news.ycombinator.com/item?id=38824886) - [Ambient Co-Presence](https://maggieappleton.com/ambient-copresence)
