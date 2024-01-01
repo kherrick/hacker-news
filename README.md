@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 * [2024-01-01, 08:45:34](https://news.ycombinator.com/item?id=38830484) - [Saxo Bank's Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
 * [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
@@ -29,7 +30,6 @@
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
-* [2023-12-29, 10:02:28](https://news.ycombinator.com/item?id=38803367) - [Why my print didn't output before a segmentation fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 
 ## [Archives](archives/index.md)
 
