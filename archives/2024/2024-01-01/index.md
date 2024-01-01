@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 20:55:35](https://news.ycombinator.com/item?id=38835253) - [Israeli Justices Reject Netanyahu-Led Move to Limit Court](https://www.nytimes.com/live/2024/01/01/world/israel-supreme-court-gaza-news)
 * [2024-01-01, 20:06:42](https://news.ycombinator.com/item?id=38834895) - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 * [2024-01-01, 19:13:41](https://news.ycombinator.com/item?id=38834460) - [VW wouldn't help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/)

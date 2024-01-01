@@ -60,6 +60,7 @@
 * [2023-12-31, 11:15:08](https://news.ycombinator.com/item?id=38823252) - [Mazzle – A Pipelines as Code Tool](http://devops-pipeline.com/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
+* [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done (in small increments)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
 * [2023-12-31, 09:14:35](https://news.ycombinator.com/item?id=38822785) - [Pushing It Back](http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html)
 * [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
