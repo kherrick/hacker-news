@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 20:55:35](https://news.ycombinator.com/item?id=38835253) - [Israeli Justices Reject Netanyahu-Led Move to Limit Court](https://www.nytimes.com/live/2024/01/01/world/israel-supreme-court-gaza-news)
 * [2024-01-01, 20:06:42](https://news.ycombinator.com/item?id=38834895) - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
