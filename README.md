@@ -7,7 +7,7 @@
 * [2024-01-01, 17:36:15](https://news.ycombinator.com/item?id=38833523) - [29 years ago today I went online. Netscape Navigator 1.0 was the tool I loved](https://winworldpc.com/product/netscape-navigator/1x)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 * [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
-* [2024-01-01, 17:23:42](https://news.ycombinator.com/item?id=38833434) - [Ant Completes Process of Removing Jack Ma's Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)
+* [2024-01-01, 16:45:57](https://news.ycombinator.com/item?id=38833113) - [Show HN: DBChaos – A Database stress testing tool](https://github.com/adaptive-scale/dbchaos)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
 * [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
 * [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
