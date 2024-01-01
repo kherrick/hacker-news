@@ -8,6 +8,7 @@
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:37:26](https://news.ycombinator.com/item?id=38834156) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2024-01-01, 18:31:42](https://news.ycombinator.com/item?id=38834077) - [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
+* [2024-01-01, 18:26:34](https://news.ycombinator.com/item?id=38834011) - [Vintage Computing](https://deramp.com/)
 * [2024-01-01, 18:13:54](https://news.ycombinator.com/item?id=38833881) - [2024's public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
 * [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:57:14](https://news.ycombinator.com/item?id=38833703) - [How I destroyed the company's DB (a stupid SQL mistake)](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
