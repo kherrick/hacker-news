@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-01, 17:57:14](https://news.ycombinator.com/item?id=38833703) - [How I destroyed the company's DB (a stupid SQL mistake)](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
+* [2024-01-01, 18:31:42](https://news.ycombinator.com/item?id=38834077) - [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
+* [2024-01-01, 18:13:54](https://news.ycombinator.com/item?id=38833881) - [2024's public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
 * [2024-01-01, 17:46:35](https://news.ycombinator.com/item?id=38833609) - [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
-* [2024-01-01, 17:33:40](https://news.ycombinator.com/item?id=38833504) - [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 * [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 * [2024-01-01, 17:23:42](https://news.ycombinator.com/item?id=38833434) - [Ant Completes Process of Removing Jack Ma's Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)

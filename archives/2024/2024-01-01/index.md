@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 18:31:42](https://news.ycombinator.com/item?id=38834077) - [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
+* [2024-01-01, 18:13:54](https://news.ycombinator.com/item?id=38833881) - [2024's public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
 * [2024-01-01, 17:57:14](https://news.ycombinator.com/item?id=38833703) - [How I destroyed the company's DB (a stupid SQL mistake)](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
 * [2024-01-01, 17:46:35](https://news.ycombinator.com/item?id=38833609) - [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 17:33:40](https://news.ycombinator.com/item?id=38833504) - [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
