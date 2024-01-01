@@ -40,6 +40,7 @@
 * [2023-12-29, 18:28:35](https://news.ycombinator.com/item?id=38808433) - [They're Paid Billions to Root Out Child Labor in the U.S. Why Do They Fail?](https://www.nytimes.com/2023/12/28/us/migrant-child-labor-audits.html)
 * [2023-12-29, 18:20:28](https://news.ycombinator.com/item?id=38808313) - [Learning to love to draw with Commander Mark](https://www.npr.org/2023/12/28/1217590736/mark-kistler-secret-city)
 * [2023-12-29, 18:09:07](https://news.ycombinator.com/item?id=38808163) - [Open Source Liability Is Coming](https://developersalliance.org/open-source-liability-is-coming/)
+* [2023-12-29, 18:06:11](https://news.ycombinator.com/item?id=38808121) - [Comparing Tech Used for Apollo, Artemis NASA Missions](https://www.eetimes.com/comparing-tech-used-for-apollo-artemis-nasa-missions/)
 * [2023-12-29, 17:35:54](https://news.ycombinator.com/item?id=38807720) - [\"No inventions; no innovations\" A History of US Steel](https://www.construction-physics.com/p/no-inventions-no-innovations-a-history)
 * [2023-12-29, 17:19:58](https://news.ycombinator.com/item?id=38807531) - [Chemicals of \"Concern\" Found in Philips Breathing Machines](https://www.propublica.org/article/philips-recall-machines-chemicals-of-concern)
 * [2023-12-29, 17:15:54](https://news.ycombinator.com/item?id=38807477) - [Day 20: My favourite problem from Advent of Code 2023](https://mliezun.github.io/2023/12/25/favourite-advent-of-code-2023.html)
