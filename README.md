@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 16:28:55](https://news.ycombinator.com/item?id=38832996) - [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
 * [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
 * [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
@@ -25,7 +26,6 @@
 * [2023-12-31, 12:12:05](https://news.ycombinator.com/item?id=38823523) - [My SBC Collection](https://multimedia.cx/eggs/my-sbc-collection/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
-* [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [Ask HN: What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
 * [2023-12-31, 07:03:13](https://news.ycombinator.com/item?id=38822350) - [AzuraCast: A Simple, Self-Hosted Web Radio Management Suite](https://github.com/AzuraCast/AzuraCast)
 * [2023-12-31, 06:50:53](https://news.ycombinator.com/item?id=38822319) - [Decision Table Patterns (2020)](https://www.hillelwayne.com/post/decision-table-patterns/)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
