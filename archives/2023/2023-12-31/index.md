@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 23:30:50](https://news.ycombinator.com/item?id=38828417) - [Will we be addicted to our phones forever? An optimistic outlook](https://www.getclearspace.com/blog/post/optimistic-future-digital-wellbeing)
 * [2023-12-31, 22:36:11](https://news.ycombinator.com/item?id=38828124) - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 22:16:52](https://news.ycombinator.com/item?id=38828007) - [86-DOS Version 0.11 Found](https://virtuallyfun.com/2023/12/30/86-dos-version-0-11-found/)
@@ -64,4 +65,5 @@
 * [2023-12-31, 02:20:44](https://news.ycombinator.com/item?id=38821187) - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
 * [2023-12-31, 02:16:24](https://news.ycombinator.com/item?id=38821166) - [Simulating Non-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
 * [2023-12-31, 00:37:47](https://news.ycombinator.com/item?id=38820726) - [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX's Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
+* [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 * [2023-12-31, 00:10:41](https://news.ycombinator.com/item?id=38820557) - [Cuis-Smalltalk](https://cuis.st/)
