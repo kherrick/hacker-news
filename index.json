@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-12-30, 11:45:25",
+      "https://news.ycombinator.com/item?id=38814492"
+    ],
+    [
+      "Committing Without Git",
+      "https://matheustavares.gitlab.io/posts/committing-without-git"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 10:40:32",
       "https://news.ycombinator.com/item?id=38814193"
     ],
@@ -287,16 +297,6 @@
     [
       "A weird CPIO discrepancy",
       "https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 23:04:37",
-      "https://news.ycombinator.com/item?id=38799856"
-    ],
-    [
-      "Apple's Predicament – NSPredicate Exploitation on macOS and iOS [video]",
-      "https://www.youtube.com/watch?v=R62sm30G2Jw"
     ]
   ]
 ]
