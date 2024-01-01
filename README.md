@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-01, 20:55:35](https://news.ycombinator.com/item?id=38835253) - [Israeli Justices Reject Netanyahu-Led Move to Limit Court](https://www.nytimes.com/live/2024/01/01/world/israel-supreme-court-gaza-news)
 * [2024-01-01, 20:06:42](https://news.ycombinator.com/item?id=38834895) - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
@@ -8,6 +7,7 @@
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 17:36:15](https://news.ycombinator.com/item?id=38833523) - [Netscape 1.x](https://winworldpc.com/product/netscape-navigator/1x)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman with rectifier and electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
+* [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 * [2024-01-01, 17:15:56](https://news.ycombinator.com/item?id=38833381) - [DARPA Triage Challenge](https://triagechallenge.darpa.mil/)
 * [2024-01-01, 17:09:54](https://news.ycombinator.com/item?id=38833325) - [All DMCA Notices Filed Against TorrentFreak in 2023 Were Bogus](https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2023-were-bogus-240101/)
 * [2024-01-01, 16:57:10](https://news.ycombinator.com/item?id=38833208) - [Happy Public Domain Day](https://publicdomainreview.org/blog/2024/01/public-domain-day-2024/)
