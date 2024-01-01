@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
 * [2024-01-01, 11:16:20](https://news.ycombinator.com/item?id=38831083) - [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
+* [2024-01-01, 11:05:27](https://news.ycombinator.com/item?id=38831039) - [Japan issues tsunami warnings after a series of strong earthquakes](https://english.elpais.com/international/2024-01-01/japan-issues-tsunami-warnings-after-a-series-of-strong-earthquakes-on-sea-of-japan-coast.html)
 * [2024-01-01, 10:05:17](https://news.ycombinator.com/item?id=38830824) - [Welcome to the public domain, Steamboat Willie](https://mastodon.archive.org/@internetarchive/111679346484777332)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)

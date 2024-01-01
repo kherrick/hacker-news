@@ -61,6 +61,7 @@
 * [2023-12-31, 07:32:47](https://news.ycombinator.com/item?id=38822456) - [The X220 ThinkPad Is the Best Laptop in the World](https://bt.ht/posts/x220/)
 * [2023-12-31, 07:03:13](https://news.ycombinator.com/item?id=38822350) - [AzuraCast: A Simple, Self-Hosted Web Radio Management Suite](https://github.com/AzuraCast/AzuraCast)
 * [2023-12-31, 06:50:53](https://news.ycombinator.com/item?id=38822319) - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
+* [2023-12-31, 06:25:45](https://news.ycombinator.com/item?id=38822251) - [Slow Electricity: The Return of DC Power? (2016)](https://solar.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-dc-power/)
 * [2023-12-31, 05:59:11](https://news.ycombinator.com/item?id=38822164) - [Emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 05:38:44](https://news.ycombinator.com/item?id=38822094) - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 * [2023-12-31, 04:34:52](https://news.ycombinator.com/item?id=38821840) - [The Downsides of Go's Goroutines](https://blog.djha.skin/blog/the-down-sides-of-gos-goroutines/)
