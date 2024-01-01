@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-01, 22:17:57](https://news.ycombinator.com/item?id=38835845) - [Fireworks are probable cause of perchlorate contaminant in groundwater (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
-* [2024-01-01, 22:08:29](https://news.ycombinator.com/item?id=38835777) - [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 * [2024-01-01, 19:32:54](https://news.ycombinator.com/item?id=38834627) - [Fail2ban Sucks](https://j3s.sh/thought/fail2ban-sux.html)
@@ -22,6 +21,7 @@
 * [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing annoying blue standby lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 * [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Web browser as GUI, with your preferred language in the backend](https://github.com/webui-dev/webui)
+* [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: Made some progress on character consistency for AI storytelling](https://app.artflow.ai/character-builder?feature=characters)
 * [2023-12-31, 11:34:24](https://news.ycombinator.com/item?id=38823332) - [Coproc Tutorial (2011)](https://www.zsh.org/mla/users/2011/msg00095.html)
 * [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done (in small increments) (2022)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
 * [2023-12-31, 10:15:23](https://news.ycombinator.com/item?id=38822981) - [Karl Hans Janke – The \"artist-inventor\"](https://www.arthistoricum.net/en/subjects/image/janke-archive)
