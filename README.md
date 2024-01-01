@@ -2,6 +2,7 @@
 
 * [2024-01-01, 16:28:55](https://news.ycombinator.com/item?id=38832996) - [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
+* [2024-01-01, 15:54:22](https://news.ycombinator.com/item?id=38832678) - [South Africa's application to the ICJ regarding Israel [pdf]](https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf)
 * [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
 * [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 * [2024-01-01, 15:09:50](https://news.ycombinator.com/item?id=38832257) - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
@@ -19,7 +20,6 @@
 * [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 years ago, Steve Jobs said the best employees focus on content, not process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 * [2024-01-01, 04:40:15](https://news.ycombinator.com/item?id=38829772) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
-* [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 12:12:05](https://news.ycombinator.com/item?id=38823523) - [My SBC Collection](https://multimedia.cx/eggs/my-sbc-collection/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)

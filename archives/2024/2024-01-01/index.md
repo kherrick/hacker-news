@@ -6,6 +6,7 @@
 
 * [2024-01-01, 16:28:55](https://news.ycombinator.com/item?id=38832996) - [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
+* [2024-01-01, 15:54:22](https://news.ycombinator.com/item?id=38832678) - [South Africa's application to the ICJ regarding Israel [pdf]](https://www.icj-cij.org/sites/default/files/case-related/192/192-20231228-app-01-00-en.pdf)
 * [2024-01-01, 15:23:32](https://news.ycombinator.com/item?id=38832375) - [ChatGPT 3 validates misinformation, research finds](https://uwaterloo.ca/news/media/large-language-models-validate-misinformation-research-finds)
 * [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
 * [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
