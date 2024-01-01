@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-01, 20:06:42",
+      "https://news.ycombinator.com/item?id=38834895"
+    ],
+    [
+      "PyPy has moved to Git, GitHub",
+      "https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 18:46:08",
       "https://news.ycombinator.com/item?id=38834244"
     ],
@@ -17,16 +27,6 @@
     [
       "Microdot: Yet Another Python Web Framework",
       "https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 18:26:34",
-      "https://news.ycombinator.com/item?id=38834011"
-    ],
-    [
-      "Vintage Computing",
-      "https://deramp.com/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-12-31, 11:11:37",
-      "https://news.ycombinator.com/item?id=38823240"
+      "2023-12-31, 11:34:24",
+      "https://news.ycombinator.com/item?id=38823332"
     ],
     [
-      "Counterfactual Regret Minimisation or How I won any money in Poker?",
-      "https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html"
+      "Coproc Tutorial (2011)",
+      "https://www.zsh.org/mla/users/2011/msg00095.html"
     ]
   ],
   [
