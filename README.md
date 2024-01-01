@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-01, 15:23:32](https://news.ycombinator.com/item?id=38832375) - [ChatGPT 3 validates misinformation, research finds](https://uwaterloo.ca/news/media/large-language-models-validate-misinformation-research-finds)
+* [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
 * [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
+* [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 * [2024-01-01, 15:09:50](https://news.ycombinator.com/item?id=38832257) - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
 * [2024-01-01, 14:48:43](https://news.ycombinator.com/item?id=38832136) - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
 * [2024-01-01, 13:14:57](https://news.ycombinator.com/item?id=38831581) - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
@@ -21,7 +22,6 @@
 * [2024-01-01, 04:40:15](https://news.ycombinator.com/item?id=38829772) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 * [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
-* [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 12:12:05](https://news.ycombinator.com/item?id=38823523) - [My SBC Collection](https://multimedia.cx/eggs/my-sbc-collection/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
