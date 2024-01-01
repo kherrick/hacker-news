@@ -11,6 +11,7 @@
 * [2023-12-31, 21:49:10](https://news.ycombinator.com/item?id=38827801) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 * [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 * [2023-12-31, 21:17:44](https://news.ycombinator.com/item?id=38827599) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
+* [2023-12-31, 21:16:04](https://news.ycombinator.com/item?id=38827582) - [An Easy Fix](https://chhopsky.itch.io/an-easy-fix)
 * [2023-12-31, 20:45:42](https://news.ycombinator.com/item?id=38827388) - [Half of High School Seniors Won't Apply to Colleges Costing More Than $40k](https://www.forbes.com/sites/emmawhitford/2023/11/07/half-of-high-school-seniors-wont-apply-to-colleges-costing-more-than-40000/)
 * [2023-12-31, 19:59:33](https://news.ycombinator.com/item?id=38827026) - [2023: Year in Review](https://jvns.ca/blog/2023/12/31/2023--year-in-review/)
 * [2023-12-31, 19:50:07](https://news.ycombinator.com/item?id=38826947) - [Tesla Cybertruck Charging Curve Confirms Poor Charging Performance](https://www.autoevolution.com/news/tesla-cybertruck-charging-curve-confirms-the-4680-cell-suspected-poor-charging-performance-226935.html)
