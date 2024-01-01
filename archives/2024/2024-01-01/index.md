@@ -7,6 +7,7 @@
 * [2024-01-01, 10:05:17](https://news.ycombinator.com/item?id=38830824) - [Welcome to the public domain, Steamboat Willie](https://mastodon.archive.org/@internetarchive/111679346484777332)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
+* [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
 * [2024-01-01, 08:45:34](https://news.ycombinator.com/item?id=38830484) - [Saxo Bank's Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
 * [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: We solved character consistency in AI filmmaking](https://app.artflow.ai/character-builder?feature=characters)
 * [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
