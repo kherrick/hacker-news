@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-01-01, 09:55:51",
-      "https://news.ycombinator.com/item?id=38830782"
-    ],
-    [
-      "Fixing Annoying Blue Standby Lights",
-      "https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 09:33:47",
       "https://news.ycombinator.com/item?id=38830687"
     ],
@@ -221,12 +211,22 @@
   ],
   [
     [
-      "2023-12-31, 19:28:33",
-      "https://news.ycombinator.com/item?id=38826763"
+      "2023-12-31, 22:21:56",
+      "https://news.ycombinator.com/item?id=38828040"
     ],
     [
-      "White Elephant is surprisingly effective",
-      "https://bobbiec.github.io/white-elephant.html"
+      "Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs",
+      "https://github.com/ublue-os/bazzite"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 19:07:46",
+      "https://news.ycombinator.com/item?id=38826564"
+    ],
+    [
+      "Live proxy and VPN detection",
+      "https://proxy.incolumitas.com/proxy_detect.html"
     ]
   ],
   [
