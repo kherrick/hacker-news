@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 14:48:43](https://news.ycombinator.com/item?id=38832136) - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
 * [2024-01-01, 14:25:54](https://news.ycombinator.com/item?id=38831991) - [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
+* [2024-01-01, 14:21:55](https://news.ycombinator.com/item?id=38831950) - [Japan's 18-year-olds at record-low 1.06 million](https://www.japantimes.co.jp/news/2023/12/31/japan/society/japans-18-yr-olds/)
 * [2024-01-01, 13:43:19](https://news.ycombinator.com/item?id=38831710) - [Writing Lesson, Comment on Friedman. Don't piss people off if you don't have to](https://www.grumpy-economist.com/p/writing-lesson-comment-on-tom-friedman)
 * [2024-01-01, 13:14:57](https://news.ycombinator.com/item?id=38831581) - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 * [2024-01-01, 12:42:01](https://news.ycombinator.com/item?id=38831446) - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
