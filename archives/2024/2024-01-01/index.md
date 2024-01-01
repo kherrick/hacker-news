@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 * [2024-01-01, 07:35:09](https://news.ycombinator.com/item?id=38830264) - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 * [2024-01-01, 07:20:44](https://news.ycombinator.com/item?id=38830223) - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
+* [2024-01-01, 07:10:19](https://news.ycombinator.com/item?id=38830194) - [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
 * [2024-01-01, 06:48:45](https://news.ycombinator.com/item?id=38830132) - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 * [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 * [2024-01-01, 04:45:13](https://news.ycombinator.com/item?id=38829786) - [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
