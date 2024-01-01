@@ -15,10 +15,12 @@
 * [2024-01-01, 04:45:13](https://news.ycombinator.com/item?id=38829786) - [Beginner dev looks at how YouTube sends videos](https://vincentsg.dev/dec31?)
 * [2024-01-01, 04:40:15](https://news.ycombinator.com/item?id=38829772) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
+* [2024-01-01, 02:30:59](https://news.ycombinator.com/item?id=38829303) - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
 * [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
 * [2024-01-01, 00:15:45](https://news.ycombinator.com/item?id=38828619) - [Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC](https://lupyuen.codeberg.page/articles/nim.html)
 * [2024-01-01, 00:08:38](https://news.ycombinator.com/item?id=38828594) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
+* [2023-12-31, 21:16:04](https://news.ycombinator.com/item?id=38827582) - [An Easy Fix](https://chhopsky.itch.io/an-easy-fix)
 * [2023-12-31, 12:12:05](https://news.ycombinator.com/item?id=38823523) - [My SoC (system-on-a-chip) collection](https://multimedia.cx/eggs/my-sbc-collection/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 * [2023-12-31, 08:12:35](https://news.ycombinator.com/item?id=38822569) - [Ask HN: What has quantum computing achieved so far?](https://news.ycombinator.com/item?id=38822569)
@@ -27,9 +29,7 @@
 * [2023-12-31, 06:25:45](https://news.ycombinator.com/item?id=38822251) - [Slow Electricity: The Return of DC Power? (2016)](https://solar.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-dc-power/)
 * [2023-12-31, 00:54:13](https://news.ycombinator.com/item?id=38820804) - [Model suggests asteroids that come close to Earth are torn apart by its gravity](https://phys.org/news/2023-12-asteroids-earth-torn-gravity.html)
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
-* [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
-* [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
 
 ## [Archives](archives/index.md)
 
