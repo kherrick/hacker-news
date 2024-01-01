@@ -44,6 +44,7 @@
 * [2023-12-31, 13:40:20](https://news.ycombinator.com/item?id=38823973) - [January 1, 2024 is Public Domain Day](https://web.law.duke.edu/cspd/publicdomainday/2024/)
 * [2023-12-31, 13:13:05](https://news.ycombinator.com/item?id=38823819) - [Instant Messaging: Protocols Are \"Commons\", Let's Take Them Seriously](https://www.process-one.net/blog/instant-messaging-protocols-are-commons-lets-take-them-seriously/)
 * [2023-12-31, 13:13:00](https://news.ycombinator.com/item?id=38823817) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
+* [2023-12-31, 12:55:45](https://news.ycombinator.com/item?id=38823749) - [Read fewer books and feel better about it](https://newsletter.pnote.eu/p/read-fewer-books)
 * [2023-12-31, 12:49:04](https://news.ycombinator.com/item?id=38823719) - [There is an oom kill count in Linux](https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102)
 * [2023-12-31, 12:40:39](https://news.ycombinator.com/item?id=38823673) - [Bun, JavaScript, and TCO](https://www.onsclom.net/posts/javascript-tco)
 * [2023-12-31, 12:16:36](https://news.ycombinator.com/item?id=38823542) - [The Forecasting Fallacy](https://www.alexmurrell.co.uk/articles/the-forecasting-fallacy)

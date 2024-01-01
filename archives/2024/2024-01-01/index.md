@@ -30,6 +30,7 @@
 * [2024-01-01, 17:09:54](https://news.ycombinator.com/item?id=38833325) - [All DMCA Notices Filed Against TorrentFreak in 2023 Were Bogus](https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2023-were-bogus-240101/)
 * [2024-01-01, 17:03:36](https://news.ycombinator.com/item?id=38833276) - [US office owners face $117B wall of debt repayments](https://www.ft.com/content/4ed9e5b0-f3de-422a-9a07-a328ebf2340c)
 * [2024-01-01, 16:57:10](https://news.ycombinator.com/item?id=38833208) - [Happy Public Domain Day](https://publicdomainreview.org/blog/2024/01/public-domain-day-2024/)
+* [2024-01-01, 16:50:30](https://news.ycombinator.com/item?id=38833150) - [The Paradox of Declining Female Happiness (2009) [pdf]](https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/Stevenson_ParadoxDecliningFemaleHappiness_Dec08.pdf)
 * [2024-01-01, 16:45:57](https://news.ycombinator.com/item?id=38833113) - [Show HN: DBChaos – A Database stress testing tool](https://github.com/adaptive-scale/dbchaos)
 * [2024-01-01, 16:28:55](https://news.ycombinator.com/item?id=38832996) - [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
