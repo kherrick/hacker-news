@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 17:33:40](https://news.ycombinator.com/item?id=38833504) - [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
+* [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 * [2024-01-01, 17:23:42](https://news.ycombinator.com/item?id=38833434) - [Ant Completes Process of Removing Jack Ma's Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)
 * [2024-01-01, 17:03:36](https://news.ycombinator.com/item?id=38833276) - [US office owners face $117B wall of debt repayments](https://www.ft.com/content/4ed9e5b0-f3de-422a-9a07-a328ebf2340c)
 * [2024-01-01, 16:28:55](https://news.ycombinator.com/item?id=38832996) - [What Happens When You Quit Sugar? [video]](https://www.youtube.com/watch?v=86uC5fgraiI)
