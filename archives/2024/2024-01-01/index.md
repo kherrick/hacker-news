@@ -19,3 +19,4 @@
 * [2024-01-01, 00:27:12](https://news.ycombinator.com/item?id=38828682) - [Ask HN: What software/tech blogs/magazines should I be reading in 2024?](https://news.ycombinator.com/item?id=38828682)
 * [2024-01-01, 00:18:13](https://news.ycombinator.com/item?id=38828628) - [Major Alzheimer paper retracted by former Stanford president after a decade](https://stanforddaily.com/2023/12/31/blockbuster-alzheimers-paper-retracted-by-former-stanford-president-after-a-decade-of-resistance/)
 * [2024-01-01, 00:15:45](https://news.ycombinator.com/item?id=38828619) - [Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC](https://lupyuen.codeberg.page/articles/nim.html)
+* [2024-01-01, 00:08:38](https://news.ycombinator.com/item?id=38828594) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
