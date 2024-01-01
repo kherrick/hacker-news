@@ -66,6 +66,7 @@
 * [2023-12-31, 02:25:54](https://news.ycombinator.com/item?id=38821208) - [ECS, Finally](https://www.mark-pekala.dev/posts/ecs-finally)
 * [2023-12-31, 02:20:44](https://news.ycombinator.com/item?id=38821187) - [Show HN: Spindle, a cross between Wordle and a Rubik's Cube made in PHP](https://playspindle.com/)
 * [2023-12-31, 02:16:24](https://news.ycombinator.com/item?id=38821166) - [Simulating Non-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
+* [2023-12-31, 00:54:13](https://news.ycombinator.com/item?id=38820804) - [Model suggests asteroids that come close to Earth are torn apart by its gravity](https://phys.org/news/2023-12-asteroids-earth-torn-gravity.html)
 * [2023-12-31, 00:37:47](https://news.ycombinator.com/item?id=38820726) - [Jaw-Dropping News: Boeing and Lockheed Just Matched SpaceX's Prices](https://www.fool.com/investing/2023/12/30/jaw-dropping-news-boeing-and-lockheed-just-matched/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 * [2023-12-31, 00:10:41](https://news.ycombinator.com/item?id=38820557) - [Cuis-Smalltalk](https://cuis.st/)
