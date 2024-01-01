@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-01-01, 02:30:59",
+      "https://news.ycombinator.com/item?id=38829303"
+    ],
+    [
+      "Show HN: Pokemon prototype game made with JavaScript and p5.js",
+      "https://github.com/JSLegendDev/Pokemon-p5js"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 02:17:47",
       "https://news.ycombinator.com/item?id=38829235"
     ],
@@ -187,6 +197,16 @@
     [
       "Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs",
       "https://github.com/ublue-os/bazzite"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 21:16:04",
+      "https://news.ycombinator.com/item?id=38827582"
+    ],
+    [
+      "An Easy Fix",
+      "https://chhopsky.itch.io/an-easy-fix"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-12-30, 20:30:13",
-      "https://news.ycombinator.com/item?id=38818800"
-    ],
-    [
-      "Spomenik Database",
-      "https://www.spomenikdatabase.org"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 11:55:18",
       "https://news.ycombinator.com/item?id=38814560"
     ],
     [
       "37C3: Fuzzing the TCP/IP Stack",
       "https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 18:38:38",
-      "https://news.ycombinator.com/item?id=38808552"
-    ],
-    [
-      "A Core Calculus for Documents [pdf]",
-      "https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf"
     ]
   ]
 ]
