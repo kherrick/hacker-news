@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 13:14:57](https://news.ycombinator.com/item?id=38831581) - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 * [2024-01-01, 12:42:01](https://news.ycombinator.com/item?id=38831446) - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
 * [2024-01-01, 11:16:20](https://news.ycombinator.com/item?id=38831083) - [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
 * [2024-01-01, 11:05:27](https://news.ycombinator.com/item?id=38831039) - [Japan issues tsunami warnings after a series of strong earthquakes](https://english.elpais.com/international/2024-01-01/japan-issues-tsunami-warnings-after-a-series-of-strong-earthquakes-on-sea-of-japan-coast.html)
