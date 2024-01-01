@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 20:06:42](https://news.ycombinator.com/item?id=38834895) - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:37:26](https://news.ycombinator.com/item?id=38834156) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
-* [2024-01-01, 18:26:34](https://news.ycombinator.com/item?id=38834011) - [Vintage Computing](https://deramp.com/)
 * [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 17:36:15](https://news.ycombinator.com/item?id=38833523) - [Netscape 1.x](https://winworldpc.com/product/netscape-navigator/1x)
@@ -24,7 +24,7 @@
 * [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Web browser as GUI, with your preferred language in the backend](https://github.com/webui-dev/webui)
 * [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: Made some progress on character consistency for AI storytelling](https://app.artflow.ai/character-builder?feature=characters)
 * [2023-12-31, 11:44:25](https://news.ycombinator.com/item?id=38823386) - [vmcache: Virtual-Memory Assisted Buffer Management [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
-* [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
+* [2023-12-31, 11:34:24](https://news.ycombinator.com/item?id=38823332) - [Coproc Tutorial (2011)](https://www.zsh.org/mla/users/2011/msg00095.html)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
 * [2023-12-31, 09:14:35](https://news.ycombinator.com/item?id=38822785) - [Pushing It Back](http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html)
 * [2023-12-31, 06:25:45](https://news.ycombinator.com/item?id=38822251) - [Slow Electricity: The Return of DC Power? (2016)](https://solar.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-dc-power/)

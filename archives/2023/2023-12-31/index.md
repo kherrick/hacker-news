@@ -55,6 +55,7 @@
 * [2023-12-31, 11:56:29](https://news.ycombinator.com/item?id=38823445) - [A future for SQL on the web (2021)](https://jlongster.com/future-sql-web)
 * [2023-12-31, 11:53:35](https://news.ycombinator.com/item?id=38823433) - [Ask HN: What low risk passive income makes you feel secure?](https://news.ycombinator.com/item?id=38823433)
 * [2023-12-31, 11:44:25](https://news.ycombinator.com/item?id=38823386) - [vmcache: Virtual-Memory Assisted Buffer Management [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
+* [2023-12-31, 11:34:24](https://news.ycombinator.com/item?id=38823332) - [Coproc Tutorial (2011)](https://www.zsh.org/mla/users/2011/msg00095.html)
 * [2023-12-31, 11:28:25](https://news.ycombinator.com/item?id=38823304) - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
 * [2023-12-31, 11:15:08](https://news.ycombinator.com/item?id=38823252) - [Mazzle – A Pipelines as Code Tool](http://devops-pipeline.com/)
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
