@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
 * [2024-01-01, 22:17:57](https://news.ycombinator.com/item?id=38835845) - [Fireworks are probable cause of perchlorate contaminant in groundwater (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
+* [2024-01-01, 22:08:29](https://news.ycombinator.com/item?id=38835777) - [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 20:55:35](https://news.ycombinator.com/item?id=38835253) - [Israeli Justices Reject Netanyahu-Led Move to Limit Court](https://www.nytimes.com/live/2024/01/01/world/israel-supreme-court-gaza-news)
 * [2024-01-01, 20:06:42](https://news.ycombinator.com/item?id=38834895) - [PyPy has moved to Git, GitHub](https://www.pypy.org/posts/2023/12/pypy-moved-to-git-github.html)
