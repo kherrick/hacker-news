@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: We solved character consistency in AI filmmaking](https://app.artflow.ai/character-builder?feature=characters)
 * [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 * [2024-01-01, 07:35:09](https://news.ycombinator.com/item?id=38830264) - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 * [2024-01-01, 07:20:44](https://news.ycombinator.com/item?id=38830223) - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
