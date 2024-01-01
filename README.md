@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 10:05:17](https://news.ycombinator.com/item?id=38830824) - [Welcome to the public domain, Steamboat Willie](https://mastodon.archive.org/@internetarchive/111679346484777332)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 * [2024-01-01, 08:45:34](https://news.ycombinator.com/item?id=38830484) - [Saxo Bank's Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
@@ -26,7 +27,6 @@
 * [2023-12-31, 06:50:53](https://news.ycombinator.com/item?id=38822319) - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
 * [2023-12-31, 00:54:13](https://news.ycombinator.com/item?id=38820804) - [Model suggests asteroids that come close to Earth are torn apart by its gravity](https://phys.org/news/2023-12-asteroids-earth-torn-gravity.html)
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
-* [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
