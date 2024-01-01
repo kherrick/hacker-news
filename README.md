@@ -24,12 +24,12 @@
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 * [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
+* [2023-12-30, 11:45:25](https://news.ycombinator.com/item?id=38814492) - [Committing Without Git](https://matheustavares.gitlab.io/posts/committing-without-git)
 * [2023-12-30, 10:40:32](https://news.ycombinator.com/item?id=38814193) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
 * [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step mechanical logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
 * [2023-12-29, 03:32:55](https://news.ycombinator.com/item?id=38801513) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
-* [2023-12-28, 23:04:37](https://news.ycombinator.com/item?id=38799856) - [Apple's Predicament – NSPredicate Exploitation on macOS and iOS [video]](https://www.youtube.com/watch?v=R62sm30G2Jw)
 
 ## [Archives](archives/index.md)
 
