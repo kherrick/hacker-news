@@ -9,6 +9,7 @@
 * [2024-01-01, 17:36:15](https://news.ycombinator.com/item?id=38833523) - [29 years ago today I went online. Netscape Navigator 1.0 was the tool I loved](https://winworldpc.com/product/netscape-navigator/1x)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 * [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
+* [2024-01-01, 17:09:54](https://news.ycombinator.com/item?id=38833325) - [All DMCA Notices Filed Against TorrentFreak in 2023 Were Bogus](https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2023-were-bogus-240101/)
 * [2024-01-01, 16:57:10](https://news.ycombinator.com/item?id=38833208) - [Happy Public Domain Day](https://publicdomainreview.org/blog/2024/01/public-domain-day-2024/)
 * [2024-01-01, 16:45:57](https://news.ycombinator.com/item?id=38833113) - [Show HN: DBChaos – A Database stress testing tool](https://github.com/adaptive-scale/dbchaos)
 * [2024-01-01, 16:24:53](https://news.ycombinator.com/item?id=38832959) - [Tom Scott: After ten years, it's time to stop making videos [video]](https://www.youtube.com/watch?v=7DKv5H5Frt0)
@@ -27,7 +28,6 @@
 * [2023-12-31, 11:11:37](https://news.ycombinator.com/item?id=38823240) - [Counterfactual Regret Minimisation or How I won any money in Poker?](https://rnikhil.com/2023/12/31/ai-cfr-solver-poker.html)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
 * [2023-12-31, 09:14:35](https://news.ycombinator.com/item?id=38822785) - [Pushing It Back](http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html)
-* [2023-12-31, 06:50:53](https://news.ycombinator.com/item?id=38822319) - [Decision Table Patterns (2020)](https://www.hillelwayne.com/post/decision-table-patterns/)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
 * [2023-12-29, 18:06:11](https://news.ycombinator.com/item?id=38808121) - [Comparing Tech Used for Apollo, Artemis NASA Missions](https://www.eetimes.com/comparing-tech-used-for-apollo-artemis-nasa-missions/)
 

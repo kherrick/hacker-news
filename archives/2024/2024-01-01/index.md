@@ -17,6 +17,7 @@
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 * [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
 * [2024-01-01, 17:23:42](https://news.ycombinator.com/item?id=38833434) - [Ant Completes Process of Removing Jack Ma's Control](https://www.bloomberg.com/news/articles/2023-12-30/ant-completes-process-of-removing-billionaire-jack-ma-s-control)
+* [2024-01-01, 17:09:54](https://news.ycombinator.com/item?id=38833325) - [All DMCA Notices Filed Against TorrentFreak in 2023 Were Bogus](https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2023-were-bogus-240101/)
 * [2024-01-01, 17:03:36](https://news.ycombinator.com/item?id=38833276) - [US office owners face $117B wall of debt repayments](https://www.ft.com/content/4ed9e5b0-f3de-422a-9a07-a328ebf2340c)
 * [2024-01-01, 16:57:10](https://news.ycombinator.com/item?id=38833208) - [Happy Public Domain Day](https://publicdomainreview.org/blog/2024/01/public-domain-day-2024/)
 * [2024-01-01, 16:45:57](https://news.ycombinator.com/item?id=38833113) - [Show HN: DBChaos – A Database stress testing tool](https://github.com/adaptive-scale/dbchaos)
