@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 07:35:09](https://news.ycombinator.com/item?id=38830264) - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 * [2024-01-01, 07:20:44](https://news.ycombinator.com/item?id=38830223) - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
 * [2024-01-01, 06:48:45](https://news.ycombinator.com/item?id=38830132) - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 * [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
@@ -18,7 +19,6 @@
 * [2023-12-31, 19:07:46](https://news.ycombinator.com/item?id=38826564) - [Live proxy and VPN detection](https://proxy.incolumitas.com/proxy_detect.html)
 * [2023-12-31, 18:20:55](https://news.ycombinator.com/item?id=38826187) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 * [2023-12-31, 16:26:37](https://news.ycombinator.com/item?id=38825158) - [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
-* [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 07:03:13](https://news.ycombinator.com/item?id=38822350) - [AzuraCast: A Simple, Self-Hosted Web Radio Management Suite](https://github.com/AzuraCast/AzuraCast)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
