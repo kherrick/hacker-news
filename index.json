@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-01, 11:16:20",
+      "https://news.ycombinator.com/item?id=38831083"
+    ],
+    [
+      "Orange Site Hit",
+      "https://blog.davep.org/2024/01/01/oshit.html"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 09:52:52",
       "https://news.ycombinator.com/item?id=38830767"
     ],
@@ -27,6 +37,16 @@
     [
       "Use any web browser as GUI, with Zig in the back end and HTML5 in the front end",
       "https://github.com/webui-dev/zig-webui"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 08:30:26",
+      "https://news.ycombinator.com/item?id=38830441"
+    ],
+    [
+      "Extract Web Data Easily with AI",
+      "https://www.kadoa.com/"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Merkle Town: Explore the certificate transparency ecosystem",
       "https://ct.cloudflare.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 02:04:26",
-      "https://news.ycombinator.com/item?id=38829177"
-    ],
-    [
-      "Show HN: Raiseto – Discover and Share Ideas",
-      "https://raiseto.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Core Calculus for Documents [pdf]",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 10:02:28",
-      "https://news.ycombinator.com/item?id=38803367"
-    ],
-    [
-      "Why my print didn't output before a segmentation fault",
-      "https://blog.yelinaung.com/posts/what-happened-to-my-print/"
     ]
   ]
 ]
