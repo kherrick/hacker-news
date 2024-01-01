@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-01, 03:18:07",
+      "https://news.ycombinator.com/item?id=38829503"
+    ],
+    [
+      "Watch out, Fly.io suddenly charging for IPv4 addresses",
+      "https://community.fly.io/t/we-are-going-to-start-charging-for-dedicated-ipv4-in-january-1st/15970"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 02:30:59",
       "https://news.ycombinator.com/item?id=38829303"
     ],
@@ -57,16 +67,6 @@
     [
       "Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC",
       "https://lupyuen.codeberg.page/articles/nim.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 22:36:11",
-      "https://news.ycombinator.com/item?id=38828124"
-    ],
-    [
-      "A Cypherpunk's Manifesto (1993)",
-      "https://www.activism.net/cypherpunk/manifesto.html"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-12-31, 12:40:39",
-      "https://news.ycombinator.com/item?id=38823673"
-    ],
-    [
-      "Bun, JavaScript, and TCO",
-      "https://www.onsclom.net/posts/javascript-tco"
-    ]
-  ],
-  [
-    [
       "2023-12-31, 12:10:52",
       "https://news.ycombinator.com/item?id=38823514"
     ],
@@ -257,6 +247,16 @@
     [
       "Beyond Bollywood's glitz, a subtler Indian cinema embraces new stories",
       "https://www.nytimes.com/2023/12/25/world/asia/kaathal-film-mammootty-india.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 11:45:25",
+      "https://news.ycombinator.com/item?id=38814492"
+    ],
+    [
+      "Committing Without Git",
+      "https://matheustavares.gitlab.io/posts/committing-without-git"
     ]
   ],
   [
