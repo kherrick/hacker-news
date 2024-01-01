@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-01, 17:46:35",
+      "https://news.ycombinator.com/item?id=38833609"
+    ],
+    [
+      "Fish shell 3.7.0 released, the last release branch before the full Rust rewrite",
+      "https://github.com/fish-shell/fish-shell/releases/tag/3.7.0"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 17:33:40",
       "https://news.ycombinator.com/item?id=38833504"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-01-01, 07:10:19",
-      "https://news.ycombinator.com/item?id=38830194"
-    ],
-    [
-      "Git Things",
-      "https://matklad.github.io/2023/12/31/git-things.html#Git-Things"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 06:48:45",
       "https://news.ycombinator.com/item?id=38830132"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-12-31, 11:44:25",
+      "https://news.ycombinator.com/item?id=38823386"
+    ],
+    [
+      "vmcache: Virtual-Memory Assisted Buffer Management [pdf]",
+      "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 11:11:37",
       "https://news.ycombinator.com/item?id=38823240"
     ],
@@ -257,16 +267,6 @@
     [
       "Pushing It Back",
       "http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 07:03:13",
-      "https://news.ycombinator.com/item?id=38822350"
-    ],
-    [
-      "AzuraCast: A Simple, Self-Hosted Web Radio Management Suite",
-      "https://github.com/AzuraCast/AzuraCast"
     ]
   ],
   [
