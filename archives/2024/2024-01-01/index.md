@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 15:23:32](https://news.ycombinator.com/item?id=38832375) - [ChatGPT 3 validates misinformation, research finds](https://uwaterloo.ca/news/media/large-language-models-validate-misinformation-research-finds)
+* [2024-01-01, 15:18:47](https://news.ycombinator.com/item?id=38832336) - [Archaeologists reconstructed the burning of Jerusalem in 586 BCE](https://arstechnica.com/science/2023/12/how-archaeologists-reconstructed-the-burning-of-jerusalem-in-586-bce/)
+* [2024-01-01, 15:09:50](https://news.ycombinator.com/item?id=38832257) - [Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost](https://github.com/html5-ninja/page-replica)
 * [2024-01-01, 14:48:43](https://news.ycombinator.com/item?id=38832136) - [Generative AI flooding online crocheting spaces with unrealistic amigurumi pics](https://twitter.com/LauraRbnsn/status/1741494511849578753)
 * [2024-01-01, 14:25:54](https://news.ycombinator.com/item?id=38831991) - [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
 * [2024-01-01, 14:21:55](https://news.ycombinator.com/item?id=38831950) - [Japan's 18-year-olds at record-low 1.06 million](https://www.japantimes.co.jp/news/2023/12/31/japan/society/japans-18-yr-olds/)
