@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 17:57:14](https://news.ycombinator.com/item?id=38833703) - [How I destroyed the company's DB (a stupid SQL mistake)](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
 * [2024-01-01, 17:46:35](https://news.ycombinator.com/item?id=38833609) - [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 17:33:40](https://news.ycombinator.com/item?id=38833504) - [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
@@ -31,6 +32,7 @@
 * [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing Annoying Blue Standby Lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
+* [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Web browser as GUI, with your preferred language in the backend](https://github.com/webui-dev/webui)
 * [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
 * [2024-01-01, 08:45:34](https://news.ycombinator.com/item?id=38830484) - [Saxo Bank's Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
 * [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: We solved character consistency in AI filmmaking](https://app.artflow.ai/character-builder?feature=characters)
