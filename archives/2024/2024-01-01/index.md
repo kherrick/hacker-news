@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 04:26:13](https://news.ycombinator.com/item?id=38829730) - [Ask HN: Best way to recover from an opiate overdose](https://news.ycombinator.com/item?id=38829730)
 * [2024-01-01, 03:18:07](https://news.ycombinator.com/item?id=38829503) - [Watch out, Fly.io suddenly charging for IPv4 addresses](https://community.fly.io/t/we-are-going-to-start-charging-for-dedicated-ipv4-in-january-1st/15970)
+* [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 * [2024-01-01, 02:33:52](https://news.ycombinator.com/item?id=38829322) - [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 * [2024-01-01, 02:30:59](https://news.ycombinator.com/item?id=38829303) - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
 * [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)

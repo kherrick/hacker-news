@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 04:26:13](https://news.ycombinator.com/item?id=38829730) - [Ask HN: Best way to recover from an opiate overdose](https://news.ycombinator.com/item?id=38829730)
+* [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 * [2024-01-01, 02:33:52](https://news.ycombinator.com/item?id=38829322) - [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 * [2024-01-01, 02:30:59](https://news.ycombinator.com/item?id=38829303) - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
 * [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
@@ -17,7 +19,6 @@
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-31, 16:26:37](https://news.ycombinator.com/item?id=38825158) - [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
 * [2023-12-31, 15:54:55](https://news.ycombinator.com/item?id=38824886) - [Ambient Co-Presence](https://maggieappleton.com/ambient-copresence)
-* [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
 * [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
@@ -25,7 +26,6 @@
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
 * [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
-* [2023-12-30, 11:45:25](https://news.ycombinator.com/item?id=38814492) - [Committing Without Git](https://matheustavares.gitlab.io/posts/committing-without-git)
 * [2023-12-30, 10:40:32](https://news.ycombinator.com/item?id=38814193) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
 * [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step mechanical logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
