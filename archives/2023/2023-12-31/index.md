@@ -8,6 +8,7 @@
 * [2023-12-31, 22:36:11](https://news.ycombinator.com/item?id=38828124) - [A Cypherpunk's Manifesto (1993)](https://www.activism.net/cypherpunk/manifesto.html)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a Steam0S-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
 * [2023-12-31, 22:16:52](https://news.ycombinator.com/item?id=38828007) - [86-DOS Version 0.11 Found](https://virtuallyfun.com/2023/12/30/86-dos-version-0-11-found/)
+* [2023-12-31, 21:52:51](https://news.ycombinator.com/item?id=38827820) - [Generative Uncertainty](https://vaughntan.org/generative-uncertainty)
 * [2023-12-31, 21:49:10](https://news.ycombinator.com/item?id=38827801) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 * [2023-12-31, 21:21:30](https://news.ycombinator.com/item?id=38827620) - [Molecular jackhammers eradicate cancer cells by vibronic-driven action](https://www.nature.com/articles/s41557-023-01383-y)
 * [2023-12-31, 21:17:44](https://news.ycombinator.com/item?id=38827599) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
