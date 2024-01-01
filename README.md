@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: We solved character consistency in AI filmmaking](https://app.artflow.ai/character-builder?feature=characters)
 * [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 * [2024-01-01, 07:35:09](https://news.ycombinator.com/item?id=38830264) - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
 * [2024-01-01, 07:20:44](https://news.ycombinator.com/item?id=38830223) - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
@@ -28,6 +27,7 @@
 * [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
+* [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step mechanical logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
 * [2023-12-29, 10:02:28](https://news.ycombinator.com/item?id=38803367) - [Why my print didn't output before a segmentation fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 
