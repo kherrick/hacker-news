@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 * [2024-01-01, 04:26:13](https://news.ycombinator.com/item?id=38829730) - [Ask HN: Best way to recover from an opiate overdose](https://news.ycombinator.com/item?id=38829730)
 * [2024-01-01, 03:18:07](https://news.ycombinator.com/item?id=38829503) - [Watch out, Fly.io suddenly charging for IPv4 addresses](https://community.fly.io/t/we-are-going-to-start-charging-for-dedicated-ipv4-in-january-1st/15970)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)

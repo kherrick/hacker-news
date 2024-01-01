@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 * [2024-01-01, 02:57:56](https://news.ycombinator.com/item?id=38829448) - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
 * [2024-01-01, 02:33:52](https://news.ycombinator.com/item?id=38829322) - [Record Number of Tornadoes in the NWS Chicago Forecast Area in 2023](https://www.weather.gov/lot/2023tornadoes)
 * [2024-01-01, 02:30:59](https://news.ycombinator.com/item?id=38829303) - [Show HN: Pokemon prototype game made with JavaScript and p5.js](https://github.com/JSLegendDev/Pokemon-p5js)
 * [2024-01-01, 02:17:47](https://news.ycombinator.com/item?id=38829235) - [Merkle Town: Explore the certificate transparency ecosystem](https://ct.cloudflare.com/)
 * [2024-01-01, 02:04:26](https://news.ycombinator.com/item?id=38829177) - [Show HN: Raiseto – Discover and Share Ideas](https://raiseto.com/)
-* [2024-01-01, 00:38:45](https://news.ycombinator.com/item?id=38828739) - [Ask HN: Is there a data set for GitHub repos associated with academic papers?](https://news.ycombinator.com/item?id=38828739)
 * [2024-01-01, 00:27:12](https://news.ycombinator.com/item?id=38828682) - [Ask HN: What software/tech blogs/magazines should I be reading in 2024?](https://news.ycombinator.com/item?id=38828682)
 * [2024-01-01, 00:15:45](https://news.ycombinator.com/item?id=38828619) - [Nim on a Real-Time Operating System: Apache NuttX RTOS and Ox64 BL808 SBC](https://lupyuen.codeberg.page/articles/nim.html)
 * [2023-12-31, 22:21:56](https://news.ycombinator.com/item?id=38828040) - [Bazzite – a SteamOS-like OCI image for desktop, living room, and handheld PCs](https://github.com/ublue-os/bazzite)
