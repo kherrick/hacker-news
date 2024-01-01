@@ -61,6 +61,7 @@
 * [2023-12-30, 14:18:24](https://news.ycombinator.com/item?id=38815439) - [Coastline Paradox](https://en.wikipedia.org/wiki/Coastline_paradox)
 * [2023-12-30, 14:08:02](https://news.ycombinator.com/item?id=38815370) - [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)
 * [2023-12-30, 14:01:52](https://news.ycombinator.com/item?id=38815334) - [The art of high performance computing](https://theartofhpc.com/)
+* [2023-12-30, 14:00:58](https://news.ycombinator.com/item?id=38815327) - [Beyond Bollywood's glitz, a subtler Indian cinema embraces new stories](https://www.nytimes.com/2023/12/25/world/asia/kaathal-film-mammootty-india.html)
 * [2023-12-30, 14:00:36](https://news.ycombinator.com/item?id=38815324) - [Emoji are legally actionable](https://www.theatlantic.com/technology/archive/2023/12/emoji-corporate-lawsuits-court/676967/)
 * [2023-12-30, 13:36:10](https://news.ycombinator.com/item?id=38815155) - [Xi Goes Full Stalin with Purge](https://www.politico.eu/article/chinas-paranoid-purge-xi-jinping-li-keqiang-qin-gang-li-shangfu/)
 * [2023-12-30, 13:35:35](https://news.ycombinator.com/item?id=38815150) - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
