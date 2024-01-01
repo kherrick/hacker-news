@@ -2,8 +2,8 @@
 
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:37:26](https://news.ycombinator.com/item?id=38834156) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
-* [2024-01-01, 18:31:42](https://news.ycombinator.com/item?id=38834077) - [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
 * [2024-01-01, 18:13:54](https://news.ycombinator.com/item?id=38833881) - [2024's public domain is a banger](https://pluralistic.net/2023/12/20/em-oh-you-ess-ee/)
+* [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 17:46:35](https://news.ycombinator.com/item?id=38833609) - [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 17:36:15](https://news.ycombinator.com/item?id=38833523) - [29 years ago today I went online. Netscape Navigator 1.0 was the tool I loved](https://winworldpc.com/product/netscape-navigator/1x)
