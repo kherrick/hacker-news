@@ -45,8 +45,18 @@
       "https://news.ycombinator.com/item?id=38833658"
     ],
     [
-      "A* Tricks for Videogame Path Finding",
+      "A* tricks for videogame path finding",
       "https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 17:36:15",
+      "https://news.ycombinator.com/item?id=38833523"
+    ],
+    [
+      "Netscape 1.x",
+      "https://winworldpc.com/product/netscape-navigator/1x"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=38833497"
     ],
     [
-      "Woman plugging in electric car (1912)",
+      "Woman with rectifier and electric car (1912)",
       "https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/"
     ]
   ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-01-01, 16:24:53",
-      "https://news.ycombinator.com/item?id=38832959"
-    ],
-    [
-      "Tom Scott: After ten years, it's time to stop making videos [video]",
-      "https://www.youtube.com/watch?v=7DKv5H5Frt0"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 15:16:32",
       "https://news.ycombinator.com/item?id=38832317"
     ],
@@ -137,6 +137,26 @@
     [
       "Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost",
       "https://github.com/html5-ninja/page-replica"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 14:25:54",
+      "https://news.ycombinator.com/item?id=38831991"
+    ],
+    [
+      "Subject-First Commit Messages",
+      "https://github.com/aaronjensen/software-development/blob/master/commit-messages.md"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 13:14:57",
+      "https://news.ycombinator.com/item?id=38831581"
+    ],
+    [
+      "Show HN: I made TV Sort, a web-based game for ranking TV show episodes",
+      "https://tvsort.com/"
     ]
   ],
   [
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2024-01-01, 09:55:51",
+      "https://news.ycombinator.com/item?id=38830782"
+    ],
+    [
+      "Fixing annoying blue standby lights",
+      "https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 09:33:47",
       "https://news.ycombinator.com/item?id=38830687"
     ],
@@ -197,36 +227,6 @@
     [
       "Show HN: Made some progress on character consistency for AI storytelling",
       "https://app.artflow.ai/character-builder?feature=characters"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 04:40:15",
-      "https://news.ycombinator.com/item?id=38829772"
-    ],
-    [
-      "Using a Markov chain to generate readable nonsense with 20 lines of Python",
-      "https://benhoyt.com/writings/markov-chain/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 21:52:51",
-      "https://news.ycombinator.com/item?id=38827820"
-    ],
-    [
-      "Generative Uncertainty",
-      "https://vaughntan.org/generative-uncertainty"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 12:12:05",
-      "https://news.ycombinator.com/item?id=38823523"
-    ],
-    [
-      "My SBC Collection",
-      "https://multimedia.cx/eggs/my-sbc-collection/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-12-31, 06:50:53",
-      "https://news.ycombinator.com/item?id=38822319"
+      "2023-12-31, 06:25:45",
+      "https://news.ycombinator.com/item?id=38822251"
     ],
     [
-      "Decision Table Patterns (2020)",
-      "https://www.hillelwayne.com/post/decision-table-patterns/"
+      "Slow Electricity: The Return of DC Power? (2016)",
+      "https://solar.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-dc-power/"
     ]
   ],
   [
     [
-      "2023-12-30, 11:55:18",
-      "https://news.ycombinator.com/item?id=38814560"
+      "2023-12-31, 04:10:47",
+      "https://news.ycombinator.com/item?id=38821708"
     ],
     [
-      "37C3: Fuzzing the TCP/IP Stack",
-      "https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/"
+      "Decision Table Based Methodology for Software Development (2004)",
+      "https://www.methodsandtools.com/archive/archive.php?id=39"
     ]
   ],
   [
