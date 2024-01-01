@@ -26,10 +26,10 @@
 * [2023-12-31, 06:50:53](https://news.ycombinator.com/item?id=38822319) - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
 * [2023-12-31, 00:54:13](https://news.ycombinator.com/item?id=38820804) - [Model suggests asteroids that come close to Earth are torn apart by its gravity](https://phys.org/news/2023-12-asteroids-earth-torn-gravity.html)
 * [2023-12-31, 00:19:53](https://news.ycombinator.com/item?id=38820616) - [High Precision Mapping from Scratch](https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/)
-* [2023-12-30, 21:37:27](https://news.ycombinator.com/item?id=38819442) - [Lanark: A Life in Four Books](https://en.wikipedia.org/wiki/Lanark:_A_Life_in_Four_Books)
 * [2023-12-30, 20:30:13](https://news.ycombinator.com/item?id=38818800) - [Spomenik Database](https://www.spomenikdatabase.org)
 * [2023-12-30, 11:55:18](https://news.ycombinator.com/item?id=38814560) - [37C3: Fuzzing the TCP/IP Stack](https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
+* [2023-12-29, 10:02:28](https://news.ycombinator.com/item?id=38803367) - [Why my print didn't output before a segmentation fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 
 ## [Archives](archives/index.md)
 
