@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 17:46:35](https://news.ycombinator.com/item?id=38833609) - [Fish shell 3.7.0 released, the last release branch before the full Rust rewrite](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 17:33:40](https://news.ycombinator.com/item?id=38833504) - [The quality of your life is the quality of the people you get to know](https://jakeseliger.com/2023/11/28/the-quality-of-your-life-is-the-quality-of-the-people-you-get-to-know-illuminating-the-david-brooks-way/)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman plugging in electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
 * [2024-01-01, 17:24:00](https://news.ycombinator.com/item?id=38833440) - [The Procrastination Matrix (2015)](https://waitbutwhy.com/2015/03/procrastination-matrix.html)
