@@ -18,7 +18,6 @@
 * [2023-12-31, 17:01:15](https://news.ycombinator.com/item?id=38825458) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-12-31, 16:26:37](https://news.ycombinator.com/item?id=38825158) - [Logistic Regression for Image Classification Using OpenCV](https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/)
 * [2023-12-31, 15:54:55](https://news.ycombinator.com/item?id=38824886) - [Ambient Co-Presence](https://maggieappleton.com/ambient-copresence)
-* [2023-12-31, 15:05:32](https://news.ycombinator.com/item?id=38824504) - [Synctify – Sync a music drop with a time in the real world](https://synctify.app)
 * [2023-12-31, 12:10:52](https://news.ycombinator.com/item?id=38823514) - [7 watts idle – building a low powered server/NAS on Intel 12th/13th gen](https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/)
 * [2023-12-31, 10:45:33](https://news.ycombinator.com/item?id=38823101) - [I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 02:32:22](https://news.ycombinator.com/item?id=38821248) - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
@@ -30,6 +29,7 @@
 * [2023-12-30, 05:31:34](https://news.ycombinator.com/item?id=38813019) - [Solar Cell Efficiency Table](https://onlinelibrary.wiley.com/doi/10.1002/pip.3750)
 * [2023-12-29, 19:54:31](https://news.ycombinator.com/item?id=38809454) - [The step-by-step mechanical logic of old pinball machines [video]](https://www.youtube.com/watch?v=E3p_Cv32tEo)
 * [2023-12-29, 18:38:38](https://news.ycombinator.com/item?id=38808552) - [A Core Calculus for Documents [pdf]](https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf)
+* [2023-12-29, 10:02:28](https://news.ycombinator.com/item?id=38803367) - [Why my print didn't output before a segmentation fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 
 ## [Archives](archives/index.md)
 

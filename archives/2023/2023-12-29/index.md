@@ -78,6 +78,7 @@
 * [2023-12-29, 10:34:16](https://news.ycombinator.com/item?id=38803589) - [Salt and salary: were Roman soldiers paid in salt? [No; mythbusting article]](http://kiwihellenist.blogspot.com/2017/01/salt-and-salary.html)
 * [2023-12-29, 10:29:38](https://news.ycombinator.com/item?id=38803556) - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 10:25:19](https://news.ycombinator.com/item?id=38803528) - [Tallest wooden wind turbine starts turning](https://www.bbc.com/news/science-environment-67718719)
+* [2023-12-29, 10:02:28](https://news.ycombinator.com/item?id=38803367) - [Why my print didn't output before a segmentation fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 * [2023-12-29, 09:31:04](https://news.ycombinator.com/item?id=38803160) - [Herringbone Wang Tiles (2011)](https://nothings.org/gamedev/herringbone/)
 * [2023-12-29, 09:18:48](https://news.ycombinator.com/item?id=38803092) - [Ask HN: What are good books/blogs to read for a first time CTO](https://news.ycombinator.com/item?id=38803092)
 * [2023-12-29, 08:59:20](https://news.ycombinator.com/item?id=38802996) - [The Worst Kind of Programmer](http://mikhailian.mova.org/node/284)
