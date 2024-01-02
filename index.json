@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-01-02, 15:47:43",
-      "https://news.ycombinator.com/item?id=38842788"
-    ],
-    [
-      "Japan Goes All In: Copyright Doesn't Apply to AI Training",
-      "https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 15:40:42",
       "https://news.ycombinator.com/item?id=38842703"
     ],
     [
       "The Infinite/Eternal Jukebox has been revived",
       "https://jukebox.davi.gq/jukebox_search.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 15:37:38",
-      "https://news.ycombinator.com/item?id=38842669"
-    ],
-    [
-      "Best paper awards in computer science over the past 28 years (1996-2023)",
-      "https://jeffhuang.com/best_paper_awards/"
     ]
   ],
   [
@@ -41,22 +21,52 @@
   ],
   [
     [
-      "2024-01-02, 14:55:34",
-      "https://news.ycombinator.com/item?id=38842248"
-    ],
-    [
-      "Antimacassar",
-      "https://en.wikipedia.org/wiki/Antimacassar"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 14:46:21",
       "https://news.ycombinator.com/item?id=38842116"
     ],
     [
       "A New Blog for 2024",
       "https://chrisnicholas.dev/blog/a-new-blog-for-2024"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 14:12:08",
+      "https://news.ycombinator.com/item?id=38841752"
+    ],
+    [
+      "Built and Android app that uses LLMs to learn stuff",
+      "https://play.google.com/store/apps/details?id=app.vercel.pagunt.twa&hl=en_US"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 14:10:29",
+      "https://news.ycombinator.com/item?id=38841727"
+    ],
+    [
+      "Introduction to Plan 9",
+      "http://fqa.9front.org/fqa0.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 14:06:05",
+      "https://news.ycombinator.com/item?id=38841680"
+    ],
+    [
+      "Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-fla",
+      "https://jade.fyi/blog/flakes-arent-real/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 13:26:55",
+      "https://news.ycombinator.com/item?id=38841382"
+    ],
+    [
+      "LAN Mouse is a mouse and keyboard sharing software",
+      "https://github.com/feschber/lan-mouse"
     ]
   ],
   [
@@ -77,6 +87,16 @@
     [
       "After 34 Years, Someone Beat Tetris [video]",
       "https://www.youtube.com/watch?v=GuJ5UuknsHU"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 12:16:54",
+      "https://news.ycombinator.com/item?id=38840850"
+    ],
+    [
+      "Parallelising Heirarchical Small World Graphs",
+      "https://github.com/GavinMendelGleason/blog/blob/main/entries/parallelising_hnsw.md"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=38839652"
     ],
     [
-      "Salim Kara stole $2M in coins with a magnet and a car antenna",
+      "Salim Kara stole $2M in coins with a magnet and a car antenna (2022)",
       "https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/"
     ]
   ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-01-01, 20:34:35",
-      "https://news.ycombinator.com/item?id=38835113"
-    ],
-    [
-      "How to Build the CMoy Pocket Amplifier (2016)",
-      "https://tangentsoft.com/audio/cmoy/"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 11:23:54",
       "https://news.ycombinator.com/item?id=38831119"
     ],
@@ -277,16 +287,6 @@
     [
       "Video playback on low-end MS-DOS machines",
       "https://scalibq.wordpress.com/2024/01/01/video-playback-on-low-end-ms-dos-machines/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 19:50:58",
-      "https://news.ycombinator.com/item?id=38826954"
-    ],
-    [
-      "Emoji by Year",
-      "https://taylor.town/emoji-by-year"
     ]
   ],
   [
