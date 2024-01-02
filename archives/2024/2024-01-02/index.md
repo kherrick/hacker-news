@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 02:47:41](https://news.ycombinator.com/item?id=38837480) - [JavaScript Support in MySQL](https://blogs.oracle.com/mysql/post/introducing-javascript-support-in-mysql)
 * [2024-01-02, 01:59:10](https://news.ycombinator.com/item?id=38837231) - [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
 * [2024-01-02, 00:52:32](https://news.ycombinator.com/item?id=38836849) - [Why Is There a 'Strand of DNA' on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
 * [2024-01-02, 00:29:25](https://news.ycombinator.com/item?id=38836660) - [2024](https://xkcd.com/2875/)
