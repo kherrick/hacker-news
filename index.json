@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-02, 03:37:04",
+      "https://news.ycombinator.com/item?id=38837807"
+    ],
+    [
+      "Zig cookbook: collection of simple Zig programs that demonstrate good practices",
+      "https://github.com/zigcc/zig-cookbook"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 03:21:59",
       "https://news.ycombinator.com/item?id=38837716"
     ],
@@ -17,16 +27,6 @@
     [
       "$450 for a School Bag?",
       "https://one-from-nippon.ghost.io/randoseru/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 01:59:10",
-      "https://news.ycombinator.com/item?id=38837231"
-    ],
-    [
-      "Can We Imagine a World Without Work?",
-      "https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/"
     ]
   ],
   [
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-01-01, 23:10:57",
-      "https://news.ycombinator.com/item?id=38836187"
+      "2024-01-01, 23:29:19",
+      "https://news.ycombinator.com/item?id=38836293"
     ],
     [
-      "Open-Source ChatGPT Alternative Jan",
-      "https://jan.ai/"
+      "Codebreaker Cracks 135 Year Old Message [video]",
+      "https://www.youtube.com/watch?v=wu9o3vSYtl4"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-12-31, 21:17:44",
-      "https://news.ycombinator.com/item?id=38827599"
+      "2023-12-31, 13:31:42",
+      "https://news.ycombinator.com/item?id=38823915"
     ],
     [
-      "O(1) Build File",
-      "https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File"
+      "Why Android Developers No Longer Need Windows USB Drivers",
+      "https://fabiensanglard.net/android_windows_driver/"
     ]
   ],
   [
