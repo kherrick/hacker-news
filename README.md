@@ -4,7 +4,7 @@
 * [2024-01-02, 00:25:39](https://news.ycombinator.com/item?id=38836637) - [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
 * [2024-01-02, 00:09:59](https://news.ycombinator.com/item?id=38836550) - [E621, Pornhub, and others block North Carolina residents](https://www.foxcarolina.com/2023/12/29/major-pornographic-blocks-users-nc-response-new-law/)
 * [2024-01-02, 00:04:11](https://news.ycombinator.com/item?id=38836512) - [Odin Programming Language](https://odin-lang.org/)
-* [2024-01-01, 23:29:19](https://news.ycombinator.com/item?id=38836293) - [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
+* [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 21:05:45](https://news.ycombinator.com/item?id=38835345) - [UBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
