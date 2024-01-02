@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 19:28:46](https://news.ycombinator.com/item?id=38845878) - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
 * [2024-01-02, 19:10:36](https://news.ycombinator.com/item?id=38845650) - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
 * [2024-01-02, 19:03:47](https://news.ycombinator.com/item?id=38845556) - [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 * [2024-01-02, 18:59:53](https://news.ycombinator.com/item?id=38845508) - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
-* [2024-01-02, 18:59:14](https://news.ycombinator.com/item?id=38845500) - [LinkedIn ad prices up as X plummets](https://www.marketing-beat.co.uk/2024/01/02/linkedin-ups-ad-prices-x-demise/)
 * [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [\"First do it, then do it right, then do it better.\"](https://nitter.cz/addyosmani/status/1739052802314539371)
 * [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:21:36](https://news.ycombinator.com/item?id=38844950) - [Moving Git commits between repos](https://jeremymikkola.com/posts/2017_07_15_move_commits_between_git_repos.html)
@@ -28,7 +28,7 @@
 * [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 09:27:13](https://news.ycombinator.com/item?id=38839763) - [The funny rules of SpamAssassin in 2023](https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
-* [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
+* [2024-01-01, 06:29:25](https://news.ycombinator.com/item?id=38830066) - [From David Hockney to modern horror: the enduring symbolism of the swimming pool](https://www.wallpaper.com/art/from-david-hockney-to-modern-horror-the-enduring-symbolism-of-the-swimming-pool)
 * [2024-01-01, 05:01:52](https://news.ycombinator.com/item?id=38829841) - [Video playback on low-end MS-DOS machines](https://scalibq.wordpress.com/2024/01/01/video-playback-on-low-end-ms-dos-machines/)
 
 ## [Archives](archives/index.md)
