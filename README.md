@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
+* [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
 * [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:40:23](https://news.ycombinator.com/item?id=38839143) - [Vermont Attorney General's dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
@@ -26,10 +28,8 @@
 * [2024-01-01, 13:48:31](https://news.ycombinator.com/item?id=38831740) - [The Cheesy Charm of the Clapper](https://spectrum.ieee.org/clapper)
 * [2024-01-01, 11:56:55](https://news.ycombinator.com/item?id=38831241) - [Notation Must Die: The Battle for How We Read Music [video]](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
-* [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing annoying blue standby lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
-* [2023-12-31, 04:10:47](https://news.ycombinator.com/item?id=38821708) - [Decision Table Based Methodology for Software Development (2004)](https://www.methodsandtools.com/archive/archive.php?id=39)
 
 ## [Archives](archives/index.md)
 
