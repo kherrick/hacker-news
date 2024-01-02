@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
@@ -25,7 +26,6 @@
 * [2024-01-01, 13:48:31](https://news.ycombinator.com/item?id=38831740) - [The Cheesy Charm of the Clapper](https://spectrum.ieee.org/clapper)
 * [2024-01-01, 11:56:55](https://news.ycombinator.com/item?id=38831241) - [Notation Must Die: The Battle for How We Read Music [video]](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
-* [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing annoying blue standby lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 * [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done in small increments (2022)](https://dubroy.com/blog/getting-things-done-in-small-increments/)

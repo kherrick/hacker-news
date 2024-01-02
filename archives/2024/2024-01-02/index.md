@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
