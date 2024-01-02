@@ -8,6 +8,7 @@
 * [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:41:56](https://news.ycombinator.com/item?id=38839152) - [Hugging Face's Transformer Library: A Game-Changer in NLP](https://turingtalks.substack.com/p/hugging-face-transformer-library)
 * [2024-01-02, 07:40:23](https://news.ycombinator.com/item?id=38839143) - [Vermont Attorney General's dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
+* [2024-01-02, 07:32:28](https://news.ycombinator.com/item?id=38839101) - [Microsoft keeps shooting itself in the foot with Edge](https://www.xda-developers.com/microsoft-shooting-itself-foot-edge/)
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
