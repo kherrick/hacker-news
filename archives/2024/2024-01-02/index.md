@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
 * [2024-01-02, 15:47:43](https://news.ycombinator.com/item?id=38842788) - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
+* [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
+* [2024-01-02, 15:37:38](https://news.ycombinator.com/item?id=38842669) - [Best paper awards in computer science over the past 28 years (1996-2023)](https://jeffhuang.com/best_paper_awards/)
 * [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
 * [2024-01-02, 14:55:34](https://news.ycombinator.com/item?id=38842248) - [Antimacassar](https://en.wikipedia.org/wiki/Antimacassar)
 * [2024-01-02, 14:46:21](https://news.ycombinator.com/item?id=38842116) - [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
@@ -12,6 +14,7 @@
 * [2024-01-02, 14:12:06](https://news.ycombinator.com/item?id=38841751) - [Britons increasingly turning to food black market, experts say](https://www.theguardian.com/society/2023/dec/22/britons-increasingly-turning-to-food-black-market-experts-say)
 * [2024-01-02, 13:59:36](https://news.ycombinator.com/item?id=38841626) - [Muppet Babies Will Never Be Available on Streaming Due to Studio Copyright Claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
 * [2024-01-02, 13:51:44](https://news.ycombinator.com/item?id=38841564) - [Universities Are Prioritizing Their Health Systems over Teaching](https://www.politico.com/news/magazine/2023/12/31/universities-no-longer-fight-for-academic-freedom-blame-the-hospitals-00133272)
+* [2024-01-02, 13:17:44](https://news.ycombinator.com/item?id=38841314) - [Framework for identification of chaotic systems with symbolic regression](https://arxiv.org/abs/2312.14237)
 * [2024-01-02, 13:13:32](https://news.ycombinator.com/item?id=38841277) - [Reductive Thinking and the Unfairness of Spotify Payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 12:21:53](https://news.ycombinator.com/item?id=38840884) - [Meet South Sudan's first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
