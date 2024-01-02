@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:28:46](https://news.ycombinator.com/item?id=38845878) - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
 * [2024-01-02, 19:10:36](https://news.ycombinator.com/item?id=38845650) - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)

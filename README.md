@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors – a new mode (2015)](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:03:47](https://news.ycombinator.com/item?id=38845556) - [Realtime annotations and visualizations in live coding performance (2018)](https://charlieroberts.github.io/annotationsAndVisualizations/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
@@ -25,7 +26,6 @@
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 years, someone beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 09:27:13](https://news.ycombinator.com/item?id=38839763) - [The funny rules of SpamAssassin in 2023](https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023)
-* [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 06:29:25](https://news.ycombinator.com/item?id=38830066) - [The enduring symbolism of the swimming pool](https://www.wallpaper.com/art/from-david-hockney-to-modern-horror-the-enduring-symbolism-of-the-swimming-pool)
