@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 23:29:19](https://news.ycombinator.com/item?id=38836293) - [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
+* [2024-01-01, 22:42:58](https://news.ycombinator.com/item?id=38835994) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2024-01-01, 22:17:57](https://news.ycombinator.com/item?id=38835845) - [Fireworks are probable cause of perchlorate contaminant in groundwater (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
 * [2024-01-01, 22:08:29](https://news.ycombinator.com/item?id=38835777) - [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)

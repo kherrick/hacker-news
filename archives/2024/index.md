@@ -2,4 +2,5 @@
 
 ## [Archives](../index.md) for [2024](index.md)
 
+* [2024-01-02](2024-01-02/index.md)
 * [2024-01-01](2024-01-01/index.md)
