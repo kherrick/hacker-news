@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 13:51:44](https://news.ycombinator.com/item?id=38841564) - [Universities Are Prioritizing Their Health Systems over Teaching](https://www.politico.com/news/magazine/2023/12/31/universities-no-longer-fight-for-academic-freedom-blame-the-hospitals-00133272)
 * [2024-01-02, 13:13:32](https://news.ycombinator.com/item?id=38841277) - [Reductive Thinking and the Unfairness of Spotify Payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 12:21:53](https://news.ycombinator.com/item?id=38840884) - [Meet South Sudan's first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
