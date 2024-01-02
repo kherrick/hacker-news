@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 17:07:40](https://news.ycombinator.com/item?id=38843962) - [BYD overtakes Tesla's electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
+* [2024-01-02, 17:01:15](https://news.ycombinator.com/item?id=38843862) - [I Hate AI Licenses](https://ihateailicense.eu/)
+* [2024-01-02, 16:45:59](https://news.ycombinator.com/item?id=38843668) - [Text Editors Should Be Worse](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
+* [2024-01-02, 16:44:14](https://news.ycombinator.com/item?id=38843642) - [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
+* [2024-01-02, 16:40:03](https://news.ycombinator.com/item?id=38843589) - [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 15:47:43](https://news.ycombinator.com/item?id=38842788) - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
