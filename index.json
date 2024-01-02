@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-01-02, 00:25:39",
+      "https://news.ycombinator.com/item?id=38836637"
+    ],
+    [
+      "Spotify starts divesting from France in response to new music-streaming tax",
+      "https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 00:04:11",
+      "https://news.ycombinator.com/item?id=38836512"
+    ],
+    [
+      "Odin Programming Language",
+      "https://odin-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 23:29:19",
+      "https://news.ycombinator.com/item?id=38836293"
+    ],
+    [
+      "Codebreaker Cracks 135 Year Old Message [video]",
+      "https://www.youtube.com/watch?v=wu9o3vSYtl4"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 22:42:58",
+      "https://news.ycombinator.com/item?id=38835994"
+    ],
+    [
+      "Musings on the C Charter",
+      "https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 22:17:57",
       "https://news.ycombinator.com/item?id=38835845"
     ],
@@ -27,16 +67,6 @@
     [
       "Displaying Content as a Graph",
       "https://thisisimportant.net/posts/content-as-a-graph/"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 19:32:54",
-      "https://news.ycombinator.com/item?id=38834627"
-    ],
-    [
-      "Fail2ban Sucks (2020)",
-      "https://j3s.sh/thought/fail2ban-sux.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-01-01, 16:50:30",
-      "https://news.ycombinator.com/item?id=38833150"
-    ],
-    [
-      "The Paradox of Declining Female Happiness (2009) [pdf]",
-      "https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/Stevenson_ParadoxDecliningFemaleHappiness_Dec08.pdf"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 16:45:57",
       "https://news.ycombinator.com/item?id=38833113"
     ],
@@ -191,22 +211,12 @@
   ],
   [
     [
-      "2024-01-01, 09:33:47",
-      "https://news.ycombinator.com/item?id=38830687"
+      "2023-12-31, 21:17:44",
+      "https://news.ycombinator.com/item?id=38827599"
     ],
     [
-      "Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals",
-      "https://github.com/cmang/durdraw"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 09:30:39",
-      "https://news.ycombinator.com/item?id=38830673"
-    ],
-    [
-      "Web browser as GUI, with your preferred language in the backend",
-      "https://github.com/webui-dev/webui"
+      "O(1) Build File",
+      "https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Decision Table Based Methodology for Software Development (2004)",
       "https://www.methodsandtools.com/archive/archive.php?id=39"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 18:06:11",
-      "https://news.ycombinator.com/item?id=38808121"
-    ],
-    [
-      "Comparing Tech Used for Apollo, Artemis NASA Missions",
-      "https://www.eetimes.com/comparing-tech-used-for-apollo-artemis-nasa-missions/"
     ]
   ]
 ]
