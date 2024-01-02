@@ -62,6 +62,7 @@
 * [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The Fresh Start Effect](https://lars.yencken.org/fresh-start-effect)
 * [2024-01-01, 11:16:20](https://news.ycombinator.com/item?id=38831083) - [Orange Site Hit](https://blog.davep.org/2024/01/01/oshit.html)
 * [2024-01-01, 11:05:27](https://news.ycombinator.com/item?id=38831039) - [Japan issues tsunami warnings after a series of strong earthquakes](https://english.elpais.com/international/2024-01-01/japan-issues-tsunami-warnings-after-a-series-of-strong-earthquakes-on-sea-of-japan-coast.html)
+* [2024-01-01, 10:57:25](https://news.ycombinator.com/item?id=38831012) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2024-01-01, 10:05:17](https://news.ycombinator.com/item?id=38830824) - [Welcome to the public domain, Steamboat Willie](https://mastodon.archive.org/@internetarchive/111679346484777332)
 * [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing Annoying Blue Standby Lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf]](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)

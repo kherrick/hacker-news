@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 10:03:29](https://news.ycombinator.com/item?id=38840007) - [Ask HN: What are your founder's resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
 * [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
