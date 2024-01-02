@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 17:29:27](https://news.ycombinator.com/item?id=38844240) - [The Myth of Meritocracy Runs Deep in American History](https://thereader.mitpress.mit.edu/the-myth-of-meritocracy-runs-deep-in-american-history/)
+* [2024-01-02, 17:15:25](https://news.ycombinator.com/item?id=38844053) - [Git Branches Have No Rules](https://wizardzines.com/comics/branches-have-no-rules/)
+* [2024-01-02, 17:12:45](https://news.ycombinator.com/item?id=38844024) - [Online Job Posts Contain Little Wage Information [pdf]](https://www.nber.org/system/files/working_papers/w31984/w31984.pdf)
 * [2024-01-02, 17:07:40](https://news.ycombinator.com/item?id=38843962) - [BYD overtakes Tesla's electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
 * [2024-01-02, 17:01:15](https://news.ycombinator.com/item?id=38843862) - [I Hate AI Licenses](https://ihateailicense.eu/)
 * [2024-01-02, 16:45:59](https://news.ycombinator.com/item?id=38843668) - [Text Editors Should Be Worse](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
 * [2024-01-02, 16:44:14](https://news.ycombinator.com/item?id=38843642) - [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
 * [2024-01-02, 16:40:03](https://news.ycombinator.com/item?id=38843589) - [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
+* [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 15:47:43](https://news.ycombinator.com/item?id=38842788) - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
 * [2024-01-02, 15:37:38](https://news.ycombinator.com/item?id=38842669) - [Best paper awards in computer science over the past 28 years (1996-2023)](https://jeffhuang.com/best_paper_awards/)
