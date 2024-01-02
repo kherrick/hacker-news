@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
 * [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
+* [2024-01-02, 10:25:27](https://news.ycombinator.com/item?id=38840142) - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
 * [2024-01-02, 10:03:29](https://news.ycombinator.com/item?id=38840007) - [Ask HN: What are your founder's resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
 * [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
