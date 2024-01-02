@@ -129,6 +129,108 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38847613">
+          <h3>
+            <a class="item" href="https://dillo-browser.github.io/"
+              >Resurrecting the Dillo Browser</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-02 @ 21:55:08</span
+              ><span class="points-container"
+                >Points: <span class="points">43</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38847613"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                [0]:
+                <a href="https://news.ycombinator.com/item?id=32448104"
+                  >https://news.ycombinator.com/item?id=32448104</a
+                >
+              </p>
+              <p>
+                I felt sad as I didn't want it to die, so I got a copy of the
+                repo from my hard disk, uploaded it to GitHub and decided to do
+                some maintenance on the code to at least keep the build working.
+                After some time, the folks at Atari Forum decided to use my repo
+                to port it to the Atari platform and they managed to do it [1].
+              </p>
+              <p>
+                [1]:
+                <a href="https://github.com/dillo-browser/dillo/issues/34"
+                  >https://github.com/dillo-browser/dillo/issues/34</a
+                >
+              </p>
+              <p>
+                That gave me some motivation to work a bit more on the project
+                to prevent it from dying. So I created an organization under the
+                name of "dillo-browser" and made a new webpage [2] with a backup
+                of the old one.
+              </p>
+              <p>
+                [2]:
+                <a href="https://dillo-browser.github.io/"
+                  >https://dillo-browser.github.io/</a
+                >
+              </p>
+              <p>
+                With the help of Andreas Kemnade which had access to the
+                original server, we managed to backup most of the stuff from the
+                original website (including non-reachable pages) which I
+                uploaded to the Archive.
+              </p>
+              <p>
+                In the meanwhile, I combined the support for both OpenSSL (1.1
+                and 3) and mbedTLS (2 and 3) as well as proper CI with rendering
+                tests. We now build Dillo for Ubuntu, FreeBSD and macOS!
+              </p>
+              <p>
+                I also became familiar with the plugin mechanism in Dillo, which
+                allows any program that uses the standard input and output to
+                become a plugin registered to a given protocol (like
+                file://...). I did a simple one (which is just a bash script) to
+                read local manual pages which is handy to follow links to other
+                pages [3], but check also the ones Charles E. Lehner did which
+                are more advanced [4].
+              </p>
+              <p>
+                [3]:
+                <a href="https://github.com/dillo-browser/dillo-plugin-man"
+                  >https://github.com/dillo-browser/dillo-plugin-man</a
+                >
+                [4]:
+                <a href="https://groups.google.com/g/dillo/c/WGEMg7AXN4o/"
+                  >https://groups.google.com/g/dillo/c/WGEMg7AXN4o/</a
+                >
+              </p>
+              <p>
+                As of today, I'm unable to contact the main developer, Jorge
+                Arellano Cid, which has not interacted with the mailing list for
+                some years now. Jorge, if you read this, please contact with me
+                (you can find my email in the git commits).
+              </p>
+              <p>
+                Regarding the future of Dillo, I'm planning to (finally) do the
+                3.1 release after some testing, and for that it would be
+                convenient to have the help of some users to get some feedback
+                ;-)
+              </p>
+              <p>
+                If you want to contribute, feel free to open a PR or send a
+                patch (via GitHub or by email, I don't care). Check also the
+                current issues and pull requests to see what is pending or
+                already being working on. I will probably setup a mailing list
+                at some point too.
+              </p>
+              <p>Thanks! Rodrigo.</p>
+            </div>
+          </section>
+        </section>
         <section id="38846955">
           <h3>
             <a class="item" href="https://juiced.gs/emulators/"
@@ -161,7 +263,7 @@
             <h4>
               <span>2024-01-02 @ 20:30:32</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38846764"
                   >Comments</a
@@ -182,33 +284,11 @@
             <h4>
               <span>2024-01-02 @ 19:34:33</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38845951"
                   >Comments</a
                 ><span class="descendants">: 11</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38845556">
-          <h3>
-            <a
-              class="item"
-              href="https://charlieroberts.github.io/annotationsAndVisualizations/"
-              >Realtime annotations and visualizations in live coding
-              performance (2018)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-02 @ 19:03:47</span
-              ><span class="points-container"
-                >Points: <span class="points">16</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38845556"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -225,11 +305,11 @@
             <h4>
               <span>2024-01-02 @ 19:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">567</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38845510"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -244,7 +324,7 @@
             <h4>
               <span>2024-01-02 @ 18:59:53</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38845508"
                   >Comments</a
@@ -265,11 +345,11 @@
             <h4>
               <span>2024-01-02 @ 18:57:04</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38845461"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -284,7 +364,7 @@
             <h4>
               <span>2024-01-02 @ 18:38:53</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38845173"
                   >Comments</a
@@ -303,11 +383,11 @@
             <h4>
               <span>2024-01-02 @ 18:21:03</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38844945"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -324,11 +404,11 @@
             <h4>
               <span>2024-01-02 @ 18:20:56</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38844943"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -345,11 +425,11 @@
             <h4>
               <span>2024-01-02 @ 18:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38844888"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -364,11 +444,11 @@
             <h4>
               <span>2024-01-02 @ 17:31:45</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">298</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38844274"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -385,7 +465,7 @@
             <h4>
               <span>2024-01-02 @ 16:46:30</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38843675"
                   >Comments</a
@@ -406,11 +486,11 @@
             <h4>
               <span>2024-01-02 @ 16:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">263</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38843388"
                   >Comments</a
-                ><span class="descendants">: 222</span></span
+                ><span class="descendants">: 226</span></span
               >
             </h4>
           </section>
@@ -426,11 +506,11 @@
             <h4>
               <span>2024-01-02 @ 16:06:09</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38843069"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -445,11 +525,11 @@
             <h4>
               <span>2024-01-02 @ 16:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38842977"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 159</span></span
               >
             </h4>
             <div class="text">
@@ -510,11 +590,11 @@
             <h4>
               <span>2024-01-02 @ 16:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38842975"
                   >Comments</a
-                ><span class="descendants">: 182</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
             <div class="text">
@@ -549,11 +629,11 @@
             <h4>
               <span>2024-01-02 @ 15:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38842703"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -592,7 +672,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38842571"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -710,11 +790,11 @@
             <h4>
               <span>2024-01-02 @ 14:43:03</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38842079"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -729,7 +809,7 @@
             <h4>
               <span>2024-01-02 @ 14:10:29</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38841727"
                   >Comments</a
@@ -749,11 +829,11 @@
             <h4>
               <span>2024-01-02 @ 14:08:42</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38841708"
                   >Comments</a
-                ><span class="descendants">: 346</span></span
+                ><span class="descendants">: 354</span></span
               >
             </h4>
           </section>
@@ -768,32 +848,32 @@
             <h4>
               <span>2024-01-02 @ 12:46:22</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38841080"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="38840699">
+        <section id="38840614">
           <h3>
             <a
               class="item"
-              href="https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/"
-              >Earthquake in Japan yesterday may have shifted land 1.3 meters</a
+              href="https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/"
+              >Notes on the Ivory Coast</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-01-02 @ 11:55:21</span
+              <span>2024-01-02 @ 11:43:18</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38840699"
+                ><a href="https://news.ycombinator.com/item?id=38840614"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -814,7 +894,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38839763"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -829,7 +909,7 @@
             <h4>
               <span>2024-01-02 @ 06:17:20</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38838723"
                   >Comments</a
@@ -850,7 +930,7 @@
             <h4>
               <span>2024-01-02 @ 05:30:50</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38838459"
                   >Comments</a
@@ -892,7 +972,7 @@
             <h4>
               <span>2024-01-01 @ 05:01:52</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38829841"
                   >Comments</a
