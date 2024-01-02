@@ -2,11 +2,11 @@
 
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:28:46](https://news.ycombinator.com/item?id=38845878) - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
-* [2024-01-02, 19:10:36](https://news.ycombinator.com/item?id=38845650) - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
 * [2024-01-02, 19:03:47](https://news.ycombinator.com/item?id=38845556) - [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 * [2024-01-02, 18:59:53](https://news.ycombinator.com/item?id=38845508) - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
 * [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [\"First do it, then do it right, then do it better.\"](https://nitter.cz/addyosmani/status/1739052802314539371)
+* [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:21:36](https://news.ycombinator.com/item?id=38844950) - [Moving Git commits between repos](https://jeremymikkola.com/posts/2017_07_15_move_commits_between_git_repos.html)
 * [2024-01-02, 18:21:03](https://news.ycombinator.com/item?id=38844945) - [90x Faster Than Pgvector – Lantern's HNSW Index Creation Time](https://lantern.dev/blog/hnsw-index-creation)
 * [2024-01-02, 18:20:56](https://news.ycombinator.com/item?id=38844943) - [Show HN: How do you OCR on a Mac using the CLI or just Python for free](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
