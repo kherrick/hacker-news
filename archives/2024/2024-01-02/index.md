@@ -12,6 +12,8 @@
 * [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [\"First do it, then do it right, then do it better.\"](https://nitter.cz/addyosmani/status/1739052802314539371)
 * [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
+* [2024-01-02, 18:21:36](https://news.ycombinator.com/item?id=38844950) - [Moving Git commits between repos](https://jeremymikkola.com/posts/2017_07_15_move_commits_between_git_repos.html)
+* [2024-01-02, 18:21:03](https://news.ycombinator.com/item?id=38844945) - [90x Faster Than Pgvector – Lantern's HNSW Index Creation Time](https://lantern.dev/blog/hnsw-index-creation)
 * [2024-01-02, 18:20:56](https://news.ycombinator.com/item?id=38844943) - [Show HN: How do you OCR on a Mac using the CLI or just Python for free](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 18:06:00](https://news.ycombinator.com/item?id=38844740) - [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
