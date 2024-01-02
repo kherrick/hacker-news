@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 01:59:10](https://news.ycombinator.com/item?id=38837231) - [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
 * [2024-01-02, 00:25:39](https://news.ycombinator.com/item?id=38836637) - [Spotify starts divesting from France in response to new music-streaming tax](https://techcrunch.com/2023/12/22/spotify-france-tax-festivals/)
 * [2024-01-02, 00:09:59](https://news.ycombinator.com/item?id=38836550) - [E621, Pornhub, and others block North Carolina residents](https://www.foxcarolina.com/2023/12/29/major-pornographic-blocks-users-nc-response-new-law/)
 * [2024-01-02, 00:04:11](https://news.ycombinator.com/item?id=38836512) - [Odin Programming Language](https://odin-lang.org/)
@@ -25,7 +26,6 @@
 * [2023-12-31, 21:17:44](https://news.ycombinator.com/item?id=38827599) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html#O-1-Build-File)
 * [2023-12-31, 11:34:24](https://news.ycombinator.com/item?id=38823332) - [Coproc Tutorial (2011)](https://www.zsh.org/mla/users/2011/msg00095.html)
 * [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done (in small increments) (2022)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
-* [2023-12-31, 10:15:23](https://news.ycombinator.com/item?id=38822981) - [Karl Hans Janke – The \"artist-inventor\"](https://www.arthistoricum.net/en/subjects/image/janke-archive)
 * [2023-12-31, 09:42:22](https://news.ycombinator.com/item?id=38822892) - [Ottopot, a sophisticated DIY MIDI controller](https://gerotakke.de/ottopot/)
 * [2023-12-31, 09:14:35](https://news.ycombinator.com/item?id=38822785) - [Pushing It Back](http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html)
 * [2023-12-31, 06:25:45](https://news.ycombinator.com/item?id=38822251) - [Slow Electricity: The Return of DC Power? (2016)](https://solar.lowtechmagazine.com/2016/04/slow-electricity-the-return-of-dc-power/)
