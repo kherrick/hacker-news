@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 14:12:06](https://news.ycombinator.com/item?id=38841751) - [Britons increasingly turning to food black market, experts say](https://www.theguardian.com/society/2023/dec/22/britons-increasingly-turning-to-food-black-market-experts-say)
+* [2024-01-02, 13:59:36](https://news.ycombinator.com/item?id=38841626) - [Muppet Babies Will Never Be Available on Streaming Due to Studio Copyright Claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
 * [2024-01-02, 13:51:44](https://news.ycombinator.com/item?id=38841564) - [Universities Are Prioritizing Their Health Systems over Teaching](https://www.politico.com/news/magazine/2023/12/31/universities-no-longer-fight-for-academic-freedom-blame-the-hospitals-00133272)
 * [2024-01-02, 13:13:32](https://news.ycombinator.com/item?id=38841277) - [Reductive Thinking and the Unfairness of Spotify Payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
@@ -27,6 +29,7 @@
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [The Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
+* [2024-01-02, 05:53:48](https://news.ycombinator.com/item?id=38838585) - [Ask HN: What 1980s/90s-era shareware did you purchase?](https://news.ycombinator.com/item?id=38838585)
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
 * [2024-01-02, 05:35:07](https://news.ycombinator.com/item?id=38838487) - [Sodium's high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
 * [2024-01-02, 05:32:02](https://news.ycombinator.com/item?id=38838466) - [Constraining dynamics of rotating black holes via the gauge symmetry principle](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)

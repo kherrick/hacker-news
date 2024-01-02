@@ -105,6 +105,7 @@
 * [2023-12-30, 04:52:41](https://news.ycombinator.com/item?id=38812908) - [Show HN: FreshTube – show latest videos from YouTube channels](https://github.com/porjo/freshtube)
 * [2023-12-30, 04:09:08](https://news.ycombinator.com/item?id=38812758) - [Once the Largest, a Hotel Goes 'Poof ' Before Our Eyes](https://www.nytimes.com/2023/03/02/nyregion/hotel-pennsylvania-nyc.html)
 * [2023-12-30, 04:03:33](https://news.ycombinator.com/item?id=38812736) - [How a script doctor found his own voice](https://www.newyorker.com/magazine/2024/01/01/how-a-script-doctor-found-his-own-voice)
+* [2023-12-30, 04:00:27](https://news.ycombinator.com/item?id=38812724) - [Up Mount Improbable](https://drb.ie/articles/climbing-mount-improbable/)
 * [2023-12-30, 03:36:27](https://news.ycombinator.com/item?id=38812625) - [GDScript – Custom scripting language to be used with the Godot game engine](https://gdscript.com/)
 * [2023-12-30, 02:16:21](https://news.ycombinator.com/item?id=38812321) - [Show HN: I built ContainerCVE – a web tool to scan public Docker images](https://containercve.com)
 * [2023-12-30, 01:59:09](https://news.ycombinator.com/item?id=38812244) - [The Art and Science of PCB Design](https://pcb.mit.edu/)
