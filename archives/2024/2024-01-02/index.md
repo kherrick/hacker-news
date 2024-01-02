@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
 * [2024-01-02, 03:51:12](https://news.ycombinator.com/item?id=38837888) - [We Could Fix Everything, We Just Don't](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 * [2024-01-02, 03:50:49](https://news.ycombinator.com/item?id=38837885) - [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
 * [2024-01-02, 03:48:23](https://news.ycombinator.com/item?id=38837870) - [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)

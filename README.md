@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
 * [2024-01-02, 03:51:12](https://news.ycombinator.com/item?id=38837888) - [We Could Fix Everything, We Just Don't](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 * [2024-01-02, 03:50:49](https://news.ycombinator.com/item?id=38837885) - [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
 * [2024-01-02, 03:48:23](https://news.ycombinator.com/item?id=38837870) - [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)
@@ -28,7 +29,6 @@
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 * [2023-12-31, 11:34:24](https://news.ycombinator.com/item?id=38823332) - [Coproc Tutorial (2011)](https://www.zsh.org/mla/users/2011/msg00095.html)
 * [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done in small increments (2022)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
-* [2023-12-31, 09:14:35](https://news.ycombinator.com/item?id=38822785) - [Pushing It Back](http://www.antipope.org/charlie/blog-static/2023/09/pushing-it-back.html)
 * [2023-12-31, 04:10:47](https://news.ycombinator.com/item?id=38821708) - [Decision Table Based Methodology for Software Development (2004)](https://www.methodsandtools.com/archive/archive.php?id=39)
 
 ## [Archives](archives/index.md)
