@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
+* [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors – a new mode (2015)](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
