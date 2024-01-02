@@ -6,6 +6,7 @@
 
 * [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
 * [2024-01-01, 23:29:19](https://news.ycombinator.com/item?id=38836293) - [Codebreaker Cracks 135 Year Old Message [video]](https://www.youtube.com/watch?v=wu9o3vSYtl4)
+* [2024-01-01, 23:10:57](https://news.ycombinator.com/item?id=38836187) - [Open-Source ChatGPT Alternative Jan](https://jan.ai/)
 * [2024-01-01, 22:42:58](https://news.ycombinator.com/item?id=38835994) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2024-01-01, 22:17:57](https://news.ycombinator.com/item?id=38835845) - [Fireworks are probable cause of perchlorate contaminant in groundwater (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
 * [2024-01-01, 22:08:29](https://news.ycombinator.com/item?id=38835777) - [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
@@ -16,6 +17,7 @@
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
 * [2024-01-01, 19:32:54](https://news.ycombinator.com/item?id=38834627) - [Fail2ban Sucks](https://j3s.sh/thought/fail2ban-sux.html)
 * [2024-01-01, 19:13:41](https://news.ycombinator.com/item?id=38834460) - [VW wouldn't help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/)
+* [2024-01-01, 19:01:32](https://news.ycombinator.com/item?id=38834362) - [Has the 'Sexlessness Epidemic' Been Overstated?](https://nuancepill.com/has-the-sexlessness-epidemic-been-overstated/)
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:37:26](https://news.ycombinator.com/item?id=38834156) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2024-01-01, 18:31:42](https://news.ycombinator.com/item?id=38834077) - [The changing economics of open-source software](https://siliconangle.com/2023/12/31/changing-economics-open-source-software/)
