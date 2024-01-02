@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 03:21:59](https://news.ycombinator.com/item?id=38837716) - ['Dead Sea Scrolls' at the Museum of the Bible Are All Forgeries](https://www.nationalgeographic.com/history/article/museum-of-the-bible-dead-sea-scrolls-forgeries)
 * [2024-01-02, 02:17:20](https://news.ycombinator.com/item?id=38837314) - [$450 for a School Bag?](https://one-from-nippon.ghost.io/randoseru/)
-* [2024-01-02, 02:10:22](https://news.ycombinator.com/item?id=38837286) - [Nvidia AI Lead: We are ~3 years from the ChatGPT moment for physical AI agents](https://twitter.com/DrJimFan/status/1740041712184246314)
 * [2024-01-02, 01:59:10](https://news.ycombinator.com/item?id=38837231) - [Can We Imagine a World Without Work?](https://www.bostonreview.net/articles/can-we-imagine-a-world-without-work/)
 * [2024-01-02, 00:04:11](https://news.ycombinator.com/item?id=38836512) - [Odin Programming Language](https://odin-lang.org/)
 * [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
