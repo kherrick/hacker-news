@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 * [2024-01-02, 10:03:29](https://news.ycombinator.com/item?id=38840007) - [Ask HN: What are your founder's resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
 * [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
@@ -28,7 +29,6 @@
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The Fresh Start Effect](https://lars.yencken.org/fresh-start-effect)
 * [2024-01-01, 10:57:25](https://news.ycombinator.com/item?id=38831012) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
-* [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 
 ## [Archives](archives/index.md)
