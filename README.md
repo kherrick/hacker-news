@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
@@ -16,7 +17,6 @@
 * [2024-01-02, 04:36:15](https://news.ycombinator.com/item?id=38838161) - [Hamlet: A type-safe Haml template engine for Go](https://github.com/stackus/hamlet)
 * [2024-01-02, 01:15:47](https://news.ycombinator.com/item?id=38836998) - [Show HN: Hook – a simple graphical C/C++ runtime editor](https://github.com/abolinsky/Hook)
 * [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
-* [2024-01-01, 22:42:58](https://news.ycombinator.com/item?id=38835994) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 21:05:45](https://news.ycombinator.com/item?id=38835345) - [uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 * [2024-01-01, 19:52:04](https://news.ycombinator.com/item?id=38834780) - [Displaying Content as a Graph](https://thisisimportant.net/posts/content-as-a-graph/)
