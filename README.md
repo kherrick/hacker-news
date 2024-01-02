@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 03:40:13](https://news.ycombinator.com/item?id=38837826) - [Gov.uk has a max sentence length of 25 words](https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/)
 * [2024-01-02, 03:37:04](https://news.ycombinator.com/item?id=38837807) - [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
 * [2024-01-02, 02:17:20](https://news.ycombinator.com/item?id=38837314) - [$450 for a School Bag?](https://one-from-nippon.ghost.io/randoseru/)
 * [2024-01-02, 00:52:32](https://news.ycombinator.com/item?id=38836849) - [Why Is There a 'Strand of DNA' on Massachusetts License Plates?](https://www.wgbh.org/lifestyle/2018-03-06/why-is-there-a-strand-of-dna-on-massachusetts-license-plates)
@@ -14,7 +15,6 @@
 * [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 17:33:11](https://news.ycombinator.com/item?id=38833497) - [Woman with rectifier and electric car (1912)](https://nyheritage.contentdm.oclc.org/digital/collection/p16694coll20/id/35/)
-* [2024-01-01, 17:15:56](https://news.ycombinator.com/item?id=38833381) - [DARPA Triage Challenge](https://triagechallenge.darpa.mil/)
 * [2024-01-01, 17:09:54](https://news.ycombinator.com/item?id=38833325) - [All DMCA Notices Filed Against TorrentFreak in 2023 Were Bogus](https://torrentfreak.com/all-dmca-notices-filed-against-torrentfreak-in-2023-were-bogus-240101/)
 * [2024-01-01, 16:57:10](https://news.ycombinator.com/item?id=38833208) - [Happy Public Domain Day](https://publicdomainreview.org/blog/2024/01/public-domain-day-2024/)
 * [2024-01-01, 16:46:11](https://news.ycombinator.com/item?id=38833115) - [Wacky Jabber (2022)](https://inference-review.com/article/wacky-jabber)
