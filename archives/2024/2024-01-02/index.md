@@ -7,6 +7,7 @@
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 18:06:00](https://news.ycombinator.com/item?id=38844740) - [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
 * [2024-01-02, 17:59:42](https://news.ycombinator.com/item?id=38844661) - [Was JavaScript made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
+* [2024-01-02, 17:48:39](https://news.ycombinator.com/item?id=38844512) - [Tesla: Sustainable Energy for All of Earth [pdf]](https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf)
 * [2024-01-02, 17:34:34](https://news.ycombinator.com/item?id=38844329) - [Denied OBS PR regarding Kick support lights up](https://github.com/obsproject/obs-studio/pull/10043)
 * [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
 * [2024-01-02, 17:29:27](https://news.ycombinator.com/item?id=38844240) - [The Myth of Meritocracy Runs Deep in American History](https://thereader.mitpress.mit.edu/the-myth-of-meritocracy-runs-deep-in-american-history/)
