@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 18:06:00](https://news.ycombinator.com/item?id=38844740) - [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
 * [2024-01-02, 17:59:42](https://news.ycombinator.com/item?id=38844661) - [Was JavaScript made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
@@ -37,6 +38,7 @@
 * [2024-01-02, 14:12:08](https://news.ycombinator.com/item?id=38841752) - [Built and Android app that uses LLMs to learn stuff](https://play.google.com/store/apps/details?id=app.vercel.pagunt.twa&hl=en_US)
 * [2024-01-02, 14:12:06](https://news.ycombinator.com/item?id=38841751) - [Britons increasingly turning to food black market, experts say](https://www.theguardian.com/society/2023/dec/22/britons-increasingly-turning-to-food-black-market-experts-say)
 * [2024-01-02, 14:10:29](https://news.ycombinator.com/item?id=38841727) - [Introduction to Plan 9](http://fqa.9front.org/fqa0.html)
+* [2024-01-02, 14:08:42](https://news.ycombinator.com/item?id=38841708) - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe)
 * [2024-01-02, 14:06:05](https://news.ycombinator.com/item?id=38841680) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-fla](https://jade.fyi/blog/flakes-arent-real/)
 * [2024-01-02, 13:59:36](https://news.ycombinator.com/item?id=38841626) - [Muppet Babies Will Never Be Available on Streaming Due to Studio Copyright Claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
 * [2024-01-02, 13:51:44](https://news.ycombinator.com/item?id=38841564) - [Universities Are Prioritizing Their Health Systems over Teaching](https://www.politico.com/news/magazine/2023/12/31/universities-no-longer-fight-for-academic-freedom-blame-the-hospitals-00133272)
