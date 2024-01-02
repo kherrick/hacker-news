@@ -10,6 +10,7 @@
 * [2024-01-02, 05:32:02](https://news.ycombinator.com/item?id=38838466) - [Constraining dynamics of rotating black holes via the gauge symmetry principle](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)
 * [2024-01-02, 05:16:01](https://news.ycombinator.com/item?id=38838369) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 04:42:19](https://news.ycombinator.com/item?id=38838198) - [How to forget what you read](https://ckarchive.com/b/68ueh8hk25687hkq88gqmtzope0kk)
+* [2024-01-02, 04:03:10](https://news.ycombinator.com/item?id=38837975) - [The Bureau of Meteorology website does not support connections via HTTPS](http://www.bom.gov.au/akamai/https-redirect.html)
 * [2024-01-02, 03:51:12](https://news.ycombinator.com/item?id=38837888) - [We Could Fix Everything, We Just Don't](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 * [2024-01-02, 03:50:49](https://news.ycombinator.com/item?id=38837885) - [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
 * [2024-01-02, 03:48:23](https://news.ycombinator.com/item?id=38837870) - [Litestream – Opensource disaster recovery and continuous replication for SQLite](https://litestream.io/)
