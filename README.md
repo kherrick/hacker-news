@@ -23,11 +23,11 @@
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
-* [2024-01-01, 15:16:32](https://news.ycombinator.com/item?id=38832317) - [OpenVoice: Versatile Instant Voice Cloning](https://arxiv.org/abs/2312.01479)
 * [2024-01-01, 14:04:03](https://news.ycombinator.com/item?id=38831826) - [Hungarian Railways' Live Countrywide Map](http://vonatinfo.mav-start.hu/info.aspx)
 * [2024-01-01, 13:48:31](https://news.ycombinator.com/item?id=38831740) - [The Cheesy Charm of the Clapper](https://spectrum.ieee.org/clapper)
 * [2024-01-01, 11:56:55](https://news.ycombinator.com/item?id=38831241) - [Notation Must Die: The Battle for How We Read Music [video]](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
+* [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The Fresh Start Effect](https://lars.yencken.org/fresh-start-effect)
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 
