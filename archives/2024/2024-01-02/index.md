@@ -12,6 +12,7 @@
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 21:51:54](https://news.ycombinator.com/item?id=38847586) - [OpenIndiana Illumos Distro](https://www.openindiana.org/)
+* [2024-01-02, 21:49:50](https://news.ycombinator.com/item?id=38847571) - [ParadeDB – PostgreSQL for Search](https://github.com/paradedb/paradedb)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
