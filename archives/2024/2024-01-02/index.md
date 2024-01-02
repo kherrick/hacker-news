@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
 * [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
+* [2024-01-02, 14:55:34](https://news.ycombinator.com/item?id=38842248) - [Antimacassar](https://en.wikipedia.org/wiki/Antimacassar)
 * [2024-01-02, 14:46:21](https://news.ycombinator.com/item?id=38842116) - [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
 * [2024-01-02, 14:12:06](https://news.ycombinator.com/item?id=38841751) - [Britons increasingly turning to food black market, experts say](https://www.theguardian.com/society/2023/dec/22/britons-increasingly-turning-to-food-black-market-experts-say)
 * [2024-01-02, 13:59:36](https://news.ycombinator.com/item?id=38841626) - [Muppet Babies Will Never Be Available on Streaming Due to Studio Copyright Claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
@@ -14,6 +15,7 @@
 * [2024-01-02, 12:21:53](https://news.ycombinator.com/item?id=38840884) - [Meet South Sudan's first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
 * [2024-01-02, 12:05:08](https://news.ycombinator.com/item?id=38840766) - [How do we stop Meta in 2024? We fix the information loop](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)
 * [2024-01-02, 12:02:36](https://news.ycombinator.com/item?id=38840747) - [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
+* [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 11:43:57](https://news.ycombinator.com/item?id=38840626) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 * [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 * [2024-01-02, 10:25:27](https://news.ycombinator.com/item?id=38840142) - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)

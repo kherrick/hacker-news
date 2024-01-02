@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
+* [2024-01-02, 14:55:34](https://news.ycombinator.com/item?id=38842248) - [Antimacassar](https://en.wikipedia.org/wiki/Antimacassar)
 * [2024-01-02, 14:46:21](https://news.ycombinator.com/item?id=38842116) - [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
 * [2024-01-02, 13:13:32](https://news.ycombinator.com/item?id=38841277) - [Reductive thinking and the unfairness of Spotify payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 12:05:08](https://news.ycombinator.com/item?id=38840766) - [How do we stop Meta in 2024? We fix the information loop](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)
+* [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 11:43:57](https://news.ycombinator.com/item?id=38840626) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 * [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 * [2024-01-02, 10:25:27](https://news.ycombinator.com/item?id=38840142) - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
@@ -13,7 +15,6 @@
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol](https://protocol.bryanjohnson.com/)
 * [2024-01-02, 06:58:38](https://news.ycombinator.com/item?id=38838946) - [Show HN: I built an open source web calendar inspired by the Google calendar](https://schedule-x.dev/demos/calendar)
-* [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [The Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 05:53:48](https://news.ycombinator.com/item?id=38838585) - [Ask HN: What 1980s/90s-era shareware did you purchase?](https://news.ycombinator.com/item?id=38838585)
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
@@ -27,7 +28,6 @@
 * [2024-01-01, 13:48:31](https://news.ycombinator.com/item?id=38831740) - [The Cheesy Charm of the Clapper](https://spectrum.ieee.org/clapper)
 * [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The fresh start effect](https://lars.yencken.org/fresh-start-effect)
 * [2024-01-01, 10:57:25](https://news.ycombinator.com/item?id=38831012) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
-* [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 * [2023-12-31, 19:50:58](https://news.ycombinator.com/item?id=38826954) - [Emoji by Year](https://taylor.town/emoji-by-year)
 * [2023-12-30, 04:00:27](https://news.ycombinator.com/item?id=38812724) - [Up Mount Improbable](https://drb.ie/articles/climbing-mount-improbable/)
 
