@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
+* [2024-01-02, 12:21:53](https://news.ycombinator.com/item?id=38840884) - [Meet South Sudan's first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
 * [2024-01-02, 12:02:36](https://news.ycombinator.com/item?id=38840747) - [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
 * [2024-01-02, 11:43:57](https://news.ycombinator.com/item?id=38840626) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 * [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
@@ -18,6 +20,7 @@
 * [2024-01-02, 07:40:23](https://news.ycombinator.com/item?id=38839143) - [Vermont Attorney General's dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
 * [2024-01-02, 07:32:28](https://news.ycombinator.com/item?id=38839101) - [Microsoft keeps shooting itself in the foot with Edge](https://www.xda-developers.com/microsoft-shooting-itself-foot-edge/)
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
+* [2024-01-02, 06:58:38](https://news.ycombinator.com/item?id=38838946) - [Show HN: I built an open source web calendar inspired by the Google calendar](https://schedule-x.dev/demos/calendar)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
