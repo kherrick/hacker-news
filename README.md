@@ -18,6 +18,7 @@
 * [2024-01-02, 04:36:15](https://news.ycombinator.com/item?id=38838161) - [Hamlet: A type-safe Haml template engine for Go](https://github.com/stackus/hamlet)
 * [2024-01-02, 01:15:47](https://news.ycombinator.com/item?id=38836998) - [Show HN: Hook – a simple graphical C/C++ runtime editor](https://github.com/abolinsky/Hook)
 * [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
+* [2024-01-01, 20:34:35](https://news.ycombinator.com/item?id=38835113) - [How to build the CMoy pocket amplifier](https://tangentsoft.com/audio/cmoy/)
 * [2024-01-01, 18:46:08](https://news.ycombinator.com/item?id=38834244) - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
 * [2024-01-01, 18:01:54](https://news.ycombinator.com/item?id=38833747) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:52:21](https://news.ycombinator.com/item?id=38833658) - [A* tricks for videogame path finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
@@ -28,7 +29,6 @@
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The Fresh Start Effect](https://lars.yencken.org/fresh-start-effect)
 * [2024-01-01, 10:57:25](https://news.ycombinator.com/item?id=38831012) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
-* [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
 
 ## [Archives](archives/index.md)
