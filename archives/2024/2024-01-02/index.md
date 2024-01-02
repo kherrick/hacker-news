@@ -8,6 +8,7 @@
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
 * [2024-01-02, 05:35:07](https://news.ycombinator.com/item?id=38838487) - [Sodium's high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
 * [2024-01-02, 05:32:02](https://news.ycombinator.com/item?id=38838466) - [Constraining dynamics of rotating black holes via the gauge symmetry principle](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)
+* [2024-01-02, 05:16:01](https://news.ycombinator.com/item?id=38838369) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 04:42:19](https://news.ycombinator.com/item?id=38838198) - [How to forget what you read](https://ckarchive.com/b/68ueh8hk25687hkq88gqmtzope0kk)
 * [2024-01-02, 03:51:12](https://news.ycombinator.com/item?id=38837888) - [We Could Fix Everything, We Just Don't](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 * [2024-01-02, 03:50:49](https://news.ycombinator.com/item?id=38837885) - [Show HN: Build your startup or side project faster with these SaaS templates](https://hackerstartup.com)
