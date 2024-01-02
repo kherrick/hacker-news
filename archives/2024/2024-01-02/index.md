@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 03:37:04](https://news.ycombinator.com/item?id=38837807) - [Zig cookbook: collection of simple Zig programs that demonstrate good practices](https://github.com/zigcc/zig-cookbook)
 * [2024-01-02, 03:21:59](https://news.ycombinator.com/item?id=38837716) - ['Dead Sea Scrolls' at the Museum of the Bible Are All Forgeries](https://www.nationalgeographic.com/history/article/museum-of-the-bible-dead-sea-scrolls-forgeries)
 * [2024-01-02, 02:47:41](https://news.ycombinator.com/item?id=38837480) - [JavaScript Support in MySQL](https://blogs.oracle.com/mysql/post/introducing-javascript-support-in-mysql)
 * [2024-01-02, 02:17:20](https://news.ycombinator.com/item?id=38837314) - [$450 for a School Bag?](https://one-from-nippon.ghost.io/randoseru/)
