@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 19:03:47](https://news.ycombinator.com/item?id=38845556) - [Realtime Annotations and Visualizations in Live Coding Performance](https://charlieroberts.github.io/annotationsAndVisualizations/)
+* [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
+* [2024-01-02, 18:59:14](https://news.ycombinator.com/item?id=38845500) - [LinkedIn ad prices up as X plummets](https://www.marketing-beat.co.uk/2024/01/02/linkedin-ups-ad-prices-x-demise/)
+* [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [\"First do it, then do it right, then do it better.\"](https://nitter.cz/addyosmani/status/1739052802314539371)
 * [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
