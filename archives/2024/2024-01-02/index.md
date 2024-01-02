@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 15:47:43](https://news.ycombinator.com/item?id=38842788) - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
 * [2024-01-02, 15:37:38](https://news.ycombinator.com/item?id=38842669) - [Best paper awards in computer science over the past 28 years (1996-2023)](https://jeffhuang.com/best_paper_awards/)
+* [2024-01-02, 15:26:18](https://news.ycombinator.com/item?id=38842560) - [What It's Like to Use Apple's Lockdown Mode](https://www.wired.com/story/apple-lockdown-mode-hands-on/)
 * [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
 * [2024-01-02, 14:55:34](https://news.ycombinator.com/item?id=38842248) - [Antimacassar](https://en.wikipedia.org/wiki/Antimacassar)
 * [2024-01-02, 14:46:21](https://news.ycombinator.com/item?id=38842116) - [A New Blog for 2024](https://chrisnicholas.dev/blog/a-new-blog-for-2024)
