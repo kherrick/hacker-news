@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-02, 23:02:48](https://news.ycombinator.com/item?id=38848280) - [Coal and fossil fuel use in Germany at a record low for electricity in 2023](https://www.energy-charts.info/charts/energy/chart.htm?l=en&c=DE&interval=year&year=2023)
 * [2024-01-02, 22:49:02](https://news.ycombinator.com/item?id=38848140) - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
-* [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+* [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 21:51:54](https://news.ycombinator.com/item?id=38847586) - [OpenIndiana Illumos Distro](https://www.openindiana.org/)
 * [2024-01-02, 21:49:50](https://news.ycombinator.com/item?id=38847571) - [ParadeDB – PostgreSQL for Search](https://github.com/paradedb/paradedb)
@@ -16,6 +15,7 @@
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [Show HN: I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
 * [2024-01-02, 16:46:30](https://news.ycombinator.com/item?id=38843675) - [A Simulated Annealing FPGA Placer](https://stefanabikaram.com/writing/fpga-sa-placer/)
+* [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
 * [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
