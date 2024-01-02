@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=38842297)
 * [2024-01-02, 14:12:06](https://news.ycombinator.com/item?id=38841751) - [Britons increasingly turning to food black market, experts say](https://www.theguardian.com/society/2023/dec/22/britons-increasingly-turning-to-food-black-market-experts-say)
 * [2024-01-02, 13:59:36](https://news.ycombinator.com/item?id=38841626) - [Muppet Babies Will Never Be Available on Streaming Due to Studio Copyright Claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
 * [2024-01-02, 13:51:44](https://news.ycombinator.com/item?id=38841564) - [Universities Are Prioritizing Their Health Systems over Teaching](https://www.politico.com/news/magazine/2023/12/31/universities-no-longer-fight-for-academic-freedom-blame-the-hospitals-00133272)
