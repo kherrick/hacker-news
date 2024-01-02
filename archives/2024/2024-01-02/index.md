@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 17:34:34](https://news.ycombinator.com/item?id=38844329) - [Denied OBS PR regarding Kick support lights up](https://github.com/obsproject/obs-studio/pull/10043)
 * [2024-01-02, 17:29:27](https://news.ycombinator.com/item?id=38844240) - [The Myth of Meritocracy Runs Deep in American History](https://thereader.mitpress.mit.edu/the-myth-of-meritocracy-runs-deep-in-american-history/)
 * [2024-01-02, 17:15:25](https://news.ycombinator.com/item?id=38844053) - [Git Branches Have No Rules](https://wizardzines.com/comics/branches-have-no-rules/)
 * [2024-01-02, 17:12:45](https://news.ycombinator.com/item?id=38844024) - [Online Job Posts Contain Little Wage Information [pdf]](https://www.nber.org/system/files/working_papers/w31984/w31984.pdf)
 * [2024-01-02, 17:07:40](https://news.ycombinator.com/item?id=38843962) - [BYD overtakes Tesla's electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
 * [2024-01-02, 17:01:15](https://news.ycombinator.com/item?id=38843862) - [I Hate AI Licenses](https://ihateailicense.eu/)
+* [2024-01-02, 16:53:47](https://news.ycombinator.com/item?id=38843768) - [Apple starts 2024 with Barclays downgrade](https://www.forth.news/bots/reuters/articles/659422876d3093160217626b)
 * [2024-01-02, 16:45:59](https://news.ycombinator.com/item?id=38843668) - [Text Editors Should Be Worse](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
 * [2024-01-02, 16:44:14](https://news.ycombinator.com/item?id=38843642) - [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
 * [2024-01-02, 16:40:03](https://news.ycombinator.com/item?id=38843589) - [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
