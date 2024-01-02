@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 23:02:48](https://news.ycombinator.com/item?id=38848280) - [Coal and fossil fuel use in Germany at a record low for electricity in 2023](https://www.energy-charts.info/charts/energy/chart.htm?l=en&c=DE&interval=year&year=2023)
+* [2024-01-02, 22:49:02](https://news.ycombinator.com/item?id=38848140) - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
 * [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
+* [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
+* [2024-01-02, 22:31:37](https://news.ycombinator.com/item?id=38847978) - [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
+* [2024-01-02, 21:51:54](https://news.ycombinator.com/item?id=38847586) - [OpenIndiana Illumos Distro](https://www.openindiana.org/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
