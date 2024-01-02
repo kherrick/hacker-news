@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [Show HN: I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 18:06:00](https://news.ycombinator.com/item?id=38844740) - [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
@@ -10,6 +11,7 @@
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
+* [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
 * [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
 * [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=38842297)
@@ -19,17 +21,15 @@
 * [2024-01-02, 14:08:42](https://news.ycombinator.com/item?id=38841708) - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 years, someone beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
-* [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 * [2024-01-02, 10:25:27](https://news.ycombinator.com/item?id=38840142) - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
 * [2024-01-02, 09:27:13](https://news.ycombinator.com/item?id=38839763) - [The funny rules of SpamAssassin in 2023](https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023)
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push notifications – What to push, what not to push, and how often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
+* [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 20:34:35](https://news.ycombinator.com/item?id=38835113) - [How to Build the CMoy Pocket Amplifier (2016)](https://tangentsoft.com/audio/cmoy/)
 * [2024-01-01, 13:48:31](https://news.ycombinator.com/item?id=38831740) - [The cheesy charm of the Clapper](https://spectrum.ieee.org/clapper)
-* [2024-01-01, 10:47:35](https://news.ycombinator.com/item?id=38830980) - [Preserving the world's largest cartoon and comic collection](https://www.saturdayeveningpost.com/2023/10/history-in-ink-preserving-the-worlds-largest-cartoon-and-comic-collection/)
 * [2024-01-01, 05:01:52](https://news.ycombinator.com/item?id=38829841) - [Video playback on low-end MS-DOS machines](https://scalibq.wordpress.com/2024/01/01/video-playback-on-low-end-ms-dos-machines/)
-* [2023-12-30, 04:00:27](https://news.ycombinator.com/item?id=38812724) - [Up Mount Improbable](https://drb.ie/articles/climbing-mount-improbable/)
 
 ## [Archives](archives/index.md)
 

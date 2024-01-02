@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
 * [2024-01-02, 18:16:42](https://news.ycombinator.com/item?id=38844888) - [I've Implemented a RSS Reader](https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US)
 * [2024-01-02, 18:06:00](https://news.ycombinator.com/item?id=38844740) - [In L.A., a new vision of incarceration proves rehabilitation works](https://www.latimes.com/california/story/2023-12-26/chabria-column-los-angeles-state-prison-re-entry-facility-rehabilitation)
@@ -24,6 +25,7 @@
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
+* [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
 * [2024-01-02, 15:47:43](https://news.ycombinator.com/item?id=38842788) - [Japan Goes All In: Copyright Doesn't Apply to AI Training](https://www.biia.com/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2024-01-02, 15:40:42](https://news.ycombinator.com/item?id=38842703) - [The Infinite/Eternal Jukebox has been revived](https://jukebox.davi.gq/jukebox_search.html)
 * [2024-01-02, 15:37:38](https://news.ycombinator.com/item?id=38842669) - [Best paper awards in computer science over the past 28 years (1996-2023)](https://jeffhuang.com/best_paper_awards/)
@@ -74,6 +76,7 @@
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
 * [2024-01-02, 05:35:07](https://news.ycombinator.com/item?id=38838487) - [Sodium's high-pressure transformation shows the interiors of stars, planets](https://phys.org/news/2023-12-sodium-high-pressure-interiors-stars-planets.html)
 * [2024-01-02, 05:32:02](https://news.ycombinator.com/item?id=38838466) - [Constraining dynamics of rotating black holes via the gauge symmetry principle](https://phys.org/news/2023-12-constraining-dynamics-rotating-black-holes.html)
+* [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-02, 05:16:01](https://news.ycombinator.com/item?id=38838369) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 04:42:19](https://news.ycombinator.com/item?id=38838198) - [How to forget what you read](https://ckarchive.com/b/68ueh8hk25687hkq88gqmtzope0kk)
 * [2024-01-02, 04:36:15](https://news.ycombinator.com/item?id=38838161) - [Hamlet: A type-safe Haml template engine for Go](https://github.com/stackus/hamlet)
