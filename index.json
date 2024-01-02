@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-01-02, 04:03:10",
+      "https://news.ycombinator.com/item?id=38837975"
+    ],
+    [
+      "The Bureau of Meteorology website does not support connections via HTTPS",
+      "http://www.bom.gov.au/akamai/https-redirect.html"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 03:51:12",
       "https://news.ycombinator.com/item?id=38837888"
     ],
@@ -87,16 +97,6 @@
     [
       "Litestream – Opensource disaster recovery and continuous replication for SQLite",
       "https://litestream.io/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 03:37:04",
-      "https://news.ycombinator.com/item?id=38837807"
-    ],
-    [
-      "Zig cookbook: collection of simple Zig programs that demonstrate good practices",
-      "https://github.com/zigcc/zig-cookbook"
     ]
   ],
   [
