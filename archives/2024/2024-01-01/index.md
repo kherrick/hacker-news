@@ -10,6 +10,7 @@
 * [2024-01-01, 22:42:58](https://news.ycombinator.com/item?id=38835994) - [Musings on the C Charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2024-01-01, 22:17:57](https://news.ycombinator.com/item?id=38835845) - [Fireworks are probable cause of perchlorate contaminant in groundwater (2016)](https://www.usgs.gov/news/national-news-release/fireworks-likely-caused-water-contamination-mount-rushmore)
 * [2024-01-01, 22:08:29](https://news.ycombinator.com/item?id=38835777) - [List of Animals That Have Passed the Mirror Test](https://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/)
+* [2024-01-01, 21:17:56](https://news.ycombinator.com/item?id=38835435) - [EFF Year in Review: Google's Corporate Paternalism in the Browser](https://www.eff.org/deeplinks/2023/12/year-review-googles-corporate-paternalism-browser)
 * [2024-01-01, 21:16:27](https://news.ycombinator.com/item?id=38835419) - [NERV Disaster Prevention](https://nerv.app/en/)
 * [2024-01-01, 21:05:45](https://news.ycombinator.com/item?id=38835345) - [UBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/ublacklist)
 * [2024-01-01, 20:55:35](https://news.ycombinator.com/item?id=38835253) - [Israeli Justices Reject Netanyahu-Led Move to Limit Court](https://www.nytimes.com/live/2024/01/01/world/israel-supreme-court-gaza-news)
