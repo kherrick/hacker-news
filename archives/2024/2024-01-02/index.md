@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
@@ -69,6 +70,7 @@
 * [2024-01-02, 12:02:36](https://news.ycombinator.com/item?id=38840747) - [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
 * [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 11:43:57](https://news.ycombinator.com/item?id=38840626) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
+* [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 10:59:27](https://news.ycombinator.com/item?id=38840339) - [Elizabeth line testing ways of banishing its \"ghosts in the walls\"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 * [2024-01-02, 10:25:27](https://news.ycombinator.com/item?id=38840142) - [Why does integer representation of a floating point approximate its logarithm?](https://stackoverflow.com/questions/75772363/why-does-the-integer-representation-of-a-floating-point-number-offer-a-piecewise)
 * [2024-01-02, 10:03:29](https://news.ycombinator.com/item?id=38840007) - [Ask HN: What are your founder's resolutions for 2024?](https://news.ycombinator.com/item?id=38840007)
