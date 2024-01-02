@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)

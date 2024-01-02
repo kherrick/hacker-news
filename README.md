@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
@@ -24,7 +25,6 @@
 * [2024-01-02, 14:10:29](https://news.ycombinator.com/item?id=38841727) - [Introduction to Plan 9](http://fqa.9front.org/fqa0.html)
 * [2024-01-02, 14:08:42](https://news.ycombinator.com/item?id=38841708) - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe)
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 years, someone beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
-* [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)
 * [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 09:27:13](https://news.ycombinator.com/item?id=38839763) - [The funny rules of SpamAssassin in 2023](https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
