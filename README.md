@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
 * [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:41:56](https://news.ycombinator.com/item?id=38839152) - [Hugging Face's Transformer Library: A Game-Changer in NLP](https://turingtalks.substack.com/p/hugging-face-transformer-library)
+* [2024-01-02, 07:40:23](https://news.ycombinator.com/item?id=38839143) - [Vermont Attorney General's dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
 * [2024-01-02, 05:43:06](https://news.ycombinator.com/item?id=38838531) - [New Ultra Fast Lossless Audio Codec (HALAC)](https://hydrogenaud.io/index.php/topic,125248.0.html?PHPSESSID=su12fvq4ar7cordpr8p1uoa7p0)
@@ -10,7 +12,6 @@
 * [2024-01-02, 05:16:01](https://news.ycombinator.com/item?id=38838369) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 04:42:19](https://news.ycombinator.com/item?id=38838198) - [How to forget what you read](https://ckarchive.com/b/68ueh8hk25687hkq88gqmtzope0kk)
 * [2024-01-02, 04:36:15](https://news.ycombinator.com/item?id=38838161) - [Hamlet: A type-safe Haml template engine for Go](https://github.com/stackus/hamlet)
-* [2024-01-02, 04:03:10](https://news.ycombinator.com/item?id=38837975) - [The Bureau of Meteorology website does not support connections via HTTPS](http://www.bom.gov.au/akamai/https-redirect.html)
 * [2024-01-02, 03:51:12](https://news.ycombinator.com/item?id=38837888) - [We Could Fix Everything, We Just Don't](https://erikmcclure.com/blog/we-could-fix-everything-we-just-dont/)
 * [2024-01-02, 01:15:47](https://news.ycombinator.com/item?id=38836998) - [Show HN: Hook – a simple graphical C/C++ runtime editor](https://github.com/abolinsky/Hook)
 * [2024-01-01, 23:50:56](https://news.ycombinator.com/item?id=38836437) - [Calculating Logarithms by Hand [pdf]](https://fiziko.bureau42.com/teaching_tidbits/manual_logarithms.pdf)
@@ -28,7 +29,6 @@
 * [2024-01-01, 09:55:51](https://news.ycombinator.com/item?id=38830782) - [Fixing annoying blue standby lights](https://www.fullcircuit.com/blog/fixing-annoying-blue-standby-lights)
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
-* [2023-12-31, 10:22:03](https://news.ycombinator.com/item?id=38823002) - [Getting things done in small increments (2022)](https://dubroy.com/blog/getting-things-done-in-small-increments/)
 * [2023-12-31, 04:10:47](https://news.ycombinator.com/item?id=38821708) - [Decision Table Based Methodology for Software Development (2004)](https://www.methodsandtools.com/archive/archive.php?id=39)
 
 ## [Archives](archives/index.md)
