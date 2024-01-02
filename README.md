@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors – a new mode (2015)](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 * [2024-01-02, 18:59:53](https://news.ycombinator.com/item?id=38845508) - [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368)
-* [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [First do it, then do it right, then do it better](https://twitter.com/addyosmani/status/1739052802314539371)
 * [2024-01-02, 18:38:53](https://news.ycombinator.com/item?id=38845173) - [Spoonbill (2016–2023)](https://www.applied-cartography.com/spoonbill)
 * [2024-01-02, 18:21:03](https://news.ycombinator.com/item?id=38844945) - [90x Faster Than Pgvector – Lantern's HNSW Index Creation Time](https://lantern.dev/blog/hnsw-index-creation)
 * [2024-01-02, 18:20:56](https://news.ycombinator.com/item?id=38844943) - [How to do OCR on a Mac using the CLI or just Python](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
