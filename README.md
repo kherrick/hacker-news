@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-03, 03:35:56](https://news.ycombinator.com/item?id=38850400) - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-02, 23:26:22](https://news.ycombinator.com/item?id=38848566) - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
@@ -29,7 +30,6 @@
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
-* [2023-12-31, 16:43:21](https://news.ycombinator.com/item?id=38825299) - [Steam and Electricity, Part 1: Electric Light](https://technicshistory.com/2023/12/31/steam-and-electricity-part-1-electric-light/)
 
 ## [Archives](archives/index.md)
 
