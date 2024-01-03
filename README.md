@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 09:03:12](https://news.ycombinator.com/item?id=38852095) - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
@@ -23,7 +24,6 @@
 * [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
-* [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)

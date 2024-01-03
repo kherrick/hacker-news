@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 09:03:12](https://news.ycombinator.com/item?id=38852095) - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
