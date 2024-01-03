@@ -58,6 +58,7 @@
 * [2024-01-01, 13:14:57](https://news.ycombinator.com/item?id=38831581) - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 * [2024-01-01, 12:42:01](https://news.ycombinator.com/item?id=38831446) - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
 * [2024-01-01, 12:30:14](https://news.ycombinator.com/item?id=38831379) - [Oracle-samples/sd4j: Stable Diffusion pipeline in Java using ONNX Runtime](https://github.com/oracle-samples/sd4j)
+* [2024-01-01, 12:18:30](https://news.ycombinator.com/item?id=38831336) - [Chief justice centers Supreme Court annual report on AI's dangers](https://thehill.com/regulation/court-battles/4383324-chief-justice-centers-supreme-court-annual-report-on-ais-dangers/)
 * [2024-01-01, 11:56:55](https://news.ycombinator.com/item?id=38831241) - [Notation Must Die: The Battle for How We Read Music [video]](https://www.youtube.com/watch?v=Eq3bUFgEcb4)
 * [2024-01-01, 11:51:35](https://news.ycombinator.com/item?id=38831219) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:23:54](https://news.ycombinator.com/item?id=38831119) - [The Fresh Start Effect](https://lars.yencken.org/fresh-start-effect)

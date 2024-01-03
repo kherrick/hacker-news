@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 12:49:50](https://news.ycombinator.com/item?id=38853452) - [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
 * [2024-01-03, 12:03:23](https://news.ycombinator.com/item?id=38853118) - [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
 * [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2024-01-03, 10:37:52](https://news.ycombinator.com/item?id=38852580) - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
 * [2024-01-03, 10:32:27](https://news.ycombinator.com/item?id=38852534) - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
-* [2024-01-03, 10:27:16](https://news.ycombinator.com/item?id=38852503) - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
@@ -27,8 +27,8 @@
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
 * [2024-01-02, 06:32:34](https://news.ycombinator.com/item?id=38838811) - [Netherlands blocks ASML exports to China in partial license revocation](https://www.reuters.com/technology/asml-says-dutch-government-revoked-some-export-license-2024-01-01/)
+* [2024-01-01, 12:18:30](https://news.ycombinator.com/item?id=38831336) - [Chief justice centers Supreme Court annual report on AI's dangers](https://thehill.com/regulation/court-battles/4383324-chief-justice-centers-supreme-court-annual-report-on-ais-dangers/)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
-* [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
 
 ## [Archives](archives/index.md)
