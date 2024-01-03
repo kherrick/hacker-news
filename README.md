@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 21:10:35](https://news.ycombinator.com/item?id=38859976) - [Understand how transformers work by demystifying all the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [The crazy market for the most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
 * [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo Is Hiring a Live Events and Music Account Executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
 * [2024-01-03, 20:53:50](https://news.ycombinator.com/item?id=38859749) - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
@@ -15,7 +16,6 @@
 * [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [Retrieval Augmented Generation for New Orleans City Council Transparency](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
-* [2024-01-03, 17:31:52](https://news.ycombinator.com/item?id=38856845) - [Starlink launches \"cellphone towers in space\" for use with LTE phones](https://arstechnica.com/tech-policy/2024/01/spacex-launches-first-starlink-satellites-that-will-work-with-t-mobile-phones/)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
 * [2024-01-03, 17:10:38](https://news.ycombinator.com/item?id=38856559) - [Container2wasm: Convert Containers to WASM Blobs](https://github.com/ktock/container2wasm)
@@ -24,11 +24,11 @@
 * [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making small games, which is fun in itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 14:22:46](https://news.ycombinator.com/item?id=38854350) - [Waiting on Tests](https://etodd.io/2024/01/01/waiting-on-tests/)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
-* [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to break into password vaults without using passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
+* [2024-01-02, 13:14:33](https://news.ycombinator.com/item?id=38841288) - [The Duplex watch escapement (2021)](https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement)
 * [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 
 ## [Archives](archives/index.md)
