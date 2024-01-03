@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 20:09:41](https://news.ycombinator.com/item?id=38859147) - [Most states start school too early in the morning](https://www.atlasobscura.com/articles/usa-school-start-times)
 * [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
 * [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
@@ -50,6 +51,7 @@
 * [2024-01-03, 13:17:36](https://news.ycombinator.com/item?id=38853688) - [Choosing Go at American Express](https://americanexpress.io/choosing-go/)
 * [2024-01-03, 12:49:50](https://news.ycombinator.com/item?id=38853452) - [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
 * [2024-01-03, 12:44:55](https://news.ycombinator.com/item?id=38853406) - [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
+* [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)
 * [2024-01-03, 12:03:23](https://news.ycombinator.com/item?id=38853118) - [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
 * [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to Break into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
