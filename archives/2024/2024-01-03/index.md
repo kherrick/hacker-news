@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
+* [2024-01-03, 15:03:35](https://news.ycombinator.com/item?id=38854857) - [Gay's resignation features new conservative weapon against colleges: plagiarism](https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f)
+* [2024-01-03, 14:54:40](https://news.ycombinator.com/item?id=38854748) - [The Aha Stack](https://ahastack.dev/)
 * [2024-01-03, 14:54:35](https://news.ycombinator.com/item?id=38854746) - [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
 * [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
 * [2024-01-03, 13:54:19](https://news.ycombinator.com/item?id=38854037) - [Farnborough airport's biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
