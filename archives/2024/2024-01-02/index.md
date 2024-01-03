@@ -75,6 +75,7 @@
 * [2024-01-02, 13:26:55](https://news.ycombinator.com/item?id=38841382) - [LAN Mouse is a mouse and keyboard sharing software](https://github.com/feschber/lan-mouse)
 * [2024-01-02, 13:19:29](https://news.ycombinator.com/item?id=38841328) - [A New Approach to Local Multiplayer / Splitscreen Perspective with Raytracing](https://ph3at.github.io/posts/Ray-Coop-Camera/)
 * [2024-01-02, 13:17:44](https://news.ycombinator.com/item?id=38841314) - [Framework for identification of chaotic systems with symbolic regression](https://arxiv.org/abs/2312.14237)
+* [2024-01-02, 13:16:13](https://news.ycombinator.com/item?id=38841302) - [Microsoft Copilot iOS App](https://apps.apple.com/at/app/microsoft-copilot/id6472538445)
 * [2024-01-02, 13:14:33](https://news.ycombinator.com/item?id=38841288) - [The Duplex watch escapement](https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement)
 * [2024-01-02, 13:14:28](https://news.ycombinator.com/item?id=38841284) - [Lolwut: A piece of art inside a database command (2018)](http://antirez.com/news/123)
 * [2024-01-02, 13:13:32](https://news.ycombinator.com/item?id=38841277) - [Reductive Thinking and the Unfairness of Spotify Payments](https://shkspr.mobi/blog/2024/01/the-unfairness-of-spotify-payments-and-reductive-thinking/)
