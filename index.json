@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38856980"
     ],
     [
-      "How a New Orleans group is using AI to counteract city surveillance expansion",
+      "Retrieval Augmented Generation for New Orleans City Council Transparency",
       "https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency"
     ]
   ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-01-03, 17:07:08",
-      "https://news.ycombinator.com/item?id=38856515"
+      "2024-01-03, 17:10:38",
+      "https://news.ycombinator.com/item?id=38856559"
     ],
     [
-      "Firefox private mode now automatically blocks cookie banners for German users",
-      "https://support.mozilla.org/en-US/kb/cookie-banner-reduction"
+      "Container2wasm: Convert Containers to WASM Blobs",
+      "https://github.com/ktock/container2wasm"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=38854596"
     ],
     [
-      "Making Small Games, Which Is Fun in Itself",
+      "Making small games, which is fun in itself",
       "https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html"
     ]
   ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2024-01-03, 03:50:29",
+      "https://news.ycombinator.com/item?id=38850496"
+    ],
+    [
+      "Gvisor: Application Kernel for Containers",
+      "https://github.com/google/gvisor"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 03:35:56",
       "https://news.ycombinator.com/item?id=38850400"
     ],
     [
       "GCC Specs: An Introduction",
       "https://wozniak.ca/blog/2024/01/02/1/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 03:07:07",
-      "https://news.ycombinator.com/item?id=38850202"
-    ],
-    [
-      "Sieve is simpler than LRU",
-      "https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-01-02, 19:00:06",
-      "https://news.ycombinator.com/item?id=38845510"
+      "2024-01-02, 18:30:51",
+      "https://news.ycombinator.com/item?id=38845059"
     ],
     [
-      "1D Pac-Man",
-      "https://abagames.github.io/crisp-game-lib-11-games/?pakupaku"
+      "Building a self-contained game in C# under 2 kilobytes",
+      "https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-01-02, 08:35:16",
-      "https://news.ycombinator.com/item?id=38839451"
+      "2024-01-02, 06:58:20",
+      "https://news.ycombinator.com/item?id=38838944"
     ],
     [
-      "Building a self-contained game in C# under 2 kilobytes",
-      "https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
+      "50 Algorithms Every Programmer Should Know (Second Edition)",
+      "https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/"
     ]
   ],
   [
