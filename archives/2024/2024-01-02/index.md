@@ -7,6 +7,7 @@
 * [2024-01-02, 23:26:22](https://news.ycombinator.com/item?id=38848566) - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
 * [2024-01-02, 23:02:48](https://news.ycombinator.com/item?id=38848280) - [Coal and fossil fuel use in Germany at a record low for electricity in 2023](https://www.energy-charts.info/charts/energy/chart.htm?l=en&c=DE&interval=year&year=2023)
 * [2024-01-02, 22:49:02](https://news.ycombinator.com/item?id=38848140) - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
+* [2024-01-02, 22:46:09](https://news.ycombinator.com/item?id=38848118) - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
 * [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
 * [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
 * [2024-01-02, 22:31:37](https://news.ycombinator.com/item?id=38847978) - [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
