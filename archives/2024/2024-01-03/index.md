@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [The crazy market for the most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
+* [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo Is Hiring a Live Events and Music Account Executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
+* [2024-01-03, 20:53:50](https://news.ycombinator.com/item?id=38859749) - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
+* [2024-01-03, 20:46:59](https://news.ycombinator.com/item?id=38859659) - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 * [2024-01-03, 20:31:04](https://news.ycombinator.com/item?id=38859427) - [My 3-Year Experiment as a Digital Nomad](https://www.kapwing.com/blog/digital-nomad/)
+* [2024-01-03, 20:15:40](https://news.ycombinator.com/item?id=38859219) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-03, 20:09:41](https://news.ycombinator.com/item?id=38859147) - [Most states start school too early in the morning](https://www.atlasobscura.com/articles/usa-school-start-times)
 * [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
@@ -75,4 +80,5 @@
 * [2024-01-03, 01:54:53](https://news.ycombinator.com/item?id=38849746) - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
 * [2024-01-03, 01:47:07](https://news.ycombinator.com/item?id=38849698) - [Rails 7.1 Introduced Validate Option for Enums](https://blog.saeloun.com/2024/01/02/rails-enums-validate-option/)
 * [2024-01-03, 01:29:19](https://news.ycombinator.com/item?id=38849580) - [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
+* [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-03, 00:00:14](https://news.ycombinator.com/item?id=38848905) - [Lambdasort: Quicksort written in Python only using lambdas](https://lucasoshiro.github.io/software-en/2020-06-06-lambdasort/)

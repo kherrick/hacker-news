@@ -19,6 +19,7 @@
 * [2024-01-02, 21:17:09](https://news.ycombinator.com/item?id=38847282) - [Need a Home for 80k Puzzles? Try an Italian Castle](https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 20:30:32](https://news.ycombinator.com/item?id=38846764) - [Images altered to trick machine vision can influence humans too](https://deepmind.google/discover/blog/images-altered-to-trick-machine-vision-can-influence-humans-too/)
+* [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors - a new mode](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:28:46](https://news.ycombinator.com/item?id=38845878) - [LLM spews nonsense in CVE report for curl](https://hackerone.com/reports/2298307)
 * [2024-01-02, 19:10:36](https://news.ycombinator.com/item?id=38845650) - [Show HN: Better Seater: Wedding Seating Chart Optimizer](https://seater.steam-oven.net/)
