@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-03, 17:25:32",
+      "https://news.ycombinator.com/item?id=38856753"
+    ],
+    [
+      "Italy divided over new pineapple pizza",
+      "https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 17:20:30",
+      "https://news.ycombinator.com/item?id=38856696"
+    ],
+    [
+      "C and C++ Hot-Reload/Live Coding",
+      "https://liveplusplus.tech/"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 17:11:00",
       "https://news.ycombinator.com/item?id=38856563"
     ],
     [
       "Magnetic tunnel junction-based computational random-access memory",
       "https://arxiv.org/abs/2312.14264"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 17:07:08",
+      "https://news.ycombinator.com/item?id=38856515"
+    ],
+    [
+      "Firefox private mode now automatically blocks cookie banners for German users",
+      "https://support.mozilla.org/en-US/kb/cookie-banner-reduction"
     ]
   ],
   [
@@ -57,26 +87,6 @@
     [
       "Ancient diseases that plagued the dinosaurs (2023)",
       "https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 15:10:16",
-      "https://news.ycombinator.com/item?id=38854940"
-    ],
-    [
-      "Japan to test datacenter powered by reused hydrogen fuel cells",
-      "https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 14:54:40",
-      "https://news.ycombinator.com/item?id=38854748"
-    ],
-    [
-      "The Aha Stack",
-      "https://ahastack.dev/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Cross-platform Rust rewrite of the GNU coreutils",
       "https://github.com/uutils/coreutils"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 06:48:09",
-      "https://news.ycombinator.com/item?id=38851446"
-    ],
-    [
-      "Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models",
-      "https://arxiv.org/abs/2312.17661"
     ]
   ],
   [
