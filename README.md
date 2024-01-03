@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
+* [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
 * [2024-01-03, 17:11:00](https://news.ycombinator.com/item?id=38856563) - [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
@@ -11,7 +12,6 @@
 * [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-* [2024-01-03, 14:54:40](https://news.ycombinator.com/item?id=38854748) - [The Aha Stack](https://ahastack.dev/)
 * [2024-01-03, 14:43:14](https://news.ycombinator.com/item?id=38854610) - [Show HN: Start every terminal session with a vivid reminder of life's value](https://github.com/accessd/the-last-sunday)
 * [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making Small Games, Which Is Fun in Itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)

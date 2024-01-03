@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
+* [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:25:32](https://news.ycombinator.com/item?id=38856753) - [Italy divided over new pineapple pizza](https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
