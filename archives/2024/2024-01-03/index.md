@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 14:54:35](https://news.ycombinator.com/item?id=38854746) - [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
 * [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
 * [2024-01-03, 13:54:19](https://news.ycombinator.com/item?id=38854037) - [Farnborough airport's biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
 * [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
@@ -13,6 +14,7 @@
 * [2024-01-03, 12:44:55](https://news.ycombinator.com/item?id=38853406) - [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
 * [2024-01-03, 12:03:23](https://news.ycombinator.com/item?id=38853118) - [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
 * [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
+* [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to Break into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 10:37:52](https://news.ycombinator.com/item?id=38852580) - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
 * [2024-01-03, 10:32:27](https://news.ycombinator.com/item?id=38852534) - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
 * [2024-01-03, 10:27:16](https://news.ycombinator.com/item?id=38852503) - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
