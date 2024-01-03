@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 16:59:58](https://news.ycombinator.com/item?id=38856412) - [23andMe tells victims it's their fault that their data was breached](https://techcrunch.com/2024/01/03/23andme-tells-victims-its-their-fault-that-their-data-was-breached/)
 * [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
@@ -23,7 +24,6 @@
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-03, 03:35:56](https://news.ycombinator.com/item?id=38850400) - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-03, 03:07:07](https://news.ycombinator.com/item?id=38850202) - [Sieve is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
-* [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 * [2024-01-02, 17:20:18](https://news.ycombinator.com/item?id=38844117) - [Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
