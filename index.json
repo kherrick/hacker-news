@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-03, 01:47:07",
-      "https://news.ycombinator.com/item?id=38849698"
-    ],
-    [
-      "Rails 7.1 Introduced Validate Option for Enums",
-      "https://blog.saeloun.com/2024/01/02/rails-enums-validate-option/"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 23:26:22",
       "https://news.ycombinator.com/item?id=38848566"
     ],
@@ -97,6 +87,16 @@
     [
       "CGA in 1024 colors – a new mode (2015)",
       "https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 19:10:36",
+      "https://news.ycombinator.com/item?id=38845650"
+    ],
+    [
+      "Show HN: Better Seater: Wedding Seating Chart Optimizer",
+      "https://seater.steam-oven.net/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38841328"
     ],
     [
-      "A New Approach to Local Multiplayer / Splitscreen Perspective with Raytracing",
+      "A new approach to local multiplayer / splitscreen perspective with raytracing",
       "https://ph3at.github.io/posts/Ray-Coop-Camera/"
     ]
   ],
