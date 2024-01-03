@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 03:06:49](https://news.ycombinator.com/item?id=38850198) - [Do Not Build SaaS](https://dontbuildsaas.com/)
 * [2024-01-03, 03:06:02](https://news.ycombinator.com/item?id=38850194) - [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
 * [2024-01-03, 01:54:53](https://news.ycombinator.com/item?id=38849746) - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
 * [2024-01-03, 01:29:19](https://news.ycombinator.com/item?id=38849580) - [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
@@ -14,7 +15,6 @@
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 * [2024-01-02, 18:20:56](https://news.ycombinator.com/item?id=38844943) - [How to do OCR on a Mac using the CLI or just Python](https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html)
 * [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
-* [2024-01-02, 16:46:30](https://news.ycombinator.com/item?id=38843675) - [A Simulated Annealing FPGA Placer](https://stefanabikaram.com/writing/fpga-sa-placer/)
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
 * [2024-01-02, 16:10:38](https://news.ycombinator.com/item?id=38843145) - [What it will take to unleash the potential of geothermal power](https://www.technologyreview.com/2021/12/08/1041511/potential-geothermal-power-infrastructure-bill/)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
