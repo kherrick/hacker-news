@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-03, 12:49:50",
-      "https://news.ycombinator.com/item?id=38853452"
+      "2024-01-03, 12:44:55",
+      "https://news.ycombinator.com/item?id=38853406"
     ],
     [
-      "Not a single person living in the moment",
-      "https://twitter.com/HumansNoContext/status/1741853474705330461"
+      "OpenBSD Workstation Hardening",
+      "https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html"
     ]
   ],
   [
@@ -57,6 +57,26 @@
     [
       "Maestro: A Linux-compatible kernel in Rust",
       "https://blog.lenot.re/a/introduction"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 09:17:58",
+      "https://news.ycombinator.com/item?id=38852142"
+    ],
+    [
+      "Farmland practices are driving bird population decline across Europe (2023)",
+      "https://doi.org/10.1073/pnas.2216573120"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 09:03:12",
+      "https://news.ycombinator.com/item?id=38852095"
+    ],
+    [
+      "Driverless cars swerve traffic tickets in California even if they break the law",
+      "https://www.theregister.com/2024/01/02/driverless_cars_tickets/"
     ]
   ],
   [
@@ -131,42 +151,12 @@
   ],
   [
     [
-      "2024-01-02, 22:05:06",
-      "https://news.ycombinator.com/item?id=38847719"
-    ],
-    [
-      "Browsers are the most likely disruptor of the mobile duopoly",
-      "https://infrequently.org/2024/01/the-web-is-the-app-store/"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 21:55:08",
       "https://news.ycombinator.com/item?id=38847613"
     ],
     [
       "Show HN: Resurrecting the Dillo browser",
       "https://dillo-browser.github.io/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 19:34:33",
-      "https://news.ycombinator.com/item?id=38845951"
-    ],
-    [
-      "CGA in 1024 colors – a new mode (2015)",
-      "https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 19:10:36",
-      "https://news.ycombinator.com/item?id=38845650"
-    ],
-    [
-      "Show HN: Better Seater – Wedding seating chart optimizer",
-      "https://seater.steam-oven.net/"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2024-01-02, 13:14:33",
+      "https://news.ycombinator.com/item?id=38841288"
+    ],
+    [
+      "The Duplex watch escapement",
+      "https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 13:14:28",
       "https://news.ycombinator.com/item?id=38841284"
     ],
     [
       "Lolwut: A piece of art inside a database command (2018)",
       "http://antirez.com/news/123"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 11:43:18",
-      "https://news.ycombinator.com/item?id=38840614"
-    ],
-    [
-      "Notes on the Ivory Coast",
-      "https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/"
     ]
   ],
   [
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2024-01-02, 06:17:20",
+      "https://news.ycombinator.com/item?id=38838723"
+    ],
+    [
+      "Hiew Hex Editor",
+      "https://lock.cmpxchg8b.com/hiew.html"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 12:18:30",
       "https://news.ycombinator.com/item?id=38831336"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-12-31, 22:01:14",
-      "https://news.ycombinator.com/item?id=38827876"
+      "2024-01-01, 09:05:41",
+      "https://news.ycombinator.com/item?id=38830567"
     ],
     [
-      "Show HN: Cassette, a Personal Programming Language",
-      "https://cassette-lang.com"
+      "Forest Elephants and Infrasound",
+      "https://www.elephantlisteningproject.org/all-about-infrasound/"
     ]
   ]
 ]
