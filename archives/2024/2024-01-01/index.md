@@ -83,6 +83,7 @@
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
 * [2024-01-01, 06:48:45](https://news.ycombinator.com/item?id=38830132) - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 * [2024-01-01, 06:40:31](https://news.ycombinator.com/item?id=38830103) - [Pasteur and the beer of national revenge (2017)](https://www.garshol.priv.no/blog/376.html)
+* [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 * [2024-01-01, 06:29:25](https://news.ycombinator.com/item?id=38830066) - [From David Hockney to modern horror: the enduring symbolism of the swimming pool](https://www.wallpaper.com/art/from-david-hockney-to-modern-horror-the-enduring-symbolism-of-the-swimming-pool)
 * [2024-01-01, 05:04:12](https://news.ycombinator.com/item?id=38829845) - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 * [2024-01-01, 05:01:52](https://news.ycombinator.com/item?id=38829841) - [Video playback on low-end MS-DOS machines](https://scalibq.wordpress.com/2024/01/01/video-playback-on-low-end-ms-dos-machines/)

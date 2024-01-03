@@ -24,11 +24,11 @@
 * [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
-* [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
+* [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
 
 ## [Archives](archives/index.md)
