@@ -71,6 +71,7 @@
 * [2024-01-01, 09:33:47](https://news.ycombinator.com/item?id=38830687) - [Show HN: Durdraw – a modern ANSI art editor for modern Unix terminals](https://github.com/cmang/durdraw)
 * [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Web browser as GUI, with your preferred language in the backend](https://github.com/webui-dev/webui)
 * [2024-01-01, 09:30:39](https://news.ycombinator.com/item?id=38830673) - [Use any web browser as GUI, with Zig in the back end and HTML5 in the front end](https://github.com/webui-dev/zig-webui)
+* [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
 * [2024-01-01, 08:45:34](https://news.ycombinator.com/item?id=38830484) - [Saxo Bank's Outrageous Predictions 2024](https://www.home.saxo/insights/news-and-research/thought-leadership/outrageous-predictions)
 * [2024-01-01, 08:44:06](https://news.ycombinator.com/item?id=38830482) - [Show HN: We solved character consistency in AI filmmaking](https://app.artflow.ai/character-builder?feature=characters)
 * [2024-01-01, 08:30:26](https://news.ycombinator.com/item?id=38830441) - [Extract Web Data Easily with AI](https://www.kadoa.com/)
