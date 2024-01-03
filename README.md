@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 03:06:02](https://news.ycombinator.com/item?id=38850194) - [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
 * [2024-01-03, 01:54:53](https://news.ycombinator.com/item?id=38849746) - [Suicide Rates Are Up for Gen Z Across the Anglosphere, Especially for Girls](https://www.afterbabel.com/p/anglo-teen-suicide)
 * [2024-01-03, 01:29:19](https://news.ycombinator.com/item?id=38849580) - [With revenue and users declining, Mozilla CEO gets a 20% raise](https://www.theregister.com/2024/01/02/mozilla_in_2024_ai_privacy/)
 * [2024-01-02, 23:26:22](https://news.ycombinator.com/item?id=38848566) - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
@@ -19,7 +20,6 @@
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
 * [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
-* [2024-01-02, 14:59:43](https://news.ycombinator.com/item?id=38842297) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=38842297)
 * [2024-01-02, 14:08:42](https://news.ycombinator.com/item?id=38841708) - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe)
 * [2024-01-02, 13:19:29](https://news.ycombinator.com/item?id=38841328) - [A New Approach to Local Multiplayer / Splitscreen Perspective with Raytracing](https://ph3at.github.io/posts/Ray-Coop-Camera/)
 * [2024-01-02, 13:14:33](https://news.ycombinator.com/item?id=38841288) - [The Duplex watch escapement](https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement)
