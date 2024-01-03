@@ -16,7 +16,7 @@
 * [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
 * [2024-01-02, 16:46:30](https://news.ycombinator.com/item?id=38843675) - [A Simulated Annealing FPGA Placer](https://stefanabikaram.com/writing/fpga-sa-placer/)
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
-* [2024-01-02, 16:10:38](https://news.ycombinator.com/item?id=38843145) - [What it will take to unleash the potential of geothermal power](https://www.technologyreview.com/2021/12/08/1041511/potential-geothermal-power-infrastructure-bill/)
+* [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
 * [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
