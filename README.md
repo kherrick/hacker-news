@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2024-01-03, 10:37:52](https://news.ycombinator.com/item?id=38852580) - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
 * [2024-01-03, 10:32:27](https://news.ycombinator.com/item?id=38852534) - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
 * [2024-01-03, 10:27:16](https://news.ycombinator.com/item?id=38852503) - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
@@ -21,14 +22,13 @@
 * [2024-01-02, 17:20:18](https://news.ycombinator.com/item?id=38844117) - [Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
 * [2024-01-02, 13:19:29](https://news.ycombinator.com/item?id=38841328) - [A new approach to local multiplayer / splitscreen perspective with raytracing](https://ph3at.github.io/posts/Ray-Coop-Camera/)
-* [2024-01-02, 13:14:33](https://news.ycombinator.com/item?id=38841288) - [The Duplex watch escapement](https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement)
 * [2024-01-02, 13:14:28](https://news.ycombinator.com/item?id=38841284) - [Lolwut: A piece of art inside a database command (2018)](http://antirez.com/news/123)
 * [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
+* [2024-01-02, 06:32:34](https://news.ycombinator.com/item?id=38838811) - [Netherlands blocks ASML exports to China in partial license revocation](https://www.reuters.com/technology/asml-says-dutch-government-revoked-some-export-license-2024-01-01/)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
 * [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
-* [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
 
 ## [Archives](archives/index.md)
