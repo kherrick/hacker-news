@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
+* [2024-01-03, 13:54:19](https://news.ycombinator.com/item?id=38854037) - [Farnborough airport's biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
 * [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 * [2024-01-03, 13:37:11](https://news.ycombinator.com/item?id=38853877) - [Linux hits nearly 4% desktop user share on Statcounter](https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
