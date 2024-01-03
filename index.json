@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-01-03, 03:07:07",
+      "https://news.ycombinator.com/item?id=38850202"
+    ],
+    [
+      "Sieve is simpler than LRU",
+      "https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 23:26:22",
       "https://news.ycombinator.com/item?id=38848566"
     ],
@@ -157,16 +167,6 @@
     [
       "A Canadian payroll dependency chart",
       "https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 16:06:09",
-      "https://news.ycombinator.com/item?id=38843069"
-    ],
-    [
-      "Distributed Inference and Fine-Tuning of Large Language Models over the Internet",
-      "https://browse.arxiv.org/html/2312.08361v1"
     ]
   ],
   [
