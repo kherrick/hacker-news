@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-01-03, 21:01:10",
+      "https://news.ycombinator.com/item?id=38859851"
+    ],
+    [
+      "The crazy market for the most expensive pet fish",
+      "https://thehustle.co/asian-arowana-most-expensive-fish/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 21:01:04",
+      "https://news.ycombinator.com/item?id=38859850"
+    ],
+    [
+      "Laylo Is Hiring a Live Events and Music Account Executive",
+      "https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 20:53:50",
+      "https://news.ycombinator.com/item?id=38859749"
+    ],
+    [
+      "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
+      "https://github.com/DLYuanGod/TinyGPT-V"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 20:46:59",
+      "https://news.ycombinator.com/item?id=38859659"
+    ],
+    [
+      "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+      "https://arxiv.org/abs/2401.01335"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 20:31:04",
       "https://news.ycombinator.com/item?id=38859427"
     ],
     [
-      "My 3-Year Experiment as a Digital Nomad",
+      "My 3-year experiment as a digital nomad",
       "https://www.kapwing.com/blog/digital-nomad/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 20:15:40",
+      "https://news.ycombinator.com/item?id=38859219"
+    ],
+    [
+      "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1",
+      "https://mahaloz.re/dec-history-pt1"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Niklaus Wirth has died",
       "https://twitter.com/Bertrand_Meyer/status/1742613897675178347"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 18:35:59",
-      "https://news.ycombinator.com/item?id=38857806"
-    ],
-    [
-      "Porsche Design System v3",
-      "https://designsystem.porsche.com/v3/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2024-01-03, 15:43:28",
-      "https://news.ycombinator.com/item?id=38855346"
-    ],
-    [
-      "Show HN: Comflowy – A ComfyUI Tutorial for Beginners",
-      "https://www.comflowy.com/"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 15:42:22",
       "https://news.ycombinator.com/item?id=38855337"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-01-03, 12:00:35",
-      "https://news.ycombinator.com/item?id=38853105"
-    ],
-    [
-      "Provision (YC S22) is hiring a fullstack software engineer",
-      "https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 11:53:12",
       "https://news.ycombinator.com/item?id=38853058"
     ],
@@ -251,32 +271,22 @@
   ],
   [
     [
-      "2024-01-03, 09:17:58",
-      "https://news.ycombinator.com/item?id=38852142"
+      "2024-01-03, 00:06:47",
+      "https://news.ycombinator.com/item?id=38848973"
     ],
     [
-      "Farmland practices are driving bird population decline across Europe (2023)",
-      "https://doi.org/10.1073/pnas.2216573120"
+      "Ants recognise infected wounds and treat them with antibiotics",
+      "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/"
     ]
   ],
   [
     [
-      "2024-01-02, 13:14:33",
-      "https://news.ycombinator.com/item?id=38841288"
+      "2024-01-02, 19:45:38",
+      "https://news.ycombinator.com/item?id=38846124"
     ],
     [
-      "The Duplex watch escapement (2021)",
-      "https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 09:20:43",
-      "https://news.ycombinator.com/item?id=38839724"
-    ],
-    [
-      "Playing with Fontconfig (2020)",
-      "https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html"
+      "Show HN: The Sage Programming Language",
+      "https://github.com/adam-mcdaniel/sage"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reflections on ten years of LLVM Weekly",
       "https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 19:50:58",
-      "https://news.ycombinator.com/item?id=38826954"
-    ],
-    [
-      "Emoji by Year",
-      "https://taylor.town/emoji-by-year"
     ]
   ]
 ]
