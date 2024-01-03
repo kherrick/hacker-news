@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-03, 15:54:31",
-      "https://news.ycombinator.com/item?id=38855494"
-    ],
-    [
-      "RawJS is a better way to call document.createElement()",
-      "https://www.squaresapp.org/rawjs/"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 15:49:18",
       "https://news.ycombinator.com/item?id=38855427"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-01-03, 06:48:09",
+      "https://news.ycombinator.com/item?id=38851446"
+    ],
+    [
+      "Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models",
+      "https://arxiv.org/abs/2312.17661"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 05:08:02",
       "https://news.ycombinator.com/item?id=38850961"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-02, 21:55:08",
+      "https://news.ycombinator.com/item?id=38847613"
+    ],
+    [
+      "Show HN: Resurrecting the Dillo browser",
+      "https://dillo-browser.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 19:00:06",
       "https://news.ycombinator.com/item?id=38845510"
     ],
@@ -257,16 +267,6 @@
     [
       "Double encryption: Analyzing the NSA/GCHQ arguments against hybrids",
       "https://blog.cr.yp.to/20240102-hybrid.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 13:19:29",
-      "https://news.ycombinator.com/item?id=38841328"
-    ],
-    [
-      "A new approach to local multiplayer / splitscreen perspective with raytracing",
-      "https://ph3at.github.io/posts/Ray-Coop-Camera/"
     ]
   ],
   [
