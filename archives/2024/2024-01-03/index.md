@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 18:29:52](https://news.ycombinator.com/item?id=38857724) - [Tesla is banned from driving schools because of new turn signals](https://electrek.co/2024/01/03/tesla-is-banned-from-driving-schools-because-of-new-turn-signals/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:25:32](https://news.ycombinator.com/item?id=38856753) - [Italy divided over new pineapple pizza](https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html)
