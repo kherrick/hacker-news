@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-03, 16:05:07",
+      "https://news.ycombinator.com/item?id=38855621"
+    ],
+    [
+      "Xerox to cut 15% of its workforce",
+      "https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 15:54:31",
       "https://news.ycombinator.com/item?id=38855494"
     ],
     [
-      "Rawjs – you may not need React anymore",
+      "RawJS is a better way to call document.createElement()",
       "https://www.squaresapp.org/rawjs/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 15:49:18",
+      "https://news.ycombinator.com/item?id=38855427"
+    ],
+    [
+      "U.S. cities opt to ditch their off-street parking minimums",
+      "https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38855225"
     ],
     [
-      "Cancer Plagued the Dinosaurs (2023)",
+      "Ancient diseases that plagued the dinosaurs (2023)",
       "https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer"
     ]
   ],
@@ -51,22 +71,32 @@
   ],
   [
     [
-      "2024-01-03, 15:09:42",
-      "https://news.ycombinator.com/item?id=38854932"
-    ],
-    [
-      "Thorium – Radioactive Chromium Fork",
-      "https://github.com/Alex313031/thorium"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 14:54:40",
       "https://news.ycombinator.com/item?id=38854748"
     ],
     [
       "The Aha Stack",
       "https://ahastack.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 14:43:14",
+      "https://news.ycombinator.com/item?id=38854610"
+    ],
+    [
+      "Show HN: Start every terminal session with a vivid reminder of life's value",
+      "https://github.com/accessd/the-last-sunday"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 14:42:22",
+      "https://news.ycombinator.com/item?id=38854596"
+    ],
+    [
+      "Making Small Games, Which Is Fun in Itself",
+      "https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-01-03, 06:48:09",
-      "https://news.ycombinator.com/item?id=38851446"
-    ],
-    [
-      "Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models",
-      "https://arxiv.org/abs/2312.17661"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 05:08:02",
       "https://news.ycombinator.com/item?id=38850961"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-01-02, 21:55:08",
-      "https://news.ycombinator.com/item?id=38847613"
-    ],
-    [
-      "Show HN: Resurrecting the Dillo browser",
-      "https://dillo-browser.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 19:00:06",
       "https://news.ycombinator.com/item?id=38845510"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2024-01-02, 15:27:45",
-      "https://news.ycombinator.com/item?id=38842571"
-    ],
-    [
-      "Thomas Cochrane",
-      "https://sergey.substack.com/p/thomas-cochrane"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 13:19:29",
       "https://news.ycombinator.com/item?id=38841328"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-01-02, 11:41:27",
-      "https://news.ycombinator.com/item?id=38840596"
+      "2024-01-02, 08:35:16",
+      "https://news.ycombinator.com/item?id=38839451"
     ],
     [
-      "Bugtraq: Userland Exec (2004)",
-      "https://seclists.org/bugtraq/2004/Jan/2"
+      "Building a self-contained game in C# under 2 kilobytes",
+      "https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
     ]
   ],
   [
