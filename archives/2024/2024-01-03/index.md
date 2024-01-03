@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 * [2024-01-03, 13:37:11](https://news.ycombinator.com/item?id=38853877) - [Linux hits nearly 4% desktop user share on Statcounter](https://www.gamingonlinux.com/2024/01/linux-hits-nearly-4-desktop-user-share-on-statcounter/)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
 * [2024-01-03, 12:49:50](https://news.ycombinator.com/item?id=38853452) - [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
