@@ -40,6 +40,7 @@
 * [2024-01-02, 17:34:34](https://news.ycombinator.com/item?id=38844329) - [Denied OBS PR regarding Kick support lights up](https://github.com/obsproject/obs-studio/pull/10043)
 * [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
 * [2024-01-02, 17:29:27](https://news.ycombinator.com/item?id=38844240) - [The Myth of Meritocracy Runs Deep in American History](https://thereader.mitpress.mit.edu/the-myth-of-meritocracy-runs-deep-in-american-history/)
+* [2024-01-02, 17:20:18](https://news.ycombinator.com/item?id=38844117) - [Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
 * [2024-01-02, 17:15:25](https://news.ycombinator.com/item?id=38844053) - [Git Branches Have No Rules](https://wizardzines.com/comics/branches-have-no-rules/)
 * [2024-01-02, 17:12:45](https://news.ycombinator.com/item?id=38844024) - [Online Job Posts Contain Little Wage Information [pdf]](https://www.nber.org/system/files/working_papers/w31984/w31984.pdf)
 * [2024-01-02, 17:07:40](https://news.ycombinator.com/item?id=38843962) - [BYD overtakes Tesla's electric car sales in last quarter of 2023](https://www.bbc.com/news/business-67860232)
