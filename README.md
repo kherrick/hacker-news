@@ -28,8 +28,8 @@
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
-* [2024-01-01, 07:26:29](https://news.ycombinator.com/item?id=38830238) - [How I destroyed the company's DB](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
+* [2023-12-31, 16:43:21](https://news.ycombinator.com/item?id=38825299) - [Steam and Electricity, Part 1: Electric Light](https://technicshistory.com/2023/12/31/steam-and-electricity-part-1-electric-light/)
 
 ## [Archives](archives/index.md)
 
