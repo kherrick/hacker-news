@@ -95,6 +95,7 @@
 * [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [Japan Airlines plane catches fire while landing at Tokyo airport runway](https://www.mirror.co.uk/news/world-news/breaking-plane-catches-fire-taking-31786520)
 * [2024-01-02, 09:44:53](https://news.ycombinator.com/item?id=38839885) - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe&opt=0)
 * [2024-01-02, 09:27:13](https://news.ycombinator.com/item?id=38839763) - [The funny rules of SpamAssassin in 2023](https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023)
+* [2024-01-02, 09:25:11](https://news.ycombinator.com/item?id=38839753) - [Why Arabic Is Terrific (2011)](https://idlewords.com/2011/08/why_arabic_is_terrific.htm)
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)

@@ -26,7 +26,7 @@
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
 * [2024-01-02, 13:19:29](https://news.ycombinator.com/item?id=38841328) - [A new approach to local multiplayer / splitscreen perspective with raytracing](https://ph3at.github.io/posts/Ray-Coop-Camera/)
 * [2024-01-02, 11:41:27](https://news.ycombinator.com/item?id=38840596) - [Bugtraq: Userland Exec (2004)](https://seclists.org/bugtraq/2004/Jan/2)
-* [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
+* [2024-01-02, 09:25:11](https://news.ycombinator.com/item?id=38839753) - [Why Arabic Is Terrific (2011)](https://idlewords.com/2011/08/why_arabic_is_terrific.htm)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
 * [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
 * [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
