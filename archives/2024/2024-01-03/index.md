@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 20:31:04](https://news.ycombinator.com/item?id=38859427) - [My 3-Year Experiment as a Digital Nomad](https://www.kapwing.com/blog/digital-nomad/)
 * [2024-01-03, 20:09:41](https://news.ycombinator.com/item?id=38859147) - [Most states start school too early in the morning](https://www.atlasobscura.com/articles/usa-school-start-times)
 * [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
