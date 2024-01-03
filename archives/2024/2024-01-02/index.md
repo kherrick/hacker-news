@@ -104,6 +104,7 @@
 * [2024-01-02, 08:35:16](https://news.ycombinator.com/item?id=38839451) - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/)
 * [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
 * [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
+* [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 * [2024-01-02, 07:41:56](https://news.ycombinator.com/item?id=38839152) - [Hugging Face's Transformer Library: A Game-Changer in NLP](https://turingtalks.substack.com/p/hugging-face-transformer-library)
 * [2024-01-02, 07:40:23](https://news.ycombinator.com/item?id=38839143) - [Vermont Attorney General's dog sniffs out electronic storage devices](https://vtdigger.org/2023/12/24/in-his-final-years-on-the-job-mojo-the-dog-sniffs-out-illicit-material-and-brings-immeasurable-joy-to-vermonts-internet-crimes-unit/)
 * [2024-01-02, 07:32:28](https://news.ycombinator.com/item?id=38839101) - [Microsoft keeps shooting itself in the foot with Edge](https://www.xda-developers.com/microsoft-shooting-itself-foot-edge/)

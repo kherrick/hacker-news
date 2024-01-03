@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
+* [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
+* [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Any felons successfully found IT work post-release?](https://news.ycombinator.com/item?id=38858075)
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
 * [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
@@ -11,7 +12,6 @@
 * [2024-01-03, 17:11:00](https://news.ycombinator.com/item?id=38856563) - [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
 * [2024-01-03, 17:10:38](https://news.ycombinator.com/item?id=38856559) - [Container2wasm: Convert Containers to WASM Blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 17:05:22](https://news.ycombinator.com/item?id=38856491) - [Libwa: WhatsApp C Library](https://github.com/rodarima/libwa)
-* [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:49:18](https://news.ycombinator.com/item?id=38855427) - [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
 * [2024-01-03, 15:43:28](https://news.ycombinator.com/item?id=38855346) - [Show HN: Comflowy – A ComfyUI Tutorial for Beginners](https://www.comflowy.com/)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
@@ -27,8 +27,8 @@
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 09:17:58](https://news.ycombinator.com/item?id=38852142) - [Farmland practices are driving bird population decline across Europe (2023)](https://doi.org/10.1073/pnas.2216573120)
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge](https://github.com/kspalaiologos/malbolge-lisp)
-* [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-02, 21:17:09](https://news.ycombinator.com/item?id=38847282) - [Need a Home for 80k Puzzles? Try an Italian Castle](https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html)
+* [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 * [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 
 ## [Archives](archives/index.md)

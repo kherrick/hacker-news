@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
 * [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
