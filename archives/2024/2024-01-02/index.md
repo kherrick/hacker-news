@@ -30,6 +30,7 @@
 * [2024-01-02, 18:57:04](https://news.ycombinator.com/item?id=38845461) - [First do it, then do it right, then do it better](https://twitter.com/addyosmani/status/1739052802314539371)
 * [2024-01-02, 18:46:00](https://news.ycombinator.com/item?id=38845284) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:38:53](https://news.ycombinator.com/item?id=38845173) - [Spoonbill (2016–2013)](https://www.applied-cartography.com/spoonbill)
+* [2024-01-02, 18:30:51](https://news.ycombinator.com/item?id=38845059) - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/)
 * [2024-01-02, 18:25:12](https://news.ycombinator.com/item?id=38845000) - [Plan9/ThinkPad T420s (2021)](https://9lab.org/plan9/thinkpad-t420s/)
 * [2024-01-02, 18:21:36](https://news.ycombinator.com/item?id=38844950) - [Moving Git commits between repos](https://jeremymikkola.com/posts/2017_07_15_move_commits_between_git_repos.html)
 * [2024-01-02, 18:21:03](https://news.ycombinator.com/item?id=38844945) - [90x Faster Than Pgvector – Lantern's HNSW Index Creation Time](https://lantern.dev/blog/hnsw-index-creation)
