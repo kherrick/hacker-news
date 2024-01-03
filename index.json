@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-01-03, 19:10:00",
+      "https://news.ycombinator.com/item?id=38858369"
+    ],
+    [
+      "Show HN: A Who is Hiring app with AI filters – January 2024 update",
+      "https://bernawil.github.io/hn-who-is-hiring/"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 18:53:57",
       "https://news.ycombinator.com/item?id=38858075"
     ],
     [
-      "Ask HN: Who is hiring justice-impacted engineers?",
+      "Ask HN: Any felons successfully found IT work post-release?",
       "https://news.ycombinator.com/item?id=38858075"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Libwa: WhatsApp C Library",
       "https://github.com/rodarima/libwa"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 16:05:07",
-      "https://news.ycombinator.com/item?id=38855621"
-    ],
-    [
-      "Xerox to cut 15% of its workforce",
-      "https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2024-01-03, 04:13:04",
-      "https://news.ycombinator.com/item?id=38850651"
-    ],
-    [
-      "Benchmarking 20 programming languages on N-queens and matrix multiplication",
-      "https://github.com/attractivechaos/plb2"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 21:17:09",
       "https://news.ycombinator.com/item?id=38847282"
     ],
     [
       "Need a Home for 80k Puzzles? Try an Italian Castle",
       "https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 07:47:48",
+      "https://news.ycombinator.com/item?id=38839188"
+    ],
+    [
+      "Reflections on ten years of LLVM Weekly",
+      "https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly"
     ]
   ],
   [
