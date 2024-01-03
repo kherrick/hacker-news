@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
 * [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
+* [2024-01-03, 15:10:16](https://news.ycombinator.com/item?id=38854940) - [Japan to test datacenter powered by reused hydrogen fuel cells](https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/)
+* [2024-01-03, 15:06:51](https://news.ycombinator.com/item?id=38854897) - [Recording your business meeting without consent. Is it legal? [video]](https://www.youtube.com/watch?v=5S1ynVijxH4)
 * [2024-01-03, 15:03:35](https://news.ycombinator.com/item?id=38854857) - [Gay's resignation features new conservative weapon against colleges: plagiarism](https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f)
 * [2024-01-03, 14:54:40](https://news.ycombinator.com/item?id=38854748) - [The Aha Stack](https://ahastack.dev/)
 * [2024-01-03, 14:54:35](https://news.ycombinator.com/item?id=38854746) - [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
