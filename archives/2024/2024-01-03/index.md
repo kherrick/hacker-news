@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:54:31](https://news.ycombinator.com/item?id=38855494) - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
+* [2024-01-03, 15:49:18](https://news.ycombinator.com/item?id=38855427) - [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 * [2024-01-03, 15:32:00](https://news.ycombinator.com/item?id=38855225) - [Cancer Plagued the Dinosaurs (2023)](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
 * [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
@@ -14,6 +16,8 @@
 * [2024-01-03, 15:03:35](https://news.ycombinator.com/item?id=38854857) - [Gay's resignation features new conservative weapon against colleges: plagiarism](https://apnews.com/article/harvard-president-plagiarism-claudine-gay-3b048da1f2ee17b5edec3680b5828e8f)
 * [2024-01-03, 14:54:40](https://news.ycombinator.com/item?id=38854748) - [The Aha Stack](https://ahastack.dev/)
 * [2024-01-03, 14:54:35](https://news.ycombinator.com/item?id=38854746) - [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
+* [2024-01-03, 14:43:14](https://news.ycombinator.com/item?id=38854610) - [Show HN: Start every terminal session with a vivid reminder of life's value](https://github.com/accessd/the-last-sunday)
+* [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making Small Games, Which Is Fun in Itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
 * [2024-01-03, 13:54:19](https://news.ycombinator.com/item?id=38854037) - [Farnborough airport's biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)
 * [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)

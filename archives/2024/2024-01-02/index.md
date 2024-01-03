@@ -99,6 +99,7 @@
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
 * [2024-01-02, 09:06:44](https://news.ycombinator.com/item?id=38839652) - [Salim Kara stole $2M in coins with a magnet and a car antenna](https://www.nofreelunch.co.uk/blog/salim-kara-lrt-scam/)
 * [2024-01-02, 08:42:51](https://news.ycombinator.com/item?id=38839506) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
+* [2024-01-02, 08:35:16](https://news.ycombinator.com/item?id=38839451) - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/)
 * [2024-01-02, 08:31:16](https://news.ycombinator.com/item?id=38839436) - [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
 * [2024-01-02, 08:28:42](https://news.ycombinator.com/item?id=38839422) - [Nvidia RTX 5000 Ada 32GB Workstation GPU Review](https://www.servethehome.com/nvidia-rtx-5000-ada-32gb-workstation-gpu-review/)
 * [2024-01-02, 07:41:56](https://news.ycombinator.com/item?id=38839152) - [Hugging Face's Transformer Library: A Game-Changer in NLP](https://turingtalks.substack.com/p/hugging-face-transformer-library)
