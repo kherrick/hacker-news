@@ -50,6 +50,7 @@
 * [2024-01-02, 16:44:14](https://news.ycombinator.com/item?id=38843642) - [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
 * [2024-01-02, 16:40:03](https://news.ycombinator.com/item?id=38843589) - [Homelab: Running Postgres on Kubernetes](https://ryan-schachte.com/blog/ha_postgres_zolando/)
 * [2024-01-02, 16:26:08](https://news.ycombinator.com/item?id=38843388) - [A Canadian payroll dependency chart](https://www.daemonology.net/blog/2023-12-31-Canadian-payroll-dependency-chart.html)
+* [2024-01-02, 16:10:38](https://news.ycombinator.com/item?id=38843145) - [What it will take to unleash the potential of geothermal power](https://www.technologyreview.com/2021/12/08/1041511/potential-geothermal-power-infrastructure-bill/)
 * [2024-01-02, 16:06:09](https://news.ycombinator.com/item?id=38843069) - [Distributed Inference and Fine-Tuning of Large Language Models over the Internet](https://browse.arxiv.org/html/2312.08361v1)
 * [2024-01-02, 16:01:18](https://news.ycombinator.com/item?id=38842977) - [Ask HN: Who is hiring? (January 2024)](https://news.ycombinator.com/item?id=38842977)
 * [2024-01-02, 16:01:16](https://news.ycombinator.com/item?id=38842975) - [Ask HN: Who wants to be hired? (January 2024)](https://news.ycombinator.com/item?id=38842975)
