@@ -86,6 +86,7 @@
 * [2024-01-02, 12:46:22](https://news.ycombinator.com/item?id=38841080) - [After 34 Years, Someone Beat Tetris [video]](https://www.youtube.com/watch?v=GuJ5UuknsHU)
 * [2024-01-02, 12:21:53](https://news.ycombinator.com/item?id=38840884) - [Meet South Sudan's first female gynaecologist, Dr Idyoro Ojukwu](https://nation.africa/kenya/news/gender/meet-south-sudan-s-first-female-gynaecologist-dr-idyoro-ojukwu-4471456)
 * [2024-01-02, 12:16:54](https://news.ycombinator.com/item?id=38840850) - [Parallelising Heirarchical Small World Graphs](https://github.com/GavinMendelGleason/blog/blob/main/entries/parallelising_hnsw.md)
+* [2024-01-02, 12:10:12](https://news.ycombinator.com/item?id=38840800) - [Reflections on Running 3k Miles in 2023](https://danielmangum.com/posts/3000-miles-2023/)
 * [2024-01-02, 12:05:08](https://news.ycombinator.com/item?id=38840766) - [How do we stop Meta in 2024? We fix the information loop](https://www.fromjason.xyz/p/notebook/how-do-we-stop-meta-in-2024-we-fix-the-information-loop/)
 * [2024-01-02, 12:02:36](https://news.ycombinator.com/item?id=38840747) - [Miracle escape as burning plane lands at Tokyo airport after collision](https://www.afr.com/world/asia/miracle-escape-as-burning-plane-lands-at-tokyo-airport-after-collision-20240102-p5eut4)
 * [2024-01-02, 11:55:21](https://news.ycombinator.com/item?id=38840699) - [Earthquake in Japan yesterday may have shifted land 1.3 meters](https://www3.nhk.or.jp/nhkworld/en/news/20240102_22/)

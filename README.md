@@ -7,7 +7,7 @@
 * [2024-01-03, 20:46:59](https://news.ycombinator.com/item?id=38859659) - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 * [2024-01-03, 20:31:04](https://news.ycombinator.com/item?id=38859427) - [My 3-year experiment as a digital nomad](https://www.kapwing.com/blog/digital-nomad/)
 * [2024-01-03, 20:15:40](https://news.ycombinator.com/item?id=38859219) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
-* [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
+* [2024-01-03, 20:05:54](https://news.ycombinator.com/item?id=38859103) - [The Life and Times of \"The Paris Metro\"](https://www.theparisreview.org/blog/2024/01/02/the-life-and-times-of-the-paris-metro/)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
 * [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
 * [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Any felons successfully found IT work post-release?](https://news.ycombinator.com/item?id=38858075)
@@ -28,7 +28,7 @@
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
-* [2024-01-02, 13:14:33](https://news.ycombinator.com/item?id=38841288) - [The Duplex watch escapement (2021)](https://www.thenakedwatchmaker.com/blog/2021/6/21/a-special-escapement)
+* [2024-01-02, 12:10:12](https://news.ycombinator.com/item?id=38840800) - [Reflections on Running 3k Miles in 2023](https://danielmangum.com/posts/3000-miles-2023/)
 * [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 
 ## [Archives](archives/index.md)

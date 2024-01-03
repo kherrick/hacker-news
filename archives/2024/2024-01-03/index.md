@@ -12,6 +12,7 @@
 * [2024-01-03, 20:31:04](https://news.ycombinator.com/item?id=38859427) - [My 3-Year Experiment as a Digital Nomad](https://www.kapwing.com/blog/digital-nomad/)
 * [2024-01-03, 20:15:40](https://news.ycombinator.com/item?id=38859219) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-03, 20:09:41](https://news.ycombinator.com/item?id=38859147) - [Most states start school too early in the morning](https://www.atlasobscura.com/articles/usa-school-start-times)
+* [2024-01-03, 20:05:54](https://news.ycombinator.com/item?id=38859103) - [The Life and Times of \"The Paris Metro\"](https://www.theparisreview.org/blog/2024/01/02/the-life-and-times-of-the-paris-metro/)
 * [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
 * [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
