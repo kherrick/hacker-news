@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
 * [2024-01-03, 12:49:50](https://news.ycombinator.com/item?id=38853452) - [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
 * [2024-01-03, 12:44:55](https://news.ycombinator.com/item?id=38853406) - [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
 * [2024-01-03, 12:03:23](https://news.ycombinator.com/item?id=38853118) - [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
