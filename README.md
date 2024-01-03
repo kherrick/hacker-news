@@ -15,6 +15,7 @@
 * [2024-01-03, 15:49:18](https://news.ycombinator.com/item?id=38855427) - [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
 * [2024-01-03, 15:43:28](https://news.ycombinator.com/item?id=38855346) - [Show HN: Comflowy – A ComfyUI Tutorial for Beginners](https://www.comflowy.com/)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
+* [2024-01-03, 14:43:14](https://news.ycombinator.com/item?id=38854610) - [Show HN: Start every terminal session with a vivid reminder of life's value](https://github.com/accessd/the-last-sunday)
 * [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making small games, which is fun in itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Almost half of British teens feel addicted to social media – study](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
@@ -28,7 +29,6 @@
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-02, 21:17:09](https://news.ycombinator.com/item?id=38847282) - [Need a Home for 80k Puzzles? Try an Italian Castle](https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html)
-* [2024-01-02, 17:20:18](https://news.ycombinator.com/item?id=38844117) - [Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
 * [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 
 ## [Archives](archives/index.md)
