@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-03, 18:53:57",
+      "https://news.ycombinator.com/item?id=38858075"
+    ],
+    [
+      "Ask HN: Who is hiring justice-impacted engineers?",
+      "https://news.ycombinator.com/item?id=38858075"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 18:50:12",
+      "https://news.ycombinator.com/item?id=38858012"
+    ],
+    [
+      "Niklaus Wirth Passed Away",
+      "https://twitter.com/Bertrand_Meyer/status/1742613897675178347"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 18:35:59",
       "https://news.ycombinator.com/item?id=38857806"
     ],
     [
       "Porsche Design System v3",
       "https://designsystem.porsche.com/v3/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 18:07:58",
+      "https://news.ycombinator.com/item?id=38857396"
+    ],
+    [
+      "The drive stats of Backblaze storage pods",
+      "https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2024-01-03, 16:46:15",
-      "https://news.ycombinator.com/item?id=38856222"
-    ],
-    [
-      "Tetris: US teenager claims to be first to beat video game",
-      "https://www.bbc.com/news/world-us-canada-67871775"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 16:05:07",
       "https://news.ycombinator.com/item?id=38855621"
     ],
@@ -107,6 +127,16 @@
     [
       "U.S. cities opt to ditch their off-street parking minimums",
       "https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 15:43:28",
+      "https://news.ycombinator.com/item?id=38855346"
+    ],
+    [
+      "Show HN: Comflowy – A ComfyUI Tutorial for Beginners",
+      "https://www.comflowy.com/"
     ]
   ],
   [
@@ -225,7 +255,7 @@
       "https://news.ycombinator.com/item?id=38850961"
     ],
     [
-      "A lightweight Lisp interpreter in Malbolge Unshackled",
+      "A lightweight Lisp interpreter in Malbolge",
       "https://github.com/kspalaiologos/malbolge-lisp"
     ]
   ],
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2024-01-03, 03:50:29",
-      "https://news.ycombinator.com/item?id=38850496"
-    ],
-    [
-      "Gvisor: Application Kernel for Containers",
-      "https://github.com/google/gvisor"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 03:35:56",
-      "https://news.ycombinator.com/item?id=38850400"
-    ],
-    [
-      "GCC Specs: An Introduction",
-      "https://wozniak.ca/blog/2024/01/02/1/index.html"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 21:17:09",
       "https://news.ycombinator.com/item?id=38847282"
     ],
     [
       "Need a Home for 80k Puzzles? Try an Italian Castle",
       "https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 18:30:51",
-      "https://news.ycombinator.com/item?id=38845059"
-    ],
-    [
-      "Building a self-contained game in C# under 2 kilobytes",
-      "https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/"
     ]
   ],
   [
