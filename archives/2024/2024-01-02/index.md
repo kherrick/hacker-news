@@ -105,6 +105,7 @@
 * [2024-01-02, 07:30:00](https://news.ycombinator.com/item?id=38839088) - [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
 * [2024-01-02, 06:58:38](https://news.ycombinator.com/item?id=38838946) - [Show HN: I built an open source web calendar inspired by the Google calendar](https://schedule-x.dev/demos/calendar)
 * [2024-01-02, 06:58:29](https://news.ycombinator.com/item?id=38838945) - [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
+* [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
 * [2024-01-02, 06:17:20](https://news.ycombinator.com/item?id=38838723) - [The Hiew Hex Editor](https://lock.cmpxchg8b.com/hiew.html)
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 06:03:39](https://news.ycombinator.com/item?id=38838638) - [Creative Destruction in Small Business Bankruptcy](https://www.creditslips.org/creditslips/2023/08/creative-destruction-in-small-business-bankruptcy.html)

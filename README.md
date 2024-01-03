@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-03, 03:35:56](https://news.ycombinator.com/item?id=38850400) - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
@@ -8,8 +9,6 @@
 * [2024-01-02, 22:06:34](https://news.ycombinator.com/item?id=38847732) - [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Browsers are the most likely disruptor of the mobile duopoly](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
-* [2024-01-02, 21:51:54](https://news.ycombinator.com/item?id=38847586) - [OpenIndiana Illumos Distro](https://www.openindiana.org/)
-* [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
 * [2024-01-02, 19:34:33](https://news.ycombinator.com/item?id=38845951) - [CGA in 1024 colors – a new mode (2015)](https://int10h.org/blog/2015/04/cga-in-1024-colors-new-mode-illustrated/)
 * [2024-01-02, 19:10:36](https://news.ycombinator.com/item?id=38845650) - [Show HN: Better Seater – Wedding seating chart optimizer](https://seater.steam-oven.net/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
@@ -26,6 +25,7 @@
 * [2024-01-02, 13:14:28](https://news.ycombinator.com/item?id=38841284) - [Lolwut: A piece of art inside a database command (2018)](http://antirez.com/news/123)
 * [2024-01-02, 11:43:18](https://news.ycombinator.com/item?id=38840614) - [Notes on the Ivory Coast](https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/)
 * [2024-01-02, 09:20:43](https://news.ycombinator.com/item?id=38839724) - [Playing with Fontconfig (2020)](https://venam.net/blog/unix/2020/09/14/playing_with_fonts.html)
+* [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2024-01-01, 09:52:52](https://news.ycombinator.com/item?id=38830767) - [Taligent's Guide to Designing Programs [pdf] (1994)](https://bitsavers.org/pdf/apple/mac/pink/Taligent_-_Taligents_Guide_to_Designing_Programs_1994.pdf)
