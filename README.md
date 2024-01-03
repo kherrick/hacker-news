@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 03:52:47](https://news.ycombinator.com/item?id=38850515) - [Tell HN: Cryptocurrency transactions >$10k require filing Form 8300 with the IRS](https://news.ycombinator.com/item?id=38850515)
 * [2024-01-03, 03:35:56](https://news.ycombinator.com/item?id=38850400) - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-02, 23:26:22](https://news.ycombinator.com/item?id=38848566) - [Can a pill prevent deaths from venomous snakebites?](https://www.latimes.com/environment/story/2023-12-24/can-a-pill-prevent-deaths-from-venomous-snake-bites)
 * [2024-01-02, 22:46:09](https://news.ycombinator.com/item?id=38848118) - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
@@ -29,7 +30,6 @@
 * [2024-01-02, 06:08:47](https://news.ycombinator.com/item?id=38838661) - [Benjamín Labatut Will Not Be Profiled](https://lithub.com/benjamin-labatut-will-not-be-profiled/)
 * [2024-01-02, 05:30:50](https://news.ycombinator.com/item?id=38838459) - [New study shows Small Magellanic Cloud is two smaller galaxies](https://phys.org/news/2023-12-small-magellanic-cloud-smaller-galaxies.html)
 * [2023-12-31, 22:01:14](https://news.ycombinator.com/item?id=38827876) - [Show HN: Cassette, a Personal Programming Language](https://cassette-lang.com)
-* [2023-12-31, 16:43:21](https://news.ycombinator.com/item?id=38825299) - [Steam and Electricity, Part 1: Electric Light](https://technicshistory.com/2023/12/31/steam-and-electricity-part-1-electric-light/)
 
 ## [Archives](archives/index.md)
 

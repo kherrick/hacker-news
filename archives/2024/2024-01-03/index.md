@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 03:52:47](https://news.ycombinator.com/item?id=38850515) - [Tell HN: Cryptocurrency transactions >$10k require filing Form 8300 with the IRS](https://news.ycombinator.com/item?id=38850515)
 * [2024-01-03, 03:35:56](https://news.ycombinator.com/item?id=38850400) - [GCC Specs: An Introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-03, 03:06:49](https://news.ycombinator.com/item?id=38850198) - [Do Not Build SaaS](https://dontbuildsaas.com/)
 * [2024-01-03, 03:06:02](https://news.ycombinator.com/item?id=38850194) - [More Americans can now get insulin for $35](https://www.cnn.com/2024/01/01/politics/insulin-price-cap/index.html)
