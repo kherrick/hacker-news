@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 23:05:30](https://news.ycombinator.com/item?id=38861034) - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
 * [2024-01-03, 21:10:35](https://news.ycombinator.com/item?id=38859976) - [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
 * [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
@@ -12,7 +13,6 @@
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:26:48](https://news.ycombinator.com/item?id=38857676) - [Unintended electromagnetic radiation from Starlink satellites](https://www.aanda.org/articles/aa/full_html/2023/08/aa46374-23/aa46374-23.html)
 * [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
-* [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [Retrieval Augmented Generation for New Orleans City Council Transparency](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
@@ -26,8 +26,8 @@
 * [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to break into password vaults without using passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
-* [2024-01-03, 09:17:58](https://news.ycombinator.com/item?id=38852142) - [Farmland practices are driving bird population decline across Europe (2023)](https://doi.org/10.1073/pnas.2216573120)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
+* [2024-01-02, 20:03:19](https://news.ycombinator.com/item?id=38846397) - [The Sciences of the Artificial by Herbert Simon](https://direct.mit.edu/books/book/4551/The-Sciences-of-the-Artificial)
 * [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 

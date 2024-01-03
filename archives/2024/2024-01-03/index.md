@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 23:05:30](https://news.ycombinator.com/item?id=38861034) - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
 * [2024-01-03, 21:10:35](https://news.ycombinator.com/item?id=38859976) - [Understand how transformers work by demystifying all the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [The crazy market for the most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
 * [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo Is Hiring a Live Events and Music Account Executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
