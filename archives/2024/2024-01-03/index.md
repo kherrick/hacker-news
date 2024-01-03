@@ -20,6 +20,7 @@
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
 * [2024-01-03, 18:29:52](https://news.ycombinator.com/item?id=38857724) - [Tesla is banned from driving schools because of new turn signals](https://electrek.co/2024/01/03/tesla-is-banned-from-driving-schools-because-of-new-turn-signals/)
+* [2024-01-03, 18:26:48](https://news.ycombinator.com/item?id=38857676) - [Unintended electromagnetic radiation from Starlink satellites](https://www.aanda.org/articles/aa/full_html/2023/08/aa46374-23/aa46374-23.html)
 * [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
