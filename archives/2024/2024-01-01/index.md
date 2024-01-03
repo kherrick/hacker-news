@@ -76,6 +76,7 @@
 * [2024-01-01, 08:30:26](https://news.ycombinator.com/item?id=38830441) - [Extract Web Data Easily with AI](https://www.kadoa.com/)
 * [2024-01-01, 07:41:22](https://news.ycombinator.com/item?id=38830281) - [Magnitude 7.4 earthquake stikes Japan, major tsunami warning issued for Ishikawa](https://www3.nhk.or.jp/nhkworld/en/news/20240101_15/)
 * [2024-01-01, 07:35:09](https://news.ycombinator.com/item?id=38830264) - [Disney's Mickey Mouse enter public domain](https://www.bbc.com/news/entertainment-arts-67833411)
+* [2024-01-01, 07:26:29](https://news.ycombinator.com/item?id=38830238) - [How I destroyed the company's DB](https://zaidesanton.substack.com/p/how-i-destroyed-the-companys-db)
 * [2024-01-01, 07:20:44](https://news.ycombinator.com/item?id=38830223) - [Steamboat Willie [video]](https://www.youtube.com/watch?v=hmzO--ox7X0)
 * [2024-01-01, 07:10:19](https://news.ycombinator.com/item?id=38830194) - [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
 * [2024-01-01, 06:58:34](https://news.ycombinator.com/item?id=38830159) - [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
