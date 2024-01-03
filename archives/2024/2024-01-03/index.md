@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
 * [2024-01-03, 18:29:52](https://news.ycombinator.com/item?id=38857724) - [Tesla is banned from driving schools because of new turn signals](https://electrek.co/2024/01/03/tesla-is-banned-from-driving-schools-because-of-new-turn-signals/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
@@ -16,6 +17,7 @@
 * [2024-01-03, 17:05:22](https://news.ycombinator.com/item?id=38856491) - [WhatsApp C Library – libwa](https://github.com/rodarima/libwa)
 * [2024-01-03, 16:59:58](https://news.ycombinator.com/item?id=38856412) - [23andMe tells victims it's their fault that their data was breached](https://techcrunch.com/2024/01/03/23andme-tells-victims-its-their-fault-that-their-data-was-breached/)
 * [2024-01-03, 16:51:42](https://news.ycombinator.com/item?id=38856297) - [How Japan Airlines crew led 367 passengers to safety from a burning plane](https://www.reuters.com/world/asia-pacific/how-japan-airlines-crew-led-367-passengers-safety-burning-plane-2024-01-03/)
+* [2024-01-03, 16:46:15](https://news.ycombinator.com/item?id=38856222) - [Tetris: US teenager claims to be first to beat video game](https://www.bbc.com/news/world-us-canada-67871775)
 * [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:54:31](https://news.ycombinator.com/item?id=38855494) - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
