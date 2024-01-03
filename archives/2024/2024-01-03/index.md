@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 * [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
 * [2024-01-03, 15:10:16](https://news.ycombinator.com/item?id=38854940) - [Japan to test datacenter powered by reused hydrogen fuel cells](https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/)
 * [2024-01-03, 15:06:51](https://news.ycombinator.com/item?id=38854897) - [Recording your business meeting without consent. Is it legal? [video]](https://www.youtube.com/watch?v=5S1ynVijxH4)

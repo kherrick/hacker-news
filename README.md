@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 * [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
 * [2024-01-03, 15:10:16](https://news.ycombinator.com/item?id=38854940) - [Japan to test datacenter powered by reused hydrogen fuel cells](https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/)
 * [2024-01-03, 15:06:51](https://news.ycombinator.com/item?id=38854897) - [Recording your business meeting without consent. Is it legal? [video]](https://www.youtube.com/watch?v=5S1ynVijxH4)
@@ -21,7 +22,6 @@
 * [2024-01-03, 03:07:07](https://news.ycombinator.com/item?id=38850202) - [Sieve is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
 * [2024-01-02, 19:00:06](https://news.ycombinator.com/item?id=38845510) - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
-* [2024-01-02, 17:31:45](https://news.ycombinator.com/item?id=38844274) - [Do It Yourself Blind Repair](https://fixmyblinds.com/)
 * [2024-01-02, 17:20:18](https://news.ycombinator.com/item?id=38844117) - [Double encryption: Analyzing the NSA/GCHQ arguments against hybrids](https://blog.cr.yp.to/20240102-hybrid.html)
 * [2024-01-02, 16:10:38](https://news.ycombinator.com/item?id=38843145) - [What it will take to unleash the potential of geothermal power? (2021)](https://www.technologyreview.com/2021/12/08/1041511/potential-geothermal-power-infrastructure-bill/)
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
