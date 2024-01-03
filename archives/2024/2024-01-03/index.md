@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 17:25:32](https://news.ycombinator.com/item?id=38856753) - [Italy divided over new pineapple pizza](https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html)
+* [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:11:00](https://news.ycombinator.com/item?id=38856563) - [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
+* [2024-01-03, 17:07:08](https://news.ycombinator.com/item?id=38856515) - [Firefox private mode now automatically blocks cookie banners for German users](https://support.mozilla.org/en-US/kb/cookie-banner-reduction)
 * [2024-01-03, 16:59:58](https://news.ycombinator.com/item?id=38856412) - [23andMe tells victims it's their fault that their data was breached](https://techcrunch.com/2024/01/03/23andme-tells-victims-its-their-fault-that-their-data-was-breached/)
 * [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
