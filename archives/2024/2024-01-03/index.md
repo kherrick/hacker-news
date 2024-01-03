@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
+* [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
 * [2024-01-03, 18:29:52](https://news.ycombinator.com/item?id=38857724) - [Tesla is banned from driving schools because of new turn signals](https://electrek.co/2024/01/03/tesla-is-banned-from-driving-schools-because-of-new-turn-signals/)
+* [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
 * [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [How a New Orleans group is using AI to counteract city surveillance expansion](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:25:32](https://news.ycombinator.com/item?id=38856753) - [Italy divided over new pineapple pizza](https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html)
@@ -22,6 +25,7 @@
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:54:31](https://news.ycombinator.com/item?id=38855494) - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
 * [2024-01-03, 15:49:18](https://news.ycombinator.com/item?id=38855427) - [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
+* [2024-01-03, 15:43:28](https://news.ycombinator.com/item?id=38855346) - [Show HN: Comflowy – A ComfyUI Tutorial for Beginners](https://www.comflowy.com/)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 * [2024-01-03, 15:32:00](https://news.ycombinator.com/item?id=38855225) - [Cancer Plagued the Dinosaurs (2023)](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
 * [2024-01-03, 15:19:39](https://news.ycombinator.com/item?id=38855065) - [Operation Triangulation What You Get When Attack iPhones of Researchers [video]](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers)
