@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
 * [2024-01-03, 15:32:00](https://news.ycombinator.com/item?id=38855225) - [Ancient diseases that plagued the dinosaurs (2023)](https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer)
@@ -28,7 +29,6 @@
 * [2024-01-02, 15:27:45](https://news.ycombinator.com/item?id=38842571) - [Thomas Cochrane](https://sergey.substack.com/p/thomas-cochrane)
 * [2024-01-02, 08:35:16](https://news.ycombinator.com/item?id=38839451) - [Building a self-contained game in C# under 2 kilobytes](https://migeel.sk/blog/2024/01/02/building-a-self-contained-game-in-csharp-under-2-kilobytes/)
 * [2024-01-02, 06:58:20](https://news.ycombinator.com/item?id=38838944) - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
-* [2024-01-01, 09:05:41](https://news.ycombinator.com/item?id=38830567) - [Forest Elephants and Infrasound](https://www.elephantlisteningproject.org/all-about-infrasound/)
 * [2024-01-01, 06:37:52](https://news.ycombinator.com/item?id=38830091) - [Writing books remains a tough way to make a living](https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/93301-author-incomes-post-small-gains.html)
 
 ## [Archives](archives/index.md)

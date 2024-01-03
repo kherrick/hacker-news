@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 16:06:28](https://news.ycombinator.com/item?id=38855645) - [Chief executive of collapsed crypto fund Hyperverse does not appear to exist](https://www.theguardian.com/technology/2024/jan/04/chief-executive-of-collapsed-crypto-fund-hyperverse-does-not-appear-to-exist)
 * [2024-01-03, 16:05:07](https://news.ycombinator.com/item?id=38855621) - [Xerox to cut 15% of its workforce](https://www.cnbc.com/2024/01/03/xerox-layoffs-company-to-cut-15percent-of-workforce.html)
 * [2024-01-03, 15:54:31](https://news.ycombinator.com/item?id=38855494) - [Rawjs – you may not need React anymore](https://www.squaresapp.org/rawjs/)
 * [2024-01-03, 15:49:18](https://news.ycombinator.com/item?id=38855427) - [U.S. cities opt to ditch their off-street parking minimums](https://www.npr.org/2024/01/02/1221366173/u-s-cities-drop-parking-space-minimums-development)
