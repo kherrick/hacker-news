@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
+* [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
 * [2024-01-04, 20:00:48](https://news.ycombinator.com/item?id=38871505) - [Vox: Alpha open-source browser engine in V](https://vox.sx/)
-* [2024-01-04, 18:49:10](https://news.ycombinator.com/item?id=38870727) - [Cold showers on overhyped topics (2017)](https://github.com/hwayne/awesome-cold-showers)
 * [2024-01-04, 18:16:31](https://news.ycombinator.com/item?id=38870351) - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
 * [2024-01-04, 18:03:31](https://news.ycombinator.com/item?id=38870207) - [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the web fun again (2013)](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
@@ -21,6 +20,7 @@
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference (2023)](https://www.artfintel.com/p/efficient-llm-inference)
 * [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+* [2024-01-04, 12:24:29](https://news.ycombinator.com/item?id=38866118) - [Llama2-shepherd a CLI tool to install multiple implementations of the llama2](https://github.com/mikepapadim/llama-shepherd-cli)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - [30cm worm fossil more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
