@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-04, 13:02:21",
+      "https://news.ycombinator.com/item?id=38866484"
+    ],
+    [
+      "Efficient LLM Inference",
+      "https://www.artfintel.com/p/efficient-llm-inference"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 12:39:33",
       "https://news.ycombinator.com/item?id=38866256"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-01-04, 12:23:18",
-      "https://news.ycombinator.com/item?id=38866109"
+      "2024-01-04, 12:24:29",
+      "https://news.ycombinator.com/item?id=38866118"
     ],
     [
-      "Google Is Finally Killing Cookies. Advertisers Still Aren't Ready",
-      "https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac"
+      "Llama2-shepherd a CLI tool to install multiple implementations of the llama2",
+      "https://github.com/mikepapadim/llama-shepherd-cli"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-01-04, 01:50:10",
-      "https://news.ycombinator.com/item?id=38862147"
-    ],
-    [
-      "Alan Turing – The Delilah Project",
-      "https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 00:02:37",
       "https://news.ycombinator.com/item?id=38861467"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2024-01-03, 23:05:30",
-      "https://news.ycombinator.com/item?id=38861034"
+      "2024-01-03, 20:53:50",
+      "https://news.ycombinator.com/item?id=38859749"
     ],
     [
-      "The Curious Case of MD5",
-      "https://katelynsills.com/law/the-curious-case-of-md5/"
+      "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
+      "https://github.com/DLYuanGod/TinyGPT-V"
     ]
   ],
   [
