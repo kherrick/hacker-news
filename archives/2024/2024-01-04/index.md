@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
+* [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference](https://www.artfintel.com/p/efficient-llm-inference)
 * [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [75% of the world’s industrial fishing vessels are hidden from public view](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+* [2024-01-04, 12:24:29](https://news.ycombinator.com/item?id=38866118) - [Llama2-shepherd a CLI tool to install multiple implementations of the llama2](https://github.com/mikepapadim/llama-shepherd-cli)
 * [2024-01-04, 12:23:18](https://news.ycombinator.com/item?id=38866109) - [Google Is Finally Killing Cookies. Advertisers Still Aren't Ready](https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac)
 * [2024-01-04, 12:11:06](https://news.ycombinator.com/item?id=38866015) - [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
