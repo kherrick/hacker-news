@@ -78,6 +78,7 @@
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 09:17:58](https://news.ycombinator.com/item?id=38852142) - [Farmland practices are driving bird population decline across Europe (2023)](https://doi.org/10.1073/pnas.2216573120)
 * [2024-01-03, 09:03:12](https://news.ycombinator.com/item?id=38852095) - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
+* [2024-01-03, 08:44:35](https://news.ycombinator.com/item?id=38851994) - [Clarke's Law, and who's to blame for bad science reporting](https://statmodeling.stat.columbia.edu/2024/01/02/clarkes-law-and-whos-to-blame-for-bad-science-reporting/)
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
