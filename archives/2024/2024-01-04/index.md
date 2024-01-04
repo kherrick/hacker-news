@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 18:07:13](https://news.ycombinator.com/item?id=38870249) - [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:43:53](https://news.ycombinator.com/item?id=38869952) - [Why math professor Alexander Barvinok opposes diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)

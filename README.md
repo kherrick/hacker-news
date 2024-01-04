@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 18:07:13](https://news.ycombinator.com/item?id=38870249) - [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
-* [2024-01-04, 17:16:58](https://news.ycombinator.com/item?id=38869607) - [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
