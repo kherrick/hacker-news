@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 04:02:31](https://news.ycombinator.com/item?id=38862848) - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 * [2024-01-04, 02:51:35](https://news.ycombinator.com/item?id=38862459) - [Patriot Missile Floating Point Software Problem Lead to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
 * [2024-01-04, 01:50:10](https://news.ycombinator.com/item?id=38862147) - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
 * [2024-01-04, 01:42:17](https://news.ycombinator.com/item?id=38862106) - [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
