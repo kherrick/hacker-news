@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
 * [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
+* [2024-01-04, 20:19:00](https://news.ycombinator.com/item?id=38871732) - [GPUI 2 is now in production – Zed](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 20:00:48](https://news.ycombinator.com/item?id=38871505) - [Vox: Upcoming open-source browser engine in V](https://vox.sx/)
 * [2024-01-04, 19:54:59](https://news.ycombinator.com/item?id=38871440) - [RIP: Pascal Creator Niklaus Wirth](https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/)
 * [2024-01-04, 19:24:47](https://news.ycombinator.com/item?id=38871130) - [OpenAI's GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)

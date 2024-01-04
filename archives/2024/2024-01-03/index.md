@@ -69,6 +69,7 @@
 * [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)
 * [2024-01-03, 12:03:23](https://news.ycombinator.com/item?id=38853118) - [Grow and Keep Big Muscles](https://todaypurpose.com/posts/big-muscles/)
 * [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
+* [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ Pipe Physics](https://www.modartt.com/organteq_physical_modeling)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to Break into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 10:37:52](https://news.ycombinator.com/item?id=38852580) - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
 * [2024-01-03, 10:35:32](https://news.ycombinator.com/item?id=38852562) - [A new way to see the activity inside a living cell](https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128)
