@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
+* [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
 * [2024-01-04, 16:15:15](https://news.ycombinator.com/item?id=38868753) - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
 * [2024-01-04, 16:03:47](https://news.ycombinator.com/item?id=38868610) - [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
@@ -9,7 +11,6 @@
 * [2024-01-04, 15:27:57](https://news.ycombinator.com/item?id=38868095) - [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
 * [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Best Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
-* [2024-01-04, 13:32:11](https://news.ycombinator.com/item?id=38866751) - [BitTorrent Tracker Blocks 'Infringing' Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference (2023)](https://www.artfintel.com/p/efficient-llm-inference)
 * [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
@@ -22,7 +23,6 @@
 * [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 * [2024-01-03, 10:35:32](https://news.ycombinator.com/item?id=38852562) - [A new way to see the activity inside a living cell](https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128)
 * [2024-01-03, 10:11:10](https://news.ycombinator.com/item?id=38852415) - [Space shuttle Endeavour's giant orange external tank begins final journey](https://www.latimes.com/california/story/2024-01-02/space-shuttle-endeavours-giant-orange-external-tank-begins-final-journey)
-* [2024-01-03, 08:54:44](https://news.ycombinator.com/item?id=38852048) - [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
 * [2024-01-03, 08:44:35](https://news.ycombinator.com/item?id=38851994) - [Clarke's Law, and who's to blame for bad science reporting](https://statmodeling.stat.columbia.edu/2024/01/02/clarkes-law-and-whos-to-blame-for-bad-science-reporting/)
 * [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
