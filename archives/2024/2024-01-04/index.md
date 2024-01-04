@@ -26,6 +26,7 @@
 * [2024-01-04, 05:42:01](https://news.ycombinator.com/item?id=38863485) - [Police Drone Footage Is Not Exempt from California Public Records Act](https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records)
 * [2024-01-04, 05:28:45](https://news.ycombinator.com/item?id=38863402) - [Digitization Puts Many at a Disadvantage](https://cacm.acm.org/blogs/blog-cacm/279026-digitization-puts-many-at-a-disadvantage/fulltext)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs by *the* Leslie Lamport [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
+* [2024-01-04, 04:29:15](https://news.ycombinator.com/item?id=38863007) - [SMS Censorship](https://blog.jmp.chat/b/sms-censorship)
 * [2024-01-04, 04:02:31](https://news.ycombinator.com/item?id=38862848) - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 * [2024-01-04, 03:50:41](https://news.ycombinator.com/item?id=38862783) - [Twitter accounts with the most community notes](https://community-notes-leaderboard.com/)
 * [2024-01-04, 02:51:35](https://news.ycombinator.com/item?id=38862459) - [Patriot Missile Floating Point Software Problem Lead to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
