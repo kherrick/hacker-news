@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 21:36:49](https://news.ycombinator.com/item?id=38872609) - [Poor Charlie's Almanack](https://www.stripe.press/poor-charlies-almanack)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
@@ -28,7 +29,6 @@
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ Pipe Physics](https://www.modartt.com/organteq_physical_modeling)
 * [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:39:02](https://news.ycombinator.com/item?id=38851667) - [What should we know about APFS special files?](https://eclecticlight.co/2024/01/03/what-should-we-know-about-apfs-special-files/)
-* [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
 
 ## [Archives](archives/index.md)
