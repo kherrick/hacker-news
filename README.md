@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
+* [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
 * [2024-01-04, 20:00:48](https://news.ycombinator.com/item?id=38871505) - [Vox: Alpha open-source browser engine in V](https://vox.sx/)
 * [2024-01-04, 18:49:10](https://news.ycombinator.com/item?id=38870727) - [Cold showers on overhyped topics (2017)](https://github.com/hwayne/awesome-cold-showers)
 * [2024-01-04, 18:39:45](https://news.ycombinator.com/item?id=38870614) - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
@@ -9,7 +11,6 @@
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the web fun again (2013)](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:44:38](https://news.ycombinator.com/item?id=38869961) - [Where's Waldo Robot [video]](https://www.youtube.com/watch?v=-i7HMPpxB-Y)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
-* [2024-01-04, 17:02:22](https://news.ycombinator.com/item?id=38869393) - [CursusDB – A new scalable distributed document oriented database](https://github.com/cursusdb/cursusdb)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
@@ -28,7 +29,6 @@
 * [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:39:02](https://news.ycombinator.com/item?id=38851667) - [What should we know about APFS special files?](https://eclecticlight.co/2024/01/03/what-should-we-know-about-apfs-special-files/)
 * [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
-* [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
 
 ## [Archives](archives/index.md)

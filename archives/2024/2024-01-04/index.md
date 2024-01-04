@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
+* [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
 * [2024-01-04, 20:00:48](https://news.ycombinator.com/item?id=38871505) - [Vox: Upcoming open-source browser engine in V](https://vox.sx/)
 * [2024-01-04, 19:54:59](https://news.ycombinator.com/item?id=38871440) - [RIP: Pascal Creator Niklaus Wirth](https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/)
 * [2024-01-04, 19:24:47](https://news.ycombinator.com/item?id=38871130) - [OpenAI's GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)
