@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
 * [2024-01-04, 20:00:48](https://news.ycombinator.com/item?id=38871505) - [Vox: Upcoming open-source browser engine in V](https://vox.sx/)
+* [2024-01-04, 19:54:59](https://news.ycombinator.com/item?id=38871440) - [RIP: Pascal Creator Niklaus Wirth](https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/)
 * [2024-01-04, 19:24:47](https://news.ycombinator.com/item?id=38871130) - [OpenAI's GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)
 * [2024-01-04, 18:49:10](https://news.ycombinator.com/item?id=38870727) - [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2024-01-04, 18:39:45](https://news.ycombinator.com/item?id=38870614) - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
