@@ -9,6 +9,7 @@
 * [2024-01-02, 22:49:02](https://news.ycombinator.com/item?id=38848140) - [Delete or hide life-wasting apps](https://practicalbetterments.com/delete-or-hide-life-wasting-apps/)
 * [2024-01-02, 22:46:09](https://news.ycombinator.com/item?id=38848118) - [Show HN: Hacker News Year in Review: 2023](https://public.tableau.com/app/profile/isna/viz/HackerNewsDashboard_17042353296150/HackerNewsYearinReview2023)
 * [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
+* [2024-01-02, 22:38:54](https://news.ycombinator.com/item?id=38848045) - [Give Us Something to Look At: Why ornament matters in architecture](https://theamericanscholar.org/give-us-something-to-look-at/)
 * [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
 * [2024-01-02, 22:31:37](https://news.ycombinator.com/item?id=38847978) - [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
 * [2024-01-02, 22:07:50](https://news.ycombinator.com/item?id=38847750) - [Dealing with Weird ELF Libraries](https://mjg59.dreamwidth.org/69070.html)
