@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-04, 01:50:10",
+      "https://news.ycombinator.com/item?id=38862147"
+    ],
+    [
+      "Alan Turing – The Delilah Project",
+      "https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 00:42:49",
       "https://news.ycombinator.com/item?id=38861732"
     ],
@@ -67,16 +77,6 @@
     [
       "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
       "https://github.com/DLYuanGod/TinyGPT-V"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 20:15:40",
-      "https://news.ycombinator.com/item?id=38859219"
-    ],
-    [
-      "30 Years of Decompilation and the Unsolved Structuring Problem: Part 1",
-      "https://mahaloz.re/dec-history-pt1"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-01-03, 12:12:06",
+      "https://news.ycombinator.com/item?id=38853175"
+    ],
+    [
+      "Migration trends of the Yellow-rumped Warbler",
+      "https://science.ebird.org/en/status-and-trends/species/yerwar/abundance-map-weekly"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 12:08:26",
       "https://news.ycombinator.com/item?id=38853149"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: The Sage Programming Language",
       "https://github.com/adam-mcdaniel/sage"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 07:47:48",
-      "https://news.ycombinator.com/item?id=38839188"
-    ],
-    [
-      "Reflections on ten years of LLVM Weekly",
-      "https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly"
     ]
   ]
 ]
