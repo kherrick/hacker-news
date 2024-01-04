@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-04, 19:54:59",
-      "https://news.ycombinator.com/item?id=38871440"
+      "2024-01-04, 20:00:48",
+      "https://news.ycombinator.com/item?id=38871505"
     ],
     [
-      "RIP: Pascal Creator Niklaus Wirth",
-      "https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/"
+      "Vox: Alpha open-source browser engine in V",
+      "https://vox.sx/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Show HN: Bring phone calls into the browser (sip-to-WebRTC)",
       "https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 17:02:22",
+      "https://news.ycombinator.com/item?id=38869393"
+    ],
+    [
+      "CursusDB – A new scalable distributed document oriented database",
+      "https://github.com/cursusdb/cursusdb"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-01-04, 05:20:11",
-      "https://news.ycombinator.com/item?id=38863339"
-    ],
-    [
-      "A Science of Concurrent Programs [pdf]",
-      "https://lamport.azurewebsites.net/tla/science.pdf"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 20:05:54",
       "https://news.ycombinator.com/item?id=38859103"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-01-03, 10:35:32",
-      "https://news.ycombinator.com/item?id=38852562"
-    ],
-    [
-      "A new way to see the activity inside a living cell",
-      "https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 07:55:19",
       "https://news.ycombinator.com/item?id=38851736"
     ],
     [
       "Glitch Exhibition in Munich: The Art of Interference",
       "https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 07:39:02",
+      "https://news.ycombinator.com/item?id=38851667"
+    ],
+    [
+      "What should we know about APFS special files?",
+      "https://eclecticlight.co/2024/01/03/what-should-we-know-about-apfs-special-files/"
     ]
   ],
   [
