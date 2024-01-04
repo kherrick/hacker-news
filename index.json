@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-04, 20:00:48",
-      "https://news.ycombinator.com/item?id=38871505"
-    ],
-    [
-      "Vox: Upcoming open-source browser engine in V",
-      "https://vox.sx/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 19:24:47",
       "https://news.ycombinator.com/item?id=38871130"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-01-04, 18:03:31",
+      "https://news.ycombinator.com/item?id=38870207"
+    ],
+    [
+      "Audio2Photoreal",
+      "https://github.com/facebookresearch/audio2photoreal"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 18:01:35",
       "https://news.ycombinator.com/item?id=38870184"
     ],
@@ -87,6 +87,16 @@
     [
       "Show HN: Bring phone calls into the browser (sip-to-WebRTC)",
       "https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 17:02:22",
+      "https://news.ycombinator.com/item?id=38869393"
+    ],
+    [
+      "CursusDB – A new scalable distributed document oriented database",
+      "https://github.com/cursusdb/cursusdb"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "AI and satellite imagery reveals expanding footprint of human activity at sea",
       "https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 12:24:29",
-      "https://news.ycombinator.com/item?id=38866118"
-    ],
-    [
-      "Llama2-shepherd a CLI tool to install multiple implementations of the llama2",
-      "https://github.com/mikepapadim/llama-shepherd-cli"
     ]
   ],
   [
