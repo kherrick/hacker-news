@@ -9,6 +9,7 @@
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
+* [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
 * [2024-01-04, 16:03:47](https://news.ycombinator.com/item?id=38868610) - [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
 * [2024-01-04, 15:39:42](https://news.ycombinator.com/item?id=38868265) - [AMD's 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
@@ -29,7 +30,6 @@
 * [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
-* [2024-01-02, 22:38:54](https://news.ycombinator.com/item?id=38848045) - [Give Us Something to Look At: Why ornament matters in architecture](https://theamericanscholar.org/give-us-something-to-look-at/)
 
 ## [Archives](archives/index.md)
 

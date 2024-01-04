@@ -16,6 +16,7 @@
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
+* [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
 * [2024-01-04, 16:15:15](https://news.ycombinator.com/item?id=38868753) - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
 * [2024-01-04, 16:03:47](https://news.ycombinator.com/item?id=38868610) - [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
 * [2024-01-04, 15:53:46](https://news.ycombinator.com/item?id=38868456) - [Show HN: Imgsrc – Generate Beautiful Open Graph Images](https://imgsrc.io/)
