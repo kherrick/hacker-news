@@ -77,6 +77,7 @@
 * [2024-01-03, 09:17:58](https://news.ycombinator.com/item?id=38852142) - [Farmland practices are driving bird population decline across Europe (2023)](https://doi.org/10.1073/pnas.2216573120)
 * [2024-01-03, 09:03:12](https://news.ycombinator.com/item?id=38852095) - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
+* [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
