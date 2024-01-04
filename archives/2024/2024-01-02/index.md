@@ -17,6 +17,7 @@
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
 * [2024-01-02, 21:51:54](https://news.ycombinator.com/item?id=38847586) - [OpenIndiana Illumos Distro](https://www.openindiana.org/)
+* [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 * [2024-01-02, 21:49:50](https://news.ycombinator.com/item?id=38847571) - [ParadeDB – PostgreSQL for Search](https://github.com/paradedb/paradedb)
 * [2024-01-02, 21:17:09](https://news.ycombinator.com/item?id=38847282) - [Need a Home for 80k Puzzles? Try an Italian Castle](https://www.nytimes.com/2023/12/29/science/puzzles-mechanical-miller.html)
 * [2024-01-02, 20:46:24](https://news.ycombinator.com/item?id=38846955) - [Apple II Emulation Evaluation (2022)](https://juiced.gs/emulators/)
