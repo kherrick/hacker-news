@@ -11,6 +11,7 @@
 * [2024-01-02, 22:45:26](https://news.ycombinator.com/item?id=38848112) - [Harvard President Gay resigns after rocky testimony, plagiarism allegations](https://www.reuters.com/world/us/harvard-president-gay-resigns-harvard-crimson-student-newspaper-2024-01-02/)
 * [2024-01-02, 22:34:04](https://news.ycombinator.com/item?id=38848001) - [Jonathan Katz: Thoughts on PostgreSQL in 2024](https://jkatz05.com/post/postgres/postgresql-2024/)
 * [2024-01-02, 22:31:37](https://news.ycombinator.com/item?id=38847978) - [Ask HN: Has the tech recession affected you?](https://news.ycombinator.com/item?id=38847978)
+* [2024-01-02, 22:07:50](https://news.ycombinator.com/item?id=38847750) - [Dealing with Weird ELF Libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 22:06:34](https://news.ycombinator.com/item?id=38847732) - [QEMU AioContext removal and how it was done](http://blog.vmsplice.net/2024/01/qemu-aiocontext-removal-and-how-it-was.html)
 * [2024-01-02, 22:05:06](https://news.ycombinator.com/item?id=38847719) - [Why Are Tech Reporters Sleeping on the Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/)
 * [2024-01-02, 21:55:08](https://news.ycombinator.com/item?id=38847613) - [Resurrecting the Dillo Browser](https://dillo-browser.github.io/)
