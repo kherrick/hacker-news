@@ -21,6 +21,7 @@
 * [2024-01-04, 17:16:58](https://news.ycombinator.com/item?id=38869607) - [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
 * [2024-01-04, 17:02:22](https://news.ycombinator.com/item?id=38869393) - [CursusDB – A new scalable distributed document oriented database](https://github.com/cursusdb/cursusdb)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
+* [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Sit.](https://sonnet.io/posts/sit/)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
 * [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
