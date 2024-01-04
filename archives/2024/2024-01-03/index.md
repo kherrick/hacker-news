@@ -85,6 +85,7 @@
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
+* [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
 * [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of 3 budgets](https://swizec.com/blog/the-3-budgets/)
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why Don't Grocery Stores Stock Pawpaw Fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
