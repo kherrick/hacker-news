@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 17:43:53](https://news.ycombinator.com/item?id=38869952) - [Why math professor Alexander Barvinok opposes diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
@@ -17,6 +18,7 @@
 * [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
 * [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
+* [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey is a simple constant key/value storage library](https://github.com/spotify/sparkey)
 * [2024-01-04, 14:24:43](https://news.ycombinator.com/item?id=38867336) - [Researchers discover physical cause of long Covid tiredness](https://www.amsterdamumc.org/en/spotlight/tiredness-experienced-by-long-covid-patients-has-a-physical-cause.htm)
 * [2024-01-04, 13:33:56](https://news.ycombinator.com/item?id=38866773) - [Zuckerberg's Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)
 * [2024-01-04, 13:32:51](https://news.ycombinator.com/item?id=38866758) - [Arabic Wikipedia Blackout](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-12-24/Discussion_report)
