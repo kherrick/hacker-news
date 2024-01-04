@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
+* [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
-* [2024-01-04, 13:33:56](https://news.ycombinator.com/item?id=38866773) - [Zuckerberg's Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)
+* [2024-01-04, 13:32:51](https://news.ycombinator.com/item?id=38866758) - [Arabic Wikipedia Blackout](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-12-24/Discussion_report)
 * [2024-01-04, 13:32:11](https://news.ycombinator.com/item?id=38866751) - [BitTorrent Tracker Blocks 'Infringing' Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference (2023)](https://www.artfintel.com/p/efficient-llm-inference)
@@ -14,7 +15,6 @@
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 09:43:48](https://news.ycombinator.com/item?id=38865079) - [\"Anna's Archive\" Shadow Library Blocked Following Publishers' Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
-* [2024-01-04, 08:33:18](https://news.ycombinator.com/item?id=38864578) - [Late 70s and 80s: forget BASIC, we had Pascal and C](https://retrofun.pl/2024/01/03/70s-and-80s-forget-basic-we-had-pascal-and-c/)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 * [2024-01-04, 04:02:31](https://news.ycombinator.com/item?id=38862848) - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 * [2024-01-03, 23:26:04](https://news.ycombinator.com/item?id=38861203) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
