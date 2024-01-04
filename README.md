@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 18:16:31](https://news.ycombinator.com/item?id=38870351) - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
 * [2024-01-04, 18:07:13](https://news.ycombinator.com/item?id=38870249) - [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
@@ -20,7 +21,6 @@
 * [2024-01-04, 12:24:29](https://news.ycombinator.com/item?id=38866118) - [Llama2-shepherd a CLI tool to install multiple implementations of the llama2](https://github.com/mikepapadim/llama-shepherd-cli)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - [30cm worm fossil more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
-* [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 * [2024-01-03, 20:05:54](https://news.ycombinator.com/item?id=38859103) - [The Life and Times of \"The Paris Metro\"](https://www.theparisreview.org/blog/2024/01/02/the-life-and-times-of-the-paris-metro/)
