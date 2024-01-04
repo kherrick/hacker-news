@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 15:27:57](https://news.ycombinator.com/item?id=38868095) - [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
 * [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
-* [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+* [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Best Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
 * [2024-01-04, 13:32:51](https://news.ycombinator.com/item?id=38866758) - [Arabic Wikipedia Blackout](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-12-24/Discussion_report)
 * [2024-01-04, 13:32:11](https://news.ycombinator.com/item?id=38866751) - [BitTorrent Tracker Blocks 'Infringing' Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
@@ -27,7 +28,6 @@
 * [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
-* [2024-01-03, 04:20:55](https://news.ycombinator.com/item?id=38850697) - [Flashpoint Archive](https://flashpointarchive.org/)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 22:38:54](https://news.ycombinator.com/item?id=38848045) - [Give Us Something to Look At: Why ornament matters in architecture](https://theamericanscholar.org/give-us-something-to-look-at/)
 
