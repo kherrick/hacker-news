@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
+* [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
+* [2024-01-04, 13:33:56](https://news.ycombinator.com/item?id=38866773) - [Zuckerberg's Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)
 * [2024-01-04, 13:32:11](https://news.ycombinator.com/item?id=38866751) - [BitTorrent Tracker Blocks 'Infringing' Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference](https://www.artfintel.com/p/efficient-llm-inference)
