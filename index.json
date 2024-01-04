@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-01-04, 20:00:48",
-      "https://news.ycombinator.com/item?id=38871505"
-    ],
-    [
-      "Vox: Alpha open-source browser engine in V",
-      "https://vox.sx/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 18:16:31",
       "https://news.ycombinator.com/item?id=38870351"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-01-04, 16:03:47",
-      "https://news.ycombinator.com/item?id=38868610"
-    ],
-    [
-      "How Open ID Connect Works",
-      "https://blog.digger.dev/how-open-id-connect-works-illustrated/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 15:39:42",
       "https://news.ycombinator.com/item?id=38868265"
     ],
@@ -231,16 +211,6 @@
   ],
   [
     [
-      "2024-01-04, 11:57:09",
-      "https://news.ycombinator.com/item?id=38865924"
-    ],
-    [
-      "30cm worm fossil more than half a billion years old discovered in Greenland",
-      "https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 10:51:14",
       "https://news.ycombinator.com/item?id=38865518"
     ],
@@ -261,6 +231,26 @@
   ],
   [
     [
+      "2024-01-03, 20:19:51",
+      "https://news.ycombinator.com/item?id=38859277"
+    ],
+    [
+      "The website vs. web app dichotomy doesn't exist",
+      "https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 17:25:03",
+      "https://news.ycombinator.com/item?id=38856751"
+    ],
+    [
+      "Are roads the biggest driver of ecological destruction?",
+      "https://ryanblakeley.net/p/are-roads-the-biggest-driver-of-ecological"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 11:57:20",
       "https://news.ycombinator.com/item?id=38853087"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2024-01-03, 07:55:19",
-      "https://news.ycombinator.com/item?id=38851736"
+      "2024-01-03, 11:18:53",
+      "https://news.ycombinator.com/item?id=38852844"
     ],
     [
-      "Glitch Exhibition in Munich: The Art of Interference",
-      "https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich"
+      "In surprise move, Gentoo Linux starts offering binaries",
+      "https://www.theregister.com/2024/01/03/gentoo_starts_offering_binaries/"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 09:49:32",
+      "https://news.ycombinator.com/item?id=38852316"
+    ],
+    [
+      "Fastest autograd in the West",
+      "https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-01-03, 05:25:31",
-      "https://news.ycombinator.com/item?id=38851051"
+      "2024-01-02, 21:50:54",
+      "https://news.ycombinator.com/item?id=38847581"
     ],
     [
-      "Software engineering salaries come from one of three budgets",
-      "https://swizec.com/blog/the-3-budgets/"
+      "A simulation of me: fine-tuning an LLM on 240k text messages",
+      "https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/"
     ]
   ]
 ]
