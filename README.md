@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-04, 17:43:53](https://news.ycombinator.com/item?id=38869952) - [Why math professor Alexander Barvinok opposes diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
+* [2024-01-04, 17:16:58](https://news.ycombinator.com/item?id=38869607) - [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
@@ -8,7 +8,6 @@
 * [2024-01-04, 15:39:42](https://news.ycombinator.com/item?id=38868265) - [AMD's 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:29:34](https://news.ycombinator.com/item?id=38868115) - [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
-* [2024-01-04, 15:27:57](https://news.ycombinator.com/item?id=38868095) - [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
 * [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does Your Test Suite Account for Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey is a simple constant key/value storage library](https://github.com/spotify/sparkey)
@@ -18,6 +17,7 @@
 * [2024-01-04, 12:24:29](https://news.ycombinator.com/item?id=38866118) - [Llama2-shepherd a CLI tool to install multiple implementations of the llama2](https://github.com/mikepapadim/llama-shepherd-cli)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
+* [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 09:43:48](https://news.ycombinator.com/item?id=38865079) - [\"Anna's Archive\" Shadow Library Blocked Following Publishers' Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
