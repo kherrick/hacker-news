@@ -83,6 +83,7 @@
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
+* [2024-01-03, 07:39:02](https://news.ycombinator.com/item?id=38851667) - [What should we know about APFS special files?](https://eclecticlight.co/2024/01/03/what-should-we-know-about-apfs-special-files/)
 * [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
 * [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
