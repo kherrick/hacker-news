@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-01-04, 21:36:49",
-      "https://news.ycombinator.com/item?id=38872609"
-    ],
-    [
-      "Poor Charlie's Almanack",
-      "https://www.stripe.press/poor-charlies-almanack"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 21:16:08",
       "https://news.ycombinator.com/item?id=38872362"
     ],
     [
-      "Go: What We Got Right, What We Got Wrong",
+      "Go: What we got right, what we got wrong",
       "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html"
     ]
   ],
@@ -47,16 +37,6 @@
     [
       "Minimum Wage Clock",
       "https://moonbase.lgbt/blog/minimum-wage-clock/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 20:19:00",
-      "https://news.ycombinator.com/item?id=38871732"
-    ],
-    [
-      "GPUI 2 is now in production – Zed",
-      "https://zed.dev/blog/gpui-2-on-preview"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38869672"
     ],
     [
-      "Show HN: Bring phone calls into the browser (sip-to-WebRTC)",
+      "Show HN: Bring phone calls into the browser (SIP-to-WebRTC)",
       "https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc"
     ]
   ],
@@ -255,18 +235,8 @@
       "https://news.ycombinator.com/item?id=38853087"
     ],
     [
-      "Organ Pipe Physics",
+      "Organ pipe physics",
       "https://www.modartt.com/organteq_physical_modeling"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 11:18:53",
-      "https://news.ycombinator.com/item?id=38852844"
-    ],
-    [
-      "In surprise move, Gentoo Linux starts offering binaries",
-      "https://www.theregister.com/2024/01/03/gentoo_starts_offering_binaries/"
     ]
   ],
   [
@@ -297,6 +267,36 @@
     [
       "A simulation of me: fine-tuning an LLM on 240k text messages",
       "https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 21:46:27",
+      "https://news.ycombinator.com/item?id=38847541"
+    ],
+    [
+      "DigMixer: Protocols",
+      "https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 18:57:15",
+      "https://news.ycombinator.com/item?id=38845463"
+    ],
+    [
+      "Use of HTTPS Resource Records",
+      "https://netmeister.org/blog/https-rrs.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 17:34:49",
+      "https://news.ycombinator.com/item?id=38844332"
+    ],
+    [
+      "The free software powering bgammon.org",
+      "https://bgammon.org/blog/20240101-hello-world/"
     ]
   ]
 ]
