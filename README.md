@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
-* [2024-01-04, 11:53:56](https://news.ycombinator.com/item?id=38865900) - [Military action against land-based targets in Yemen moves a step closer](https://splash247.com/military-action-against-land-based-targets-in-yemen-moves-a-step-closer/)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over Fibre (3v 180mA)](https://chaos.social/@f4grx/111697027153656114)
 * [2024-01-04, 10:39:43](https://news.ycombinator.com/item?id=38865449) - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
@@ -22,6 +21,7 @@
 * [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 * [2024-01-03, 10:35:32](https://news.ycombinator.com/item?id=38852562) - [A new way to see the activity inside a living cell](https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128)
 * [2024-01-03, 10:11:10](https://news.ycombinator.com/item?id=38852415) - [Space shuttle Endeavour's giant orange external tank begins final journey](https://www.latimes.com/california/story/2024-01-02/space-shuttle-endeavours-giant-orange-external-tank-begins-final-journey)
+* [2024-01-03, 07:55:19](https://news.ycombinator.com/item?id=38851736) - [Glitch Exhibition in Munich: The Art of Interference](https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich)
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs commands I got by with for years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of 3 budgets](https://swizec.com/blog/the-3-budgets/)
