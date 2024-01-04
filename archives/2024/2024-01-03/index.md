@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 23:36:11](https://news.ycombinator.com/item?id=38861271) - [Airtable acquires Airplane](https://www.airplane.dev/blog/airtable)
+* [2024-01-03, 23:26:04](https://news.ycombinator.com/item?id=38861203) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
 * [2024-01-03, 23:05:30](https://news.ycombinator.com/item?id=38861034) - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
 * [2024-01-03, 21:10:35](https://news.ycombinator.com/item?id=38859976) - [Understand how transformers work by demystifying all the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [The crazy market for the most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
@@ -29,6 +31,7 @@
 * [2024-01-03, 17:25:32](https://news.ycombinator.com/item?id=38856753) - [Italy divided over new pineapple pizza](https://www.cnn.com/travel/article/pineapple-pizza-italy-naples/index.html)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
+* [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 * [2024-01-03, 17:11:00](https://news.ycombinator.com/item?id=38856563) - [Magnetic tunnel junction-based computational random-access memory](https://arxiv.org/abs/2312.14264)
 * [2024-01-03, 17:10:38](https://news.ycombinator.com/item?id=38856559) - [Container2wasm: Convert Containers to WASM Blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 17:07:08](https://news.ycombinator.com/item?id=38856515) - [Firefox private mode now automatically blocks cookie banners for German users](https://support.mozilla.org/en-US/kb/cookie-banner-reduction)
