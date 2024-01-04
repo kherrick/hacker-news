@@ -13,6 +13,7 @@
 * [2024-01-04, 17:43:53](https://news.ycombinator.com/item?id=38869952) - [Why math professor Alexander Barvinok opposes diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
 * [2024-01-04, 17:16:58](https://news.ycombinator.com/item?id=38869607) - [23andMe risks public relations disaster as it blames customers for data breach](https://www.itpro.com/security/data-breaches/23andme-risks-public-relations-disaster-as-it-blames-customers-for-data-breach)
+* [2024-01-04, 17:02:22](https://news.ycombinator.com/item?id=38869393) - [CursusDB – A new scalable distributed document oriented database](https://github.com/cursusdb/cursusdb)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon the Design of an Operating System, a Compiler, and a Computer Pdf](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)

@@ -7,6 +7,7 @@
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:44:38](https://news.ycombinator.com/item?id=38869961) - [Where's Waldo Robot [video]](https://www.youtube.com/watch?v=-i7HMPpxB-Y)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (sip-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
+* [2024-01-04, 17:02:22](https://news.ycombinator.com/item?id=38869393) - [CursusDB – A new scalable distributed document oriented database](https://github.com/cursusdb/cursusdb)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Show HN: Sit](https://sit.sonnet.io)
 * [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
@@ -29,7 +30,6 @@
 * [2024-01-03, 07:32:51](https://news.ycombinator.com/item?id=38851642) - [Terminal Smooth Scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of three budgets](https://swizec.com/blog/the-3-budgets/)
-* [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 
 ## [Archives](archives/index.md)
 
