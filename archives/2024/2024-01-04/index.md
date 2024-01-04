@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
+* [2024-01-04, 11:53:56](https://news.ycombinator.com/item?id=38865900) - [Military action against land-based targets in Yemen moves a step closer](https://splash247.com/military-action-against-land-based-targets-in-yemen-moves-a-step-closer/)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over Fibre (3v 180mA)](https://chaos.social/@f4grx/111697027153656114)
 * [2024-01-04, 10:39:43](https://news.ycombinator.com/item?id=38865449) - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
