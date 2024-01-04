@@ -13,6 +13,7 @@
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:29:34](https://news.ycombinator.com/item?id=38868115) - [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 * [2024-01-04, 15:27:57](https://news.ycombinator.com/item?id=38868095) - [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
+* [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does Your Test Suite Account for Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
 * [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
