@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Those jobs you're applying to? They might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
 * [2024-01-04, 16:15:15](https://news.ycombinator.com/item?id=38868753) - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
 * [2024-01-04, 16:03:47](https://news.ycombinator.com/item?id=38868610) - [How Open ID Connect Works](https://blog.digger.dev/how-open-id-connect-works-illustrated/)
 * [2024-01-04, 15:39:42](https://news.ycombinator.com/item?id=38868265) - [AMD's 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
