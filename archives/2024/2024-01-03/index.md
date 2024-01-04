@@ -71,6 +71,7 @@
 * [2024-01-03, 12:00:35](https://news.ycombinator.com/item?id=38853105) - [Provision (YC S22) Is Hiring a Fullstack Software Engineer](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to Break into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 10:37:52](https://news.ycombinator.com/item?id=38852580) - [UK 2022 rail station flow images](https://github.com/anisotropi4/kingfisher/blob/main/station.md)
+* [2024-01-03, 10:35:32](https://news.ycombinator.com/item?id=38852562) - [A new way to see the activity inside a living cell](https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128)
 * [2024-01-03, 10:32:27](https://news.ycombinator.com/item?id=38852534) - [Making the Micropipette](https://press.asimov.com/resources/making-the-micropipette)
 * [2024-01-03, 10:27:16](https://news.ycombinator.com/item?id=38852503) - [Britain's got some of Europe's toughest surveillance laws. Now it wants more](https://www.politico.eu/article/uk-bulking-up-spying-regime-breakneck-speed/)
 * [2024-01-03, 10:11:10](https://news.ycombinator.com/item?id=38852415) - [Space shuttle Endeavour's giant orange external tank begins final journey](https://www.latimes.com/california/story/2024-01-02/space-shuttle-endeavours-giant-orange-external-tank-begins-final-journey)
