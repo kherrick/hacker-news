@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-01-04, 16:15:15",
-      "https://news.ycombinator.com/item?id=38868753"
-    ],
-    [
-      "Why a toaster from 1949 is still smarter than any sold today",
-      "https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 16:03:47",
       "https://news.ycombinator.com/item?id=38868610"
     ],
@@ -87,6 +77,16 @@
     [
       "SpaceX launches first phone service satellites",
       "https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 15:06:05",
+      "https://news.ycombinator.com/item?id=38867841"
+    ],
+    [
+      "Does Your Test Suite Account for Weak Transaction Isolation?",
+      "https://concerningquality.com/txn-isolation-testing/"
     ]
   ],
   [
