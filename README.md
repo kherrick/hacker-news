@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
+* [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 09:47:13](https://news.ycombinator.com/item?id=38865100) - [We are turning into subscription slaves (2023)](https://medium.com/festival-of-dangerous-ideas/we-are-turning-into-subscription-slaves-b9957df37d88)
 * [2024-01-04, 09:43:48](https://news.ycombinator.com/item?id=38865079) - [\"Anna's Archive\" Shadow Library Blocked Following Publishers' Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
 * [2024-01-04, 08:33:18](https://news.ycombinator.com/item?id=38864578) - [Late 70s and 80s: forget BASIC, we had Pascal and C](https://retrofun.pl/2024/01/03/70s-and-80s-forget-basic-we-had-pascal-and-c/)
@@ -18,7 +19,6 @@
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth has died](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-* [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making small games, which is fun in itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
 * [2024-01-03, 10:35:32](https://news.ycombinator.com/item?id=38852562) - [A new way to see the activity inside a living cell](https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128)
 * [2024-01-03, 10:11:10](https://news.ycombinator.com/item?id=38852415) - [Space shuttle Endeavour's giant orange external tank begins final journey](https://www.latimes.com/california/story/2024-01-02/space-shuttle-endeavours-giant-orange-external-tank-begins-final-journey)
