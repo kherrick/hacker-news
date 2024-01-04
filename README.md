@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-04, 05:42:01](https://news.ycombinator.com/item?id=38863485) - [Police Drone Footage Is Not Exempt from California Public Records Act](https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records)
+* [2024-01-04, 05:28:45](https://news.ycombinator.com/item?id=38863402) - [Digitization Puts Many at a Disadvantage](https://cacm.acm.org/blogs/blog-cacm/279026-digitization-puts-many-at-a-disadvantage/fulltext)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs by *the* Leslie Lamport [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 * [2024-01-04, 04:02:31](https://news.ycombinator.com/item?id=38862848) - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 * [2024-01-04, 02:51:35](https://news.ycombinator.com/item?id=38862459) - [Patriot Missile Floating Point Software Problem Led to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
@@ -23,12 +24,11 @@
 * [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 * [2024-01-03, 17:10:38](https://news.ycombinator.com/item?id=38856559) - [Container2wasm: Convert Containers to WASM Blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 15:42:22](https://news.ycombinator.com/item?id=38855337) - [Show HN: FrameOS – operating system for single function smart frames](https://frameos.net/)
-* [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [2024-01-03, 04:20:55](https://news.ycombinator.com/item?id=38850697) - [Flashpoint Archive](https://flashpointarchive.org/)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 22:07:50](https://news.ycombinator.com/item?id=38847750) - [Dealing with Weird ELF Libraries](https://mjg59.dreamwidth.org/69070.html)
-* [2024-01-02, 20:03:19](https://news.ycombinator.com/item?id=38846397) - [The Sciences of the Artificial by Herbert Simon](https://direct.mit.edu/books/book/4551/The-Sciences-of-the-Artificial)
 * [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 
 ## [Archives](archives/index.md)
