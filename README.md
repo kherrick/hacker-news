@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 02:51:35](https://news.ycombinator.com/item?id=38862459) - [Patriot Missile Floating Point Software Problem Lead to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
 * [2024-01-04, 01:50:10](https://news.ycombinator.com/item?id=38862147) - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
 * [2024-01-04, 01:42:17](https://news.ycombinator.com/item?id=38862106) - [SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says](https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html)
 * [2024-01-04, 00:42:49](https://news.ycombinator.com/item?id=38861732) - [CAS 761: Generative Programming (Winter 2024)](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
@@ -18,7 +19,6 @@
 * [2024-01-03, 18:26:48](https://news.ycombinator.com/item?id=38857676) - [Unintended electromagnetic radiation from Starlink satellites](https://www.aanda.org/articles/aa/full_html/2023/08/aa46374-23/aa46374-23.html)
 * [2024-01-03, 18:07:58](https://news.ycombinator.com/item?id=38857396) - [The drive stats of Backblaze storage pods](https://www.backblaze.com/blog/the-drive-stats-of-backblaze-storage-pods/)
 * [2024-01-03, 17:41:29](https://news.ycombinator.com/item?id=38856999) - [Show HN: Ambiphone, no-nonsense ambient music and white noise](https://ambiph.one?hn)
-* [2024-01-03, 17:39:47](https://news.ycombinator.com/item?id=38856980) - [Retrieval Augmented Generation for New Orleans City Council Transparency](https://eyeonsurveillance.org/blog/rag-for-new-orleans-city-council-transparency)
 * [2024-01-03, 17:20:30](https://news.ycombinator.com/item?id=38856696) - [C and C++ Hot-Reload/Live Coding](https://liveplusplus.tech/)
 * [2024-01-03, 17:19:13](https://news.ycombinator.com/item?id=38856674) - [The Quadrantid meteor shower 2024 peaks tonight alongside a bright moon](https://www.space.com/quarantid-meteor-shower-bright-moon-2024)
 * [2024-01-03, 17:12:59](https://news.ycombinator.com/item?id=38856586) - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
