@@ -10,6 +10,7 @@
 * [2024-01-04, 18:39:45](https://news.ycombinator.com/item?id=38870614) - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
 * [2024-01-04, 18:16:31](https://news.ycombinator.com/item?id=38870351) - [AMD Proposes an FPGA Subsystem User-Space Interface for Linux](https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD)
 * [2024-01-04, 18:07:13](https://news.ycombinator.com/item?id=38870249) - [GPT Store Launch](https://news.ycombinator.com/item?id=38870249)
+* [2024-01-04, 18:03:31](https://news.ycombinator.com/item?id=38870207) - [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
 * [2024-01-04, 18:01:35](https://news.ycombinator.com/item?id=38870184) - [Making the Web Fun Again](https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again)
 * [2024-01-04, 17:44:38](https://news.ycombinator.com/item?id=38869961) - [Where's Waldo Robot [video]](https://www.youtube.com/watch?v=-i7HMPpxB-Y)
 * [2024-01-04, 17:43:53](https://news.ycombinator.com/item?id=38869952) - [Why math professor Alexander Barvinok opposes diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
