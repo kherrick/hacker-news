@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 01:50:10](https://news.ycombinator.com/item?id=38862147) - [Alan Turing – The Delilah Project](https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/)
 * [2024-01-04, 00:42:49](https://news.ycombinator.com/item?id=38861732) - [CAS 761: Generative Programming (Winter 2024)](http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html)
 * [2024-01-04, 00:02:37](https://news.ycombinator.com/item?id=38861467) - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
 * [2024-01-03, 23:05:30](https://news.ycombinator.com/item?id=38861034) - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
@@ -7,7 +8,6 @@
 * [2024-01-03, 21:01:10](https://news.ycombinator.com/item?id=38859851) - [Asian Arowana: The most expensive pet fish](https://thehustle.co/asian-arowana-most-expensive-fish/)
 * [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
 * [2024-01-03, 20:53:50](https://news.ycombinator.com/item?id=38859749) - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
-* [2024-01-03, 20:15:40](https://news.ycombinator.com/item?id=38859219) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
 * [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters](https://bernawil.github.io/hn-who-is-hiring/)
 * [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Any felons successfully found IT work post-release?](https://news.ycombinator.com/item?id=38858075)
@@ -23,13 +23,13 @@
 * [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making small games, which is fun in itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
 * [2024-01-03, 14:22:46](https://news.ycombinator.com/item?id=38854350) - [Waiting on Tests](https://etodd.io/2024/01/01/waiting-on-tests/)
 * [2024-01-03, 13:19:36](https://news.ycombinator.com/item?id=38853706) - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
+* [2024-01-03, 12:12:06](https://news.ycombinator.com/item?id=38853175) - [Migration trends of the Yellow-rumped Warbler](https://science.ebird.org/en/status-and-trends/species/yerwar/abundance-map-weekly)
 * [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)
 * [2024-01-03, 11:53:12](https://news.ycombinator.com/item?id=38853058) - [Bitwarden Heist – How to break into password vaults without using passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 22:07:50](https://news.ycombinator.com/item?id=38847750) - [Dealing with Weird ELF Libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 20:03:19](https://news.ycombinator.com/item?id=38846397) - [The Sciences of the Artificial by Herbert Simon](https://direct.mit.edu/books/book/4551/The-Sciences-of-the-Artificial)
 * [2024-01-02, 19:45:38](https://news.ycombinator.com/item?id=38846124) - [Show HN: The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
-* [2024-01-02, 07:47:48](https://news.ycombinator.com/item?id=38839188) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 
 ## [Archives](archives/index.md)
 
