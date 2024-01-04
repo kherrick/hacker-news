@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-04, 13:15:31",
+      "https://news.ycombinator.com/item?id=38866622"
+    ],
+    [
+      "Origins of J",
+      "https://github.com/kelas/ooj"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 12:11:06",
       "https://news.ycombinator.com/item?id=38866015"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-01-04, 00:02:37",
+      "https://news.ycombinator.com/item?id=38861467"
+    ],
+    [
+      "Think more about what to focus on",
+      "https://www.henrikkarlsson.xyz/p/multi-armed-bandit"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 23:26:04",
       "https://news.ycombinator.com/item?id=38861203"
     ],
@@ -147,26 +167,6 @@
     [
       "The Curious Case of MD5",
       "https://katelynsills.com/law/the-curious-case-of-md5/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 21:01:04",
-      "https://news.ycombinator.com/item?id=38859850"
-    ],
-    [
-      "Laylo (YC S20) is hiring a live events and music account executive",
-      "https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 20:53:50",
-      "https://news.ycombinator.com/item?id=38859749"
-    ],
-    [
-      "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
-      "https://github.com/DLYuanGod/TinyGPT-V"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=38851051"
     ],
     [
-      "Software engineering salaries come from one of 3 budgets",
+      "Software engineering salaries come from one of three budgets",
       "https://swizec.com/blog/the-3-budgets/"
     ]
   ],
