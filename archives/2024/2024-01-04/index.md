@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 09:47:13](https://news.ycombinator.com/item?id=38865100) - [We are turning into subscription slaves (2023)](https://medium.com/festival-of-dangerous-ideas/we-are-turning-into-subscription-slaves-b9957df37d88)
 * [2024-01-04, 09:43:48](https://news.ycombinator.com/item?id=38865079) - [\"Anna's Archive\" Shadow Library Blocked Following Publishers' Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
 * [2024-01-04, 07:43:32](https://news.ycombinator.com/item?id=38864274) - [How to Control JavaScript's Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
 * [2024-01-04, 06:52:23](https://news.ycombinator.com/item?id=38863932) - [Repetitively arrayed vaccines could save the world: Now let us experiment](https://cbuck.substack.com/p/extraordinary-evidence-requires-extraordinary)
