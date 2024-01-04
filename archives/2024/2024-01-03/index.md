@@ -79,6 +79,7 @@
 * [2024-01-03, 07:56:18](https://news.ycombinator.com/item?id=38851740) - [Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
 * [2024-01-03, 07:46:06](https://news.ycombinator.com/item?id=38851699) - [Emacs Commands I Got by with for Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
+* [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 04:13:04](https://news.ycombinator.com/item?id=38850651) - [Benchmarking 20 programming languages on N-queens and matrix multiplication](https://github.com/attractivechaos/plb2)
 * [2024-01-03, 03:52:47](https://news.ycombinator.com/item?id=38850515) - [Tell HN: Cryptocurrency transactions >$10k require filing Form 8300 with the IRS](https://news.ycombinator.com/item?id=38850515)
