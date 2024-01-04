@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
+* [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [75% of the world’s industrial fishing vessels are hidden from public view](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
 * [2024-01-04, 12:23:18](https://news.ycombinator.com/item?id=38866109) - [Google Is Finally Killing Cookies. Advertisers Still Aren't Ready](https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 * [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
@@ -29,7 +30,6 @@
 * [2024-01-03, 04:20:55](https://news.ycombinator.com/item?id=38850697) - [Flashpoint Archive](https://flashpointarchive.org/)
 * [2024-01-03, 00:06:47](https://news.ycombinator.com/item?id=38848973) - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
 * [2024-01-02, 22:38:54](https://news.ycombinator.com/item?id=38848045) - [Give Us Something to Look At: Why ornament matters in architecture](https://theamericanscholar.org/give-us-something-to-look-at/)
-* [2024-01-02, 22:07:50](https://news.ycombinator.com/item?id=38847750) - [Dealing with Weird ELF Libraries](https://mjg59.dreamwidth.org/69070.html)
 
 ## [Archives](archives/index.md)
 
