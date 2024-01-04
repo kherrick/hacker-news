@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 12:11:06](https://news.ycombinator.com/item?id=38866015) - [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
 * [2024-01-04, 11:57:09](https://news.ycombinator.com/item?id=38865924) - ['Giant' predator worm more than half a billion years old discovered in Greenland](https://www.bristol.ac.uk/news/2024/january/giant-worm-fossils-.html)
 * [2024-01-04, 11:53:56](https://news.ycombinator.com/item?id=38865900) - [Military action against land-based targets in Yemen moves a step closer](https://splash247.com/military-action-against-land-based-targets-in-yemen-moves-a-step-closer/)
