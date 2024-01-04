@@ -93,6 +93,7 @@
 * [2024-01-03, 06:48:09](https://news.ycombinator.com/item?id=38851446) - [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://arxiv.org/abs/2312.17661)
 * [2024-01-03, 06:31:56](https://news.ycombinator.com/item?id=38851374) - [The Game Awards raises an old question: What does indie mean?](https://www.engadget.com/the-game-awards-raises-an-old-question-what-does-indie-mean-205211035.html)
 * [2024-01-03, 06:23:12](https://news.ycombinator.com/item?id=38851337) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [2024-01-03, 06:06:26](https://news.ycombinator.com/item?id=38851250) - [A Cap Tradeoff in the Wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-03, 05:25:31](https://news.ycombinator.com/item?id=38851051) - [Software engineering salaries come from one of 3 budgets](https://swizec.com/blog/the-3-budgets/)
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why Don't Grocery Stores Stock Pawpaw Fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 05:08:02](https://news.ycombinator.com/item?id=38850961) - [A lightweight Lisp interpreter in Malbolge Unshackled](https://github.com/kspalaiologos/malbolge-lisp)
