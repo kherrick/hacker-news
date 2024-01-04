@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 10:51:14](https://news.ycombinator.com/item?id=38865518) - [Power over Fibre (3v 180mA)](https://chaos.social/@f4grx/111697027153656114)
+* [2024-01-04, 10:39:43](https://news.ycombinator.com/item?id=38865449) - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 09:47:13](https://news.ycombinator.com/item?id=38865100) - [We are turning into subscription slaves (2023)](https://medium.com/festival-of-dangerous-ideas/we-are-turning-into-subscription-slaves-b9957df37d88)
