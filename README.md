@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 22:11:33](https://news.ycombinator.com/item?id=38873002) - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
 * [2024-01-04, 21:36:49](https://news.ycombinator.com/item?id=38872609) - [Poor Charlie's Almanack](https://www.stripe.press/poor-charlies-almanack)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
@@ -19,7 +20,6 @@
 * [2024-01-04, 15:39:42](https://news.ycombinator.com/item?id=38868265) - [AMD's 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:29:34](https://news.ycombinator.com/item?id=38868115) - [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
-* [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does Your Test Suite Account for Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference (2023)](https://www.artfintel.com/p/efficient-llm-inference)
 * [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
