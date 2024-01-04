@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-04, 00:42:49",
+      "https://news.ycombinator.com/item?id=38861732"
+    ],
+    [
+      "CAS 761: Generative Programming (Winter 2024)",
+      "http://www.cas.mcmaster.ca/~carette/CAS761/W2024/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 00:02:37",
+      "https://news.ycombinator.com/item?id=38861467"
+    ],
+    [
+      "Think more about what to focus on",
+      "https://www.henrikkarlsson.xyz/p/multi-armed-bandit"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 23:05:30",
       "https://news.ycombinator.com/item?id=38861034"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-01-03, 18:26:48",
-      "https://news.ycombinator.com/item?id=38857676"
-    ],
-    [
-      "Unintended electromagnetic radiation from Starlink satellites",
-      "https://www.aanda.org/articles/aa/full_html/2023/08/aa46374-23/aa46374-23.html"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 18:07:58",
       "https://news.ycombinator.com/item?id=38857396"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2024-01-03, 15:32:00",
-      "https://news.ycombinator.com/item?id=38855225"
-    ],
-    [
-      "Ancient diseases that plagued the dinosaurs (2023)",
-      "https://www.bbc.com/future/article/20230214-could-dinosaurs-get-cancer"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 14:42:22",
       "https://news.ycombinator.com/item?id=38854596"
     ],
     [
       "Making small games, which is fun in itself",
       "https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 14:22:46",
-      "https://news.ycombinator.com/item?id=38854350"
-    ],
-    [
-      "Waiting on Tests",
-      "https://etodd.io/2024/01/01/waiting-on-tests/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Ants recognise infected wounds and treat them with antibiotics",
       "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 22:07:50",
+      "https://news.ycombinator.com/item?id=38847750"
+    ],
+    [
+      "Dealing with Weird ELF Libraries",
+      "https://mjg59.dreamwidth.org/69070.html"
     ]
   ],
   [
