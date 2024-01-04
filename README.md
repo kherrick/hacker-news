@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-04, 05:42:01](https://news.ycombinator.com/item?id=38863485) - [Police Drone Footage Is Not Exempt from California Public Records Act](https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs by *the* Leslie Lamport [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
 * [2024-01-04, 04:02:31](https://news.ycombinator.com/item?id=38862848) - [Lilygo T-Deck: 2.8-inch IPS LCD display, mini keyboard, and ESP32 processor](https://www.lilygo.cc/products/t-deck)
 * [2024-01-04, 02:51:35](https://news.ycombinator.com/item?id=38862459) - [Patriot Missile Floating Point Software Problem Led to Deaths of 28 Americans](https://www.cs.unc.edu/%7Esmp/COMP205/LECTURES/ERROR/lec23/node4.html)
@@ -9,7 +10,6 @@
 * [2024-01-04, 00:02:37](https://news.ycombinator.com/item?id=38861467) - [Think more about what to focus on](https://www.henrikkarlsson.xyz/p/multi-armed-bandit)
 * [2024-01-03, 23:36:11](https://news.ycombinator.com/item?id=38861271) - [Airtable acquires Airplane](https://www.airplane.dev/blog/airtable)
 * [2024-01-03, 23:26:04](https://news.ycombinator.com/item?id=38861203) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
-* [2024-01-03, 23:05:30](https://news.ycombinator.com/item?id=38861034) - [The Curious Case of MD5](https://katelynsills.com/law/the-curious-case-of-md5/)
 * [2024-01-03, 21:10:35](https://news.ycombinator.com/item?id=38859976) - [Understand how transformers work by demystifying the math behind them](https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/)
 * [2024-01-03, 21:01:04](https://news.ycombinator.com/item?id=38859850) - [Laylo (YC S20) is hiring a live events and music account executive](https://www.ycombinator.com/companies/laylo/jobs/x3d7mtv-live-events-music-account-executive)
 * [2024-01-03, 20:53:50](https://news.ycombinator.com/item?id=38859749) - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
