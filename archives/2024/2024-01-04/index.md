@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 16:15:15](https://news.ycombinator.com/item?id=38868753) - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:29:34](https://news.ycombinator.com/item?id=38868115) - [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 * [2024-01-04, 15:27:57](https://news.ycombinator.com/item?id=38868095) - [SpaceX launches first phone service satellites](https://www.theguardian.com/science/2024/jan/03/spacex-elon-musk-phone-starlink-satellites)
