@@ -9,7 +9,6 @@
 * [2024-01-05, 03:14:17](https://news.ycombinator.com/item?id=38875288) - [Paper Sizes and Formats](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 23:44:02](https://news.ycombinator.com/item?id=38873810) - [WPA3 Enterprise 192-bit mode at home](https://smallstep.com/blog/home-network-eap-tls-wifi/)
-* [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 19:41:51](https://news.ycombinator.com/item?id=38871295) - [Nestflix](https://nestflix.fun/)
 * [2024-01-04, 18:03:31](https://news.ycombinator.com/item?id=38870207) - [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
@@ -28,6 +27,7 @@
 * [2024-01-03, 13:16:42](https://news.ycombinator.com/item?id=38853675) - [Hacking a CTF: Do not use ECB mode for encryption](https://znano.eu.org/blog/posts/hacking-a-ctf-do-not-use-ecb-mode-for-encryption)
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ pipe physics](https://www.modartt.com/organteq_physical_modeling)
 * [2024-01-03, 09:49:32](https://news.ycombinator.com/item?id=38852316) - [Fastest autograd in the West](https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html)
+* [2024-01-03, 07:12:27](https://news.ycombinator.com/item?id=38851533) - [CellLVM: LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 
