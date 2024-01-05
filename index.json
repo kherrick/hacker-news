@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-01-05, 07:21:44",
-      "https://news.ycombinator.com/item?id=38876617"
-    ],
-    [
-      "Thoughts on Testing",
-      "https://www.brandons.me/blog/thoughts-on-testing"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 03:59:47",
       "https://news.ycombinator.com/item?id=38875551"
     ],
@@ -107,6 +97,16 @@
     [
       "Don't pass structs bigger than 16 bytes on AMD64",
       "https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 03:23:31",
+      "https://news.ycombinator.com/item?id=38875339"
+    ],
+    [
+      "Show HN: Possibly the most comprehensive design system collection",
+      "https://www.designsystemhunt.com"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-01-04, 16:49:30",
+      "https://news.ycombinator.com/item?id=38869235"
+    ],
+    [
+      "Sit.",
+      "https://sonnet.io/posts/sit/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 15:33:50",
       "https://news.ycombinator.com/item?id=38868185"
     ],
@@ -187,6 +197,16 @@
     [
       "Grammar of Ornament",
       "https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 12:30:35",
+      "https://news.ycombinator.com/item?id=38866170"
+    ],
+    [
+      "9 years of Apple text editor solo dev",
+      "https://papereditor.app/dev"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-01-03, 09:49:32",
-      "https://news.ycombinator.com/item?id=38852316"
-    ],
-    [
-      "Fastest autograd in the West",
-      "https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 05:20:11",
       "https://news.ycombinator.com/item?id=38851025"
     ],
@@ -277,16 +287,6 @@
     [
       "The Shingle Spit in Whitstable",
       "https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 21:50:54",
-      "https://news.ycombinator.com/item?id=38847581"
-    ],
-    [
-      "A simulation of me: fine-tuning an LLM on 240k text messages",
-      "https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/"
     ]
   ],
   [
