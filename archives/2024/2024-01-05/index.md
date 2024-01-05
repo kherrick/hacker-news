@@ -34,6 +34,7 @@
 * [2024-01-05, 15:42:14](https://news.ycombinator.com/item?id=38880201) - [Mullvad's usage of Kyber is not affected by KyberSlash](https://mullvad.net/en/blog/mullvads-usage-of-kyber-is-not-affected-by-kyberslash)
 * [2024-01-05, 15:18:35](https://news.ycombinator.com/item?id=38879930) - [U.S. Government Allocates $1.5B Towards Promising Age-Reversal Technology](https://www.nad.com/news/u-s-government-allocates-1-5-billion-towards-promising-new-age-reversal-technology-epigenetic-reprogramming)
 * [2024-01-05, 15:07:15](https://news.ycombinator.com/item?id=38879810) - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
+* [2024-01-05, 14:30:29](https://news.ycombinator.com/item?id=38879405) - [In \"Strange Metals,\" the Flow of Electricity Is Equally Strange](https://spectrum.ieee.org/strange-metal)
 * [2024-01-05, 14:07:01](https://news.ycombinator.com/item?id=38879168) - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
 * [2024-01-05, 14:06:04](https://news.ycombinator.com/item?id=38879153) - [The U.S. added 216,000 jobs in December, much better than expected](https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html)
 * [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)

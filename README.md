@@ -14,7 +14,7 @@
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:36:39](https://news.ycombinator.com/item?id=38881008) - [Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI](https://gmd.copernicus.org/articles/16/5539/2023/)
 * [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Drones are the new drug mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
-* [2024-01-05, 15:18:35](https://news.ycombinator.com/item?id=38879930) - [U.S. Government Allocates $1.5B Towards Promising Age-Reversal Technology](https://www.nad.com/news/u-s-government-allocates-1-5-billion-towards-promising-new-age-reversal-technology-epigenetic-reprogramming)
+* [2024-01-05, 14:30:29](https://news.ycombinator.com/item?id=38879405) - [In \"Strange Metals,\" the Flow of Electricity Is Equally Strange](https://spectrum.ieee.org/strange-metal)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document (2023)](https://nicolasbouliane.com/blog/duty-to-document)
 * [2024-01-05, 13:03:35](https://news.ycombinator.com/item?id=38878640) - [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
