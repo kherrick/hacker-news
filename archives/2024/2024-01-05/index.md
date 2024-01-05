@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 16:14:02](https://news.ycombinator.com/item?id=38880668) - [Tesla Model Y range estimate reduced by 6%, becoming more realistic](https://electrek.co/2024/01/05/tesla-model-y-range-estimate-reduced-by-6-becoming-more-realistic/)
+* [2024-01-05, 15:53:59](https://news.ycombinator.com/item?id=38880373) - [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
+* [2024-01-05, 15:42:14](https://news.ycombinator.com/item?id=38880201) - [Mullvad's usage of Kyber is not affected by KyberSlash](https://mullvad.net/en/blog/mullvads-usage-of-kyber-is-not-affected-by-kyberslash)
 * [2024-01-05, 15:07:15](https://news.ycombinator.com/item?id=38879810) - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
 * [2024-01-05, 14:07:01](https://news.ycombinator.com/item?id=38879168) - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
 * [2024-01-05, 14:06:04](https://news.ycombinator.com/item?id=38879153) - [The U.S. added 216,000 jobs in December, much better than expected](https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html)
