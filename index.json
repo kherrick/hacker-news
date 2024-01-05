@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-05, 00:00:17",
+      "https://news.ycombinator.com/item?id=38873944"
+    ],
+    [
+      "'everything' blocks devs from removing their own NPM packages",
+      "https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 23:52:11",
+      "https://news.ycombinator.com/item?id=38873878"
+    ],
+    [
+      "Google illegally refusing to bargain with employee union, says NLRB",
+      "https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 23:44:02",
       "https://news.ycombinator.com/item?id=38873810"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-01-04, 18:01:35",
-      "https://news.ycombinator.com/item?id=38870184"
-    ],
-    [
-      "Making the web fun again (2013)",
-      "https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 17:44:38",
       "https://news.ycombinator.com/item?id=38869961"
     ],
@@ -127,16 +137,6 @@
     [
       "InVision design collaboration services shutdown",
       "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 15:39:42",
-      "https://news.ycombinator.com/item?id=38868265"
-    ],
-    [
-      "AMD's 22 year old GPUs are still getting updates",
-      "https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-01-03, 20:19:51",
-      "https://news.ycombinator.com/item?id=38859277"
-    ],
-    [
-      "The website vs. web app dichotomy doesn't exist",
-      "https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 17:25:03",
       "https://news.ycombinator.com/item?id=38856751"
     ],
@@ -247,6 +237,16 @@
     [
       "Fastest autograd in the West",
       "https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 09:41:04",
+      "https://news.ycombinator.com/item?id=38852257"
+    ],
+    [
+      "Show HN: Clutter-free, powerful Mac-native sample manager",
+      "https://www.kickspro.app"
     ]
   ],
   [
