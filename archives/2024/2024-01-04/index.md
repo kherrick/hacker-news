@@ -47,6 +47,7 @@
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey is a simple constant key/value storage library](https://github.com/spotify/sparkey)
 * [2024-01-04, 14:24:43](https://news.ycombinator.com/item?id=38867336) - [Researchers discover physical cause of long Covid tiredness](https://www.amsterdamumc.org/en/spotlight/tiredness-experienced-by-long-covid-patients-has-a-physical-cause.htm)
+* [2024-01-04, 13:55:19](https://news.ycombinator.com/item?id=38866974) - [Ray Bandar's Bone Palace](https://www.niche-museums.com/100)
 * [2024-01-04, 13:54:37](https://news.ycombinator.com/item?id=38866964) - [Windows 11 struggling to escape the shadow of Windows 10](https://www.theregister.com/2024/01/02/windows_11_unable_to_escape/)
 * [2024-01-04, 13:40:24](https://news.ycombinator.com/item?id=38866842) - [A Writer's Ruby](https://world.hey.com/dhh/a-writer-s-ruby-2050b634)
 * [2024-01-04, 13:33:56](https://news.ycombinator.com/item?id=38866773) - [Zuckerberg's Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)

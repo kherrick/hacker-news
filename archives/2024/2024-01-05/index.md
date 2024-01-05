@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
 * [2024-01-05, 18:38:21](https://news.ycombinator.com/item?id=38882790) - [A Rocket a Day Keeps the High Costs Away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
+* [2024-01-05, 18:35:34](https://news.ycombinator.com/item?id=38882747) - [How to Build a Thinking AI](https://aithought.com/)
 * [2024-01-05, 18:34:11](https://news.ycombinator.com/item?id=38882726) - [Best 7B LLM on leaderboards made by an amateur following a medium tutorial](https://huggingface.co/CultriX/MistralTrix-v1)
 * [2024-01-05, 18:08:09](https://news.ycombinator.com/item?id=38882358) - [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
 * [2024-01-05, 18:07:49](https://news.ycombinator.com/item?id=38882352) - [Canonical to Work on Improving Snap Support Across Linux DIstributions](https://www.phoronix.com/news/Better-Cross-Distro-Snaps)
