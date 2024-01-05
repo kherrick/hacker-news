@@ -9,6 +9,7 @@
 * [2024-01-05, 13:10:47](https://news.ycombinator.com/item?id=38878683) - [Consumer Reports finds 'widespread' presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
 * [2024-01-05, 13:03:35](https://news.ycombinator.com/item?id=38878640) - [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
 * [2024-01-05, 12:59:12](https://news.ycombinator.com/item?id=38878606) - [Now Blocking 56,037,235 IP Addresses, and Counting](https://cheapskatesguide.org/articles/now-blocking.html)
+* [2024-01-05, 12:56:10](https://news.ycombinator.com/item?id=38878587) - [June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
 * [2024-01-05, 10:55:12](https://news.ycombinator.com/item?id=38877753) - [Something a lot like Pokemon Yellow](https://roganmurley.com/2024/01/02/something-a-lot-like-pokemon-yellow.html)
