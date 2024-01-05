@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-05, 17:30:50",
-      "https://news.ycombinator.com/item?id=38881825"
+      "2024-01-05, 17:42:37",
+      "https://news.ycombinator.com/item?id=38881981"
     ],
     [
-      "What We Lost When Twitter Became X",
-      "https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x"
+      "Zeiss holographic camera turns any window into an invisible camera",
+      "https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 17:31:49",
+      "https://news.ycombinator.com/item?id=38881839"
+    ],
+    [
+      "Microsoft is adding a new key to PC keyboards for the first time  since 1994",
+      "https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-01-05, 13:23:02",
+      "https://news.ycombinator.com/item?id=38878780"
+    ],
+    [
+      "Researchers Create First Functional Semiconductor Made from Graphene",
+      "https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 13:22:56",
       "https://news.ycombinator.com/item?id=38878779"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-01-05, 10:55:12",
-      "https://news.ycombinator.com/item?id=38877753"
-    ],
-    [
-      "Something a lot like Pokemon Yellow",
-      "https://roganmurley.com/2024/01/02/something-a-lot-like-pokemon-yellow.html"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 10:03:27",
       "https://news.ycombinator.com/item?id=38877423"
     ],
@@ -117,16 +127,6 @@
     [
       "RR – Railroad Diagram Generator",
       "https://github.com/GuntherRademacher/rr"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 09:20:40",
-      "https://news.ycombinator.com/item?id=38877204"
-    ],
-    [
-      "Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)",
-      "https://github.com/Maratyszcza/PeachPy"
     ]
   ],
   [
