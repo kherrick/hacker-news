@@ -23,13 +23,13 @@
 * [2024-01-05, 03:32:19](https://news.ycombinator.com/item?id=38875399) - [How Australia’s ‘Bluey’ conquered children’s entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
-* [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 12:48:56](https://news.ycombinator.com/item?id=38866348) - [Grammar of Ornament](https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/)
 * [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
-* [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Scientists discover enzyme that makes urine yellow](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
+* [2024-01-03, 16:43:49](https://news.ycombinator.com/item?id=38856187) - [Indexing semantic versions in RocksDB](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
+* [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Researchers have identified the enzyme that gives urine its yellow hue](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
 
 ## [Archives](archives/index.md)
 
