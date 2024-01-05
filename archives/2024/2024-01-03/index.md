@@ -61,6 +61,7 @@
 * [2024-01-03, 14:54:35](https://news.ycombinator.com/item?id=38854746) - [FTC Continues to Wade into Copyright Issues in AI Without Understanding Anything](https://www.techdirt.com/2024/01/02/ftc-continues-to-wade-into-copyright-issues-in-ai-without-understanding-anything/)
 * [2024-01-03, 14:43:14](https://news.ycombinator.com/item?id=38854610) - [Show HN: Start every terminal session with a vivid reminder of life's value](https://github.com/accessd/the-last-sunday)
 * [2024-01-03, 14:42:22](https://news.ycombinator.com/item?id=38854596) - [Making Small Games, Which Is Fun in Itself](https://abagames.github.io/joys-of-small-game-development-en/fun_to_make_small_games.html)
+* [2024-01-03, 14:39:55](https://news.ycombinator.com/item?id=38854565) - [Degox – Taking back my internet privacy and presence](https://lucaspardue.com/2024/01/03/taking-back-my-internet-privacy-and-presence/)
 * [2024-01-03, 14:22:46](https://news.ycombinator.com/item?id=38854350) - [Waiting on Tests](https://etodd.io/2024/01/01/waiting-on-tests/)
 * [2024-01-03, 14:17:44](https://news.ycombinator.com/item?id=38854277) - [Revealed: Almost half of British teens feel addicted to social media, study says](https://www.theguardian.com/lifeandstyle/2024/jan/02/social-media-addiction-teenagers-study-phones)
 * [2024-01-03, 13:54:19](https://news.ycombinator.com/item?id=38854037) - [Farnborough airport's biggest critic silenced as expansion plans continue](https://www.theguardian.com/uk-news/2024/jan/03/farnborough-airports-biggest-critic-silenced-as-expansion-plans-continue)

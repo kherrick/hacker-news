@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:45:13](https://news.ycombinator.com/item?id=38881123) - [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)

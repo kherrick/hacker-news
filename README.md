@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 * [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Cheap and They Don't Snitch: Drones Are the New Drug Mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
-* [2024-01-05, 13:23:02](https://news.ycombinator.com/item?id=38878780) - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
-* [2024-01-05, 13:10:47](https://news.ycombinator.com/item?id=38878683) - [Consumer Reports finds 'widespread' presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
 * [2024-01-05, 13:03:35](https://news.ycombinator.com/item?id=38878640) - [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
 * [2024-01-05, 12:56:10](https://news.ycombinator.com/item?id=38878587) - [June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux (2023)](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
@@ -29,6 +28,7 @@
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
 * [2024-01-03, 16:43:49](https://news.ycombinator.com/item?id=38856187) - [Indexing semantic versions in RocksDB](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
+* [2024-01-03, 14:39:55](https://news.ycombinator.com/item?id=38854565) - [Degox – Taking back my internet privacy and presence](https://lucaspardue.com/2024/01/03/taking-back-my-internet-privacy-and-presence/)
 * [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Researchers have identified the enzyme that gives urine its yellow hue](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
 
 ## [Archives](archives/index.md)
