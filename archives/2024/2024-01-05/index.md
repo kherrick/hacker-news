@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 * [2024-01-05, 19:07:16](https://news.ycombinator.com/item?id=38883237) - [Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco](https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/)
@@ -31,6 +32,7 @@
 * [2024-01-05, 15:53:59](https://news.ycombinator.com/item?id=38880373) - [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
 * [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Cheap and They Don't Snitch: Drones Are the New Drug Mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
 * [2024-01-05, 15:42:14](https://news.ycombinator.com/item?id=38880201) - [Mullvad's usage of Kyber is not affected by KyberSlash](https://mullvad.net/en/blog/mullvads-usage-of-kyber-is-not-affected-by-kyberslash)
+* [2024-01-05, 15:18:35](https://news.ycombinator.com/item?id=38879930) - [U.S. Government Allocates $1.5B Towards Promising Age-Reversal Technology](https://www.nad.com/news/u-s-government-allocates-1-5-billion-towards-promising-new-age-reversal-technology-epigenetic-reprogramming)
 * [2024-01-05, 15:07:15](https://news.ycombinator.com/item?id=38879810) - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
 * [2024-01-05, 14:07:01](https://news.ycombinator.com/item?id=38879168) - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
 * [2024-01-05, 14:06:04](https://news.ycombinator.com/item?id=38879153) - [The U.S. added 216,000 jobs in December, much better than expected](https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html)
