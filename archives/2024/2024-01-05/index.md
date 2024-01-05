@@ -14,6 +14,7 @@
 * [2024-01-05, 18:34:11](https://news.ycombinator.com/item?id=38882726) - [Best 7B LLM on leaderboards made by an amateur following a medium tutorial](https://huggingface.co/CultriX/MistralTrix-v1)
 * [2024-01-05, 18:20:58](https://news.ycombinator.com/item?id=38882526) - [Harlequin: SQL IDE for Your Terminal](https://github.com/tconbeer/harlequin)
 * [2024-01-05, 18:14:41](https://news.ycombinator.com/item?id=38882438) - [Law firm that handles data breaches was hit by data breach](https://techcrunch.com/2024/01/04/orrick-law-firm-data-breach/)
+* [2024-01-05, 18:13:30](https://news.ycombinator.com/item?id=38882428) - [Lithuania to introduce pre-paid SIM registration from 2025](https://www.commsupdate.com/articles/2024/01/03/lithuania-to-introduce-pre-paid-sim-registration-from-2025/)
 * [2024-01-05, 18:08:09](https://news.ycombinator.com/item?id=38882358) - [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
 * [2024-01-05, 18:07:49](https://news.ycombinator.com/item?id=38882352) - [Canonical to Work on Improving Snap Support Across Linux DIstributions](https://www.phoronix.com/news/Better-Cross-Distro-Snaps)
 * [2024-01-05, 18:04:53](https://news.ycombinator.com/item?id=38882314) - [Ask HN: What are the \"boring\" businesses for hackers these days?](https://news.ycombinator.com/item?id=38882314)
