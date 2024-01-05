@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=38882790"
     ],
     [
-      "A Rocket a Day Keeps the High Costs Away (1993)",
+      "A rocket a day keeps the high costs away (1993)",
       "https://www.fourmilab.ch/documents/aRocketAday.txt"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 18:35:34",
+      "https://news.ycombinator.com/item?id=38882747"
+    ],
+    [
+      "How to Build a Thinking AI",
+      "https://aithought.com/"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-01-05, 18:04:53",
-      "https://news.ycombinator.com/item?id=38882314"
-    ],
-    [
-      "Ask HN: What are the \"boring\" businesses for hackers these days?",
-      "https://news.ycombinator.com/item?id=38882314"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 18:01:22",
       "https://news.ycombinator.com/item?id=38882253"
     ],
@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2024-01-05, 17:31:49",
+      "https://news.ycombinator.com/item?id=38881839"
+    ],
+    [
+      "Copilot key will eventually be required in new PC keyboards",
+      "https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 17:03:33",
       "https://news.ycombinator.com/item?id=38881416"
     ],
     [
-      "We Don't Need a DAC – ESP32 PDM Audio",
+      "We don't need a DAC on the ESP32-S3",
       "https://atomic14.substack.com/p/esp32-s3-no-dac"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 15:44:01",
+      "https://news.ycombinator.com/item?id=38880224"
+    ],
+    [
+      "Drones are the new drug mules",
+      "https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Archiving Steam games for fun and profit",
       "https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 13:23:02",
-      "https://news.ycombinator.com/item?id=38878780"
-    ],
-    [
-      "Researchers Create First Functional Semiconductor Made from Graphene",
-      "https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-01-04, 13:40:24",
-      "https://news.ycombinator.com/item?id=38866842"
+      "2024-01-04, 13:55:19",
+      "https://news.ycombinator.com/item?id=38866974"
     ],
     [
-      "A Writer's Ruby",
-      "https://world.hey.com/dhh/a-writer-s-ruby-2050b634"
+      "Ray Bandar's Bone Palace",
+      "https://www.niche-museums.com/100"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Indexing semantic versions in RocksDB",
       "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 12:41:20",
-      "https://news.ycombinator.com/item?id=38853384"
-    ],
-    [
-      "Researchers have identified the enzyme that gives urine its yellow hue",
-      "https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html"
     ]
   ]
 ]
