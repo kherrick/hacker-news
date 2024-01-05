@@ -14,7 +14,6 @@
 * [2024-01-04, 19:41:51](https://news.ycombinator.com/item?id=38871295) - [Nestflix](https://nestflix.fun/)
 * [2024-01-04, 18:03:31](https://news.ycombinator.com/item?id=38870207) - [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
 * [2024-01-04, 17:22:10](https://news.ycombinator.com/item?id=38869672) - [Show HN: Bring phone calls into the browser (SIP-to-WebRTC)](https://github.com/pion/example-webrtc-applications/tree/master/sip-to-webrtc)
-* [2024-01-04, 17:02:22](https://news.ycombinator.com/item?id=38869393) - [Show HN: CursusDB – A new scalable distributed document oriented database](https://github.com/cursusdb/cursusdb)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Sit.](https://sonnet.io/posts/sit/)
 * [2024-01-04, 16:42:47](https://news.ycombinator.com/item?id=38869138) - [Jobs you're applying to might not be real](https://www.marketplace.org/2024/01/03/those-jobs-youre-applying-to-they-might-not-be-real/)
@@ -30,6 +29,7 @@
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
+* [2024-01-02, 18:57:15](https://news.ycombinator.com/item?id=38845463) - [Use of HTTPS Resource Records](https://netmeister.org/blog/https-rrs.html)
 
 ## [Archives](archives/index.md)
 
