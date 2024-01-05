@@ -22,6 +22,7 @@
 * [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-05, 03:32:19](https://news.ycombinator.com/item?id=38875399) - [How Australia’s ‘Bluey’ conquered children’s entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
+* [2024-01-05, 03:23:31](https://news.ycombinator.com/item?id=38875339) - [Show HN: Possibly the most comprehensive design system collection](https://www.designsystemhunt.com)
 * [2024-01-05, 03:18:55](https://news.ycombinator.com/item?id=38875318) - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 * [2024-01-05, 03:14:17](https://news.ycombinator.com/item?id=38875288) - [Paper Sizes and Formats Explained: The Difference Between A4 and Letter](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 * [2024-01-05, 02:54:24](https://news.ycombinator.com/item?id=38875166) - [Standard Ebooks Serves millions of Requests per Month with a 2GB VPS (2022)](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)

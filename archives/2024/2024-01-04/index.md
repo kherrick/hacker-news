@@ -54,6 +54,7 @@
 * [2024-01-04, 13:02:21](https://news.ycombinator.com/item?id=38866484) - [Efficient LLM Inference](https://www.artfintel.com/p/efficient-llm-inference)
 * [2024-01-04, 12:48:56](https://news.ycombinator.com/item?id=38866348) - [Grammar of Ornament](https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/)
 * [2024-01-04, 12:39:33](https://news.ycombinator.com/item?id=38866256) - [75% of the world’s industrial fishing vessels are hidden from public view](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+* [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 12:24:29](https://news.ycombinator.com/item?id=38866118) - [Llama2-shepherd a CLI tool to install multiple implementations of the llama2](https://github.com/mikepapadim/llama-shepherd-cli)
 * [2024-01-04, 12:23:18](https://news.ycombinator.com/item?id=38866109) - [Google Is Finally Killing Cookies. Advertisers Still Aren't Ready](https://www.wsj.com/tech/google-is-finally-killing-cookies-advertisers-still-arent-ready-7582fcac)
 * [2024-01-04, 12:11:06](https://news.ycombinator.com/item?id=38866015) - [Room-Temperature Superconductor Replicated](https://x.com/pronounced_kyle/status/1742588127628361809)
