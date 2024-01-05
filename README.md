@@ -13,6 +13,7 @@
 * [2024-01-05, 17:31:49](https://news.ycombinator.com/item?id=38881839) - [Copilot key will eventually be required in new PC keyboards](https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:36:39](https://news.ycombinator.com/item?id=38881008) - [Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI](https://gmd.copernicus.org/articles/16/5539/2023/)
+* [2024-01-05, 16:30:44](https://news.ycombinator.com/item?id=38880921) - [Replication of LK-99 Room Temperature Superconductor](https://thequantuminsider.com/2024/01/04/its-back-researchers-say-theyve-replicated-lk-99-room-temperature-superconductor-experiment/)
 * [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Drones are the new drug mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
 * [2024-01-05, 14:30:29](https://news.ycombinator.com/item?id=38879405) - [In \"Strange Metals,\" the Flow of Electricity Is Equally Strange](https://spectrum.ieee.org/strange-metal)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
@@ -28,7 +29,6 @@
 * [2024-01-04, 12:48:56](https://news.ycombinator.com/item?id=38866348) - [Grammar of Ornament](https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/)
 * [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [What You Don't Know About Sperm](https://nautil.us/what-you-dont-know-about-sperm-482001/)
-* [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
 
 ## [Archives](archives/index.md)
