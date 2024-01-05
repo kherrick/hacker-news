@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 * [2024-01-05, 21:13:08](https://news.ycombinator.com/item?id=38885020) - [Gödel believed in the afterlife. In 4 letters to his mother he explained why](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
 * [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 20:02:54](https://news.ycombinator.com/item?id=38884067) - [P2pcf: P2P WebRTC via Cloudflare Workers](https://github.com/gfodor/p2pcf)
+* [2024-01-05, 19:26:01](https://news.ycombinator.com/item?id=38883509) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 * [2024-01-05, 19:07:16](https://news.ycombinator.com/item?id=38883237) - [Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco](https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/)
