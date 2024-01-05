@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss holographic camera turns any window into an invisible camera](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
+* [2024-01-05, 17:31:49](https://news.ycombinator.com/item?id=38881839) - [Microsoft is adding a new key to PC keyboards for the first time  since 1994](https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/)
 * [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:45:13](https://news.ycombinator.com/item?id=38881123) - [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
