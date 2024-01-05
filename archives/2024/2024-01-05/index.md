@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 22:01:23](https://news.ycombinator.com/item?id=38885567) - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 * [2024-01-05, 21:13:08](https://news.ycombinator.com/item?id=38885020) - [Gödel believed in the afterlife. In 4 letters to his mother he explained why](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+* [2024-01-05, 20:55:20](https://news.ycombinator.com/item?id=38884818) - [Y Combinator Compensation Numbers](https://news.ycombinator.com/item?id=38884818)
 * [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 20:02:54](https://news.ycombinator.com/item?id=38884067) - [P2pcf: P2P WebRTC via Cloudflare Workers](https://github.com/gfodor/p2pcf)
