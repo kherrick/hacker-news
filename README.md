@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-05, 14:06:04](https://news.ycombinator.com/item?id=38879153) - [The U.S. added 216,000 jobs in December, much better than expected](https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html)
+* [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:23:02](https://news.ycombinator.com/item?id=38878780) - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
@@ -16,7 +17,6 @@
 * [2024-01-05, 09:20:40](https://news.ycombinator.com/item?id=38877204) - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
-* [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious (2020)](https://webrtcforthecurious.com/)
 * [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
@@ -28,8 +28,8 @@
 * [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
-* [2024-01-03, 22:42:46](https://news.ycombinator.com/item?id=38860842) - [A Visit to the Museo Nacional de Antropología, Mexico City (2023)](https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/)
 * [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
+* [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Scientists discover enzyme that makes urine yellow](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
 
 ## [Archives](archives/index.md)
 

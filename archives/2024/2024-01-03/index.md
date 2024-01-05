@@ -70,6 +70,7 @@
 * [2024-01-03, 13:16:42](https://news.ycombinator.com/item?id=38853675) - [Hacking a CTF: Do not use ECB mode for encryption](https://znano.eu.org/blog/posts/hacking-a-ctf-do-not-use-ecb-mode-for-encryption)
 * [2024-01-03, 12:49:50](https://news.ycombinator.com/item?id=38853452) - [Not a single person living in the moment](https://twitter.com/HumansNoContext/status/1741853474705330461)
 * [2024-01-03, 12:44:55](https://news.ycombinator.com/item?id=38853406) - [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
+* [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Scientists discover enzyme that makes urine yellow](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
 * [2024-01-03, 12:38:36](https://news.ycombinator.com/item?id=38853364) - [A quick look inside the HSTS file](https://shkspr.mobi/blog/2024/01/a-quick-look-inside-the-hsts-file/)
 * [2024-01-03, 12:12:06](https://news.ycombinator.com/item?id=38853175) - [Migration trends of the Yellow-rumped Warbler](https://science.ebird.org/en/status-and-trends/species/yerwar/abundance-map-weekly)
 * [2024-01-03, 12:08:26](https://news.ycombinator.com/item?id=38853149) - [Why I didn't play this harpsichord sooner](https://taylor.town/harpsichord)

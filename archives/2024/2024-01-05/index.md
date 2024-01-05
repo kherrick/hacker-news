@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
 * [2024-01-05, 14:06:04](https://news.ycombinator.com/item?id=38879153) - [The U.S. added 216,000 jobs in December, much better than expected](https://www.cnbc.com/2024/01/05/jobs-report-december-2023-payrolls-increased-by-216000-in-december.html)
+* [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:23:02](https://news.ycombinator.com/item?id=38878780) - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
