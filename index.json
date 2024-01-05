@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-05, 09:20:40",
+      "https://news.ycombinator.com/item?id=38877204"
+    ],
+    [
+      "Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)",
+      "https://github.com/Maratyszcza/PeachPy"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 09:13:41",
       "https://news.ycombinator.com/item?id=38877175"
     ],
@@ -27,6 +37,16 @@
     [
       "Not all automated testing tools support Shadow DOM in web components",
       "https://matuzo.at/blog/2024/automated-testing-tools-and-web-components"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 08:48:58",
+      "https://news.ycombinator.com/item?id=38877059"
+    ],
+    [
+      "Sentry new TOS to use data to train AI with no opt-out",
+      "https://sentry.io/legal/changelog/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Audio2Photoreal",
       "https://github.com/facebookresearch/audio2photoreal"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 16:59:45",
-      "https://news.ycombinator.com/item?id=38869366"
-    ],
-    [
-      "Project Oberon: Design of an operating system, a compiler, and a computer [pdf]",
-      "https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A simulation of me: fine-tuning an LLM on 240k text messages",
       "https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 17:34:49",
-      "https://news.ycombinator.com/item?id=38844332"
-    ],
-    [
-      "The free software powering bgammon.org",
-      "https://bgammon.org/blog/20240101-hello-world/"
     ]
   ]
 ]
