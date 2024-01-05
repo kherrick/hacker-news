@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-01-04, 15:33:50",
-      "https://news.ycombinator.com/item?id=38868185"
-    ],
-    [
-      "Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games",
-      "https://news.ycombinator.com/item?id=38868185"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 12:48:56",
       "https://news.ycombinator.com/item?id=38866348"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2024-01-03, 16:43:49",
+      "https://news.ycombinator.com/item?id=38856187"
+    ],
+    [
+      "Indexing semantic versions in RocksDB",
+      "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 12:41:20",
       "https://news.ycombinator.com/item?id=38853384"
     ],
     [
-      "Scientists discover enzyme that makes urine yellow",
+      "Researchers have identified the enzyme that gives urine its yellow hue",
       "https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html"
     ]
   ]
