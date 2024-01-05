@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 * [2024-01-05, 19:07:16](https://news.ycombinator.com/item?id=38883237) - [Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco](https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/)
 * [2024-01-05, 19:05:08](https://news.ycombinator.com/item?id=38883213) - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
@@ -11,6 +12,7 @@
 * [2024-01-05, 18:38:21](https://news.ycombinator.com/item?id=38882790) - [A Rocket a Day Keeps the High Costs Away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
 * [2024-01-05, 18:35:34](https://news.ycombinator.com/item?id=38882747) - [How to Build a Thinking AI](https://aithought.com/)
 * [2024-01-05, 18:34:11](https://news.ycombinator.com/item?id=38882726) - [Best 7B LLM on leaderboards made by an amateur following a medium tutorial](https://huggingface.co/CultriX/MistralTrix-v1)
+* [2024-01-05, 18:20:58](https://news.ycombinator.com/item?id=38882526) - [Harlequin: SQL IDE for Your Terminal](https://github.com/tconbeer/harlequin)
 * [2024-01-05, 18:14:41](https://news.ycombinator.com/item?id=38882438) - [Law firm that handles data breaches was hit by data breach](https://techcrunch.com/2024/01/04/orrick-law-firm-data-breach/)
 * [2024-01-05, 18:08:09](https://news.ycombinator.com/item?id=38882358) - [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
 * [2024-01-05, 18:07:49](https://news.ycombinator.com/item?id=38882352) - [Canonical to Work on Improving Snap Support Across Linux DIstributions](https://www.phoronix.com/news/Better-Cross-Distro-Snaps)
@@ -21,6 +23,7 @@
 * [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:45:13](https://news.ycombinator.com/item?id=38881123) - [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
+* [2024-01-05, 16:36:39](https://news.ycombinator.com/item?id=38881008) - [Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI](https://gmd.copernicus.org/articles/16/5539/2023/)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 * [2024-01-05, 16:14:02](https://news.ycombinator.com/item?id=38880668) - [Tesla Model Y range estimate reduced by 6%, becoming more realistic](https://electrek.co/2024/01/05/tesla-model-y-range-estimate-reduced-by-6-becoming-more-realistic/)
 * [2024-01-05, 15:53:59](https://news.ycombinator.com/item?id=38880373) - [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
