@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-05, 06:38:28",
-      "https://news.ycombinator.com/item?id=38876419"
+      "2024-01-05, 08:10:50",
+      "https://news.ycombinator.com/item?id=38876863"
     ],
     [
-      "Did you compare the cost of using a GPT plus subscription and use GPT by API?",
-      "https://news.ycombinator.com/item?id=38876419"
+      "CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler",
+      "https://belkadan.com/blog/2023/12/CellLVM/"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 07:21:44",
+      "https://news.ycombinator.com/item?id=38876617"
+    ],
+    [
+      "Thoughts on Testing",
+      "https://www.brandons.me/blog/thoughts-on-testing"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Fastest autograd in the West",
       "https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 07:12:27",
-      "https://news.ycombinator.com/item?id=38851533"
-    ],
-    [
-      "CellLVM: LLVM to Excel spreadsheet compiler",
-      "https://belkadan.com/blog/2023/12/CellLVM/"
     ]
   ],
   [
