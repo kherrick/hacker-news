@@ -72,6 +72,7 @@
 * [2024-01-04, 07:43:32](https://news.ycombinator.com/item?id=38864274) - [How to Control JavaScript's Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
 * [2024-01-04, 06:52:23](https://news.ycombinator.com/item?id=38863932) - [Repetitively arrayed vaccines could save the world: Now let us experiment](https://cbuck.substack.com/p/extraordinary-evidence-requires-extraordinary)
 * [2024-01-04, 06:39:45](https://news.ycombinator.com/item?id=38863844) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
+* [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
 * [2024-01-04, 05:42:01](https://news.ycombinator.com/item?id=38863485) - [Police Drone Footage Is Not Exempt from California Public Records Act](https://www.eff.org/deeplinks/2024/01/victory-police-drone-footage-not-categorically-exempt-californias-public-records)
 * [2024-01-04, 05:28:45](https://news.ycombinator.com/item?id=38863402) - [Digitization Puts Many at a Disadvantage](https://cacm.acm.org/blogs/blog-cacm/279026-digitization-puts-many-at-a-disadvantage/fulltext)
 * [2024-01-04, 05:20:11](https://news.ycombinator.com/item?id=38863339) - [A Science of Concurrent Programs by *the* Leslie Lamport [pdf]](https://lamport.azurewebsites.net/tla/science.pdf)
