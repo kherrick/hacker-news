@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 22:17:15](https://news.ycombinator.com/item?id=38885758) - [Looo.lol – a binary math site](https://looo.lol/)
 * [2024-01-05, 22:01:23](https://news.ycombinator.com/item?id=38885567) - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)

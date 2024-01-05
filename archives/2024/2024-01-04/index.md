@@ -6,6 +6,7 @@
 
 * [2024-01-04, 23:52:11](https://news.ycombinator.com/item?id=38873878) - [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
 * [2024-01-04, 23:44:02](https://news.ycombinator.com/item?id=38873810) - [You shouldn't run NSA-grade Wi-Fi at home. Here's how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
+* [2024-01-04, 22:32:55](https://news.ycombinator.com/item?id=38873216) - [How Gyms Make Money (2015)](https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf)
 * [2024-01-04, 22:11:33](https://news.ycombinator.com/item?id=38873002) - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
 * [2024-01-04, 21:36:49](https://news.ycombinator.com/item?id=38872609) - [Poor Charlie's Almanack](https://www.stripe.press/poor-charlies-almanack)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
