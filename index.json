@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-05, 18:08:09",
+      "https://news.ycombinator.com/item?id=38882358"
+    ],
+    [
+      "Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air",
+      "https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 18:07:49",
+      "https://news.ycombinator.com/item?id=38882352"
+    ],
+    [
+      "Canonical to Work on Improving Snap Support Across Linux DIstributions",
+      "https://www.phoronix.com/news/Better-Cross-Distro-Snaps"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 17:42:37",
       "https://news.ycombinator.com/item?id=38881981"
     ],
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2024-01-05, 13:10:47",
+      "https://news.ycombinator.com/item?id=38878683"
+    ],
+    [
+      "Consumer Reports finds 'widespread' presence of plastics in food",
+      "https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 13:03:35",
       "https://news.ycombinator.com/item?id=38878640"
     ],
@@ -127,16 +157,6 @@
     [
       "RR – Railroad Diagram Generator",
       "https://github.com/GuntherRademacher/rr"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 09:02:25",
-      "https://news.ycombinator.com/item?id=38877115"
-    ],
-    [
-      "Not all automated testing tools support Shadow DOM in web components",
-      "https://matuzo.at/blog/2024/automated-testing-tools-and-web-components"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Indexing semantic versions in RocksDB",
       "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 14:39:55",
-      "https://news.ycombinator.com/item?id=38854565"
-    ],
-    [
-      "Degox – Taking back my internet privacy and presence",
-      "https://lucaspardue.com/2024/01/03/taking-back-my-internet-privacy-and-presence/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 12:41:20",
-      "https://news.ycombinator.com/item?id=38853384"
-    ],
-    [
-      "Researchers have identified the enzyme that gives urine its yellow hue",
-      "https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html"
     ]
   ]
 ]
