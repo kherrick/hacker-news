@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 18:08:09](https://news.ycombinator.com/item?id=38882358) - [Boeing wants FAA to exempt MAX 7 from safety rules to get it in the air](https://www.seattletimes.com/business/boeing-aerospace/boeing-wants-faa-to-exempt-max-7-from-safety-rules-to-get-it-in-the-air/)
+* [2024-01-05, 18:07:49](https://news.ycombinator.com/item?id=38882352) - [Canonical to Work on Improving Snap Support Across Linux DIstributions](https://www.phoronix.com/news/Better-Cross-Distro-Snaps)
 * [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss holographic camera turns any window into an invisible camera](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 * [2024-01-05, 17:31:49](https://news.ycombinator.com/item?id=38881839) - [Microsoft is adding a new key to PC keyboards for the first time  since 1994](https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/)
 * [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)
