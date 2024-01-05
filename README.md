@@ -20,7 +20,6 @@
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does your test suite account for weak transaction isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey: A simple constant key/value storage library](https://github.com/spotify/sparkey)
-* [2024-01-04, 09:51:40](https://news.ycombinator.com/item?id=38865131) - [Making Real-World Reinforcement Learning Practical [video]](https://www.youtube.com/watch?v=17NrtKHdPDw)
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-03, 22:42:46](https://news.ycombinator.com/item?id=38860842) - [A Visit to the Museo Nacional de Antropología, Mexico City (2023)](https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/)
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ pipe physics](https://www.modartt.com/organteq_physical_modeling)
@@ -30,6 +29,7 @@
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 * [2024-01-02, 18:57:15](https://news.ycombinator.com/item?id=38845463) - [Use of HTTPS Resource Records](https://netmeister.org/blog/https-rrs.html)
+* [2024-01-02, 17:34:49](https://news.ycombinator.com/item?id=38844332) - [The free software powering bgammon.org](https://bgammon.org/blog/20240101-hello-world/)
 
 ## [Archives](archives/index.md)
 
