@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-01-05, 03:59:47",
+      "https://news.ycombinator.com/item?id=38875551"
+    ],
+    [
+      "Apple's classic Pascal poster, remade as a nice clean vector image [pdf]",
+      "http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 03:58:24",
+      "https://news.ycombinator.com/item?id=38875542"
+    ],
+    [
+      "WebRTC for the Curious",
+      "https://webrtcforthecurious.com/"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 03:36:13",
+      "https://news.ycombinator.com/item?id=38875422"
+    ],
+    [
+      "Speed up your code: don't pass structs bigger than 16 bytes on AMD64",
+      "https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 03:14:17",
+      "https://news.ycombinator.com/item?id=38875288"
+    ],
+    [
+      "Paper Sizes and Formats Explained: The Difference Between A4 and Letter",
+      "https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 02:54:24",
       "https://news.ycombinator.com/item?id=38875166"
     ],
@@ -17,16 +57,6 @@
     [
       "SIMD in Pure Python",
       "https://www.da.vidbuchanan.co.uk/blog/python-swar.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 00:00:17",
-      "https://news.ycombinator.com/item?id=38873944"
-    ],
-    [
-      "'everything' blocks devs from removing their own NPM packages",
-      "https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-01-04, 18:28:34",
-      "https://news.ycombinator.com/item?id=38870497"
-    ],
-    [
-      "LWN's Guide to 2024",
-      "https://lwn.net/SubscriberLink/954544/666b8433d343147e/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 18:03:31",
       "https://news.ycombinator.com/item?id=38870207"
     ],
     [
       "Audio2Photoreal",
       "https://github.com/facebookresearch/audio2photoreal"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 17:44:38",
-      "https://news.ycombinator.com/item?id=38869961"
-    ],
-    [
-      "There's Waldo is a robot that finds Waldo (2018) [video]",
-      "https://www.youtube.com/watch?v=-i7HMPpxB-Y"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "A Visit to the Museo Nacional de Antropología, Mexico City (2023)",
       "https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 17:25:03",
-      "https://news.ycombinator.com/item?id=38856751"
-    ],
-    [
-      "Are roads the biggest driver of ecological destruction?",
-      "https://ryanblakeley.net/p/are-roads-the-biggest-driver-of-ecological"
     ]
   ],
   [
