@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-05, 02:09:58",
+      "https://news.ycombinator.com/item?id=38874885"
+    ],
+    [
+      "SIMD in Pure Python",
+      "https://www.da.vidbuchanan.co.uk/blog/python-swar.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 00:56:06",
+      "https://news.ycombinator.com/item?id=38874361"
+    ],
+    [
+      "23andMe told victims of data breach that suing is futile",
+      "https://arstechnica.com/tech-policy/2024/01/23andme-shamelessly-blaming-users-for-data-breach-lawyer-says/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 23:52:11",
       "https://news.ycombinator.com/item?id=38873878"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-01-04, 18:16:31",
-      "https://news.ycombinator.com/item?id=38870351"
-    ],
-    [
-      "AMD proposes an FPGA subsystem user-space interface for Linux",
-      "https://www.phoronix.com/news/FPGA-User-Space-Interface-AMD"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 18:03:31",
       "https://news.ycombinator.com/item?id=38870207"
     ],
@@ -127,16 +137,6 @@
     [
       "InVision design collaboration services shutdown",
       "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 15:39:42",
-      "https://news.ycombinator.com/item?id=38868265"
-    ],
-    [
-      "AMD's 22 year old GPUs are still getting updates",
-      "https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816"
     ]
   ],
   [
