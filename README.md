@@ -2,7 +2,6 @@
 
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
-* [2024-01-05, 19:07:16](https://news.ycombinator.com/item?id=38883237) - [Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco](https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/)
 * [2024-01-05, 19:05:08](https://news.ycombinator.com/item?id=38883213) - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
 * [2024-01-05, 18:38:21](https://news.ycombinator.com/item?id=38882790) - [A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
 * [2024-01-05, 18:35:34](https://news.ycombinator.com/item?id=38882747) - [How to Build a Thinking AI](https://aithought.com/)
@@ -30,6 +29,7 @@
 * [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
+* [2024-01-03, 16:43:49](https://news.ycombinator.com/item?id=38856187) - [Indexing semantic versions in RocksDB](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
 
 ## [Archives](archives/index.md)
 
