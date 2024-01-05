@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 21:13:08](https://news.ycombinator.com/item?id=38885020) - [Gödel believed in the afterlife. In 4 letters to his mother he explained why](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
+* [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
