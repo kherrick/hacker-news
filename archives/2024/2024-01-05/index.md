@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
+* [2024-01-05, 09:59:37](https://news.ycombinator.com/item?id=38877399) - [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
 * [2024-01-05, 09:43:35](https://news.ycombinator.com/item?id=38877321) - [YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
 * [2024-01-05, 09:43:15](https://news.ycombinator.com/item?id=38877319) - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
 * [2024-01-05, 09:20:40](https://news.ycombinator.com/item?id=38877204) - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
