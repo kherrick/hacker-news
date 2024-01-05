@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-05, 09:43:15](https://news.ycombinator.com/item?id=38877319) - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
+* [2024-01-05, 09:20:40](https://news.ycombinator.com/item?id=38877204) - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
 * [2024-01-05, 09:13:41](https://news.ycombinator.com/item?id=38877175) - [Australian woman used her BYD electric car to power her son's dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
+* [2024-01-05, 08:48:58](https://news.ycombinator.com/item?id=38877059) - [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-05, 07:21:44](https://news.ycombinator.com/item?id=38876617) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
@@ -15,7 +17,6 @@
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 19:41:51](https://news.ycombinator.com/item?id=38871295) - [Nestflix](https://nestflix.fun/)
 * [2024-01-04, 18:03:31](https://news.ycombinator.com/item?id=38870207) - [Audio2Photoreal](https://github.com/facebookresearch/audio2photoreal)
-* [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does your test suite account for weak transaction isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey: A simple constant key/value storage library](https://github.com/spotify/sparkey)
@@ -29,7 +30,6 @@
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
-* [2024-01-02, 17:34:49](https://news.ycombinator.com/item?id=38844332) - [The free software powering bgammon.org](https://bgammon.org/blog/20240101-hello-world/)
 
 ## [Archives](archives/index.md)
 
