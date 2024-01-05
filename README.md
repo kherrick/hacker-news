@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-05, 00:00:17](https://news.ycombinator.com/item?id=38873944) - ['everything' blocks devs from removing their own NPM packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
 * [2024-01-04, 23:52:11](https://news.ycombinator.com/item?id=38873878) - [Google illegally refusing to bargain with employee union, says NLRB](https://www.theregister.com/2024/01/04/google_illegally_refusing_to_bargain/)
 * [2024-01-04, 23:44:02](https://news.ycombinator.com/item?id=38873810) - [You shouldn't run NSA-grade Wi-Fi at home. Here's how to do it](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
@@ -14,6 +13,7 @@
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Sit.](https://sonnet.io/posts/sit/)
 * [2024-01-04, 16:42:10](https://news.ycombinator.com/item?id=38869127) - [InVision design collaboration services shutdown](https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/)
+* [2024-01-04, 15:39:42](https://news.ycombinator.com/item?id=38868265) - [AMD's 22 year old GPUs are still getting updates](https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 15:29:34](https://news.ycombinator.com/item?id=38868115) - [Iggy.rs – building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 * [2024-01-04, 13:15:31](https://news.ycombinator.com/item?id=38866622) - [Origins of J](https://github.com/kelas/ooj)
