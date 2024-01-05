@@ -15,6 +15,7 @@
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 23:44:02](https://news.ycombinator.com/item?id=38873810) - [WPA3 Enterprise 192-bit mode at home](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
+* [2024-01-04, 19:41:51](https://news.ycombinator.com/item?id=38871295) - [Nestflix](https://nestflix.fun/)
 * [2024-01-04, 16:59:45](https://news.ycombinator.com/item?id=38869366) - [Project Oberon: Design of an operating system, a compiler, and a computer [pdf]](https://people.inf.ethz.ch/wirth/ProjectOberon/PO.System.pdf)
 * [2024-01-04, 16:49:30](https://news.ycombinator.com/item?id=38869235) - [Sit.](https://sonnet.io/posts/sit/)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
@@ -29,7 +30,6 @@
 * [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
-* [2024-01-02, 17:34:49](https://news.ycombinator.com/item?id=38844332) - [The free software powering bgammon.org](https://bgammon.org/blog/20240101-hello-world/)
 
 ## [Archives](archives/index.md)
 
