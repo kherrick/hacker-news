@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
 * [2024-01-05, 09:43:15](https://news.ycombinator.com/item?id=38877319) - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
+* [2024-01-05, 09:13:41](https://news.ycombinator.com/item?id=38877175) - [Australian woman used her BYD electric car to power her son's dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-05, 07:21:44](https://news.ycombinator.com/item?id=38876617) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
