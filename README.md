@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-05, 04:33:06](https://news.ycombinator.com/item?id=38875711) - [Is the latest near-room-temperature superconductor legit?](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious (2020)](https://webrtcforthecurious.com/)
 * [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
@@ -27,7 +28,6 @@
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ pipe physics](https://www.modartt.com/organteq_physical_modeling)
 * [2024-01-03, 09:49:32](https://news.ycombinator.com/item?id=38852316) - [Fastest autograd in the West](https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html)
 * [2024-01-03, 07:12:27](https://news.ycombinator.com/item?id=38851533) - [CellLVM: LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
-* [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 
