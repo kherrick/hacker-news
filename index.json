@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-05, 00:00:17",
-      "https://news.ycombinator.com/item?id=38873944"
-    ],
-    [
-      "'everything' blocks devs from removing their own NPM packages",
-      "https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 23:52:11",
       "https://news.ycombinator.com/item?id=38873878"
     ],
@@ -137,6 +127,16 @@
     [
       "InVision design collaboration services shutdown",
       "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 15:39:42",
+      "https://news.ycombinator.com/item?id=38868265"
+    ],
+    [
+      "AMD's 22 year old GPUs are still getting updates",
+      "https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/26816"
     ]
   ],
   [
