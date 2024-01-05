@@ -2,11 +2,11 @@
 
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a nice clean vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious](https://webrtcforthecurious.com/)
+* [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-05, 03:18:55](https://news.ycombinator.com/item?id=38875318) - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 * [2024-01-05, 03:14:17](https://news.ycombinator.com/item?id=38875288) - [Paper Sizes and Formats Explained: The Difference Between A4 and Letter](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 * [2024-01-05, 02:54:24](https://news.ycombinator.com/item?id=38875166) - [Standard Ebooks Serves millions of Requests per Month with a 2GB VPS (2022)](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
-* [2024-01-05, 02:43:54](https://news.ycombinator.com/item?id=38875103) - [Milvus Vector Database in 2023](https://milvus.io/blog/milvus-in-2023-unprecedented-vector-database-amidst-tech-buzz.md)
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 23:44:02](https://news.ycombinator.com/item?id=38873810) - [WPA3 Enterprise 192-bit mode at home](https://smallstep.com/blog/home-network-eap-tls-wifi/)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What we got right, what we got wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)

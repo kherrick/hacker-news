@@ -6,6 +6,7 @@
 
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a nice clean vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious](https://webrtcforthecurious.com/)
+* [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-05, 03:18:55](https://news.ycombinator.com/item?id=38875318) - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 * [2024-01-05, 03:14:17](https://news.ycombinator.com/item?id=38875288) - [Paper Sizes and Formats Explained: The Difference Between A4 and Letter](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
