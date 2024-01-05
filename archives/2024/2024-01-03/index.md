@@ -14,6 +14,7 @@
 * [2024-01-03, 20:53:50](https://news.ycombinator.com/item?id=38859749) - [TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones](https://github.com/DLYuanGod/TinyGPT-V)
 * [2024-01-03, 20:46:59](https://news.ycombinator.com/item?id=38859659) - [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
 * [2024-01-03, 20:31:04](https://news.ycombinator.com/item?id=38859427) - [My 3-Year Experiment as a Digital Nomad](https://www.kapwing.com/blog/digital-nomad/)
+* [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:19:51](https://news.ycombinator.com/item?id=38859277) - [The website vs. web app dichotomy doesn't exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)
 * [2024-01-03, 20:15:40](https://news.ycombinator.com/item?id=38859219) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-03, 20:09:41](https://news.ycombinator.com/item?id=38859147) - [Most states start school too early in the morning](https://www.atlasobscura.com/articles/usa-school-start-times)
