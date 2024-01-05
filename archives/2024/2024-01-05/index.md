@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 06:38:28](https://news.ycombinator.com/item?id=38876419) - [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
 * [2024-01-05, 04:33:06](https://news.ycombinator.com/item?id=38875711) - [Is the latest near-room-temperature superconductor legit?](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a nice clean vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious](https://webrtcforthecurious.com/)
