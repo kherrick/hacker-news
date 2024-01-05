@@ -13,6 +13,7 @@
 * [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 20:02:54](https://news.ycombinator.com/item?id=38884067) - [P2pcf: P2P WebRTC via Cloudflare Workers](https://github.com/gfodor/p2pcf)
+* [2024-01-05, 19:34:37](https://news.ycombinator.com/item?id=38883652) - [Niklaus Wirth's famous \"Closing word\" about the Algol 68 IFIP working group](https://dcreager.net/wirth/1968-closing-word/)
 * [2024-01-05, 19:26:01](https://news.ycombinator.com/item?id=38883509) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
