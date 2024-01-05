@@ -2,7 +2,6 @@
 
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 * [2024-01-05, 16:14:02](https://news.ycombinator.com/item?id=38880668) - [Tesla Model Y range estimate reduced by 6%, becoming more realistic](https://electrek.co/2024/01/05/tesla-model-y-range-estimate-reduced-by-6-becoming-more-realistic/)
-* [2024-01-05, 15:42:14](https://news.ycombinator.com/item?id=38880201) - [Mullvad's usage of Kyber is not affected by KyberSlash](https://mullvad.net/en/blog/mullvads-usage-of-kyber-is-not-affected-by-kyberslash)
 * [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
@@ -23,6 +22,7 @@
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
+* [2024-01-04, 13:40:24](https://news.ycombinator.com/item?id=38866842) - [A Writer's Ruby](https://world.hey.com/dhh/a-writer-s-ruby-2050b634)
 * [2024-01-04, 12:48:56](https://news.ycombinator.com/item?id=38866348) - [Grammar of Ornament](https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/)
 * [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
