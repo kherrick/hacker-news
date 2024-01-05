@@ -8,6 +8,7 @@
 * [2024-01-05, 19:18:34](https://news.ycombinator.com/item?id=38883393) - [U.S. Moves Closer to Filing Sweeping Antitrust Case Against Apple](https://www.nytimes.com/2024/01/05/technology/antitrust-apple-lawsuit-us.html)
 * [2024-01-05, 19:07:16](https://news.ycombinator.com/item?id=38883237) - [Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco](https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/)
 * [2024-01-05, 19:05:08](https://news.ycombinator.com/item?id=38883213) - [In Europe, Trains Are Full, and More Are on the Way](https://www.nytimes.com/2024/01/04/travel/europe-new-trains.html)
+* [2024-01-05, 18:58:10](https://news.ycombinator.com/item?id=38883094) - [SSH-Snake: Automated SSH-Based Network Traversal](https://github.com/MegaManSec/SSH-Snake)
 * [2024-01-05, 18:49:56](https://news.ycombinator.com/item?id=38882949) - [Pg – UN vote shows how isolated we are from world opinion](https://twitter.com/paulg/status/1742880064461537392)
 * [2024-01-05, 18:38:21](https://news.ycombinator.com/item?id=38882790) - [A Rocket a Day Keeps the High Costs Away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
 * [2024-01-05, 18:35:34](https://news.ycombinator.com/item?id=38882747) - [How to Build a Thinking AI](https://aithought.com/)
