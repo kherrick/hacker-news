@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 * [2024-01-05, 21:13:08](https://news.ycombinator.com/item?id=38885020) - [Gödel believed in the afterlife. In 4 letters to his mother he explained why](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
 * [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)

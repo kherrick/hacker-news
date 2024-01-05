@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
 * [2024-01-05, 21:13:08](https://news.ycombinator.com/item?id=38885020) - [Gödel believed in the afterlife. In 4 letters to his mother he explained why](https://aeon.co/essays/kurt-godel-his-mother-and-the-argument-for-life-after-death)
 * [2024-01-05, 20:49:47](https://news.ycombinator.com/item?id=38884741) - [M3 CPU cores have become more versatile](https://eclecticlight.co/2024/01/05/m3-cpu-cores-have-become-more-versatile/)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
@@ -19,7 +20,6 @@
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document (2023)](https://nicolasbouliane.com/blog/duty-to-document)
 * [2024-01-05, 13:03:35](https://news.ycombinator.com/item?id=38878640) - [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
-* [2024-01-05, 12:56:10](https://news.ycombinator.com/item?id=38878587) - [June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux (2023)](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 09:59:37](https://news.ycombinator.com/item?id=38877399) - [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
