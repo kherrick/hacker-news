@@ -21,6 +21,7 @@
 * [2024-01-03, 19:22:01](https://news.ycombinator.com/item?id=38858521) - [Shed Skin – A (restricted) Python-to-C++ Compiler](http://shed-skin.blogspot.com/2023/12/shed-skin-restricted-python-to-c.html)
 * [2024-01-03, 19:20:17](https://news.ycombinator.com/item?id=38858500) - [Someone was breaking into Orange Spain RIPE account (and break their /12)](https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv)
 * [2024-01-03, 19:10:00](https://news.ycombinator.com/item?id=38858369) - [Show HN: A Who is Hiring app with AI filters – January 2024 update](https://bernawil.github.io/hn-who-is-hiring/)
+* [2024-01-03, 19:00:17](https://news.ycombinator.com/item?id=38858200) - [Did I destroy my friend's TV with a magnet? (2022)](https://www.fleet.org.au/blog/ask-the-physicists-did-i-destroy-my-friends-tv-with-a-magnet/)
 * [2024-01-03, 18:53:57](https://news.ycombinator.com/item?id=38858075) - [Ask HN: Who is hiring justice-impacted engineers?](https://news.ycombinator.com/item?id=38858075)
 * [2024-01-03, 18:50:12](https://news.ycombinator.com/item?id=38858012) - [Niklaus Wirth Passed Away](https://twitter.com/Bertrand_Meyer/status/1742613897675178347)
 * [2024-01-03, 18:35:59](https://news.ycombinator.com/item?id=38857806) - [Porsche Design System v3](https://designsystem.porsche.com/v3/)
