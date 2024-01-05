@@ -5,6 +5,7 @@
 * [2024-01-05, 03:58:24](https://news.ycombinator.com/item?id=38875542) - [WebRTC for the Curious (2020)](https://webrtcforthecurious.com/)
 * [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
+* [2024-01-05, 03:32:19](https://news.ycombinator.com/item?id=38875399) - [How Australia’s ‘Bluey’ conquered children’s entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
 * [2024-01-05, 03:18:55](https://news.ycombinator.com/item?id=38875318) - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 * [2024-01-05, 03:14:17](https://news.ycombinator.com/item?id=38875288) - [Paper Sizes and Formats](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 * [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
@@ -29,7 +30,6 @@
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
-* [2024-01-02, 18:57:15](https://news.ycombinator.com/item?id=38845463) - [Use of HTTPS Resource Records](https://netmeister.org/blog/https-rrs.html)
 
 ## [Archives](archives/index.md)
 
