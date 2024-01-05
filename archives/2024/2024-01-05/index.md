@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 13:10:47](https://news.ycombinator.com/item?id=38878683) - [Consumer Reports finds 'widespread' presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 09:59:37](https://news.ycombinator.com/item?id=38877399) - [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
 * [2024-01-05, 09:43:35](https://news.ycombinator.com/item?id=38877321) - [YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)

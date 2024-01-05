@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-05, 13:10:47](https://news.ycombinator.com/item?id=38878683) - [Consumer Reports finds 'widespread' presence of plastics in food](https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-reports-finds-widespread-presence-plastics-food-2024-01-04/)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 09:59:37](https://news.ycombinator.com/item?id=38877399) - [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
 * [2024-01-05, 09:43:35](https://news.ycombinator.com/item?id=38877321) - [YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
@@ -29,7 +30,6 @@
 * [2024-01-03, 22:42:46](https://news.ycombinator.com/item?id=38860842) - [A Visit to the Museo Nacional de Antropología, Mexico City (2023)](https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/)
 * [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
-* [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 
 ## [Archives](archives/index.md)
 
