@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
+* [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Cheap and They Don't Snitch: Drones Are the New Drug Mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
 * [2024-01-05, 13:30:14](https://news.ycombinator.com/item?id=38878830) - [Archiving Steam games for fun and profit](https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/)
 * [2024-01-05, 13:23:02](https://news.ycombinator.com/item?id=38878780) - [Researchers Create First Functional Semiconductor Made from Graphene](https://research.gatech.edu/feature/researchers-create-first-functional-semiconductor-made-graphene)
 * [2024-01-05, 13:22:56](https://news.ycombinator.com/item?id=38878779) - [Duty to Document](https://nicolasbouliane.com/blog/duty-to-document)
@@ -18,7 +20,6 @@
 * [2024-01-05, 03:42:01](https://news.ycombinator.com/item?id=38875452) - [Learning bimanual mobile manipulation with low-cost whole-body teleoperation](https://mobile-aloha.github.io)
 * [2024-01-05, 03:36:13](https://news.ycombinator.com/item?id=38875422) - [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-05, 03:32:19](https://news.ycombinator.com/item?id=38875399) - [How Australia’s ‘Bluey’ conquered children’s entertainment](https://www.ft.com/content/0a3c9806-8b0f-4cca-a4e5-e1e6dd6d395b)
-* [2024-01-05, 02:09:58](https://news.ycombinator.com/item?id=38874885) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [Clicks – Physical keyboard for iPhone](https://www.clicks.tech/)
 * [2024-01-04, 15:33:50](https://news.ycombinator.com/item?id=38868185) - [Launch HN: Rosebud (YC S19) – Turn game descriptions into browser games](https://news.ycombinator.com/item?id=38868185)
 * [2024-01-04, 13:40:24](https://news.ycombinator.com/item?id=38866842) - [A Writer's Ruby](https://world.hey.com/dhh/a-writer-s-ruby-2050b634)
@@ -27,7 +28,6 @@
 * [2024-01-04, 09:06:59](https://news.ycombinator.com/item?id=38864791) - [Main-Thread-Scheduling](https://github.com/astoilkov/main-thread-scheduling)
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-04, 06:36:42](https://news.ycombinator.com/item?id=38863817) - [Cleaning up my 200GB iCloud with some JavaScript](https://andykong.org/blog/icloudconfusion)
-* [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 16:43:49](https://news.ycombinator.com/item?id=38856187) - [Indexing semantic versions in RocksDB](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
 * [2024-01-03, 12:41:20](https://news.ycombinator.com/item?id=38853384) - [Researchers have identified the enzyme that gives urine its yellow hue](https://phys.org/news/2024-01-urine-yellow-scientists-enzyme-responsible.html)
 

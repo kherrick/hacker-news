@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We Don't Need a DAC – ESP32 PDM Audio](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:45:13](https://news.ycombinator.com/item?id=38881123) - [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 * [2024-01-05, 16:14:02](https://news.ycombinator.com/item?id=38880668) - [Tesla Model Y range estimate reduced by 6%, becoming more realistic](https://electrek.co/2024/01/05/tesla-model-y-range-estimate-reduced-by-6-becoming-more-realistic/)
 * [2024-01-05, 15:53:59](https://news.ycombinator.com/item?id=38880373) - [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
+* [2024-01-05, 15:44:01](https://news.ycombinator.com/item?id=38880224) - [Cheap and They Don't Snitch: Drones Are the New Drug Mules](https://www.vice.com/en/article/qjvma7/drug-trafficking-smugglers-using-drones)
 * [2024-01-05, 15:42:14](https://news.ycombinator.com/item?id=38880201) - [Mullvad's usage of Kyber is not affected by KyberSlash](https://mullvad.net/en/blog/mullvads-usage-of-kyber-is-not-affected-by-kyberslash)
 * [2024-01-05, 15:07:15](https://news.ycombinator.com/item?id=38879810) - [Multigenerational Living Often Makes Sense. That Doesn't Make It Easy](https://thewalrus.ca/multigenerational-living-often-makes-sense-that-doesnt-make-it-easy/)
 * [2024-01-05, 14:07:01](https://news.ycombinator.com/item?id=38879168) - [Meta-analysis: On average undergraduate students intelligence is merely average](https://www.frontiersin.org/articles/10.3389/fpsyg.2024.1309142/abstract)
