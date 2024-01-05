@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-01-05, 19:07:16",
-      "https://news.ycombinator.com/item?id=38883237"
-    ],
-    [
-      "Posters Promoting Illegal Drug Use Pop Up in Downtown San Francisco",
-      "https://sfstandard.com/2024/01/05/san-francisco-drug-users-tenderloin-posters/"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 19:05:08",
       "https://news.ycombinator.com/item?id=38883213"
     ],
@@ -297,6 +287,16 @@
     [
       "Cleaning up my 200GB iCloud with some JavaScript",
       "https://andykong.org/blog/icloudconfusion"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 16:43:49",
+      "https://news.ycombinator.com/item?id=38856187"
+    ],
+    [
+      "Indexing semantic versions in RocksDB",
+      "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
     ]
   ]
 ]
