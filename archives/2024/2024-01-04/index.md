@@ -47,6 +47,7 @@
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey is a simple constant key/value storage library](https://github.com/spotify/sparkey)
 * [2024-01-04, 14:24:43](https://news.ycombinator.com/item?id=38867336) - [Researchers discover physical cause of long Covid tiredness](https://www.amsterdamumc.org/en/spotlight/tiredness-experienced-by-long-covid-patients-has-a-physical-cause.htm)
+* [2024-01-04, 13:54:37](https://news.ycombinator.com/item?id=38866964) - [Windows 11 struggling to escape the shadow of Windows 10](https://www.theregister.com/2024/01/02/windows_11_unable_to_escape/)
 * [2024-01-04, 13:33:56](https://news.ycombinator.com/item?id=38866773) - [Zuckerberg's Bunker Plans Fuel Speculation on Billionaires Building Bunkers](https://decodetoday.com/zuckerbergs-bunker-plans-fuel-speculation-on-billionaires-building-bunkers/)
 * [2024-01-04, 13:32:51](https://news.ycombinator.com/item?id=38866758) - [Arabic Wikipedia Blackout](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-12-24/Discussion_report)
 * [2024-01-04, 13:32:11](https://news.ycombinator.com/item?id=38866751) - [BitTorrent Tracker Blocks 'Infringing' Hashes](https://torrentfreak.com/bittorrent-tracker-blocks-thousands-of-infringing-hashes-240103/)
