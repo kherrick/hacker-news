@@ -23,11 +23,11 @@
 * [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does your test suite account for weak transaction isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey: A simple constant key/value storage library](https://github.com/spotify/sparkey)
 * [2024-01-04, 09:51:40](https://news.ycombinator.com/item?id=38865131) - [Making Real-World Reinforcement Learning Practical [video]](https://www.youtube.com/watch?v=17NrtKHdPDw)
+* [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-03, 22:42:46](https://news.ycombinator.com/item?id=38860842) - [A Visit to the Museo Nacional de Antropología, Mexico City (2023)](https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/)
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ pipe physics](https://www.modartt.com/organteq_physical_modeling)
 * [2024-01-03, 09:49:32](https://news.ycombinator.com/item?id=38852316) - [Fastest autograd in the West](https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html)
 * [2024-01-03, 07:12:27](https://news.ycombinator.com/item?id=38851533) - [CellLVM: LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
-* [2024-01-03, 05:20:11](https://news.ycombinator.com/item?id=38851025) - [Why don't grocery stores stock pawpaw fruit?](https://www.theatlantic.com/science/archive/2022/10/pawpaw-fruit-taste-history/671646/)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 
