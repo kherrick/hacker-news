@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 16:45:13](https://news.ycombinator.com/item?id=38881123) - [A week with a Ford F-150 Lightning: This truck is too big for city life](https://arstechnica.com/cars/2024/01/a-week-with-a-ford-f-150-lightning-this-truck-is-too-big-for-city-life/)
 * [2024-01-05, 16:17:13](https://news.ycombinator.com/item?id=38880713) - [Facebook incorrectly reports personal blog to DigitalOcean for phishing](https://social.lol/@robb/111704215593992932)
 * [2024-01-05, 16:14:02](https://news.ycombinator.com/item?id=38880668) - [Tesla Model Y range estimate reduced by 6%, becoming more realistic](https://electrek.co/2024/01/05/tesla-model-y-range-estimate-reduced-by-6-becoming-more-realistic/)
 * [2024-01-05, 15:53:59](https://news.ycombinator.com/item?id=38880373) - [Labor Misconduct Complaint Response: SpaceX Claims Fed Agency Unconstitutional](https://gizmodo.com/spacex-elon-musk-sues-federal-labor-regulator-1851143219)
