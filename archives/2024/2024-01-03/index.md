@@ -81,6 +81,7 @@
 * [2024-01-03, 10:11:10](https://news.ycombinator.com/item?id=38852415) - [Space shuttle Endeavour's giant orange external tank begins final journey](https://www.latimes.com/california/story/2024-01-02/space-shuttle-endeavours-giant-orange-external-tank-begins-final-journey)
 * [2024-01-03, 09:59:33](https://news.ycombinator.com/item?id=38852360) - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-03, 09:49:32](https://news.ycombinator.com/item?id=38852316) - [Fastest autograd in the West](https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html)
+* [2024-01-03, 09:41:04](https://news.ycombinator.com/item?id=38852257) - [Show HN: Clutter-free, powerful Mac-native sample manager](https://www.kickspro.app)
 * [2024-01-03, 09:17:58](https://news.ycombinator.com/item?id=38852142) - [Farmland practices are driving bird population decline across Europe (2023)](https://doi.org/10.1073/pnas.2216573120)
 * [2024-01-03, 09:03:12](https://news.ycombinator.com/item?id=38852095) - [Driverless cars swerve traffic tickets in California even if they break the law](https://www.theregister.com/2024/01/02/driverless_cars_tickets/)
 * [2024-01-03, 08:54:44](https://news.ycombinator.com/item?id=38852048) - [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
