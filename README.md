@@ -4,7 +4,6 @@
 * [2024-01-05, 09:43:35](https://news.ycombinator.com/item?id=38877321) - [YouTube demonetizes public domain 'Steamboat Willie' video after copyright claim](https://mashable.com/article/youtube-demontizes-public-domain-steamboat-willie-disney-copyright-claim)
 * [2024-01-05, 09:43:15](https://news.ycombinator.com/item?id=38877319) - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
 * [2024-01-05, 09:20:40](https://news.ycombinator.com/item?id=38877204) - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
-* [2024-01-05, 09:13:41](https://news.ycombinator.com/item?id=38877175) - [Australian woman used her BYD electric car to power her son's dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 * [2024-01-05, 08:48:58](https://news.ycombinator.com/item?id=38877059) - [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
@@ -28,6 +27,7 @@
 * [2024-01-03, 22:42:46](https://news.ycombinator.com/item?id=38860842) - [A Visit to the Museo Nacional de Antropología, Mexico City (2023)](https://johnhawks.net/weblog/museo-nacional-de-antropologia-visit/)
 * [2024-01-03, 20:28:53](https://news.ycombinator.com/item?id=38859396) - [Birb and Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 11:57:20](https://news.ycombinator.com/item?id=38853087) - [Organ pipe physics](https://www.modartt.com/organteq_physical_modeling)
+* [2024-01-03, 09:49:32](https://news.ycombinator.com/item?id=38852316) - [Fastest autograd in the West](https://arogozhnikov.github.io/2023/12/28/fastest-autograd.html)
 * [2024-01-03, 04:44:52](https://news.ycombinator.com/item?id=38850849) - [The Shingle Spit in Whitstable](https://stories.miln.eu/graham/2016-08-29-shingle-spit-whitstable/)
 * [2024-01-02, 21:50:54](https://news.ycombinator.com/item?id=38847581) - [A simulation of me: fine-tuning an LLM on 240k text messages](https://edwarddonner.com/2024/01/02/fine-tuning-an-llm-on-240k-text-messages/)
 
