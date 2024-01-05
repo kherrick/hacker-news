@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-01-05, 03:18:55",
+      "https://news.ycombinator.com/item?id=38875318"
+    ],
+    [
+      "Modern Java/JVM Build Practices",
+      "https://github.com/binkley/modern-java-practices"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 03:14:17",
       "https://news.ycombinator.com/item?id=38875288"
     ],
@@ -47,6 +57,16 @@
     [
       "Standard Ebooks Serves millions of Requests per Month with a 2GB VPS (2022)",
       "https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 02:43:54",
+      "https://news.ycombinator.com/item?id=38875103"
+    ],
+    [
+      "Milvus Vector Database in 2023",
+      "https://milvus.io/blog/milvus-in-2023-unprecedented-vector-database-amidst-tech-buzz.md"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-01-04, 16:42:10",
-      "https://news.ycombinator.com/item?id=38869127"
-    ],
-    [
-      "InVision design collaboration services shutdown",
-      "https://www.invisionapp.com/inside-design/invision-design-collaboration-services-shutdown/"
-    ]
-  ],
-  [
-    [
       "2024-01-04, 15:33:50",
       "https://news.ycombinator.com/item?id=38868185"
     ],
@@ -187,16 +197,6 @@
     [
       "Iggy.rs – building message streaming in Rust",
       "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 13:15:31",
-      "https://news.ycombinator.com/item?id=38866622"
-    ],
-    [
-      "Origins of J",
-      "https://github.com/kelas/ooj"
     ]
   ],
   [
