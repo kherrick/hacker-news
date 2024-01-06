@@ -41,6 +41,7 @@
 * [2024-01-06, 08:28:20](https://news.ycombinator.com/item?id=38889647) - [Hemp Batteries Revolutionize Energy Storage](https://formulaswiss.com/blogs/industry-news/the-future-of-batteries-hemp)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 * [2024-01-06, 07:02:33](https://news.ycombinator.com/item?id=38889156) - [Systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
+* [2024-01-06, 05:45:03](https://news.ycombinator.com/item?id=38888782) - [Ant behavior inspires autonomous material assembly research](https://phys.org/news/2024-01-ant-behavior-autonomous-material.html)
 * [2024-01-06, 05:21:14](https://news.ycombinator.com/item?id=38888674) - [Google shares update on next step toward phasing out third-party cookies](https://blog.google/products/chrome/privacy-sandbox-tracking-protection/)
 * [2024-01-06, 04:59:23](https://news.ycombinator.com/item?id=38888572) - [New Tech from Camera Makers Tries to Prove Photos Are Not AI Fakes](https://www.lifewire.com/camera-makers-authentication-prevent-deepfakes-8422784)
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
