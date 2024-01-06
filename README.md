@@ -24,10 +24,10 @@
 * [2024-01-06, 11:29:06](https://news.ycombinator.com/item?id=38890524) - [History of the Graphical User Interface (GUI): A Wonderful Curse [video]](https://www.youtube.com/watch?v=fHMPGhezj0s)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
+* [2024-01-06, 05:45:03](https://news.ycombinator.com/item?id=38888782) - [Ant behavior inspires autonomous material assembly research](https://phys.org/news/2024-01-ant-behavior-autonomous-material.html)
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
-* [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
+* [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
-* [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells (2018)](https://www.worldhistory.org/Book_of_Kells/)
 * [2024-01-04, 08:17:27](https://news.ycombinator.com/item?id=38864492) - [Reloaded: A Simple DLang Live Code Reloading](https://github.com/SrMordred/reloaded)
 * [2024-01-04, 06:52:31](https://news.ycombinator.com/item?id=38863933) - [NetSurf Web Browser](https://www.netsurf-browser.org/)
 
