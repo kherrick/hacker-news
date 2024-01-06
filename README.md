@@ -2,7 +2,8 @@
 
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
 * [2024-01-06, 14:30:12](https://news.ycombinator.com/item?id=38891691) - [Alan Sokal's Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
-* [2024-01-06, 13:55:06](https://news.ycombinator.com/item?id=38891442) - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
+* [2024-01-06, 14:10:11](https://news.ycombinator.com/item?id=38891555) - [Radio reporter fired over jokes is reinstated after arbitrator finds them funny](https://apnews.com/article/philadelphia-comedian-fired-whyy-9b5da652a795d77904b660e0c901195d)
+* [2024-01-06, 13:29:10](https://news.ycombinator.com/item?id=38891258) - [Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’](https://www.nytimes.com/2024/01/05/business/alaska-airlines-flight-portland-landing.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing (2020)](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 * [2024-01-06, 13:15:56](https://news.ycombinator.com/item?id=38891177) - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
@@ -14,7 +15,6 @@
 * [2024-01-06, 08:55:43](https://news.ycombinator.com/item?id=38889774) - [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 * [2024-01-06, 07:02:33](https://news.ycombinator.com/item?id=38889156) - [Systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
-* [2024-01-06, 04:59:23](https://news.ycombinator.com/item?id=38888572) - [New Tech from Camera Makers Tries to Prove Photos Are Not AI Fakes](https://www.lifewire.com/camera-makers-authentication-prevent-deepfakes-8422784)
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
