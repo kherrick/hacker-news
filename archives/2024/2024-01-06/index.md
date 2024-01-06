@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
 * [2024-01-06, 22:15:32](https://news.ycombinator.com/item?id=38896063) - [Show HN: Hacker News User Information on Hover](https://github.com/ConsoleScript/hnuser)
+* [2024-01-06, 22:11:38](https://news.ycombinator.com/item?id=38896027) - [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 * [2024-01-06, 21:06:08](https://news.ycombinator.com/item?id=38895473) - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
+* [2024-01-06, 20:56:55](https://news.ycombinator.com/item?id=38895372) - [Inverting PhotoDNA](https://anishathalye.com/inverting-photodna/)
 * [2024-01-06, 20:54:15](https://news.ycombinator.com/item?id=38895342) - [Studies suggest that relying on will power is hopeless to eliminate bad habits](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
 * [2024-01-06, 20:33:37](https://news.ycombinator.com/item?id=38895166) - [Web0 Manifesto](https://web0.small-web.org/)
 * [2024-01-06, 20:26:27](https://news.ycombinator.com/item?id=38895109) - [Short sellers lost more betting against Tesla than any other company last year](https://www.cnn.com/2024/01/06/business/tesla-short-sellers-losses/index.html)
