@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
+* [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 08:55:43](https://news.ycombinator.com/item?id=38889774) - [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
@@ -14,7 +15,6 @@
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 20:02:54](https://news.ycombinator.com/item?id=38884067) - [P2pcf: P2P WebRTC via Cloudflare Workers](https://github.com/gfodor/p2pcf)
-* [2024-01-05, 19:34:37](https://news.ycombinator.com/item?id=38883652) - [Closing word at Zürich Colloquium (1968)](https://dcreager.net/wirth/1968-closing-word/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 18:58:10](https://news.ycombinator.com/item?id=38883094) - [SSH-Snake: Automated SSH-Based Network Traversal](https://github.com/MegaManSec/SSH-Snake)
 * [2024-01-05, 18:38:21](https://news.ycombinator.com/item?id=38882790) - [A rocket a day keeps the high costs away (1993)](https://www.fourmilab.ch/documents/aRocketAday.txt)
