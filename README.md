@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 16:22:58](https://news.ycombinator.com/item?id=38892685) - [Sounds of Cologne – Story of the WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
-* [2024-01-06, 15:32:35](https://news.ycombinator.com/item?id=38892230) - [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
+* [2024-01-06, 15:05:10](https://news.ycombinator.com/item?id=38891981) - [Ask HN: Why did LinkedIn become what it is today?](https://news.ycombinator.com/item?id=38891981)
 * [2024-01-06, 14:33:00](https://news.ycombinator.com/item?id=38891721) - [Adélie Linux](https://www.adelielinux.org/about/)
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
 * [2024-01-06, 14:18:45](https://news.ycombinator.com/item?id=38891624) - [Show HN: SmartSaver: Personal Expense Tracker Notion Template](https://www.inderpreetsingh.co/template/smart-saver-notion-template)
