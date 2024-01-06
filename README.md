@@ -2,6 +2,7 @@
 
 * [2024-01-06, 01:50:14](https://news.ycombinator.com/item?id=38887531) - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 * [2024-01-06, 01:12:02](https://news.ycombinator.com/item?id=38887252) - [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
+* [2024-01-06, 00:40:37](https://news.ycombinator.com/item?id=38887033) - [Hacker News Screenshot](https://spa.hackernews.xyz/)
 * [2024-01-06, 00:22:04](https://news.ycombinator.com/item?id=38886915) - [Carta doing unsolicited tender offer outreach to their customers' investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
 * [2024-01-06, 00:04:24](https://news.ycombinator.com/item?id=38886792) - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
 * [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
@@ -20,7 +21,6 @@
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:36:39](https://news.ycombinator.com/item?id=38881008) - [Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI](https://gmd.copernicus.org/articles/16/5539/2023/)
 * [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
-* [2024-01-05, 12:39:31](https://news.ycombinator.com/item?id=38878480) - [What's the smallest file size for a 1 pixel image?](https://shkspr.mobi/blog/2024/01/whats-the-smallest-file-size-for-a-1-pixel-image/)
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
