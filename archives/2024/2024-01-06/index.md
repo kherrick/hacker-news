@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
 * [2024-01-06, 14:30:12](https://news.ycombinator.com/item?id=38891691) - [Alan Sokal's Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
 * [2024-01-06, 14:17:09](https://news.ycombinator.com/item?id=38891606) - [Alaska Airlines grounds 737 Max fleet](https://avherald.com/h?article=51354f78)
