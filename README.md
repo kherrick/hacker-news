@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 20:33:37](https://news.ycombinator.com/item?id=38895166) - [Web0 Manifesto](https://web0.small-web.org/)
-* [2024-01-06, 20:26:27](https://news.ycombinator.com/item?id=38895109) - [Short sellers lost more betting against Tesla than any other company last year](https://www.cnn.com/2024/01/06/business/tesla-short-sellers-losses/index.html)
 * [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
 * [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
@@ -25,6 +24,7 @@
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 05:45:03](https://news.ycombinator.com/item?id=38888782) - [Ant behavior inspires autonomous material assembly research](https://phys.org/news/2024-01-ant-behavior-autonomous-material.html)
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
+* [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 19:29:38](https://news.ycombinator.com/item?id=38883568) - [\"Are We Automata?\" by William James (1879)](https://psychclassics.yorku.ca/James/automata.htm)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
 * [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells (2018)](https://www.worldhistory.org/Book_of_Kells/)
