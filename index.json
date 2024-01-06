@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-01-05, 20:04:14",
+      "https://news.ycombinator.com/item?id=38884091"
+    ],
+    [
+      "Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird",
+      "https://www.wired.com/story/blood-guns-scooters-bird/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 20:02:54",
       "https://news.ycombinator.com/item?id=38884067"
     ],
@@ -187,16 +197,6 @@
     [
       "Zeiss's \"Holocam\" turns glass windows into cameras",
       "https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 17:03:33",
-      "https://news.ycombinator.com/item?id=38881416"
-    ],
-    [
-      "We don't need a DAC on the ESP32-S3",
-      "https://atomic14.substack.com/p/esp32-s3-no-dac"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=38865218"
     ],
     [
-      "The Architecture of Open Source Applications: Sendmail",
+      "The Architecture of Open Source Applications: Sendmail (2011)",
       "https://aosabook.org/en/v1/sendmail.html"
     ]
   ],
