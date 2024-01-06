@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 02:38:37](https://news.ycombinator.com/item?id=38887802) - [Evidence that we have been living in an increasingly risk-averse culture](https://www.writingruxandrabio.com/p/ideas-matter-ii-the-cultural-anxietying)
 * [2024-01-06, 01:50:14](https://news.ycombinator.com/item?id=38887531) - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 * [2024-01-06, 01:12:02](https://news.ycombinator.com/item?id=38887252) - [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
 * [2024-01-06, 00:22:04](https://news.ycombinator.com/item?id=38886915) - [Carta doing unsolicited tender offer outreach to their customers' investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
@@ -22,7 +23,6 @@
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books fatal to their authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
-* [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
 * [2024-01-04, 23:16:02](https://news.ycombinator.com/item?id=38873635) - [BBN and the Development of the ARPAnet](https://www.freaktakes.com/p/the-third-university-of-cambridge)
 * [2024-01-04, 22:32:55](https://news.ycombinator.com/item?id=38873216) - [How Gyms Make Money (2015)](https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf)
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
