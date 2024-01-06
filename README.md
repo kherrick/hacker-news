@@ -3,7 +3,7 @@
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-06, 01:56:35](https://news.ycombinator.com/item?id=38887579) - [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
-* [2024-01-06, 01:50:14](https://news.ycombinator.com/item?id=38887531) - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
+* [2024-01-06, 01:50:14](https://news.ycombinator.com/item?id=38887531) - [Nitro: A fast, lightweight inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 * [2024-01-06, 00:04:24](https://news.ycombinator.com/item?id=38886792) - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
 * [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
 * [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
