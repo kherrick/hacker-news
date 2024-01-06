@@ -50,6 +50,7 @@
 * [2024-01-04, 15:06:05](https://news.ycombinator.com/item?id=38867841) - [Does Your Test Suite Account for Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:54:35](https://news.ycombinator.com/item?id=38867712) - [What went wrong with Horizon: learning from the Post Office Trial](https://www.benthamsgaze.org/2021/07/15/what-went-wrong-with-horizon-learning-from-the-post-office-trial/)
 * [2024-01-04, 14:54:15](https://news.ycombinator.com/item?id=38867708) - [Pens for 2024: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-44-Best-Pens-for-2024-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+* [2024-01-04, 14:40:38](https://news.ycombinator.com/item?id=38867528) - [Legacy Seam](https://martinfowler.com/bliki/LegacySeam.html)
 * [2024-01-04, 14:32:06](https://news.ycombinator.com/item?id=38867428) - [Fossil evidence of photosynthesis gets a billion years older](https://arstechnica.com/science/2024/01/fossil-evidence-of-photosynthesis-from-1-7-billion-years-ago/)
 * [2024-01-04, 14:31:51](https://news.ycombinator.com/item?id=38867421) - [Sparkey is a simple constant key/value storage library](https://github.com/spotify/sparkey)
 * [2024-01-04, 14:24:43](https://news.ycombinator.com/item?id=38867336) - [Researchers discover physical cause of long Covid tiredness](https://www.amsterdamumc.org/en/spotlight/tiredness-experienced-by-long-covid-patients-has-a-physical-cause.htm)
