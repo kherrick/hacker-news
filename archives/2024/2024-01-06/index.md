@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 21:06:08](https://news.ycombinator.com/item?id=38895473) - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
+* [2024-01-06, 20:54:15](https://news.ycombinator.com/item?id=38895342) - [Studies suggest that relying on will power is hopeless to eliminate bad habits](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
 * [2024-01-06, 20:33:37](https://news.ycombinator.com/item?id=38895166) - [Web0 Manifesto](https://web0.small-web.org/)
 * [2024-01-06, 20:26:27](https://news.ycombinator.com/item?id=38895109) - [Short sellers lost more betting against Tesla than any other company last year](https://www.cnn.com/2024/01/06/business/tesla-short-sellers-losses/index.html)
 * [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
+* [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://neutronbytes.com/2024/01/05/nuscale-lays-off-40-of-its-staff/)
 * [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
 * [2024-01-06, 19:22:41](https://news.ycombinator.com/item?id=38894445) - [The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
@@ -17,6 +20,7 @@
 * [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
 * [2024-01-06, 18:34:03](https://news.ycombinator.com/item?id=38893882) - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
 * [2024-01-06, 18:26:56](https://news.ycombinator.com/item?id=38893811) - [FAA grounds 171 Boeing planes after mid-air blowout](https://www.bbc.com/news/world-us-canada-67903655)
+* [2024-01-06, 18:13:52](https://news.ycombinator.com/item?id=38893684) - [Westworld: The first film with CGI (and its source code)](https://behind-the-screens.tv/#ww1)
 * [2024-01-06, 18:06:24](https://news.ycombinator.com/item?id=38893614) - [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems)
 * [2024-01-06, 18:04:14](https://news.ycombinator.com/item?id=38893588) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
