@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 08:55:43](https://news.ycombinator.com/item?id=38889774) - [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
@@ -24,7 +25,6 @@
 * [2024-01-05, 06:31:10](https://news.ycombinator.com/item?id=38876374) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books fatal to their authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
 * [2024-01-04, 23:16:02](https://news.ycombinator.com/item?id=38873635) - [BBN and the Development of the ARPAnet](https://www.freaktakes.com/p/the-third-university-of-cambridge)
-* [2024-01-04, 22:32:55](https://news.ycombinator.com/item?id=38873216) - [How Gyms Make Money (2015)](https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf)
 * [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [Human sperm cooperate on the competitive pathway to fertilization: study](https://nautil.us/what-you-dont-know-about-sperm-482001/)
