@@ -62,6 +62,7 @@
 * [2024-01-05, 13:03:35](https://news.ycombinator.com/item?id=38878640) - [Everything will be alright in Iceland](https://memoirsandrambles.substack.com/p/everything-will-be-alright-in-iceland)
 * [2024-01-05, 12:59:12](https://news.ycombinator.com/item?id=38878606) - [Now Blocking 56,037,235 IP Addresses, and Counting](https://cheapskatesguide.org/articles/now-blocking.html)
 * [2024-01-05, 12:56:10](https://news.ycombinator.com/item?id=38878587) - [June 30th, 2024, will bring the End of Life (EOL) of CentOS Linux](https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux)
+* [2024-01-05, 12:46:29](https://news.ycombinator.com/item?id=38878528) - ['I Am So Tired': YouTuber Tom Scott Ends Things You Might Not Know](https://www.theguardian.com/technology/2024/jan/05/youtuber-tom-scott-ends-things-you-might-not-know-series)
 * [2024-01-05, 12:39:31](https://news.ycombinator.com/item?id=38878480) - [What's the smallest file size for a 1 pixel image?](https://shkspr.mobi/blog/2024/01/whats-the-smallest-file-size-for-a-1-pixel-image/)
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
