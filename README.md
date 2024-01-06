@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 14:30:12](https://news.ycombinator.com/item?id=38891691) - [Alan Sokal's Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
 * [2024-01-06, 13:55:06](https://news.ycombinator.com/item?id=38891442) - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
-* [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
+* [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing (2020)](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 * [2024-01-06, 13:15:56](https://news.ycombinator.com/item?id=38891177) - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:26:32](https://news.ycombinator.com/item?id=38890873) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
@@ -18,7 +19,6 @@
 * [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
 * [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 22:01:23](https://news.ycombinator.com/item?id=38885567) - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
-* [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 17:53:13](https://news.ycombinator.com/item?id=38882119) - [Choosing what to read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
 * [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss's \"Holocam\" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
