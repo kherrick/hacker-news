@@ -15,7 +15,6 @@
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 20:04:14](https://news.ycombinator.com/item?id=38884091) - [Blood, Guns, and Broken Scooters: Inside the Chaotic Rise and Fall of Bird](https://www.wired.com/story/blood-guns-scooters-bird/)
 * [2024-01-05, 20:02:54](https://news.ycombinator.com/item?id=38884067) - [P2pcf: P2P WebRTC via Cloudflare Workers](https://github.com/gfodor/p2pcf)
-* [2024-01-05, 19:34:37](https://news.ycombinator.com/item?id=38883652) - [Closing word at Zürich Colloquium (1968)](https://dcreager.net/wirth/1968-closing-word/)
 * [2024-01-05, 19:19:32](https://news.ycombinator.com/item?id=38883408) - [Hard disk LEDs and noisy machines](https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines)
 * [2024-01-05, 18:58:10](https://news.ycombinator.com/item?id=38883094) - [SSH-Snake: Automated SSH-Based Network Traversal](https://github.com/MegaManSec/SSH-Snake)
 * [2024-01-05, 17:53:13](https://news.ycombinator.com/item?id=38882119) - [Choosing what to read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
@@ -28,6 +27,7 @@
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [Human sperm cooperate on the competitive pathway to fertilization: study](https://nautil.us/what-you-dont-know-about-sperm-482001/)
 * [2024-01-04, 10:04:23](https://news.ycombinator.com/item?id=38865218) - [The Architecture of Open Source Applications: Sendmail (2011)](https://aosabook.org/en/v1/sendmail.html)
+* [2024-01-04, 08:41:20](https://news.ycombinator.com/item?id=38864623) - [Gerhard Behles and Robert Henke on Ableton [2016]](https://roberthenke.com/interviews/ableton.html)
 * [2024-01-04, 06:52:31](https://news.ycombinator.com/item?id=38863933) - [NetSurf Web Browser](https://www.netsurf-browser.org/)
 * [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 
