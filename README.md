@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 22:17:37](https://news.ycombinator.com/item?id=38896096) - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
 * [2024-01-06, 22:15:32](https://news.ycombinator.com/item?id=38896063) - [Show HN: Hacker News User Information on Hover](https://github.com/ConsoleScript/hnuser)
 * [2024-01-06, 22:11:38](https://news.ycombinator.com/item?id=38896027) - [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 * [2024-01-06, 21:06:08](https://news.ycombinator.com/item?id=38895473) - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
@@ -29,7 +30,6 @@
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
 * [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Internet Sacred Text Archive](https://sacred-texts.com/)
-* [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells (2018)](https://www.worldhistory.org/Book_of_Kells/)
 
 ## [Archives](archives/index.md)
 
