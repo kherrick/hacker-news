@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
 * [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
+* [2024-01-06, 18:34:03](https://news.ycombinator.com/item?id=38893882) - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
 * [2024-01-06, 18:26:56](https://news.ycombinator.com/item?id=38893811) - [FAA grounds 171 Boeing planes after mid-air blowout](https://www.bbc.com/news/world-us-canada-67903655)
 * [2024-01-06, 18:04:14](https://news.ycombinator.com/item?id=38893588) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)

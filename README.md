@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
+* [2024-01-06, 18:34:03](https://news.ycombinator.com/item?id=38893882) - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
 * [2024-01-06, 18:26:56](https://news.ycombinator.com/item?id=38893811) - [FAA grounds 171 Boeing planes after mid-air blowout](https://www.bbc.com/news/world-us-canada-67903655)
 * [2024-01-06, 18:04:14](https://news.ycombinator.com/item?id=38893588) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
@@ -23,7 +24,6 @@
 * [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 19:29:38](https://news.ycombinator.com/item?id=38883568) - [\"Are We Automata?\" by William James (1879)](https://psychclassics.yorku.ca/James/automata.htm)
 * [2024-01-05, 10:22:20](https://news.ycombinator.com/item?id=38877537) - [The Life of a Data Byte (2020)](https://blog.jessfraz.com/post/the-life-of-a-data-byte/)
-* [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
 * [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells (2018)](https://www.worldhistory.org/Book_of_Kells/)
