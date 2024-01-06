@@ -11,6 +11,7 @@
 * [2024-01-04, 22:11:33](https://news.ycombinator.com/item?id=38873002) - [SpaceX is suing to bust up federal union protections](https://www.theverge.com/2024/1/4/24025712/spacex-nlrb-lawsuit-constitutional-violations-elon-musk)
 * [2024-01-04, 21:36:49](https://news.ycombinator.com/item?id=38872609) - [Poor Charlie's Almanack](https://www.stripe.press/poor-charlies-almanack)
 * [2024-01-04, 21:16:08](https://news.ycombinator.com/item?id=38872362) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+* [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Why bad scientific code beats code following \"best practices\"](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-04, 20:43:20](https://news.ycombinator.com/item?id=38871987) - [iPhone physical keyboard from ex-Crackberry guy](https://www.clicks.tech/)
 * [2024-01-04, 20:40:43](https://news.ycombinator.com/item?id=38871952) - [Minimum Wage Clock](https://moonbase.lgbt/blog/minimum-wage-clock/)
 * [2024-01-04, 20:25:43](https://news.ycombinator.com/item?id=38871821) - [Databases in 2023: A Year in Review](https://ottertune.com/blog/2023-databases-retrospective)
