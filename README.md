@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
+* [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-06, 01:56:35](https://news.ycombinator.com/item?id=38887579) - [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
 * [2024-01-06, 01:50:14](https://news.ycombinator.com/item?id=38887531) - [Nitro: A fast, lightweight 3MB inference server with OpenAI-Compatible API](https://nitro.jan.ai/)
 * [2024-01-06, 00:04:24](https://news.ycombinator.com/item?id=38886792) - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
@@ -20,7 +21,6 @@
 * [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss's \"Holocam\" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 16:36:39](https://news.ycombinator.com/item?id=38881008) - [Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI](https://gmd.copernicus.org/articles/16/5539/2023/)
-* [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books fatal to their authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
