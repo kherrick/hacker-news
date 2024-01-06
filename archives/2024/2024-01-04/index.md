@@ -18,6 +18,7 @@
 * [2024-01-04, 19:54:59](https://news.ycombinator.com/item?id=38871440) - [RIP: Pascal Creator Niklaus Wirth](https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/)
 * [2024-01-04, 19:41:51](https://news.ycombinator.com/item?id=38871295) - [A Netflix for fake TV shows and movies](https://nestflix.fun/)
 * [2024-01-04, 19:24:47](https://news.ycombinator.com/item?id=38871130) - [OpenAI's GPT Store Launches Next Week](https://adsby.co/blog/openai-s-gpt-store-launches-next-week/)
+* [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 19:08:29](https://news.ycombinator.com/item?id=38870944) - [The Hold of the Dead over the Living: A Conversation with Jill Lepore](https://lareviewofbooks.org/article/the-hold-of-the-dead-over-the-living-a-conversation-with-jill-lepore/)
 * [2024-01-04, 18:49:10](https://news.ycombinator.com/item?id=38870727) - [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 * [2024-01-04, 18:39:45](https://news.ycombinator.com/item?id=38870614) - [Lower Obesity Rate During Residence at High Altitude Among a Military Population](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093493)
