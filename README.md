@@ -5,7 +5,7 @@
 * [2024-01-06, 20:54:15](https://news.ycombinator.com/item?id=38895342) - [Studies suggest that relying on will power is hopeless to eliminate bad habits](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
 * [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
-* [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://neutronbytes.com/2024/01/05/nuscale-lays-off-40-of-its-staff/)
+* [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://www.huffpost.com/entry/nuscale-layoffs-nuclear-power_n_65985ac5e4b075f4cfd24dba)
 * [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima (2012)](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:12:40](https://news.ycombinator.com/item?id=38894324) - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
@@ -29,7 +29,7 @@
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
 * [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
-* [2024-01-04, 06:52:31](https://news.ycombinator.com/item?id=38863933) - [NetSurf Web Browser](https://www.netsurf-browser.org/)
+* [2024-01-04, 08:17:27](https://news.ycombinator.com/item?id=38864492) - [Reloaded: A Simple DLang Live Code Reloading](https://github.com/SrMordred/reloaded)
 
 ## [Archives](archives/index.md)
 

@@ -11,6 +11,7 @@
 * [2024-01-06, 20:26:27](https://news.ycombinator.com/item?id=38895109) - [Short sellers lost more betting against Tesla than any other company last year](https://www.cnn.com/2024/01/06/business/tesla-short-sellers-losses/index.html)
 * [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
+* [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://www.huffpost.com/entry/nuscale-layoffs-nuclear-power_n_65985ac5e4b075f4cfd24dba)
 * [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://neutronbytes.com/2024/01/05/nuscale-lays-off-40-of-its-staff/)
 * [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
 * [2024-01-06, 19:22:41](https://news.ycombinator.com/item?id=38894445) - [The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
