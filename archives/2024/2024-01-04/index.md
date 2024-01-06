@@ -87,6 +87,7 @@
 * [2024-01-04, 09:05:31](https://news.ycombinator.com/item?id=38864774) - [Turtles, a Shelly/Zigbee home automation tool in Elixir](https://joisig.com/2023-holiday-side-project-turtles)
 * [2024-01-04, 08:41:20](https://news.ycombinator.com/item?id=38864623) - [Gerhard Behles and Robert Henke on Ableton [2016]](https://roberthenke.com/interviews/ableton.html)
 * [2024-01-04, 08:33:18](https://news.ycombinator.com/item?id=38864578) - [Late 70s and 80s: forget BASIC, we had Pascal and C](https://retrofun.pl/2024/01/03/70s-and-80s-forget-basic-we-had-pascal-and-c/)
+* [2024-01-04, 08:17:27](https://news.ycombinator.com/item?id=38864492) - [Reloaded: A Simple DLang Live Code Reloading](https://github.com/SrMordred/reloaded)
 * [2024-01-04, 07:43:32](https://news.ycombinator.com/item?id=38864274) - [How to Control JavaScript's Strict Mode](https://jskatas.org/blog/2023/10/16-control-strict-mode/)
 * [2024-01-04, 06:52:31](https://news.ycombinator.com/item?id=38863933) - [NetSurf Web Browser](https://www.netsurf-browser.org/)
 * [2024-01-04, 06:52:23](https://news.ycombinator.com/item?id=38863932) - [Repetitively arrayed vaccines could save the world: Now let us experiment](https://cbuck.substack.com/p/extraordinary-evidence-requires-extraordinary)
