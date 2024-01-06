@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-01-05, 16:36:39",
+      "https://news.ycombinator.com/item?id=38881008"
+    ],
+    [
+      "Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI",
+      "https://gmd.copernicus.org/articles/16/5539/2023/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 10:03:27",
       "https://news.ycombinator.com/item?id=38877423"
     ],
@@ -257,16 +267,6 @@
     [
       "How Gyms Make Money (2015)",
       "https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 21:12:34",
-      "https://news.ycombinator.com/item?id=38872325"
-    ],
-    [
-      "Why bad scientific code beats code following \"best practices\"",
-      "https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html"
     ]
   ],
   [
