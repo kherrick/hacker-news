@@ -21,15 +21,15 @@
 * [2024-01-05, 17:03:33](https://news.ycombinator.com/item?id=38881416) - [We don't need a DAC on the ESP32-S3](https://atomic14.substack.com/p/esp32-s3-no-dac)
 * [2024-01-05, 13:55:54](https://news.ycombinator.com/item?id=38879051) - [Show HN: I made a game to improve my typing speed](https://keysmash.no)
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
-* [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books Fatal to Their Authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
-* [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
+* [2024-01-04, 23:16:02](https://news.ycombinator.com/item?id=38873635) - [BBN and the Development of the ARPAnet](https://www.freaktakes.com/p/the-third-university-of-cambridge)
 * [2024-01-04, 22:32:55](https://news.ycombinator.com/item?id=38873216) - [How Gyms Make Money (2015)](https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf)
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 19:08:29](https://news.ycombinator.com/item?id=38870944) - [The Hold of the Dead over the Living: A Conversation with Jill Lepore](https://lareviewofbooks.org/article/the-hold-of-the-dead-over-the-living-a-conversation-with-jill-lepore/)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [Human sperm cooperate on the competitive pathway to fertilization: study](https://nautil.us/what-you-dont-know-about-sperm-482001/)
 * [2024-01-04, 10:15:19](https://news.ycombinator.com/item?id=38865298) - [The Seneca Effect: Growth is slow but collapse is rapid (2017) [pdf]](https://terebess.hu/keletkultinfo/seneca.pdf)
+* [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 
 ## [Archives](archives/index.md)
 
