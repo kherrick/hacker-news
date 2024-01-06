@@ -10,6 +10,7 @@
 * [2024-01-06, 15:32:35](https://news.ycombinator.com/item?id=38892230) - [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 15:24:04](https://news.ycombinator.com/item?id=38892150) - [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
+* [2024-01-06, 15:12:57](https://news.ycombinator.com/item?id=38892044) - [IRS to Begin Trial of Its Own Free Tax-Filing System](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
 * [2024-01-06, 15:05:10](https://news.ycombinator.com/item?id=38891981) - [Ask HN: Why did LinkedIn become what it is today?](https://news.ycombinator.com/item?id=38891981)
 * [2024-01-06, 14:33:00](https://news.ycombinator.com/item?id=38891721) - [Adélie Linux](https://www.adelielinux.org/about/)
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)

@@ -2,6 +2,7 @@
 
 * [2024-01-06, 16:22:58](https://news.ycombinator.com/item?id=38892685) - [Sounds of Cologne – Story of the WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
+* [2024-01-06, 15:12:57](https://news.ycombinator.com/item?id=38892044) - [IRS to Begin Trial of Its Own Free Tax-Filing System](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
 * [2024-01-06, 15:05:10](https://news.ycombinator.com/item?id=38891981) - [Ask HN: Why did LinkedIn become what it is today?](https://news.ycombinator.com/item?id=38891981)
 * [2024-01-06, 14:33:00](https://news.ycombinator.com/item?id=38891721) - [Adélie Linux](https://www.adelielinux.org/about/)
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
@@ -24,7 +25,6 @@
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
-* [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
 * [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells (2018)](https://www.worldhistory.org/Book_of_Kells/)
 * [2024-01-04, 08:41:20](https://news.ycombinator.com/item?id=38864623) - [Gerhard Behles and Robert Henke on Ableton (2016)](https://roberthenke.com/interviews/ableton.html)
