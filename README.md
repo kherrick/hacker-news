@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 05:21:14](https://news.ycombinator.com/item?id=38888674) - [Google shares update on next step toward phasing out third-party cookies](https://blog.google/products/chrome/privacy-sandbox-tracking-protection/)
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-06, 04:44:37](https://news.ycombinator.com/item?id=38888500) - [Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
 * [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
@@ -28,7 +29,6 @@
 * [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Why bad scientific code beats code following \"best practices\"](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [Human sperm cooperate on the competitive pathway to fertilization: study](https://nautil.us/what-you-dont-know-about-sperm-482001/)
-* [2024-01-04, 10:15:19](https://news.ycombinator.com/item?id=38865298) - [The Seneca Effect: Growth is slow but collapse is rapid (2017) [pdf]](https://terebess.hu/keletkultinfo/seneca.pdf)
 * [2024-01-03, 13:48:33](https://news.ycombinator.com/item?id=38853990) - [Solomon Shereshevsky](https://en.wikipedia.org/wiki/Solomon_Shereshevsky)
 
 ## [Archives](archives/index.md)
