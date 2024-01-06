@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:12:40](https://news.ycombinator.com/item?id=38894324) - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
 * [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
 * [2024-01-06, 18:34:03](https://news.ycombinator.com/item?id=38893882) - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
@@ -19,7 +20,6 @@
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 05:45:03](https://news.ycombinator.com/item?id=38888782) - [Ant behavior inspires autonomous material assembly research](https://phys.org/news/2024-01-ant-behavior-autonomous-material.html)
-* [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 19:29:38](https://news.ycombinator.com/item?id=38883568) - [\"Are We Automata?\" by William James (1879)](https://psychclassics.yorku.ca/James/automata.htm)
 * [2024-01-05, 10:22:20](https://news.ycombinator.com/item?id=38877537) - [The Life of a Data Byte (2020)](https://blog.jessfraz.com/post/the-life-of-a-data-byte/)
