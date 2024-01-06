@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 23:57:13](https://news.ycombinator.com/item?id=38886732) - [Age Verification Is Incompatible with the Internet](https://www.jonaharagon.com/posts/age-verification-is-incompatible-with-the-internet/)
+* [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C](https://blog.regehr.org/archives/1393)
 * [2024-01-05, 22:54:58](https://news.ycombinator.com/item?id=38886181) - [Show HN: Seedling – A Decentralised Medium](https://seedling-d.app)
+* [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 22:17:15](https://news.ycombinator.com/item?id=38885758) - [Looo.lol – a binary math site](https://looo.lol/)
+* [2024-01-05, 22:16:03](https://news.ycombinator.com/item?id=38885744) - [Revitalizing US Navy Shipbuilding](https://austinvernon.site/blog/navyshipbuilding.html)
 * [2024-01-05, 22:01:23](https://news.ycombinator.com/item?id=38885567) - [Dennis Ritchie on the priorities of && || vs. == etc. (1982)](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 21:15:58](https://news.ycombinator.com/item?id=38885054) - [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385)
@@ -72,6 +76,7 @@
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-05, 07:21:44](https://news.ycombinator.com/item?id=38876617) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-05, 06:38:28](https://news.ycombinator.com/item?id=38876419) - [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
+* [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books Fatal to Their Authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
 * [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
 * [2024-01-05, 04:33:06](https://news.ycombinator.com/item?id=38875711) - [Is the latest near-room-temperature superconductor legit?](https://techcrunch.com/2024/01/04/yet-another-superconductor-claim/)
 * [2024-01-05, 03:59:47](https://news.ycombinator.com/item?id=38875551) - [Apple's classic Pascal poster, remade as a nice clean vector image [pdf]](http://www.danamania.com/print/Apple%20Pascal%20Poster/PascalPosterV3%20A1.pdf)
