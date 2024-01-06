@@ -36,6 +36,7 @@
 * [2024-01-05, 18:07:49](https://news.ycombinator.com/item?id=38882352) - [Canonical to Work on Improving Snap Support Across Linux DIstributions](https://www.phoronix.com/news/Better-Cross-Distro-Snaps)
 * [2024-01-05, 18:04:53](https://news.ycombinator.com/item?id=38882314) - [Ask HN: What are the \"boring\" businesses for hackers these days?](https://news.ycombinator.com/item?id=38882314)
 * [2024-01-05, 18:01:22](https://news.ycombinator.com/item?id=38882253) - [The fall of Firefox: Mozilla's once-popular web browser slides into irrelevance](https://www.zdnet.com/home-and-office/networking/the-fall-of-firefox-mozillas-once-popular-web-browser-slides-into-irrelevance/)
+* [2024-01-05, 17:53:13](https://news.ycombinator.com/item?id=38882119) - [Choosing What to Read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
 * [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss holographic camera turns any window into an invisible camera](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 * [2024-01-05, 17:31:49](https://news.ycombinator.com/item?id=38881839) - [Microsoft is adding a new key to PC keyboards for the first time  since 1994](https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/)
 * [2024-01-05, 17:30:50](https://news.ycombinator.com/item?id=38881825) - [What We Lost When Twitter Became X](https://www.newyorker.com/tech/annals-of-technology/what-we-lost-when-twitter-became-x)

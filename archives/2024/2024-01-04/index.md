@@ -72,6 +72,7 @@
 * [2024-01-04, 10:39:43](https://news.ycombinator.com/item?id=38865449) - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
+* [2024-01-04, 10:15:19](https://news.ycombinator.com/item?id=38865298) - [The Seneca Effect: Growth is slow but collapse is rapid (2017) [pdf]](https://terebess.hu/keletkultinfo/seneca.pdf)
 * [2024-01-04, 09:51:40](https://news.ycombinator.com/item?id=38865131) - [Making Real-World Reinforcement Learning Practical [video]](https://www.youtube.com/watch?v=17NrtKHdPDw)
 * [2024-01-04, 09:47:13](https://news.ycombinator.com/item?id=38865100) - [We are turning into subscription slaves (2023)](https://medium.com/festival-of-dangerous-ideas/we-are-turning-into-subscription-slaves-b9957df37d88)
 * [2024-01-04, 09:43:48](https://news.ycombinator.com/item?id=38865079) - [\"Anna's Archive\" Shadow Library Blocked Following Publishers' Complaint](https://torrentfreak.com/silenzio-annas-archive-shadow-library-blocked-following-publishers-complaint-240104/)
