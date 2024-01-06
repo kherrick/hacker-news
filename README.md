@@ -2,6 +2,7 @@
 
 * [2024-01-06, 13:55:06](https://news.ycombinator.com/item?id=38891442) - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
+* [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 * [2024-01-06, 13:15:56](https://news.ycombinator.com/item?id=38891177) - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:39:18](https://news.ycombinator.com/item?id=38890948) - [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
@@ -20,7 +21,6 @@
 * [2024-01-05, 21:18:56](https://news.ycombinator.com/item?id=38885094) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/homepage.md)
 * [2024-01-05, 17:53:13](https://news.ycombinator.com/item?id=38882119) - [Choosing what to read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
 * [2024-01-05, 17:42:37](https://news.ycombinator.com/item?id=38881981) - [Zeiss's \"Holocam\" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
-* [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-04, 23:16:02](https://news.ycombinator.com/item?id=38873635) - [BBN and the Development of the ARPAnet](https://www.freaktakes.com/p/the-third-university-of-cambridge)
 * [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)

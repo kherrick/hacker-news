@@ -6,6 +6,7 @@
 
 * [2024-01-06, 13:55:06](https://news.ycombinator.com/item?id=38891442) - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
+* [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 * [2024-01-06, 13:15:56](https://news.ycombinator.com/item?id=38891177) - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:39:18](https://news.ycombinator.com/item?id=38890948) - [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 * [2024-01-06, 12:08:05](https://news.ycombinator.com/item?id=38890780) - [Google Search Technique Used by Police Draws New Legal Challenge](https://www.bnnbloomberg.ca/google-search-technique-used-by-police-draws-new-legal-challenge-1.2018433)
