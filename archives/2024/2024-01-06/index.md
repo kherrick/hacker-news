@@ -6,8 +6,10 @@
 
 * [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
+* [2024-01-06, 19:22:41](https://news.ycombinator.com/item?id=38894445) - [The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:12:40](https://news.ycombinator.com/item?id=38894324) - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
+* [2024-01-06, 19:02:35](https://news.ycombinator.com/item?id=38894208) - [Adventures of Linux Userspace at Meta [video]](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
 * [2024-01-06, 18:49:44](https://news.ycombinator.com/item?id=38894053) - [LinkedIn Isn't Just for Jobs Anymore. It's Now a Dating App Too](https://www.businessinsider.com/linkedin-is-a-dating-app-remote-work-online-romance-2024-1)
 * [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
 * [2024-01-06, 18:34:03](https://news.ycombinator.com/item?id=38893882) - [Benchmarking Mojo: A Deep Dive into Performance and Practicality](https://medium.com/@p88h/advent-of-mojo-part-1-c1bcaa367fcb)
