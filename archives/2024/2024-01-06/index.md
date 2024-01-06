@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 20:08:28](https://news.ycombinator.com/item?id=38894920) - [Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro](https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214)
 * [2024-01-06, 19:43:31](https://news.ycombinator.com/item?id=38894636) - [Lancet journal retracts article on hearing aids and dementia after prodding](https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:12:40](https://news.ycombinator.com/item?id=38894324) - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
@@ -14,6 +15,7 @@
 * [2024-01-06, 18:04:14](https://news.ycombinator.com/item?id=38893588) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
 * [2024-01-06, 17:58:58](https://news.ycombinator.com/item?id=38893534) - [BYD's YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
+* [2024-01-06, 17:46:29](https://news.ycombinator.com/item?id=38893432) - [Show HN: Filter and Monitor Hacker News Based on Your Interests](https://www.kadoa.com/hacksnack)
 * [2024-01-06, 17:37:26](https://news.ycombinator.com/item?id=38893356) - [End of an Era: Google Groups to Drop Usenet Support](https://www.pcmag.com/news/end-of-an-era-google-groups-to-drop-usenet-support)
 * [2024-01-06, 16:38:33](https://news.ycombinator.com/item?id=38892819) - [Show HN: I made ChatGPT to rewrite the CV to match the job posting](https://chat.openai.com/g/g-7A4g8Sts5-resume-rewriter)
 * [2024-01-06, 16:26:38](https://news.ycombinator.com/item?id=38892717) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
@@ -60,5 +62,6 @@
 * [2024-01-06, 01:12:02](https://news.ycombinator.com/item?id=38887252) - [Show HN: Hashmap.me – Simple HTTP-Based Data Storage and Retrieval](https://hashmap.me)
 * [2024-01-06, 00:58:05](https://news.ycombinator.com/item?id=38887154) - [Celebrating 30 Years of Blender](https://www.blender.org/news/celebrating-30-years-of-blender/)
 * [2024-01-06, 00:40:37](https://news.ycombinator.com/item?id=38887033) - [Hacker News Screenshot](https://spa.hackernews.xyz/)
+* [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
 * [2024-01-06, 00:22:04](https://news.ycombinator.com/item?id=38886915) - [Carta doing unsolicited tender offer outreach to their customers' investors](https://twitter.com/karrisaarinen/status/1743398553500971331)
 * [2024-01-06, 00:04:24](https://news.ycombinator.com/item?id=38886792) - [2024-01-01 Emacs News](https://sachachua.com/blog/2024/01/2024-01-01-emacs-news/)
