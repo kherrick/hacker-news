@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 16:38:33](https://news.ycombinator.com/item?id=38892819) - [Show HN: I made ChatGPT to rewrite the CV to match the job posting](https://chat.openai.com/g/g-7A4g8Sts5-resume-rewriter)
+* [2024-01-06, 16:26:38](https://news.ycombinator.com/item?id=38892717) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 16:22:58](https://news.ycombinator.com/item?id=38892685) - [Sounds of Cologne – Story of the WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
 * [2024-01-06, 15:32:35](https://news.ycombinator.com/item?id=38892230) - [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
