@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-06, 02:45:11](https://news.ycombinator.com/item?id=38887840) - [Alaska Airlines 737 Max Makes Emergency Landing Due to Depressurization](https://twitter.com/flightradar24/status/1743460035135476030)
 * [2024-01-06, 02:38:37](https://news.ycombinator.com/item?id=38887802) - [Evidence that we have been living in an increasingly risk-averse culture](https://www.writingruxandrabio.com/p/ideas-matter-ii-the-cultural-anxietying)
 * [2024-01-06, 01:56:35](https://news.ycombinator.com/item?id=38887579) - [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
