@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-01-06, 01:50:14",
-      "https://news.ycombinator.com/item?id=38887531"
-    ],
-    [
-      "Nitro: A fast, lightweight inference server with OpenAI-Compatible API",
-      "https://nitro.jan.ai/"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 00:04:24",
       "https://news.ycombinator.com/item?id=38886792"
     ],
@@ -207,6 +197,16 @@
     [
       "We don't need a DAC on the ESP32-S3",
       "https://atomic14.substack.com/p/esp32-s3-no-dac"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 16:36:39",
+      "https://news.ycombinator.com/item?id=38881008"
+    ],
+    [
+      "Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI",
+      "https://gmd.copernicus.org/articles/16/5539/2023/"
     ]
   ],
   [
