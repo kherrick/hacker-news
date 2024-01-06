@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 15:32:35](https://news.ycombinator.com/item?id=38892230) - [My history of economic thought reading list](https://marginalrevolution.com/marginalrevolution/2024/01/my-history-of-economic-thought-reading-list.html)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
+* [2024-01-06, 15:24:04](https://news.ycombinator.com/item?id=38892150) - [Ask HN: Experience Starting a Blog](https://news.ycombinator.com/item?id=38892150)
 * [2024-01-06, 14:32:31](https://news.ycombinator.com/item?id=38891712) - [Live Map of Swiss Trains](https://maps.vasile.ch/transit-sbb/)
 * [2024-01-06, 14:30:12](https://news.ycombinator.com/item?id=38891691) - [Alan Sokal's Joke Is on Us as Postmoderism Comes to Science](https://www.wsj.com/articles/alan-sokals-joke-is-on-us-as-postmoderism-comes-to-science-23a9383c)
 * [2024-01-06, 14:17:09](https://news.ycombinator.com/item?id=38891606) - [Alaska Airlines grounds 737 Max fleet](https://avherald.com/h?article=51354f78)
@@ -17,6 +19,7 @@
 * [2024-01-06, 12:39:18](https://news.ycombinator.com/item?id=38890948) - [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 * [2024-01-06, 12:26:32](https://news.ycombinator.com/item?id=38890873) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2024-01-06, 12:08:05](https://news.ycombinator.com/item?id=38890780) - [Google Search Technique Used by Police Draws New Legal Challenge](https://www.bnnbloomberg.ca/google-search-technique-used-by-police-draws-new-legal-challenge-1.2018433)
+* [2024-01-06, 11:56:08](https://news.ycombinator.com/item?id=38890698) - [Scheme modules vs. whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 11:30:29](https://news.ycombinator.com/item?id=38890540) - [A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
