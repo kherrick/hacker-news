@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
-* [2024-01-06, 04:44:37](https://news.ycombinator.com/item?id=38888500) - [Alaska Airlines Boeing 737-Max suffers window blowout after taking off](https://www.dailymail.co.uk/news/article-12932631/Brand-new-Alaska-Airlines-Boeing-737-Max-suffers-mid-air-window-BLOW-causing-depressurization-ripped-childs-shirt-jet-returned-Portland-Airport-High-tech-jet-suffered-two-deadly-crashes.html)
 * [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-06, 01:56:35](https://news.ycombinator.com/item?id=38887579) - [HortusFox – A self-hosted collaborative plant management system](https://github.com/danielbrendel/hortusfox-web)
 * [2024-01-05, 23:55:40](https://news.ycombinator.com/item?id=38886718) - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
@@ -25,6 +24,7 @@
 * [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
 * [2024-01-04, 23:16:02](https://news.ycombinator.com/item?id=38873635) - [BBN and the Development of the ARPAnet](https://www.freaktakes.com/p/the-third-university-of-cambridge)
 * [2024-01-04, 22:32:55](https://news.ycombinator.com/item?id=38873216) - [How Gyms Make Money (2015)](https://medium.com/bull-market/sweaty-january-and-how-gyms-make-money-7d682ff5eeaf)
+* [2024-01-04, 21:12:34](https://news.ycombinator.com/item?id=38872325) - [Bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-04, 19:20:23](https://news.ycombinator.com/item?id=38871086) - [Niklaus Wirth, 1934-2024: Geek For Life](https://tidyfirst.substack.com/p/niklaus-wirth-1934-2024)
 * [2024-01-04, 12:30:35](https://news.ycombinator.com/item?id=38866170) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 11:48:36](https://news.ycombinator.com/item?id=38865865) - [Human sperm cooperate on the competitive pathway to fertilization: study](https://nautil.us/what-you-dont-know-about-sperm-482001/)
