@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
 * [2024-01-06, 17:58:58](https://news.ycombinator.com/item?id=38893534) - [BYD's YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
 * [2024-01-06, 16:22:58](https://news.ycombinator.com/item?id=38892685) - [Sounds of Cologne – The WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
 * [2024-01-06, 15:25:54](https://news.ycombinator.com/item?id=38892164) - [Tex-Oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
@@ -15,7 +16,6 @@
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
-* [2024-01-06, 04:50:09](https://news.ycombinator.com/item?id=38888527) - [Do we think of Git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-06, 04:32:05](https://news.ycombinator.com/item?id=38888442) - [Focus and Flow: trade-offs in programmer productivity (2021)](https://www.aaronbuxbaum.com/focus-and-flow/)
 * [2024-01-05, 22:41:11](https://news.ycombinator.com/item?id=38886030) - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 19:29:38](https://news.ycombinator.com/item?id=38883568) - [\"Are We Automata?\" by William James (1879)](https://psychclassics.yorku.ca/James/automata.htm)
