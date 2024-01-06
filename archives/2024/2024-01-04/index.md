@@ -75,6 +75,7 @@
 * [2024-01-04, 10:43:14](https://news.ycombinator.com/item?id=38865472) - [Largest archive of online books about religion, mythology, folklore and more](https://sacred-texts.com/)
 * [2024-01-04, 10:39:43](https://news.ycombinator.com/item?id=38865449) - [AI and satellite imagery used to create clearest map of human activity at sea](https://www.theverge.com/2024/1/3/24018797/ocean-maps-ai-satellite-imagery-radar-fishing-vessels-offshore-energy-wind-oil)
 * [2024-01-04, 10:32:43](https://news.ycombinator.com/item?id=38865416) - [Software Technical Writing: A Guidebook [pdf]](https://jamesg.blog/book.pdf)
+* [2024-01-04, 10:32:19](https://news.ycombinator.com/item?id=38865408) - [Book of Kells](https://www.worldhistory.org/Book_of_Kells/)
 * [2024-01-04, 10:20:01](https://news.ycombinator.com/item?id=38865329) - [Whistleblower Aid](https://whistlebloweraid.org/)
 * [2024-01-04, 10:15:19](https://news.ycombinator.com/item?id=38865298) - [The Seneca Effect: Growth is slow but collapse is rapid (2017) [pdf]](https://terebess.hu/keletkultinfo/seneca.pdf)
 * [2024-01-04, 10:04:23](https://news.ycombinator.com/item?id=38865218) - [The Architecture of Open Source Applications: Sendmail](https://aosabook.org/en/v1/sendmail.html)
