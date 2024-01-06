@@ -46,6 +46,7 @@
 * [2024-01-06, 12:08:05](https://news.ycombinator.com/item?id=38890780) - [Google Search Technique Used by Police Draws New Legal Challenge](https://www.bnnbloomberg.ca/google-search-technique-used-by-police-draws-new-legal-challenge-1.2018433)
 * [2024-01-06, 11:56:08](https://news.ycombinator.com/item?id=38890698) - [Scheme modules vs. whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 11:30:29](https://news.ycombinator.com/item?id=38890540) - [A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
+* [2024-01-06, 11:29:06](https://news.ycombinator.com/item?id=38890524) - [History of the Graphical User Interface (GUI): A Wonderful Curse [video]](https://www.youtube.com/watch?v=fHMPGhezj0s)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
