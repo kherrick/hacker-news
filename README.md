@@ -4,7 +4,7 @@
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 * [2024-01-06, 13:15:56](https://news.ycombinator.com/item?id=38891177) - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
-* [2024-01-06, 12:39:18](https://news.ycombinator.com/item?id=38890948) - [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
+* [2024-01-06, 12:26:32](https://news.ycombinator.com/item?id=38890873) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
