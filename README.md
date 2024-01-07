@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)
+* [2024-01-07, 21:11:38](https://news.ycombinator.com/item?id=38905178) - [Mouse secretly filmed tidying man's shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
 * [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
 * [2024-01-07, 20:53:16](https://news.ycombinator.com/item?id=38905019) - [GitUI](https://github.com/extrawurst/gitui)
 * [2024-01-07, 20:36:17](https://news.ycombinator.com/item?id=38904895) - [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
