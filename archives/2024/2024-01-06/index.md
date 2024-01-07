@@ -15,6 +15,7 @@
 * [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 * [2024-01-06, 21:23:00](https://news.ycombinator.com/item?id=38895623) - [Chess-GPT's Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)
 * [2024-01-06, 21:06:08](https://news.ycombinator.com/item?id=38895473) - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
+* [2024-01-06, 20:56:56](https://news.ycombinator.com/item?id=38895373) - [First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
 * [2024-01-06, 20:56:55](https://news.ycombinator.com/item?id=38895372) - [Inverting PhotoDNA](https://anishathalye.com/inverting-photodna/)
 * [2024-01-06, 20:54:15](https://news.ycombinator.com/item?id=38895342) - [Studies suggest that relying on will power is hopeless to eliminate bad habits](https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits)
 * [2024-01-06, 20:33:37](https://news.ycombinator.com/item?id=38895166) - [Web0 Manifesto](https://web0.small-web.org/)
