@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 17:18:23](https://news.ycombinator.com/item?id=38903032) - [Xreal's new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
 * [2024-01-07, 17:01:18](https://news.ycombinator.com/item?id=38902864) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38902864)
 * [2024-01-07, 16:24:14](https://news.ycombinator.com/item?id=38902470) - [True Name – Mastercard](https://www.mastercard.com/news/perspectives/2022/true-name-feature-for-transgender-community/)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 15:55:08](https://news.ycombinator.com/item?id=38902238) - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
 * [2024-01-07, 14:47:22](https://news.ycombinator.com/item?id=38901610) - [Deep Beneath Earth's Surface, Clues to Life's Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
 * [2024-01-07, 14:41:29](https://news.ycombinator.com/item?id=38901566) - [Transputer.net](http://transputer.net/)
+* [2024-01-07, 14:35:52](https://news.ycombinator.com/item?id=38901516) - [IBM Demos Transistor Built for Liquid Nitrogen Cooling](https://spectrum.ieee.org/nanosheet-transistor)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 14:34:33](https://news.ycombinator.com/item?id=38901501) - [(2019)The Long-Forgotten Flight That Sent Boeing Off Course](https://www.theatlantic.com/ideas/archive/2019/11/how-boeing-lost-its-bearings/602188/)
 * [2024-01-07, 14:32:46](https://news.ycombinator.com/item?id=38901484) - [Apple Starts Sending 'Batterygate' Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
