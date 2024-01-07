@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 16:24:14](https://news.ycombinator.com/item?id=38902470) - [True Name – Mastercard](https://www.mastercard.com/news/perspectives/2022/true-name-feature-for-transgender-community/)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 15:55:08](https://news.ycombinator.com/item?id=38902238) - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
 * [2024-01-07, 14:47:22](https://news.ycombinator.com/item?id=38901610) - [Deep Beneath Earth's Surface, Clues to Life's Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
@@ -15,7 +16,6 @@
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
-* [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A legal and moral question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 03:28:51](https://news.ycombinator.com/item?id=38898143) - [The One Billion Row Challenge – .NET Edition](https://github.com/praeclarum/1brc)
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
@@ -25,11 +25,11 @@
 * [2024-01-06, 11:58:44](https://news.ycombinator.com/item?id=38890722) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
 * [2024-01-06, 08:46:12](https://news.ycombinator.com/item?id=38889725) - [Two classic radiosity books now free](https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/)
+* [2024-01-06, 07:19:00](https://news.ycombinator.com/item?id=38889249) - [My 30-Year Quitting Addiction](https://slate.com/human-interest/2024/01/new-years-resolutions-intermittent-fasting-alcohol-caffeine.html)
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
 * [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
 * [2024-01-05, 16:50:33](https://news.ycombinator.com/item?id=38881204) - [Fired comedian ordered to get day job back after jokes ruled 'simply funny'](https://www.vice.com/en/article/m7b4nq/fired-comedian-ordered-to-get-day-job-back-after-jokes-ruled-simply-funny)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
-* [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de l'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
 ## [Archives](archives/index.md)
 
