@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 10:51:07](https://news.ycombinator.com/item?id=38900137) - [SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
 * [2024-01-07, 10:28:30](https://news.ycombinator.com/item?id=38900049) - [Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
+* [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
