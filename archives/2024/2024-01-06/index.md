@@ -73,6 +73,7 @@
 * [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
 * [2024-01-06, 11:30:29](https://news.ycombinator.com/item?id=38890540) - [A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
 * [2024-01-06, 11:29:06](https://news.ycombinator.com/item?id=38890524) - [History of the Graphical User Interface (GUI): A Wonderful Curse [video]](https://www.youtube.com/watch?v=fHMPGhezj0s)
+* [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-06, 10:41:03](https://news.ycombinator.com/item?id=38890284) - [Hard Reset Your Device](https://www.hardreset.info/)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
 * [2024-01-06, 09:13:23](https://news.ycombinator.com/item?id=38889843) - [Imagine mixing beats with just a wave of your hand. Synthy](https://synthy.michaelholborn.com/)

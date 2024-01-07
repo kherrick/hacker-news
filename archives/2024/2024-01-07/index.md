@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 18:20:00](https://news.ycombinator.com/item?id=38903634) - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
+* [2024-01-07, 17:50:54](https://news.ycombinator.com/item?id=38903327) - [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
 * [2024-01-07, 17:48:58](https://news.ycombinator.com/item?id=38903314) - [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
@@ -14,6 +16,7 @@
 * [2024-01-07, 16:16:36](https://news.ycombinator.com/item?id=38902407) - [Irish State announce plan to build a porn preference register for most of the EU](https://www.thegist.ie/the-gist-wtf-commission/)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 15:55:08](https://news.ycombinator.com/item?id=38902238) - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
+* [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
 * [2024-01-07, 14:47:22](https://news.ycombinator.com/item?id=38901610) - [Deep Beneath Earth's Surface, Clues to Life's Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
 * [2024-01-07, 14:41:29](https://news.ycombinator.com/item?id=38901566) - [Transputer.net](http://transputer.net/)
 * [2024-01-07, 14:35:52](https://news.ycombinator.com/item?id=38901516) - [IBM Demos Transistor Built for Liquid Nitrogen Cooling](https://spectrum.ieee.org/nanosheet-transistor)
