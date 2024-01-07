@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 18:20:00](https://news.ycombinator.com/item?id=38903634) - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
 * [2024-01-07, 18:14:11](https://news.ycombinator.com/item?id=38903568) - [Jackery's rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
 * [2024-01-07, 17:50:54](https://news.ycombinator.com/item?id=38903327) - [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
@@ -21,6 +20,7 @@
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
+* [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 * [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes (2019) [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 20:56:56](https://news.ycombinator.com/item?id=38895373) - [First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
 * [2024-01-06, 11:58:44](https://news.ycombinator.com/item?id=38890722) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
