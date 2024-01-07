@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-07, 21:24:17",
+      "https://news.ycombinator.com/item?id=38905280"
+    ],
+    [
+      "When Random Numbers Are Too Random: Low Discrepancy Sequences",
+      "https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 21:12:24",
+      "https://news.ycombinator.com/item?id=38905182"
+    ],
+    [
+      "A self-hosting and educational C optimizing compiler",
+      "https://github.com/sysprog21/shecc"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 21:11:38",
       "https://news.ycombinator.com/item?id=38905178"
     ],
@@ -41,21 +61,11 @@
   ],
   [
     [
-      "2024-01-07, 20:26:01",
-      "https://news.ycombinator.com/item?id=38904816"
-    ],
-    [
-      "Evidence found on DB Cooper tie means plane hijacking mystery could be solved",
-      "https://www.the-sun.com/news/10011770/db-cooper-new-evidence-case-solved-this-year-skyjacking/"
-    ]
-  ],
-  [
-    [
       "2024-01-07, 20:23:15",
       "https://news.ycombinator.com/item?id=38904786"
     ],
     [
-      "The Future of Nuclear Energy in a Carbon-Constrained World (2018)",
+      "The future of nuclear energy in a carbon-constrained world (2018)",
       "https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38904721"
     ],
     [
-      "A concrete example of why Apple's documentation is terrible",
+      "A concrete example of what goes wrong with Apple's docs",
       "https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Pure C WebRTC",
       "https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 19:39:05",
-      "https://news.ycombinator.com/item?id=38904418"
-    ],
-    [
-      "Higher fees, more ads: streaming cashes in by using the old tactics of cable TV",
-      "https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=38903145"
     ],
     [
-      "The immediate victims of the con would rather act as if the con never happened",
+      "The immediate victims of a con would rather act as if the con never happened",
       "https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/"
     ]
   ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-01-07, 06:08:56",
-      "https://news.ycombinator.com/item?id=38898934"
-    ],
-    [
-      "Pocketbase: Open-source back end in one file",
-      "https://pocketbase.io/"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 19:21:06",
       "https://news.ycombinator.com/item?id=38894424"
     ],
@@ -255,18 +245,18 @@
       "https://news.ycombinator.com/item?id=38890489"
     ],
     [
-      "The Usefulness of Useless Knowledge [pdf]",
+      "The Usefulness of Useless Knowledge (1939) [pdf]",
       "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
     ]
   ],
   [
     [
-      "2024-01-06, 08:46:12",
-      "https://news.ycombinator.com/item?id=38889725"
+      "2024-01-06, 10:20:24",
+      "https://news.ycombinator.com/item?id=38890182"
     ],
     [
-      "Two classic radiosity books now free",
-      "https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/"
+      "The ThinkPad P14s",
+      "https://utkarshsingh.xyz/blog/thinkpad-p14s"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Paradise Lost",
       "https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 04:46:35",
+      "https://news.ycombinator.com/item?id=38875778"
+    ],
+    [
+      "Intensionality vs. Intentionality (2002)",
+      "https://cse.buffalo.edu/~rapaport/intensional.html"
     ]
   ]
 ]
