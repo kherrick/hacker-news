@@ -17,7 +17,6 @@
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 * [2024-01-07, 01:38:06](https://news.ycombinator.com/item?id=38897504) - [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
-* [2024-01-06, 23:57:02](https://news.ycombinator.com/item?id=38896879) - [Retro on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 * [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes (2019) [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 20:56:56](https://news.ycombinator.com/item?id=38895373) - [First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
 * [2024-01-06, 17:49:22](https://news.ycombinator.com/item?id=38893456) - [Chess-GPT's Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
@@ -30,6 +29,7 @@
 * [2024-01-05, 16:50:33](https://news.ycombinator.com/item?id=38881204) - [Fired comedian ordered to get day job back after jokes ruled 'simply funny'](https://www.vice.com/en/article/m7b4nq/fired-comedian-ordered-to-get-day-job-back-after-jokes-ruled-simply-funny)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 08:14:05](https://news.ycombinator.com/item?id=38876879) - [Court decision barring Chinese student sends message about espionage risk](https://www.cbc.ca/news/politics/federal-court-china-spy-university-waterloo-1.7074365)
+* [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de l'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
 ## [Archives](archives/index.md)
 
