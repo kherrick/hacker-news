@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
 * [2024-01-07, 20:09:08](https://news.ycombinator.com/item?id=38904663) - ['I have eaten my children. Talk too much, I'll eat you, too': Holodomor accounts](https://nationalpost.com/opinion/i-have-eaten-my-children-talk-too-much-ill-eat-you-too-an-excerpt-from-anne-applebaums-red-famine)
+* [2024-01-07, 19:56:58](https://news.ycombinator.com/item?id=38904584) - [Tesla's First Smart Home Partner Is Samsung SmartThings](https://tech.slashdot.org/story/24/01/05/223218/teslas-first-smart-home-partner-is-samsung-smartthings)
 * [2024-01-07, 19:51:26](https://news.ycombinator.com/item?id=38904532) - [Fairness and kindness are not weaknesses](https://gerrymcgovern.com/fairness-and-kindness-are-not-weaknesses/)
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
@@ -16,6 +17,7 @@
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 * [2024-01-07, 17:32:08](https://news.ycombinator.com/item?id=38903145) - [The immediate victims of the con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
+* [2024-01-07, 17:23:57](https://news.ycombinator.com/item?id=38903074) - [Disney backs down from 'Steamboat Willie' YouTube copyright claim](https://mashable.com/article/disney-pulls-youtube-steamboat-willie-copyright-claim)
 * [2024-01-07, 17:18:23](https://news.ycombinator.com/item?id=38903032) - [Xreal's new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
 * [2024-01-07, 17:12:59](https://news.ycombinator.com/item?id=38902983) - [NHS to investigate Palantir influencer campaign as possible contract breach](https://goodlawproject.org/nhs-to-investigate-palantir-influencer-campaign-as-possible-contract-breach/)
 * [2024-01-07, 17:01:18](https://news.ycombinator.com/item?id=38902864) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38902864)

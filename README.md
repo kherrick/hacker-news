@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-07, 19:51:26](https://news.ycombinator.com/item?id=38904532) - [Fairness and kindness are not weaknesses](https://gerrymcgovern.com/fairness-and-kindness-are-not-weaknesses/)
+* [2024-01-07, 19:56:58](https://news.ycombinator.com/item?id=38904584) - [Tesla's First Smart Home Partner Is Samsung SmartThings](https://tech.slashdot.org/story/24/01/05/223218/teslas-first-smart-home-partner-is-samsung-smartthings)
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
 * [2024-01-07, 18:20:00](https://news.ycombinator.com/item?id=38903634) - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
@@ -9,6 +9,7 @@
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 * [2024-01-07, 17:32:08](https://news.ycombinator.com/item?id=38903145) - [The immediate victims of the con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
+* [2024-01-07, 17:23:57](https://news.ycombinator.com/item?id=38903074) - [Disney backs down from 'Steamboat Willie' YouTube copyright claim](https://mashable.com/article/disney-pulls-youtube-steamboat-willie-copyright-claim)
 * [2024-01-07, 17:12:59](https://news.ycombinator.com/item?id=38902983) - [NHS to investigate Palantir influencer campaign as possible contract breach](https://goodlawproject.org/nhs-to-investigate-palantir-influencer-campaign-as-possible-contract-breach/)
 * [2024-01-07, 17:01:18](https://news.ycombinator.com/item?id=38902864) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38902864)
 * [2024-01-07, 16:16:36](https://news.ycombinator.com/item?id=38902407) - [Irish State announce plan to build a porn preference register for most of the EU](https://www.thegist.ie/the-gist-wtf-commission/)
@@ -27,7 +28,6 @@
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-06, 08:46:12](https://news.ycombinator.com/item?id=38889725) - [Two classic radiosity books now free](https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/)
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
-* [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 
