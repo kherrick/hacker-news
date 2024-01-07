@@ -38,6 +38,7 @@
 * [2024-01-06, 18:04:14](https://news.ycombinator.com/item?id=38893588) - [Universities Are Not on the Level](https://www.joshbarro.com/p/universities-are-not-on-the-level)
 * [2024-01-06, 18:01:58](https://news.ycombinator.com/item?id=38893567) - [Diesel-Electric Conversion Kits for Old Pickups](https://www.thedrive.com/news/diesel-electric-semi-maker-edison-wants-to-sell-pickup-truck-conversion-kits)
 * [2024-01-06, 17:58:58](https://news.ycombinator.com/item?id=38893534) - [BYD's YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
+* [2024-01-06, 17:49:22](https://news.ycombinator.com/item?id=38893456) - [Chess-GPT's Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-01-06, 17:46:29](https://news.ycombinator.com/item?id=38893432) - [Show HN: Filter and Monitor Hacker News Based on Your Interests](https://www.kadoa.com/hacksnack)
 * [2024-01-06, 17:37:26](https://news.ycombinator.com/item?id=38893356) - [End of an Era: Google Groups to Drop Usenet Support](https://www.pcmag.com/news/end-of-an-era-google-groups-to-drop-usenet-support)
 * [2024-01-06, 16:38:33](https://news.ycombinator.com/item?id=38892819) - [Show HN: I made ChatGPT to rewrite the CV to match the job posting](https://chat.openai.com/g/g-7A4g8Sts5-resume-rewriter)
