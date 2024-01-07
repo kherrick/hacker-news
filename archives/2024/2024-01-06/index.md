@@ -10,6 +10,7 @@
 * [2024-01-06, 22:17:37](https://news.ycombinator.com/item?id=38896096) - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
 * [2024-01-06, 22:16:33](https://news.ycombinator.com/item?id=38896075) - [Stream to Chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 * [2024-01-06, 22:15:32](https://news.ycombinator.com/item?id=38896063) - [Show HN: Hacker News User Information on Hover](https://github.com/ConsoleScript/hnuser)
+* [2024-01-06, 22:14:26](https://news.ycombinator.com/item?id=38896052) - [STB: Single-file public domain libraries for C/C++](https://github.com/nothings/stb)
 * [2024-01-06, 22:11:38](https://news.ycombinator.com/item?id=38896027) - [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 * [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 * [2024-01-06, 21:23:00](https://news.ycombinator.com/item?id=38895623) - [Chess-GPT's Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)

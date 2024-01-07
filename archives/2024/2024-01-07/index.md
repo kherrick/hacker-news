@@ -10,6 +10,7 @@
 * [2024-01-07, 03:28:56](https://news.ycombinator.com/item?id=38898145) - [US appeals court prevents California from banning guns in most public places](https://www.reuters.com/legal/us-appeals-court-prevents-california-banning-guns-most-public-places-2024-01-07/)
 * [2024-01-07, 03:24:48](https://news.ycombinator.com/item?id=38898119) - [Tesla lowers Model Y, S, X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [2024-01-07, 02:50:58](https://news.ycombinator.com/item?id=38897960) - [A Planet of Parasites and the Problem with God](https://www.joyfulpessimism.com/p/planet-of-parasites-problem-with-god)
 * [2024-01-07, 02:01:29](https://news.ycombinator.com/item?id=38897638) - [Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction](https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html)
 * [2024-01-07, 01:39:46](https://news.ycombinator.com/item?id=38897510) - [Parable of the Polygons](https://ncase.me/polygons/)
 * [2024-01-07, 01:38:06](https://news.ycombinator.com/item?id=38897504) - [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
