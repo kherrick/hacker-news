@@ -18,6 +18,7 @@
 * [2024-01-07, 20:36:17](https://news.ycombinator.com/item?id=38904895) - [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
 * [2024-01-07, 20:26:01](https://news.ycombinator.com/item?id=38904816) - [Evidence found on DB Cooper tie means plane hijacking mystery could be solved](https://www.the-sun.com/news/10011770/db-cooper-new-evidence-case-solved-this-year-skyjacking/)
 * [2024-01-07, 20:23:15](https://news.ycombinator.com/item?id=38904786) - [The Future of Nuclear Energy in a Carbon-Constrained World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
+* [2024-01-07, 20:19:22](https://news.ycombinator.com/item?id=38904754) - [How I'm writing CSS in 2024](https://leerob.io/blog/css)
 * [2024-01-07, 20:16:09](https://news.ycombinator.com/item?id=38904721) - [A concrete example of why Apple's documentation is terrible](https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/)
 * [2024-01-07, 20:09:08](https://news.ycombinator.com/item?id=38904663) - ['I have eaten my children. Talk too much, I'll eat you, too': Holodomor accounts](https://nationalpost.com/opinion/i-have-eaten-my-children-talk-too-much-ill-eat-you-too-an-excerpt-from-anne-applebaums-red-famine)
 * [2024-01-07, 19:56:58](https://news.ycombinator.com/item?id=38904584) - [Tesla's First Smart Home Partner Is Samsung SmartThings](https://tech.slashdot.org/story/24/01/05/223218/teslas-first-smart-home-partner-is-samsung-smartthings)
