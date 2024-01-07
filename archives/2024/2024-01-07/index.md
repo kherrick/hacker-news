@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+* [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)

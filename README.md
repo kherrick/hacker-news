@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+* [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When random numbers are too random: Low discrepancy sequences (2017)](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
@@ -26,7 +27,6 @@
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-06, 10:20:24](https://news.ycombinator.com/item?id=38890182) - [The ThinkPad P14s](https://utkarshsingh.xyz/blog/thinkpad-p14s)
-* [2024-01-05, 11:26:55](https://news.ycombinator.com/item?id=38877995) - [Building an antilibrary: the power of unread books](https://nesslabs.com/antilibrary)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 * [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
