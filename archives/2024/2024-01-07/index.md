@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
+* [2024-01-07, 15:55:08](https://news.ycombinator.com/item?id=38902238) - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
+* [2024-01-07, 14:47:22](https://news.ycombinator.com/item?id=38901610) - [Deep Beneath Earth's Surface, Clues to Life's Origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
 * [2024-01-07, 14:41:29](https://news.ycombinator.com/item?id=38901566) - [Transputer.net](http://transputer.net/)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 14:34:33](https://news.ycombinator.com/item?id=38901501) - [(2019)The Long-Forgotten Flight That Sent Boeing Off Course](https://www.theatlantic.com/ideas/archive/2019/11/how-boeing-lost-its-bearings/602188/)
