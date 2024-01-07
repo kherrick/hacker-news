@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 14:14:55](https://news.ycombinator.com/item?id=38901330) - [Figure 01 has learned to make coffee](https://twitter.com/Figure_robot/status/1743985067989352827)
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
-* [2024-01-07, 12:51:53](https://news.ycombinator.com/item?id=38900809) - [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)
 * [2024-01-07, 12:35:00](https://news.ycombinator.com/item?id=38900721) - [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
 * [2024-01-07, 12:19:32](https://news.ycombinator.com/item?id=38900632) - [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
 * [2024-01-07, 12:11:32](https://news.ycombinator.com/item?id=38900577) - [Things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 * [2024-01-07, 11:20:59](https://news.ycombinator.com/item?id=38900304) - [AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
 * [2024-01-07, 11:03:28](https://news.ycombinator.com/item?id=38900197) - [The New York Times Launches a Strong Case Against Microsoft and OpenAI](https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/)
-* [2024-01-07, 10:51:07](https://news.ycombinator.com/item?id=38900137) - [SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
+* [2024-01-07, 10:28:30](https://news.ycombinator.com/item?id=38900049) - [Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
@@ -25,11 +25,11 @@
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
 * [2024-01-06, 08:46:12](https://news.ycombinator.com/item?id=38889725) - [Two classic radiosity books now free](https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/)
-* [2024-01-06, 06:40:16](https://news.ycombinator.com/item?id=38889060) - [Discontinued and unreleased Microsoft peripherals revived by licensing deal](https://arstechnica.com/gadgets/2024/01/discontinued-and-unreleased-microsoft-peripherals-revived-by-licensing-deal/)
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
 * [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
 * [2024-01-05, 16:50:33](https://news.ycombinator.com/item?id=38881204) - [Fired comedian ordered to get day job back after jokes ruled 'simply funny'](https://www.vice.com/en/article/m7b4nq/fired-comedian-ordered-to-get-day-job-back-after-jokes-ruled-simply-funny)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
+* [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de l'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
 ## [Archives](archives/index.md)
 
