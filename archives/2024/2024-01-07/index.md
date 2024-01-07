@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
+* [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
 * [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 04:19:08](https://news.ycombinator.com/item?id=38898388) - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
 * [2024-01-07, 04:15:07](https://news.ycombinator.com/item?id=38898370) - [The Unhinged Nature of GTA V Source Code [video]](https://www.youtube.com/watch?v=QZ6rLbu4LQw)

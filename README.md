@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
+* [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
 * [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 04:19:08](https://news.ycombinator.com/item?id=38898388) - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
 * [2024-01-07, 04:15:07](https://news.ycombinator.com/item?id=38898370) - [The Unhinged Nature of GTA V Source Code [video]](https://www.youtube.com/watch?v=QZ6rLbu4LQw)
@@ -19,7 +21,6 @@
 * [2024-01-06, 19:22:41](https://news.ycombinator.com/item?id=38894445) - [The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima (2012)](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:02:35](https://news.ycombinator.com/item?id=38894208) - [Adventures of Linux Userspace at Meta [video]](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
-* [2024-01-06, 18:36:34](https://news.ycombinator.com/item?id=38893909) - [FAA orders grounding of more than 170 Boeing 737 Max 9s](https://www.cnbc.com/2024/01/06/boeing-737-max-9-grounding-after-alaska-airlines-door-blows-midflight.html)
 * [2024-01-06, 18:13:52](https://news.ycombinator.com/item?id=38893684) - [Westworld: The first film with CGI (and its source code)](https://behind-the-screens.tv/#ww1)
 * [2024-01-06, 18:06:24](https://news.ycombinator.com/item?id=38893614) - [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems)
 * [2024-01-06, 17:58:58](https://news.ycombinator.com/item?id=38893534) - [BYD's YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
@@ -27,7 +28,6 @@
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
-* [2024-01-05, 19:29:38](https://news.ycombinator.com/item?id=38883568) - [\"Are We Automata?\" by William James (1879)](https://psychclassics.yorku.ca/James/automata.htm)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
