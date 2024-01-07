@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 12:51:53",
+      "https://news.ycombinator.com/item?id=38900809"
+    ],
+    [
+      "One year ago we flooded a forest [video]",
+      "https://www.youtube.com/watch?v=-q7z8sm5UaM"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 12:11:32",
       "https://news.ycombinator.com/item?id=38900577"
     ],
@@ -37,16 +47,6 @@
     [
       "Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet",
       "https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 10:24:15",
-      "https://news.ycombinator.com/item?id=38900036"
-    ],
-    [
-      "Americans living in their cars are finding refuge in 'safe parking lots'",
-      "https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2024-01-06, 22:14:26",
-      "https://news.ycombinator.com/item?id=38896052"
-    ],
-    [
-      "STB: Single-file public domain libraries for C/C++",
-      "https://github.com/nothings/stb"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 20:56:56",
       "https://news.ycombinator.com/item?id=38895373"
     ],
     [
       "First tunnel to a magma chamber could supercharge geothermal power",
       "https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 17:49:22",
+      "https://news.ycombinator.com/item?id=38893456"
+    ],
+    [
+      "Chess-GPT's Internal World Model",
+      "https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html"
     ]
   ],
   [
