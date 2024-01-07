@@ -70,6 +70,7 @@
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
 * [2024-01-05, 10:55:12](https://news.ycombinator.com/item?id=38877753) - [Something a lot like Pokemon Yellow](https://roganmurley.com/2024/01/02/something-a-lot-like-pokemon-yellow.html)
+* [2024-01-05, 10:33:32](https://news.ycombinator.com/item?id=38877604) - [Ask HN: Looking for a DJ Program](https://news.ycombinator.com/item?id=38877604)
 * [2024-01-05, 10:22:20](https://news.ycombinator.com/item?id=38877537) - [The Life of a Data Byte (2020)](https://blog.jessfraz.com/post/the-life-of-a-data-byte/)
 * [2024-01-05, 10:03:27](https://news.ycombinator.com/item?id=38877423) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-05, 09:59:37](https://news.ycombinator.com/item?id=38877399) - [RR – Railroad Diagram Generator](https://github.com/GuntherRademacher/rr)
