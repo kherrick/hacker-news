@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 01:33:32",
+      "https://news.ycombinator.com/item?id=38897475"
+    ],
+    [
+      "US unemployment has been under 4% for the longest streak since the Vietnam War",
+      "https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 23:59:47",
       "https://news.ycombinator.com/item?id=38896896"
     ],
@@ -87,16 +97,6 @@
     [
       "A Tale of Two Teenagers and the challenges of gifted students",
       "https://www.aporiamagazine.com/p/a-tale-of-two-teenagers"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 20:08:28",
-      "https://news.ycombinator.com/item?id=38894920"
-    ],
-    [
-      "Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro",
-      "https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-01-06, 14:33:00",
-      "https://news.ycombinator.com/item?id=38891721"
-    ],
-    [
-      "Adélie Linux",
-      "https://www.adelielinux.org/about/"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 13:46:49",
       "https://news.ycombinator.com/item?id=38891380"
     ],
@@ -271,6 +261,26 @@
   ],
   [
     [
+      "2024-01-06, 09:07:09",
+      "https://news.ycombinator.com/item?id=38889820"
+    ],
+    [
+      "Csvlens: Command line CSV file viewer. Like less but made for CSV",
+      "https://github.com/YS-L/csvlens"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 06:07:09",
+      "https://news.ycombinator.com/item?id=38888897"
+    ],
+    [
+      "AMD's 22-year-old GPUs still getting driver updates thanks to the FOSS community",
+      "https://www.tomshardware.com/pc-components/gpus/amd-22-year-old-gpus-are-still-getting-driver-updates-atis-r300-r500-from-the-early-2000s-live-on-in-linux-driver-patches-thanks-to-the-open-source-community"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 00:24:18",
       "https://news.ycombinator.com/item?id=38886935"
     ],
@@ -287,16 +297,6 @@
     [
       "Rue de L'Avenir",
       "https://en.wikipedia.org/wiki/Rue_de_l%27Avenir"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 10:43:14",
-      "https://news.ycombinator.com/item?id=38865472"
-    ],
-    [
-      "Internet Sacred Text Archive",
-      "https://sacred-texts.com/"
     ]
   ]
 ]
