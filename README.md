@@ -3,7 +3,7 @@
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
-* [2024-01-07, 04:19:08](https://news.ycombinator.com/item?id=38898388) - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
+* [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A legal and moral question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 * [2024-01-07, 01:39:46](https://news.ycombinator.com/item?id=38897510) - [Parable of the Polygons (2014)](https://ncase.me/polygons/)
 * [2024-01-07, 01:38:06](https://news.ycombinator.com/item?id=38897504) - [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
