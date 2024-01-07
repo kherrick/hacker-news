@@ -28,6 +28,7 @@
 * [2024-01-06, 19:43:12](https://news.ycombinator.com/item?id=38894631) - [NuScale Lays off 40% of its Staff](https://neutronbytes.com/2024/01/05/nuscale-lays-off-40-of-its-staff/)
 * [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
 * [2024-01-06, 19:22:41](https://news.ycombinator.com/item?id=38894445) - [The Everything NPM Package](https://socket.dev/blog/when-everything-becomes-too-much)
+* [2024-01-06, 19:21:06](https://news.ycombinator.com/item?id=38894424) - [Optimizing the unoptimizable: a journey to faster C++ compile times](https://vitaut.net/posts/2024/faster-cpp-compile-times/)
 * [2024-01-06, 19:19:03](https://news.ycombinator.com/item?id=38894397) - [Ultima](https://www.filfre.net/2012/02/ultima-part-1/)
 * [2024-01-06, 19:12:40](https://news.ycombinator.com/item?id=38894324) - [LLaMA-Pro-8B](https://huggingface.co/TencentARC/LLaMA-Pro-8B)
 * [2024-01-06, 19:02:35](https://news.ycombinator.com/item?id=38894208) - [Adventures of Linux Userspace at Meta [video]](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
