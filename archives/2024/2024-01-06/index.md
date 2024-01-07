@@ -78,6 +78,7 @@
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 08:55:43](https://news.ycombinator.com/item?id=38889774) - [Alaska Airlines grounds Boeing 737 Max 9 planes after mid-air window blowout](https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout)
+* [2024-01-06, 08:46:12](https://news.ycombinator.com/item?id=38889725) - [Two classic radiosity books now free](https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/)
 * [2024-01-06, 08:28:20](https://news.ycombinator.com/item?id=38889647) - [Hemp Batteries Revolutionize Energy Storage](https://formulaswiss.com/blogs/industry-news/the-future-of-batteries-hemp)
 * [2024-01-06, 08:12:09](https://news.ycombinator.com/item?id=38889539) - [Microsoft Phi-2 model changes licence to MIT](https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d)
 * [2024-01-06, 07:02:33](https://news.ycombinator.com/item?id=38889156) - [Systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
