@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-06, 23:59:47",
+      "https://news.ycombinator.com/item?id=38896896"
+    ],
+    [
+      "Original Age of Empires 2 dev talks about its usage of assembly code",
+      "https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 23:57:02",
+      "https://news.ycombinator.com/item?id=38896879"
+    ],
+    [
+      "On building a semantic search engine",
+      "https://vickiboykis.com/2024/01/05/retro-on-viberary/"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 22:24:53",
+      "https://news.ycombinator.com/item?id=38896157"
+    ],
+    [
+      "Dimensional Analysis and Black Holes [pdf]",
+      "https://hapax.github.io/assets/dimensional-analysis.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 22:17:37",
       "https://news.ycombinator.com/item?id=38896096"
     ],
@@ -11,22 +41,22 @@
   ],
   [
     [
-      "2024-01-06, 22:15:32",
-      "https://news.ycombinator.com/item?id=38896063"
-    ],
-    [
-      "Show HN: Hacker News User Information on Hover",
-      "https://github.com/ConsoleScript/hnuser"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 22:11:38",
       "https://news.ycombinator.com/item?id=38896027"
     ],
     [
       "Ten Noteworthy AI Research Papers of 2023",
       "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 21:23:00",
+      "https://news.ycombinator.com/item?id=38895623"
+    ],
+    [
+      "Chess-GPT's Internal World Model",
+      "https://github.com/adamkarvonen/chess_llm_interpretability"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2024-01-06, 20:54:15",
-      "https://news.ycombinator.com/item?id=38895342"
+      "2024-01-06, 20:09:41",
+      "https://news.ycombinator.com/item?id=38894933"
     ],
     [
-      "Studies suggest that relying on will power to break habits is hopeless (2019)",
-      "https://www.newyorker.com/magazine/2019/10/28/can-brain-science-help-us-break-bad-habits"
+      "A Tale of Two Teenagers and the challenges of gifted students",
+      "https://www.aporiamagazine.com/p/a-tale-of-two-teenagers"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Thorium – The first browser to score over 600 speedometer points on a Mac M3 Pro",
       "https://github.com/Alex313031/Thorium-MacOS/releases/tag/M119.0.6045.214"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 19:43:31",
-      "https://news.ycombinator.com/item?id=38894636"
-    ],
-    [
-      "Lancet journal retracts article on hearing aids and dementia after prodding",
-      "https://retractionwatch.com/2024/01/04/we-should-have-followed-up-lancet-journal-retracts-article-on-hearing-aids-and-dementia-after-prodding/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-01-06, 15:25:54",
-      "https://news.ycombinator.com/item?id=38892164"
-    ],
-    [
-      "Tex-Oberon: Make Project Oberon Pretty Again",
-      "https://github.com/guidoism/tex-oberon"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 15:12:57",
       "https://news.ycombinator.com/item?id=38892044"
     ],
@@ -197,6 +207,16 @@
     [
       "Adélie Linux",
       "https://www.adelielinux.org/about/"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 13:46:49",
+      "https://news.ycombinator.com/item?id=38891380"
+    ],
+    [
+      "A Mess of Causes",
+      "https://bwo.life/bk/cause.htm"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Chromium bug bounty money tree browser",
       "https://lyra.horse/misc/chromium_vrp_tree.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 09:07:09",
-      "https://news.ycombinator.com/item?id=38889820"
-    ],
-    [
-      "Csvlens: Command line CSV file viewer. Like less but made for CSV",
-      "https://github.com/YS-L/csvlens"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 05:45:03",
-      "https://news.ycombinator.com/item?id=38888782"
-    ],
-    [
-      "Ant behavior inspires autonomous material assembly research",
-      "https://phys.org/news/2024-01-ant-behavior-autonomous-material.html"
     ]
   ],
   [
