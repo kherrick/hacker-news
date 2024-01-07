@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-07, 01:33:32](https://news.ycombinator.com/item?id=38897475) - [US unemployment has been under 4% for the longest streak since the Vietnam War](https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages)
+* [2024-01-07, 01:15:58](https://news.ycombinator.com/item?id=38897363) - [Carta CEO's response to the unsolicited outreach to their customers' investors](https://twitter.com/henrysward/status/1743794996732735679)
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
 * [2024-01-06, 23:57:02](https://news.ycombinator.com/item?id=38896879) - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 * [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 22:17:37](https://news.ycombinator.com/item?id=38896096) - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
 * [2024-01-06, 22:11:38](https://news.ycombinator.com/item?id=38896027) - [Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
-* [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 * [2024-01-06, 21:23:00](https://news.ycombinator.com/item?id=38895623) - [Chess-GPT's Internal World Model](https://github.com/adamkarvonen/chess_llm_interpretability)
 * [2024-01-06, 21:06:08](https://news.ycombinator.com/item?id=38895473) - [UIDesignDaily 4 years later, 1600 open-source designs](https://www.uidesigndaily.com/)
 * [2024-01-06, 20:56:55](https://news.ycombinator.com/item?id=38895372) - [Inverting PhotoDNA](https://anishathalye.com/inverting-photodna/)
