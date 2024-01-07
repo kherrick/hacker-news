@@ -3,7 +3,6 @@
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
 * [2024-01-07, 18:20:00](https://news.ycombinator.com/item?id=38903634) - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
-* [2024-01-07, 18:14:11](https://news.ycombinator.com/item?id=38903568) - [Jackery's rooftop tent is also a powerful solar generator](https://www.theverge.com/2024/1/6/24027729/jackerys-rooftop-tent-solar-generator-ces-concept-date)
 * [2024-01-07, 17:50:54](https://news.ycombinator.com/item?id=38903327) - [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
 * [2024-01-07, 17:48:58](https://news.ycombinator.com/item?id=38903314) - [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
@@ -28,6 +27,7 @@
 * [2024-01-06, 08:46:12](https://news.ycombinator.com/item?id=38889725) - [Two classic radiosity books now free](https://www.realtimerendering.com/blog/two-classic-radiosity-books-now-free/)
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
 * [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
+* [2024-01-05, 11:42:38](https://news.ycombinator.com/item?id=38878103) - [Navajo Nation request to delay private mission placing human remains on the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 
