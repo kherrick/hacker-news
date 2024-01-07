@@ -88,6 +88,7 @@
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-05, 07:21:44](https://news.ycombinator.com/item?id=38876617) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
+* [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 * [2024-01-05, 06:38:28](https://news.ycombinator.com/item?id=38876419) - [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books Fatal to Their Authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
 * [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
