@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 20:16:09](https://news.ycombinator.com/item?id=38904721) - [A concrete example of why Apple's documentation is terrible](https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/)
 * [2024-01-07, 20:09:08](https://news.ycombinator.com/item?id=38904663) - ['I have eaten my children. Talk too much, I'll eat you, too': Holodomor accounts](https://nationalpost.com/opinion/i-have-eaten-my-children-talk-too-much-ill-eat-you-too-an-excerpt-from-anne-applebaums-red-famine)
 * [2024-01-07, 19:56:58](https://news.ycombinator.com/item?id=38904584) - [Tesla's First Smart Home Partner Is Samsung SmartThings](https://tech.slashdot.org/story/24/01/05/223218/teslas-first-smart-home-partner-is-samsung-smartthings)
 * [2024-01-07, 19:51:26](https://news.ycombinator.com/item?id=38904532) - [Fairness and kindness are not weaknesses](https://gerrymcgovern.com/fairness-and-kindness-are-not-weaknesses/)
