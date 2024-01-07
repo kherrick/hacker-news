@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=38905280"
     ],
     [
-      "When Random Numbers Are Too Random: Low Discrepancy Sequences",
+      "When random numbers are too random: Low discrepancy sequences (2017)",
       "https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38905182"
     ],
     [
-      "A self-hosting and educational C optimizing compiler",
+      "Shecc: A self-hosting and educational C optimizing compiler",
       "https://github.com/sysprog21/shecc"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=38905178"
     ],
     [
-      "Mouse secretly filmed tidying man's shed every night",
+      "Mouse filmed tidying man's shed every night",
       "https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Meticulous (YC S21) is hiring to replace UI testing",
       "https://news.ycombinator.com/item?id=38905095"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 20:56:48",
+      "https://news.ycombinator.com/item?id=38905046"
+    ],
+    [
+      "Japan's earthquake alters coastline, extends it by two football fields",
+      "https://www.businessinsider.com/photos-japan-coastline-recedes-after-quake-2024-1"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-01-07, 17:45:36",
+      "https://news.ycombinator.com/item?id=38903276"
+    ],
+    [
+      "The Erlang Ecosystem (2018) [video]",
+      "https://www.youtube.com/watch?v=7AJR66p5E4s"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 17:38:59",
       "https://news.ycombinator.com/item?id=38903216"
     ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=38901610"
     ],
     [
-      "Deep Beneath Earth's Surface, Clues to Life's Origins",
+      "Deep beneath earth's surface, clues to life's origins",
       "https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/"
     ]
   ],
@@ -205,7 +225,7 @@
       "https://news.ycombinator.com/item?id=38901012"
     ],
     [
-      "First new vax in 30 years? (2021)",
+      "First new VAX in 30 years? (2021)",
       "https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html"
     ]
   ],
@@ -217,26 +237,6 @@
     [
       "DNS Toys (2022)",
       "https://www.dns.toys/"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 19:21:06",
-      "https://news.ycombinator.com/item?id=38894424"
-    ],
-    [
-      "Optimizing the unoptimizable: a journey to faster C++ compile times",
-      "https://vitaut.net/posts/2024/faster-cpp-compile-times/"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 11:58:44",
-      "https://news.ycombinator.com/item?id=38890722"
-    ],
-    [
-      "What the heck is a homomorphic mapped type?",
-      "https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/"
     ]
   ],
   [
