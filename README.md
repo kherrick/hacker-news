@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When random numbers are too random: Low discrepancy sequences (2017)](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 21:11:38](https://news.ycombinator.com/item?id=38905178) - [Mouse filmed tidying man's shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
@@ -14,7 +15,6 @@
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem (2018) [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 * [2024-01-07, 17:32:08](https://news.ycombinator.com/item?id=38903145) - [The immediate victims of a con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
-* [2024-01-07, 17:23:57](https://news.ycombinator.com/item?id=38903074) - [Disney backs down from 'Steamboat Willie' YouTube copyright claim](https://mashable.com/article/disney-pulls-youtube-steamboat-willie-copyright-claim)
 * [2024-01-07, 17:18:23](https://news.ycombinator.com/item?id=38903032) - [Xreal's new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper (2021)](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 14:47:22](https://news.ycombinator.com/item?id=38901610) - [Deep beneath earth's surface, clues to life's origins](https://www.quantamagazine.org/deep-beneath-earths-surface-clues-to-lifes-origins-20240104/)
