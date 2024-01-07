@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 14:32:46](https://news.ycombinator.com/item?id=38901484) - [Apple Starts Sending 'Batterygate' Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
 * [2024-01-07, 14:14:55](https://news.ycombinator.com/item?id=38901330) - [Figure 01 has learned to make coffee](https://twitter.com/Figure_robot/status/1743985067989352827)
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 * [2024-01-07, 12:51:53](https://news.ycombinator.com/item?id=38900809) - [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)

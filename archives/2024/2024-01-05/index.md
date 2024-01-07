@@ -82,6 +82,7 @@
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 * [2024-01-05, 08:48:58](https://news.ycombinator.com/item?id=38877059) - [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
+* [2024-01-05, 08:14:05](https://news.ycombinator.com/item?id=38876879) - [Court decision barring Chinese student sends message about espionage risk](https://www.cbc.ca/news/politics/federal-court-china-spy-university-waterloo-1.7074365)
 * [2024-01-05, 08:10:50](https://news.ycombinator.com/item?id=38876863) - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2024-01-05, 07:40:53](https://news.ycombinator.com/item?id=38876707) - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 * [2024-01-05, 07:21:44](https://news.ycombinator.com/item?id=38876617) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
