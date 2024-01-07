@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-07, 10:51:07",
+      "https://news.ycombinator.com/item?id=38900137"
+    ],
+    [
+      "SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites",
+      "https://m.slashdot.org/story/423439"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 10:28:30",
       "https://news.ycombinator.com/item?id=38900049"
     ],
     [
       "Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet",
       "https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 10:24:15",
+      "https://news.ycombinator.com/item?id=38900036"
+    ],
+    [
+      "Americans living in their cars are finding refuge in 'safe parking lots'",
+      "https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-01-07, 01:39:46",
-      "https://news.ycombinator.com/item?id=38897510"
-    ],
-    [
-      "Parable of the Polygons (2014)",
-      "https://ncase.me/polygons/"
-    ]
-  ],
-  [
-    [
       "2024-01-07, 01:38:06",
       "https://news.ycombinator.com/item?id=38897504"
     ],
@@ -137,16 +147,6 @@
     [
       "Libwebsockets: pure C library for http, websockets, MQTT",
       "https://github.com/warmcat/libwebsockets"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 22:16:33",
-      "https://news.ycombinator.com/item?id=38896075"
-    ],
-    [
-      "Stream to Chromecast with resolved, vlc and bash",
-      "https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/"
     ]
   ],
   [
