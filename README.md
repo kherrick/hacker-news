@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)
 * [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
 * [2024-01-07, 20:53:16](https://news.ycombinator.com/item?id=38905019) - [GitUI](https://github.com/extrawurst/gitui)
 * [2024-01-07, 20:36:17](https://news.ycombinator.com/item?id=38904895) - [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
@@ -11,7 +12,6 @@
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
 * [2024-01-07, 19:12:26](https://news.ycombinator.com/item?id=38904180) - [Live Objects All the Way Down: Removing the Barriers Between Apps and VMs](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
-* [2024-01-07, 17:50:54](https://news.ycombinator.com/item?id=38903327) - [How the first fourth-generation nuclear power plant works](https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 * [2024-01-07, 17:32:08](https://news.ycombinator.com/item?id=38903145) - [The immediate victims of the con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
 * [2024-01-07, 17:23:57](https://news.ycombinator.com/item?id=38903074) - [Disney backs down from 'Steamboat Willie' YouTube copyright claim](https://mashable.com/article/disney-pulls-youtube-steamboat-willie-copyright-claim)
