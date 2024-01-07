@@ -66,6 +66,7 @@
 * [2024-01-06, 12:39:18](https://news.ycombinator.com/item?id=38890948) - [AI Is Already Killing Books](https://matduggan.com/ai-is-gonna-kill-books/)
 * [2024-01-06, 12:26:32](https://news.ycombinator.com/item?id=38890873) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2024-01-06, 12:08:05](https://news.ycombinator.com/item?id=38890780) - [Google Search Technique Used by Police Draws New Legal Challenge](https://www.bnnbloomberg.ca/google-search-technique-used-by-police-draws-new-legal-challenge-1.2018433)
+* [2024-01-06, 11:58:44](https://news.ycombinator.com/item?id=38890722) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 11:56:08](https://news.ycombinator.com/item?id=38890698) - [Scheme modules vs. whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 11:54:34](https://news.ycombinator.com/item?id=38890688) - [Let's Bring Back JavaScript's `With()` Statement](https://macarthur.me/posts/with)
