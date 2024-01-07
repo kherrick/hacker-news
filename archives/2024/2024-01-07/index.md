@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 17:01:18](https://news.ycombinator.com/item?id=38902864) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38902864)
 * [2024-01-07, 16:24:14](https://news.ycombinator.com/item?id=38902470) - [True Name – Mastercard](https://www.mastercard.com/news/perspectives/2022/true-name-feature-for-transgender-community/)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 15:55:08](https://news.ycombinator.com/item?id=38902238) - [How Does FreeBSD Compare to Linux on a Raspberry Pi?](https://m.slashdot.org/story/423462)
