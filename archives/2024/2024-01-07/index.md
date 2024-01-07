@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 04:19:08](https://news.ycombinator.com/item?id=38898388) - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
 * [2024-01-07, 04:15:07](https://news.ycombinator.com/item?id=38898370) - [The Unhinged Nature of GTA V Source Code [video]](https://www.youtube.com/watch?v=QZ6rLbu4LQw)
 * [2024-01-07, 03:58:16](https://news.ycombinator.com/item?id=38898287) - [California to enforce 'gender neutral' toy aisles in large stores](https://www.bbc.com/news/world-us-canada-58879461)
