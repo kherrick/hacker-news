@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
-* [2024-01-07, 21:00:30](https://news.ycombinator.com/item?id=38905085) - [Why Tech Needs a Rational, Humanistic \"Third Way\"](https://cosmosinstitute.substack.com/p/existential-pessimism-vs-accelerationism)
 * [2024-01-07, 20:53:16](https://news.ycombinator.com/item?id=38905019) - [GitUI](https://github.com/extrawurst/gitui)
 * [2024-01-07, 20:36:17](https://news.ycombinator.com/item?id=38904895) - [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
+* [2024-01-07, 20:26:01](https://news.ycombinator.com/item?id=38904816) - [Evidence found on DB Cooper tie means plane hijacking mystery could be solved](https://www.the-sun.com/news/10011770/db-cooper-new-evidence-case-solved-this-year-skyjacking/)
 * [2024-01-07, 20:23:15](https://news.ycombinator.com/item?id=38904786) - [The Future of Nuclear Energy in a Carbon-Constrained World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
 * [2024-01-07, 20:16:09](https://news.ycombinator.com/item?id=38904721) - [A concrete example of why Apple's documentation is terrible](https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/)
 * [2024-01-07, 19:55:54](https://news.ycombinator.com/item?id=38904574) - [Pure C WebRTC](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
