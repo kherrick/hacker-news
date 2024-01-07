@@ -77,6 +77,7 @@
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-06, 10:41:03](https://news.ycombinator.com/item?id=38890284) - [Hard Reset Your Device](https://www.hardreset.info/)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
+* [2024-01-06, 10:20:24](https://news.ycombinator.com/item?id=38890182) - [The ThinkPad P14s](https://utkarshsingh.xyz/blog/thinkpad-p14s)
 * [2024-01-06, 09:13:23](https://news.ycombinator.com/item?id=38889843) - [Imagine mixing beats with just a wave of your hand. Synthy](https://synthy.michaelholborn.com/)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 * [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)

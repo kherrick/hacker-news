@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)
+* [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 21:11:38](https://news.ycombinator.com/item?id=38905178) - [Mouse secretly filmed tidying man's shed every night](https://www.theguardian.com/world/2024/jan/07/mouse-secretly-filmed-tidying-mans-shed-every-night)
 * [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
 * [2024-01-07, 21:00:30](https://news.ycombinator.com/item?id=38905085) - [Why Tech Needs a Rational, Humanistic \"Third Way\"](https://cosmosinstitute.substack.com/p/existential-pessimism-vs-accelerationism)
