@@ -2,7 +2,7 @@
 
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
-* [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+* [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is non-zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When random numbers are too random: Low discrepancy sequences (2017)](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
