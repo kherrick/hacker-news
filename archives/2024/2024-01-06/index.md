@@ -6,6 +6,7 @@
 
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
 * [2024-01-06, 23:57:02](https://news.ycombinator.com/item?id=38896879) - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+* [2024-01-06, 23:43:13](https://news.ycombinator.com/item?id=38896787) - [1195725856 and other mysterious numbers (2020)](https://chrisdown.name/2020/01/13/1195725856-and-friends-the-origins-of-mysterious-numbers.html)
 * [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 22:17:37](https://news.ycombinator.com/item?id=38896096) - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
 * [2024-01-06, 22:16:33](https://news.ycombinator.com/item?id=38896075) - [Stream to Chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
@@ -68,6 +69,7 @@
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 11:56:08](https://news.ycombinator.com/item?id=38890698) - [Scheme modules vs. whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 11:54:34](https://news.ycombinator.com/item?id=38890688) - [Let's Bring Back JavaScript's `With()` Statement](https://macarthur.me/posts/with)
+* [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
 * [2024-01-06, 11:30:29](https://news.ycombinator.com/item?id=38890540) - [A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
 * [2024-01-06, 11:29:06](https://news.ycombinator.com/item?id=38890524) - [History of the Graphical User Interface (GUI): A Wonderful Curse [video]](https://www.youtube.com/watch?v=fHMPGhezj0s)
 * [2024-01-06, 10:30:31](https://news.ycombinator.com/item?id=38890238) - [The Dubious Economics of Deep-Sea Mining](https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/)
