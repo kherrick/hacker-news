@@ -2,6 +2,7 @@
 
 * [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 04:19:08](https://news.ycombinator.com/item?id=38898388) - [Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM](https://www.nvidia.com/en-us/design-visualization/rtx-5880/)
+* [2024-01-07, 04:15:07](https://news.ycombinator.com/item?id=38898370) - [The Unhinged Nature of GTA V Source Code [video]](https://www.youtube.com/watch?v=QZ6rLbu4LQw)
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [2024-01-07, 02:50:58](https://news.ycombinator.com/item?id=38897960) - [A Planet of Parasites and the Problem with God](https://www.joyfulpessimism.com/p/planet-of-parasites-problem-with-god)
 * [2024-01-07, 01:39:46](https://news.ycombinator.com/item?id=38897510) - [Parable of the Polygons](https://ncase.me/polygons/)
@@ -23,7 +24,6 @@
 * [2024-01-06, 18:06:24](https://news.ycombinator.com/item?id=38893614) - [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems)
 * [2024-01-06, 17:58:58](https://news.ycombinator.com/item?id=38893534) - [BYD's YangWang U8 launched, can float on water for 30 minutes and sail 3km/h](https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/)
 * [2024-01-06, 16:22:58](https://news.ycombinator.com/item?id=38892685) - [Sounds of Cologne – The WDR Studio for Electronic Music](https://artsandculture.google.com/story/sounds-of-cologne-wdr/gQWRzsVclcCYPA?hl=en)
-* [2024-01-06, 15:12:57](https://news.ycombinator.com/item?id=38892044) - [IRS to begin trial of its own free tax-filing system](https://www.nytimes.com/2024/01/05/your-money/irs-tax-filing-free-online.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
