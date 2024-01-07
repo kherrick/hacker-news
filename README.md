@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-07, 03:24:48](https://news.ycombinator.com/item?id=38898119) - [Tesla lowers Model Y, S, X range estimations following exaggeration complaints](https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration)
+* [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
 * [2024-01-07, 01:39:46](https://news.ycombinator.com/item?id=38897510) - [Parable of the Polygons](https://ncase.me/polygons/)
-* [2024-01-07, 01:33:32](https://news.ycombinator.com/item?id=38897475) - [US unemployment has been under 4% for the longest streak since the Vietnam War](https://www.npr.org/2024/01/05/1222714145/jobs-report-december-labor-wages)
 * [2024-01-07, 01:15:58](https://news.ycombinator.com/item?id=38897363) - [Carta CEO's response to the unsolicited outreach to their customers' investors](https://twitter.com/henrysward/status/1743794996732735679)
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
 * [2024-01-06, 23:57:02](https://news.ycombinator.com/item?id=38896879) - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
@@ -25,7 +26,6 @@
 * [2024-01-06, 13:46:49](https://news.ycombinator.com/item?id=38891380) - [A Mess of Causes](https://bwo.life/bk/cause.htm)
 * [2024-01-06, 12:26:32](https://news.ycombinator.com/item?id=38890873) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2024-01-06, 09:10:47](https://news.ycombinator.com/item?id=38889833) - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
-* [2024-01-06, 09:07:09](https://news.ycombinator.com/item?id=38889820) - [Csvlens: Command line CSV file viewer. Like less but made for CSV](https://github.com/YS-L/csvlens)
 * [2024-01-06, 06:07:09](https://news.ycombinator.com/item?id=38888897) - [AMD's 22-year-old GPUs still getting driver updates thanks to the FOSS community](https://www.tomshardware.com/pc-components/gpus/amd-22-year-old-gpus-are-still-getting-driver-updates-atis-r300-r500-from-the-early-2000s-live-on-in-linux-driver-patches-thanks-to-the-open-source-community)
 * [2024-01-06, 00:24:18](https://news.ycombinator.com/item?id=38886935) - [The Perils and Pleasures of Bartending in Antarctica (2017)](https://www.atlasobscura.com/articles/bartender-antarctica-south-pole)
 * [2024-01-05, 08:36:05](https://news.ycombinator.com/item?id=38876991) - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
