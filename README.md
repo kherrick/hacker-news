@@ -18,7 +18,7 @@
 * [2024-01-06, 22:14:26](https://news.ycombinator.com/item?id=38896052) - [STB: Single-file public domain libraries for C/C++](https://github.com/nothings/stb)
 * [2024-01-06, 20:56:56](https://news.ycombinator.com/item?id=38895373) - [First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
 * [2024-01-06, 20:56:55](https://news.ycombinator.com/item?id=38895372) - [Inverting PhotoDNA (2021)](https://anishathalye.com/inverting-photodna/)
-* [2024-01-06, 19:31:40](https://news.ycombinator.com/item?id=38894532) - [The Light Herder and the Fractal Time Machine](https://www.thelightherder.com/)
+* [2024-01-06, 17:49:22](https://news.ycombinator.com/item?id=38893456) - [Chess-GPT's Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-01-06, 13:46:49](https://news.ycombinator.com/item?id=38891380) - [A Mess of Causes (2023)](https://bwo.life/bk/cause.htm)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
