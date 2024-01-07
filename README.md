@@ -6,7 +6,6 @@
 * [2024-01-07, 17:48:58](https://news.ycombinator.com/item?id=38903314) - [Windows XP 2024 Edition is everything I want from a new OS](https://overclock3d.net/news/software/windows-xp-2024-edition-is-everything-i-want-from-a-new-os/)
 * [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
-* [2024-01-07, 17:18:23](https://news.ycombinator.com/item?id=38903032) - [Xreal's new AR glasses are aimed at the Apple Vision Pro](https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability)
 * [2024-01-07, 17:12:59](https://news.ycombinator.com/item?id=38902983) - [NHS to investigate Palantir influencer campaign as possible contract breach](https://goodlawproject.org/nhs-to-investigate-palantir-influencer-campaign-as-possible-contract-breach/)
 * [2024-01-07, 17:01:18](https://news.ycombinator.com/item?id=38902864) - [GoGoGrandparent (YC S16) Is Hiring](https://news.ycombinator.com/item?id=38902864)
 * [2024-01-07, 16:16:36](https://news.ycombinator.com/item?id=38902407) - [Irish State announce plan to build a porn preference register for most of the EU](https://www.thegist.ie/the-gist-wtf-commission/)
@@ -19,9 +18,9 @@
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
+* [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A legal and moral question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
 * [2024-01-07, 03:20:02](https://news.ycombinator.com/item?id=38898104) - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
-* [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes (2019) [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 20:56:56](https://news.ycombinator.com/item?id=38895373) - [First tunnel to a magma chamber could supercharge geothermal power](https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/)
 * [2024-01-06, 11:58:44](https://news.ycombinator.com/item?id=38890722) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
@@ -30,6 +29,7 @@
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
 * [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
+* [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de l'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
 ## [Archives](archives/index.md)
 
