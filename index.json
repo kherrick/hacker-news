@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=38898104"
     ],
     [
-      "Google Teachable Machine",
+      "Teachable Machine",
       "https://teachablemachine.withgoogle.com/"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Parable of the Polygons",
       "https://ncase.me/polygons/"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 01:38:06",
+      "https://news.ycombinator.com/item?id=38897504"
+    ],
+    [
+      "Source code for a 1977 version of Zork",
+      "https://github.com/MITDDC/zork"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=38896879"
     ],
     [
-      "On building a semantic search engine",
+      "Retro on Viberary",
       "https://vickiboykis.com/2024/01/05/retro-on-viberary/"
     ]
   ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-01-06, 22:11:38",
-      "https://news.ycombinator.com/item?id=38896027"
-    ],
-    [
-      "Ten Noteworthy AI Research Papers of 2023",
-      "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 22:08:02",
       "https://news.ycombinator.com/item?id=38895995"
     ],
@@ -127,16 +127,6 @@
     [
       "Chess-GPT's Internal World Model",
       "https://github.com/adamkarvonen/chess_llm_interpretability"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 21:06:08",
-      "https://news.ycombinator.com/item?id=38895473"
-    ],
-    [
-      "UIDesignDaily 4 years later, 1600 open-source designs",
-      "https://www.uidesigndaily.com/"
     ]
   ],
   [
@@ -251,22 +241,32 @@
   ],
   [
     [
+      "2024-01-06, 11:57:06",
+      "https://news.ycombinator.com/item?id=38890705"
+    ],
+    [
+      "Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life",
+      "https://github.com/grahame/pharus"
+    ]
+  ],
+  [
+    [
+      "2024-01-06, 11:54:34",
+      "https://news.ycombinator.com/item?id=38890688"
+    ],
+    [
+      "Let's Bring Back JavaScript's `With()` Statement",
+      "https://macarthur.me/posts/with"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 09:10:47",
       "https://news.ycombinator.com/item?id=38889833"
     ],
     [
       "Chromium bug bounty money tree browser",
       "https://lyra.horse/misc/chromium_vrp_tree.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 06:07:09",
-      "https://news.ycombinator.com/item?id=38888897"
-    ],
-    [
-      "AMD's 22-year-old GPUs still getting driver updates thanks to the FOSS community",
-      "https://www.tomshardware.com/pc-components/gpus/amd-22-year-old-gpus-are-still-getting-driver-updates-atis-r300-r500-from-the-early-2000s-live-on-in-linux-driver-patches-thanks-to-the-open-source-community"
     ]
   ],
   [
