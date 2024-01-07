@@ -7,6 +7,7 @@
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 * [2024-01-07, 12:51:53](https://news.ycombinator.com/item?id=38900809) - [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)
 * [2024-01-07, 12:35:00](https://news.ycombinator.com/item?id=38900721) - [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
+* [2024-01-07, 12:19:32](https://news.ycombinator.com/item?id=38900632) - [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
 * [2024-01-07, 12:11:32](https://news.ycombinator.com/item?id=38900577) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 * [2024-01-07, 11:20:59](https://news.ycombinator.com/item?id=38900304) - [AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
 * [2024-01-07, 11:03:28](https://news.ycombinator.com/item?id=38900197) - [The New York Times Launches a Strong Case Against Microsoft and OpenAI](https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/)
