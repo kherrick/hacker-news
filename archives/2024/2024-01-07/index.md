@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 14:41:29](https://news.ycombinator.com/item?id=38901566) - [Transputer.net](http://transputer.net/)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 14:34:33](https://news.ycombinator.com/item?id=38901501) - [(2019)The Long-Forgotten Flight That Sent Boeing Off Course](https://www.theatlantic.com/ideas/archive/2019/11/how-boeing-lost-its-bearings/602188/)
 * [2024-01-07, 14:32:46](https://news.ycombinator.com/item?id=38901484) - [Apple Starts Sending 'Batterygate' Settlement Payments](https://www.macrumors.com/2024/01/06/apple-starts-iphone-batterygate-payouts/)
