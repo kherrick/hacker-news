@@ -69,6 +69,7 @@
 * [2024-01-05, 12:39:31](https://news.ycombinator.com/item?id=38878480) - [What's the smallest file size for a 1 pixel image?](https://shkspr.mobi/blog/2024/01/whats-the-smallest-file-size-for-a-1-pixel-image/)
 * [2024-01-05, 12:20:32](https://news.ycombinator.com/item?id=38878354) - [Ask HN: What to do with text from old, unarchived, online forums?](https://news.ycombinator.com/item?id=38878354)
 * [2024-01-05, 11:42:38](https://news.ycombinator.com/item?id=38878103) - [Navajo Nation request to delay private mission placing human remains on the moon](https://www.space.com/nasa-responds-navajo-nation-objection-human-remains-moon)
+* [2024-01-05, 11:26:55](https://news.ycombinator.com/item?id=38877995) - [Building an antilibrary: the power of unread books](https://nesslabs.com/antilibrary)
 * [2024-01-05, 11:12:02](https://news.ycombinator.com/item?id=38877879) - [Micro Beast: Self contained 8-bit computer kit in a box](https://feertech.com/microbeast/index.html)
 * [2024-01-05, 10:55:12](https://news.ycombinator.com/item?id=38877753) - [Something a lot like Pokemon Yellow](https://roganmurley.com/2024/01/02/something-a-lot-like-pokemon-yellow.html)
 * [2024-01-05, 10:33:32](https://news.ycombinator.com/item?id=38877604) - [Ask HN: Looking for a DJ Program](https://news.ycombinator.com/item?id=38877604)
