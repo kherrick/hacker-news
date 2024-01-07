@@ -11,7 +11,6 @@
 * [2024-01-07, 14:35:52](https://news.ycombinator.com/item?id=38901516) - [IBM Demos Transistor Built for Liquid Nitrogen Cooling](https://spectrum.ieee.org/nanosheet-transistor)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
-* [2024-01-07, 12:11:32](https://news.ycombinator.com/item?id=38900577) - [Things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 * [2024-01-07, 11:20:59](https://news.ycombinator.com/item?id=38900304) - [AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys (2022)](https://www.dns.toys/)
 * [2024-01-07, 06:08:56](https://news.ycombinator.com/item?id=38898934) - [Pocketbase: Open-source back end in one file](https://pocketbase.io/)
@@ -29,6 +28,7 @@
 * [2024-01-06, 06:23:23](https://news.ycombinator.com/item?id=38888986) - [Fury – How a Museum with the Only Running Tiger Made a Movie [video]](https://www.youtube.com/watch?v=1TWTBkXTUm4)
 * [2024-01-06, 06:21:49](https://news.ycombinator.com/item?id=38888975) - [The journey of the Roman gladius and other swords](https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/)
 * [2024-01-05, 16:50:33](https://news.ycombinator.com/item?id=38881204) - [Fired comedian ordered to get day job back after jokes ruled 'simply funny'](https://www.vice.com/en/article/m7b4nq/fired-comedian-ordered-to-get-day-job-back-after-jokes-ruled-simply-funny)
+* [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de l'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 
 ## [Archives](archives/index.md)

@@ -79,6 +79,7 @@
 * [2024-01-05, 09:43:15](https://news.ycombinator.com/item?id=38877319) - [Bodycams for civilians](https://www.core77.com/posts/126756/Hell-in-a-Handbasket-Bodycams-for-Civilians)
 * [2024-01-05, 09:20:40](https://news.ycombinator.com/item?id=38877204) - [Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)](https://github.com/Maratyszcza/PeachPy)
 * [2024-01-05, 09:13:41](https://news.ycombinator.com/item?id=38877175) - [Australian woman used her BYD electric car to power her son's dialysis machine](https://www.businessinsider.com/byd-electric-car-powers-life-saving-machine-during-blackout-2024-1)
+* [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 09:05:39](https://news.ycombinator.com/item?id=38877126) - ['Rich Dad, Poor Dad' author Robert Kiyosaki reveals he's $1B in debt](https://fortune.com/2024/01/04/robert-kiyosaki-rich-dad-poor-dad-author-debt/)
 * [2024-01-05, 09:02:25](https://news.ycombinator.com/item?id=38877115) - [Not all automated testing tools support Shadow DOM in web components](https://matuzo.at/blog/2024/automated-testing-tools-and-web-components)
 * [2024-01-05, 08:48:58](https://news.ycombinator.com/item?id=38877059) - [Sentry new TOS to use data to train AI with no opt-out](https://sentry.io/legal/changelog/)
