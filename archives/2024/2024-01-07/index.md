@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
 * [2024-01-07, 05:16:21](https://news.ycombinator.com/item?id=38898688) - [A Legal and Moral Question: The crash of Turkish Airlines flight 981 (2021)](https://admiralcloudberg.medium.com/a-legal-and-moral-question-the-crash-of-turkish-airlines-flight-981-and-the-dc-10-cargo-door-saga-d22f0b9fa689)
