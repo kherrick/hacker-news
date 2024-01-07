@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 21:01:25](https://news.ycombinator.com/item?id=38905095) - [Meticulous (YC S21) is hiring to replace UI testing](https://news.ycombinator.com/item?id=38905095)
+* [2024-01-07, 20:53:16](https://news.ycombinator.com/item?id=38905019) - [GitUI](https://github.com/extrawurst/gitui)
+* [2024-01-07, 20:36:17](https://news.ycombinator.com/item?id=38904895) - [LiteLlama-460M-1T has 460M parameters trained with 1T tokens](https://huggingface.co/ahxt/LiteLlama-460M-1T)
+* [2024-01-07, 20:26:01](https://news.ycombinator.com/item?id=38904816) - [Evidence found on DB Cooper tie means plane hijacking mystery could be solved](https://www.the-sun.com/news/10011770/db-cooper-new-evidence-case-solved-this-year-skyjacking/)
+* [2024-01-07, 20:23:15](https://news.ycombinator.com/item?id=38904786) - [The Future of Nuclear Energy in a Carbon-Constrained World](https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/)
 * [2024-01-07, 20:16:09](https://news.ycombinator.com/item?id=38904721) - [A concrete example of why Apple's documentation is terrible](https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/)
 * [2024-01-07, 20:09:08](https://news.ycombinator.com/item?id=38904663) - ['I have eaten my children. Talk too much, I'll eat you, too': Holodomor accounts](https://nationalpost.com/opinion/i-have-eaten-my-children-talk-too-much-ill-eat-you-too-an-excerpt-from-anne-applebaums-red-famine)
 * [2024-01-07, 19:56:58](https://news.ycombinator.com/item?id=38904584) - [Tesla's First Smart Home Partner Is Samsung SmartThings](https://tech.slashdot.org/story/24/01/05/223218/teslas-first-smart-home-partner-is-samsung-smartthings)
+* [2024-01-07, 19:55:54](https://news.ycombinator.com/item?id=38904574) - [Pure C WebRTC](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
 * [2024-01-07, 19:51:26](https://news.ycombinator.com/item?id=38904532) - [Fairness and kindness are not weaknesses](https://gerrymcgovern.com/fairness-and-kindness-are-not-weaknesses/)
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
+* [2024-01-07, 19:12:26](https://news.ycombinator.com/item?id=38904180) - [Live Objects All the Way Down: Removing the Barriers Between Apps and VMs](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 18:20:00](https://news.ycombinator.com/item?id=38903634) - [Isomorphic labs deals with pharma companies](https://endpts.com/alphabets-ai-unit-isomorphic-inks-drug-discovery-deals-with-eli-lilly-novartis-for-up-to-3b/)
