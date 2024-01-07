@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-01-07, 03:24:48",
-      "https://news.ycombinator.com/item?id=38898119"
+      "2024-01-07, 04:19:08",
+      "https://news.ycombinator.com/item?id=38898388"
     ],
     [
-      "Tesla lowers Model Y, S, X range estimations following exaggeration complaints",
-      "https://www.theverge.com/2024/1/5/24026367/tesla-lowers-range-estimations-model-x-s-y-mileage-exaggeration"
+      "Nvidia Unveils RTX 5880 Graphics Card with 14,080 CUDA Cores and 48GB VRAM",
+      "https://www.nvidia.com/en-us/design-visualization/rtx-5880/"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 04:15:07",
+      "https://news.ycombinator.com/item?id=38898370"
+    ],
+    [
+      "The Unhinged Nature of GTA V Source Code [video]",
+      "https://www.youtube.com/watch?v=QZ6rLbu4LQw"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 03:58:16",
+      "https://news.ycombinator.com/item?id=38898287"
+    ],
+    [
+      "California to enforce 'gender neutral' toy aisles in large stores",
+      "https://www.bbc.com/news/world-us-canada-58879461"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 03:28:56",
+      "https://news.ycombinator.com/item?id=38898145"
+    ],
+    [
+      "US appeals court prevents California from banning guns in most public places",
+      "https://www.reuters.com/legal/us-appeals-court-prevents-california-banning-guns-most-public-places-2024-01-07/"
     ]
   ],
   [
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=38897638"
     ],
     [
-      "Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction",
+      "I was addicted to my smartphone, so I switched to a flip phone for a month",
       "https://www.nytimes.com/2024/01/06/technology/smartphone-addiction-flip-phone.html"
     ]
   ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38896157"
     ],
     [
-      "Dimensional Analysis and Black Holes [pdf]",
+      "Dimensional Analysis and Black Holes (2019) [pdf]",
       "https://hapax.github.io/assets/dimensional-analysis.pdf"
     ]
   ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-01-06, 22:08:02",
-      "https://news.ycombinator.com/item?id=38895995"
-    ],
-    [
-      "Show HN: New RISC-V emulator for Computer Science education",
-      "https://github.com/gboncoffee/egg"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 21:23:00",
       "https://news.ycombinator.com/item?id=38895623"
     ],
@@ -135,18 +155,8 @@
       "https://news.ycombinator.com/item?id=38895372"
     ],
     [
-      "Inverting PhotoDNA",
+      "Inverting PhotoDNA (2021)",
       "https://anishathalye.com/inverting-photodna/"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 19:43:12",
-      "https://news.ycombinator.com/item?id=38894631"
-    ],
-    [
-      "NuScale Lays off 40% of its Staff",
-      "https://www.huffpost.com/entry/nuscale-layoffs-nuclear-power_n_65985ac5e4b075f4cfd24dba"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2024-01-06, 11:54:34",
-      "https://news.ycombinator.com/item?id=38890688"
-    ],
-    [
-      "Let's Bring Back JavaScript's `With()` Statement",
-      "https://macarthur.me/posts/with"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 09:10:47",
-      "https://news.ycombinator.com/item?id=38889833"
-    ],
-    [
-      "Chromium bug bounty money tree browser",
-      "https://lyra.horse/misc/chromium_vrp_tree.html"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 00:24:18",
       "https://news.ycombinator.com/item?id=38886935"
     ],
     [
       "The Perils and Pleasures of Bartending in Antarctica (2017)",
       "https://www.atlasobscura.com/articles/bartender-antarctica-south-pole"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 19:29:38",
+      "https://news.ycombinator.com/item?id=38883568"
+    ],
+    [
+      "\"Are We Automata?\" by William James (1879)",
+      "https://psychclassics.yorku.ca/James/automata.htm"
     ]
   ],
   [
