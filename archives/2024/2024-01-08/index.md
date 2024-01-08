@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 20:22:19](https://news.ycombinator.com/item?id=38917569) - [Which Airlines Are Not Flying the Boeing 737 Max?](https://www.alternativeairlines.com/airlines-not-flying-boeing-737-max)
 * [2024-01-08, 20:16:12](https://news.ycombinator.com/item?id=38917499) - [AMD 8000G APUs launch Jan 31, $329 8700G competes with desktop GTX1650 in gaming](https://videocardz.com/newz/amd-ryzen-8000g-zen4-apu-series-launch-january-31-ryzen-7-8700g-competes-with-desktop-geforce-gtx-1650-in-gaming)
 * [2024-01-08, 19:54:46](https://news.ycombinator.com/item?id=38917175) - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 * [2024-01-08, 19:16:58](https://news.ycombinator.com/item?id=38916694) - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
