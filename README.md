@@ -7,6 +7,7 @@
 * [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
 * [2024-01-08, 00:32:14](https://news.ycombinator.com/item?id=38906761) - [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
 * [2024-01-08, 00:31:03](https://news.ycombinator.com/item?id=38906749) - [How We Handle Cap Table Information – Henry Ward](https://henrysward.medium.com/how-we-handle-captable-information-c98d85d79277)
+* [2024-01-08, 00:07:56](https://news.ycombinator.com/item?id=38906586) - [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
 * [2024-01-07, 23:28:38](https://news.ycombinator.com/item?id=38906331) - [\"LibreOffice is better at reading old Word files than Word\"](https://eldritch.cafe/@sfwrtr/111716610017454919)
 * [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
@@ -29,7 +30,6 @@
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
-* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
