@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 06:59:21](https://news.ycombinator.com/item?id=38909003) - [The biggest leap forward in HTTP clients for Python in years](https://github.com/jawah/niquests)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why would you still want to use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
-* [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
 * [2024-01-08, 00:46:40](https://news.ycombinator.com/item?id=38906881) - [How An ASML Lithography Machine Moves a Wafer [video]](https://www.youtube.com/watch?v=1fOA85xtYxs)
 * [2024-01-08, 00:32:14](https://news.ycombinator.com/item?id=38906761) - [Scotia, California is owned by a New York investment firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
 * [2024-01-08, 00:07:56](https://news.ycombinator.com/item?id=38906586) - [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)

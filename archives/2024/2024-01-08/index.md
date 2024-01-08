@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 06:59:21](https://news.ycombinator.com/item?id=38909003) - [The biggest leap forward in HTTP clients for Python in years](https://github.com/jawah/niquests)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why would you still want to use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 04:03:31](https://news.ycombinator.com/item?id=38908126) - [Carta customers say platform tried to trade their shares without consent](https://www.ft.com/content/40340631-134d-493e-aec5-b5acc168e784)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
