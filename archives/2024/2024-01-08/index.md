@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 11:23:44](https://news.ycombinator.com/item?id=38910565) - [\"Dutch engineer carried out Iranian nuclear sabotage\": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
 * [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 * [2024-01-08, 08:04:13](https://news.ycombinator.com/item?id=38909315) - [Ask HN: How to find online employment for a person with limited functionality](https://news.ycombinator.com/item?id=38909315)
 * [2024-01-08, 07:46:54](https://news.ycombinator.com/item?id=38909220) - [Dutch man sabotaged Iranian nuclear program without Dutch government's knowledge](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
+* [2024-01-08, 07:18:27](https://news.ycombinator.com/item?id=38909086) - [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 * [2024-01-08, 06:59:21](https://news.ycombinator.com/item?id=38909003) - [The biggest leap forward in HTTP clients for Python in years](https://github.com/jawah/niquests)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why would you still want to use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How Meta Built the Infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)

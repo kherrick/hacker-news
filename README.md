@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 11:23:44](https://news.ycombinator.com/item?id=38910565) - [\"Dutch engineer carried out Iranian nuclear sabotage\": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
+* [2024-01-08, 07:18:27](https://news.ycombinator.com/item?id=38909086) - [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
@@ -16,7 +18,6 @@
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When random numbers are too random: Low discrepancy sequences (2017)](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [Shecc: A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 20:53:16](https://news.ycombinator.com/item?id=38905019) - [GitUI](https://github.com/extrawurst/gitui)
-* [2024-01-07, 20:19:22](https://news.ycombinator.com/item?id=38904754) - [How I'm writing CSS in 2024](https://leerob.io/blog/css)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 13:38:41](https://news.ycombinator.com/item?id=38901089) - [C Compiler Assembler and Runtime for C64](https://github.com/drmortalwombat/oscar64)
@@ -29,7 +30,6 @@
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 * [2024-01-05, 05:56:44](https://news.ycombinator.com/item?id=38876167) - [Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
-* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
