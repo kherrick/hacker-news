@@ -92,6 +92,7 @@
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 * [2024-01-05, 06:38:28](https://news.ycombinator.com/item?id=38876419) - [Did you compare the cost of using a GPT plus subscription and use GPT by API?](https://news.ycombinator.com/item?id=38876419)
 * [2024-01-05, 06:26:09](https://news.ycombinator.com/item?id=38876352) - [Books Fatal to Their Authors (1895)](https://publicdomainreview.org/collection/books-fatal-to-their-authors/)
+* [2024-01-05, 05:56:44](https://news.ycombinator.com/item?id=38876167) - [Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
 * [2024-01-05, 05:11:41](https://news.ycombinator.com/item?id=38875935) - [How to Revive Wassailing](https://www.historytoday.com/archive/out-margins/how-revive-wassailing)
 * [2024-01-05, 04:48:32](https://news.ycombinator.com/item?id=38875794) - [Rue de L'Avenir](https://en.wikipedia.org/wiki/Rue_de_l%27Avenir)
 * [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)

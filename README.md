@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
-* [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
-* [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
@@ -30,6 +28,8 @@
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+* [2024-01-05, 05:56:44](https://news.ycombinator.com/item?id=38876167) - [Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
+* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
