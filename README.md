@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
 * [2024-01-08, 15:47:53](https://news.ycombinator.com/item?id=38913649) - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
+* [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
 * [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
-* [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
 * [2024-01-08, 14:42:08](https://news.ycombinator.com/item?id=38912581) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
@@ -21,7 +22,6 @@
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
-* [2024-01-08, 00:46:40](https://news.ycombinator.com/item?id=38906881) - [How An ASML Lithography Machine Moves a Wafer [video]](https://www.youtube.com/watch?v=1fOA85xtYxs)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What does the cerebellum do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 19:21:24](https://news.ycombinator.com/item?id=38904255) - [Designing, manufacturing, and selling an LED 'social battery' pin badge](https://davidcapper.dev/posts/social-batteries-part-1)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
