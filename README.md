@@ -29,7 +29,7 @@
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
 * [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
-* [2024-01-05, 05:56:44](https://news.ycombinator.com/item?id=38876167) - [Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
+* [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 
 ## [Archives](archives/index.md)
 
