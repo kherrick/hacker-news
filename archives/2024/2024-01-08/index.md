@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-01-08, 11:55:03](https://news.ycombinator.com/item?id=38910744) - [Wix employee sacked over criticism of Israel files unfair dismissal claim](https://www.irishtimes.com/business/work/2024/01/08/wix-employee-sacked-over-criticism-of-israel-files-unfair-dismissal-claim/)
 * [2024-01-08, 11:23:44](https://news.ycombinator.com/item?id=38910565) - [\"Dutch engineer carried out Iranian nuclear sabotage\": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
+* [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
 * [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 * [2024-01-08, 08:04:13](https://news.ycombinator.com/item?id=38909315) - [Ask HN: How to find online employment for a person with limited functionality](https://news.ycombinator.com/item?id=38909315)
