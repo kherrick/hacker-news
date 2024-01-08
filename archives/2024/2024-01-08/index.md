@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 19:54:46](https://news.ycombinator.com/item?id=38917175) - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 * [2024-01-08, 19:16:58](https://news.ycombinator.com/item?id=38916694) - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)

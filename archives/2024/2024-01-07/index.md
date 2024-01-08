@@ -70,6 +70,7 @@
 * [2024-01-07, 12:25:57](https://news.ycombinator.com/item?id=38900671) - [RIP Microsoft WordPad. You Will Be Missed](https://gizmodo.com/microsoft-wordpad-gone-windows-11-1851144100)
 * [2024-01-07, 12:19:32](https://news.ycombinator.com/item?id=38900632) - [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)
 * [2024-01-07, 12:11:32](https://news.ycombinator.com/item?id=38900577) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
+* [2024-01-07, 11:36:52](https://news.ycombinator.com/item?id=38900397) - [Sandy Fingerprints Trace Supply Sources](https://eos.org/articles/sandy-fingerprints-trace-supply-sources)
 * [2024-01-07, 11:20:59](https://news.ycombinator.com/item?id=38900304) - [AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
 * [2024-01-07, 11:03:28](https://news.ycombinator.com/item?id=38900197) - [The New York Times Launches a Strong Case Against Microsoft and OpenAI](https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/)
 * [2024-01-07, 10:51:07](https://news.ycombinator.com/item?id=38900137) - [SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
