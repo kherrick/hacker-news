@@ -23,6 +23,7 @@
 * [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
 * [2024-01-08, 14:42:08](https://news.ycombinator.com/item?id=38912581) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2024-01-08, 14:39:25](https://news.ycombinator.com/item?id=38912534) - [Almost never use a pie chart for your data](https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576)
+* [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson steps down as CEO of Twilio](https://www.cnbc.com/2024/01/08/twilio-ceo-lawson-steps-down-after-bruising-activist-battles.html)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 14:28:05](https://news.ycombinator.com/item?id=38912349) - [iPhone Survives 16,000-Foot Fall from Alaska Air Flight](https://www.bloomberg.com/news/articles/2024-01-08/iphone-survives-16-000-foot-fall-helps-narrow-jet-panel-search)
