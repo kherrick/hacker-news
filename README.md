@@ -28,8 +28,8 @@
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
-* [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
