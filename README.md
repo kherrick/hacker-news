@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 22:12:43](https://news.ycombinator.com/item?id=38918969) - [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
 * [2024-01-08, 21:46:23](https://news.ycombinator.com/item?id=38918643) - [Unity Software cutting 25% of staff in 'company reset' continuation](https://www.reuters.com/technology/unity-software-cutting-25-staff-company-reset-continuation-2024-01-08/)
 * [2024-01-08, 21:46:12](https://news.ycombinator.com/item?id=38918641) - [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
 * [2024-01-08, 21:39:57](https://news.ycombinator.com/item?id=38918569) - [A Rail Cart for the Space Conscious Passenger (2022)](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
@@ -21,7 +22,6 @@
 * [2024-01-08, 17:21:46](https://news.ycombinator.com/item?id=38915157) - [PostmarketOS in 2024-01: Infrastructure and bug reports](https://postmarketos.org/blog/2024/01/08/infrastructure-and-testing/)
 * [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
-* [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [95% of container ships are now going around the Southern Tip of Africa](https://twitter.com/typesfast/status/1743654060673093754)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson steps down as CEO of Twilio](https://www.cnbc.com/2024/01/08/twilio-ceo-lawson-steps-down-after-bruising-activist-battles.html)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
