@@ -69,6 +69,7 @@
 * [2024-01-07, 11:20:59](https://news.ycombinator.com/item?id=38900304) - [AI or Ain't: Eliza](https://zserge.com/posts/ai-eliza/)
 * [2024-01-07, 11:03:28](https://news.ycombinator.com/item?id=38900197) - [The New York Times Launches a Strong Case Against Microsoft and OpenAI](https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/)
 * [2024-01-07, 10:51:07](https://news.ycombinator.com/item?id=38900137) - [SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
+* [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [What I learned building 9 products in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 10:28:30](https://news.ycombinator.com/item?id=38900049) - [Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
 * [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)

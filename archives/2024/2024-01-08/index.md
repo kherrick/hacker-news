@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 14:11:21](https://news.ycombinator.com/item?id=38912125) - [IT Employment Grew by Just 700 Jobs in 2023, Down From 267,000 in 2022](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
 * [2024-01-08, 14:03:51](https://news.ycombinator.com/item?id=38912032) - [Apple Vision Pro available in the U.S. on February 2](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)
 * [2024-01-08, 13:44:18](https://news.ycombinator.com/item?id=38911791) - [What Progressive Web App (PWA) Can Do Today](https://whatpwacando.today)
 * [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2024-01-08, 13:39:27](https://news.ycombinator.com/item?id=38911731) - [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)
+* [2024-01-08, 13:28:38](https://news.ycombinator.com/item?id=38911614) - [Oklahoma receives first \"Made in Oklahoma\" EV](https://oklahoma.gov/omes/newsroom/2023/state-receives-first-made-in-oklahoma-electric-vehicles-from-canoo.html)
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
