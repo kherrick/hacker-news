@@ -17,9 +17,7 @@
 * [2024-01-07, 19:55:54](https://news.ycombinator.com/item?id=38904574) - [Pure C WebRTC](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
 * [2024-01-07, 19:12:26](https://news.ycombinator.com/item?id=38904180) - [Live Objects All the Way Down: Removing the Barriers Between Apps and VMs](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
-* [2024-01-07, 17:45:36](https://news.ycombinator.com/item?id=38903276) - [The Erlang Ecosystem (2018) [video]](https://www.youtube.com/watch?v=7AJR66p5E4s)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
-* [2024-01-07, 17:32:08](https://news.ycombinator.com/item?id=38903145) - [The immediate victims of a con would rather act as if the con never happened](https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/)
 * [2024-01-07, 15:58:14](https://news.ycombinator.com/item?id=38902258) - [Behind the scenes: the struggle for each paper (2021)](https://jeffhuang.com/struggle_for_each_paper/)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 13:27:44](https://news.ycombinator.com/item?id=38901012) - [First new VAX in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
@@ -28,8 +26,10 @@
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-07, 09:32:47](https://news.ycombinator.com/item?id=38899828) - [Niche Online Tournaments](https://danielwirtz.com/blog/niche-online-tournaments)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+* [2024-01-05, 11:26:55](https://news.ycombinator.com/item?id=38877995) - [Building an antilibrary: the power of unread books](https://nesslabs.com/antilibrary)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
