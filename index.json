@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-08, 16:57:12",
-      "https://news.ycombinator.com/item?id=38914825"
-    ],
-    [
-      "Japan's nuclear power plants largely undamaged following quake",
-      "https://www.japantimes.co.jp/news/2024/01/02/japan/earthquake-nuclear-power-plants/"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 16:29:43",
       "https://news.ycombinator.com/item?id=38914407"
     ],
@@ -207,6 +197,16 @@
     [
       "Visualizing Ext4",
       "https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 02:24:54",
+      "https://news.ycombinator.com/item?id=38907568"
+    ],
+    [
+      "MotorOS: a Rust-first operating system for x64 VMs",
+      "https://github.com/moturus/motor-os"
     ]
   ],
   [
