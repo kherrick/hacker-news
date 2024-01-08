@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
+* [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
 * [2024-01-08, 12:35:29](https://news.ycombinator.com/item?id=38911078) - ['Greener, cheaper, much warmer' – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
 * [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-08, 11:55:03](https://news.ycombinator.com/item?id=38910744) - [Wix employee sacked over criticism of Israel files unfair dismissal claim](https://www.irishtimes.com/business/work/2024/01/08/wix-employee-sacked-over-criticism-of-israel-files-unfair-dismissal-claim/)
