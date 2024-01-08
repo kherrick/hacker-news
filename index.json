@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 19:54:46",
+      "https://news.ycombinator.com/item?id=38917175"
+    ],
+    [
+      "The curious case of the Raspberry Pi in the network closet",
+      "https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 19:16:58",
       "https://news.ycombinator.com/item?id=38916694"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-01-08, 18:42:42",
-      "https://news.ycombinator.com/item?id=38916198"
-    ],
-    [
-      "Fred Wilson: Read Write Own",
-      "https://avc.xyz/read-write-own"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 18:26:16",
       "https://news.ycombinator.com/item?id=38915999"
     ],
     [
       "Show HN: Auto Wiki – Turn your codebase into a Wiki",
       "https://wiki.mutable.ai"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 18:15:10",
-      "https://news.ycombinator.com/item?id=38915863"
-    ],
-    [
-      "My 2024 AI Predictions",
-      "https://axflow.dev/blog/ai-predictions-2024/"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "Elixir is now a gradually typed language",
       "https://twitter.com/josevalim/status/1744395345872683471"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 15:59:41",
-      "https://news.ycombinator.com/item?id=38913857"
-    ],
-    [
-      "Peregrine moon lander suffers anomaly after launch",
-      "https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "The browser's biggest TLS mistake",
       "https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 13:38:41",
+      "https://news.ycombinator.com/item?id=38901089"
+    ],
+    [
+      "C Compiler Assembler and Runtime for C64",
+      "https://github.com/drmortalwombat/oscar64"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 11:36:52",
+      "https://news.ycombinator.com/item?id=38900397"
+    ],
+    [
+      "Sandy Fingerprints Trace Supply Sources",
+      "https://eos.org/articles/sandy-fingerprints-trace-supply-sources"
     ]
   ],
   [
