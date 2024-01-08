@@ -76,6 +76,7 @@
 * [2024-01-07, 10:51:07](https://news.ycombinator.com/item?id=38900137) - [SpaceX Has Launched Starlink's First Direct-to-Smartphone Satellites](https://m.slashdot.org/story/423439)
 * [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [What I learned building 9 products in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 10:28:30](https://news.ycombinator.com/item?id=38900049) - [Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
+* [2024-01-07, 10:26:47](https://news.ycombinator.com/item?id=38900044) - [1899 Peruvian dinero: the mystery of a coin that wasn't officially minted](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-023-01092-2)
 * [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
