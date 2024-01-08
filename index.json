@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 02:24:54",
+      "https://news.ycombinator.com/item?id=38907568"
+    ],
+    [
+      "MotorOS: a Rust-first operating system for x64 VMs",
+      "https://github.com/moturus/motor-os"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 01:03:09",
       "https://news.ycombinator.com/item?id=38906989"
     ],
@@ -47,16 +57,6 @@
     [
       "Machine Learning Helps Fuzzing Find Hardware Bugs",
       "https://spectrum.ieee.org/hardware-hacking"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 00:07:56",
-      "https://news.ycombinator.com/item?id=38906586"
-    ],
-    [
-      "Buffett once bet $1M that he could beat a group of hedge funds over 10 years",
-      "https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-01-07, 17:32:08",
+      "https://news.ycombinator.com/item?id=38903145"
+    ],
+    [
+      "The immediate victims of a con would rather act as if the con never happened",
+      "https://statmodeling.stat.columbia.edu/2024/01/07/french-bio-lab-research-scandal/"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 15:58:14",
       "https://news.ycombinator.com/item?id=38902258"
     ],
@@ -267,16 +277,6 @@
     [
       "The Usefulness of Useless Knowledge (1939) [pdf]",
       "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 11:26:55",
-      "https://news.ycombinator.com/item?id=38877995"
-    ],
-    [
-      "Building an antilibrary: the power of unread books",
-      "https://nesslabs.com/antilibrary"
     ]
   ],
   [
