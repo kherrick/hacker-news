@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-08, 18:26:16",
+      "https://news.ycombinator.com/item?id=38915999"
+    ],
+    [
+      "Show HN: Auto Wiki – Turn your codebase into a Wiki",
+      "https://wiki.mutable.ai"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 18:19:49",
+      "https://news.ycombinator.com/item?id=38915935"
+    ],
+    [
+      "Peregrine Mission One: Critical Loss of Propellant",
+      "https://twitter.com/astrobotic/status/1744419692813443333"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 18:08:30",
       "https://news.ycombinator.com/item?id=38915775"
     ],
@@ -91,12 +111,22 @@
   ],
   [
     [
-      "2024-01-08, 14:42:08",
-      "https://news.ycombinator.com/item?id=38912581"
+      "2024-01-08, 15:22:48",
+      "https://news.ycombinator.com/item?id=38913212"
     ],
     [
-      "Web CGI programs aren't particularly slow these days",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow"
+      "Alaska 737 cockpit voice recorder data erasure renews safety debate",
+      "https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 15:07:30",
+      "https://news.ycombinator.com/item?id=38912974"
+    ],
+    [
+      "95% of container ships are now going around the Southern Tip of Africa",
+      "https://twitter.com/typesfast/status/1743654060673093754"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-01-08, 05:05:56",
-      "https://news.ycombinator.com/item?id=38908496"
-    ],
-    [
-      "Why use strace in 2023? [video]",
-      "https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 04:54:20",
       "https://news.ycombinator.com/item?id=38908427"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-01-07, 12:40:50",
-      "https://news.ycombinator.com/item?id=38900758"
-    ],
-    [
-      "Ask HN: Small-batch builds of smaller phyiscal objects",
-      "https://news.ycombinator.com/item?id=38900758"
-    ]
-  ],
-  [
-    [
       "2024-01-07, 10:34:56",
       "https://news.ycombinator.com/item?id=38900069"
     ],
@@ -287,16 +297,6 @@
     [
       "What has a 1 in a million chance? (2010)",
       "https://www.stat.berkeley.edu/~aldous/Real-World/million.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-06, 22:08:02",
-      "https://news.ycombinator.com/item?id=38895995"
-    ],
-    [
-      "Show HN: New RISC-V emulator for Computer Science education",
-      "https://github.com/gboncoffee/egg"
     ]
   ]
 ]
