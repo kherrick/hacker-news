@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-08, 16:42:41](https://news.ycombinator.com/item?id=38914590) - [Using ChatGPT to tell Harry Potter characters that they are not real](https://justpaste.it/buvnp)
+* [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:29:43](https://news.ycombinator.com/item?id=38914407) - [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
 * [2024-01-08, 16:27:08](https://news.ycombinator.com/item?id=38914356) - [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
 * [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
@@ -15,7 +15,6 @@
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [bigFORTH (1997)](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
 * [2024-01-08, 12:23:44](https://news.ycombinator.com/item?id=38910965) - [The Mystery of the Coin That Shouldn't Exist](https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html)
-* [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-08, 11:49:05](https://news.ycombinator.com/item?id=38910708) - [Polly.js – Record, replay, and stub HTTP interactions](https://netflix.github.io/pollyjs/)
 * [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The phrase \"no evidence\" is a red flag for bad science communication (2021)](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
@@ -23,6 +22,7 @@
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What does the cerebellum do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+* [2024-01-07, 19:21:24](https://news.ycombinator.com/item?id=38904255) - [Designing, manufacturing, and selling an LED 'social battery' pin badge](https://davidcapper.dev/posts/social-batteries-part-1)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 18:40:06](https://news.ycombinator.com/item?id=38903857) - [My Year of Exploration](https://jacek.migdal.pl/2024/01/07/the-year-of-exploration.html)
 * [2024-01-07, 13:38:41](https://news.ycombinator.com/item?id=38901089) - [C Compiler Assembler and Runtime for C64](https://github.com/drmortalwombat/oscar64)

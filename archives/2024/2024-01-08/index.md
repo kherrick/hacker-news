@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:42:41](https://news.ycombinator.com/item?id=38914590) - [Using ChatGPT to tell Harry Potter characters that they are not real](https://justpaste.it/buvnp)
 * [2024-01-08, 16:29:43](https://news.ycombinator.com/item?id=38914407) - [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
 * [2024-01-08, 16:27:08](https://news.ycombinator.com/item?id=38914356) - [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
