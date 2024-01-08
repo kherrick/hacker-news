@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
 * [2024-01-08, 21:46:23](https://news.ycombinator.com/item?id=38918643) - [Unity Software cutting 25% of staff in 'company reset' continuation](https://www.reuters.com/technology/unity-software-cutting-25-staff-company-reset-continuation-2024-01-08/)
+* [2024-01-08, 21:46:12](https://news.ycombinator.com/item?id=38918641) - [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
 * [2024-01-08, 21:39:57](https://news.ycombinator.com/item?id=38918569) - [A Rail Cart for the Space Conscious Passenger (2022)](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
 * [2024-01-08, 21:38:45](https://news.ycombinator.com/item?id=38918554) - [totally_safe_transmute, Line-by-Line](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
 * [2024-01-08, 21:23:59](https://news.ycombinator.com/item?id=38918366) - [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
