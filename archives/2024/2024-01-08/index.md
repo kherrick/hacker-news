@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
+* [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
 * [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
@@ -12,6 +13,8 @@
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 18:01:17](https://news.ycombinator.com/item?id=38915673) - [OpenAI and Journalism](https://openai.com/blog/openai-and-journalism)
+* [2024-01-08, 17:41:55](https://news.ycombinator.com/item?id=38915421) - [Pg_rman: Backup/Restore Tool for PostgreSQL](https://github.com/ossc-db/pg_rman)
+* [2024-01-08, 17:39:40](https://news.ycombinator.com/item?id=38915391) - [TIL: Go's CompareAndSwap is not always Compare-and-swap](https://lu.sagebl.eu/notes/go-cas/)
 * [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:57:12](https://news.ycombinator.com/item?id=38914825) - [Japan's nuclear power plants largely undamaged following quake](https://www.japantimes.co.jp/news/2024/01/02/japan/earthquake-nuclear-power-plants/)
 * [2024-01-08, 16:42:41](https://news.ycombinator.com/item?id=38914590) - [Using ChatGPT to tell Harry Potter characters that they are not real](https://justpaste.it/buvnp)
