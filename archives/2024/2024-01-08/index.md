@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 21:39:57](https://news.ycombinator.com/item?id=38918569) - [A Rail Cart for the Space Conscious Passenger (2022)](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
+* [2024-01-08, 21:23:59](https://news.ycombinator.com/item?id=38918366) - [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
+* [2024-01-08, 21:20:13](https://news.ycombinator.com/item?id=38918310) - [United Airlines inspections find loose bolts on several 737 Max 9 aircraft](https://www.cnbc.com/2024/01/08/united-airlines-737-max-9-inspections-turn-up-loose-bolts.html)
+* [2024-01-08, 21:18:33](https://news.ycombinator.com/item?id=38918279) - [Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
 * [2024-01-08, 20:43:37](https://news.ycombinator.com/item?id=38917820) - [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
 * [2024-01-08, 20:37:54](https://news.ycombinator.com/item?id=38917749) - [Cells Across the Body Talk to Each Other About Aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
 * [2024-01-08, 20:22:19](https://news.ycombinator.com/item?id=38917569) - [Which Airlines Are Not Flying the Boeing 737 Max?](https://www.alternativeairlines.com/airlines-not-flying-boeing-737-max)
@@ -11,6 +15,7 @@
 * [2024-01-08, 20:02:48](https://news.ycombinator.com/item?id=38917307) - [How does one patch KDE2 under FreeBSD? (2012)](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
 * [2024-01-08, 19:54:46](https://news.ycombinator.com/item?id=38917175) - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 * [2024-01-08, 19:16:58](https://news.ycombinator.com/item?id=38916694) - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
+* [2024-01-08, 19:15:07](https://news.ycombinator.com/item?id=38916663) - [The Eight Golden Rules of Interface Design](https://www.cs.umd.edu/~ben/goldenrules.html)
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 19:08:25](https://news.ycombinator.com/item?id=38916596) - [An \"AI Breakthrough\" on Systematic Generalization in Language?](https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic)
 * [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
