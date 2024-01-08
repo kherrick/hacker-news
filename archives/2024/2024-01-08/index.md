@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 23:32:54](https://news.ycombinator.com/item?id=38920043) - [Polars](https://pola.rs/)
 * [2024-01-08, 22:12:43](https://news.ycombinator.com/item?id=38918969) - [Show HN: Merkdir – create Merkle trees from your directories](https://github.com/makew0rld/merkdir)
 * [2024-01-08, 21:46:23](https://news.ycombinator.com/item?id=38918643) - [Unity Software cutting 25% of staff in 'company reset' continuation](https://www.reuters.com/technology/unity-software-cutting-25-staff-company-reset-continuation-2024-01-08/)
 * [2024-01-08, 21:46:12](https://news.ycombinator.com/item?id=38918641) - [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
