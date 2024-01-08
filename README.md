@@ -5,9 +5,8 @@
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-08, 11:53:39](https://news.ycombinator.com/item?id=38910731) - [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
-* [2024-01-08, 11:22:47](https://news.ycombinator.com/item?id=38910555) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.com/news/technology-67911517)
 * [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
-* [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The Phrase \"No Evidence\" Is a Red Flag for Bad Science Communication](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
+* [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The Phrase \"No Evidence\" Is a Red Flag for Bad Science Communication (2021)](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
@@ -30,6 +29,7 @@
 * [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+* [2024-01-05, 05:56:44](https://news.ycombinator.com/item?id=38876167) - [Ubuntu Looking at Discontinuing Its Source ISOs](https://www.phoronix.com/news/Ubuntu-Discontinue-Source-ISOs)
 
 ## [Archives](archives/index.md)
 
