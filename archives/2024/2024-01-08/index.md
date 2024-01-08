@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
+* [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 18:01:17](https://news.ycombinator.com/item?id=38915673) - [OpenAI and Journalism](https://openai.com/blog/openai-and-journalism)

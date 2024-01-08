@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
+* [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 18:01:17](https://news.ycombinator.com/item?id=38915673) - [OpenAI and Journalism](https://openai.com/blog/openai-and-journalism)
@@ -9,7 +11,8 @@
 * [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
 * [2024-01-08, 15:23:10](https://news.ycombinator.com/item?id=38913220) - [Show HN: I Made a Sudoku Game](https://sudoku-aj.netlify.app/)
-* [2024-01-08, 14:42:08](https://news.ycombinator.com/item?id=38912581) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
+* [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
+* [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [95% of container ships are now going around the Southern Tip of Africa](https://twitter.com/typesfast/status/1743654060673093754)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 13:44:18](https://news.ycombinator.com/item?id=38911791) - [What PWA Can Do Today](https://whatpwacando.today)
@@ -18,7 +21,6 @@
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
 * [2024-01-08, 12:23:44](https://news.ycombinator.com/item?id=38910965) - [The Mystery of the Coin That Shouldn't Exist](https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html)
 * [2024-01-08, 11:49:05](https://news.ycombinator.com/item?id=38910708) - [Polly.js – Record, replay, and stub HTTP interactions](https://netflix.github.io/pollyjs/)
-* [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 00:29:48](https://news.ycombinator.com/item?id=38906736) - [Machine learning helps fuzzing find hardware bugs](https://spectrum.ieee.org/hardware-hacking)
@@ -26,10 +28,8 @@
 * [2024-01-07, 18:40:06](https://news.ycombinator.com/item?id=38903857) - [My Year of Exploration](https://jacek.migdal.pl/2024/01/07/the-year-of-exploration.html)
 * [2024-01-07, 16:17:47](https://news.ycombinator.com/item?id=38902414) - [The browser's biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-07, 13:38:41](https://news.ycombinator.com/item?id=38901089) - [C Compiler Assembler and Runtime for C64](https://github.com/drmortalwombat/oscar64)
-* [2024-01-07, 12:40:50](https://news.ycombinator.com/item?id=38900758) - [Ask HN: Small-batch builds of smaller phyiscal objects](https://news.ycombinator.com/item?id=38900758)
 * [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [Lessons from building nine startups in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
-* [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
 
 ## [Archives](archives/index.md)
 
