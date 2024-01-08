@@ -74,6 +74,7 @@
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-07, 09:32:47](https://news.ycombinator.com/item?id=38899828) - [Niche Online Tournaments](https://danielwirtz.com/blog/niche-online-tournaments)
+* [2024-01-07, 09:30:45](https://news.ycombinator.com/item?id=38899815) - [YUI Compressor](https://yui.github.io/yuicompressor/)
 * [2024-01-07, 09:00:07](https://news.ycombinator.com/item?id=38899698) - [JavaScript Multithreading (2023)](https://github.com/W4G1/multithreading)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys](https://www.dns.toys/)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance?](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)

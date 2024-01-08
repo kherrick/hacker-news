@@ -2,7 +2,6 @@
 
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
-* [2024-01-08, 12:35:29](https://news.ycombinator.com/item?id=38911078) - ['Greener, cheaper, much warmer' – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
 * [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-08, 11:53:39](https://news.ycombinator.com/item?id=38910731) - [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
 * [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
@@ -27,9 +26,10 @@
 * [2024-01-07, 12:59:05](https://news.ycombinator.com/item?id=38900843) - [802.11ah Wi-Fi HaLOW: The 1 Kilometer WiFi Standard](https://hackaday.com/2024/01/07/802-11ah-wi-fi-halow-the-1-kilometer-wifi-standard/)
 * [2024-01-07, 12:56:20](https://news.ycombinator.com/item?id=38900826) - [Four Team Types](https://itrevolution.com/articles/four-team-types/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
+* [2024-01-07, 09:30:45](https://news.ycombinator.com/item?id=38899815) - [YUI Compressor](https://yui.github.io/yuicompressor/)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
 * [2024-01-06, 22:08:02](https://news.ycombinator.com/item?id=38895995) - [Show HN: New RISC-V emulator for Computer Science education](https://github.com/gboncoffee/egg)
-* [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+* [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
 
 ## [Archives](archives/index.md)
 
