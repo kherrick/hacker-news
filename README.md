@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 15:47:53](https://news.ycombinator.com/item?id=38913649) - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
 * [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
 * [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
 * [2024-01-08, 14:42:08](https://news.ycombinator.com/item?id=38912581) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 14:28:05](https://news.ycombinator.com/item?id=38912349) - [iPhone Survives 16,000-Foot Fall from Alaska Air Flight](https://www.bloomberg.com/news/articles/2024-01-08/iphone-survives-16-000-foot-fall-helps-narrow-jet-panel-search)
-* [2024-01-08, 14:22:05](https://news.ycombinator.com/item?id=38912259) - ['Impossible' to create AI tools like ChatGPT without copyrighted material, OpenA](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
 * [2024-01-08, 13:44:18](https://news.ycombinator.com/item?id=38911791) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2024-01-08, 13:39:27](https://news.ycombinator.com/item?id=38911731) - [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)

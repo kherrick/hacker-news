@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 15:47:53](https://news.ycombinator.com/item?id=38913649) - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
 * [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
 * [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [\"95% of container ships are now going around the Southern Tip of Africa\"](https://twitter.com/typesfast/status/1743654060673093754)
 * [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
