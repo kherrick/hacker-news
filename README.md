@@ -20,6 +20,7 @@
 * [2024-01-07, 19:55:54](https://news.ycombinator.com/item?id=38904574) - [Pure C WebRTC](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
 * [2024-01-07, 19:12:26](https://news.ycombinator.com/item?id=38904180) - [Live Objects All the Way Down: Removing the Barriers Between Apps and VMs](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
+* [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 17:38:59](https://news.ycombinator.com/item?id=38903216) - [Defending against hypothetical moon life during Apollo 11](https://eukaryotewritesblog.com/2024/01/06/defending-against-hypothetical-moon-life-during-apollo-11/)
 * [2024-01-07, 14:34:46](https://news.ycombinator.com/item?id=38901504) - [Show HN: I made an app that consolidated 18 apps (doc, sheet, form, site, chat…)](https://nino.app)
 * [2024-01-07, 12:59:05](https://news.ycombinator.com/item?id=38900843) - [802.11ah Wi-Fi HaLOW: The 1 Kilometer WiFi Standard](https://hackaday.com/2024/01/07/802-11ah-wi-fi-halow-the-1-kilometer-wifi-standard/)
@@ -29,7 +30,6 @@
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
-* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
