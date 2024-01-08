@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
+* [2024-01-08, 08:04:13](https://news.ycombinator.com/item?id=38909315) - [Ask HN: How to find online employment for a person with limited functionality](https://news.ycombinator.com/item?id=38909315)
 * [2024-01-08, 07:46:54](https://news.ycombinator.com/item?id=38909220) - [Dutch man sabotaged Iranian nuclear program without Dutch government's knowledge](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
 * [2024-01-08, 06:59:21](https://news.ycombinator.com/item?id=38909003) - [The biggest leap forward in HTTP clients for Python in years](https://github.com/jawah/niquests)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why would you still want to use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
