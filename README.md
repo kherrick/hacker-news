@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-08, 04:03:31](https://news.ycombinator.com/item?id=38908126) - [Carta customers say platform tried to trade their shares without consent](https://www.ft.com/content/40340631-134d-493e-aec5-b5acc168e784)
+* [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io)
 * [2024-01-08, 02:57:15](https://news.ycombinator.com/item?id=38907729) - [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
@@ -24,7 +25,6 @@
 * [2024-01-07, 12:59:05](https://news.ycombinator.com/item?id=38900843) - [802.11ah Wi-Fi HaLOW: The 1 Kilometer WiFi Standard](https://hackaday.com/2024/01/07/802-11ah-wi-fi-halow-the-1-kilometer-wifi-standard/)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
-* [2024-01-07, 09:32:47](https://news.ycombinator.com/item?id=38899828) - [Niche Online Tournaments](https://danielwirtz.com/blog/niche-online-tournaments)
 * [2024-01-06, 23:19:19](https://news.ycombinator.com/item?id=38896606) - [How to avoid picking terrible metrics](https://www.elliotcsmith.com/how-to-avoid-picking-terrible-metrics/)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 09:11:05](https://news.ycombinator.com/item?id=38877164) - [DIY Book Scanner](https://www.diybookscanner.org/en/index.html)
