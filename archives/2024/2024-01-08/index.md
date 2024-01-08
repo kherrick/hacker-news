@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 19:16:58](https://news.ycombinator.com/item?id=38916694) - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
 * [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
+* [2024-01-08, 18:42:42](https://news.ycombinator.com/item?id=38916198) - [Fred Wilson: Read Write Own](https://avc.xyz/read-write-own)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
 * [2024-01-08, 18:15:10](https://news.ycombinator.com/item?id=38915863) - [My 2024 AI Predictions](https://axflow.dev/blog/ai-predictions-2024/)
