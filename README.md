@@ -19,7 +19,6 @@
 * [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:29:43](https://news.ycombinator.com/item?id=38914407) - [Elixir is now a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
-* [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
 * [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [95% of container ships are now going around the Southern Tip of Africa](https://twitter.com/typesfast/status/1743654060673093754)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson steps down as CEO of Twilio](https://www.cnbc.com/2024/01/08/twilio-ceo-lawson-steps-down-after-bruising-activist-battles.html)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
@@ -30,6 +29,7 @@
 * [2024-01-07, 16:17:47](https://news.ycombinator.com/item?id=38902414) - [The browser's biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [Lessons from building nine startups in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
+* [2024-01-07, 00:58:51](https://news.ycombinator.com/item?id=38897248) - [The Tensor Network](https://tensornetwork.org)
 
 ## [Archives](archives/index.md)
 
