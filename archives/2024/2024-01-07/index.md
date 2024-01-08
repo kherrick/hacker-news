@@ -69,6 +69,7 @@
 * [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
+* [2024-01-07, 09:32:47](https://news.ycombinator.com/item?id=38899828) - [Niche Online Tournaments](https://danielwirtz.com/blog/niche-online-tournaments)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
