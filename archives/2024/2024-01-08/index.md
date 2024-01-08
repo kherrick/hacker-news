@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 16:42:41](https://news.ycombinator.com/item?id=38914590) - [Using ChatGPT to tell Harry Potter characters that they are not real](https://justpaste.it/buvnp)
+* [2024-01-08, 16:29:43](https://news.ycombinator.com/item?id=38914407) - [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
+* [2024-01-08, 16:27:08](https://news.ycombinator.com/item?id=38914356) - [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
 * [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
 * [2024-01-08, 15:47:53](https://news.ycombinator.com/item?id=38913649) - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
