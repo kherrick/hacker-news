@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
 * [2024-01-08, 04:03:31](https://news.ycombinator.com/item?id=38908126) - [Carta customers say platform tried to trade their shares without consent](https://www.ft.com/content/40340631-134d-493e-aec5-b5acc168e784)
+* [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io)
 * [2024-01-08, 02:57:15](https://news.ycombinator.com/item?id=38907729) - [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
@@ -12,6 +13,7 @@
 * [2024-01-08, 01:52:31](https://news.ycombinator.com/item?id=38907366) - [Programming as Theory Building – Peter Naur](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 * [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
+* [2024-01-08, 00:46:40](https://news.ycombinator.com/item?id=38906881) - [How An ASML Lithography Machine Moves a Wafer [video]](https://www.youtube.com/watch?v=1fOA85xtYxs)
 * [2024-01-08, 00:32:14](https://news.ycombinator.com/item?id=38906761) - [The California Town Owned by a New York Investment Firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
 * [2024-01-08, 00:31:03](https://news.ycombinator.com/item?id=38906749) - [How We Handle Cap Table Information – Henry Ward](https://henrysward.medium.com/how-we-handle-captable-information-c98d85d79277)
 * [2024-01-08, 00:29:48](https://news.ycombinator.com/item?id=38906736) - [Machine Learning Helps Fuzzing Find Hardware Bugs](https://spectrum.ieee.org/hardware-hacking)
