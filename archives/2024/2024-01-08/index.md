@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)

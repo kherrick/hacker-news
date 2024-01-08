@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:19:49](https://news.ycombinator.com/item?id=38915935) - [Peregrine Mission One: Critical Loss of Propellant](https://twitter.com/astrobotic/status/1744419692813443333)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
@@ -16,7 +17,6 @@
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 13:44:18](https://news.ycombinator.com/item?id=38911791) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
-* [2024-01-08, 13:28:38](https://news.ycombinator.com/item?id=38911614) - [Oklahoma receives first \"Made in Oklahoma\" EV](https://oklahoma.gov/omes/newsroom/2023/state-receives-first-made-in-oklahoma-electric-vehicles-from-canoo.html)
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [bigFORTH (1997)](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
 * [2024-01-08, 12:23:44](https://news.ycombinator.com/item?id=38910965) - [The Mystery of the Coin That Shouldn't Exist](https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html)
@@ -24,10 +24,10 @@
 * [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 * [2024-01-08, 00:29:48](https://news.ycombinator.com/item?id=38906736) - [Machine learning helps fuzzing find hardware bugs](https://spectrum.ieee.org/hardware-hacking)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What does the cerebellum do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+* [2024-01-07, 20:44:48](https://news.ycombinator.com/item?id=38904963) - [Attacks on machine learning models](https://rnikhil.com/2024/01/07/attacking-neural-networks.html)
 * [2024-01-07, 18:40:06](https://news.ycombinator.com/item?id=38903857) - [My Year of Exploration](https://jacek.migdal.pl/2024/01/07/the-year-of-exploration.html)
 * [2024-01-07, 16:17:47](https://news.ycombinator.com/item?id=38902414) - [The browser's biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-07, 13:38:41](https://news.ycombinator.com/item?id=38901089) - [C Compiler Assembler and Runtime for C64](https://github.com/drmortalwombat/oscar64)
-* [2024-01-07, 12:40:50](https://news.ycombinator.com/item?id=38900758) - [Ask HN: Small-batch builds of smaller phyiscal objects](https://news.ycombinator.com/item?id=38900758)
 * [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [Lessons from building nine startups in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
 
