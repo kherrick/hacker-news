@@ -14,6 +14,7 @@
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 19:08:25](https://news.ycombinator.com/item?id=38916596) - [An \"AI Breakthrough\" on Systematic Generalization in Language?](https://aiguide.substack.com/p/an-ai-breakthrough-on-systematic)
 * [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
+* [2024-01-08, 18:46:17](https://news.ycombinator.com/item?id=38916266) - [Unverified vanity URLs and interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
 * [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
 * [2024-01-08, 18:42:42](https://news.ycombinator.com/item?id=38916198) - [Fred Wilson: Read Write Own](https://avc.xyz/read-write-own)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
