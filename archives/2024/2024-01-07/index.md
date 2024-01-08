@@ -62,6 +62,7 @@
 * [2024-01-07, 12:59:05](https://news.ycombinator.com/item?id=38900843) - [802.11ah Wi-Fi HaLOW: The 1 Kilometer WiFi Standard](https://hackaday.com/2024/01/07/802-11ah-wi-fi-halow-the-1-kilometer-wifi-standard/)
 * [2024-01-07, 12:56:20](https://news.ycombinator.com/item?id=38900826) - [The Four Team Types from Team Topologies](https://itrevolution.com/articles/four-team-types/)
 * [2024-01-07, 12:51:53](https://news.ycombinator.com/item?id=38900809) - [One year ago we flooded a forest [video]](https://www.youtube.com/watch?v=-q7z8sm5UaM)
+* [2024-01-07, 12:40:50](https://news.ycombinator.com/item?id=38900758) - [Ask HN: Small-batch builds of smaller phyiscal objects](https://news.ycombinator.com/item?id=38900758)
 * [2024-01-07, 12:35:00](https://news.ycombinator.com/item?id=38900721) - [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
 * [2024-01-07, 12:25:57](https://news.ycombinator.com/item?id=38900671) - [RIP Microsoft WordPad. You Will Be Missed](https://gizmodo.com/microsoft-wordpad-gone-windows-11-1851144100)
 * [2024-01-07, 12:19:32](https://news.ycombinator.com/item?id=38900632) - [MozillaSocial](https://github.com/MozillaSocial/mozilla-social-android)

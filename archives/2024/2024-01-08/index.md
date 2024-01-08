@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
 * [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [\"95% of container ships are now going around the Southern Tip of Africa\"](https://twitter.com/typesfast/status/1743654060673093754)
+* [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
+* [2024-01-08, 14:42:08](https://news.ycombinator.com/item?id=38912581) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2024-01-08, 14:39:25](https://news.ycombinator.com/item?id=38912534) - [Almost never use a pie chart for your data](https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576)
 * [2024-01-08, 14:37:05](https://news.ycombinator.com/item?id=38912497) - [Jeff Lawson Steps Down as CEO of Twilio](https://investors.twilio.com/news/news-details/2024/Twilio-Announces-CEO-Transition/default.aspx)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
