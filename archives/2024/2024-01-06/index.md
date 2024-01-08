@@ -7,6 +7,7 @@
 * [2024-01-06, 23:59:47](https://news.ycombinator.com/item?id=38896896) - [Original Age of Empires 2 dev talks about its usage of assembly code](https://old.reddit.com/r/aoe2/comments/18ysttu/aoe_is_written_in_assembly_is_this_actually_true_o/)
 * [2024-01-06, 23:57:02](https://news.ycombinator.com/item?id=38896879) - [On building a semantic search engine](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 * [2024-01-06, 23:43:13](https://news.ycombinator.com/item?id=38896787) - [1195725856 and other mysterious numbers (2020)](https://chrisdown.name/2020/01/13/1195725856-and-friends-the-origins-of-mysterious-numbers.html)
+* [2024-01-06, 23:19:19](https://news.ycombinator.com/item?id=38896606) - [How to avoid picking terrible metrics](https://www.elliotcsmith.com/how-to-avoid-picking-terrible-metrics/)
 * [2024-01-06, 22:24:53](https://news.ycombinator.com/item?id=38896157) - [Dimensional Analysis and Black Holes [pdf]](https://hapax.github.io/assets/dimensional-analysis.pdf)
 * [2024-01-06, 22:17:37](https://news.ycombinator.com/item?id=38896096) - [Libwebsockets: pure C library for http, websockets, MQTT](https://github.com/warmcat/libwebsockets)
 * [2024-01-06, 22:16:33](https://news.ycombinator.com/item?id=38896075) - [Stream to Chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
