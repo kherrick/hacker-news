@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 14:39:25](https://news.ycombinator.com/item?id=38912534) - [Almost never use a pie chart for your data](https://theconversation.com/heres-why-you-should-almost-never-use-a-pie-chart-for-your-data-214576)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 14:11:21](https://news.ycombinator.com/item?id=38912125) - [IT Employment Grew by Just 700 Jobs in 2023, Down From 267,000 in 2022](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
 * [2024-01-08, 14:03:51](https://news.ycombinator.com/item?id=38912032) - [Apple Vision Pro available in the U.S. on February 2](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)
