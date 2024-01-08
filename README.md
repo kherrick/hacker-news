@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 20:16:12](https://news.ycombinator.com/item?id=38917499) - [AMD 8000G APUs launch Jan 31, $329 8700G competes with desktop GTX1650 in gaming](https://videocardz.com/newz/amd-ryzen-8000g-zen4-apu-series-launch-january-31-ryzen-7-8700g-competes-with-desktop-geforce-gtx-1650-in-gaming)
 * [2024-01-08, 19:54:46](https://news.ycombinator.com/item?id=38917175) - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 * [2024-01-08, 19:16:58](https://news.ycombinator.com/item?id=38916694) - [What is a standard error? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf)
 * [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 18:54:05](https://news.ycombinator.com/item?id=38916397) - [Async file IO in Java is not truly async [Resource, Tech blog]](https://cmhteixeira.com/concurrency/asyncfileio.html)
 * [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
-* [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 17:41:55](https://news.ycombinator.com/item?id=38915421) - [Pg_rman: Backup/Restore Tool for PostgreSQL](https://github.com/ossc-db/pg_rman)
