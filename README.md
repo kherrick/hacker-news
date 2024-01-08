@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 20:43:37](https://news.ycombinator.com/item?id=38917820) - [United finds loose bolts on plug doors during 737 Max 9 inspections](https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/)
 * [2024-01-08, 20:22:19](https://news.ycombinator.com/item?id=38917569) - [Which Airlines Are Not Flying the Boeing 737 Max?](https://www.alternativeairlines.com/airlines-not-flying-boeing-737-max)
 * [2024-01-08, 20:16:12](https://news.ycombinator.com/item?id=38917499) - [AMD 8000G APUs launch Jan 31, $329 8700G competes with desktop GTX1650 in gaming](https://videocardz.com/newz/amd-ryzen-8000g-zen4-apu-series-launch-january-31-ryzen-7-8700g-competes-with-desktop-geforce-gtx-1650-in-gaming)
 * [2024-01-08, 19:54:46](https://news.ycombinator.com/item?id=38917175) - [The curious case of the Raspberry Pi in the network closet (2019)](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
@@ -27,7 +28,6 @@
 * [2024-01-08, 11:49:05](https://news.ycombinator.com/item?id=38910708) - [Polly.js – Record, replay, and stub HTTP interactions](https://netflix.github.io/pollyjs/)
 * [2024-01-07, 20:44:48](https://news.ycombinator.com/item?id=38904963) - [Attacks on machine learning models](https://rnikhil.com/2024/01/07/attacking-neural-networks.html)
 * [2024-01-07, 16:17:47](https://news.ycombinator.com/item?id=38902414) - [The browser's biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
-* [2024-01-07, 11:36:52](https://news.ycombinator.com/item?id=38900397) - [Sandy Fingerprints Trace Supply Sources](https://eos.org/articles/sandy-fingerprints-trace-supply-sources)
 * [2024-01-07, 10:34:56](https://news.ycombinator.com/item?id=38900069) - [Lessons from building nine startups in 2023](https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur)
 * [2024-01-07, 07:05:31](https://news.ycombinator.com/item?id=38899183) - [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
 
