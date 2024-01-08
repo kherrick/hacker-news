@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
+* [2024-01-08, 16:57:12](https://news.ycombinator.com/item?id=38914825) - [Japan's nuclear power plants largely undamaged following quake](https://www.japantimes.co.jp/news/2024/01/02/japan/earthquake-nuclear-power-plants/)
 * [2024-01-08, 16:29:43](https://news.ycombinator.com/item?id=38914407) - [Today we celebrate by announcing that Elixir is a gradually typed language](https://twitter.com/josevalim/status/1744395345872683471)
 * [2024-01-08, 16:27:08](https://news.ycombinator.com/item?id=38914356) - [Nvidia Announces New GeForce RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super](https://www.nvidia.com/en-us/geforce/news/geforce-rtx-4080-4070-ti-4070-super-gpu/)
 * [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
@@ -20,7 +21,6 @@
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How meta built the infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
-* [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What does the cerebellum do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-07, 18:40:06](https://news.ycombinator.com/item?id=38903857) - [My Year of Exploration](https://jacek.migdal.pl/2024/01/07/the-year-of-exploration.html)
