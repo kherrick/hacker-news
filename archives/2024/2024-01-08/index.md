@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 * [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
