@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
+* [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:57:12](https://news.ycombinator.com/item?id=38914825) - [Japan's nuclear power plants largely undamaged following quake](https://www.japantimes.co.jp/news/2024/01/02/japan/earthquake-nuclear-power-plants/)
 * [2024-01-08, 16:42:41](https://news.ycombinator.com/item?id=38914590) - [Using ChatGPT to tell Harry Potter characters that they are not real](https://justpaste.it/buvnp)
@@ -12,6 +14,7 @@
 * [2024-01-08, 15:59:41](https://news.ycombinator.com/item?id=38913857) - [Peregrine moon lander suffers anomaly after launch](https://spacenews.com/peregrine-lander-suffers-anomaly-after-launch/)
 * [2024-01-08, 15:47:53](https://news.ycombinator.com/item?id=38913649) - [Tuna species popular in sashimi and poke bowls in sharp decline](https://phys.org/news/2024-01-tuna-species-popular-sashimi-bowls.html)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
+* [2024-01-08, 15:23:10](https://news.ycombinator.com/item?id=38913220) - [Show HN: I Made a Sudoku Game](https://sudoku-aj.netlify.app/)
 * [2024-01-08, 15:22:48](https://news.ycombinator.com/item?id=38913212) - [Alaska 737 cockpit voice recorder data erasure renews safety debate](https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/)
 * [2024-01-08, 15:07:30](https://news.ycombinator.com/item?id=38912974) - [\"95% of container ships are now going around the Southern Tip of Africa\"](https://twitter.com/typesfast/status/1743654060673093754)
 * [2024-01-08, 14:53:58](https://news.ycombinator.com/item?id=38912764) - [Ask HN: What alternatives exist to a Mac mini but for Windows?](https://news.ycombinator.com/item?id=38912764)
@@ -35,6 +38,7 @@
 * [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-08, 11:55:03](https://news.ycombinator.com/item?id=38910744) - [Wix employee sacked over criticism of Israel files unfair dismissal claim](https://www.irishtimes.com/business/work/2024/01/08/wix-employee-sacked-over-criticism-of-israel-files-unfair-dismissal-claim/)
 * [2024-01-08, 11:53:55](https://news.ycombinator.com/item?id=38910734) - [Impulse Induction Stove: boils water in 40s and has backup battery for outages](https://www.impulselabs.com/)
+* [2024-01-08, 11:53:51](https://news.ycombinator.com/item?id=38910733) - [Show HN: I made an online Webhook Tester](https://webhook.cool/)
 * [2024-01-08, 11:53:39](https://news.ycombinator.com/item?id=38910731) - [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
 * [2024-01-08, 11:49:05](https://news.ycombinator.com/item?id=38910708) - [Polly.js – Record, replay, and stub HTTP interactions](https://netflix.github.io/pollyjs/)
 * [2024-01-08, 11:33:09](https://news.ycombinator.com/item?id=38910612) - [I created a language learning method that helps you learn French in 4 months](https://news.ycombinator.com/item?id=38910612)
