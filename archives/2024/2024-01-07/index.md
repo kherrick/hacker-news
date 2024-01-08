@@ -29,6 +29,7 @@
 * [2024-01-07, 19:55:54](https://news.ycombinator.com/item?id=38904574) - [Pure C WebRTC](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c)
 * [2024-01-07, 19:51:26](https://news.ycombinator.com/item?id=38904532) - [Fairness and kindness are not weaknesses](https://gerrymcgovern.com/fairness-and-kindness-are-not-weaknesses/)
 * [2024-01-07, 19:39:05](https://news.ycombinator.com/item?id=38904418) - [Higher fees, more ads: streaming cashes in by using the old tactics of cable TV](https://theconversation.com/with-higher-fees-and-more-ads-streaming-services-like-netflix-disney-and-hulu-are-cashing-in-by-using-the-old-tactics-of-cable-tv-215048)
+* [2024-01-07, 19:21:24](https://news.ycombinator.com/item?id=38904255) - [Designing, manufacturing, and selling an LED 'social battery' pin badge](https://davidcapper.dev/posts/social-batteries-part-1)
 * [2024-01-07, 19:12:26](https://news.ycombinator.com/item?id=38904180) - [Live Objects All the Way Down: Removing the Barriers Between Apps and VMs](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 18:59:45](https://news.ycombinator.com/item?id=38904068) - [Tiny Computers from Texas: The Early History of the Microcontroller](https://thechipletter.substack.com/p/tiny-computers-from-texas)
 * [2024-01-07, 18:41:19](https://news.ycombinator.com/item?id=38903869) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
