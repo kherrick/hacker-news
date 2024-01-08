@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 07:46:54](https://news.ycombinator.com/item?id=38909220) - [Dutch man sabotaged Iranian nuclear program without Dutch government's knowledge](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
 * [2024-01-08, 05:05:56](https://news.ycombinator.com/item?id=38908496) - [Why use strace in 2023? [video]](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
+* [2024-01-08, 04:54:20](https://news.ycombinator.com/item?id=38908427) - [How Meta Built the Infrastructure for Threads](https://engineering.fb.com/2023/12/19/core-infra/how-meta-built-the-infrastructure-for-threads/)
 * [2024-01-08, 03:13:53](https://news.ycombinator.com/item?id=38907821) - [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 * [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
 * [2024-01-08, 00:46:40](https://news.ycombinator.com/item?id=38906881) - [How An ASML Lithography Machine Moves a Wafer [video]](https://www.youtube.com/watch?v=1fOA85xtYxs)
-* [2024-01-08, 00:32:14](https://news.ycombinator.com/item?id=38906761) - [Scotia, California is owned by a New York investment firm](https://www.newyorker.com/news/us-journal/scotia-the-california-town-owned-by-a-new-york-investment-firm)
 * [2024-01-08, 00:07:56](https://news.ycombinator.com/item?id=38906586) - [Buffett once bet $1M that he could beat a group of hedge funds over 10 years](https://finance.yahoo.com/news/warren-buffett-once-bet-1m-113000485.html)
 * [2024-01-07, 23:28:38](https://news.ycombinator.com/item?id=38906331) - [\"LibreOffice is better at reading old Word files than Word\"](https://eldritch.cafe/@sfwrtr/111716610017454919)
 * [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
@@ -29,7 +30,6 @@
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-06, 11:21:27](https://news.ycombinator.com/item?id=38890489) - [The Usefulness of Useless Knowledge (1939) [pdf]](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
 * [2024-01-05, 07:10:08](https://news.ycombinator.com/item?id=38876560) - [Paradise Lost (1667)](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
-* [2024-01-05, 04:46:35](https://news.ycombinator.com/item?id=38875778) - [Intensionality vs. Intentionality (2002)](https://cse.buffalo.edu/~rapaport/intensional.html)
 
 ## [Archives](archives/index.md)
 
