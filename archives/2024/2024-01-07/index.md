@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 23:54:22](https://news.ycombinator.com/item?id=38906495) - [Minuteman III Missiles Are Too Old to Upgrade Anymore, Stratcom Chief Says](https://www.military.com/daily-news/2021/01/06/minuteman-iii-missiles-are-too-old-upgrade-anymore-stratcom-chief-says.html)
+* [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+* [2024-01-07, 22:03:38](https://news.ycombinator.com/item?id=38905628) - [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
@@ -64,6 +67,7 @@
 * [2024-01-07, 10:28:30](https://news.ycombinator.com/item?id=38900049) - [Someone bought 26.9 BTC on Binance and sent it to Satoshi's dead wallet](https://www.blockchain.com/explorer/transactions/btc/d7db4f96a4059c8906b953677ce533493d7b9da0f854a21b99f5772910dd0a31)
 * [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
+* [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-07, 07:29:21](https://news.ycombinator.com/item?id=38899290) - [DNS Toys](https://www.dns.toys/)
 * [2024-01-07, 07:02:06](https://news.ycombinator.com/item?id=38899169) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin, Germany](https://www.workatastartup.com/jobs/62929)
 * [2024-01-07, 06:22:42](https://news.ycombinator.com/item?id=38899001) - [Linear CEO Alleges Carta Mishandled Sensitive Cap Table Data](https://twitter.com/karrisaarinen/status/1743824345334714587)
