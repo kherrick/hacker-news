@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-08, 04:03:31](https://news.ycombinator.com/item?id=38908126) - [Carta customers say platform tried to trade their shares without consent](https://www.ft.com/content/40340631-134d-493e-aec5-b5acc168e784)
 * [2024-01-08, 02:57:15](https://news.ycombinator.com/item?id=38907729) - [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
 * [2024-01-08, 01:52:31](https://news.ycombinator.com/item?id=38907366) - [Programming as Theory Building – Peter Naur](https://gist.github.com/onlurking/fc5c81d18cfce9ff81bc968a7f342fb1)
 * [2024-01-08, 01:03:09](https://news.ycombinator.com/item?id=38906989) - [Show HN: I made a HTMX Playground 100% in the browser](https://lassebomh.github.io/htmx-playground/)
 * [2024-01-08, 01:00:47](https://news.ycombinator.com/item?id=38906966) - [I made an app that runs Mistral 7B 0.2 LLM locally on iPhone Pros](https://apps.apple.com/us/app/offline-chat-private-ai/id6474077941)
-* [2024-01-08, 00:31:03](https://news.ycombinator.com/item?id=38906749) - [How We Handle Cap Table Information – Henry Ward](https://henrysward.medium.com/how-we-handle-captable-information-c98d85d79277)
 * [2024-01-07, 23:28:38](https://news.ycombinator.com/item?id=38906331) - [\"LibreOffice is better at reading old Word files than Word\"](https://eldritch.cafe/@sfwrtr/111716610017454919)
 * [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)

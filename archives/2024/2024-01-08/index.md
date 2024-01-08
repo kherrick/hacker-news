@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 04:03:31](https://news.ycombinator.com/item?id=38908126) - [Carta customers say platform tried to trade their shares without consent](https://www.ft.com/content/40340631-134d-493e-aec5-b5acc168e784)
 * [2024-01-08, 02:57:15](https://news.ycombinator.com/item?id=38907729) - [Database of 16,000 Artists Used to Train Midjourney AI Goes Viral](https://www.artnews.com/art-news/news/midjourney-ai-artists-database-1234691955/)
 * [2024-01-08, 02:34:21](https://news.ycombinator.com/item?id=38907620) - [iPhone that fell from hole in Alaska 737 MAX flight is found, still open to Mail](https://twitter.com/SeanSafyre/status/1744138937239822685)
 * [2024-01-08, 02:24:54](https://news.ycombinator.com/item?id=38907568) - [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
