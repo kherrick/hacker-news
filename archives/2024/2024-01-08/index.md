@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
+* [2024-01-08, 13:39:27](https://news.ycombinator.com/item?id=38911731) - [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
 * [2024-01-08, 12:35:29](https://news.ycombinator.com/item?id=38911078) - ['Greener, cheaper, much warmer' – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
@@ -12,6 +14,7 @@
 * [2024-01-08, 11:53:39](https://news.ycombinator.com/item?id=38910731) - [Big Tech has already made enough money in 2024 to pay all its 2023 fines](https://proton.me/blog/big-tech-2023-fines-vs-revenue)
 * [2024-01-08, 11:33:09](https://news.ycombinator.com/item?id=38910612) - [I created a language learning method that helps you learn French in 4 months](https://news.ycombinator.com/item?id=38910612)
 * [2024-01-08, 11:23:44](https://news.ycombinator.com/item?id=38910565) - [\"Dutch engineer carried out Iranian nuclear sabotage\": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
+* [2024-01-08, 11:22:47](https://news.ycombinator.com/item?id=38910555) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.com/news/technology-67911517)
 * [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 * [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The Phrase \"No Evidence\" Is a Red Flag for Bad Science Communication](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
