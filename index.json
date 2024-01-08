@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 19:16:58",
+      "https://news.ycombinator.com/item?id=38916694"
+    ],
+    [
+      "What is a standard error? [pdf]",
+      "http://www.stat.columbia.edu/~gelman/research/published/standarderror.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 19:13:32",
       "https://news.ycombinator.com/item?id=38916647"
     ],
@@ -27,6 +37,16 @@
     [
       "Solver Performance: 1989 vs. 2024",
       "https://www.solvermax.com/blog/solver-performance-1989-vs-2024"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 18:42:42",
+      "https://news.ycombinator.com/item?id=38916198"
+    ],
+    [
+      "Fred Wilson: Read Write Own",
+      "https://avc.xyz/read-write-own"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Pg_rman: Backup/Restore Tool for PostgreSQL",
       "https://github.com/ossc-db/pg_rman"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 17:39:40",
-      "https://news.ycombinator.com/item?id=38915391"
-    ],
-    [
-      "TIL: Go's CompareAndSwap is not always Compare-and-swap",
-      "https://lu.sagebl.eu/notes/go-cas/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The browser's biggest TLS mistake",
       "https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 13:38:41",
-      "https://news.ycombinator.com/item?id=38901089"
-    ],
-    [
-      "C Compiler Assembler and Runtime for C64",
-      "https://github.com/drmortalwombat/oscar64"
     ]
   ],
   [
