@@ -2,12 +2,14 @@
 
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:58:33](https://news.ycombinator.com/item?id=38931166) - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
-* [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders](https://thebookofshaders.com/)
-* [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
+* [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
+* [2024-01-09, 19:31:10](https://news.ycombinator.com/item?id=38930746) - [FTC bans X-Mode from selling phone location data, and orders firm to delete data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
+* [2024-01-09, 19:15:50](https://news.ycombinator.com/item?id=38930552) - [Does Not Translate](https://doesnottranslate.com/)
 * [2024-01-09, 18:36:39](https://news.ycombinator.com/item?id=38930011) - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 18:05:56](https://news.ycombinator.com/item?id=38929543) - [Flakes aren't real and cannot hurt you: using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
+* [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 MAX?](https://www.ismyplanea737max.com/)
 * [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
@@ -20,7 +22,6 @@
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
-* [2024-01-09, 12:40:59](https://news.ycombinator.com/item?id=38925471) - [Startup Founders Fret over Getting Fired Like Sam Altman](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c)
 * [2024-01-09, 12:22:42](https://news.ycombinator.com/item?id=38925307) - [Turing Complete is a game about computer science](https://turingcomplete.game/)
 * [2024-01-09, 10:07:05](https://news.ycombinator.com/item?id=38924310) - [Practising Programming (2022)](https://tratt.net/laurie/blog/2022/practising_programming.html)
 * [2024-01-09, 09:44:29](https://news.ycombinator.com/item?id=38924159) - [Using Git Offline](https://www.gibbard.me/using_git_offline/)
@@ -29,7 +30,6 @@
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [\"Bit-Banging\" Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
 * [2024-01-08, 14:21:03](https://news.ycombinator.com/item?id=38912240) - [Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
 * [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
-* [2024-01-07, 22:18:14](https://news.ycombinator.com/item?id=38905742) - [Scholars now argue that early nomadic empires were the architects of modernity](https://www.newyorker.com/magazine/2024/01/01/empires-of-the-steppes-the-nomadic-tribes-who-shaped-civilization-kenneth-harl-book-review)
 
 ## [Archives](archives/index.md)
 
