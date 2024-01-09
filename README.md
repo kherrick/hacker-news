@@ -2,9 +2,9 @@
 
 * [2024-01-09, 10:30:29](https://news.ycombinator.com/item?id=38924481) - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
 * [2024-01-09, 10:12:24](https://news.ycombinator.com/item?id=38924345) - [The \"10k-hour rule\" was debunked again](https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked)
+* [2024-01-09, 10:07:05](https://news.ycombinator.com/item?id=38924310) - [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
 * [2024-01-09, 10:04:49](https://news.ycombinator.com/item?id=38924300) - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
 * [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat pumps, more than you wanted to know (2023)](https://calv.info/heat-pumps)
-* [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 07:22:59](https://news.ycombinator.com/item?id=38923362) - [BBC Bias- NLP Analysis of BBC Israel-Palestine Reporting](https://github.com/liet-git/bbc-bias)
 * [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
