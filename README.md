@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-09, 08:13:13](https://news.ycombinator.com/item?id=38923627) - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
+* [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
@@ -20,7 +21,6 @@
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
 * [2024-01-08, 16:52:56](https://news.ycombinator.com/item?id=38914764) - [An overview of distributed Postgres architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
-* [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 * [2024-01-08, 12:53:16](https://news.ycombinator.com/item?id=38911245) - [How to mod any lens for anamorphic bokeh](https://vmoldo.com/anamorfic-inserts/)
 * [2024-01-07, 22:34:05](https://news.ycombinator.com/item?id=38905896) - [Are we stuck with the Zoo Hypothesis?](https://www.universetoday.com/165005/after-all-of-this-time-searching-for-aliens-are-we-stuck-with-the-zoo-hypothesis/)

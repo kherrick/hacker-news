@@ -6,6 +6,7 @@
 
 * [2024-01-09, 08:13:13](https://news.ycombinator.com/item?id=38923627) - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
 * [2024-01-09, 06:38:07](https://news.ycombinator.com/item?id=38923119) - [Ask HN: Do you know anyone at Facebook?](https://news.ycombinator.com/item?id=38923119)
+* [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral: A Sparse Mixture of Experts Model](https://arxiv.org/abs/2401.04088)
