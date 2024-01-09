@@ -129,25 +129,137 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="38927699">
+        <section id="38928064">
           <h3>
-            <a
-              class="item"
-              href="https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation"
-              >X Purges Prominent Journalists, Leftists with No Explanation</a
+            <a class="item" href="https://news.ycombinator.com/item?id=38928064"
+              >Launch HN: Corgea (YC S23) – Auto fix vulnerable code</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-01-09 @ 16:07:37</span
+              <span>2024-01-09 @ 16:32:21</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38927699"
+                ><a href="https://news.ycombinator.com/item?id=38928064"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://corgea.com">https://corgea.com</a>). We help
+              companies fix their vulnerable source code using AI.
+              <p>
+                Originally, we started with a data security product that would
+                detect data leaks at companies. Despite initial successes and
+                customer acquisitions, we frequently heard that highlighting
+                issues wasn't enough; customers wanted proactive fixes. They had
+                hundreds (yes hundreds!) of security tools alerting them about
+                vulnerabilities, but couldn’t afford a dedicated team to go
+                through them all and fix them. One prospect we spoke to had tens
+                of thousands of reported vulnerabilities in their SAST tool.
+                With the rise of AI code generation, we saw an opportunity to
+                give customers what they really wanted.
+              </p>
+              <p>
+                Having Corgea is like having a security engineer on staff
+                focused on making your code more secure. We want security to be
+                an enabler of engineering rather than a blocker to it, and the
+                reverse to be true. To accomplish this, we built it on top of
+                existing LLMs to issue code fixes.
+              </p>
+              <p>
+                To show Corgea’s capabilities, we took some popular
+                vulnerable-by-design applications like Juice Shop (<a
+                  href="https://github.com/juice-shop/juice-shop"
+                  >https://github.com/juice-shop/juice-shop</a
+                >), scanned them and issued fixes for their vulnerabilities. You
+                can see some of them here:
+                <a href="https://demo.corgea.com">https://demo.corgea.com</a>.
+                Some examples of vulnerabilities it solves are like SQL
+                injection, Path Traversal and XSS.
+              </p>
+              <p>
+                What makes this tough is that currently LLMs struggle at
+                generalist coding tasks because it has to understand your whole
+                code base, the domain you’re in, and the user’s request to do
+                something. This can lead to a lot of unintended behavior where
+                it codes things incorrectly because it’s giving a best guess at
+                what you want. Adam, one of the founding engineers on the team
+                coined it well: LLMs don’t reason, they fuzz.
+              </p>
+              <p>
+                We made several decisions that helped the LLM become more
+                deterministic. First, what we’re doing is extremely domain
+                specific: vulnerable code fixes in a limited number of
+                programming languages. There are roughly 900 security
+                vulnerabilities in code, called CWE’s (<a
+                  href="https://cwe.mitre.org/"
+                  >https://cwe.mitre.org/</a
+                >), that we’ve built into Corgea. An SQL injection vulnerability
+                in a Javascript app is the same regardless if you’re a payments
+                company or a travel booking website. Second, we have no user
+                generated input going into the LLM, because SAST scanners
+                everything needed to issue a fix. This makes it much more
+                predictable and reproducible for us and customers. We can also
+                create robust QA processes and checks.
+              </p>
+              <p>
+                To illustrate the point, let’s put some of this to the test
+                using some napkin math. Assume you’re serving 5,000 enterprises
+                that ship on average 300 domain specific features a year in 5
+                different programming languages that each require 30 lines of
+                code changes across multiple files. You’ll have about 300m
+                permutations the product needs to support. What a nightmare!
+              </p>
+              <p>
+                Using the same napkin math, Corgea needs to support the ~900
+                vulnerabilities (CWE’s). Most of them require 1 - 2 line
+                changes. It doesn’t need to understand the whole codebase since
+                the problem is usually isolated to a few lines. We want to
+                support the 5 most popular programming languages. If we have
+                5,000 customers, we have to support ~4,500 permutations (900
+                issues x 5 different languages). This leads to a massive
+                difference in accuracy. Obviously, this is an oversimplification
+                of the whole thing but it illustrates the point.
+              </p>
+              <p>
+                What makes this different from Copilot and other code-gen tools
+                is that they do not specialize in security and we’ve seen them
+                inadvertently introduce security issues unbeknownst to the
+                engineer. Additionally, they do not integrate into existing
+                scanning tools that companies are using to resolve those issues.
+                So unless a developer is working on every part of the product,
+                they’re unable to clear security backlogs, which can be in the
+                thousands of tickets.
+              </p>
+              <p>
+                As for security scanners, the current market is flooded with
+                tools that report and overwhelm security teams and are not
+                effective at fixing what they’re reporting. Most vulnerability
+                scanners do not remediate issues, and if they do they’re mostly
+                limited to upgrading packages from one version to another to
+                reduce a CVSS. If they do offer CWE remediation capabilities
+                their success rates are very low because they’re often based on
+                traditional AI methodologies. Additionally, they do not
+                integrate with each other because they want to only serve their
+                own findings. Enterprises use multiple tools like Snyk, Semgrep,
+                Checkmarx, but also have a penetration testing program, and a
+                bug bounty program. They need a solution that consolidates
+                across their existing tools. They also use Github, Gitlab and
+                Bitbucket for their code repository.
+              </p>
+              <p>
+                We’re offering a free tier for smaller teams and priced tiers.
+                We believe we can reduce 80% of the engineering effort for
+                security fixes, which would equate to at least $10m a year for
+                enterprises.
+              </p>
+              <p>
+                We’re really excited to share this with you all and we’d love
+                any thoughts, feedback, and comments!
+              </p>
+            </div>
           </section>
         </section>
         <section id="38927334">
@@ -162,11 +274,11 @@
             <h4>
               <span>2024-01-09 @ 15:37:14</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38927334"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -183,11 +295,11 @@
             <h4>
               <span>2024-01-09 @ 15:15:37</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38927087"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -205,11 +317,33 @@
             <h4>
               <span>2024-01-09 @ 15:06:07</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38926982"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38926978">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project"
+              >GE Vernova announces order of 674 wind turbines, providing 2.4 GW
+              of power</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-09 @ 15:05:40</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38926978"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -226,11 +360,11 @@
             <h4>
               <span>2024-01-09 @ 14:21:51</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38926476"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -243,7 +377,7 @@
             <h4>
               <span>2024-01-09 @ 13:32:17</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925952"
                   >Comments</a
@@ -263,11 +397,11 @@
             <h4>
               <span>2024-01-09 @ 13:29:20</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925928"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -283,7 +417,7 @@
             <h4>
               <span>2024-01-09 @ 13:16:00</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925802"
                   >Comments</a
@@ -304,11 +438,11 @@
             <h4>
               <span>2024-01-09 @ 12:44:00</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925501"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -325,11 +459,11 @@
             <h4>
               <span>2024-01-09 @ 12:39:39</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925449"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -344,11 +478,11 @@
             <h4>
               <span>2024-01-09 @ 12:22:42</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38925307"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -382,7 +516,7 @@
             <h4>
               <span>2024-01-09 @ 10:07:05</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38924310"
                   >Comments</a
@@ -404,11 +538,11 @@
             <h4>
               <span>2024-01-09 @ 10:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">341</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38924300"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 172</span></span
               >
             </h4>
           </section>
@@ -423,11 +557,11 @@
             <h4>
               <span>2024-01-09 @ 09:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38924263"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -442,11 +576,11 @@
             <h4>
               <span>2024-01-09 @ 09:44:29</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38924159"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -463,11 +597,11 @@
             <h4>
               <span>2024-01-09 @ 09:37:04</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38924101"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -482,11 +616,11 @@
             <h4>
               <span>2024-01-09 @ 09:18:53</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38923969"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 188</span></span
               >
             </h4>
           </section>
@@ -503,11 +637,11 @@
             <h4>
               <span>2024-01-09 @ 08:35:58</span
               ><span class="points-container"
-                >Points: <span class="points">580</span></span
+                >Points: <span class="points">601</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38923741"
                   >Comments</a
-                ><span class="descendants">: 268</span></span
+                ><span class="descendants">: 273</span></span
               >
             </h4>
           </section>
@@ -524,11 +658,11 @@
             <h4>
               <span>2024-01-09 @ 08:13:13</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38923627"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 176</span></span
               >
             </h4>
           </section>
@@ -544,11 +678,11 @@
             <h4>
               <span>2024-01-09 @ 05:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38922657"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 140</span></span
               >
             </h4>
           </section>
@@ -586,7 +720,7 @@
             <h4>
               <span>2024-01-09 @ 03:43:57</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38922040"
                   >Comments</a
@@ -605,11 +739,11 @@
             <h4>
               <span>2024-01-09 @ 02:31:37</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38921518"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -626,26 +760,11 @@
             <h4>
               <span>2024-01-09 @ 02:23:15</span
               ><span class="points-container"
-                >Points: <span class="points">462</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38921441"
                   >Comments</a
                 ><span class="descendants">: 121</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38920043">
-          <h3><a class="item" href="https://pola.rs/">Polars</a></h3>
-          <section>
-            <h4>
-              <span>2024-01-08 @ 23:32:54</span
-              ><span class="points-container"
-                >Points: <span class="points">831</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38920043"
-                  >Comments</a
-                ><span class="descendants">: 344</span></span
               >
             </h4>
           </section>
@@ -660,11 +779,11 @@
             <h4>
               <span>2024-01-08 @ 19:15:07</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38916663"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -685,7 +804,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38911407"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -702,11 +821,11 @@
             <h4>
               <span>2024-01-08 @ 12:35:31</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38911079"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -723,11 +842,11 @@
             <h4>
               <span>2024-01-08 @ 11:08:19</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38910462"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
