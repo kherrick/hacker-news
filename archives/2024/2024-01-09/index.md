@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 16:07:37](https://news.ycombinator.com/item?id=38927699) - [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
 * [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
 * [2024-01-09, 15:15:37](https://news.ycombinator.com/item?id=38927087) - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
