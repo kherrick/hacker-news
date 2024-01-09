@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
 * [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
+* [2024-01-09, 16:57:00](https://news.ycombinator.com/item?id=38928453) - [Journalists, Podcasters Booted from X in Latest Banning Spree](https://gizmodo.com/elon-musk-x-twitter-journalists-banning-spree-1851151593)
 * [2024-01-09, 16:49:09](https://news.ycombinator.com/item?id=38928334) - [Non-PC compatible x86 computers (Deleted Wikipedia article I wrote in 2007)](https://lproven.livejournal.com/189791.html)
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
 * [2024-01-09, 16:45:25](https://news.ycombinator.com/item?id=38928265) - [You Don't Need More Resilience. You Need Friends. and Money](https://www.bloomberg.com/opinion/articles/2024-01-09/what-you-ve-heard-about-resilience-is-probably-wrong)
