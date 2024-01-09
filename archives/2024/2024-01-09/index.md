@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 18:33:41](https://news.ycombinator.com/item?id=38929967) - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
+* [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
+* [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
+* [2024-01-09, 18:05:56](https://news.ycombinator.com/item?id=38929543) - [Flakes aren't real and cannot hurt you: using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [2024-01-09, 17:33:23](https://news.ycombinator.com/item?id=38928999) - [Murphy's Law and Its Progeny](https://zira.home.xs4all.nl/murphy.html)
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
 * [2024-01-09, 17:12:31](https://news.ycombinator.com/item?id=38928693) - [Discord Serves 15M Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users)
+* [2024-01-09, 17:11:14](https://news.ycombinator.com/item?id=38928673) - [NSQ: Open-source realtime distributed messaging, billions of messages / day](https://github.com/nsqio/nsq)
 * [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
 * [2024-01-09, 16:57:00](https://news.ycombinator.com/item?id=38928453) - [Journalists, Podcasters Booted from X in Latest Banning Spree](https://gizmodo.com/elon-musk-x-twitter-journalists-banning-spree-1851151593)
 * [2024-01-09, 16:49:09](https://news.ycombinator.com/item?id=38928334) - [Non-PC compatible x86 computers (Deleted Wikipedia article I wrote in 2007)](https://lproven.livejournal.com/189791.html)
