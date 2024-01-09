@@ -6,6 +6,7 @@
 
 * [2024-01-07, 23:54:22](https://news.ycombinator.com/item?id=38906495) - [Minuteman III Missiles Are Too Old to Upgrade Anymore, Stratcom Chief Says](https://www.military.com/daily-news/2021/01/06/minuteman-iii-missiles-are-too-old-upgrade-anymore-stratcom-chief-says.html)
 * [2024-01-07, 23:28:38](https://news.ycombinator.com/item?id=38906331) - [\"LibreOffice is better at reading old Word files than Word\"](https://eldritch.cafe/@sfwrtr/111716610017454919)
+* [2024-01-07, 23:28:33](https://news.ycombinator.com/item?id=38906330) - [The two cultures of mathematics and biology (2014)](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
 * [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
 * [2024-01-07, 22:34:05](https://news.ycombinator.com/item?id=38905896) - [Are we stuck with the Zoo Hypothesis?](https://www.universetoday.com/165005/after-all-of-this-time-searching-for-aliens-are-we-stuck-with-the-zoo-hypothesis/)
