@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
+* [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
 * [2024-01-09, 13:07:01](https://news.ycombinator.com/item?id=38925722) - [SF streets were clean for APEC, here's what Tenderloin and SoMa look like now](https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php)
