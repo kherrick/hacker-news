@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
+* [2024-01-09, 18:40:51](https://news.ycombinator.com/item?id=38930084) - [X Bans and Then Unbans Journalists and Podcasters in Latest Free Speech Massacre](https://gizmodo.com/elon-musk-x-twitter-journalists-banning-spree-1851151593)
 * [2024-01-09, 18:36:39](https://news.ycombinator.com/item?id=38930011) - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
 * [2024-01-09, 18:33:41](https://news.ycombinator.com/item?id=38929967) - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
@@ -22,6 +24,7 @@
 * [2024-01-09, 16:45:25](https://news.ycombinator.com/item?id=38928265) - [You Don't Need More Resilience. You Need Friends. and Money](https://www.bloomberg.com/opinion/articles/2024-01-09/what-you-ve-heard-about-resilience-is-probably-wrong)
 * [2024-01-09, 16:40:17](https://news.ycombinator.com/item?id=38928182) - [Samsung forecasts 85% drop in profit as chip sales falter](https://koreajoongangdaily.joins.com/news/2024-01-09/business/industry/Samsung-forecasts-85-drop-in-profit-for-last-year-amid-chip-slump/1954130)
 * [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
+* [2024-01-09, 16:25:58](https://news.ycombinator.com/item?id=38927960) - [Missing the Point of WebAssembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-09, 16:07:37](https://news.ycombinator.com/item?id=38927699) - [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
 * [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)

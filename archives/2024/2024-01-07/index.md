@@ -12,6 +12,7 @@
 * [2024-01-07, 22:34:05](https://news.ycombinator.com/item?id=38905896) - [Are we stuck with the Zoo Hypothesis?](https://www.universetoday.com/165005/after-all-of-this-time-searching-for-aliens-are-we-stuck-with-the-zoo-hypothesis/)
 * [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
+* [2024-01-07, 22:18:14](https://news.ycombinator.com/item?id=38905742) - [Scholars now argue that early nomadic empires were the architects of modernity](https://www.newyorker.com/magazine/2024/01/01/empires-of-the-steppes-the-nomadic-tribes-who-shaped-civilization-kenneth-harl-book-review)
 * [2024-01-07, 22:03:38](https://news.ycombinator.com/item?id=38905628) - [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
 * [2024-01-07, 21:25:47](https://news.ycombinator.com/item?id=38905291) - [A contemporary poet aims to capture the terror of World War I](https://www.commonwealmagazine.org/ishion-hutchinson-wwi-war-phil-klay-poetry)
