@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-01-09, 18:33:41",
+      "https://news.ycombinator.com/item?id=38929967"
+    ],
+    [
+      "Study Finds Microplastics in Nearly 90% of Proteins Sampled",
+      "https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 18:31:01",
+      "https://news.ycombinator.com/item?id=38929917"
+    ],
+    [
+      "DeepFlow – open-source eBPF Distributed Tracing",
+      "https://deepflow.io/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 18:14:22",
+      "https://news.ycombinator.com/item?id=38929677"
+    ],
+    [
+      "OpenDev is a collaboratory for open source software development at scale",
+      "https://opendev.org/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 18:05:56",
+      "https://news.ycombinator.com/item?id=38929543"
+    ],
+    [
+      "Flakes aren't real and cannot hurt you: using Nix flakes the non-flake way",
+      "https://jade.fyi/blog/flakes-arent-real/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 17:33:23",
       "https://news.ycombinator.com/item?id=38928999"
     ],
@@ -31,6 +71,16 @@
   ],
   [
     [
+      "2024-01-09, 17:11:14",
+      "https://news.ycombinator.com/item?id=38928673"
+    ],
+    [
+      "NSQ: Open-source realtime distributed messaging, billions of messages / day",
+      "https://github.com/nsqio/nsq"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 17:00:53",
       "https://news.ycombinator.com/item?id=38928508"
     ],
@@ -57,16 +107,6 @@
     [
       "Building an e-ink picture frame that displays an iCloud photo album",
       "https://ben.page/eink"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 16:45:25",
-      "https://news.ycombinator.com/item?id=38928265"
-    ],
-    [
-      "You Don't Need More Resilience. You Need Friends. and Money",
-      "https://www.bloomberg.com/opinion/articles/2024-01-09/what-you-ve-heard-about-resilience-is-probably-wrong"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-01-09, 13:32:17",
-      "https://news.ycombinator.com/item?id=38925952"
-    ],
-    [
-      "Moai in Video Games",
-      "https://moai.games/"
-    ]
-  ],
-  [
-    [
       "2024-01-09, 13:29:20",
       "https://news.ycombinator.com/item?id=38925928"
     ],
@@ -167,16 +197,6 @@
     [
       "Practising Programming (2022)",
       "https://tratt.net/laurie/blog/2022/practising_programming.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 10:04:49",
-      "https://news.ycombinator.com/item?id=38924300"
-    ],
-    [
-      "www.google.com – The page is blank when accessed",
-      "https://github.com/webcompat/web-bugs/issues/131916"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-01-09, 02:23:15",
-      "https://news.ycombinator.com/item?id=38921441"
-    ],
-    [
-      "Why does holding a key fob to your head increase its range?",
-      "https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 14:21:03",
       "https://news.ycombinator.com/item?id=38912240"
     ],
     [
       "Researchers create first functional semiconductor made from graphene",
       "https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 13:10:40",
-      "https://news.ycombinator.com/item?id=38911407"
-    ],
-    [
-      "Money pours into new fabs and facilities",
-      "https://semiengineering.com/money-pours-into-new-fabs-and-facilities/"
     ]
   ],
   [
