@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 13:29:20",
+      "https://news.ycombinator.com/item?id=38925928"
+    ],
+    [
+      "Nebula is an open-source and free-to-use modern C++ game engine",
+      "https://github.com/gscept/nebula"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 13:07:01",
       "https://news.ycombinator.com/item?id=38925722"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-01-08, 14:31:26",
-      "https://news.ycombinator.com/item?id=38912406"
-    ],
-    [
-      "k on pdp11",
-      "https://ktye.github.io/pdp11/index.html"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 13:10:40",
       "https://news.ycombinator.com/item?id=38911407"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-01-07, 23:28:33",
-      "https://news.ycombinator.com/item?id=38906330"
+      "2024-01-08, 11:08:19",
+      "https://news.ycombinator.com/item?id=38910462"
     ],
     [
-      "The two cultures of mathematics and biology (2014)",
-      "https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/"
+      "Shader Printf in HLSL and DX12",
+      "https://therealmjp.github.io/posts/hlsl-printf/"
     ]
   ],
   [
