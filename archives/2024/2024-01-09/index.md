@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
 * [2024-01-09, 16:07:37](https://news.ycombinator.com/item?id=38927699) - [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
 * [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
 * [2024-01-09, 15:15:37](https://news.ycombinator.com/item?id=38927087) - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 * [2024-01-09, 15:06:07](https://news.ycombinator.com/item?id=38926982) - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
+* [2024-01-09, 15:05:40](https://news.ycombinator.com/item?id=38926978) - [GE Vernova announces order of 674 wind turbines, providing 2.4 GW of power](https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project)
 * [2024-01-09, 14:35:20](https://news.ycombinator.com/item?id=38926630) - [New York Times has added a web-based Flash player to their archive website](https://eagereyes.org/blog/2024/nytimes-web-flash-player)
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 * [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
