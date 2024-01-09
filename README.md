@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-09, 10:30:29](https://news.ycombinator.com/item?id=38924481) - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
-* [2024-01-09, 10:12:24](https://news.ycombinator.com/item?id=38924345) - [The \"10k-hour rule\" was debunked again](https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked)
+* [2024-01-09, 12:22:08](https://news.ycombinator.com/item?id=38925301) - [The Magnitude of the AI Bubble](https://apolloacademy.com/the-magnitude-of-the-ai-bubble/)
+* [2024-01-09, 12:01:08](https://news.ycombinator.com/item?id=38925125) - [Finley (YC W21) Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
 * [2024-01-09, 10:07:05](https://news.ycombinator.com/item?id=38924310) - [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
 * [2024-01-09, 10:04:49](https://news.ycombinator.com/item?id=38924300) - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
 * [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat pumps, more than you wanted to know (2023)](https://calv.info/heat-pumps)
