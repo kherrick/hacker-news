@@ -66,6 +66,7 @@
 * [2024-01-08, 13:39:27](https://news.ycombinator.com/item?id=38911731) - [Music streaming service SoundCloud tunes up for sale](https://news.sky.com/story/music-streaming-service-soundcloud-tunes-up-for-sale-13043602)
 * [2024-01-08, 13:28:38](https://news.ycombinator.com/item?id=38911614) - [Oklahoma receives first \"Made in Oklahoma\" EV](https://oklahoma.gov/omes/newsroom/2023/state-receives-first-made-in-oklahoma-electric-vehicles-from-canoo.html)
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money Pours into New Fabs and Facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
+* [2024-01-08, 12:53:16](https://news.ycombinator.com/item?id=38911245) - [How to mod any lens for anamorphic bokeh](https://vmoldo.com/anamorfic-inserts/)
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
