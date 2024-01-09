@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 20:47:01](https://news.ycombinator.com/item?id=38931869) - [Ex-Google CEO Eric Schmidt Is Working on a Secret Military Drone Project](https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/)
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:58:33](https://news.ycombinator.com/item?id=38931166) - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
 * [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
 * [2024-01-09, 19:31:10](https://news.ycombinator.com/item?id=38930746) - [FTC bans X-Mode from selling phone location data, and orders firm to delete data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
 * [2024-01-09, 19:15:50](https://news.ycombinator.com/item?id=38930552) - [Does Not Translate](https://doesnottranslate.com/)
-* [2024-01-09, 18:36:39](https://news.ycombinator.com/item?id=38930011) - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 18:05:56](https://news.ycombinator.com/item?id=38929543) - [Flakes aren't real and cannot hurt you: using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)

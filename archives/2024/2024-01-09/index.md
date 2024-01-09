@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 20:47:01](https://news.ycombinator.com/item?id=38931869) - [Ex-Google CEO Eric Schmidt Is Working on a Secret Military Drone Project](https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/)
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:58:33](https://news.ycombinator.com/item?id=38931166) - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
 * [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders](https://thebookofshaders.com/)
