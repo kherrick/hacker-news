@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
-* [2024-01-09, 13:07:01](https://news.ycombinator.com/item?id=38925722) - [SF streets were clean for APEC, here's what Tenderloin and SoMa look like now](https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php)
+* [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
 * [2024-01-09, 13:05:48](https://news.ycombinator.com/item?id=38925704) - [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 * [2024-01-09, 12:44:00](https://news.ycombinator.com/item?id=38925501) - [AMD Unveils AMD Radeon RX 7600 XT Graphics Card](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html)
 * [2024-01-09, 12:40:59](https://news.ycombinator.com/item?id=38925471) - [Startup Founders Fret over Getting Fired Like Sam Altman](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c)
@@ -22,7 +23,6 @@
 * [2024-01-08, 23:32:54](https://news.ycombinator.com/item?id=38920043) - [Polars](https://pola.rs/)
 * [2024-01-08, 19:15:07](https://news.ycombinator.com/item?id=38916663) - [Golden Rules of Interface Design (2013)](https://www.cs.umd.edu/~ben/goldenrules.html)
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
-* [2024-01-08, 12:53:16](https://news.ycombinator.com/item?id=38911245) - [How to mod any lens for anamorphic bokeh](https://vmoldo.com/anamorfic-inserts/)
 * [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
 * [2024-01-08, 11:08:19](https://news.ycombinator.com/item?id=38910462) - [Shader Printf in HLSL and DX12](https://therealmjp.github.io/posts/hlsl-printf/)
 * [2024-01-07, 23:28:33](https://news.ycombinator.com/item?id=38906330) - [The two cultures of mathematics and biology (2014)](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
