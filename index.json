@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 02:03:28",
+      "https://news.ycombinator.com/item?id=38921296"
+    ],
+    [
+      "Carta is exiting the startup stock sale business",
+      "https://www.axios.com/2024/01/09/carta-exits-liquidity-business-startups"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 23:32:54",
       "https://news.ycombinator.com/item?id=38920043"
     ],
@@ -37,26 +47,6 @@
     [
       "Show HN: Merkdir – create Merkle trees from your directories",
       "https://github.com/makew0rld/merkdir"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 21:47:41",
-      "https://news.ycombinator.com/item?id=38918656"
-    ],
-    [
-      "Asking people to \"do the research\" on fake news makes it more believable",
-      "https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 21:39:57",
-      "https://news.ycombinator.com/item?id=38918569"
-    ],
-    [
-      "A Rail Cart for the Space Conscious Passenger (2022)",
-      "https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/"
     ]
   ],
   [
@@ -261,12 +251,22 @@
   ],
   [
     [
-      "2024-01-07, 22:33:18",
-      "https://news.ycombinator.com/item?id=38905891"
+      "2024-01-07, 21:59:21",
+      "https://news.ycombinator.com/item?id=38905590"
     ],
     [
-      "Cycling Doping Fallacies",
-      "https://thenewleafjournal.com/cycling-doping-fallacies/"
+      "Show HN: I made an interactive math crossword puzzle with infinite levels",
+      "https://scientific.place/math-crossword/"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 15:35:39",
+      "https://news.ycombinator.com/item?id=38902042"
+    ],
+    [
+      "Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog",
+      "https://github.com/quickwit-oss/quickwit"
     ]
   ],
   [
