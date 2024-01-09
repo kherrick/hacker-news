@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 17:33:23](https://news.ycombinator.com/item?id=38928999) - [Murphy's Law and Its Progeny](https://zira.home.xs4all.nl/murphy.html)
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
 * [2024-01-09, 17:12:31](https://news.ycombinator.com/item?id=38928693) - [Discord Serves 15M Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users)

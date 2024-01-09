@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 17:33:23](https://news.ycombinator.com/item?id=38928999) - [Murphy's Law and Its Progeny](https://zira.home.xs4all.nl/murphy.html)
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 MAX?](https://www.ismyplanea737max.com/)
 * [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
@@ -29,7 +30,6 @@
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 * [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
 * [2024-01-08, 11:08:19](https://news.ycombinator.com/item?id=38910462) - [Shader Printf in HLSL and DX12](https://therealmjp.github.io/posts/hlsl-printf/)
-* [2024-01-07, 21:25:47](https://news.ycombinator.com/item?id=38905291) - [A contemporary poet aims to capture the terror of World War I](https://www.commonwealmagazine.org/ishion-hutchinson-wwi-war-phil-klay-poetry)
 
 ## [Archives](archives/index.md)
 
