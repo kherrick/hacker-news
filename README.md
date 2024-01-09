@@ -15,6 +15,7 @@
 * [2024-01-09, 00:46:59](https://news.ycombinator.com/item?id=38920738) - [Macs can now inform Apple if any liquids have been detected in the USB-C ports](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
 * [2024-01-08, 23:32:54](https://news.ycombinator.com/item?id=38920043) - [Polars](https://pola.rs/)
 * [2024-01-08, 23:20:21](https://news.ycombinator.com/item?id=38919884) - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
+* [2024-01-08, 23:18:24](https://news.ycombinator.com/item?id=38919862) - [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
 * [2024-01-08, 20:37:54](https://news.ycombinator.com/item?id=38917749) - [Cells across the body talk to each other about aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
 * [2024-01-08, 20:02:48](https://news.ycombinator.com/item?id=38917307) - [How does one patch KDE2 under FreeBSD? (2012)](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
 * [2024-01-08, 19:15:07](https://news.ycombinator.com/item?id=38916663) - [Golden Rules of Interface Design (2013)](https://www.cs.umd.edu/~ben/goldenrules.html)
@@ -27,7 +28,6 @@
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
 * [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
 * [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
-* [2024-01-07, 00:58:51](https://news.ycombinator.com/item?id=38897248) - [The Tensor Network](https://tensornetwork.org)
 * [2024-01-06, 13:33:22](https://news.ycombinator.com/item?id=38891286) - [An Easy to Build Real Homemade Computer: Z80-MBC2](https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/)
 * [2024-01-06, 11:55:27](https://news.ycombinator.com/item?id=38890692) - [The best way to get unstuck](https://ggnotes.com/the-best-way-to-get-unstuck)
 
