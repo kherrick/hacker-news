@@ -71,6 +71,7 @@
 * [2024-01-06, 11:58:44](https://news.ycombinator.com/item?id=38890722) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2024-01-06, 11:57:06](https://news.ycombinator.com/item?id=38890705) - [Show HN: Building a 'liturgical lightbulb', bringing the Calendar to life](https://github.com/grahame/pharus)
 * [2024-01-06, 11:56:08](https://news.ycombinator.com/item?id=38890698) - [Scheme modules vs. whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
+* [2024-01-06, 11:55:27](https://news.ycombinator.com/item?id=38890692) - [The best way to get unstuck](https://ggnotes.com/the-best-way-to-get-unstuck)
 * [2024-01-06, 11:54:34](https://news.ycombinator.com/item?id=38890688) - [Let's Bring Back JavaScript's `With()` Statement](https://macarthur.me/posts/with)
 * [2024-01-06, 11:34:01](https://news.ycombinator.com/item?id=38890564) - [Comics I Loved in 2023](https://riteshbabu.net/2024/01/05/comics-i-loved-in-2023/)
 * [2024-01-06, 11:30:29](https://news.ycombinator.com/item?id=38890540) - [A tiny hand crafted CPU emulator, C compiler, and Operating System](https://github.com/rswier/swieros)
