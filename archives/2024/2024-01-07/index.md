@@ -14,6 +14,7 @@
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 * [2024-01-07, 22:03:38](https://news.ycombinator.com/item?id=38905628) - [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
+* [2024-01-07, 21:25:47](https://news.ycombinator.com/item?id=38905291) - [A contemporary poet aims to capture the terror of World War I](https://www.commonwealmagazine.org/ishion-hutchinson-wwi-war-phil-klay-poetry)
 * [2024-01-07, 21:24:17](https://news.ycombinator.com/item?id=38905280) - [When Random Numbers Are Too Random: Low Discrepancy Sequences](https://blog.demofox.org/2017/05/29/when-random-numbers-are-too-random-low-discrepancy-sequences/)
 * [2024-01-07, 21:17:13](https://news.ycombinator.com/item?id=38905226) - [Mouse filmed tidying up man's shed every night [video]](https://www.youtube.com/watch?v=jLDPzQ42kws)
 * [2024-01-07, 21:12:24](https://news.ycombinator.com/item?id=38905182) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)

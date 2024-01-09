@@ -6,6 +6,7 @@
 
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
+* [2024-01-09, 17:12:31](https://news.ycombinator.com/item?id=38928693) - [Discord Serves 15M Users on One Server](https://blog.bytebytego.com/p/how-discord-serves-15-million-users)
 * [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
 * [2024-01-09, 16:57:00](https://news.ycombinator.com/item?id=38928453) - [Journalists, Podcasters Booted from X in Latest Banning Spree](https://gizmodo.com/elon-musk-x-twitter-journalists-banning-spree-1851151593)
 * [2024-01-09, 16:49:09](https://news.ycombinator.com/item?id=38928334) - [Non-PC compatible x86 computers (Deleted Wikipedia article I wrote in 2007)](https://lproven.livejournal.com/189791.html)
