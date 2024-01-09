@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral: A Sparse Mixture of Experts Model](https://arxiv.org/abs/2401.04088)
+* [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 * [2024-01-09, 02:11:32](https://news.ycombinator.com/item?id=38921343) - [Carta to exit secondary trading business](https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080)
 * [2024-01-08, 23:32:54](https://news.ycombinator.com/item?id=38920043) - [Polars](https://pola.rs/)
 * [2024-01-08, 23:20:21](https://news.ycombinator.com/item?id=38919884) - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
@@ -23,10 +25,8 @@
 * [2024-01-08, 14:11:21](https://news.ycombinator.com/item?id=38912125) - [IT employment grew by just 700 jobs in 2023](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
 * [2024-01-08, 13:39:50](https://news.ycombinator.com/item?id=38911740) - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [bigFORTH (1997-)](https://bernd-paysan.de/bigforth.html)
-* [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
 * [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
-* [2024-01-07, 14:01:10](https://news.ycombinator.com/item?id=38901230) - [Low-hanging fruit](https://artagnon.com/art/fruit)
 * [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
 * [2024-01-07, 00:58:51](https://news.ycombinator.com/item?id=38897248) - [The Tensor Network](https://tensornetwork.org)
 * [2024-01-06, 11:55:27](https://news.ycombinator.com/item?id=38890692) - [The best way to get unstuck](https://ggnotes.com/the-best-way-to-get-unstuck)
