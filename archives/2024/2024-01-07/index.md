@@ -79,6 +79,7 @@
 * [2024-01-07, 10:26:47](https://news.ycombinator.com/item?id=38900044) - [1899 Peruvian dinero: the mystery of a coin that wasn't officially minted](https://heritagesciencejournal.springeropen.com/articles/10.1186/s40494-023-01092-2)
 * [2024-01-07, 10:24:15](https://news.ycombinator.com/item?id=38900036) - [Americans living in their cars are finding refuge in 'safe parking lots'](https://www.theguardian.com/us-news/2024/jan/05/safe-overnight-parking-lot-sleep-in-car-rv-homelessness-housing-shelter)
 * [2024-01-07, 10:10:35](https://news.ycombinator.com/item?id=38899987) - [Card Game Rules](https://www.pagat.com/)
+* [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
 * [2024-01-07, 09:38:41](https://news.ycombinator.com/item?id=38899860) - [Exploring x86-64 Instruction Encoding](https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html)
 * [2024-01-07, 09:32:47](https://news.ycombinator.com/item?id=38899828) - [Niche Online Tournaments](https://danielwirtz.com/blog/niche-online-tournaments)
 * [2024-01-07, 09:30:45](https://news.ycombinator.com/item?id=38899815) - [YUI Compressor](https://yui.github.io/yuicompressor/)
