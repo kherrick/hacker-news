@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-09, 09:18:08",
+      "https://news.ycombinator.com/item?id=38923963"
+    ],
+    [
+      "Apple pays out over claims it deliberately slowed down iPhones",
+      "https://www.bbc.co.uk/news/technology-67911517"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 08:35:58",
+      "https://news.ycombinator.com/item?id=38923741"
+    ],
+    [
+      "Python 3.13 Gets a JIT",
+      "https://tonybaloney.github.io/posts/python-gets-a-jit.html"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 08:13:13",
       "https://news.ycombinator.com/item?id=38923627"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-01-08, 18:26:16",
-      "https://news.ycombinator.com/item?id=38915999"
-    ],
-    [
-      "Show HN: Auto Wiki – Turn your codebase into a Wiki",
-      "https://wiki.mutable.ai"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 18:08:30",
       "https://news.ycombinator.com/item?id=38915775"
     ],
@@ -197,16 +207,6 @@
     [
       "An overview of distributed Postgres architectures",
       "https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 14:31:26",
-      "https://news.ycombinator.com/item?id=38912406"
-    ],
-    [
-      "k on pdp11",
-      "https://ktye.github.io/pdp11/index.html"
     ]
   ],
   [
