@@ -8,6 +8,7 @@
 * [2024-01-07, 23:28:38](https://news.ycombinator.com/item?id=38906331) - [\"LibreOffice is better at reading old Word files than Word\"](https://eldritch.cafe/@sfwrtr/111716610017454919)
 * [2024-01-07, 23:10:15](https://news.ycombinator.com/item?id=38906208) - [MK1 Flywheel Unlocks the Full Potential of AMD Instinct for LLM Inference](https://mkone.ai/blog/mk1-flywheel-amd)
 * [2024-01-07, 22:34:31](https://news.ycombinator.com/item?id=38905898) - [What Does the Cerebellum Do?](https://sarahconstantin.substack.com/p/what-does-the-cerebellum-do-anyway)
+* [2024-01-07, 22:34:05](https://news.ycombinator.com/item?id=38905896) - [Are we stuck with the Zoo Hypothesis?](https://www.universetoday.com/165005/after-all-of-this-time-searching-for-aliens-are-we-stuck-with-the-zoo-hypothesis/)
 * [2024-01-07, 22:33:18](https://news.ycombinator.com/item?id=38905891) - [Cycling Doping Fallacies](https://thenewleafjournal.com/cycling-doping-fallacies/)
 * [2024-01-07, 22:33:08](https://news.ycombinator.com/item?id=38905889) - [The optimal amount of fraud is not zero (2022)](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/)
 * [2024-01-07, 22:03:38](https://news.ycombinator.com/item?id=38905628) - [Dumbphone Finder](https://josebriones.org/dumbphone-finder)
