@@ -59,6 +59,7 @@
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 14:28:05](https://news.ycombinator.com/item?id=38912349) - [iPhone Survives 16,000-Foot Fall from Alaska Air Flight](https://www.bloomberg.com/news/articles/2024-01-08/iphone-survives-16-000-foot-fall-helps-narrow-jet-panel-search)
 * [2024-01-08, 14:22:05](https://news.ycombinator.com/item?id=38912259) - ['Impossible' to create AI tools like ChatGPT without copyrighted material, OpenA](https://www.theguardian.com/technology/2024/jan/08/ai-tools-chatgpt-copyrighted-material-openai)
+* [2024-01-08, 14:21:03](https://news.ycombinator.com/item?id=38912240) - [Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
 * [2024-01-08, 14:11:21](https://news.ycombinator.com/item?id=38912125) - [IT Employment Grew by Just 700 Jobs in 2023, Down From 267,000 in 2022](https://www.wsj.com/articles/it-employment-grew-by-just-700-jobs-in-2023-down-from-267-000-in-2022-adbd8a61)
 * [2024-01-08, 14:03:51](https://news.ycombinator.com/item?id=38912032) - [Apple Vision Pro available in the U.S. on February 2](https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/)
 * [2024-01-08, 13:44:18](https://news.ycombinator.com/item?id=38911791) - [What Progressive Web App (PWA) Can Do Today](https://whatpwacando.today)
