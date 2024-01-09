@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral 8x7B: A Sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
+* [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
+* [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 * [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 * [2024-01-09, 02:11:32](https://news.ycombinator.com/item?id=38921343) - [Carta to exit secondary trading business](https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080)
@@ -17,7 +18,6 @@
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
 * [2024-01-08, 18:07:24](https://news.ycombinator.com/item?id=38915759) - [OpenBSD KDE Plasma Desktop](https://rsadowski.de/posts/2024-01-09-openbsd-kde/)
-* [2024-01-08, 17:03:04](https://news.ycombinator.com/item?id=38914913) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-01-08, 16:52:56](https://news.ycombinator.com/item?id=38914764) - [An overview of distributed Postgres architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 * [2024-01-08, 15:35:38](https://news.ycombinator.com/item?id=38913425) - [Dive: A tool for exploring a Docker image, layer contents and more](https://github.com/wagoodman/dive)
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)

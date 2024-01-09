@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral: A Sparse Mixture of Experts Model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 * [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
