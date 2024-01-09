@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-01-09, 13:07:01",
+      "https://news.ycombinator.com/item?id=38925722"
+    ],
+    [
+      "SF streets were clean for APEC, here's what Tenderloin and SoMa look like now",
+      "https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 13:05:48",
+      "https://news.ycombinator.com/item?id=38925704"
+    ],
+    [
+      "GitHub Having Issues Today",
+      "https://www.githubstatus.com/incidents/pxg3dz4yg7lp"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 12:44:00",
+      "https://news.ycombinator.com/item?id=38925501"
+    ],
+    [
+      "AMD Unveils AMD Radeon RX 7600 XT Graphics Card",
+      "https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 12:40:59",
+      "https://news.ycombinator.com/item?id=38925471"
+    ],
+    [
+      "Startup Founders Fret over Getting Fired Like Sam Altman",
+      "https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 12:22:42",
+      "https://news.ycombinator.com/item?id=38925307"
+    ],
+    [
+      "Turing Complete is a game about computer science",
+      "https://turingcomplete.game/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 12:22:08",
       "https://news.ycombinator.com/item?id=38925301"
     ],
@@ -41,12 +91,22 @@
   ],
   [
     [
-      "2024-01-09, 09:18:53",
-      "https://news.ycombinator.com/item?id=38923969"
+      "2024-01-09, 09:58:03",
+      "https://news.ycombinator.com/item?id=38924263"
     ],
     [
-      "Heat pumps, more than you wanted to know (2023)",
-      "https://calv.info/heat-pumps"
+      "DreamShell: Operating System for the Sega Dreamcast",
+      "https://github.com/DC-SWAT/DreamShell"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 09:44:29",
+      "https://news.ycombinator.com/item?id=38924159"
+    ],
+    [
+      "Using Git Offline",
+      "https://www.gibbard.me/using_git_offline/"
     ]
   ],
   [
@@ -77,16 +137,6 @@
     [
       "DARPA Moves Forward on X-65: Plane with no moving control surfaces",
       "https://www.darpa.mil/news-events/2024-01-03"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 02:53:06",
-      "https://news.ycombinator.com/item?id=38921668"
-    ],
-    [
-      "Mixtral 8x7B: A sparse Mixture of Experts language model",
-      "https://arxiv.org/abs/2401.04088"
     ]
   ],
   [
@@ -151,36 +201,6 @@
   ],
   [
     [
-      "2024-01-08, 23:18:24",
-      "https://news.ycombinator.com/item?id=38919862"
-    ],
-    [
-      "OpenBSD Release Songs",
-      "https://www.openbsd.org/lyrics.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 20:43:37",
-      "https://news.ycombinator.com/item?id=38917820"
-    ],
-    [
-      "United finds loose bolts on plug doors during 737 Max 9 inspections",
-      "https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 20:37:54",
-      "https://news.ycombinator.com/item?id=38917749"
-    ],
-    [
-      "Cells across the body talk to each other about aging",
-      "https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 19:15:07",
       "https://news.ycombinator.com/item?id=38916663"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-01-08, 18:46:17",
-      "https://news.ycombinator.com/item?id=38916266"
-    ],
-    [
-      "Unverified vanity URLs and interest tracking catalyze fraud online",
-      "https://eligrey.com/blog/adtech-catalyzing-fraud/"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 16:52:56",
       "https://news.ycombinator.com/item?id=38914764"
     ],
     [
       "An overview of distributed Postgres architectures",
       "https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 14:31:26",
-      "https://news.ycombinator.com/item?id=38912406"
-    ],
-    [
-      "k on pdp11",
-      "https://ktye.github.io/pdp11/index.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-08, 12:35:31",
+      "https://news.ycombinator.com/item?id=38911079"
+    ],
+    [
+      "A Guide for Prospective Tea Monks",
+      "https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 23:28:33",
       "https://news.ycombinator.com/item?id=38906330"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: I made an interactive math crossword puzzle with infinite levels",
       "https://scientific.place/math-crossword/"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 15:35:39",
-      "https://news.ycombinator.com/item?id=38902042"
-    ],
-    [
-      "Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog",
-      "https://github.com/quickwit-oss/quickwit"
     ]
   ],
   [
