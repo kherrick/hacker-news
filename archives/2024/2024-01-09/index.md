@@ -10,6 +10,7 @@
 * [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
 * [2024-01-09, 21:37:52](https://news.ycombinator.com/item?id=38932472) - [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
 * [2024-01-09, 21:32:18](https://news.ycombinator.com/item?id=38932398) - [Linux 6.8 Network Optimizations Can Boost TCP Performance by ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
+* [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
 * [2024-01-09, 20:47:01](https://news.ycombinator.com/item?id=38931869) - [Ex-Google CEO Eric Schmidt Is Working on a Secret Military Drone Project](https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/)
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
