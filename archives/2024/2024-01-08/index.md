@@ -70,6 +70,7 @@
 * [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [BigForth](https://bernd-paysan.de/bigforth.html)
 * [2024-01-08, 12:50:25](https://news.ycombinator.com/item?id=38911221) - [Ask HN: How many of you are consciously downsizing your devices/going retro?](https://news.ycombinator.com/item?id=38911221)
 * [2024-01-08, 12:36:04](https://news.ycombinator.com/item?id=38911088) - [LinguaCafe: Self-hosted software for language learners to read foreign languages](https://simjanos-dev.github.io/LinguaCafeHome/)
+* [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
 * [2024-01-08, 12:35:29](https://news.ycombinator.com/item?id=38911078) - ['Greener, cheaper, much warmer' – heat pump owners laud their new system](https://www.theguardian.com/business/2024/jan/08/greener-cheaper-much-warmer-heat-pump-owners-laud-their-new-system)
 * [2024-01-08, 12:23:44](https://news.ycombinator.com/item?id=38910965) - [The Mystery of the Coin That Shouldn't Exist](https://www.nytimes.com/2024/01/07/science/dinero-peru-coin-1899-counterfeit.html)
 * [2024-01-08, 12:02:45](https://news.ycombinator.com/item?id=38910796) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
