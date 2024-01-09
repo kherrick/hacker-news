@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-09, 06:38:07](https://news.ycombinator.com/item?id=38923119) - [Ask HN: Do you know anyone at Facebook?](https://news.ycombinator.com/item?id=38923119)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
@@ -24,6 +23,7 @@
 * [2024-01-08, 14:31:26](https://news.ycombinator.com/item?id=38912406) - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 * [2024-01-08, 12:53:16](https://news.ycombinator.com/item?id=38911245) - [How to mod any lens for anamorphic bokeh](https://vmoldo.com/anamorfic-inserts/)
+* [2024-01-08, 12:51:15](https://news.ycombinator.com/item?id=38911227) - [bigFORTH (1997-)](https://bernd-paysan.de/bigforth.html)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
 * [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
 * [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
