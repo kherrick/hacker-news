@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
 * [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 08:13:13](https://news.ycombinator.com/item?id=38923627) - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
 * [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 08:13:13](https://news.ycombinator.com/item?id=38923627) - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
@@ -14,7 +15,7 @@
 * [2024-01-08, 20:37:54](https://news.ycombinator.com/item?id=38917749) - [Cells across the body talk to each other about aging](https://www.quantamagazine.org/cells-across-the-body-talk-to-each-other-about-aging-20240108/)
 * [2024-01-08, 20:02:48](https://news.ycombinator.com/item?id=38917307) - [How does one patch KDE2 under FreeBSD? (2012)](https://knowyourmeme.com/memes/how-does-one-patch-kde2-under-freebsd)
 * [2024-01-08, 19:15:07](https://news.ycombinator.com/item?id=38916663) - [Golden Rules of Interface Design (2013)](https://www.cs.umd.edu/~ben/goldenrules.html)
-* [2024-01-08, 18:46:17](https://news.ycombinator.com/item?id=38916266) - [Unverified vanity URLs and interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
+* [2024-01-08, 19:13:32](https://news.ycombinator.com/item?id=38916647) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2024-01-08, 18:43:16](https://news.ycombinator.com/item?id=38916212) - [Solver Performance: 1989 vs. 2024](https://www.solvermax.com/blog/solver-performance-1989-vs-2024)
 * [2024-01-08, 18:26:16](https://news.ycombinator.com/item?id=38915999) - [Show HN: Auto Wiki – Turn your codebase into a Wiki](https://wiki.mutable.ai)
 * [2024-01-08, 18:08:30](https://news.ycombinator.com/item?id=38915775) - [Mario Maker 2 API](https://tgrcode.com/posts/mario_maker_2_api)
@@ -23,7 +24,6 @@
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 * [2024-01-08, 12:53:16](https://news.ycombinator.com/item?id=38911245) - [How to mod any lens for anamorphic bokeh](https://vmoldo.com/anamorfic-inserts/)
 * [2024-01-07, 23:28:33](https://news.ycombinator.com/item?id=38906330) - [The two cultures of mathematics and biology (2014)](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
-* [2024-01-07, 22:34:05](https://news.ycombinator.com/item?id=38905896) - [Are we stuck with the Zoo Hypothesis?](https://www.universetoday.com/165005/after-all-of-this-time-searching-for-aliens-are-we-stuck-with-the-zoo-hypothesis/)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
 * [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
 * [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
