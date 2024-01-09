@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 16:40:17](https://news.ycombinator.com/item?id=38928182) - [Samsung forecasts 85% drop in profit as chip sales falter](https://koreajoongangdaily.joins.com/news/2024-01-09/business/industry/Samsung-forecasts-85-drop-in-profit-for-last-year-amid-chip-slump/1954130)
 * [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
 * [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:15:37](https://news.ycombinator.com/item?id=38927087) - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
@@ -24,7 +25,6 @@
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 03:50:57](https://news.ycombinator.com/item?id=38922077) - [Gone Bad, Come to Life (2022)](https://www.berfrois.com/2022/12/justin-e-h-smith-hell-yes-life-is-good/)
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [\"Bit-Banging\" Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
-* [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 * [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 * [2024-01-08, 19:15:07](https://news.ycombinator.com/item?id=38916663) - [Golden Rules of Interface Design (2013)](https://www.cs.umd.edu/~ben/goldenrules.html)
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)

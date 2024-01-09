@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 16:40:17](https://news.ycombinator.com/item?id=38928182) - [Samsung forecasts 85% drop in profit as chip sales falter](https://koreajoongangdaily.joins.com/news/2024-01-09/business/industry/Samsung-forecasts-85-drop-in-profit-for-last-year-amid-chip-slump/1954130)
 * [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
 * [2024-01-09, 16:07:37](https://news.ycombinator.com/item?id=38927699) - [X Purges Prominent Journalists, Leftists with No Explanation](https://www.vice.com/en/article/5d948x/x-purges-prominent-journalists-leftists-with-no-explanation)
 * [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
