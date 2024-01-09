@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 * [2024-01-09, 21:40:06](https://news.ycombinator.com/item?id=38932509) - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 * [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
@@ -8,7 +9,7 @@
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:42:43](https://news.ycombinator.com/item?id=38930928) - [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
-* [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders (2015)](https://thebookofshaders.com/)
+* [2024-01-09, 19:31:10](https://news.ycombinator.com/item?id=38930746) - [FTC bans X-Mode from selling phone location data, and orders firm to delete data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
@@ -19,7 +20,6 @@
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
 * [2024-01-09, 16:40:17](https://news.ycombinator.com/item?id=38928182) - [Samsung forecasts 85% drop in profit as chip sales falter](https://koreajoongangdaily.joins.com/news/2024-01-09/business/industry/Samsung-forecasts-85-drop-in-profit-for-last-year-amid-chip-slump/1954130)
 * [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
-* [2024-01-09, 16:25:58](https://news.ycombinator.com/item?id=38927960) - [Missing the Point of WebAssembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-09, 15:05:40](https://news.ycombinator.com/item?id=38926978) - [GE Vernova announces order of 674 wind turbines, providing 2.4 GW of power](https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)

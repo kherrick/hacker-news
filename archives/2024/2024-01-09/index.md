@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 * [2024-01-09, 21:40:06](https://news.ycombinator.com/item?id=38932509) - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 * [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
