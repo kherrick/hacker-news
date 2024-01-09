@@ -17,6 +17,7 @@
 * [2024-01-09, 10:04:49](https://news.ycombinator.com/item?id=38924300) - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
 * [2024-01-09, 09:58:03](https://news.ycombinator.com/item?id=38924263) - [DreamShell: Operating System for the Sega Dreamcast](https://github.com/DC-SWAT/DreamShell)
 * [2024-01-09, 09:44:29](https://news.ycombinator.com/item?id=38924159) - [Using Git Offline](https://www.gibbard.me/using_git_offline/)
+* [2024-01-09, 09:37:04](https://news.ycombinator.com/item?id=38924101) - [Aldi: Culture and Operations of a Hard Discounter](https://inpractise.com/articles/aldi-culture-and-operations-of-a-hard-discounter)
 * [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
 * [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
