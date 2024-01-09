@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
 * [2024-01-09, 15:06:07](https://news.ycombinator.com/item?id=38926982) - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
 * [2024-01-09, 14:35:20](https://news.ycombinator.com/item?id=38926630) - [New York Times has added a web-based Flash player to their archive website](https://eagereyes.org/blog/2024/nytimes-web-flash-player)
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
@@ -14,6 +15,7 @@
 * [2024-01-09, 13:05:48](https://news.ycombinator.com/item?id=38925704) - [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 * [2024-01-09, 12:44:00](https://news.ycombinator.com/item?id=38925501) - [AMD Unveils AMD Radeon RX 7600 XT Graphics Card](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html)
 * [2024-01-09, 12:40:59](https://news.ycombinator.com/item?id=38925471) - [Startup Founders Fret over Getting Fired Like Sam Altman](https://www.wsj.com/business/entrepreneurship/startup-founders-fret-over-getting-fired-like-sam-altman-1c91917c)
+* [2024-01-09, 12:39:39](https://news.ycombinator.com/item?id=38925449) - [Europe at last has an answer to Silicon Valley](https://www.economist.com/business/2024/01/08/europe-at-last-has-an-answer-to-silicon-valley)
 * [2024-01-09, 12:22:42](https://news.ycombinator.com/item?id=38925307) - [Turing Complete is a game about computer science](https://turingcomplete.game/)
 * [2024-01-09, 12:22:08](https://news.ycombinator.com/item?id=38925301) - [The Magnitude of the AI Bubble](https://apolloacademy.com/the-magnitude-of-the-ai-bubble/)
 * [2024-01-09, 12:01:08](https://news.ycombinator.com/item?id=38925125) - [Finley (YC W21) Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
