@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 15:06:07](https://news.ycombinator.com/item?id=38926982) - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
+* [2024-01-09, 14:35:20](https://news.ycombinator.com/item?id=38926630) - [New York Times has added a web-based Flash player to their archive website](https://eagereyes.org/blog/2024/nytimes-web-flash-player)
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 * [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
-* [2024-01-09, 13:05:48](https://news.ycombinator.com/item?id=38925704) - [GitHub having issues today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 * [2024-01-09, 12:44:00](https://news.ycombinator.com/item?id=38925501) - [AMD Unveils AMD Radeon RX 7600 XT Graphics Card](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html)
 * [2024-01-09, 12:22:42](https://news.ycombinator.com/item?id=38925307) - [Turing Complete is a game about computer science](https://turingcomplete.game/)
 * [2024-01-09, 12:01:08](https://news.ycombinator.com/item?id=38925125) - [Finley (YC W21) Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
@@ -28,7 +29,6 @@
 * [2024-01-08, 11:08:19](https://news.ycombinator.com/item?id=38910462) - [Shader Printf in HLSL and DX12](https://therealmjp.github.io/posts/hlsl-printf/)
 * [2024-01-07, 23:28:33](https://news.ycombinator.com/item?id=38906330) - [The two cultures of mathematics and biology (2014)](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
-* [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
 * [2024-01-06, 13:33:22](https://news.ycombinator.com/item?id=38891286) - [An Easy to Build Real Homemade Computer: Z80-MBC2](https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/)
 
 ## [Archives](archives/index.md)
