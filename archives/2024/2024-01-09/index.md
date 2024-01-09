@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
 * [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
+* [2024-01-09, 22:15:57](https://news.ycombinator.com/item?id=38933021) - [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 * [2024-01-09, 21:40:06](https://news.ycombinator.com/item?id=38932509) - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 * [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
 * [2024-01-09, 21:37:52](https://news.ycombinator.com/item?id=38932472) - [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
+* [2024-01-09, 21:34:34](https://news.ycombinator.com/item?id=38932428) - [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 * [2024-01-09, 21:32:18](https://news.ycombinator.com/item?id=38932398) - [Linux 6.8 Network Optimizations Can Boost TCP Performance by ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
