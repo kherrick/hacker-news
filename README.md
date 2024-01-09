@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral 8x7B: A sparse Mixture of Experts language model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 * [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 * [2024-01-09, 02:11:32](https://news.ycombinator.com/item?id=38921343) - [Carta to exit secondary trading business](https://henrysward.medium.com/should-carta-facilitate-secondary-trading-c319e0c9f080)
-* [2024-01-09, 01:55:50](https://news.ycombinator.com/item?id=38921237) - [I cut GTA Online loading times by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+* [2024-01-09, 00:46:59](https://news.ycombinator.com/item?id=38920738) - [Macs can now inform Apple if any liquids have been detected in the USB-C ports](https://9to5mac.com/2023/11/03/macs-liquids-detected-in-usb-c-ports/)
 * [2024-01-08, 23:32:54](https://news.ycombinator.com/item?id=38920043) - [Polars](https://pola.rs/)
 * [2024-01-08, 23:20:21](https://news.ycombinator.com/item?id=38919884) - [Turing Complete Transformers: Two Transformers Are More Powerful Than One](https://openreview.net/forum?id=MGWsPGogLH)
 * [2024-01-08, 23:18:24](https://news.ycombinator.com/item?id=38919862) - [OpenBSD Release Songs](https://www.openbsd.org/lyrics.html)
@@ -29,6 +28,7 @@
 * [2024-01-07, 15:35:39](https://news.ycombinator.com/item?id=38902042) - [Show HN: Quickwit – OSS Alternative to Elasticsearch, Splunk, Datadog](https://github.com/quickwit-oss/quickwit)
 * [2024-01-07, 09:57:01](https://news.ycombinator.com/item?id=38899922) - [Simple Lasts Longer](https://newsletter.pnote.eu/p/simple-lasts-longer)
 * [2024-01-07, 00:58:51](https://news.ycombinator.com/item?id=38897248) - [The Tensor Network](https://tensornetwork.org)
+* [2024-01-06, 13:33:22](https://news.ycombinator.com/item?id=38891286) - [An Easy to Build Real Homemade Computer: Z80-MBC2](https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/)
 * [2024-01-06, 11:55:27](https://news.ycombinator.com/item?id=38890692) - [The best way to get unstuck](https://ggnotes.com/the-best-way-to-get-unstuck)
 
 ## [Archives](archives/index.md)

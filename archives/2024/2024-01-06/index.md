@@ -61,6 +61,7 @@
 * [2024-01-06, 14:10:11](https://news.ycombinator.com/item?id=38891555) - [Radio reporter fired over jokes is reinstated after arbitrator finds them funny](https://apnews.com/article/philadelphia-comedian-fired-whyy-9b5da652a795d77904b660e0c901195d)
 * [2024-01-06, 13:55:06](https://news.ycombinator.com/item?id=38891442) - [Royal Navy forced to recruit for tob job on social media](https://www.independent.co.uk/news/uk/home-news/royal-navy-job-linkedin-b2473868.html)
 * [2024-01-06, 13:46:49](https://news.ycombinator.com/item?id=38891380) - [A Mess of Causes](https://bwo.life/bk/cause.htm)
+* [2024-01-06, 13:33:22](https://news.ycombinator.com/item?id=38891286) - [An Easy to Build Real Homemade Computer: Z80-MBC2](https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/)
 * [2024-01-06, 13:29:10](https://news.ycombinator.com/item?id=38891258) - [Alaska Airlines Grounds Fleet of Boeing 737 Max 9 Jets After Midair ‘Incident’](https://www.nytimes.com/2024/01/05/business/alaska-airlines-flight-portland-landing.html)
 * [2024-01-06, 13:27:32](https://news.ycombinator.com/item?id=38891242) - [Red Tortoise Architecture](https://mattkaras.info/?p=139)
 * [2024-01-06, 13:26:11](https://news.ycombinator.com/item?id=38891232) - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
