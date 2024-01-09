@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:07:01](https://news.ycombinator.com/item?id=38925722) - [SF streets were clean for APEC, here's what Tenderloin and SoMa look like now](https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php)
 * [2024-01-09, 13:05:48](https://news.ycombinator.com/item?id=38925704) - [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
 * [2024-01-09, 12:44:00](https://news.ycombinator.com/item?id=38925501) - [AMD Unveils AMD Radeon RX 7600 XT Graphics Card](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-unveils-amd-radeon-rx-7600-xt-graphics-card--.html)

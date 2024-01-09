@@ -82,6 +82,7 @@
 * [2024-01-08, 11:33:09](https://news.ycombinator.com/item?id=38910612) - [I created a language learning method that helps you learn French in 4 months](https://news.ycombinator.com/item?id=38910612)
 * [2024-01-08, 11:23:44](https://news.ycombinator.com/item?id=38910565) - [\"Dutch engineer carried out Iranian nuclear sabotage\": VK](https://www.dutchnews.nl/2024/01/dutch-engineer-carried-out-iranian-nuclear-sabotage-vk/)
 * [2024-01-08, 11:22:47](https://news.ycombinator.com/item?id=38910555) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.com/news/technology-67911517)
+* [2024-01-08, 11:08:19](https://news.ycombinator.com/item?id=38910462) - [Shader Printf in HLSL and DX12](https://therealmjp.github.io/posts/hlsl-printf/)
 * [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 * [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The Phrase \"No Evidence\" Is a Red Flag for Bad Science Communication](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
