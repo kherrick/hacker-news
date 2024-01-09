@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
+* [2024-01-09, 15:15:37](https://news.ycombinator.com/item?id=38927087) - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 * [2024-01-09, 15:06:07](https://news.ycombinator.com/item?id=38926982) - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
 * [2024-01-09, 14:35:20](https://news.ycombinator.com/item?id=38926630) - [New York Times has added a web-based Flash player to their archive website](https://eagereyes.org/blog/2024/nytimes-web-flash-player)
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
@@ -35,6 +37,7 @@
 * [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
+* [2024-01-09, 03:50:57](https://news.ycombinator.com/item?id=38922077) - [Gone Bad, Come to Life (2022)](https://www.berfrois.com/2022/12/justin-e-h-smith-hell-yes-life-is-good/)
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [\"Bit-Banging\" Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
 * [2024-01-09, 02:53:06](https://news.ycombinator.com/item?id=38921668) - [Mixtral: A Sparse Mixture of Experts Model](https://arxiv.org/abs/2401.04088)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)

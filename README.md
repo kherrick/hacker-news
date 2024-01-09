@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-09, 15:37:14](https://news.ycombinator.com/item?id=38927334) - [GenAI could make KYC effectively useless](https://techcrunch.com/2024/01/08/gen-ai-could-make-kyc-effectively-useless/)
 * [2024-01-09, 15:33:13](https://news.ycombinator.com/item?id=38927293) - [News could end up as Art important to few elites marginal to the rest](https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/)
+* [2024-01-09, 15:15:37](https://news.ycombinator.com/item?id=38927087) - [Nielsen's Ten Usability Heuristics [pdf]](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 * [2024-01-09, 15:06:07](https://news.ycombinator.com/item?id=38926982) - [NASA Peregrine 1: US lander will not make it to moon's surface due to fuel leak](https://www.theguardian.com/science/2024/jan/09/nasa-peregrine-1-us-lander-will-not-make-it-to-the-moons-surface-due-to-fuel-leak)
-* [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
 * [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
@@ -17,6 +18,7 @@
 * [2024-01-09, 09:37:04](https://news.ycombinator.com/item?id=38924101) - [Aldi: Culture and Operations of a Hard Discounter (2023)](https://inpractise.com/articles/aldi-culture-and-operations-of-a-hard-discounter)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
+* [2024-01-09, 03:50:57](https://news.ycombinator.com/item?id=38922077) - [Gone Bad, Come to Life (2022)](https://www.berfrois.com/2022/12/justin-e-h-smith-hell-yes-life-is-good/)
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [\"Bit-Banging\" Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
 * [2024-01-09, 02:31:37](https://news.ycombinator.com/item?id=38921518) - [Mode7 Graphics Library for Playdate](https://github.com/risolvipro/playdate-mode7)
 * [2024-01-09, 02:23:15](https://news.ycombinator.com/item?id=38921441) - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
@@ -27,9 +29,7 @@
 * [2024-01-08, 13:10:40](https://news.ycombinator.com/item?id=38911407) - [Money pours into new fabs and facilities](https://semiengineering.com/money-pours-into-new-fabs-and-facilities/)
 * [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
 * [2024-01-08, 11:08:19](https://news.ycombinator.com/item?id=38910462) - [Shader Printf in HLSL and DX12](https://therealmjp.github.io/posts/hlsl-printf/)
-* [2024-01-07, 23:28:33](https://news.ycombinator.com/item?id=38906330) - [The two cultures of mathematics and biology (2014)](https://liorpachter.wordpress.com/2014/12/30/the-two-cultures-of-mathematics-and-biology/)
 * [2024-01-07, 21:59:21](https://news.ycombinator.com/item?id=38905590) - [Show HN: I made an interactive math crossword puzzle with infinite levels](https://scientific.place/math-crossword/)
-* [2024-01-06, 13:33:22](https://news.ycombinator.com/item?id=38891286) - [An Easy to Build Real Homemade Computer: Z80-MBC2](https://www.instructables.com/An-Easy-to-Build-Real-Homemade-Computer-Z80-MBC2/)
 
 ## [Archives](archives/index.md)
 
