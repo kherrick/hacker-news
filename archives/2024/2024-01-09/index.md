@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 10:30:29](https://news.ycombinator.com/item?id=38924481) - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
+* [2024-01-09, 10:12:24](https://news.ycombinator.com/item?id=38924345) - [The \"10k-hour rule\" was debunked again](https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked)
 * [2024-01-09, 10:04:49](https://news.ycombinator.com/item?id=38924300) - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)
 * [2024-01-09, 09:18:53](https://news.ycombinator.com/item?id=38923969) - [Heat Pumps, More Than You Wanted to Know](https://calv.info/heat-pumps)
 * [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
