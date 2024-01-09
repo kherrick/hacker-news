@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 18:36:39](https://news.ycombinator.com/item?id=38930011) - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
 * [2024-01-09, 18:33:41](https://news.ycombinator.com/item?id=38929967) - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 18:05:56](https://news.ycombinator.com/item?id=38929543) - [Flakes aren't real and cannot hurt you: using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
+* [2024-01-09, 18:01:24](https://news.ycombinator.com/item?id=38929474) - [Everything wrong with databases and why their complexity is now unnecessary](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
 * [2024-01-09, 17:33:23](https://news.ycombinator.com/item?id=38928999) - [Murphy's Law and Its Progeny](https://zira.home.xs4all.nl/murphy.html)
 * [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:30:18](https://news.ycombinator.com/item?id=38928951) - [Is my plane a 737 Max?](https://www.ismyplanea737max.com/)
