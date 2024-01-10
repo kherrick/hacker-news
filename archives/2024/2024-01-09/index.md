@@ -6,6 +6,7 @@
 
 * [2024-01-09, 23:56:00](https://news.ycombinator.com/item?id=38934128) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/)
+* [2024-01-09, 23:38:39](https://news.ycombinator.com/item?id=38933973) - [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
 * [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
 * [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
 * [2024-01-09, 22:15:57](https://news.ycombinator.com/item?id=38933021) - [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
