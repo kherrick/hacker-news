@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 20:24:21](https://news.ycombinator.com/item?id=38942603) - [CEO video: back to the office now, or else](https://www.vice.com/en/article/7kxqnx/dont-mess-with-us-webmd-parent-company-demands-return-to-office-in-bizarre-video)
 * [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://thebrowser.com/r/f4743013?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
 * [2024-01-10, 20:12:39](https://news.ycombinator.com/item?id=38942508) - [New Clues](https://www.cluetrain.com/newclues/?ref=thebrowser.com)
 * [2024-01-10, 20:03:49](https://news.ycombinator.com/item?id=38942439) - [UI considerations for designing large data tables](https://coyleandrew.medium.com/ui-considerations-for-designing-large-data-tables-aa6c1ea93797)
@@ -12,9 +13,13 @@
 * [2024-01-10, 19:39:45](https://news.ycombinator.com/item?id=38942206) - [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 * [2024-01-10, 19:37:01](https://news.ycombinator.com/item?id=38942179) - [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
+* [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
+* [2024-01-10, 18:43:13](https://news.ycombinator.com/item?id=38941719) - [Israeli group claims it’s using back channels to censor “inflammatory” content](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/)
 * [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
+* [2024-01-10, 17:27:16](https://news.ycombinator.com/item?id=38940911) - [The GPT Store](https://openai.com/blog/introducing-the-gpt-store)
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
+* [2024-01-10, 14:58:11](https://news.ycombinator.com/item?id=38939570) - [Converting the Kernel to C++](https://lore.kernel.org/lkml/3465e0c6-f5b2-4c42-95eb-29361481f805@zytor.com/)
 * [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 13:20:12](https://news.ycombinator.com/item?id=38939114) - [Coming home from the South Pole](https://brr.fyi/posts/redeployment-part-one)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
