@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
-* [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 * [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 * [2024-01-10, 07:05:51](https://news.ycombinator.com/item?id=38937129) - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 02:59:58](https://news.ycombinator.com/item?id=38935605) - [The teen mental illness epidemic is international (2023)](https://www.afterbabel.com/p/international-mental-illness-part-one)
+* [2024-01-10, 02:49:37](https://news.ycombinator.com/item?id=38935526) - [Investigating Rock Radio with Rick Beato](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
 * [2024-01-10, 02:00:44](https://news.ycombinator.com/item?id=38935205) - [I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
 * [2024-01-10, 01:10:20](https://news.ycombinator.com/item?id=38934824) - [Glucoboy](https://shonumi.github.io/articles/art33.html)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
