@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
 * [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
@@ -14,6 +13,7 @@
 * [2024-01-10, 02:43:45](https://news.ycombinator.com/item?id=38935485) - [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
 * [2024-01-10, 02:00:44](https://news.ycombinator.com/item?id=38935205) - [I quit my job to work full time on my open source project](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
 * [2024-01-10, 01:39:56](https://news.ycombinator.com/item?id=38935048) - [Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
+* [2024-01-10, 01:10:20](https://news.ycombinator.com/item?id=38934824) - [Glucoboy](https://shonumi.github.io/articles/art33.html)
 * [2024-01-10, 00:52:18](https://news.ycombinator.com/item?id=38934666) - [24 Hours of Lemons](https://24hoursoflemons.com/)
 * [2024-01-10, 00:45:58](https://news.ycombinator.com/item?id=38934607) - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
 * [2024-01-09, 23:43:14](https://news.ycombinator.com/item?id=38934013) - [OpenWRT turns 20; wants to launch their \"first upstream supported\" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
