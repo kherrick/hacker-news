@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-10, 09:29:24](https://news.ycombinator.com/item?id=38938160) - [Eclipses in the Saturn System (2017)](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
 * [2024-01-10, 09:27:30](https://news.ycombinator.com/item?id=38938140) - [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
-* [2024-01-10, 09:12:20](https://news.ycombinator.com/item?id=38938020) - [Supabase (YC S20) Is Hiring a Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
 * [2024-01-10, 09:11:53](https://news.ycombinator.com/item?id=38938017) - [Bottled water has 'up to 100 times' more bits of plastic than previously feared](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
 * [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 * [2024-01-10, 08:29:26](https://news.ycombinator.com/item?id=38937705) - [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
