@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
 * [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
