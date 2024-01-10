@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 * [2024-01-10, 02:59:58](https://news.ycombinator.com/item?id=38935605) - [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
 * [2024-01-10, 02:49:37](https://news.ycombinator.com/item?id=38935526) - [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
 * [2024-01-10, 02:43:45](https://news.ycombinator.com/item?id=38935485) - [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
@@ -25,7 +26,6 @@
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
 * [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset, as the 3G switch off looms closer](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
-* [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
 * [2024-01-08, 14:21:03](https://news.ycombinator.com/item?id=38912240) - [Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
 * [2024-01-08, 07:40:29](https://news.ycombinator.com/item?id=38909180) - [Show HN: Tool to calculate how much milk is needed to make an amount of cheese](https://cheesemak.ing/how-much-milk/)
