@@ -1,12 +1,92 @@
 [
   [
     [
+      "2024-01-10, 20:57:16",
+      "https://news.ycombinator.com/item?id=38943017"
+    ],
+    [
+      "Automatic Syntax Error Recovery (2020)",
+      "https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:53:16",
+      "https://news.ycombinator.com/item?id=38942960"
+    ],
+    [
+      "Show HN: Dbeel – A distributed thread-per-core db",
+      "https://github.com/tontinton/dbeel"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:51:51",
+      "https://news.ycombinator.com/item?id=38942928"
+    ],
+    [
+      "The Big Dummy's Guide to Fidonet (1992)",
+      "http://www.fidonet.us/dummyguide.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:51:18",
+      "https://news.ycombinator.com/item?id=38942912"
+    ],
+    [
+      "The case for better watch typography (2021)",
+      "https://www.hodinkee.com/articles/the-case-for-better-watch-typography"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:50:21",
+      "https://news.ycombinator.com/item?id=38942905"
+    ],
+    [
+      "An Approach to Sound Synthesis with L-Systems",
+      "https://nathan.ho.name/posts/sound-synthesis-with-l-systems/"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:49:35",
+      "https://news.ycombinator.com/item?id=38942892"
+    ],
+    [
+      "Conditional Git Configuration",
+      "https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 20:48:40",
       "https://news.ycombinator.com/item?id=38942877"
     ],
     [
       "Maestro I – The First IDE",
       "https://wiki.edunitas.com/IT/en/114-10/Maestro-I_20000_eduNitas.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:48:05",
+      "https://news.ycombinator.com/item?id=38942867"
+    ],
+    [
+      "Netflix never used its $1M algorithm (2012)",
+      "https://thenextweb.com/news/remember-netflixs-1m-algorithm-contest-well-heres-why-it-didnt-use-the-winning-entry"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:46:33",
+      "https://news.ycombinator.com/item?id=38942847"
+    ],
+    [
+      "Shoelace: A library of web components",
+      "https://shoelace.style/"
     ]
   ],
   [
@@ -21,22 +101,42 @@
   ],
   [
     [
-      "2024-01-10, 20:29:08",
-      "https://news.ycombinator.com/item?id=38942650"
+      "2024-01-10, 20:44:36",
+      "https://news.ycombinator.com/item?id=38942827"
     ],
     [
-      "Cboe Says Bitcoin ETF to Start Trading Thursday Ahead of SEC's Official Approval",
-      "https://www.coindesk.com/business/2024/01/10/cboe-says-bitcoin-etf-to-start-trading-thursday-ahead-of-secs-official-approval/"
+      "Unctad: Productive Capacities Index",
+      "https://unctadstat.unctad.org/EN/Pci.html"
     ]
   ],
   [
     [
-      "2024-01-10, 20:24:21",
-      "https://news.ycombinator.com/item?id=38942603"
+      "2024-01-10, 20:42:27",
+      "https://news.ycombinator.com/item?id=38942799"
     ],
     [
-      "CEO video: back to the office now, or else",
-      "https://www.vice.com/en/article/7kxqnx/dont-mess-with-us-webmd-parent-company-demands-return-to-office-in-bizarre-video"
+      "Twitch lays off 500 staff",
+      "https://venturebeat.com/games/twitch-layoffs-500-staff-amazon/"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:40:59",
+      "https://news.ycombinator.com/item?id=38942777"
+    ],
+    [
+      "Notes on a few abnormalities in analysis (2022)",
+      "https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 20:29:08",
+      "https://news.ycombinator.com/item?id=38942650"
+    ],
+    [
+      "Cboe says Bitcoin ETF to start trading Thursday ahead of SEC's official approval",
+      "https://www.coindesk.com/business/2024/01/10/cboe-says-bitcoin-etf-to-start-trading-thursday-ahead-of-secs-official-approval/"
     ]
   ],
   [
@@ -46,7 +146,7 @@
     ],
     [
       "Attempting to engineer microscopic insulin pumps out of a skin bacterium",
-      "https://thebrowser.com/r/f4743013?m=c6bf87ab-387d-49ae-9584-ab31c2b12376"
+      "https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/"
     ]
   ],
   [
@@ -55,18 +155,8 @@
       "https://news.ycombinator.com/item?id=38942508"
     ],
     [
-      "New Clues",
-      "https://www.cluetrain.com/newclues/?ref=thebrowser.com"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:03:49",
-      "https://news.ycombinator.com/item?id=38942439"
-    ],
-    [
-      "UI considerations for designing large data tables",
-      "https://coyleandrew.medium.com/ui-considerations-for-designing-large-data-tables-aa6c1ea93797"
+      "New Clues (2015)",
+      "https://www.cluetrain.com/newclues/"
     ]
   ],
   [
@@ -81,32 +171,12 @@
   ],
   [
     [
-      "2024-01-10, 20:01:27",
-      "https://news.ycombinator.com/item?id=38942414"
-    ],
-    [
-      "Quarter of the Hurd 2023-Q4",
-      "https://www.gnu.org/software/hurd/news/2023-q4.html"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 19:39:45",
       "https://news.ycombinator.com/item?id=38942206"
     ],
     [
       "Free MIT Course: Performance Engineering of Software Systems",
       "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 19:37:01",
-      "https://news.ycombinator.com/item?id=38942179"
-    ],
-    [
-      "A theory of the modern exclamation point!",
-      "https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation"
     ]
   ],
   [
@@ -141,16 +211,6 @@
   ],
   [
     [
-      "2024-01-10, 17:27:16",
-      "https://news.ycombinator.com/item?id=38940911"
-    ],
-    [
-      "The GPT Store",
-      "https://openai.com/blog/introducing-the-gpt-store"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 17:08:24",
       "https://news.ycombinator.com/item?id=38940731"
     ],
@@ -171,112 +231,42 @@
   ],
   [
     [
-      "2024-01-10, 14:58:11",
-      "https://news.ycombinator.com/item?id=38939570"
+      "2024-01-10, 00:07:51",
+      "https://news.ycombinator.com/item?id=38934249"
     ],
     [
-      "Converting the Kernel to C++",
-      "https://lore.kernel.org/lkml/3465e0c6-f5b2-4c42-95eb-29361481f805@zytor.com/"
+      "The Spread of European Printing Activity (1450-1650)",
+      "https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped"
     ]
   ],
   [
     [
-      "2024-01-10, 13:20:12",
-      "https://news.ycombinator.com/item?id=38939114"
+      "2024-01-09, 22:47:11",
+      "https://news.ycombinator.com/item?id=38933388"
     ],
     [
-      "Coming home from the South Pole",
-      "https://brr.fyi/posts/redeployment-part-one"
+      "The faulty digital clock problem (2021)",
+      "http://andersource.dev/2021/04/29/faulty_digital_clock.html"
     ]
   ],
   [
     [
-      "2024-01-10, 08:40:51",
-      "https://news.ycombinator.com/item?id=38937801"
+      "2024-01-09, 21:05:31",
+      "https://news.ycombinator.com/item?id=38932089"
     ],
     [
-      "Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?",
-      "https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h"
+      "Grading our (successful) YC application from S20",
+      "https://www.commandbar.com/blog/grading-commandbars-yc-application/"
     ]
   ],
   [
     [
-      "2024-01-10, 07:05:51",
-      "https://news.ycombinator.com/item?id=38937129"
+      "2024-01-09, 20:22:40",
+      "https://news.ycombinator.com/item?id=38931559"
     ],
     [
-      "Vcc – The Vulkan Clang Compiler",
-      "https://shady-gang.github.io/vcc/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 02:43:45",
-      "https://news.ycombinator.com/item?id=38935485"
-    ],
-    [
-      "Mariposa – A programming language with time-travel",
-      "https://github.com/ambulancja/mariposa"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 23:41:20",
-      "https://news.ycombinator.com/item?id=38933996"
-    ],
-    [
-      "The unending quest to build a better chicken",
-      "https://www.noemamag.com/the-unending-quest-to-build-a-better-chicken/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 22:15:57",
-      "https://news.ycombinator.com/item?id=38933021"
-    ],
-    [
-      "Ibogaine banishes PTSD, small study finds",
-      "https://www.nature.com/articles/d41586-024-00012-z"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 21:28:11",
-      "https://news.ycombinator.com/item?id=38932350"
-    ],
-    [
-      "MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts",
-      "https://arxiv.org/abs/2401.04081"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 20:06:30",
-      "https://news.ycombinator.com/item?id=38931282"
-    ],
-    [
-      "Ancient Stars Made Extraordinarily Heavy Elements (2023)",
-      "https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 19:36:31",
-      "https://news.ycombinator.com/item?id=38930822"
-    ],
-    [
-      "Human fetal brain self-organizes into long-term expanding organoids",
-      "https://www.cell.com/cell/fulltext/S0092-8674(23)01344-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423013442%3Fshowall%3Dtrue"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 16:45:58",
-      "https://news.ycombinator.com/item?id=38928277"
-    ],
-    [
-      "Building an e-ink picture frame that displays an iCloud photo album",
-      "https://ben.page/eink"
+      "Contra Wirecutter on the IKEA air purifier",
+      "https://dynomight.net/ikea-purifier/"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-01-09, 13:17:09",
-      "https://news.ycombinator.com/item?id=38925812"
+      "2024-01-09, 12:18:14",
+      "https://news.ycombinator.com/item?id=38925277"
     ],
     [
-      "Your last name contains invalid characters (2010)",
-      "https://blog.jgc.org/2010/06/your-last-name-contains-invalid.html"
+      "Soft Deletion Probably Isn't Worth It (2022)",
+      "https://brandur.org/soft-deletion"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 02:15:28",
+      "https://news.ycombinator.com/item?id=38921375"
+    ],
+    [
+      "I found the music I love on the internet",
+      "https://coryd.dev/posts/2024/i-found-the-music-i-love-on-the-internet/"
     ]
   ]
 ]
