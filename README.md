@@ -2,6 +2,7 @@
 
 * [2024-01-10, 02:11:49](https://news.ycombinator.com/item?id=38935286) - [Let's make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-10, 02:00:44](https://news.ycombinator.com/item?id=38935205) - [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+* [2024-01-10, 01:39:56](https://news.ycombinator.com/item?id=38935048) - [DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
 * [2024-01-10, 01:10:20](https://news.ycombinator.com/item?id=38934824) - [Glucoboy](https://shonumi.github.io/articles/art33.html)
 * [2024-01-10, 01:08:22](https://news.ycombinator.com/item?id=38934809) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
 * [2024-01-10, 00:45:58](https://news.ycombinator.com/item?id=38934607) - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
@@ -21,7 +22,6 @@
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
-* [2024-01-09, 16:25:58](https://news.ycombinator.com/item?id=38927960) - [Missing the Point of WebAssembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-09, 15:05:40](https://news.ycombinator.com/item?id=38926978) - [GE Vernova announces order of 674 wind turbines, providing 2.4 GW of power](https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project)
 * [2024-01-09, 12:22:42](https://news.ycombinator.com/item?id=38925307) - [Turing Complete is a game about computer science](https://turingcomplete.game/)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)

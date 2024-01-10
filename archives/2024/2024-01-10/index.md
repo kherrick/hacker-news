@@ -6,6 +6,7 @@
 
 * [2024-01-10, 02:11:49](https://news.ycombinator.com/item?id=38935286) - [Let's make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-10, 02:00:44](https://news.ycombinator.com/item?id=38935205) - [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)
+* [2024-01-10, 01:39:56](https://news.ycombinator.com/item?id=38935048) - [DMARC required by Gmail and Yahoo from Feb 2024](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
 * [2024-01-10, 01:16:25](https://news.ycombinator.com/item?id=38934862) - [BBEdit 15 adds ChatGPT support](https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/)
 * [2024-01-10, 01:10:20](https://news.ycombinator.com/item?id=38934824) - [Glucoboy](https://shonumi.github.io/articles/art33.html)
 * [2024-01-10, 01:08:22](https://news.ycombinator.com/item?id=38934809) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
