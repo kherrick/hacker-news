@@ -26,8 +26,8 @@
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 * [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
+* [2024-01-10, 14:39:05](https://news.ycombinator.com/item?id=38939404) - [The flight of the Weird Nerd from academia](https://www.writingruxandrabio.com/p/the-flight-of-the-weird-nerd-from)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
-* [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
 * [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 
