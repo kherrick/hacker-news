@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 20:48:40](https://news.ycombinator.com/item?id=38942877) - [Maestro I – The First IDE](https://wiki.edunitas.com/IT/en/114-10/Maestro-I_20000_eduNitas.html)
+* [2024-01-10, 20:46:07](https://news.ycombinator.com/item?id=38942840) - [Exploiting Undocumented API to Regenerate Google Service Cookies](https://www.cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking)
+* [2024-01-10, 20:29:08](https://news.ycombinator.com/item?id=38942650) - [Cboe Says Bitcoin ETF to Start Trading Thursday Ahead of SEC's Official Approval](https://www.coindesk.com/business/2024/01/10/cboe-says-bitcoin-etf-to-start-trading-thursday-ahead-of-secs-official-approval/)
 * [2024-01-10, 20:24:21](https://news.ycombinator.com/item?id=38942603) - [CEO video: back to the office now, or else](https://www.vice.com/en/article/7kxqnx/dont-mess-with-us-webmd-parent-company-demands-return-to-office-in-bizarre-video)
 * [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://thebrowser.com/r/f4743013?m=c6bf87ab-387d-49ae-9584-ab31c2b12376)
 * [2024-01-10, 20:12:39](https://news.ycombinator.com/item?id=38942508) - [New Clues](https://www.cluetrain.com/newclues/?ref=thebrowser.com)
 * [2024-01-10, 20:03:49](https://news.ycombinator.com/item?id=38942439) - [UI considerations for designing large data tables](https://coyleandrew.medium.com/ui-considerations-for-designing-large-data-tables-aa6c1ea93797)
 * [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
+* [2024-01-10, 20:01:27](https://news.ycombinator.com/item?id=38942414) - [Quarter of the Hurd 2023-Q4](https://www.gnu.org/software/hurd/news/2023-q4.html)
 * [2024-01-10, 19:45:31](https://news.ycombinator.com/item?id=38942262) - [Amazon lays off 500 Twitch employees, hundreds more at MGM and Prime Video](https://arstechnica.com/tech-policy/2024/01/amazon-lays-off-500-twitch-employees-hundreds-more-at-mgm-and-prime-video/)
 * [2024-01-10, 19:39:45](https://news.ycombinator.com/item?id=38942206) - [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 * [2024-01-10, 19:37:01](https://news.ycombinator.com/item?id=38942179) - [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
