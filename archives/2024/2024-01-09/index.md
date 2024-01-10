@@ -23,6 +23,7 @@
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:58:33](https://news.ycombinator.com/item?id=38931166) - [YouTube Bans True Crime Videos That Reanimate Dead Children with AI](https://gizmodo.com/youtube-bans-ai-reanimated-dead-kids-true-crime-videos-1851150159)
 * [2024-01-09, 19:42:43](https://news.ycombinator.com/item?id=38930928) - [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
+* [2024-01-09, 19:36:31](https://news.ycombinator.com/item?id=38930822) - [Human fetal brain self-organizes into long-term expanding organoids](https://www.cell.com/cell/fulltext/S0092-8674(23)01344-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867423013442%3Fshowall%3Dtrue)
 * [2024-01-09, 19:36:27](https://news.ycombinator.com/item?id=38930820) - [The Book of Shaders](https://thebookofshaders.com/)
 * [2024-01-09, 19:31:10](https://news.ycombinator.com/item?id=38930746) - [FTC bans X-Mode from selling phone location data, and orders firm to delete data](https://techcrunch.com/2024/01/09/ftc-x-mode-ban-delete-location-data/)
 * [2024-01-09, 19:15:50](https://news.ycombinator.com/item?id=38930552) - [Does Not Translate](https://doesnottranslate.com/)
