@@ -61,6 +61,7 @@
 * [2024-01-09, 13:36:13](https://news.ycombinator.com/item?id=38925991) - [Welcome to the end of college football as we know it](https://www.cnn.com/2024/01/06/opinions/college-football-playoff-championship-leitch/index.html)
 * [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
+* [2024-01-09, 13:17:09](https://news.ycombinator.com/item?id=38925812) - [Your last name contains invalid characters (2010)](https://blog.jgc.org/2010/06/your-last-name-contains-invalid.html)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
 * [2024-01-09, 13:07:01](https://news.ycombinator.com/item?id=38925722) - [SF streets were clean for APEC, here's what Tenderloin and SoMa look like now](https://www.sfchronicle.com/bayarea/article/sf-homeless-crisis-apec-clean-streets-drug-crisis-18509955.php)
 * [2024-01-09, 13:05:48](https://news.ycombinator.com/item?id=38925704) - [GitHub Having Issues Today](https://www.githubstatus.com/incidents/pxg3dz4yg7lp)
