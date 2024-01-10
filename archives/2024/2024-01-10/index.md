@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
 * [2024-01-10, 22:07:00](https://news.ycombinator.com/item?id=38944015) - [Stanford's Administrative Bloat Is Out of Control (2018)](https://stanfordreview.org/stanfords-administrative-bloat-is-out-of-control/)
 * [2024-01-10, 21:53:38](https://news.ycombinator.com/item?id=38943797) - [Valve asked Portal 64 developer to take the project down](https://twitter.com/SteamDB/status/1745190618781962662)
