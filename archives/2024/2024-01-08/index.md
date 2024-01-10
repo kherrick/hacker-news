@@ -13,6 +13,7 @@
 * [2024-01-08, 21:46:12](https://news.ycombinator.com/item?id=38918641) - [UniFi U7 Pro](https://store.ui.com/us/en/products/u7-pro)
 * [2024-01-08, 21:39:57](https://news.ycombinator.com/item?id=38918569) - [A Rail Cart for the Space Conscious Passenger (2022)](https://hackaday.com/2022/10/08/a-rail-cart-for-the-space-conscious-passenger/)
 * [2024-01-08, 21:38:45](https://news.ycombinator.com/item?id=38918554) - [totally_safe_transmute, Line-by-Line](https://blog.yossarian.net/2021/03/16/totally_safe_transmute-line-by-line)
+* [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
 * [2024-01-08, 21:23:59](https://news.ycombinator.com/item?id=38918366) - [Thousands of AI Authors on the Future of AI](https://arxiv.org/abs/2401.02843)
 * [2024-01-08, 21:20:13](https://news.ycombinator.com/item?id=38918310) - [United Airlines inspections find loose bolts on several 737 Max 9 aircraft](https://www.cnbc.com/2024/01/08/united-airlines-737-max-9-inspections-turn-up-loose-bolts.html)
 * [2024-01-08, 21:18:33](https://news.ycombinator.com/item?id=38918279) - [Duolingo Cuts 10% of Contractors as It Uses More AI to Create App Content](https://www.bloomberg.com/news/articles/2024-01-08/duolingo-cuts-10-of-contractors-in-move-to-greater-use-of-ai)
