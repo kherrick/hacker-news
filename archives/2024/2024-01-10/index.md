@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
+* [2024-01-10, 21:30:08](https://news.ycombinator.com/item?id=38943464) - [US transportation grounds Boeing 737 MAX 9](https://www.theguardian.com/world/2024/jan/10/flights-canceled-alaska-airlines-boeing-737-1282-door)
 * [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
 * [2024-01-10, 21:27:24](https://news.ycombinator.com/item?id=38943417) - [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
