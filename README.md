@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-10, 07:40:52](https://news.ycombinator.com/item?id=38937352) - [Swiss federal surveillance monitoring nearly everything! Impact on Proton e.g.?](https://news.ycombinator.com/item?id=38937352)
 * [2024-01-10, 07:05:51](https://news.ycombinator.com/item?id=38937129) - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 07:00:09](https://news.ycombinator.com/item?id=38937101) - [How to defend your website with ZIP bombs (2017)](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
 * [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
@@ -24,6 +23,7 @@
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:01:24](https://news.ycombinator.com/item?id=38929474) - [Databases and why their complexity is now unnecessary](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
+* [2024-01-09, 13:36:13](https://news.ycombinator.com/item?id=38925991) - [Welcome to the end of college football as we know it](https://www.cnn.com/2024/01/06/opinions/college-football-playoff-championship-leitch/index.html)
 * [2024-01-09, 13:17:09](https://news.ycombinator.com/item?id=38925812) - [Your last name contains invalid characters (2010)](https://blog.jgc.org/2010/06/your-last-name-contains-invalid.html)
 * [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
 * [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
