@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 09:29:24](https://news.ycombinator.com/item?id=38938160) - [Eclipses in the Saturn System (2017)](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
+* [2024-01-10, 09:27:30](https://news.ycombinator.com/item?id=38938140) - [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
 * [2024-01-10, 09:12:20](https://news.ycombinator.com/item?id=38938020) - [Supabase (YC S20) Is Hiring a Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
 * [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 * [2024-01-10, 08:29:26](https://news.ycombinator.com/item?id=38937705) - [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
@@ -16,7 +18,6 @@
 * [2024-01-09, 23:43:14](https://news.ycombinator.com/item?id=38934013) - [OpenWRT turns 20; wants to launch their \"first upstream supported\" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 23:38:39](https://news.ycombinator.com/item?id=38933973) - [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
-* [2024-01-09, 22:15:57](https://news.ycombinator.com/item?id=38933021) - [Ibogaine banishes PTSD, small study finds](https://www.nature.com/articles/d41586-024-00012-z)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
@@ -25,7 +26,6 @@
 * [2024-01-09, 18:01:24](https://news.ycombinator.com/item?id=38929474) - [Databases and why their complexity is now unnecessary](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
 * [2024-01-09, 13:36:13](https://news.ycombinator.com/item?id=38925991) - [Welcome to the end of college football as we know it](https://www.cnn.com/2024/01/06/opinions/college-football-playoff-championship-leitch/index.html)
-* [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
 * [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
 * [2024-01-08, 08:16:02](https://news.ycombinator.com/item?id=38909377) - [Is Objective-C BOOL a boolean type? It depends](https://www.jviotti.com/2024/01/05/is-objective-c-bool-a-boolean-type-it-depends.html)
 * [2024-01-08, 07:40:29](https://news.ycombinator.com/item?id=38909180) - [Show HN: Tool to calculate how much milk is needed to make an amount of cheese](https://cheesemak.ing/how-much-milk/)
