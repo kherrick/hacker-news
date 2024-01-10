@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 02:59:58](https://news.ycombinator.com/item?id=38935605) - [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
 * [2024-01-10, 02:49:37](https://news.ycombinator.com/item?id=38935526) - [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
+* [2024-01-10, 02:43:45](https://news.ycombinator.com/item?id=38935485) - [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
 * [2024-01-10, 02:40:21](https://news.ycombinator.com/item?id=38935468) - [If Carpenters Were Hired Like Programmers](https://jasonbock.substack.com/p/if-carpenters-were-hired-like-programmers)
 * [2024-01-10, 02:11:49](https://news.ycombinator.com/item?id=38935286) - [Let's make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-10, 02:00:44](https://news.ycombinator.com/item?id=38935205) - [I quit my job to work full time on my open source project [Atuin]](https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project)

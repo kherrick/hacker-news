@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
 * [2024-01-09, 23:56:00](https://news.ycombinator.com/item?id=38934128) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+* [2024-01-09, 23:43:14](https://news.ycombinator.com/item?id=38934013) - [OpenWRT turns 20; wants to launch their \"first upstream supported\" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 23:38:39](https://news.ycombinator.com/item?id=38933973) - [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
 * [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
