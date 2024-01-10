@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
+* [2024-01-10, 21:27:24](https://news.ycombinator.com/item?id=38943417) - [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
 * [2024-01-10, 21:06:40](https://news.ycombinator.com/item?id=38943144) - [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
 * [2024-01-10, 20:59:25](https://news.ycombinator.com/item?id=38943040) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
@@ -40,6 +42,7 @@
 * [2024-01-10, 17:27:16](https://news.ycombinator.com/item?id=38940911) - [The GPT Store](https://openai.com/blog/introducing-the-gpt-store)
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
+* [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
 * [2024-01-10, 14:58:11](https://news.ycombinator.com/item?id=38939570) - [Converting the Kernel to C++](https://lore.kernel.org/lkml/3465e0c6-f5b2-4c42-95eb-29361481f805@zytor.com/)
 * [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 13:20:12](https://news.ycombinator.com/item?id=38939114) - [Coming home from the South Pole](https://brr.fyi/posts/redeployment-part-one)
