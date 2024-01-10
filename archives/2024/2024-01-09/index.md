@@ -28,6 +28,7 @@
 * [2024-01-09, 19:15:50](https://news.ycombinator.com/item?id=38930552) - [Does Not Translate](https://doesnottranslate.com/)
 * [2024-01-09, 19:10:21](https://news.ycombinator.com/item?id=38930507) - [Why is my LG Washing Machine using 3.6GB of data/day?](https://twitter.com/Johnie/status/1744556503183585471)
 * [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/keynote)
+* [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
 * [2024-01-09, 18:40:51](https://news.ycombinator.com/item?id=38930084) - [X Bans and Then Unbans Journalists and Podcasters in Latest Free Speech Massacre](https://gizmodo.com/elon-musk-x-twitter-journalists-banning-spree-1851151593)
 * [2024-01-09, 18:36:39](https://news.ycombinator.com/item?id=38930011) - [Ex Post Office CEO hands back award after IT failures lead to false convictions](https://www.bbc.com/news/uk-67925304)
 * [2024-01-09, 18:33:41](https://news.ycombinator.com/item?id=38929967) - [Study Finds Microplastics in Nearly 90% of Proteins Sampled](https://oceanconservancy.org/news/its-not-just-seafood-new-study-finds-microplastics-in-nearly-90-of-proteins-sampled-including-plant-based-meat-alternatives/)
