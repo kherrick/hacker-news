@@ -91,6 +91,7 @@
 * [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 * [2024-01-08, 08:04:13](https://news.ycombinator.com/item?id=38909315) - [Ask HN: How to find online employment for a person with limited functionality](https://news.ycombinator.com/item?id=38909315)
 * [2024-01-08, 07:46:54](https://news.ycombinator.com/item?id=38909220) - [Dutch man sabotaged Iranian nuclear program without Dutch government's knowledge](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
+* [2024-01-08, 07:40:29](https://news.ycombinator.com/item?id=38909180) - [Show HN: Tool to calculate how much milk is needed to make an amount of cheese](https://cheesemak.ing/how-much-milk/)
 * [2024-01-08, 07:18:27](https://news.ycombinator.com/item?id=38909086) - [Failing to Learn Zig via Advent of Code](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/)
 * [2024-01-08, 06:59:21](https://news.ycombinator.com/item?id=38909003) - [The biggest leap forward in HTTP clients for Python in years](https://github.com/jawah/niquests)
 * [2024-01-08, 06:43:26](https://news.ycombinator.com/item?id=38908956) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
