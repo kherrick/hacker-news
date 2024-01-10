@@ -3,7 +3,6 @@
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
 * [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
 * [2024-01-10, 21:27:24](https://news.ycombinator.com/item?id=38943417) - [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
-* [2024-01-10, 21:06:40](https://news.ycombinator.com/item?id=38943144) - [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
 * [2024-01-10, 20:59:25](https://news.ycombinator.com/item?id=38943040) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 * [2024-01-10, 20:57:16](https://news.ycombinator.com/item?id=38943017) - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
@@ -29,7 +28,8 @@
 * [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
 * [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
-* [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
+* [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
+* [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 
 ## [Archives](archives/index.md)
 
