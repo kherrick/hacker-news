@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 07:00:09](https://news.ycombinator.com/item?id=38937101) - [How to defend your website with ZIP bombs](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
 * [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 * [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 * [2024-01-10, 04:19:47](https://news.ycombinator.com/item?id=38936102) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
