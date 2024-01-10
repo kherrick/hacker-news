@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 07:40:52](https://news.ycombinator.com/item?id=38937352) - [Swiss federal surveillance monitoring nearly everything! Impact on Proton e.g.?](https://news.ycombinator.com/item?id=38937352)
 * [2024-01-10, 07:05:51](https://news.ycombinator.com/item?id=38937129) - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 07:00:09](https://news.ycombinator.com/item?id=38937101) - [How to defend your website with ZIP bombs](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
 * [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
