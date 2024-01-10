@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 21:06:40](https://news.ycombinator.com/item?id=38943144) - [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
 * [2024-01-10, 20:57:16](https://news.ycombinator.com/item?id=38943017) - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 20:51:51](https://news.ycombinator.com/item?id=38942928) - [The Big Dummy's Guide to Fidonet (1992)](http://www.fidonet.us/dummyguide.html)
@@ -13,6 +14,7 @@
 * [2024-01-10, 20:44:36](https://news.ycombinator.com/item?id=38942827) - [Unctad: Productive Capacities Index](https://unctadstat.unctad.org/EN/Pci.html)
 * [2024-01-10, 20:42:27](https://news.ycombinator.com/item?id=38942799) - [Twitch lays off 500 staff](https://venturebeat.com/games/twitch-layoffs-500-staff-amazon/)
 * [2024-01-10, 20:40:59](https://news.ycombinator.com/item?id=38942777) - [Notes on a few abnormalities in analysis (2022)](https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html)
+* [2024-01-10, 20:29:08](https://news.ycombinator.com/item?id=38942650) - [Cboe says Bitcoin ETF to start trading Thursday ahead of SEC's official approval](https://www.coindesk.com/business/2024/01/10/cboe-says-bitcoin-etf-to-start-trading-thursday-ahead-of-secs-official-approval/)
 * [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/)
 * [2024-01-10, 20:12:39](https://news.ycombinator.com/item?id=38942508) - [New Clues (2015)](https://www.cluetrain.com/newclues/)
 * [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
@@ -22,8 +24,6 @@
 * [2024-01-10, 18:43:13](https://news.ycombinator.com/item?id=38941719) - [Israeli group claims it’s using back channels to censor “inflammatory” content](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/)
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
-* [2024-01-10, 13:20:12](https://news.ycombinator.com/item?id=38939114) - [Coming home from the South Pole](https://brr.fyi/posts/redeployment-part-one)
-* [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
 * [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
 * [2024-01-09, 21:05:31](https://news.ycombinator.com/item?id=38932089) - [Grading our (successful) YC application from S20](https://www.commandbar.com/blog/grading-commandbars-yc-application/)
