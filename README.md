@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
+* [2024-01-09, 23:56:00](https://news.ycombinator.com/item?id=38934128) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+* [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
 * [2024-01-09, 22:15:57](https://news.ycombinator.com/item?id=38933021) - [Potent psychedelic drug banishes PTSD](https://www.nature.com/articles/d41586-024-00012-z)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
-* [2024-01-09, 21:40:06](https://news.ycombinator.com/item?id=38932509) - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
-* [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
 * [2024-01-09, 21:34:34](https://news.ycombinator.com/item?id=38932428) - [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 * [2024-01-09, 21:32:18](https://news.ycombinator.com/item?id=38932398) - [Linux 6.8 Network Optimizations Can Boost TCP Performance by ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
@@ -30,6 +29,7 @@
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [Bit-Banging Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
 * [2024-01-08, 14:21:03](https://news.ycombinator.com/item?id=38912240) - [Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
 * [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
+* [2024-01-08, 08:56:33](https://news.ycombinator.com/item?id=38909615) - [Economics and Similar, for the Sleep-Deprived (2005)](https://blog.danieldavies.com/2005/07/)
 
 ## [Archives](archives/index.md)
 

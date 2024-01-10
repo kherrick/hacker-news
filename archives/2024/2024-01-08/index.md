@@ -87,6 +87,7 @@
 * [2024-01-08, 11:03:27](https://news.ycombinator.com/item?id=38910432) - [Show HN: I've updated my food delivery repo. Feedback Welcome](https://github.com/ninjas-code-official/food-delivery-multivendor)
 * [2024-01-08, 09:14:25](https://news.ycombinator.com/item?id=38909735) - [The Phrase \"No Evidence\" Is a Red Flag for Bad Science Communication](https://www.astralcodexten.com/p/the-phrase-no-evidence-is-a-red-flag)
 * [2024-01-08, 08:59:26](https://news.ycombinator.com/item?id=38909631) - [Value of life](https://en.wikipedia.org/wiki/Value_of_life)
+* [2024-01-08, 08:56:33](https://news.ycombinator.com/item?id=38909615) - [Economics and Similar, for the Sleep-Deprived (2005)](https://blog.danieldavies.com/2005/07/)
 * [2024-01-08, 08:51:18](https://news.ycombinator.com/item?id=38909584) - [Tesla Model Y: My 6 months impressions](https://arslan.io/2024/01/08/tesla-model-y-my-6-months-impressions/)
 * [2024-01-08, 08:04:13](https://news.ycombinator.com/item?id=38909315) - [Ask HN: How to find online employment for a person with limited functionality](https://news.ycombinator.com/item?id=38909315)
 * [2024-01-08, 07:46:54](https://news.ycombinator.com/item?id=38909220) - [Dutch man sabotaged Iranian nuclear program without Dutch government's knowledge](https://nltimes.nl/2024/01/08/dutch-man-sabotaged-iranian-nuclear-program-without-dutch-governments-knowledge-report)
