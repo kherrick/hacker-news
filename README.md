@@ -19,6 +19,7 @@
 * [2024-01-09, 21:34:34](https://news.ycombinator.com/item?id=38932428) - [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
+* [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:42:43](https://news.ycombinator.com/item?id=38930928) - [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
 * [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
@@ -26,8 +27,7 @@
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
 * [2024-01-09, 13:36:13](https://news.ycombinator.com/item?id=38925991) - [Welcome to the end of college football as we know it](https://www.cnn.com/2024/01/06/opinions/college-football-playoff-championship-leitch/index.html)
-* [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset, as the 3G switch off looms closer](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
-* [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
+* [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
 * [2024-01-08, 07:40:29](https://news.ycombinator.com/item?id=38909180) - [Show HN: Tool to calculate how much milk is needed to make an amount of cheese](https://cheesemak.ing/how-much-milk/)
 * [2024-01-08, 06:43:26](https://news.ycombinator.com/item?id=38908956) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
 
