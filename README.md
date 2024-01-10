@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
 * [2024-01-10, 21:06:40](https://news.ycombinator.com/item?id=38943144) - [Tiny nuclear battery be commercialised?](https://slguardian.org/chinese-firm-developed-nuclear-battery-that-can-produce-power-for-50-years/)
+* [2024-01-10, 20:59:25](https://news.ycombinator.com/item?id=38943040) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
 * [2024-01-10, 20:57:16](https://news.ycombinator.com/item?id=38943017) - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 20:51:51](https://news.ycombinator.com/item?id=38942928) - [The Big Dummy's Guide to Fidonet (1992)](http://www.fidonet.us/dummyguide.html)
@@ -14,7 +16,6 @@
 * [2024-01-10, 20:44:36](https://news.ycombinator.com/item?id=38942827) - [Unctad: Productive Capacities Index](https://unctadstat.unctad.org/EN/Pci.html)
 * [2024-01-10, 20:42:27](https://news.ycombinator.com/item?id=38942799) - [Twitch lays off 500 staff](https://venturebeat.com/games/twitch-layoffs-500-staff-amazon/)
 * [2024-01-10, 20:40:59](https://news.ycombinator.com/item?id=38942777) - [Notes on a few abnormalities in analysis (2022)](https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html)
-* [2024-01-10, 20:29:08](https://news.ycombinator.com/item?id=38942650) - [Cboe says Bitcoin ETF to start trading Thursday ahead of SEC's official approval](https://www.coindesk.com/business/2024/01/10/cboe-says-bitcoin-etf-to-start-trading-thursday-ahead-of-secs-official-approval/)
 * [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/)
 * [2024-01-10, 20:12:39](https://news.ycombinator.com/item?id=38942508) - [New Clues (2015)](https://www.cluetrain.com/newclues/)
 * [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
@@ -28,7 +29,6 @@
 * [2024-01-09, 22:47:11](https://news.ycombinator.com/item?id=38933388) - [The faulty digital clock problem (2021)](http://andersource.dev/2021/04/29/faulty_digital_clock.html)
 * [2024-01-09, 21:05:31](https://news.ycombinator.com/item?id=38932089) - [Grading our (successful) YC application from S20](https://www.commandbar.com/blog/grading-commandbars-yc-application/)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier](https://dynomight.net/ikea-purifier/)
-* [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 * [2024-01-09, 02:15:28](https://news.ycombinator.com/item?id=38921375) - [I found the music I love on the internet](https://coryd.dev/posts/2024/i-found-the-music-i-love-on-the-internet/)
 
 ## [Archives](archives/index.md)
