@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
+* [2024-01-10, 21:53:38](https://news.ycombinator.com/item?id=38943797) - [Valve asked Portal 64 developer to take the project down](https://twitter.com/SteamDB/status/1745190618781962662)
 * [2024-01-10, 21:30:08](https://news.ycombinator.com/item?id=38943464) - [US transportation grounds Boeing 737 MAX 9](https://www.theguardian.com/world/2024/jan/10/flights-canceled-alaska-airlines-boeing-737-1282-door)
 * [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
 * [2024-01-10, 21:27:24](https://news.ycombinator.com/item?id=38943417) - [OpenWrt One – celebrating 20 years of OpenWrt](https://lists.openwrt.org/pipermail/openwrt-devel/2024-January/042018.html)
@@ -18,6 +19,7 @@
 * [2024-01-10, 20:50:21](https://news.ycombinator.com/item?id=38942905) - [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 * [2024-01-10, 20:49:35](https://news.ycombinator.com/item?id=38942892) - [Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
 * [2024-01-10, 20:48:40](https://news.ycombinator.com/item?id=38942877) - [Maestro I – The First IDE](https://wiki.edunitas.com/IT/en/114-10/Maestro-I_20000_eduNitas.html)
+* [2024-01-10, 20:48:40](https://news.ycombinator.com/item?id=38942877) - [Maestro I – The First IDE?](https://en.wikipedia.org/wiki/Maestro_I)
 * [2024-01-10, 20:48:05](https://news.ycombinator.com/item?id=38942867) - [Netflix never used its $1M algorithm (2012)](https://thenextweb.com/news/remember-netflixs-1m-algorithm-contest-well-heres-why-it-didnt-use-the-winning-entry)
 * [2024-01-10, 20:46:33](https://news.ycombinator.com/item?id=38942847) - [Shoelace: A library of web components](https://shoelace.style/)
 * [2024-01-10, 20:46:07](https://news.ycombinator.com/item?id=38942840) - [Exploiting Undocumented API to Regenerate Google Service Cookies](https://www.cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking)
