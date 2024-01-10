@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 01:16:25](https://news.ycombinator.com/item?id=38934862) - [BBEdit 15 adds ChatGPT support](https://sixcolors.com/post/2024/01/bbedit-15-adds-chatgpt-support/)
+* [2024-01-10, 01:08:22](https://news.ycombinator.com/item?id=38934809) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
+* [2024-01-10, 00:45:58](https://news.ycombinator.com/item?id=38934607) - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
 * [2024-01-09, 23:56:00](https://news.ycombinator.com/item?id=38934128) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [How I pwned half of America's fast food chains, simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 22:41:55](https://news.ycombinator.com/item?id=38933315) - [Amazon's Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff)
@@ -14,10 +17,7 @@
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
 * [2024-01-09, 18:14:22](https://news.ycombinator.com/item?id=38929677) - [OpenDev is a collaboratory for open source software development at scale](https://opendev.org/)
 * [2024-01-09, 17:55:44](https://news.ycombinator.com/item?id=38929369) - [Hobbes OS/2 Archive: As of April 15th, 2024 this site will no longer exist](https://hobbes.nmsu.edu/)
-* [2024-01-09, 17:31:22](https://news.ycombinator.com/item?id=38928970) - [The Ugliest Airplane: An Appreciation of the Transavia AirTruk](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/)
 * [2024-01-09, 17:11:14](https://news.ycombinator.com/item?id=38928673) - [NSQ: Open-source realtime distributed messaging, billions of messages / day](https://github.com/nsqio/nsq)
-* [2024-01-09, 17:00:53](https://news.ycombinator.com/item?id=38928508) - [Roboflow (YC S20) is hiring an engineer focused on their open source projects](https://roboflow.com/careers)
-* [2024-01-09, 16:49:09](https://news.ycombinator.com/item?id=38928334) - [Non-PC compatible x86 computers (2007)](https://lproven.livejournal.com/189791.html)
 * [2024-01-09, 16:45:58](https://news.ycombinator.com/item?id=38928277) - [Building an e-ink picture frame that displays an iCloud photo album](https://ben.page/eink)
 * [2024-01-09, 16:32:21](https://news.ycombinator.com/item?id=38928064) - [Launch HN: Corgea (YC S23) – Auto fix vulnerable code](https://news.ycombinator.com/item?id=38928064)
 * [2024-01-09, 16:25:58](https://news.ycombinator.com/item?id=38927960) - [Missing the Point of WebAssembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
@@ -28,8 +28,8 @@
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 03:43:57](https://news.ycombinator.com/item?id=38922040) - [Bit-Banging Bluetooth Low Energy](https://dmitry.gr/?r=05.Projects&proj=11.%20Bluetooth%20LE%20fakery)
 * [2024-01-08, 14:21:03](https://news.ycombinator.com/item?id=38912240) - [Researchers create first functional semiconductor made from graphene](https://techxplore.com/news/2024-01-functional-semiconductor-graphene.html)
-* [2024-01-08, 12:35:31](https://news.ycombinator.com/item?id=38911079) - [A Guide for Prospective Tea Monks](https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks)
 * [2024-01-08, 08:56:33](https://news.ycombinator.com/item?id=38909615) - [Economics and Similar, for the Sleep-Deprived (2005)](https://blog.danieldavies.com/2005/07/)
+* [2024-01-08, 06:43:26](https://news.ycombinator.com/item?id=38908956) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
 
 ## [Archives](archives/index.md)
 
