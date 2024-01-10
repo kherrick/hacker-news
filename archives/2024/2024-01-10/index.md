@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
+* [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 * [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
