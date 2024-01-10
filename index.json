@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-10, 10:15:19",
-      "https://news.ycombinator.com/item?id=38938506"
-    ],
-    [
-      "Why is stdout faster than stderr?",
-      "https://blog.orhun.dev/stdout-vs-stderr/"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 08:40:51",
       "https://news.ycombinator.com/item?id=38937801"
     ],
@@ -41,22 +31,32 @@
   ],
   [
     [
-      "2024-01-10, 04:51:35",
-      "https://news.ycombinator.com/item?id=38936341"
-    ],
-    [
-      "Linkhut: A Social Bookmarking Site",
-      "https://ln.ht/"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 02:59:58",
       "https://news.ycombinator.com/item?id=38935605"
     ],
     [
       "The teen mental illness epidemic is international (2023)",
       "https://www.afterbabel.com/p/international-mental-illness-part-one"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 02:49:37",
+      "https://news.ycombinator.com/item?id=38935526"
+    ],
+    [
+      "Investigating Rock Radio with Rick Beato",
+      "https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 02:00:44",
+      "https://news.ycombinator.com/item?id=38935205"
+    ],
+    [
+      "I quit my job to work full time on my open source project",
+      "https://ellie.wtf/posts/i-quit-my-job-to-work-full-time-on-my-open-source-project"
     ]
   ],
   [
@@ -71,32 +71,22 @@
   ],
   [
     [
-      "2024-01-10, 00:52:18",
-      "https://news.ycombinator.com/item?id=38934666"
-    ],
-    [
-      "24 Hours of Lemons",
-      "https://24hoursoflemons.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 00:45:58",
-      "https://news.ycombinator.com/item?id=38934607"
-    ],
-    [
-      "Show HN: Peer-to-peer mini r/place with Proof of Work",
-      "https://tropical.pages.dev/pow/"
-    ]
-  ],
-  [
-    [
       "2024-01-09, 23:41:38",
       "https://news.ycombinator.com/item?id=38933999"
     ],
     [
       "I pwned half of America's fast food chains simultaneously",
       "https://mrbruh.com/chattr/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 23:38:39",
+      "https://news.ycombinator.com/item?id=38933973"
+    ],
+    [
+      "Juniper Networks to Combine with HPE",
+      "https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership"
     ]
   ],
   [
@@ -121,22 +111,22 @@
   ],
   [
     [
+      "2024-01-09, 21:32:18",
+      "https://news.ycombinator.com/item?id=38932398"
+    ],
+    [
+      "Linux 6.8 Network Optimizations Can Boost TCP Performance by ~40%",
+      "https://www.phoronix.com/news/Linux-6.8-Networking"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 21:28:11",
       "https://news.ycombinator.com/item?id=38932350"
     ],
     [
       "MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts",
       "https://arxiv.org/abs/2401.04081"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 20:51:29",
-      "https://news.ycombinator.com/item?id=38931931"
-    ],
-    [
-      "'Magical' Error Correction Scheme Proved Inherently Inefficient",
-      "https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-01-09, 18:31:01",
+      "https://news.ycombinator.com/item?id=38929917"
+    ],
+    [
+      "DeepFlow – open-source eBPF Distributed Tracing",
+      "https://deepflow.io/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 18:01:24",
       "https://news.ycombinator.com/item?id=38929474"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-01-09, 12:22:42",
+      "https://news.ycombinator.com/item?id=38925307"
+    ],
+    [
+      "Turing Complete is a game about computer science",
+      "https://turingcomplete.game/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 08:13:13",
       "https://news.ycombinator.com/item?id=38923627"
     ],
@@ -247,16 +257,6 @@
     [
       "Polars",
       "https://pola.rs/"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 21:28:05",
-      "https://news.ycombinator.com/item?id=38918418"
-    ],
-    [
-      "Ask HN: Good book to learn modern networking?",
-      "https://news.ycombinator.com/item?id=38918418"
     ]
   ],
   [
