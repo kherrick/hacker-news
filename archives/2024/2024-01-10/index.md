@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 20:03:49](https://news.ycombinator.com/item?id=38942439) - [UI considerations for designing large data tables](https://coyleandrew.medium.com/ui-considerations-for-designing-large-data-tables-aa6c1ea93797)
 * [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
+* [2024-01-10, 19:39:45](https://news.ycombinator.com/item?id=38942206) - [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
+* [2024-01-10, 19:37:01](https://news.ycombinator.com/item?id=38942179) - [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
 * [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
+* [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 * [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
