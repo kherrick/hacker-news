@@ -58,6 +58,7 @@
 * [2024-01-09, 15:05:40](https://news.ycombinator.com/item?id=38926978) - [GE Vernova announces order of 674 wind turbines, providing 2.4 GW of power](https://www.ge.com/news/press-releases/ge-vernova-announces-2point4-gw-order-for-pattern-energy-sunzia-wind-project)
 * [2024-01-09, 14:35:20](https://news.ycombinator.com/item?id=38926630) - [New York Times has added a web-based Flash player to their archive website](https://eagereyes.org/blog/2024/nytimes-web-flash-player)
 * [2024-01-09, 14:21:51](https://news.ycombinator.com/item?id=38926476) - [Apple tells EU it has five different App Stores, not just one](https://9to5mac.com/2024/01/09/five-different-app-stores/)
+* [2024-01-09, 13:36:13](https://news.ycombinator.com/item?id=38925991) - [Welcome to the end of college football as we know it](https://www.cnn.com/2024/01/06/opinions/college-football-playoff-championship-leitch/index.html)
 * [2024-01-09, 13:32:17](https://news.ycombinator.com/item?id=38925952) - [Moai in Video Games](https://moai.games/)
 * [2024-01-09, 13:29:20](https://news.ycombinator.com/item?id=38925928) - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 * [2024-01-09, 13:16:00](https://news.ycombinator.com/item?id=38925802) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
