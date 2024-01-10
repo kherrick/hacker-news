@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-09, 22:47:11",
-      "https://news.ycombinator.com/item?id=38933388"
+      "2024-01-09, 23:56:00",
+      "https://news.ycombinator.com/item?id=38934128"
     ],
     [
-      "The faulty digital clock problem (2021)",
-      "http://andersource.dev/2021/04/29/faulty_digital_clock.html"
+      "Error handling in Go web apps shouldn't be so awkward",
+      "https://boldlygo.tech/posts/2024-01-08-error-handling/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 23:41:38",
+      "https://news.ycombinator.com/item?id=38933999"
+    ],
+    [
+      "How I pwned half of America's fast food chains, simultaneously",
+      "https://mrbruh.com/chattr/"
     ]
   ],
   [
@@ -37,26 +47,6 @@
     [
       "Wikihouse: Open-Source Houses",
       "https://www.wikihouse.cc/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 21:40:06",
-      "https://news.ycombinator.com/item?id=38932509"
-    ],
-    [
-      "SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved",
-      "https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 21:39:02",
-      "https://news.ycombinator.com/item?id=38932489"
-    ],
-    [
-      "Rabbit R1, Designed by Teenage Engineering",
-      "https://www.rabbit.tech/?r1"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A Guide for Prospective Tea Monks",
       "https://peacefulrevolutionary.substack.com/p/a-guide-for-prospective-tea-monks"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 08:56:33",
+      "https://news.ycombinator.com/item?id=38909615"
+    ],
+    [
+      "Economics and Similar, for the Sleep-Deprived (2005)",
+      "https://blog.danieldavies.com/2005/07/"
     ]
   ]
 ]
