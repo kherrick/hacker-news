@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
 * [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
