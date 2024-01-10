@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
-* [2024-01-10, 21:53:38](https://news.ycombinator.com/item?id=38943797) - [Valve asked Portal 64 developer to take the project down](https://twitter.com/SteamDB/status/1745190618781962662)
+* [2024-01-10, 22:07:00](https://news.ycombinator.com/item?id=38944015) - [Stanford's Administrative Bloat Is Out of Control (2018)](https://stanfordreview.org/stanfords-administrative-bloat-is-out-of-control/)
 * [2024-01-10, 21:30:08](https://news.ycombinator.com/item?id=38943464) - [US transportation grounds Boeing 737 MAX 9](https://www.theguardian.com/world/2024/jan/10/flights-canceled-alaska-airlines-boeing-737-1282-door)
 * [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
 * [2024-01-10, 20:59:25](https://news.ycombinator.com/item?id=38943040) - [Signs that it's time to leave a company](https://adrianco.medium.com/signs-that-its-time-to-leave-a-company-5f8759ad018e)
