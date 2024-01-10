@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 * [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 * [2024-01-10, 04:19:47](https://news.ycombinator.com/item?id=38936102) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
 * [2024-01-10, 02:59:58](https://news.ycombinator.com/item?id=38935605) - [The teen mental illness epidemic is international](https://www.afterbabel.com/p/international-mental-illness-part-one)
@@ -19,7 +20,6 @@
 * [2024-01-09, 21:34:34](https://news.ycombinator.com/item?id=38932428) - [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
-* [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
 * [2024-01-09, 19:42:43](https://news.ycombinator.com/item?id=38930928) - [Aim, fire, scan: the 80/20 of executing on big projects](https://www.indiehackers.com/post/aim-fire-scan-the-80-20-of-executing-on-big-projects-571580cd0a)
 * [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
 * [2024-01-09, 18:31:01](https://news.ycombinator.com/item?id=38929917) - [DeepFlow – open-source eBPF Distributed Tracing](https://deepflow.io/)
