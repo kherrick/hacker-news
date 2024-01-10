@@ -2,6 +2,7 @@
 
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
+* [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 * [2024-01-10, 09:27:30](https://news.ycombinator.com/item?id=38938140) - [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
 * [2024-01-10, 09:11:53](https://news.ycombinator.com/item?id=38938017) - [Bottled water has 'up to 100 times' more bits of plastic than previously feared](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
 * [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
@@ -23,7 +24,6 @@
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
 * [2024-01-09, 20:06:30](https://news.ycombinator.com/item?id=38931282) - [Ancient Stars Made Extraordinarily Heavy Elements (2023)](https://news.ncsu.edu/2023/12/ancient-stars-made-extraordinarily-heavy-elements/)
-* [2024-01-09, 18:44:17](https://news.ycombinator.com/item?id=38930126) - [Rabbit: LLM-First Mobile Phone](https://www.rabbit.tech/)
 * [2024-01-09, 18:01:24](https://news.ycombinator.com/item?id=38929474) - [Databases and why their complexity is now unnecessary](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-08, 21:28:05](https://news.ycombinator.com/item?id=38918418) - [Ask HN: Good book to learn modern networking?](https://news.ycombinator.com/item?id=38918418)
