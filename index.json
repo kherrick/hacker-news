@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-01-10, 10:29:38",
-      "https://news.ycombinator.com/item?id=38938616"
-    ],
-    [
-      "AWS cancels serverless Postgres service that scales to zero",
-      "https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 10:15:19",
-      "https://news.ycombinator.com/item?id=38938506"
-    ],
-    [
-      "Why stdout is faster than stderr?",
-      "https://blog.orhun.dev/stdout-vs-stderr/"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 09:27:30",
       "https://news.ycombinator.com/item?id=38938140"
     ],
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-01-09, 18:44:17",
+      "https://news.ycombinator.com/item?id=38930126"
+    ],
+    [
+      "Rabbit: LLM-First Mobile Phone",
+      "https://www.rabbit.tech/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 18:01:24",
       "https://news.ycombinator.com/item?id=38929474"
     ],
     [
       "Databases and why their complexity is now unnecessary",
       "https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 16:45:58",
+      "https://news.ycombinator.com/item?id=38928277"
+    ],
+    [
+      "Building an e-ink picture frame that displays an iCloud photo album",
+      "https://ben.page/eink"
     ]
   ],
   [
