@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-10, 07:05:51](https://news.ycombinator.com/item?id=38937129) - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 07:00:09](https://news.ycombinator.com/item?id=38937101) - [How to defend your website with ZIP bombs](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
 * [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 * [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
@@ -16,7 +17,6 @@
 * [2024-01-09, 23:43:14](https://news.ycombinator.com/item?id=38934013) - [OpenWRT turns 20; wants to launch their \"first upstream supported\" design](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-09, 23:41:38](https://news.ycombinator.com/item?id=38933999) - [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 23:38:39](https://news.ycombinator.com/item?id=38933973) - [Juniper Networks to Combine with HPE](https://blogs.juniper.net/en-us/driven-by-experience/juniper-networks-to-combine-with-hpe-accelerating-ai-native-networking-leadership)
-* [2024-01-09, 22:15:57](https://news.ycombinator.com/item?id=38933021) - [Ibogaine banishes PTSD, small study finds](https://www.nature.com/articles/d41586-024-00012-z)
 * [2024-01-09, 21:48:05](https://news.ycombinator.com/item?id=38932603) - [Wikihouse: Open-Source Houses](https://www.wikihouse.cc/)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
 * [2024-01-09, 20:51:29](https://news.ycombinator.com/item?id=38931931) - ['Magical' Error Correction Scheme Proved Inherently Inefficient](https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/)
