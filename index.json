@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-11, 13:20:49",
+      "https://news.ycombinator.com/item?id=38951847"
+    ],
+    [
+      "OpenSSH: Timeline to remove DSA support in OpenSSH",
+      "https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 12:36:26",
       "https://news.ycombinator.com/item?id=38951399"
     ],
@@ -227,16 +237,6 @@
     [
       "SSH-Snake: Automatic traversal of networks using SSH private keys",
       "https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 20:22:40",
-      "https://news.ycombinator.com/item?id=38931559"
-    ],
-    [
-      "Contra Wirecutter on the IKEA air purifier (2022)",
-      "https://dynomight.net/ikea-purifier/"
     ]
   ],
   [
