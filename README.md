@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 04:38:11](https://news.ycombinator.com/item?id=38947658) - [Meta layoffs: all TPMs in Instagram laidoff today](https://www.teamblind.com/post/Meta-layoffs-all-TPMs-in-Instagram-laidoff-today-2MQcPFcy)
 * [2024-01-11, 04:36:56](https://news.ycombinator.com/item?id=38947654) - [Google Lays Off Hundreds in Hardware, Voice Assistant Teams](https://www.bloomberg.com/news/articles/2024-01-11/google-lays-off-hundreds-in-hardware-voice-assistant-teams)
-* [2024-01-11, 03:37:16](https://news.ycombinator.com/item?id=38947224) - [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
+* [2024-01-11, 04:25:59](https://news.ycombinator.com/item?id=38947580) - [Tell HN: Google-Wide Layoffs](https://news.ycombinator.com/item?id=38947580)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
-* [2024-01-11, 00:30:43](https://news.ycombinator.com/item?id=38945687) - [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
@@ -20,7 +20,6 @@
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The biggest losers: Metabolic damage or constrained energy?](https://physiqonomics.com/biggest-losers/)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
-* [2024-01-10, 18:43:13](https://news.ycombinator.com/item?id=38941719) - [Israeli group claims it’s using back channels to censor “inflammatory” content](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/)
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
 * [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
@@ -28,6 +27,7 @@
 * [2024-01-10, 08:33:35](https://news.ycombinator.com/item?id=38937739) - [The odd saga of CVE-2012-5639](https://lwn.net/SubscriberLink/957219/8d3d4d9505f85de7/)
 * [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
+* [2024-01-09, 11:57:47](https://news.ycombinator.com/item?id=38925086) - [Ethiopia's controversial quest for access to the sea](https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/)
 * [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 
