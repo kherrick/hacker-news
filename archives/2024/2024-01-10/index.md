@@ -47,6 +47,7 @@
 * [2024-01-10, 19:45:31](https://news.ycombinator.com/item?id=38942262) - [Amazon lays off 500 Twitch employees, hundreds more at MGM and Prime Video](https://arstechnica.com/tech-policy/2024/01/amazon-lays-off-500-twitch-employees-hundreds-more-at-mgm-and-prime-video/)
 * [2024-01-10, 19:39:45](https://news.ycombinator.com/item?id=38942206) - [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 * [2024-01-10, 19:37:01](https://news.ycombinator.com/item?id=38942179) - [A theory of the modern exclamation point!](https://annehelen.substack.com/p/a-theory-of-the-modern-exclamation)
+* [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The Biggest Losers: Metabolic Damage or Constrained Energy?](https://physiqonomics.com/biggest-losers/)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 * [2024-01-10, 18:43:13](https://news.ycombinator.com/item?id=38941719) - [Israeli group claims it’s using back channels to censor “inflammatory” content](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/)
