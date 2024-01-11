@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to Sell 20k EVs in Shift Back to Gas-Powered Cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
 * [2024-01-11, 14:22:34](https://news.ycombinator.com/item?id=38952505) - [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
 * [2024-01-11, 14:14:10](https://news.ycombinator.com/item?id=38952390) - [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
@@ -11,6 +12,7 @@
 * [2024-01-11, 13:21:45](https://news.ycombinator.com/item?id=38951855) - [Twitch layoffs: Amazon-owned livestreaming platform cutting workforce by 35%](https://www.usatoday.com/story/money/2024/01/10/twitch-layoffs-job-cuts/72174329007/)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
+* [2024-01-11, 13:11:15](https://news.ycombinator.com/item?id=38951749) - [Amazon Cuts Jobs in Prime Video and MGM Studios](https://www.cnbc.com/2024/01/10/amazon-layoffs-hundreds-of-jobs-cut-in-prime-video-and-mgm-studios.html)
 * [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:27:33](https://news.ycombinator.com/item?id=38951315) - [Virtual Computer Museum – VNC into Archaic Windows Systems](https://museum.trialanderror.tech/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
