@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-11, 20:02:51",
-      "https://news.ycombinator.com/item?id=38958143"
-    ],
-    [
-      "Tell HN: The Turing.com hiring platform is complete nonsense",
-      "https://news.ycombinator.com/item?id=38958143"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 19:53:00",
       "https://news.ycombinator.com/item?id=38957961"
     ],
@@ -21,42 +11,12 @@
   ],
   [
     [
-      "2024-01-11, 19:37:23",
-      "https://news.ycombinator.com/item?id=38957694"
-    ],
-    [
-      "Amazon cuts 5% of Audible division's workforce",
-      "https://www.reuters.com/technology/amazon-cuts-5-audible-divisions-workforce-business-insider-2024-01-11/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 19:35:19",
-      "https://news.ycombinator.com/item?id=38957651"
-    ],
-    [
-      "Ask HN: IRS section 174 – cause of layoffs?",
-      "https://news.ycombinator.com/item?id=38957651"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 19:11:18",
       "https://news.ycombinator.com/item?id=38957230"
     ],
     [
       "A Philosophical Introduction to Language Models",
       "https://arxiv.org/abs/2401.03910"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 19:04:37",
-      "https://news.ycombinator.com/item?id=38957113"
-    ],
-    [
-      "Wi-Fi 7 took off while everyone was looking at AI",
-      "https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus"
     ]
   ],
   [
@@ -111,12 +71,12 @@
   ],
   [
     [
-      "2024-01-11, 18:14:41",
-      "https://news.ycombinator.com/item?id=38956224"
+      "2024-01-11, 18:20:40",
+      "https://news.ycombinator.com/item?id=38956323"
     ],
     [
-      "US oil lobby launches ad campaign to promote oil as 'vital' to global security",
-      "https://www.theguardian.com/us-news/2024/jan/10/oil-ads-lights-on-energy"
+      "Did a 1997 merger ruin Boeing?",
+      "https://finshots.in/archive/did-a-1997-merger-ruin-boeing/"
     ]
   ],
   [
@@ -135,7 +95,7 @@
       "https://news.ycombinator.com/item?id=38954956"
     ],
     [
-      "Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)",
+      "Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)",
       "https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d"
     ]
   ],
@@ -147,6 +107,16 @@
     [
       "A Technical Dive into PostgreSQL's replication mechanisms",
       "https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 16:47:18",
+      "https://news.ycombinator.com/item?id=38954730"
+    ],
+    [
+      "Microsoft overtakes Apple as most valuable company",
+      "https://www.reuters.com/technology/microsoft-overtakes-apple-worlds-most-valuable-company-2024-01-11/"
     ]
   ],
   [
@@ -171,12 +141,22 @@
   ],
   [
     [
-      "2024-01-11, 14:23:48",
-      "https://news.ycombinator.com/item?id=38952526"
+      "2024-01-11, 13:58:09",
+      "https://news.ycombinator.com/item?id=38952214"
     ],
     [
-      "The Internet Is Full of AI Dogshit",
-      "https://aftermath.site/the-internet-is-full-of-ai-dogshit"
+      "Is htmx Just Another JavaScript Framework?",
+      "https://htmx.org/essays/is-htmx-another-javascript-framework/"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 13:35:27",
+      "https://news.ycombinator.com/item?id=38951983"
+    ],
+    [
+      "Neonmodem: TUI for Lobsters, HN, etc.",
+      "https://github.com/mrusme/neonmodem"
     ]
   ],
   [
@@ -225,8 +205,18 @@
       "https://news.ycombinator.com/item?id=38950721"
     ],
     [
-      "Tell HN: Bash.org Is No More",
+      "Tell HN: Bash.org is no more",
       "https://news.ycombinator.com/item?id=38950721"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 09:33:02",
+      "https://news.ycombinator.com/item?id=38949856"
+    ],
+    [
+      "Meta unlawfully ignores the users' right to easily withdraw consent",
+      "https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "HTML Spirograph (2021)",
       "http://htmlspirograph.com/"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 06:14:51",
+      "https://news.ycombinator.com/item?id=38948444"
+    ],
+    [
+      "Google Cuts Jobs in Engineering and Other Divisions",
+      "https://www.nytimes.com/2024/01/11/technology/google-layoffs.html"
     ]
   ],
   [
