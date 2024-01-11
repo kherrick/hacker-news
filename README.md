@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
+* [2024-01-11, 14:22:34](https://news.ycombinator.com/item?id=38952505) - [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
+* [2024-01-11, 14:14:10](https://news.ycombinator.com/item?id=38952390) - [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
+* [2024-01-11, 13:58:09](https://news.ycombinator.com/item?id=38952214) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 13:21:45](https://news.ycombinator.com/item?id=38951855) - [Twitch layoffs: Amazon-owned livestreaming platform cutting workforce by 35%](https://www.usatoday.com/story/money/2024/01/10/twitch-layoffs-job-cuts/72174329007/)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
@@ -14,7 +18,6 @@
 * [2024-01-11, 05:31:58](https://news.ycombinator.com/item?id=38948137) - [MFA today is both 'simple' and non-trivial work](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
-* [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
@@ -25,9 +28,6 @@
 * [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2024-01-10, 00:10:04](https://news.ycombinator.com/item?id=38934270) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-09, 12:50:35](https://news.ycombinator.com/item?id=38925560) - [Out of Memory Shenanigans](https://www.epsio.io/blog/out-of-memory-shenanigans)
-* [2024-01-09, 11:57:47](https://news.ycombinator.com/item?id=38925086) - [Ethiopia's controversial quest for access to the sea](https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/)
-* [2024-01-09, 10:40:19](https://news.ycombinator.com/item?id=38924540) - [New interpretations of the Cerne Abbas Giant](https://arstechnica.com/science/2024/01/cerne-abbas-giant-is-a-depiction-of-hercules/)
-* [2024-01-09, 09:40:30](https://news.ycombinator.com/item?id=38924126) - [Japan's airport control towers stop using 'No.1' instruction for plane takeoffs](https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/)
 * [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 
