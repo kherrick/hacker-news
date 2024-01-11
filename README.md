@@ -11,7 +11,6 @@
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:44:25](https://news.ycombinator.com/item?id=38944513) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
-* [2024-01-10, 22:00:06](https://news.ycombinator.com/item?id=38943905) - [Air Travel Is Not Ready for Electronic Warfare](https://www.jeffwise.net/2024/01/03/new-york-air-travel-is-not-ready-for-electronic-warfare/)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
 * [2024-01-10, 20:50:21](https://news.ycombinator.com/item?id=38942905) - [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 * [2024-01-10, 20:49:35](https://news.ycombinator.com/item?id=38942892) - [Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
@@ -30,6 +29,7 @@
 * [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
 * [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
+* [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 
 ## [Archives](archives/index.md)
 

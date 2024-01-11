@@ -93,6 +93,7 @@
 * [2024-01-09, 07:22:59](https://news.ycombinator.com/item?id=38923362) - [BBC Bias- NLP Analysis of BBC Israel-Palestine Reporting](https://github.com/liet-git/bbc-bias)
 * [2024-01-09, 06:38:07](https://news.ycombinator.com/item?id=38923119) - [Ask HN: Do you know anyone at Facebook?](https://news.ycombinator.com/item?id=38923119)
 * [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
+* [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 * [2024-01-09, 05:22:40](https://news.ycombinator.com/item?id=38922657) - [DARPA Moves Forward on X-65: Plane with no moving control surfaces](https://www.darpa.mil/news-events/2024-01-03)
 * [2024-01-09, 04:59:06](https://news.ycombinator.com/item?id=38922518) - [Men are hitting on my scheduling bot because it has a woman's name](https://www.askamanager.org/2024/01/men-are-hitting-on-my-scheduling-bot-because-it-has-a-womans-name.html)
 * [2024-01-09, 03:50:57](https://news.ycombinator.com/item?id=38922077) - [Gone Bad, Come to Life (2022)](https://www.berfrois.com/2022/12/justin-e-h-smith-hell-yes-life-is-good/)
