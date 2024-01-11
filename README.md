@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 09:04:19](https://news.ycombinator.com/item?id=38949640) - [Valve now allows the \"vast majority\" of AI-powered games on Steam](https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam/)
 * [2024-01-11, 08:18:52](https://news.ycombinator.com/item?id=38949284) - ['Iranian cyber army' blamed as Wikipedia deletes atrocities](https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71)
 * [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
@@ -24,7 +25,6 @@
 * [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
 * [2024-01-10, 10:15:14](https://news.ycombinator.com/item?id=38938504) - [Looming Groupocalypse: The Google Groupsspaggheddon Cometh](https://news.novabbs.org/computers/article-flat.php?id=4004&group=alt.free.newsservers#4004)
 * [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
-* [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-10, 00:10:04](https://news.ycombinator.com/item?id=38934270) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-09, 11:57:47](https://news.ycombinator.com/item?id=38925086) - [Ethiopia's controversial quest for access to the sea](https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/)
 * [2024-01-09, 10:40:19](https://news.ycombinator.com/item?id=38924540) - [New interpretations of the Cerne Abbas Giant](https://arstechnica.com/science/2024/01/cerne-abbas-giant-is-a-depiction-of-hercules/)
