@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
+* [2024-01-11, 17:03:53](https://news.ycombinator.com/item?id=38955028) - [An influx of Chinese cars is terrifying the West](https://www.economist.com/leaders/2024/01/11/an-influx-of-chinese-cars-is-terrifying-the-west)
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+* [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 * [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
 * [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
