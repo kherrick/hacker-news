@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
+* [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
@@ -12,7 +14,6 @@
 * [2024-01-10, 20:48:05](https://news.ycombinator.com/item?id=38942867) - [Netflix never used its $1M algorithm (2012)](https://thenextweb.com/news/remember-netflixs-1m-algorithm-contest-well-heres-why-it-didnt-use-the-winning-entry)
 * [2024-01-10, 20:46:33](https://news.ycombinator.com/item?id=38942847) - [Shoelace: A library of web components](https://shoelace.style/)
 * [2024-01-10, 20:40:59](https://news.ycombinator.com/item?id=38942777) - [Notes on a few abnormalities in analysis (2022)](https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html)
-* [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/)
 * [2024-01-10, 19:59:33](https://news.ycombinator.com/item?id=38942400) - [Tidy First?](https://henrikwarne.com/2024/01/10/tidy-first/)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The biggest losers: Metabolic damage or constrained energy?](https://physiqonomics.com/biggest-losers/)
@@ -27,7 +28,6 @@
 * [2024-01-10, 00:10:04](https://news.ycombinator.com/item?id=38934270) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
 * [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
-* [2024-01-09, 11:57:47](https://news.ycombinator.com/item?id=38925086) - [Ethiopia's controversial quest for access to the sea](https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/)
 * [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 
