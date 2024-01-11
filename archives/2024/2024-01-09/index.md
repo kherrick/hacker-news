@@ -89,6 +89,7 @@
 * [2024-01-09, 09:18:08](https://news.ycombinator.com/item?id=38923963) - [Apple pays out over claims it deliberately slowed down iPhones](https://www.bbc.co.uk/news/technology-67911517)
 * [2024-01-09, 08:35:58](https://news.ycombinator.com/item?id=38923741) - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 08:13:13](https://news.ycombinator.com/item?id=38923627) - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
+* [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 07:22:59](https://news.ycombinator.com/item?id=38923362) - [BBC Bias- NLP Analysis of BBC Israel-Palestine Reporting](https://github.com/liet-git/bbc-bias)
 * [2024-01-09, 06:38:07](https://news.ycombinator.com/item?id=38923119) - [Ask HN: Do you know anyone at Facebook?](https://news.ycombinator.com/item?id=38923119)
 * [2024-01-09, 06:19:50](https://news.ycombinator.com/item?id=38923033) - [Picking the Widevine Locks: Acquiring and Using an L3 CDM](https://www.ismailzai.com/blog/picking-the-widevine-locks)
