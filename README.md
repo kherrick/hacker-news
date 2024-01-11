@@ -3,6 +3,7 @@
 * [2024-01-11, 21:02:39](https://news.ycombinator.com/item?id=38959026) - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
 * [2024-01-11, 20:57:25](https://news.ycombinator.com/item?id=38958955) - [Let's Block It](https://letsblock.it/)
 * [2024-01-11, 20:50:04](https://news.ycombinator.com/item?id=38958849) - [All the Types of Science Fiction](https://www.mcsweeneys.net/articles/all-the-types-of-science-fiction)
+* [2024-01-11, 20:45:58](https://news.ycombinator.com/item?id=38958789) - [Ask HN: What is the current driver of tech layoffs?](https://news.ycombinator.com/item?id=38958789)
 * [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 20:01:18](https://news.ycombinator.com/item?id=38958118) - [Bemi: Data Change Observability for Ops](https://bemi.io/use-case/ops)
@@ -25,11 +26,10 @@
 * [2024-01-11, 12:27:33](https://news.ycombinator.com/item?id=38951315) - [Virtual Computer Museum – VNC into Archaic Windows Systems](https://museum.trialanderror.tech/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org is no more](https://news.ycombinator.com/item?id=38950721)
-* [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically (2023)](https://sillycross.github.io/2023/05/12/2023-05-12/)
-* [2024-01-10, 13:17:04](https://news.ycombinator.com/item?id=38939098) - [Abykus – A free spreadsheet application for windows](https://www.abykus.com/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 * [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
+* [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
 
 ## [Archives](archives/index.md)
 
