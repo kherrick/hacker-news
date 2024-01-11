@@ -1,22 +1,42 @@
 [
   [
     [
+      "2024-01-11, 12:09:59",
+      "https://news.ycombinator.com/item?id=38951172"
+    ],
+    [
+      "Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine",
+      "https://github.com/popcar2/GodotOS"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 12:00:00",
+      "https://news.ycombinator.com/item?id=38951087"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring for Sales",
+      "https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 11:17:08",
+      "https://news.ycombinator.com/item?id=38950721"
+    ],
+    [
+      "Tell HN: Bash.org Is No More",
+      "https://news.ycombinator.com/item?id=38950721"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 09:33:02",
       "https://news.ycombinator.com/item?id=38949856"
     ],
     [
       "Meta unlawfully ignores the users' right to easily withdraw consent",
       "https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 08:18:52",
-      "https://news.ycombinator.com/item?id=38949284"
-    ],
-    [
-      "'Iranian cyber army' blamed as Wikipedia deletes atrocities",
-      "https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "epoll: The API that powers the modern internet (2022)",
       "https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 01:01:53",
-      "https://news.ycombinator.com/item?id=38945991"
-    ],
-    [
-      "Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)",
-      "https://getjerry.com/careers"
     ]
   ],
   [
@@ -137,36 +147,6 @@
     [
       "Show HN: Dbeel – A distributed thread-per-core db",
       "https://github.com/tontinton/dbeel"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:50:21",
-      "https://news.ycombinator.com/item?id=38942905"
-    ],
-    [
-      "An Approach to Sound Synthesis with L-Systems",
-      "https://nathan.ho.name/posts/sound-synthesis-with-l-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:49:35",
-      "https://news.ycombinator.com/item?id=38942892"
-    ],
-    [
-      "Conditional Git Configuration",
-      "https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:46:33",
-      "https://news.ycombinator.com/item?id=38942847"
-    ],
-    [
-      "Shoelace: A library of web components",
-      "https://shoelace.style/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2024-01-09, 11:57:47",
+      "https://news.ycombinator.com/item?id=38925086"
+    ],
+    [
+      "Ethiopia's controversial quest for access to the sea",
+      "https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 10:40:19",
       "https://news.ycombinator.com/item?id=38924540"
     ],
     [
       "New interpretations of the Cerne Abbas Giant",
       "https://arstechnica.com/science/2024/01/cerne-abbas-giant-is-a-depiction-of-hercules/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 09:40:30",
+      "https://news.ycombinator.com/item?id=38924126"
+    ],
+    [
+      "Japan's airport control towers stop using 'No.1' instruction for plane takeoffs",
+      "https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/"
     ]
   ],
   [
