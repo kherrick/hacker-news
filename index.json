@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-01-11, 14:22:34",
-      "https://news.ycombinator.com/item?id=38952505"
-    ],
-    [
-      "Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years",
-      "https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 13:58:09",
       "https://news.ycombinator.com/item?id=38952214"
     ],
@@ -61,11 +51,21 @@
   ],
   [
     [
+      "2024-01-11, 13:35:27",
+      "https://news.ycombinator.com/item?id=38951983"
+    ],
+    [
+      "Neonmodem: TUI for Lobsters, HN, etc.",
+      "https://github.com/mrusme/neonmodem"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 13:20:49",
       "https://news.ycombinator.com/item?id=38951847"
     ],
     [
-      "Announce: timeline to remove DSA support in OpenSSH",
+      "Timeline to remove DSA support in OpenSSH",
       "https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html"
     ]
   ],
