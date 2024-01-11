@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 19:11:18](https://news.ycombinator.com/item?id=38957230) - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
@@ -15,7 +16,6 @@
 * [2024-01-11, 16:14:42](https://news.ycombinator.com/item?id=38954189) - [ArchiveBox: Open-source self-hosted web archiving](https://github.com/ArchiveBox/ArchiveBox)
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
-* [2024-01-11, 13:35:27](https://news.ycombinator.com/item?id=38951983) - [Neonmodem: TUI for Lobsters, HN, etc.](https://github.com/mrusme/neonmodem)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:50:53](https://news.ycombinator.com/item?id=38951544) - [Natural Deduction in Logic (2015)](https://profs.info.uaic.ro/~stefan.ciobaca/lnd.html)
