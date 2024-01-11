@@ -7,6 +7,7 @@
 * [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
+* [2024-01-10, 22:00:06](https://news.ycombinator.com/item?id=38943905) - [Air Travel Is Not Ready for Electronic Warfare](https://www.jeffwise.net/2024/01/03/new-york-air-travel-is-not-ready-for-electronic-warfare/)
 * [2024-01-10, 21:27:28](https://news.ycombinator.com/item?id=38943420) - [Metahead – An enterprise-grade, Git-based metarepo](https://www.metahead.dev/)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
 * [2024-01-10, 20:51:18](https://news.ycombinator.com/item?id=38942912) - [The case for better watch typography (2021)](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
@@ -29,7 +30,6 @@
 * [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
-* [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 
 ## [Archives](archives/index.md)
 
