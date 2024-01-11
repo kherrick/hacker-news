@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 18:20:40](https://news.ycombinator.com/item?id=38956323) - [Did a 1997 merger ruin Boeing?](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
+* [2024-01-11, 18:20:02](https://news.ycombinator.com/item?id=38956310) - [World Trying to Quit Fossil Fuels Gets Flood of Gas Instead](https://www.bloomberg.com/news/features/2024-01-11/natural-gas-boom-to-hit-warming-world-trying-to-quit-fossil-fuels)
 * [2024-01-11, 18:05:44](https://news.ycombinator.com/item?id=38956063) - [Hertz selling 20k EVs, will replace with gas-powered vehicles](https://www.autoblog.com/2024/01/11/hertz-sells-electric-cars-tesla-polestar/)
 * [2024-01-11, 17:44:14](https://news.ycombinator.com/item?id=38955715) - [Hertz is selling 20k EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
 * [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
@@ -12,10 +14,12 @@
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 * [2024-01-11, 16:53:04](https://news.ycombinator.com/item?id=38954827) - [Car rental firm Hertz to sell 20k EVs for gas powered vehicles](https://www.reuters.com/business/autos-transportation/hertz-sell-about-20000-evs-us-fleet-2024-01-11/)
+* [2024-01-11, 16:37:57](https://news.ycombinator.com/item?id=38954576) - [Iran seizes oil tanker in Gulf of Oman](https://www.cnn.com/2024/01/11/business/oil-tanker-boarded-armed-people-iran/index.html)
 * [2024-01-11, 16:24:49](https://news.ycombinator.com/item?id=38954372) - [A geofence warrant typo cast a location dragnet spanning two miles over SF](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
 * [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
 * [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
+* [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 15:13:25](https://news.ycombinator.com/item?id=38953242) - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to Sell 20k EVs in Shift Back to Gas-Powered Cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
