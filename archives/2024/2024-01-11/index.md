@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 20:02:51](https://news.ycombinator.com/item?id=38958143) - [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
+* [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
+* [2024-01-11, 19:37:23](https://news.ycombinator.com/item?id=38957694) - [Amazon cuts 5% of Audible division's workforce](https://www.reuters.com/technology/amazon-cuts-5-audible-divisions-workforce-business-insider-2024-01-11/)
+* [2024-01-11, 19:35:19](https://news.ycombinator.com/item?id=38957651) - [Ask HN: IRS section 174 – cause of layoffs?](https://news.ycombinator.com/item?id=38957651)
 * [2024-01-11, 19:11:18](https://news.ycombinator.com/item?id=38957230) - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
 * [2024-01-11, 19:04:37](https://news.ycombinator.com/item?id=38957113) - [Wi-Fi 7 took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-11, 18:50:34](https://news.ycombinator.com/item?id=38956857) - [Effortless AI: No-Code Automation Using N8n Cloud and OpenAI Vision API](https://n8n-automation.com/2024/01/11/open-ai-vision-api/)
+* [2024-01-11, 18:49:44](https://news.ycombinator.com/item?id=38956842) - [Majority of debtors to US hospitals now people with health insurance](https://www.theguardian.com/us-news/2024/jan/11/hospital-debt-increase-people-with-insurance)
 * [2024-01-11, 18:44:20](https://news.ycombinator.com/item?id=38956756) - [Incompetent Middle Management Killed Google](https://andrewzuo.com/how-incompetent-middle-management-killed-google-0e3bf56924ac)
 * [2024-01-11, 18:37:50](https://news.ycombinator.com/item?id=38956623) - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
