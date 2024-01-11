@@ -65,6 +65,7 @@
 * [2024-01-10, 09:12:20](https://news.ycombinator.com/item?id=38938020) - [Supabase (YC S20) Is Hiring a Product Marketer (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/5005843004)
 * [2024-01-10, 09:11:53](https://news.ycombinator.com/item?id=38938017) - [Bottled water has 'up to 100 times' more bits of plastic than previously feared](https://www.theregister.com/2024/01/10/water_nanoplastic_pollution/)
 * [2024-01-10, 08:40:51](https://news.ycombinator.com/item?id=38937801) - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+* [2024-01-10, 08:33:35](https://news.ycombinator.com/item?id=38937739) - [The odd saga of CVE-2012-5639](https://lwn.net/SubscriberLink/957219/8d3d4d9505f85de7/)
 * [2024-01-10, 08:29:26](https://news.ycombinator.com/item?id=38937705) - [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 * [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
 * [2024-01-10, 07:40:52](https://news.ycombinator.com/item?id=38937352) - [Swiss federal surveillance monitoring nearly everything! Impact on Proton e.g.?](https://news.ycombinator.com/item?id=38937352)
