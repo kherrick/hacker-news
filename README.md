@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-11, 21:17:50](https://news.ycombinator.com/item?id=38959208) - [The Concorde was different from other aircraft in many ways](https://twitter.com/Rainmaker1973/status/1745421959989457206)
-* [2024-01-11, 21:02:39](https://news.ycombinator.com/item?id=38959026) - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
+* [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
+* [2024-01-11, 21:44:38](https://news.ycombinator.com/item?id=38959617) - [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 * [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
-* [2024-01-11, 20:20:07](https://news.ycombinator.com/item?id=38958396) - [Show HN: Designing Bridges with PyTorch](https://github.com/eschluntz/PytorchBridge)
+* [2024-01-11, 20:20:07](https://news.ycombinator.com/item?id=38958396) - [Designing bridge trusses with Pytorch autograd](https://github.com/eschluntz/PytorchBridge)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 19:11:18](https://news.ycombinator.com/item?id=38957230) - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
