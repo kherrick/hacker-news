@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 20:57:25](https://news.ycombinator.com/item?id=38958955) - [Let's Block It](https://letsblock.it/)
+* [2024-01-11, 20:50:04](https://news.ycombinator.com/item?id=38958849) - [All the Types of Science Fiction](https://www.mcsweeneys.net/articles/all-the-types-of-science-fiction)
 * [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
@@ -24,8 +26,6 @@
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org is no more](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-11, 09:33:02](https://news.ycombinator.com/item?id=38949856) - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
 * [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically (2023)](https://sillycross.github.io/2023/05/12/2023-05-12/)
-* [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
-* [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-10, 13:17:04](https://news.ycombinator.com/item?id=38939098) - [Abykus – A free spreadsheet application for windows](https://www.abykus.com/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)

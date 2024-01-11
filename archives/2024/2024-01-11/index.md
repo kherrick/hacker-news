@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 20:57:25](https://news.ycombinator.com/item?id=38958955) - [Let's Block It](https://letsblock.it/)
+* [2024-01-11, 20:50:04](https://news.ycombinator.com/item?id=38958849) - [All the Types of Science Fiction](https://www.mcsweeneys.net/articles/all-the-types-of-science-fiction)
 * [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 20:02:51](https://news.ycombinator.com/item?id=38958143) - [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
