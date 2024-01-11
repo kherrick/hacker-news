@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 20:02:51](https://news.ycombinator.com/item?id=38958143) - [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 19:37:23](https://news.ycombinator.com/item?id=38957694) - [Amazon cuts 5% of Audible division's workforce](https://www.reuters.com/technology/amazon-cuts-5-audible-divisions-workforce-business-insider-2024-01-11/)
@@ -33,6 +34,7 @@
 * [2024-01-11, 16:24:49](https://news.ycombinator.com/item?id=38954372) - [A geofence warrant typo cast a location dragnet spanning two miles over SF](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
 * [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
+* [2024-01-11, 16:14:42](https://news.ycombinator.com/item?id=38954189) - [ArchiveBox: Open-source self-hosted web archiving](https://github.com/ArchiveBox/ArchiveBox)
 * [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
@@ -50,6 +52,7 @@
 * [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
 * [2024-01-11, 13:11:15](https://news.ycombinator.com/item?id=38951749) - [Amazon Cuts Jobs in Prime Video and MGM Studios](https://www.cnbc.com/2024/01/10/amazon-layoffs-hundreds-of-jobs-cut-in-prime-video-and-mgm-studios.html)
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
+* [2024-01-11, 12:50:53](https://news.ycombinator.com/item?id=38951544) - [Natural Deduction in Logic (2015)](https://profs.info.uaic.ro/~stefan.ciobaca/lnd.html)
 * [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:27:33](https://news.ycombinator.com/item?id=38951315) - [Virtual Computer Museum – VNC into Archaic Windows Systems](https://museum.trialanderror.tech/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
