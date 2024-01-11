@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-11, 01:01:53",
+      "https://news.ycombinator.com/item?id=38945991"
+    ],
+    [
+      "Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)",
+      "https://getjerry.com/careers"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 00:02:52",
+      "https://news.ycombinator.com/item?id=38945437"
+    ],
+    [
+      "Software Engineers Say the Job Market Is Getting Much Worse",
+      "https://www.vice.com/en/article/g5y37j/thousands-of-software-engineers-say-the-job-market-is-getting-much-worse"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 23:32:27",
       "https://news.ycombinator.com/item?id=38945125"
     ],
@@ -17,16 +37,6 @@
     [
       "Franz Morat KG TV-computersystem 6800",
       "https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 23:02:21",
-      "https://news.ycombinator.com/item?id=38944756"
-    ],
-    [
-      "The Andersen's Pea Soup in Buellton is closing after 100 years",
-      "https://www.santabarbara.com/dining/news/2024/01/09/pea-soup-andersens-closes-in-buellton/"
     ]
   ],
   [
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-01-10, 21:16:58",
+      "https://news.ycombinator.com/item?id=38943291"
+    ],
+    [
+      "Spot Bitcoin ETF receives official approval from the SEC",
+      "https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 20:59:25",
       "https://news.ycombinator.com/item?id=38943040"
     ],
@@ -61,22 +81,22 @@
   ],
   [
     [
+      "2024-01-10, 20:57:16",
+      "https://news.ycombinator.com/item?id=38943017"
+    ],
+    [
+      "Automatic Syntax Error Recovery (2020)",
+      "https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 20:53:16",
       "https://news.ycombinator.com/item?id=38942960"
     ],
     [
       "Show HN: Dbeel – A distributed thread-per-core db",
       "https://github.com/tontinton/dbeel"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:51:51",
-      "https://news.ycombinator.com/item?id=38942928"
-    ],
-    [
-      "The Big Dummy's Guide to Fidonet (1992)",
-      "http://www.fidonet.us/dummyguide.html"
     ]
   ],
   [
@@ -127,26 +147,6 @@
     [
       "Shoelace: A library of web components",
       "https://shoelace.style/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:46:07",
-      "https://news.ycombinator.com/item?id=38942840"
-    ],
-    [
-      "Exploiting Undocumented API to Regenerate Google Service Cookies",
-      "https://www.cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:44:36",
-      "https://news.ycombinator.com/item?id=38942827"
-    ],
-    [
-      "Unctad: Productive Capacities Index",
-      "https://unctadstat.unctad.org/EN/Pci.html"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-01-10, 17:00:58",
-      "https://news.ycombinator.com/item?id=38940670"
-    ],
-    [
-      "Snapdocs (YC W14) Is Hiring",
-      "https://boards.greenhouse.io/snapdocs/jobs/5053815004"
-    ]
-  ],
-  [
-    [
       "2024-01-10, 16:32:38",
       "https://news.ycombinator.com/item?id=38940374"
     ],
@@ -271,12 +261,12 @@
   ],
   [
     [
-      "2024-01-10, 14:39:05",
-      "https://news.ycombinator.com/item?id=38939404"
+      "2024-01-10, 10:22:14",
+      "https://news.ycombinator.com/item?id=38938562"
     ],
     [
-      "The flight of the Weird Nerd from academia",
-      "https://www.writingruxandrabio.com/p/the-flight-of-the-weird-nerd-from"
+      "Helio: Libre Music Composition Software",
+      "https://helio.fm/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Contra Wirecutter on the IKEA air purifier (2022)",
       "https://dynomight.net/ikea-purifier/"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 14:45:16",
+      "https://news.ycombinator.com/item?id=38926727"
+    ],
+    [
+      "Devices that connect brains to computers are increasingly sophisticated",
+      "https://undark.org/2024/01/03/brain-computer-neurorights/"
     ]
   ]
 ]
