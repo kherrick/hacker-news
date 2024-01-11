@@ -14,7 +14,7 @@
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
-* [2024-01-10, 20:50:21](https://news.ycombinator.com/item?id=38942905) - [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
+* [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 20:49:35](https://news.ycombinator.com/item?id=38942892) - [Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
 * [2024-01-10, 20:46:33](https://news.ycombinator.com/item?id=38942847) - [Shoelace: A library of web components](https://shoelace.style/)
 * [2024-01-10, 19:59:33](https://news.ycombinator.com/item?id=38942400) - [Tidy First?](https://henrikwarne.com/2024/01/10/tidy-first/)
