@@ -16,6 +16,7 @@
 * [2024-01-09, 21:40:06](https://news.ycombinator.com/item?id=38932509) - [SEC's X Account Hacked, Bitcoin Spot ETFs Not yet Approved](https://en.bitcoinsistemi.com/breaking-gary-gensler-says-secs-x-account-hacked-bitcoin-spot-etfs-not-yet-approved/)
 * [2024-01-09, 21:39:02](https://news.ycombinator.com/item?id=38932489) - [Rabbit R1, Designed by Teenage Engineering](https://www.rabbit.tech/?r1)
 * [2024-01-09, 21:37:52](https://news.ycombinator.com/item?id=38932472) - [SEC Says It Has Not yet Granted Approval of Bitcoin ETFs: Gensler blames hack](https://www.bloomberg.com/news/articles/2024-01-09/sec-says-has-not-yet-granted-approval-of-spot-bitcoin-etfs)
+* [2024-01-09, 21:36:53](https://news.ycombinator.com/item?id=38932459) - [Decentralized Hacker News](https://enindu.com/blog/decentralized-hacker-news)
 * [2024-01-09, 21:34:34](https://news.ycombinator.com/item?id=38932428) - [Translating blog posts with GPT-4, or: on hope and fear](http://antirez.com/news/141)
 * [2024-01-09, 21:32:18](https://news.ycombinator.com/item?id=38932398) - [Linux 6.8 Network Optimizations Can Boost TCP Performance by ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-01-09, 21:28:11](https://news.ycombinator.com/item?id=38932350) - [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)

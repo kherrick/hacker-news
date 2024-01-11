@@ -80,6 +80,7 @@
 * [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)
 * [2024-01-10, 04:51:35](https://news.ycombinator.com/item?id=38936341) - [Linkhut: A Social Bookmarking Site](https://ln.ht/)
 * [2024-01-10, 04:19:47](https://news.ycombinator.com/item?id=38936102) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/atuinsh/atuin)
+* [2024-01-10, 03:39:57](https://news.ycombinator.com/item?id=38935838) - [Why Instagram failed to become TikTok](https://diklein.com/why-instagram-failed-to-become-tiktok)
 * [2024-01-10, 02:59:58](https://news.ycombinator.com/item?id=38935605) - [The Teen Mental Illness Epidemic Is International](https://www.afterbabel.com/p/international-mental-illness-part-one)
 * [2024-01-10, 02:49:37](https://news.ycombinator.com/item?id=38935526) - [How Corruption and Greed Led to the Downfall of Rock Music](https://starsafterstarsafterstars.substack.com/p/investigating-rock-radio-with-rick)
 * [2024-01-10, 02:43:45](https://news.ycombinator.com/item?id=38935485) - [Mariposa – A programming language with time-travel](https://github.com/ambulancja/mariposa)
@@ -92,4 +93,5 @@
 * [2024-01-10, 01:08:22](https://news.ycombinator.com/item?id=38934809) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=38934809)
 * [2024-01-10, 00:52:18](https://news.ycombinator.com/item?id=38934666) - [24 Hours of Lemons](https://24hoursoflemons.com/)
 * [2024-01-10, 00:45:58](https://news.ycombinator.com/item?id=38934607) - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
+* [2024-01-10, 00:10:04](https://news.ycombinator.com/item?id=38934270) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
