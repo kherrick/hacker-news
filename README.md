@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 19:11:18](https://news.ycombinator.com/item?id=38957230) - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
 * [2024-01-11, 19:04:37](https://news.ycombinator.com/item?id=38957113) - [Wi-Fi 7 took off while everyone was looking at AI](https://www.theverge.com/2024/1/11/24033022/wi-fi-7-laptops-gaming-ces-2024-lenovo-alienware-razer-msi-asus)
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-11, 18:50:34](https://news.ycombinator.com/item?id=38956857) - [Effortless AI: No-Code Automation Using N8n Cloud and OpenAI Vision API](https://n8n-automation.com/2024/01/11/open-ai-vision-api/)
@@ -14,7 +15,6 @@
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
-* [2024-01-11, 13:58:09](https://news.ycombinator.com/item?id=38952214) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 13:35:27](https://news.ycombinator.com/item?id=38951983) - [Neonmodem: TUI for Lobsters, HN, etc.](https://github.com/mrusme/neonmodem)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
