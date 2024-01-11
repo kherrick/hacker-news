@@ -5,6 +5,7 @@
 * [2024-01-11, 18:50:34](https://news.ycombinator.com/item?id=38956857) - [Effortless AI: No-Code Automation Using N8n Cloud and OpenAI Vision API](https://n8n-automation.com/2024/01/11/open-ai-vision-api/)
 * [2024-01-11, 18:37:50](https://news.ycombinator.com/item?id=38956623) - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
+* [2024-01-11, 18:20:40](https://news.ycombinator.com/item?id=38956323) - [Did a 1997 merger ruin Boeing?](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
 * [2024-01-11, 18:14:41](https://news.ycombinator.com/item?id=38956224) - [US oil lobby launches ad campaign to promote oil as 'vital' to global security](https://www.theguardian.com/us-news/2024/jan/10/oil-ads-lights-on-energy)
 * [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
@@ -29,7 +30,6 @@
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 * [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
-* [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 
 ## [Archives](archives/index.md)
 
