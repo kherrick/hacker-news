@@ -57,6 +57,7 @@
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)
 * [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
+* [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
 * [2024-01-10, 14:58:11](https://news.ycombinator.com/item?id=38939570) - [Converting the Kernel to C++](https://lore.kernel.org/lkml/3465e0c6-f5b2-4c42-95eb-29361481f805@zytor.com/)
 * [2024-01-10, 14:39:05](https://news.ycombinator.com/item?id=38939404) - [The flight of the Weird Nerd from academia](https://www.writingruxandrabio.com/p/the-flight-of-the-weird-nerd-from)
 * [2024-01-10, 14:03:14](https://news.ycombinator.com/item?id=38939151) - [A 2024 Discussion Whether to Convert the Linux Kernel from C to Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
