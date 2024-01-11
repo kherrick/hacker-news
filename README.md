@@ -2,6 +2,7 @@
 
 * [2024-01-11, 13:21:45](https://news.ycombinator.com/item?id=38951855) - [Twitch layoffs: Amazon-owned livestreaming platform cutting workforce by 35%](https://www.usatoday.com/story/money/2024/01/10/twitch-layoffs-job-cuts/72174329007/)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
+* [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
 * [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 12:00:00](https://news.ycombinator.com/item?id=38951087) - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
@@ -14,7 +15,6 @@
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
-* [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
