@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 23:10:30](https://news.ycombinator.com/item?id=38960866) - [Tennessee after-school Satan club holds first meeting despite protests](https://www.theguardian.com/us-news/2024/jan/11/tennessee-after-school-satan-club-satanic-temple)
 * [2024-01-11, 22:44:02](https://news.ycombinator.com/item?id=38960496) - [Tell HN: WARN Act may provide prior notice of layoffs](https://news.ycombinator.com/item?id=38960496)
 * [2024-01-11, 22:29:52](https://news.ycombinator.com/item?id=38960317) - [Amazon-owned Audible lays off 5% of staff](https://techcrunch.com/2024/01/11/amazon-owned-audible-lays-off-5-of-staff/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
@@ -20,6 +21,7 @@
 * [2024-01-11, 20:29:02](https://news.ycombinator.com/item?id=38958534) - [93% of U.S. households' stock market wealth is held by the top 10%](https://www.axios.com/2024/01/10/wealthy-own-record-share-stock-market)
 * [2024-01-11, 20:20:07](https://news.ycombinator.com/item?id=38958396) - [Show HN: Designing Bridges with PyTorch](https://github.com/eschluntz/PytorchBridge)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How Virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
+* [2024-01-11, 20:03:32](https://news.ycombinator.com/item?id=38958151) - [Spot the bug in this Python code (2023)](https://dwrodri.gitlab.io/can-you-spot-the-bug-in-this-python-code/)
 * [2024-01-11, 20:02:51](https://news.ycombinator.com/item?id=38958143) - [Tell HN: The Turing.com hiring platform is complete nonsense](https://news.ycombinator.com/item?id=38958143)
 * [2024-01-11, 20:01:18](https://news.ycombinator.com/item?id=38958118) - [Bemi: Data Change Observability for Ops](https://bemi.io/use-case/ops)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
