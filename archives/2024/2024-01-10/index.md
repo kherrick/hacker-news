@@ -70,6 +70,7 @@
 * [2024-01-10, 08:29:26](https://news.ycombinator.com/item?id=38937705) - [British Post Office Scandal](https://en.wikipedia.org/wiki/British_Post_Office_scandal)
 * [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
 * [2024-01-10, 07:40:52](https://news.ycombinator.com/item?id=38937352) - [Swiss federal surveillance monitoring nearly everything! Impact on Proton e.g.?](https://news.ycombinator.com/item?id=38937352)
+* [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-10, 07:05:51](https://news.ycombinator.com/item?id=38937129) - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 07:00:09](https://news.ycombinator.com/item?id=38937101) - [How to defend your website with ZIP bombs](https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html)
 * [2024-01-10, 06:18:08](https://news.ycombinator.com/item?id=38936868) - [\"I Contribute to the Windows Kernel. We Are Slower Than Other Operating Systems\"](http://blog.zorinaq.com/i-contribute-to-the-windows-kernel-we-are-slower-than-other-oper/)

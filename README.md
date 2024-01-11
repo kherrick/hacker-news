@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 02:22:22](https://news.ycombinator.com/item?id=38946645) - [Don't upload your PWA to the app stores](https://kevinbasset.medium.com/dont-upload-your-pwa-to-the-app-stores-a4279a7d6eff)
 * [2024-01-11, 01:26:50](https://news.ycombinator.com/item?id=38946188) - [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
 * [2024-01-11, 00:30:43](https://news.ycombinator.com/item?id=38945687) - [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
@@ -19,7 +20,6 @@
 * [2024-01-10, 20:13:54](https://news.ycombinator.com/item?id=38942516) - [Attempting to engineer microscopic insulin pumps out of a skin bacterium](https://www.growbyginkgo.com/2024/01/09/getting-under-the-skin/)
 * [2024-01-10, 20:03:45](https://news.ycombinator.com/item?id=38942438) - [The Flo Control Project (2000)](https://web.archive.org/web/20000229222350/http://www.quantumpicture.com/Flo_Control/flo_control.htm)
 * [2024-01-10, 19:59:33](https://news.ycombinator.com/item?id=38942400) - [Tidy First?](https://henrikwarne.com/2024/01/10/tidy-first/)
-* [2024-01-10, 19:39:45](https://news.ycombinator.com/item?id=38942206) - [Free MIT Course: Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/)
 * [2024-01-10, 18:58:04](https://news.ycombinator.com/item?id=38941847) - [The biggest losers: Metabolic damage or constrained energy?](https://physiqonomics.com/biggest-losers/)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 * [2024-01-10, 17:27:16](https://news.ycombinator.com/item?id=38940911) - [The GPT Store](https://openai.com/blog/introducing-the-gpt-store)
@@ -27,9 +27,9 @@
 * [2024-01-10, 16:32:38](https://news.ycombinator.com/item?id=38940374) - [NASA's plan to \"swarm\" Proxima Centauri with tiny probes](https://www.sciencealert.com/nasa-selects-a-wild-plan-to-swarm-proxima-centauri-with-thousands-of-tiny-probes)
 * [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
 * [2024-01-10, 08:33:35](https://news.ycombinator.com/item?id=38937739) - [The odd saga of CVE-2012-5639](https://lwn.net/SubscriberLink/957219/8d3d4d9505f85de7/)
+* [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
-* [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 
 ## [Archives](archives/index.md)
 
