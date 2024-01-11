@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-11, 12:36:26",
+      "https://news.ycombinator.com/item?id=38951399"
+    ],
+    [
+      "Hackers can infect network-connected wrenches to install ransomware",
+      "https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 12:09:59",
       "https://news.ycombinator.com/item?id=38951172"
     ],
@@ -137,16 +147,6 @@
     [
       "Show HN: Dbeel – A distributed thread-per-core db",
       "https://github.com/tontinton/dbeel"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 20:46:33",
-      "https://news.ycombinator.com/item?id=38942847"
-    ],
-    [
-      "Shoelace: A library of web components",
-      "https://shoelace.style/"
     ]
   ],
   [
