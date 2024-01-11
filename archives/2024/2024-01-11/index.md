@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 17:44:14](https://news.ycombinator.com/item?id=38955715) - [Hertz is selling 20k EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
 * [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
 * [2024-01-11, 17:03:53](https://news.ycombinator.com/item?id=38955028) - [An influx of Chinese cars is terrifying the West](https://www.economist.com/leaders/2024/01/11/an-influx-of-chinese-cars-is-terrifying-the-west)
 * [2024-01-11, 17:01:17](https://news.ycombinator.com/item?id=38954974) - [Flohmarkt – A federated, decentral, classified market place using ActivityPub](https://codeberg.org/grindhold/flohmarkt)
