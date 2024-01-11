@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
+* [2024-01-11, 18:50:34](https://news.ycombinator.com/item?id=38956857) - [Effortless AI: No-Code Automation Using N8n Cloud and OpenAI Vision API](https://n8n-automation.com/2024/01/11/open-ai-vision-api/)
 * [2024-01-11, 18:44:20](https://news.ycombinator.com/item?id=38956756) - [Incompetent Middle Management Killed Google](https://andrewzuo.com/how-incompetent-middle-management-killed-google-0e3bf56924ac)
 * [2024-01-11, 18:37:50](https://news.ycombinator.com/item?id=38956623) - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
