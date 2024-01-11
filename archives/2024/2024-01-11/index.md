@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-11, 18:37:50](https://news.ycombinator.com/item?id=38956623) - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
 * [2024-01-11, 18:24:52](https://news.ycombinator.com/item?id=38956389) - [Stop Building Stingy Apps](https://blog.usmanity.com/stop-building-stingy-apps/)
@@ -18,6 +19,7 @@
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 * [2024-01-11, 16:53:04](https://news.ycombinator.com/item?id=38954827) - [Car rental firm Hertz to sell 20k EVs for gas powered vehicles](https://www.reuters.com/business/autos-transportation/hertz-sell-about-20000-evs-us-fleet-2024-01-11/)
+* [2024-01-11, 16:47:18](https://news.ycombinator.com/item?id=38954730) - [Microsoft overtakes Apple as most valuable company](https://www.reuters.com/technology/microsoft-overtakes-apple-worlds-most-valuable-company-2024-01-11/)
 * [2024-01-11, 16:37:57](https://news.ycombinator.com/item?id=38954576) - [Iran seizes oil tanker in Gulf of Oman](https://www.cnn.com/2024/01/11/business/oil-tanker-boarded-armed-people-iran/index.html)
 * [2024-01-11, 16:24:49](https://news.ycombinator.com/item?id=38954372) - [A geofence warrant typo cast a location dragnet spanning two miles over SF](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
 * [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
