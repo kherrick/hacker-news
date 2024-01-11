@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
+* [2024-01-11, 18:44:20](https://news.ycombinator.com/item?id=38956756) - [Incompetent Middle Management Killed Google](https://andrewzuo.com/how-incompetent-middle-management-killed-google-0e3bf56924ac)
 * [2024-01-11, 18:37:50](https://news.ycombinator.com/item?id=38956623) - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees)
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
 * [2024-01-11, 18:24:52](https://news.ycombinator.com/item?id=38956389) - [Stop Building Stingy Apps](https://blog.usmanity.com/stop-building-stingy-apps/)
@@ -10,7 +11,6 @@
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 * [2024-01-11, 16:47:18](https://news.ycombinator.com/item?id=38954730) - [Microsoft overtakes Apple as most valuable company](https://www.reuters.com/technology/microsoft-overtakes-apple-worlds-most-valuable-company-2024-01-11/)
-* [2024-01-11, 16:24:49](https://news.ycombinator.com/item?id=38954372) - [A geofence warrant typo cast a location dragnet spanning two miles over SF](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
