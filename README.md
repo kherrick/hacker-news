@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-11, 04:36:56](https://news.ycombinator.com/item?id=38947654) - [Google Lays Off Hundreds in Hardware, Voice Assistant Teams](https://www.bloomberg.com/news/articles/2024-01-11/google-lays-off-hundreds-in-hardware-voice-assistant-teams)
-* [2024-01-11, 04:02:41](https://news.ycombinator.com/item?id=38947410) - [New data shows walking down 36% in USA since 2019](https://www.traffictechnologytoday.com/news/multimodal-systems/new-data-shows-walking-down-36-in-usa-since-2019.html)
 * [2024-01-11, 03:57:10](https://news.ycombinator.com/item?id=38947379) - [More Teens Who Use Marijuana Are Suffering from Psychosis](https://www.wsj.com/us-news/marijuana-depression-psychosis-869490d1)
 * [2024-01-11, 03:37:16](https://news.ycombinator.com/item?id=38947224) - [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
@@ -11,6 +10,7 @@
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:44:25](https://news.ycombinator.com/item?id=38944513) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
+* [2024-01-10, 22:00:06](https://news.ycombinator.com/item?id=38943905) - [Air Travel Is Not Ready for Electronic Warfare](https://www.jeffwise.net/2024/01/03/new-york-air-travel-is-not-ready-for-electronic-warfare/)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
 * [2024-01-10, 20:50:21](https://news.ycombinator.com/item?id=38942905) - [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 * [2024-01-10, 20:49:35](https://news.ycombinator.com/item?id=38942892) - [Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
