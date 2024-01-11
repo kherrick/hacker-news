@@ -58,6 +58,7 @@
 * [2024-01-10, 13:20:12](https://news.ycombinator.com/item?id=38939114) - [Coming home from the South Pole](https://brr.fyi/posts/redeployment-part-one)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
+* [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
 * [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 * [2024-01-10, 09:29:24](https://news.ycombinator.com/item?id=38938160) - [Eclipses in the Saturn System (2017)](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
 * [2024-01-10, 09:27:30](https://news.ycombinator.com/item?id=38938140) - [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
