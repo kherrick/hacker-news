@@ -7,6 +7,7 @@
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 23:23:32](https://news.ycombinator.com/item?id=38945030) - [Franz Morat KG TV-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-10, 23:02:21](https://news.ycombinator.com/item?id=38944756) - [The Andersen's Pea Soup in Buellton is closing after 100 years](https://www.santabarbara.com/dining/news/2024/01/09/pea-soup-andersens-closes-in-buellton/)
+* [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:17:46](https://news.ycombinator.com/item?id=38944173) - [FreeTaxUSA](https://www.freetaxusa.com/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-10, 22:07:00](https://news.ycombinator.com/item?id=38944015) - [Stanford's Administrative Bloat Is Out of Control (2018)](https://stanfordreview.org/stanfords-administrative-bloat-is-out-of-control/)
