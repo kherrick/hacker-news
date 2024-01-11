@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 09:36:13](https://news.ycombinator.com/item?id=38949883) - [Demonstrating Cybertruck's dangerous lack of pinch sensors](https://www.threads.net/@hoon_kim/post/C17YnVWvaJ6)
 * [2024-01-11, 09:04:19](https://news.ycombinator.com/item?id=38949640) - [Valve now allows the \"vast majority\" of AI-powered games on Steam](https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam/)
 * [2024-01-11, 08:18:52](https://news.ycombinator.com/item?id=38949284) - ['Iranian cyber army' blamed as Wikipedia deletes atrocities](https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71)
 * [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
