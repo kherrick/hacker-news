@@ -64,6 +64,7 @@
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
 * [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
 * [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
+* [2024-01-10, 10:15:14](https://news.ycombinator.com/item?id=38938504) - [Looming Groupocalypse: The Google Groupsspaggheddon Cometh](https://news.novabbs.org/computers/article-flat.php?id=4004&group=alt.free.newsservers#4004)
 * [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2024-01-10, 09:29:24](https://news.ycombinator.com/item?id=38938160) - [Eclipses in the Saturn System (2017)](https://science.nasa.gov/missions/cassini/spectacular-eclipses-in-the-saturn-system/)
 * [2024-01-10, 09:27:30](https://news.ycombinator.com/item?id=38938140) - [Austerity Is an Antidemocratic Strategy to Boost Capital](https://catalyst-journal.com/2023/11/capital-order-clara-mattei-book-review)
