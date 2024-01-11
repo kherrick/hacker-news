@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 15:13:25](https://news.ycombinator.com/item?id=38953242) - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
+* [2024-01-11, 14:21:36](https://news.ycombinator.com/item?id=38952491) - [9999999999999999.0 – 9999999999999998.0](http://geocar.sdf1.org/numbers.html)
 * [2024-01-11, 13:58:09](https://news.ycombinator.com/item?id=38952214) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 13:53:57](https://news.ycombinator.com/item?id=38952168) - [Ask HN: How do you document your hardware projects?](https://news.ycombinator.com/item?id=38952168)
 * [2024-01-11, 13:35:27](https://news.ycombinator.com/item?id=38951983) - [Neonmodem: TUI for Lobsters, HN, etc.](https://github.com/mrusme/neonmodem)
@@ -16,7 +16,7 @@
 * [2024-01-11, 11:59:32](https://news.ycombinator.com/item?id=38951084) - [Scammy AI-Generated Books Are Flooding Amazon](https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-11, 09:33:02](https://news.ycombinator.com/item?id=38949856) - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
-* [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
+* [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically (2023)](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
@@ -27,7 +27,7 @@
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2024-01-09, 10:59:41](https://news.ycombinator.com/item?id=38924664) - [A CEO's Guide to Emacs (2015)](http://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
-* [2024-01-09, 09:40:30](https://news.ycombinator.com/item?id=38924126) - [Japan's airport control towers stop using 'No.1' instruction for plane takeoffs](https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/)
+* [2024-01-09, 10:22:56](https://news.ycombinator.com/item?id=38924430) - [Samsung debuts the first transparent MicroLED screen at CES 2024](https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html)
 * [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 

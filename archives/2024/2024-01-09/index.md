@@ -85,6 +85,7 @@
 * [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset, as the 3G switch off looms closer](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
 * [2024-01-09, 10:40:19](https://news.ycombinator.com/item?id=38924540) - [New interpretations of the Cerne Abbas Giant](https://arstechnica.com/science/2024/01/cerne-abbas-giant-is-a-depiction-of-hercules/)
 * [2024-01-09, 10:30:29](https://news.ycombinator.com/item?id=38924481) - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)
+* [2024-01-09, 10:22:56](https://news.ycombinator.com/item?id=38924430) - [Samsung debuts the first transparent MicroLED screen at CES 2024](https://www.engadget.com/samsung-debuts-the-worlds-first-transparent-microled-screen-at-ces-2024-042634398.html)
 * [2024-01-09, 10:12:24](https://news.ycombinator.com/item?id=38924345) - [The \"10k-hour rule\" was debunked again](https://www.vox.com/science-and-health/2019/8/23/20828597/the-10000-hour-rule-debunked)
 * [2024-01-09, 10:07:05](https://news.ycombinator.com/item?id=38924310) - [Practising Programming](https://tratt.net/laurie/blog/2022/practising_programming.html)
 * [2024-01-09, 10:04:49](https://news.ycombinator.com/item?id=38924300) - [Google breaks search for Firefox users because of bad UA string sniffing](https://github.com/webcompat/web-bugs/issues/131916)

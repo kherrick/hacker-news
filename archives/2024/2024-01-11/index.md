@@ -10,6 +10,7 @@
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to Sell 20k EVs in Shift Back to Gas-Powered Cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
 * [2024-01-11, 14:22:34](https://news.ycombinator.com/item?id=38952505) - [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
+* [2024-01-11, 14:21:36](https://news.ycombinator.com/item?id=38952491) - [9999999999999999.0 – 9999999999999998.0](http://geocar.sdf1.org/numbers.html)
 * [2024-01-11, 14:14:10](https://news.ycombinator.com/item?id=38952390) - [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
 * [2024-01-11, 13:58:09](https://news.ycombinator.com/item?id=38952214) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 13:53:57](https://news.ycombinator.com/item?id=38952168) - [Ask HN: How do you document your hardware projects?](https://news.ycombinator.com/item?id=38952168)
