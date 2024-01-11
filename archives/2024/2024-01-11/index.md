@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 18:05:44](https://news.ycombinator.com/item?id=38956063) - [Hertz selling 20k EVs, will replace with gas-powered vehicles](https://www.autoblog.com/2024/01/11/hertz-sells-electric-cars-tesla-polestar/)
 * [2024-01-11, 17:44:14](https://news.ycombinator.com/item?id=38955715) - [Hertz is selling 20k EVs and replacing them with gas cars](https://techcrunch.com/2024/01/11/hertz-sell-evs-tesla-fleet-gm-polestar-gas/)
 * [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
 * [2024-01-11, 17:03:53](https://news.ycombinator.com/item?id=38955028) - [An influx of Chinese cars is terrifying the West](https://www.economist.com/leaders/2024/01/11/an-influx-of-chinese-cars-is-terrifying-the-west)
@@ -11,6 +12,7 @@
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
 * [2024-01-11, 16:53:04](https://news.ycombinator.com/item?id=38954827) - [Car rental firm Hertz to sell 20k EVs for gas powered vehicles](https://www.reuters.com/business/autos-transportation/hertz-sell-about-20000-evs-us-fleet-2024-01-11/)
+* [2024-01-11, 16:24:49](https://news.ycombinator.com/item?id=38954372) - [A geofence warrant typo cast a location dragnet spanning two miles over SF](https://techcrunch.com/2024/01/11/geofence-warrant-dragnet-error/)
 * [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
 * [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
@@ -28,6 +30,7 @@
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
 * [2024-01-11, 13:11:15](https://news.ycombinator.com/item?id=38951749) - [Amazon Cuts Jobs in Prime Video and MGM Studios](https://www.cnbc.com/2024/01/10/amazon-layoffs-hundreds-of-jobs-cut-in-prime-video-and-mgm-studios.html)
+* [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:27:33](https://news.ycombinator.com/item?id=38951315) - [Virtual Computer Museum – VNC into Archaic Windows Systems](https://museum.trialanderror.tech/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
