@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 07:17:02](https://news.ycombinator.com/item?id=38948862) - [Tokyo's 'oldest man' had been dead for 30 years (2010)](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
+* [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-11, 04:38:11](https://news.ycombinator.com/item?id=38947658) - [Meta layoffs: all TPMs in Instagram laidoff today](https://www.teamblind.com/post/Meta-layoffs-all-TPMs-in-Instagram-laidoff-today-2MQcPFcy)
 * [2024-01-11, 04:36:56](https://news.ycombinator.com/item?id=38947654) - [Google Lays Off Hundreds in Hardware, Voice Assistant Teams](https://www.bloomberg.com/news/articles/2024-01-11/google-lays-off-hundreds-in-hardware-voice-assistant-teams)
 * [2024-01-11, 04:25:59](https://news.ycombinator.com/item?id=38947580) - [Tell HN: Google-Wide Layoffs](https://news.ycombinator.com/item?id=38947580)
