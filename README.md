@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
-* [2024-01-11, 21:44:38](https://news.ycombinator.com/item?id=38959617) - [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)
+* [2024-01-11, 21:48:29](https://news.ycombinator.com/item?id=38959668) - [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
+* [2024-01-11, 21:36:23](https://news.ycombinator.com/item?id=38959480) - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
 * [2024-01-11, 21:20:35](https://news.ycombinator.com/item?id=38959248) - [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 * [2024-01-11, 20:20:07](https://news.ycombinator.com/item?id=38958396) - [Designing bridge trusses with Pytorch autograd](https://github.com/eschluntz/PytorchBridge)
@@ -23,7 +24,6 @@
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:50:53](https://news.ycombinator.com/item?id=38951544) - [Natural Deduction in Logic (2015)](https://profs.info.uaic.ro/~stefan.ciobaca/lnd.html)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
-* [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org is no more](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
 * [2024-01-10, 13:17:04](https://news.ycombinator.com/item?id=38939098) - [Abykus – A free spreadsheet application for windows](https://www.abykus.com/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)

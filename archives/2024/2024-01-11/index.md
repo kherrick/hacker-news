@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
+* [2024-01-11, 21:48:29](https://news.ycombinator.com/item?id=38959668) - [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
 * [2024-01-11, 21:44:38](https://news.ycombinator.com/item?id=38959617) - [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)
+* [2024-01-11, 21:36:23](https://news.ycombinator.com/item?id=38959480) - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
 * [2024-01-11, 21:20:35](https://news.ycombinator.com/item?id=38959248) - [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
 * [2024-01-11, 21:17:50](https://news.ycombinator.com/item?id=38959208) - [The Concorde was different from other aircraft in many ways](https://twitter.com/Rainmaker1973/status/1745421959989457206)
 * [2024-01-11, 21:02:39](https://news.ycombinator.com/item?id=38959026) - [Google confirms it just laid off around a thousand employees](https://www.theverge.com/2024/1/11/24034124/google-layoffs-engineering-assistant-hardware)
