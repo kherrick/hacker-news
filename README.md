@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
+* [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
@@ -9,7 +10,6 @@
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-10, 21:16:58](https://news.ycombinator.com/item?id=38943291) - [Spot Bitcoin ETF receives official approval from the SEC](https://cointelegraph.com/news/sec-spot-bitcoin-etf-approvals)
-* [2024-01-10, 20:51:18](https://news.ycombinator.com/item?id=38942912) - [The case for better watch typography (2021)](https://www.hodinkee.com/articles/the-case-for-better-watch-typography)
 * [2024-01-10, 20:50:21](https://news.ycombinator.com/item?id=38942905) - [An Approach to Sound Synthesis with L-Systems](https://nathan.ho.name/posts/sound-synthesis-with-l-systems/)
 * [2024-01-10, 20:49:35](https://news.ycombinator.com/item?id=38942892) - [Conditional Git Configuration](https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/)
 * [2024-01-10, 20:46:33](https://news.ycombinator.com/item?id=38942847) - [Shoelace: A library of web components](https://shoelace.style/)
