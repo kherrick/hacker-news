@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 12:00:00](https://news.ycombinator.com/item?id=38951087) - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
@@ -14,7 +15,6 @@
 * [2024-01-10, 22:57:07](https://news.ycombinator.com/item?id=38944688) - [History of Xerox Interlisp and BBN-Lisp](https://interlisp.org/history/timeline/)
 * [2024-01-10, 22:16:21](https://news.ycombinator.com/item?id=38944147) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
-* [2024-01-10, 20:46:33](https://news.ycombinator.com/item?id=38942847) - [Shoelace: A library of web components](https://shoelace.style/)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 * [2024-01-10, 18:20:37](https://news.ycombinator.com/item?id=38941476) - [You can't follow me](https://so.nwalsh.com/2024/01/06-mastodon)

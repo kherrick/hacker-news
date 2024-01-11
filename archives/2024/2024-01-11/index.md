@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 12:00:00](https://news.ycombinator.com/item?id=38951087) - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
