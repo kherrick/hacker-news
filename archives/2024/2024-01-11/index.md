@@ -33,6 +33,7 @@
 * [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
 * [2024-01-11, 18:24:52](https://news.ycombinator.com/item?id=38956389) - [Stop Building Stingy Apps](https://blog.usmanity.com/stop-building-stingy-apps/)
 * [2024-01-11, 18:20:40](https://news.ycombinator.com/item?id=38956323) - [Did a 1997 merger ruin Boeing?](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
+* [2024-01-11, 18:20:19](https://news.ycombinator.com/item?id=38956314) - [Breaking \"DRM\" in Polish trains [video]](https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains)
 * [2024-01-11, 18:20:02](https://news.ycombinator.com/item?id=38956310) - [World Trying to Quit Fossil Fuels Gets Flood of Gas Instead](https://www.bloomberg.com/news/features/2024-01-11/natural-gas-boom-to-hit-warming-world-trying-to-quit-fossil-fuels)
 * [2024-01-11, 18:14:41](https://news.ycombinator.com/item?id=38956224) - [US oil lobby launches ad campaign to promote oil as 'vital' to global security](https://www.theguardian.com/us-news/2024/jan/10/oil-ads-lights-on-energy)
 * [2024-01-11, 18:05:44](https://news.ycombinator.com/item?id=38956063) - [Hertz selling 20k EVs, will replace with gas-powered vehicles](https://www.autoblog.com/2024/01/11/hertz-sells-electric-cars-tesla-polestar/)
