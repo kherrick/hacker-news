@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
+* [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 15:13:25](https://news.ycombinator.com/item?id=38953242) - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 16:21:35](https://news.ycombinator.com/item?id=38954317) - [Cancer Is Striking More Young People, and Doctors Are Alarmed and Baffled](https://www.wsj.com/health/healthcare/cancer-young-people-doctors-baffled-49c766ed)
 * [2024-01-11, 16:16:55](https://news.ycombinator.com/item?id=38954233) - [Florida School District Bans Dictionaries Under DeSantis Law](https://www.commondreams.org/news/florida-bans-dictionaries)
 * [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
