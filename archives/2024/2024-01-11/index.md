@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
 * [2024-01-11, 03:37:16](https://news.ycombinator.com/item?id=38947224) - [Google lays off hundreds working on its voice-activated assistant – Semafor](https://www.semafor.com/article/01/10/2024/google-lays-off-hundreds-working-on-its-voice-activated-assistant)
+* [2024-01-11, 03:33:32](https://news.ycombinator.com/item?id=38947191) - [ChatGPT Team](https://openai.com/blog/introducing-chatgpt-team)
 * [2024-01-11, 02:22:22](https://news.ycombinator.com/item?id=38946645) - [Don't upload your PWA to the app stores](https://kevinbasset.medium.com/dont-upload-your-pwa-to-the-app-stores-a4279a7d6eff)
 * [2024-01-11, 01:26:50](https://news.ycombinator.com/item?id=38946188) - [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
