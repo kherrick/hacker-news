@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-11, 02:22:22](https://news.ycombinator.com/item?id=38946645) - [Don't upload your PWA to the app stores](https://kevinbasset.medium.com/dont-upload-your-pwa-to-the-app-stores-a4279a7d6eff)
 * [2024-01-11, 01:26:50](https://news.ycombinator.com/item?id=38946188) - [How to get coworkers to stop giving me ChatGPT-generated suggestions?](https://workplace.stackexchange.com/questions/194969/how-to-get-coworkers-to-stop-giving-me-chatgpt-generated-suggestions)
 * [2024-01-11, 01:01:53](https://news.ycombinator.com/item?id=38945991) - [Jerry (YC S17) Is Hiring PMs, Engs, Data, BizOps (Remote)](https://getjerry.com/careers)
 * [2024-01-11, 00:30:43](https://news.ycombinator.com/item?id=38945687) - [Super Mario 64 on the Web](https://probablykam.github.io/Mario64webgl/)
@@ -30,6 +29,7 @@
 * [2024-01-10, 07:40:07](https://news.ycombinator.com/item?id=38937345) - [The Worlds of Monopoly](https://www.atlasobscura.com/articles/column-secrets-of-monopoly)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
 * [2024-01-09, 20:22:40](https://news.ycombinator.com/item?id=38931559) - [Contra Wirecutter on the IKEA air purifier (2022)](https://dynomight.net/ikea-purifier/)
+* [2024-01-09, 14:45:16](https://news.ycombinator.com/item?id=38926727) - [Devices that connect brains to computers are increasingly sophisticated](https://undark.org/2024/01/03/brain-computer-neurorights/)
 
 ## [Archives](archives/index.md)
 
