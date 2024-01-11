@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 16:14:20](https://news.ycombinator.com/item?id=38954183) - [Show HN: Business ideas twice a week – newsletter](https://ideavault.framer.website/)
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 15:13:25](https://news.ycombinator.com/item?id=38953242) - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
@@ -21,7 +22,6 @@
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
-* [2024-01-10, 20:53:16](https://news.ycombinator.com/item?id=38942960) - [Show HN: Dbeel – A distributed thread-per-core db](https://github.com/tontinton/dbeel)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
