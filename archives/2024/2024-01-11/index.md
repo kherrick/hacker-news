@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 22:29:52](https://news.ycombinator.com/item?id=38960317) - [Amazon-owned Audible lays off 5% of staff](https://techcrunch.com/2024/01/11/amazon-owned-audible-lays-off-5-of-staff/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 21:48:29](https://news.ycombinator.com/item?id=38959668) - [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
 * [2024-01-11, 21:44:38](https://news.ycombinator.com/item?id=38959617) - [Ask HN: Are tech layoffs happening abroad?](https://news.ycombinator.com/item?id=38959617)

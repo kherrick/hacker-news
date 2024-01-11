@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 22:29:52](https://news.ycombinator.com/item?id=38960317) - [Amazon-owned Audible lays off 5% of staff](https://techcrunch.com/2024/01/11/amazon-owned-audible-lays-off-5-of-staff/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 21:48:29](https://news.ycombinator.com/item?id=38959668) - [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
 * [2024-01-11, 21:36:23](https://news.ycombinator.com/item?id=38959480) - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
@@ -11,7 +12,6 @@
 * [2024-01-11, 19:11:18](https://news.ycombinator.com/item?id=38957230) - [A Philosophical Introduction to Language Models](https://arxiv.org/abs/2401.03910)
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the prime knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-11, 18:50:34](https://news.ycombinator.com/item?id=38956857) - [Effortless AI: No-Code Automation Using N8n Cloud and OpenAI Vision API](https://n8n-automation.com/2024/01/11/open-ai-vision-api/)
-* [2024-01-11, 18:35:40](https://news.ycombinator.com/item?id=38956581) - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html)
 * [2024-01-11, 18:20:40](https://news.ycombinator.com/item?id=38956323) - [Did a 1997 merger ruin Boeing?](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
 * [2024-01-11, 18:20:19](https://news.ycombinator.com/item?id=38956314) - [Breaking \"DRM\" in Polish trains [video]](https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains)
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
