@@ -10,6 +10,7 @@
 * [2024-01-11, 14:22:34](https://news.ycombinator.com/item?id=38952505) - [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
 * [2024-01-11, 14:14:10](https://news.ycombinator.com/item?id=38952390) - [Why Would I Buy This Useless, Evil Thing?](https://aftermath.site/why-would-i-buy-this-useless-evil-thing)
 * [2024-01-11, 13:58:09](https://news.ycombinator.com/item?id=38952214) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
+* [2024-01-11, 13:53:57](https://news.ycombinator.com/item?id=38952168) - [Ask HN: How do you document your hardware projects?](https://news.ycombinator.com/item?id=38952168)
 * [2024-01-11, 13:21:45](https://news.ycombinator.com/item?id=38951855) - [Twitch layoffs: Amazon-owned livestreaming platform cutting workforce by 35%](https://www.usatoday.com/story/money/2024/01/10/twitch-layoffs-job-cuts/72174329007/)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [OpenSSH: Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:16:45](https://news.ycombinator.com/item?id=38951802) - [A TV Show Forced Britain's Devastating Post Office Scandal into the Light](https://www.nytimes.com/2024/01/10/world/europe/uk-itv-mr-bates-vs-post-office.html)
