@@ -80,6 +80,7 @@
 * [2024-01-09, 12:18:14](https://news.ycombinator.com/item?id=38925277) - [Soft Deletion Probably Isn't Worth It (2022)](https://brandur.org/soft-deletion)
 * [2024-01-09, 12:01:08](https://news.ycombinator.com/item?id=38925125) - [Finley (YC W21) Is Hiring for Business Operations and Strategy](https://jobs.lever.co/FinleyTechnologies/f3b6fed8-795f-433e-a3f8-7fdec5e85745)
 * [2024-01-09, 11:57:47](https://news.ycombinator.com/item?id=38925086) - [Ethiopia's controversial quest for access to the sea](https://www.washingtonpost.com/world/2024/01/08/ethiopia-red-sea-access-somaliland/)
+* [2024-01-09, 10:59:41](https://news.ycombinator.com/item?id=38924664) - [A CEO's Guide to Emacs](http://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2024-01-09, 10:41:59](https://news.ycombinator.com/item?id=38924549) - [2.7M Brits still use a 3G only handset, as the 3G switch off looms closer](https://www.comparedial.com/news/27-million-brits-still-use-a-3g-only-handset-as-the-3g-switch-off-looms-closer-406)
 * [2024-01-09, 10:40:19](https://news.ycombinator.com/item?id=38924540) - [New interpretations of the Cerne Abbas Giant](https://arstechnica.com/science/2024/01/cerne-abbas-giant-is-a-depiction-of-hercules/)
 * [2024-01-09, 10:30:29](https://news.ycombinator.com/item?id=38924481) - [United Airlines finds loose bolts on multiple Boeing 737 Max 9 planes](https://www.theguardian.com/world/2024/jan/08/united-finds-loose-bolts-boeing-737-max-planes)

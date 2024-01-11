@@ -14,6 +14,7 @@
 * [2024-01-11, 12:36:26](https://news.ycombinator.com/item?id=38951399) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 12:00:00](https://news.ycombinator.com/item?id=38951087) - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
+* [2024-01-11, 11:59:32](https://news.ycombinator.com/item?id=38951084) - [Scammy AI-Generated Books Are Flooding Amazon](https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-11, 09:36:13](https://news.ycombinator.com/item?id=38949883) - [Demonstrating Cybertruck's dangerous lack of pinch sensors](https://www.threads.net/@hoon_kim/post/C17YnVWvaJ6)
 * [2024-01-11, 09:33:02](https://news.ycombinator.com/item?id=38949856) - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
