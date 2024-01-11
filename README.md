@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-11, 18:20:40](https://news.ycombinator.com/item?id=38956323) - [Did a 1997 merger ruin Boeing?](https://finshots.in/archive/did-a-1997-merger-ruin-boeing/)
 * [2024-01-11, 18:20:02](https://news.ycombinator.com/item?id=38956310) - [World Trying to Quit Fossil Fuels Gets Flood of Gas Instead](https://www.bloomberg.com/news/features/2024-01-11/natural-gas-boom-to-hit-warming-world-trying-to-quit-fossil-fuels)
+* [2024-01-11, 18:14:41](https://news.ycombinator.com/item?id=38956224) - [US oil lobby launches ad campaign to promote oil as 'vital' to global security](https://www.theguardian.com/us-news/2024/jan/10/oil-ads-lights-on-energy)
 * [2024-01-11, 17:18:28](https://news.ycombinator.com/item?id=38955274) - [Solar Will Supply Almost All Growth in U.S. Electricity Generation Through 2025](https://cleantechnica.com/2024/01/09/u-s-eia-solar-will-supply-almost-all-growth-in-u-s-electricity-generation-through-2025/)
 * [2024-01-11, 17:00:20](https://news.ycombinator.com/item?id=38954956) - [Optery (YC W22) – Full Stack Developer W Node.js Experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-11, 16:55:38](https://news.ycombinator.com/item?id=38954867) - [A Technical Dive into PostgreSQL's replication mechanisms](https://airbyte.com/blog/a-guide-to-logical-replication-and-cdc-in-postgresql)
