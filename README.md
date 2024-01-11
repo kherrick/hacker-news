@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
 * [2024-01-11, 23:10:30](https://news.ycombinator.com/item?id=38960866) - [Tennessee after-school Satan club holds first meeting despite protests](https://www.theguardian.com/us-news/2024/jan/11/tennessee-after-school-satan-club-satanic-temple)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
-* [2024-01-11, 21:48:29](https://news.ycombinator.com/item?id=38959668) - [Ask HN: How can I make local dev with containers hurt less?](https://news.ycombinator.com/item?id=38959668)
 * [2024-01-11, 21:36:23](https://news.ycombinator.com/item?id=38959480) - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
 * [2024-01-11, 21:20:35](https://news.ycombinator.com/item?id=38959248) - [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
