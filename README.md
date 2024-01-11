@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 15:13:25](https://news.ycombinator.com/item?id=38953242) - [Meetup has been acquired by Bending Spoons](https://www.meetup.com/blog/a-new-home-for-meetup/)
 * [2024-01-11, 14:23:48](https://news.ycombinator.com/item?id=38952526) - [The Internet Is Full of AI Dogshit](https://aftermath.site/the-internet-is-full-of-ai-dogshit)
 * [2024-01-11, 14:22:34](https://news.ycombinator.com/item?id=38952505) - [Analysis of 200M newspaper pages: Sentiment has collapsed over the past 50 years](https://www.ft.com/content/af78f86d-13d2-429d-ad55-a11947989c8f)
@@ -18,7 +19,6 @@
 * [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
-* [2024-01-11, 05:31:58](https://news.ycombinator.com/item?id=38948137) - [MFA today is both 'simple' and non-trivial work](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-10, 23:32:27](https://news.ycombinator.com/item?id=38945125) - [Drawing.garden](https://drawing.garden/)
 * [2024-01-10, 19:08:11](https://news.ycombinator.com/item?id=38941942) - [ChatGPT for Teams](https://openai.com/chatgpt/team)
@@ -26,9 +26,9 @@
 * [2024-01-10, 18:20:37](https://news.ycombinator.com/item?id=38941476) - [You can't follow me](https://so.nwalsh.com/2024/01/06-mastodon)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:00:21](https://news.ycombinator.com/item?id=38938402) - [High C Compiler – A C language extension ahead of its time](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
-* [2024-01-09, 12:48:59](https://news.ycombinator.com/item?id=38925545) - [It's Not a Cigarette. It's Not a Vape. and It's Big in Japan](https://reason.com/2024/01/09/its-not-a-cigarette-its-not-a-vape-and-its-big-in-japan/)
 * [2024-01-09, 10:59:41](https://news.ycombinator.com/item?id=38924664) - [A CEO's Guide to Emacs (2015)](http://www.fugue.co/blog/2015-11-11-guide-to-emacs.html)
 * [2024-01-09, 09:40:30](https://news.ycombinator.com/item?id=38924126) - [Japan's airport control towers stop using 'No.1' instruction for plane takeoffs](https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/)
+* [2024-01-09, 07:36:45](https://news.ycombinator.com/item?id=38923429) - [DARPA's air-steered X-65 jet](https://www.theregister.com/2024/01/04/darpas_airsteered_x65_jet_heads/)
 * [2024-01-09, 06:17:44](https://news.ycombinator.com/item?id=38923015) - [Research paper is also an executable x86 program [pdf]](http://tom7.org/abc/paper.pdf)
 
 ## [Archives](archives/index.md)
