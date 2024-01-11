@@ -52,6 +52,7 @@
 * [2024-01-10, 18:46:02](https://news.ycombinator.com/item?id=38941747) - [A battery has replaced Hawaii's last coal plant](https://www.canarymedia.com/articles/energy-storage/a-huge-battery-has-replaced-hawaiis-last-coal-plant)
 * [2024-01-10, 18:43:13](https://news.ycombinator.com/item?id=38941719) - [Israeli group claims it’s using back channels to censor “inflammatory” content](https://theintercept.com/2024/01/10/israel-disinformation-social-media-iron-truth/)
 * [2024-01-10, 18:28:43](https://news.ycombinator.com/item?id=38941582) - [37Signals Launches Hey Calendar](https://www.hey.com/calendar/)
+* [2024-01-10, 18:20:37](https://news.ycombinator.com/item?id=38941476) - [You can't follow me](https://so.nwalsh.com/2024/01/06-mastodon)
 * [2024-01-10, 17:27:16](https://news.ycombinator.com/item?id=38940911) - [The GPT Store](https://openai.com/blog/introducing-the-gpt-store)
 * [2024-01-10, 17:08:24](https://news.ycombinator.com/item?id=38940731) - [Invisible Ink: At the CIA's Creative Writing Group](https://www.theparisreview.org/blog/2024/01/09/invisible-ink-at-the-cias-creative-writing-group/)
 * [2024-01-10, 17:00:58](https://news.ycombinator.com/item?id=38940670) - [Snapdocs (YC W14) Is Hiring](https://boards.greenhouse.io/snapdocs/jobs/5053815004)

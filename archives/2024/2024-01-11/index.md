@@ -9,6 +9,7 @@
 * [2024-01-11, 07:17:02](https://news.ycombinator.com/item?id=38948862) - [Tokyo's 'oldest man' had been dead for 30 years (2010)](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
+* [2024-01-11, 05:54:28](https://news.ycombinator.com/item?id=38948303) - [The Life and Death of the American Mall](https://www.atlasobscura.com/articles/the-life-and-death-of-the-suburban-american-mall)
 * [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-11, 04:38:11](https://news.ycombinator.com/item?id=38947658) - [Meta layoffs: all TPMs in Instagram laidoff today](https://www.teamblind.com/post/Meta-layoffs-all-TPMs-in-Instagram-laidoff-today-2MQcPFcy)
