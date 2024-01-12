@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 14:31:21](https://news.ycombinator.com/item?id=38968359) - ['Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
+* [2024-01-12, 14:24:47](https://news.ycombinator.com/item?id=38968269) - [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
 * [2024-01-12, 13:59:07](https://news.ycombinator.com/item?id=38967981) - [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
-* [2024-01-12, 13:12:19](https://news.ycombinator.com/item?id=38967536) - [The planet's got 99 problems, but exponential growth isn't one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
 * [2024-01-12, 13:07:05](https://news.ycombinator.com/item?id=38967494) - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
@@ -14,7 +15,6 @@
 * [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
 * [2024-01-12, 07:13:05](https://news.ycombinator.com/item?id=38965021) - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
 * [2024-01-12, 07:09:28](https://news.ycombinator.com/item?id=38965003) - [Fly through your shell history](https://github.com/cantino/mcfly)
-* [2024-01-12, 07:06:26](https://news.ycombinator.com/item?id=38964983) - [Ancient City Found in the Amazon](https://www.bbc.com/news/science-environment-67940671)
 * [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2024-01-12, 07:03:19](https://news.ycombinator.com/item?id=38964958) - [Keycloak open redirect: wildcard redirect URIs can be exploited to steal tokens](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/)
 * [2024-01-12, 07:02:38](https://news.ycombinator.com/item?id=38964952) - [Programming Language for Ternary Computing](https://github.com/nirvanasupermind/owlet)
