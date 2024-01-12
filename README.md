@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-12, 04:20:01](https://news.ycombinator.com/item?id=38963678) - [Cloudflare employee posts layoff call with HR and goes viral [video]](https://www.tiktok.com/@brittanypeachhh/video/7322301313134415134?_r=1&_t=8ix9BpBqady)
 * [2024-01-12, 03:27:47](https://news.ycombinator.com/item?id=38963301) - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
 * [2024-01-12, 02:47:38](https://news.ycombinator.com/item?id=38963026) - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 * [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
@@ -12,6 +11,7 @@
 * [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
+* [2024-01-11, 23:07:35](https://news.ycombinator.com/item?id=38960827) - [What Are File Descriptors in Linux](https://linuxtldr.com/file-descriptors-linux/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
