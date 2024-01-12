@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
 * [2024-01-12, 13:12:19](https://news.ycombinator.com/item?id=38967536) - [The planet's got 99 problems, but exponential growth isn't one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
+* [2024-01-12, 13:07:05](https://news.ycombinator.com/item?id=38967494) - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
