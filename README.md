@@ -6,7 +6,6 @@
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
-* [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [The current state of OpenTelemetry](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 17:27:10](https://news.ycombinator.com/item?id=38971012) - [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)
 * [2024-01-12, 16:24:23](https://news.ycombinator.com/item?id=38969985) - [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
 * [2024-01-12, 16:18:23](https://news.ycombinator.com/item?id=38969893) - [Trilinear point splatting for real-time radiance field rendering](https://lfranke.github.io/trips/)
@@ -30,6 +29,7 @@
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
+* [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
 
