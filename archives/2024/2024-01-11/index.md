@@ -9,6 +9,7 @@
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
 * [2024-01-11, 23:10:30](https://news.ycombinator.com/item?id=38960866) - [Tennessee after-school Satan club holds first meeting despite protests](https://www.theguardian.com/us-news/2024/jan/11/tennessee-after-school-satan-club-satanic-temple)
+* [2024-01-11, 23:07:35](https://news.ycombinator.com/item?id=38960827) - [What Are File Descriptors in Linux](https://linuxtldr.com/file-descriptors-linux/)
 * [2024-01-11, 22:44:02](https://news.ycombinator.com/item?id=38960496) - [Tell HN: WARN Act may provide prior notice of layoffs](https://news.ycombinator.com/item?id=38960496)
 * [2024-01-11, 22:29:52](https://news.ycombinator.com/item?id=38960317) - [Amazon-owned Audible lays off 5% of staff](https://techcrunch.com/2024/01/11/amazon-owned-audible-lays-off-5-of-staff/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
