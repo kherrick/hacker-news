@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 02:47:38](https://news.ycombinator.com/item?id=38963026) - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
+* [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 * [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 00:42:39](https://news.ycombinator.com/item?id=38961899) - [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-12, 00:38:31](https://news.ycombinator.com/item?id=38961859) - [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
@@ -9,7 +11,6 @@
 * [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 21:36:23](https://news.ycombinator.com/item?id=38959480) - [Google lays off Bay Area workers, closes Mtn View child care center](https://www.sfgate.com/tech/article/google-layoffs-child-care-center-engineering-18602833.php)
-* [2024-01-11, 21:20:35](https://news.ycombinator.com/item?id=38959248) - [Executives at eBay sent live spiders and cockroaches to critical bloggers](https://www.bbc.com/news/world-us-canada-67951113)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 * [2024-01-11, 20:20:07](https://news.ycombinator.com/item?id=38958396) - [Designing bridge trusses with Pytorch autograd](https://github.com/eschluntz/PytorchBridge)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
@@ -26,7 +27,6 @@
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
-* [2024-01-10, 20:40:59](https://news.ycombinator.com/item?id=38942777) - [Notes on a few abnormalities in analysis (2022)](https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
