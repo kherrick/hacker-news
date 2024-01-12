@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 * [2024-01-12, 19:46:14](https://news.ycombinator.com/item?id=38972978) - [New evidence that polar bears survived 1,600 years of ice-free Holocene summers](https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/)
 * [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 * [2024-01-12, 19:21:43](https://news.ycombinator.com/item?id=38972638) - [Apple AirDrop leaks user data like a sieve](https://arstechnica.com/security/2024/01/hackers-can-id-unique-apple-airdrop-users-chinese-authorities-claim-to-do-just-that/)
