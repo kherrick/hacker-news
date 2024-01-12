@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 10:31:21](https://news.ycombinator.com/item?id=38966352) - [Nuclear smartphone 3V battery lasting for 50 years](https://energymetalnews.com/2024/01/12/nuclear-battery-produces-power-for-50-years-without-needing-to-charge/)
 * [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 * [2024-01-12, 09:59:40](https://news.ycombinator.com/item?id=38966145) - [Is Fortran \"A Dead Language\"?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
 * [2024-01-12, 09:47:59](https://news.ycombinator.com/item?id=38966060) - [Man in the Hague (In a Good Way)](https://www.craigmurray.org.uk/archives/2024/01/your-man-in-the-hague-in-a-good-way/)
