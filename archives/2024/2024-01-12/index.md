@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
 * [2024-01-12, 20:27:08](https://news.ycombinator.com/item?id=38973517) - [Why can't today's young adults leave the nest? Blame high housing costs](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html)
 * [2024-01-12, 20:24:25](https://news.ycombinator.com/item?id=38973476) - [Centralized or Decentralized There Is No Question](https://puri.sm/posts/centralized-or-decentralized-there-is-no-question/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)

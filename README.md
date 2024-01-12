@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
 * [2024-01-12, 20:27:08](https://news.ycombinator.com/item?id=38973517) - [Why can't today's young adults leave the nest? Blame high housing costs](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html)
 * [2024-01-12, 20:24:25](https://news.ycombinator.com/item?id=38973476) - [Centralized or Decentralized There Is No Question](https://puri.sm/posts/centralized-or-decentralized-there-is-no-question/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
@@ -18,7 +19,6 @@
 * [2024-01-12, 15:49:08](https://news.ycombinator.com/item?id=38969466) - [US regulator considers stripping Boeing's right to self-inspect planes](https://on.ft.com/4aV0CQ7)
 * [2024-01-12, 15:41:25](https://news.ycombinator.com/item?id=38969348) - [Autophage rocket engine consumes plastic fuselage for fuel](https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel)
 * [2024-01-12, 15:21:49](https://news.ycombinator.com/item?id=38969072) - [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
-* [2024-01-12, 14:43:52](https://news.ycombinator.com/item?id=38968550) - [We need technology that is less immersive, not more](https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html)
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
