@@ -13,6 +13,7 @@
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
 * [2024-01-12, 09:42:48](https://news.ycombinator.com/item?id=38966031) - [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
 * [2024-01-12, 09:41:44](https://news.ycombinator.com/item?id=38966021) - [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
+* [2024-01-12, 09:33:53](https://news.ycombinator.com/item?id=38965965) - [Partitioning Postgres tables by timestamp based UUIDs](https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
 * [2024-01-12, 07:38:51](https://news.ycombinator.com/item?id=38965184) - [Facebook bans ads for Votes for Women boardgame, claims \"sensitive social issue\"](https://boardgamewire.com/index.php/2024/01/11/facebook-bans-ads-for-award-winning-votes-for-women-board-game-claims-sensitive-social-issue/)
