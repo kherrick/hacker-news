@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 03:28:46](https://news.ycombinator.com/item?id=38963307) - [Remote Workers Are Losing Out on Promotions](https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63)
 * [2024-01-12, 03:27:47](https://news.ycombinator.com/item?id=38963301) - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
 * [2024-01-12, 02:47:38](https://news.ycombinator.com/item?id=38963026) - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 * [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
@@ -28,7 +29,6 @@
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
-* [2024-01-10, 13:17:04](https://news.ycombinator.com/item?id=38939098) - [Abykus – A free spreadsheet application for windows](https://www.abykus.com/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 
 ## [Archives](archives/index.md)
