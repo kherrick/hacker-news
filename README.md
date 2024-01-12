@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-12, 00:54:51](https://news.ycombinator.com/item?id=38962013) - [US, UK launch large-scale strikes against Iran-backed Houthi militants in Yemen](https://abcnews.go.com/Politics/us-retaliates-iranian-backed-houthi-militants-yemen/story?id=106300275)
 * [2024-01-12, 00:42:39](https://news.ycombinator.com/item?id=38961899) - [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
+* [2024-01-12, 00:38:31](https://news.ycombinator.com/item?id=38961859) - [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
 * [2024-01-11, 23:58:12](https://news.ycombinator.com/item?id=38961463) - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
+* [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
@@ -22,7 +23,6 @@
 * [2024-01-11, 15:36:09](https://news.ycombinator.com/item?id=38953618) - [Outlook is Microsoft's new data collection service](https://proton.me/blog/outlook-is-microsofts-new-data-collection-service)
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to sell 20k EVs in shift back to gas-powered cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 13:20:49](https://news.ycombinator.com/item?id=38951847) - [Timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
-* [2024-01-11, 13:02:17](https://news.ycombinator.com/item?id=38951670) - [Charles Darwin Found Inspiration on the Cape Verde Islands](https://www.nytimes.com/2024/01/03/travel/charles-darwin-cape-verde.html)
 * [2024-01-11, 13:00:51](https://news.ycombinator.com/item?id=38951652) - [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://arxiv.org/abs/2401.02994)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-10, 20:40:59](https://news.ycombinator.com/item?id=38942777) - [Notes on a few abnormalities in analysis (2022)](https://www.carsengrote.com/2022/12/notes-on-few-abnormalities-in-analysis.html)
