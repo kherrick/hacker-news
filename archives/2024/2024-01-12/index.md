@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-12, 06:35:59](https://news.ycombinator.com/item?id=38964730) - [The United States Just Grew by 1M Square Kilometers in Size](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
