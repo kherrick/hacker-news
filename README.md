@@ -2,7 +2,6 @@
 
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
-* [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
 * [2024-01-12, 09:41:44](https://news.ycombinator.com/item?id=38966021) - [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
@@ -28,6 +27,7 @@
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 15:28:36](https://news.ycombinator.com/item?id=38953504) - [The Early History of the Channel Tunnel](https://publicdomainreview.org/essay/the-early-history-of-the-channel-tunnel/)
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to sell 20k EVs in shift back to gas-powered cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
+* [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 12:08:00](https://news.ycombinator.com/item?id=38951147) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 
