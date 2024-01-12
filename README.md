@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 13:59:07](https://news.ycombinator.com/item?id=38967981) - [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
 * [2024-01-12, 13:12:19](https://news.ycombinator.com/item?id=38967536) - [The planet's got 99 problems, but exponential growth isn't one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
 * [2024-01-12, 13:07:05](https://news.ycombinator.com/item?id=38967494) - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
@@ -22,7 +23,6 @@
 * [2024-01-12, 05:27:31](https://news.ycombinator.com/item?id=38964242) - [The case of the vector with an impossibly large size](https://devblogs.microsoft.com/oldnewthing/20240105-00/?p=109242)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
 * [2024-01-12, 03:11:33](https://news.ycombinator.com/item?id=38963197) - [Psst: Paper-Based Secret Sharing Technique](https://github.com/Sjlver/psst)
-* [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 * [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-11, 23:58:12](https://news.ycombinator.com/item?id=38961463) - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
 * [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
