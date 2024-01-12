@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
 * [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 * [2024-01-12, 07:24:31](https://news.ycombinator.com/item?id=38965086) - [ByteDance MagicVideo V2](https://magicvideov2.github.io/)
@@ -11,6 +12,7 @@
 * [2024-01-12, 07:09:28](https://news.ycombinator.com/item?id=38965003) - [Fly through your shell history](https://github.com/cantino/mcfly)
 * [2024-01-12, 07:06:26](https://news.ycombinator.com/item?id=38964983) - [Ancient City Found in the Amazon](https://www.bbc.com/news/science-environment-67940671)
 * [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+* [2024-01-12, 07:02:38](https://news.ycombinator.com/item?id=38964952) - [Programming Language for Ternary Computing](https://github.com/nirvanasupermind/owlet)
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-12, 06:35:59](https://news.ycombinator.com/item?id=38964730) - [The United States Just Grew by 1M Square Kilometers in Size](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
 * [2024-01-12, 06:28:43](https://news.ycombinator.com/item?id=38964675) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
