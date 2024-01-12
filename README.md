@@ -6,7 +6,7 @@
 * [2024-01-12, 15:49:08](https://news.ycombinator.com/item?id=38969466) - [US regulator considers stripping Boeing's right to self-inspect planes](https://on.ft.com/4aV0CQ7)
 * [2024-01-12, 15:48:47](https://news.ycombinator.com/item?id=38969461) - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
 * [2024-01-12, 15:41:25](https://news.ycombinator.com/item?id=38969348) - [Autophage rocket engine consumes plastic fuselage for fuel](https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel)
-* [2024-01-12, 15:25:24](https://news.ycombinator.com/item?id=38969114) - [Carta's 83b Oversight: A Tax Trap for Married Startup Employees](https://www.khanna.law/blog/carta-83b-oversight)
+* [2024-01-12, 15:25:24](https://news.ycombinator.com/item?id=38969114) - [Carta's 83b Oversight: A Tax Trap for Married Startup Employees (2023)](https://www.khanna.law/blog/carta-83b-oversight)
 * [2024-01-12, 15:21:49](https://news.ycombinator.com/item?id=38969072) - [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
 * [2024-01-12, 14:49:36](https://news.ycombinator.com/item?id=38968619) - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
 * [2024-01-12, 14:43:52](https://news.ycombinator.com/item?id=38968550) - [We need technology that is less immersive, not more](https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html)
