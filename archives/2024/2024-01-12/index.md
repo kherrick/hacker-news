@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
 * [2024-01-12, 20:27:08](https://news.ycombinator.com/item?id=38973517) - [Why can't today's young adults leave the nest? Blame high housing costs](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html)
+* [2024-01-12, 20:24:25](https://news.ycombinator.com/item?id=38973476) - [Centralized or Decentralized There Is No Question](https://puri.sm/posts/centralized-or-decentralized-there-is-no-question/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 * [2024-01-12, 19:46:14](https://news.ycombinator.com/item?id=38972978) - [New evidence that polar bears survived 1,600 years of ice-free Holocene summers](https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/)
 * [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
@@ -15,6 +16,7 @@
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
+* [2024-01-12, 18:21:02](https://news.ycombinator.com/item?id=38971804) - [Commodore Bookmarks](https://commodore.bookmark.computer/)
 * [2024-01-12, 18:18:39](https://news.ycombinator.com/item?id=38971775) - [The Cult of Mac](https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
