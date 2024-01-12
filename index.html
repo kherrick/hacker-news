@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="38972978">
+          <h3>
+            <a
+              class="item"
+              href="https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/"
+              >New evidence that polar bears survived 1,600 years of ice-free
+              Holocene summers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-12 @ 19:46:14</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38972978"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="38972735">
           <h3>
             <a
@@ -141,11 +163,32 @@
             <h4>
               <span>2024-01-12 @ 19:27:53</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38972735"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 36</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="38972638">
+          <h3>
+            <a
+              class="item"
+              href="https://arstechnica.com/security/2024/01/hackers-can-id-unique-apple-airdrop-users-chinese-authorities-claim-to-do-just-that/"
+              >Apple AirDrop leaks user data like a sieve</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-12 @ 19:21:43</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38972638"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -162,13 +205,86 @@
             <h4>
               <span>2024-01-12 @ 19:01:09</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38972362"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="38972358">
+          <h3>
+            <a class="item" href="https://github.com/FrigadeHQ/remote-storage"
+              >Show HN: RemoteStorage – sync localStorage across devices and
+              browsers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-12 @ 19:01:00</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38972358"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                When building frontends with Javascript, the native localStorage
+                API is super useful for keeping track of state between sessions
+                in the same browser, but it's not as good a solution when your
+                data needs to be shared across multiple devices or browsers.
+              </p>
+              <p>
+                For instance, let's say you want to show a welcome modal to all
+                new users that sign up for your product. If you use localStorage
+                to track if a user has already seen this modal, your users will
+                end up getting the experience repeatedly every time they switch
+                devices or browsers, or whenever Chrome decides to nuke your
+                data.
+              </p>
+              <p>
+                I built remoteStorage to help fix that. Using the same API as
+                localStorage, remoteStorage allows you to easily read and write
+                data on the fly while maintaining state across browsers and
+                devices in order to provide a better user experience.
+              </p>
+              <p>
+                The project is built as a monorepo in Typescript and contains a
+                JS library that works across any Javascript stack (including
+                Node.js and React Native) and is lightweight (~1 kb minified).
+                The server is built with Nest.js with a disk-persisted Redis
+                Database. It can be deployed in a few minutes using Docker.
+              </p>
+              <p>
+                One of the biggest challenges when building this was coming up
+                with a secure scheme for handling authentication while still
+                keeping the API dead simple for frontend devs to use. While the
+                project is intended to store non-sensitive data like impression
+                events/preferences, I still wanted to make sure data couldn’t
+                easily leak or be tampered with.
+              </p>
+              <p>
+                One solution has been to generate a unique secret UUID per user
+                on your own backend to identify the user. Alternatively, you
+                could create a simple wrapper/proxy API around remoteStorage
+                that uses your own authentication method to verify the user's
+                identity before allowing them to access the data (this is super
+                simple to build with React Server Components). Then, you could
+                pick a secure and secret Instance ID that is not publicly
+                available to ensure that only your application can access the
+                data.
+              </p>
+              <p>
+                Has anyone felt the same pain points with localStorage before?
+                Is this solution useful? Let me know what you think or ideas for
+                how I can improve it :)
+              </p>
+            </div>
           </section>
         </section>
         <section id="38972153">
@@ -177,11 +293,11 @@
             <h4>
               <span>2024-01-12 @ 18:46:39</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38972153"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -196,11 +312,11 @@
             <h4>
               <span>2024-01-12 @ 18:33:17</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38971966"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
             <div class="text">
@@ -286,11 +402,11 @@
             <h4>
               <span>2024-01-12 @ 18:21:24</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38971811"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -307,11 +423,11 @@
             <h4>
               <span>2024-01-12 @ 17:38:56</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38971221"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -329,33 +445,11 @@
             <h4>
               <span>2024-01-12 @ 17:27:10</span
               ><span class="points-container"
-                >Points: <span class="points">727</span></span
+                >Points: <span class="points">751</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38971012"
                   >Comments</a
-                ><span class="descendants">: 341</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38969985">
-          <h3>
-            <a
-              class="item"
-              href="https://www.phoronix.com/news/Open-ISOBUS-File-Server"
-              >Linux Gains an Open File Server for Tractors and Agriculture
-              Machinery</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-12 @ 16:24:23</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38969985"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 358</span></span
               >
             </h4>
           </section>
@@ -371,7 +465,7 @@
             <h4>
               <span>2024-01-12 @ 16:18:23</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38969893"
                   >Comments</a
@@ -393,11 +487,11 @@
             <h4>
               <span>2024-01-12 @ 16:09:25</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38969759"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -413,11 +507,11 @@
             <h4>
               <span>2024-01-12 @ 15:49:08</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">356</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38969466"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -434,11 +528,11 @@
             <h4>
               <span>2024-01-12 @ 15:41:25</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38969348"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -455,32 +549,11 @@
             <h4>
               <span>2024-01-12 @ 15:21:49</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38969072"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38968619">
-          <h3>
-            <a
-              class="item"
-              href="https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/"
-              >Epistemic Learned Helplessness (2019)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-12 @ 14:49:36</span
-              ><span class="points-container"
-                >Points: <span class="points">179</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38968619"
-                  >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -497,11 +570,11 @@
             <h4>
               <span>2024-01-12 @ 14:43:52</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38968550"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -518,11 +591,11 @@
             <h4>
               <span>2024-01-12 @ 13:36:53</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38967744"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -539,7 +612,7 @@
             <h4>
               <span>2024-01-12 @ 13:30:34</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38967684"
                   >Comments</a
@@ -559,11 +632,11 @@
             <h4>
               <span>2024-01-12 @ 11:34:13</span
               ><span class="points-container"
-                >Points: <span class="points">421</span></span
+                >Points: <span class="points">425</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38966875"
                   >Comments</a
-                ><span class="descendants">: 245</span></span
+                ><span class="descendants">: 246</span></span
               >
             </h4>
           </section>
@@ -580,7 +653,7 @@
             <h4>
               <span>2024-01-12 @ 11:01:47</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38966601"
                   >Comments</a
@@ -601,7 +674,7 @@
             <h4>
               <span>2024-01-12 @ 09:57:48</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38966129"
                   >Comments</a
@@ -623,7 +696,7 @@
             <h4>
               <span>2024-01-12 @ 09:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38965762"
                   >Comments</a
@@ -643,7 +716,7 @@
             <h4>
               <span>2024-01-12 @ 08:12:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38965429"
                   >Comments</a
@@ -677,11 +750,11 @@
             <h4>
               <span>2024-01-12 @ 07:55:33</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38965310"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -699,11 +772,11 @@
             <h4>
               <span>2024-01-12 @ 07:55:06</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">340</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38965306"
                   >Comments</a
-                ><span class="descendants">: 274</span></span
+                ><span class="descendants">: 281</span></span
               >
             </h4>
           </section>
@@ -718,7 +791,7 @@
             <h4>
               <span>2024-01-12 @ 07:09:28</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38965003"
                   >Comments</a
@@ -739,28 +812,33 @@
             <h4>
               <span>2024-01-12 @ 07:05:30</span
               ><span class="points-container"
-                >Points: <span class="points">870</span></span
+                >Points: <span class="points">875</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38964972"
                   >Comments</a
-                ><span class="descendants">: 301</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="38964933">
+        <section id="38951347">
           <h3>
             <a
               class="item"
-              href="https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519"
-              >CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote</a
+              href="http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html"
+              >Reverse-engineering the Yamaha DX7 synthesizer's sound chip from
+              die photos (2021)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-01-12 @ 07:00:52</span
+              <span>2024-01-11 @ 12:30:50</span
               ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=38951347"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -777,7 +855,7 @@
             <h4>
               <span>2024-01-11 @ 09:45:57</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38949966"
                   >Comments</a
@@ -802,28 +880,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38948652"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="38934226">
-          <h3>
-            <a
-              class="item"
-              href="https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/"
-              >Mathematica 14</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-10 @ 00:05:56</span
-              ><span class="points-container"
-                >Points: <span class="points">160</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=38934226"
-                  >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
