@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
+* [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 * [2024-01-12, 07:24:31](https://news.ycombinator.com/item?id=38965086) - [ByteDance MagicVideo V2](https://magicvideov2.github.io/)
 * [2024-01-12, 07:13:05](https://news.ycombinator.com/item?id=38965021) - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
 * [2024-01-12, 07:09:28](https://news.ycombinator.com/item?id=38965003) - [Fly through your shell history](https://github.com/cantino/mcfly)
@@ -20,6 +22,7 @@
 * [2024-01-12, 03:31:01](https://news.ycombinator.com/item?id=38963315) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.com/news/science-environment-67950749)
 * [2024-01-12, 03:28:46](https://news.ycombinator.com/item?id=38963307) - [Remote Workers Are Losing Out on Promotions](https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63)
 * [2024-01-12, 03:27:47](https://news.ycombinator.com/item?id=38963301) - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
+* [2024-01-12, 03:11:33](https://news.ycombinator.com/item?id=38963197) - [Psst: Paper-Based Secret Sharing Technique](https://github.com/Sjlver/psst)
 * [2024-01-12, 02:47:38](https://news.ycombinator.com/item?id=38963026) - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 * [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 * [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
