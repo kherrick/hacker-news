@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-01-12, 09:33:53",
+      "https://news.ycombinator.com/item?id=38965965"
+    ],
+    [
+      "Partitioning Postgres tables by timestamp based UUIDs",
+      "https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 08:25:37",
       "https://news.ycombinator.com/item?id=38965509"
     ],
@@ -267,16 +277,6 @@
     [
       "Hertz to sell 20k EVs in shift back to gas-powered cars",
       "https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 12:09:59",
-      "https://news.ycombinator.com/item?id=38951172"
-    ],
-    [
-      "Show HN: GodotOS – Fake operating system interface made in the Godot engine",
-      "https://github.com/popcar2/GodotOS"
     ]
   ],
   [
