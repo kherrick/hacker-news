@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 17:38:56",
+      "https://news.ycombinator.com/item?id=38971221"
+    ],
+    [
+      "Vector Databases: A Technical Primer [pdf]",
+      "https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 17:36:07",
       "https://news.ycombinator.com/item?id=38971178"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=38968619"
     ],
     [
-      "Epistemic Learned Helplessness",
+      "Epistemic Learned Helplessness (2019)",
       "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/"
     ]
   ],
@@ -117,26 +127,6 @@
     [
       "We need technology that is less immersive, not more",
       "https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 14:34:28",
-      "https://news.ycombinator.com/item?id=38968412"
-    ],
-    [
-      "On the Pleb Filter (2023)",
-      "https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 14:31:21",
-      "https://news.ycombinator.com/item?id=38968359"
-    ],
-    [
-      "'Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]",
-      "https://www.youtube.com/watch?v=f3hLZCuh8yM"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-01-11, 05:30:49",
-      "https://news.ycombinator.com/item?id=38948130"
+      "2024-01-11, 15:28:36",
+      "https://news.ycombinator.com/item?id=38953504"
     ],
     [
-      "The Un-Brie-Lievable History of Tyromancy",
-      "https://www.saveur.com/culture/tyromancy-cheese-divination/"
+      "The Early History of the Channel Tunnel",
+      "https://publicdomainreview.org/essay/the-early-history-of-the-channel-tunnel/"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 09:45:57",
+      "https://news.ycombinator.com/item?id=38949966"
+    ],
+    [
+      "Elisp in Replacement String",
+      "https://susam.net/maze/elisp-in-replacement-string.html"
     ]
   ]
 ]
