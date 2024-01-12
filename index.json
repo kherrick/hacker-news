@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 07:05:30",
+      "https://news.ycombinator.com/item?id=38964972"
+    ],
+    [
+      "Unity's Open-Source Double Standard: The Ban of VLC",
+      "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 07:00:52",
       "https://news.ycombinator.com/item?id=38964933"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-01-11, 16:14:42",
-      "https://news.ycombinator.com/item?id=38954189"
-    ],
-    [
-      "ArchiveBox: Open-source self-hosted web archiving",
-      "https://github.com/ArchiveBox/ArchiveBox"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 15:49:27",
       "https://news.ycombinator.com/item?id=38953846"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-01-11, 11:06:52",
+      "https://news.ycombinator.com/item?id=38950635"
+    ],
+    [
+      "Edge Detection for Image Processing",
+      "https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 15:05:52",
       "https://news.ycombinator.com/item?id=38939660"
     ],
     [
       "Understanding bridge-based ranking",
       "https://jonathanwarden.com/understanding-bridge-based-ranking/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 10:11:01",
-      "https://news.ycombinator.com/item?id=38938470"
-    ],
-    [
-      "GitHub Actions as a time-sharing supercomputer",
-      "https://blog.alexellis.io/github-actions-timesharing-supercomputer/"
     ]
   ],
   [
