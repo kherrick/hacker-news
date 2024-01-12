@@ -19,6 +19,7 @@
 * [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:07:35](https://news.ycombinator.com/item?id=38960827) - [What Are File Descriptors in Linux](https://linuxtldr.com/file-descriptors-linux/)
+* [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the prime knots](https://prideout.net/blog/svg_knots/)
@@ -28,7 +29,6 @@
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
-* [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
 * [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
