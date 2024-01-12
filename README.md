@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 22:06:06](https://news.ycombinator.com/item?id=38974766) - [London mayor says Brexit has cost UK over $178B so far](https://www.reuters.com/world/uk/london-mayor-says-brexit-has-cost-uk-over-178-bln-so-far-2024-01-11/)
 * [2024-01-12, 21:26:14](https://news.ycombinator.com/item?id=38974330) - [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
-* [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
+* [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
 * [2024-01-12, 20:49:31](https://news.ycombinator.com/item?id=38973827) - [Google's Tensor Processing Units could have been developed using stolen designs](https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 * [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI deletes ban on using ChatGPT for \"military and warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
@@ -23,7 +24,6 @@
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
 * [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
-* [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2024-01-12, 04:28:14](https://news.ycombinator.com/item?id=38963740) - [The Surprising Roots of Ancient Rome's Gladiator Fights](https://www.atlasobscura.com/articles/first-roman-gladiators)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
