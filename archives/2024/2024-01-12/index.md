@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 16:34:38](https://news.ycombinator.com/item?id=38970160) - [Peter Thiel's Palantir to provide tech for Israel's 'war-related missions'](https://www.bloomberg.com/news/articles/2024-01-12/palantir-israel-agree-to-strategic-partnership-for-battle-tech)
+* [2024-01-12, 16:24:23](https://news.ycombinator.com/item?id=38969985) - [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
 * [2024-01-12, 15:48:47](https://news.ycombinator.com/item?id=38969461) - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
 * [2024-01-12, 15:21:49](https://news.ycombinator.com/item?id=38969072) - [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
 * [2024-01-12, 14:49:36](https://news.ycombinator.com/item?id=38968619) - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
