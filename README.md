@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 16:24:23](https://news.ycombinator.com/item?id=38969985) - [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
 * [2024-01-12, 16:18:23](https://news.ycombinator.com/item?id=38969893) - [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
 * [2024-01-12, 16:09:25](https://news.ycombinator.com/item?id=38969759) - [Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking](https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/)
@@ -16,7 +17,6 @@
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
 * [2024-01-12, 12:32:44](https://news.ycombinator.com/item?id=38967279) - [John C. Lilly and the Solid State Entity (2016)](https://seankerrigan.com/john-c-lilly-and-the-solid-state-entity/)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
-* [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 * [2024-01-12, 09:59:40](https://news.ycombinator.com/item?id=38966145) - [Is Fortran “A Dead Language”? (2022)](https://cpufun.substack.com/p/is-fortran-a-dead-language)
 * [2024-01-12, 09:57:48](https://news.ycombinator.com/item?id=38966129) - [Mysticism and Empiricism](https://asteriskmag.com/issues/04/mysticism-empiricism)
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)

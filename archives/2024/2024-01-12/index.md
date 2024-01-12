@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 16:34:38](https://news.ycombinator.com/item?id=38970160) - [Peter Thiel's Palantir to provide tech for Israel's 'war-related missions'](https://www.bloomberg.com/news/articles/2024-01-12/palantir-israel-agree-to-strategic-partnership-for-battle-tech)
 * [2024-01-12, 16:24:23](https://news.ycombinator.com/item?id=38969985) - [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
 * [2024-01-12, 16:18:23](https://news.ycombinator.com/item?id=38969893) - [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
