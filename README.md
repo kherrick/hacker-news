@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 20:27:08](https://news.ycombinator.com/item?id=38973517) - [Why can't today's young adults leave the nest? Blame high housing costs](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
 * [2024-01-12, 19:46:14](https://news.ycombinator.com/item?id=38972978) - [New evidence that polar bears survived 1,600 years of ice-free Holocene summers](https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/)
 * [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
@@ -21,7 +22,6 @@
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 * [2024-01-12, 09:57:48](https://news.ycombinator.com/item?id=38966129) - [Mysticism and Empiricism](https://asteriskmag.com/issues/04/mysticism-empiricism)
-* [2024-01-12, 09:05:33](https://news.ycombinator.com/item?id=38965762) - [Phi-2: Self-Extend Boosts Performance, Extends Context to 8k Without Training](https://old.reddit.com/r/LocalLLaMA/comments/194mmki/selfextend_works_for_phi2_now_looks_good)
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
 * [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
