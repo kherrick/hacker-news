@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
+* [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 * [2024-01-12, 04:20:01](https://news.ycombinator.com/item?id=38963678) - [Cloudflare employee posts layoff call with HR and goes viral [video]](https://www.tiktok.com/@brittanypeachhh/video/7322301313134415134?_r=1&_t=8ix9BpBqady)
 * [2024-01-12, 03:56:50](https://news.ycombinator.com/item?id=38963498) - [X Announces Peer-to-Peer Payment Service Will Launch in 2024](https://www.forbes.com/sites/zacharyfolk/2024/01/09/x-announces-peer-to-peer-payment-service-will-launch-in-2024/)
 * [2024-01-12, 03:31:01](https://news.ycombinator.com/item?id=38963315) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.com/news/science-environment-67950749)
