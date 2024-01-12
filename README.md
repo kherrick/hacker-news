@@ -1,11 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 15:48:47](https://news.ycombinator.com/item?id=38969461) - [A vision for the alleviation of water scarcity in the US Southwest](https://caseyhandmer.wordpress.com/2024/01/09/a-vision-for-the-alleviation-of-water-scarcity-in-the-us-southwest-and-the-revitalization-of-the-salton-sea/)
+* [2024-01-12, 14:49:36](https://news.ycombinator.com/item?id=38968619) - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
+* [2024-01-12, 14:34:28](https://news.ycombinator.com/item?id=38968412) - [On the Pleb Filter (2023)](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
 * [2024-01-12, 14:31:21](https://news.ycombinator.com/item?id=38968359) - ['Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
 * [2024-01-12, 14:24:47](https://news.ycombinator.com/item?id=38968269) - [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
 * [2024-01-12, 13:59:07](https://news.ycombinator.com/item?id=38967981) - [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
+* [2024-01-12, 13:41:24](https://news.ycombinator.com/item?id=38967787) - [My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
-* [2024-01-12, 13:07:05](https://news.ycombinator.com/item?id=38967494) - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
@@ -25,11 +28,8 @@
 * [2024-01-12, 05:27:31](https://news.ycombinator.com/item?id=38964242) - [The case of the vector with an impossibly large size](https://devblogs.microsoft.com/oldnewthing/20240105-00/?p=109242)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
 * [2024-01-12, 03:11:33](https://news.ycombinator.com/item?id=38963197) - [Psst: Paper-Based Secret Sharing Technique](https://github.com/Sjlver/psst)
-* [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
-* [2024-01-11, 23:58:12](https://news.ycombinator.com/item?id=38961463) - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
 * [2024-01-11, 15:28:36](https://news.ycombinator.com/item?id=38953504) - [The Early History of the Channel Tunnel](https://publicdomainreview.org/essay/the-early-history-of-the-channel-tunnel/)
 * [2024-01-11, 12:08:00](https://news.ycombinator.com/item?id=38951147) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
-* [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 
 ## [Archives](archives/index.md)
 
