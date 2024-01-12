@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-01-12, 15:21:49",
+      "https://news.ycombinator.com/item?id=38969072"
+    ],
+    [
+      "ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity",
+      "https://www.espressif.com/en/news/ESP32-C61_SoC"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 14:49:36",
       "https://news.ycombinator.com/item?id=38968619"
     ],
     [
       "Epistemic Learned Helplessness",
       "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 14:43:52",
+      "https://news.ycombinator.com/item?id=38968550"
+    ],
+    [
+      "We need technology that is less immersive, not more",
+      "https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2024-01-12, 09:57:48",
+      "https://news.ycombinator.com/item?id=38966129"
+    ],
+    [
+      "Mysticism and Empiricism",
+      "https://asteriskmag.com/issues/04/mysticism-empiricism"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 09:43:52",
       "https://news.ycombinator.com/item?id=38966035"
     ],
@@ -161,6 +191,16 @@
   ],
   [
     [
+      "2024-01-12, 09:05:33",
+      "https://news.ycombinator.com/item?id=38965762"
+    ],
+    [
+      "Phi-2: Self-Extend Boosts Performance, Extends Context to 8k Without Training",
+      "https://old.reddit.com/r/LocalLLaMA/comments/194mmki/selfextend_works_for_phi2_now_looks_good"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 08:25:37",
       "https://news.ycombinator.com/item?id=38965509"
     ],
@@ -177,16 +217,6 @@
     [
       "Wind turbines are friendlier to birds than oil-and-gas drilling",
       "https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 07:13:05",
-      "https://news.ycombinator.com/item?id=38965021"
-    ],
-    [
-      "CurlyQ: Command line helper for curl and web scraping",
-      "https://github.com/ttscoff/curlyq"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2024-01-12, 07:02:38",
-      "https://news.ycombinator.com/item?id=38964952"
-    ],
-    [
-      "Programming Language for Ternary Computing",
-      "https://github.com/nirvanasupermind/owlet"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 07:00:52",
       "https://news.ycombinator.com/item?id=38964933"
     ],
     [
       "CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote",
       "https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 06:28:43",
-      "https://news.ycombinator.com/item?id=38964675"
-    ],
-    [
-      "Atomics and Concurrency",
-      "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Principality of Hutt River",
       "http://www.principality-hutt-river.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 03:11:33",
-      "https://news.ycombinator.com/item?id=38963197"
-    ],
-    [
-      "Psst: Paper-Based Secret Sharing Technique",
-      "https://github.com/Sjlver/psst"
     ]
   ],
   [
