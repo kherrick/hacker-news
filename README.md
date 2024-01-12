@@ -2,6 +2,7 @@
 
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
+* [2024-01-12, 03:28:46](https://news.ycombinator.com/item?id=38963307) - [Remote Workers Are Losing Out on Promotions](https://www.wsj.com/lifestyle/careers/remote-workers-are-losing-out-on-promotions-8219ec63)
 * [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 * [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 01:44:04](https://news.ycombinator.com/item?id=38962454) - [Private equity piling on debt like never before](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
@@ -28,7 +29,6 @@
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 * [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
 * [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
-* [2024-01-10, 03:39:57](https://news.ycombinator.com/item?id=38935838) - [Why Instagram failed to become TikTok](https://diklein.com/why-instagram-failed-to-become-tiktok)
 * [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
