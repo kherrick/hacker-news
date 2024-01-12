@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-12, 16:34:38](https://news.ycombinator.com/item?id=38970160) - [Peter Thiel's Palantir to provide tech for Israel's 'war-related missions'](https://www.bloomberg.com/news/articles/2024-01-12/palantir-israel-agree-to-strategic-partnership-for-battle-tech)
 * [2024-01-12, 16:24:23](https://news.ycombinator.com/item?id=38969985) - [Linux Gains an Open File Server for Tractors and Agriculture Machinery](https://www.phoronix.com/news/Open-ISOBUS-File-Server)
 * [2024-01-12, 16:18:23](https://news.ycombinator.com/item?id=38969893) - [Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://lfranke.github.io/trips/)
 * [2024-01-12, 16:09:25](https://news.ycombinator.com/item?id=38969759) - [Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking](https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/)
@@ -30,6 +29,7 @@
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
 * [2024-01-11, 15:28:36](https://news.ycombinator.com/item?id=38953504) - [The Early History of the Channel Tunnel](https://publicdomainreview.org/essay/the-early-history-of-the-channel-tunnel/)
+* [2024-01-11, 05:30:49](https://news.ycombinator.com/item?id=38948130) - [The Un-Brie-Lievable History of Tyromancy](https://www.saveur.com/culture/tyromancy-cheese-divination/)
 
 ## [Archives](archives/index.md)
 
