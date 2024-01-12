@@ -23,12 +23,12 @@
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
 * [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 18:50:51](https://news.ycombinator.com/item?id=38956861) - [Generating SVG for the prime knots](https://prideout.net/blog/svg_knots/)
-* [2024-01-11, 18:20:19](https://news.ycombinator.com/item?id=38956314) - [Breaking \"DRM\" in Polish trains [video]](https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains)
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to sell 20k EVs in shift back to gas-powered cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
+* [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
 * [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
