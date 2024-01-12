@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-01-12, 09:41:44",
+      "https://news.ycombinator.com/item?id=38966021"
+    ],
+    [
+      "Is the Reproducibility Crisis Reproducible?",
+      "https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 08:25:37",
       "https://news.ycombinator.com/item?id=38965509"
     ],
@@ -97,6 +107,16 @@
     [
       "Unity's Open-Source Double Standard: The Ban of VLC",
       "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 07:03:19",
+      "https://news.ycombinator.com/item?id=38964958"
+    ],
+    [
+      "Keycloak open redirect: wildcard redirect URIs can be exploited to steal tokens",
+      "https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-01-11, 23:07:35",
-      "https://news.ycombinator.com/item?id=38960827"
-    ],
-    [
-      "What Are File Descriptors in Linux",
-      "https://linuxtldr.com/file-descriptors-linux/"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 20:10:45",
       "https://news.ycombinator.com/item?id=38958266"
     ],
@@ -267,16 +277,6 @@
     [
       "Hertz to sell 20k EVs in shift back to gas-powered cars",
       "https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 12:09:59",
-      "https://news.ycombinator.com/item?id=38951172"
-    ],
-    [
-      "Show HN: GodotOS – Fake operating system interface made in the Godot engine",
-      "https://github.com/popcar2/GodotOS"
     ]
   ],
   [
