@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 19:46:14",
+      "https://news.ycombinator.com/item?id=38972978"
+    ],
+    [
+      "New evidence that polar bears survived 1,600 years of ice-free Holocene summers",
+      "https://polarbearscience.com/2023/06/16/new-evidence-that-polar-bears-survived-1600-years-of-ice-free-summers-in-the-early-holocene/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 19:27:53",
       "https://news.ycombinator.com/item?id=38972735"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2024-01-12, 19:21:43",
+      "https://news.ycombinator.com/item?id=38972638"
+    ],
+    [
+      "Apple AirDrop leaks user data like a sieve",
+      "https://arstechnica.com/security/2024/01/hackers-can-id-unique-apple-airdrop-users-chinese-authorities-claim-to-do-just-that/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 19:01:09",
       "https://news.ycombinator.com/item?id=38972362"
     ],
     [
       "There has never been a better time to game on Linux",
       "https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 19:01:00",
+      "https://news.ycombinator.com/item?id=38972358"
+    ],
+    [
+      "Show HN: RemoteStorage – sync localStorage across devices and browsers",
+      "https://github.com/FrigadeHQ/remote-storage"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-01-12, 16:24:23",
-      "https://news.ycombinator.com/item?id=38969985"
-    ],
-    [
-      "Linux Gains an Open File Server for Tractors and Agriculture Machinery",
-      "https://www.phoronix.com/news/Open-ISOBUS-File-Server"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 16:18:23",
       "https://news.ycombinator.com/item?id=38969893"
     ],
@@ -127,16 +147,6 @@
     [
       "ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity",
       "https://www.espressif.com/en/news/ESP32-C61_SoC"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 14:49:36",
-      "https://news.ycombinator.com/item?id=38968619"
-    ],
-    [
-      "Epistemic Learned Helplessness (2019)",
-      "https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-01-12, 07:00:52",
-      "https://news.ycombinator.com/item?id=38964933"
+      "2024-01-11, 12:30:50",
+      "https://news.ycombinator.com/item?id=38951347"
     ],
     [
-      "CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote",
-      "https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519"
+      "Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)",
+      "http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Diamond Subpixel Arrangement Simulator",
       "https://mstdn.social/@RickyRomero/111666711075000961"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 00:05:56",
-      "https://news.ycombinator.com/item?id=38934226"
-    ],
-    [
-      "Mathematica 14",
-      "https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/"
     ]
   ]
 ]
