@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 * [2024-01-12, 10:31:21](https://news.ycombinator.com/item?id=38966352) - [Nuclear smartphone 3V battery lasting for 50 years](https://energymetalnews.com/2024/01/12/nuclear-battery-produces-power-for-50-years-without-needing-to-charge/)
 * [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
-* [2024-01-12, 09:42:48](https://news.ycombinator.com/item?id=38966031) - [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 * [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 * [2024-01-12, 07:13:05](https://news.ycombinator.com/item?id=38965021) - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
