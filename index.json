@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-12, 18:46:39",
+      "https://news.ycombinator.com/item?id=38972153"
+    ],
+    [
+      "DevDocs",
+      "https://devdocs.io"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 18:33:17",
       "https://news.ycombinator.com/item?id=38971966"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=38969893"
     ],
     [
-      "Trilinear Point Splatting for Real-Time Radiance Field Rendering",
+      "Trilinear point splatting for real-time radiance field rendering",
       "https://lfranke.github.io/trips/"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-01-12, 12:32:44",
-      "https://news.ycombinator.com/item?id=38967279"
-    ],
-    [
-      "John C. Lilly and the Solid State Entity (2016)",
-      "https://seankerrigan.com/john-c-lilly-and-the-solid-state-entity/"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 11:34:13",
       "https://news.ycombinator.com/item?id=38966875"
     ],
@@ -187,16 +187,6 @@
     [
       "CLI user experience case study",
       "https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 09:59:40",
-      "https://news.ycombinator.com/item?id=38966145"
-    ],
-    [
-      "Is Fortran “A Dead Language”? (2022)",
-      "https://cpufun.substack.com/p/is-fortran-a-dead-language"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Diamond Subpixel Arrangement Simulator",
       "https://mstdn.social/@RickyRomero/111666711075000961"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 00:05:56",
+      "https://news.ycombinator.com/item?id=38934226"
+    ],
+    [
+      "Mathematica 14",
+      "https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/"
     ]
   ]
 ]
