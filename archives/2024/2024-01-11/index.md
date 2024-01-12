@@ -94,6 +94,7 @@
 * [2024-01-11, 08:18:52](https://news.ycombinator.com/item?id=38949284) - ['Iranian cyber army' blamed as Wikipedia deletes atrocities](https://www.theaustralian.com.au/world/the-times/iranian-cyber-army-blamed-as-wikipedia-deletes-atrocities/news-story/3947931532816bc4f1a9c5eca7df5f71)
 * [2024-01-11, 08:11:15](https://news.ycombinator.com/item?id=38949231) - [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
 * [2024-01-11, 07:17:02](https://news.ycombinator.com/item?id=38948862) - [Tokyo's 'oldest man' had been dead for 30 years (2010)](https://www.bbc.com/news/world-asia-pacific-10809128.amp)
+* [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-11, 05:54:28](https://news.ycombinator.com/item?id=38948303) - [The Life and Death of the American Mall](https://www.atlasobscura.com/articles/the-life-and-death-of-the-suburban-american-mall)
