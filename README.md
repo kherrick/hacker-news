@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-12, 21:50:44](https://news.ycombinator.com/item?id=38974612) - [Artifact News Is Shutting Down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419)
+* [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
 * [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
 * [2024-01-12, 20:49:31](https://news.ycombinator.com/item?id=38973827) - [Google's Tensor Processing Units could have been developed using stolen designs](https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
@@ -20,9 +20,9 @@
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 * [2024-01-12, 09:57:48](https://news.ycombinator.com/item?id=38966129) - [Mysticism and Empiricism](https://asteriskmag.com/issues/04/mysticism-empiricism)
+* [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
-* [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
 * [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2024-01-12, 04:28:14](https://news.ycombinator.com/item?id=38963740) - [The Surprising Roots of Ancient Rome's Gladiator Fights](https://www.atlasobscura.com/articles/first-roman-gladiators)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)

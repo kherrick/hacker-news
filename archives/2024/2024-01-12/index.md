@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
 * [2024-01-12, 22:06:06](https://news.ycombinator.com/item?id=38974766) - [London mayor says Brexit has cost UK over $178B so far](https://www.reuters.com/world/uk/london-mayor-says-brexit-has-cost-uk-over-178-bln-so-far-2024-01-11/)
 * [2024-01-12, 21:50:44](https://news.ycombinator.com/item?id=38974612) - [Artifact News Is Shutting Down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419)
 * [2024-01-12, 21:26:14](https://news.ycombinator.com/item?id=38974330) - [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
@@ -61,6 +62,7 @@
 * [2024-01-12, 09:41:44](https://news.ycombinator.com/item?id=38966021) - [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
 * [2024-01-12, 09:33:53](https://news.ycombinator.com/item?id=38965965) - [Partitioning Postgres tables by timestamp based UUIDs](https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916)
 * [2024-01-12, 09:05:33](https://news.ycombinator.com/item?id=38965762) - [Phi-2: Self-Extend Boosts Performance, Extends Context to 8k Without Training](https://old.reddit.com/r/LocalLLaMA/comments/194mmki/selfextend_works_for_phi2_now_looks_good)
+* [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
