@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
+* [2024-01-12, 18:18:39](https://news.ycombinator.com/item?id=38971775) - [The Cult of Mac](https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 17:27:10](https://news.ycombinator.com/item?id=38971012) - [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)

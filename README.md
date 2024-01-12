@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
+* [2024-01-12, 18:18:39](https://news.ycombinator.com/item?id=38971775) - [The Cult of Mac](https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 17:27:10](https://news.ycombinator.com/item?id=38971012) - [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)
@@ -26,7 +27,6 @@
 * [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
 * [2024-01-12, 07:09:28](https://news.ycombinator.com/item?id=38965003) - [Fly through your shell history](https://github.com/cantino/mcfly)
 * [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
-* [2024-01-12, 07:03:19](https://news.ycombinator.com/item?id=38964958) - [Keycloak open redirect: wildcard redirect URIs can be exploited to steal tokens](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/)
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-11, 15:28:36](https://news.ycombinator.com/item?id=38953504) - [The Early History of the Channel Tunnel](https://publicdomainreview.org/essay/the-early-history-of-the-channel-tunnel/)
 * [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
