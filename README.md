@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
 * [2024-01-12, 09:59:40](https://news.ycombinator.com/item?id=38966145) - [Is Fortran \"A Dead Language\"?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
-* [2024-01-12, 09:47:59](https://news.ycombinator.com/item?id=38966060) - [Man in the Hague (In a Good Way)](https://www.craigmurray.org.uk/archives/2024/01/your-man-in-the-hague-in-a-good-way/)
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
+* [2024-01-12, 09:42:48](https://news.ycombinator.com/item?id=38966031) - [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 * [2024-01-12, 07:38:51](https://news.ycombinator.com/item?id=38965184) - [Facebook bans ads for Votes for Women boardgame, claims \"sensitive social issue\"](https://boardgamewire.com/index.php/2024/01/11/facebook-bans-ads-for-award-winning-votes-for-women-board-game-claims-sensitive-social-issue/)
 * [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
@@ -29,7 +30,6 @@
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to sell 20k EVs in shift back to gas-powered cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
-* [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
 
 ## [Archives](archives/index.md)
 
