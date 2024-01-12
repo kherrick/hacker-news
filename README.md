@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-12, 21:26:14](https://news.ycombinator.com/item?id=38974330) - [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
+* [2024-01-12, 21:50:44](https://news.ycombinator.com/item?id=38974612) - [Artifact News Is Shutting Down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419)
 * [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) is hiring a senior product engineer](https://news.ycombinator.com/item?id=38973998)
 * [2024-01-12, 20:49:31](https://news.ycombinator.com/item?id=38973827) - [Google's Tensor Processing Units could have been developed using stolen designs](https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/)
 * [2024-01-12, 19:49:45](https://news.ycombinator.com/item?id=38973023) - [On non-technical video-games cheat mitigations](https://dustri.org/b/on-non-technical-video-games-cheat-mitigations.html)
