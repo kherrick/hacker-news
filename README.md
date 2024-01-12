@@ -1,18 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-12, 04:20:01](https://news.ycombinator.com/item?id=38963678) - [Cloudflare employee posts layoff call with HR and goes viral [video]](https://www.tiktok.com/@brittanypeachhh/video/7322301313134415134?_r=1&_t=8ix9BpBqady)
-* [2024-01-12, 03:56:50](https://news.ycombinator.com/item?id=38963498) - [X Announces Peer-to-Peer Payment Service Will Launch in 2024](https://www.forbes.com/sites/zacharyfolk/2024/01/09/x-announces-peer-to-peer-payment-service-will-launch-in-2024/)
 * [2024-01-12, 03:27:47](https://news.ycombinator.com/item?id=38963301) - [Bare Bones Software – BBEdit 15 is here](https://www.barebones.com/products/bbedit/bbedit15.html)
 * [2024-01-12, 02:47:38](https://news.ycombinator.com/item?id=38963026) - [Introducing Exploit Observer — More than Shodan Exploits, Less than Vulners](https://blog.arpsyndicate.io/introducing-exploit-observer-more-than-shodan-exploits-less-than-vulners-23eaea466e4a)
 * [2024-01-12, 02:34:44](https://news.ycombinator.com/item?id=38962912) - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]](https://users.cs.utah.edu/~regehr/papers/cgo24.pdf)
 * [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
+* [2024-01-12, 01:44:04](https://news.ycombinator.com/item?id=38962454) - [Private equity piling on debt like never before](https://www.pionline.com/private-equity/private-equity-piling-debt-never)
 * [2024-01-12, 00:42:39](https://news.ycombinator.com/item?id=38961899) - [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-12, 00:05:11](https://news.ycombinator.com/item?id=38961533) - [Recovering a dm-crypt Encryption Key with drgn](https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html)
 * [2024-01-11, 23:58:12](https://news.ycombinator.com/item?id=38961463) - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
 * [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:28:01](https://news.ycombinator.com/item?id=38961080) - [Pixar to undergo 20% layoffs in 2024](https://techcrunch.com/2024/01/11/as-disney-pushes-towards-streaming-profitability-pixar-to-undergo-layoffs-in-2024/)
-* [2024-01-11, 23:07:35](https://news.ycombinator.com/item?id=38960827) - [What Are File Descriptors in Linux](https://linuxtldr.com/file-descriptors-linux/)
 * [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 20:46:30](https://news.ycombinator.com/item?id=38958798) - [eBay agrees to $3M fine over couple's harassment case, civil suit continues](https://www.universalhub.com/2024/ebay-agrees-3-million-fine-trying-destroy-lives)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
@@ -30,6 +29,7 @@
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
 * [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
 * [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
+* [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
 

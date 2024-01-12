@@ -102,3 +102,4 @@
 * [2024-01-10, 00:45:58](https://news.ycombinator.com/item?id=38934607) - [Show HN: Peer-to-peer mini r/place with Proof of Work](https://tropical.pages.dev/pow/)
 * [2024-01-10, 00:10:04](https://news.ycombinator.com/item?id=38934270) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-10, 00:07:51](https://news.ycombinator.com/item?id=38934249) - [The Spread of European Printing Activity (1450-1650)](https://arts.st-andrews.ac.uk/visualisinghistory/posts/the-spread-of-european-printing-activity-1450-1650-mapped)
+* [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
