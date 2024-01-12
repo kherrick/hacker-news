@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 * [2024-01-12, 19:01:09](https://news.ycombinator.com/item?id=38972362) - [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
@@ -29,7 +30,6 @@
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
 * [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
-* [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
 

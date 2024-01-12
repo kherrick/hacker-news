@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 19:27:53](https://news.ycombinator.com/item?id=38972735) - [OpenAI Deletes Ban on Using ChatGPT for \"Military and Warfare\"](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 * [2024-01-12, 19:04:39](https://news.ycombinator.com/item?id=38972417) - [Bean Soup](https://freerecipenetwork.com/13-bean-soup/)
 * [2024-01-12, 19:01:09](https://news.ycombinator.com/item?id=38972362) - [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
