@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 12:28:53",
+      "https://news.ycombinator.com/item?id=38967262"
+    ],
+    [
+      "Airbus Shatters Record for Jet Orders as Demand Soars",
+      "https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 11:34:13",
       "https://news.ycombinator.com/item?id=38966875"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2024-01-12, 09:33:53",
-      "https://news.ycombinator.com/item?id=38965965"
-    ],
-    [
-      "Partitioning Postgres tables by timestamp based UUIDs",
-      "https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 08:25:37",
       "https://news.ycombinator.com/item?id=38965509"
     ],
     [
       "We removed advertising cookies, here's what happened",
       "https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 07:55:06",
+      "https://news.ycombinator.com/item?id=38965306"
+    ],
+    [
+      "Wind turbines are friendlier to birds than oil-and-gas drilling",
+      "https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Coral Dev Board Micro",
       "https://coral.ai/products/dev-board-micro"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 00:05:11",
-      "https://news.ycombinator.com/item?id=38961533"
-    ],
-    [
-      "Recovering a dm-crypt Encryption Key with drgn",
-      "https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html"
     ]
   ],
   [
