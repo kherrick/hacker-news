@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
 * [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
+* [2024-01-12, 22:45:23](https://news.ycombinator.com/item?id=38975204) - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
 * [2024-01-12, 22:06:06](https://news.ycombinator.com/item?id=38974766) - [London mayor says Brexit has cost UK over $178B so far](https://www.reuters.com/world/uk/london-mayor-says-brexit-has-cost-uk-over-178-bln-so-far-2024-01-11/)
 * [2024-01-12, 21:50:44](https://news.ycombinator.com/item?id=38974612) - [Artifact News Is Shutting Down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419)
 * [2024-01-12, 21:26:14](https://news.ycombinator.com/item?id=38974330) - [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
@@ -24,6 +25,7 @@
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
 * [2024-01-12, 18:21:02](https://news.ycombinator.com/item?id=38971804) - [Commodore Bookmarks](https://commodore.bookmark.computer/)
 * [2024-01-12, 18:18:39](https://news.ycombinator.com/item?id=38971775) - [The Cult of Mac](https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones)
+* [2024-01-12, 17:52:47](https://news.ycombinator.com/item?id=38971409) - [Kagi.com is unstable for all regions](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [Did OpenTelemetry deliver on its promise in 2023?](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 17:27:10](https://news.ycombinator.com/item?id=38971012) - [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)
