@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 09:59:40](https://news.ycombinator.com/item?id=38966145) - [Is Fortran \"A Dead Language\"?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
+* [2024-01-12, 09:47:59](https://news.ycombinator.com/item?id=38966060) - [Man in the Hague (In a Good Way)](https://www.craigmurray.org.uk/archives/2024/01/your-man-in-the-hague-in-a-good-way/)
 * [2024-01-12, 09:43:52](https://news.ycombinator.com/item?id=38966035) - [Statement regarding the ongoing Sourcehut outage](https://outage.sr.ht/)
+* [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
+* [2024-01-12, 07:38:51](https://news.ycombinator.com/item?id=38965184) - [Facebook bans ads for Votes for Women boardgame, claims \"sensitive social issue\"](https://boardgamewire.com/index.php/2024/01/11/facebook-bans-ads-for-award-winning-votes-for-women-board-game-claims-sensitive-social-issue/)
 * [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 * [2024-01-12, 07:13:05](https://news.ycombinator.com/item?id=38965021) - [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
 * [2024-01-12, 07:09:28](https://news.ycombinator.com/item?id=38965003) - [Fly through your shell history](https://github.com/cantino/mcfly)
@@ -20,16 +24,12 @@
 * [2024-01-11, 23:51:15](https://news.ycombinator.com/item?id=38961377) - [Tree.fm: Tune in to Forests Around the World](https://www.tree.fm/)
 * [2024-01-11, 23:42:25](https://news.ycombinator.com/item?id=38961262) - [A Love Letter to Tinkerable Software](https://www.trevoragilbert.com/posts/a-love-letter-to-tinkerable-software/)
 * [2024-01-11, 23:07:35](https://news.ycombinator.com/item?id=38960827) - [What Are File Descriptors in Linux](https://linuxtldr.com/file-descriptors-linux/)
-* [2024-01-11, 21:53:19](https://news.ycombinator.com/item?id=38959762) - [Sourcehut and Codeberg are both currently experiencing a DDoS attack](https://fosstodon.org/@drewdevault/111739063243946284)
 * [2024-01-11, 20:10:45](https://news.ycombinator.com/item?id=38958266) - [How virtualisation came to Apple Silicon Macs](https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/)
-* [2024-01-11, 19:53:00](https://news.ycombinator.com/item?id=38957961) - [Engineer Used Water Pump to Get $1B Stuxnet Malware into Iranian Nuclear Plant](https://www.securityweek.com/dutch-engineer-used-water-pump-to-get-billion-dollar-stuxnet-malware-into-iranian-nuclear-facility-report/)
 * [2024-01-11, 15:49:27](https://news.ycombinator.com/item?id=38953846) - [Removing data transfer fees when moving off Google Cloud](https://cloud.google.com/blog/products/networking/eliminating-data-transfer-fees-when-migrating-off-google-cloud/)
 * [2024-01-11, 14:50:58](https://news.ycombinator.com/item?id=38952897) - [Hertz to sell 20k EVs in shift back to gas-powered cars](https://www.bloomberg.com/news/articles/2024-01-11/hertz-to-sell-20-000-evs-in-shift-back-to-gas-powered-cars)
 * [2024-01-11, 12:09:59](https://news.ycombinator.com/item?id=38951172) - [Show HN: GodotOS – Fake operating system interface made in the Godot engine](https://github.com/popcar2/GodotOS)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
-* [2024-01-10, 10:02:32](https://news.ycombinator.com/item?id=38938414) - [AMD Reveals Next-Gen Desktop Processors for Extreme PC Gaming](https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html)
-* [2024-01-10, 00:05:56](https://news.ycombinator.com/item?id=38934226) - [Mathematica 14](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 
 ## [Archives](archives/index.md)
 
