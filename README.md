@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-12, 02:02:53](https://news.ycombinator.com/item?id=38962647) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 00:42:39](https://news.ycombinator.com/item?id=38961899) - [I built an offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-12, 00:38:31](https://news.ycombinator.com/item?id=38961859) - [Cloudflare lays off new hires](https://i.imgur.com/9A3LZIB.png)
 * [2024-01-11, 23:58:12](https://news.ycombinator.com/item?id=38961463) - [Postgres Incremental Backup](https://pganalyze.com/blog/5mins-postgres-17-incremental-backups)
@@ -29,7 +30,6 @@
 * [2024-01-10, 15:05:52](https://news.ycombinator.com/item?id=38939660) - [Understanding bridge-based ranking](https://jonathanwarden.com/understanding-bridge-based-ranking/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 10:11:01](https://news.ycombinator.com/item?id=38938470) - [GitHub Actions as a time-sharing supercomputer](https://blog.alexellis.io/github-actions-timesharing-supercomputer/)
-* [2024-01-10, 07:54:58](https://news.ycombinator.com/item?id=38937467) - [Why Prince Changed His Name to an Symbol 30 Years Ago, and What Happened Next](https://variety.com/2023/music/news/prince-symbol-why-he-changed-his-name-1235635422/)
 
 ## [Archives](archives/index.md)
 
