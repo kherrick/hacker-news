@@ -29,6 +29,7 @@
 * [2024-01-12, 19:01:09](https://news.ycombinator.com/item?id=38972362) - [There has never been a better time to game on Linux](https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux)
 * [2024-01-12, 19:01:00](https://news.ycombinator.com/item?id=38972358) - [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
+* [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
 * [2024-01-12, 18:21:24](https://news.ycombinator.com/item?id=38971811) - [Apple knew AirDrop users could be identified and tracked as early as 2019](https://edition.cnn.com/2024/01/12/tech/china-apple-airdrop-user-encryption-vulnerability-hnk-intl/index.html)
 * [2024-01-12, 18:21:02](https://news.ycombinator.com/item?id=38971804) - [Commodore Bookmarks](https://commodore.bookmark.computer/)

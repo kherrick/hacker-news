@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 05:16:46](https://news.ycombinator.com/item?id=38977532) - [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
 * [2024-01-13, 04:26:45](https://news.ycombinator.com/item?id=38977326) - [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
