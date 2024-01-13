@@ -47,6 +47,7 @@
 * [2024-01-12, 14:31:21](https://news.ycombinator.com/item?id=38968359) - ['Meditations' by Marcus Aurelius – Stoicism in Modern Language [video]](https://www.youtube.com/watch?v=f3hLZCuh8yM)
 * [2024-01-12, 14:24:47](https://news.ycombinator.com/item?id=38968269) - [Citigroup Plans to Cut 20k Jobs](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-bank-earnings-01-12-2024/card/citigroup-plans-to-cut-20-000-jobs-KCIfucmQx18qn9TfDESs)
 * [2024-01-12, 13:59:07](https://news.ycombinator.com/item?id=38967981) - [Show HN: I made an extension to keep Twitter from losing my scroll position](https://chrome.google.com/webstore/detail/keep-twitter-scroll-posit/ohikllclmilbneljmbnkikjciogdhgfo)
+* [2024-01-12, 13:48:18](https://news.ycombinator.com/item?id=38967855) - [Engineers test autophage rocket engine](https://www.aerospacetestinginternational.com/news/engine-testing/engineers-test-autophage-rocket-engine-fueled-by-its-own-fuselage.html)
 * [2024-01-12, 13:41:24](https://news.ycombinator.com/item?id=38967787) - [My AI Timelines Have Sped Up (Again)](https://www.alexirpan.com/2024/01/10/ai-timelines-2024.html)
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
