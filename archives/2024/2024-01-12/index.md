@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 23:53:15](https://news.ycombinator.com/item?id=38975775) - [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 * [2024-01-12, 23:37:42](https://news.ycombinator.com/item?id=38975656) - [When I originally wrote the LGPL..](https://news.ycombinator.com/item?id=38966253)
 * [2024-01-12, 23:25:37](https://news.ycombinator.com/item?id=38975566) - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 * [2024-01-12, 23:13:49](https://news.ycombinator.com/item?id=38975453) - [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
 * [2024-01-12, 23:07:18](https://news.ycombinator.com/item?id=38975390) - [Instagram's co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
 * [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
 * [2024-01-12, 22:45:23](https://news.ycombinator.com/item?id=38975204) - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
+* [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 22:06:06](https://news.ycombinator.com/item?id=38974766) - [London mayor says Brexit has cost UK over $178B so far](https://www.reuters.com/world/uk/london-mayor-says-brexit-has-cost-uk-over-178-bln-so-far-2024-01-11/)
 * [2024-01-12, 21:50:44](https://news.ycombinator.com/item?id=38974612) - [Artifact News Is Shutting Down](https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
