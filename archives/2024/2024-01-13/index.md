@@ -13,6 +13,7 @@
 * [2024-01-13, 16:33:38](https://news.ycombinator.com/item?id=38981522) - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 * [2024-01-13, 16:29:12](https://news.ycombinator.com/item?id=38981463) - [Norway to allow mining waste to be dumped in fjords](https://www.theguardian.com/world/2024/jan/12/norway-to-allow-mining-waste-to-be-dumped-in-fjords)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
+* [2024-01-13, 15:59:02](https://news.ycombinator.com/item?id=38981108) - [Ask HN: 40yo adult learning to drive what is different vs. learning young?](https://news.ycombinator.com/item?id=38981108)
 * [2024-01-13, 15:45:00](https://news.ycombinator.com/item?id=38980963) - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
 * [2024-01-13, 15:37:58](https://news.ycombinator.com/item?id=38980882) - [Decoding the Delegate in C#](https://blog.upperdine.dev/decoding-the-delegate-in-csharp)
 * [2024-01-13, 15:29:28](https://news.ycombinator.com/item?id=38980793) - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
