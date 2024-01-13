@@ -19,6 +19,7 @@
 * [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 * [2024-01-12, 21:23:45](https://news.ycombinator.com/item?id=38974305) - [My Experiences Attending NeurIPS 2023](https://awaisrauf.github.io/deepCuriosity/Attending-NeurIPS2023)
+* [2024-01-12, 19:01:00](https://news.ycombinator.com/item?id=38972358) - [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
 * [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
@@ -27,7 +28,6 @@
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
-* [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
 * [2024-01-11, 05:28:44](https://news.ycombinator.com/item?id=38948122) - [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
 * [2024-01-11, 05:00:40](https://news.ycombinator.com/item?id=38947851) - [Uber and Lyft paid SFO about $50M last year](https://www.sfgate.com/tech/article/uber-lyft-sfo-airport-fees-18598614.php)
 
