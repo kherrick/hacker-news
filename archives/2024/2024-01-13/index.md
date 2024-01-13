@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 04:26:45](https://news.ycombinator.com/item?id=38977326) - [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 02:39:54](https://news.ycombinator.com/item?id=38976827) - [Trying to use Firebase is the most horrible experience in my life](https://news.ycombinator.com/item?id=38976827)
