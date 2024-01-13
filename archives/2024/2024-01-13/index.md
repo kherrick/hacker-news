@@ -12,6 +12,7 @@
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
 * [2024-01-13, 12:29:08](https://news.ycombinator.com/item?id=38979356) - [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
+* [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Last surviving scientist on Japan's atomic bomb program tells his story](https://www.youtube.com/watch?v=P4DThUr7bsY)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)

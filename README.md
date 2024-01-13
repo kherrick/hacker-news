@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-13, 14:58:26](https://news.ycombinator.com/item?id=38980501) - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
-* [2024-01-13, 14:52:08](https://news.ycombinator.com/item?id=38980447) - [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
 * [2024-01-13, 14:50:49](https://news.ycombinator.com/item?id=38980428) - [Don't Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
 * [2024-01-13, 14:44:39](https://news.ycombinator.com/item?id=38980358) - [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 * [2024-01-13, 14:25:19](https://news.ycombinator.com/item?id=38980171) - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
+* [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Last surviving scientist on Japan's atomic bomb program tells his story](https://www.youtube.com/watch?v=P4DThUr7bsY)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [Updates on Grounding of Boeing 737 MAX 9 Aircraft](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
