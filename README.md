@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 18:41:21](https://news.ycombinator.com/item?id=38983070) - [Teacher held in solitary confinement for posting concern about Gaza deaths](https://www.theguardian.com/world/2024/jan/13/it-is-a-time-of-witch-hunts-in-israel-teacher-held-in-solitary-confinement-for-posting-concern-about-gaza-deaths)
 * [2024-01-13, 18:41:10](https://news.ycombinator.com/item?id=38983067) - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 * [2024-01-13, 18:26:52](https://news.ycombinator.com/item?id=38982912) - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
 * [2024-01-13, 18:14:22](https://news.ycombinator.com/item?id=38982773) - [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
@@ -10,7 +11,6 @@
 * [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:33:38](https://news.ycombinator.com/item?id=38981522) - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
-* [2024-01-13, 16:29:12](https://news.ycombinator.com/item?id=38981463) - [Norway to allow mining waste to be dumped in fjords](https://www.theguardian.com/world/2024/jan/12/norway-to-allow-mining-waste-to-be-dumped-in-fjords)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 15:29:28](https://news.ycombinator.com/item?id=38980793) - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
 * [2024-01-13, 15:02:56](https://news.ycombinator.com/item?id=38980556) - [Rogue Worlds Throw Planetary Ideas Out of Orbit](https://www.quantamagazine.org/rogue-worlds-throw-planetary-ideas-out-of-orbit-20231113/)
