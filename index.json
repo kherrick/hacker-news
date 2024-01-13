@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-13, 08:59:40",
+      "https://news.ycombinator.com/item?id=38978289"
+    ],
+    [
+      "Apple hiring compiler developers for improving Swift / C++ interoperability",
+      "https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 08:11:10",
       "https://news.ycombinator.com/item?id=38978129"
     ],
@@ -177,16 +187,6 @@
     [
       "My Experiences Attending NeurIPS 2023",
       "https://awaisrauf.github.io/deepCuriosity/Attending-NeurIPS2023"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 19:01:00",
-      "https://news.ycombinator.com/item?id=38972358"
-    ],
-    [
-      "Show HN: RemoteStorage – sync localStorage across devices and browsers",
-      "https://github.com/FrigadeHQ/remote-storage"
     ]
   ],
   [
