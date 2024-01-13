@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-13, 04:26:45](https://news.ycombinator.com/item?id=38977326) - [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 01:00:58](https://news.ycombinator.com/item?id=38976288) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
@@ -26,6 +25,7 @@
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
+* [2024-01-11, 11:46:02](https://news.ycombinator.com/item?id=38950969) - [The 1xers Guide to LLM, ChatGPT and AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 10:50:07](https://news.ycombinator.com/item?id=38950495) - [DJI's First Delivery Drone Takes Flight Globally](https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30)
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
 * [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)

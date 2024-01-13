@@ -88,6 +88,7 @@
 * [2024-01-11, 12:08:00](https://news.ycombinator.com/item?id=38951147) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 * [2024-01-11, 12:00:00](https://news.ycombinator.com/item?id=38951087) - [Great Question (YC W21) Is Hiring for Sales](https://www.ycombinator.com/companies/great-question/jobs/Jyl8JbP-senior-account-executive)
 * [2024-01-11, 11:59:32](https://news.ycombinator.com/item?id=38951084) - [Scammy AI-Generated Books Are Flooding Amazon](https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/)
+* [2024-01-11, 11:46:02](https://news.ycombinator.com/item?id=38950969) - [The 1xers Guide to LLM, ChatGPT and AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
 * [2024-01-11, 10:50:07](https://news.ycombinator.com/item?id=38950495) - [DJI's First Delivery Drone Takes Flight Globally](https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30)
