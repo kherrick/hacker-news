@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-13, 01:00:58",
+      "https://news.ycombinator.com/item?id=38976288"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 23:13:49",
+      "https://news.ycombinator.com/item?id=38975453"
+    ],
+    [
+      "Hidden Changes in GPT-4, Uncovered",
+      "https://dmicz.github.io/machine-learning/openai-changes/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 23:07:18",
+      "https://news.ycombinator.com/item?id=38975390"
+    ],
+    [
+      "Instagram's co-founders are shutting down their Artifact news app",
+      "https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 22:48:08",
       "https://news.ycombinator.com/item?id=38975226"
     ],
@@ -17,26 +47,6 @@
     [
       "revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR",
       "https://github.com/revng/revng"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 21:00:57",
-      "https://news.ycombinator.com/item?id=38973998"
-    ],
-    [
-      "Axle (YC S22) is hiring a senior product engineer",
-      "https://news.ycombinator.com/item?id=38973998"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 19:27:53",
-      "https://news.ycombinator.com/item?id=38972735"
-    ],
-    [
-      "OpenAI deletes ban on using ChatGPT for \"military and warfare\"",
-      "https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Show HN: Marimo – an open-source reactive notebook for Python",
       "https://github.com/marimo-team/marimo"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 17:52:47",
-      "https://news.ycombinator.com/item?id=38971409"
-    ],
-    [
-      "Kagi.com is unstable for all regions",
-      "https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Autophage rocket engine consumes plastic fuselage for fuel",
       "https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 15:21:49",
-      "https://news.ycombinator.com/item?id=38969072"
-    ],
-    [
-      "ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity",
-      "https://www.espressif.com/en/news/ESP32-C61_SoC"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Diamond Subpixel Arrangement Simulator",
       "https://mstdn.social/@RickyRomero/111666711075000961"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 05:53:13",
+      "https://news.ycombinator.com/item?id=38948292"
+    ],
+    [
+      "Margaret Cavendish: A Polymath Who Scandalized 17th-Century London",
+      "https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html"
     ]
   ]
 ]
