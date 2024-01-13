@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
+* [2024-01-13, 08:08:41](https://news.ycombinator.com/item?id=38978122) - [Show HN: The most beautiful ABAP report](https://ritschmaster.github.io/2023/09/25/The-most-beautiful-ABAP-report.html)
 * [2024-01-13, 07:00:19](https://news.ycombinator.com/item?id=38977902) - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-01-13, 05:16:46](https://news.ycombinator.com/item?id=38977532) - [Shadcn: Components that you can copy-paste into your apps](https://ui.shadcn.com/)
 * [2024-01-13, 05:13:46](https://news.ycombinator.com/item?id=38977516) - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
-* [2024-01-13, 04:37:08](https://news.ycombinator.com/item?id=38977366) - [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
 * [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 02:53:09](https://news.ycombinator.com/item?id=38976896) - [Rkyv: A zero-copy deserialization framework for rust](https://rkyv.org/)
@@ -27,7 +28,6 @@
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
-* [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
 * [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 * [2024-01-11, 05:28:44](https://news.ycombinator.com/item?id=38948122) - [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
 

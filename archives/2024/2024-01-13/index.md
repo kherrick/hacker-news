@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
+* [2024-01-13, 08:08:41](https://news.ycombinator.com/item?id=38978122) - [Show HN: The most beautiful ABAP report](https://ritschmaster.github.io/2023/09/25/The-most-beautiful-ABAP-report.html)
 * [2024-01-13, 07:00:19](https://news.ycombinator.com/item?id=38977902) - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-01-13, 05:16:46](https://news.ycombinator.com/item?id=38977532) - [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
 * [2024-01-13, 05:13:46](https://news.ycombinator.com/item?id=38977516) - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
