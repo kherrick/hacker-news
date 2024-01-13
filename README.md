@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-13, 16:49:18](https://news.ycombinator.com/item?id=38981723) - [Incels need more mental health help, have \"fundamental thinking errors\"](https://www.bbc.com/news/uk-wales-67770178)
 * [2024-01-13, 16:47:05](https://news.ycombinator.com/item?id=38981692) - [Python3 is removing crypt.crypt and not replacing it with anything](https://eighty-twenty.org/2024/01/13/python-crypt-shacrypt)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
@@ -16,7 +17,6 @@
 * [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [Updates on Grounding of Boeing 737 MAX 9 Aircraft](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
-* [2024-01-13, 10:25:08](https://news.ycombinator.com/item?id=38978665) - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 08:06:52](https://news.ycombinator.com/item?id=38978115) - [The more features you add](https://www.lukew.com/ff/entry.asp?2046)
