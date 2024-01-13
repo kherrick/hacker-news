@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-01-13, 05:13:46",
+      "https://news.ycombinator.com/item?id=38977516"
+    ],
+    [
+      "Triplit: Open-source DB that syncs data between server and browser in real-time",
+      "https://github.com/aspen-cloud/triplit"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 03:37:21",
       "https://news.ycombinator.com/item?id=38977128"
     ],
@@ -37,6 +47,16 @@
     [
       "Midlibrary: Library of 4000 Midjourney artistic styles",
       "https://midlibrary.io/styles"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 02:53:09",
+      "https://news.ycombinator.com/item?id=38976896"
+    ],
+    [
+      "Rkyv: A zero-copy deserialization framework for rust",
+      "https://rkyv.org/"
     ]
   ],
   [
@@ -201,36 +221,6 @@
   ],
   [
     [
-      "2024-01-12, 16:18:23",
-      "https://news.ycombinator.com/item?id=38969893"
-    ],
-    [
-      "Trilinear point splatting for real-time radiance field rendering",
-      "https://lfranke.github.io/trips/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 16:09:25",
-      "https://news.ycombinator.com/item?id=38969759"
-    ],
-    [
-      "Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking",
-      "https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 15:41:25",
-      "https://news.ycombinator.com/item?id=38969348"
-    ],
-    [
-      "Autophage rocket engine consumes plastic fuselage for fuel",
-      "https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 10:10:31",
       "https://news.ycombinator.com/item?id=38966213"
     ],
@@ -241,11 +231,21 @@
   ],
   [
     [
+      "2024-01-12, 09:00:37",
+      "https://news.ycombinator.com/item?id=38965717"
+    ],
+    [
+      "Font height differences between Windows and Mac (2019)",
+      "https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 06:11:59",
       "https://news.ycombinator.com/item?id=38964562"
     ],
     [
-      "The big alcohol study that didn't happen",
+      "The big alcohol study that didn't happen (2021)",
       "https://dynomight.net/alcohol-trial/"
     ]
   ],
