@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-13, 01:26:46",
+      "https://news.ycombinator.com/item?id=38976441"
+    ],
+    [
+      "People have been buried behind a Mississippi jail since 2016, attorney says",
+      "https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 01:00:58",
       "https://news.ycombinator.com/item?id=38976288"
     ],
@@ -27,6 +37,26 @@
     [
       "AWS Libcrypto for Rust",
       "https://github.com/aws/aws-lc-rs"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 23:37:42",
+      "https://news.ycombinator.com/item?id=38975656"
+    ],
+    [
+      "When I originally wrote the LGPL..",
+      "https://news.ycombinator.com/item?id=38966253"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 23:25:37",
+      "https://news.ycombinator.com/item?id=38975566"
+    ],
+    [
+      "HashLife – A memoized algorithm for Conway's Game of Life and cellular automata",
+      "https://en.wikipedia.org/wiki/Hashlife"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2024-01-12, 11:01:47",
-      "https://news.ycombinator.com/item?id=38966601"
-    ],
-    [
-      "CLI user experience case study",
-      "https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 09:57:48",
-      "https://news.ycombinator.com/item?id=38966129"
-    ],
-    [
-      "Mysticism and Empiricism",
-      "https://asteriskmag.com/issues/04/mysticism-empiricism"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 09:00:37",
       "https://news.ycombinator.com/item?id=38965717"
     ],
     [
       "Font height differences between Windows and Mac (2019)",
       "https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 07:05:30",
-      "https://news.ycombinator.com/item?id=38964972"
-    ],
-    [
-      "Unity's Open-Source Double Standard: The Ban of VLC",
-      "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-01-11, 12:15:10",
-      "https://news.ycombinator.com/item?id=38951214"
+      "2024-01-11, 09:49:04",
+      "https://news.ycombinator.com/item?id=38950000"
     ],
     [
-      "The largest US dam-removal effort to date has begun",
-      "https://arstechnica.com/science/2024/01/the-largest-us-dam-removal-effort-to-date-has-begun/"
+      "Axiom Computer Algebra system (in development since 1971)",
+      "http://www.axiom-developer.org/"
     ]
   ],
   [
