@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-13, 19:41:59",
+      "https://news.ycombinator.com/item?id=38983742"
+    ],
+    [
+      "AsmBB – a lightweight web forum engine written in assembly language",
+      "https://asmbb.org/what-is-asmbb.1/"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 18:41:10",
       "https://news.ycombinator.com/item?id=38983067"
     ],
@@ -17,6 +27,16 @@
     [
       "Peer review is an honor-based system",
       "https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 18:22:26",
+      "https://news.ycombinator.com/item?id=38982871"
+    ],
+    [
+      "European Remote Worker Index",
+      "https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Bosses are using RTO mandates as a way to blame employees as a scapegoat",
       "https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 17:06:54",
-      "https://news.ycombinator.com/item?id=38981921"
-    ],
-    [
-      "It's Time to Nationalize and Then Break Up Boeing",
-      "https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-01-13, 13:13:15",
-      "https://news.ycombinator.com/item?id=38979628"
-    ],
-    [
-      "Exploiting QUIC's Path Validation",
-      "https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 12:29:08",
       "https://news.ycombinator.com/item?id=38979356"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-01-13, 03:37:21",
+      "https://news.ycombinator.com/item?id=38977128"
+    ],
+    [
+      "A decade-old Steam bug",
+      "https://blog.freudenjmp.com/posts/no-user-logon/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 15:09:00",
       "https://news.ycombinator.com/item?id=38968899"
     ],
@@ -247,16 +257,6 @@
     [
       "\"Millennium Camera\" to take a 1k-year long-exposure photo",
       "https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 08:46:38",
-      "https://news.ycombinator.com/item?id=38965646"
-    ],
-    [
-      "Doing First Grade Math in Rust's Type System",
-      "https://fprasx.github.io/articles/type-system-arithmetic/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-01-11, 05:28:44",
-      "https://news.ycombinator.com/item?id=38948122"
+      "2024-01-10, 11:45:27",
+      "https://news.ycombinator.com/item?id=38938981"
     ],
     [
-      "Blur Radius Comparison",
-      "https://bjango.com/articles/blurradiuscomparison/"
+      "Our Generation Ships Will Sink (2015)",
+      "https://boingboing.net/2015/11/16/our-generation-ships-will-sink.html"
     ]
   ]
 ]
