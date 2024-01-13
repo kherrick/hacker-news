@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 23:13:49](https://news.ycombinator.com/item?id=38975453) - [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
+* [2024-01-12, 23:07:18](https://news.ycombinator.com/item?id=38975390) - [Instagram's co-founders are shutting down their Artifact news app](https://www.theverge.com/2024/1/12/24036539/artifact-shutting-down-kevin-systrom)
 * [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
 * [2024-01-12, 22:45:23](https://news.ycombinator.com/item?id=38975204) - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
 * [2024-01-12, 22:06:06](https://news.ycombinator.com/item?id=38974766) - [London mayor says Brexit has cost UK over $178B so far](https://www.reuters.com/world/uk/london-mayor-says-brexit-has-cost-uk-over-178-bln-so-far-2024-01-11/)

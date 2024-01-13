@@ -101,6 +101,7 @@
 * [2024-01-11, 06:43:52](https://news.ycombinator.com/item?id=38948642) - [HTML Spirograph (2021)](http://htmlspirograph.com/)
 * [2024-01-11, 06:14:51](https://news.ycombinator.com/item?id=38948444) - [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
 * [2024-01-11, 05:54:28](https://news.ycombinator.com/item?id=38948303) - [The Life and Death of the American Mall](https://www.atlasobscura.com/articles/the-life-and-death-of-the-suburban-american-mall)
+* [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 * [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
 * [2024-01-11, 05:31:58](https://news.ycombinator.com/item?id=38948137) - [MFA today is both 'simple' and non-trivial work](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork)
 * [2024-01-11, 05:30:49](https://news.ycombinator.com/item?id=38948130) - [The Un-Brie-Lievable History of Tyromancy](https://www.saveur.com/culture/tyromancy-cheese-divination/)
