@@ -76,6 +76,7 @@
 * [2024-01-12, 09:42:48](https://news.ycombinator.com/item?id=38966031) - [YouTube strikes again, it seems](https://old.reddit.com/r/youtube/comments/194aqmm/youtube_strikes_again_it_seems/)
 * [2024-01-12, 09:41:44](https://news.ycombinator.com/item?id=38966021) - [Is the Reproducibility Crisis Reproducible?](https://www.argmin.net/p/is-the-reproducibility-crisis-reproducible)
 * [2024-01-12, 09:33:53](https://news.ycombinator.com/item?id=38965965) - [Partitioning Postgres tables by timestamp based UUIDs](https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916)
+* [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
 * [2024-01-12, 09:05:33](https://news.ycombinator.com/item?id=38965762) - [Phi-2: Self-Extend Boosts Performance, Extends Context to 8k Without Training](https://old.reddit.com/r/LocalLLaMA/comments/194mmki/selfextend_works_for_phi2_now_looks_good)
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
