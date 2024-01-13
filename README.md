@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 * [2024-01-13, 08:04:15](https://news.ycombinator.com/item?id=38978107) - [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
 * [2024-01-13, 07:49:53](https://news.ycombinator.com/item?id=38978067) - [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
@@ -18,7 +19,6 @@
 * [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 * [2024-01-12, 21:23:45](https://news.ycombinator.com/item?id=38974305) - [My Experiences Attending NeurIPS 2023](https://awaisrauf.github.io/deepCuriosity/Attending-NeurIPS2023)
-* [2024-01-12, 19:01:00](https://news.ycombinator.com/item?id=38972358) - [Show HN: RemoteStorage – sync localStorage across devices and browsers](https://github.com/FrigadeHQ/remote-storage)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
 * [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 * [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
