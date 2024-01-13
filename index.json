@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-13, 15:45:00",
-      "https://news.ycombinator.com/item?id=38980963"
-    ],
-    [
-      "A tiny radioactive battery could keep your future phone running for 50 years",
-      "https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 15:29:28",
       "https://news.ycombinator.com/item?id=38980793"
     ],
@@ -57,6 +47,16 @@
     [
       "The Global Project to Make a General Robotic Brain",
       "https://spectrum.ieee.org/global-robotic-brain"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 13:13:15",
+      "https://news.ycombinator.com/item?id=38979628"
+    ],
+    [
+      "Exploiting QUIC's Path Validation",
+      "https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/"
     ]
   ],
   [
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2024-01-13, 09:47:45",
-      "https://news.ycombinator.com/item?id=38978503"
-    ],
-    [
-      "Cloudflare Termination Video: A Master Class in How Not to Terminate Someone",
-      "https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 08:59:40",
       "https://news.ycombinator.com/item?id=38978289"
     ],
     [
       "Apple hiring compiler developers for improving Swift / C++ interoperability",
       "https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 07:49:53",
+      "https://news.ycombinator.com/item?id=38978067"
+    ],
+    [
+      "A first dip into OS kernel development with xv6 and the 6.1810 labs",
+      "https://jannestimm.com/posts/xv6/"
     ]
   ],
   [
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2024-01-12, 23:25:37",
-      "https://news.ycombinator.com/item?id=38975566"
-    ],
-    [
-      "HashLife – A memoized algorithm for Conway's Game of Life and cellular automata",
-      "https://en.wikipedia.org/wiki/Hashlife"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 22:10:02",
       "https://news.ycombinator.com/item?id=38974802"
     ],
     [
       "On Sleeper Agent LLMs",
       "https://twitter.com/karpathy/status/1745921205020799433"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 21:31:59",
-      "https://news.ycombinator.com/item?id=38974404"
-    ],
-    [
-      "Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training",
-      "https://arxiv.org/abs/2401.05566"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2024-01-12, 17:38:56",
+      "https://news.ycombinator.com/item?id=38971221"
+    ],
+    [
+      "Vector Databases: A Technical Primer [pdf]",
+      "https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 15:09:00",
       "https://news.ycombinator.com/item?id=38968899"
     ],
     [
       "How to solve the \"Mastermind\" guessing game? (2009)",
       "https://stackoverflow.com/questions/1185634/how-to-solve-the-mastermind-guessing-game"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 10:10:31",
+      "https://news.ycombinator.com/item?id=38966213"
+    ],
+    [
+      "The Magic of the Blackboard",
+      "https://nautil.us/the-magic-of-the-blackboard-487759/"
     ]
   ],
   [
