@@ -10,6 +10,7 @@
 * [2024-01-13, 16:47:05](https://news.ycombinator.com/item?id=38981692) - [Python3 is removing crypt.crypt and not replacing it with anything](https://eighty-twenty.org/2024/01/13/python-crypt-shacrypt)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:33:38](https://news.ycombinator.com/item?id=38981522) - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
+* [2024-01-13, 16:29:12](https://news.ycombinator.com/item?id=38981463) - [Norway to allow mining waste to be dumped in fjords](https://www.theguardian.com/world/2024/jan/12/norway-to-allow-mining-waste-to-be-dumped-in-fjords)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 15:45:00](https://news.ycombinator.com/item?id=38980963) - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
 * [2024-01-13, 15:37:58](https://news.ycombinator.com/item?id=38980882) - [Decoding the Delegate in C#](https://blog.upperdine.dev/decoding-the-delegate-in-csharp)
