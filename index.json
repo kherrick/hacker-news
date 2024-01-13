@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2024-01-12, 22:48:08",
-      "https://news.ycombinator.com/item?id=38975226"
-    ],
-    [
-      "Xbox Multiplayer Analysis Tool",
-      "https://github.com/microsoft/xbox-multiplayer-analysis-tool"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 22:45:23",
-      "https://news.ycombinator.com/item?id=38975204"
-    ],
-    [
-      "revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR",
-      "https://github.com/revng/revng"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 22:10:02",
       "https://news.ycombinator.com/item?id=38974802"
     ],
@@ -207,6 +187,16 @@
     [
       "Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training",
       "https://arxiv.org/abs/2401.05566"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 18:46:39",
+      "https://news.ycombinator.com/item?id=38972153"
+    ],
+    [
+      "DevDocs",
+      "https://devdocs.io"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "I Found David Lynch's Lost 'Dune II' Script",
       "https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 09:49:04",
+      "https://news.ycombinator.com/item?id=38950000"
+    ],
+    [
+      "Axiom Computer Algebra system (in development since 1971)",
+      "http://www.axiom-developer.org/"
     ]
   ],
   [
