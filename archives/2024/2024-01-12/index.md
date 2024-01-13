@@ -18,6 +18,7 @@
 * [2024-01-12, 21:26:14](https://news.ycombinator.com/item?id=38974330) - [Ask HN: How can I get out of tech?](https://news.ycombinator.com/item?id=38974330)
 * [2024-01-12, 21:23:45](https://news.ycombinator.com/item?id=38974305) - [My Experiences Attending NeurIPS 2023](https://awaisrauf.github.io/deepCuriosity/Attending-NeurIPS2023)
 * [2024-01-12, 21:00:57](https://news.ycombinator.com/item?id=38973998) - [Axle (YC S22) – Hiring for Senior Product Engineer](https://news.ycombinator.com/item?id=38973998)
+* [2024-01-12, 20:58:33](https://news.ycombinator.com/item?id=38973958) - [Multiply – a book about calculators I helped create](https://benjamin.computer/posts/2022-08-17-calculators.html)
 * [2024-01-12, 20:49:31](https://news.ycombinator.com/item?id=38973827) - [Google's Tensor Processing Units could have been developed using stolen designs](https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/)
 * [2024-01-12, 20:27:08](https://news.ycombinator.com/item?id=38973517) - [Why can't today's young adults leave the nest? Blame high housing costs](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html)
 * [2024-01-12, 20:24:25](https://news.ycombinator.com/item?id=38973476) - [Centralized or Decentralized There Is No Question](https://puri.sm/posts/centralized-or-decentralized-there-is-no-question/)

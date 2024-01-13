@@ -41,6 +41,7 @@
 * [2024-01-13, 14:48:12](https://news.ycombinator.com/item?id=38980392) - [A rise in oral nicotine pouch use raises health concerns for high schoolers](https://smeharbinger.net/a-smokeless-buzz-a-rise-in-oral-nicotine-pouch-use-raises-health-concerns-for-high-schoolers/)
 * [2024-01-13, 14:44:39](https://news.ycombinator.com/item?id=38980358) - [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 * [2024-01-13, 14:25:19](https://news.ycombinator.com/item?id=38980171) - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
+* [2024-01-13, 14:03:12](https://news.ycombinator.com/item?id=38979970) - [Austin takes a bet on tiny homes to ease homelessness](https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:13:15](https://news.ycombinator.com/item?id=38979628) - [Exploiting QUIC's Path Validation](https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
