@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 02:39:54](https://news.ycombinator.com/item?id=38976827) - [Trying to use Firebase is the most horrible experience in my life](https://news.ycombinator.com/item?id=38976827)
 * [2024-01-13, 01:26:46](https://news.ycombinator.com/item?id=38976441) - [People have been buried behind a Mississippi jail since 2016, attorney says](https://www.npr.org/2024/01/12/1224449631/mississippi-jail-graves-investigation)
 * [2024-01-13, 01:00:58](https://news.ycombinator.com/item?id=38976288) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)

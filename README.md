@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 01:00:58](https://news.ycombinator.com/item?id=38976288) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2024-01-13, 00:56:35](https://news.ycombinator.com/item?id=38976254) - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 * [2024-01-13, 00:11:00](https://news.ycombinator.com/item?id=38975912) - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
@@ -27,7 +28,6 @@
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
 * [2024-01-11, 10:50:07](https://news.ycombinator.com/item?id=38950495) - [DJI's First Delivery Drone Takes Flight Globally](https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30)
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
-* [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
 * [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 
