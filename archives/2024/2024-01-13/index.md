@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
+* [2024-01-13, 16:49:18](https://news.ycombinator.com/item?id=38981723) - [Incels need more mental health help, have \"fundamental thinking errors\"](https://www.bbc.com/news/uk-wales-67770178)
+* [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:33:38](https://news.ycombinator.com/item?id=38981522) - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
+* [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 15:45:00](https://news.ycombinator.com/item?id=38980963) - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
 * [2024-01-13, 15:37:58](https://news.ycombinator.com/item?id=38980882) - [Decoding the Delegate in C#](https://blog.upperdine.dev/decoding-the-delegate-in-csharp)
 * [2024-01-13, 15:29:28](https://news.ycombinator.com/item?id=38980793) - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
