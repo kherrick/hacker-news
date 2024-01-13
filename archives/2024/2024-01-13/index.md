@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 17:26:52](https://news.ycombinator.com/item?id=38982191) - [Bosses are using RTO mandates as a way to blame employees as a scapegoat](https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/)
 * [2024-01-13, 17:06:54](https://news.ycombinator.com/item?id=38981921) - [It's Time to Nationalize and Then Break Up Boeing](https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then)
 * [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)

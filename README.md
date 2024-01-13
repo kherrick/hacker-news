@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 17:26:52](https://news.ycombinator.com/item?id=38982191) - [Bosses are using RTO mandates as a way to blame employees as a scapegoat](https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/)
 * [2024-01-13, 17:06:54](https://news.ycombinator.com/item?id=38981921) - [It's Time to Nationalize and Then Break Up Boeing](https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then)
 * [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
@@ -25,7 +26,6 @@
 * [2024-01-13, 05:13:46](https://news.ycombinator.com/item?id=38977516) - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
 * [2024-01-12, 15:09:00](https://news.ycombinator.com/item?id=38968899) - [How to solve the \"Mastermind\" guessing game? (2009)](https://stackoverflow.com/questions/1185634/how-to-solve-the-mastermind-guessing-game)
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
-* [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
 * [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [Prompts for Work and Play: Launching the Wolfram Prompt Repository](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
 * [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 * [2024-01-11, 10:47:19](https://news.ycombinator.com/item?id=38950466) - [I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
