@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-13, 05:16:46",
+      "https://news.ycombinator.com/item?id=38977532"
+    ],
+    [
+      "Shadcn: Beautifully designed components that you can copy-paste into your apps",
+      "https://ui.shadcn.com/"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 03:37:21",
       "https://news.ycombinator.com/item?id=38977128"
     ],
@@ -47,16 +57,6 @@
     [
       "AWS Libcrypto for Rust",
       "https://github.com/aws/aws-lc-rs"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 23:37:42",
-      "https://news.ycombinator.com/item?id=38975656"
-    ],
-    [
-      "When I originally wrote the LGPL..",
-      "https://news.ycombinator.com/item?id=38966253"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-01-12, 18:44:52",
+      "https://news.ycombinator.com/item?id=38972131"
+    ],
+    [
+      "Perception: A back-port of Observable",
+      "https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 18:33:17",
       "https://news.ycombinator.com/item?id=38971966"
     ],
@@ -197,16 +207,6 @@
     [
       "Trilinear point splatting for real-time radiance field rendering",
       "https://lfranke.github.io/trips/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 16:09:25",
-      "https://news.ycombinator.com/item?id=38969759"
-    ],
-    [
-      "Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking",
-      "https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/"
     ]
   ],
   [
