@@ -23,11 +23,11 @@
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
 * [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
-* [2024-01-12, 07:05:30](https://news.ycombinator.com/item?id=38964972) - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
 * [2024-01-11, 10:50:07](https://news.ycombinator.com/item?id=38950495) - [DJI's First Delivery Drone Takes Flight Globally](https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30)
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
+* [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
 * [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 
