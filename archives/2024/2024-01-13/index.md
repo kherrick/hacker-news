@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
 * [2024-01-13, 09:46:17](https://news.ycombinator.com/item?id=38978493) - [Why Are More Boys Than Girls Retarded in School? (1928)](https://www.jstor.org/stable/995446)
+* [2024-01-13, 09:30:18](https://news.ycombinator.com/item?id=38978418) - [Sama says \"build for GPT-5 and AGI Now; GPT-5 in 2024, AGI in 2025\"](https://twitter.com/H0wie_Xu/status/1745657992459272423)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 08:15:51](https://news.ycombinator.com/item?id=38978142) - [Live record of being fired from Cloudflare during a redundancy plan [video]](https://twitter.com/svpino/status/1745971021654503778)
 * [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
