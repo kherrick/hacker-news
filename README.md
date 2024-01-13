@@ -2,6 +2,7 @@
 
 * [2024-01-13, 09:30:18](https://news.ycombinator.com/item?id=38978418) - [Sama says \"build for GPT-5 and AGI Now; GPT-5 in 2024, AGI in 2025\"](https://twitter.com/H0wie_Xu/status/1745657992459272423)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
+* [2024-01-13, 08:15:51](https://news.ycombinator.com/item?id=38978142) - [Live record of being fired from Cloudflare during a redundancy plan [video]](https://twitter.com/svpino/status/1745971021654503778)
 * [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 * [2024-01-13, 08:04:15](https://news.ycombinator.com/item?id=38978107) - [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
 * [2024-01-13, 07:49:53](https://news.ycombinator.com/item?id=38978067) - [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
@@ -19,7 +20,6 @@
 * [2024-01-12, 22:45:23](https://news.ycombinator.com/item?id=38975204) - [revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR](https://github.com/revng/revng)
 * [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
-* [2024-01-12, 21:23:45](https://news.ycombinator.com/item?id=38974305) - [My Experiences Attending NeurIPS 2023](https://awaisrauf.github.io/deepCuriosity/Attending-NeurIPS2023)
 * [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
