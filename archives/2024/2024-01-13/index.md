@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 15:45:00](https://news.ycombinator.com/item?id=38980963) - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
+* [2024-01-13, 15:37:58](https://news.ycombinator.com/item?id=38980882) - [Decoding the Delegate in C#](https://blog.upperdine.dev/decoding-the-delegate-in-csharp)
 * [2024-01-13, 14:58:26](https://news.ycombinator.com/item?id=38980501) - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
 * [2024-01-13, 14:52:08](https://news.ycombinator.com/item?id=38980447) - [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
 * [2024-01-13, 14:50:49](https://news.ycombinator.com/item?id=38980428) - [Don't Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 15:45:00](https://news.ycombinator.com/item?id=38980963) - [A tiny radioactive battery could keep your future phone running for 50 years](https://www.techradar.com/phones/a-tiny-radioactive-battery-could-keep-your-phone-running-for-50-years)
+* [2024-01-13, 15:37:58](https://news.ycombinator.com/item?id=38980882) - [Decoding the Delegate in C#](https://blog.upperdine.dev/decoding-the-delegate-in-csharp)
 * [2024-01-13, 14:58:26](https://news.ycombinator.com/item?id=38980501) - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
 * [2024-01-13, 14:50:49](https://news.ycombinator.com/item?id=38980428) - [Don't Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
-* [2024-01-13, 14:44:39](https://news.ycombinator.com/item?id=38980358) - [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 * [2024-01-13, 14:25:19](https://news.ycombinator.com/item?id=38980171) - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
@@ -23,11 +24,10 @@
 * [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 * [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
-* [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 15:09:00](https://news.ycombinator.com/item?id=38968899) - [How to solve the \"Mastermind\" guessing game? (2009)](https://stackoverflow.com/questions/1185634/how-to-solve-the-mastermind-guessing-game)
-* [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
+* [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 * [2024-01-11, 10:47:19](https://news.ycombinator.com/item?id=38950466) - [I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
 * [2024-01-11, 05:28:44](https://news.ycombinator.com/item?id=38948122) - [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
 
