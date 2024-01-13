@@ -90,6 +90,7 @@
 * [2024-01-11, 11:59:32](https://news.ycombinator.com/item?id=38951084) - [Scammy AI-Generated Books Are Flooding Amazon](https://www.wired.com/story/scammy-ai-generated-books-flooding-amazon/)
 * [2024-01-11, 11:17:08](https://news.ycombinator.com/item?id=38950721) - [Tell HN: Bash.org Is No More](https://news.ycombinator.com/item?id=38950721)
 * [2024-01-11, 11:06:52](https://news.ycombinator.com/item?id=38950635) - [Edge Detection for Image Processing](https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing)
+* [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
 * [2024-01-11, 09:45:57](https://news.ycombinator.com/item?id=38949966) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 09:36:13](https://news.ycombinator.com/item?id=38949883) - [Demonstrating Cybertruck's dangerous lack of pinch sensors](https://www.threads.net/@hoon_kim/post/C17YnVWvaJ6)
 * [2024-01-11, 09:33:02](https://news.ycombinator.com/item?id=38949856) - [Meta unlawfully ignores the users' right to easily withdraw consent](https://noyb.eu/en/meta-ignores-users-right-easily-withdraw-consent)
