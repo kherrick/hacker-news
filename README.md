@@ -23,7 +23,7 @@
 * [2024-01-12, 17:36:07](https://news.ycombinator.com/item?id=38971178) - [The current state of OpenTelemetry](https://signoz.io/blog/opentelemetry-roundup-2023/)
 * [2024-01-12, 17:27:10](https://news.ycombinator.com/item?id=38971012) - [I'm sorry but I cannot fulfill this request it goes against OpenAI use policy](https://www.amazon.com/fulfill-request-respectful-information-users-Brown/dp/B0CM82FJL2)
 * [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
-* [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
+* [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 * [2024-01-12, 06:11:59](https://news.ycombinator.com/item?id=38964562) - [The big alcohol study that didn't happen (2021)](https://dynomight.net/alcohol-trial/)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
