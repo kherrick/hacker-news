@@ -65,6 +65,7 @@
 * [2024-01-10, 13:17:04](https://news.ycombinator.com/item?id=38939098) - [Abykus – A free spreadsheet application for windows](https://www.abykus.com/)
 * [2024-01-10, 13:10:24](https://news.ycombinator.com/item?id=38939070) - [Lego Mechanical Computer](https://www.drmoron.org/posts/mechanical-computer/)
 * [2024-01-10, 12:00:28](https://news.ycombinator.com/item?id=38939044) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-01-10, 11:45:27](https://news.ycombinator.com/item?id=38938981) - [Our Generation Ships Will Sink (2015)](https://boingboing.net/2015/11/16/our-generation-ships-will-sink.html)
 * [2024-01-10, 10:29:38](https://news.ycombinator.com/item?id=38938616) - [AWS cancels serverless Postgres service that scales to zero](https://www.datanami.com/2024/01/08/aws-cancels-serverless-postgres-service-that-scales-to-zero/)
 * [2024-01-10, 10:22:14](https://news.ycombinator.com/item?id=38938562) - [Helio: Libre Music Composition Software](https://helio.fm/)
 * [2024-01-10, 10:15:19](https://news.ycombinator.com/item?id=38938506) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)

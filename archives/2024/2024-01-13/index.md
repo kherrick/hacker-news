@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 * [2024-01-13, 18:41:21](https://news.ycombinator.com/item?id=38983070) - [Teacher held in solitary confinement for posting concern about Gaza deaths](https://www.theguardian.com/world/2024/jan/13/it-is-a-time-of-witch-hunts-in-israel-teacher-held-in-solitary-confinement-for-posting-concern-about-gaza-deaths)
 * [2024-01-13, 18:41:10](https://news.ycombinator.com/item?id=38983067) - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 * [2024-01-13, 18:26:52](https://news.ycombinator.com/item?id=38982912) - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
+* [2024-01-13, 18:22:26](https://news.ycombinator.com/item?id=38982871) - [European Remote Worker Index](https://www.brother.co.uk/business-solutions/hybrid-working/european-remote-worker-index)
 * [2024-01-13, 18:14:22](https://news.ycombinator.com/item?id=38982773) - [Ping: the atomized social media network](https://ping.hz.tn/p/ca285985-c181-41b6-aacf-2a7b78fe858d/)
 * [2024-01-13, 17:40:07](https://news.ycombinator.com/item?id=38982389) - [Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
 * [2024-01-13, 17:26:52](https://news.ycombinator.com/item?id=38982191) - [Bosses are using RTO mandates as a way to blame employees as a scapegoat](https://fortune.com/2024/01/13/managers-scapegoating-workers-return-to-office/)
