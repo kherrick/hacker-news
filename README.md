@@ -2,6 +2,7 @@
 
 * [2024-01-13, 14:58:26](https://news.ycombinator.com/item?id=38980501) - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
 * [2024-01-13, 14:50:49](https://news.ycombinator.com/item?id=38980428) - [Don't Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
+* [2024-01-13, 14:44:39](https://news.ycombinator.com/item?id=38980358) - [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 * [2024-01-13, 14:25:19](https://news.ycombinator.com/item?id=38980171) - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
@@ -18,7 +19,6 @@
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 02:53:09](https://news.ycombinator.com/item?id=38976896) - [Rkyv: A zero-copy deserialization framework for rust](https://rkyv.org/)
 * [2024-01-13, 00:56:35](https://news.ycombinator.com/item?id=38976254) - [Generalized K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
-* [2024-01-13, 00:11:00](https://news.ycombinator.com/item?id=38975912) - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
 * [2024-01-12, 23:25:37](https://news.ycombinator.com/item?id=38975566) - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 * [2024-01-12, 22:10:02](https://news.ycombinator.com/item?id=38974802) - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
