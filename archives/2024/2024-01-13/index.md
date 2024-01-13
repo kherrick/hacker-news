@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+* [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
+* [2024-01-13, 09:47:45](https://news.ycombinator.com/item?id=38978503) - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 * [2024-01-13, 09:46:17](https://news.ycombinator.com/item?id=38978493) - [Why Are More Boys Than Girls Retarded in School? (1928)](https://www.jstor.org/stable/995446)
 * [2024-01-13, 09:30:18](https://news.ycombinator.com/item?id=38978418) - [Sama says \"build for GPT-5 and AGI Now; GPT-5 in 2024, AGI in 2025\"](https://twitter.com/H0wie_Xu/status/1745657992459272423)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
