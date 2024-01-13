@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
 * [2024-01-13, 20:47:26](https://news.ycombinator.com/item?id=38984385) - [The Exciting History of Carbon Paper! (1995)](http://www.kevinlaurence.net/essays/cc.php)
@@ -22,7 +23,6 @@
 * [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
-* [2024-01-13, 08:06:52](https://news.ycombinator.com/item?id=38978115) - [The more features you add](https://www.lukew.com/ff/entry.asp?2046)
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
