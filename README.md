@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 22:44:14](https://news.ycombinator.com/item?id=38985409) - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
@@ -29,7 +30,6 @@
 * [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [Prompts for Work and Play: Launching the Wolfram Prompt Repository](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
 * [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 * [2024-01-11, 10:47:19](https://news.ycombinator.com/item?id=38950466) - [I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
-* [2024-01-10, 11:45:27](https://news.ycombinator.com/item?id=38938981) - [Our Generation Ships Will Sink (2015)](https://boingboing.net/2015/11/16/our-generation-ships-will-sink.html)
 
 ## [Archives](archives/index.md)
 
