@@ -94,6 +94,7 @@
 * [2024-01-12, 06:28:43](https://news.ycombinator.com/item?id=38964675) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2024-01-12, 06:28:07](https://news.ycombinator.com/item?id=38964670) - [Open Source Carta Alternative – Cap.octolane.com](https://cap.octolane.com)
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
+* [2024-01-12, 06:11:59](https://news.ycombinator.com/item?id=38964562) - [The big alcohol study that didn't happen](https://dynomight.net/alcohol-trial/)
 * [2024-01-12, 05:48:18](https://news.ycombinator.com/item?id=38964427) - [Cloudflare employee records meeting where she is layed off](https://twitter.com/anothercohen/status/1745660032832696782)
 * [2024-01-12, 05:27:31](https://news.ycombinator.com/item?id=38964242) - [The case of the vector with an impossibly large size](https://devblogs.microsoft.com/oldnewthing/20240105-00/?p=109242)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
