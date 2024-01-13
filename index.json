@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-01-13, 16:47:05",
+      "https://news.ycombinator.com/item?id=38981692"
+    ],
+    [
+      "Python3 is removing crypt.crypt and not replacing it with anything",
+      "https://eighty-twenty.org/2024/01/13/python-crypt-shacrypt"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 16:43:29",
       "https://news.ycombinator.com/item?id=38981639"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2024-01-13, 13:04:14",
-      "https://news.ycombinator.com/item?id=38979583"
+      "2024-01-13, 13:13:15",
+      "https://news.ycombinator.com/item?id=38979628"
     ],
     [
-      "Jodorowsky's Dune – Official Trailer HD (2014)",
-      "https://www.youtube.com/watch?v=m0cJNR8HEw0"
+      "Exploiting QUIC's Path Validation",
+      "https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Rkyv: A zero-copy deserialization framework for rust",
       "https://rkyv.org/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 22:10:02",
-      "https://news.ycombinator.com/item?id=38974802"
-    ],
-    [
-      "On Sleeper Agent LLMs",
-      "https://twitter.com/karpathy/status/1745921205020799433"
     ]
   ],
   [
