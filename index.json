@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-01-13, 15:37:58",
-      "https://news.ycombinator.com/item?id=38980882"
+      "2024-01-13, 15:29:28",
+      "https://news.ycombinator.com/item?id=38980793"
     ],
     [
-      "Decoding the Delegate in C#",
-      "https://blog.upperdine.dev/decoding-the-delegate-in-csharp"
+      "A site that tracks the price of a Big Mac in every US McDonald's",
+      "https://pantryandlarder.com/mccheapest"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Test Can Tell How Likely a Young Driver Is to Crash",
       "https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 14:50:49",
-      "https://news.ycombinator.com/item?id=38980428"
-    ],
-    [
-      "Don't Fire People for Making Pornography in Their Free Time",
-      "https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "The Global Project to Make a General Robotic Brain",
       "https://spectrum.ieee.org/global-robotic-brain"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 13:13:15",
+      "https://news.ycombinator.com/item?id=38979628"
+    ],
+    [
+      "Exploiting QUIC's Path Validation",
+      "https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-01-13, 00:56:35",
-      "https://news.ycombinator.com/item?id=38976254"
-    ],
-    [
-      "Generalized K-Means Clustering",
-      "https://github.com/derrickburns/generalized-kmeans-clustering"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 23:25:37",
       "https://news.ycombinator.com/item?id=38975566"
     ],
@@ -237,6 +227,16 @@
     [
       "Perception: A back-port of Observable",
       "https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 17:38:56",
+      "https://news.ycombinator.com/item?id=38971221"
+    ],
+    [
+      "Vector Databases: A Technical Primer [pdf]",
+      "https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf"
     ]
   ],
   [
