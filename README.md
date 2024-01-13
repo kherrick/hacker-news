@@ -5,6 +5,7 @@
 * [2024-01-13, 01:00:58](https://news.ycombinator.com/item?id=38976288) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2024-01-13, 00:56:35](https://news.ycombinator.com/item?id=38976254) - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
 * [2024-01-13, 00:11:00](https://news.ycombinator.com/item?id=38975912) - [AWS Libcrypto for Rust](https://github.com/aws/aws-lc-rs)
+* [2024-01-12, 23:37:42](https://news.ycombinator.com/item?id=38975656) - [When I originally wrote the LGPL..](https://news.ycombinator.com/item?id=38966253)
 * [2024-01-12, 23:25:37](https://news.ycombinator.com/item?id=38975566) - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 * [2024-01-12, 23:13:49](https://news.ycombinator.com/item?id=38975453) - [Hidden Changes in GPT-4, Uncovered](https://dmicz.github.io/machine-learning/openai-changes/)
 * [2024-01-12, 22:48:08](https://news.ycombinator.com/item?id=38975226) - [Xbox Multiplayer Analysis Tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool)
@@ -28,7 +29,6 @@
 * [2024-01-11, 11:46:02](https://news.ycombinator.com/item?id=38950969) - [The 1xers Guide to LLM, ChatGPT and AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 10:50:07](https://news.ycombinator.com/item?id=38950495) - [DJI's First Delivery Drone Takes Flight Globally](https://www.dji.com/nl/newsroom/news/dji-launch-fly-cart-30)
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
-* [2024-01-11, 06:45:06](https://news.ycombinator.com/item?id=38948652) - [Diamond Subpixel Arrangement Simulator](https://mstdn.social/@RickyRomero/111666711075000961)
 * [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 
 ## [Archives](archives/index.md)
