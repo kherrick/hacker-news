@@ -108,6 +108,7 @@
 * [2024-01-11, 05:48:16](https://news.ycombinator.com/item?id=38948259) - [The golden age of Kotlin and its uncertain future](https://shiftmag.dev/kotlin-vs-java-2392/)
 * [2024-01-11, 05:31:58](https://news.ycombinator.com/item?id=38948137) - [MFA today is both 'simple' and non-trivial work](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork)
 * [2024-01-11, 05:30:49](https://news.ycombinator.com/item?id=38948130) - [The Un-Brie-Lievable History of Tyromancy](https://www.saveur.com/culture/tyromancy-cheese-divination/)
+* [2024-01-11, 05:28:44](https://news.ycombinator.com/item?id=38948122) - [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
 * [2024-01-11, 05:25:07](https://news.ycombinator.com/item?id=38948091) - [epoll: The API that powers the modern internet (2022)](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-11, 04:38:11](https://news.ycombinator.com/item?id=38947658) - [Meta layoffs: all TPMs in Instagram laidoff today](https://www.teamblind.com/post/Meta-layoffs-all-TPMs-in-Instagram-laidoff-today-2MQcPFcy)
 * [2024-01-11, 04:36:56](https://news.ycombinator.com/item?id=38947654) - [Google Lays Off Hundreds in Hardware, Voice Assistant Teams](https://www.bloomberg.com/news/articles/2024-01-11/google-lays-off-hundreds-in-hardware-voice-assistant-teams)
