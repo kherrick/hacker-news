@@ -22,7 +22,7 @@
 * [2024-01-12, 15:41:25](https://news.ycombinator.com/item?id=38969348) - [Autophage rocket engine consumes plastic fuselage for fuel](https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel)
 * [2024-01-12, 13:48:18](https://news.ycombinator.com/item?id=38967855) - [Engineers test autophage rocket engine](https://www.aerospacetestinginternational.com/news/engine-testing/engineers-test-autophage-rocket-engine-fueled-by-its-own-fuselage.html)
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
-* [2024-01-12, 13:30:34](https://news.ycombinator.com/item?id=38967684) - [Show HN: Run Stable Diffusion Directly on iPhone](https://apps.apple.com/us/app/amazing-ai/id1660147028?platform=iphone)
+* [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-11, 17:03:22](https://news.ycombinator.com/item?id=38955018) - [Attack of the Week: Airdrop Tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-11, 12:30:50](https://news.ycombinator.com/item?id=38951347) - [Reverse-engineering the Yamaha DX7 synthesizer's sound chip from die photos (2021)](http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html)
