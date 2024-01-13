@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
+* [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [2024-01-13, 19:56:32](https://news.ycombinator.com/item?id=38983886) - [Weather intelligence and cutting-edge tech is boosting grid capacity by 30%](https://electrek.co/2023/12/07/heimdall-power-meteomatics-grid-capacity-30-percent/)
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 * [2024-01-13, 19:38:12](https://news.ycombinator.com/item?id=38983687) - [\"Magic Balls\" installed by drones may revolutionize US power grid](https://www.thecooldown.com/green-tech/magic-balls-power-lines-heimdall/)
 * [2024-01-13, 19:29:17](https://news.ycombinator.com/item?id=38983608) - [Exposed RSS](https://chriscoyier.net/2024/01/13/exposed-rss/)
+* [2024-01-13, 19:28:12](https://news.ycombinator.com/item?id=38983594) - [ArchiveBox – open-source self-hosted web archiving](https://archivebox.io/)
 * [2024-01-13, 18:41:21](https://news.ycombinator.com/item?id=38983070) - [Teacher held in solitary confinement for posting concern about Gaza deaths](https://www.theguardian.com/world/2024/jan/13/it-is-a-time-of-witch-hunts-in-israel-teacher-held-in-solitary-confinement-for-posting-concern-about-gaza-deaths)
 * [2024-01-13, 18:41:10](https://news.ycombinator.com/item?id=38983067) - [Ask HN: Who else is working on nothing?](https://news.ycombinator.com/item?id=38983067)
 * [2024-01-13, 18:26:52](https://news.ycombinator.com/item?id=38982912) - [Peer review is an honor-based system](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
