@@ -95,6 +95,7 @@
 * [2024-01-12, 07:03:19](https://news.ycombinator.com/item?id=38964958) - [Keycloak open redirect: wildcard redirect URIs can be exploited to steal tokens](https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/)
 * [2024-01-12, 07:02:38](https://news.ycombinator.com/item?id=38964952) - [Programming Language for Ternary Computing](https://github.com/nirvanasupermind/owlet)
 * [2024-01-12, 07:00:52](https://news.ycombinator.com/item?id=38964933) - [CircuitHub (YC W12) Is Hiring – Haskell / Robotics / Remote](https://discourse.haskell.org/t/circuithub-is-hiring-haskell-engineers-remote/8519)
+* [2024-01-12, 06:55:15](https://news.ycombinator.com/item?id=38964884) - [Asus Zenbook Duo 2024](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/)
 * [2024-01-12, 06:49:13](https://news.ycombinator.com/item?id=38964824) - [Java String Interpolation final in Java 23](https://openjdk.org/jeps/8323333)
 * [2024-01-12, 06:35:59](https://news.ycombinator.com/item?id=38964730) - [The United States Just Grew by 1M Square Kilometers in Size](https://www.iflscience.com/the-united-states-just-grew-by-1-million-kilometers-in-size-72412)
 * [2024-01-12, 06:28:43](https://news.ycombinator.com/item?id=38964675) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)

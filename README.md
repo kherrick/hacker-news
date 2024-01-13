@@ -20,16 +20,16 @@
 * [2024-01-13, 15:29:28](https://news.ycombinator.com/item?id=38980793) - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
 * [2024-01-13, 14:03:12](https://news.ycombinator.com/item?id=38979970) - [Austin takes a bet on tiny homes to ease homelessness](https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
-* [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
-* [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-12, 20:58:33](https://news.ycombinator.com/item?id=38973958) - [Multiply – a book about calculators I helped create](https://benjamin.computer/posts/2022-08-17-calculators.html)
 * [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
+* [2024-01-12, 06:55:15](https://news.ycombinator.com/item?id=38964884) - [Asus Zenbook Duo 2024](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/)
 * [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [Prompts for Work and Play: Launching the Wolfram Prompt Repository](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
 * [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)
 * [2024-01-11, 10:47:19](https://news.ycombinator.com/item?id=38950466) - [I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
+* [2024-01-10, 11:45:27](https://news.ycombinator.com/item?id=38938981) - [Our Generation Ships Will Sink (2015)](https://boingboing.net/2015/11/16/our-generation-ships-will-sink.html)
 
 ## [Archives](archives/index.md)
 
