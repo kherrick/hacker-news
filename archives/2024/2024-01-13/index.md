@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
+* [2024-01-13, 20:47:26](https://news.ycombinator.com/item?id=38984385) - [The Exciting History of Carbon Paper! (1995)](http://www.kevinlaurence.net/essays/cc.php)
 * [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [2024-01-13, 19:56:32](https://news.ycombinator.com/item?id=38983886) - [Weather intelligence and cutting-edge tech is boosting grid capacity by 30%](https://electrek.co/2023/12/07/heimdall-power-meteomatics-grid-capacity-30-percent/)
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
