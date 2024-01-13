@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 03:04:44](https://news.ycombinator.com/item?id=38976955) - [Midlibrary: Library of 4000 Midjourney artistic styles](https://midlibrary.io/styles)
 * [2024-01-13, 01:00:58](https://news.ycombinator.com/item?id=38976288) - [Etleap (YC W13) Is Hiring a Software Engineer (London or San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2024-01-13, 00:56:35](https://news.ycombinator.com/item?id=38976254) - [K-Means Clustering](https://github.com/derrickburns/generalized-kmeans-clustering)
@@ -20,7 +21,6 @@
 * [2024-01-12, 16:18:23](https://news.ycombinator.com/item?id=38969893) - [Trilinear point splatting for real-time radiance field rendering](https://lfranke.github.io/trips/)
 * [2024-01-12, 16:09:25](https://news.ycombinator.com/item?id=38969759) - [Features and Benefits of Bluetooth Mesh 1.1 for Wireless Mesh Networking](https://www.bluetooth.com/bluetooth-resources/features-benefits-bluetooth-mesh/)
 * [2024-01-12, 15:41:25](https://news.ycombinator.com/item?id=38969348) - [Autophage rocket engine consumes plastic fuselage for fuel](https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel)
-* [2024-01-12, 13:48:18](https://news.ycombinator.com/item?id=38967855) - [Engineers test autophage rocket engine](https://www.aerospacetestinginternational.com/news/engine-testing/engineers-test-autophage-rocket-engine-fueled-by-its-own-fuselage.html)
 * [2024-01-12, 13:36:53](https://news.ycombinator.com/item?id=38967744) - [Changes we're making to Google Assistant](https://blog.google/products/assistant/google-assistant-update-january-2024/)
 * [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
