@@ -48,6 +48,7 @@
 * [2024-01-12, 15:41:25](https://news.ycombinator.com/item?id=38969348) - [Autophage rocket engine consumes plastic fuselage for fuel](https://www.theengineer.co.uk/content/news/autophage-rocket-engine-consumes-plastic-fuselage-for-fuel)
 * [2024-01-12, 15:25:24](https://news.ycombinator.com/item?id=38969114) - [Carta's 83b Oversight: A Tax Trap for Married Startup Employees](https://www.khanna.law/blog/carta-83b-oversight)
 * [2024-01-12, 15:21:49](https://news.ycombinator.com/item?id=38969072) - [ESP32-C61: Delivering Affordable Wi-Fi 6 Connectivity](https://www.espressif.com/en/news/ESP32-C61_SoC)
+* [2024-01-12, 15:09:00](https://news.ycombinator.com/item?id=38968899) - [How to solve the \"Mastermind\" guessing game? (2009)](https://stackoverflow.com/questions/1185634/how-to-solve-the-mastermind-guessing-game)
 * [2024-01-12, 14:49:36](https://news.ycombinator.com/item?id=38968619) - [Epistemic Learned Helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/)
 * [2024-01-12, 14:43:52](https://news.ycombinator.com/item?id=38968550) - [We need technology that is less immersive, not more](https://filiph.net/text/we-need-technology-that-is-less-immersive,-not-more.html)
 * [2024-01-12, 14:34:28](https://news.ycombinator.com/item?id=38968412) - [On the Pleb Filter (2023)](https://fantasticanachronism.com/2023/02/06/on-the-pleb-filter/)
