@@ -3,7 +3,7 @@
 * [2024-01-13, 12:29:08](https://news.ycombinator.com/item?id=38979356) - [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
-* [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
+* [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [Updates on Grounding of Boeing 737 MAX 9 Aircraft](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
 * [2024-01-13, 10:25:08](https://news.ycombinator.com/item?id=38978665) - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
@@ -21,6 +21,7 @@
 * [2024-01-12, 21:31:59](https://news.ycombinator.com/item?id=38974404) - [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 * [2024-01-12, 18:46:39](https://news.ycombinator.com/item?id=38972153) - [DevDocs](https://devdocs.io)
 * [2024-01-12, 18:44:52](https://news.ycombinator.com/item?id=38972131) - [Perception: A back-port of Observable](https://www.pointfree.co/blog/posts/129-perception-a-back-port-of-observable)
+* [2024-01-12, 18:33:17](https://news.ycombinator.com/item?id=38971966) - [Show HN: Marimo – an open-source reactive notebook for Python](https://github.com/marimo-team/marimo)
 * [2024-01-12, 17:38:56](https://news.ycombinator.com/item?id=38971221) - [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
 * [2024-01-12, 06:49:13](https://news.ycombinator.com/item?id=38964824) - [Java String Interpolation final in Java 23](https://openjdk.org/jeps/8323333)
@@ -29,7 +30,6 @@
 * [2024-01-11, 09:49:04](https://news.ycombinator.com/item?id=38950000) - [Axiom Computer Algebra system (in development since 1971)](http://www.axiom-developer.org/)
 * [2024-01-11, 05:53:13](https://news.ycombinator.com/item?id=38948292) - [Margaret Cavendish: A Polymath Who Scandalized 17th-Century London](https://www.nytimes.com/2023/12/31/books/review/pure-wit-francesca-peacock.html)
 * [2024-01-11, 05:28:44](https://news.ycombinator.com/item?id=38948122) - [Blur Radius Comparison](https://bjango.com/articles/blurradiuscomparison/)
-* [2024-01-11, 05:00:40](https://news.ycombinator.com/item?id=38947851) - [Uber and Lyft paid SFO about $50M last year](https://www.sfgate.com/tech/article/uber-lyft-sfo-airport-fees-18598614.php)
 
 ## [Archives](archives/index.md)
 
