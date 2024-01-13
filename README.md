@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
+* [2024-01-13, 10:25:08](https://news.ycombinator.com/item?id=38978665) - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
 * [2024-01-13, 09:47:45](https://news.ycombinator.com/item?id=38978503) - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
-* [2024-01-13, 08:15:51](https://news.ycombinator.com/item?id=38978142) - [Live record of being fired from Cloudflare during a redundancy plan [video]](https://twitter.com/svpino/status/1745971021654503778)
 * [2024-01-13, 08:04:15](https://news.ycombinator.com/item?id=38978107) - [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
 * [2024-01-13, 07:49:53](https://news.ycombinator.com/item?id=38978067) - [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
 * [2024-01-13, 07:00:19](https://news.ycombinator.com/item?id=38977902) - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
