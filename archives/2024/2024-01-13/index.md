@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)

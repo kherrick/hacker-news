@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
@@ -19,7 +20,6 @@
 * [2024-01-13, 14:03:12](https://news.ycombinator.com/item?id=38979970) - [Austin takes a bet on tiny homes to ease homelessness](https://www.nytimes.com/2024/01/08/headway/homelessness-tiny-home-austin.html)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
-* [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-12, 20:58:33](https://news.ycombinator.com/item?id=38973958) - [Multiply – a book about calculators I helped create](https://benjamin.computer/posts/2022-08-17-calculators.html)
