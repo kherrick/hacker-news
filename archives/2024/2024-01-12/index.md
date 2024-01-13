@@ -99,6 +99,7 @@
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
 * [2024-01-12, 06:11:59](https://news.ycombinator.com/item?id=38964562) - [The big alcohol study that didn't happen](https://dynomight.net/alcohol-trial/)
 * [2024-01-12, 05:48:18](https://news.ycombinator.com/item?id=38964427) - [Cloudflare employee records meeting where she is layed off](https://twitter.com/anothercohen/status/1745660032832696782)
+* [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [Prompts for Work and Play: Launching the Wolfram Prompt Repository](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
 * [2024-01-12, 05:27:31](https://news.ycombinator.com/item?id=38964242) - [The case of the vector with an impossibly large size](https://devblogs.microsoft.com/oldnewthing/20240105-00/?p=109242)
 * [2024-01-12, 05:25:30](https://news.ycombinator.com/item?id=38964228) - [Principality of Hutt River](http://www.principality-hutt-river.com/)
 * [2024-01-12, 05:22:16](https://news.ycombinator.com/item?id=38964206) - [OpenWrt One/AP-24.XY: new open source router board by OpenWrt and Banana Pi](https://www.cnx-software.com/2024/01/12/openwrt-one-ap-24-xy-router-board-openwrt-banana-pi/)

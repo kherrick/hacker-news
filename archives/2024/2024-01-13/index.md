@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 17:06:54](https://news.ycombinator.com/item?id=38981921) - [It's Time to Nationalize and Then Break Up Boeing](https://www.thebignewsletter.com/p/its-time-to-nationalize-and-then)
 * [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-13, 16:49:18](https://news.ycombinator.com/item?id=38981723) - [Incels need more mental health help, have \"fundamental thinking errors\"](https://www.bbc.com/news/uk-wales-67770178)
