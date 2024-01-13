@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2024-01-12, 23:37:42",
-      "https://news.ycombinator.com/item?id=38975656"
+      "2024-01-12, 23:53:15",
+      "https://news.ycombinator.com/item?id=38975775"
     ],
     [
-      "When I originally wrote the LGPL..",
-      "https://news.ycombinator.com/item?id=38966253"
+      "The Flappie AI cat door stops your pet from gifting you dead mice",
+      "https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "revng translates (i386, x86-64, MIPS, ARM, AArch64, s390x) binaries to LLVM IR",
       "https://github.com/revng/revng"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 22:10:02",
+      "https://news.ycombinator.com/item?id=38974802"
+    ],
+    [
+      "On Sleeper Agent LLMs",
+      "https://twitter.com/karpathy/status/1745921205020799433"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Axiom Computer Algebra system (in development since 1971)",
       "http://www.axiom-developer.org/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 09:45:57",
-      "https://news.ycombinator.com/item?id=38949966"
-    ],
-    [
-      "Elisp in Replacement String",
-      "https://susam.net/maze/elisp-in-replacement-string.html"
     ]
   ],
   [
