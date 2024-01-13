@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-01-13, 09:30:18",
-      "https://news.ycombinator.com/item?id=38978418"
+      "2024-01-13, 10:52:37",
+      "https://news.ycombinator.com/item?id=38978833"
     ],
     [
-      "Sama says \"build for GPT-5 and AGI Now; GPT-5 in 2024, AGI in 2025\"",
-      "https://twitter.com/H0wie_Xu/status/1745657992459272423"
+      "Temperature-Sensing Stirbar with RFID",
+      "https://github.com/benkrasnow/Temperature_sensing_stirbar"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 10:17:47",
+      "https://news.ycombinator.com/item?id=38978630"
+    ],
+    [
+      "YouTransfer: Self-hosted file transfer and sharing solution",
+      "https://github.com/YouTransfer/YouTransfer"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 09:47:45",
+      "https://news.ycombinator.com/item?id=38978503"
+    ],
+    [
+      "Cloudflare Termination Video: A Master Class in How Not to Terminate Someone",
+      "https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Live record of being fired from Cloudflare during a redundancy plan [video]",
       "https://twitter.com/svpino/status/1745971021654503778"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 08:11:10",
-      "https://news.ycombinator.com/item?id=38978129"
-    ],
-    [
-      "M1 Macs may lag behind",
-      "https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Doing First Grade Math in Rust's Type System",
       "https://fprasx.github.io/articles/type-system-arithmetic/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 17:03:22",
-      "https://news.ycombinator.com/item?id=38955018"
-    ],
-    [
-      "Attack of the Week: Airdrop Tracing",
-      "https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/"
     ]
   ],
   [
