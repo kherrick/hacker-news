@@ -6,6 +6,7 @@
 
 * [2024-01-13, 17:01:01](https://news.ycombinator.com/item?id=38981851) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-13, 16:49:18](https://news.ycombinator.com/item?id=38981723) - [Incels need more mental health help, have \"fundamental thinking errors\"](https://www.bbc.com/news/uk-wales-67770178)
+* [2024-01-13, 16:47:05](https://news.ycombinator.com/item?id=38981692) - [Python3 is removing crypt.crypt and not replacing it with anything](https://eighty-twenty.org/2024/01/13/python-crypt-shacrypt)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:33:38](https://news.ycombinator.com/item?id=38981522) - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium is a free GPL software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
