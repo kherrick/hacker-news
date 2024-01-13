@@ -2,7 +2,6 @@
 
 * [2024-01-13, 14:58:26](https://news.ycombinator.com/item?id=38980501) - [Test Can Tell How Likely a Young Driver Is to Crash](https://www.wsj.com/tech/personal-tech/this-test-can-tell-how-likely-a-young-driver-is-to-crash-4eb692bf)
 * [2024-01-13, 14:50:49](https://news.ycombinator.com/item?id=38980428) - [Don't Fire People for Making Pornography in Their Free Time](https://www.theatlantic.com/ideas/archive/2024/01/wisconsin-joe-gow-fired/677097/)
-* [2024-01-13, 14:44:39](https://news.ycombinator.com/item?id=38980358) - [Pinker was right, I was wrong](https://statmodeling.stat.columbia.edu/2024/01/13/pinker-was-right-i-was-wrong/)
 * [2024-01-13, 14:25:19](https://news.ycombinator.com/item?id=38980171) - [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
 * [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
@@ -12,6 +11,7 @@
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [Updates on Grounding of Boeing 737 MAX 9 Aircraft](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
 * [2024-01-13, 10:25:08](https://news.ycombinator.com/item?id=38978665) - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
 * [2024-01-13, 10:17:47](https://news.ycombinator.com/item?id=38978630) - [YouTransfer: Self-hosted file transfer and sharing solution](https://github.com/YouTransfer/YouTransfer)
+* [2024-01-13, 09:47:45](https://news.ycombinator.com/item?id=38978503) - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-13, 05:13:46](https://news.ycombinator.com/item?id=38977516) - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
