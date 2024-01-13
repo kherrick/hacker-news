@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 09:46:17](https://news.ycombinator.com/item?id=38978493) - [Why Are More Boys Than Girls Retarded in School? (1928)](https://www.jstor.org/stable/995446)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 * [2024-01-13, 08:08:41](https://news.ycombinator.com/item?id=38978122) - [Show HN: The most beautiful ABAP report](https://ritschmaster.github.io/2023/09/25/The-most-beautiful-ABAP-report.html)
