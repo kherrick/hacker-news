@@ -89,6 +89,7 @@
 * [2024-01-12, 08:03:40](https://news.ycombinator.com/item?id=38965375) - [The young people sifting through the internet's worst horrors](https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01)
 * [2024-01-12, 07:55:33](https://news.ycombinator.com/item?id=38965310) - [Inner Speech](https://plato.stanford.edu/entries/inner-speech/)
 * [2024-01-12, 07:55:06](https://news.ycombinator.com/item?id=38965306) - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
+* [2024-01-12, 07:49:21](https://news.ycombinator.com/item?id=38965268) - [Pydvice: An attempt at bringing (defadvice) from Elisp to Python](https://github.com/sshirokov/pydvice)
 * [2024-01-12, 07:38:51](https://news.ycombinator.com/item?id=38965184) - [Facebook bans ads for Votes for Women boardgame, claims \"sensitive social issue\"](https://boardgamewire.com/index.php/2024/01/11/facebook-bans-ads-for-award-winning-votes-for-women-board-game-claims-sensitive-social-issue/)
 * [2024-01-12, 07:33:47](https://news.ycombinator.com/item?id=38965150) - [Ring of galaxies challenges thinking on cosmos](https://www.bbc.co.uk/news/science-environment-67950749)
 * [2024-01-12, 07:24:31](https://news.ycombinator.com/item?id=38965086) - [ByteDance MagicVideo V2](https://magicvideov2.github.io/)
