@@ -68,6 +68,7 @@
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
+* [2024-01-12, 10:39:19](https://news.ycombinator.com/item?id=38966430) - [QMK and Keyboards](https://getreuer.info/posts/keyboards/index.html)
 * [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 10:31:21](https://news.ycombinator.com/item?id=38966352) - [Nuclear smartphone 3V battery lasting for 50 years](https://energymetalnews.com/2024/01/12/nuclear-battery-produces-power-for-50-years-without-needing-to-charge/)
 * [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)

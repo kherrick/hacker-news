@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 * [2024-01-14, 14:51:20](https://news.ycombinator.com/item?id=38990896) - [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
 * [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
 * [2024-01-14, 14:29:47](https://news.ycombinator.com/item?id=38990709) - [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
