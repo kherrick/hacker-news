@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 * [2024-01-14, 18:48:04](https://news.ycombinator.com/item?id=38993178) - [Ancestry to paywall formerly free features included with DNA kit](https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features)
 * [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
-* [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 * [2024-01-14, 17:23:30](https://news.ycombinator.com/item?id=38992292) - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 * [2024-01-14, 16:51:15](https://news.ycombinator.com/item?id=38992004) - [Confessions of a Country Parson](https://unherd.com/?p=495758)
 * [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
