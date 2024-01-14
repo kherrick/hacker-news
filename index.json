@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-14, 09:49:36",
+      "https://news.ycombinator.com/item?id=38988987"
+    ],
+    [
+      "Free unexpected MIT courses to kick start the new year",
+      "https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 09:40:21",
+      "https://news.ycombinator.com/item?id=38988944"
+    ],
+    [
+      "ICO fines HelloFresh £140k for spam texts and emails",
+      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 07:17:36",
       "https://news.ycombinator.com/item?id=38988238"
     ],
@@ -37,16 +57,6 @@
     [
       "Show HN: #!/usr/bin/env docker run",
       "https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 02:40:41",
-      "https://news.ycombinator.com/item?id=38986899"
-    ],
-    [
-      "Inside Boeing’s manufacturing mess",
-      "https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-01-13, 19:29:17",
-      "https://news.ycombinator.com/item?id=38983608"
-    ],
-    [
-      "Exposed RSS",
-      "https://chriscoyier.net/2024/01/13/exposed-rss/"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 18:26:52",
       "https://news.ycombinator.com/item?id=38982912"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-01-12, 08:03:40",
-      "https://news.ycombinator.com/item?id=38965375"
-    ],
-    [
-      "The young people sifting through the internet's worst horrors",
-      "https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 06:55:15",
       "https://news.ycombinator.com/item?id=38964884"
     ],
@@ -297,6 +287,16 @@
     [
       "Panama Canal drought forces Maersk to start using land bridge for Oceania cargo",
       "https://www.cnbc.com/2024/01/11/panama-canal-drought-moves-maersk-to-start-using-land-bridge-for-cargo.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 05:43:25",
+      "https://news.ycombinator.com/item?id=38964378"
+    ],
+    [
+      "Looking back at Postgres (2019)",
+      "https://arxiv.org/abs/1901.01973"
     ]
   ]
 ]
