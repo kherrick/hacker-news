@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 18:48:04](https://news.ycombinator.com/item?id=38993178) - [Ancestry to paywall formerly free features included with DNA kit](https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features)
 * [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
