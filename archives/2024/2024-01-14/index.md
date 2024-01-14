@@ -7,6 +7,7 @@
 * [2024-01-14, 16:09:46](https://news.ycombinator.com/item?id=38991662) - [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
 * [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 * [2024-01-14, 15:11:12](https://news.ycombinator.com/item?id=38991062) - [Justwood – The Nr1 Source for Free PDF Woodworking Plans and Guides](https://justwood.webcloner.net)
+* [2024-01-14, 15:05:39](https://news.ycombinator.com/item?id=38991007) - [Gasoline is cheap – but charging an EV is still cheaper](https://grist.org/energy/gasoline-is-cheap-right-now-but-charging-an-ev-is-still-cheaper/)
 * [2024-01-14, 14:51:20](https://news.ycombinator.com/item?id=38990896) - [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
 * [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
 * [2024-01-14, 14:29:47](https://news.ycombinator.com/item?id=38990709) - [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
