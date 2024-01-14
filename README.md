@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 06:22:40](https://news.ycombinator.com/item?id=38988019) - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 * [2024-01-14, 04:12:56](https://news.ycombinator.com/item?id=38987383) - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 * [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
@@ -16,7 +17,6 @@
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 * [2024-01-13, 19:29:17](https://news.ycombinator.com/item?id=38983608) - [Exposed RSS](https://chriscoyier.net/2024/01/13/exposed-rss/)
 * [2024-01-13, 18:26:52](https://news.ycombinator.com/item?id=38982912) - [Peer review is an honor-based system (2008)](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
-* [2024-01-13, 17:40:07](https://news.ycombinator.com/item?id=38982389) - [Starlink Successfully Tests Space Direct to Cell Mobile Service](https://www.ispreview.co.uk/index.php/2024/01/starlink-successfully-tests-space-direct-to-cell-mobile-service.html)
 * [2024-01-13, 17:00:27](https://news.ycombinator.com/item?id=38981844) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)

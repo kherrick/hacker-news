@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 06:22:40](https://news.ycombinator.com/item?id=38988019) - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 * [2024-01-14, 04:31:09](https://news.ycombinator.com/item?id=38987489) - [YouTube started slowing video buffer with adblock enabled](https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/)
 * [2024-01-14, 04:12:56](https://news.ycombinator.com/item?id=38987383) - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
