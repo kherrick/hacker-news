@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-14, 14:51:20](https://news.ycombinator.com/item?id=38990896) - [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
 * [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
 * [2024-01-14, 14:13:53](https://news.ycombinator.com/item?id=38990561) - [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
 * [2024-01-14, 14:08:56](https://news.ycombinator.com/item?id=38990508) - [When am I \"allowed\" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 * [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
+* [2024-01-14, 13:34:25](https://news.ycombinator.com/item?id=38990216) - [Do they have humans test cars before they produce them or what?](https://iml.bearblog.dev/humans-test-cars/)
 * [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
 * [2024-01-14, 12:06:04](https://news.ycombinator.com/item?id=38989685) - [An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -20,7 +20,6 @@
 * [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Researchers trace a form of lupus back to a single mutation](https://www.mpg.de/21374791/lupus-trigger)
 * [2024-01-14, 00:30:50](https://news.ycombinator.com/item?id=38986187) - [Ask HN: Does Cloudflare block HN comments if you have code blocks in a reply?](https://news.ycombinator.com/item?id=38986187)
-* [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
@@ -29,6 +28,7 @@
 * [2024-01-12, 08:39:45](https://news.ycombinator.com/item?id=38965603) - [What Bed Linen Can Teach Us About Usability](https://www.incomparable.design/blog/what-bed-linen-can-teach)
 * [2024-01-12, 08:03:40](https://news.ycombinator.com/item?id=38965375) - [The young people sifting through the internet's worst horrors](https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01)
 * [2024-01-12, 06:14:12](https://news.ycombinator.com/item?id=38964575) - [Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
+* [2024-01-12, 06:13:51](https://news.ycombinator.com/item?id=38964572) - [Panama Canal drought forces Maersk to start using land bridge for Oceania cargo](https://www.cnbc.com/2024/01/11/panama-canal-drought-moves-maersk-to-start-using-land-bridge-for-cargo.html)
 * [2024-01-12, 05:43:25](https://news.ycombinator.com/item?id=38964378) - [Looking back at Postgres (2019)](https://arxiv.org/abs/1901.01973)
 
 ## [Archives](archives/index.md)
