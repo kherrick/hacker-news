@@ -2,6 +2,7 @@
 
 * [2024-01-14, 09:49:36](https://news.ycombinator.com/item?id=38988987) - [Free unexpected MIT courses to kick start the new year](https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a)
 * [2024-01-14, 09:48:48](https://news.ycombinator.com/item?id=38988982) - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
+* [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:40:21](https://news.ycombinator.com/item?id=38988944) - [ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
 * [2024-01-14, 09:30:29](https://news.ycombinator.com/item?id=38988891) - [Zero-Click Bluetooth Attacks Pose Serious Threat Across Major Operating Systems](https://www.cyberkendra.com/2024/01/zero-click-bluetooth-attacks-pose.html)
 * [2024-01-14, 09:24:44](https://news.ycombinator.com/item?id=38988859) - [One liter of bottled water found to contain 240k plastic fragments](https://newatlas.com/science/advanced-imaging-techniques-240000-nanoplastics-one-liter-bottled-water/)
@@ -24,7 +25,6 @@
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 04:49:05](https://news.ycombinator.com/item?id=38977422) - [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
-* [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 10:17:01](https://news.ycombinator.com/item?id=38966257) - [Terse: A language with hi-level look-and-feel, low-level control (1995) [pdf]](http://www.terse.com/ddj.pdf)
 * [2024-01-12, 06:55:15](https://news.ycombinator.com/item?id=38964884) - [Asus Zenbook Duo 2024](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/)
 * [2024-01-12, 06:14:12](https://news.ycombinator.com/item?id=38964575) - [Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
