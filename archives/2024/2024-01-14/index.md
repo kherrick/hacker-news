@@ -6,7 +6,10 @@
 
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 * [2024-01-14, 16:09:46](https://news.ycombinator.com/item?id=38991662) - [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
+* [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
 * [2024-01-14, 15:53:54](https://news.ycombinator.com/item?id=38991521) - [Unlocking the truth about diabetes: 'The science has been pretty awful'](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
+* [2024-01-14, 15:41:49](https://news.ycombinator.com/item?id=38991392) - [Crystal 1.11.0 Is Released](https://crystal-lang.org/2024/01/08/1.11.0-released/)
+* [2024-01-14, 15:29:21](https://news.ycombinator.com/item?id=38991248) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 * [2024-01-14, 15:11:12](https://news.ycombinator.com/item?id=38991062) - [Justwood – The Nr1 Source for Free PDF Woodworking Plans and Guides](https://justwood.webcloner.net)
 * [2024-01-14, 15:05:39](https://news.ycombinator.com/item?id=38991007) - [Gasoline is cheap – but charging an EV is still cheaper](https://grist.org/energy/gasoline-is-cheap-right-now-but-charging-an-ev-is-still-cheaper/)
