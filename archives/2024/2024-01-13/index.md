@@ -61,6 +61,7 @@
 * [2024-01-13, 12:58:14](https://news.ycombinator.com/item?id=38979549) - [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 12:29:08](https://news.ycombinator.com/item?id=38979356) - [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
+* [2024-01-13, 12:22:50](https://news.ycombinator.com/item?id=38979320) - [Edward Hopper: An American Love Story](https://www.pbs.org/wnet/americanmasters/hopper-an-american-love-story-about/30429/)
 * [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Last surviving scientist on Japan's atomic bomb program tells his story](https://www.youtube.com/watch?v=P4DThUr7bsY)
 * [2024-01-13, 12:06:49](https://news.ycombinator.com/item?id=38979241) - [Would Luddites find the gig economy familiar?](https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
