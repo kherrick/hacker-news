@@ -17,7 +17,7 @@
 * [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
 * [2024-01-13, 20:16:37](https://news.ycombinator.com/item?id=38984096) - [What is the difference between a terminal, a shell, a TTY and a console? (2012)](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
-* [2024-01-13, 18:26:52](https://news.ycombinator.com/item?id=38982912) - [Peer review is an honor-based system (2008)](https://lemire.me/blog/2008/08/21/peer-review-is-an-honor-based-system/)
+* [2024-01-13, 19:29:17](https://news.ycombinator.com/item?id=38983608) - [Exposed RSS](https://chriscoyier.net/2024/01/13/exposed-rss/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
