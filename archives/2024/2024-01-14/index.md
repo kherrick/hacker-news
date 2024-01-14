@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 19:47:16](https://news.ycombinator.com/item?id=38993748) - [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
 * [2024-01-14, 19:40:26](https://news.ycombinator.com/item?id=38993679) - [Dutch designer drives his car on the plastic waste he collects](https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)

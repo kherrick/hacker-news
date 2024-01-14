@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 19:47:16](https://news.ycombinator.com/item?id=38993748) - [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
 * [2024-01-14, 19:40:26](https://news.ycombinator.com/item?id=38993679) - [Dutch designer drives his car on the plastic waste he collects](https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
@@ -26,7 +27,6 @@
 * [2024-01-12, 18:27:48](https://news.ycombinator.com/item?id=38971896) - [Fracking eyeballs at the turn of the 20th century](https://asteriskmag.com/issues/04/fracking-eyeballs)
 * [2024-01-12, 16:58:46](https://news.ycombinator.com/item?id=38970587) - [Margaret Mead, the Cold War, and the Troubled Birth of Psychedelic Science](https://www.latimes.com/entertainment-arts/books/story/2024-01-12/margaret-mead-wanted-to-save-the-world-through-lsd-the-government-had-other-ideas)
 * [2024-01-12, 15:53:49](https://news.ycombinator.com/item?id=38969533) - [A supply chain attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
-* [2024-01-12, 10:39:19](https://news.ycombinator.com/item?id=38966430) - [QMK and Keyboards](https://getreuer.info/posts/keyboards/index.html)
 * [2024-01-12, 10:30:21](https://news.ycombinator.com/item?id=38966345) - [Smalltalk simplicity and consistency vs. other languages (2022) [video]](https://www.youtube.com/watch?v=QFZqilshyL4)
 * [2024-01-12, 03:45:08](https://news.ycombinator.com/item?id=38963412) - [Scientists scramble to keep dog aging project alive](https://www.nytimes.com/2024/01/11/health/dogs-longevity-aging.html)
 * [2024-01-12, 03:07:28](https://news.ycombinator.com/item?id=38963164) - [Writing HTML in HTML (2019)](https://ankarstrom.se/~john/articles/html/)
