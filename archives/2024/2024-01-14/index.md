@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+* [2024-01-14, 14:08:56](https://news.ycombinator.com/item?id=38990508) - [When am I \"allowed\" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 * [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 * [2024-01-14, 13:08:43](https://news.ycombinator.com/item?id=38990080) - [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
 * [2024-01-14, 12:58:12](https://news.ycombinator.com/item?id=38990016) - [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
