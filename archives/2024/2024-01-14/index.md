@@ -11,6 +11,7 @@
 * [2024-01-14, 14:08:56](https://news.ycombinator.com/item?id=38990508) - [When am I \"allowed\" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 * [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 * [2024-01-14, 13:34:25](https://news.ycombinator.com/item?id=38990216) - [Do they have humans test cars before they produce them or what?](https://iml.bearblog.dev/humans-test-cars/)
+* [2024-01-14, 13:22:02](https://news.ycombinator.com/item?id=38990148) - [Ask HN: AI that allows you to make phone calls in a language you don't speak?](https://news.ycombinator.com/item?id=38990148)
 * [2024-01-14, 13:08:43](https://news.ycombinator.com/item?id=38990080) - [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
 * [2024-01-14, 12:58:12](https://news.ycombinator.com/item?id=38990016) - [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
 * [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)

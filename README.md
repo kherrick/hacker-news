@@ -3,9 +3,8 @@
 * [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
 * [2024-01-14, 14:29:47](https://news.ycombinator.com/item?id=38990709) - [Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
 * [2024-01-14, 14:13:53](https://news.ycombinator.com/item?id=38990561) - [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
-* [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
+* [2024-01-14, 13:22:02](https://news.ycombinator.com/item?id=38990148) - [Ask HN: AI that allows you to make phone calls in a language you don't speak?](https://news.ycombinator.com/item?id=38990148)
 * [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
-* [2024-01-14, 12:06:04](https://news.ycombinator.com/item?id=38989685) - [An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-14, 10:41:25](https://news.ycombinator.com/item?id=38989254) - [When \"blocked indefinitely\" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
 * [2024-01-14, 09:48:48](https://news.ycombinator.com/item?id=38988982) - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
@@ -29,6 +28,7 @@
 * [2024-01-12, 08:03:40](https://news.ycombinator.com/item?id=38965375) - [The young people sifting through the internet's worst horrors](https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01)
 * [2024-01-12, 07:49:21](https://news.ycombinator.com/item?id=38965268) - [Pydvice: An attempt at bringing (defadvice) from Elisp to Python](https://github.com/sshirokov/pydvice)
 * [2024-01-12, 06:14:12](https://news.ycombinator.com/item?id=38964575) - [Smart binoculars can identify 9k birds](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
+* [2024-01-12, 06:13:51](https://news.ycombinator.com/item?id=38964572) - [Panama Canal drought forces Maersk to start using land bridge for Oceania cargo](https://www.cnbc.com/2024/01/11/panama-canal-drought-moves-maersk-to-start-using-land-bridge-for-cargo.html)
 * [2024-01-12, 05:43:25](https://news.ycombinator.com/item?id=38964378) - [Looking back at Postgres (2019)](https://arxiv.org/abs/1901.01973)
 
 ## [Archives](archives/index.md)
