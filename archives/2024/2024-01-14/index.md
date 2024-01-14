@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 14:51:20](https://news.ycombinator.com/item?id=38990896) - [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)
 * [2024-01-14, 14:34:23](https://news.ycombinator.com/item?id=38990755) - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+* [2024-01-14, 14:13:53](https://news.ycombinator.com/item?id=38990561) - [AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI](https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai)
 * [2024-01-14, 14:08:56](https://news.ycombinator.com/item?id=38990508) - [When am I \"allowed\" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 * [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 * [2024-01-14, 13:08:43](https://news.ycombinator.com/item?id=38990080) - [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
