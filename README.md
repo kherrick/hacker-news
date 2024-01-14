@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+* [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
 * [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
 * [2024-01-13, 22:44:14](https://news.ycombinator.com/item?id=38985409) - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
 * [2024-01-13, 22:35:47](https://news.ycombinator.com/item?id=38985343) - [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
@@ -21,9 +23,7 @@
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an Array Language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 15:29:28](https://news.ycombinator.com/item?id=38980793) - [A site that tracks the price of a Big Mac in every US McDonald's](https://pantryandlarder.com/mccheapest)
-* [2024-01-13, 13:29:14](https://news.ycombinator.com/item?id=38979713) - [The Global Project to Make a General Robotic Brain](https://spectrum.ieee.org/global-robotic-brain)
 * [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Scientist on Japan's atomic bomb program tells his story (1995) [video]](https://www.youtube.com/watch?v=P4DThUr7bsY)
-* [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-sensing stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-12, 20:58:33](https://news.ycombinator.com/item?id=38973958) - [Multiply – a book about calculators I helped create](https://benjamin.computer/posts/2022-08-17-calculators.html)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
 * [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
