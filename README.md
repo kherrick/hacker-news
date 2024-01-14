@@ -24,12 +24,12 @@
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Scientist on Japan's atomic bomb program tells his story (1995) [video]](https://www.youtube.com/watch?v=P4DThUr7bsY)
+* [2024-01-13, 04:49:05](https://news.ycombinator.com/item?id=38977422) - [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
 * [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
 * [2024-01-12, 07:02:38](https://news.ycombinator.com/item?id=38964952) - [Programming Language for Ternary Computing](https://github.com/nirvanasupermind/owlet)
 * [2024-01-12, 06:55:15](https://news.ycombinator.com/item?id=38964884) - [Asus Zenbook Duo 2024](https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/)
 * [2024-01-12, 06:14:12](https://news.ycombinator.com/item?id=38964575) - [First-ever smart binoculars can identify 9k birds thanks to built-in](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
-* [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [The Wolfram Prompt Repository (2023)](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
 
 ## [Archives](archives/index.md)
 

@@ -79,6 +79,7 @@
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-13, 05:16:46](https://news.ycombinator.com/item?id=38977532) - [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)
 * [2024-01-13, 05:13:46](https://news.ycombinator.com/item?id=38977516) - [Triplit: Open-source DB that syncs data between server and browser in real-time](https://github.com/aspen-cloud/triplit)
+* [2024-01-13, 04:49:05](https://news.ycombinator.com/item?id=38977422) - [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 * [2024-01-13, 04:37:08](https://news.ycombinator.com/item?id=38977366) - [Open-Source AI Is Uniquely Dangerous](https://spectrum.ieee.org/open-source-ai-2666932122)
 * [2024-01-13, 04:26:45](https://news.ycombinator.com/item?id=38977326) - [New Features in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 03:37:21](https://news.ycombinator.com/item?id=38977128) - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
