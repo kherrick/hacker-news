@@ -18,6 +18,7 @@
 * [2024-01-14, 15:35:07](https://news.ycombinator.com/item?id=38991317) - [Mexico building rail rival as water shortages drain Panama Canal](https://www.japantimes.co.jp/business/2023/11/16/mexico-rail-rival-panama-canal/)
 * [2024-01-14, 15:29:21](https://news.ycombinator.com/item?id=38991248) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
+* [2024-01-14, 15:12:11](https://news.ycombinator.com/item?id=38991086) - [Unethical Frauds Operating as .IN Registry Accredited Registrars](https://www.namepros.com/threads/my-nightmarish-experience-with-mitsu-inc-the-great-indian-domain-heist.1318228/)
 * [2024-01-14, 15:11:12](https://news.ycombinator.com/item?id=38991062) - [Justwood – The Nr1 Source for Free PDF Woodworking Plans and Guides](https://justwood.webcloner.net)
 * [2024-01-14, 15:05:39](https://news.ycombinator.com/item?id=38991007) - [Gasoline is cheap – but charging an EV is still cheaper](https://grist.org/energy/gasoline-is-cheap-right-now-but-charging-an-ev-is-still-cheaper/)
 * [2024-01-14, 14:51:20](https://news.ycombinator.com/item?id=38990896) - [I Built a DevOps/SRE/Cloud/Security Newsfeed](https://devops-scanner.com/)

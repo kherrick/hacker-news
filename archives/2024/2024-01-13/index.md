@@ -64,6 +64,7 @@
 * [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Last surviving scientist on Japan's atomic bomb program tells his story](https://www.youtube.com/watch?v=P4DThUr7bsY)
 * [2024-01-13, 12:06:49](https://news.ycombinator.com/item?id=38979241) - [Would Luddites find the gig economy familiar?](https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
+* [2024-01-13, 12:00:07](https://news.ycombinator.com/item?id=38979196) - [‘This Has Been Going on for Years’: Boeing’s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
