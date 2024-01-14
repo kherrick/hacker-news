@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-14, 10:41:25](https://news.ycombinator.com/item?id=38989254) - [When \"blocked indefinitely\" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
 * [2024-01-14, 09:55:11](https://news.ycombinator.com/item?id=38989016) - [All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
