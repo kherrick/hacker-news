@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
+* [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 * [2024-01-14, 17:23:30](https://news.ycombinator.com/item?id=38992292) - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 * [2024-01-14, 16:51:15](https://news.ycombinator.com/item?id=38992004) - [Confessions of a Country Parson](https://unherd.com/?p=495758)
@@ -14,7 +15,6 @@
 * [2024-01-14, 09:48:48](https://news.ycombinator.com/item?id=38988982) - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 06:22:40](https://news.ycombinator.com/item?id=38988019) - [Show HN: Citadel – a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
-* [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 * [2024-01-13, 20:55:30](https://news.ycombinator.com/item?id=38984457) - [Things I Learnt in 2023](https://drobinin.com/posts/things-i-learnt-in-2023/)
 * [2024-01-13, 18:38:53](https://news.ycombinator.com/item?id=38983043) - [The Slow Frontier of Genetic Choice](https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/)
 * [2024-01-13, 16:09:12](https://news.ycombinator.com/item?id=38981216) - [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)
