@@ -16,6 +16,7 @@
 * [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
 * [2024-01-13, 20:47:26](https://news.ycombinator.com/item?id=38984385) - [The Exciting History of Carbon Paper! (1995)](http://www.kevinlaurence.net/essays/cc.php)
 * [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
+* [2024-01-13, 20:16:37](https://news.ycombinator.com/item?id=38984096) - [What is the difference between a 'terminal', a 'shell', a 'TTY' and a 'console'?](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
 * [2024-01-13, 19:56:32](https://news.ycombinator.com/item?id=38983886) - [Weather intelligence and cutting-edge tech is boosting grid capacity by 30%](https://electrek.co/2023/12/07/heimdall-power-meteomatics-grid-capacity-30-percent/)
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 * [2024-01-13, 19:38:12](https://news.ycombinator.com/item?id=38983687) - [\"Magic Balls\" installed by drones may revolutionize US power grid](https://www.thecooldown.com/green-tech/magic-balls-power-lines-heimdall/)

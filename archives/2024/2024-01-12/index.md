@@ -102,6 +102,7 @@
 * [2024-01-12, 06:28:43](https://news.ycombinator.com/item?id=38964675) - [Atomics and Concurrency](https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html)
 * [2024-01-12, 06:28:07](https://news.ycombinator.com/item?id=38964670) - [Open Source Carta Alternative – Cap.octolane.com](https://cap.octolane.com)
 * [2024-01-12, 06:14:52](https://news.ycombinator.com/item?id=38964581) - [Pharmacology of Hallucinations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4065763/)
+* [2024-01-12, 06:14:12](https://news.ycombinator.com/item?id=38964575) - [First-ever smart binoculars can identify 9k birds thanks to built-in](https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai)
 * [2024-01-12, 06:11:59](https://news.ycombinator.com/item?id=38964562) - [The big alcohol study that didn't happen](https://dynomight.net/alcohol-trial/)
 * [2024-01-12, 05:48:18](https://news.ycombinator.com/item?id=38964427) - [Cloudflare employee records meeting where she is layed off](https://twitter.com/anothercohen/status/1745660032832696782)
 * [2024-01-12, 05:29:52](https://news.ycombinator.com/item?id=38964262) - [Prompts for Work and Play: Launching the Wolfram Prompt Repository](https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/)
