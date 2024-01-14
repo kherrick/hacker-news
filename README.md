@@ -3,7 +3,7 @@
 * [2024-01-14, 04:12:56](https://news.ycombinator.com/item?id=38987383) - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 * [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 * [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
-* [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+* [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net has disappeared](https://github.com/zedeus/nitter/issues/1150)
 * [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Researchers trace a form of lupus back to a single mutation](https://www.mpg.de/21374791/lupus-trigger)
 * [2024-01-14, 00:30:50](https://news.ycombinator.com/item?id=38986187) - [Ask HN: Does Cloudflare block HN comments if you have code blocks in a reply?](https://news.ycombinator.com/item?id=38986187)
 * [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
