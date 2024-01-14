@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
+* [2024-01-14, 17:23:30](https://news.ycombinator.com/item?id=38992292) - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
+* [2024-01-14, 16:51:15](https://news.ycombinator.com/item?id=38992004) - [Confessions of a Country Parson](https://unherd.com/?p=495758)
 * [2024-01-14, 16:09:46](https://news.ycombinator.com/item?id=38991662) - [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
 * [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
+* [2024-01-14, 15:58:24](https://news.ycombinator.com/item?id=38991568) - [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 * [2024-01-14, 15:53:54](https://news.ycombinator.com/item?id=38991521) - [Unlocking the truth about diabetes: 'The science has been pretty awful'](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
 * [2024-01-14, 15:41:49](https://news.ycombinator.com/item?id=38991392) - [Crystal 1.11.0 Is Released](https://crystal-lang.org/2024/01/08/1.11.0-released/)
 * [2024-01-14, 15:29:21](https://news.ycombinator.com/item?id=38991248) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
