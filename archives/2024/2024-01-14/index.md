@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
 * [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)

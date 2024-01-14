@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
 * [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
@@ -11,7 +12,6 @@
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 21:51:04](https://news.ycombinator.com/item?id=38984953) - [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
 * [2024-01-13, 21:46:43](https://news.ycombinator.com/item?id=38984915) - [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
-* [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
 * [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
 * [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
