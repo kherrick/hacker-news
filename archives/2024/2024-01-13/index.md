@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
 * [2024-01-13, 22:44:14](https://news.ycombinator.com/item?id=38985409) - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
 * [2024-01-13, 22:35:47](https://news.ycombinator.com/item?id=38985343) - [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
@@ -12,6 +13,7 @@
 * [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
+* [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
 * [2024-01-13, 20:47:26](https://news.ycombinator.com/item?id=38984385) - [The Exciting History of Carbon Paper! (1995)](http://www.kevinlaurence.net/essays/cc.php)
 * [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [2024-01-13, 19:56:32](https://news.ycombinator.com/item?id=38983886) - [Weather intelligence and cutting-edge tech is boosting grid capacity by 30%](https://electrek.co/2023/12/07/heimdall-power-meteomatics-grid-capacity-30-percent/)
@@ -61,6 +63,7 @@
 * [2024-01-13, 09:47:45](https://news.ycombinator.com/item?id=38978503) - [Cloudflare Termination Video: A Master Class in How Not to Terminate Someone](https://www.inc.com/suzanne-lucas/viral-cloudflare-termination-video-masterclass-how-not-terminate.html)
 * [2024-01-13, 09:46:17](https://news.ycombinator.com/item?id=38978493) - [Why Are More Boys Than Girls Retarded in School? (1928)](https://www.jstor.org/stable/995446)
 * [2024-01-13, 09:30:18](https://news.ycombinator.com/item?id=38978418) - [Sama says \"build for GPT-5 and AGI Now; GPT-5 in 2024, AGI in 2025\"](https://twitter.com/H0wie_Xu/status/1745657992459272423)
+* [2024-01-13, 09:22:09](https://news.ycombinator.com/item?id=38978385) - [Audio libraries considered challenging (2022)](https://tesselode.github.io/articles/audio-libraries-considered-challenging/)
 * [2024-01-13, 08:59:40](https://news.ycombinator.com/item?id=38978289) - [Apple hiring compiler developers for improving Swift / C++ interoperability](https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer)
 * [2024-01-13, 08:15:51](https://news.ycombinator.com/item?id=38978142) - [Live record of being fired from Cloudflare during a redundancy plan [video]](https://twitter.com/svpino/status/1745971021654503778)
 * [2024-01-13, 08:11:10](https://news.ycombinator.com/item?id=38978129) - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
