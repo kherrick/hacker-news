@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-14, 04:31:09",
-      "https://news.ycombinator.com/item?id=38987489"
-    ],
-    [
-      "YouTube started slowing video buffer with adblock enabled",
-      "https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 04:12:56",
       "https://news.ycombinator.com/item?id=38987383"
     ],
@@ -45,18 +35,8 @@
       "https://news.ycombinator.com/item?id=38986880"
     ],
     [
-      "Nitter.net Has Disappeared",
+      "Nitter.net has disappeared",
       "https://github.com/zedeus/nitter/issues/1150"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 01:34:59",
-      "https://news.ycombinator.com/item?id=38986546"
-    ],
-    [
-      "OpenD, a D language fork that is open to your contributions",
-      "https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=38986320"
     ],
     [
-      "Lupus Trigger Discovered",
+      "Researchers trace a form of lupus back to a single mutation",
       "https://www.mpg.de/21374791/lupus-trigger"
     ]
   ],
@@ -141,11 +121,21 @@
   ],
   [
     [
+      "2024-01-13, 20:26:56",
+      "https://news.ycombinator.com/item?id=38984197"
+    ],
+    [
+      "Coming of Age at the Dawn of the Social Internet",
+      "https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 20:16:37",
       "https://news.ycombinator.com/item?id=38984096"
     ],
     [
-      "What is the difference between a 'terminal', a 'shell', a 'TTY' and a 'console'?",
+      "What is the difference between a terminal, a shell, a TTY and a console? (2012)",
       "https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con"
     ]
   ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-01-12, 10:35:02",
+      "https://news.ycombinator.com/item?id=38966386"
+    ],
+    [
+      "\"Millennium Camera\" to take a 1k-year long-exposure photo",
+      "https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 09:33:41",
       "https://news.ycombinator.com/item?id=38965964"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38964575"
     ],
     [
-      "First-ever smart binoculars can identify 9k birds thanks to built-in",
+      "Smart binoculars can identify 9k birds",
       "https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai"
     ]
   ]
