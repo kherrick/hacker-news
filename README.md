@@ -22,7 +22,7 @@
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 04:49:05](https://news.ycombinator.com/item?id=38977422) - [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
-* [2024-01-12, 12:50:03](https://news.ycombinator.com/item?id=38967373) - [Compton Verney's new painted ladies are more about vice than virtue](https://www.apollo-magazine.com/allegorical-painting-two-ladies-compton-verney-beauty-patches/)
+* [2024-01-12, 12:50:03](https://news.ycombinator.com/item?id=38967373) - [Compton Verney's new painted ladies are more about vice than virtue (2023)](https://www.apollo-magazine.com/allegorical-painting-two-ladies-compton-verney-beauty-patches/)
 * [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 09:33:41](https://news.ycombinator.com/item?id=38965964) - [Decompilation of Paper Mario for N64](https://papermar.io/)
 * [2024-01-12, 08:03:40](https://news.ycombinator.com/item?id=38965375) - [The young people sifting through the internet's worst horrors](https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01)
