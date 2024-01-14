@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
 * [2024-01-14, 16:09:46](https://news.ycombinator.com/item?id=38991662) - [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
+* [2024-01-14, 15:53:54](https://news.ycombinator.com/item?id=38991521) - [Unlocking the truth about diabetes: 'The science has been pretty awful'](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
 * [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 * [2024-01-14, 15:11:12](https://news.ycombinator.com/item?id=38991062) - [Justwood – The Nr1 Source for Free PDF Woodworking Plans and Guides](https://justwood.webcloner.net)
 * [2024-01-14, 15:05:39](https://news.ycombinator.com/item?id=38991007) - [Gasoline is cheap – but charging an EV is still cheaper](https://grist.org/energy/gasoline-is-cheap-right-now-but-charging-an-ev-is-still-cheaper/)
@@ -16,6 +17,7 @@
 * [2024-01-14, 14:08:56](https://news.ycombinator.com/item?id=38990508) - [When am I \"allowed\" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 * [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations – Video – CityNews Calgary](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 * [2024-01-14, 13:34:25](https://news.ycombinator.com/item?id=38990216) - [Do they have humans test cars before they produce them or what?](https://iml.bearblog.dev/humans-test-cars/)
+* [2024-01-14, 13:30:10](https://news.ycombinator.com/item?id=38990197) - [Show HN: A no-frills CV template using Typst and YAML to version control CV data](https://github.com/jskherman/cv.typ)
 * [2024-01-14, 13:22:02](https://news.ycombinator.com/item?id=38990148) - [Ask HN: AI that allows you to make phone calls in a language you don't speak?](https://news.ycombinator.com/item?id=38990148)
 * [2024-01-14, 13:08:43](https://news.ycombinator.com/item?id=38990080) - [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
 * [2024-01-14, 12:58:12](https://news.ycombinator.com/item?id=38990016) - [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
