@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 * [2024-01-14, 17:23:30](https://news.ycombinator.com/item?id=38992292) - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 * [2024-01-14, 16:51:15](https://news.ycombinator.com/item?id=38992004) - [Confessions of a Country Parson](https://unherd.com/?p=495758)

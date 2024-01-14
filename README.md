@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
 * [2024-01-14, 17:23:30](https://news.ycombinator.com/item?id=38992292) - [Project Bluefin: an immutable, developer-focused, Cloud-native Linux](https://www.ypsidanger.com/announcing-project-bluefin/)
 * [2024-01-14, 16:51:15](https://news.ycombinator.com/item?id=38992004) - [Confessions of a Country Parson](https://unherd.com/?p=495758)
@@ -24,7 +25,6 @@
 * [2024-01-12, 20:58:33](https://news.ycombinator.com/item?id=38973958) - [Multiply – a book about calculators I helped create](https://benjamin.computer/posts/2022-08-17-calculators.html)
 * [2024-01-12, 20:18:20](https://news.ycombinator.com/item?id=38973404) - [Autonomous trucking is harder than autonomous rideshare](https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/)
 * [2024-01-12, 18:27:48](https://news.ycombinator.com/item?id=38971896) - [Fracking eyeballs at the turn of the 20th century](https://asteriskmag.com/issues/04/fracking-eyeballs)
-* [2024-01-12, 16:58:46](https://news.ycombinator.com/item?id=38970587) - [Margaret Mead wanted to save the world via LSD](https://www.latimes.com/entertainment-arts/books/story/2024-01-12/margaret-mead-wanted-to-save-the-world-through-lsd-the-government-had-other-ideas)
 * [2024-01-12, 15:53:49](https://news.ycombinator.com/item?id=38969533) - [A supply chain attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-12, 10:39:19](https://news.ycombinator.com/item?id=38966430) - [QMK and Keyboards](https://getreuer.info/posts/keyboards/index.html)
 * [2024-01-12, 10:30:21](https://news.ycombinator.com/item?id=38966345) - [Smalltalk simplicity and consistency vs. other languages (2022) [video]](https://www.youtube.com/watch?v=QFZqilshyL4)
