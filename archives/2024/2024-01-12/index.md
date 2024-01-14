@@ -63,6 +63,7 @@
 * [2024-01-12, 13:12:19](https://news.ycombinator.com/item?id=38967536) - [The planet's got 99 problems, but exponential growth isn't one](https://www.ft.com/content/ba6c010e-b8b4-4225-a024-03cc886eaa4d)
 * [2024-01-12, 13:07:05](https://news.ycombinator.com/item?id=38967494) - [Ask HN: Got a /22, cool things to do with it?](https://news.ycombinator.com/item?id=38967494)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
+* [2024-01-12, 12:50:03](https://news.ycombinator.com/item?id=38967373) - [Compton Verney's new painted ladies are more about vice than virtue](https://www.apollo-magazine.com/allegorical-painting-two-ladies-compton-verney-beauty-patches/)
 * [2024-01-12, 12:32:44](https://news.ycombinator.com/item?id=38967279) - [John C. Lilly and the Solid State Entity (2016)](https://seankerrigan.com/john-c-lilly-and-the-solid-state-entity/)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
