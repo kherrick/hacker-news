@@ -22,7 +22,7 @@
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 16:12:45](https://news.ycombinator.com/item?id=38981254) - [Stellarium: Software which renders realistic skies in real time](https://github.com/Stellarium/stellarium)
-* [2024-01-13, 12:06:49](https://news.ycombinator.com/item?id=38979241) - [Would Luddites find the gig economy familiar?](https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/)
+* [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 04:49:05](https://news.ycombinator.com/item?id=38977422) - [What Was ISDN?](https://tedium.co/2024/01/12/isdn-history-retrospective/)
 * [2024-01-12, 13:06:16](https://news.ycombinator.com/item?id=38967488) - [WLJS Notebook – Open-source web-based notebook interface for Wolfram Language](https://jerryi.github.io/wljs-docs/)
 * [2024-01-12, 10:17:01](https://news.ycombinator.com/item?id=38966257) - [Terse: A language with hi-level look-and-feel, low-level control (1995) [pdf]](http://www.terse.com/ddj.pdf)
