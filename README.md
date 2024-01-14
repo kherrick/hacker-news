@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-14, 04:31:09](https://news.ycombinator.com/item?id=38987489) - [YouTube started slowing video buffer with adblock enabled](https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/)
+* [2024-01-14, 04:12:56](https://news.ycombinator.com/item?id=38987383) - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 * [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 * [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
@@ -8,7 +9,6 @@
 * [2024-01-14, 00:51:38](https://news.ycombinator.com/item?id=38986320) - [Lupus Trigger Discovered](https://www.mpg.de/21374791/lupus-trigger)
 * [2024-01-14, 00:30:50](https://news.ycombinator.com/item?id=38986187) - [Ask HN: Does Cloudflare block HN comments if you have code blocks in a reply?](https://news.ycombinator.com/item?id=38986187)
 * [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
-* [2024-01-13, 23:14:05](https://news.ycombinator.com/item?id=38985672) - [Why I Built Zuzalu](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/)
 * [2024-01-13, 22:44:14](https://news.ycombinator.com/item?id=38985409) - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
 * [2024-01-13, 21:51:04](https://news.ycombinator.com/item?id=38984953) - [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
