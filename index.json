@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-14, 17:26:49",
+      "https://news.ycombinator.com/item?id=38992307"
+    ],
+    [
+      "Electric buses withdrawn in south London after fire",
+      "https://www.bbc.com/news/uk-england-london-67967421"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 16:09:46",
       "https://news.ycombinator.com/item?id=38991662"
     ],
     [
       "The Open Source Community Is Still Maintaining Flash Player Support in 2024",
       "https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 15:53:54",
+      "https://news.ycombinator.com/item?id=38991521"
+    ],
+    [
+      "Unlocking the truth about diabetes: 'The science has been pretty awful'",
+      "https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention",
       "https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 13:30:10",
-      "https://news.ycombinator.com/item?id=38990197"
-    ],
-    [
-      "Show HN: A no-frills CV template using Typst and YAML to version control CV data",
-      "https://github.com/jskherman/cv.typ"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Thinking in an array language",
       "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 16:12:45",
-      "https://news.ycombinator.com/item?id=38981254"
-    ],
-    [
-      "Stellarium: Software which renders realistic skies in real time",
-      "https://github.com/Stellarium/stellarium"
     ]
   ],
   [
