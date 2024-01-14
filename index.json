@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-14, 15:18:23",
+      "https://news.ycombinator.com/item?id=38991145"
+    ],
+    [
+      "OnnxStream running TinyLlama and Mistral 7B, with CUDA support",
+      "https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 14:34:23",
       "https://news.ycombinator.com/item?id=38990755"
     ],
@@ -17,16 +27,6 @@
     [
       "Coding Self-Attention, Multi-Head Attention, Cross-Attention, Causal-Attention",
       "https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 14:21:32",
-      "https://news.ycombinator.com/item?id=38990634"
-    ],
-    [
-      "Tim Cook Meets EU Antitrust Chief Ahead of iPhone App Sideloading Deadline",
-      "https://www.macrumors.com/2024/01/12/tim-cook-meets-eu-antitrust-chief/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Dynamic Programming is not Black Magic",
       "https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 09:40:21",
-      "https://news.ycombinator.com/item?id=38988944"
-    ],
-    [
-      "ICO fines HelloFresh £140k for spam texts and emails",
-      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "What Was ISDN?",
       "https://tedium.co/2024/01/12/isdn-history-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 10:39:19",
+      "https://news.ycombinator.com/item?id=38966430"
+    ],
+    [
+      "QMK and Keyboards",
+      "https://getreuer.info/posts/keyboards/index.html"
     ]
   ],
   [
