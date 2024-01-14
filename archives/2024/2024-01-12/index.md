@@ -71,6 +71,7 @@
 * [2024-01-12, 10:35:02](https://news.ycombinator.com/item?id=38966386) - [\"Millennium Camera\" to take a 1k-year long-exposure photo](https://newatlas.com/photography/millennium-camera-1000-year-long-exposure-photo/)
 * [2024-01-12, 10:31:21](https://news.ycombinator.com/item?id=38966352) - [Nuclear smartphone 3V battery lasting for 50 years](https://energymetalnews.com/2024/01/12/nuclear-battery-produces-power-for-50-years-without-needing-to-charge/)
 * [2024-01-12, 10:24:12](https://news.ycombinator.com/item?id=38966306) - [IAC sold 17 apps to Bending Spoons. $100M deal, all 330 employees fired](https://twitter.com/rjonesy/status/1745567200600076531)
+* [2024-01-12, 10:17:01](https://news.ycombinator.com/item?id=38966257) - [Terse: A language with hi-level look-and-feel, low-level control (1995) [pdf]](http://www.terse.com/ddj.pdf)
 * [2024-01-12, 10:10:31](https://news.ycombinator.com/item?id=38966213) - [The Magic of the Blackboard](https://nautil.us/the-magic-of-the-blackboard-487759/)
 * [2024-01-12, 09:59:40](https://news.ycombinator.com/item?id=38966145) - [Is Fortran \"A Dead Language\"?](https://cpufun.substack.com/p/is-fortran-a-dead-language)
 * [2024-01-12, 09:57:48](https://news.ycombinator.com/item?id=38966129) - [Mysticism and Empiricism](https://asteriskmag.com/issues/04/mysticism-empiricism)
