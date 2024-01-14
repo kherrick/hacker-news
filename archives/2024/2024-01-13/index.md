@@ -84,6 +84,7 @@
 * [2024-01-13, 08:06:52](https://news.ycombinator.com/item?id=38978115) - [The more features you add](https://www.lukew.com/ff/entry.asp?2046)
 * [2024-01-13, 08:04:15](https://news.ycombinator.com/item?id=38978107) - [Show HN: I made a site to simplify recommending talented people to others](https://www.youshouldworkwith.com)
 * [2024-01-13, 07:49:53](https://news.ycombinator.com/item?id=38978067) - [A first dip into OS kernel development with xv6 and the 6.1810 labs](https://jannestimm.com/posts/xv6/)
+* [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [A Suprising Discovery Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
 * [2024-01-13, 07:24:37](https://news.ycombinator.com/item?id=38977980) - [Kenyan University introduces degree in witchcraft.](https://iharare.com/kenya-university-introduces-a-degree-program-in-witchcraft/)
 * [2024-01-13, 07:00:19](https://news.ycombinator.com/item?id=38977902) - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
