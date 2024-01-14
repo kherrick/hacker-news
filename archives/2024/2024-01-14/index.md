@@ -22,6 +22,7 @@
 * [2024-01-14, 04:31:09](https://news.ycombinator.com/item?id=38987489) - [YouTube started slowing video buffer with adblock enabled](https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/)
 * [2024-01-14, 04:12:56](https://news.ycombinator.com/item?id=38987383) - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 * [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
+* [2024-01-14, 03:17:49](https://news.ycombinator.com/item?id=38987096) - [He spent his life building a $1M stereo](https://www.washingtonpost.com/style/interactive/2024/ken-fritz-greatest-stereo-auction-cost)
 * [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
 * [2024-01-14, 01:34:59](https://news.ycombinator.com/item?id=38986546) - [OpenD, a D language fork that is open to your contributions](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
