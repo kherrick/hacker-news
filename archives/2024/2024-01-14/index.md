@@ -14,6 +14,7 @@
 * [2024-01-14, 15:58:24](https://news.ycombinator.com/item?id=38991568) - [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 * [2024-01-14, 15:53:54](https://news.ycombinator.com/item?id=38991521) - [Unlocking the truth about diabetes: 'The science has been pretty awful'](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
 * [2024-01-14, 15:41:49](https://news.ycombinator.com/item?id=38991392) - [Crystal 1.11.0 Is Released](https://crystal-lang.org/2024/01/08/1.11.0-released/)
+* [2024-01-14, 15:35:07](https://news.ycombinator.com/item?id=38991317) - [Mexico building rail rival as water shortages drain Panama Canal](https://www.japantimes.co.jp/business/2023/11/16/mexico-rail-rival-panama-canal/)
 * [2024-01-14, 15:29:21](https://news.ycombinator.com/item?id=38991248) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-14, 15:18:23](https://news.ycombinator.com/item?id=38991145) - [OnnxStream running TinyLlama and Mistral 7B, with CUDA support](https://github.com/vitoplantamura/OnnxStream/blob/master/assets/LLM.md)
 * [2024-01-14, 15:11:12](https://news.ycombinator.com/item?id=38991062) - [Justwood – The Nr1 Source for Free PDF Woodworking Plans and Guides](https://justwood.webcloner.net)
