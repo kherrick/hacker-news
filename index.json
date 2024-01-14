@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-01-14, 15:05:39",
-      "https://news.ycombinator.com/item?id=38991007"
+      "2024-01-14, 15:53:54",
+      "https://news.ycombinator.com/item?id=38991521"
     ],
     [
-      "Gasoline is cheap – but charging an EV is still cheaper",
-      "https://grist.org/energy/gasoline-is-cheap-right-now-but-charging-an-ev-is-still-cheaper/"
+      "Unlocking the truth about diabetes: 'The science has been pretty awful'",
+      "https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment"
     ]
   ],
   [
@@ -41,22 +41,12 @@
   ],
   [
     [
-      "2024-01-14, 14:13:53",
-      "https://news.ycombinator.com/item?id=38990561"
+      "2024-01-14, 13:30:10",
+      "https://news.ycombinator.com/item?id=38990197"
     ],
     [
-      "AMD Unveils Ryzen 8000G Series Processors: Zen 4 APUs for Desktop with Ryzen AI",
-      "https://www.anandtech.com/show/21208/amd-unveils-ryzen-8000g-series-processors-zen-4-apus-for-desktop-with-ryzen-ai"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 12:06:33",
-      "https://news.ycombinator.com/item?id=38989690"
-    ],
-    [
-      "Nuclear battery produces power for 50 years without needing to charge",
-      "https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html"
+      "Show HN: A no-frills CV template using Typst and YAML to version control CV data",
+      "https://github.com/jskherman/cv.typ"
     ]
   ],
   [
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2024-01-14, 09:45:24",
-      "https://news.ycombinator.com/item?id=38988960"
-    ],
-    [
-      "The Ultimate Docker Cheat Sheet",
-      "https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet/"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 09:42:15",
       "https://news.ycombinator.com/item?id=38988948"
     ],
     [
       "Dynamic programming is not black magic",
       "https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 09:40:21",
-      "https://news.ycombinator.com/item?id=38988944"
-    ],
-    [
-      "ICO fines HelloFresh £140k for spam texts and emails",
-      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/"
     ]
   ],
   [
@@ -171,12 +141,22 @@
   ],
   [
     [
-      "2024-01-13, 20:16:37",
-      "https://news.ycombinator.com/item?id=38984096"
+      "2024-01-13, 20:55:30",
+      "https://news.ycombinator.com/item?id=38984457"
     ],
     [
-      "What is the difference between a terminal, a shell, a TTY and a console? (2012)",
-      "https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con"
+      "Things I Learnt in 2023",
+      "https://drobinin.com/posts/things-i-learnt-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 18:38:53",
+      "https://news.ycombinator.com/item?id=38983043"
+    ],
+    [
+      "The Slow Frontier of Genetic Choice",
+      "https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/"
     ]
   ],
   [
@@ -201,12 +181,32 @@
   ],
   [
     [
-      "2024-01-13, 12:31:20",
-      "https://news.ycombinator.com/item?id=38979370"
+      "2024-01-13, 16:09:12",
+      "https://news.ycombinator.com/item?id=38981216"
     ],
     [
-      "Painting from Primitives (2017)",
-      "https://schollz.com/tinker/primitives/"
+      "Listening with LLM",
+      "https://paul.mou.dev/posts/2023-12-31-listening-with-llm/"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 12:58:14",
+      "https://news.ycombinator.com/item?id=38979549"
+    ],
+    [
+      "Compressing Text into Images",
+      "https://shkspr.mobi/blog/2024/01/compressing-text-into-images/"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 09:33:59",
+      "https://news.ycombinator.com/item?id=38978435"
+    ],
+    [
+      "My Knowledge Lakehouse",
+      "https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html"
     ]
   ],
   [
@@ -221,12 +221,52 @@
   ],
   [
     [
+      "2024-01-12, 23:24:55",
+      "https://news.ycombinator.com/item?id=38975560"
+    ],
+    [
+      "Flaubert versus the World",
+      "https://newrepublic.com/article/177834/flaubert-versus-world-nyrb-letters-review"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 18:27:48",
+      "https://news.ycombinator.com/item?id=38971896"
+    ],
+    [
+      "Fracking eyeballs at the turn of the 20th century",
+      "https://asteriskmag.com/issues/04/fracking-eyeballs"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 16:58:46",
+      "https://news.ycombinator.com/item?id=38970587"
+    ],
+    [
+      "Margaret Mead wanted to save the world via LSD",
+      "https://www.latimes.com/entertainment-arts/books/story/2024-01-12/margaret-mead-wanted-to-save-the-world-through-lsd-the-government-had-other-ideas"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 10:39:19",
       "https://news.ycombinator.com/item?id=38966430"
     ],
     [
       "QMK and Keyboards",
       "https://getreuer.info/posts/keyboards/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 10:30:21",
+      "https://news.ycombinator.com/item?id=38966345"
+    ],
+    [
+      "Smalltalk simplicity and consistency vs. other languages (2022) [video]",
+      "https://www.youtube.com/watch?v=QFZqilshyL4"
     ]
   ],
   [
@@ -247,46 +287,6 @@
     [
       "The young people sifting through the internet's worst horrors",
       "https://www.ft.com/content/ef42e78f-e578-450b-9e43-36fbd1e20d01"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 07:49:21",
-      "https://news.ycombinator.com/item?id=38965268"
-    ],
-    [
-      "Pydvice: An attempt at bringing (defadvice) from Elisp to Python",
-      "https://github.com/sshirokov/pydvice"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 06:55:15",
-      "https://news.ycombinator.com/item?id=38964884"
-    ],
-    [
-      "Asus Zenbook Duo 2024",
-      "https://www.asus.com/us/laptops/for-home/zenbook/asus-zenbook-duo-2024-ux8406/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 06:14:12",
-      "https://news.ycombinator.com/item?id=38964575"
-    ],
-    [
-      "Smart binoculars can identify 9k birds",
-      "https://www.digitalcameraworld.com/news/worlds-first-ever-smart-binoculars-can-identify-up-to-9000-birds-thanks-built-in-ai"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 06:13:51",
-      "https://news.ycombinator.com/item?id=38964572"
-    ],
-    [
-      "Panama Canal drought forces Maersk to start using land bridge for Oceania cargo",
-      "https://www.cnbc.com/2024/01/11/panama-canal-drought-moves-maersk-to-start-using-land-bridge-for-cargo.html"
     ]
   ],
   [
