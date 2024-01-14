@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 04:31:09](https://news.ycombinator.com/item?id=38987489) - [YouTube started slowing video buffer with adblock enabled](https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/)
 * [2024-01-14, 03:20:05](https://news.ycombinator.com/item?id=38987109) - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 * [2024-01-14, 02:40:41](https://news.ycombinator.com/item?id=38986899) - ['This Has Been Going on for Years.' Inside Boeing's Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
 * [2024-01-14, 02:36:46](https://news.ycombinator.com/item?id=38986880) - [Nitter.net Has Disappeared](https://github.com/zedeus/nitter/issues/1150)
@@ -13,7 +14,6 @@
 * [2024-01-13, 21:51:04](https://news.ycombinator.com/item?id=38984953) - [Celestia: Real-time 3D visualization of space](https://github.com/CelestiaProject/Celestia)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
 * [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
-* [2024-01-13, 20:26:56](https://news.ycombinator.com/item?id=38984197) - [Coming of Age at the Dawn of the Social Internet](https://www.newyorker.com/culture/the-weekend-essay/coming-of-age-at-the-dawn-of-the-social-internet)
 * [2024-01-13, 20:16:37](https://news.ycombinator.com/item?id=38984096) - [What is the difference between a 'terminal', a 'shell', a 'TTY' and a 'console'?](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
 * [2024-01-13, 19:41:59](https://news.ycombinator.com/item?id=38983742) - [AsmBB – a lightweight web forum engine written in assembly language](https://asmbb.org/what-is-asmbb.1/)
 * [2024-01-13, 19:29:17](https://news.ycombinator.com/item?id=38983608) - [Exposed RSS](https://chriscoyier.net/2024/01/13/exposed-rss/)
