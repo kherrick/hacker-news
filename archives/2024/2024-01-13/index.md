@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
 * [2024-01-13, 23:51:03](https://news.ycombinator.com/item?id=38985962) - [John Michell: Country Parson Described Black Holes in 1783 (2000)](https://www.amnh.org/learn-teach/curriculum-collections/cosmic-horizons-book/john-michell-black-holes)
+* [2024-01-13, 23:14:05](https://news.ycombinator.com/item?id=38985672) - [Why I Built Zuzalu](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/)
 * [2024-01-13, 22:44:14](https://news.ycombinator.com/item?id=38985409) - [Decker – A HyperCard Replacement](https://beyondloom.com/decker/)
 * [2024-01-13, 22:35:47](https://news.ycombinator.com/item?id=38985343) - [A math professor who objects to diversity statements](https://www.theatlantic.com/ideas/archive/2023/12/professor-american-academia-parallels-soviet-union/676305/)
 * [2024-01-13, 22:12:10](https://news.ycombinator.com/item?id=38985152) - [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/)
