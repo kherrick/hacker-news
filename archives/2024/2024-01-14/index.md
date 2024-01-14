@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+* [2024-01-14, 21:10:05](https://news.ycombinator.com/item?id=38994473) - [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
 * [2024-01-14, 19:47:16](https://news.ycombinator.com/item?id=38993748) - [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
 * [2024-01-14, 19:40:26](https://news.ycombinator.com/item?id=38993679) - [Dutch designer drives his car on the plastic waste he collects](https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/)

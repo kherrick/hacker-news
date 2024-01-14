@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+* [2024-01-14, 21:10:05](https://news.ycombinator.com/item?id=38994473) - [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
-* [2024-01-14, 19:40:26](https://news.ycombinator.com/item?id=38993679) - [Dutch designer drives his car on the plastic waste he collects](https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/)
 * [2024-01-14, 19:37:22](https://news.ycombinator.com/item?id=38993657) - [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 * [2024-01-14, 18:48:04](https://news.ycombinator.com/item?id=38993178) - [Ancestry to paywall formerly free features included with DNA kit](https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features)
@@ -13,7 +14,6 @@
 * [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
 * [2024-01-14, 15:35:07](https://news.ycombinator.com/item?id=38991317) - [Mexico building rail rival as water shortages drain Panama Canal](https://www.japantimes.co.jp/business/2023/11/16/mexico-rail-rival-panama-canal/)
 * [2024-01-14, 15:29:21](https://news.ycombinator.com/item?id=38991248) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
-* [2024-01-14, 14:02:52](https://news.ycombinator.com/item?id=38990445) - [Gas pumps freeze at Calgary gas stations [video]](https://calgary.citynews.ca/video/2024/01/12/gas-pumps-freeze-at-calgary-gas-stations/)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 07:34:37](https://news.ycombinator.com/item?id=38988312) - [A collector of math and physics surprises (2018)](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 * [2024-01-13, 20:55:30](https://news.ycombinator.com/item?id=38984457) - [Things I Learnt in 2023](https://drobinin.com/posts/things-i-learnt-in-2023/)
