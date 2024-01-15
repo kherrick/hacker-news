@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 20:11:44](https://news.ycombinator.com/item?id=39005470) - [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our Language, Our World](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 * [2024-01-15, 20:04:47](https://news.ycombinator.com/item?id=39005399) - [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
 * [2024-01-15, 19:48:09](https://news.ycombinator.com/item?id=39005238) - [\"The Girls in Their Summer Dresses\" – Irwin Shaw (1939)](https://www.classicshorts.com/stories/dresses.html)
@@ -16,6 +17,8 @@
 * [2024-01-15, 18:58:38](https://news.ycombinator.com/item?id=39004621) - [GameStop Ends NFT Marketplace, Is This Beginning of the End?](https://digialps.com/gamestop-ends-nft-marketplace-is-this-beginning-of-the-end/)
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
 * [2024-01-15, 18:02:39](https://news.ycombinator.com/item?id=39003942) - [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
+* [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
+* [2024-01-15, 17:57:51](https://news.ycombinator.com/item?id=39003867) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 * [2024-01-15, 17:51:06](https://news.ycombinator.com/item?id=39003773) - [The Most Toxic Plant in North America](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
 * [2024-01-15, 17:34:46](https://news.ycombinator.com/item?id=39003580) - [What's Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
 * [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
