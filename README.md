@@ -2,7 +2,6 @@
 
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
 * [2024-01-15, 18:02:39](https://news.ycombinator.com/item?id=39003942) - [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
-* [2024-01-15, 17:34:46](https://news.ycombinator.com/item?id=39003580) - [What's Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
 * [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 17:22:51](https://news.ycombinator.com/item?id=39003420) - [App Store to Be 'Split in Two' Ahead of EU iPhone Sideloading Deadline](https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/)
 * [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
@@ -13,6 +12,7 @@
 * [2024-01-15, 17:02:33](https://news.ycombinator.com/item?id=39003066) - [(Unsuccessfully) Fine-tuning GPT to play \"Connections\"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
 * [2024-01-15, 16:29:53](https://news.ycombinator.com/item?id=39002643) - [FossifyOrg fork – floss replacement for Simple Mobile Tools](https://github.com/FossifyOrg)
 * [2024-01-15, 15:46:02](https://news.ycombinator.com/item?id=39002200) - [Show HN: Edu AI, a company grown from my research (AI and pedagogy)](https://news.ycombinator.com/item?id=39002200)
+* [2024-01-15, 15:41:26](https://news.ycombinator.com/item?id=39002156) - [Microsoft is working on a Copilot Pro subscription (APK Teardown)](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 14:50:07](https://news.ycombinator.com/item?id=39001577) - [MIT MicroMasters](https://micromasters.mit.edu/)
@@ -27,9 +27,9 @@
 * [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [The hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
-* [2024-01-13, 21:06:51](https://news.ycombinator.com/item?id=38984564) - [Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)](https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/)
 * [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-01-13, 12:11:16](https://news.ycombinator.com/item?id=38979266) - [20.5 Years of XP and Agile (2020)](https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/)
+* [2024-01-13, 10:55:33](https://news.ycombinator.com/item?id=38978851) - [Flying Circuses](https://www.atlasobscura.com/articles/flying-circus-aerial-maps)
 
 ## [Archives](archives/index.md)
 
