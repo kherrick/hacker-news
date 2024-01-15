@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 23:03:46](https://news.ycombinator.com/item?id=39007248) - [Watch Free Online Documentaries](https://ihavenotv.com/)
 * [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 * [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
@@ -14,7 +15,6 @@
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-01-15, 17:57:51](https://news.ycombinator.com/item?id=39003867) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 * [2024-01-15, 17:51:06](https://news.ycombinator.com/item?id=39003773) - [Spotted water hemlock: the most toxic plant in North America (2017)](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
-* [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
 * [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
 * [2024-01-15, 17:02:33](https://news.ycombinator.com/item?id=39003066) - [(Unsuccessfully) Fine-tuning GPT to play \"Connections\"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
@@ -27,9 +27,9 @@
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing data transfer costs in AWS](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
 * [2024-01-14, 12:55:39](https://news.ycombinator.com/item?id=38989999) - [How to write a logline producers won't pass on](https://www.studiobinder.com/blog/write-compelling-logline-examples)
+* [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE?](https://www.gatesnotes.com/Lights-Out)
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-* [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 
 ## [Archives](archives/index.md)
 
