@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 16:44:26](https://news.ycombinator.com/item?id=39002818) - [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
 * [2024-01-15, 16:38:18](https://news.ycombinator.com/item?id=39002740) - [Scrum Sucks](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf)
 * [2024-01-15, 16:32:23](https://news.ycombinator.com/item?id=39002670) - [Ask HN: What will your kids be proud of 10 years?](https://news.ycombinator.com/item?id=39002670)
 * [2024-01-15, 16:14:07](https://news.ycombinator.com/item?id=39002460) - [Htmx is now BSD Zero-Clause licenced](https://twitter.com/htmx_org/status/1746880860723544211)
