@@ -64,6 +64,7 @@
 * [2024-01-13, 12:29:08](https://news.ycombinator.com/item?id=38979356) - [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
 * [2024-01-13, 12:22:50](https://news.ycombinator.com/item?id=38979320) - [Edward Hopper: An American Love Story](https://www.pbs.org/wnet/americanmasters/hopper-an-american-love-story-about/30429/)
 * [2024-01-13, 12:22:37](https://news.ycombinator.com/item?id=38979318) - [Last surviving scientist on Japan's atomic bomb program tells his story](https://www.youtube.com/watch?v=P4DThUr7bsY)
+* [2024-01-13, 12:11:16](https://news.ycombinator.com/item?id=38979266) - [20.5 Years of XP and Agile](https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/)
 * [2024-01-13, 12:06:49](https://news.ycombinator.com/item?id=38979241) - [Would Luddites find the gig economy familiar?](https://arstechnica.com/gadgets/2024/01/would-luddites-find-the-gig-economy-familiar/)
 * [2024-01-13, 12:00:39](https://news.ycombinator.com/item?id=38979199) - [Trayd (YC S23) Is Hiring](https://www.ycombinator.com/companies/trayd/jobs/kr4Mx7E-founding-engineer)
 * [2024-01-13, 12:00:07](https://news.ycombinator.com/item?id=38979196) - [‘This Has Been Going on for Years’: Boeing’s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
