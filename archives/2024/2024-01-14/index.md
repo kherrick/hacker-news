@@ -59,6 +59,7 @@
 * [2024-01-14, 09:40:21](https://news.ycombinator.com/item?id=38988944) - [ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
 * [2024-01-14, 09:30:29](https://news.ycombinator.com/item?id=38988891) - [Zero-Click Bluetooth Attacks Pose Serious Threat Across Major Operating Systems](https://www.cyberkendra.com/2024/01/zero-click-bluetooth-attacks-pose.html)
 * [2024-01-14, 09:24:44](https://news.ycombinator.com/item?id=38988859) - [One liter of bottled water found to contain 240k plastic fragments](https://newatlas.com/science/advanced-imaging-techniques-240000-nanoplastics-one-liter-bottled-water/)
+* [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
 * [2024-01-14, 07:34:37](https://news.ycombinator.com/item?id=38988312) - [A collector of math and physics surprises (2018)](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 * [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 06:22:40](https://news.ycombinator.com/item?id=38988019) - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
