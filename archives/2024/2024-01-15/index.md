@@ -6,6 +6,7 @@
 
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
 * [2024-01-15, 18:02:39](https://news.ycombinator.com/item?id=39003942) - [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
+* [2024-01-15, 17:51:06](https://news.ycombinator.com/item?id=39003773) - [The Most Toxic Plant in North America](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
 * [2024-01-15, 17:34:46](https://news.ycombinator.com/item?id=39003580) - [What's Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
 * [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 17:22:51](https://news.ycombinator.com/item?id=39003420) - [App Store to Be 'Split in Two' Ahead of EU iPhone Sideloading Deadline](https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/)
