@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 * [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
@@ -15,7 +16,6 @@
 * [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
 * [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
-* [2024-01-15, 17:08:13](https://news.ycombinator.com/item?id=39003182) - [Effortless OpenBSD Audio and Desktop Screen Recording Guide](https://www.undeadly.org/cgi?action=article;sid=20240115170740)
 * [2024-01-15, 17:02:33](https://news.ycombinator.com/item?id=39003066) - [(Unsuccessfully) Fine-tuning GPT to play \"Connections\"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
 * [2024-01-15, 16:29:53](https://news.ycombinator.com/item?id=39002643) - [Fossify – Open-source fork of Simple Mobile Tools](https://github.com/FossifyOrg)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
