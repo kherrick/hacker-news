@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 18:58:38](https://news.ycombinator.com/item?id=39004621) - [GameStop Ends NFT Marketplace, Is This Beginning of the End?](https://digialps.com/gamestop-ends-nft-marketplace-is-this-beginning-of-the-end/)
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
-* [2024-01-15, 18:02:39](https://news.ycombinator.com/item?id=39003942) - [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
 * [2024-01-15, 17:51:06](https://news.ycombinator.com/item?id=39003773) - [The Most Toxic Plant in North America](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
 * [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
