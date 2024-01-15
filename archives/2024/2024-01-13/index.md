@@ -70,6 +70,7 @@
 * [2024-01-13, 11:38:37](https://news.ycombinator.com/item?id=38979091) - [Epic Games' \"The RAD Debugger\"](https://github.com/EpicGames/raddebugger)
 * [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
 * [2024-01-13, 11:05:11](https://news.ycombinator.com/item?id=38978906) - [How to live off the edge of the cliff](https://medium.com/@foundress/how-to-live-off-the-edge-of-the-cliff-and-make-the-most-of-it-59b76f670417)
+* [2024-01-13, 10:55:33](https://news.ycombinator.com/item?id=38978851) - [Flying Circuses](https://www.atlasobscura.com/articles/flying-circus-aerial-maps)
 * [2024-01-13, 10:52:37](https://news.ycombinator.com/item?id=38978833) - [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
 * [2024-01-13, 10:30:20](https://news.ycombinator.com/item?id=38978705) - [FAA grounds B737 Max 9 for the time being](https://www.faa.gov/newsroom/updates-grounding-boeing-737-max-9-aircraft)
 * [2024-01-13, 10:25:08](https://news.ycombinator.com/item?id=38978665) - [GoatCounter creator is hoping to raise at least €1k for basic living expense](https://github.com/arp242/goatcounter/releases/tag/v2.5.0)
