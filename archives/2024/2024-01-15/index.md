@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 14:17:53](https://news.ycombinator.com/item?id=39001236) - [Book Stores Refuse to Host an Event for My Book](https://www.robkhenderson.com/p/book-stores-dont-want-to-host-an)
+* [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 * [2024-01-15, 12:40:51](https://news.ycombinator.com/item?id=39000192) - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
