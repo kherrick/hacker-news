@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-15, 19:24:44",
+      "https://news.ycombinator.com/item?id=39004963"
+    ],
+    [
+      "SQLite 3.45 released with JSONB support",
+      "https://www.sqlite.org/changes.html#version_3_45_0"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 19:10:34",
       "https://news.ycombinator.com/item?id=39004785"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-01-15, 16:00:16",
+      "https://news.ycombinator.com/item?id=39002291"
+    ],
+    [
+      "Fishshell rewrite-it-in Rust progress: 100%",
+      "https://aus.social/@zanchey/111760402786767224"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 15:46:02",
       "https://news.ycombinator.com/item?id=39002200"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-01-14, 21:56:29",
-      "https://news.ycombinator.com/item?id=38994817"
-    ],
-    [
-      "When Random Isn't",
-      "https://orlp.net/blog/when-random-isnt/"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 10:40:06",
       "https://news.ycombinator.com/item?id=38989249"
     ],
@@ -287,16 +297,6 @@
     [
       "20.5 Years of XP and Agile (2020)",
       "https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 10:55:33",
-      "https://news.ycombinator.com/item?id=38978851"
-    ],
-    [
-      "Flying Circuses",
-      "https://www.atlasobscura.com/articles/flying-circus-aerial-maps"
     ]
   ]
 ]
