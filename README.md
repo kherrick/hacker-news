@@ -18,7 +18,6 @@
 * [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-13, 12:58:14](https://news.ycombinator.com/item?id=38979549) - [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
 * [2024-01-13, 12:00:07](https://news.ycombinator.com/item?id=38979196) - [‘This Has Been Going on for Years’: Boeing’s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
-* [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
 * [2024-01-13, 09:33:59](https://news.ycombinator.com/item?id=38978435) - [My Knowledge Lakehouse](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)
 * [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
 * [2024-01-12, 23:38:48](https://news.ycombinator.com/item?id=38975667) - [Queen Victoria's Stalker](https://www.historytoday.com/archive/history-matters/queen-victorias-stalker)
@@ -29,6 +28,7 @@
 * [2024-01-12, 15:53:49](https://news.ycombinator.com/item?id=38969533) - [A supply chain attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-12, 10:39:19](https://news.ycombinator.com/item?id=38966430) - [QMK and Keyboards](https://getreuer.info/posts/keyboards/index.html)
 * [2024-01-12, 10:30:21](https://news.ycombinator.com/item?id=38966345) - [Smalltalk simplicity and consistency vs. other languages (2022) [video]](https://www.youtube.com/watch?v=QFZqilshyL4)
+* [2024-01-12, 10:17:01](https://news.ycombinator.com/item?id=38966257) - [Terse: A language with hi-level look-and-feel, low-level control (1995) [pdf]](http://www.terse.com/ddj.pdf)
 * [2024-01-12, 08:45:35](https://news.ycombinator.com/item?id=38965636) - [Penrose – Create diagrams by typing notation in plain text](https://penrose.cs.cmu.edu/)
 
 ## [Archives](archives/index.md)
