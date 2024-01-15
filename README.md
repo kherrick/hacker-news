@@ -18,7 +18,7 @@
 * [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
-* [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [Why the hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
+* [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [The hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
 * [2024-01-14, 07:34:37](https://news.ycombinator.com/item?id=38988312) - [A collector of math and physics surprises (2018)](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 * [2024-01-13, 13:40:45](https://news.ycombinator.com/item?id=38979771) - [He spent his life building a $1M stereo](https://www.washingtonpost.com/style/interactive/2024/ken-fritz-greatest-stereo-auction-cost/)
 * [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
