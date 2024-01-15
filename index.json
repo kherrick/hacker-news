@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-01-15, 17:26:45",
+      "https://news.ycombinator.com/item?id=39003469"
+    ],
+    [
+      "High-speed 10Gbps full-mesh network based on USB4 for just $47.98",
+      "https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 17:22:51",
+      "https://news.ycombinator.com/item?id=39003420"
+    ],
+    [
+      "App Store to Be 'Split in Two' Ahead of EU iPhone Sideloading Deadline",
+      "https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 17:22:27",
       "https://news.ycombinator.com/item?id=39003417"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-01-15, 17:14:17",
-      "https://news.ycombinator.com/item?id=39003286"
-    ],
-    [
-      "Emu War",
-      "https://en.wikipedia.org/wiki/Emu_War"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 17:12:22",
       "https://news.ycombinator.com/item?id=39003255"
     ],
@@ -71,52 +81,12 @@
   ],
   [
     [
-      "2024-01-15, 17:06:25",
-      "https://news.ycombinator.com/item?id=39003137"
-    ],
-    [
-      "V8 is Faster and Safer than",
-      "https://v8.dev/blog/holiday-season-2023"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 17:02:33",
       "https://news.ycombinator.com/item?id=39003066"
     ],
     [
       "(Unsuccessfully) Fine-tuning GPT to play \"Connections\"",
       "https://www.danielcorin.com/posts/2024/fine-tuning-connections/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 16:46:16",
-      "https://news.ycombinator.com/item?id=39002840"
-    ],
-    [
-      "Vision isn't what you think it is – see for yourself [video]",
-      "https://www.youtube.com/watch?v=JTKwpqE9fsc"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 16:44:26",
-      "https://news.ycombinator.com/item?id=39002818"
-    ],
-    [
-      "Cat Drop",
-      "https://en.wikipedia.org/wiki/Operation_Cat_Drop"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 16:38:18",
-      "https://news.ycombinator.com/item?id=39002740"
-    ],
-    [
-      "Scrum Sucks",
-      "https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf"
     ]
   ],
   [
@@ -167,6 +137,16 @@
     [
       "MIT MicroMasters",
       "https://micromasters.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 14:49:51",
+      "https://news.ycombinator.com/item?id=39001572"
+    ],
+    [
+      "A minimal working Rust / SDL2 / WASM browser game",
+      "https://github.com/awwsmm/hello-rust-sdl2-wasm"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "The Swimmer (1964)",
       "https://www.newyorker.com/magazine/1964/07/18/the-swimmer"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 21:56:29",
+      "https://news.ycombinator.com/item?id=38994817"
+    ],
+    [
+      "When Random Isn't",
+      "https://orlp.net/blog/when-random-isnt/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)",
       "https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 12:11:16",
+      "https://news.ycombinator.com/item?id=38979266"
+    ],
+    [
+      "20.5 Years of XP and Agile (2020)",
+      "https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/"
     ]
   ]
 ]
