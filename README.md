@@ -25,11 +25,11 @@
 * [2024-01-15, 14:49:51](https://news.ycombinator.com/item?id=39001572) - [Show HN: A minimal working Rust / SDL2 / WASM browser game](https://github.com/awwsmm/hello-rust-sdl2-wasm)
 * [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing data transfer costs in AWS](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
-* [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods (2007)](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
 * [2024-01-14, 12:55:39](https://news.ycombinator.com/item?id=38989999) - [How to write a logline producers won't pass on](https://www.studiobinder.com/blog/write-compelling-logline-examples)
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
+* [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 
 ## [Archives](archives/index.md)
 
