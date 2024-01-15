@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-14, 22:39:55",
+      "https://news.ycombinator.com/item?id=38995169"
+    ],
+    [
+      "Kind of annoyed at React",
+      "https://blog.cassidoo.co/post/annoyed-at-react/"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 22:27:47",
       "https://news.ycombinator.com/item?id=38995068"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-01-14, 21:38:50",
+      "https://news.ycombinator.com/item?id=38994680"
+    ],
+    [
+      "Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502",
+      "https://thechipletter.substack.com/p/leaving-arizona"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 19:40:35",
       "https://news.ycombinator.com/item?id=38993680"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
+      "2024-01-14, 19:37:22",
+      "https://news.ycombinator.com/item?id=38993657"
+    ],
+    [
+      "Show HN: EXT – an easy way to build cross-platform desktop software",
+      "https://ext.store"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 19:24:46",
       "https://news.ycombinator.com/item?id=38993552"
     ],
     [
       "Fast RISC-V-based scripting back end for game engines",
       "https://github.com/fwsGonzo/rvscript"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 18:48:04",
-      "https://news.ycombinator.com/item?id=38993178"
-    ],
-    [
-      "Ancestry to paywall formerly free features included with DNA kit",
-      "https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features"
     ]
   ],
   [
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2024-01-14, 16:51:15",
-      "https://news.ycombinator.com/item?id=38992004"
-    ],
-    [
-      "Confessions of a Country Parson",
-      "https://unherd.com/?p=495758"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 16:44:44",
-      "https://news.ycombinator.com/item?id=38991953"
-    ],
-    [
-      "Ruffle: 2023 in Review",
-      "https://ruffle.rs/blog/2024/01/14/2023-in-review"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 16:06:15",
       "https://news.ycombinator.com/item?id=38991635"
     ],
     [
-      "Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe",
-      "https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large"
+      "COSMIC SETI",
+      "https://science.nrao.edu/facilities/vla/observing/cosmic-seti"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "A collector of math and physics surprises (2018)",
       "https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 16:09:12",
-      "https://news.ycombinator.com/item?id=38981216"
-    ],
-    [
-      "Listening with LLM",
-      "https://paul.mou.dev/posts/2023-12-31-listening-with-llm/"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2024-01-13, 11:05:11",
-      "https://news.ycombinator.com/item?id=38978906"
-    ],
-    [
-      "How to live off the edge of the cliff",
-      "https://medium.com/@foundress/how-to-live-off-the-edge-of-the-cliff-and-make-the-most-of-it-59b76f670417"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 09:33:59",
       "https://news.ycombinator.com/item?id=38978435"
     ],
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=38977983"
     ],
     [
-      "A Suprising Discovery Inside the Steam Deck's APU",
+      "Inside the Steam Deck's APU",
       "https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/."
     ]
   ],
@@ -257,6 +237,16 @@
     [
       "Autonomous trucking is harder than autonomous rideshare",
       "https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 18:27:48",
+      "https://news.ycombinator.com/item?id=38971896"
+    ],
+    [
+      "Fracking eyeballs at the turn of the 20th century",
+      "https://asteriskmag.com/issues/04/fracking-eyeballs"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Smalltalk simplicity and consistency vs. other languages (2022) [video]",
       "https://www.youtube.com/watch?v=QFZqilshyL4"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 08:45:35",
+      "https://news.ycombinator.com/item?id=38965636"
+    ],
+    [
+      "Penrose – Create diagrams by typing notation in plain text",
+      "https://penrose.cs.cmu.edu/"
     ]
   ]
 ]
