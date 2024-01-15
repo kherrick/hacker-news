@@ -11,6 +11,7 @@
 * [2024-01-15, 12:12:56](https://news.ycombinator.com/item?id=38999929) - [AI to hit almost 40% of jobs worldwide](https://www.cnbc.com/2024/01/15/imf-warns-ai-to-hit-almost-40percent-of-global-employment-worsen-inequality.html)
 * [2024-01-15, 11:21:34](https://news.ycombinator.com/item?id=38999597) - [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
 * [2024-01-15, 11:09:48](https://news.ycombinator.com/item?id=38999517) - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+* [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
 * [2024-01-15, 08:38:38](https://news.ycombinator.com/item?id=38998615) - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)

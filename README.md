@@ -2,8 +2,7 @@
 
 * [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 * [2024-01-15, 12:40:51](https://news.ycombinator.com/item?id=39000192) - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
-* [2024-01-15, 12:18:26](https://news.ycombinator.com/item?id=38999987) - [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
-* [2024-01-15, 11:21:34](https://news.ycombinator.com/item?id=38999597) - [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
+* [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 08:38:38](https://news.ycombinator.com/item?id=38998615) - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
@@ -20,6 +19,7 @@
 * [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
+* [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [The hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
 * [2024-01-13, 21:06:51](https://news.ycombinator.com/item?id=38984564) - [Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)](https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/)
 * [2024-01-13, 13:40:45](https://news.ycombinator.com/item?id=38979771) - [He spent his life building a $1M stereo](https://www.washingtonpost.com/style/interactive/2024/ken-fritz-greatest-stereo-auction-cost/)
 * [2024-01-13, 12:11:16](https://news.ycombinator.com/item?id=38979266) - [20.5 Years of XP and Agile (2020)](https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/)
