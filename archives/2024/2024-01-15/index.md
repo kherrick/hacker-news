@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
+* [2024-01-15, 14:59:47](https://news.ycombinator.com/item?id=39001686) - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
 * [2024-01-15, 14:52:15](https://news.ycombinator.com/item?id=39001600) - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
 * [2024-01-15, 14:35:21](https://news.ycombinator.com/item?id=39001399) - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
 * [2024-01-15, 14:17:53](https://news.ycombinator.com/item?id=39001236) - [Book Stores Refuse to Host an Event for My Book](https://www.robkhenderson.com/p/book-stores-dont-want-to-host-an)
