@@ -95,6 +95,7 @@
 * [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [A Suprising Discovery Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
 * [2024-01-13, 07:24:37](https://news.ycombinator.com/item?id=38977980) - [Kenyan University introduces degree in witchcraft.](https://iharare.com/kenya-university-introduces-a-degree-program-in-witchcraft/)
 * [2024-01-13, 07:00:19](https://news.ycombinator.com/item?id=38977902) - [Ashby (YC W19) Is Hiring Engineers Who Can Design (EMEA Remote)](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=0b7a2d09-b3ee-4181-a1df-be1ea3fff54e)
+* [2024-01-13, 06:38:03](https://news.ycombinator.com/item?id=38977827) - [Trip the Light Fantastic](https://en.wikipedia.org/wiki/Trip_the_light_fantastic)
 * [2024-01-13, 05:58:15](https://news.ycombinator.com/item?id=38977692) - [How to Be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 * [2024-01-13, 05:44:57](https://news.ycombinator.com/item?id=38977645) - [Decimal Time](https://en.wikipedia.org/wiki/Decimal_time)
 * [2024-01-13, 05:16:46](https://news.ycombinator.com/item?id=38977532) - [Shadcn: Beautifully designed components that you can copy-paste into your apps](https://ui.shadcn.com/)

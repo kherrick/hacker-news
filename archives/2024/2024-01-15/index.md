@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:35:49](https://news.ycombinator.com/item?id=39005749) - [Ask HN: Why do some YC companies keep posting the same job bi-weekly?](https://news.ycombinator.com/item?id=39005749)
 * [2024-01-15, 20:32:07](https://news.ycombinator.com/item?id=39005696) - [Americans can no longer afford their cars](https://www.newsweek.com/americans-can-no-longer-afford-their-cars-1859929)
 * [2024-01-15, 20:11:44](https://news.ycombinator.com/item?id=39005470) - [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)

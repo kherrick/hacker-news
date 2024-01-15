@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-15, 20:35:49](https://news.ycombinator.com/item?id=39005749) - [Ask HN: Why do some YC companies keep posting the same job bi-weekly?](https://news.ycombinator.com/item?id=39005749)
+* [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:11:44](https://news.ycombinator.com/item?id=39005470) - [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
-* [2024-01-15, 20:04:47](https://news.ycombinator.com/item?id=39005399) - [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
 * [2024-01-15, 19:48:09](https://news.ycombinator.com/item?id=39005238) - [\"The Girls in Their Summer Dresses\" – Irwin Shaw (1939)](https://www.classicshorts.com/stories/dresses.html)
+* [2024-01-15, 19:46:50](https://news.ycombinator.com/item?id=39005223) - [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
 * [2024-01-15, 19:43:11](https://news.ycombinator.com/item?id=39005187) - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network)
 * [2024-01-15, 19:26:58](https://news.ycombinator.com/item?id=39004993) - [GTA 5 actor goes nuclear on AI company that made a voice chatbot of him](https://www.pcgamer.com/gta-5-actor-goes-nuclear-on-ai-company-that-made-a-voice-chatbot-of-him-im-not-worried-about-being-replaced-i-just-hate-these-fkers/)
 * [2024-01-15, 19:24:44](https://news.ycombinator.com/item?id=39004963) - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
-* [2024-01-15, 19:10:34](https://news.ycombinator.com/item?id=39004785) - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
+* [2024-01-15, 19:08:23](https://news.ycombinator.com/item?id=39004755) - [Ask HN: OCR for 100 year old (German) handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
 * [2024-01-15, 19:06:18](https://news.ycombinator.com/item?id=39004725) - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-01-15, 17:57:51](https://news.ycombinator.com/item?id=39003867) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
@@ -29,7 +29,7 @@
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 * [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
-* [2024-01-13, 12:11:16](https://news.ycombinator.com/item?id=38979266) - [20.5 Years of XP and Agile (2020)](https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/)
+* [2024-01-13, 06:38:03](https://news.ycombinator.com/item?id=38977827) - [Trip the Light Fantastic](https://en.wikipedia.org/wiki/Trip_the_light_fantastic)
 
 ## [Archives](archives/index.md)
 
