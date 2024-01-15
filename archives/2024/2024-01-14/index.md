@@ -17,6 +17,7 @@
 * [2024-01-14, 19:37:22](https://news.ycombinator.com/item?id=38993657) - [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 * [2024-01-14, 18:48:04](https://news.ycombinator.com/item?id=38993178) - [Ancestry to paywall formerly free features included with DNA kit](https://easygenie.org/blogs/news/ancestrydna-plus-adds-new-fees-for-formerly-free-features)
+* [2024-01-14, 18:20:25](https://news.ycombinator.com/item?id=38992875) - [The $500M Dollar Typo](https://www.cockroachlabs.com/blog/true-tales-survival-usps/)
 * [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
 * [2024-01-14, 17:26:49](https://news.ycombinator.com/item?id=38992307) - [Electric buses withdrawn in south London after fire](https://www.bbc.com/news/uk-england-london-67967421)
