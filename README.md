@@ -2,7 +2,6 @@
 
 * [2024-01-15, 06:04:37](https://news.ycombinator.com/item?id=38997842) - [Ask HN: What would be the single piece of advice you'd give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
 * [2024-01-15, 05:21:32](https://news.ycombinator.com/item?id=38997692) - [Escaping from isolated networks using Broadcast DNS](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
-* [2024-01-15, 05:03:21](https://news.ycombinator.com/item?id=38997617) - [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
 * [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 * [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
@@ -25,6 +24,7 @@
 * [2024-01-13, 05:44:57](https://news.ycombinator.com/item?id=38977645) - [Decimal Time](https://en.wikipedia.org/wiki/Decimal_time)
 * [2024-01-12, 23:38:48](https://news.ycombinator.com/item?id=38975667) - [Queen Victoria's Stalker](https://www.historytoday.com/archive/history-matters/queen-victorias-stalker)
 * [2024-01-12, 23:24:56](https://news.ycombinator.com/item?id=38975561) - [What I learned selling my company](https://www.harryglaser.com/what-i-learned-selling-my-company/)
+* [2024-01-12, 20:18:20](https://news.ycombinator.com/item?id=38973404) - [Autonomous trucking is harder than autonomous rideshare](https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/)
 * [2024-01-12, 18:27:48](https://news.ycombinator.com/item?id=38971896) - [Fracking eyeballs at the turn of the 20th century](https://asteriskmag.com/issues/04/fracking-eyeballs)
 * [2024-01-12, 16:58:46](https://news.ycombinator.com/item?id=38970587) - [Margaret Mead, the Cold War, and the Troubled Birth of Psychedelic Science](https://www.latimes.com/entertainment-arts/books/story/2024-01-12/margaret-mead-wanted-to-save-the-world-through-lsd-the-government-had-other-ideas)
 * [2024-01-12, 15:53:49](https://news.ycombinator.com/item?id=38969533) - [A supply chain attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
