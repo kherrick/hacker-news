@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 19:24:44](https://news.ycombinator.com/item?id=39004963) - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
 * [2024-01-15, 19:10:34](https://news.ycombinator.com/item?id=39004785) - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 19:06:18](https://news.ycombinator.com/item?id=39004725) - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
 * [2024-01-15, 18:58:38](https://news.ycombinator.com/item?id=39004621) - [GameStop Ends NFT Marketplace, Is This Beginning of the End?](https://digialps.com/gamestop-ends-nft-marketplace-is-this-beginning-of-the-end/)
@@ -31,6 +32,7 @@
 * [2024-01-15, 16:07:48](https://news.ycombinator.com/item?id=39002401) - [Grindavík residents face uncertain future after volcano erupts again](https://www.theguardian.com/world/2024/jan/15/grindavik-residents-face-uncertain-future-after-volcano-erupts-again-iceland)
 * [2024-01-15, 16:02:56](https://news.ycombinator.com/item?id=39002324) - [Houthi ballistic missile strikes US-owned and operated ship: US Central Command](https://www.cnn.com/2024/01/15/politics/houthi-missile-strikes-us-owned-ship/index.html)
 * [2024-01-15, 16:01:15](https://news.ycombinator.com/item?id=39002304) - [Ireland housing crisis: \"Social contract has ruptured\"](https://www.nytimes.com/2024/01/15/world/europe/ireland-housing-crisis.html)
+* [2024-01-15, 16:00:16](https://news.ycombinator.com/item?id=39002291) - [Fishshell rewrite-it-in Rust progress: 100%](https://aus.social/@zanchey/111760402786767224)
 * [2024-01-15, 15:55:37](https://news.ycombinator.com/item?id=39002255) - [Boeing to increase quality inspections of 737 MAX production](https://www.bbc.co.uk/news/business-67984035)
 * [2024-01-15, 15:46:02](https://news.ycombinator.com/item?id=39002200) - [Show HN: Edu AI, a company grown from my research (AI and pedagogy)](https://news.ycombinator.com/item?id=39002200)
 * [2024-01-15, 15:41:26](https://news.ycombinator.com/item?id=39002156) - [Microsoft is working on a Copilot Pro subscription (APK Teardown)](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
