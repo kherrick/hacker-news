@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 17:14:27](https://news.ycombinator.com/item?id=39003292) - [Htmx changes license to Zero-Clause BSD](https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07)
+* [2024-01-15, 17:14:17](https://news.ycombinator.com/item?id=39003286) - [Emu War](https://en.wikipedia.org/wiki/Emu_War)
+* [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [The neglected clean heat we flush down the drains](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
 * [2024-01-15, 16:56:11](https://news.ycombinator.com/item?id=39002974) - [Why Germany Is Rich but Germans Are Poor and Angry](https://www.bloomberg.com/opinion/articles/2024-01-15/why-germany-is-rich-but-germans-are-poor-and-angry)
 * [2024-01-15, 16:46:16](https://news.ycombinator.com/item?id=39002840) - [Vision isn't what you think it is – see for yourself [video]](https://www.youtube.com/watch?v=JTKwpqE9fsc)
 * [2024-01-15, 16:44:26](https://news.ycombinator.com/item?id=39002818) - [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
