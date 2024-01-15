@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
 * [2024-01-15, 21:04:25](https://news.ycombinator.com/item?id=39006092) - [Americans Are Fake and the Dutch Are Rude (2022)](https://behavioralscientist.org/americans-are-fake-and-the-dutch-are-rude/)
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
