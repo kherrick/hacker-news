@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
+* [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 * [2024-01-15, 08:00:36](https://news.ycombinator.com/item?id=38998423) - [ChatGPT vs. Advent of Code](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
 * [2024-01-15, 07:37:50](https://news.ycombinator.com/item?id=38998313) - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
@@ -12,6 +13,7 @@
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
 * [2024-01-15, 06:04:37](https://news.ycombinator.com/item?id=38997842) - [Ask HN: What would be the single piece of advice you'd give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
 * [2024-01-15, 06:03:16](https://news.ycombinator.com/item?id=38997832) - [AI Will Transform the Global Economy. Let's Make Sure It Benefits Humanity](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)
+* [2024-01-15, 05:36:25](https://news.ycombinator.com/item?id=38997741) - [Do venture capitalists want forever war?](https://responsiblestatecraft.org/venture-capital-defense-companies/)
 * [2024-01-15, 05:21:32](https://news.ycombinator.com/item?id=38997692) - [Escaping from isolated networks using Broadcast DNS](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
 * [2024-01-15, 05:07:08](https://news.ycombinator.com/item?id=38997636) - [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
 * [2024-01-15, 05:03:21](https://news.ycombinator.com/item?id=38997617) - [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
