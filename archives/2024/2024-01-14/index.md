@@ -53,6 +53,7 @@
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-14, 11:46:12](https://news.ycombinator.com/item?id=38989585) - [Microsoft suggests command line fiddling to fix faulty Win 10 update (KB5034441)](https://www.theregister.com/2024/01/12/microsoft_update_for_bitlocker_vuln/)
 * [2024-01-14, 10:41:25](https://news.ycombinator.com/item?id=38989254) - [When \"blocked indefinitely\" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
+* [2024-01-14, 10:40:06](https://news.ycombinator.com/item?id=38989249) - [What's the Story on the \"Toxic Lady\"?](https://www.straightdope.com/21342164/what-s-the-story-on-the-toxic-lady)
 * [2024-01-14, 09:55:11](https://news.ycombinator.com/item?id=38989016) - [All PyCon 2023 talks sorted by the view count](https://techtalksweekly.substack.com/p/all-pycon-2023-talks-sorted-by-views)
 * [2024-01-14, 09:49:36](https://news.ycombinator.com/item?id=38988987) - [Free unexpected MIT courses to kick start the new year](https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a)
 * [2024-01-14, 09:48:48](https://news.ycombinator.com/item?id=38988982) - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
