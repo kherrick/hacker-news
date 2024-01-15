@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 22:39:55](https://news.ycombinator.com/item?id=38995169) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-14, 22:27:47](https://news.ycombinator.com/item?id=38995068) - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
+* [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 * [2024-01-14, 21:10:05](https://news.ycombinator.com/item?id=38994473) - [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
 * [2024-01-14, 19:47:16](https://news.ycombinator.com/item?id=38993748) - [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
@@ -21,6 +23,7 @@
 * [2024-01-14, 16:44:44](https://news.ycombinator.com/item?id=38991953) - [Ruffle: 2023 in Review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 * [2024-01-14, 16:09:46](https://news.ycombinator.com/item?id=38991662) - [The Open Source Community Is Still Maintaining Flash Player Support in 2024](https://www.phoronix.com/news/Adobe-Flash-Ruffle-2024)
 * [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [Cosmic: SETI Institute Is Unlocking the Mysteries of the Universe](https://www.seti.org/press-release/cosmic-seti-institute-unlocking-mysteries-universe-breakthrough-technology-karl-g-jansky-very-large)
+* [2024-01-14, 16:06:15](https://news.ycombinator.com/item?id=38991635) - [COSMIC SETI](https://science.nrao.edu/facilities/vla/observing/cosmic-seti)
 * [2024-01-14, 15:58:24](https://news.ycombinator.com/item?id=38991568) - [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
 * [2024-01-14, 15:53:54](https://news.ycombinator.com/item?id=38991521) - [Unlocking the truth about diabetes: 'The science has been pretty awful'](https://www.theguardian.com/society/2024/jan/14/unlocking-the-truth-about-diabetes-is-it-time-for-a-diet-based-treatment)
 * [2024-01-14, 15:41:49](https://news.ycombinator.com/item?id=38991392) - [Crystal 1.11.0 Is Released](https://crystal-lang.org/2024/01/08/1.11.0-released/)

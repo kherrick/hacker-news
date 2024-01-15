@@ -92,6 +92,7 @@
 * [2024-01-12, 09:05:33](https://news.ycombinator.com/item?id=38965762) - [Phi-2: Self-Extend Boosts Performance, Extends Context to 8k Without Training](https://old.reddit.com/r/LocalLLaMA/comments/194mmki/selfextend_works_for_phi2_now_looks_good)
 * [2024-01-12, 09:00:37](https://news.ycombinator.com/item?id=38965717) - [Font height differences between Windows and Mac (2019)](https://www.williamrchase.com/writing/2019-11-10-font-height-differences-between-windows-and-mac)
 * [2024-01-12, 08:46:38](https://news.ycombinator.com/item?id=38965646) - [Doing First Grade Math in Rust's Type System](https://fprasx.github.io/articles/type-system-arithmetic/)
+* [2024-01-12, 08:45:35](https://news.ycombinator.com/item?id=38965636) - [Penrose – Create diagrams by typing notation in plain text](https://penrose.cs.cmu.edu/)
 * [2024-01-12, 08:39:45](https://news.ycombinator.com/item?id=38965603) - [What Bed Linen Can Teach Us About Usability](https://www.incomparable.design/blog/what-bed-linen-can-teach)
 * [2024-01-12, 08:25:37](https://news.ycombinator.com/item?id=38965509) - [We removed advertising cookies, here's what happened](https://blog.sentry.io/we-removed-advertising-cookies-heres-what-happened/)
 * [2024-01-12, 08:12:00](https://news.ycombinator.com/item?id=38965429) - [Show HN: Conway's Game of Life, but with a gallery of other peoples patterns](https://game-of-life-f262d.web.app/)
