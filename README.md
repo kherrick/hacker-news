@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 * [2024-01-15, 12:40:51](https://news.ycombinator.com/item?id=39000192) - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 * [2024-01-15, 12:18:26](https://news.ycombinator.com/item?id=38999987) - [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
@@ -12,7 +11,7 @@
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
-* [2024-01-15, 02:52:56](https://news.ycombinator.com/item?id=38996954) - [Raspberry Pi is manufacturing 70K Raspberry Pi 5s per week](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february)
+* [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 * [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
@@ -22,6 +21,7 @@
 * [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
+* [2024-01-13, 21:06:51](https://news.ycombinator.com/item?id=38984564) - [Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)](https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/)
 * [2024-01-13, 12:11:16](https://news.ycombinator.com/item?id=38979266) - [20.5 Years of XP and Agile (2020)](https://henrikwarne.com/2020/04/27/20-5-years-of-xp-and-agile/)
 * [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
 * [2024-01-13, 10:55:33](https://news.ycombinator.com/item?id=38978851) - [Flying Circuses](https://www.atlasobscura.com/articles/flying-circus-aerial-maps)

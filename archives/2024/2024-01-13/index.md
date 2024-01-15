@@ -13,6 +13,7 @@
 * [2024-01-13, 21:46:43](https://news.ycombinator.com/item?id=38984915) - [Water microdroplets have potential to produce hydrogen peroxide](https://www.chemistryworld.com/news/water-surprise-microdroplets-have-potential-to-produce-h2o2/3010950.article)
 * [2024-01-13, 21:26:11](https://news.ycombinator.com/item?id=38984739) - [Cosmic: The Road to Alpha](https://blog.system76.com/post/cosmic-the-road-to-alpha/)
 * [2024-01-13, 21:11:04](https://news.ycombinator.com/item?id=38984609) - [LG washing machine sending 3.7GB of data a day](https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day)
+* [2024-01-13, 21:06:51](https://news.ycombinator.com/item?id=38984564) - [Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)](https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/)
 * [2024-01-13, 21:01:02](https://news.ycombinator.com/item?id=38984514) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs)
 * [2024-01-13, 21:00:40](https://news.ycombinator.com/item?id=38984506) - [Tachiyomi – It's Joever](https://tachiyomi.org/news/2024-01-13-goodbye)
 * [2024-01-13, 20:55:30](https://news.ycombinator.com/item?id=38984457) - [Things I Learnt in 2023](https://drobinin.com/posts/things-i-learnt-in-2023/)
