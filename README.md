@@ -3,6 +3,7 @@
 * [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 * [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
+* [2024-01-15, 20:41:26](https://news.ycombinator.com/item?id=39005818) - [Gigantic solar farms might change weather elsewhere](https://techxplore.com/news/2024-01-future-gigantic-solar-farms-impact.amp)
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:14:58](https://news.ycombinator.com/item?id=39005505) - [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
@@ -29,7 +30,6 @@
 * [2024-01-14, 12:55:39](https://news.ycombinator.com/item?id=38989999) - [How to write a logline producers won't pass on](https://www.studiobinder.com/blog/write-compelling-logline-examples)
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-* [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 
 ## [Archives](archives/index.md)
 
