@@ -8,6 +8,7 @@
 * [2024-01-15, 05:21:32](https://news.ycombinator.com/item?id=38997692) - [Escaping from isolated networks using Broadcast DNS](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
 * [2024-01-15, 05:07:08](https://news.ycombinator.com/item?id=38997636) - [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
 * [2024-01-15, 05:03:21](https://news.ycombinator.com/item?id=38997617) - [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
+* [2024-01-15, 02:52:56](https://news.ycombinator.com/item?id=38996954) - [Raspberry Pi is manufacturing 70K Raspberry Pi 5s per week](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february)
 * [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 * [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Data Brokers Watch: Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)

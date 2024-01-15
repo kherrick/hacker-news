@@ -74,6 +74,7 @@
 * [2024-01-12, 12:32:44](https://news.ycombinator.com/item?id=38967279) - [John C. Lilly and the Solid State Entity (2016)](https://seankerrigan.com/john-c-lilly-and-the-solid-state-entity/)
 * [2024-01-12, 12:28:53](https://news.ycombinator.com/item?id=38967262) - [Airbus Shatters Record for Jet Orders as Demand Soars](https://www.wsj.com/business/airlines/airbus-shatters-record-for-jet-orders-as-demand-soars-a9f75750)
 * [2024-01-12, 11:34:13](https://news.ycombinator.com/item?id=38966875) - [Post Office lied and threatened BBC over Fujitsu dev whistleblower](https://www.bbc.co.uk/news/uk-67884743)
+* [2024-01-12, 11:08:45](https://news.ycombinator.com/item?id=38966646) - [En Route: A Magazine About Trains in Japan [pdf]](https://www.tokyoweekender.com/wp-content/uploads/2023/10/En_Route_2023.pdf)
 * [2024-01-12, 11:01:47](https://news.ycombinator.com/item?id=38966601) - [CLI user experience case study](https://www.tweag.io/blog/2023-10-05-cli-ux-in-topiary/)
 * [2024-01-12, 10:46:25](https://news.ycombinator.com/item?id=38966475) - [RAD Debugger by Epic Games](https://github.com/EpicGames/raddebugger)
 * [2024-01-12, 10:39:19](https://news.ycombinator.com/item?id=38966430) - [QMK and Keyboards](https://getreuer.info/posts/keyboards/index.html)
