@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
 * [2024-01-15, 11:09:48](https://news.ycombinator.com/item?id=38999517) - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+* [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 * [2024-01-15, 08:00:36](https://news.ycombinator.com/item?id=38998423) - [ChatGPT vs. Advent of Code](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
