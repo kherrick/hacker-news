@@ -27,6 +27,7 @@
 * [2024-01-15, 19:08:23](https://news.ycombinator.com/item?id=39004755) - [Ask HN: OCR for 100 year old (German) handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
 * [2024-01-15, 19:06:18](https://news.ycombinator.com/item?id=39004725) - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
 * [2024-01-15, 18:58:38](https://news.ycombinator.com/item?id=39004621) - [GameStop Ends NFT Marketplace, Is This Beginning of the End?](https://digialps.com/gamestop-ends-nft-marketplace-is-this-beginning-of-the-end/)
+* [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
 * [2024-01-15, 18:02:39](https://news.ycombinator.com/item?id=39003942) - [Ask HN: Learn React or Vue?](https://news.ycombinator.com/item?id=39003942)
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
