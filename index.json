@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-15, 20:04:47",
+      "https://news.ycombinator.com/item?id=39005399"
+    ],
+    [
+      "How OpenAI is approaching 2024 worldwide elections",
+      "https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 19:46:50",
+      "https://news.ycombinator.com/item?id=39005223"
+    ],
+    [
+      "Verizon to keep charging controversial fee despite $100M settlement",
+      "https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 19:24:44",
       "https://news.ycombinator.com/item?id=39004963"
     ],
@@ -17,6 +37,16 @@
     [
       "Going declarative on macOS with Nix and Nix-Darwin",
       "https://nixcademy.com/2024/01/15/nix-on-macos/"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 19:08:23",
+      "https://news.ycombinator.com/item?id=39004755"
+    ],
+    [
+      "Ask HN: OCR for 100 year old (German) handwritten cursive script?",
+      "https://news.ycombinator.com/item?id=39004755"
     ]
   ],
   [
@@ -77,26 +107,6 @@
     [
       "Evidence of human influence on Northern Hemisphere snow loss",
       "https://www.nature.com/articles/s41586-023-06794-y"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 17:14:27",
-      "https://news.ycombinator.com/item?id=39003292"
-    ],
-    [
-      "Htmx changes license to Zero-Clause BSD",
-      "https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 17:12:22",
-      "https://news.ycombinator.com/item?id=39003255"
-    ],
-    [
-      "The neglected clean heat we flush down the drains",
-      "https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2024-01-15, 13:22:06",
+      "https://news.ycombinator.com/item?id=39000648"
+    ],
+    [
+      "Paper Pipe Organ (2019) [video]",
+      "https://www.youtube.com/watch?v=ujdlxAQw5oA"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 08:19:13",
       "https://news.ycombinator.com/item?id=38998516"
     ],
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2024-01-15, 06:28:39",
-      "https://news.ycombinator.com/item?id=38997970"
-    ],
-    [
-      "The Swimmer (1964)",
-      "https://www.newyorker.com/magazine/1964/07/18/the-swimmer"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 10:40:06",
-      "https://news.ycombinator.com/item?id=38989249"
-    ],
-    [
-      "What's the story on the \"toxic lady\"? (1996)",
-      "https://www.straightdope.com/21342164/what-s-the-story-on-the-toxic-lady"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 09:42:18",
       "https://news.ycombinator.com/item?id=38988949"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-01-14, 07:50:55",
-      "https://news.ycombinator.com/item?id=38988389"
-    ],
-    [
-      "The hovercraft's time might have arrived",
-      "https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived"
-    ]
-  ],
-  [
-    [
       "2024-01-13, 22:32:13",
       "https://news.ycombinator.com/item?id=38985308"
     ],
     [
       "Feynman Sprinkler [video]",
       "https://www.youtube.com/watch?v=ued2cEcfAio"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 13:42:58",
+      "https://news.ycombinator.com/item?id=38979792"
+    ],
+    [
+      "Wokwi – Simulate IoT Projects in the Browser",
+      "https://wokwi.com/"
     ]
   ],
   [
