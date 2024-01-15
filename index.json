@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-01-15, 00:46:32",
+      "https://news.ycombinator.com/item?id=38996066"
+    ],
+    [
+      "Could inflammation be the cause of myriad chronic conditions? (2019)",
+      "https://www.harvardmagazine.com/2019/04/inflammation-disease-diet"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 21:56:29",
       "https://news.ycombinator.com/item?id=38994817"
     ],
@@ -147,6 +157,16 @@
     [
       "Font-Face Toggler Bookmarklet",
       "https://www.phpied.com/font-face-toggler-bookmarklet/"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 19:24:46",
+      "https://news.ycombinator.com/item?id=38993552"
+    ],
+    [
+      "Fast RISC-V-based scripting back end for game engines",
+      "https://github.com/fwsGonzo/rvscript"
     ]
   ],
   [
@@ -231,6 +251,16 @@
   ],
   [
     [
+      "2024-01-13, 16:43:29",
+      "https://news.ycombinator.com/item?id=38981639"
+    ],
+    [
+      "Thinking in an array language",
+      "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md"
+    ]
+  ],
+  [
+    [
       "2024-01-13, 12:37:58",
       "https://news.ycombinator.com/item?id=38979412"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2024-01-12, 15:53:49",
-      "https://news.ycombinator.com/item?id=38969533"
+      "2024-01-12, 20:18:20",
+      "https://news.ycombinator.com/item?id=38973404"
     ],
     [
-      "A supply chain attack on PyTorch",
-      "https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 11:08:45",
-      "https://news.ycombinator.com/item?id=38966646"
-    ],
-    [
-      "En Route: A Magazine About Trains in Japan [pdf]",
-      "https://www.tokyoweekender.com/wp-content/uploads/2023/10/En_Route_2023.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 10:17:01",
-      "https://news.ycombinator.com/item?id=38966257"
-    ],
-    [
-      "Terse: A language with hi-level look-and-feel, low-level control (1995) [pdf]",
-      "http://www.terse.com/ddj.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 08:45:35",
-      "https://news.ycombinator.com/item?id=38965636"
-    ],
-    [
-      "Penrose – Create diagrams by typing notation in plain text",
-      "https://penrose.cs.cmu.edu/"
+      "Autonomous trucking is harder than autonomous rideshare",
+      "https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/"
     ]
   ]
 ]
