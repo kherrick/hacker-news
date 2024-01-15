@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
+* [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 * [2024-01-15, 12:40:51](https://news.ycombinator.com/item?id=39000192) - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 * [2024-01-15, 12:18:26](https://news.ycombinator.com/item?id=38999987) - [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
 * [2024-01-15, 12:12:56](https://news.ycombinator.com/item?id=38999929) - [AI to hit almost 40% of jobs worldwide](https://www.cnbc.com/2024/01/15/imf-warns-ai-to-hit-almost-40percent-of-global-employment-worsen-inequality.html)
