@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
+* [2024-01-15, 21:04:25](https://news.ycombinator.com/item?id=39006092) - [Americans Are Fake and the Dutch Are Rude (2022)](https://behavioralscientist.org/americans-are-fake-and-the-dutch-are-rude/)
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A universal lowering strategy for control effects in Rust – Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:35:49](https://news.ycombinator.com/item?id=39005749) - [Ask HN: Why do some YC companies keep posting the same job bi-weekly?](https://news.ycombinator.com/item?id=39005749)
 * [2024-01-15, 20:32:07](https://news.ycombinator.com/item?id=39005696) - [Americans can no longer afford their cars](https://www.newsweek.com/americans-can-no-longer-afford-their-cars-1859929)
+* [2024-01-15, 20:14:58](https://news.ycombinator.com/item?id=39005505) - [Haiku OS: The Open Source BeOS You Can Daily Drive in 2024](https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/)
 * [2024-01-15, 20:11:44](https://news.ycombinator.com/item?id=39005470) - [Google is no longer bringing the full Chrome browser to Fuchsia](https://9to5google.com/2024/01/15/google-is-no-longer-bringing-the-full-chrome-browser-to-fuchsia/)
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our Language, Our World](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 * [2024-01-15, 20:04:47](https://news.ycombinator.com/item?id=39005399) - [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
