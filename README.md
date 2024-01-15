@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-15, 23:03:46](https://news.ycombinator.com/item?id=39007248) - [Watch Free Online Documentaries](https://ihavenotv.com/)
+* [2024-01-15, 22:44:45](https://news.ycombinator.com/item?id=39007076) - [Oppo Find X7 Ultra: smartphone features the first dual periscope zooms](https://everyonegaming.com/oppo-find-x7-ultra-flagship-smartphone-features-the-worlds-first-dual-periscope-zooms/)
 * [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 * [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
@@ -21,7 +22,6 @@
 * [2024-01-15, 16:29:53](https://news.ycombinator.com/item?id=39002643) - [Fossify – Open-source fork of Simple Mobile Tools](https://github.com/FossifyOrg)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
-* [2024-01-15, 14:50:07](https://news.ycombinator.com/item?id=39001577) - [MIT MicroMasters](https://micromasters.mit.edu/)
 * [2024-01-15, 14:49:51](https://news.ycombinator.com/item?id=39001572) - [Show HN: A minimal working Rust / SDL2 / WASM browser game](https://github.com/awwsmm/hello-rust-sdl2-wasm)
 * [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing data transfer costs in AWS](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
