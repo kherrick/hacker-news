@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 16:07:48](https://news.ycombinator.com/item?id=39002401) - [Grindavík residents face uncertain future after volcano erupts again](https://www.theguardian.com/world/2024/jan/15/grindavik-residents-face-uncertain-future-after-volcano-erupts-again-iceland)
+* [2024-01-15, 16:02:56](https://news.ycombinator.com/item?id=39002324) - [Houthi ballistic missile strikes US-owned and operated ship: US Central Command](https://www.cnn.com/2024/01/15/politics/houthi-missile-strikes-us-owned-ship/index.html)
+* [2024-01-15, 15:55:37](https://news.ycombinator.com/item?id=39002255) - [Boeing to increase quality inspections of 737 MAX production](https://www.bbc.co.uk/news/business-67984035)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 14:59:47](https://news.ycombinator.com/item?id=39001686) - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
 * [2024-01-15, 14:52:15](https://news.ycombinator.com/item?id=39001600) - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)

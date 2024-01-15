@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 16:07:48](https://news.ycombinator.com/item?id=39002401) - [Grindavík residents face uncertain future after volcano erupts again](https://www.theguardian.com/world/2024/jan/15/grindavik-residents-face-uncertain-future-after-volcano-erupts-again-iceland)
+* [2024-01-15, 16:02:56](https://news.ycombinator.com/item?id=39002324) - [Houthi ballistic missile strikes US-owned and operated ship: US Central Command](https://www.cnn.com/2024/01/15/politics/houthi-missile-strikes-us-owned-ship/index.html)
+* [2024-01-15, 15:55:37](https://news.ycombinator.com/item?id=39002255) - [Boeing to increase quality inspections of 737 MAX production](https://www.bbc.co.uk/news/business-67984035)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 14:59:47](https://news.ycombinator.com/item?id=39001686) - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
-* [2024-01-15, 14:52:15](https://news.ycombinator.com/item?id=39001600) - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
 * [2024-01-15, 14:35:21](https://news.ycombinator.com/item?id=39001399) - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
-* [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 08:38:38](https://news.ycombinator.com/item?id=38998615) - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
@@ -24,12 +25,11 @@
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
 * [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [The hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
+* [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 21:06:51](https://news.ycombinator.com/item?id=38984564) - [Etherify: Transmitting Morse Code via Raspberry Pi Ethernet RF Leakage (2020)](https://www.rtl-sdr.com/etherify-transmitting-morse-code-via-raspberry-pi-ethernet-rf-leakage/)
 * [2024-01-13, 16:43:29](https://news.ycombinator.com/item?id=38981639) - [Thinking in an array language](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-01-13, 10:55:33](https://news.ycombinator.com/item?id=38978851) - [Flying Circuses](https://www.atlasobscura.com/articles/flying-circus-aerial-maps)
-* [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
-* [2024-01-12, 20:18:20](https://news.ycombinator.com/item?id=38973404) - [Autonomous trucking is harder than autonomous rideshare](https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/)
 
 ## [Archives](archives/index.md)
 
