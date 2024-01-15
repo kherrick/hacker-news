@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 05:07:08](https://news.ycombinator.com/item?id=38997636) - [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
 * [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 * [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
@@ -18,7 +19,6 @@
 * [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-13, 12:58:14](https://news.ycombinator.com/item?id=38979549) - [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
 * [2024-01-13, 12:00:07](https://news.ycombinator.com/item?id=38979196) - [‘This Has Been Going on for Years’: Boeing’s Manufacturing Mess](https://www.wsj.com/business/airlines/boeing-manufacturing-737-max-alaska-door-plug-spirit-18f7e233)
-* [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
 * [2024-01-13, 09:33:59](https://news.ycombinator.com/item?id=38978435) - [My Knowledge Lakehouse](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)
 * [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
 * [2024-01-12, 23:38:48](https://news.ycombinator.com/item?id=38975667) - [Queen Victoria's Stalker](https://www.historytoday.com/archive/history-matters/queen-victorias-stalker)
