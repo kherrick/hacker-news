@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-15, 07:37:50",
-      "https://news.ycombinator.com/item?id=38998313"
-    ],
-    [
-      "Why the M2 is more advanced that it seemed",
-      "https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 07:26:35",
       "https://news.ycombinator.com/item?id=38998257"
     ],
@@ -157,6 +147,16 @@
     [
       "Vanna.ai: Chat with your SQL database",
       "https://github.com/vanna-ai/vanna"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 09:42:18",
+      "https://news.ycombinator.com/item?id=38988949"
+    ],
+    [
+      "SQLite: Wal2 Mode",
+      "https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md"
     ]
   ],
   [
