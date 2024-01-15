@@ -56,6 +56,7 @@
 * [2024-01-14, 09:49:36](https://news.ycombinator.com/item?id=38988987) - [Free unexpected MIT courses to kick start the new year](https://medium.com/open-learning/free-unexpected-mit-courses-to-kick-start-the-new-year-c226e444e61a)
 * [2024-01-14, 09:48:48](https://news.ycombinator.com/item?id=38988982) - [Type information for faster Python C extensions](https://bernsteinbear.com//blog/typed-c-extensions/)
 * [2024-01-14, 09:45:24](https://news.ycombinator.com/item?id=38988960) - [The Ultimate Docker Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet/)
+* [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:40:21](https://news.ycombinator.com/item?id=38988944) - [ICO fines HelloFresh £140k for spam texts and emails](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/01/ico-fines-hellofresh-140-000-for-spam-texts-and-emails/)
 * [2024-01-14, 09:30:29](https://news.ycombinator.com/item?id=38988891) - [Zero-Click Bluetooth Attacks Pose Serious Threat Across Major Operating Systems](https://www.cyberkendra.com/2024/01/zero-click-bluetooth-attacks-pose.html)

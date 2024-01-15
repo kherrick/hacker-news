@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-15, 08:00:36](https://news.ycombinator.com/item?id=38998423) - [ChatGPT does Advent of Code 2023](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
-* [2024-01-15, 07:37:50](https://news.ycombinator.com/item?id=38998313) - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
@@ -16,6 +15,7 @@
 * [2024-01-14, 19:37:22](https://news.ycombinator.com/item?id=38993657) - [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 * [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
+* [2024-01-14, 09:42:18](https://news.ycombinator.com/item?id=38988949) - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-14, 09:42:15](https://news.ycombinator.com/item?id=38988948) - [Dynamic programming is not black magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-14, 09:13:35](https://news.ycombinator.com/item?id=38988788) - [How to build a submarine and survive [video]](https://media.ccc.de/v/37c3-11828-how_to_build_a_submarine_and_survive#l=eng&t=0)
 * [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [Why the hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
