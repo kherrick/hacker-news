@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
 * [2024-01-15, 07:37:50](https://news.ycombinator.com/item?id=38998313) - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)

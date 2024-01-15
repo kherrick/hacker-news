@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
 * [2024-01-15, 07:37:50](https://news.ycombinator.com/item?id=38998313) - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
 * [2024-01-15, 05:03:21](https://news.ycombinator.com/item?id=38997617) - [The US grid battery fleet is about to double – again](https://www.canarymedia.com/articles/energy-storage/chart-the-us-grid-battery-fleet-is-about-to-double-again)
 * [2024-01-15, 02:52:56](https://news.ycombinator.com/item?id=38996954) - [Raspberry Pi is manufacturing 70K Raspberry Pi 5s per week](https://www.tomshardware.com/raspberry-pi/raspberry-pi-is-now-manufacturing-70000-pi-5s-per-week-will-surge-to-90000-in-february)
-* [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
 * [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
