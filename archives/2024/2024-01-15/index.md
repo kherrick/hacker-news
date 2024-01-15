@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 17:34:46](https://news.ycombinator.com/item?id=39003580) - [What's Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
+* [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
+* [2024-01-15, 17:19:52](https://news.ycombinator.com/item?id=39003374) - [Evidence of human influence on Northern Hemisphere snow loss](https://www.nature.com/articles/s41586-023-06794-y)
 * [2024-01-15, 17:14:27](https://news.ycombinator.com/item?id=39003292) - [Htmx changes license to Zero-Clause BSD](https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07)
 * [2024-01-15, 17:14:17](https://news.ycombinator.com/item?id=39003286) - [Emu War](https://en.wikipedia.org/wiki/Emu_War)
 * [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [The neglected clean heat we flush down the drains](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
+* [2024-01-15, 17:08:13](https://news.ycombinator.com/item?id=39003182) - [Effortless OpenBSD Audio and Desktop Screen Recording Guide](https://www.undeadly.org/cgi?action=article;sid=20240115170740)
+* [2024-01-15, 17:02:33](https://news.ycombinator.com/item?id=39003066) - [(Unsuccessfully) Fine-tuning GPT to play \"Connections\"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
 * [2024-01-15, 16:56:11](https://news.ycombinator.com/item?id=39002974) - [Why Germany Is Rich but Germans Are Poor and Angry](https://www.bloomberg.com/opinion/articles/2024-01-15/why-germany-is-rich-but-germans-are-poor-and-angry)
 * [2024-01-15, 16:46:16](https://news.ycombinator.com/item?id=39002840) - [Vision isn't what you think it is – see for yourself [video]](https://www.youtube.com/watch?v=JTKwpqE9fsc)
 * [2024-01-15, 16:44:26](https://news.ycombinator.com/item?id=39002818) - [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
@@ -24,6 +29,7 @@
 * [2024-01-15, 15:06:02](https://news.ycombinator.com/item?id=39001753) - ['It hasn't delivered': the failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
 * [2024-01-15, 14:59:47](https://news.ycombinator.com/item?id=39001686) - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
 * [2024-01-15, 14:52:15](https://news.ycombinator.com/item?id=39001600) - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
+* [2024-01-15, 14:50:07](https://news.ycombinator.com/item?id=39001577) - [MIT MicroMasters](https://micromasters.mit.edu/)
 * [2024-01-15, 14:35:21](https://news.ycombinator.com/item?id=39001399) - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
 * [2024-01-15, 14:17:53](https://news.ycombinator.com/item?id=39001236) - [Book Stores Refuse to Host an Event for My Book](https://www.robkhenderson.com/p/book-stores-dont-want-to-host-an)
 * [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
