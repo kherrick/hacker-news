@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
 * [2024-01-15, 17:34:46](https://news.ycombinator.com/item?id=39003580) - [What's Gone Wrong at Boeing](https://www.theatlantic.com/ideas/archive/2024/01/boeing-737-max-corporate-culture/677120/)
+* [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
+* [2024-01-15, 17:22:51](https://news.ycombinator.com/item?id=39003420) - [App Store to Be 'Split in Two' Ahead of EU iPhone Sideloading Deadline](https://www.macrumors.com/2024/01/15/app-store-to-be-split-in-two/)
 * [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
 * [2024-01-15, 17:19:52](https://news.ycombinator.com/item?id=39003374) - [Evidence of human influence on Northern Hemisphere snow loss](https://www.nature.com/articles/s41586-023-06794-y)
 * [2024-01-15, 17:14:27](https://news.ycombinator.com/item?id=39003292) - [Htmx changes license to Zero-Clause BSD](https://github.com/bigskysoftware/htmx/commit/e16f1865a494b6281f8a44ed0db5338e718b3f07)
@@ -33,6 +35,7 @@
 * [2024-01-15, 14:59:47](https://news.ycombinator.com/item?id=39001686) - [YouTube begins new wave of slowdowns for users with ad blockers enabled](https://9to5google.com/2024/01/13/youtube-new-wave-slow-downs-ad-blocker/)
 * [2024-01-15, 14:52:15](https://news.ycombinator.com/item?id=39001600) - [AI comes up with battery design that uses 70 per cent less lithium](https://www.newscientist.com/article/2411374-ai-comes-up-with-battery-design-that-uses-70-per-cent-less-lithium/)
 * [2024-01-15, 14:50:07](https://news.ycombinator.com/item?id=39001577) - [MIT MicroMasters](https://micromasters.mit.edu/)
+* [2024-01-15, 14:49:51](https://news.ycombinator.com/item?id=39001572) - [A minimal working Rust / SDL2 / WASM browser game](https://github.com/awwsmm/hello-rust-sdl2-wasm)
 * [2024-01-15, 14:35:21](https://news.ycombinator.com/item?id=39001399) - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
 * [2024-01-15, 14:17:53](https://news.ycombinator.com/item?id=39001236) - [Book Stores Refuse to Host an Event for My Book](https://www.robkhenderson.com/p/book-stores-dont-want-to-host-an)
 * [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
