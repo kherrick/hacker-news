@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 20:04:47](https://news.ycombinator.com/item?id=39005399) - [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
+* [2024-01-15, 19:46:50](https://news.ycombinator.com/item?id=39005223) - [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
 * [2024-01-15, 19:24:44](https://news.ycombinator.com/item?id=39004963) - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
 * [2024-01-15, 19:10:34](https://news.ycombinator.com/item?id=39004785) - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
+* [2024-01-15, 19:08:23](https://news.ycombinator.com/item?id=39004755) - [Ask HN: OCR for 100 year old (German) handwritten cursive script?](https://news.ycombinator.com/item?id=39004755)
 * [2024-01-15, 19:06:18](https://news.ycombinator.com/item?id=39004725) - [A woman bought a vintage dress. It had a secret pocket with a mysterious note](https://www.cnn.com/2024/01/15/us/antique-dress-maine-encrypted-message-cec/index.html)
 * [2024-01-15, 18:58:38](https://news.ycombinator.com/item?id=39004621) - [GameStop Ends NFT Marketplace, Is This Beginning of the End?](https://digialps.com/gamestop-ends-nft-marketplace-is-this-beginning-of-the-end/)
 * [2024-01-15, 18:25:24](https://news.ycombinator.com/item?id=39004191) - [\"Paste this post into ChatGPT 4\"](https://twitter.com/goodside/status/1746685366952735034)
@@ -47,6 +50,7 @@
 * [2024-01-15, 14:35:21](https://news.ycombinator.com/item?id=39001399) - [Lago – open-source Stripe alternative is hiring a Founding Marketer](https://www.ycombinator.com/companies/lago/jobs/twKO87q-founding-marketer)
 * [2024-01-15, 14:17:53](https://news.ycombinator.com/item?id=39001236) - [Book Stores Refuse to Host an Event for My Book](https://www.robkhenderson.com/p/book-stores-dont-want-to-host-an)
 * [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
+* [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 13:05:15](https://news.ycombinator.com/item?id=39000437) - [Ask HN: Help me solve a dilemma, study in the US or take a job in the EU?](https://news.ycombinator.com/item?id=39000437)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
