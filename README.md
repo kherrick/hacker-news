@@ -2,9 +2,9 @@
 
 * [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
+* [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Data Brokers Watch: Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
-* [2024-01-14, 19:37:22](https://news.ycombinator.com/item?id=38993657) - [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
 * [2024-01-14, 19:24:46](https://news.ycombinator.com/item?id=38993552) - [Fast RISC-V-based scripting back end for game engines](https://github.com/fwsGonzo/rvscript)
 * [2024-01-14, 18:06:39](https://news.ycombinator.com/item?id=38992689) - [Show HN: Material Files – Open Source Material Design File Manager for Android](https://github.com/zhanghai/MaterialFiles)
 * [2024-01-14, 17:58:06](https://news.ycombinator.com/item?id=38992601) - [Vanna.ai: Chat with your SQL database](https://github.com/vanna-ai/vanna)
