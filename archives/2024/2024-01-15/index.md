@@ -11,6 +11,7 @@
 * [2024-01-15, 20:04:47](https://news.ycombinator.com/item?id=39005399) - [How OpenAI is approaching 2024 worldwide elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
 * [2024-01-15, 19:48:09](https://news.ycombinator.com/item?id=39005238) - [\"The Girls in Their Summer Dresses\" – Irwin Shaw (1939)](https://www.classicshorts.com/stories/dresses.html)
 * [2024-01-15, 19:46:50](https://news.ycombinator.com/item?id=39005223) - [Verizon to keep charging controversial fee despite $100M settlement](https://arstechnica.com/tech-policy/2024/01/verizon-wont-stop-charging-3-30-telco-recovery-fee-may-raise-it-again/)
+* [2024-01-15, 19:43:11](https://news.ycombinator.com/item?id=39005187) - [Beeper Mini users find Macs banned from iMessage network](https://appleinsider.com/articles/24/01/14/beeper-mini-users-find-macs-banned-from-imessage-network)
 * [2024-01-15, 19:26:58](https://news.ycombinator.com/item?id=39004993) - [GTA 5 actor goes nuclear on AI company that made a voice chatbot of him](https://www.pcgamer.com/gta-5-actor-goes-nuclear-on-ai-company-that-made-a-voice-chatbot-of-him-im-not-worried-about-being-replaced-i-just-hate-these-fkers/)
 * [2024-01-15, 19:24:44](https://news.ycombinator.com/item?id=39004963) - [SQLite 3.45 released with JSONB support](https://www.sqlite.org/changes.html#version_3_45_0)
 * [2024-01-15, 19:10:34](https://news.ycombinator.com/item?id=39004785) - [Going declarative on macOS with Nix and Nix-Darwin](https://nixcademy.com/2024/01/15/nix-on-macos/)
