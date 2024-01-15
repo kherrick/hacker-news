@@ -61,6 +61,7 @@
 * [2024-01-13, 13:13:15](https://news.ycombinator.com/item?id=38979628) - [Exploiting QUIC's Path Validation](https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/)
 * [2024-01-13, 13:04:14](https://news.ycombinator.com/item?id=38979583) - [Jodorowsky's Dune – Official Trailer HD (2014)](https://www.youtube.com/watch?v=m0cJNR8HEw0)
 * [2024-01-13, 12:58:14](https://news.ycombinator.com/item?id=38979549) - [Compressing Text into Images](https://shkspr.mobi/blog/2024/01/compressing-text-into-images/)
+* [2024-01-13, 12:37:58](https://news.ycombinator.com/item?id=38979412) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-01-13, 12:31:20](https://news.ycombinator.com/item?id=38979370) - [Painting from Primitives (2017)](https://schollz.com/tinker/primitives/)
 * [2024-01-13, 12:29:08](https://news.ycombinator.com/item?id=38979356) - [Ternary circuits: why R=3 is not the Optimal Radix for Computation](https://arxiv.org/abs/1908.06841)
 * [2024-01-13, 12:22:50](https://news.ycombinator.com/item?id=38979320) - [Edward Hopper: An American Love Story](https://www.pbs.org/wnet/americanmasters/hopper-an-american-love-story-about/30429/)
