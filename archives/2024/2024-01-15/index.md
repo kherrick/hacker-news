@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 16:56:11](https://news.ycombinator.com/item?id=39002974) - [Why Germany Is Rich but Germans Are Poor and Angry](https://www.bloomberg.com/opinion/articles/2024-01-15/why-germany-is-rich-but-germans-are-poor-and-angry)
+* [2024-01-15, 16:46:16](https://news.ycombinator.com/item?id=39002840) - [Vision isn't what you think it is – see for yourself [video]](https://www.youtube.com/watch?v=JTKwpqE9fsc)
 * [2024-01-15, 16:44:26](https://news.ycombinator.com/item?id=39002818) - [Cat Drop](https://en.wikipedia.org/wiki/Operation_Cat_Drop)
 * [2024-01-15, 16:38:18](https://news.ycombinator.com/item?id=39002740) - [Scrum Sucks](https://blog.mb-consulting.dev/scrum-sucks-9960011fc5cf)
 * [2024-01-15, 16:32:23](https://news.ycombinator.com/item?id=39002670) - [Ask HN: What will your kids be proud of 10 years?](https://news.ycombinator.com/item?id=39002670)
@@ -12,6 +14,7 @@
 * [2024-01-15, 16:02:56](https://news.ycombinator.com/item?id=39002324) - [Houthi ballistic missile strikes US-owned and operated ship: US Central Command](https://www.cnn.com/2024/01/15/politics/houthi-missile-strikes-us-owned-ship/index.html)
 * [2024-01-15, 16:01:15](https://news.ycombinator.com/item?id=39002304) - [Ireland housing crisis: \"Social contract has ruptured\"](https://www.nytimes.com/2024/01/15/world/europe/ireland-housing-crisis.html)
 * [2024-01-15, 15:55:37](https://news.ycombinator.com/item?id=39002255) - [Boeing to increase quality inspections of 737 MAX production](https://www.bbc.co.uk/news/business-67984035)
+* [2024-01-15, 15:41:26](https://news.ycombinator.com/item?id=39002156) - [Microsoft is working on a Copilot Pro subscription (APK Teardown)](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:27:33](https://news.ycombinator.com/item?id=39002001) - [Tech sector is pouring billions of dollars into AI. It keeps laying off humans](https://www.cnn.com/2024/01/13/tech/tech-layoffs-ai-investment/index.html)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
