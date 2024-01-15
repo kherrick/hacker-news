@@ -2,7 +2,6 @@
 
 * [2024-01-15, 00:55:37](https://news.ycombinator.com/item?id=38996120) - [FedEx launches new e-commerce platform to compete with Amazon](https://www.theverge.com/2024/1/14/24038042/fedex-fdx-e-commerce-platform-amazon-rival-shoprunner)
 * [2024-01-15, 00:46:32](https://news.ycombinator.com/item?id=38996066) - [Could inflammation be the cause of myriad chronic conditions? (2019)](https://www.harvardmagazine.com/2019/04/inflammation-disease-diet)
-* [2024-01-15, 00:29:23](https://news.ycombinator.com/item?id=38995972) - [Data Brokers Watch: Tracking and mapping the data broker ecosystem](https://databrokerswatch.org/)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 * [2024-01-14, 19:37:22](https://news.ycombinator.com/item?id=38993657) - [Show HN: EXT – an easy way to build cross-platform desktop software](https://ext.store)
@@ -21,6 +20,7 @@
 * [2024-01-13, 11:09:59](https://news.ycombinator.com/item?id=38978936) - [Periodic Table Gallery](https://www.acs.org/education/whatischemistry/periodictable/periodic-table-gallery.html)
 * [2024-01-13, 09:33:59](https://news.ycombinator.com/item?id=38978435) - [My Knowledge Lakehouse](https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html)
 * [2024-01-13, 07:26:28](https://news.ycombinator.com/item?id=38977983) - [Inside the Steam Deck's APU](https://boilingsteam.com/an-in-depth-look-at-the-steam-deck-apu/.)
+* [2024-01-12, 23:38:48](https://news.ycombinator.com/item?id=38975667) - [Queen Victoria's Stalker](https://www.historytoday.com/archive/history-matters/queen-victorias-stalker)
 * [2024-01-12, 23:24:56](https://news.ycombinator.com/item?id=38975561) - [What I learned selling my company](https://www.harryglaser.com/what-i-learned-selling-my-company/)
 * [2024-01-12, 20:18:20](https://news.ycombinator.com/item?id=38973404) - [Autonomous trucking is harder than autonomous rideshare](https://kevinchen.co/blog/autonomous-trucking-harder-than-rideshare/)
 * [2024-01-12, 18:27:48](https://news.ycombinator.com/item?id=38971896) - [Fracking eyeballs at the turn of the 20th century](https://asteriskmag.com/issues/04/fracking-eyeballs)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
 * [2024-01-12, 23:53:15](https://news.ycombinator.com/item?id=38975775) - [The Flappie AI cat door stops your pet from gifting you dead mice](https://www.engadget.com/the-flappie-ai-cat-door-stops-your-pet-from-gifting-you-dead-mice-033237654.html)
+* [2024-01-12, 23:38:48](https://news.ycombinator.com/item?id=38975667) - [Queen Victoria's Stalker](https://www.historytoday.com/archive/history-matters/queen-victorias-stalker)
 * [2024-01-12, 23:37:42](https://news.ycombinator.com/item?id=38975656) - [When I originally wrote the LGPL..](https://news.ycombinator.com/item?id=38966253)
 * [2024-01-12, 23:25:37](https://news.ycombinator.com/item?id=38975566) - [HashLife – A memoized algorithm for Conway's Game of Life and cellular automata](https://en.wikipedia.org/wiki/Hashlife)
 * [2024-01-12, 23:24:56](https://news.ycombinator.com/item?id=38975561) - [What I learned selling my company](https://www.harryglaser.com/what-i-learned-selling-my-company/)
