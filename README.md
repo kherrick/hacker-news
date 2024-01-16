@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+* [2024-01-16, 12:27:01](https://news.ycombinator.com/item?id=39012544) - [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
+* [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
+* [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 08:40:49](https://news.ycombinator.com/item?id=39010920) - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
 * [2024-01-16, 08:28:07](https://news.ycombinator.com/item?id=39010838) - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
@@ -16,7 +19,6 @@
 * [2024-01-16, 00:05:40](https://news.ycombinator.com/item?id=39007756) - [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
 * [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
-* [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:30:05](https://news.ycombinator.com/item?id=39002028) - [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 11:59:44](https://news.ycombinator.com/item?id=38999837) - [When Optimising Code, Measure](https://www.solipsys.co.uk/new/WhenOptimisingCodeMeasure.html?xa15hn)
@@ -28,8 +30,6 @@
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
 * [2024-01-14, 06:37:56](https://news.ycombinator.com/item?id=38988090) - [Show HN: Shelly: Write Terminal Commands in English](https://github.com/paletov/shelly/blob/main/README.md)
-* [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE? (2021)](https://www.gatesnotes.com/Lights-Out)
-* [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
 ## [Archives](archives/index.md)
 
