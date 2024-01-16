@@ -8,6 +8,7 @@
 * [2024-01-16, 21:34:49](https://news.ycombinator.com/item?id=39019465) - [NFL Pick-Em's LLM Bot](https://github.com/stevekrenzel/pick-ems)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space solar power project ends first in-space mission with successes and lessons](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:08:56](https://news.ycombinator.com/item?id=39019174) - [Kagi outage post-mortem](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
+* [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 * [2024-01-16, 20:59:48](https://news.ycombinator.com/item?id=39019059) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)

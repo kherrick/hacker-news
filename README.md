@@ -2,7 +2,7 @@
 
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
-* [2024-01-16, 21:08:56](https://news.ycombinator.com/item?id=39019174) - [Kagi outage post-mortem](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
+* [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
