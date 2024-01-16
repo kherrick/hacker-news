@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
-* [2024-01-16, 20:59:48](https://news.ycombinator.com/item?id=39019059) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 20:05:04](https://news.ycombinator.com/item?id=39018341) - [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
@@ -26,6 +25,7 @@
 * [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five cryptologic giants to be inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby 3.3 on Rails 1.0](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
+* [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
