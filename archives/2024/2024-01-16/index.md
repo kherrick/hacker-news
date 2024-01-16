@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 02:44:09](https://news.ycombinator.com/item?id=39008805) - [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/)
+* [2024-01-16, 02:05:32](https://news.ycombinator.com/item?id=39008533) - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
 * [2024-01-16, 02:05:02](https://news.ycombinator.com/item?id=39008529) - [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
 * [2024-01-16, 01:08:10](https://news.ycombinator.com/item?id=39008165) - [Ask HN: Should I try to manufacture toasters?](https://news.ycombinator.com/item?id=39008165)
 * [2024-01-16, 00:46:17](https://news.ycombinator.com/item?id=39008026) - [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
