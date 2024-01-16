@@ -6,6 +6,7 @@
 
 * [2024-01-14, 22:39:55](https://news.ycombinator.com/item?id=38995169) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-14, 22:27:47](https://news.ycombinator.com/item?id=38995068) - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
+* [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - ['An aged hobby': enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:52:11](https://news.ycombinator.com/item?id=38994780) - [We Are Doomed: A pessimistic point of view of \"modern software engineering\"](https://www.carette.xyz/posts/we_are_doomed/)
 * [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)

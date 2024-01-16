@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 16:30:02](https://news.ycombinator.com/item?id=39015181) - [Grug Brained Developer GPT](https://chat.openai.com/g/g-SkdKyJl3t-grug-brain-dev)
+* [2024-01-16, 16:15:33](https://news.ycombinator.com/item?id=39015036) - [A NetBSD/amd64 guest can now boot in 18ms](https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/)
 * [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Show HN: Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
+* [2024-01-16, 16:06:37](https://news.ycombinator.com/item?id=39014917) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
+* [2024-01-16, 15:54:21](https://news.ycombinator.com/item?id=39014737) - [A Theory of Grift](https://www.thediff.co/archive/a-theory-of-grift/)
 * [2024-01-16, 15:48:14](https://news.ycombinator.com/item?id=39014642) - [US Supreme Court Snubs Apple-Epic Games Legal Battle](https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/)
 * [2024-01-16, 15:43:58](https://news.ycombinator.com/item?id=39014583) - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
 * [2024-01-16, 15:35:42](https://news.ycombinator.com/item?id=39014426) - [The Mad Scientist's Club (book series)](http://www.madscientistsclub.com/books.html)
