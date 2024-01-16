@@ -6,6 +6,7 @@
 
 * [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+* [2024-01-16, 12:46:59](https://news.ycombinator.com/item?id=39012690) - [Rust-Written Linux Scheduler Showing Promising Results for Gaming Performance](https://www.phoronix.com/news/Rust-Linux-Scheduler-Experiment)
 * [2024-01-16, 12:41:51](https://news.ycombinator.com/item?id=39012656) - [Bug Thread](https://xkcd.com/2881/)
 * [2024-01-16, 12:27:01](https://news.ycombinator.com/item?id=39012544) - [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
 * [2024-01-16, 12:00:22](https://news.ycombinator.com/item?id=39012329) - [Who Are Western Europeans? New Study Reveals True Origins](https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000)
