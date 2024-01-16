@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 15:43:58](https://news.ycombinator.com/item?id=39014583) - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
 * [2024-01-16, 14:47:40](https://news.ycombinator.com/item?id=39013814) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-16, 14:44:50](https://news.ycombinator.com/item?id=39013780) - [Why Y is pronounced as \"igrek\"](https://en.wikipedia.org/wiki/Y)
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
@@ -29,7 +30,6 @@
 * [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
 * [2024-01-14, 11:59:27](https://news.ycombinator.com/item?id=38989648) - [Hydrogen Cools Well, but Safety Is Crucial](https://www.power-eng.com/emissions/hydrogen-cools-well-but-safety-is-crucial/)
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
-* [2024-01-14, 06:37:56](https://news.ycombinator.com/item?id=38988090) - [Show HN: Shelly: Write Terminal Commands in English](https://github.com/paletov/shelly/blob/main/README.md)
 
 ## [Archives](archives/index.md)
 
