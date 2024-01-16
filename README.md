@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 21:34:49](https://news.ycombinator.com/item?id=39019465) - [NFL Pick-Em's LLM Bot](https://github.com/stevekrenzel/pick-ems)
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
@@ -9,7 +10,6 @@
 * [2024-01-16, 17:37:08](https://news.ycombinator.com/item?id=39016123) - [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
 * [2024-01-16, 17:34:22](https://news.ycombinator.com/item?id=39016086) - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
-* [2024-01-16, 17:05:43](https://news.ycombinator.com/item?id=39015674) - [The tyranny of the algorithm: why every coffee shop looks the same](https://www.theguardian.com/news/2024/jan/16/the-tyranny-of-the-algorithm-why-every-coffee-shop-looks-the-same)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why is everything an orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
@@ -25,7 +25,7 @@
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby 3.3 on Rails 1.0](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
-* [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
+* [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
