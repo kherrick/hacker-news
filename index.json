@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-16, 17:00:02",
+      "https://news.ycombinator.com/item?id=39015585"
+    ],
+    [
+      "Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms",
+      "https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 16:28:16",
+      "https://news.ycombinator.com/item?id=39015159"
+    ],
+    [
+      "Why Is Everything an Orchid?",
+      "https://worldsensorium.com/why-is-everything-an-orchid/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 16:15:33",
       "https://news.ycombinator.com/item?id=39015036"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-01-16, 15:48:14",
-      "https://news.ycombinator.com/item?id=39014642"
-    ],
-    [
-      "US Supreme Court Snubs Apple-Epic Games Legal Battle",
-      "https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 15:41:10",
       "https://news.ycombinator.com/item?id=39014521"
     ],
@@ -67,16 +77,6 @@
     [
       "The Mad Scientist's Club (book series)",
       "http://www.madscientistsclub.com/books.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 14:47:40",
-      "https://news.ycombinator.com/item?id=39013814"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam",
-      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Using the ZBar barcode scanning suite in the browser with WebAssembly",
       "https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 13:34:30",
-      "https://news.ycombinator.com/item?id=39013083"
-    ],
-    [
-      "How Group Chats Rule the World",
-      "https://www.nytimes.com/2024/01/16/magazine/group-chats.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: BSON Extension for Postgres",
       "https://github.com/buzzm/postgresbson"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 11:59:44",
+      "https://news.ycombinator.com/item?id=38999837"
+    ],
+    [
+      "When Optimising Code, Measure",
+      "https://www.solipsys.co.uk/new/WhenOptimisingCodeMeasure.html?xa15hn"
     ]
   ],
   [
