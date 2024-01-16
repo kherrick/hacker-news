@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 12:41:51",
+      "https://news.ycombinator.com/item?id=39012656"
+    ],
+    [
+      "Bug Thread",
+      "https://xkcd.com/2881/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 12:00:22",
       "https://news.ycombinator.com/item?id=39012329"
     ],
@@ -77,6 +87,16 @@
     [
       "Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues",
       "https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 04:18:17",
+      "https://news.ycombinator.com/item?id=39009445"
+    ],
+    [
+      "Python Packaging, One Year Later: A Look Back at 2023 in Python Packaging",
+      "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Show HN: Shelly: Write Terminal Commands in English",
       "https://github.com/paletov/shelly/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 06:12:38",
-      "https://news.ycombinator.com/item?id=38987966"
-    ],
-    [
-      "What Happened to GE? (2021)",
-      "https://www.gatesnotes.com/Lights-Out"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 13:42:58",
-      "https://news.ycombinator.com/item?id=38979792"
-    ],
-    [
-      "Wokwi – Simulate IoT Projects in the Browser",
-      "https://wokwi.com/"
     ]
   ]
 ]
