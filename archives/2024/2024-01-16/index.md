@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
 * [2024-01-16, 12:41:51](https://news.ycombinator.com/item?id=39012656) - [Bug Thread](https://xkcd.com/2881/)
 * [2024-01-16, 12:00:22](https://news.ycombinator.com/item?id=39012329) - [Who Are Western Europeans? New Study Reveals True Origins](https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000)
 * [2024-01-16, 11:31:46](https://news.ycombinator.com/item?id=39012127) - [Why do big companies ask unrealistic software engineering questions](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0)
