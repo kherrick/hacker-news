@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:34:49](https://news.ycombinator.com/item?id=39019465) - [NFL Pick-Em's LLM Bot](https://github.com/stevekrenzel/pick-ems)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space solar power project ends first in-space mission with successes and lessons](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
+* [2024-01-16, 21:08:56](https://news.ycombinator.com/item?id=39019174) - [Kagi outage post-mortem](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 * [2024-01-16, 20:59:48](https://news.ycombinator.com/item?id=39019059) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
@@ -52,6 +54,7 @@
 * [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
+* [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 13:34:30](https://news.ycombinator.com/item?id=39013083) - [How Group Chats Rule the World](https://www.nytimes.com/2024/01/16/magazine/group-chats.html)
 * [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: A Different Kind of Hell](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 * [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
