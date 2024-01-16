@@ -74,6 +74,7 @@
 * [2024-01-14, 07:50:55](https://news.ycombinator.com/item?id=38988389) - [Why the hovercraft's time might have arrived](https://www.bbc.com/future/article/20240112-why-the-hovercrafts-time-might-have-finally-arrived)
 * [2024-01-14, 07:34:37](https://news.ycombinator.com/item?id=38988312) - [A collector of math and physics surprises (2018)](https://www.quantamagazine.org/tadashi-tokieda-collects-math-and-physics-surprises-20181127/)
 * [2024-01-14, 07:17:36](https://news.ycombinator.com/item?id=38988238) - [Towards Modern Development of Cloud Applications](https://dl.acm.org/doi/10.1145/3593856.3595909)
+* [2024-01-14, 06:37:56](https://news.ycombinator.com/item?id=38988090) - [Show HN: Shelly: Write Terminal Commands in English](https://github.com/paletov/shelly/blob/main/README.md)
 * [2024-01-14, 06:22:40](https://news.ycombinator.com/item?id=38988019) - [Citadel, a Calibre-compatible eBook management app](https://github.com/every-day-things/citadel)
 * [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE?](https://www.gatesnotes.com/Lights-Out)
 * [2024-01-14, 04:31:09](https://news.ycombinator.com/item?id=38987489) - [YouTube started slowing video buffer with adblock enabled](https://old.reddit.com/r/youtube/comments/195octe/youtube_started_slowing_video_buffer_with_adblock/)

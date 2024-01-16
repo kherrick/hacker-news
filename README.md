@@ -28,8 +28,8 @@
 * [2024-01-14, 10:39:52](https://news.ycombinator.com/item?id=38989247) - [Modern misconceptions about medieval warfare](https://warfantasy.wordpress.com/2024/01/14/26-modern-misconceptions-about-medieval-warfare/)
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
+* [2024-01-14, 06:37:56](https://news.ycombinator.com/item?id=38988090) - [Show HN: Shelly: Write Terminal Commands in English](https://github.com/paletov/shelly/blob/main/README.md)
 * [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE? (2021)](https://www.gatesnotes.com/Lights-Out)
-* [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
 ## [Archives](archives/index.md)
 
