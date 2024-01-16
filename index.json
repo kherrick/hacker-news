@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=39008529"
     ],
     [
-      "Why aren't there more hearing aid startups?",
+      "Ask HN: Why aren't there more hearing aid startups?",
       "https://news.ycombinator.com/item?id=39008529"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 01:08:10",
+      "https://news.ycombinator.com/item?id=39008165"
+    ],
+    [
+      "Ask HN: Should I try to manufacture toasters?",
+      "https://news.ycombinator.com/item?id=39008165"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39008026"
     ],
     [
-      "Java virtual threads caused a deadlock in TPC-C for PostgreSQL",
+      "We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres",
       "https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b"
     ]
   ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2024-01-15, 20:41:26",
+      "https://news.ycombinator.com/item?id=39005818"
+    ],
+    [
+      "Future gigantic solar farms might impact solar power elsewhere in the world",
+      "https://techxplore.com/news/2024-01-future-gigantic-solar-farms-impact.amp"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 20:38:02",
       "https://news.ycombinator.com/item?id=39005780"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2024-01-15, 20:14:58",
-      "https://news.ycombinator.com/item?id=39005505"
-    ],
-    [
-      "Haiku OS: The Open Source BeOS You Can Daily Drive in 2024",
-      "https://hackaday.com/2024/01/15/haiku-os-the-open-source-beos-you-can-daily-drive-in-2024/"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 20:08:16",
       "https://news.ycombinator.com/item?id=39005433"
     ],
     [
       "Our language, our world",
       "https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 19:48:09",
-      "https://news.ycombinator.com/item?id=39005238"
-    ],
-    [
-      "\"The Girls in Their Summer Dresses\" – Irwin Shaw (1939)",
-      "https://www.classicshorts.com/stories/dresses.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-01-15, 14:49:51",
-      "https://news.ycombinator.com/item?id=39001572"
-    ],
-    [
-      "Show HN: A minimal working Rust / SDL2 / WASM browser game",
-      "https://github.com/awwsmm/hello-rust-sdl2-wasm"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 13:22:06",
       "https://news.ycombinator.com/item?id=39000648"
     ],
@@ -277,6 +267,16 @@
     [
       "Estimating Your Memory Bandwidth",
       "https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 06:12:38",
+      "https://news.ycombinator.com/item?id=38987966"
+    ],
+    [
+      "What Happened to GE? (2021)",
+      "https://www.gatesnotes.com/Lights-Out"
     ]
   ],
   [
