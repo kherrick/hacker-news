@@ -4,6 +4,7 @@
 * [2024-01-16, 23:34:14](https://news.ycombinator.com/item?id=39020742) - [GM to Shut Down Ultra Cruise](https://ojoyoshidareport.com/gm-to-shut-down-ultra-cruise/)
 * [2024-01-16, 23:33:54](https://news.ycombinator.com/item?id=39020737) - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
+* [2024-01-16, 22:50:09](https://news.ycombinator.com/item?id=39020254) - [The Self-Checkout Nightmare May Be Ending](https://gizmodo.com/the-self-checkout-nightmare-may-finally-be-ending-1851169879)
 * [2024-01-16, 22:31:37](https://news.ycombinator.com/item?id=39020069) - [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
 * [2024-01-16, 22:19:16](https://news.ycombinator.com/item?id=39019942) - [Masters of the Ice: Charles Rabot's Arctic Photographs (Ca. 1881)](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
 * [2024-01-16, 22:01:16](https://news.ycombinator.com/item?id=39019749) - [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
@@ -28,7 +29,6 @@
 * [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby 3.3 on Rails 1.0](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
-* [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
 
 ## [Archives](archives/index.md)
