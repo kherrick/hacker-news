@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
 * [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
 * [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
 * [2024-01-16, 02:05:32](https://news.ycombinator.com/item?id=39008533) - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
@@ -24,7 +25,6 @@
 * [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
 * [2024-01-14, 11:09:37](https://news.ycombinator.com/item?id=38989414) - [Field trip: inside America's first magic mushroom school](https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school)
 * [2024-01-14, 10:39:52](https://news.ycombinator.com/item?id=38989247) - [Modern misconceptions about medieval warfare](https://warfantasy.wordpress.com/2024/01/14/26-modern-misconceptions-about-medieval-warfare/)
-* [2024-01-14, 09:55:47](https://news.ycombinator.com/item?id=38989019) - [Simulate an Ubuntu-like VM inside macOS](https://yashodhanmohan.medium.com/simulate-an-ubuntu-like-vm-inside-macos-2a20332e02e8)
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
 * [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE? (2021)](https://www.gatesnotes.com/Lights-Out)
