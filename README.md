@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-16, 16:30:02](https://news.ycombinator.com/item?id=39015181) - [Grug Brained Developer GPT](https://chat.openai.com/g/g-SkdKyJl3t-grug-brain-dev)
+* [2024-01-16, 16:15:33](https://news.ycombinator.com/item?id=39015036) - [A NetBSD/amd64 guest can now boot in 18ms](https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/)
 * [2024-01-16, 16:03:25](https://news.ycombinator.com/item?id=39014866) - [TinyML: Ultra-low power Machine Learning](https://www.ikkaro.net/what-tinyml-is/)
 * [2024-01-16, 15:59:46](https://news.ycombinator.com/item?id=39014822) - [All CppCon 2023 talks ordered by the view count](https://techtalksweekly.substack.com/p/all-cppcon-2023-talks-ordered-by)
 * [2024-01-16, 15:54:21](https://news.ycombinator.com/item?id=39014737) - [A Theory of Grift](https://www.thediff.co/archive/a-theory-of-grift/)
@@ -13,8 +13,8 @@
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
 * [2024-01-16, 13:34:30](https://news.ycombinator.com/item?id=39013083) - [How Group Chats Rule the World](https://www.nytimes.com/2024/01/16/magazine/group-chats.html)
 * [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
-* [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+* [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five Cryptologic Giants to Be Inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
