@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-01-16, 20:05:04",
-      "https://news.ycombinator.com/item?id=39018341"
-    ],
-    [
-      "Transformers Are Multi-State RNNs",
-      "https://arxiv.org/abs/2401.06104"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 19:48:36",
       "https://news.ycombinator.com/item?id=39018106"
     ],
@@ -257,6 +247,16 @@
     [
       "Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))",
       "https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 10:20:01",
+      "https://news.ycombinator.com/item?id=39011630"
+    ],
+    [
+      "PID Controllers in Unity3D",
+      "https://vazgriz.com/621/pid-controllers/"
     ]
   ],
   [
