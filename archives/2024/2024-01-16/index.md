@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 14:47:40](https://news.ycombinator.com/item?id=39013814) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
