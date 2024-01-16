@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
+* [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
 * [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: A Different Kind of Hell](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 * [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
 * [2024-01-16, 13:18:07](https://news.ycombinator.com/item?id=39012934) - [Critical Gitlab vulnerability exposes 2FA-less users to account takeovers](https://www.theregister.com/2024/01/15/critical_gitlab_vulnerability/)
@@ -12,7 +14,9 @@
 * [2024-01-16, 12:41:51](https://news.ycombinator.com/item?id=39012656) - [Bug Thread](https://xkcd.com/2881/)
 * [2024-01-16, 12:27:01](https://news.ycombinator.com/item?id=39012544) - [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
 * [2024-01-16, 12:00:22](https://news.ycombinator.com/item?id=39012329) - [Who Are Western Europeans? New Study Reveals True Origins](https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000)
+* [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five Cryptologic Giants to Be Inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:31:46](https://news.ycombinator.com/item?id=39012127) - [Why do big companies ask unrealistic software engineering questions](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0)
+* [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-16, 10:46:52](https://news.ycombinator.com/item?id=39011802) - [Things to commit just before leaving your job](https://gist.github.com/aras-p/6224951)
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
