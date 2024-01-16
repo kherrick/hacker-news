@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 22:11:42](https://news.ycombinator.com/item?id=39019876) - [US judge blocks JetBlue from acquiring Spirit Airlines](https://www.reuters.com/markets/deals/us-judge-blocks-jetblue-acquiring-spirit-airlines-2024-01-16/)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:34:49](https://news.ycombinator.com/item?id=39019465) - [NFL Pick-Em's LLM Bot](https://github.com/stevekrenzel/pick-ems)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space solar power project ends first in-space mission with successes and lessons](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)

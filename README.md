@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 22:11:42](https://news.ycombinator.com/item?id=39019876) - [US judge blocks JetBlue from acquiring Spirit Airlines](https://www.reuters.com/markets/deals/us-judge-blocks-jetblue-acquiring-spirit-airlines-2024-01-16/)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
@@ -26,7 +27,6 @@
 * [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five cryptologic giants to be inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby 3.3 on Rails 1.0](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
-* [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
