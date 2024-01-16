@@ -8,6 +8,7 @@
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On Being Listed as an Artist Whose Work Was Used to Train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
 * [2024-01-16, 17:51:47](https://news.ycombinator.com/item?id=39016308) - [The M.B.A.s Who Can't Find Jobs](https://www.wsj.com/lifestyle/careers/the-m-b-a-s-who-cant-find-jobs-669cc1fa)
 * [2024-01-16, 17:25:39](https://news.ycombinator.com/item?id=39015954) - [Chicago-area Tesla charging stations lined with dead cars in freezing cold](https://www.foxbusiness.com/technology/chicago-area-tesla-charging-stations-lined-with-dead-cars-in-freezing-cold-a-bunch-of-dead-robots-out-here)
+* [2024-01-16, 17:17:43](https://news.ycombinator.com/item?id=39015849) - [Tell HN: California's Gig Worker Law Might Go National](https://news.ycombinator.com/item?id=39015849)
 * [2024-01-16, 17:00:02](https://news.ycombinator.com/item?id=39015585) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 16:41:36](https://news.ycombinator.com/item?id=39015323) - [\"Software is getting slower more rapidly than hardware becomes faster.\"](https://www.techslang.com/definition/what-is-wirths-law/)
