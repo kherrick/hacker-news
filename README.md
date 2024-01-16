@@ -4,7 +4,6 @@
 * [2024-01-16, 22:31:37](https://news.ycombinator.com/item?id=39020069) - [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
 * [2024-01-16, 22:19:16](https://news.ycombinator.com/item?id=39019942) - [Masters of the Ice: Charles Rabot's Arctic Photographs (Ca. 1881)](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
 * [2024-01-16, 22:01:16](https://news.ycombinator.com/item?id=39019749) - [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
-* [2024-01-16, 21:44:53](https://news.ycombinator.com/item?id=39019573) - [Wikipedia Is Here to Stay](https://wikimediafoundation.org/news/2024/01/16/wikipedia-is-here-to-stay/)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
@@ -29,6 +28,7 @@
 * [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five cryptologic giants to be inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby 3.3 on Rails 1.0](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-15, 13:24:14](https://news.ycombinator.com/item?id=39000665) - [The BeOS Bible (1999)](https://archive.org/details/the-beos-bible/mode/1up)
+* [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
 
 ## [Archives](archives/index.md)
