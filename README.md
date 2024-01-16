@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On Being Listed as an Artist Whose Work Was Used to Train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
 * [2024-01-16, 17:51:47](https://news.ycombinator.com/item?id=39016308) - [The M.B.A.s Who Can't Find Jobs](https://www.wsj.com/lifestyle/careers/the-m-b-a-s-who-cant-find-jobs-669cc1fa)
+* [2024-01-16, 17:25:39](https://news.ycombinator.com/item?id=39015954) - [Chicago-area Tesla charging stations lined with dead cars in freezing cold](https://www.foxbusiness.com/technology/chicago-area-tesla-charging-stations-lined-with-dead-cars-in-freezing-cold-a-bunch-of-dead-robots-out-here)
 * [2024-01-16, 17:00:02](https://news.ycombinator.com/item?id=39015585) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
+* [2024-01-16, 16:41:36](https://news.ycombinator.com/item?id=39015323) - [\"Software is getting slower more rapidly than hardware becomes faster.\"](https://www.techslang.com/definition/what-is-wirths-law/)
 * [2024-01-16, 16:32:22](https://news.ycombinator.com/item?id=39015200) - [Raspberry Pi Compute Module 5 Is in Development](https://www.tomshardware.com/raspberry-pi/raspberry-pi-compute-module-5-confirmed-by-ceo-eben-upton)
 * [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why Is Everything an Orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 16:15:33](https://news.ycombinator.com/item?id=39015036) - [A NetBSD/amd64 guest can now boot in 18ms](https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/)
@@ -23,13 +26,10 @@
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
-* [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
 * [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
-* [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
-* [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
 
 ## [Archives](archives/index.md)
 
