@@ -18,6 +18,7 @@
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
+* [2024-01-15, 15:30:05](https://news.ycombinator.com/item?id=39002028) - [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
@@ -29,7 +30,6 @@
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
 * [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE? (2021)](https://www.gatesnotes.com/Lights-Out)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
-* [2024-01-12, 23:24:55](https://news.ycombinator.com/item?id=38975560) - [Flaubert versus the World](https://newrepublic.com/article/177834/flaubert-versus-world-nyrb-letters-review)
 
 ## [Archives](archives/index.md)
 
