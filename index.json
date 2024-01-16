@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 19:16:12",
+      "https://news.ycombinator.com/item?id=39017607"
+    ],
+    [
+      "Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome",
+      "https://developer.chrome.com/blog/supercharge-web-ai-testing"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 19:01:16",
       "https://news.ycombinator.com/item?id=39017350"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-01-16, 16:41:36",
-      "https://news.ycombinator.com/item?id=39015323"
-    ],
-    [
-      "\"Software is getting slower more rapidly than hardware becomes faster.\"",
-      "https://www.techslang.com/definition/what-is-wirths-law/"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 16:28:16",
       "https://news.ycombinator.com/item?id=39015159"
     ],
@@ -147,6 +147,16 @@
     [
       "Field Experimental Evidence of AI on Knowledge Worker Productivity and Quality",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 15:08:02",
+      "https://news.ycombinator.com/item?id=39014051"
+    ],
+    [
+      "Faster Shell Startup with Shell Switching",
+      "https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: BSON Extension for Postgres",
       "https://github.com/buzzm/postgresbson"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 09:35:50",
-      "https://news.ycombinator.com/item?id=38998914"
-    ],
-    [
-      "Exploring Object File Formats",
-      "https://maskray.me/blog/2024-01-14-exploring-object-file-formats"
     ]
   ],
   [
