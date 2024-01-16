@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 10:46:52](https://news.ycombinator.com/item?id=39011802) - [Things to commit just before leaving your job](https://gist.github.com/aras-p/6224951)
 * [2024-01-16, 08:40:49](https://news.ycombinator.com/item?id=39010920) - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
+* [2024-01-16, 08:28:07](https://news.ycombinator.com/item?id=39010838) - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
@@ -23,13 +25,11 @@
 * [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
 * [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
-* [2024-01-14, 11:09:37](https://news.ycombinator.com/item?id=38989414) - [Field trip: inside America's first magic mushroom school](https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school)
 * [2024-01-14, 10:39:52](https://news.ycombinator.com/item?id=38989247) - [Modern misconceptions about medieval warfare](https://warfantasy.wordpress.com/2024/01/14/26-modern-misconceptions-about-medieval-warfare/)
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
 * [2024-01-14, 06:37:56](https://news.ycombinator.com/item?id=38988090) - [Show HN: Shelly: Write Terminal Commands in English](https://github.com/paletov/shelly/blob/main/README.md)
 * [2024-01-14, 06:12:38](https://news.ycombinator.com/item?id=38987966) - [What Happened to GE? (2021)](https://www.gatesnotes.com/Lights-Out)
-* [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
 ## [Archives](archives/index.md)
 
