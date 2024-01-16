@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-16, 21:40:15",
+      "https://news.ycombinator.com/item?id=39019532"
+    ],
+    [
+      "Stable Code 3B: Coding on the Edge",
+      "https://stability.ai/news/stable-code-2024-llm-code-completion-release"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 21:29:44",
       "https://news.ycombinator.com/item?id=39019414"
     ],
     [
-      "Space solar power project ends first in-space mission with successes and lessons",
+      "Space Solar Power Demonstrator ends first in-space mission",
       "https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 21:08:56",
+      "https://news.ycombinator.com/item?id=39019174"
+    ],
+    [
+      "Kagi outage post-mortem",
+      "https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "LeftoverLocals: A vulnerability that allows data recovery from GPU memory",
       "https://leftoverlocals.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 17:53:17",
-      "https://news.ycombinator.com/item?id=39016337"
-    ],
-    [
-      "5 minutes of coding yields a 6%+ boost to Linux I/O performance",
-      "https://www.phoronix.com/news/Linux-Caching-Time-Block-IO"
     ]
   ],
   [
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2024-01-16, 15:54:21",
-      "https://news.ycombinator.com/item?id=39014737"
-    ],
-    [
-      "A Theory of Grift",
-      "https://www.thediff.co/archive/a-theory-of-grift/"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 15:48:47",
       "https://news.ycombinator.com/item?id=39014652"
     ],
     [
       "OutRun – Open-source, privacy oriented, outdoor fitness tracker",
       "https://github.com/timfraedrich/OutRun"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 15:48:14",
+      "https://news.ycombinator.com/item?id=39014642"
+    ],
+    [
+      "US Supreme Court declines to hear appeals in Apple-Epic Games legal battle",
+      "https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Using the ZBar barcode scanning suite in the browser with WebAssembly",
       "https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 13:45:14",
+      "https://news.ycombinator.com/item?id=39013194"
+    ],
+    [
+      "Passing nothing is surprisingly difficult",
+      "https://davidben.net/2024/01/15/empty-slices.html"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-01-16, 10:20:01",
-      "https://news.ycombinator.com/item?id=39011630"
-    ],
-    [
-      "PID Controllers in Unity3D",
-      "https://vazgriz.com/621/pid-controllers/"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 13:46:44",
       "https://news.ycombinator.com/item?id=39000905"
     ],
     [
       "Show HN: BSON Extension for Postgres",
       "https://github.com/buzzm/postgresbson"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 09:35:50",
-      "https://news.ycombinator.com/item?id=38998914"
-    ],
-    [
-      "Exploring Object File Formats",
-      "https://maskray.me/blog/2024-01-14-exploring-object-file-formats"
     ]
   ],
   [
