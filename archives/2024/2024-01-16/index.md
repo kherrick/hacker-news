@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 19:01:16](https://news.ycombinator.com/item?id=39017350) - [Infowars and Goop sell the same exact pseudoscientific \"wellness\" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On Being Listed as an Artist Whose Work Was Used to Train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
 * [2024-01-16, 17:51:47](https://news.ycombinator.com/item?id=39016308) - [The M.B.A.s Who Can't Find Jobs](https://www.wsj.com/lifestyle/careers/the-m-b-a-s-who-cant-find-jobs-669cc1fa)
+* [2024-01-16, 17:37:08](https://news.ycombinator.com/item?id=39016123) - [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
+* [2024-01-16, 17:34:22](https://news.ycombinator.com/item?id=39016086) - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [How scientists proved that bees can perceive time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
 * [2024-01-16, 17:25:39](https://news.ycombinator.com/item?id=39015954) - [Chicago-area Tesla charging stations lined with dead cars in freezing cold](https://www.foxbusiness.com/technology/chicago-area-tesla-charging-stations-lined-with-dead-cars-in-freezing-cold-a-bunch-of-dead-robots-out-here)
 * [2024-01-16, 17:17:43](https://news.ycombinator.com/item?id=39015849) - [Tell HN: California's Gig Worker Law Might Go National](https://news.ycombinator.com/item?id=39015849)
