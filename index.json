@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 22:11:42",
+      "https://news.ycombinator.com/item?id=39019876"
+    ],
+    [
+      "US judge blocks JetBlue from acquiring Spirit Airlines",
+      "https://www.reuters.com/markets/deals/us-judge-blocks-jetblue-acquiring-spirit-airlines-2024-01-16/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 21:40:15",
       "https://news.ycombinator.com/item?id=39019532"
     ],
@@ -257,16 +267,6 @@
     [
       "Outline: Self hostable, realtime, Markdown compatible knowledge base",
       "https://github.com/outline/outline"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 10:53:15",
-      "https://news.ycombinator.com/item?id=39011850"
-    ],
-    [
-      "Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))",
-      "https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html"
     ]
   ],
   [
