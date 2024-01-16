@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: A Different Kind of Hell](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 * [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
 * [2024-01-16, 13:18:07](https://news.ycombinator.com/item?id=39012934) - [Critical Gitlab vulnerability exposes 2FA-less users to account takeovers](https://www.theregister.com/2024/01/15/critical_gitlab_vulnerability/)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
