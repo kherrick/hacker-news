@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-16, 10:46:52](https://news.ycombinator.com/item?id=39011802) - [Things to commit just before leaving your job](https://gist.github.com/aras-p/6224951)
 * [2024-01-16, 08:40:49](https://news.ycombinator.com/item?id=39010920) - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
 * [2024-01-16, 08:28:07](https://news.ycombinator.com/item?id=39010838) - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
+* [2024-01-16, 05:48:05](https://news.ycombinator.com/item?id=39009916) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
 * [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
 * [2024-01-16, 02:05:32](https://news.ycombinator.com/item?id=39008533) - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
