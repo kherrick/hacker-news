@@ -10,7 +10,7 @@
 * [2024-01-16, 12:46:59](https://news.ycombinator.com/item?id=39012690) - [Rust-Written Linux Scheduler Showing Promising Results for Gaming Performance](https://www.phoronix.com/news/Rust-Linux-Scheduler-Experiment)
 * [2024-01-16, 12:41:51](https://news.ycombinator.com/item?id=39012656) - [Bug Thread](https://xkcd.com/2881/)
 * [2024-01-16, 12:27:01](https://news.ycombinator.com/item?id=39012544) - [Ask HN: Where can I find good legal documents?](https://news.ycombinator.com/item?id=39012544)
-* [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five Cryptologic Giants to Be Inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
+* [2024-01-16, 11:19:40](https://news.ycombinator.com/item?id=39012054) - [Outline: Self hostable, realtime, Markdown compatible knowledge base](https://github.com/outline/outline)
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 08:28:07](https://news.ycombinator.com/item?id=39010838) - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
