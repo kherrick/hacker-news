@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-16, 08:15:50](https://news.ycombinator.com/item?id=39010768) - [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
+* [2024-01-16, 08:40:49](https://news.ycombinator.com/item?id=39010920) - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
@@ -17,7 +17,6 @@
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 * [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
-* [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:30:05](https://news.ycombinator.com/item?id=39002028) - [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 11:59:44](https://news.ycombinator.com/item?id=38999837) - [When Optimising Code, Measure](https://www.solipsys.co.uk/new/WhenOptimisingCodeMeasure.html?xa15hn)
@@ -25,6 +24,7 @@
 * [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
 * [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
+* [2024-01-14, 11:09:37](https://news.ycombinator.com/item?id=38989414) - [Field trip: inside America's first magic mushroom school](https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school)
 * [2024-01-14, 10:39:52](https://news.ycombinator.com/item?id=38989247) - [Modern misconceptions about medieval warfare](https://warfantasy.wordpress.com/2024/01/14/26-modern-misconceptions-about-medieval-warfare/)
 * [2024-01-14, 09:08:56](https://news.ycombinator.com/item?id=38988762) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-14, 09:04:30](https://news.ycombinator.com/item?id=38988734) - [Estimating your memory bandwidth](https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/)
