@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-16, 20:35:37",
+      "https://news.ycombinator.com/item?id=39018769"
+    ],
+    [
+      "6174",
+      "https://en.wikipedia.org/wiki/6174"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 20:07:37",
+      "https://news.ycombinator.com/item?id=39018370"
+    ],
+    [
+      "Asus Unveils Dual-Screen Laptop: Zenbook Duo with Two 14-Inch OLED Displays",
+      "https://www.anandtech.com/show/21230/asus-unveils-dual-screen-laptop-zenbook-duo-with-two-14-inch-oled-displays"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 20:05:04",
       "https://news.ycombinator.com/item?id=39018341"
     ],
@@ -35,18 +55,8 @@
       "https://news.ycombinator.com/item?id=39017607"
     ],
     [
-      "Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome",
+      "Web AI Model Testing: WebGPU, WebGL, and Headless Chrome",
       "https://developer.chrome.com/blog/supercharge-web-ai-testing"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 19:01:16",
-      "https://news.ycombinator.com/item?id=39017350"
-    ],
-    [
-      "Infowars and Goop sell the same exact pseudoscientific \"wellness\" products",
-      "https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "LeftoverLocals: A vulnerability that allows data recovery from GPU memory",
       "https://leftoverlocals.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 17:58:00",
-      "https://news.ycombinator.com/item?id=39016395"
-    ],
-    [
-      "On being listed as an artist whose work was used to train Midjourney",
-      "https://catandgirl.com/4000-of-my-closest-friends/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39014866"
     ],
     [
-      "TinyML: Ultra-low power Machine Learning",
+      "TinyML: Ultra-low power machine learning",
       "https://www.ikkaro.net/what-tinyml-is/"
     ]
   ],
@@ -175,8 +175,8 @@
       "https://news.ycombinator.com/item?id=39014521"
     ],
     [
-      "Field Experimental Evidence of AI on Knowledge Worker Productivity and Quality",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321"
+      "Field experimental evidence of AI on knowledge worker productivity and quality",
+      "https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged"
     ]
   ],
   [
