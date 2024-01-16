@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 17:00:02](https://news.ycombinator.com/item?id=39015585) - [Charge Robotics (YC S21) is hiring MechEs to build robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/ml4f9l4-senior-mechanical-engineer)
 * [2024-01-16, 16:30:02](https://news.ycombinator.com/item?id=39015181) - [Grug Brained Developer GPT](https://chat.openai.com/g/g-SkdKyJl3t-grug-brain-dev)
+* [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why Is Everything an Orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 16:15:33](https://news.ycombinator.com/item?id=39015036) - [A NetBSD/amd64 guest can now boot in 18ms](https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/)
 * [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Show HN: Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
 * [2024-01-16, 16:06:37](https://news.ycombinator.com/item?id=39014917) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
