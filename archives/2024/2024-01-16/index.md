@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
+* [2024-01-16, 22:31:37](https://news.ycombinator.com/item?id=39020069) - [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
+* [2024-01-16, 22:19:16](https://news.ycombinator.com/item?id=39019942) - [Masters of the Ice: Charles Rabot's Arctic Photographs (Ca. 1881)](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
 * [2024-01-16, 22:11:42](https://news.ycombinator.com/item?id=39019876) - [US judge blocks JetBlue from acquiring Spirit Airlines](https://www.reuters.com/markets/deals/us-judge-blocks-jetblue-acquiring-spirit-airlines-2024-01-16/)
+* [2024-01-16, 22:01:16](https://news.ycombinator.com/item?id=39019749) - [What SoundCloud Created Can Never Die](https://www.wired.com/story/what-soundcloud-created-can-never-die/)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:34:49](https://news.ycombinator.com/item?id=39019465) - [NFL Pick-Em's LLM Bot](https://github.com/stevekrenzel/pick-ems)
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space solar power project ends first in-space mission with successes and lessons](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
