@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 20:05:04](https://news.ycombinator.com/item?id=39018341) - [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 * [2024-01-16, 20:00:09](https://news.ycombinator.com/item?id=39018278) - [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
@@ -27,7 +28,6 @@
 * [2024-01-16, 10:53:15](https://news.ycombinator.com/item?id=39011850) - [Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))](https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html)
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
-* [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
 

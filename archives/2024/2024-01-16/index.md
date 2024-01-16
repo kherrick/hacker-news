@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 20:05:04](https://news.ycombinator.com/item?id=39018341) - [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 * [2024-01-16, 20:00:09](https://news.ycombinator.com/item?id=39018278) - [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
