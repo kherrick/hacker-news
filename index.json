@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-01-16, 12:27:01",
+      "https://news.ycombinator.com/item?id=39012544"
+    ],
+    [
+      "Ask HN: Where can I find good legal documents?",
+      "https://news.ycombinator.com/item?id=39012544"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 10:53:15",
+      "https://news.ycombinator.com/item?id=39011850"
+    ],
+    [
+      "Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))",
+      "https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 10:20:01",
+      "https://news.ycombinator.com/item?id=39011630"
+    ],
+    [
+      "PID Controllers in Unity3D",
+      "https://vazgriz.com/621/pid-controllers/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 08:40:49",
       "https://news.ycombinator.com/item?id=39010920"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-01-15, 15:40:03",
-      "https://news.ycombinator.com/item?id=39002138"
-    ],
-    [
-      "FSRS: A modern, efficient spaced repetition algorithm",
-      "https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 15:30:05",
       "https://news.ycombinator.com/item?id=39002028"
     ],
@@ -277,26 +297,6 @@
     [
       "Show HN: Shelly: Write Terminal Commands in English",
       "https://github.com/paletov/shelly/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 06:12:38",
-      "https://news.ycombinator.com/item?id=38987966"
-    ],
-    [
-      "What Happened to GE? (2021)",
-      "https://www.gatesnotes.com/Lights-Out"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 13:42:58",
-      "https://news.ycombinator.com/item?id=38979792"
-    ],
-    [
-      "Wokwi – Simulate IoT Projects in the Browser",
-      "https://wokwi.com/"
     ]
   ]
 ]
