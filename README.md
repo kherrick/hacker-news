@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 02:05:02](https://news.ycombinator.com/item?id=39008529) - [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
 * [2024-01-16, 00:46:17](https://news.ycombinator.com/item?id=39008026) - [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
 * [2024-01-16, 00:06:34](https://news.ycombinator.com/item?id=39007761) - [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
 * [2024-01-16, 00:05:40](https://news.ycombinator.com/item?id=39007756) - [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
 * [2024-01-16, 00:04:20](https://news.ycombinator.com/item?id=39007740) - [Ask HN: Do companies hire Principal and Staff level engineers from job postings?](https://news.ycombinator.com/item?id=39007740)
 * [2024-01-15, 23:03:46](https://news.ycombinator.com/item?id=39007248) - [Watch Free Online Documentaries](https://ihavenotv.com/)
-* [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
 * [2024-01-15, 21:33:57](https://news.ycombinator.com/item?id=39006383) - [Immediate Mode GUI Programming](https://eliasnaur.com/blog/immediate-mode-gui-programming)
 * [2024-01-15, 21:28:48](https://news.ycombinator.com/item?id=39006337) - [Svix (YC W21) Is Hiring a Technical Content Marketer (US Remote)](https://www.svix.com/careers/)
 * [2024-01-15, 20:38:02](https://news.ycombinator.com/item?id=39005780) - [A lowering strategy for control effects in Rust](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
