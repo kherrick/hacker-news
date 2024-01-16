@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-16, 14:47:40](https://news.ycombinator.com/item?id=39013814) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
-* [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
+* [2024-01-16, 14:44:50](https://news.ycombinator.com/item?id=39013780) - [Why Y is pronounced as \"igrek\"](https://en.wikipedia.org/wiki/Y)
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
 * [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
