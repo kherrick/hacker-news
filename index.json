@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 21:34:49",
+      "https://news.ycombinator.com/item?id=39019465"
+    ],
+    [
+      "NFL Pick-Em's LLM Bot",
+      "https://github.com/stevekrenzel/pick-ems"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 21:00:02",
       "https://news.ycombinator.com/item?id=39019063"
     ],
@@ -87,16 +97,6 @@
     [
       "Bees have an internal sense of time (2022)",
       "https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 17:05:43",
-      "https://news.ycombinator.com/item?id=39015674"
-    ],
-    [
-      "The tyranny of the algorithm: why every coffee shop looks the same",
-      "https://www.theguardian.com/news/2024/jan/16/the-tyranny-of-the-algorithm-why-every-coffee-shop-looks-the-same"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-01-16, 10:20:01",
-      "https://news.ycombinator.com/item?id=39011630"
+      "2024-01-16, 07:29:40",
+      "https://news.ycombinator.com/item?id=39010454"
     ],
     [
-      "PID Controllers in Unity3D",
-      "https://vazgriz.com/621/pid-controllers/"
+      "Open-Source Detector of CISA's Known Exploitable Vulnerabilities",
+      "https://github.com/Ostorlab/KEV"
     ]
   ],
   [
