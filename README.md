@@ -12,6 +12,7 @@
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
 * [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
+* [2024-01-16, 13:22:55](https://news.ycombinator.com/item?id=39012980) - [OpenSUSE Leap 15.6 to Be the Last in Its Current Form](https://linuxiac.com/opensuse-leap-15-6-to-be-the-last-in-its-current-form/)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
 * [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five Cryptologic Giants to Be Inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
@@ -29,7 +30,6 @@
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
 * [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
-* [2024-01-14, 11:59:27](https://news.ycombinator.com/item?id=38989648) - [Hydrogen Cools Well, but Safety Is Crucial](https://www.power-eng.com/emissions/hydrogen-cools-well-but-safety-is-crucial/)
 
 ## [Archives](archives/index.md)
 
