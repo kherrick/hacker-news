@@ -82,6 +82,7 @@
 * [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
+* [2024-01-15, 08:44:34](https://news.ycombinator.com/item?id=38998642) - [Compression Attached Memory Modules may make upgradable laptops a thing again](https://arstechnica.com/gadgets/2024/01/compression-attached-memory-modules-may-make-upgradable-laptops-a-thing-again/)
 * [2024-01-15, 08:38:38](https://news.ycombinator.com/item?id=38998615) - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 * [2024-01-15, 08:00:36](https://news.ycombinator.com/item?id=38998423) - [ChatGPT vs. Advent of Code](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
