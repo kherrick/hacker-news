@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 01:08:10](https://news.ycombinator.com/item?id=39008165) - [Ask HN: Should I try to manufacture toasters?](https://news.ycombinator.com/item?id=39008165)
 * [2024-01-16, 00:46:17](https://news.ycombinator.com/item?id=39008026) - [Java virtual threads caused a deadlock in TPC-C for PostgreSQL](https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b)
-* [2024-01-16, 00:06:34](https://news.ycombinator.com/item?id=39007761) - [The Beauty and Danger in Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
+* [2024-01-16, 00:06:34](https://news.ycombinator.com/item?id=39007761) - [Victorian Glass Fire Grenades](https://museumcrush.org/the-beauty-and-danger-in-victorian-glass-fire-grenades/)
 * [2024-01-16, 00:05:40](https://news.ycombinator.com/item?id=39007756) - [Bluesky has launched RSS feeds](https://openrss.org/blog/bluesky-has-launched-rss-feeds)
 * [2024-01-15, 23:03:46](https://news.ycombinator.com/item?id=39007248) - [Watch Free Online Documentaries](https://ihavenotv.com/)
 * [2024-01-15, 21:35:42](https://news.ycombinator.com/item?id=39006398) - [Amazon R&D spending is more than that of all companies and government of France](https://twitter.com/emollick/status/1746254000914092480)
@@ -18,8 +19,6 @@
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-01-15, 17:57:51](https://news.ycombinator.com/item?id=39003867) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 * [2024-01-15, 17:51:06](https://news.ycombinator.com/item?id=39003773) - [Spotted water hemlock: the most toxic plant in North America (2017)](https://www.atlasobscura.com/articles/spotted-water-hemlock-toxic-plant)
-* [2024-01-15, 17:26:45](https://news.ycombinator.com/item?id=39003469) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
-* [2024-01-15, 17:22:27](https://news.ycombinator.com/item?id=39003417) - [Japan's Comfort Food: The Onigiri](https://one-from-nippon.ghost.io/onigiri/)
 * [2024-01-15, 17:12:22](https://news.ycombinator.com/item?id=39003255) - [Harnessing heat from wastewater](https://www.bbc.co.uk/future/article/20240103-sewage-a-low-cost-low-carbon-way-to-warm-homes)
 * [2024-01-15, 17:02:33](https://news.ycombinator.com/item?id=39003066) - [(Unsuccessfully) Fine-tuning GPT to play \"Connections\"](https://www.danielcorin.com/posts/2024/fine-tuning-connections/)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
@@ -28,6 +27,7 @@
 * [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 04:35:05](https://news.ycombinator.com/item?id=38997500) - [Expand Everything: Userscript to click \"show more\" links to expand all the text](https://github.com/ludios/expand-everything)
 * [2024-01-14, 11:09:37](https://news.ycombinator.com/item?id=38989414) - [Field trip: inside America's first magic mushroom school](https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school)
+* [2024-01-14, 09:55:47](https://news.ycombinator.com/item?id=38989019) - [Simulate an Ubuntu-like VM inside macOS](https://yashodhanmohan.medium.com/simulate-an-ubuntu-like-vm-inside-macos-2a20332e02e8)
 * [2024-01-13, 22:32:13](https://news.ycombinator.com/item?id=38985308) - [Feynman Sprinkler [video]](https://www.youtube.com/watch?v=ued2cEcfAio)
 * [2024-01-13, 13:42:58](https://news.ycombinator.com/item?id=38979792) - [Wokwi – Simulate IoT Projects in the Browser](https://wokwi.com/)
 
