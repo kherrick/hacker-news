@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-01-16, 16:11:31",
-      "https://news.ycombinator.com/item?id=39014985"
+      "2024-01-16, 16:30:02",
+      "https://news.ycombinator.com/item?id=39015181"
     ],
     [
-      "Show HN: Benchmarks and comparison of LLM AI models and API hosting providers",
-      "https://artificialanalysis.ai"
+      "Grug Brained Developer GPT",
+      "https://chat.openai.com/g/g-SkdKyJl3t-grug-brain-dev"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 16:15:33",
+      "https://news.ycombinator.com/item?id=39015036"
+    ],
+    [
+      "A NetBSD/amd64 guest can now boot in 18ms",
+      "https://old.reddit.com/r/BSD/comments/197vfmq/a_netbsdamd64_guest_can_now_boot_in_40ms_details/"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 16:06:37",
+      "https://news.ycombinator.com/item?id=39014917"
+    ],
+    [
+      "Quebec man who blamed wildfires on government pleads guilty to setting 14 fires",
+      "https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 15:54:21",
+      "https://news.ycombinator.com/item?id=39014737"
+    ],
+    [
+      "A Theory of Grift",
+      "https://www.thediff.co/archive/a-theory-of-grift/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-01-16, 12:41:51",
-      "https://news.ycombinator.com/item?id=39012656"
-    ],
-    [
-      "Bug Thread",
-      "https://xkcd.com/2881/"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 12:27:01",
       "https://news.ycombinator.com/item?id=39012544"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-01-16, 06:22:35",
-      "https://news.ycombinator.com/item?id=39010070"
-    ],
-    [
-      "How a software glitch at the UK Post Office ruined lives",
-      "https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 05:10:58",
       "https://news.ycombinator.com/item?id=39009745"
     ],
@@ -207,16 +217,6 @@
     [
       "Modeless Vim",
       "https://github.com/SebastianMuskalla/ModelessVim"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 00:46:17",
-      "https://news.ycombinator.com/item?id=39008026"
-    ],
-    [
-      "We switched to Java 21 virtual threads and got a deadlock in TPC-C for Postgres",
-      "https://blog.ydb.tech/how-we-switched-to-java-21-virtual-threads-and-got-deadlock-in-tpc-c-for-postgresql-cca2fe08d70b"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-01-14, 22:23:56",
+      "https://news.ycombinator.com/item?id=38995035"
+    ],
+    [
+      "'An aged hobby': enthusiasts struggle to keep model railway industry on track",
+      "https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 12:25:56",
       "https://news.ycombinator.com/item?id=38989832"
     ],
@@ -287,16 +297,6 @@
     [
       "Hydrogen Cools Well, but Safety Is Crucial",
       "https://www.power-eng.com/emissions/hydrogen-cools-well-but-safety-is-crucial/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 09:08:56",
-      "https://news.ycombinator.com/item?id=38988762"
-    ],
-    [
-      "Introduction to GPU Programming in Chapel",
-      "https://chapel-lang.org/blog/posts/intro-to-gpus/"
     ]
   ]
 ]
