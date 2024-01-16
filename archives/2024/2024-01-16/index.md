@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 23:37:54](https://news.ycombinator.com/item?id=39020778) - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
+* [2024-01-16, 23:34:14](https://news.ycombinator.com/item?id=39020742) - [GM to Shut Down Ultra Cruise](https://ojoyoshidareport.com/gm-to-shut-down-ultra-cruise/)
+* [2024-01-16, 23:33:54](https://news.ycombinator.com/item?id=39020737) - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
 * [2024-01-16, 22:31:37](https://news.ycombinator.com/item?id=39020069) - [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
 * [2024-01-16, 22:19:16](https://news.ycombinator.com/item?id=39019942) - [Masters of the Ice: Charles Rabot's Arctic Photographs (Ca. 1881)](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
