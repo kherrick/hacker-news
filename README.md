@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-16, 08:15:50](https://news.ycombinator.com/item?id=39010768) - [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
+* [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
 * [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
@@ -17,7 +18,6 @@
 * [2024-01-15, 20:08:16](https://news.ycombinator.com/item?id=39005433) - [Our language, our world](https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history)
 * [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 18:01:44](https://news.ycombinator.com/item?id=39003929) - [Big Tech's role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
-* [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
 * [2024-01-15, 15:30:05](https://news.ycombinator.com/item?id=39002028) - [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
 * [2024-01-15, 08:44:34](https://news.ycombinator.com/item?id=38998642) - [Compression Attached Memory Modules may make upgradable laptops a thing again](https://arstechnica.com/gadgets/2024/01/compression-attached-memory-modules-may-make-upgradable-laptops-a-thing-again/)

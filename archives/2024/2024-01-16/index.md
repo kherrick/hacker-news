@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
 * [2024-01-16, 08:15:50](https://news.ycombinator.com/item?id=39010768) - [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
+* [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 06:57:02](https://news.ycombinator.com/item?id=39010257) - [86-DOS Revisited](http://www.os2museum.com/wp/86-dos-revisited/)
 * [2024-01-16, 06:22:35](https://news.ycombinator.com/item?id=39010070) - [Prison. Bankruptcy. Suicide. How a software glitch ruined lives](https://www.cnn.com/2024/01/13/business/uk-post-office-fujitsu-horizon-scandal/index.html)
 * [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
