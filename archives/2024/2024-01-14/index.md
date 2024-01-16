@@ -53,6 +53,7 @@
 * [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
 * [2024-01-14, 12:06:04](https://news.ycombinator.com/item?id=38989685) - [An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-01-14, 11:59:27](https://news.ycombinator.com/item?id=38989648) - [Hydrogen Cools Well, but Safety Is Crucial](https://www.power-eng.com/emissions/hydrogen-cools-well-but-safety-is-crucial/)
 * [2024-01-14, 11:46:12](https://news.ycombinator.com/item?id=38989585) - [Microsoft suggests command line fiddling to fix faulty Win 10 update (KB5034441)](https://www.theregister.com/2024/01/12/microsoft_update_for_bitlocker_vuln/)
 * [2024-01-14, 11:09:37](https://news.ycombinator.com/item?id=38989414) - [Field trip: inside America's first magic mushroom school](https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school)
 * [2024-01-14, 10:41:25](https://news.ycombinator.com/item?id=38989254) - [When \"blocked indefinitely\" is not indefinite](https://well-typed.com/blog/2024/01/when-blocked-indefinitely-is-not-indefinite/)
