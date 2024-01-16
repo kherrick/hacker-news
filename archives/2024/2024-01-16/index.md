@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 20:00:09](https://news.ycombinator.com/item?id=39018278) - [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
+* [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
 * [2024-01-16, 19:01:16](https://news.ycombinator.com/item?id=39017350) - [Infowars and Goop sell the same exact pseudoscientific \"wellness\" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)

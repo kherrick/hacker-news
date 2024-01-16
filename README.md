@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-16, 20:00:09](https://news.ycombinator.com/item?id=39018278) - [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
+* [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
 * [2024-01-16, 19:01:16](https://news.ycombinator.com/item?id=39017350) - [Infowars and Goop sell the same exact pseudoscientific \"wellness\" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
@@ -18,7 +20,6 @@
 * [2024-01-16, 15:08:02](https://news.ycombinator.com/item?id=39014051) - [Faster Shell Startup with Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
 * [2024-01-16, 14:21:21](https://news.ycombinator.com/item?id=39013497) - [Is Google Getting Worse? A Longitudinal Investigation of SEO Spam in Search [pdf]](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
-* [2024-01-16, 13:29:55](https://news.ycombinator.com/item?id=39013036) - [Passwordless: a different kind of hell?](https://jcarlosroldan.com/post/315/passwordless-a-different-kind-of-hell)
 * [2024-01-16, 12:47:30](https://news.ycombinator.com/item?id=39012697) - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
 * [2024-01-16, 11:51:39](https://news.ycombinator.com/item?id=39012262) - [Five Cryptologic Giants to Be Inducted into NSA's Cryptologic Hall of Honor](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3631341/five-cryptologic-giants-to-be-inducted-into-nsas-cryptologic-hall-of-honor/)
 * [2024-01-16, 11:48:07](https://news.ycombinator.com/item?id=39012235) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
@@ -27,7 +28,6 @@
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 07:29:40](https://news.ycombinator.com/item?id=39010454) - [Open-Source Detector of CISA's Known Exploitable Vulnerabilities](https://github.com/Ostorlab/KEV)
 * [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
-* [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
 
