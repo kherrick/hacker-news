@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 12:41:51](https://news.ycombinator.com/item?id=39012656) - [Bug Thread](https://xkcd.com/2881/)
 * [2024-01-16, 12:00:22](https://news.ycombinator.com/item?id=39012329) - [Who Are Western Europeans? New Study Reveals True Origins](https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000)
 * [2024-01-16, 11:31:46](https://news.ycombinator.com/item?id=39012127) - [Why do big companies ask unrealistic software engineering questions](https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0)
 * [2024-01-16, 10:46:52](https://news.ycombinator.com/item?id=39011802) - [Things to commit just before leaving your job](https://gist.github.com/aras-p/6224951)
@@ -17,6 +18,7 @@
 * [2024-01-16, 05:48:05](https://news.ycombinator.com/item?id=39009916) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
 * [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
+* [2024-01-16, 04:18:17](https://news.ycombinator.com/item?id=39009445) - [Python Packaging, One Year Later: A Look Back at 2023 in Python Packaging](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-16, 02:44:09](https://news.ycombinator.com/item?id=39008805) - [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/)
 * [2024-01-16, 02:05:32](https://news.ycombinator.com/item?id=39008533) - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
 * [2024-01-16, 02:05:02](https://news.ycombinator.com/item?id=39008529) - [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)
