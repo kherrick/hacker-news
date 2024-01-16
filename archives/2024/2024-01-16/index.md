@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Show HN: Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
+* [2024-01-16, 15:48:14](https://news.ycombinator.com/item?id=39014642) - [US Supreme Court Snubs Apple-Epic Games Legal Battle](https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/)
 * [2024-01-16, 15:43:58](https://news.ycombinator.com/item?id=39014583) - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
+* [2024-01-16, 15:35:42](https://news.ycombinator.com/item?id=39014426) - [The Mad Scientist's Club (book series)](http://www.madscientistsclub.com/books.html)
 * [2024-01-16, 14:58:47](https://news.ycombinator.com/item?id=39013931) - [Tesla owners in deep freeze discover the cold, hard truth about EVs](https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze/)
 * [2024-01-16, 14:47:40](https://news.ycombinator.com/item?id=39013814) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-16, 14:44:50](https://news.ycombinator.com/item?id=39013780) - [Why Y is pronounced as \"igrek\"](https://en.wikipedia.org/wiki/Y)
