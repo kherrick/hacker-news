@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 14:58:47](https://news.ycombinator.com/item?id=39013931) - [Tesla owners in deep freeze discover the cold, hard truth about EVs](https://www.theregister.com/2024/01/16/tesla_owners_in_deep_freeze/)
 * [2024-01-16, 14:47:40](https://news.ycombinator.com/item?id=39013814) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-16, 14:44:50](https://news.ycombinator.com/item?id=39013780) - [Why Y is pronounced as \"igrek\"](https://en.wikipedia.org/wiki/Y)
 * [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
