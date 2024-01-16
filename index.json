@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-16, 11:31:46",
-      "https://news.ycombinator.com/item?id=39012127"
+      "2024-01-16, 12:00:22",
+      "https://news.ycombinator.com/item?id=39012329"
     ],
     [
-      "Why do big companies ask unrealistic software engineering questions",
-      "https://tomaszs2.medium.com/why-do-big-companies-ask-unrealistic-software-engineering-interview-questions-cb23639ca5d0"
+      "Who Are Western Europeans? New Study Reveals True Origins",
+      "https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-01-16, 05:48:05",
+      "https://news.ycombinator.com/item?id=39009916"
+    ],
+    [
+      "Exploring Object File Formats",
+      "https://maskray.me/blog/2024-01-14-exploring-object-file-formats"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 05:17:38",
       "https://news.ycombinator.com/item?id=39009779"
     ],
@@ -77,6 +87,16 @@
     [
       "Modeless Vim",
       "https://github.com/SebastianMuskalla/ModelessVim"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 01:08:10",
+      "https://news.ycombinator.com/item?id=39008165"
+    ],
+    [
+      "Ask HN: Should I try to manufacture toasters?",
+      "https://news.ycombinator.com/item?id=39008165"
     ]
   ],
   [
@@ -131,32 +151,22 @@
   ],
   [
     [
-      "2024-01-15, 20:41:26",
-      "https://news.ycombinator.com/item?id=39005818"
-    ],
-    [
-      "Future gigantic solar farms might impact solar power elsewhere in the world",
-      "https://techxplore.com/news/2024-01-future-gigantic-solar-farms-impact.amp"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 20:38:02",
-      "https://news.ycombinator.com/item?id=39005780"
-    ],
-    [
-      "A lowering strategy for control effects in Rust",
-      "https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 18:51:45",
       "https://news.ycombinator.com/item?id=39004526"
     ],
     [
       "Niklaus Wirth, or the Importance of Being Simple",
       "https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 15:40:03",
+      "https://news.ycombinator.com/item?id=39002138"
+    ],
+    [
+      "FSRS: A modern, efficient spaced repetition algorithm",
+      "https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-01-15, 04:35:05",
-      "https://news.ycombinator.com/item?id=38997500"
-    ],
-    [
-      "Expand Everything: Userscript to click \"show more\" links to expand all the text",
-      "https://github.com/ludios/expand-everything"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 12:25:56",
       "https://news.ycombinator.com/item?id=38989832"
     ],
@@ -247,16 +247,6 @@
     [
       "Field trip: inside America's first magic mushroom school",
       "https://www.theguardian.com/us-news/2024/jan/13/oregon-first-magic-mushroom-psilocybin-school"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 10:39:52",
-      "https://news.ycombinator.com/item?id=38989247"
-    ],
-    [
-      "Modern misconceptions about medieval warfare",
-      "https://warfantasy.wordpress.com/2024/01/14/26-modern-misconceptions-about-medieval-warfare/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "What Happened to GE? (2021)",
       "https://www.gatesnotes.com/Lights-Out"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 13:42:58",
+      "https://news.ycombinator.com/item?id=38979792"
+    ],
+    [
+      "Wokwi – Simulate IoT Projects in the Browser",
+      "https://wokwi.com/"
     ]
   ]
 ]
