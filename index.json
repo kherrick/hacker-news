@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-16, 20:59:48",
-      "https://news.ycombinator.com/item?id=39019059"
-    ],
-    [
-      "At 93, he's as fit as a 40-year-old. His body offers lessons on aging",
-      "https://www.washingtonpost.com/wellness/2024/01/16/fitness-aging-richard-morgan/"
-    ]
-  ],
-  [
-    [
       "2024-01-16, 20:35:37",
       "https://news.ycombinator.com/item?id=39018769"
     ],
@@ -257,6 +247,16 @@
     [
       "Outline: Self hostable, realtime, Markdown compatible knowledge base",
       "https://github.com/outline/outline"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 10:53:15",
+      "https://news.ycombinator.com/item?id=39011850"
+    ],
+    [
+      "Std: Clamp generates less efficient assembly than std:min(max,std:max(min,v))",
+      "https://1f6042.blogspot.com/2024/01/stdclamp-still-generates-less-efficient.html"
     ]
   ],
   [
