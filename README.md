@@ -7,7 +7,7 @@
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
-* [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
+* [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-16, 17:37:08](https://news.ycombinator.com/item?id=39016123) - [Lilygo T-Keyboard: An ESP32 Bluetooth Blackberry keyboard](https://www.lilygo.cc/products/t-keyboard)
 * [2024-01-16, 17:34:22](https://news.ycombinator.com/item?id=39016086) - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
