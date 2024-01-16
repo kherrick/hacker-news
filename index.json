@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-01-16, 12:41:51",
-      "https://news.ycombinator.com/item?id=39012656"
+      "2024-01-16, 12:47:30",
+      "https://news.ycombinator.com/item?id=39012697"
     ],
     [
-      "Bug Thread",
-      "https://xkcd.com/2881/"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 12:00:22",
-      "https://news.ycombinator.com/item?id=39012329"
-    ],
-    [
-      "Who Are Western Europeans? New Study Reveals True Origins",
-      "https://www.haaretz.com/archaeology/2024-01-16/ty-article/who-are-western-europeans-new-study-reveals-true-origins/0000018d-0dfa-de9c-a3df-6ffb44030000"
+      "Speedbump – a TCP proxy to simulate variable network latency",
+      "https://github.com/kffl/speedbump"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "Bluesky has launched RSS feeds",
       "https://openrss.org/blog/bluesky-has-launched-rss-feeds"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 21:33:57",
-      "https://news.ycombinator.com/item?id=39006383"
-    ],
-    [
-      "Immediate Mode GUI Programming",
-      "https://eliasnaur.com/blog/immediate-mode-gui-programming"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Show HN: Shelly: Write Terminal Commands in English",
       "https://github.com/paletov/shelly/blob/main/README.md"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 06:12:38",
+      "https://news.ycombinator.com/item?id=38987966"
+    ],
+    [
+      "What Happened to GE? (2021)",
+      "https://www.gatesnotes.com/Lights-Out"
+    ]
+  ],
+  [
+    [
+      "2024-01-13, 13:42:58",
+      "https://news.ycombinator.com/item?id=38979792"
+    ],
+    [
+      "Wokwi – Simulate IoT Projects in the Browser",
+      "https://wokwi.com/"
     ]
   ]
 ]
