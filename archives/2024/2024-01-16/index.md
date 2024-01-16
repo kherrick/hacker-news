@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
+* [2024-01-16, 20:07:37](https://news.ycombinator.com/item?id=39018370) - [Asus Unveils Dual-Screen Laptop: Zenbook Duo with Two 14-Inch OLED Displays](https://www.anandtech.com/show/21230/asus-unveils-dual-screen-laptop-zenbook-duo-with-two-14-inch-oled-displays)
 * [2024-01-16, 20:05:04](https://news.ycombinator.com/item?id=39018341) - [Transformers Are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 * [2024-01-16, 20:00:09](https://news.ycombinator.com/item?id=39018278) - [Uber is closing alcohol delivery service Drizly three years after acquistion](https://techcrunch.com/2024/01/16/uber-is-closing-alcohol-delivery-service-drizly-three-years-after-acquistion/)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
@@ -31,6 +33,7 @@
 * [2024-01-16, 15:54:21](https://news.ycombinator.com/item?id=39014737) - [A Theory of Grift](https://www.thediff.co/archive/a-theory-of-grift/)
 * [2024-01-16, 15:48:14](https://news.ycombinator.com/item?id=39014642) - [US Supreme Court Snubs Apple-Epic Games Legal Battle](https://www.reuters.com/legal/us-supreme-court-snubs-epic-games-legal-battle-with-apple-2024-01-16/)
 * [2024-01-16, 15:43:58](https://news.ycombinator.com/item?id=39014583) - [US Cities Could Verge on Becoming Ghost Towns by 2100, Study Finds](https://www.sciencealert.com/thousands-of-us-cities-could-verge-on-becoming-ghost-towns-by-2100-study-finds)
+* [2024-01-16, 15:41:10](https://news.ycombinator.com/item?id=39014521) - [Field experimental evidence of AI on knowledge worker productivity and quality](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
 * [2024-01-16, 15:41:10](https://news.ycombinator.com/item?id=39014521) - [Field Experimental Evidence of AI on Knowledge Worker Productivity and Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321)
 * [2024-01-16, 15:35:42](https://news.ycombinator.com/item?id=39014426) - [The Mad Scientist's Club (book series)](http://www.madscientistsclub.com/books.html)
 * [2024-01-16, 15:08:02](https://news.ycombinator.com/item?id=39014051) - [Faster Shell Startup with Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
