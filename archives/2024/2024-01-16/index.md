@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 05:17:38](https://news.ycombinator.com/item?id=39009779) - [Many AI safety orgs have tried to criminalize currently-existing open-source AI](https://1a3orn.com/sub/machine-learning-bans.html)
+* [2024-01-16, 05:10:58](https://news.ycombinator.com/item?id=39009745) - [Lichee Console 4A – RISC-V mini laptop: Review, benchmarks and early issues](https://3.14.by/en/read/RISC-V-Sipeed-Lichee-Console-4A-Alibaba-T-Head-TH1520-review)
 * [2024-01-16, 02:44:09](https://news.ycombinator.com/item?id=39008805) - [Why new hires often get paid more than existing employees](https://bloomberry.com/why-new-hires-often-get-paid-more-than-existing-employees/)
 * [2024-01-16, 02:05:32](https://news.ycombinator.com/item?id=39008533) - [Modeless Vim](https://github.com/SebastianMuskalla/ModelessVim)
 * [2024-01-16, 02:05:02](https://news.ycombinator.com/item?id=39008529) - [Why aren't there more hearing aid startups?](https://news.ycombinator.com/item?id=39008529)

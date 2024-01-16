@@ -49,6 +49,7 @@
 * [2024-01-14, 13:08:43](https://news.ycombinator.com/item?id=38990080) - [Cars Suck, Man](https://petargyurov.com/2024-01-14/cars-suck-man)
 * [2024-01-14, 12:58:12](https://news.ycombinator.com/item?id=38990016) - [Ask HN: Who Is Looking for a Cofounder?](https://news.ycombinator.com/item?id=38990016)
 * [2024-01-14, 12:55:39](https://news.ycombinator.com/item?id=38989999) - [How to Write a Logline Producers Won't Pass On](https://www.studiobinder.com/blog/write-compelling-logline-examples)
+* [2024-01-14, 12:25:56](https://news.ycombinator.com/item?id=38989832) - [Much of the Web Is Machine Translated: Insights from Multi-Way Parallelism](https://arxiv.org/abs/2401.05749)
 * [2024-01-14, 12:06:33](https://news.ycombinator.com/item?id=38989690) - [Nuclear battery produces power for 50 years without needing to charge](https://www.independent.co.uk/tech/nuclear-battery-betavolt-atomic-china-b2476979.html)
 * [2024-01-14, 12:06:04](https://news.ycombinator.com/item?id=38989685) - [An eruption has begun north of Grindavík](https://www.ruv.is/english/2024-01-14-an-eruption-has-begun-north-of-grindavik-401887)
 * [2024-01-14, 12:04:20](https://news.ycombinator.com/item?id=38989672) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
