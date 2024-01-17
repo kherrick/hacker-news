@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 16:39:16](https://news.ycombinator.com/item?id=39030043) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
+* [2024-01-17, 16:33:56](https://news.ycombinator.com/item?id=39029979) - [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
 * [2024-01-17, 16:04:43](https://news.ycombinator.com/item?id=39029546) - [U.S. News Makes Money from Some of Its Biggest Critics: Colleges](https://www.nytimes.com/2024/01/06/us/college-rankings-us-news.html)
 * [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Running Quake on an FPGA (Custom MRISC32 CPU) [video]](https://vimeo.com/901506667)
 * [2024-01-17, 15:57:03](https://news.ycombinator.com/item?id=39029439) - [Meta's serverless platform processing trillions of function calls a day (2023)](https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained)
@@ -8,7 +10,6 @@
 * [2024-01-17, 14:43:54](https://news.ycombinator.com/item?id=39028370) - [Ask HN: What local machines are people using to train LLMs?](https://news.ycombinator.com/item?id=39028370)
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
 * [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
-* [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The Rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
@@ -27,7 +28,6 @@
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
 * [2024-01-15, 12:45:58](https://news.ycombinator.com/item?id=39000241) - [RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
 * [2024-01-15, 12:13:55](https://news.ycombinator.com/item?id=38999938) - [Demystifying the use of Parquet for time series](https://blog.senx.io/demystifying-the-use-of-the-parquet-file-format-for-time-series/)
-* [2024-01-15, 11:33:27](https://news.ycombinator.com/item?id=38999668) - [Norwegian: Bokmål vs. Nynorsk](https://www.sprakradet.no/Vi-og-vart/Om-oss/English-and-other-languages/English/norwegian-bokmal-vs.-nynorsk/)
 * [2024-01-14, 22:39:14](https://news.ycombinator.com/item?id=38995162) - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 
