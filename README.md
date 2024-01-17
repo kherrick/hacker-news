@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-17, 13:56:39](https://news.ycombinator.com/item?id=39027696) - [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
 * [2024-01-17, 13:37:11](https://news.ycombinator.com/item?id=39027451) - [Why Are American Cities Squalid?](https://unherd.com/2024/01/why-american-cities-are-squalid/)
 * [2024-01-17, 13:35:21](https://news.ycombinator.com/item?id=39027430) - [Possible Room Temperature Superconductor Replicated by Two Independent Labs](https://twitter.com/andercot/status/1742650506559005158)
@@ -22,6 +21,7 @@
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:50](https://news.ycombinator.com/item?id=39020265) - [Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
+* [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (patio11) on navigating complex systems](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 09:14:04](https://news.ycombinator.com/item?id=39011176) - [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
