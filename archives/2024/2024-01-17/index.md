@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 17:49:07](https://news.ycombinator.com/item?id=39030986) - [If you can't reproduce the model then it's not open-source](https://twitter.com/amasad/status/1747666962749284468)
 * [2024-01-17, 17:14:47](https://news.ycombinator.com/item?id=39030521) - [AI Sleeper Agents](https://www.astralcodexten.com/p/ai-sleeper-agents)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
@@ -39,6 +40,7 @@
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-01-17, 11:59:04](https://news.ycombinator.com/item?id=39026565) - [Htmx Is Composable?](https://timkellogg.me/blog/2024/01/17/htmx)
+* [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [Bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
 * [2024-01-17, 11:53:50](https://news.ycombinator.com/item?id=39026521) - [Tell HN: How an elderly couple I know had their computer 'stop working'](https://news.ycombinator.com/item?id=39026521)
 * [2024-01-17, 11:44:12](https://news.ycombinator.com/item?id=39026455) - [Why don't schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
 * [2024-01-17, 11:28:29](https://news.ycombinator.com/item?id=39026349) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.msn.com/en-us/health/other/at-93-he-s-as-fit-as-a-40-year-old-his-body-offers-lessons-on-aging/ar-AA1n3CkD)

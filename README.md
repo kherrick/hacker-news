@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 17:49:07](https://news.ycombinator.com/item?id=39030986) - [If you can't reproduce the model then it's not open-source](https://twitter.com/amasad/status/1747666962749284468)
 * [2024-01-17, 17:14:47](https://news.ycombinator.com/item?id=39030521) - [AI Sleeper Agents](https://www.astralcodexten.com/p/ai-sleeper-agents)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
@@ -10,8 +11,6 @@
 * [2024-01-17, 16:32:40](https://news.ycombinator.com/item?id=39029961) - [Cloudflare R2-Backed Nix Binary Cache on Fly.io](https://lgug2z.com/articles/deploying-a-cloudflare-r2-backed-nix-binary-cache-attic-on-fly-io/)
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 16:12:00](https://news.ycombinator.com/item?id=39029648) - [Recursive Islands and Lakes](https://en.wikipedia.org/wiki/Recursive_islands_and_lakes)
-* [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Running Quake on an FPGA (Custom MRISC32 CPU) [video]](https://vimeo.com/901506667)
-* [2024-01-17, 15:57:03](https://news.ycombinator.com/item?id=39029439) - [Meta's serverless platform processing trillions of function calls a day (2023)](https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained)
 * [2024-01-17, 15:27:52](https://news.ycombinator.com/item?id=39029007) - [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
 * [2024-01-17, 15:26:17](https://news.ycombinator.com/item?id=39028979) - [Are “one-round-wonders” the next Silicon Valley aspiration?](https://www.workingtheorys.com/p/one-round-wonder)
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
@@ -20,6 +19,7 @@
 * [2024-01-17, 13:35:10](https://news.ycombinator.com/item?id=39027428) - [WaveCoder: Widespread and Versatile Enhanced Instruction Tuning](https://arxiv.org/abs/2312.14187)
 * [2024-01-17, 12:27:58](https://news.ycombinator.com/item?id=39026792) - [Is A.I. The Death of I.P.?](https://www.newyorker.com/magazine/2024/01/22/who-owns-this-sentence-a-history-of-copyrights-and-wrongs-david-bellos-alexandre-montagu-book-review)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
+* [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [Bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
