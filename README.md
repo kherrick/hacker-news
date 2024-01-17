@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
+* [2024-01-17, 06:59:52](https://news.ycombinator.com/item?id=39024211) - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
 * [2024-01-17, 05:39:21](https://news.ycombinator.com/item?id=39023702) - [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 * [2024-01-17, 03:43:35](https://news.ycombinator.com/item?id=39022996) - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
+* [2024-01-17, 03:28:43](https://news.ycombinator.com/item?id=39022891) - [Keypirinha: A fast launcher for keyboard ninjas on Windows](https://keypirinha.com/)
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 * [2024-01-17, 02:38:51](https://news.ycombinator.com/item?id=39022535) - [Browsh: The modern text-based web browser](https://www.brow.sh/)
 * [2024-01-17, 02:09:43](https://news.ycombinator.com/item?id=39022274) - [Judge blocks JetBlue from acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
@@ -21,7 +23,6 @@
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On being listed as an artist whose work was used to train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
-* [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why is everything an orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 15:48:47](https://news.ycombinator.com/item?id=39014652) - [OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
 * [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (Patio11) on Navigating Complex Systems [audio]](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
@@ -29,7 +30,6 @@
 * [2024-01-15, 21:42:15](https://news.ycombinator.com/item?id=39006457) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 14:34:54](https://news.ycombinator.com/item?id=39001391) - [How much of the world is it possible to model?](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
 * [2024-01-15, 11:33:27](https://news.ycombinator.com/item?id=38999668) - [Norwegian: Bokmål vs. Nynorsk](https://www.sprakradet.no/Vi-og-vart/Om-oss/English-and-other-languages/English/norwegian-bokmal-vs.-nynorsk/)
-* [2024-01-14, 22:54:36](https://news.ycombinator.com/item?id=38995285) - [Why the Magic?](https://buttondown.email/carlzimmer/archive/fridays-elk-january-12-2024/)
 
 ## [Archives](archives/index.md)
 
