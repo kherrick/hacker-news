@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 05:38:25](https://news.ycombinator.com/item?id=39023695) - [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 * [2024-01-17, 03:43:35](https://news.ycombinator.com/item?id=39022996) - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
@@ -23,7 +24,6 @@
 * [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why is everything an orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
 * [2024-01-16, 16:03:25](https://news.ycombinator.com/item?id=39014866) - [TinyML: Ultra-low power machine learning](https://www.ikkaro.net/what-tinyml-is/)
-* [2024-01-16, 15:54:21](https://news.ycombinator.com/item?id=39014737) - [A Theory of Grift](https://www.thediff.co/archive/a-theory-of-grift/)
 * [2024-01-16, 15:48:47](https://news.ycombinator.com/item?id=39014652) - [OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
 * [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-15, 21:42:15](https://news.ycombinator.com/item?id=39006457) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
