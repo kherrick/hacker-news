@@ -78,6 +78,7 @@
 * [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 13:05:15](https://news.ycombinator.com/item?id=39000437) - [Ask HN: Help me solve a dilemma, study in the US or take a job in the EU?](https://news.ycombinator.com/item?id=39000437)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
+* [2024-01-15, 12:45:58](https://news.ycombinator.com/item?id=39000241) - [RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
 * [2024-01-15, 12:41:48](https://news.ycombinator.com/item?id=39000203) - [Tell HN: HMD Global might not be the exclusive licensee of Nokia phones anymore](https://news.ycombinator.com/item?id=39000203)
 * [2024-01-15, 12:40:51](https://news.ycombinator.com/item?id=39000192) - [Get a Windows 11 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 * [2024-01-15, 12:18:26](https://news.ycombinator.com/item?id=38999987) - [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
