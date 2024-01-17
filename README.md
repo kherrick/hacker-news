@@ -15,6 +15,7 @@
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
+* [2024-01-16, 17:34:22](https://news.ycombinator.com/item?id=39016086) - [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why is everything an orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
@@ -28,7 +29,6 @@
 * [2024-01-15, 21:42:15](https://news.ycombinator.com/item?id=39006457) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
 * [2024-01-15, 11:33:27](https://news.ycombinator.com/item?id=38999668) - [Norwegian: Bokmål vs. Nynorsk](https://www.sprakradet.no/Vi-og-vart/Om-oss/English-and-other-languages/English/norwegian-bokmal-vs.-nynorsk/)
-* [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - [Enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 12:40:26](https://news.ycombinator.com/item?id=38989917) - [The origins of the Guinness stout yeast](https://www.nature.com/articles/s42003-023-05587-3)
 
 ## [Archives](archives/index.md)
