@@ -15,6 +15,7 @@
 * [2024-01-17, 05:39:09](https://news.ycombinator.com/item?id=39023700) - [Technitium: Secure, anonymous, P2P, open source, instant messenger](https://technitium.com/)
 * [2024-01-17, 05:38:25](https://news.ycombinator.com/item?id=39023695) - [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
+* [2024-01-17, 04:32:53](https://news.ycombinator.com/item?id=39023346) - [Analysing the Twitter User Exodus to Mastodon, Bluesky, and Threads](https://arxiv.org/abs/2309.12613)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 * [2024-01-17, 03:43:35](https://news.ycombinator.com/item?id=39022996) - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
