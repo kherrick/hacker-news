@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 14:32:34](https://news.ycombinator.com/item?id=39028196) - [AI poisoning could turn open models into destructive \"sleeper agents\"](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 * [2024-01-17, 14:27:52](https://news.ycombinator.com/item?id=39028122) - [The Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-17, 13:56:39](https://news.ycombinator.com/item?id=39027696) - [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
