@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-17, 20:25:59](https://news.ycombinator.com/item?id=39032967) - [Most STEM grads don't work in STEM jobs](https://www.tampabay.com/opinion/2024/01/17/did-you-know-that-most-stem-grads-dont-work-stem-jobs/)
-* [2024-01-17, 19:51:44](https://news.ycombinator.com/item?id=39032550) - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 * [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
@@ -11,6 +10,7 @@
 * [2024-01-17, 17:49:47](https://news.ycombinator.com/item?id=39030991) - [John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 17:49:07](https://news.ycombinator.com/item?id=39030986) - [If you can't reproduce the model then it's not open-source](https://twitter.com/amasad/status/1747666962749284468)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
+* [2024-01-17, 17:08:43](https://news.ycombinator.com/item?id=39030448) - [E-Crime Rapper 'Punchmade Dev' Debuts Card Shop](https://krebsonsecurity.com/2024/01/e-crime-rapper-punchmade-dev-debuts-card-shop/)
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
 * [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:48:00](https://news.ycombinator.com/item?id=39030170) - [Show HN: Privy - Open-source, privacy oriented alternative to GitHub Copilot](https://github.com/srikanth235/privy)

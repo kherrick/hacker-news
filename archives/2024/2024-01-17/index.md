@@ -20,6 +20,7 @@
 * [2024-01-17, 17:19:07](https://news.ycombinator.com/item?id=39030580) - [Universities Bend over Backwards to Accommodate Food Delivery Robots](https://www.404media.co/student-should-have-a-healthy-looking-bmi-how-universities-bend-over-backwards-to-accommodate-starship-food-delivery-robots/)
 * [2024-01-17, 17:14:47](https://news.ycombinator.com/item?id=39030521) - [AI Sleeper Agents](https://www.astralcodexten.com/p/ai-sleeper-agents)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
+* [2024-01-17, 17:08:43](https://news.ycombinator.com/item?id=39030448) - [E-Crime Rapper 'Punchmade Dev' Debuts Card Shop](https://krebsonsecurity.com/2024/01/e-crime-rapper-punchmade-dev-debuts-card-shop/)
 * [2024-01-17, 17:04:12](https://news.ycombinator.com/item?id=39030387) - [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
 * [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
