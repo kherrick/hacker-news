@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
+* [2024-01-17, 06:59:52](https://news.ycombinator.com/item?id=39024211) - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
 * [2024-01-17, 06:00:16](https://news.ycombinator.com/item?id=39023817) - [Is There Any Benefit to Multivitamins?](https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins)
+* [2024-01-17, 05:39:21](https://news.ycombinator.com/item?id=39023702) - [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
 * [2024-01-17, 05:38:25](https://news.ycombinator.com/item?id=39023695) - [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
