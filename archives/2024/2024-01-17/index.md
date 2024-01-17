@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:39:16](https://news.ycombinator.com/item?id=39030043) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
 * [2024-01-17, 16:33:56](https://news.ycombinator.com/item?id=39029979) - [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
 * [2024-01-17, 16:04:43](https://news.ycombinator.com/item?id=39029546) - [U.S. News Makes Money from Some of Its Biggest Critics: Colleges](https://www.nytimes.com/2024/01/06/us/college-rankings-us-news.html)

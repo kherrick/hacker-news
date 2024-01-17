@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:39:16](https://news.ycombinator.com/item?id=39030043) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
 * [2024-01-17, 16:33:56](https://news.ycombinator.com/item?id=39029979) - [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
 * [2024-01-17, 16:04:43](https://news.ycombinator.com/item?id=39029546) - [U.S. News Makes Money from Some of Its Biggest Critics: Colleges](https://www.nytimes.com/2024/01/06/us/college-rankings-us-news.html)
@@ -11,7 +13,6 @@
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
 * [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
-* [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 06:51:30](https://news.ycombinator.com/item?id=39024148) - [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
@@ -23,7 +24,6 @@
 * [2024-01-17, 02:38:51](https://news.ycombinator.com/item?id=39022535) - [Browsh: The modern text-based web browser](https://www.brow.sh/)
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:50](https://news.ycombinator.com/item?id=39020265) - [Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
-* [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (patio11) on navigating complex systems](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
 * [2024-01-15, 12:45:58](https://news.ycombinator.com/item?id=39000241) - [RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
