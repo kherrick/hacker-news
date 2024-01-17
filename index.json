@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-17, 18:07:39",
+      "https://news.ycombinator.com/item?id=39031238"
+    ],
+    [
+      "What do premarital experiences have to do with marital quality? (2014)",
+      "https://before-i-do.org/"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 18:00:42",
+      "https://news.ycombinator.com/item?id=39031152"
+    ],
+    [
+      "Embroidery of light-emitting textiles with multicolor electroluminescent threads",
+      "https://www.science.org/doi/10.1126/sciadv.adk4295"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 17:49:47",
       "https://news.ycombinator.com/item?id=39030991"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-01-17, 17:00:51",
-      "https://news.ycombinator.com/item?id=39030343"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-01-17, 16:57:29",
       "https://news.ycombinator.com/item?id=39030302"
     ],
@@ -97,26 +107,6 @@
     [
       "AlphaGeometry: An Olympiad-level AI system for geometry",
       "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 16:03:45",
-      "https://news.ycombinator.com/item?id=39029529"
-    ],
-    [
-      "Running Quake on an FPGA (Custom MRISC32 CPU) [video]",
-      "https://vimeo.com/901506667"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 15:27:52",
-      "https://news.ycombinator.com/item?id=39029007"
-    ],
-    [
-      "Bad stuff going down at the American Sociological Association",
-      "https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/"
     ]
   ],
   [
@@ -191,11 +181,21 @@
   ],
   [
     [
+      "2024-01-17, 12:00:31",
+      "https://news.ycombinator.com/item?id=39026574"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers",
+      "https://onesignal.com/careers#section-job"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 11:57:58",
       "https://news.ycombinator.com/item?id=39026551"
     ],
     [
-      "Bare minimum atw-style K interpreter for learning purposes",
+      "K/simple: a tiny K interpreter for educational purposes by Arthur Whitney",
       "https://github.com/kparc/ksimple"
     ]
   ],
