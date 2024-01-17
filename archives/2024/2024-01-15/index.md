@@ -91,6 +91,7 @@
 * [2024-01-15, 11:09:48](https://news.ycombinator.com/item?id=38999517) - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
 * [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
+* [2024-01-15, 09:52:13](https://news.ycombinator.com/item?id=38999003) - [Seeing a Rose in Five Thousand Ways](https://cs.stanford.edu/~yzzhang/projects/rose/)
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
 * [2024-01-15, 08:44:34](https://news.ycombinator.com/item?id=38998642) - [Compression Attached Memory Modules may make upgradable laptops a thing again](https://arstechnica.com/gadgets/2024/01/compression-attached-memory-modules-may-make-upgradable-laptops-a-thing-again/)
