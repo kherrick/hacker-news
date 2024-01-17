@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 22:54:36](https://news.ycombinator.com/item?id=38995285) - [Why the Magic?](https://buttondown.email/carlzimmer/archive/fridays-elk-january-12-2024/)
 * [2024-01-14, 22:39:55](https://news.ycombinator.com/item?id=38995169) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-14, 22:27:47](https://news.ycombinator.com/item?id=38995068) - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
 * [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - ['An aged hobby': enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
