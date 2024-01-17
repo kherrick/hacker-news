@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-17, 06:00:16](https://news.ycombinator.com/item?id=39023817) - [Is There Any Benefit to Multivitamins?](https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins)
-* [2024-01-17, 05:38:25](https://news.ycombinator.com/item?id=39023695) - [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
@@ -21,6 +20,7 @@
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On being listed as an artist whose work was used to train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
+* [2024-01-16, 16:28:16](https://news.ycombinator.com/item?id=39015159) - [Why is everything an orchid?](https://worldsensorium.com/why-is-everything-an-orchid/)
 * [2024-01-16, 16:11:31](https://news.ycombinator.com/item?id=39014985) - [Benchmarks and comparison of LLM AI models and API hosting providers](https://artificialanalysis.ai)
 * [2024-01-16, 16:03:25](https://news.ycombinator.com/item?id=39014866) - [TinyML: Ultra-low power machine learning](https://www.ikkaro.net/what-tinyml-is/)
 * [2024-01-16, 15:48:47](https://news.ycombinator.com/item?id=39014652) - [OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
