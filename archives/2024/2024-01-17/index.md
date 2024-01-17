@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)
 * [2024-01-17, 07:05:21](https://news.ycombinator.com/item?id=39024245) - [The Mating Psychology of Incels – The Journal of Sex Research](https://www.tandfonline.com/doi/full/10.1080/00224499.2023.2248096)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)

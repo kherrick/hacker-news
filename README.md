@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
@@ -20,7 +21,6 @@
 * [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
-* [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 15:48:47](https://news.ycombinator.com/item?id=39014652) - [OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
 * [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (patio11) on Navigating Complex Systems](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
