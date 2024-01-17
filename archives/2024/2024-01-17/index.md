@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
 * [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
@@ -15,6 +16,7 @@
 * [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Running Quake on an FPGA (Custom MRISC32 CPU) [video]](https://vimeo.com/901506667)
 * [2024-01-17, 15:57:03](https://news.ycombinator.com/item?id=39029439) - [Meta's serverless platform processing trillions of function calls a day (2023)](https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained)
 * [2024-01-17, 15:27:52](https://news.ycombinator.com/item?id=39029007) - [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
+* [2024-01-17, 15:26:17](https://news.ycombinator.com/item?id=39028979) - [Are “one-round-wonders” the next Silicon Valley aspiration?](https://www.workingtheorys.com/p/one-round-wonder)
 * [2024-01-17, 15:18:45](https://news.ycombinator.com/item?id=39028862) - [Remote work % in industry not correlated with excess productivity growth](https://www.frbsf.org/economic-research/publications/economic-letter/2024/january/does-working-from-home-boost-productivity-growth/)
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
 * [2024-01-17, 15:00:08](https://news.ycombinator.com/item?id=39028595) - [What happens when a school bans smartphones? A complete transformation](https://www.theguardian.com/lifeandstyle/2024/jan/17/cellphone-smartphone-bans-schools)
