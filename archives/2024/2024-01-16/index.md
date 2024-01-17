@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 23:51:17](https://news.ycombinator.com/item?id=39020906) - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
 * [2024-01-16, 23:37:54](https://news.ycombinator.com/item?id=39020778) - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
 * [2024-01-16, 23:34:14](https://news.ycombinator.com/item?id=39020742) - [GM to Shut Down Ultra Cruise](https://ojoyoshidareport.com/gm-to-shut-down-ultra-cruise/)
 * [2024-01-16, 23:33:54](https://news.ycombinator.com/item?id=39020737) - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
+* [2024-01-16, 23:21:16](https://news.ycombinator.com/item?id=39020600) - [\"Amazonian dark earth\" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
+* [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
 * [2024-01-16, 22:50:09](https://news.ycombinator.com/item?id=39020254) - [The Self-Checkout Nightmare May Be Ending](https://gizmodo.com/the-self-checkout-nightmare-may-finally-be-ending-1851169879)
+* [2024-01-16, 22:42:30](https://news.ycombinator.com/item?id=39020175) - [Clay Foundation Model: An open source AI model for Earth](https://clay-foundation.github.io/model/)
 * [2024-01-16, 22:31:37](https://news.ycombinator.com/item?id=39020069) - [Against Learning from Dramatic Events](https://www.astralcodexten.com/p/against-learning-from-dramatic-events)
 * [2024-01-16, 22:19:16](https://news.ycombinator.com/item?id=39019942) - [Masters of the Ice: Charles Rabot's Arctic Photographs (Ca. 1881)](https://publicdomainreview.org/collection/rabot-photographs-of-the-arctic/)
 * [2024-01-16, 22:11:42](https://news.ycombinator.com/item?id=39019876) - [US judge blocks JetBlue from acquiring Spirit Airlines](https://www.reuters.com/markets/deals/us-judge-blocks-jetblue-acquiring-spirit-airlines-2024-01-16/)
