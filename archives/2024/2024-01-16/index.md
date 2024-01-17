@@ -90,6 +90,7 @@
 * [2024-01-16, 10:46:52](https://news.ycombinator.com/item?id=39011802) - [Things to commit just before leaving your job](https://gist.github.com/aras-p/6224951)
 * [2024-01-16, 10:20:01](https://news.ycombinator.com/item?id=39011630) - [PID Controllers in Unity3D](https://vazgriz.com/621/pid-controllers/)
 * [2024-01-16, 09:14:04](https://news.ycombinator.com/item?id=39011176) - [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
+* [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 * [2024-01-16, 08:40:49](https://news.ycombinator.com/item?id=39010920) - [The 'Startling' Link Between Low Interest Rates and Low Crime (2016)](https://thecrimereport.org/2016/12/06/the-startling-link-between-low-interest-rates-and-low-crime/)
 * [2024-01-16, 08:28:07](https://news.ycombinator.com/item?id=39010838) - [Show HN: Indiebackers – Back indie projects and earn rewards](https://indiebackers.dev/)
 * [2024-01-16, 08:15:50](https://news.ycombinator.com/item?id=39010768) - [Ask HN: Does airport fingerprinting compromise my biometric security?](https://news.ycombinator.com/item?id=39010768)
