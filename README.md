@@ -5,6 +5,7 @@
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 * [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
 * [2024-01-17, 18:41:38](https://news.ycombinator.com/item?id=39031653) - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
+* [2024-01-17, 18:10:50](https://news.ycombinator.com/item?id=39031279) - [Circle (Or Highlight or Scribble) to Search](https://blog.google/products/search/google-circle-to-search-android/)
 * [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
 * [2024-01-17, 17:56:56](https://news.ycombinator.com/item?id=39031085) - [Beep Core protocol central, RFC 3080/3081, BEEP profiles, BEEP implementation](https://www.beepcore.org/)
 * [2024-01-17, 17:49:47](https://news.ycombinator.com/item?id=39030991) - [John Lasseter drew the BSD daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
@@ -27,7 +28,6 @@
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 * [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
-* [2024-01-15, 12:45:58](https://news.ycombinator.com/item?id=39000241) - [RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
 * [2024-01-15, 05:59:13](https://news.ycombinator.com/item?id=38997821) - [I'm a Supercommuter. Here's What It's Like](https://www.wsj.com/lifestyle/travel/im-a-supercommuter-heres-what-its-really-like-f88702b0)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 
