@@ -70,6 +70,7 @@
 * [2024-01-16, 14:21:21](https://news.ycombinator.com/item?id=39013497) - [Is Google Getting Worse? A Longitudinal Investigation of SEO Spam in Search [pdf]](https://downloads.webis.de/publications/papers/bevendorff_2024a.pdf)
 * [2024-01-16, 14:11:12](https://news.ycombinator.com/item?id=39013415) - [Google AI has better bedside manner than doctors – and makes better diagnoses](https://www.nature.com/articles/d41586-024-00099-4)
 * [2024-01-16, 14:10:57](https://news.ycombinator.com/item?id=39013412) - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
+* [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (Patio11) on Navigating Complex Systems [audio]](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 13:49:26](https://news.ycombinator.com/item?id=39013229) - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
 * [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 13:34:30](https://news.ycombinator.com/item?id=39013083) - [How Group Chats Rule the World](https://www.nytimes.com/2024/01/16/magazine/group-chats.html)
