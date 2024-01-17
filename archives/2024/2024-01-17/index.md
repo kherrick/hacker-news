@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+* [2024-01-17, 11:44:12](https://news.ycombinator.com/item?id=39026455) - [Why don't schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
+* [2024-01-17, 11:28:29](https://news.ycombinator.com/item?id=39026349) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.msn.com/en-us/health/other/at-93-he-s-as-fit-as-a-40-year-old-his-body-offers-lessons-on-aging/ar-AA1n3CkD)
 * [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)
 * [2024-01-17, 07:05:21](https://news.ycombinator.com/item?id=39024245) - [The Mating Psychology of Incels – The Journal of Sex Research](https://www.tandfonline.com/doi/full/10.1080/00224499.2023.2248096)
