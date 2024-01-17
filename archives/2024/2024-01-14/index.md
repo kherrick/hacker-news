@@ -13,6 +13,7 @@
 * [2024-01-14, 21:52:11](https://news.ycombinator.com/item?id=38994780) - [We Are Doomed: A pessimistic point of view of \"modern software engineering\"](https://www.carette.xyz/posts/we_are_doomed/)
 * [2024-01-14, 21:38:50](https://news.ycombinator.com/item?id=38994680) - [Leaving Arizona – the Story of the Motorola 6800 part 2 and creation of the 6502](https://thechipletter.substack.com/p/leaving-arizona)
 * [2024-01-14, 21:10:05](https://news.ycombinator.com/item?id=38994473) - [Emails I Received, the Collection](https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/)
+* [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some Memories of Niklaus Wirth by Martin Odersky](https://odersky.github.io/blog/2024-01-04-post.html)
 * [2024-01-14, 20:01:14](https://news.ycombinator.com/item?id=38993891) - [Font-Face Toggler Bookmarklet](https://www.phpied.com/font-face-toggler-bookmarklet/)
 * [2024-01-14, 19:47:16](https://news.ycombinator.com/item?id=38993748) - [Peregrine lunar lander on Earth reentry trajectory](https://spacenews.com/peregrine-lunar-lander-on-earth-reentry-trajectory/)
 * [2024-01-14, 19:40:35](https://news.ycombinator.com/item?id=38993680) - [Skiff: Various Privacy Failures](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
