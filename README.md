@@ -2,6 +2,7 @@
 
 * [2024-01-17, 22:12:13](https://news.ycombinator.com/item?id=39034277) - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture?](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
+* [2024-01-17, 21:58:09](https://news.ycombinator.com/item?id=39034108) - [How Monopolists drive the power and wealth divide](https://www.globaljustice.org.uk/resource/taken-not-earned-how-monopolists-drive-the-worlds-power-and-wealth-divide/)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-01-17, 20:55:54](https://news.ycombinator.com/item?id=39033320) - [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
@@ -23,7 +24,6 @@
 * [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Quake on an FPGA (MRISC32 CPU) [video]](https://vimeo.com/901506667)
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: Htmldocs – Typeset and generate pdfs with HTML/CSS](https://htmldocs.com)
-* [2024-01-17, 13:35:10](https://news.ycombinator.com/item?id=39027428) - [WaveCoder: Enhanced instruction tuning with refined data generation](https://arxiv.org/abs/2312.14187)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
