@@ -2,6 +2,7 @@
 
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
+* [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
 * [2024-01-17, 18:44:17](https://news.ycombinator.com/item?id=39031691) - [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
 * [2024-01-17, 18:41:38](https://news.ycombinator.com/item?id=39031653) - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
 * [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
@@ -28,7 +29,6 @@
 * [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
 * [2024-01-15, 12:45:58](https://news.ycombinator.com/item?id=39000241) - [RAG Using Unstructured Data and Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
-* [2024-01-15, 12:06:34](https://news.ycombinator.com/item?id=38999891) - [On search in space and time](https://awakari.com/articles/spacetime-search.html)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 
 ## [Archives](archives/index.md)

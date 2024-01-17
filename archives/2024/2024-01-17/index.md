@@ -6,6 +6,7 @@
 
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
+* [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
 * [2024-01-17, 18:51:17](https://news.ycombinator.com/item?id=39031763) - [Is ESG Already Over?](https://reason.com/2024/01/14/is-esg-already-over/)
 * [2024-01-17, 18:44:17](https://news.ycombinator.com/item?id=39031691) - [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
 * [2024-01-17, 18:41:38](https://news.ycombinator.com/item?id=39031653) - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
