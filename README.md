@@ -11,6 +11,7 @@
 * [2024-01-17, 03:43:35](https://news.ycombinator.com/item?id=39022996) - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
 * [2024-01-17, 03:28:43](https://news.ycombinator.com/item?id=39022891) - [Keypirinha: A fast launcher for keyboard ninjas on Windows](https://keypirinha.com/)
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
+* [2024-01-17, 02:47:43](https://news.ycombinator.com/item?id=39022607) - [Show HN: Kolorize – Next-gen AI photo colorizer](https://kolorize.cc/)
 * [2024-01-17, 02:38:51](https://news.ycombinator.com/item?id=39022535) - [Browsh: The modern text-based web browser](https://www.brow.sh/)
 * [2024-01-17, 02:09:43](https://news.ycombinator.com/item?id=39022274) - [Judge blocks JetBlue from acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
 * [2024-01-16, 23:21:16](https://news.ycombinator.com/item?id=39020600) - [\"Amazonian dark earth\" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
@@ -27,7 +28,6 @@
 * [2024-01-16, 09:14:04](https://news.ycombinator.com/item?id=39011176) - [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
 * [2024-01-15, 18:51:45](https://news.ycombinator.com/item?id=39004526) - [Niklaus Wirth, or the Importance of Being Simple](https://cacm.acm.org/blogs/blog-cacm/279178-niklaus-wirth-or-the-importance-of-being-simple/fulltext)
 * [2024-01-15, 14:34:54](https://news.ycombinator.com/item?id=39001391) - [How much of the world is it possible to model?](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
-* [2024-01-14, 22:54:36](https://news.ycombinator.com/item?id=38995285) - [Why the Magic?](https://buttondown.email/carlzimmer/archive/fridays-elk-january-12-2024/)
 * [2024-01-14, 22:39:14](https://news.ycombinator.com/item?id=38995162) - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some Memories of Niklaus Wirth by Martin Odersky](https://odersky.github.io/blog/2024-01-04-post.html)
 
