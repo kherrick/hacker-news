@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
 * [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
@@ -26,7 +27,6 @@
 * [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (patio11) on Navigating Complex Systems](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 09:14:04](https://news.ycombinator.com/item?id=39011176) - [The failure of self-checkout technology](https://www.bbc.com/worklife/article/20240111-it-hasnt-delivered-the-spectacular-failure-of-self-checkout-technology)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
-* [2024-01-15, 14:34:54](https://news.ycombinator.com/item?id=39001391) - [How much of the world is it possible to model?](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
 * [2024-01-15, 12:13:55](https://news.ycombinator.com/item?id=38999938) - [Demystifying the use of Parquet for time series](https://blog.senx.io/demystifying-the-use-of-the-parquet-file-format-for-time-series/)
 * [2024-01-14, 22:39:14](https://news.ycombinator.com/item?id=38995162) - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some Memories of Niklaus Wirth by Martin Odersky](https://odersky.github.io/blog/2024-01-04-post.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
 * [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
