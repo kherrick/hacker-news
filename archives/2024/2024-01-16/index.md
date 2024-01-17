@@ -32,6 +32,7 @@
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Supercharge Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
 * [2024-01-16, 19:01:16](https://news.ycombinator.com/item?id=39017350) - [Infowars and Goop sell the same exact pseudoscientific \"wellness\" products](https://qz.com/1010684/all-the-wellness-products-american-love-to-buy-are-sold-on-both-infowars-and-goop)
+* [2024-01-16, 18:27:18](https://news.ycombinator.com/item?id=39016734) - [Molly White: Migrating from Substack to self-hosted Ghost: the details](https://citationneeded.news/substack-to-self-hosted-ghost/)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: A vulnerability that allows data recovery from GPU memory](https://leftoverlocals.com/)
 * [2024-01-16, 17:58:00](https://news.ycombinator.com/item?id=39016395) - [On Being Listed as an Artist Whose Work Was Used to Train Midjourney](https://catandgirl.com/4000-of-my-closest-friends/)

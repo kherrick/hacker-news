@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-17, 01:06:50](https://news.ycombinator.com/item?id=39021692) - [South Korea launches digital nomad visa to boost remote work options in 2024](https://techsauce.co/en/special-guests/southkorea-launches-digitalnomad-visa)
 * [2024-01-16, 23:51:17](https://news.ycombinator.com/item?id=39020906) - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
 * [2024-01-16, 23:37:54](https://news.ycombinator.com/item?id=39020778) - [OpenAI drops ban on military tools to partner with The Pentagon](https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects)
 * [2024-01-16, 23:21:16](https://news.ycombinator.com/item?id=39020600) - [\"Amazonian dark earth\" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
@@ -14,6 +13,7 @@
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
+* [2024-01-16, 18:27:18](https://news.ycombinator.com/item?id=39016734) - [Molly White: Migrating from Substack to self-hosted Ghost: the details](https://citationneeded.news/substack-to-self-hosted-ghost/)
 * [2024-01-16, 17:58:31](https://news.ycombinator.com/item?id=39016405) - [LeftoverLocals: Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-16, 17:31:31](https://news.ycombinator.com/item?id=39016040) - [Bees have an internal sense of time (2022)](https://greenrosechemistry.com/how-scientists-proved-that-bees-can-perceive-time/)
 * [2024-01-16, 16:44:30](https://news.ycombinator.com/item?id=39015377) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
