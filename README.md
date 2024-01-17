@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 06:00:16](https://news.ycombinator.com/item?id=39023817) - [Is There Any Benefit to Multivitamins?](https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins)
 * [2024-01-17, 05:38:25](https://news.ycombinator.com/item?id=39023695) - [Fujitsu says it will pay compensation in UK Post Office scandal](https://www.japantimes.co.jp/business/2024/01/17/companies/fujitsu-compensation-post-office-scandal/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
 * [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
@@ -12,7 +13,6 @@
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
-* [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 21:00:02](https://news.ycombinator.com/item?id=39019063) - [Y Combinator needs another infrastructure software engineer](https://news.ycombinator.com/item?id=39019063)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
