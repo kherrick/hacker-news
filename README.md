@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
+* [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 * [2024-01-17, 18:44:17](https://news.ycombinator.com/item?id=39031691) - [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
 * [2024-01-17, 18:41:38](https://news.ycombinator.com/item?id=39031653) - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
 * [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
@@ -19,10 +21,8 @@
 * [2024-01-17, 12:27:58](https://news.ycombinator.com/item?id=39026792) - [Is A.I. The Death of I.P.?](https://www.newyorker.com/magazine/2024/01/22/who-owns-this-sentence-a-history-of-copyrights-and-wrongs-david-bellos-alexandre-montagu-book-review)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
-* [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-source video editor for Linux](https://jliljebl.github.io/flowblade/)
-* [2024-01-17, 04:29:25](https://news.ycombinator.com/item?id=39023318) - [From Vexing Uncertainty to Intellectual Humility](https://academic.oup.com/schizophreniabulletin/advance-article/doi/10.1093/schbul/sbad173/7517011)
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
