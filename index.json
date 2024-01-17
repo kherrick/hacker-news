@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-01-17, 19:09:17",
+      "https://news.ycombinator.com/item?id=39031989"
+    ],
+    [
+      "MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)",
+      "https://mrisc32.bitsnbites.eu/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 18:44:17",
       "https://news.ycombinator.com/item?id=39031691"
     ],
@@ -277,16 +287,6 @@
     [
       "RAG Using Unstructured Data and Role of Knowledge Graphs",
       "https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 12:06:34",
-      "https://news.ycombinator.com/item?id=38999891"
-    ],
-    [
-      "On search in space and time",
-      "https://awakari.com/articles/spacetime-search.html"
     ]
   ],
   [
