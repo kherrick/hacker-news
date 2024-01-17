@@ -104,6 +104,7 @@
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
 * [2024-01-15, 06:04:37](https://news.ycombinator.com/item?id=38997842) - [Ask HN: What would be the single piece of advice you'd give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
 * [2024-01-15, 06:03:16](https://news.ycombinator.com/item?id=38997832) - [AI Will Transform the Global Economy. Let's Make Sure It Benefits Humanity](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)
+* [2024-01-15, 05:59:13](https://news.ycombinator.com/item?id=38997821) - [I'm a Supercommuter. Here's What It's Like](https://www.wsj.com/lifestyle/travel/im-a-supercommuter-heres-what-its-really-like-f88702b0)
 * [2024-01-15, 05:36:25](https://news.ycombinator.com/item?id=38997741) - [Do venture capitalists want forever war?](https://responsiblestatecraft.org/venture-capital-defense-companies/)
 * [2024-01-15, 05:21:32](https://news.ycombinator.com/item?id=38997692) - [Escaping from isolated networks using Broadcast DNS](https://medium.com/sensorfu/escaping-isolated-networks-using-broadcast-dns-5aee866bcaff)
 * [2024-01-15, 05:07:08](https://news.ycombinator.com/item?id=38997636) - [AI to hit 40% of jobs and worsen inequality, IMF says](https://www.bbc.co.uk/news/business-67977967)
