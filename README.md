@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)
 * [2024-01-17, 07:05:21](https://news.ycombinator.com/item?id=39024245) - [The Mating Psychology of Incels – The Journal of Sex Research](https://www.tandfonline.com/doi/full/10.1080/00224499.2023.2248096)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
@@ -18,7 +19,6 @@
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
 * [2024-01-16, 21:40:15](https://news.ycombinator.com/item?id=39019532) - [Stable Code 3B: Coding on the Edge](https://stability.ai/news/stable-code-2024-llm-code-completion-release)
-* [2024-01-16, 21:29:44](https://news.ycombinator.com/item?id=39019414) - [Space Solar Power Demonstrator ends first in-space mission](https://www.caltech.edu/about/news/space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons)
 * [2024-01-16, 21:04:39](https://news.ycombinator.com/item?id=39019119) - [Post-mortem for last week's incident at Kagi](https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/)
 * [2024-01-16, 20:35:37](https://news.ycombinator.com/item?id=39018769) - [6174](https://en.wikipedia.org/wiki/6174)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
