@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+* [2024-01-17, 20:55:54](https://news.ycombinator.com/item?id=39033320) - [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
+* [2024-01-17, 20:29:04](https://news.ycombinator.com/item?id=39033002) - [We have surpassed 6 of the 9 planetary boundaries that sustain human life (2023)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 * [2024-01-17, 20:25:59](https://news.ycombinator.com/item?id=39032967) - [Most STEM grads don't work in STEM jobs](https://www.tampabay.com/opinion/2024/01/17/did-you-know-that-most-stem-grads-dont-work-stem-jobs/)
 * [2024-01-17, 19:51:44](https://news.ycombinator.com/item?id=39032550) - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
