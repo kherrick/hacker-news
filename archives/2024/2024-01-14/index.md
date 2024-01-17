@@ -6,6 +6,7 @@
 
 * [2024-01-14, 22:54:36](https://news.ycombinator.com/item?id=38995285) - [Why the Magic?](https://buttondown.email/carlzimmer/archive/fridays-elk-january-12-2024/)
 * [2024-01-14, 22:39:55](https://news.ycombinator.com/item?id=38995169) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
+* [2024-01-14, 22:39:14](https://news.ycombinator.com/item?id=38995162) - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me)
 * [2024-01-14, 22:27:47](https://news.ycombinator.com/item?id=38995068) - [NixOS: Declarative Builds and Deployments](https://nixos.org/)
 * [2024-01-14, 22:23:56](https://news.ycombinator.com/item?id=38995035) - ['An aged hobby': enthusiasts struggle to keep model railway industry on track](https://www.theguardian.com/lifeandstyle/2024/jan/14/an-aged-hobby-enthusiasts-struggle-to-keep-model-railway-industry-on-track)
 * [2024-01-14, 21:56:29](https://news.ycombinator.com/item?id=38994817) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
