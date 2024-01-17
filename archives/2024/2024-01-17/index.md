@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 16:04:43](https://news.ycombinator.com/item?id=39029546) - [U.S. News Makes Money from Some of Its Biggest Critics: Colleges](https://www.nytimes.com/2024/01/06/us/college-rankings-us-news.html)
+* [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Running Quake on an FPGA (Custom MRISC32 CPU) [video]](https://vimeo.com/901506667)
+* [2024-01-17, 15:57:03](https://news.ycombinator.com/item?id=39029439) - [Meta's serverless platform processing trillions of function calls a day (2023)](https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained)
 * [2024-01-17, 15:27:52](https://news.ycombinator.com/item?id=39029007) - [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
 * [2024-01-17, 15:18:45](https://news.ycombinator.com/item?id=39028862) - [Remote work % in industry not correlated with excess productivity growth](https://www.frbsf.org/economic-research/publications/economic-letter/2024/january/does-working-from-home-boost-productivity-growth/)
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
