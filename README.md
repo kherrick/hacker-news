@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 15:27:52](https://news.ycombinator.com/item?id=39029007) - [Bad stuff going down at the American Sociological Association](https://statmodeling.stat.columbia.edu/2024/01/17/bad-stuff-going-down-at-the-american-sociological-association/)
 * [2024-01-17, 15:18:45](https://news.ycombinator.com/item?id=39028862) - [Remote work % in industry not correlated with excess productivity growth](https://www.frbsf.org/economic-research/publications/economic-letter/2024/january/does-working-from-home-boost-productivity-growth/)
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
 * [2024-01-17, 15:00:08](https://news.ycombinator.com/item?id=39028595) - [What happens when a school bans smartphones? A complete transformation](https://www.theguardian.com/lifeandstyle/2024/jan/17/cellphone-smartphone-bans-schools)
@@ -11,7 +12,6 @@
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-01-17, 11:59:04](https://news.ycombinator.com/item?id=39026565) - [Htmx Is Composable?](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
-* [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 06:51:30](https://news.ycombinator.com/item?id=39024148) - [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
 * [2024-01-17, 05:14:51](https://news.ycombinator.com/item?id=39023565) - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
