@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
 * [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:39:16](https://news.ycombinator.com/item?id=39030043) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
 * [2024-01-17, 16:33:56](https://news.ycombinator.com/item?id=39029979) - [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
+* [2024-01-17, 16:32:40](https://news.ycombinator.com/item?id=39029961) - [Cloudflare R2-Backed Nix Binary Cache on Fly.io](https://lgug2z.com/articles/deploying-a-cloudflare-r2-backed-nix-binary-cache-attic-on-fly-io/)
+* [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 16:04:43](https://news.ycombinator.com/item?id=39029546) - [U.S. News Makes Money from Some of Its Biggest Critics: Colleges](https://www.nytimes.com/2024/01/06/us/college-rankings-us-news.html)
 * [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Running Quake on an FPGA (Custom MRISC32 CPU) [video]](https://vimeo.com/901506667)
 * [2024-01-17, 15:57:03](https://news.ycombinator.com/item?id=39029439) - [Meta's serverless platform processing trillions of function calls a day (2023)](https://read.engineerscodex.com/p/meta-xfaas-serverless-functions-explained)
