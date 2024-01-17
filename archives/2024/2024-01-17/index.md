@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 18:07:39](https://news.ycombinator.com/item?id=39031238) - [What do premarital experiences have to do with marital quality? (2014)](https://before-i-do.org/)
+* [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Embroidery of light-emitting textiles with multicolor electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
 * [2024-01-17, 17:49:47](https://news.ycombinator.com/item?id=39030991) - [The Director of \"Toy Story\" Also Drew the BSD Daemon Logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 17:49:07](https://news.ycombinator.com/item?id=39030986) - [If you can't reproduce the model then it's not open-source](https://twitter.com/amasad/status/1747666962749284468)
 * [2024-01-17, 17:19:07](https://news.ycombinator.com/item?id=39030580) - [Universities Bend over Backwards to Accommodate Food Delivery Robots](https://www.404media.co/student-should-have-a-healthy-looking-bmi-how-universities-bend-over-backwards-to-accommodate-starship-food-delivery-robots/)
