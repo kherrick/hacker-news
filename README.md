@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-01-17, 20:55:54](https://news.ycombinator.com/item?id=39033320) - [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
 * [2024-01-17, 20:29:04](https://news.ycombinator.com/item?id=39033002) - [We have surpassed 6 of the 9 planetary boundaries that sustain human life (2023)](https://www.stockholmresilience.org/research/planetary-boundaries.html)
@@ -26,7 +27,6 @@
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
-* [2024-01-16, 09:02:35](https://news.ycombinator.com/item?id=39011100) - [Bootstrapping a simple compiler from nothing (2002)](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
 * [2024-01-15, 07:51:11](https://news.ycombinator.com/item?id=38998382) - [Deep Space Optical Communications (DSOC)](https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
