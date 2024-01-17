@@ -24,7 +24,7 @@
 * [2024-01-16, 19:48:36](https://news.ycombinator.com/item?id=39018106) - [The mechanical Bendix Air Data Computer, part 3: pressure transducers](https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 19:16:12](https://news.ycombinator.com/item?id=39017607) - [Web AI Model Testing: WebGPU, WebGL, and Headless Chrome](https://developer.chrome.com/blog/supercharge-web-ai-testing)
 * [2024-01-16, 15:48:47](https://news.ycombinator.com/item?id=39014652) - [OutRun – Open-source, privacy oriented, outdoor fitness tracker](https://github.com/timfraedrich/OutRun)
-* [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (Patio11) on Navigating Complex Systems [audio]](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
+* [2024-01-16, 14:06:34](https://news.ycombinator.com/item?id=39013376) - [Patrick McKenzie (patio11) on Navigating Complex Systems [audio]](https://conversationswithtyler.com/episodes/patrick-mckenzie/)
 * [2024-01-16, 13:45:14](https://news.ycombinator.com/item?id=39013194) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-15, 21:42:15](https://news.ycombinator.com/item?id=39006457) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 14:34:54](https://news.ycombinator.com/item?id=39001391) - [How much of the world is it possible to model?](https://www.newyorker.com/culture/annals-of-inquiry/how-much-of-the-world-is-it-possible-to-model)
