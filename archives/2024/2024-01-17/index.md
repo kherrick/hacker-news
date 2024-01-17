@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 18:44:17](https://news.ycombinator.com/item?id=39031691) - [Researchers confirm what we already knew: Google results are getting worse](https://www.theregister.com/2024/01/17/google_search_results_spam/)
 * [2024-01-17, 18:41:38](https://news.ycombinator.com/item?id=39031653) - [Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern](https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/)
 * [2024-01-17, 18:07:39](https://news.ycombinator.com/item?id=39031238) - [What do premarital experiences have to do with marital quality? (2014)](https://before-i-do.org/)
 * [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Embroidery of light-emitting textiles with multicolor electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
