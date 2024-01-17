@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
 * [2024-01-17, 15:18:45](https://news.ycombinator.com/item?id=39028862) - [Remote work % in industry not correlated with excess productivity growth](https://www.frbsf.org/economic-research/publications/economic-letter/2024/january/does-working-from-home-boost-productivity-growth/)
+* [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
+* [2024-01-17, 15:00:08](https://news.ycombinator.com/item?id=39028595) - [What happens when a school bans smartphones? A complete transformation](https://www.theguardian.com/lifeandstyle/2024/jan/17/cellphone-smartphone-bans-schools)
 * [2024-01-17, 14:48:39](https://news.ycombinator.com/item?id=39028440) - [Ask HN: Why is Bluetooth still so unreliable?](https://news.ycombinator.com/item?id=39028440)
 * [2024-01-17, 14:32:34](https://news.ycombinator.com/item?id=39028196) - [AI poisoning could turn open models into destructive \"sleeper agents\"](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 * [2024-01-17, 14:27:52](https://news.ycombinator.com/item?id=39028122) - [The Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
