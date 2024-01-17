@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-17, 21:00:55",
+      "https://news.ycombinator.com/item?id=39033381"
+    ],
+    [
+      "Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)",
+      "https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 20:55:54",
+      "https://news.ycombinator.com/item?id=39033320"
+    ],
+    [
+      "OpenAI is working with the US military now",
+      "https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 20:29:04",
+      "https://news.ycombinator.com/item?id=39033002"
+    ],
+    [
+      "We have surpassed 6 of the 9 planetary boundaries that sustain human life (2023)",
+      "https://www.stockholmresilience.org/research/planetary-boundaries.html"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 20:25:59",
       "https://news.ycombinator.com/item?id=39032967"
     ],
@@ -47,16 +77,6 @@
     [
       "Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern",
       "https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 18:10:50",
-      "https://news.ycombinator.com/item?id=39031279"
-    ],
-    [
-      "Circle (Or Highlight or Scribble) to Search",
-      "https://blog.google/products/search/google-circle-to-search-android/"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "PixieFail: Nine Vulnerabilities UEFI Implementations",
       "https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 02:59:17",
-      "https://news.ycombinator.com/item?id=39022693"
-    ],
-    [
-      "Show HN: I made a website to find best bus seat to avoid the sun while traveling",
-      "https://sitinshade.com"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 09:02:35",
-      "https://news.ycombinator.com/item?id=39011100"
-    ],
-    [
-      "Bootstrapping a simple compiler from nothing (2002)",
-      "http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html"
     ]
   ],
   [
