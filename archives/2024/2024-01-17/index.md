@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 22:12:13](https://news.ycombinator.com/item?id=39034277) - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture?](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)

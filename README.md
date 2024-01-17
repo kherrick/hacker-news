@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 22:12:13](https://news.ycombinator.com/item?id=39034277) - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture?](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
@@ -17,7 +18,6 @@
 * [2024-01-17, 17:03:35](https://news.ycombinator.com/item?id=39030375) - [Notion Calendar](https://www.notion.so/blog/introducing-notion-calendar)
 * [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into an insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:48:00](https://news.ycombinator.com/item?id=39030170) - [Show HN: Privy - Open-source, privacy oriented alternative to GitHub Copilot](https://github.com/srikanth235/privy)
-* [2024-01-17, 16:32:40](https://news.ycombinator.com/item?id=39029961) - [Cloudflare R2-Backed Nix Binary Cache on Fly.io](https://lgug2z.com/articles/deploying-a-cloudflare-r2-backed-nix-binary-cache-attic-on-fly-io/)
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 16:09:05](https://news.ycombinator.com/item?id=39029600) - [Bucket Argument for Absolute Space](https://en.wikipedia.org/wiki/Bucket_argument)
 * [2024-01-17, 16:03:45](https://news.ycombinator.com/item?id=39029529) - [Quake on an FPGA (MRISC32 CPU) [video]](https://vimeo.com/901506667)
