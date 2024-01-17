@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-17, 07:05:21](https://news.ycombinator.com/item?id=39024245) - [The Mating Psychology of Incels – The Journal of Sex Research](https://www.tandfonline.com/doi/full/10.1080/00224499.2023.2248096)
 * [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
 * [2024-01-17, 06:59:52](https://news.ycombinator.com/item?id=39024211) - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
@@ -13,7 +14,6 @@
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 * [2024-01-17, 02:38:51](https://news.ycombinator.com/item?id=39022535) - [Browsh: The modern text-based web browser](https://www.brow.sh/)
 * [2024-01-17, 02:09:43](https://news.ycombinator.com/item?id=39022274) - [Judge blocks JetBlue from acquiring Spirit Airlines](https://www.nytimes.com/2024/01/16/business/jetblue-spirit-airlines-ruling-merger.html)
-* [2024-01-16, 23:51:17](https://news.ycombinator.com/item?id=39020906) - [JEP Draft: Deprecate memory-access methods in sun.misc.unsafe for removal](https://openjdk.org/jeps/8323072)
 * [2024-01-16, 23:21:16](https://news.ycombinator.com/item?id=39020600) - [\"Amazonian dark earth\" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Fluorite lenses: Corrective capabilities beyond ordinary optical glass](https://global.canon/en/c-museum/special/exhibition2.html)
