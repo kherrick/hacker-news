@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-17, 18:41:38",
+      "https://news.ycombinator.com/item?id=39031653"
+    ],
+    [
+      "Benchmarking Postgres Vector Search Approaches: Pgvector vs. Lantern",
+      "https://tembo.io/blog/postgres-vector-search-pgvector-and-lantern/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 18:07:39",
       "https://news.ycombinator.com/item?id=39031238"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39031152"
     ],
     [
-      "Embroidery of light-emitting textiles with multicolor electroluminescent threads",
+      "Machine embroidery of light-emitting textiles with electroluminescent threads",
       "https://www.science.org/doi/10.1126/sciadv.adk4295"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "John Lasseter drew the BSD daemon logo",
       "https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 17:49:07",
-      "https://news.ycombinator.com/item?id=39030986"
-    ],
-    [
-      "If you can't reproduce the model then it's not open-source",
-      "https://twitter.com/amasad/status/1747666962749284468"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Show HN: Shadeup – A language that makes WebGPU easier",
       "https://shadeup.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 17:04:12",
-      "https://news.ycombinator.com/item?id=39030387"
-    ],
-    [
-      "Solving olympiad geometry without human demonstrations",
-      "https://www.nature.com/articles/s41586-023-06747-5"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39027543"
     ],
     [
-      "Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS",
+      "Show HN: Htmldocs – Typeset and generate pdfs with HTML/CSS",
       "https://htmldocs.com"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39027428"
     ],
     [
-      "WaveCoder: Widespread and Versatile Enhanced Instruction Tuning",
+      "WaveCoder: Enhanced instruction tuning with refined data generation",
       "https://arxiv.org/abs/2312.14187"
     ]
   ],
@@ -181,22 +171,22 @@
   ],
   [
     [
-      "2024-01-17, 12:00:31",
-      "https://news.ycombinator.com/item?id=39026574"
-    ],
-    [
-      "OneSignal (YC S11) Is Hiring Engineers",
-      "https://onesignal.com/careers#section-job"
-    ]
-  ],
-  [
-    [
       "2024-01-17, 11:57:58",
       "https://news.ycombinator.com/item?id=39026551"
     ],
     [
       "K/simple: a tiny K interpreter for educational purposes by Arthur Whitney",
       "https://github.com/kparc/ksimple"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 10:01:31",
+      "https://news.ycombinator.com/item?id=39025713"
+    ],
+    [
+      "Mesh shaders on RDNA graphics cards",
+      "https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/"
     ]
   ],
   [
@@ -211,11 +201,21 @@
   ],
   [
     [
+      "2024-01-17, 07:00:11",
+      "https://news.ycombinator.com/item?id=39024215"
+    ],
+    [
+      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
+      "https://news.ycombinator.com/item?id=39024215"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 05:14:51",
       "https://news.ycombinator.com/item?id=39023565"
     ],
     [
-      "Flowblade: Open-Source Video Editor",
+      "Flowblade: Open-source video editor for Linux",
       "https://jliljebl.github.io/flowblade/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=38994457"
     ],
     [
-      "Some Memories of Niklaus Wirth",
+      "Some memories of Niklaus Wirth",
       "https://odersky.github.io/blog/2024-01-04-post.html"
     ]
   ]
