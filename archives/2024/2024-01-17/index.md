@@ -11,6 +11,7 @@
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture?](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:58:09](https://news.ycombinator.com/item?id=39034108) - [How Monopolists drive the power and wealth divide](https://www.globaljustice.org.uk/resource/taken-not-earned-how-monopolists-drive-the-worlds-power-and-wealth-divide/)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
+* [2024-01-17, 21:24:09](https://news.ycombinator.com/item?id=39033686) - [Epic plans to contest Apple's 'bad-faith' compliance with ruling over App Store](https://techcrunch.com/2024/01/17/epic-plans-to-contest-apples-bad-faith-compliance-with-court-ruling-over-app-store/)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-01-17, 20:55:54](https://news.ycombinator.com/item?id=39033320) - [OpenAI is working with the US military now](https://www.bloomberg.com/news/articles/2024-01-16/openai-working-with-us-military-on-cybersecurity-tools-for-veterans)
 * [2024-01-17, 20:33:14](https://news.ycombinator.com/item?id=39033046) - [Use Plaintext Email](https://useplaintext.email/)
