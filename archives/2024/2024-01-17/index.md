@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 23:12:59](https://news.ycombinator.com/item?id=39034951) - [Apple's bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
 * [2024-01-17, 23:00:54](https://news.ycombinator.com/item?id=39034835) - [Coming to Grips with Apple's Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
+* [2024-01-17, 22:51:05](https://news.ycombinator.com/item?id=39034721) - [Cities are asking the Supreme Court for more power to clear homeless encampments](https://www.vox.com/2023/10/10/23905951/homeless-tent-encampments-grants-pass-martin-boise-unsheltered-housing)
 * [2024-01-17, 22:12:13](https://news.ycombinator.com/item?id=39034277) - [FAQ on Leaving Google](https://social.clawhammer.net/blog/posts/2024-01-10-GoogleExitLetter/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture?](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:58:09](https://news.ycombinator.com/item?id=39034108) - [How Monopolists drive the power and wealth divide](https://www.globaljustice.org.uk/resource/taken-not-earned-how-monopolists-drive-the-worlds-power-and-wealth-divide/)

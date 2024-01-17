@@ -104,6 +104,7 @@
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 * [2024-01-15, 06:44:34](https://news.ycombinator.com/item?id=38998055) - [Venice's Secret Service](https://www.thomas-huehn.com/2024/01/venices-secret-service/)
 * [2024-01-15, 06:28:39](https://news.ycombinator.com/item?id=38997970) - [The Swimmer (1964)](https://www.newyorker.com/magazine/1964/07/18/the-swimmer)
+* [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - [A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 * [2024-01-15, 06:04:37](https://news.ycombinator.com/item?id=38997842) - [Ask HN: What would be the single piece of advice you'd give a non-programmer?](https://news.ycombinator.com/item?id=38997842)
 * [2024-01-15, 06:03:16](https://news.ycombinator.com/item?id=38997832) - [AI Will Transform the Global Economy. Let's Make Sure It Benefits Humanity](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)
 * [2024-01-15, 05:59:13](https://news.ycombinator.com/item?id=38997821) - [I'm a Supercommuter. Here's What It's Like](https://www.wsj.com/lifestyle/travel/im-a-supercommuter-heres-what-its-really-like-f88702b0)
