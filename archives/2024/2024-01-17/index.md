@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 13:56:39](https://news.ycombinator.com/item?id=39027696) - [Electric Car Owners Confront a Harsh Foe: Cold Weather](https://www.nytimes.com/2024/01/17/business/tesla-charging-chicago-cold-weather.html)
+* [2024-01-17, 13:35:21](https://news.ycombinator.com/item?id=39027430) - [Possible Room Temperature Superconductor Replicated by Two Independent Labs](https://twitter.com/andercot/status/1742650506559005158)
 * [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
 * [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
