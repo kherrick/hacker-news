@@ -97,6 +97,7 @@
 * [2024-01-15, 08:38:38](https://news.ycombinator.com/item?id=38998615) - [Order/license chaos for VMware products after Broadcom takeover](https://borncity.com/win/2024/01/13/order-license-chaos-for-vmware-products-after-broadcom-takeover-jan-2024/)
 * [2024-01-15, 08:19:13](https://news.ycombinator.com/item?id=38998516) - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
 * [2024-01-15, 08:00:36](https://news.ycombinator.com/item?id=38998423) - [ChatGPT vs. Advent of Code](https://www.themotte.org/post/797/chatgpt-vs-advent-of-code)
+* [2024-01-15, 07:51:11](https://news.ycombinator.com/item?id=38998382) - [Deep Space Optical Communications (DSOC)](https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc)
 * [2024-01-15, 07:37:50](https://news.ycombinator.com/item?id=38998313) - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 * [2024-01-15, 07:26:35](https://news.ycombinator.com/item?id=38998257) - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 * [2024-01-15, 07:06:51](https://news.ycombinator.com/item?id=38998175) - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)

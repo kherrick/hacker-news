@@ -26,8 +26,8 @@
 * [2024-01-17, 13:35:10](https://news.ycombinator.com/item?id=39027428) - [WaveCoder: Enhanced instruction tuning with refined data generation](https://arxiv.org/abs/2312.14187)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
-* [2024-01-17, 07:02:07](https://news.ycombinator.com/item?id=39024228) - [PixieFail: Nine Vulnerabilities UEFI Implementations](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-15, 14:38:25](https://news.ycombinator.com/item?id=39001441) - [Z – Jump around](https://github.com/rupa/z)
+* [2024-01-15, 07:51:11](https://news.ycombinator.com/item?id=38998382) - [Deep Space Optical Communications (DSOC)](https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc)
 * [2024-01-15, 05:59:13](https://news.ycombinator.com/item?id=38997821) - [I'm a Supercommuter. Here's What It's Like](https://www.wsj.com/lifestyle/travel/im-a-supercommuter-heres-what-its-really-like-f88702b0)
 * [2024-01-14, 21:08:32](https://news.ycombinator.com/item?id=38994457) - [Some memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 
