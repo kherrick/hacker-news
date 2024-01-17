@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 19:51:44](https://news.ycombinator.com/item?id=39032550) - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 * [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
@@ -23,6 +24,7 @@
 * [2024-01-17, 17:00:51](https://news.ycombinator.com/item?id=39030343) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-17, 16:57:29](https://news.ycombinator.com/item?id=39030302) - [Hacking into a Toyota insurance company by exploiting their premium calculator](https://eaton-works.com/2024/01/17/ttibi-email-hack/)
 * [2024-01-17, 16:49:46](https://news.ycombinator.com/item?id=39030186) - [A.I.'S Latest Challenge: The Math Olympics](https://www.nytimes.com/2024/01/17/science/ai-computers-mathematics-olympiad.html)
+* [2024-01-17, 16:48:00](https://news.ycombinator.com/item?id=39030170) - [Show HN: Privy - Open-source, privacy oriented alternative to GitHub Copilot](https://github.com/srikanth235/privy)
 * [2024-01-17, 16:39:16](https://news.ycombinator.com/item?id=39030043) - [Quebec man who blamed wildfires on government pleads guilty to setting 14 fires](https://www.cbc.ca/news/canada/montreal/brian-pare-pleads-guilty-to-setting-quebec-wildfires-1.7084669)
 * [2024-01-17, 16:33:56](https://news.ycombinator.com/item?id=39029979) - [Ask HN: What is the state of art approximate k-NN search algorithm today?](https://news.ycombinator.com/item?id=39029979)
 * [2024-01-17, 16:32:40](https://news.ycombinator.com/item?id=39029961) - [Cloudflare R2-Backed Nix Binary Cache on Fly.io](https://lgug2z.com/articles/deploying-a-cloudflare-r2-backed-nix-binary-cache-attic-on-fly-io/)
