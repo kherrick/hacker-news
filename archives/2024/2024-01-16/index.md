@@ -10,6 +10,7 @@
 * [2024-01-16, 23:33:54](https://news.ycombinator.com/item?id=39020737) - [Twin Galaxies restores Billy Mitchell's scores following legal settlement](https://arstechnica.com/gaming/2024/01/twin-galaxies-billy-mitchell-settle-donkey-kong-score-case-before-trial/)
 * [2024-01-16, 23:21:16](https://news.ycombinator.com/item?id=39020600) - [\"Amazonian dark earth\" was the work of ancient humans](https://www.bbc.com/future/article/20240116-the-dark-earth-revealing-the-amazons-secrets)
 * [2024-01-16, 22:58:43](https://news.ycombinator.com/item?id=39020365) - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
+* [2024-01-16, 22:50:50](https://news.ycombinator.com/item?id=39020265) - [Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
 * [2024-01-16, 22:50:21](https://news.ycombinator.com/item?id=39020258) - [Canon grows large fluorite lens elements](https://global.canon/en/c-museum/special/exhibition2.html)
 * [2024-01-16, 22:50:09](https://news.ycombinator.com/item?id=39020254) - [The Self-Checkout Nightmare May Be Ending](https://gizmodo.com/the-self-checkout-nightmare-may-finally-be-ending-1851169879)
 * [2024-01-16, 22:42:30](https://news.ycombinator.com/item?id=39020175) - [Clay Foundation Model: An open source AI model for Earth](https://clay-foundation.github.io/model/)
