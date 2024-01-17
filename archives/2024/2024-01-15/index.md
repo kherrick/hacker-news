@@ -81,6 +81,7 @@
 * [2024-01-15, 12:18:26](https://news.ycombinator.com/item?id=38999987) - [YouTube is loading slower for users with ad blockers yet again](https://www.tomsguide.com/news/youtube-is-loading-slower-for-users-with-ad-blockers-yet-again)
 * [2024-01-15, 12:12:56](https://news.ycombinator.com/item?id=38999929) - [AI to hit almost 40% of jobs worldwide](https://www.cnbc.com/2024/01/15/imf-warns-ai-to-hit-almost-40percent-of-global-employment-worsen-inequality.html)
 * [2024-01-15, 11:59:44](https://news.ycombinator.com/item?id=38999837) - [When Optimising Code, Measure](https://www.solipsys.co.uk/new/WhenOptimisingCodeMeasure.html?xa15hn)
+* [2024-01-15, 11:33:27](https://news.ycombinator.com/item?id=38999668) - [Norwegian: Bokmål vs. Nynorsk](https://www.sprakradet.no/Vi-og-vart/Om-oss/English-and-other-languages/English/norwegian-bokmal-vs.-nynorsk/)
 * [2024-01-15, 11:21:34](https://news.ycombinator.com/item?id=38999597) - [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
 * [2024-01-15, 11:09:48](https://news.ycombinator.com/item?id=38999517) - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
 * [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
