@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+* [2024-01-18, 03:55:22](https://news.ycombinator.com/item?id=39037583) - [Show HN: Tunnel Rush](https://tunnelrush3.com/)
 * [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, Composer and Gleeful Sire of PDQ Bach, Dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
+* [2024-01-18, 03:12:44](https://news.ycombinator.com/item?id=39037216) - [Open Table Formats (e.g. Iceberg) Are Inevitable for Analytical Datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
 * [2024-01-18, 02:53:59](https://news.ycombinator.com/item?id=39037028) - [Is the Tesla Cybertruck a Dud? An Experienced EV Reviewer Thinks So](https://insideevs.com/features/704825/tesla-cybertruck-review-dud/)
 * [2024-01-18, 02:36:32](https://news.ycombinator.com/item?id=39036858) - [Ask HN: What's the best car without undesirable features?](https://news.ycombinator.com/item?id=39036858)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
