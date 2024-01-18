@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-18, 17:06:42",
-      "https://news.ycombinator.com/item?id=39044312"
-    ],
-    [
-      "Snapdragon X elite is faster than MacBook Air M2",
-      "https://www.xda-developers.com/snapdragon-x-elite-vs-intel-core-ultra-7-155h/"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 16:42:40",
       "https://news.ycombinator.com/item?id=39043978"
     ],
@@ -27,16 +17,6 @@
     [
       "The case to legalize single-stair multifamily housing",
       "https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 16:15:08",
-      "https://news.ycombinator.com/item?id=39043555"
-    ],
-    [
-      "Hans Reiser Apologies Comments on ReiserFS Deprecation from Prison",
-      "https://www.phoronix.com/news/Hans-Reiser-2024"
     ]
   ],
   [
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2024-01-18, 12:20:30",
-      "https://news.ycombinator.com/item?id=39040828"
-    ],
-    [
-      "Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]",
-      "https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 12:00:54",
       "https://news.ycombinator.com/item?id=39040718"
     ],
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-01-18, 05:46:25",
+      "https://news.ycombinator.com/item?id=39038368"
+    ],
+    [
+      "Automatic class sorting with Prettier (2022)",
+      "https://tailwindcss.com/blog/automatic-class-sorting-with-prettier"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 03:55:56",
       "https://news.ycombinator.com/item?id=39037589"
     ],
@@ -227,6 +207,16 @@
     [
       "WhisperSpeech – An open source text-to-speech system built by inverting Whisper",
       "https://github.com/collabora/WhisperSpeech"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 22:03:15",
+      "https://news.ycombinator.com/item?id=39034160"
+    ],
+    [
+      "Which word begins with \"y\" and looks like an axe in this picture? (2017)",
+      "https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Kindllm – LLM chat optimized for Kindle e-readers",
       "https://kindllm.app"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 10:02:26",
+      "https://news.ycombinator.com/item?id=38999069"
+    ],
+    [
+      "Polymorphic Types in C [pdf]",
+      "https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf"
     ]
   ]
 ]
