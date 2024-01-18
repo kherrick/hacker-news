@@ -5,7 +5,6 @@
 * [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
 * [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 * [2024-01-18, 20:01:48](https://news.ycombinator.com/item?id=39046838) - [German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
-* [2024-01-18, 19:55:41](https://news.ycombinator.com/item?id=39046761) - [Venture Backed or Bootstrapped? There's a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
 * [2024-01-18, 19:39:36](https://news.ycombinator.com/item?id=39046541) - [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:26:34](https://news.ycombinator.com/item?id=39045545) - [Show HN: I made a website to share rejection letters](https://rejectedagain.lol)
@@ -30,6 +29,7 @@
 * [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 23:19:32](https://news.ycombinator.com/item?id=39007384) - [Pwned Certificates on the Fediverse](https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html)
+* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 
