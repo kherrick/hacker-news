@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-18, 18:05:02",
-      "https://news.ycombinator.com/item?id=39045153"
+      "2024-01-18, 18:26:30",
+      "https://news.ycombinator.com/item?id=39045544"
     ],
     [
-      "Meta will have a stockpile of almost 600k GPUs by the end of 2024",
-      "https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview"
+      "Meta is developing open source AGI, says Zuckerberg",
+      "https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-01-18, 17:40:03",
-      "https://news.ycombinator.com/item?id=39044793"
-    ],
-    [
-      "A Disney Imagineer Will Join the Inventors Hall of Fame",
-      "https://thewaltdisneycompany.com/lanny-smoot-to-be-the-first-disney-imagineer-inducted-into-the-national-inventors-hall-of-fame/"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 17:25:43",
       "https://news.ycombinator.com/item?id=39044586"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39043956"
     ],
     [
-      "The case to legalize single-stair multifamily housing",
+      "The case for single-stair multifamily",
       "https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily"
     ]
   ],
@@ -107,16 +97,6 @@
     [
       "Hans Reiser on ReiserFS deprecation in the Linux kernel",
       "https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 14:59:31",
-      "https://news.ycombinator.com/item?id=39042456"
-    ],
-    [
-      "PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.",
-      "https://wiki.postgresql.org/wiki/Operations_cheat_sheet"
     ]
   ],
   [
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39039588"
     ],
     [
-      "Ways to die on the web",
+      "A million ways to die on the web",
       "https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web"
     ]
   ],
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2024-01-18, 02:29:58",
-      "https://news.ycombinator.com/item?id=39036796"
+      "2024-01-17, 20:08:34",
+      "https://news.ycombinator.com/item?id=39032752"
     ],
     [
-      "WhisperSpeech – An open source text-to-speech system built by inverting Whisper",
-      "https://github.com/collabora/WhisperSpeech"
+      "Systemd: Enable Indefinite Service Restarts",
+      "https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/"
     ]
   ],
   [
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2024-01-17, 18:10:50",
-      "https://news.ycombinator.com/item?id=39031279"
+      "2024-01-17, 15:46:02",
+      "https://news.ycombinator.com/item?id=39029279"
     ],
     [
-      "Circle (or highlight or scribble) to search",
-      "https://blog.google/products/search/google-circle-to-search-android/"
+      "RSA is deceptively simple and fun",
+      "https://ntietz.com/blog/rsa-deceptively-simple/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-01-15, 23:19:32",
+      "https://news.ycombinator.com/item?id=39007384"
+    ],
+    [
+      "Pwned Certificates on the Fediverse",
+      "https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 14:15:48",
       "https://news.ycombinator.com/item?id=39001216"
     ],
     [
       "Show HN: Kindllm – LLM chat optimized for Kindle e-readers",
       "https://kindllm.app"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 10:02:26",
+      "https://news.ycombinator.com/item?id=38999069"
+    ],
+    [
+      "Polymorphic Types in C [pdf]",
+      "https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf"
     ]
   ]
 ]
