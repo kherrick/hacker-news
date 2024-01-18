@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 15:10:53](https://news.ycombinator.com/item?id=39042626) - [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
 * [2024-01-18, 15:00:08](https://news.ycombinator.com/item?id=39042469) - [Surprise plant cell discovery unlocks human anti-aging potential](https://newatlas.com/biology/plant-cell-discovery-human-anti-aging/)
 * [2024-01-18, 14:59:31](https://news.ycombinator.com/item?id=39042456) - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
 * [2024-01-18, 14:46:40](https://news.ycombinator.com/item?id=39042260) - [Google News Is Boosting Garbage AI-Generated Articles](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
