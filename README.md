@@ -2,6 +2,7 @@
 
 * [2024-01-18, 13:03:27](https://news.ycombinator.com/item?id=39041174) - [Canadian Citizen Gets Phone Back from Police](https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html)
 * [2024-01-18, 13:00:28](https://news.ycombinator.com/item?id=39041146) - [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
+* [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
 * [2024-01-18, 12:20:30](https://news.ycombinator.com/item?id=39040828) - [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
 * [2024-01-18, 12:01:17](https://news.ycombinator.com/item?id=39040720) - ['No AI Fraud Act' Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
@@ -10,7 +11,6 @@
 * [2024-01-18, 09:21:17](https://news.ycombinator.com/item?id=39039712) - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [Ways to die on the web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 * [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Automatic class sorting with Prettier (2022)](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
-* [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 * [2024-01-18, 03:12:44](https://news.ycombinator.com/item?id=39037216) - [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
@@ -18,6 +18,7 @@
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [A drought has forced authorities to further slash traffic in Panama Canal](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:53:53](https://news.ycombinator.com/item?id=39036516) - [Mexican Whiskey Is on the Rise, Powered by Ancient Corn](https://www.nytimes.com/2024/01/11/dining/drinks/mexican-whiskey.html)
+* [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear transformers are faster after all](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
@@ -29,7 +30,6 @@
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
 * [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
-* [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - ['A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 
 ## [Archives](archives/index.md)
 
