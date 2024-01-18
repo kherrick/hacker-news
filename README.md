@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 05:11:46](https://news.ycombinator.com/item?id=39038152) - [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 * [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 * [2024-01-18, 03:12:44](https://news.ycombinator.com/item?id=39037216) - [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
@@ -7,7 +8,6 @@
 * [2024-01-18, 02:29:58](https://news.ycombinator.com/item?id=39036796) - [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 * [2024-01-18, 02:27:38](https://news.ycombinator.com/item?id=39036774) - [Portable Web Documents – An Alternative to PDF Based on HTML5 (2019)](https://getpolarized.io/2019/05/11/portable-web-documents.html)
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
-* [2024-01-18, 02:09:46](https://news.ycombinator.com/item?id=39036622) - [Can ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [A drought has forced authorities to further slash traffic in Panama Canal](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear transformers are faster after all](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)

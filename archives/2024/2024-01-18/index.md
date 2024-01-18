@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 05:11:46](https://news.ycombinator.com/item?id=39038152) - [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 * [2024-01-18, 03:55:22](https://news.ycombinator.com/item?id=39037583) - [Show HN: Tunnel Rush](https://tunnelrush3.com/)
 * [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, Composer and Gleeful Sire of PDQ Bach, Dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
