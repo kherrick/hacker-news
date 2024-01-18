@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long term vision is to build general intelligence, open source it](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
 * [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
 * [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
 * [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
@@ -13,7 +14,6 @@
 * [2024-01-18, 16:38:20](https://news.ycombinator.com/item?id=39043911) - [The value of information gathering in phage–bacteria warfare](https://academic.oup.com/pnasnexus/article/3/1/pgad431/7512761)
 * [2024-01-18, 16:35:59](https://news.ycombinator.com/item?id=39043871) - [The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
 * [2024-01-18, 16:31:44](https://news.ycombinator.com/item?id=39043810) - [Medjed: From Ancient Egypt to Japanese Pop Culture (2017)](https://jgeekstudies.org/archives/vol-42-december-2017/medjed-from-ancient-egypt-to-japanese-pop-culture/)
-* [2024-01-18, 16:19:33](https://news.ycombinator.com/item?id=39043627) - [Math's 'Game of Life' Reveals Long-Sought Repeating Patterns](https://www.quantamagazine.org/maths-game-of-life-reveals-long-sought-repeating-patterns-20240118/)
 * [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
 * [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 15:05:49](https://news.ycombinator.com/item?id=39042548) - [The Quest for Simple Rules to Build a Microbial Community](https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/)
