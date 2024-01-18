@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 02:36:32](https://news.ycombinator.com/item?id=39036858) - [Ask HN: What's the best car without undesirable features?](https://news.ycombinator.com/item?id=39036858)
 * [2024-01-18, 01:55:58](https://news.ycombinator.com/item?id=39036526) - [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:25:38](https://news.ycombinator.com/item?id=39036282) - [Rare near mint/mint copy of the Spider-Man No 1 sells for more than £1M](https://www.theguardian.com/books/2024/jan/17/rare-copy-of-the-amazing-spider-man-no-1-sells-for-more-than-1m)
 * [2024-01-18, 01:25:11](https://news.ycombinator.com/item?id=39036276) - [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
 * [2024-01-18, 00:40:46](https://news.ycombinator.com/item?id=39035849) - [Carta's Scandal Continues – Jerry Talton (Ex. CTO of Carta)](https://twitter.com/itspuru/status/1747778873935213028)
+* [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-18, 00:10:03](https://news.ycombinator.com/item?id=39035540) - [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
 * [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
 * [2024-01-18, 00:09:06](https://news.ycombinator.com/item?id=39035535) - [Ex-Hertz Tesla Model 3s Cost as Little as $14,000. Would You Buy One?](https://www.thedrive.com/news/ex-hertz-tesla-model-3s-cost-as-little-as-14000-would-you-buy-one)
