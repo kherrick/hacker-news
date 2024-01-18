@@ -22,12 +22,12 @@
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 18:33:45](https://news.ycombinator.com/item?id=39031555) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 18:10:50](https://news.ycombinator.com/item?id=39031279) - [Circle (or highlight or scribble) to search](https://blog.google/products/search/google-circle-to-search-android/)
+* [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-16, 18:31:32](https://news.ycombinator.com/item?id=39016797) - [How did the tiny Alaska village of Chicken get its name?](https://www.adn.com/alaska-life/2024/01/14/how-did-the-tiny-alaska-village-of-chicken-get-its-name/)
-* [2024-01-15, 15:31:08](https://news.ycombinator.com/item?id=39002041) - [Operating on infinite lists](https://notes.jordanscales.com/infinite-lists)
 * [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - ['A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 
