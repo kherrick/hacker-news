@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-01-18, 21:58:46",
-      "https://news.ycombinator.com/item?id=39048409"
-    ],
-    [
-      "\"432 Hz tuned music can decrease heart rate more than 440 Hz tuned music\"",
-      "https://pubmed.ncbi.nlm.nih.gov/31031095/"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 21:51:05",
       "https://news.ycombinator.com/item?id=39048317"
     ],
     [
       "We migrated our PostgreSQL database with 11 seconds downtime",
       "https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 21:43:56",
-      "https://news.ycombinator.com/item?id=39048228"
-    ],
-    [
-      "Live: Axiom Mission 3 Launches to the International Space Station [video]",
-      "https://www.youtube.com/watch?v=1nXlbgjIoP4"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 21:37:07",
-      "https://news.ycombinator.com/item?id=39048120"
-    ],
-    [
-      "VMware Kills Off 56 Products",
-      "https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/"
     ]
   ],
   [
@@ -71,16 +41,6 @@
   ],
   [
     [
-      "2024-01-18, 20:01:48",
-      "https://news.ycombinator.com/item?id=39046838"
-    ],
-    [
-      "German developer guilty of 'hacking' for exposing hardcoded credentials in app",
-      "https://infosec.exchange/@WPalant/111776937550399546"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 18:29:57",
       "https://news.ycombinator.com/item?id=39045598"
     ],
@@ -101,12 +61,52 @@
   ],
   [
     [
+      "2024-01-18, 18:05:02",
+      "https://news.ycombinator.com/item?id=39045153"
+    ],
+    [
+      "Mark Zuckerberg’s new goal is creating artificial general intelligence",
+      "https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 17:54:27",
       "https://news.ycombinator.com/item?id=39044985"
     ],
     [
       "New cancer drug kinder than chemotherapy",
       "https://www.bbc.com/news/health-67793887"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 17:35:11",
+      "https://news.ycombinator.com/item?id=39044727"
+    ],
+    [
+      "Virtual tour of Museum of Failure",
+      "https://collection.museumoffailure.com/"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 17:25:43",
+      "https://news.ycombinator.com/item?id=39044586"
+    ],
+    [
+      "What happened to the US machine tool industry?",
+      "https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 16:41:17",
+      "https://news.ycombinator.com/item?id=39043956"
+    ],
+    [
+      "The case for single-stair multifamily",
+      "https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-01-18, 16:14:28",
+      "https://news.ycombinator.com/item?id=39043547"
+    ],
+    [
+      "Escaping surveillance capitalism, at scale",
+      "https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 15:56:28",
       "https://news.ycombinator.com/item?id=39043306"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-01-18, 15:05:49",
-      "https://news.ycombinator.com/item?id=39042548"
-    ],
-    [
-      "The quest for simple rules to build a microbial community",
-      "https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 14:32:55",
       "https://news.ycombinator.com/item?id=39042093"
     ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2024-01-18, 13:33:52",
-      "https://news.ycombinator.com/item?id=39041477"
+      "2024-01-18, 13:38:02",
+      "https://news.ycombinator.com/item?id=39041520"
     ],
     [
-      "Queues don't fix overload (2014)",
-      "https://ferd.ca/queues-don-t-fix-overload.html"
+      "Identifying Rust's collect:<Vec<_>>() memory leak footgun",
+      "https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-01-17, 09:51:43",
+      "https://news.ycombinator.com/item?id=39025631"
+    ],
+    [
+      "Random Animations",
+      "https://bleuje.com/randomanimations/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 06:45:15",
       "https://news.ycombinator.com/item?id=39024102"
     ],
     [
       "White space does matter in C23",
       "https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 04:27:46",
-      "https://news.ycombinator.com/item?id=39023301"
-    ],
-    [
-      "Sampling for Text Generation",
-      "https://huyenchip.com/2024/01/16/sampling.html"
     ]
   ],
   [
