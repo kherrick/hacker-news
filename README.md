@@ -16,6 +16,7 @@
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear transformers are faster after all](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
+* [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [Each Facebook user is monitored by thousands of companies](https://www.consumerreports.org/electronics/privacy/each-facebook-user-is-monitored-by-thousands-of-companies-a5824207467/)
 * [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
@@ -27,7 +28,6 @@
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-16, 18:31:32](https://news.ycombinator.com/item?id=39016797) - [How did the tiny Alaska village of Chicken get its name?](https://www.adn.com/alaska-life/2024/01/14/how-did-the-tiny-alaska-village-of-chicken-get-its-name/)
 * [2024-01-15, 15:31:08](https://news.ycombinator.com/item?id=39002041) - [Operating on infinite lists](https://notes.jordanscales.com/infinite-lists)
-* [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The incredible shrinking podcast industry?](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - ['A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 
