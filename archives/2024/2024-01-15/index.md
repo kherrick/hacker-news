@@ -61,6 +61,7 @@
 * [2024-01-15, 15:46:02](https://news.ycombinator.com/item?id=39002200) - [Show HN: Edu AI, a company grown from my research (AI and pedagogy)](https://news.ycombinator.com/item?id=39002200)
 * [2024-01-15, 15:41:26](https://news.ycombinator.com/item?id=39002156) - [Microsoft is working on a Copilot Pro subscription (APK Teardown)](https://www.androidauthority.com/microsoft-copilot-pro-edge-3403043/)
 * [2024-01-15, 15:40:03](https://news.ycombinator.com/item?id=39002138) - [FSRS: A modern, efficient spaced repetition algorithm](https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS)
+* [2024-01-15, 15:31:08](https://news.ycombinator.com/item?id=39002041) - [Operating on Infinite Lists](https://notes.jordanscales.com/infinite-lists)
 * [2024-01-15, 15:30:05](https://news.ycombinator.com/item?id=39002028) - [ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial](https://mariokartwii.com/armv8/)
 * [2024-01-15, 15:27:33](https://news.ycombinator.com/item?id=39002001) - [Tech sector is pouring billions of dollars into AI. It keeps laying off humans](https://www.cnn.com/2024/01/13/tech/tech-layoffs-ai-investment/index.html)
 * [2024-01-15, 15:06:07](https://news.ycombinator.com/item?id=39001755) - [Teach Yourself Programming in Ten Years (1998)](https://norvig.com/21-days.html)
