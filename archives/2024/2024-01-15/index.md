@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 23:19:32](https://news.ycombinator.com/item?id=39007384) - [Pwned Certificates on the Fediverse](https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html)
 * [2024-01-15, 23:03:46](https://news.ycombinator.com/item?id=39007248) - [Watch Free Online Documentaries](https://ihavenotv.com/)
 * [2024-01-15, 22:44:45](https://news.ycombinator.com/item?id=39007076) - [Oppo Find X7 Ultra: smartphone features the first dual periscope zooms](https://everyonegaming.com/oppo-find-x7-ultra-flagship-smartphone-features-the-worlds-first-dual-periscope-zooms/)
 * [2024-01-15, 22:42:05](https://news.ycombinator.com/item?id=39007055) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 18:26:30](https://news.ycombinator.com/item?id=39045544) - [Meta is developing open source AGI, says Zuckerberg](https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/)
 * [2024-01-18, 18:05:02](https://news.ycombinator.com/item?id=39045153) - [Meta will have a stockpile of almost 600k GPUs by the end of 2024](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:50:37](https://news.ycombinator.com/item?id=39044932) - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
