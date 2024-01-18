@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-18, 17:06:42](https://news.ycombinator.com/item?id=39044312) - [Snapdragon X elite is faster than MacBook Air M2](https://www.xda-developers.com/snapdragon-x-elite-vs-intel-core-ultra-7-155h/)
 * [2024-01-18, 16:42:40](https://news.ycombinator.com/item?id=39043978) - [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case to legalize single-stair multifamily housing](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)
-* [2024-01-18, 16:15:08](https://news.ycombinator.com/item?id=39043555) - [Hans Reiser Apologies Comments on ReiserFS Deprecation from Prison](https://www.phoronix.com/news/Hans-Reiser-2024)
 * [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping surveillance capitalism, at scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
 * [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
 * [2024-01-18, 16:05:08](https://news.ycombinator.com/item?id=39043421) - [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
@@ -16,13 +14,14 @@
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues don't fix overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
 * [2024-01-18, 12:21:39](https://news.ycombinator.com/item?id=39040839) - [Study: Field Drug Tests Generate Nearly 30k Bogus Arrests a Year](https://www.techdirt.com/2024/01/17/study-field-drug-tests-generate-nearly-30000-bogus-arrests-a-year/)
-* [2024-01-18, 12:20:30](https://news.ycombinator.com/item?id=39040828) - [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [Ways to die on the web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
+* [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Automatic class sorting with Prettier (2022)](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
 * [2024-01-18, 02:29:58](https://news.ycombinator.com/item?id=39036796) - [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+* [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 18:33:45](https://news.ycombinator.com/item?id=39031555) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 18:10:50](https://news.ycombinator.com/item?id=39031279) - [Circle (or highlight or scribble) to search](https://blog.google/products/search/google-circle-to-search-android/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
@@ -30,6 +29,7 @@
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
+* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 
