@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 21:43:56](https://news.ycombinator.com/item?id=39048228) - [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
 * [2024-01-18, 21:37:07](https://news.ycombinator.com/item?id=39048120) - [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
 * [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long term vision is to build general intelligence, open source it](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
 * [2024-01-18, 20:33:28](https://news.ycombinator.com/item?id=39047264) - [A Runaway Greenhouse Effect on Earth Is Unlikely](https://www.youtube.com/watch?v=oWS48a3LmR0)
