@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
-* [2024-01-18, 19:11:06](https://news.ycombinator.com/item?id=39046193) - [Zuckerberg's Meta Is Spending Billions to Buy 350k Nvidia H100 GPUs](https://www.pcmag.com/news/zuckerbergs-meta-is-spending-billions-to-buy-350000-nvidia-h100-gpus)
 * [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:20:35](https://news.ycombinator.com/item?id=39045417) - [Ditching PaaS: Why I Went Back to Self-Hosting](https://shubhamjain.co/2023/01/18/ditching-paas-why-i-went-back-to-self-hosting/)
@@ -25,6 +24,7 @@
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 18:33:45](https://news.ycombinator.com/item?id=39031555) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 15:46:02](https://news.ycombinator.com/item?id=39029279) - [RSA is deceptively simple and fun](https://ntietz.com/blog/rsa-deceptively-simple/)
+* [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
