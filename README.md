@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+* [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
+* [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 * [2024-01-18, 20:01:48](https://news.ycombinator.com/item?id=39046838) - [German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
 * [2024-01-18, 19:55:41](https://news.ycombinator.com/item?id=39046761) - [Venture Backed or Bootstrapped? There's a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
 * [2024-01-18, 19:39:36](https://news.ycombinator.com/item?id=39046541) - [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
@@ -14,7 +16,6 @@
 * [2024-01-18, 16:19:33](https://news.ycombinator.com/item?id=39043627) - [Math's 'Game of Life' Reveals Long-Sought Repeating Patterns](https://www.quantamagazine.org/maths-game-of-life-reveals-long-sought-repeating-patterns-20240118/)
 * [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
 * [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
-* [2024-01-18, 15:54:35](https://news.ycombinator.com/item?id=39043282) - [History Is Written by the Losers](https://scholars-stage.org/history-is-written-by-the-losers/)
 * [2024-01-18, 15:05:49](https://news.ycombinator.com/item?id=39042548) - [The Quest for Simple Rules to Build a Microbial Community](https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
@@ -24,12 +25,11 @@
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [A million ways to die on the web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
-* [2024-01-17, 18:33:45](https://news.ycombinator.com/item?id=39031555) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
+* [2024-01-17, 19:39:10](https://news.ycombinator.com/item?id=39032378) - [What Was the Biggest Art Theft in History?](https://www.thecollector.com/biggest-art-theft-in-history/)
 * [2024-01-17, 15:46:02](https://news.ycombinator.com/item?id=39029279) - [RSA is deceptively simple and fun](https://ntietz.com/blog/rsa-deceptively-simple/)
 * [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 23:19:32](https://news.ycombinator.com/item?id=39007384) - [Pwned Certificates on the Fediverse](https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html)
-* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 

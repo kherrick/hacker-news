@@ -22,6 +22,7 @@
 * [2024-01-17, 20:25:59](https://news.ycombinator.com/item?id=39032967) - [Most STEM grads don't work in STEM jobs](https://www.tampabay.com/opinion/2024/01/17/did-you-know-that-most-stem-grads-dont-work-stem-jobs/)
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:51:44](https://news.ycombinator.com/item?id=39032550) - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
+* [2024-01-17, 19:39:10](https://news.ycombinator.com/item?id=39032378) - [What Was the Biggest Art Theft in History?](https://www.thecollector.com/biggest-art-theft-in-history/)
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:17:54](https://news.ycombinator.com/item?id=39032103) - [Cancer Alley](https://en.wikipedia.org/wiki/Cancer_Alley)
 * [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)

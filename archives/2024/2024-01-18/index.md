@@ -6,6 +6,8 @@
 
 * [2024-01-18, 20:16:10](https://news.ycombinator.com/item?id=39047024) - [Coinbase tells judge that buying crypto is just like collecting Beanie Babies](https://markets.businessinsider.com/news/currencies/coinbase-crypto-judge-buying-beanie-babies-court-argument-judge-bitcoin-2024-1)
 * [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+* [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
+* [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 * [2024-01-18, 20:01:48](https://news.ycombinator.com/item?id=39046838) - [German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
 * [2024-01-18, 19:55:41](https://news.ycombinator.com/item?id=39046761) - [Venture Backed or Bootstrapped? There's a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
 * [2024-01-18, 19:39:36](https://news.ycombinator.com/item?id=39046541) - [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
