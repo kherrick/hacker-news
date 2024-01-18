@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-18, 02:53:59](https://news.ycombinator.com/item?id=39037028) - [Is the Tesla Cybertruck a Dud? An Experienced EV Reviewer Thinks So](https://insideevs.com/features/704825/tesla-cybertruck-review-dud/)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
+* [2024-01-18, 02:29:58](https://news.ycombinator.com/item?id=39036796) - [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 * [2024-01-18, 02:27:38](https://news.ycombinator.com/item?id=39036774) - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 02:09:46](https://news.ycombinator.com/item?id=39036622) - [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
