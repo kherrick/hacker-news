@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-18, 07:01:14](https://news.ycombinator.com/item?id=39038850) - [Self-Consuming Generative Models Go Mad](https://arxiv.org/abs/2307.01850)
+* [2024-01-18, 07:01:14](https://news.ycombinator.com/item?id=39038850) - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
 * [2024-01-18, 07:00:35](https://news.ycombinator.com/item?id=39038845) - [Wasmer (YC S19) Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
-* [2024-01-18, 06:06:35](https://news.ycombinator.com/item?id=39038494) - [Show HN: I Built an AI-Powered Headshot Generator](https://magickimg.com/headshot/)
 * [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 * [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
@@ -17,6 +16,7 @@
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear transformers are faster after all](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
+* [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [Each Facebook user is monitored by thousands of companies](https://www.consumerreports.org/electronics/privacy/each-facebook-user-is-monitored-by-thousands-of-companies-a5824207467/)
 * [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
