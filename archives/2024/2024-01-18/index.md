@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 23:07:29](https://news.ycombinator.com/item?id=39049217) - [YouTube and Spotify won't launch Apple Vision Pro apps, joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps)
 * [2024-01-18, 22:43:50](https://news.ycombinator.com/item?id=39048948) - [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
 * [2024-01-18, 21:58:46](https://news.ycombinator.com/item?id=39048409) - [\"432 Hz tuned music can decrease heart rate more than 440 Hz tuned music\"](https://pubmed.ncbi.nlm.nih.gov/31031095/)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)

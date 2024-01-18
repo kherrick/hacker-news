@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 23:07:29](https://news.ycombinator.com/item?id=39049217) - [YouTube and Spotify won't launch Apple Vision Pro apps, joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps)
 * [2024-01-18, 22:43:50](https://news.ycombinator.com/item?id=39048948) - [My AI costs went from $100 to less than $1/day: Fine-tuning Mixtral with GPT4](https://twitter.com/wenquai/status/1748016021808595242)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
@@ -21,7 +22,6 @@
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
-* [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [A million ways to die on the web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:39:10](https://news.ycombinator.com/item?id=39032378) - [What was the biggest art theft in history?](https://www.thecollector.com/biggest-art-theft-in-history/)
