@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
+* [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, Composer and Gleeful Sire of PDQ Bach, Dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 * [2024-01-18, 02:53:59](https://news.ycombinator.com/item?id=39037028) - [Is the Tesla Cybertruck a Dud? An Experienced EV Reviewer Thinks So](https://insideevs.com/features/704825/tesla-cybertruck-review-dud/)
 * [2024-01-18, 02:36:32](https://news.ycombinator.com/item?id=39036858) - [Ask HN: What's the best car without undesirable features?](https://news.ycombinator.com/item?id=39036858)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
@@ -20,5 +22,6 @@
 * [2024-01-18, 00:40:46](https://news.ycombinator.com/item?id=39035849) - [Carta's Scandal Continues – Jerry Talton (Ex. CTO of Carta)](https://twitter.com/itspuru/status/1747778873935213028)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-18, 00:10:03](https://news.ycombinator.com/item?id=39035540) - [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
+* [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [Each Facebook user is monitored by thousands of companies](https://www.consumerreports.org/electronics/privacy/each-facebook-user-is-monitored-by-thousands-of-companies-a5824207467/)
 * [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
 * [2024-01-18, 00:09:06](https://news.ycombinator.com/item?id=39035535) - [Ex-Hertz Tesla Model 3s Cost as Little as $14,000. Would You Buy One?](https://www.thedrive.com/news/ex-hertz-tesla-model-3s-cost-as-little-as-14000-would-you-buy-one)
