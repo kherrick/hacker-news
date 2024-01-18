@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-18, 02:36:32](https://news.ycombinator.com/item?id=39036858) - [Ask HN: What's the best car without undesirable features?](https://news.ycombinator.com/item?id=39036858)
+* [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
 * [2024-01-18, 02:32:20](https://news.ycombinator.com/item?id=39036822) - [Is Kim Jong Un Preparing for War?](https://www.38north.org/2024/01/is-kim-jong-un-preparing-for-war/)
 * [2024-01-18, 02:27:38](https://news.ycombinator.com/item?id=39036774) - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
+* [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [Drought impacting traffic in Panama Canal disrupts global trade](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:55:58](https://news.ycombinator.com/item?id=39036526) - [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
-* [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-18, 00:10:03](https://news.ycombinator.com/item?id=39035540) - [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
 * [2024-01-18, 00:09:31](https://news.ycombinator.com/item?id=39035536) - [48,000 companies sent Facebook data on a single person](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
 * [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
@@ -28,7 +29,6 @@
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 11:07:46](https://news.ycombinator.com/item?id=38999502) - [The Metric Red Herring](http://www.chriswarbo.net/projects/units/metric_red_herring.html)
-* [2024-01-15, 09:52:13](https://news.ycombinator.com/item?id=38999003) - [Seeing a Rose in Five Thousand Ways](https://cs.stanford.edu/~yzzhang/projects/rose/)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - [A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 
 ## [Archives](archives/index.md)
