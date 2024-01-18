@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
+* [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
+* [2024-01-18, 16:05:08](https://news.ycombinator.com/item?id=39043421) - [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
+* [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 15:10:53](https://news.ycombinator.com/item?id=39042626) - [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
 * [2024-01-18, 15:00:08](https://news.ycombinator.com/item?id=39042469) - [Surprise plant cell discovery unlocks human anti-aging potential](https://newatlas.com/biology/plant-cell-discovery-human-anti-aging/)
 * [2024-01-18, 14:59:31](https://news.ycombinator.com/item?id=39042456) - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
@@ -11,6 +15,7 @@
 * [2024-01-18, 14:37:01](https://news.ycombinator.com/item?id=39042139) - [Zig Software Foundation 2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/)
 * [2024-01-18, 14:33:01](https://news.ycombinator.com/item?id=39042094) - [Spotify attacks Apple's 'outrageous' 27% commission](https://www.bbc.com/news/technology-68018618)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
+* [2024-01-18, 14:20:29](https://news.ycombinator.com/item?id=39041942) - [Archaeologists find oldest (14th-century) completely preserved medieval gauntlet](https://www.heritagedaily.com/2024/01/archaeologists-find-intact-medieval-gauntlet/150272)
 * [2024-01-18, 14:10:51](https://news.ycombinator.com/item?id=39041838) - [You Don't Need Health Insurance](https://prigoose.substack.com/p/you-dont-need-health-insurance)
 * [2024-01-18, 13:53:25](https://news.ycombinator.com/item?id=39041661) - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
 * [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
