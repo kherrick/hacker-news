@@ -17,7 +17,6 @@
 * [2024-01-18, 15:54:35](https://news.ycombinator.com/item?id=39043282) - [History Is Written by the Losers](https://scholars-stage.org/history-is-written-by-the-losers/)
 * [2024-01-18, 15:34:12](https://news.ycombinator.com/item?id=39042983) - [An Ancient Woolly Mammoth Left a Diary in Her Tusk](https://www.nytimes.com/2024/01/17/science/woolly-mammoth-tusk-research.html)
 * [2024-01-18, 15:05:49](https://news.ycombinator.com/item?id=39042548) - [The Quest for Simple Rules to Build a Microbial Community](https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/)
-* [2024-01-18, 14:52:38](https://news.ycombinator.com/item?id=39042349) - [No One's Name Was Changed at Ellis Island](https://marginalrevolution.com/marginalrevolution/2024/01/no-ones-name-was-changed-at-ellis-island.html)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues don't fix overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
@@ -30,6 +29,7 @@
 * [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 23:19:32](https://news.ycombinator.com/item?id=39007384) - [Pwned Certificates on the Fediverse](https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html)
+* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 
