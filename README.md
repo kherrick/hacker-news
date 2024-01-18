@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 14:10:51](https://news.ycombinator.com/item?id=39041838) - [You Don't Need Health Insurance](https://prigoose.substack.com/p/you-dont-need-health-insurance)
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2024-01-18, 13:30:14](https://news.ycombinator.com/item?id=39041432) - [Corporations Are Not to Be Loved](https://inessential.com/2024/01/17/corporations_are_not_to_be_loved)
-* [2024-01-18, 13:00:28](https://news.ycombinator.com/item?id=39041146) - [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
 * [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
 * [2024-01-18, 12:21:39](https://news.ycombinator.com/item?id=39040839) - [Study: Field Drug Tests Generate Nearly 30k Bogus Arrests a Year](https://www.techdirt.com/2024/01/17/study-field-drug-tests-generate-nearly-30000-bogus-arrests-a-year/)
 * [2024-01-18, 12:01:17](https://news.ycombinator.com/item?id=39040720) - ['No AI Fraud Act' Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
