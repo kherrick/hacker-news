@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 17:25:43](https://news.ycombinator.com/item?id=39044586) - [What Happened to the US Machine Tool Industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
 * [2024-01-18, 17:06:42](https://news.ycombinator.com/item?id=39044312) - [Snapdragon X elite is faster than MacBook Air M2](https://www.xda-developers.com/snapdragon-x-elite-vs-intel-core-ultra-7-155h/)
 * [2024-01-18, 16:42:40](https://news.ycombinator.com/item?id=39043978) - [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case to legalize single-stair multifamily housing](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)

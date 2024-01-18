@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 17:25:43](https://news.ycombinator.com/item?id=39044586) - [What Happened to the US Machine Tool Industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
 * [2024-01-18, 16:42:40](https://news.ycombinator.com/item?id=39043978) - [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case to legalize single-stair multifamily housing](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)
 * [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping surveillance capitalism, at scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
@@ -29,7 +30,6 @@
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
-* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 
