@@ -30,6 +30,7 @@
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case to legalize single-stair multifamily housing](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)
 * [2024-01-18, 16:38:20](https://news.ycombinator.com/item?id=39043911) - [The value of information gathering in phage–bacteria warfare](https://academic.oup.com/pnasnexus/article/3/1/pgad431/7512761)
 * [2024-01-18, 16:35:59](https://news.ycombinator.com/item?id=39043871) - [The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
+* [2024-01-18, 16:31:44](https://news.ycombinator.com/item?id=39043810) - [Medjed: From Ancient Egypt to Japanese Pop Culture (2017)](https://jgeekstudies.org/archives/vol-42-december-2017/medjed-from-ancient-egypt-to-japanese-pop-culture/)
 * [2024-01-18, 16:19:33](https://news.ycombinator.com/item?id=39043627) - [Math's 'Game of Life' Reveals Long-Sought Repeating Patterns](https://www.quantamagazine.org/maths-game-of-life-reveals-long-sought-repeating-patterns-20240118/)
 * [2024-01-18, 16:15:08](https://news.ycombinator.com/item?id=39043555) - [Hans Reiser Apologies Comments on ReiserFS Deprecation from Prison](https://www.phoronix.com/news/Hans-Reiser-2024)
 * [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
