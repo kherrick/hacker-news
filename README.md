@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
 * [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:20:35](https://news.ycombinator.com/item?id=39045417) - [Ditching PaaS: Why I Went Back to Self-Hosting](https://shubhamjain.co/2023/01/18/ditching-paas-why-i-went-back-to-self-hosting/)
@@ -16,6 +15,7 @@
 * [2024-01-18, 14:20:29](https://news.ycombinator.com/item?id=39041942) - [Archaeologists find intact medieval gauntlet](https://www.heritagedaily.com/2024/01/archaeologists-find-intact-medieval-gauntlet/150272)
 * [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues don't fix overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
+* [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
 * [2024-01-18, 12:21:39](https://news.ycombinator.com/item?id=39040839) - [Study: Field Drug Tests Generate Nearly 30k Bogus Arrests a Year](https://www.techdirt.com/2024/01/17/study-field-drug-tests-generate-nearly-30000-bogus-arrests-a-year/)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
