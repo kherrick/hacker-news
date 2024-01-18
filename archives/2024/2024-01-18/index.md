@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:26:30](https://news.ycombinator.com/item?id=39045544) - [Meta is developing open source AGI, says Zuckerberg](https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/)
+* [2024-01-18, 18:20:35](https://news.ycombinator.com/item?id=39045417) - [Ditching PaaS: Why I Went Back to Self-Hosting](https://shubhamjain.co/2023/01/18/ditching-paas-why-i-went-back-to-self-hosting/)
 * [2024-01-18, 18:05:02](https://news.ycombinator.com/item?id=39045153) - [Meta will have a stockpile of almost 600k GPUs by the end of 2024](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:50:37](https://news.ycombinator.com/item?id=39044932) - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
