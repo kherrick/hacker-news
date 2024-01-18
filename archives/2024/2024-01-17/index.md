@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
 * [2024-01-17, 23:48:01](https://news.ycombinator.com/item?id=39035320) - [Sheryl Sandberg to Leave Meta Platforms Board After 12 Years](https://www.wsj.com/tech/sheryl-sandberg-to-leave-meta-platforms-board-after-12-years-dda56828)
 * [2024-01-17, 23:12:59](https://news.ycombinator.com/item?id=39034951) - [Apple's bad faith 27% tax on web purchases](https://twitter.com/TimSweeneyEpic/status/1747408148799881390)
 * [2024-01-17, 23:00:54](https://news.ycombinator.com/item?id=39034835) - [Coming to Grips with Apple's Seemingly Unshakable Sense of Entitlement](https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement)
