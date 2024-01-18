@@ -2,9 +2,9 @@
 
 * [2024-01-18, 02:53:59](https://news.ycombinator.com/item?id=39037028) - [Is the Tesla Cybertruck a Dud? An Experienced EV Reviewer Thinks So](https://insideevs.com/features/704825/tesla-cybertruck-review-dud/)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
-* [2024-01-18, 02:32:20](https://news.ycombinator.com/item?id=39036822) - [Is Kim Jong Un Preparing for War?](https://www.38north.org/2024/01/is-kim-jong-un-preparing-for-war/)
 * [2024-01-18, 02:27:38](https://news.ycombinator.com/item?id=39036774) - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+* [2024-01-18, 02:09:46](https://news.ycombinator.com/item?id=39036622) - [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [Drought impacting traffic in Panama Canal disrupts global trade](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:55:58](https://news.ycombinator.com/item?id=39036526) - [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
@@ -26,9 +26,9 @@
 * [2024-01-17, 15:05:44](https://news.ycombinator.com/item?id=39028672) - [Apple built iCloud to store billions of databases](https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions)
 * [2024-01-17, 13:44:01](https://news.ycombinator.com/item?id=39027543) - [Show HN: Htmldocs – Typeset and generate pdfs with HTML/CSS](https://htmldocs.com)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
+* [2024-01-17, 12:19:32](https://news.ycombinator.com/item?id=39026710) - [My daily driver is older than I thought; it's positively vintage](https://blog.jgc.org/2024/01/my-daily-driver-is-older-than-i-thought.html)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The Incredible Shrinking Podcast Industry](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
-* [2024-01-15, 11:07:46](https://news.ycombinator.com/item?id=38999502) - [The Metric Red Herring](http://www.chriswarbo.net/projects/units/metric_red_herring.html)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - [A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 
 ## [Archives](archives/index.md)

@@ -72,6 +72,7 @@
 * [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:58](https://news.ycombinator.com/item?id=39026792) - [Is A.I. The Death of I.P.?](https://www.newyorker.com/magazine/2024/01/22/who-owns-this-sentence-a-history-of-copyrights-and-wrongs-david-bellos-alexandre-montagu-book-review)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
+* [2024-01-17, 12:19:32](https://news.ycombinator.com/item?id=39026710) - [My daily driver is older than I thought; it's positively vintage](https://blog.jgc.org/2024/01/my-daily-driver-is-older-than-i-thought.html)
 * [2024-01-17, 12:00:31](https://news.ycombinator.com/item?id=39026574) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-01-17, 11:59:04](https://news.ycombinator.com/item?id=39026565) - [Htmx Is Composable?](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [Bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
