@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
+* [2024-01-18, 19:55:41](https://news.ycombinator.com/item?id=39046761) - [Venture Backed or Bootstrapped? There's a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
+* [2024-01-18, 19:39:36](https://news.ycombinator.com/item?id=39046541) - [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
+* [2024-01-18, 19:38:51](https://news.ycombinator.com/item?id=39046534) - [The Miele Dialog: cook a fish in ice without melting the ice](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)
 * [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
 * [2024-01-18, 19:11:06](https://news.ycombinator.com/item?id=39046193) - [Zuckerberg's Meta Is Spending Billions to Buy 350k Nvidia H100 GPUs](https://www.pcmag.com/news/zuckerbergs-meta-is-spending-billions-to-buy-350000-nvidia-h100-gpus)
 * [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
@@ -14,6 +18,7 @@
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:50:37](https://news.ycombinator.com/item?id=39044932) - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
 * [2024-01-18, 17:40:03](https://news.ycombinator.com/item?id=39044793) - [A Disney Imagineer Will Join the Inventors Hall of Fame](https://thewaltdisneycompany.com/lanny-smoot-to-be-the-first-disney-imagineer-inducted-into-the-national-inventors-hall-of-fame/)
+* [2024-01-18, 17:30:44](https://news.ycombinator.com/item?id=39044663) - [Scalable Pre-Training of Large Autoregressive Image Models (Aim by Apple)](https://github.com/apple/ml-aim)
 * [2024-01-18, 17:25:43](https://news.ycombinator.com/item?id=39044586) - [What Happened to the US Machine Tool Industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
 * [2024-01-18, 17:20:12](https://news.ycombinator.com/item?id=39044498) - [Setback in the \"American Chestnut Project\"](https://www.biowisskomm.de/en/2023/08/eco-gene-technology-the-american-chestnut/)
 * [2024-01-18, 17:06:42](https://news.ycombinator.com/item?id=39044312) - [Snapdragon X elite is faster than MacBook Air M2](https://www.xda-developers.com/snapdragon-x-elite-vs-intel-core-ultra-7-155h/)

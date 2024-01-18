@@ -78,6 +78,7 @@
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
 * [2024-01-15, 14:15:01](https://news.ycombinator.com/item?id=39001210) - [25% of US/Canada trade depends on a single privately owned bridge](https://twitter.com/WillManidis/status/1746894832415719554)
 * [2024-01-15, 13:46:44](https://news.ycombinator.com/item?id=39000905) - [Show HN: BSON Extension for Postgres](https://github.com/buzzm/postgresbson)
+* [2024-01-15, 13:30:37](https://news.ycombinator.com/item?id=39000730) - [Five richest men have doubled their wealth since 2020](https://www.cnbc.com/2024/01/15/worlds-five-richest-men-have-doubled-their-fortunes-since-2020-oxfam.html)
 * [2024-01-15, 13:24:14](https://news.ycombinator.com/item?id=39000665) - [The BeOS Bible (1999)](https://archive.org/details/the-beos-bible/mode/1up)
 * [2024-01-15, 13:22:06](https://news.ycombinator.com/item?id=39000648) - [Paper Pipe Organ (2019) [video]](https://www.youtube.com/watch?v=ujdlxAQw5oA)
 * [2024-01-15, 13:05:15](https://news.ycombinator.com/item?id=39000437) - [Ask HN: Help me solve a dilemma, study in the US or take a job in the EU?](https://news.ycombinator.com/item?id=39000437)
