@@ -97,6 +97,7 @@
 * [2024-01-17, 03:53:50](https://news.ycombinator.com/item?id=39023056) - [BBC BASIC raytracer in 432 characters](https://mastodon.me.uk/@bbcmicrobot/111762132859648345)
 * [2024-01-17, 03:43:35](https://news.ycombinator.com/item?id=39022996) - [ALOHA robot learns from humans to cook, clean, do laundry](https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/)
 * [2024-01-17, 03:28:43](https://news.ycombinator.com/item?id=39022891) - [Keypirinha: A fast launcher for keyboard ninjas on Windows](https://keypirinha.com/)
+* [2024-01-17, 03:27:31](https://news.ycombinator.com/item?id=39022881) - [Decoding the NYC School Admission Lottery Numbers](https://medium.com/algorithms-in-the-wild/decoding-the-nyc-school-admission-lottery-numbers-bae7148e337d)
 * [2024-01-17, 02:59:17](https://news.ycombinator.com/item?id=39022693) - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 * [2024-01-17, 02:47:43](https://news.ycombinator.com/item?id=39022607) - [Show HN: Kolorize – Next-gen AI photo colorizer](https://kolorize.cc/)
 * [2024-01-17, 02:38:51](https://news.ycombinator.com/item?id=39022535) - [Browsh: The modern text-based web browser](https://www.brow.sh/)
