@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=39038368"
     ],
     [
-      "Tailwind CSS: Automatic Class Sorting with Prettier",
+      "Automatic class sorting with Prettier",
       "https://tailwindcss.com/blog/automatic-class-sorting-with-prettier"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 05:11:46",
-      "https://news.ycombinator.com/item?id=39038152"
-    ],
-    [
-      "Tembo Operator: a Rust-Based Kubernetes Operator for Postgres",
-      "https://tembo.io/blog/tembo-operator/"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "Htmx and Web Components: A Perfect Match",
       "https://binaryigor.com/htmx-and-web-components-a-perfect-match.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 02:14:48",
+      "https://news.ycombinator.com/item?id=39036659"
+    ],
+    [
+      "Show HN: Muse, a CLI background music player",
+      "https://github.com/aabiji/muse"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2024-01-17, 18:00:42",
-      "https://news.ycombinator.com/item?id=39031152"
+      "2024-01-17, 18:33:45",
+      "https://news.ycombinator.com/item?id=39031555"
     ],
     [
-      "Machine embroidery of light-emitting textiles with electroluminescent threads",
-      "https://www.science.org/doi/10.1126/sciadv.adk4295"
+      "How to Design an ISA",
+      "https://queue.acm.org/detail.cfm?id=3639445"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39002041"
     ],
     [
-      "Operating on Infinite Lists",
+      "Operating on infinite lists",
       "https://notes.jordanscales.com/infinite-lists"
     ]
   ],
