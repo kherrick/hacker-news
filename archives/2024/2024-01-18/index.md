@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:26:30](https://news.ycombinator.com/item?id=39045544) - [Meta is developing open source AGI, says Zuckerberg](https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/)
 * [2024-01-18, 18:05:02](https://news.ycombinator.com/item?id=39045153) - [Meta will have a stockpile of almost 600k GPUs by the end of 2024](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
@@ -17,6 +18,7 @@
 * [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
 * [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
 * [2024-01-18, 16:05:08](https://news.ycombinator.com/item?id=39043421) - [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
+* [2024-01-18, 16:04:21](https://news.ycombinator.com/item?id=39043408) - ['Stablecoins' Enabled $40B in Crypto Crime Since 2022](https://www.wired.com/story/stablecoin-sanctions-violations-crypto-crime/)
 * [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 15:10:53](https://news.ycombinator.com/item?id=39042626) - [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
 * [2024-01-18, 15:00:08](https://news.ycombinator.com/item?id=39042469) - [Surprise plant cell discovery unlocks human anti-aging potential](https://newatlas.com/biology/plant-cell-discovery-human-anti-aging/)
