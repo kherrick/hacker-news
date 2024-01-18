@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 08:04:38](https://news.ycombinator.com/item?id=39039209) - [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
 * [2024-01-18, 07:01:14](https://news.ycombinator.com/item?id=39038850) - [Self-Consuming Generative Models Go Mad](https://arxiv.org/abs/2307.01850)
 * [2024-01-18, 07:00:35](https://news.ycombinator.com/item?id=39038845) - [Wasmer (YC S19) Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
 * [2024-01-18, 06:06:35](https://news.ycombinator.com/item?id=39038494) - [Show HN: I Built an AI-Powered Headshot Generator](https://magickimg.com/headshot/)
