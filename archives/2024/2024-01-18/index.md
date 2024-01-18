@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 17:06:42](https://news.ycombinator.com/item?id=39044312) - [Snapdragon X elite is faster than MacBook Air M2](https://www.xda-developers.com/snapdragon-x-elite-vs-intel-core-ultra-7-155h/)
+* [2024-01-18, 16:42:40](https://news.ycombinator.com/item?id=39043978) - [Jake Archibald on the web browser event loop, setTimeout, micro tasks [video]](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
 * [2024-01-18, 16:14:28](https://news.ycombinator.com/item?id=39043547) - [Escaping Surveillance Capitalism, at Scale](https://ergaster.org/posts/2024/01/18-escaping-surveillance-capitalism-at-scale/)
 * [2024-01-18, 16:08:35](https://news.ycombinator.com/item?id=39043469) - [Scrooge McDuck: The first image on the first Macintosh (1980)](https://folklore.org/Scrooge_McDuck.html?sort=date)
 * [2024-01-18, 16:05:08](https://news.ycombinator.com/item?id=39043421) - [IBM scraps rewards program for staff inventions, wipes away cash points](https://www.theregister.com/2024/01/17/ibm_inventor_reward_program/)
