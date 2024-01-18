@@ -18,6 +18,7 @@
 * [2024-01-18, 02:29:58](https://news.ycombinator.com/item?id=39036796) - [WhisperSpeech – An Open Source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
 * [2024-01-18, 02:27:38](https://news.ycombinator.com/item?id=39036774) - [Portable Web Documents – An Alternative to PDF Based on HTML5 and Web Standards](https://getpolarized.io/2019/05/11/portable-web-documents.html)
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+* [2024-01-18, 02:14:48](https://news.ycombinator.com/item?id=39036659) - [Show HN: Muse, a CLI background music player](https://github.com/aabiji/muse)
 * [2024-01-18, 02:09:46](https://news.ycombinator.com/item?id=39036622) - [Can Ultraviolet lightbulbs end the next pandemic before it starts?](https://www.vox.com/the-highlight/23972651/ultraviolet-disinfection-germicide-far-uv)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [Drought impacting traffic in Panama Canal disrupts global trade](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:55:58](https://news.ycombinator.com/item?id=39036526) - [Hospitals owned by private equity are harming patients, reports find](https://arstechnica.com/health/2024/01/hospitals-slash-staff-services-quality-of-care-when-private-equity-takes-over/)
