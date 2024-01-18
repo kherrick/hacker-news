@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Tailwind CSS: Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 * [2024-01-18, 05:11:46](https://news.ycombinator.com/item?id=39038152) - [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
 * [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
@@ -27,7 +28,6 @@
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-16, 18:31:32](https://news.ycombinator.com/item?id=39016797) - [How did the tiny Alaska village of Chicken get its name?](https://www.adn.com/alaska-life/2024/01/14/how-did-the-tiny-alaska-village-of-chicken-get-its-name/)
 * [2024-01-15, 15:31:08](https://news.ycombinator.com/item?id=39002041) - [Operating on Infinite Lists](https://notes.jordanscales.com/infinite-lists)
-* [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The incredible shrinking podcast industry?](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - ['A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
 

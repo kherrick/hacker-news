@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Tailwind CSS: Automatic Class Sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 * [2024-01-18, 05:11:46](https://news.ycombinator.com/item?id=39038152) - [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
 * [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote Work Doesn't Seem to Affect Productivity, Fed Study Finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
