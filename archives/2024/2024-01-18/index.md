@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 02:53:59](https://news.ycombinator.com/item?id=39037028) - [Is the Tesla Cybertruck a Dud? An Experienced EV Reviewer Thinks So](https://insideevs.com/features/704825/tesla-cybertruck-review-dud/)
 * [2024-01-18, 02:36:32](https://news.ycombinator.com/item?id=39036858) - [Ask HN: What's the best car without undesirable features?](https://news.ycombinator.com/item?id=39036858)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son – Lars Doucet](https://www.fortressofdoors.com/i-lost-my-son/)
 * [2024-01-18, 02:32:20](https://news.ycombinator.com/item?id=39036822) - [Is Kim Jong Un Preparing for War?](https://www.38north.org/2024/01/is-kim-jong-un-preparing-for-war/)
