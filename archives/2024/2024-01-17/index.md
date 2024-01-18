@@ -81,6 +81,7 @@
 * [2024-01-17, 11:50:29](https://news.ycombinator.com/item?id=39026508) - [Solving the Dining Philosophers Problem with Systemd – Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
 * [2024-01-17, 11:44:12](https://news.ycombinator.com/item?id=39026455) - [Why don't schools teach debugging, or, more fundamentally, fundamentals?](https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/)
 * [2024-01-17, 11:28:29](https://news.ycombinator.com/item?id=39026349) - [At 93, he's as fit as a 40-year-old. His body offers lessons on aging](https://www.msn.com/en-us/health/other/at-93-he-s-as-fit-as-a-40-year-old-his-body-offers-lessons-on-aging/ar-AA1n3CkD)
+* [2024-01-17, 11:19:18](https://news.ycombinator.com/item?id=39026287) - [I ended up making my own mattress](https://blog.taoetc.org/why_i_ended_up_making_my_own_mattress/index.html)
 * [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
 * [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)

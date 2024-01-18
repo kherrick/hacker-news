@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-18, 09:21:17](https://news.ycombinator.com/item?id=39039712) - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
-* [2024-01-18, 09:18:36](https://news.ycombinator.com/item?id=39039694) - [Electric cars suffer 'unsustainable' depreciation in secondhand market](https://www.telegraph.co.uk/business/2024/01/18/used-electric-cars-lose-half-value-after-three-years/)
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
 * [2024-01-18, 08:04:38](https://news.ycombinator.com/item?id=39039209) - [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
 * [2024-01-18, 07:01:14](https://news.ycombinator.com/item?id=39038850) - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
@@ -27,6 +26,7 @@
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-17, 11:50:29](https://news.ycombinator.com/item?id=39026508) - [Solving the Dining Philosophers Problem with Systemd – Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
+* [2024-01-17, 11:19:18](https://news.ycombinator.com/item?id=39026287) - [I ended up making my own mattress](https://blog.taoetc.org/why_i_ended_up_making_my_own_mattress/index.html)
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 * [2024-01-15, 06:21:04](https://news.ycombinator.com/item?id=38997930) - ['A mouse for your mouth': New device allows users to scroll with their tongues](https://www.nbcnews.com/tech/tech-news/tongue-controlled-touchscreens-hit-market-year-rcna133270)
