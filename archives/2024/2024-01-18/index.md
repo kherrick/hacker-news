@@ -21,6 +21,7 @@
 * [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear Transformers Are Faster After All](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:25:38](https://news.ycombinator.com/item?id=39036282) - [Rare near mint/mint copy of the Spider-Man No 1 sells for more than £1M](https://www.theguardian.com/books/2024/jan/17/rare-copy-of-the-amazing-spider-man-no-1-sells-for-more-than-1m)
 * [2024-01-18, 01:25:11](https://news.ycombinator.com/item?id=39036276) - [Everyone always talks about AI girlfriends. What about AI boyfriends?](https://default.blog/p/ai-girlfriends-what-about-ai-boyfriends)
+* [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-18, 00:40:46](https://news.ycombinator.com/item?id=39035849) - [Carta's Scandal Continues – Jerry Talton (Ex. CTO of Carta)](https://twitter.com/itspuru/status/1747778873935213028)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-18, 00:10:03](https://news.ycombinator.com/item?id=39035540) - [Samsung Extends Android and Security Updates to 7 Years](https://www.cnet.com/tech/mobile/samsung-extends-android-and-security-updates-to-7-years/)
