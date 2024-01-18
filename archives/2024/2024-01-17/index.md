@@ -90,6 +90,7 @@
 * [2024-01-17, 11:19:18](https://news.ycombinator.com/item?id=39026287) - [I ended up making my own mattress](https://blog.taoetc.org/why_i_ended_up_making_my_own_mattress/index.html)
 * [2024-01-17, 10:28:12](https://news.ycombinator.com/item?id=39025915) - [Plantwatch: The organism so tough it can survive in space](https://www.theguardian.com/science/2024/jan/17/plantwatch-the-strange-organism-so-tough-it-can-survive-in-space)
 * [2024-01-17, 10:01:31](https://news.ycombinator.com/item?id=39025713) - [Mesh shaders on RDNA graphics cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index/)
+* [2024-01-17, 09:51:43](https://news.ycombinator.com/item?id=39025631) - [Random Animations](https://bleuje.com/randomanimations/)
 * [2024-01-17, 09:42:31](https://news.ycombinator.com/item?id=39025561) - [My New Computer](https://blog.taoetc.org/)
 * [2024-01-17, 08:44:56](https://news.ycombinator.com/item?id=39025043) - [BFF, Backend for Frontends](https://aien.me/simplifying-complex-systems-with-backend-for-frontends-bff/)
 * [2024-01-17, 08:32:07](https://news.ycombinator.com/item?id=39024934) - [Electric vehicles will need 'battery passports' to enter EU from 2027](https://www.autocar.co.uk/car-news/electric-cars/battery-passports)

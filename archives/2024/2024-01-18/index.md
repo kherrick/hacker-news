@@ -32,6 +32,7 @@
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:50:37](https://news.ycombinator.com/item?id=39044932) - [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
 * [2024-01-18, 17:40:03](https://news.ycombinator.com/item?id=39044793) - [A Disney Imagineer Will Join the Inventors Hall of Fame](https://thewaltdisneycompany.com/lanny-smoot-to-be-the-first-disney-imagineer-inducted-into-the-national-inventors-hall-of-fame/)
+* [2024-01-18, 17:35:11](https://news.ycombinator.com/item?id=39044727) - [Virtual tour of Museum of Failure](https://collection.museumoffailure.com/)
 * [2024-01-18, 17:30:44](https://news.ycombinator.com/item?id=39044663) - [Scalable Pre-Training of Large Autoregressive Image Models (Aim by Apple)](https://github.com/apple/ml-aim)
 * [2024-01-18, 17:25:43](https://news.ycombinator.com/item?id=39044586) - [What Happened to the US Machine Tool Industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
 * [2024-01-18, 17:20:12](https://news.ycombinator.com/item?id=39044498) - [Setback in the \"American Chestnut Project\"](https://www.biowisskomm.de/en/2023/08/eco-gene-technology-the-american-chestnut/)
