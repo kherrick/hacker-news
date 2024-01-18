@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 14:59:31](https://news.ycombinator.com/item?id=39042456) - [PostgreSQL Operations Cheat Sheet: featuring security, scaling, structure, etc.](https://wiki.postgresql.org/wiki/Operations_cheat_sheet)
+* [2024-01-18, 14:46:40](https://news.ycombinator.com/item?id=39042260) - [Google News Is Boosting Garbage AI-Generated Articles](https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/)
+* [2024-01-18, 14:33:01](https://news.ycombinator.com/item?id=39042094) - [Spotify attacks Apple's 'outrageous' 27% commission](https://www.bbc.com/news/technology-68018618)
+* [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-18, 14:10:51](https://news.ycombinator.com/item?id=39041838) - [You Don't Need Health Insurance](https://prigoose.substack.com/p/you-dont-need-health-insurance)
 * [2024-01-18, 13:53:25](https://news.ycombinator.com/item?id=39041661) - [A new kind of climate denial has taken over on YouTube](https://www.theverge.com/2024/1/16/24040015/youtube-google-climate-change-new-denial-advertising-report)
+* [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2024-01-18, 13:30:14](https://news.ycombinator.com/item?id=39041432) - [Corporations Are Not to Be Loved](https://inessential.com/2024/01/17/corporations_are_not_to_be_loved)
 * [2024-01-18, 13:18:37](https://news.ycombinator.com/item?id=39041310) - [Memory Loss from TBI Reversed](https://neurosciencenews.com/tbi-amnesia-reversed-25464/)
