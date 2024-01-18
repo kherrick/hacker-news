@@ -95,6 +95,7 @@
 * [2024-01-15, 11:07:46](https://news.ycombinator.com/item?id=38999502) - [The Metric Red Herring](http://www.chriswarbo.net/projects/units/metric_red_herring.html)
 * [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
+* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 * [2024-01-15, 09:52:13](https://news.ycombinator.com/item?id=38999003) - [Seeing a Rose in Five Thousand Ways](https://cs.stanford.edu/~yzzhang/projects/rose/)
 * [2024-01-15, 09:35:50](https://news.ycombinator.com/item?id=38998914) - [Exploring Object File Formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 09:12:56](https://news.ycombinator.com/item?id=38998782) - [Why are cars designed to be capable of going much faster than the speed limit?](https://www.theguardian.com/lifeandstyle/2024/jan/14/why-are-cars-designed-to-be-capable-of-going-much-faster-than-the-speed-limit)
