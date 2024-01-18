@@ -96,6 +96,7 @@
 * [2024-01-17, 07:00:11](https://news.ycombinator.com/item?id=39024215) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39024215)
 * [2024-01-17, 06:59:52](https://news.ycombinator.com/item?id=39024211) - [Cloned rhesus monkey lives to adulthood for first time](https://www.nature.com/articles/d41586-024-00136-2)
 * [2024-01-17, 06:51:30](https://news.ycombinator.com/item?id=39024148) - [Technitium DNS Server: Self host a DNS server for privacy and security](https://technitium.com/dns/)
+* [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 06:00:16](https://news.ycombinator.com/item?id=39023817) - [Is There Any Benefit to Multivitamins?](https://www.hopkinsmedicine.org/health/wellness-and-prevention/is-there-really-any-benefit-to-multivitamins)
 * [2024-01-17, 05:39:21](https://news.ycombinator.com/item?id=39023702) - [I regret selling my startup](https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/)
 * [2024-01-17, 05:39:09](https://news.ycombinator.com/item?id=39023700) - [Technitium: Secure, anonymous, P2P, open source, instant messenger](https://technitium.com/)
