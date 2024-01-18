@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-18, 12:20:30",
+      "https://news.ycombinator.com/item?id=39040828"
+    ],
+    [
+      "Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]",
+      "https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 12:01:17",
       "https://news.ycombinator.com/item?id=39040720"
     ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=39039588"
     ],
     [
-      "A Million Ways to Die on the Web",
+      "Ways to die on the web",
       "https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 07:01:14",
-      "https://news.ycombinator.com/item?id=39038850"
-    ],
-    [
-      "Self-Consuming Generative Models Go MAD",
-      "https://arxiv.org/abs/2307.01850"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-01-18, 02:27:38",
+      "https://news.ycombinator.com/item?id=39036774"
+    ],
+    [
+      "Portable Web Documents – An Alternative to PDF Based on HTML5 (2019)",
+      "https://getpolarized.io/2019/05/11/portable-web-documents.html"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 02:18:47",
       "https://news.ycombinator.com/item?id=39036693"
     ],
@@ -167,16 +177,6 @@
     [
       "Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?",
       "https://news.ycombinator.com/item?id=39035650"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 00:09:31",
-      "https://news.ycombinator.com/item?id=39035536"
-    ],
-    [
-      "Each Facebook user is monitored by thousands of companies",
-      "https://www.consumerreports.org/electronics/privacy/each-facebook-user-is-monitored-by-thousands-of-companies-a5824207467/"
     ]
   ],
   [
@@ -255,8 +255,8 @@
       "https://news.ycombinator.com/item?id=39026508"
     ],
     [
-      "Solving the Dining Philosophers Problem with Systemd – Part 3",
-      "https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/"
+      "Solving the Dining Philosophers Problem with Systemd",
+      "https://www.brightbox.com/blog/2024/01/10/solving-dining-philosophers-with-systemd-part-1/"
     ]
   ],
   [
