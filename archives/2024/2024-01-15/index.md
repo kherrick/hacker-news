@@ -89,6 +89,7 @@
 * [2024-01-15, 11:33:27](https://news.ycombinator.com/item?id=38999668) - [Norwegian: Bokmål vs. Nynorsk](https://www.sprakradet.no/Vi-og-vart/Om-oss/English-and-other-languages/English/norwegian-bokmal-vs.-nynorsk/)
 * [2024-01-15, 11:21:34](https://news.ycombinator.com/item?id=38999597) - [Heads up – effectively offline for now](https://lkml.iu.edu/hypermail/linux/kernel/2401.1/06297.html)
 * [2024-01-15, 11:09:48](https://news.ycombinator.com/item?id=38999517) - [Five richest men double their money as poorest get poorer](https://www.theguardian.com/inequality/2024/jan/15/worlds-five-richest-men-double-their-money-as-poorest-get-poorer)
+* [2024-01-15, 11:07:46](https://news.ycombinator.com/item?id=38999502) - [The Metric Red Herring](http://www.chriswarbo.net/projects/units/metric_red_herring.html)
 * [2024-01-15, 11:04:50](https://news.ycombinator.com/item?id=38999485) - [Ask HN: Why am I suddenly unemployable?](https://news.ycombinator.com/item?id=38999485)
 * [2024-01-15, 10:54:21](https://news.ycombinator.com/item?id=38999428) - [Beaver Drop](https://en.wikipedia.org/wiki/Beaver_drop)
 * [2024-01-15, 09:52:13](https://news.ycombinator.com/item?id=38999003) - [Seeing a Rose in Five Thousand Ways](https://cs.stanford.edu/~yzzhang/projects/rose/)
