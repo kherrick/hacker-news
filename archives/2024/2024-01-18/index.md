@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
+* [2024-01-18, 19:11:06](https://news.ycombinator.com/item?id=39046193) - [Zuckerberg's Meta Is Spending Billions to Buy 350k Nvidia H100 GPUs](https://www.pcmag.com/news/zuckerbergs-meta-is-spending-billions-to-buy-350000-nvidia-h100-gpus)
 * [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:26:30](https://news.ycombinator.com/item?id=39045544) - [Meta is developing open source AGI, says Zuckerberg](https://venturebeat.com/ai/meta-is-all-in-on-open-source-agi-says-zuckerberg/)
