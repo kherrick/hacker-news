@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 21:58:46](https://news.ycombinator.com/item?id=39048409) - [\"432 Hz tuned music can decrease heart rate more than 440 Hz tuned music\"](https://pubmed.ncbi.nlm.nih.gov/31031095/)
+* [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:43:56](https://news.ycombinator.com/item?id=39048228) - [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
 * [2024-01-18, 21:37:07](https://news.ycombinator.com/item?id=39048120) - [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
-* [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long-term vision is to build general intelligence and open-source it.](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
+* [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
+* [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the Code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
-* [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
 * [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 * [2024-01-18, 20:01:48](https://news.ycombinator.com/item?id=39046838) - [German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
@@ -17,7 +19,6 @@
 * [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 15:54:35](https://news.ycombinator.com/item?id=39043282) - [History Is Written by the Losers (2016)](https://scholars-stage.org/history-is-written-by-the-losers/)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
-* [2024-01-18, 13:38:02](https://news.ycombinator.com/item?id=39041520) - [Identifying Rust's collect:<Vec<_>>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues don't fix overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
@@ -29,7 +30,6 @@
 * [2024-01-17, 06:45:15](https://news.ycombinator.com/item?id=39024102) - [White space does matter in C23](https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/)
 * [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 23:19:32](https://news.ycombinator.com/item?id=39007384) - [Pwned Certificates on the Fediverse](https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html)
-* [2024-01-15, 10:02:26](https://news.ycombinator.com/item?id=38999069) - [Polymorphic Types in C [pdf]](https://open-std.org/JTC1/SC22/WG14/www/docs/n3212.pdf)
 
 ## [Archives](archives/index.md)
 

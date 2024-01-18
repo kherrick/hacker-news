@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 21:58:46](https://news.ycombinator.com/item?id=39048409) - [\"432 Hz tuned music can decrease heart rate more than 440 Hz tuned music\"](https://pubmed.ncbi.nlm.nih.gov/31031095/)
+* [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:43:56](https://news.ycombinator.com/item?id=39048228) - [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
 * [2024-01-18, 21:37:07](https://news.ycombinator.com/item?id=39048120) - [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
+* [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 * [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long term vision is to build general intelligence, open source it](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
 * [2024-01-18, 20:33:28](https://news.ycombinator.com/item?id=39047264) - [A Runaway Greenhouse Effect on Earth Is Unlikely](https://www.youtube.com/watch?v=oWS48a3LmR0)
+* [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the Code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 20:16:10](https://news.ycombinator.com/item?id=39047024) - [Coinbase tells judge that buying crypto is just like collecting Beanie Babies](https://markets.businessinsider.com/news/currencies/coinbase-crypto-judge-buying-beanie-babies-court-argument-judge-bitcoin-2024-1)
 * [2024-01-18, 20:08:20](https://news.ycombinator.com/item?id=39046930) - [Norwegian youth win climate court case against the Norwegian State](https://www.greenpeace.org/international/press-release/64831/environmental-youth-groups-win-climate-court-case-against-norwegian-state/)
 * [2024-01-18, 20:05:28](https://news.ycombinator.com/item?id=39046897) - [The Problem Is Not Plagiarism, but Cargo Cult Science](https://unfashionable.blog/p/cargo-cult-science)
