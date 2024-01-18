@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 13:18:37](https://news.ycombinator.com/item?id=39041310) - [Memory Loss from TBI Reversed](https://neurosciencenews.com/tbi-amnesia-reversed-25464/)
 * [2024-01-18, 13:03:27](https://news.ycombinator.com/item?id=39041174) - [Canadian Citizen Gets Phone Back from Police](https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html)
 * [2024-01-18, 13:00:28](https://news.ycombinator.com/item?id=39041146) - [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
 * [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
@@ -18,7 +19,6 @@
 * [2024-01-18, 02:18:47](https://news.ycombinator.com/item?id=39036693) - [Htmx and Web Components: A Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 02:00:44](https://news.ycombinator.com/item?id=39036563) - [A drought has forced authorities to further slash traffic in Panama Canal](https://www.westerninvestor.com/national-business/a-drought-has-forced-authorities-to-further-slash-traffic-in-panama-canal-disrupting-global-trade-8126368)
 * [2024-01-18, 01:53:53](https://news.ycombinator.com/item?id=39036516) - [Mexican Whiskey Is on the Rise, Powered by Ancient Corn](https://www.nytimes.com/2024/01/11/dining/drinks/mexican-whiskey.html)
-* [2024-01-18, 01:35:27](https://news.ycombinator.com/item?id=39036355) - [Linear transformers are faster after all](https://manifestai.com/blogposts/faster-after-all/)
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-18, 00:21:00](https://news.ycombinator.com/item?id=39035650) - [Ask HN: 9-yo son wants to build a game, I'm lost. What can I do?](https://news.ycombinator.com/item?id=39035650)
 * [2024-01-17, 23:52:24](https://news.ycombinator.com/item?id=39035373) - [ARM's \"Blackhawk\" CPU Is a Plan to Have the Best Smartphone CPU Core](https://moorinsightsstrategy.com/research-notes/research-note-arms-blackhawk-cpu-is-an-audacious-plan-to-have-the-best-smartphone-cpu-core-this-year/)
