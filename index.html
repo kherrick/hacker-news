@@ -129,23 +129,203 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39042456">
+          <h3>
+            <a
+              class="item"
+              href="https://wiki.postgresql.org/wiki/Operations_cheat_sheet"
+              >PostgreSQL Operations Cheat Sheet: featuring security, scaling,
+              structure, etc.</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-18 @ 14:59:31</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39042456"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39042260">
+          <h3>
+            <a
+              class="item"
+              href="https://www.404media.co/google-news-is-boosting-garbage-ai-generated-articles/"
+              >Google News Is Boosting Garbage AI-Generated Articles</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-18 @ 14:46:40</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39042260"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39042094">
+          <h3>
+            <a class="item" href="https://www.bbc.com/news/technology-68018618"
+              >Spotify attacks Apple's 'outrageous' 27% commission</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-18 @ 14:33:01</span
+              ><span class="points-container"
+                >Points: <span class="points">66</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39042094"
+                  >Comments</a
+                ><span class="descendants">: 40</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39042093">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39042093"
+              >Launch HN: Talc AI (YC S23) – Test Sets for AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-18 @ 14:32:55</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39042093"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://talc.ai/demo">https://talc.ai/demo</a>
+              <p>
+                We’ve found that it's very difficult to know how well LLM
+                applications (and especially RAG systems) are going to work in
+                the wild. Many companies tackle this by having developers or
+                contractors run tests manually. It’s a slow process that holds
+                back development, and often results in unexpected behavior when
+                the application ships.
+              </p>
+              <p>
+                We’ve dealt with similar problems before; Max was a staff
+                engineer working on systematic technical solutions for privacy
+                problems at facebook, and Matt worked on ML ops on facebooks’
+                election integrity team, helping run classifiers that handled
+                trillions of data points. We learned that even the best
+                predictive systems need to be deeply understood and trusted to
+                be useful to product teams, and set out to build the same
+                understanding in AI.
+              </p>
+              <p>
+                To solve this, we take ideas from academia on how to benchmark
+                the general capabilities of language models, and apply them to
+                generating domain specific test cases that run against your
+                actual prompts and code.
+              </p>
+              <p>
+                Consider an analogy: If you’re a lawyer, we don’t need to be
+                lawyers to open up a legal textbook and test your knowledge of
+                the content. Similarly if you’re building a legal AI
+                application, we don’t need to build your application to come up
+                with an effective set of tests that can benchmark your
+                performance.
+              </p>
+              <p>
+                To make this more concrete - when you pick a topic in the demo,
+                we grab the associated wikipedia page and extract a bunch of
+                facts from it using a classic NLP technique called “named entity
+                recognition”. For example if you picked FreeBASIC, we might
+                extract the following line from it:
+              </p>
+              <p></p>
+              <pre><code>    Source of truth: "IDEs specifically made for FreeBASIC include FBide and FbEdit,[5] while more graphical options include WinFBE Suite and VisualFBEditor." 
+
+</code></pre>
+              This line is our source of truth. We then use an LLM to work
+              backwards from this fact into a question and answer:
+              <p></p>
+              <pre><code>    Question: "What programming language are the IDEs WinFBE Suite and FbEdit designed to support?"
+    Reference Answer: "FreeBasic"
+
+</code></pre>
+              We can then evaluate accurately by comparing the reference answer
+              and the original source of truth– this is how we generate “simple”
+              questions in the demo.
+              <p>
+                In production we’re building this same functionality on our
+                customers' knowledge base instead of wikipedia. We then employ a
+                few different strategies to generate questions – these range
+                from simple factual questions like “how much does the 2024 chevy
+                tahoe cost”, to complex questions like “What would a mechanic
+                have to do to fix the recall on my 2018 Golf?” These questions
+                are based on facts extracted from your knowledge base and real
+                customer examples.
+              </p>
+              <p>
+                This testing and grading process is fast – it’s driven by a
+                mixture of LLMs and traditional algorithms, and can turn around
+                in minutes. Our business model is pretty simple - we charge for
+                each test created. If you opt to use our grading product as well
+                we charge for each example graded against the test.
+              </p>
+              <p>
+                We’re excited to hear what the HN community thinks – please let
+                us know in the comments if you have any feedback, questions or
+                concerns!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39041520">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html"
+              >Identifying Rust's collect:&amp;gt;() memory leak footgun</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-18 @ 13:38:02</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39041520"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39041477">
           <h3>
             <a
               class="item"
               href="https://ferd.ca/queues-don-t-fix-overload.html"
-              >Queues Don't Fix Overload (2014)</a
+              >Queues don't fix overload (2014)</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-01-18 @ 13:33:52</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39041477"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -162,32 +342,11 @@
             <h4>
               <span>2024-01-18 @ 13:30:14</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39041432"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39041206">
-          <h3>
-            <a
-              class="item"
-              href="https://arstechnica.com/features/2024/01/how-a-27-year-old-busted-the-myth-of-bitcoins-anonymity/"
-              >A 27-year-old busted the myth of Bitcoin's anonymity</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-18 @ 13:07:45</span
-              ><span class="points-container"
-                >Points: <span class="points">12</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39041206"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -205,11 +364,11 @@
             <h4>
               <span>2024-01-18 @ 12:54:29</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39041106"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -227,11 +386,11 @@
             <h4>
               <span>2024-01-18 @ 12:21:39</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39040839"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -249,11 +408,11 @@
             <h4>
               <span>2024-01-18 @ 12:01:17</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39040720"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -275,28 +434,6 @@
             </h4>
           </section>
         </section>
-        <section id="39039712">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes"
-              >Fixing Horizon bugs would have been too costly, Post Office
-              inquiry told</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-18 @ 09:21:17</span
-              ><span class="points-container"
-                >Points: <span class="points">72</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39039712"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="39039588">
           <h3>
             <a
@@ -309,11 +446,11 @@
             <h4>
               <span>2024-01-18 @ 09:02:49</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39039588"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -330,11 +467,11 @@
             <h4>
               <span>2024-01-18 @ 05:46:25</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39038368"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -352,32 +489,11 @@
             <h4>
               <span>2024-01-18 @ 03:55:56</span
               ><span class="points-container"
-                >Points: <span class="points">516</span></span
+                >Points: <span class="points">529</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39037589"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39037216">
-          <h3>
-            <a
-              class="item"
-              href="https://ensembleanalytics.io/blog/open-table-formats-inevitable"
-              >Open table formats are inevitable for analytical datasets</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-18 @ 03:12:44</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39037216"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 311</span></span
               >
             </h4>
           </section>
@@ -394,11 +510,11 @@
             <h4>
               <span>2024-01-18 @ 02:34:24</span
               ><span class="points-container"
-                >Points: <span class="points">1544</span></span
+                >Points: <span class="points">1573</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39036842"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 222</span></span
               >
             </h4>
           </section>
@@ -414,32 +530,11 @@
             <h4>
               <span>2024-01-18 @ 02:29:58</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">328</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39036796"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39036693">
-          <h3>
-            <a
-              class="item"
-              href="https://binaryigor.com/htmx-and-web-components-a-perfect-match.html"
-              >Htmx and Web Components: A Perfect Match</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-18 @ 02:18:47</span
-              ><span class="points-container"
-                >Points: <span class="points">205</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39036693"
-                  >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -457,11 +552,11 @@
             <h4>
               <span>2024-01-18 @ 02:00:44</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39036563"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -478,7 +573,7 @@
             <h4>
               <span>2024-01-18 @ 01:35:27</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39036355"
                   >Comments</a
@@ -498,7 +593,7 @@
             <h4>
               <span>2024-01-18 @ 01:24:28</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39036265"
                   >Comments</a
@@ -518,11 +613,11 @@
             <h4>
               <span>2024-01-18 @ 00:21:00</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39035650"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 310</span></span
               >
             </h4>
             <div class="text">
@@ -567,11 +662,11 @@
             <h4>
               <span>2024-01-18 @ 00:09:31</span
               ><span class="points-container"
-                >Points: <span class="points">245</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39035536"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 106</span></span
               >
             </h4>
           </section>
@@ -589,11 +684,11 @@
             <h4>
               <span>2024-01-17 @ 23:52:24</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39035373"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -611,11 +706,11 @@
             <h4>
               <span>2024-01-17 @ 22:03:15</span
               ><span class="points-container"
-                >Points: <span class="points">1057</span></span
+                >Points: <span class="points">1062</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39034160"
                   >Comments</a
-                ><span class="descendants">: 233</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
           </section>
@@ -630,7 +725,7 @@
             <h4>
               <span>2024-01-17 @ 18:33:45</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39031555"
                   >Comments</a
@@ -672,7 +767,7 @@
             <h4>
               <span>2024-01-17 @ 16:22:17</span
               ><span class="points-container"
-                >Points: <span class="points">507</span></span
+                >Points: <span class="points">508</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39029801"
                   >Comments</a
@@ -696,28 +791,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39026551"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39025043">
-          <h3>
-            <a
-              class="item"
-              href="https://aien.me/simplifying-complex-systems-with-backend-for-frontends-bff/"
-              >BFF, Backend for Frontends</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-17 @ 08:44:56</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39025043"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -751,11 +825,11 @@
             <h4>
               <span>2024-01-15 @ 14:15:48</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39001216"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -776,7 +850,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=38999069"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
