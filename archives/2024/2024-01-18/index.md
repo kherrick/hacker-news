@@ -9,6 +9,7 @@
 * [2024-01-18, 13:33:52](https://news.ycombinator.com/item?id=39041477) - [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2024-01-18, 13:30:14](https://news.ycombinator.com/item?id=39041432) - [Corporations Are Not to Be Loved](https://inessential.com/2024/01/17/corporations_are_not_to_be_loved)
 * [2024-01-18, 13:18:37](https://news.ycombinator.com/item?id=39041310) - [Memory Loss from TBI Reversed](https://neurosciencenews.com/tbi-amnesia-reversed-25464/)
+* [2024-01-18, 13:07:45](https://news.ycombinator.com/item?id=39041206) - [A 27-year-old busted the myth of Bitcoin's anonymity](https://arstechnica.com/features/2024/01/how-a-27-year-old-busted-the-myth-of-bitcoins-anonymity/)
 * [2024-01-18, 13:03:27](https://news.ycombinator.com/item?id=39041174) - [Canadian Citizen Gets Phone Back from Police](https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html)
 * [2024-01-18, 13:00:28](https://news.ycombinator.com/item?id=39041146) - [Bing Gained Less Than 1% Market Share Since Adding Bing Chat](https://www.seroundtable.com/bing-market-share-chatgpt-36751.html)
 * [2024-01-18, 12:54:29](https://news.ycombinator.com/item?id=39041106) - [Researcher uncovers one of the biggest password dumps in recent history](https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/)
