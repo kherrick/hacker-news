@@ -70,6 +70,7 @@
 * [2024-01-17, 13:35:21](https://news.ycombinator.com/item?id=39027430) - [Possible Room Temperature Superconductor Replicated by Two Independent Labs](https://twitter.com/andercot/status/1742650506559005158)
 * [2024-01-17, 13:35:10](https://news.ycombinator.com/item?id=39027428) - [WaveCoder: Widespread and Versatile Enhanced Instruction Tuning](https://arxiv.org/abs/2312.14187)
 * [2024-01-17, 13:11:27](https://news.ycombinator.com/item?id=39027154) - [Why I Like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
+* [2024-01-17, 12:48:24](https://news.ycombinator.com/item?id=39026960) - [No joke: Feds are banning humorous electronic messages on highways](https://www.nbcnews.com/news/us-news/no-joke-feds-banning-humorous-electronic-messages-highways-rcna134240)
 * [2024-01-17, 12:34:49](https://news.ycombinator.com/item?id=39026855) - [The rust project has a burnout problem](https://jyn.dev/2024/01/16/the-rust-project-has-a-burnout-problem.html)
 * [2024-01-17, 12:27:58](https://news.ycombinator.com/item?id=39026792) - [Is A.I. The Death of I.P.?](https://www.newyorker.com/magazine/2024/01/22/who-owns-this-sentence-a-history-of-copyrights-and-wrongs-david-bellos-alexandre-montagu-book-review)
 * [2024-01-17, 12:27:50](https://news.ycombinator.com/item?id=39026791) - [Willow Protocol](https://willowprotocol.org/)
