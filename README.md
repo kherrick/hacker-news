@@ -26,9 +26,9 @@
 * [2024-01-18, 01:24:28](https://news.ycombinator.com/item?id=39036265) - [Teller: Universal secret manager, never leave your terminal to use secrets](https://github.com/tellerops/teller)
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 18:33:45](https://news.ycombinator.com/item?id=39031555) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
-* [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
 * [2024-01-17, 10:28:12](https://news.ycombinator.com/item?id=39025915) - [Plantwatch: The organism so tough it can survive in space](https://www.theguardian.com/science/2024/jan/17/plantwatch-the-strange-organism-so-tough-it-can-survive-in-space)
 * [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
+* [2024-01-17, 04:27:46](https://news.ycombinator.com/item?id=39023301) - [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
 
 ## [Archives](archives/index.md)
