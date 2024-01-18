@@ -25,7 +25,7 @@
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
 * [2024-01-17, 12:19:32](https://news.ycombinator.com/item?id=39026710) - [My daily driver is older than I thought; it's positively vintage](https://blog.jgc.org/2024/01/my-daily-driver-is-older-than-i-thought.html)
 * [2024-01-17, 11:57:58](https://news.ycombinator.com/item?id=39026551) - [K/simple: a tiny K interpreter for educational purposes by Arthur Whitney](https://github.com/kparc/ksimple)
-* [2024-01-17, 03:27:31](https://news.ycombinator.com/item?id=39022881) - [Decoding the NYC School Admission Lottery Numbers](https://medium.com/algorithms-in-the-wild/decoding-the-nyc-school-admission-lottery-numbers-bae7148e337d)
+* [2024-01-17, 04:28:20](https://news.ycombinator.com/item?id=39023310) - [Barcoding Bees (2020)](https://theapiarist.org/barcoding-bees/)
 * [2024-01-16, 18:31:32](https://news.ycombinator.com/item?id=39016797) - [How did the tiny Alaska village of Chicken get its name?](https://www.adn.com/alaska-life/2024/01/14/how-did-the-tiny-alaska-village-of-chicken-get-its-name/)
 * [2024-01-15, 14:15:48](https://news.ycombinator.com/item?id=39001216) - [Show HN: Kindllm – LLM chat optimized for Kindle e-readers](https://kindllm.app)
 * [2024-01-15, 13:04:15](https://news.ycombinator.com/item?id=39000425) - [The incredible shrinking podcast industry?](https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry)
