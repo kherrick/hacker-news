@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-18, 05:11:46](https://news.ycombinator.com/item?id=39038152) - [Tembo Operator: a Rust-Based Kubernetes Operator for Postgres](https://tembo.io/blog/tembo-operator/)
+* [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
 * [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 * [2024-01-18, 03:12:44](https://news.ycombinator.com/item?id=39037216) - [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
@@ -19,7 +20,6 @@
 * [2024-01-17, 22:03:15](https://news.ycombinator.com/item?id=39034160) - [Which word begins with \"y\" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
 * [2024-01-17, 21:33:34](https://news.ycombinator.com/item?id=39033811) - [Computer Engineering for Babies (2021)](https://computerengineeringforbabies.com/products/computer-engineering-for-babies)
 * [2024-01-17, 21:00:55](https://news.ycombinator.com/item?id=39033381) - [Fathom AI Meeting Assistant (YC W21) is hiring full-stack engineers (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
-* [2024-01-17, 19:09:17](https://news.ycombinator.com/item?id=39031989) - [MRISC32 – An Open 32-Bit RISC/Vector ISA (Suitable for FPGA CPU)](https://mrisc32.bitsnbites.eu/)
 * [2024-01-17, 18:00:42](https://news.ycombinator.com/item?id=39031152) - [Machine embroidery of light-emitting textiles with electroluminescent threads](https://www.science.org/doi/10.1126/sciadv.adk4295)
 * [2024-01-17, 17:13:50](https://news.ycombinator.com/item?id=39030510) - [Show HN: Shadeup – A language that makes WebGPU easier](https://shadeup.dev/)
 * [2024-01-17, 16:22:17](https://news.ycombinator.com/item?id=39029801) - [AlphaGeometry: An Olympiad-level AI system for geometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/)
