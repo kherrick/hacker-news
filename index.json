@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-01-18, 14:10:51",
-      "https://news.ycombinator.com/item?id=39041838"
-    ],
-    [
-      "You Don't Need Health Insurance",
-      "https://prigoose.substack.com/p/you-dont-need-health-insurance"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 13:33:52",
       "https://news.ycombinator.com/item?id=39041477"
     ],
     [
-      "Queues Don't Fix Overload",
+      "Queues Don't Fix Overload (2014)",
       "https://ferd.ca/queues-don-t-fix-overload.html"
     ]
   ],
@@ -27,6 +17,16 @@
     [
       "Corporations Are Not to Be Loved",
       "https://inessential.com/2024/01/17/corporations_are_not_to_be_loved"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 13:07:45",
+      "https://news.ycombinator.com/item?id=39041206"
+    ],
+    [
+      "A 27-year-old busted the myth of Bitcoin's anonymity",
+      "https://arstechnica.com/features/2024/01/how-a-27-year-old-busted-the-myth-of-bitcoins-anonymity/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Automatic class sorting with Prettier (2022)",
       "https://tailwindcss.com/blog/automatic-class-sorting-with-prettier"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 05:04:04",
-      "https://news.ycombinator.com/item?id=39038095"
-    ],
-    [
-      "Djgpp",
-      "https://www.delorie.com/djgpp/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "K/simple: a tiny K interpreter for educational purposes by Arthur Whitney",
       "https://github.com/kparc/ksimple"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 08:44:56",
+      "https://news.ycombinator.com/item?id=39025043"
+    ],
+    [
+      "BFF, Backend for Frontends",
+      "https://aien.me/simplifying-complex-systems-with-backend-for-frontends-bff/"
     ]
   ],
   [
