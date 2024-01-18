@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-18, 09:21:17](https://news.ycombinator.com/item?id=39039712) - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
 * [2024-01-18, 08:04:38](https://news.ycombinator.com/item?id=39039209) - [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
 * [2024-01-18, 07:01:14](https://news.ycombinator.com/item?id=39038850) - [Self-Consuming Generative Models Go MAD](https://arxiv.org/abs/2307.01850)
 * [2024-01-18, 07:00:35](https://news.ycombinator.com/item?id=39038845) - [Wasmer (YC S19) Is Hiring Rust and Compiler Engineers](https://www.ycombinator.com/companies/wasmer/jobs)
 * [2024-01-18, 05:46:25](https://news.ycombinator.com/item?id=39038368) - [Automatic class sorting with Prettier](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 * [2024-01-18, 05:04:04](https://news.ycombinator.com/item?id=39038095) - [Djgpp](https://www.delorie.com/djgpp/)
 * [2024-01-18, 03:55:56](https://news.ycombinator.com/item?id=39037589) - [Remote work doesn't seem to affect productivity, Fed study finds](https://www.bloomberg.com/news/articles/2024-01-16/remote-work-doesn-t-seem-to-affect-productivity-fed-study-finds)
-* [2024-01-18, 03:35:24](https://news.ycombinator.com/item?id=39037425) - [Peter Schickele, composer and gleeful sire of P.D.Q. Bach, dies at 88](https://www.nytimes.com/2024/01/17/arts/music/peter-schickele-dead.html)
 * [2024-01-18, 03:12:44](https://news.ycombinator.com/item?id=39037216) - [Open table formats are inevitable for analytical datasets](https://ensembleanalytics.io/blog/open-table-formats-inevitable)
 * [2024-01-18, 02:34:24](https://news.ycombinator.com/item?id=39036842) - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
 * [2024-01-18, 02:29:58](https://news.ycombinator.com/item?id=39036796) - [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
