@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 05:57:15](https://news.ycombinator.com/item?id=39052021) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 05:26:17](https://news.ycombinator.com/item?id=39051859) - [Lèse-Majesté in Thailand](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand)
 * [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
@@ -13,7 +14,6 @@
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:12:54](https://news.ycombinator.com/item?id=39047825) - [Relearning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-* [2024-01-18, 20:45:06](https://news.ycombinator.com/item?id=39047437) - [Writing a Debugger from Scratch – DbgRs Part 7 – Disassembly](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
