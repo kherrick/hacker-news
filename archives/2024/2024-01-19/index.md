@@ -43,6 +43,7 @@
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
 * [2024-01-19, 13:53:21](https://news.ycombinator.com/item?id=39055426) - [San Francisco Bets Big on Surveillance, Blankets City with 400 License Readers](https://www.techdirt.com/2024/01/18/san-francisco-bets-big-on-surveillance-blankets-city-with-400-automatic-license-plate-readers/)
+* [2024-01-19, 13:53:21](https://news.ycombinator.com/item?id=39055426) - [400 license plate cameras coming to San Francisco](https://www.ktvu.com/news/400-license-plate-cameras-coming-to-san-francisco-privacy-advocates-concerned)
 * [2024-01-19, 13:35:10](https://news.ycombinator.com/item?id=39055200) - [What Explains the Fibonacci Sequence?](https://bigthink.com/starts-with-a-bang/what-explains-fibonacci-sequence/)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 13:30:03](https://news.ycombinator.com/item?id=39055139) - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
