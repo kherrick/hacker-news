@@ -7,6 +7,7 @@
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
 * [2024-01-19, 18:23:51](https://news.ycombinator.com/item?id=39059097) - [Berlin, the European city where selfies are 'awkward'](https://www.bbc.com/travel/article/20240115-the-european-city-where-selfies-are-awkward)
 * [2024-01-19, 18:22:23](https://news.ycombinator.com/item?id=39059084) - [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
+* [2024-01-19, 18:17:19](https://news.ycombinator.com/item?id=39059019) - [Germany Reforms Citizenship Law](https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714)
 * [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
