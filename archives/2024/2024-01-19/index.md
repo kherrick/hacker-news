@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:26:32](https://news.ycombinator.com/item?id=39055813) - [Tesla Cybertruck owners who drove 10k miles say range is 164 to 206 miles](https://insideevs.com/news/705279/tesla-cybertruck-10k-mile-owner-review-range-problems/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
