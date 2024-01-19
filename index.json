@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-01-19, 17:34:53",
-      "https://news.ycombinator.com/item?id=39058291"
+      "2024-01-19, 17:54:36",
+      "https://news.ycombinator.com/item?id=39058685"
     ],
     [
-      "Passit: Open-Source Password Manager",
-      "https://passit.io/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 17:15:21",
-      "https://news.ycombinator.com/item?id=39057993"
-    ],
-    [
-      "Americans are spending billions on stuff they forget to cancel",
-      "https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123"
+      "Japan's SLIM spacecraft lands on the moon but is not generating power",
+      "https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "The 37signals Employee Handbook",
       "https://basecamp.com/handbook"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 16:30:04",
-      "https://news.ycombinator.com/item?id=39057299"
-    ],
-    [
-      "EVs work fine in the cold in Norway",
-      "https://www.fastcompany.com/91011373/evs-work-fine-in-the-cold-in-norway-heres-how-they-do-it"
     ]
   ],
   [
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2024-01-19, 02:10:44",
-      "https://news.ycombinator.com/item?id=39050799"
+      "2024-01-19, 00:00:28",
+      "https://news.ycombinator.com/item?id=39049782"
     ],
     [
-      "What changed CPU performance from the Macintosh 128K to the M3?",
-      "https://eclecticlight.co/2024/01/18/what-changed-cpu-performance-from-the-macintosh-128k-to-the-m3/"
+      "Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi",
+      "https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/"
     ]
   ],
   [
@@ -267,6 +247,16 @@
     [
       "The geometry of other people",
       "https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 21:51:05",
+      "https://news.ycombinator.com/item?id=39048317"
+    ],
+    [
+      "We migrated our PostgreSQL database with 11 seconds downtime",
+      "https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Cerne Abbas giant is Hercules and was army meeting point, say historians",
       "https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 14:44:51",
+      "https://news.ycombinator.com/item?id=39028384"
+    ],
+    [
+      "Hearing and Doing",
+      "https://www.planeandpilotmag.com/hearing-and-doing/"
     ]
   ]
 ]
