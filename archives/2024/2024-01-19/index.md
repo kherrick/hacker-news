@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 15:37:28](https://news.ycombinator.com/item?id=39056733) - [Canadian Man Stuck in Triangle of E-Commerce Fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers Claim First Functioning Graphene-Based Chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:52:14](https://news.ycombinator.com/item?id=39056159) - [Japan attempts historic moon landing](https://www.semafor.com/article/01/19/2024/japan-attempts-historic-moon-landing)
