@@ -2,6 +2,7 @@
 
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
+* [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [SURF THE WEB LIKE IT'S 1999!](https://billsworld.neocities.org/)
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 16:50:56](https://news.ycombinator.com/item?id=39057599) - [A lot of us are in \"status limbo\"](https://www.workingtheorys.com/p/status-limbo)
 * [2024-01-19, 16:44:20](https://news.ycombinator.com/item?id=39057502) - [Thailand finds 14.8M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
@@ -18,7 +19,6 @@
 * [2024-01-19, 14:48:11](https://news.ycombinator.com/item?id=39056104) - [Backing up the power grid with green methanol](https://spectrum.ieee.org/methanol-energy-storage)
 * [2024-01-19, 14:47:35](https://news.ycombinator.com/item?id=39056099) - [How much memory bandwidth do large Amazon instances offer?](https://lemire.me/blog/2024/01/18/how-much-memory-bandwidth-do-large-amazon-instances-offer/)
 * [2024-01-19, 14:33:37](https://news.ycombinator.com/item?id=39055896) - [SpaceX launches 4 people for private mission to the International Space Station](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss)
-* [2024-01-19, 14:24:33](https://news.ycombinator.com/item?id=39055791) - [Why do EVs crash more than gas powered vehicles](https://www.cnn.com/2024/01/18/business/why-do-people-keep-crashing-teslas/index.html)
 * [2024-01-19, 14:22:43](https://news.ycombinator.com/item?id=39055768) - [Haier Threatens Legal Action Against Home Assistant Plugin Developer](https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)

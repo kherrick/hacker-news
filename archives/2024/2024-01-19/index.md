@@ -6,6 +6,7 @@
 
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
+* [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [SURF THE WEB LIKE IT'S 1999!](https://billsworld.neocities.org/)
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 16:50:56](https://news.ycombinator.com/item?id=39057599) - [A lot of us are in \"status limbo\"](https://www.workingtheorys.com/p/status-limbo)
 * [2024-01-19, 16:44:20](https://news.ycombinator.com/item?id=39057502) - [Thailand finds 14.8M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
