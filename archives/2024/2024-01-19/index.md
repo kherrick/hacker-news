@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
 * [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [SURF THE WEB LIKE IT'S 1999!](https://billsworld.neocities.org/)
@@ -13,6 +14,7 @@
 * [2024-01-19, 16:42:06](https://news.ycombinator.com/item?id=39057461) - [Calculus on Computational Graphs: Backpropagation](https://colah.github.io/posts/2015-08-Backprop/)
 * [2024-01-19, 16:37:35](https://news.ycombinator.com/item?id=39057395) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2024-01-19, 16:33:54](https://news.ycombinator.com/item?id=39057340) - [The 37signals Employee Handbook](https://basecamp.com/handbook)
+* [2024-01-19, 16:30:04](https://news.ycombinator.com/item?id=39057299) - [EVs work fine in the cold in Norway](https://www.fastcompany.com/91011373/evs-work-fine-in-the-cold-in-norway-heres-how-they-do-it)
 * [2024-01-19, 16:28:08](https://news.ycombinator.com/item?id=39057270) - [Track US Weekly Jobless Claims on Snowflake with Cybersyn](https://app.snowflake.com/marketplace/listing/GZTSZAS2KGK/cybersyn-inc-government-essentials)
 * [2024-01-19, 16:23:04](https://news.ycombinator.com/item?id=39057219) - [Ask HN: Good Books on Philosophy of Engineering](https://news.ycombinator.com/item?id=39057219)
 * [2024-01-19, 16:17:28](https://news.ycombinator.com/item?id=39057154) - [U.S. moves to increase minimum legal size of commercial lobster](https://www.cbc.ca/news/canada/nova-scotia/us-moves-to-increase-minimum-legal-size-of-lobster-1.7088478)
@@ -68,6 +70,7 @@
 * [2024-01-19, 02:53:12](https://news.ycombinator.com/item?id=39051053) - [Curl is now a CVE Numbering Authority](https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/)
 * [2024-01-19, 02:37:29](https://news.ycombinator.com/item?id=39050967) - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
 * [2024-01-19, 02:28:24](https://news.ycombinator.com/item?id=39050905) - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
+* [2024-01-19, 02:10:44](https://news.ycombinator.com/item?id=39050799) - [What changed CPU performance from the Macintosh 128K to the M3?](https://eclecticlight.co/2024/01/18/what-changed-cpu-performance-from-the-macintosh-128k-to-the-m3/)
 * [2024-01-19, 01:44:20](https://news.ycombinator.com/item?id=39050626) - [One-Pedal Driving Explained](https://www.energy.gov/energysaver/one-pedal-driving-explained)
 * [2024-01-19, 00:26:28](https://news.ycombinator.com/item?id=39049999) - [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 * [2024-01-19, 00:21:36](https://news.ycombinator.com/item?id=39049956) - [A 2024 Plea for Lean Software](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
