@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 06:56:08",
+      "https://news.ycombinator.com/item?id=39052386"
+    ],
+    [
+      "File Formats Debunk – Why you should stop rendering to PNG (and use EXR instead)",
+      "https://skientia.co/cgi/image-formats"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 06:30:36",
       "https://news.ycombinator.com/item?id=39052196"
     ],
@@ -57,16 +67,6 @@
     [
       "Dave Mills has died",
       "https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 03:01:16",
-      "https://news.ycombinator.com/item?id=39051100"
-    ],
-    [
-      "Assistant Dictator Book Club: America Against America",
-      "https://www.astralcodexten.com/p/assistant-dictator-book-club-america"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-01-18, 17:25:43",
+      "https://news.ycombinator.com/item?id=39044586"
+    ],
+    [
+      "What happened to the US machine tool industry?",
+      "https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 16:41:17",
       "https://news.ycombinator.com/item?id=39043956"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-01-17, 20:08:34",
-      "https://news.ycombinator.com/item?id=39032752"
+      "2024-01-18, 02:34:24",
+      "https://news.ycombinator.com/item?id=39036842"
     ],
     [
-      "Systemd: Enable Indefinite Service Restarts",
-      "https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/"
+      "Losing my son",
+      "https://www.fortressofdoors.com/i-lost-my-son/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Random Animations",
       "https://bleuje.com/randomanimations/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 06:45:15",
-      "https://news.ycombinator.com/item?id=39024102"
-    ],
-    [
-      "White space does matter in C23",
-      "https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/"
     ]
   ]
 ]
