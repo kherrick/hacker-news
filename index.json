@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-01-19, 20:08:28",
-      "https://news.ycombinator.com/item?id=39060410"
+      "2024-01-19, 20:02:55",
+      "https://news.ycombinator.com/item?id=39060339"
     ],
     [
-      "Bitcoin Is Not Backed by Nothing",
-      "https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 19:28:16",
-      "https://news.ycombinator.com/item?id=39059897"
-    ],
-    [
-      "Yann LeCun:'Human-level artificial intelligence is going to take a long time'",
-      "https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html"
+      "Ceph: A Journey to 1 TiB/s",
+      "https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/"
     ]
   ],
   [
@@ -37,16 +27,6 @@
     [
       "Roadmap for the Xilem back end in 2024",
       "https://linebender.org/blog/xilem-backend-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 19:07:58",
-      "https://news.ycombinator.com/item?id=39059635"
-    ],
-    [
-      "Boeing Emergency Landing in Miami After 'Engine Malfunction'",
-      "https://www.nytimes.com/2024/01/19/us/miami-boeing-plane-engine-fire.html"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-01-19, 06:34:23",
+      "https://news.ycombinator.com/item?id=39052219"
+    ],
+    [
+      "LoaderShip – CSS-Only Loaders",
+      "https://www.loadership.com/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 06:30:36",
       "https://news.ycombinator.com/item?id=39052196"
     ],
@@ -277,6 +267,16 @@
     [
       "Dave Mills has died",
       "https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 19:50:24",
+      "https://news.ycombinator.com/item?id=39046697"
+    ],
+    [
+      "A fuel cell that harvests energy from microbes living in dirt",
+      "https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/"
     ]
   ],
   [
