@@ -27,6 +27,7 @@
 * [2024-01-18, 20:02:06](https://news.ycombinator.com/item?id=39046844) - [Show HN: Auto-generate load tests/synthetic test data from OpenAPI spec/HAR file](https://docs.multiple.dev/how-it-works/ai-test-gen)
 * [2024-01-18, 20:01:48](https://news.ycombinator.com/item?id=39046838) - [German developer guilty of 'hacking' for exposing hardcoded credentials in app](https://infosec.exchange/@WPalant/111776937550399546)
 * [2024-01-18, 19:55:41](https://news.ycombinator.com/item?id=39046761) - [Venture Backed or Bootstrapped? There's a Third Way. Just Raise One Round](https://www.saastr.com/venture-backed-theres-a-third-way-just-raise-one-round/)
+* [2024-01-18, 19:50:24](https://news.ycombinator.com/item?id=39046697) - [A fuel cell that harvests energy from microbes living in dirt](https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/)
 * [2024-01-18, 19:39:36](https://news.ycombinator.com/item?id=39046541) - [Cells Across the Body Talk to Each Other About Aging](https://nautil.us/cells-across-the-body-talk-to-each-other-about-aging-494209/)
 * [2024-01-18, 19:38:51](https://news.ycombinator.com/item?id=39046534) - [The Miele Dialog: cook a fish in ice without melting the ice](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)
 * [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
