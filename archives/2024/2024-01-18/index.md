@@ -88,6 +88,7 @@
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
 * [2024-01-18, 11:35:05](https://news.ycombinator.com/item?id=39040559) - [Google Search Has Gotten Worse, Researchers Find](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/)
 * [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
+* [2024-01-18, 10:11:12](https://news.ycombinator.com/item?id=39040014) - [Two Cicada Broods Emerge Together](https://weather.com/science/nature/video/two-cicada-broods-unite-for-first-time-in-221-years)
 * [2024-01-18, 09:21:17](https://news.ycombinator.com/item?id=39039712) - [Fixing Horizon bugs would have been too costly, Post Office inquiry told](https://www.theguardian.com/uk-news/2024/jan/17/post-office-inquiry-fixing-horizon-bugs-fujitsu-developer-gerald-barnes)
 * [2024-01-18, 09:18:36](https://news.ycombinator.com/item?id=39039694) - [Electric cars suffer 'unsustainable' depreciation in secondhand market](https://www.telegraph.co.uk/business/2024/01/18/used-electric-cars-lose-half-value-after-three-years/)
 * [2024-01-18, 09:02:49](https://news.ycombinator.com/item?id=39039588) - [A Million Ways to Die on the Web](https://wiki.archiveteam.org/index.php/A_Million_Ways_to_Die_on_the_Web)
