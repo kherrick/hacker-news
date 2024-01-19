@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-01-19, 22:00:01",
+      "https://news.ycombinator.com/item?id=39061839"
+    ],
+    [
+      "The bane of my existence: Supporting both async and sync code in Rust",
+      "https://nullderef.com/blog/rust-async-sync/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 21:56:51",
       "https://news.ycombinator.com/item?id=39061800"
     ],
     [
       "Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard",
       "https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 21:35:23",
-      "https://news.ycombinator.com/item?id=39061522"
-    ],
-    [
-      "What's something difficult programmers make look easy?",
-      "https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b"
     ]
   ],
   [
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2024-01-19, 15:55:40",
-      "https://news.ycombinator.com/item?id=39056902"
-    ],
-    [
-      "Sourcehut network outage post-mortem",
-      "https://sourcehut.org/blog/2024-01-19-outage-post-mortem/"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 15:55:33",
       "https://news.ycombinator.com/item?id=39056900"
     ],
     [
       "Opinions of Doron Zeilberger",
       "https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 15:37:28",
-      "https://news.ycombinator.com/item?id=39056733"
-    ],
-    [
-      "Canadian man stuck in triangle of e-commerce fraud",
-      "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "Researchers claim first functioning graphene-based chip",
       "https://spectrum.ieee.org/graphene-semiconductor"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 14:24:29",
+      "https://news.ycombinator.com/item?id=39055790"
+    ],
+    [
+      "How Wise built an $11B company by marketing their mission",
+      "https://thecaseforbrand.substack.com/p/how-wise-rallied-people-against-hidden"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Dave Mills has died",
       "https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 23:13:04",
+      "https://news.ycombinator.com/item?id=39049284"
+    ],
+    [
+      "The geometry of other people",
+      "https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds"
     ]
   ],
   [
