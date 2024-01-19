@@ -2,7 +2,6 @@
 
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
-* [2024-01-19, 13:30:03](https://news.ycombinator.com/item?id=39055139) - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
 * [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
@@ -15,6 +14,7 @@
 * [2024-01-19, 04:17:13](https://news.ycombinator.com/item?id=39051508) - [Mourning Google](https://www.tbray.org/ongoing/When/202x/2024/01/15/Google-2024)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+* [2024-01-19, 02:28:24](https://news.ycombinator.com/item?id=39050905) - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
 * [2024-01-19, 00:26:28](https://news.ycombinator.com/item?id=39049999) - [Why holes at the bottom of the ocean disappear and reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 * [2024-01-19, 00:00:28](https://news.ycombinator.com/item?id=39049782) - [Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi](https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/)
 * [2024-01-18, 23:53:32](https://news.ycombinator.com/item?id=39049703) - [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
