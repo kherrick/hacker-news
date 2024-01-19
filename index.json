@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 17:00:02",
+      "https://news.ycombinator.com/item?id=39057748"
+    ],
+    [
+      "Phind (YC S22) is hiring machine learning and front end engineers",
+      "https://www.ycombinator.com/companies/phind/jobs"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 16:50:56",
       "https://news.ycombinator.com/item?id=39057599"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2024-01-19, 16:37:35",
-      "https://news.ycombinator.com/item?id=39057395"
-    ],
-    [
-      "SQLite or PostgreSQL? It's Complicated",
-      "https://www.twilio.com/blog/sqlite-postgresql-complicated"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 16:33:54",
       "https://news.ycombinator.com/item?id=39057340"
     ],
     [
       "The 37signals Employee Handbook",
       "https://basecamp.com/handbook"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 16:28:08",
+      "https://news.ycombinator.com/item?id=39057270"
+    ],
+    [
+      "Track US Weekly Jobless Claims on Snowflake with Cybersyn",
+      "https://app.snowflake.com/marketplace/listing/GZTSZAS2KGK/cybersyn-inc-government-essentials"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "U.S. moves to increase minimum legal size of commercial lobster",
       "https://www.cbc.ca/news/canada/nova-scotia/us-moves-to-increase-minimum-legal-size-of-lobster-1.7088478"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 16:04:13",
+      "https://news.ycombinator.com/item?id=39057005"
+    ],
+    [
+      "Voxos.ai – An Open-Source Desktop Voice Assistant",
+      "https://gitlab.com/literally-useful/voxos"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2024-01-19, 15:55:33",
+      "https://news.ycombinator.com/item?id=39056900"
+    ],
+    [
+      "Opinions of Doron Zeilberger",
+      "https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 15:51:24",
       "https://news.ycombinator.com/item?id=39056862"
     ],
@@ -117,16 +147,6 @@
     [
       "Venture capital firm General Catalyst to buy Ohio health system Summa Health",
       "https://www.axios.com/2024/01/17/summa-health-ohio-general-catalyst?stream=top"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 15:37:28",
-      "https://news.ycombinator.com/item?id=39056733"
-    ],
-    [
-      "Canadian man stuck in triangle of e-commerce fraud",
-      "https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2024-01-19, 14:22:43",
-      "https://news.ycombinator.com/item?id=39055768"
+      "2024-01-19, 14:24:33",
+      "https://news.ycombinator.com/item?id=39055791"
     ],
     [
-      "Haier Threatens Legal Action Against Home Assistant Plugin Developer",
-      "https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/"
+      "Why do EVs crash more than gas powered vehicles",
+      "https://www.cnn.com/2024/01/18/business/why-do-people-keep-crashing-teslas/index.html"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Building a USB SNES Controller",
       "https://blog.chybby.com/posts/building-a-usb-snes-controller"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 12:00:09",
-      "https://news.ycombinator.com/item?id=39054455"
-    ],
-    [
-      "Nango (YC W23) Is Hiring Back End Engineers (Remote)",
-      "https://nango.dev/jobs"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Run Lisp machine emulator on Linux",
       "https://archives.loomcom.com/genera/genera-install.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 22:40:16",
-      "https://news.ycombinator.com/item?id=39034603"
-    ],
-    [
-      "Cerne Abbas giant is Hercules and was army meeting point, say historians",
-      "https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians"
     ]
   ]
 ]
