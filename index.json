@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-01-19, 18:40:44",
+      "https://news.ycombinator.com/item?id=39059307"
+    ],
+    [
+      "Fujitsu bugs that sent innocent people to prison were known \"from the start\"",
+      "https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 18:24:04",
       "https://news.ycombinator.com/item?id=39059100"
     ],
     [
-      "VMs on macOS using Apple's native Virtualization.Framework",
+      "Tart: VMs on macOS using Apple's native Virtualization.Framework",
       "https://tart.run/"
     ]
   ],
@@ -17,26 +27,6 @@
     [
       "Mistral looks set to challenge AI frontrunners Google and OpenAI",
       "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 18:17:19",
-      "https://news.ycombinator.com/item?id=39059019"
-    ],
-    [
-      "Germany Reforms Citizenship Law",
-      "https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 17:54:36",
-      "https://news.ycombinator.com/item?id=39058685"
-    ],
-    [
-      "Japan's SLIM spacecraft lands on the moon but is not generating power",
-      "https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39057502"
     ],
     [
-      "Thailand finds 14.8M tonnes of lithium",
+      "Thailand discovers nearly 15M tonnes of lithium",
       "https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414"
     ]
   ],
@@ -95,18 +85,8 @@
       "https://news.ycombinator.com/item?id=39057461"
     ],
     [
-      "Calculus on Computational Graphs: Backpropagation",
+      "Calculus on Computational Graphs: Backpropagation (2015)",
       "https://colah.github.io/posts/2015-08-Backprop/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 16:33:54",
-      "https://news.ycombinator.com/item?id=39057340"
-    ],
-    [
-      "The 37signals Employee Handbook",
-      "https://basecamp.com/handbook"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-01-19, 14:22:43",
+      "https://news.ycombinator.com/item?id=39055768"
+    ],
+    [
+      "Haier Threatens Legal Action Against Home Assistant Plugin Developer",
+      "https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 14:01:05",
       "https://news.ycombinator.com/item?id=39055506"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2024-01-18, 23:13:04",
+      "https://news.ycombinator.com/item?id=39049284"
+    ],
+    [
+      "The geometry of other people",
+      "https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 19:50:24",
       "https://news.ycombinator.com/item?id=39046697"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39040697"
     ],
     [
-      "Run Lisp machine emulator on Linux",
+      "Running Open Genera 2.0 on Linux",
       "https://archives.loomcom.com/genera/genera-install.html"
     ]
   ],
