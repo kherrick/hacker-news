@@ -87,6 +87,7 @@
 * [2024-01-18, 12:20:30](https://news.ycombinator.com/item?id=39040828) - [Serious incident to the 777-300ER on 5 April 2022 at CDG [pdf]](https://bea.aero/fileadmin/user_upload/F-GSQJ_finalreport_EN.pdf)
 * [2024-01-18, 12:01:17](https://news.ycombinator.com/item?id=39040720) - ['No AI Fraud Act' Could Outlaw Parodies, Political Cartoons, and More](https://reason.com/2024/01/17/ai-fraud-act-could-outlaw-parodies-political-cartoons-and-more/)
 * [2024-01-18, 12:00:54](https://news.ycombinator.com/item?id=39040718) - [Gym Class VR (YC W22) Is Hiring Lead Applied AI Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/XG7v8sQ-lead-applied-ai-gaming-engineer)
+* [2024-01-18, 11:57:19](https://news.ycombinator.com/item?id=39040697) - [Run Lisp machine emulator on Linux](https://archives.loomcom.com/genera/genera-install.html)
 * [2024-01-18, 11:35:05](https://news.ycombinator.com/item?id=39040559) - [Google Search Has Gotten Worse, Researchers Find](https://www.404media.co/google-search-really-has-gotten-worse-researchers-find/)
 * [2024-01-18, 10:12:26](https://news.ycombinator.com/item?id=39040023) - [Flattr is closing down](https://flattr.com/)
 * [2024-01-18, 10:11:12](https://news.ycombinator.com/item?id=39040014) - [Two Cicada Broods Emerge Together](https://weather.com/science/nature/video/two-cicada-broods-unite-for-first-time-in-221-years)

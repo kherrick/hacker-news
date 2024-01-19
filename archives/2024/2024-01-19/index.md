@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 16:37:35](https://news.ycombinator.com/item?id=39057395) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/blog/sqlite-postgresql-complicated)
 * [2024-01-19, 16:23:04](https://news.ycombinator.com/item?id=39057219) - [Ask HN: Good Books on Philosophy of Engineering](https://news.ycombinator.com/item?id=39057219)
 * [2024-01-19, 16:17:28](https://news.ycombinator.com/item?id=39057154) - [U.S. moves to increase minimum legal size of commercial lobster](https://www.cbc.ca/news/canada/nova-scotia/us-moves-to-increase-minimum-legal-size-of-lobster-1.7088478)
 * [2024-01-19, 16:02:05](https://news.ycombinator.com/item?id=39056976) - [System76 Thelio Major Powered by AMD Ryzen Threadripper 7000 Series Performance](https://www.phoronix.com/review/system76-thelio-threadripper-2024)
