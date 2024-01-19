@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+* [2024-01-19, 06:04:44](https://news.ycombinator.com/item?id=39052051) - [David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
 * [2024-01-19, 05:57:15](https://news.ycombinator.com/item?id=39052021) - [C and returning values quickly or safely, but not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
@@ -22,7 +23,6 @@
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case for single-stair multifamily](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)
 * [2024-01-18, 16:38:20](https://news.ycombinator.com/item?id=39043911) - [The value of information gathering in phage–bacteria warfare](https://academic.oup.com/pnasnexus/article/3/1/pgad431/7512761)
 * [2024-01-18, 16:35:59](https://news.ycombinator.com/item?id=39043871) - [The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
-* [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 18:17:56](https://news.ycombinator.com/item?id=39031369) - [How DOS was able to use most of the 1 MB address space of the 8086](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
