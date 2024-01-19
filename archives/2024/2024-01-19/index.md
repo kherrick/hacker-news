@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
+* [2024-01-19, 13:30:03](https://news.ycombinator.com/item?id=39055139) - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
 * [2024-01-19, 13:05:28](https://news.ycombinator.com/item?id=39054956) - [Apple Vision Pro available for pre-order](https://www.apple.com/shop/buy-vision/apple-vision-pro)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
