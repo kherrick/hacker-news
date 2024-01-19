@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
 * [2024-01-19, 19:15:09](https://news.ycombinator.com/item?id=39059727) - [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
@@ -21,13 +22,12 @@
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:33:37](https://news.ycombinator.com/item?id=39055896) - [SpaceX launches 4 people for private mission to the International Space Station](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss)
+* [2024-01-19, 14:18:37](https://news.ycombinator.com/item?id=39055716) - [Show HN: Roundtable – Survey fraud and bot detection API](https://news.ycombinator.com/item?id=39055716)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-* [2024-01-19, 06:34:23](https://news.ycombinator.com/item?id=39052219) - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Winding down Google Sync and Less Secure Apps support](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-* [2024-01-18, 19:50:24](https://news.ycombinator.com/item?id=39046697) - [A fuel cell that harvests energy from microbes living in dirt](https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/)
 * [2024-01-18, 11:57:19](https://news.ycombinator.com/item?id=39040697) - [Running Open Genera 2.0 on Linux](https://archives.loomcom.com/genera/genera-install.html)
 * [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:08:28](https://news.ycombinator.com/item?id=39060410) - [Bitcoin Is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun:'Human-level artificial intelligence is going to take a long time'](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
@@ -51,6 +52,7 @@
 * [2024-01-19, 14:26:32](https://news.ycombinator.com/item?id=39055813) - [Tesla Cybertruck owners who drove 10k miles say range is 164 to 206 miles](https://insideevs.com/news/705279/tesla-cybertruck-10k-mile-owner-review-range-problems/)
 * [2024-01-19, 14:24:33](https://news.ycombinator.com/item?id=39055791) - [Why do EVs crash more than gas powered vehicles](https://www.cnn.com/2024/01/18/business/why-do-people-keep-crashing-teslas/index.html)
 * [2024-01-19, 14:22:43](https://news.ycombinator.com/item?id=39055768) - [Haier Threatens Legal Action Against Home Assistant Plugin Developer](https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/)
+* [2024-01-19, 14:18:37](https://news.ycombinator.com/item?id=39055716) - [Show HN: Roundtable – Survey fraud and bot detection API](https://news.ycombinator.com/item?id=39055716)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
 * [2024-01-19, 13:53:21](https://news.ycombinator.com/item?id=39055426) - [San Francisco Bets Big on Surveillance, Blankets City with 400 License Readers](https://www.techdirt.com/2024/01/18/san-francisco-bets-big-on-surveillance-blankets-city-with-400-automatic-license-plate-readers/)
