@@ -10,6 +10,7 @@
 * [2024-01-19, 18:17:19](https://news.ycombinator.com/item?id=39059019) - [Germany Reforms Citizenship Law](https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714)
 * [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
+* [2024-01-19, 17:23:39](https://news.ycombinator.com/item?id=39058122) - [Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
 * [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [SURF THE WEB LIKE IT'S 1999!](https://billsworld.neocities.org/)
