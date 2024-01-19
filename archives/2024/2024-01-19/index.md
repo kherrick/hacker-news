@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 * [2024-01-19, 04:26:10](https://news.ycombinator.com/item?id=39051551) - [Thailand: Man jailed for 50 years for defaming monarchy](https://www.bbc.com/news/world-asia-68020494)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
