@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
 * [2024-01-19, 18:23:51](https://news.ycombinator.com/item?id=39059097) - [Berlin, the European city where selfies are 'awkward'](https://www.bbc.com/travel/article/20240115-the-european-city-where-selfies-are-awkward)
 * [2024-01-19, 18:22:23](https://news.ycombinator.com/item?id=39059084) - [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
