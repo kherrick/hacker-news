@@ -16,6 +16,7 @@
 * [2024-01-18, 21:00:07](https://news.ycombinator.com/item?id=39047641) - [Pornhub Wants Proof of Consent from Every Single Performer on Its Platform](https://www.404media.co/pornhub-consent-verification-policy-for-performers/)
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 * [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long term vision is to build general intelligence, open source it](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
+* [2024-01-18, 20:45:06](https://news.ycombinator.com/item?id=39047437) - [Writing a Debugger from Scratch – DbgRs Part 7 – Disassembly](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/)
 * [2024-01-18, 20:33:28](https://news.ycombinator.com/item?id=39047264) - [A Runaway Greenhouse Effect on Earth Is Unlikely](https://www.youtube.com/watch?v=oWS48a3LmR0)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the Code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 20:16:10](https://news.ycombinator.com/item?id=39047024) - [Coinbase tells judge that buying crypto is just like collecting Beanie Babies](https://markets.businessinsider.com/news/currencies/coinbase-crypto-judge-buying-beanie-babies-court-argument-judge-bitcoin-2024-1)
