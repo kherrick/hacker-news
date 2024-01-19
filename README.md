@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
+* [2024-01-19, 11:41:32](https://news.ycombinator.com/item?id=39054319) - [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
 * [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
 * [2024-01-19, 08:13:18](https://news.ycombinator.com/item?id=39052907) - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
 * [2024-01-19, 06:34:23](https://news.ycombinator.com/item?id=39052219) - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
@@ -19,8 +21,6 @@
 * [2024-01-18, 23:13:04](https://news.ycombinator.com/item?id=39049284) - [The Geometry of Other People](https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:12:54](https://news.ycombinator.com/item?id=39047825) - [Relearning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
-* [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
-* [2024-01-18, 20:45:06](https://news.ycombinator.com/item?id=39047437) - [Writing a Debugger from Scratch – DbgRs Part 7 – Disassembly](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-7/)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 20:05:58](https://news.ycombinator.com/item?id=39046904) - [Lost Highway: The trials of trucking school](https://harpers.org/archive/2024/02/lost-highway-emily-gogolak/)
 * [2024-01-18, 17:35:11](https://news.ycombinator.com/item?id=39044727) - [Virtual tour of Museum of Failure](https://collection.museumoffailure.com/)
