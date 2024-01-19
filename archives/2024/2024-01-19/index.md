@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:35:23](https://news.ycombinator.com/item?id=39061522) - [What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
+* [2024-01-19, 21:32:27](https://news.ycombinator.com/item?id=39061489) - [Knockoff Iranian Drone Sold on Alibaba Was Meant for War, Documents Show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
+* [2024-01-19, 20:54:33](https://news.ycombinator.com/item?id=39061000) - [Google DeepMind Scientists in Talks to Leave and Form AI Startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
 * [2024-01-19, 20:37:31](https://news.ycombinator.com/item?id=39060793) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:08:28](https://news.ycombinator.com/item?id=39060410) - [Bitcoin Is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
