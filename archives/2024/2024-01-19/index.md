@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
+* [2024-01-19, 13:35:10](https://news.ycombinator.com/item?id=39055200) - [What Explains the Fibonacci Sequence?](https://bigthink.com/starts-with-a-bang/what-explains-fibonacci-sequence/)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 13:30:03](https://news.ycombinator.com/item?id=39055139) - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
 * [2024-01-19, 13:05:28](https://news.ycombinator.com/item?id=39054956) - [Apple Vision Pro available for pre-order](https://www.apple.com/shop/buy-vision/apple-vision-pro)
@@ -38,3 +40,4 @@
 * [2024-01-19, 00:26:28](https://news.ycombinator.com/item?id=39049999) - [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 * [2024-01-19, 00:21:36](https://news.ycombinator.com/item?id=39049956) - [A 2024 Plea for Lean Software](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
 * [2024-01-19, 00:02:29](https://news.ycombinator.com/item?id=39049799) - [Meta documents show 100k children sexually harassed daily on its platforms](https://www.theguardian.com/technology/2024/jan/18/instagram-facebook-child-sexual-harassment)
+* [2024-01-19, 00:00:28](https://news.ycombinator.com/item?id=39049782) - [Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi](https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/)
