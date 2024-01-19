@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
+* [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:32:27](https://news.ycombinator.com/item?id=39061489) - [Knockoff Iranian drone sold on Alibaba was meant for war, documents show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
 * [2024-01-19, 20:54:33](https://news.ycombinator.com/item?id=39061000) - [A pair of DeepMind scientists talking with investors about forming an AI startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
@@ -22,7 +23,6 @@
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:24:29](https://news.ycombinator.com/item?id=39055790) - [How Wise built an $11B company by marketing their mission](https://thecaseforbrand.substack.com/p/how-wise-rallied-people-against-hidden)
-* [2024-01-19, 14:18:37](https://news.ycombinator.com/item?id=39055716) - [Show HN: Roundtable – Survey fraud and bot detection API](https://news.ycombinator.com/item?id=39055716)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
