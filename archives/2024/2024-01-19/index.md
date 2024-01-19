@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 05:57:15](https://news.ycombinator.com/item?id=39052021) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 05:26:17](https://news.ycombinator.com/item?id=39051859) - [Lèse-Majesté in Thailand](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand)
 * [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
