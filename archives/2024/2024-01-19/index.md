@@ -17,6 +17,7 @@
 * [2024-01-19, 05:01:57](https://news.ycombinator.com/item?id=39051739) - [Hans Reiser on ReiserFS Deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 * [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 * [2024-01-19, 04:26:10](https://news.ycombinator.com/item?id=39051551) - [Thailand: Man jailed for 50 years for defaming monarchy](https://www.bbc.com/news/world-asia-68020494)
+* [2024-01-19, 04:17:13](https://news.ycombinator.com/item?id=39051508) - [Mourning Google](https://www.tbray.org/ongoing/When/202x/2024/01/15/Google-2024)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-19, 03:01:16](https://news.ycombinator.com/item?id=39051100) - [Assistant Dictator Book Club: America Against America](https://www.astralcodexten.com/p/assistant-dictator-book-club-america)
