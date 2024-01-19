@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 15:57:42](https://news.ycombinator.com/item?id=39056924) - [Apple Vision Pro Weighs Almost as Much as a 12.9-Inch iPad Pro](https://www.macrumors.com/2024/01/19/vision-pro-weighs-almost-as-much-as-ipad-pro/)
+* [2024-01-19, 15:55:40](https://news.ycombinator.com/item?id=39056902) - [Sourcehut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)
+* [2024-01-19, 15:51:24](https://news.ycombinator.com/item?id=39056862) - [Marcus Aurelius: The Man Who Solved the Universe [video]](https://www.youtube.com/watch?v=tv6W0Nv5ev0)
 * [2024-01-19, 15:37:28](https://news.ycombinator.com/item?id=39056733) - [Canadian Man Stuck in Triangle of E-Commerce Fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers Claim First Functioning Graphene-Based Chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:52:14](https://news.ycombinator.com/item?id=39056159) - [Japan attempts historic moon landing](https://www.semafor.com/article/01/19/2024/japan-attempts-historic-moon-landing)
 * [2024-01-19, 14:48:11](https://news.ycombinator.com/item?id=39056104) - [Backing Up the Power Grid with Green Methanol](https://spectrum.ieee.org/methanol-energy-storage)
+* [2024-01-19, 14:33:37](https://news.ycombinator.com/item?id=39055896) - [SpaceX launches 4 people for private mission to the International Space Station](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss)
 * [2024-01-19, 14:26:32](https://news.ycombinator.com/item?id=39055813) - [Tesla Cybertruck owners who drove 10k miles say range is 164 to 206 miles](https://insideevs.com/news/705279/tesla-cybertruck-10k-mile-owner-review-range-problems/)
+* [2024-01-19, 14:22:43](https://news.ycombinator.com/item?id=39055768) - [Haier Threatens Legal Action Against Home Assistant Plugin Developer](https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
 * [2024-01-19, 13:53:21](https://news.ycombinator.com/item?id=39055426) - [San Francisco Bets Big on Surveillance, Blankets City with 400 License Readers](https://www.techdirt.com/2024/01/18/san-francisco-bets-big-on-surveillance-blankets-city-with-400-automatic-license-plate-readers/)
