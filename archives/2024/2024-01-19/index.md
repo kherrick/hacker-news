@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 * [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:35:23](https://news.ycombinator.com/item?id=39061522) - [What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
 * [2024-01-19, 21:32:27](https://news.ycombinator.com/item?id=39061489) - [Knockoff Iranian Drone Sold on Alibaba Was Meant for War, Documents Show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
@@ -58,6 +59,7 @@
 * [2024-01-19, 14:33:37](https://news.ycombinator.com/item?id=39055896) - [SpaceX launches 4 people for private mission to the International Space Station](https://www.npr.org/2024/01/18/1225191541/spacex-nasa-axiom-space-ax-3-international-space-station-iss)
 * [2024-01-19, 14:26:32](https://news.ycombinator.com/item?id=39055813) - [Tesla Cybertruck owners who drove 10k miles say range is 164 to 206 miles](https://insideevs.com/news/705279/tesla-cybertruck-10k-mile-owner-review-range-problems/)
 * [2024-01-19, 14:24:33](https://news.ycombinator.com/item?id=39055791) - [Why do EVs crash more than gas powered vehicles](https://www.cnn.com/2024/01/18/business/why-do-people-keep-crashing-teslas/index.html)
+* [2024-01-19, 14:24:29](https://news.ycombinator.com/item?id=39055790) - [How Wise built an $11B company by marketing their mission](https://thecaseforbrand.substack.com/p/how-wise-rallied-people-against-hidden)
 * [2024-01-19, 14:22:43](https://news.ycombinator.com/item?id=39055768) - [Haier Threatens Legal Action Against Home Assistant Plugin Developer](https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/)
 * [2024-01-19, 14:18:37](https://news.ycombinator.com/item?id=39055716) - [Show HN: Roundtable – Survey fraud and bot detection API](https://news.ycombinator.com/item?id=39055716)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
