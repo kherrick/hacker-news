@@ -2,7 +2,6 @@
 
 * [2024-01-19, 14:26:32](https://news.ycombinator.com/item?id=39055813) - [Tesla Cybertruck owners who drove 10k miles say range is 164 to 206 miles](https://insideevs.com/news/705279/tesla-cybertruck-10k-mile-owner-review-range-problems/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat](https://news.cnrs.fr/articles/french-cheese-under-threat)
-* [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
 * [2024-01-19, 13:53:21](https://news.ycombinator.com/item?id=39055426) - [San Francisco Bets Big on Surveillance, Blankets City with 400 License Readers](https://www.techdirt.com/2024/01/18/san-francisco-bets-big-on-surveillance-blankets-city-with-400-automatic-license-plate-readers/)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 13:30:03](https://news.ycombinator.com/item?id=39055139) - [Delta Lake vs. Parquet: A Comparison](https://delta.io/blog/delta-lake-vs-parquet-comparison/)
@@ -25,6 +24,7 @@
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 20:05:58](https://news.ycombinator.com/item?id=39046904) - [Lost Highway: The trials of trucking school](https://harpers.org/archive/2024/02/lost-highway-emily-gogolak/)
 * [2024-01-18, 19:10:42](https://news.ycombinator.com/item?id=39046190) - [Hooted from the Stage: review of two new books on Keats](https://www.lrb.co.uk/the-paper/v46/n02/susan-eilenberg/hooted-from-the-stage)
+* [2024-01-18, 16:35:59](https://news.ycombinator.com/item?id=39043871) - [The quiet death of Ello's big dreams](https://waxy.org/2024/01/the-quiet-death-of-ellos-big-dreams/)
 * [2024-01-18, 14:32:55](https://news.ycombinator.com/item?id=39042093) - [Launch HN: Talc AI (YC S23) – Test Sets for AI](https://news.ycombinator.com/item?id=39042093)
 * [2024-01-18, 10:11:12](https://news.ycombinator.com/item?id=39040014) - [Two Cicada Broods Emerge Together](https://weather.com/science/nature/video/two-cicada-broods-unite-for-first-time-in-221-years)
 * [2024-01-17, 22:40:16](https://news.ycombinator.com/item?id=39034603) - [Cerne Abbas giant is Hercules and was army meeting point, say historians](https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians)
