@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 00:26:28](https://news.ycombinator.com/item?id=39049999) - [Why Holes at the Bottom of the Ocean Disappear and Reappear](https://www.atlasobscura.com/articles/ocean-floor-holes-purposes-eels)
 * [2024-01-19, 00:02:29](https://news.ycombinator.com/item?id=39049799) - [Meta documents show 100k children sexually harassed daily on its platforms](https://www.theguardian.com/technology/2024/jan/18/instagram-facebook-child-sexual-harassment)
 * [2024-01-18, 23:53:32](https://news.ycombinator.com/item?id=39049703) - [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
 * [2024-01-18, 23:53:05](https://news.ycombinator.com/item?id=39049691) - [Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
@@ -9,7 +10,6 @@
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
-* [2024-01-18, 18:26:34](https://news.ycombinator.com/item?id=39045545) - [Show HN: I made a website to share rejection letters](https://rejectedagain.lol)
 * [2024-01-18, 18:05:02](https://news.ycombinator.com/item?id=39045153) - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:35:11](https://news.ycombinator.com/item?id=39044727) - [Virtual tour of Museum of Failure](https://collection.museumoffailure.com/)
