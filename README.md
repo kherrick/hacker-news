@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 13:05:28](https://news.ycombinator.com/item?id=39054956) - [Apple Vision Pro available for pre-order](https://www.apple.com/shop/buy-vision/apple-vision-pro)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
 * [2024-01-19, 11:41:32](https://news.ycombinator.com/item?id=39054319) - [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
@@ -20,7 +21,6 @@
 * [2024-01-18, 23:13:04](https://news.ycombinator.com/item?id=39049284) - [The Geometry of Other People](https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:12:54](https://news.ycombinator.com/item?id=39047825) - [Relearning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
-* [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 20:05:58](https://news.ycombinator.com/item?id=39046904) - [Lost Highway: The trials of trucking school](https://harpers.org/archive/2024/02/lost-highway-emily-gogolak/)
 * [2024-01-18, 19:10:42](https://news.ycombinator.com/item?id=39046190) - [Hooted from the Stage: review of two new books on Keats](https://www.lrb.co.uk/the-paper/v46/n02/susan-eilenberg/hooted-from-the-stage)
 * [2024-01-18, 16:41:17](https://news.ycombinator.com/item?id=39043956) - [The case for single-stair multifamily](https://www.thesisdriven.com/p/the-case-for-single-stair-multifamily)
