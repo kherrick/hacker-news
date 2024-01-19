@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 06:56:08](https://news.ycombinator.com/item?id=39052386) - [File Formats Debunk – Why you should stop rendering to PNG (and use EXR instead)](https://skientia.co/cgi/image-formats)
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 06:17:05](https://news.ycombinator.com/item?id=39052116) - [The Movement to 'Make America Rake Again'](https://reasonstobecheerful.world/make-america-rake-again-leaf-blower-bans/)
 * [2024-01-19, 06:04:44](https://news.ycombinator.com/item?id=39052051) - [David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
