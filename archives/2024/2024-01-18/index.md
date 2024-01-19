@@ -31,6 +31,7 @@
 * [2024-01-18, 19:38:51](https://news.ycombinator.com/item?id=39046534) - [The Miele Dialog: cook a fish in ice without melting the ice](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)
 * [2024-01-18, 19:16:26](https://news.ycombinator.com/item?id=39046264) - [My First Week at Google](https://social.clawhammer.net/blog/posts/2005-09-25-FirstWeekAtGoogle/)
 * [2024-01-18, 19:11:06](https://news.ycombinator.com/item?id=39046193) - [Zuckerberg's Meta Is Spending Billions to Buy 350k Nvidia H100 GPUs](https://www.pcmag.com/news/zuckerbergs-meta-is-spending-billions-to-buy-350000-nvidia-h100-gpus)
+* [2024-01-18, 19:10:42](https://news.ycombinator.com/item?id=39046190) - [Hooted from the Stage: review of two new books on Keats](https://www.lrb.co.uk/the-paper/v46/n02/susan-eilenberg/hooted-from-the-stage)
 * [2024-01-18, 19:08:59](https://news.ycombinator.com/item?id=39046167) - [A Lego Model of Corporate Capitalism](https://brettscott.substack.com/p/a-lego-model-of-corporate-capitalism)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
 * [2024-01-18, 18:26:34](https://news.ycombinator.com/item?id=39045545) - [Show HN: I made a website to share rejection letters](https://rejectedagain.lol)
