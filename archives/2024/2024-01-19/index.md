@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
 * [2024-01-19, 11:41:32](https://news.ycombinator.com/item?id=39054319) - [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
 * [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 12:00:09](https://news.ycombinator.com/item?id=39054455) - [Nango (YC W23) Is Hiring Back End Engineers (Remote)](https://nango.dev/jobs)
 * [2024-01-19, 11:41:32](https://news.ycombinator.com/item?id=39054319) - [Saving Linux](https://cheapskatesguide.org/articles/saving-linux.html)
 * [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
@@ -17,7 +18,6 @@
 * [2024-01-18, 23:53:32](https://news.ycombinator.com/item?id=39049703) - [AlphaFold Found Possible Psychedelics](https://www.nature.com/articles/d41586-024-00130-8)
 * [2024-01-18, 23:53:05](https://news.ycombinator.com/item?id=39049691) - [10 Second Teleportation](https://upollo.ai/blog/10-second-teleportation)
 * [2024-01-18, 23:13:04](https://news.ycombinator.com/item?id=39049284) - [The Geometry of Other People](https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds)
-* [2024-01-18, 23:07:29](https://news.ycombinator.com/item?id=39049217) - [YouTube and Spotify won't launch Apple Vision Pro apps, joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:12:54](https://news.ycombinator.com/item?id=39047825) - [Relearning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
