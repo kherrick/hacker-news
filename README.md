@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 20:37:31](https://news.ycombinator.com/item?id=39060793) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
@@ -28,7 +29,6 @@
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Winding down Google Sync and Less Secure Apps support](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-* [2024-01-18, 11:57:19](https://news.ycombinator.com/item?id=39040697) - [Running Open Genera 2.0 on Linux](https://archives.loomcom.com/genera/genera-install.html)
 * [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
 ## [Archives](archives/index.md)
