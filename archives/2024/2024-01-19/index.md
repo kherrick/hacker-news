@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 21:35:23](https://news.ycombinator.com/item?id=39061522) - [What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
 * [2024-01-19, 20:37:31](https://news.ycombinator.com/item?id=39060793) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:08:28](https://news.ycombinator.com/item?id=39060410) - [Bitcoin Is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
@@ -19,6 +20,7 @@
 * [2024-01-19, 18:23:51](https://news.ycombinator.com/item?id=39059097) - [Berlin, the European city where selfies are 'awkward'](https://www.bbc.com/travel/article/20240115-the-european-city-where-selfies-are-awkward)
 * [2024-01-19, 18:22:23](https://news.ycombinator.com/item?id=39059084) - [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
 * [2024-01-19, 18:17:19](https://news.ycombinator.com/item?id=39059019) - [Germany Reforms Citizenship Law](https://www.dw.com/en/germanys-parliament-approves-easing-dual-citizenship/a-68030714)
+* [2024-01-19, 18:03:14](https://news.ycombinator.com/item?id=39058808) - [First AI Medical Device That Detects Major Skin Cancers Received FDA Approval](https://digialps.com/the-first-ai-medical-device-that-can-detect-all-major-skin-cancers-just-received-fda-approval/)
 * [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
 * [2024-01-19, 17:23:39](https://news.ycombinator.com/item?id=39058122) - [Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)

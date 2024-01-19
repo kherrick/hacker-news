@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 21:35:23](https://news.ycombinator.com/item?id=39061522) - [What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
 * [2024-01-19, 20:37:31](https://news.ycombinator.com/item?id=39060793) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
@@ -9,6 +10,7 @@
 * [2024-01-19, 19:02:37](https://news.ycombinator.com/item?id=39059567) - [Apple Ramps Up R&D Intensity to Pre-iPhone Levels](https://www.statista.com/chart/2502/apples-r-and-d-expenditure/)
 * [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
+* [2024-01-19, 18:03:14](https://news.ycombinator.com/item?id=39058808) - [First AI Medical Device That Detects Major Skin Cancers Received FDA Approval](https://digialps.com/the-first-ai-medical-device-that-can-detect-all-major-skin-cancers-just-received-fda-approval/)
 * [2024-01-19, 17:23:39](https://news.ycombinator.com/item?id=39058122) - [Surveillance-by-Design in Proposed Amendments to the UK Investigatory Powers Act](https://www.lawfaremedia.org/article/surveillance-by-design-in-proposed-amendments-to-the-u.k.-investigatory-powers-act)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
 * [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [Surf the web like it's 1999](https://billsworld.neocities.org/)
@@ -26,8 +28,6 @@
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-* [2024-01-19, 06:34:23](https://news.ycombinator.com/item?id=39052219) - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
-* [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Winding down Google Sync and Less Secure Apps support](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
