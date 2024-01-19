@@ -12,6 +12,7 @@
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 21:43:56](https://news.ycombinator.com/item?id=39048228) - [Live: Axiom Mission 3 Launches to the International Space Station [video]](https://www.youtube.com/watch?v=1nXlbgjIoP4)
 * [2024-01-18, 21:37:07](https://news.ycombinator.com/item?id=39048120) - [VMware Kills Off 56 Products](https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/)
+* [2024-01-18, 21:12:54](https://news.ycombinator.com/item?id=39047825) - [How I'm (re)learning math as an adult](https://gmays.com/how-im-relearning-math-as-an-adult/)
 * [2024-01-18, 21:00:07](https://news.ycombinator.com/item?id=39047641) - [Pornhub Wants Proof of Consent from Every Single Performer on Its Platform](https://www.404media.co/pornhub-consent-verification-policy-for-performers/)
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 * [2024-01-18, 20:46:22](https://news.ycombinator.com/item?id=39047451) - [Zuck: Our long term vision is to build general intelligence, open source it](https://www.threads.net/@zuck/post/C2QB4NGRVHn)
