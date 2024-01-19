@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
 * [2024-01-19, 08:28:52](https://news.ycombinator.com/item?id=39053000) - [Netanyahu tells US he opposes creation of Palestinian state after Gaza war](https://www.theguardian.com/world/2024/jan/18/netanyahu-tells-us-opposes-palestinian-state-after-gaza-war)
 * [2024-01-19, 08:13:18](https://news.ycombinator.com/item?id=39052907) - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
 * [2024-01-19, 06:56:08](https://news.ycombinator.com/item?id=39052386) - [File Formats Debunk – Why you should stop rendering to PNG (and use EXR instead)](https://skientia.co/cgi/image-formats)

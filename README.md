@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 10:30:03](https://news.ycombinator.com/item?id=39053830) - [Driver hack lets you run Linux after Windows BSODs, no reboot required](https://www.tomshardware.com/software/operating-systems/driver-hack-lets-you-run-linux-after-windows-bsods-no-reboot-required)
 * [2024-01-19, 08:13:18](https://news.ycombinator.com/item?id=39052907) - [Microsoft limits institutional cloud storage space for environmental reasons](https://scholar.social/@researchfairy/111778617625312456)
 * [2024-01-19, 06:34:47](https://news.ycombinator.com/item?id=39052224) - [Show HN: Go – Some of the best Go packages](https://github.com/go-awesome)
 * [2024-01-19, 06:34:23](https://news.ycombinator.com/item?id=39052219) - [LoaderShip – CSS-Only Loaders](https://www.loadership.com/)
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 06:04:44](https://news.ycombinator.com/item?id=39052051) - [David Mills' Fuzzball](https://github.com/pdp11/fuzzball-operating-system)
 * [2024-01-19, 05:28:14](https://news.ycombinator.com/item?id=39051876) - [What Is Scalability Anyway?](https://brooker.co.za/blog/2024/01/18/scalability.html)
-* [2024-01-19, 05:17:40](https://news.ycombinator.com/item?id=39051820) - [Are Pop Lyrics Getting More Repetitive?](https://pudding.cool/2017/05/song-repetition/)
 * [2024-01-19, 04:54:56](https://news.ycombinator.com/item?id=39051691) - [Four Magic Words](https://www.fortressofdoors.com/four-magic-words/)
 * [2024-01-19, 04:46:32](https://news.ycombinator.com/item?id=39051655) - [Culture Change at Google](https://social.clawhammer.net/blog/posts/2024-01-19-CultureChange/)
 * [2024-01-19, 04:17:13](https://news.ycombinator.com/item?id=39051508) - [Mourning Google](https://www.tbray.org/ongoing/When/202x/2024/01/15/Google-2024)
