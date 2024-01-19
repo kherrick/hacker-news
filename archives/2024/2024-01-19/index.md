@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun:'Human-level artificial intelligence is going to take a long time'](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
+* [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
 * [2024-01-19, 19:15:09](https://news.ycombinator.com/item?id=39059727) - [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
 * [2024-01-19, 19:05:15](https://news.ycombinator.com/item?id=39059610) - [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
 * [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
