@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 23:16:25](https://news.ycombinator.com/item?id=39062721) - [An Honest Diversity Statement](https://lawliberty.org/an-honest-diversity-statement/)
 * [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
-* [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:32:27](https://news.ycombinator.com/item?id=39061489) - [Knockoff Iranian drone sold on Alibaba was meant for war, documents show](https://www.vice.com/en/article/3akeqk/knockoff-iranian-drone-sold-on-alibaba-was-meant-for-war-documents-show)
 * [2024-01-19, 20:54:33](https://news.ycombinator.com/item?id=39061000) - [A pair of DeepMind scientists talking with investors about forming an AI startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)

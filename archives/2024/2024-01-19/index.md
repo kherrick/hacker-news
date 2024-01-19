@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 23:16:25](https://news.ycombinator.com/item?id=39062721) - [An Honest Diversity Statement](https://lawliberty.org/an-honest-diversity-statement/)
 * [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 * [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:35:23](https://news.ycombinator.com/item?id=39061522) - [What's something difficult programmers make look easy?](https://tomaszs2.medium.com/whats-something-very-hard-that-programmers-make-look-easy-80ef5e7a104b)
