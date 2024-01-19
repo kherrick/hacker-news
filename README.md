@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-19, 04:26:10](https://news.ycombinator.com/item?id=39051551) - [Thailand: Man jailed for 50 years for defaming monarchy](https://www.bbc.com/news/world-asia-68020494)
+* [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-19, 03:01:16](https://news.ycombinator.com/item?id=39051100) - [Assistant Dictator Book Club: America Against America](https://www.astralcodexten.com/p/assistant-dictator-book-club-america)
 * [2024-01-19, 02:37:29](https://news.ycombinator.com/item?id=39050967) - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
@@ -14,7 +15,6 @@
 * [2024-01-18, 20:53:17](https://news.ycombinator.com/item?id=39047541) - [Noisy brain may underlie some of autism's sensory features](https://www.thetransmitter.org/spectrum/noisy-brain-may-underlie-some-of-autisms-sensory-features/)
 * [2024-01-18, 20:20:39](https://news.ycombinator.com/item?id=39047102) - [Cracking the code of Linear B](https://antigonejournal.com/2024/01/decipherment-linear-b/)
 * [2024-01-18, 18:29:57](https://news.ycombinator.com/item?id=39045598) - [WebGPU is now available on Android](https://developer.chrome.com/blog/new-in-webgpu-121)
-* [2024-01-18, 18:05:02](https://news.ycombinator.com/item?id=39045153) - [Mark Zuckerberg’s new goal is creating artificial general intelligence](https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview)
 * [2024-01-18, 17:54:27](https://news.ycombinator.com/item?id=39044985) - [New cancer drug kinder than chemotherapy](https://www.bbc.com/news/health-67793887)
 * [2024-01-18, 17:35:11](https://news.ycombinator.com/item?id=39044727) - [Virtual tour of Museum of Failure](https://collection.museumoffailure.com/)
 * [2024-01-18, 17:25:43](https://news.ycombinator.com/item?id=39044586) - [What happened to the US machine tool industry?](https://www.construction-physics.com/p/what-happened-to-the-us-machine-tool)
