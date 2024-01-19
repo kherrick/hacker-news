@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
