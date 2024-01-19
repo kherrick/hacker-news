@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39051246"
     ],
     [
-      "Dave Mills has passed away",
+      "Dave Mills has died",
       "https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html"
     ]
   ],
@@ -127,6 +127,16 @@
     [
       "Cracking the code of Linear B",
       "https://antigonejournal.com/2024/01/decipherment-linear-b/"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 18:29:57",
+      "https://news.ycombinator.com/item?id=39045598"
+    ],
+    [
+      "WebGPU is now available on Android",
+      "https://developer.chrome.com/blog/new-in-webgpu-121"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "White space does matter in C23",
       "https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 23:19:32",
-      "https://news.ycombinator.com/item?id=39007384"
-    ],
-    [
-      "Pwned Certificates on the Fediverse",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html"
     ]
   ]
 ]
