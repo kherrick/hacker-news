@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
+* [2024-01-19, 18:22:23](https://news.ycombinator.com/item?id=39059084) - [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
 * [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [Surf the web like it's 1999](https://billsworld.neocities.org/)
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
@@ -23,13 +25,11 @@
 * [2024-01-19, 06:30:36](https://news.ycombinator.com/item?id=39052196) - [Winding down Google Sync and Less Secure Apps support](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
 * [2024-01-19, 03:48:01](https://news.ycombinator.com/item?id=39051362) - [Orthic Shorthand – Write as fast as you type](https://orthic.shorthand.fun/)
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
-* [2024-01-19, 00:00:28](https://news.ycombinator.com/item?id=39049782) - [Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi](https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/)
 * [2024-01-18, 23:13:04](https://news.ycombinator.com/item?id=39049284) - [The geometry of other people](https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 * [2024-01-18, 19:50:24](https://news.ycombinator.com/item?id=39046697) - [A fuel cell that harvests energy from microbes living in dirt](https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/)
 * [2024-01-18, 11:57:19](https://news.ycombinator.com/item?id=39040697) - [Run Lisp machine emulator on Linux](https://archives.loomcom.com/genera/genera-install.html)
 * [2024-01-17, 22:40:16](https://news.ycombinator.com/item?id=39034603) - [Cerne Abbas giant is Hercules and was army meeting point, say historians](https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians)
-* [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
 ## [Archives](archives/index.md)
 

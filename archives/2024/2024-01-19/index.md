@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
+* [2024-01-19, 18:22:23](https://news.ycombinator.com/item?id=39059084) - [Mistral looks set to challenge AI frontrunners Google and OpenAI](https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681)
 * [2024-01-19, 17:54:36](https://news.ycombinator.com/item?id=39058685) - [Japan's SLIM spacecraft lands on the moon but is not generating power](https://spacenews.com/japan-makes-history-with-tense-successful-moon-landing/)
 * [2024-01-19, 17:34:53](https://news.ycombinator.com/item?id=39058291) - [Passit: Open-Source Password Manager](https://passit.io/)
 * [2024-01-19, 17:15:50](https://news.ycombinator.com/item?id=39058001) - [New $3k Couch Might Be Garbage in Three Years](https://www.wsj.com/lifestyle/couch-sofa-quality-furniture-repairs-17cfd724)
