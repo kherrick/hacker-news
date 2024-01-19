@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
 * [2024-01-19, 03:27:58](https://news.ycombinator.com/item?id=39051246) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+* [2024-01-19, 03:01:16](https://news.ycombinator.com/item?id=39051100) - [Assistant Dictator Book Club: America Against America](https://www.astralcodexten.com/p/assistant-dictator-book-club-america)
 * [2024-01-19, 02:53:12](https://news.ycombinator.com/item?id=39051053) - [Curl is now a CVE Numbering Authority](https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/)
 * [2024-01-19, 02:37:29](https://news.ycombinator.com/item?id=39050967) - [Show HN: Quetta – A privacy-first web browser with enhanced ad blocker inside](https://www.quetta.net/)
 * [2024-01-19, 02:28:24](https://news.ycombinator.com/item?id=39050905) - [Show HN: Lightweight Productivity Tool](https://zlinky.com/)
