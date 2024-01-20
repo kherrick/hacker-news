@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 17:09:41](https://news.ycombinator.com/item?id=39069792) - [Previously, On Arrested Development – NPR's guide to running gags from the show](https://apps.npr.org/arrested-development/)
+* [2024-01-20, 17:06:45](https://news.ycombinator.com/item?id=39069743) - [Forget Apple Vision Pro – rabbit r1 is 2024's most exciting launch yet](https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
 * [2024-01-20, 16:56:41](https://news.ycombinator.com/item?id=39069605) - [The web will be Vision Pro's killer app](https://www.theverge.com/2024/1/20/24044343/apple-vision-pro-safari-killer-app)
 * [2024-01-20, 16:54:15](https://news.ycombinator.com/item?id=39069576) - [For a moment there, Lotus Notes appeared to do everything a company needed](https://www.theregister.com/2024/01/19/remembering_lotus_notes/)
 * [2024-01-20, 15:52:33](https://news.ycombinator.com/item?id=39068776) - [I literally spoke with Nvidia's AI-powered video game NPCs](https://www.theverge.com/24031687/nvidia-ai-npcs-convai-ces-2023)
 * [2024-01-20, 15:03:07](https://news.ycombinator.com/item?id=39068217) - [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
+* [2024-01-20, 14:50:13](https://news.ycombinator.com/item?id=39068065) - [You Don't Need to Document Everything](https://www.freyaindia.co.uk/p/you-dont-need-to-document-everything)
 * [2024-01-20, 14:41:13](https://news.ycombinator.com/item?id=39067974) - [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
 * [2024-01-20, 14:38:35](https://news.ycombinator.com/item?id=39067949) - [Google search is losing the fight with SEO spam](https://arstechnica.com/gadgets/2024/01/google-search-is-losing-the-fight-with-seo-spam-study-says/)
 * [2024-01-20, 14:35:20](https://news.ycombinator.com/item?id=39067912) - [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
