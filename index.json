@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 18:54:28",
+      "https://news.ycombinator.com/item?id=39070975"
+    ],
+    [
+      "Many AI researchers think fakes will become undetectable",
+      "https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 18:45:15",
       "https://news.ycombinator.com/item?id=39070871"
     ],
@@ -27,16 +37,6 @@
     [
       "Please don't make me use another QR code restaurant menu",
       "https://thewalrus.ca/qr-code-restaurant-menu/"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 17:18:41",
-      "https://news.ycombinator.com/item?id=39069910"
-    ],
-    [
-      "Old'aVista, a Guide to the Old Internet",
-      "https://oldavista.com/"
     ]
   ],
   [
@@ -81,6 +81,36 @@
   ],
   [
     [
+      "2024-01-20, 15:03:07",
+      "https://news.ycombinator.com/item?id=39068217"
+    ],
+    [
+      "Emergency-hired teachers without degrees as effective as licensed educators",
+      "https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 15:00:57",
+      "https://news.ycombinator.com/item?id=39068186"
+    ],
+    [
+      "What happens when you trigger a car's automated emergency stopping?",
+      "https://arstechnica.com/cars/2024/01/what-happens-when-you-trigger-a-cars-automated-emergency-stopping/"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 13:51:17",
+      "https://news.ycombinator.com/item?id=39067536"
+    ],
+    [
+      "Lee Kuan Yew on Malta",
+      "https://www.karlsnotes.com/lee-kuan-yew-on-malta/"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 13:44:41",
       "https://news.ycombinator.com/item?id=39067496"
     ],
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2024-01-20, 13:01:42",
-      "https://news.ycombinator.com/item?id=39067213"
+      "2024-01-20, 12:02:32",
+      "https://news.ycombinator.com/item?id=39066801"
     ],
     [
-      "Tell HN: Russia has started blocking all OpenVPN/WireGuard connections",
-      "https://news.ycombinator.com/item?id=39067213"
+      "Chile searches for those missing from Pinochet dictatorship with the help of AI",
+      "https://english.elpais.com/international/2024-01-18/chile-searches-for-those-missing-from-pinochet-dictatorship-with-the-help-of-artificial-intelligence.html"
     ]
   ],
   [
@@ -121,12 +151,12 @@
   ],
   [
     [
-      "2024-01-20, 11:12:13",
-      "https://news.ycombinator.com/item?id=39066449"
+      "2024-01-20, 11:11:25",
+      "https://news.ycombinator.com/item?id=39066444"
     ],
     [
-      "TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval",
-      "https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval"
+      "Amazon has taken down the Sad Bastard Cookbook",
+      "https://wandering.shop/@youseeatortoise/111782434593735690"
     ]
   ],
   [
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2024-01-20, 09:26:19",
-      "https://news.ycombinator.com/item?id=39065932"
+      "2024-01-20, 08:15:23",
+      "https://news.ycombinator.com/item?id=39065637"
     ],
     [
-      "The evolution of C64 games 1982–2023",
-      "http://www.linusakesson.net/games/evolution/c64.php"
+      "Pipeline-Oriented Programming [video]",
+      "https://www.youtube.com/watch?v=ipceTuJlw-M"
     ]
   ],
   [
@@ -171,42 +201,22 @@
   ],
   [
     [
+      "2024-01-20, 06:19:49",
+      "https://news.ycombinator.com/item?id=39065201"
+    ],
+    [
+      "Ask HN: Are you using SQLite and Litestream in production?",
+      "https://news.ycombinator.com/item?id=39065201"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 06:06:11",
       "https://news.ycombinator.com/item?id=39065144"
     ],
     [
       "Lowercase letters save data",
       "https://endtimes.dev/why-lowercase-letters-save-data/"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 03:38:02",
-      "https://news.ycombinator.com/item?id=39064428"
-    ],
-    [
-      "VNote: A pleasant note-taking platform",
-      "https://app.vnote.fun/en_us/"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 02:51:42",
-      "https://news.ycombinator.com/item?id=39064174"
-    ],
-    [
-      "On Leibniz Notation",
-      "https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 01:12:16",
-      "https://news.ycombinator.com/item?id=39063596"
-    ],
-    [
-      "Textart.sh",
-      "https://textart.sh"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Lamport's Bakery algorithm, demonstrated in Python",
       "https://github.com/Dicklesworthstone/bakery_algorithm"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 14:52:41",
-      "https://news.ycombinator.com/item?id=39056169"
-    ],
-    [
-      "Researchers claim first functioning graphene-based chip",
-      "https://spectrum.ieee.org/graphene-semiconductor"
     ]
   ],
   [
