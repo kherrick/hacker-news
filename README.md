@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
 * [2024-01-20, 11:19:38](https://news.ycombinator.com/item?id=39066480) - [An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
 * [2024-01-20, 11:16:10](https://news.ycombinator.com/item?id=39066465) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
@@ -20,7 +21,6 @@
 * [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-19, 22:54:20](https://news.ycombinator.com/item?id=39062474) - [The Library of Consciousness – Alan Watts](https://www.organism.earth/library/author/alan-watts)
 * [2024-01-19, 21:41:28](https://news.ycombinator.com/item?id=39061587) - [Platform Tilt](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
