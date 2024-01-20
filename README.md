@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
+* [2024-01-20, 20:32:59](https://news.ycombinator.com/item?id=39071992) - [Are we making the best notion open source alternative?](https://affine.pro)
 * [2024-01-20, 19:52:35](https://news.ycombinator.com/item?id=39071567) - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
 * [2024-01-20, 19:22:08](https://news.ycombinator.com/item?id=39071248) - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
 * [2024-01-20, 19:16:48](https://news.ycombinator.com/item?id=39071195) - [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
@@ -21,10 +23,8 @@
 * [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a minimal cell in the browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's talk about joins](https://cghlewis.com/blog/joins/)
-* [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
-* [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:44:51](https://news.ycombinator.com/item?id=39060125) - [Museum of Obsolete Objects](https://www.youtube.com/user/MoooJvM)
 * [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun: Human-level artificial intelligence is going to take a long time](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
+* [2024-01-20, 20:32:59](https://news.ycombinator.com/item?id=39071992) - [Are we making the best notion open source alternative?](https://affine.pro)
 * [2024-01-20, 19:56:10](https://news.ycombinator.com/item?id=39071599) - [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
 * [2024-01-20, 19:53:46](https://news.ycombinator.com/item?id=39071576) - [Qualcomm's Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
 * [2024-01-20, 19:52:35](https://news.ycombinator.com/item?id=39071567) - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
