@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 15:03:07](https://news.ycombinator.com/item?id=39068217) - [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
 * [2024-01-20, 14:41:13](https://news.ycombinator.com/item?id=39067974) - [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
 * [2024-01-20, 14:35:20](https://news.ycombinator.com/item?id=39067912) - [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
@@ -31,6 +32,7 @@
 * [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
 * [2024-01-20, 07:18:56](https://news.ycombinator.com/item?id=39065429) - [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
+* [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
 * [2024-01-20, 06:19:49](https://news.ycombinator.com/item?id=39065201) - [Ask HN: Are you using SQLite and Litestream in production?](https://news.ycombinator.com/item?id=39065201)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 04:54:14](https://news.ycombinator.com/item?id=39064820) - [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)

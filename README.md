@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 15:03:07](https://news.ycombinator.com/item?id=39068217) - [Emergency-Hired Teachers Without Degrees as Effective as Licensed Educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
 * [2024-01-20, 14:41:13](https://news.ycombinator.com/item?id=39067974) - [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
-* [2024-01-20, 14:35:20](https://news.ycombinator.com/item?id=39067912) - [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
@@ -17,6 +17,7 @@
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
+* [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 03:38:02](https://news.ycombinator.com/item?id=39064428) - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 * [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
@@ -28,7 +29,6 @@
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:52:36](https://news.ycombinator.com/item?id=39056168) - [ZX Spectrum Next Issue 2 ships out, and El Reg talks to the project founder](https://www.theregister.com/2024/01/19/return_of_spectrum_next/)
-* [2024-01-19, 14:02:24](https://news.ycombinator.com/item?id=39055517) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 
 ## [Archives](archives/index.md)
