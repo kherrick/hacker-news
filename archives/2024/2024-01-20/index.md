@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 04:54:14](https://news.ycombinator.com/item?id=39064820) - [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)
 * [2024-01-20, 04:44:34](https://news.ycombinator.com/item?id=39064764) - [An American Helped Iceland Fix Its Teen Substance Abuse Problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
