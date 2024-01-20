@@ -58,6 +58,7 @@
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
 * [2024-01-20, 07:18:56](https://news.ycombinator.com/item?id=39065429) - [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
 * [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
+* [2024-01-20, 06:24:59](https://news.ycombinator.com/item?id=39065216) - [Our Little Stupid Bodies](https://radiolab.org/podcast/our-stupid-little-bodies)
 * [2024-01-20, 06:19:49](https://news.ycombinator.com/item?id=39065201) - [Ask HN: Are you using SQLite and Litestream in production?](https://news.ycombinator.com/item?id=39065201)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 04:54:14](https://news.ycombinator.com/item?id=39064820) - [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)
