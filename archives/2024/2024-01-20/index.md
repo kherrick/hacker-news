@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 11:11:25](https://news.ycombinator.com/item?id=39066444) - [The Sad Bastard Cookbook Removed from Amazon](https://wandering.shop/@youseeatortoise/111782434593735690)
+* [2024-01-20, 10:31:17](https://news.ycombinator.com/item?id=39066202) - [Google to invest $1B in UK data centre](https://www.reuters.com/technology/google-invest-1-billion-uk-data-centre-2024-01-18/)
 * [2024-01-20, 10:16:27](https://news.ycombinator.com/item?id=39066140) - [Science's Assault on Free Will](https://lawliberty.org/sciences-assault-on-free-will/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 09:57:09](https://news.ycombinator.com/item?id=39066052) - [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)

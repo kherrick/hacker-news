@@ -49,6 +49,7 @@
 * [2024-01-19, 16:17:28](https://news.ycombinator.com/item?id=39057154) - [U.S. moves to increase minimum legal size of commercial lobster](https://www.cbc.ca/news/canada/nova-scotia/us-moves-to-increase-minimum-legal-size-of-lobster-1.7088478)
 * [2024-01-19, 16:04:13](https://news.ycombinator.com/item?id=39057005) - [Voxos.ai – An Open-Source Desktop Voice Assistant](https://gitlab.com/literally-useful/voxos)
 * [2024-01-19, 16:02:05](https://news.ycombinator.com/item?id=39056976) - [System76 Thelio Major Powered by AMD Ryzen Threadripper 7000 Series Performance](https://www.phoronix.com/review/system76-thelio-threadripper-2024)
+* [2024-01-19, 15:57:53](https://news.ycombinator.com/item?id=39056930) - [Lamport's Bakery Algorithm, Demonstrated in Python](https://github.com/Dicklesworthstone/bakery_algorithm)
 * [2024-01-19, 15:57:42](https://news.ycombinator.com/item?id=39056924) - [Apple Vision Pro Weighs Almost as Much as a 12.9-Inch iPad Pro](https://www.macrumors.com/2024/01/19/vision-pro-weighs-almost-as-much-as-ipad-pro/)
 * [2024-01-19, 15:56:01](https://news.ycombinator.com/item?id=39056907) - [A cautionary tale about software dependencies during major geopolitical events](https://blog.benjaminvr.net/2024/01/a-cautionary-tale-about-software-dependencies-in-times-of-major-geopolitical-events.html)
 * [2024-01-19, 15:55:40](https://news.ycombinator.com/item?id=39056902) - [Sourcehut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)
