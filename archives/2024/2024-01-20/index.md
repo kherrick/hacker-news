@@ -13,3 +13,4 @@
 * [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+* [2024-01-20, 00:00:53](https://news.ycombinator.com/item?id=39063106) - [Zig 2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
