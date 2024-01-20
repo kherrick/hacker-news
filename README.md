@@ -7,7 +7,6 @@
 * [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-20, 00:00:53](https://news.ycombinator.com/item?id=39063106) - [Zig 2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
 * [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft actions following attack by nation state actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:41:28](https://news.ycombinator.com/item?id=39061587) - [Platform Tilt](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 21:15:07](https://news.ycombinator.com/item?id=39061275) - [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
@@ -30,6 +29,7 @@
 * [2024-01-19, 14:02:24](https://news.ycombinator.com/item?id=39055517) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
+* [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
 
 ## [Archives](archives/index.md)
 
