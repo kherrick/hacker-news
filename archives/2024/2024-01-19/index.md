@@ -20,6 +20,7 @@
 * [2024-01-19, 20:08:28](https://news.ycombinator.com/item?id=39060410) - [Bitcoin Is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:44:51](https://news.ycombinator.com/item?id=39060125) - [Museum of Obsolete Objects](https://www.youtube.com/user/MoooJvM)
+* [2024-01-19, 19:30:27](https://news.ycombinator.com/item?id=39059925) - [Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun:'Human-level artificial intelligence is going to take a long time'](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
 * [2024-01-19, 19:15:09](https://news.ycombinator.com/item?id=39059727) - [Roadmap for the Xilem back end in 2024](https://linebender.org/blog/xilem-backend-roadmap/)
