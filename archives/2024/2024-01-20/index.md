@@ -8,6 +8,7 @@
 * [2024-01-20, 04:44:34](https://news.ycombinator.com/item?id=39064764) - [An American Helped Iceland Fix Its Teen Substance Abuse Problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
 * [2024-01-20, 04:17:46](https://news.ycombinator.com/item?id=39064632) - [Mike Monteiro: Fuck You, Pay Me [video]](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 * [2024-01-20, 03:16:52](https://news.ycombinator.com/item?id=39064318) - [\"Sugar Alcohols Ruined My Health: Learn from My Mistakes\" [video]](https://www.youtube.com/watch?v=K5v61YtDYo4)
+* [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 * [2024-01-20, 02:45:40](https://news.ycombinator.com/item?id=39064151) - [The Final Nail in Psychiatry's Antidepressant Coffin](https://www.counterpunch.org/2024/01/17/scientific-misconduct-and-fraud-the-final-nail-in-psychiatrys-antidepressant-coffin/)
 * [2024-01-20, 02:21:35](https://news.ycombinator.com/item?id=39064025) - [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)

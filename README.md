@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-20, 04:54:14](https://news.ycombinator.com/item?id=39064820) - [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)
 * [2024-01-20, 04:44:34](https://news.ycombinator.com/item?id=39064764) - [An American Helped Iceland Fix Its Teen Substance Abuse Problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
 * [2024-01-20, 04:17:46](https://news.ycombinator.com/item?id=39064632) - [Mike Monteiro: Fuck You, Pay Me [video]](https://www.youtube.com/watch?v=jVkLVRt6c1U)
+* [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 * [2024-01-20, 02:00:07](https://news.ycombinator.com/item?id=39063911) - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
