@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 21:20:25",
+      "https://news.ycombinator.com/item?id=39072468"
+    ],
+    [
+      "GraphQL and the Beads on a String",
+      "https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 20:41:59",
       "https://news.ycombinator.com/item?id=39072079"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-01-20, 18:54:28",
-      "https://news.ycombinator.com/item?id=39070975"
-    ],
-    [
-      "Many AI researchers think fakes will become undetectable",
-      "https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 18:45:15",
       "https://news.ycombinator.com/item?id=39070871"
     ],
@@ -97,16 +97,6 @@
     [
       "The Orange Pi 5 Plus",
       "https://taoofmac.com/space/blog/2024/01/20/1800"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 17:41:41",
-      "https://news.ycombinator.com/item?id=39070163"
-    ],
-    [
-      "Memory leak proof every C program",
-      "https://flak.tedunangst.com/post/memory-leak-proof-every-C-program"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Lee Kuan Yew on Malta",
       "https://www.karlsnotes.com/lee-kuan-yew-on-malta/"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 13:10:11",
+      "https://news.ycombinator.com/item?id=39067261"
+    ],
+    [
+      "Crafting a Handheld Game Console with RP2040 – An Open Source PCB Design Journey",
+      "https://codetiger.github.io/blog/my-first-attempt-on-pcb-designing-based-on-rp2040/"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-01-19, 20:02:55",
-      "https://news.ycombinator.com/item?id=39060339"
-    ],
-    [
-      "Ceph: A Journey to 1 TiB/s",
-      "https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 19:44:51",
       "https://news.ycombinator.com/item?id=39060125"
     ],
     [
       "Museum of Obsolete Objects",
       "https://www.youtube.com/user/MoooJvM"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 19:30:27",
+      "https://news.ycombinator.com/item?id=39059925"
+    ],
+    [
+      "Memory leak proof every C program",
+      "https://flak.tedunangst.com/post/memory-leak-proof-every-C-program"
     ]
   ],
   [
