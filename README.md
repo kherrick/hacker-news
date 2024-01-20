@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 17:18:41](https://news.ycombinator.com/item?id=39069910) - [Old'aVista, a Guide to the Old Internet](https://oldavista.com/)
 * [2024-01-20, 17:14:02](https://news.ycombinator.com/item?id=39069847) - [Huge proportion of internet is AI-generated slime, researchers find](https://futurism.com/the-byte/internet-ai-generated-slime)
 * [2024-01-20, 17:11:29](https://news.ycombinator.com/item?id=39069816) - [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391)
-* [2024-01-20, 17:09:41](https://news.ycombinator.com/item?id=39069792) - [Previously, On Arrested Development – NPR's guide to running gags from the show](https://apps.npr.org/arrested-development/)
 * [2024-01-20, 17:06:45](https://news.ycombinator.com/item?id=39069743) - [Forget Apple Vision Pro – rabbit r1 is 2024's most exciting launch yet](https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
 * [2024-01-20, 16:54:15](https://news.ycombinator.com/item?id=39069576) - [For a moment there, Lotus Notes appeared to do everything a company needed](https://www.theregister.com/2024/01/19/remembering_lotus_notes/)
@@ -22,7 +22,6 @@
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
 * [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
-* [2024-01-20, 03:38:02](https://news.ycombinator.com/item?id=39064428) - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 * [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
@@ -30,6 +29,7 @@
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 15:57:53](https://news.ycombinator.com/item?id=39056930) - [Lamport's Bakery Algorithm, Demonstrated in Python](https://github.com/Dicklesworthstone/bakery_algorithm)
 * [2024-01-19, 14:52:36](https://news.ycombinator.com/item?id=39056168) - [ZX Spectrum Next Issue 2 ships out, and El Reg talks to the project founder](https://www.theregister.com/2024/01/19/return_of_spectrum_next/)
+* [2024-01-19, 14:06:22](https://news.ycombinator.com/item?id=39055561) - [Quicksilver and Clay](https://stevenscrawls.com/quicksilver-and-clay/)
 
 ## [Archives](archives/index.md)
 

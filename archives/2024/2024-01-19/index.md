@@ -69,6 +69,7 @@
 * [2024-01-19, 14:24:29](https://news.ycombinator.com/item?id=39055790) - [How Wise built an $11B company by marketing their mission](https://thecaseforbrand.substack.com/p/how-wise-rallied-people-against-hidden)
 * [2024-01-19, 14:22:43](https://news.ycombinator.com/item?id=39055768) - [Haier Threatens Legal Action Against Home Assistant Plugin Developer](https://hackaday.com/2024/01/19/haier-threatens-legal-action-against-home-assistant-plugin-developer/)
 * [2024-01-19, 14:18:37](https://news.ycombinator.com/item?id=39055716) - [Show HN: Roundtable – Survey fraud and bot detection API](https://news.ycombinator.com/item?id=39055716)
+* [2024-01-19, 14:06:22](https://news.ycombinator.com/item?id=39055561) - [Quicksilver and Clay](https://stevenscrawls.com/quicksilver-and-clay/)
 * [2024-01-19, 14:02:24](https://news.ycombinator.com/item?id=39055517) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [Blue cheeses and Camembert could disappear](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:54:23](https://news.ycombinator.com/item?id=39055442) - [Rumors Circulating That James Webb Has Discovered Life on Another World](https://futurism.com/the-byte/rumors-james-webb-life)
