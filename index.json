@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39070871"
     ],
     [
-      "Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532",
+      "Investigating a vanishing BIOS on the Fujitsu Lifebook AH532",
       "https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html"
     ]
   ],
@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=39070784"
     ],
     [
-      "NASA has lost contact with the Ingenuity helicopter on Mars",
+      "NASA loses contact with Ingenuity Mars helicopter",
       "https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 18:31:00",
+      "https://news.ycombinator.com/item?id=39070730"
+    ],
+    [
+      "The Orange Pi 5 Plus",
+      "https://taoofmac.com/space/blog/2024/01/20/1800"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39069825"
     ],
     [
-      "Challenging the credibility of two recent Netflix documentaries",
+      "Challenges to the credibility of two recent Netflix documentaries",
       "https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Efficient LLM inference solution on Intel GPU",
       "https://arxiv.org/abs/2401.05391"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 17:08:17",
+      "https://news.ycombinator.com/item?id=39069770"
+    ],
+    [
+      "Notes on using Twitter by Nabeel S. Qureshi",
+      "https://nabeelqu.co/twitter"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-01-20, 08:15:23",
-      "https://news.ycombinator.com/item?id=39065637"
-    ],
-    [
-      "Pipeline-Oriented Programming [video]",
-      "https://www.youtube.com/watch?v=ipceTuJlw-M"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 06:52:07",
       "https://news.ycombinator.com/item?id=39065320"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-01-20, 01:09:07",
-      "https://news.ycombinator.com/item?id=39063572"
-    ],
-    [
-      "Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks",
-      "https://www.verandavikings.com/blog/building-lego-iglos"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 00:17:56",
       "https://news.ycombinator.com/item?id=39063242"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-01-19, 20:02:55",
-      "https://news.ycombinator.com/item?id=39060339"
-    ],
-    [
-      "Ceph: A Journey to 1 TiB/s",
-      "https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 19:44:51",
       "https://news.ycombinator.com/item?id=39060125"
     ],
     [
       "Museum of Obsolete Objects",
       "https://www.youtube.com/user/MoooJvM"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 19:28:16",
+      "https://news.ycombinator.com/item?id=39059897"
+    ],
+    [
+      "Yann LeCun: Human-level artificial intelligence is going to take a long time",
+      "https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html"
     ]
   ],
   [
