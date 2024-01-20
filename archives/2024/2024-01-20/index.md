@@ -10,6 +10,7 @@
 * [2024-01-20, 19:22:08](https://news.ycombinator.com/item?id=39071248) - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
 * [2024-01-20, 19:15:00](https://news.ycombinator.com/item?id=39071175) - [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
 * [2024-01-20, 19:14:23](https://news.ycombinator.com/item?id=39071169) - [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
+* [2024-01-20, 18:55:31](https://news.ycombinator.com/item?id=39070991) - [Top Cybersecurity watchdog issues emergency Ivanti directive to federal agencies](https://www.nbcnews.com/tech/security/cisa-issues-emergency-directive-federal-agencies-connect-secure-softwa-rcna134844)
 * [2024-01-20, 18:54:28](https://news.ycombinator.com/item?id=39070975) - [Many AI researchers think fakes will become undetectable](https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:35:48](https://news.ycombinator.com/item?id=39070784) - [NASA has lost contact with the Ingenuity helicopter on Mars](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
