@@ -6,6 +6,7 @@
 
 * [2024-01-20, 19:56:10](https://news.ycombinator.com/item?id=39071599) - [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
 * [2024-01-20, 19:53:46](https://news.ycombinator.com/item?id=39071576) - [Qualcomm's Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
+* [2024-01-20, 19:52:35](https://news.ycombinator.com/item?id=39071567) - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
 * [2024-01-20, 19:22:08](https://news.ycombinator.com/item?id=39071248) - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
 * [2024-01-20, 19:15:00](https://news.ycombinator.com/item?id=39071175) - [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
 * [2024-01-20, 19:14:23](https://news.ycombinator.com/item?id=39071169) - [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
