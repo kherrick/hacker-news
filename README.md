@@ -2,7 +2,6 @@
 
 * [2024-01-20, 03:16:52](https://news.ycombinator.com/item?id=39064318) - [\"Sugar Alcohols Ruined My Health: Learn from My Mistakes\" [video]](https://www.youtube.com/watch?v=K5v61YtDYo4)
 * [2024-01-20, 02:21:35](https://news.ycombinator.com/item?id=39064025) - [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
-* [2024-01-20, 01:54:36](https://news.ycombinator.com/item?id=39063870) - [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 * [2024-01-20, 01:27:17](https://news.ycombinator.com/item?id=39063700) - [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
 * [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
@@ -15,6 +14,7 @@
 * [2024-01-19, 21:15:07](https://news.ycombinator.com/item?id=39061275) - [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
+* [2024-01-19, 19:05:15](https://news.ycombinator.com/item?id=39059610) - [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
 * [2024-01-19, 18:03:14](https://news.ycombinator.com/item?id=39058808) - [First AI medical device that detects major skin cancers received FDA approval](https://digialps.com/the-first-ai-medical-device-that-can-detect-all-major-skin-cancers-just-received-fda-approval/)
 * [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
@@ -29,7 +29,7 @@
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-* [2024-01-17, 22:40:16](https://news.ycombinator.com/item?id=39034603) - [Cerne Abbas giant is Hercules and was army meeting point, say historians](https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians)
+* [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
 ## [Archives](archives/index.md)
 
