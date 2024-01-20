@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
+* [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 03:38:02](https://news.ycombinator.com/item?id=39064428) - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 * [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
@@ -21,7 +22,6 @@
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 16:44:20](https://news.ycombinator.com/item?id=39057502) - [Thailand discovers nearly 15M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
 * [2024-01-19, 16:42:06](https://news.ycombinator.com/item?id=39057461) - [Calculus on Computational Graphs: Backpropagation (2015)](https://colah.github.io/posts/2015-08-Backprop/)
-* [2024-01-19, 16:04:13](https://news.ycombinator.com/item?id=39057005) - [Show HN: Voxos.ai – An Open-Source Desktop Voice Assistant](https://gitlab.com/literally-useful/voxos)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:02:24](https://news.ycombinator.com/item?id=39055517) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
