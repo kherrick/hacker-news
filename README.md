@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-20, 11:19:38](https://news.ycombinator.com/item?id=39066480) - [An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
+* [2024-01-20, 11:16:10](https://news.ycombinator.com/item?id=39066465) - [Pratt Parsers: Expression Parsing Made Easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [2024-01-20, 11:12:13](https://news.ycombinator.com/item?id=39066449) - [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
 * [2024-01-20, 11:11:25](https://news.ycombinator.com/item?id=39066444) - [The Sad Bastard Cookbook Removed from Amazon](https://wandering.shop/@youseeatortoise/111782434593735690)
 * [2024-01-20, 10:51:38](https://news.ycombinator.com/item?id=39066330) - [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
@@ -11,7 +12,6 @@
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 * [2024-01-20, 09:43:15](https://news.ycombinator.com/item?id=39065997) - [B2B SaaS in the AI era is impossible?](https://news.ycombinator.com/item?id=39065997)
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
-* [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
 * [2024-01-20, 07:18:56](https://news.ycombinator.com/item?id=39065429) - [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 03:38:02](https://news.ycombinator.com/item?id=39064428) - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
