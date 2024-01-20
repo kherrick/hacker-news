@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 21:54:53](https://news.ycombinator.com/item?id=39072813) - [Harvard morgue theft ring stole body parts, sold brains, flesh->leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
+* [2024-01-20, 21:36:44](https://news.ycombinator.com/item?id=39072621) - [Facebook Undermines Privacy Protections for Its 2B WhatsApp Users](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users)
+* [2024-01-20, 21:28:41](https://news.ycombinator.com/item?id=39072545) - [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
 * [2024-01-20, 21:20:25](https://news.ycombinator.com/item?id=39072468) - [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
+* [2024-01-20, 21:17:02](https://news.ycombinator.com/item?id=39072427) - [Neatroff – a new implementation of the Troff typesetting system [pdf]](http://litcave.rudi.ir/neatroff.pdf)
+* [2024-01-20, 21:06:37](https://news.ycombinator.com/item?id=39072319) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 * [2024-01-20, 20:32:59](https://news.ycombinator.com/item?id=39071992) - [Are we making the best notion open source alternative?](https://affine.pro)
+* [2024-01-20, 20:16:29](https://news.ycombinator.com/item?id=39071820) - [GPU Reshape – shader instrumentation for everyone](https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset/)
 * [2024-01-20, 19:56:10](https://news.ycombinator.com/item?id=39071599) - [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
 * [2024-01-20, 19:53:46](https://news.ycombinator.com/item?id=39071576) - [Qualcomm's Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
 * [2024-01-20, 19:52:35](https://news.ycombinator.com/item?id=39071567) - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
