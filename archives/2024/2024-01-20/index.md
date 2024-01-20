@@ -18,6 +18,7 @@
 * [2024-01-20, 18:31:00](https://news.ycombinator.com/item?id=39070730) - [The Orange Pi 5 Plus](https://taoofmac.com/space/blog/2024/01/20/1800)
 * [2024-01-20, 17:55:05](https://news.ycombinator.com/item?id=39070313) - [Artists can now poison their images to deter misuse by AI](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
 * [2024-01-20, 17:48:16](https://news.ycombinator.com/item?id=39070246) - [Please Don't Make Me Use Another QR Code Restaurant Menu](https://thewalrus.ca/qr-code-restaurant-menu/)
+* [2024-01-20, 17:30:46](https://news.ycombinator.com/item?id=39070046) - [Why sudden loud booms sometimes occur when it's cold outside](https://www.accuweather.com/en/winter-weather/what-is-a-frost-quake-ice-quake-cryoseism/1477983)
 * [2024-01-20, 17:26:06](https://news.ycombinator.com/item?id=39069992) - [Play Ghost 'N Goblins online, courtesy of Capcom](https://captown.capcom.com/en/retro_games/8/en)
 * [2024-01-20, 17:18:41](https://news.ycombinator.com/item?id=39069910) - [Old'aVista, a Guide to the Old Internet](https://oldavista.com/)
 * [2024-01-20, 17:14:02](https://news.ycombinator.com/item?id=39069847) - [Huge proportion of internet is AI-generated slime, researchers find](https://futurism.com/the-byte/internet-ai-generated-slime)
