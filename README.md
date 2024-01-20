@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 14:41:13](https://news.ycombinator.com/item?id=39067974) - [Ubisoft Says Out Loud: We Want People to Get Used to Not Owning What They Bought](https://www.techdirt.com/2024/01/19/ubisoft-says-it-out-loud-we-want-people-to-get-used-to-not-owning-what-theyve-bought/)
 * [2024-01-20, 14:35:20](https://news.ycombinator.com/item?id=39067912) - [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
@@ -24,7 +25,6 @@
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
-* [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:52:36](https://news.ycombinator.com/item?id=39056168) - [ZX Spectrum Next Issue 2 ships out, and El Reg talks to the project founder](https://www.theregister.com/2024/01/19/return_of_spectrum_next/)
