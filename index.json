@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-20, 19:53:46",
-      "https://news.ycombinator.com/item?id=39071576"
-    ],
-    [
-      "Qualcomm's Adreno 530, a Small Mobile iGPU",
-      "https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 19:52:35",
       "https://news.ycombinator.com/item?id=39071567"
     ],
@@ -97,6 +87,16 @@
     [
       "The Orange Pi 5 Plus",
       "https://taoofmac.com/space/blog/2024/01/20/1800"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 17:41:41",
+      "https://news.ycombinator.com/item?id=39070163"
+    ],
+    [
+      "Memory leak proof every C program",
+      "https://flak.tedunangst.com/post/memory-leak-proof-every-C-program"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-01-20, 06:06:11",
-      "https://news.ycombinator.com/item?id=39065144"
-    ],
-    [
-      "Lowercase letters save data",
-      "https://endtimes.dev/why-lowercase-letters-save-data/"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 00:17:56",
       "https://news.ycombinator.com/item?id=39063242"
     ],
@@ -247,6 +237,16 @@
     [
       "HaptX gloves provide high-fidelity touch feedback of virtual spaces",
       "https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 20:02:55",
+      "https://news.ycombinator.com/item?id=39060339"
+    ],
+    [
+      "Ceph: A Journey to 1 TiB/s",
+      "https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/"
     ]
   ],
   [
