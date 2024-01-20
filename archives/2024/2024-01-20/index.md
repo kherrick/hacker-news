@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 17:48:16](https://news.ycombinator.com/item?id=39070246) - [Please Don't Make Me Use Another QR Code Restaurant Menu](https://thewalrus.ca/qr-code-restaurant-menu/)
 * [2024-01-20, 17:18:41](https://news.ycombinator.com/item?id=39069910) - [Old'aVista, a Guide to the Old Internet](https://oldavista.com/)
 * [2024-01-20, 17:14:02](https://news.ycombinator.com/item?id=39069847) - [Huge proportion of internet is AI-generated slime, researchers find](https://futurism.com/the-byte/internet-ai-generated-slime)
+* [2024-01-20, 17:12:12](https://news.ycombinator.com/item?id=39069825) - [Netflix Documentaries Are Hits. Scientists Hate Them](https://www.wsj.com/science/netflix-ancient-apocalypse-cave-of-bones-science-documentary-debate-df63f403)
 * [2024-01-20, 17:11:29](https://news.ycombinator.com/item?id=39069816) - [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391)
 * [2024-01-20, 17:09:41](https://news.ycombinator.com/item?id=39069792) - [Previously, On Arrested Development – NPR's guide to running gags from the show](https://apps.npr.org/arrested-development/)
 * [2024-01-20, 17:06:45](https://news.ycombinator.com/item?id=39069743) - [Forget Apple Vision Pro – rabbit r1 is 2024's most exciting launch yet](https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/)
