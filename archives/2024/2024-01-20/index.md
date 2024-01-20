@@ -15,6 +15,7 @@
 * [2024-01-20, 18:54:28](https://news.ycombinator.com/item?id=39070975) - [Many AI researchers think fakes will become undetectable](https://www.economist.com/science-and-technology/2024/01/17/many-ai-researchers-think-fakes-will-become-undetectable)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:35:48](https://news.ycombinator.com/item?id=39070784) - [NASA has lost contact with the Ingenuity helicopter on Mars](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
+* [2024-01-20, 18:34:48](https://news.ycombinator.com/item?id=39070770) - [Self-proclaimed 'Bipolar General' is waging war on the stigma of mental illness](https://text.npr.org/1223674516)
 * [2024-01-20, 18:31:00](https://news.ycombinator.com/item?id=39070730) - [The Orange Pi 5 Plus](https://taoofmac.com/space/blog/2024/01/20/1800)
 * [2024-01-20, 17:55:05](https://news.ycombinator.com/item?id=39070313) - [Artists can now poison their images to deter misuse by AI](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
 * [2024-01-20, 17:48:16](https://news.ycombinator.com/item?id=39070246) - [Please Don't Make Me Use Another QR Code Restaurant Menu](https://thewalrus.ca/qr-code-restaurant-menu/)
