@@ -17,7 +17,6 @@
 * [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
 * [2024-01-19, 18:03:14](https://news.ycombinator.com/item?id=39058808) - [First AI medical device that detects major skin cancers received FDA approval](https://digialps.com/the-first-ai-medical-device-that-can-detect-all-major-skin-cancers-just-received-fda-approval/)
-* [2024-01-19, 17:15:21](https://news.ycombinator.com/item?id=39057993) - [Americans are spending billions on stuff they forget to cancel](https://www.wsj.com/business/cancel-subscriptions-save-money-streaming-peacock-da7e6123)
 * [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [Surf the web like it's 1999](https://billsworld.neocities.org/)
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 16:44:20](https://news.ycombinator.com/item?id=39057502) - [Thailand discovers nearly 15M tonnes of lithium](https://www.malaymail.com/news/money/2024/01/19/thailand-discovers-nearly-15-million-tonnes-of-lithium/113414)
@@ -30,6 +29,7 @@
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 * [2024-01-18, 21:51:05](https://news.ycombinator.com/item?id=39048317) - [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
+* [2024-01-17, 22:40:16](https://news.ycombinator.com/item?id=39034603) - [Cerne Abbas giant is Hercules and was army meeting point, say historians](https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians)
 
 ## [Archives](archives/index.md)
 
