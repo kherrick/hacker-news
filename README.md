@@ -2,8 +2,8 @@
 
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
-* [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
+* [2024-01-20, 12:56:38](https://news.ycombinator.com/item?id=39067178) - [Tesla Employees Using Vehicle Cameras to Spy on 'Private Scenes;' Owners Suing](https://www.motorbiscuit.com/tesla-employees-using-vehicle-cameras-to-spy-on-private-scenes-owners-suing/)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
 * [2024-01-20, 11:33:20](https://news.ycombinator.com/item?id=39066568) - [The Knowledge Economy Is Over. Welcome to the Allocation Economy](https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#)
 * [2024-01-20, 11:19:38](https://news.ycombinator.com/item?id=39066480) - [Diskprices.com makes $5k/month with affiliate marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
