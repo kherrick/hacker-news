@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-20, 02:45:40](https://news.ycombinator.com/item?id=39064151) - [The Final Nail in Psychiatry's Antidepressant Coffin](https://www.counterpunch.org/2024/01/17/scientific-misconduct-and-fraud-the-final-nail-in-psychiatrys-antidepressant-coffin/)
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 * [2024-01-20, 02:00:07](https://news.ycombinator.com/item?id=39063911) - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
@@ -14,6 +13,7 @@
 * [2024-01-19, 21:15:07](https://news.ycombinator.com/item?id=39061275) - [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
+* [2024-01-19, 19:05:15](https://news.ycombinator.com/item?id=39059610) - [New York Times Flash-based visualizations work again](https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/)
 * [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
 * [2024-01-19, 18:03:14](https://news.ycombinator.com/item?id=39058808) - [First AI medical device that detects major skin cancers received FDA approval](https://digialps.com/the-first-ai-medical-device-that-can-detect-all-major-skin-cancers-just-received-fda-approval/)
@@ -24,11 +24,11 @@
 * [2024-01-19, 16:42:06](https://news.ycombinator.com/item?id=39057461) - [Calculus on Computational Graphs: Backpropagation (2015)](https://colah.github.io/posts/2015-08-Backprop/)
 * [2024-01-19, 16:04:13](https://news.ycombinator.com/item?id=39057005) - [Show HN: Voxos.ai – An Open-Source Desktop Voice Assistant](https://gitlab.com/literally-useful/voxos)
 * [2024-01-19, 15:55:40](https://news.ycombinator.com/item?id=39056902) - [Sourcehut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)
+* [2024-01-19, 15:37:28](https://news.ycombinator.com/item?id=39056733) - [Canadian man stuck in triangle of e-commerce fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:02:24](https://news.ycombinator.com/item?id=39055517) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
-* [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 
 ## [Archives](archives/index.md)
