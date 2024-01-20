@@ -8,6 +8,7 @@
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 09:57:09](https://news.ycombinator.com/item?id=39066052) - [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
+* [2024-01-20, 09:43:15](https://news.ycombinator.com/item?id=39065997) - [B2B SaaS in the AI era is impossible?](https://news.ycombinator.com/item?id=39065997)
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 * [2024-01-20, 08:13:55](https://news.ycombinator.com/item?id=39065628) - [Why are Teslas' batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
 * [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
