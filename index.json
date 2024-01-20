@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-01-20, 03:16:52",
-      "https://news.ycombinator.com/item?id=39064318"
-    ],
-    [
-      "\"Sugar Alcohols Ruined My Health: Learn from My Mistakes\" [video]",
-      "https://www.youtube.com/watch?v=K5v61YtDYo4"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 02:21:35",
       "https://news.ycombinator.com/item?id=39064025"
     ],
     [
       "Americans are feeling much better about the economy thanks to slowing inflation",
       "https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 02:09:36",
+      "https://news.ycombinator.com/item?id=39063963"
+    ],
+    [
+      "Starlite",
+      "https://en.wikipedia.org/wiki/Starlite"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-01-19, 22:00:01",
-      "https://news.ycombinator.com/item?id=39061839"
-    ],
-    [
-      "The bane of my existence: Supporting both async and sync code in Rust",
-      "https://nullderef.com/blog/rust-async-sync/"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 21:56:51",
       "https://news.ycombinator.com/item?id=39061800"
     ],
@@ -141,12 +131,12 @@
   ],
   [
     [
-      "2024-01-19, 19:05:15",
-      "https://news.ycombinator.com/item?id=39059610"
+      "2024-01-19, 18:40:44",
+      "https://news.ycombinator.com/item?id=39059307"
     ],
     [
-      "New York Times Flash-based visualizations work again",
-      "https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-again/"
+      "Fujitsu bugs that sent innocent people to prison were known \"from the start\"",
+      "https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Researchers claim first functioning graphene-based chip",
       "https://spectrum.ieee.org/graphene-semiconductor"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 14:02:24",
+      "https://news.ycombinator.com/item?id=39055517"
+    ],
+    [
+      "Gleam's New Interactive Language Tour",
+      "https://gleam.run/news/gleams-new-interactive-language-tour/"
     ]
   ],
   [
