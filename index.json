@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 06:06:11",
+      "https://news.ycombinator.com/item?id=39065144"
+    ],
+    [
+      "Why lowercase letters save data",
+      "https://endtimes.dev/why-lowercase-letters-save-data/"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 04:44:34",
       "https://news.ycombinator.com/item?id=39064764"
     ],
@@ -77,16 +87,6 @@
     [
       "What's that touchscreen in my room?",
       "https://laplab.me/posts/whats-that-touchscreen-in-my-room/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 22:00:01",
-      "https://news.ycombinator.com/item?id=39061839"
-    ],
-    [
-      "The bane of my existence: Supporting both async and sync code in Rust",
-      "https://nullderef.com/blog/rust-async-sync/"
     ]
   ],
   [
