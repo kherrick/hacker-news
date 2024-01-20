@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 23:30:29](https://news.ycombinator.com/item?id=39073634) - [Meta Introduces Self-Rewarding Language Model Capable of GPT-4 Level Performance](https://digialps.com/meta-research-introduces-revolutionary-self-rewarding-language-models-capable-of-gpt-4-level-performance/)
 * [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
 * [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
 * [2024-01-20, 22:25:40](https://news.ycombinator.com/item?id=39073077) - [Tomahawk, the Most Important Music App Nobody's Talking About (2012)](https://www.wired.com/2012/02/tomahawk-music-ap/)
@@ -96,6 +97,7 @@
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)
 * [2024-01-20, 02:00:07](https://news.ycombinator.com/item?id=39063911) - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 * [2024-01-20, 01:54:36](https://news.ycombinator.com/item?id=39063870) - [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
+* [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BDE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 * [2024-01-20, 01:27:17](https://news.ycombinator.com/item?id=39063700) - [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
 * [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
