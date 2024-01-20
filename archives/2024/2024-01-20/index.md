@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 11:19:38](https://news.ycombinator.com/item?id=39066480) - [An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
+* [2024-01-20, 11:12:13](https://news.ycombinator.com/item?id=39066449) - [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
 * [2024-01-20, 11:11:25](https://news.ycombinator.com/item?id=39066444) - [The Sad Bastard Cookbook Removed from Amazon](https://wandering.shop/@youseeatortoise/111782434593735690)
+* [2024-01-20, 10:51:38](https://news.ycombinator.com/item?id=39066330) - [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
 * [2024-01-20, 10:31:17](https://news.ycombinator.com/item?id=39066202) - [Google to invest $1B in UK data centre](https://www.reuters.com/technology/google-invest-1-billion-uk-data-centre-2024-01-18/)
 * [2024-01-20, 10:16:27](https://news.ycombinator.com/item?id=39066140) - [Science's Assault on Free Will](https://lawliberty.org/sciences-assault-on-free-will/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
