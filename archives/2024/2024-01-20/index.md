@@ -6,6 +6,7 @@
 
 * [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
 * [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
+* [2024-01-20, 22:25:40](https://news.ycombinator.com/item?id=39073077) - [Tomahawk, the Most Important Music App Nobody's Talking About (2012)](https://www.wired.com/2012/02/tomahawk-music-ap/)
 * [2024-01-20, 21:54:53](https://news.ycombinator.com/item?id=39072813) - [Harvard morgue theft ring stole body parts, sold brains, flesh->leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
 * [2024-01-20, 21:36:44](https://news.ycombinator.com/item?id=39072621) - [Facebook Undermines Privacy Protections for Its 2B WhatsApp Users](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users)
 * [2024-01-20, 21:28:41](https://news.ycombinator.com/item?id=39072545) - [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
