@@ -7,6 +7,7 @@
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 * [2024-01-20, 08:13:55](https://news.ycombinator.com/item?id=39065628) - [Why are Teslas' batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
 * [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
+* [2024-01-20, 07:18:56](https://news.ycombinator.com/item?id=39065429) - [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 04:54:14](https://news.ycombinator.com/item?id=39064820) - [Samsung Joins Apple and Adobe in Supporting JPEG XL](https://r2.community.samsung.com/t5/CamCyclopedia/Introducing-the-Galaxy-S24-Camera-Gallery/ba-p/15350511)
 * [2024-01-20, 04:44:34](https://news.ycombinator.com/item?id=39064764) - [An American Helped Iceland Fix Its Teen Substance Abuse Problem](https://www.wbur.org/hereandnow/2017/03/09/iceland-teen-substance-abuse)
