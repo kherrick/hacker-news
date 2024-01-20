@@ -2,6 +2,7 @@
 
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
+* [2024-01-20, 11:33:20](https://news.ycombinator.com/item?id=39066568) - [The Knowledge Economy Is Over. Welcome to the Allocation Economy](https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#)
 * [2024-01-20, 11:19:38](https://news.ycombinator.com/item?id=39066480) - [An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing](https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69)
 * [2024-01-20, 11:16:10](https://news.ycombinator.com/item?id=39066465) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [2024-01-20, 11:12:13](https://news.ycombinator.com/item?id=39066449) - [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval)
@@ -23,7 +24,6 @@
 * [2024-01-19, 21:41:28](https://news.ycombinator.com/item?id=39061587) - [Platform Tilt](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
-* [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers claim first functioning graphene-based chip](https://spectrum.ieee.org/graphene-semiconductor)
 * [2024-01-19, 14:52:36](https://news.ycombinator.com/item?id=39056168) - [ZX Spectrum Next Issue 2 ships out, and El Reg talks to the project founder](https://www.theregister.com/2024/01/19/return_of_spectrum_next/)
