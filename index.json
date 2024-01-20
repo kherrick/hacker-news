@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-20, 11:19:38",
+      "https://news.ycombinator.com/item?id=39066480"
+    ],
+    [
+      "An Ugly Single-Page Website Makes $5k a Month with Affiliate Marketing",
+      "https://medium.com/@petervoica/how-an-ugly-single-page-website-makes-5-000-a-month-with-affiliate-marketing-c4974a8d1d69"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 11:12:13",
+      "https://news.ycombinator.com/item?id=39066449"
+    ],
+    [
+      "TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval",
+      "https://www.anandtech.com/show/21241/tsmc-2nm-update-two-fabs-in-construction-one-awaiting-government-approval"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 11:11:25",
       "https://news.ycombinator.com/item?id=39066444"
     ],
     [
       "The Sad Bastard Cookbook Removed from Amazon",
       "https://wandering.shop/@youseeatortoise/111782434593735690"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 10:51:38",
+      "https://news.ycombinator.com/item?id=39066330"
+    ],
+    [
+      "Tour of new custom M1 macOS runners racks with Christina Warren [video]",
+      "https://www.youtube.com/watch?v=I2J2MzKjcqY"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-01-20, 02:09:36",
-      "https://news.ycombinator.com/item?id=39063963"
-    ],
-    [
-      "Starlite",
-      "https://en.wikipedia.org/wiki/Starlite"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 01:32:08",
       "https://news.ycombinator.com/item?id=39063732"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-01-19, 16:42:06",
-      "https://news.ycombinator.com/item?id=39057461"
-    ],
-    [
-      "Calculus on Computational Graphs: Backpropagation (2015)",
-      "https://colah.github.io/posts/2015-08-Backprop/"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 15:57:53",
       "https://news.ycombinator.com/item?id=39056930"
     ],
@@ -287,16 +297,6 @@
     [
       "Building a USB SNES Controller",
       "https://blog.chybby.com/posts/building-a-usb-snes-controller"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 21:51:05",
-      "https://news.ycombinator.com/item?id=39048317"
-    ],
-    [
-      "We migrated our PostgreSQL database with 11 seconds downtime",
-      "https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/"
     ]
   ]
 ]
