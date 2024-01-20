@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-20, 11:11:25",
+      "https://news.ycombinator.com/item?id=39066444"
+    ],
+    [
+      "The Sad Bastard Cookbook Removed from Amazon",
+      "https://wandering.shop/@youseeatortoise/111782434593735690"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 10:31:17",
+      "https://news.ycombinator.com/item?id=39066202"
+    ],
+    [
+      "Google to invest $1B in UK data centre",
+      "https://www.reuters.com/technology/google-invest-1-billion-uk-data-centre-2024-01-18/"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 10:16:02",
       "https://news.ycombinator.com/item?id=39066136"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-01-20, 08:13:55",
-      "https://news.ycombinator.com/item?id=39065628"
-    ],
-    [
-      "Why are Teslas' batteries dying in the cold?",
-      "https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 08:04:30",
       "https://news.ycombinator.com/item?id=39065591"
     ],
@@ -77,16 +87,6 @@
     [
       "Show HN: FaceSwap.Beauty – a face swap tool online",
       "https://www.faceswap.beauty"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 06:19:49",
-      "https://news.ycombinator.com/item?id=39065201"
-    ],
-    [
-      "Ask HN: Are you using SQLite and Litestream in production?",
-      "https://news.ycombinator.com/item?id=39065201"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-01-19, 17:00:02",
-      "https://news.ycombinator.com/item?id=39057748"
-    ],
-    [
-      "Phind (YC S22) is hiring machine learning and front end engineers",
-      "https://www.ycombinator.com/companies/phind/jobs"
-    ]
-  ],
-  [
-    [
       "2024-01-19, 16:42:06",
       "https://news.ycombinator.com/item?id=39057461"
     ],
     [
       "Calculus on Computational Graphs: Backpropagation (2015)",
       "https://colah.github.io/posts/2015-08-Backprop/"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 15:57:53",
+      "https://news.ycombinator.com/item?id=39056930"
+    ],
+    [
+      "Lamport's Bakery Algorithm, Demonstrated in Python",
+      "https://github.com/Dicklesworthstone/bakery_algorithm"
     ]
   ],
   [
