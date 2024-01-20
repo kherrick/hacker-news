@@ -16,7 +16,7 @@
 * [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a Minimal Cell in the Browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
-* [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
+* [2024-01-20, 09:26:19](https://news.ycombinator.com/item?id=39065932) - [The evolution of C64 games 1982–2023](http://www.linusakesson.net/games/evolution/c64.php)
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
 * [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
