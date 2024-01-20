@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 10:16:27](https://news.ycombinator.com/item?id=39066140) - [Science's Assault on Free Will](https://lawliberty.org/sciences-assault-on-free-will/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
+* [2024-01-20, 09:57:09](https://news.ycombinator.com/item?id=39066052) - [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)
 * [2024-01-20, 08:13:55](https://news.ycombinator.com/item?id=39065628) - [Why are Teslas' batteries dying in the cold?](https://www.theguardian.com/technology/2024/jan/19/tesla-battery-dying-cold-weather-charging-winter)
@@ -19,9 +21,7 @@
 * [2024-01-19, 21:41:28](https://news.ycombinator.com/item?id=39061587) - [Platform Tilt](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:25:08](https://news.ycombinator.com/item?id=39059854) - [Shots: Create Mockups](https://shots.so/)
-* [2024-01-19, 18:40:44](https://news.ycombinator.com/item?id=39059307) - [Fujitsu bugs that sent innocent people to prison were known \"from the start\"](https://arstechnica.com/tech-policy/2024/01/fujitsu-bugs-that-sent-innocent-people-to-prison-were-known-from-the-start/)
 * [2024-01-19, 18:24:04](https://news.ycombinator.com/item?id=39059100) - [Tart: VMs on macOS using Apple's native Virtualization.Framework](https://tart.run/)
-* [2024-01-19, 17:08:14](https://news.ycombinator.com/item?id=39057862) - [Surf the web like it's 1999](https://billsworld.neocities.org/)
 * [2024-01-19, 17:00:02](https://news.ycombinator.com/item?id=39057748) - [Phind (YC S22) is hiring machine learning and front end engineers](https://www.ycombinator.com/companies/phind/jobs)
 * [2024-01-19, 16:42:06](https://news.ycombinator.com/item?id=39057461) - [Calculus on Computational Graphs: Backpropagation (2015)](https://colah.github.io/posts/2015-08-Backprop/)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Japan's first-ever soft lunar landing with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
