@@ -18,6 +18,7 @@
 * [2024-01-20, 19:52:35](https://news.ycombinator.com/item?id=39071567) - [1,100 Declassified U.S. Nuclear Targets](https://futureoflife.org/resource/us-nuclear-targets/)
 * [2024-01-20, 19:22:08](https://news.ycombinator.com/item?id=39071248) - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
 * [2024-01-20, 19:16:48](https://news.ycombinator.com/item?id=39071195) - [The insides of pro bowling balls will make your head spin](https://www.popsci.com/story/technology/bowling-ball-insides-photos/)
+* [2024-01-20, 19:15:44](https://news.ycombinator.com/item?id=39071181) - [An Animal Myself](https://aeon.co/essays/playing-animal-reflects-back-our-yearnings-and-repulsions)
 * [2024-01-20, 19:15:28](https://news.ycombinator.com/item?id=39071178) - [Non-Explosive Demolition Agents](https://en.wikipedia.org/wiki/Non-explosive_demolition_agents)
 * [2024-01-20, 19:15:00](https://news.ycombinator.com/item?id=39071175) - [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
 * [2024-01-20, 19:14:23](https://news.ycombinator.com/item?id=39071169) - [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
