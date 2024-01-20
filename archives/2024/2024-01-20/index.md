@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 17:14:02](https://news.ycombinator.com/item?id=39069847) - [Huge proportion of internet is AI-generated slime, researchers find](https://futurism.com/the-byte/internet-ai-generated-slime)
+* [2024-01-20, 17:11:29](https://news.ycombinator.com/item?id=39069816) - [Efficient LLM inference solution on Intel GPU](https://arxiv.org/abs/2401.05391)
 * [2024-01-20, 17:09:41](https://news.ycombinator.com/item?id=39069792) - [Previously, On Arrested Development – NPR's guide to running gags from the show](https://apps.npr.org/arrested-development/)
 * [2024-01-20, 17:06:45](https://news.ycombinator.com/item?id=39069743) - [Forget Apple Vision Pro – rabbit r1 is 2024's most exciting launch yet](https://techcrunch.com/2024/01/19/forget-apple-vision-pro-rabbit-r1-is-2024s-most-exciting-launch-yet/)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) Is Hiring a Founding Engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
