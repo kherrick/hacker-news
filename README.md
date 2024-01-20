@@ -3,6 +3,7 @@
 * [2024-01-20, 01:54:36](https://news.ycombinator.com/item?id=39063870) - [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
 * [2024-01-20, 01:32:08](https://news.ycombinator.com/item?id=39063732) - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
 * [2024-01-20, 01:27:17](https://news.ycombinator.com/item?id=39063700) - [We saw a Pi running underwater at CES in Las Vegas](https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/)
+* [2024-01-20, 01:12:16](https://news.ycombinator.com/item?id=39063596) - [Textart.sh](https://textart.sh)
 * [2024-01-20, 01:09:07](https://news.ycombinator.com/item?id=39063572) - [Snowcraft – Building a Lego Snowfort from giant Lego snow-bricks](https://www.verandavikings.com/blog/building-lego-iglos)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
@@ -27,7 +28,6 @@
 * [2024-01-19, 14:01:05](https://news.ycombinator.com/item?id=39055506) - [French cheese under threat from lack of microbial diversity](https://news.cnrs.fr/articles/french-cheese-under-threat)
 * [2024-01-19, 13:32:08](https://news.ycombinator.com/item?id=39055164) - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 * [2024-01-19, 12:30:35](https://news.ycombinator.com/item?id=39054671) - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
-* [2024-01-18, 19:50:24](https://news.ycombinator.com/item?id=39046697) - [A fuel cell that harvests energy from microbes living in dirt](https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/)
 * [2024-01-17, 22:40:16](https://news.ycombinator.com/item?id=39034603) - [Cerne Abbas giant is Hercules and was army meeting point, say historians](https://www.theguardian.com/culture/2024/jan/01/cerne-abbas-giant-is-hercules-and-was-army-meeting-point-say-historians)
 * [2024-01-17, 14:44:51](https://news.ycombinator.com/item?id=39028384) - [Hearing and Doing](https://www.planeandpilotmag.com/hearing-and-doing/)
 
