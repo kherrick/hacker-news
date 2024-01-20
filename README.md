@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
 * [2024-01-20, 21:54:53](https://news.ycombinator.com/item?id=39072813) - [Harvard morgue theft ring stole body parts, sold brains, flesh->leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
 * [2024-01-20, 21:28:41](https://news.ycombinator.com/item?id=39072545) - [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
 * [2024-01-20, 21:20:25](https://news.ycombinator.com/item?id=39072468) - [GraphQL and the Beads on a String](https://blog.luccasiau.com/p/graphql-and-the-beads-on-a-string)
@@ -14,9 +15,8 @@
 * [2024-01-20, 19:14:23](https://news.ycombinator.com/item?id=39071169) - [The possibility of making money from shredded banknotes using computer vision](https://arxiv.org/abs/2401.06133)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:35:48](https://news.ycombinator.com/item?id=39070784) - [NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
-* [2024-01-20, 18:31:00](https://news.ycombinator.com/item?id=39070730) - [The Orange Pi 5 Plus](https://taoofmac.com/space/blog/2024/01/20/1800)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
-* [2024-01-20, 15:00:57](https://news.ycombinator.com/item?id=39068186) - [What happens when you trigger a car's automated emergency stopping?](https://arstechnica.com/cars/2024/01/what-happens-when-you-trigger-a-cars-automated-emergency-stopping/)
+* [2024-01-20, 13:10:11](https://news.ycombinator.com/item?id=39067261) - [Crafting a Handheld Game Console with RP2040 – An Open Source PCB Design Journey](https://codetiger.github.io/blog/my-first-attempt-on-pcb-designing-based-on-rp2040/)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
 * [2024-01-20, 11:16:10](https://news.ycombinator.com/item?id=39066465) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 * [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a minimal cell in the browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
