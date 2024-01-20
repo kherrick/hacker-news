@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
+* [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
 * [2024-01-20, 12:03:23](https://news.ycombinator.com/item?id=39066815) - [Greed Killed Sports Illustrated](https://nymag.com/intelligencer/2024/01/greed-killed-sports-illustrated.html)
