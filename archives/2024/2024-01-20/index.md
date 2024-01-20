@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a Vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
+* [2024-01-20, 18:35:48](https://news.ycombinator.com/item?id=39070784) - [NASA has lost contact with the Ingenuity helicopter on Mars](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
 * [2024-01-20, 17:55:05](https://news.ycombinator.com/item?id=39070313) - [Artists can now poison their images to deter misuse by AI](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
 * [2024-01-20, 17:48:16](https://news.ycombinator.com/item?id=39070246) - [Please Don't Make Me Use Another QR Code Restaurant Menu](https://thewalrus.ca/qr-code-restaurant-menu/)
 * [2024-01-20, 17:18:41](https://news.ycombinator.com/item?id=39069910) - [Old'aVista, a Guide to the Old Internet](https://oldavista.com/)
