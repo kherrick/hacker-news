@@ -59,6 +59,7 @@
 * [2024-01-19, 15:37:28](https://news.ycombinator.com/item?id=39056733) - [Canadian Man Stuck in Triangle of E-Commerce Fraud](https://krebsonsecurity.com/2024/01/canadian-man-stuck-in-triangle-of-e-commerce-fraud/)
 * [2024-01-19, 15:06:59](https://news.ycombinator.com/item?id=39056403) - [Live: Japan's first-ever soft lunar landing attempt with SLIM spacecraft [video]](https://www.youtube.com/watch?v=2-yBlZplnKQ)
 * [2024-01-19, 14:52:41](https://news.ycombinator.com/item?id=39056169) - [Researchers Claim First Functioning Graphene-Based Chip](https://spectrum.ieee.org/graphene-semiconductor)
+* [2024-01-19, 14:52:36](https://news.ycombinator.com/item?id=39056168) - [ZX Spectrum Next Issue 2 ships out, and El Reg talks to the project founder](https://www.theregister.com/2024/01/19/return_of_spectrum_next/)
 * [2024-01-19, 14:52:14](https://news.ycombinator.com/item?id=39056159) - [Japan attempts historic moon landing](https://www.semafor.com/article/01/19/2024/japan-attempts-historic-moon-landing)
 * [2024-01-19, 14:48:11](https://news.ycombinator.com/item?id=39056104) - [Backing Up the Power Grid with Green Methanol](https://spectrum.ieee.org/methanol-energy-storage)
 * [2024-01-19, 14:47:35](https://news.ycombinator.com/item?id=39056099) - [How much memory bandwidth do large Amazon instances offer?](https://lemire.me/blog/2024/01/18/how-much-memory-bandwidth-do-large-amazon-instances-offer/)
