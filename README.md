@@ -2,7 +2,6 @@
 
 * [2024-01-20, 23:30:29](https://news.ycombinator.com/item?id=39073634) - [Meta Introduces Self-Rewarding Language Model Capable of GPT-4 Level Performance](https://digialps.com/meta-research-introduces-revolutionary-self-rewarding-language-models-capable-of-gpt-4-level-performance/)
 * [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
-* [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
 * [2024-01-20, 22:25:40](https://news.ycombinator.com/item?id=39073077) - [Tomahawk, the Most Important Music App Nobody's Talking About (2012)](https://www.wired.com/2012/02/tomahawk-music-ap/)
 * [2024-01-20, 21:54:53](https://news.ycombinator.com/item?id=39072813) - [Harvard morgue theft ring stole body parts, sold brains, flesh->leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
 * [2024-01-20, 21:28:41](https://news.ycombinator.com/item?id=39072545) - [Show HN: I built presently.live for better weekend planning and insights](https://presently.live/)
@@ -25,6 +24,7 @@
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BDE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
+* [2024-01-19, 19:44:51](https://news.ycombinator.com/item?id=39060125) - [Museum of Obsolete Objects](https://www.youtube.com/user/MoooJvM)
 * [2024-01-19, 19:30:27](https://news.ycombinator.com/item?id=39059925) - [Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun: Human-level artificial intelligence is going to take a long time](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
