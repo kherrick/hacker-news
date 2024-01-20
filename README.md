@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-20, 19:56:10](https://news.ycombinator.com/item?id=39071599) - [How fast can you validate UTF-8 strings in JavaScript?](https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/)
+* [2024-01-20, 19:53:46](https://news.ycombinator.com/item?id=39071576) - [Qualcomm's Adreno 530, a Small Mobile iGPU](https://chipsandcheese.com/2024/01/20/inside-qualcomms-adreno-530-a-small-mobile-igpu/)
 * [2024-01-20, 19:22:08](https://news.ycombinator.com/item?id=39071248) - [Companies Make It Too Easy for Thieves to Impersonate Police and Steal Our Data](https://www.eff.org/deeplinks/2024/01/companies-make-it-too-easy-thieves-impersonate-police-and-steal-our-data)
 * [2024-01-20, 19:15:00](https://news.ycombinator.com/item?id=39071175) - [A proposal for the next version of C [pdf]](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3176.pdf)
 * [2024-01-20, 19:14:23](https://news.ycombinator.com/item?id=39071169) - [Can one make $138,000 HK from shredded banknote pieces using computer vision?](https://arxiv.org/abs/2401.06133)
@@ -12,7 +14,6 @@
 * [2024-01-20, 15:03:07](https://news.ycombinator.com/item?id=39068217) - [Emergency-hired teachers without degrees as effective as licensed educators](https://www.the74million.org/article/emergency-hired-teachers-do-just-as-well-as-those-who-go-through-normal-training/)
 * [2024-01-20, 15:00:57](https://news.ycombinator.com/item?id=39068186) - [What happens when you trigger a car's automated emergency stopping?](https://arstechnica.com/cars/2024/01/what-happens-when-you-trigger-a-cars-automated-emergency-stopping/)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
-* [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 * [2024-01-20, 12:02:32](https://news.ycombinator.com/item?id=39066801) - [Chile searches for those missing from Pinochet dictatorship with the help of AI](https://english.elpais.com/international/2024-01-18/chile-searches-for-those-missing-from-pinochet-dictatorship-with-the-help-of-artificial-intelligence.html)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
 * [2024-01-20, 11:16:10](https://news.ycombinator.com/item?id=39066465) - [Pratt Parsers: Expression Parsing Made Easy (2011)](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
@@ -24,7 +25,6 @@
 * [2024-01-20, 06:06:11](https://news.ycombinator.com/item?id=39065144) - [Lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
-* [2024-01-19, 20:02:55](https://news.ycombinator.com/item?id=39060339) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-19, 19:44:51](https://news.ycombinator.com/item?id=39060125) - [Museum of Obsolete Objects](https://www.youtube.com/user/MoooJvM)
 * [2024-01-19, 19:28:16](https://news.ycombinator.com/item?id=39059897) - [Yann LeCun: Human-level artificial intelligence is going to take a long time](https://english.elpais.com/technology/2024-01-19/yann-lecun-chief-ai-scientist-at-meta-human-level-artificial-intelligence-is-going-to-take-a-long-time.html)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
