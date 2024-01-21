@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
+* [2024-01-21, 17:01:16](https://news.ycombinator.com/item?id=39080214) - [Now OpenAI CEO Sam Altman wants billions for AI chip fabs](https://www.theregister.com/2024/01/20/altman_chip_fabs/)
+* [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the Dimensionality of Spacetime [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 * [2024-01-21, 16:43:18](https://news.ycombinator.com/item?id=39080050) - [Artists can poison their pics with deadly Nightshade to deter AI scrapers](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
 * [2024-01-21, 16:33:21](https://news.ycombinator.com/item?id=39079943) - [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
+* [2024-01-21, 16:21:30](https://news.ycombinator.com/item?id=39079840) - [Ask HN: Opened a LLC in USA, where should I look for clients?](https://news.ycombinator.com/item?id=39079840)
 * [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
