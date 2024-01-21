@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
+* [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
 * [2024-01-21, 18:27:40](https://news.ycombinator.com/item?id=39081170) - [Tesla owner adds 4000 watt solar panel roof to his car after company wouldn't](https://www.uniladtech.com/vehicles/car-news/tesla-owner-adds-solar-panel-roof-506677-20240118)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)

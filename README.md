@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
+* [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
 * [2024-01-21, 18:24:34](https://news.ycombinator.com/item?id=39081133) - [The lazy technologist's guide to weight loss](https://dberkholz.com/2024/01/17/the-lazy-technologists-guide-to-weight-loss/)
 * [2024-01-21, 18:14:36](https://news.ycombinator.com/item?id=39080993) - [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
-* [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://www.npr.org/2024/01/19/1225466035/boeing-737-max-faa-door-plug-alaska-crashes-ntsb)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
