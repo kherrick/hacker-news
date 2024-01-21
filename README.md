@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 03:40:21](https://news.ycombinator.com/item?id=39075304) - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
-* [2024-01-21, 03:26:19](https://news.ycombinator.com/item?id=39075249) - [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
+* [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to Build Your Own Injection Molding Machine](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-21, 00:17:26](https://news.ycombinator.com/item?id=39074062) - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
 * [2024-01-20, 23:50:30](https://news.ycombinator.com/item?id=39073810) - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [The Underhanded C Contest](http://www.underhanded-c.org/)
