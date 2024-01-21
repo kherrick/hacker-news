@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+* [2024-01-21, 10:22:33](https://news.ycombinator.com/item?id=39077223) - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
 * [2024-01-21, 10:04:21](https://news.ycombinator.com/item?id=39077151) - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
 * [2024-01-21, 09:47:39](https://news.ycombinator.com/item?id=39077067) - [Non-London Universities in London](http://diamondgeezer.blogspot.com/2024/01/non-london-universities-in-london.html)
 * [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
