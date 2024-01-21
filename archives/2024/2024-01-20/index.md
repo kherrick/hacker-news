@@ -67,6 +67,7 @@
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 13:10:11](https://news.ycombinator.com/item?id=39067261) - [Crafting a Handheld Game Console with RP2040 – An Open Source PCB Design Journey](https://codetiger.github.io/blog/my-first-attempt-on-pcb-designing-based-on-rp2040/)
+* [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
 * [2024-01-20, 12:56:38](https://news.ycombinator.com/item?id=39067178) - [Tesla Employees Using Vehicle Cameras to Spy on 'Private Scenes;' Owners Suing](https://www.motorbiscuit.com/tesla-employees-using-vehicle-cameras-to-spy-on-private-scenes-owners-suing/)
 * [2024-01-20, 12:03:23](https://news.ycombinator.com/item?id=39066815) - [Greed Killed Sports Illustrated](https://nymag.com/intelligencer/2024/01/greed-killed-sports-illustrated.html)
