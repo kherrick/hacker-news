@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-21, 11:46:47",
+      "https://news.ycombinator.com/item?id=39077622"
+    ],
+    [
+      "Why is everything so ugly?",
+      "https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 11:31:07",
       "https://news.ycombinator.com/item?id=39077536"
     ],
     [
       "Show HN: Pfuzz, a web fuzzer following the Unix philosophy",
       "https://github.com/codesoap/pfuzz"
+    ]
+  ],
+  [
+    [
+      "2024-01-21, 11:30:56",
+      "https://news.ycombinator.com/item?id=39077535"
+    ],
+    [
+      "Boehm-Demers-Weiser conservative C/C++ Garbage Collector",
+      "https://hboehm.info/gc/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39076573"
     ],
     [
-      "Which command did you run 1731 days ago?",
+      "Keeping a long shell history",
       "https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days"
     ]
   ],
@@ -267,26 +287,6 @@
     [
       "What's that touchscreen in my room?",
       "https://laplab.me/posts/whats-that-touchscreen-in-my-room/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 22:34:11",
-      "https://news.ycombinator.com/item?id=39062278"
-    ],
-    [
-      "A leading proponent of vertical farming discusses how urban areas should adapt",
-      "https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 19:30:27",
-      "https://news.ycombinator.com/item?id=39059925"
-    ],
-    [
-      "Memory leak proof every C program",
-      "https://flak.tedunangst.com/post/memory-leak-proof-every-C-program"
     ]
   ],
   [
