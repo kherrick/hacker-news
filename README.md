@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 05:24:10](https://news.ycombinator.com/item?id=39075855) - [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
 * [2024-01-21, 03:40:21](https://news.ycombinator.com/item?id=39075304) - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
 * [2024-01-21, 03:30:15](https://news.ycombinator.com/item?id=39075266) - [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
 * [2024-01-21, 03:01:39](https://news.ycombinator.com/item?id=39075117) - [Houthi anti-ship missile systems: getting better all the time](https://www.iiss.org/online-analysis/military-balance/2024/01/houthi-anti-ship-missile-systems-getting-better-all-the-time/)
@@ -26,7 +27,6 @@
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 22:34:11](https://news.ycombinator.com/item?id=39062278) - [Dickson Despommier wants our cities to be like forests](https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests)
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
-* [2024-01-19, 20:51:29](https://news.ycombinator.com/item?id=39060958) - [A Discrete and Bounded Envy-Free Cake Cutting Protocol for Any Number of Agents (2016)](https://arxiv.org/abs/1604.03655)
 * [2024-01-19, 19:30:27](https://news.ycombinator.com/item?id=39059925) - [Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-19, 15:57:53](https://news.ycombinator.com/item?id=39056930) - [Lamport's Bakery algorithm, demonstrated in Python](https://github.com/Dicklesworthstone/bakery_algorithm)
