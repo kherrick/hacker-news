@@ -3,9 +3,8 @@
 * [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
-* [2024-01-21, 14:57:34](https://news.ycombinator.com/item?id=39078982) - ['God' is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
-* [2024-01-21, 14:55:18](https://news.ycombinator.com/item?id=39078957) - [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
 * [2024-01-21, 14:23:38](https://news.ycombinator.com/item?id=39078669) - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
+* [2024-01-21, 13:53:32](https://news.ycombinator.com/item?id=39078417) - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
 * [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
@@ -28,6 +27,7 @@
 * [2024-01-20, 10:51:38](https://news.ycombinator.com/item?id=39066330) - [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
 * [2024-01-20, 10:48:25](https://news.ycombinator.com/item?id=39066305) - [CAP twelve years later: How the \"rules\" have changed (2012)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 * [2024-01-20, 06:59:44](https://news.ycombinator.com/item?id=39065351) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
+* [2024-01-20, 02:09:22](https://news.ycombinator.com/item?id=39063962) - [The Founder of GeoCities on What Killed the 'Old Internet'](https://gizmodo.com/interview-with-geocities-founder-on-the-new-web-tiktok-1849179509)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 

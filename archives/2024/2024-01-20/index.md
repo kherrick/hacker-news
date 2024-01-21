@@ -112,6 +112,7 @@
 * [2024-01-20, 02:45:40](https://news.ycombinator.com/item?id=39064151) - [The Final Nail in Psychiatry's Antidepressant Coffin](https://www.counterpunch.org/2024/01/17/scientific-misconduct-and-fraud-the-final-nail-in-psychiatrys-antidepressant-coffin/)
 * [2024-01-20, 02:21:35](https://news.ycombinator.com/item?id=39064025) - [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)
+* [2024-01-20, 02:09:22](https://news.ycombinator.com/item?id=39063962) - [The Founder of GeoCities on What Killed the 'Old Internet'](https://gizmodo.com/interview-with-geocities-founder-on-the-new-web-tiktok-1849179509)
 * [2024-01-20, 02:00:07](https://news.ycombinator.com/item?id=39063911) - [Most Earth system models are missing element of future climate puzzle](https://phys.org/news/2024-01-earth-key-piece-future-climate.html)
 * [2024-01-20, 01:54:36](https://news.ycombinator.com/item?id=39063870) - [Ask HN: Can the black border atop the HN mourning header link to who died?](https://news.ycombinator.com/item?id=39063870)
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BDE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
