@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-01-21, 18:43:57",
-      "https://news.ycombinator.com/item?id=39081422"
-    ],
-    [
-      "OpenAI suspends bot developer for presidential hopeful Dean Phillips",
-      "https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/"
-    ]
-  ],
-  [
-    [
       "2024-01-21, 18:27:18",
       "https://news.ycombinator.com/item?id=39081166"
     ],
     [
-      "FreeBSD evaluating Rust's adoption into base system",
+      "The Case for Rust in the base system",
       "https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers"
     ]
   ],
@@ -56,7 +46,7 @@
     ],
     [
       "'Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess",
-      "https://text.npr.org/1225466035"
+      "https://www.npr.org/2024/01/19/1225466035/boeing-737-max-faa-door-plug-alaska-crashes-ntsb"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "How a baker survived the Titanic by getting drunk (2022)",
       "https://nationalpost.com/news/canada/how-a-baker-survived-the-titanic-by-getting-spectacularly-drunk"
+    ]
+  ],
+  [
+    [
+      "2024-01-21, 09:15:24",
+      "https://news.ycombinator.com/item?id=39076908"
+    ],
+    [
+      "Augmenting the Markdown Language for Great Python Graphical Interfaces",
+      "https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces"
     ]
   ],
   [
