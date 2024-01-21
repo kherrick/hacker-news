@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 * [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 * [2024-01-21, 07:25:24](https://news.ycombinator.com/item?id=39076422) - [Snobs Are Ruining the Software Development Experience](https://www.thesecretdeveloper.com/blog/snobs-are-ruining-the-software-development-experience)

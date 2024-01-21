@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 * [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 * [2024-01-21, 07:02:48](https://news.ycombinator.com/item?id=39076311) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
-* [2024-01-21, 06:30:39](https://news.ycombinator.com/item?id=39076168) - [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
 * [2024-01-21, 03:43:27](https://news.ycombinator.com/item?id=39075316) - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
