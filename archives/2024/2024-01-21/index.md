@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
+* [2024-01-21, 23:27:22](https://news.ycombinator.com/item?id=39084135) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 * [2024-01-21, 22:53:18](https://news.ycombinator.com/item?id=39083916) - [Apple Watch no longer sold with blood oxygen monitoring after patent battle loss](https://arstechnica.com/gadgets/2024/01/apple-watch-no-longer-sold-with-blood-oxygen-monitoring-after-patent-battle-loss/)
 * [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)

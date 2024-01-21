@@ -100,6 +100,7 @@
 * [2024-01-20, 08:04:30](https://news.ycombinator.com/item?id=39065591) - [The revenge of Unicode](https://eclecticlight.co/2024/01/20/the-revenge-of-unicode/)
 * [2024-01-20, 07:22:21](https://news.ycombinator.com/item?id=39065445) - [Oxford researchers use hedgehog crash test dummies to limit lawnmower injuries](https://www.bbc.co.uk/news/uk-england-oxfordshire-67999226)
 * [2024-01-20, 07:18:56](https://news.ycombinator.com/item?id=39065429) - [Show HN: FaceSwap.Beauty – a face swap tool online](https://www.faceswap.beauty)
+* [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 06:59:44](https://news.ycombinator.com/item?id=39065351) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
 * [2024-01-20, 06:52:07](https://news.ycombinator.com/item?id=39065320) - [Let's Talk about Joins](https://cghlewis.com/blog/joins/)
 * [2024-01-20, 06:24:59](https://news.ycombinator.com/item?id=39065216) - [Our Little Stupid Bodies](https://radiolab.org/podcast/our-stupid-little-bodies)
