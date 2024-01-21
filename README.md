@@ -2,6 +2,7 @@
 
 * [2024-01-21, 13:53:32](https://news.ycombinator.com/item?id=39078417) - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
 * [2024-01-21, 13:46:45](https://news.ycombinator.com/item?id=39078372) - [Password may not contain: select, insert, update, delete, drop](https://id.uni-lj.si/DigitalnaIdentiteta/PonastavitevGesla?culture=en-GB)
+* [2024-01-21, 13:17:58](https://news.ycombinator.com/item?id=39078177) - [DoorDash driver rages at customer who won't tip over $5 on pizza order](https://www.independent.co.uk/life-style/customer-tip-pizza-order-tiktok-b2482141.html)
 * [2024-01-21, 13:11:24](https://news.ycombinator.com/item?id=39078139) - ['Canada Is a Video Piracy Hotspot While Brazil Sees Piracy in Decline'](https://torrentfreak.com/canada-is-a-video-piracy-hotspot-while-brazil-shows-positive-signs-240121/)
 * [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
 * [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
@@ -27,7 +28,6 @@
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 10:48:25](https://news.ycombinator.com/item?id=39066305) - [CAP twelve years later: How the \"rules\" have changed (2012)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
