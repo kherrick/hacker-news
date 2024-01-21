@@ -7,6 +7,7 @@
 * [2024-01-19, 23:24:54](https://news.ycombinator.com/item?id=39062799) - [Hackers breached Microsoft to find out what Microsoft knows about them](https://techcrunch.com/2024/01/19/hackers-breached-microsoft-to-find-out-what-microsoft-knows-about-them/)
 * [2024-01-19, 23:16:25](https://news.ycombinator.com/item?id=39062721) - [An Honest Diversity Statement](https://lawliberty.org/an-honest-diversity-statement/)
 * [2024-01-19, 22:54:20](https://news.ycombinator.com/item?id=39062474) - [The Library of Consciousness – Alan Watts](https://www.organism.earth/library/author/alan-watts)
+* [2024-01-19, 22:34:11](https://news.ycombinator.com/item?id=39062278) - [Dickson Despommier wants our cities to be like forests](https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests)
 * [2024-01-19, 22:00:01](https://news.ycombinator.com/item?id=39061839) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 * [2024-01-19, 21:56:51](https://news.ycombinator.com/item?id=39061800) - [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 * [2024-01-19, 21:41:28](https://news.ycombinator.com/item?id=39061587) - [Platform Tilt](https://mozilla.github.io/platform-tilt/)
