@@ -10,7 +10,7 @@
 * [2024-01-21, 13:53:32](https://news.ycombinator.com/item?id=39078417) - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
 * [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
-* [2024-01-21, 12:31:04](https://news.ycombinator.com/item?id=39077858) - [Diamond Electronics Suit Green Power Grids](https://spectrum.ieee.org/diamond-electronics)
+* [2024-01-21, 12:30:27](https://news.ycombinator.com/item?id=39077854) - [The Case of Nuclear Cargo Ships](https://spectrum.ieee.org/nuclear-powered-cargo-ship)
 * [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)

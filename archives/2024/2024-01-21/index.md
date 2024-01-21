@@ -24,6 +24,7 @@
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
 * [2024-01-21, 12:31:04](https://news.ycombinator.com/item?id=39077858) - [Diamond Electronics Suit Green Power Grids](https://spectrum.ieee.org/diamond-electronics)
+* [2024-01-21, 12:30:27](https://news.ycombinator.com/item?id=39077854) - [The Case of Nuclear Cargo Ships](https://spectrum.ieee.org/nuclear-powered-cargo-ship)
 * [2024-01-21, 12:22:30](https://news.ycombinator.com/item?id=39077816) - [You Shouldn't Make Friends at Work](https://www.psychologytoday.com/ca/blog/the-psychology-of-creativity/202306/why-you-should-not-make-friends-at-work)
 * [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
