@@ -129,6 +129,89 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39077536">
+          <h3>
+            <a class="item" href="https://github.com/codesoap/pfuzz"
+              >Show HN: Pfuzz, a web fuzzer following the Unix philosophy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-21 @ 11:31:07</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39077536"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                However, I disliked that the existing fuzzers were monoliths
+                where I had no easy way of creating custom behavior or analyses.
+                They commonly do a multitude of things: Create multiple requests
+                using one or more wordlist, sending the request, possibly with
+                rate limiting, displaying progress, applying filters to the
+                received responses and storing the output. If you want something
+                different from the offered features, for example custom delays
+                between requests or a new filter for the responses, your only
+                option is to dig into a moderately large code base and try to
+                adapt it to your needs.
+              </p>
+              <p>
+                I am a fan of the UNIX philosophy and felt like it could help
+                out here. If there was a common format for communicating HTTP
+                requests and responses, an ecosystem of small, specialized tools
+                could use it to work together and fulfill tasks like fuzzing,
+                while allowing the user to easily create custom behavior by
+                combining the existing tools in different ways or adding small,
+                quick to write tools to the ecosystem.
+              </p>
+              <p>
+                This is what I've attempted with the httpipe format [2]. It is a
+                line based JSON format for exchanging HTTP requests and
+                responses. I have also built some first tools using this format,
+                namely pfuzz [3] for creating HTTP requests from wordlists, preq
+                [4] for sending HTTP requests and receiving their responses and
+                hpstat [5] for filtering the responses by their HTTP status
+                codes. Since it's a line based format, many UNIX tools can be
+                used with it as well and since each line is JSON, jq can also be
+                used for manipulation, filtering and displaying.
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/tomnomnom"
+                  >https://github.com/tomnomnom</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://github.com/codesoap/httpipe"
+                  >https://github.com/codesoap/httpipe</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://github.com/codesoap/pfuzz"
+                  >https://github.com/codesoap/pfuzz</a
+                >
+              </p>
+              <p>
+                [4]
+                <a href="https://github.com/codesoap/preq"
+                  >https://github.com/codesoap/preq</a
+                >
+              </p>
+              <p>
+                [5]
+                <a href="https://github.com/codesoap/hpstat"
+                  >https://github.com/codesoap/hpstat</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39077428">
           <h3>
             <a class="item" href="https://nutri.adrianstobbe.com/"
@@ -139,7 +222,7 @@
             <h4>
               <span>2024-01-21 @ 11:07:12</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39077428"
                   >Comments</a
@@ -172,11 +255,11 @@
             <h4>
               <span>2024-01-21 @ 10:22:33</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39077223"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -192,7 +275,7 @@
             <h4>
               <span>2024-01-21 @ 10:04:21</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39077151"
                   >Comments</a
@@ -214,11 +297,11 @@
             <h4>
               <span>2024-01-21 @ 09:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39076908"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -256,11 +339,11 @@
             <h4>
               <span>2024-01-21 @ 08:02:52</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39076573"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -297,7 +380,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39075804"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -318,7 +401,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39075316"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -418,11 +501,11 @@
             <h4>
               <span>2024-01-20 @ 21:40:47</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39072662"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -457,32 +540,11 @@
             <h4>
               <span>2024-01-20 @ 20:41:59</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39072079"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39071820">
-          <h3>
-            <a
-              class="item"
-              href="https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset/"
-              >GPU Reshape – shader instrumentation for everyone</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-20 @ 20:16:29</span
-              ><span class="points-container"
-                >Points: <span class="points">64</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39071820"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -501,7 +563,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39071688"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 150</span></span
               >
             </h4>
           </section>
@@ -564,7 +626,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39067250"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -579,11 +641,11 @@
             <h4>
               <span>2024-01-20 @ 11:52:41</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39066716"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -600,11 +662,11 @@
             <h4>
               <span>2024-01-20 @ 10:48:25</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39066305"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -619,7 +681,7 @@
             <h4>
               <span>2024-01-20 @ 10:16:02</span
               ><span class="points-container"
-                >Points: <span class="points">710</span></span
+                >Points: <span class="points">711</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39066136"
                   >Comments</a
@@ -709,7 +771,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39062278"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -726,7 +788,7 @@
             <h4>
               <span>2024-01-19 @ 19:30:27</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39059925"
                   >Comments</a
@@ -752,7 +814,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39058428"
                   >Comments</a
-                ><span class="descendants">: 533</span></span
+                ><span class="descendants">: 535</span></span
               >
             </h4>
           </section>
