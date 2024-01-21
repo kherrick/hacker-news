@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+* [2024-01-21, 10:04:21](https://news.ycombinator.com/item?id=39077151) - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
 * [2024-01-21, 09:47:39](https://news.ycombinator.com/item?id=39077067) - [Non-London Universities in London](http://diamondgeezer.blogspot.com/2024/01/non-london-universities-in-london.html)
 * [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
@@ -12,7 +13,6 @@
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's block / return-from and unwind-protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
-* [2024-01-20, 21:43:56](https://news.ycombinator.com/item?id=39072698) - [How the placenta evolved from an ancient virus (2020)](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 * [2024-01-20, 21:17:02](https://news.ycombinator.com/item?id=39072427) - [Neatroff – a new implementation of the Troff typesetting system (2017) [pdf]](http://litcave.rudi.ir/neatroff.pdf)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
