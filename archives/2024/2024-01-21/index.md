@@ -8,6 +8,7 @@
 * [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
 * [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
+* [2024-01-21, 20:07:37](https://news.ycombinator.com/item?id=39082470) - [DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 * [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
