@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
+* [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
+* [2024-01-21, 12:22:30](https://news.ycombinator.com/item?id=39077816) - [You Shouldn't Make Friends at Work](https://www.psychologytoday.com/ca/blog/the-psychology-of-creativity/202306/why-you-should-not-make-friends-at-work)
 * [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)

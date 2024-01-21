@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
+* [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
+* [2024-01-21, 12:22:30](https://news.ycombinator.com/item?id=39077816) - [You Shouldn't Make Friends at Work](https://www.psychologytoday.com/ca/blog/the-psychology-of-creativity/202306/why-you-should-not-make-friends-at-work)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
@@ -17,9 +20,7 @@
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
-* [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 * [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
-* [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
@@ -28,7 +29,6 @@
 * [2024-01-20, 08:14:33](https://news.ycombinator.com/item?id=39065631) - [Continuous Integration (2024 Update)](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-19, 22:34:11](https://news.ycombinator.com/item?id=39062278) - [A leading proponent of vertical farming discusses how urban areas should adapt](https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
