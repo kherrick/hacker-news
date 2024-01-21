@@ -6,6 +6,7 @@
 
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
+* [2024-01-21, 14:57:34](https://news.ycombinator.com/item?id=39078982) - ['God' is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
 * [2024-01-21, 14:55:18](https://news.ycombinator.com/item?id=39078957) - [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
 * [2024-01-21, 14:23:38](https://news.ycombinator.com/item?id=39078669) - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
 * [2024-01-21, 13:53:32](https://news.ycombinator.com/item?id=39078417) - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
