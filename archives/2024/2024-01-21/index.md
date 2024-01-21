@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
+* [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
