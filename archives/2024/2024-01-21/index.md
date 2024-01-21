@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 23:49:31](https://news.ycombinator.com/item?id=39084305) - [X appears to be juicing MrBeast's views](https://mashable.com/article/x-twitter-elon-musk-mrbeast-video-unlabaled-ads-creator-monetization)
+* [2024-01-21, 23:29:44](https://news.ycombinator.com/item?id=39084146) - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 * [2024-01-21, 23:27:22](https://news.ycombinator.com/item?id=39084135) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 * [2024-01-21, 22:53:18](https://news.ycombinator.com/item?id=39083916) - [Apple Watch no longer sold with blood oxygen monitoring after patent battle loss](https://arstechnica.com/gadgets/2024/01/apple-watch-no-longer-sold-with-blood-oxygen-monitoring-after-patent-battle-loss/)
+* [2024-01-21, 22:29:17](https://news.ycombinator.com/item?id=39083736) - [Gem adds support for creating state machines for attributes on any Ruby class](https://github.com/state-machines/state_machines)
 * [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
 * [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
@@ -16,6 +19,7 @@
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
 * [2024-01-21, 20:07:37](https://news.ycombinator.com/item?id=39082470) - [DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 * [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
+* [2024-01-21, 19:48:22](https://news.ycombinator.com/item?id=39082251) - [Wind River Linux](https://www.windriver.com/products/linux/distro)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
