@@ -61,6 +61,7 @@
 * [2024-01-18, 16:04:21](https://news.ycombinator.com/item?id=39043408) - ['Stablecoins' Enabled $40B in Crypto Crime Since 2022](https://www.wired.com/story/stablecoin-sanctions-violations-crypto-crime/)
 * [2024-01-18, 15:56:28](https://news.ycombinator.com/item?id=39043306) - [Flying kites deliver container-sized power generation](https://spectrum.ieee.org/micro-wind-power-kitepower)
 * [2024-01-18, 15:54:35](https://news.ycombinator.com/item?id=39043282) - [History Is Written by the Losers](https://scholars-stage.org/history-is-written-by-the-losers/)
+* [2024-01-18, 15:42:52](https://news.ycombinator.com/item?id=39043122) - [Unseen images of Colossus code breaking computer](https://www.bbc.co.uk/news/technology-67997406)
 * [2024-01-18, 15:34:12](https://news.ycombinator.com/item?id=39042983) - [An Ancient Woolly Mammoth Left a Diary in Her Tusk](https://www.nytimes.com/2024/01/17/science/woolly-mammoth-tusk-research.html)
 * [2024-01-18, 15:10:53](https://news.ycombinator.com/item?id=39042626) - [Hans Reiser on ReiserFS deprecation in the Linux kernel](https://ftp.mfek.org/Reiser/Letters/№2%20Hans→Fred/reiser_response.html)
 * [2024-01-18, 15:05:49](https://news.ycombinator.com/item?id=39042548) - [The Quest for Simple Rules to Build a Microbial Community](https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/)
