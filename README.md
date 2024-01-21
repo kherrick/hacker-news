@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 03:26:19](https://news.ycombinator.com/item?id=39075249) - [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:17:26](https://news.ycombinator.com/item?id=39074062) - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
@@ -15,7 +16,6 @@
 * [2024-01-20, 20:16:29](https://news.ycombinator.com/item?id=39071820) - [GPU Reshape – shader instrumentation for everyone](https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset/)
 * [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 19:15:44](https://news.ycombinator.com/item?id=39071181) - [An animal myself](https://aeon.co/essays/playing-animal-reflects-back-our-yearnings-and-repulsions)
-* [2024-01-20, 19:15:28](https://news.ycombinator.com/item?id=39071178) - [Non-explosive demolition agents](https://en.wikipedia.org/wiki/Non-explosive_demolition_agents)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:35:48](https://news.ycombinator.com/item?id=39070784) - [NASA loses contact with Ingenuity Mars helicopter](https://www.space.com/nasa-loses-contact-ingenuity-mars-helicopter)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
