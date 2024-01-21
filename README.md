@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
@@ -25,7 +26,6 @@
 * [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
 * [2024-01-21, 03:05:31](https://news.ycombinator.com/item?id=39075136) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
-* [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 06:59:44](https://news.ycombinator.com/item?id=39065351) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
 * [2024-01-20, 02:49:44](https://news.ycombinator.com/item?id=39064171) - [Elevator Expert on How to Move 10k People Up a 118-Floor Skyscraper [video]](https://www.youtube.com/watch?v=dK6XZvIt22w)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)

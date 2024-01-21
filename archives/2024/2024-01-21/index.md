@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 * [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
 * [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
