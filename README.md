@@ -2,9 +2,9 @@
 
 * [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
+* [2024-01-21, 18:25:34](https://news.ycombinator.com/item?id=39081147) - [American society wasn't always so car-centric. Our future doesn't have to be](https://yaleclimateconnections.org/2023/10/american-society-wasnt-always-so-car-centric-our-future-doesnt-have-to-be-either/)
 * [2024-01-21, 18:14:36](https://news.ycombinator.com/item?id=39080993) - [Huawei claims HarmonyOS NEXT kernel is more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
 * [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
-* [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 17:00:42](https://news.ycombinator.com/item?id=39080211) - [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/)
