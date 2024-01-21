@@ -90,6 +90,7 @@
 * [2024-01-20, 09:57:09](https://news.ycombinator.com/item?id=39066052) - [Convicted murderer, filesystem creator writes of regrets to Linux list](https://arstechnica.com/gadgets/2024/01/convicted-murderer-filesystem-creator-writes-of-regrets-to-linux-list/)
 * [2024-01-20, 09:46:33](https://news.ycombinator.com/item?id=39066012) - [Retired teacher's pension stopped as provider refuses to believe she is not dead](https://www.theguardian.com/money/2024/jan/20/retired-teachers-pension-stopped-as-provider-refuses-to-believe-she-is-not-dead)
 * [2024-01-20, 09:43:15](https://news.ycombinator.com/item?id=39065997) - [B2B SaaS in the AI era is impossible?](https://news.ycombinator.com/item?id=39065997)
+* [2024-01-20, 09:41:52](https://news.ycombinator.com/item?id=39065990) - [In Praise of Difficult Children (2009)](https://www.lrb.co.uk/the-paper/v31/n03/adam-phillips/in-praise-of-difficult-children)
 * [2024-01-20, 09:26:19](https://news.ycombinator.com/item?id=39065932) - [The evolution of C64 games 1982–2023](http://www.linusakesson.net/games/evolution/c64.php)
 * [2024-01-20, 09:09:21](https://news.ycombinator.com/item?id=39065863) - [Games That Weren't: Stuntman Seymour](https://www.gamesthatwerent.com/2023/12/stuntman-seymour/)
 * [2024-01-20, 08:15:23](https://news.ycombinator.com/item?id=39065637) - [Pipeline-Oriented Programming [video]](https://www.youtube.com/watch?v=ipceTuJlw-M)

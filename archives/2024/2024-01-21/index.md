@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
 * [2024-01-21, 18:27:40](https://news.ycombinator.com/item?id=39081170) - [Tesla owner adds 4000 watt solar panel roof to his car after company wouldn't](https://www.uniladtech.com/vehicles/car-news/tesla-owner-adds-solar-panel-roof-506677-20240118)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
 * [2024-01-21, 18:14:36](https://news.ycombinator.com/item?id=39080993) - [Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
+* [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 * [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
@@ -24,6 +26,7 @@
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
 * [2024-01-21, 14:57:34](https://news.ycombinator.com/item?id=39078982) - ['God' is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
 * [2024-01-21, 14:55:18](https://news.ycombinator.com/item?id=39078957) - [A QA engineer walks into a bar](https://twitter.com/brenankeller/status/1068615953989087232)
+* [2024-01-21, 14:49:09](https://news.ycombinator.com/item?id=39078899) - [The SuperH-3, part 1: Introduction (2019)](https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749)
 * [2024-01-21, 14:23:38](https://news.ycombinator.com/item?id=39078669) - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
 * [2024-01-21, 14:09:50](https://news.ycombinator.com/item?id=39078539) - [A man who used music to try to lure aliens to earth (2020)](https://pitchfork.com/thepitch/meet-the-man-who-used-kraftwerk-fela-kuti-and-other-fascinating-music-to-try-to-lure-aliens-to-earth/)
 * [2024-01-21, 13:53:32](https://news.ycombinator.com/item?id=39078417) - [Google Is Tracking You Even in Incognito Mode, New Disclaimer Is Up](https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159)
