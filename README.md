@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
+* [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 * [2024-01-21, 07:02:48](https://news.ycombinator.com/item?id=39076311) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
 * [2024-01-21, 06:30:39](https://news.ycombinator.com/item?id=39076168) - [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
@@ -8,7 +9,6 @@
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's block / return-from and unwind-protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
-* [2024-01-20, 23:50:30](https://news.ycombinator.com/item?id=39073810) - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
 * [2024-01-20, 21:43:56](https://news.ycombinator.com/item?id=39072698) - [How the placenta evolved from an ancient virus (2020)](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)

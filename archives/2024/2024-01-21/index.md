@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
+* [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
 * [2024-01-21, 07:25:24](https://news.ycombinator.com/item?id=39076422) - [Snobs Are Ruining the Software Development Experience](https://www.thesecretdeveloper.com/blog/snobs-are-ruining-the-software-development-experience)
 * [2024-01-21, 07:02:48](https://news.ycombinator.com/item?id=39076311) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
 * [2024-01-21, 06:30:39](https://news.ycombinator.com/item?id=39076168) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
