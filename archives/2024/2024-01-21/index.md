@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 18:27:40](https://news.ycombinator.com/item?id=39081170) - [Tesla owner adds 4000 watt solar panel roof to his car after company wouldn't](https://www.uniladtech.com/vehicles/car-news/tesla-owner-adds-solar-panel-roof-506677-20240118)
+* [2024-01-21, 18:14:36](https://news.ycombinator.com/item?id=39080993) - [Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
+* [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 17:01:16](https://news.ycombinator.com/item?id=39080214) - [Now OpenAI CEO Sam Altman wants billions for AI chip fabs](https://www.theregister.com/2024/01/20/altman_chip_fabs/)
+* [2024-01-21, 17:00:42](https://news.ycombinator.com/item?id=39080211) - [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the Dimensionality of Spacetime [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 * [2024-01-21, 16:43:18](https://news.ycombinator.com/item?id=39080050) - [Artists can poison their pics with deadly Nightshade to deter AI scrapers](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
