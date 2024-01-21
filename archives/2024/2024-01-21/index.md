@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
+* [2024-01-21, 16:43:18](https://news.ycombinator.com/item?id=39080050) - [Artists can poison their pics with deadly Nightshade to deter AI scrapers](https://www.theregister.com/2024/01/20/nightshade_ai_images/)
+* [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
 * [2024-01-21, 16:33:21](https://news.ycombinator.com/item?id=39079943) - [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
 * [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
@@ -20,6 +23,7 @@
 * [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
+* [2024-01-21, 12:31:04](https://news.ycombinator.com/item?id=39077858) - [Diamond Electronics Suit Green Power Grids](https://spectrum.ieee.org/diamond-electronics)
 * [2024-01-21, 12:22:30](https://news.ycombinator.com/item?id=39077816) - [You Shouldn't Make Friends at Work](https://www.psychologytoday.com/ca/blog/the-psychology-of-creativity/202306/why-you-should-not-make-friends-at-work)
 * [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
