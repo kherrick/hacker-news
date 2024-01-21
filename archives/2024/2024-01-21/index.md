@@ -11,6 +11,7 @@
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
 * [2024-01-21, 16:33:21](https://news.ycombinator.com/item?id=39079943) - [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
 * [2024-01-21, 16:21:30](https://news.ycombinator.com/item?id=39079840) - [Ask HN: Opened a LLC in USA, where should I look for clients?](https://news.ycombinator.com/item?id=39079840)
+* [2024-01-21, 16:10:37](https://news.ycombinator.com/item?id=39079726) - [Air Jordan Is Finally Deflating](https://www.theatlantic.com/technology/archive/2024/01/air-jordan-trend-is-over/677195/)
 * [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
