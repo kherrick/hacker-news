@@ -6,6 +6,7 @@
 
 * [2024-01-20, 23:50:30](https://news.ycombinator.com/item?id=39073810) - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 * [2024-01-20, 23:30:29](https://news.ycombinator.com/item?id=39073634) - [Meta Introduces Self-Rewarding Language Model Capable of GPT-4 Level Performance](https://digialps.com/meta-research-introduces-revolutionary-self-rewarding-language-models-capable-of-gpt-4-level-performance/)
+* [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [The Underhanded C Contest](http://www.underhanded-c.org/)
 * [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
 * [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
 * [2024-01-20, 22:25:40](https://news.ycombinator.com/item?id=39073077) - [Tomahawk, the Most Important Music App Nobody's Talking About (2012)](https://www.wired.com/2012/02/tomahawk-music-ap/)
