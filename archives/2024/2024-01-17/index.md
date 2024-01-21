@@ -23,6 +23,7 @@
 * [2024-01-17, 20:25:59](https://news.ycombinator.com/item?id=39032967) - [Most STEM grads don't work in STEM jobs](https://www.tampabay.com/opinion/2024/01/17/did-you-know-that-most-stem-grads-dont-work-stem-jobs/)
 * [2024-01-17, 20:08:34](https://news.ycombinator.com/item?id=39032752) - [Systemd: Enable Indefinite Service Restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:51:44](https://news.ycombinator.com/item?id=39032550) - [Apple Must Stop Selling Watches with Blood Oxygen Feature](https://www.bloomberg.com/news/articles/2024-01-17/apple-must-stop-selling-watches-with-blood-oxygen-feature)
+* [2024-01-17, 19:43:05](https://news.ycombinator.com/item?id=39032431) - [Solar Chimneys: Viable Energy Solution or a Lot of Hot Air?](https://hackaday.com/2024/01/15/solar-chimneys-viable-energy-solution-or-a-lot-of-hot-air/)
 * [2024-01-17, 19:39:10](https://news.ycombinator.com/item?id=39032378) - [What Was the Biggest Art Theft in History?](https://www.thecollector.com/biggest-art-theft-in-history/)
 * [2024-01-17, 19:38:01](https://news.ycombinator.com/item?id=39032363) - [Doom Released Under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:32:34](https://news.ycombinator.com/item?id=39032296) - [Could LSD Have Achieved World Peace? Ask Margaret Mead](https://www.nytimes.com/2024/01/16/books/review/tripping-on-utopia-benjamin-breen.html)
