@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+* [2024-01-21, 09:47:39](https://news.ycombinator.com/item?id=39077067) - [Non-London Universities in London](http://diamondgeezer.blogspot.com/2024/01/non-london-universities-in-london.html)
 * [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 * [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Which command did you run 1731 days ago?](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
@@ -13,7 +15,6 @@
 * [2024-01-20, 21:43:56](https://news.ycombinator.com/item?id=39072698) - [How the placenta evolved from an ancient virus (2020)](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 * [2024-01-20, 21:17:02](https://news.ycombinator.com/item?id=39072427) - [Neatroff – a new implementation of the Troff typesetting system (2017) [pdf]](http://litcave.rudi.ir/neatroff.pdf)
-* [2024-01-20, 21:03:12](https://news.ycombinator.com/item?id=39072295) - [The Founder: A dystopian business simulator (2015)](http://thefounder.biz/)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 * [2024-01-20, 20:16:29](https://news.ycombinator.com/item?id=39071820) - [GPU Reshape – shader instrumentation for everyone](https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset/)
 * [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
@@ -22,7 +23,6 @@
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 10:48:25](https://news.ycombinator.com/item?id=39066305) - [CAP twelve years later: How the \"rules\" have changed (2012)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a minimal cell in the browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 08:14:33](https://news.ycombinator.com/item?id=39065631) - [Continuous Integration (2024 Update)](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
