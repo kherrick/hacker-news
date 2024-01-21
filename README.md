@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)
 * [2024-01-21, 14:57:34](https://news.ycombinator.com/item?id=39078982) - ['God' is the average opinion of your tribe](https://shunyaekam.com/essays/god-is-the-mean-opinion-of-your-tribe)
@@ -29,7 +30,6 @@
 * [2024-01-20, 06:59:44](https://news.ycombinator.com/item?id=39065351) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
-* [2024-01-17, 19:43:05](https://news.ycombinator.com/item?id=39032431) - [Solar Chimneys: Viable Energy Solution or a Lot of Hot Air?](https://hackaday.com/2024/01/15/solar-chimneys-viable-energy-solution-or-a-lot-of-hot-air/)
 
 ## [Archives](archives/index.md)
 
