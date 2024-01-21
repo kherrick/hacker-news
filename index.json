@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-21, 02:27:02",
+      "https://news.ycombinator.com/item?id=39074903"
+    ],
+    [
+      "PHP: A fractal of bad design (2012)",
+      "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"
+    ]
+  ],
+  [
+    [
+      "2024-01-21, 01:48:19",
+      "https://news.ycombinator.com/item?id=39074646"
+    ],
+    [
+      "Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]",
+      "https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 01:43:03",
       "https://news.ycombinator.com/item?id=39074605"
     ],
@@ -27,6 +47,16 @@
     [
       "How different languages laugh online",
       "https://restofworld.org/2023/how-people-laugh-online/"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 23:28:06",
+      "https://news.ycombinator.com/item?id=39073618"
+    ],
+    [
+      "The Underhanded C Contest",
+      "http://www.underhanded-c.org/"
     ]
   ],
   [
@@ -157,36 +187,6 @@
     [
       "Strada (YC S23) is hiring a founding engineer in San Francisco",
       "https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 14:10:38",
-      "https://news.ycombinator.com/item?id=39067684"
-    ],
-    [
-      "The Vast Extent by Lavinia Greenlaw review – a cabinet of curiosities",
-      "https://www.theguardian.com/books/2024/jan/19/the-vast-extent-by-lavinia-greenlaw-review-a-cabinet-of-curiosities"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 11:53:37",
-      "https://news.ycombinator.com/item?id=39066724"
-    ],
-    [
-      "Thousands of small businesses  are struggling because of R&D amortization",
-      "https://twitter.com/mjwhansen/status/1748345492998696961"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 11:16:10",
-      "https://news.ycombinator.com/item?id=39066465"
-    ],
-    [
-      "Pratt Parsers: Expression Parsing Made Easy (2011)",
-      "https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/"
     ]
   ],
   [
