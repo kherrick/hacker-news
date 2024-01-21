@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
 * [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)

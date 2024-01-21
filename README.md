@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
-* [2024-01-21, 20:07:37](https://news.ycombinator.com/item?id=39082470) - [DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
