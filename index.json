@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-01-21, 01:37:35",
+      "https://news.ycombinator.com/item?id=39074568"
+    ],
+    [
+      "Common Lisp's Block / Return-From and Unwind-Protect",
+      "http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-21, 01:27:21",
+      "https://news.ycombinator.com/item?id=39074518"
+    ],
+    [
+      "'I Almost Sound Like a Crazy Person, but I Think It Is a Superconductor'",
+      "https://nymag.com/intelligencer/2024/01/theres-a-new-superconductor-claim-out-of-china-is-it-real.html"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 00:17:26",
       "https://news.ycombinator.com/item?id=39074062"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-01-20, 19:15:28",
-      "https://news.ycombinator.com/item?id=39071178"
-    ],
-    [
-      "Non-explosive demolition agents",
-      "https://en.wikipedia.org/wiki/Non-explosive_demolition_agents"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 18:45:15",
       "https://news.ycombinator.com/item?id=39070871"
     ],
@@ -177,16 +187,6 @@
     [
       "Strada (YC S23) is hiring a founding engineer in San Francisco",
       "https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 14:10:38",
-      "https://news.ycombinator.com/item?id=39067684"
-    ],
-    [
-      "The Vast Extent by Lavinia Greenlaw review – a cabinet of curiosities",
-      "https://www.theguardian.com/books/2024/jan/19/the-vast-extent-by-lavinia-greenlaw-review-a-cabinet-of-curiosities"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-19, 22:34:11",
+      "https://news.ycombinator.com/item?id=39062278"
+    ],
+    [
+      "Dickson Despommier wants our cities to be like forests",
+      "https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 21:29:34",
       "https://news.ycombinator.com/item?id=39061457"
     ],
@@ -287,16 +297,6 @@
     [
       "Lamport's Bakery algorithm, demonstrated in Python",
       "https://github.com/Dicklesworthstone/bakery_algorithm"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 03:33:43",
-      "https://news.ycombinator.com/item?id=39051279"
-    ],
-    [
-      "Self-Rewarding Language Models",
-      "https://arxiv.org/abs/2401.10020"
     ]
   ]
 ]
