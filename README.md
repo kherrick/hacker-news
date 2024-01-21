@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 * [2024-01-21, 07:02:48](https://news.ycombinator.com/item?id=39076311) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
 * [2024-01-21, 06:30:39](https://news.ycombinator.com/item?id=39076168) - [The growing inequality of who gets to work from home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
@@ -22,7 +23,6 @@
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 10:51:38](https://news.ycombinator.com/item?id=39066330) - [Tour of new custom M1 macOS runners racks with Christina Warren [video]](https://www.youtube.com/watch?v=I2J2MzKjcqY)
 * [2024-01-20, 10:48:25](https://news.ycombinator.com/item?id=39066305) - [CAP twelve years later: How the \"rules\" have changed (2012)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a minimal cell in the browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 09:09:21](https://news.ycombinator.com/item?id=39065863) - [Stuntman Seymour](https://www.gamesthatwerent.com/2023/12/stuntman-seymour/)
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
