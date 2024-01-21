@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
+* [2024-01-21, 12:49:58](https://news.ycombinator.com/item?id=39077984) - [Kurdish solidarity crackdown: How anti-terror laws silence dissent/solidarity](https://freedomnews.org.uk/2024/01/21/kurdish-solidarity-crackdown/)
 * [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
 * [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
@@ -19,9 +21,7 @@
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's block / return-from and unwind-protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
-* [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
-* [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)

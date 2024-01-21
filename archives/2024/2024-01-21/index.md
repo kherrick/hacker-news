@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 – and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
+* [2024-01-21, 12:49:58](https://news.ycombinator.com/item?id=39077984) - [Kurdish solidarity crackdown: How anti-terror laws silence dissent/solidarity](https://freedomnews.org.uk/2024/01/21/kurdish-solidarity-crackdown/)
 * [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
 * [2024-01-21, 12:31:53](https://news.ycombinator.com/item?id=39077864) - [PU-239](https://electricliterature.com/pu-239-ken-kalfus/)
 * [2024-01-21, 12:22:30](https://news.ycombinator.com/item?id=39077816) - [You Shouldn't Make Friends at Work](https://www.psychologytoday.com/ca/blog/the-psychology-of-creativity/202306/why-you-should-not-make-friends-at-work)
