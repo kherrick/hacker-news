@@ -1,15 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 05:24:10](https://news.ycombinator.com/item?id=39075855) - [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
+* [2024-01-21, 03:43:27](https://news.ycombinator.com/item?id=39075316) - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
 * [2024-01-21, 03:40:21](https://news.ycombinator.com/item?id=39075304) - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
+* [2024-01-21, 03:30:15](https://news.ycombinator.com/item?id=39075266) - [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
 * [2024-01-21, 03:05:14](https://news.ycombinator.com/item?id=39075135) - [Why do we have right-on-red, and is it time to get rid of it?](https://abc7.com/red-light-right-on-traffic-turn/14343661/)
 * [2024-01-21, 03:01:39](https://news.ycombinator.com/item?id=39075117) - [Houthi anti-ship missile systems: getting better all the time](https://www.iiss.org/online-analysis/military-balance/2024/01/houthi-anti-ship-missile-systems-getting-better-all-the-time/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to Build Your Own Injection Molding Machine](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
-* [2024-01-20, 23:50:30](https://news.ycombinator.com/item?id=39073810) - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [The Underhanded C Contest](http://www.underhanded-c.org/)
-* [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
 * [2024-01-20, 21:43:56](https://news.ycombinator.com/item?id=39072698) - [How the placenta evolved from an ancient virus (2020)](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 * [2024-01-20, 21:17:02](https://news.ycombinator.com/item?id=39072427) - [Neatroff – a new implementation of the Troff typesetting system (2017) [pdf]](http://litcave.rudi.ir/neatroff.pdf)
@@ -20,6 +20,7 @@
 * [2024-01-20, 19:15:44](https://news.ycombinator.com/item?id=39071181) - [An animal myself](https://aeon.co/essays/playing-animal-reflects-back-our-yearnings-and-repulsions)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 17:00:29](https://news.ycombinator.com/item?id=39069648) - [Strada (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/strada/jobs/aqkxghT-founding-engineer-full-stack)
+* [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 10:22:51](https://news.ycombinator.com/item?id=39066165) - [Simulating a minimal cell in the browser](https://technistuff.com/posts/simulating-a-minimal-cell/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
 * [2024-01-20, 09:09:21](https://news.ycombinator.com/item?id=39065863) - [Games That Weren't: Stuntman Seymour](https://www.gamesthatwerent.com/2023/12/stuntman-seymour/)
@@ -29,7 +30,6 @@
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [HaptX gloves provide high-fidelity touch feedback of virtual spaces](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
 * [2024-01-19, 19:30:27](https://news.ycombinator.com/item?id=39059925) - [Memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
-* [2024-01-19, 15:57:53](https://news.ycombinator.com/item?id=39056930) - [Lamport's Bakery algorithm, demonstrated in Python](https://github.com/Dicklesworthstone/bakery_algorithm)
 
 ## [Archives](archives/index.md)
 
