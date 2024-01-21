@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
+* [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
+* [2024-01-21, 17:33:03](https://news.ycombinator.com/item?id=39080525) - [BusPirate V5 Now Shipping](https://buspirate.com/bus-pirate-5-rev-10-now-available/)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 * [2024-01-21, 16:40:02](https://news.ycombinator.com/item?id=39080017) - [The Telemetron (2017)](https://www.media.mit.edu/projects/the-telemetron/overview/)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
@@ -27,9 +28,8 @@
 * [2024-01-21, 03:05:31](https://news.ycombinator.com/item?id=39075136) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 12:22:11](https://news.ycombinator.com/item?id=39066956) - [Ransomware attack affecting Tietoevry's services to some customers in Sweden](https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/)
+* [2024-01-20, 02:49:44](https://news.ycombinator.com/item?id=39064171) - [Elevator Expert on How to Move 10k People Up a 118-Floor Skyscraper [video]](https://www.youtube.com/watch?v=dK6XZvIt22w)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-18, 22:12:06](https://news.ycombinator.com/item?id=39048584) - [29M-year-old grasshopper nest found intact with eggs, study says](https://www.cnn.com/2024/01/16/world/fossil-grasshopper-nest-eggs-scn/index.html)
-* [2024-01-18, 15:42:52](https://news.ycombinator.com/item?id=39043122) - [Unseen images of Colossus code breaking computer](https://www.bbc.co.uk/news/technology-67997406)
 
 ## [Archives](archives/index.md)
 

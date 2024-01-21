@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
 * [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
@@ -26,6 +27,7 @@
 * [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
 * [2024-01-21, 17:56:52](https://news.ycombinator.com/item?id=39080793) - [Datalog in 100 lines of JavaScript (2022)](https://www.instantdb.com/essays/datalogjs)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
+* [2024-01-21, 17:33:03](https://news.ycombinator.com/item?id=39080525) - [BusPirate V5 Now Shipping](https://buspirate.com/bus-pirate-5-rev-10-now-available/)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 17:01:16](https://news.ycombinator.com/item?id=39080214) - [Now OpenAI CEO Sam Altman wants billions for AI chip fabs](https://www.theregister.com/2024/01/20/altman_chip_fabs/)
 * [2024-01-21, 17:00:42](https://news.ycombinator.com/item?id=39080211) - [The Ozempic Plateau](https://www.theatlantic.com/health/archive/2024/01/why-you-will-stop-losing-weight-ozempic/677148/)

@@ -111,6 +111,7 @@
 * [2024-01-20, 03:38:02](https://news.ycombinator.com/item?id=39064428) - [VNote: A pleasant note-taking platform](https://app.vnote.fun/en_us/)
 * [2024-01-20, 03:16:52](https://news.ycombinator.com/item?id=39064318) - [\"Sugar Alcohols Ruined My Health: Learn from My Mistakes\" [video]](https://www.youtube.com/watch?v=K5v61YtDYo4)
 * [2024-01-20, 02:51:42](https://news.ycombinator.com/item?id=39064174) - [On Leibniz Notation](https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions)
+* [2024-01-20, 02:49:44](https://news.ycombinator.com/item?id=39064171) - [Elevator Expert on How to Move 10k People Up a 118-Floor Skyscraper [video]](https://www.youtube.com/watch?v=dK6XZvIt22w)
 * [2024-01-20, 02:45:40](https://news.ycombinator.com/item?id=39064151) - [The Final Nail in Psychiatry's Antidepressant Coffin](https://www.counterpunch.org/2024/01/17/scientific-misconduct-and-fraud-the-final-nail-in-psychiatrys-antidepressant-coffin/)
 * [2024-01-20, 02:21:35](https://news.ycombinator.com/item?id=39064025) - [Americans are feeling much better about the economy thanks to slowing inflation](https://www.cnn.com/2024/01/19/economy/americans-are-feeling-much-better-thanks-to-slowing-inflation/index.html)
 * [2024-01-20, 02:09:36](https://news.ycombinator.com/item?id=39063963) - [Starlite](https://en.wikipedia.org/wiki/Starlite)
