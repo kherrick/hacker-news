@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 07:02:48](https://news.ycombinator.com/item?id=39076311) - [Langfuse (YC W23) Is Hiring a Founding Engineer in Berlin (LLM Observability)](https://www.workatastartup.com/jobs/62929)
+* [2024-01-21, 06:30:39](https://news.ycombinator.com/item?id=39076168) - [Research: The Growing Inequality of Who Gets to Work from Home](https://hbr.org/2023/12/research-the-growing-inequality-of-who-gets-to-work-from-home)
 * [2024-01-21, 05:24:10](https://news.ycombinator.com/item?id=39075855) - [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
 * [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
 * [2024-01-21, 03:43:27](https://news.ycombinator.com/item?id=39075316) - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
