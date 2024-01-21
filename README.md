@@ -2,7 +2,7 @@
 
 * [2024-01-21, 05:24:10](https://news.ycombinator.com/item?id=39075855) - [Amazon plans to charge for Alexa in June–unless internal conflict delays revamp](https://arstechnica.com/gadgets/2024/01/alexa-is-in-trouble-paid-for-alexa-gives-inaccurate-answers-in-early-demos/)
 * [2024-01-21, 03:40:21](https://news.ycombinator.com/item?id=39075304) - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
-* [2024-01-21, 03:30:15](https://news.ycombinator.com/item?id=39075266) - [Vistex CEO Sanjay Shah dies on stage after freak accident](https://www.news.com.au/finance/work/leaders/tech-boss-sanjay-shah-plunges-to-his-death-after-freak-accident-on-stage/news-story/751f3f155fb58a9c349974bbcf0f9764)
+* [2024-01-21, 03:05:14](https://news.ycombinator.com/item?id=39075135) - [Why do we have right-on-red, and is it time to get rid of it?](https://abc7.com/red-light-right-on-traffic-turn/14343661/)
 * [2024-01-21, 03:01:39](https://news.ycombinator.com/item?id=39075117) - [Houthi anti-ship missile systems: getting better all the time](https://www.iiss.org/online-analysis/military-balance/2024/01/houthi-anti-ship-missile-systems-getting-better-all-the-time/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
