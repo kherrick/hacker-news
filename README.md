@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
 * [2024-01-21, 18:25:34](https://news.ycombinator.com/item?id=39081147) - [American society wasn't always so car-centric. Our future doesn't have to be](https://yaleclimateconnections.org/2023/10/american-society-wasnt-always-so-car-centric-our-future-doesnt-have-to-be-either/)
@@ -10,7 +11,6 @@
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
-* [2024-01-21, 16:33:21](https://news.ycombinator.com/item?id=39079943) - [SVG images can contain JavaScript](https://github.com/berthubert/trifecta/issues/38)
 * [2024-01-21, 15:16:35](https://news.ycombinator.com/item?id=39079179) - [Ship / Show / Ask (2021)](https://martinfowler.com/articles/ship-show-ask.html)
 * [2024-01-21, 14:49:09](https://news.ycombinator.com/item?id=39078899) - [The SuperH-3, part 1: Introduction (2019)](https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749)
 * [2024-01-21, 14:23:38](https://news.ycombinator.com/item?id=39078669) - [NASA regains contact with mini-helicopter on Mars](https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp)
