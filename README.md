@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
 * [2024-01-21, 10:22:33](https://news.ycombinator.com/item?id=39077223) - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
 * [2024-01-21, 10:04:21](https://news.ycombinator.com/item?id=39077151) - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
+* [2024-01-21, 10:00:02](https://news.ycombinator.com/item?id=39077133) - [How a baker survived the Titanic by getting spectacularly drunk](https://nationalpost.com/news/canada/how-a-baker-survived-the-titanic-by-getting-spectacularly-drunk)
 * [2024-01-21, 09:15:24](https://news.ycombinator.com/item?id=39076908) - [Augmenting the Markdown Language for Great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 * [2024-01-21, 08:33:26](https://news.ycombinator.com/item?id=39076700) - [Marketing for Product-Obsessed Developers](https://marclou.beehiiv.com/p/marketing-for-product-obsessed-developers)
 * [2024-01-21, 08:02:52](https://news.ycombinator.com/item?id=39076573) - [Keeping a long shell history](https://registerspill.thorstenball.com/p/which-command-did-you-run-1731-days)
@@ -17,7 +17,6 @@
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
 * [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
-* [2024-01-20, 21:17:02](https://news.ycombinator.com/item?id=39072427) - [Neatroff – a new implementation of the Troff typesetting system (2017) [pdf]](http://litcave.rudi.ir/neatroff.pdf)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 * [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
@@ -29,6 +28,7 @@
 * [2024-01-20, 08:14:33](https://news.ycombinator.com/item?id=39065631) - [Continuous Integration (2024 Update)](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+* [2024-01-19, 22:34:11](https://news.ycombinator.com/item?id=39062278) - [A leading proponent of vertical farming discusses how urban areas should adapt](https://www.newyorker.com/culture/the-new-yorker-interview/dickson-despommier-wants-our-cities-to-be-like-forests)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
