@@ -9,6 +9,7 @@
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [The Underhanded C Contest](http://www.underhanded-c.org/)
 * [2024-01-20, 22:59:14](https://news.ycombinator.com/item?id=39073362) - [Brig: A user interface toolkit for Node.js, which is based on Qt for rendering](https://github.com/BrigJS/brig)
 * [2024-01-20, 22:50:46](https://news.ycombinator.com/item?id=39073295) - [Ask HN: Will Meta-frameworks kill normal frameworks?](https://news.ycombinator.com/item?id=39073295)
+* [2024-01-20, 22:49:43](https://news.ycombinator.com/item?id=39073285) - [The 1944 CIA Guide to Sabotaging Meetings (2021)](https://www.authenticcomms.co.uk/blog/the-1944-cia-guide-to-sabotaging-meetings)
 * [2024-01-20, 22:25:40](https://news.ycombinator.com/item?id=39073077) - [Tomahawk, the Most Important Music App Nobody's Talking About (2012)](https://www.wired.com/2012/02/tomahawk-music-ap/)
 * [2024-01-20, 21:54:53](https://news.ycombinator.com/item?id=39072813) - [Harvard morgue theft ring stole body parts, sold brains, flesh->leather](https://www.nbcnews.com/news/us-news/4-charged-stealing-selling-human-body-parts-harvard-medical-school-mor-rcna89357)
 * [2024-01-20, 21:43:56](https://news.ycombinator.com/item?id=39072698) - [How the placenta evolved from an ancient virus (2020)](https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/)
