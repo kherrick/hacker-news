@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
 * [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
@@ -19,6 +20,7 @@
 * [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://www.npr.org/2024/01/19/1225466035/boeing-737-max-faa-door-plug-alaska-crashes-ntsb)
 * [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 * [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
+* [2024-01-21, 17:56:52](https://news.ycombinator.com/item?id=39080793) - [Datalog in 100 lines of JavaScript (2022)](https://www.instantdb.com/essays/datalogjs)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
 * [2024-01-21, 17:02:13](https://news.ycombinator.com/item?id=39080224) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39080224)
 * [2024-01-21, 17:01:16](https://news.ycombinator.com/item?id=39080214) - [Now OpenAI CEO Sam Altman wants billions for AI chip fabs](https://www.theregister.com/2024/01/20/altman_chip_fabs/)
