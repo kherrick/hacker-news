@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-21, 11:31:07",
+      "https://news.ycombinator.com/item?id=39077536"
+    ],
+    [
+      "Show HN: Pfuzz, a web fuzzer following the Unix philosophy",
+      "https://github.com/codesoap/pfuzz"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 11:07:12",
       "https://news.ycombinator.com/item?id=39077428"
     ],
@@ -157,16 +167,6 @@
     [
       "Show HN: Checkmate Champ – a training tool for chess tactics",
       "https://www.checkmatechamp.net/"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 20:16:29",
-      "https://news.ycombinator.com/item?id=39071820"
-    ],
-    [
-      "GPU Reshape – shader instrumentation for everyone",
-      "https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset/"
     ]
   ],
   [
