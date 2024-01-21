@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
+* [2024-01-21, 22:53:18](https://news.ycombinator.com/item?id=39083916) - [Apple Watch no longer sold with blood oxygen monitoring after patent battle loss](https://arstechnica.com/gadgets/2024/01/apple-watch-no-longer-sold-with-blood-oxygen-monitoring-after-patent-battle-loss/)
 * [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
 * [2024-01-21, 22:02:17](https://news.ycombinator.com/item?id=39083546) - [Jewish Problems](https://arxiv.org/abs/1110.1556)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
@@ -16,6 +17,7 @@
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
+* [2024-01-21, 19:02:50](https://news.ycombinator.com/item?id=39081670) - [Lamborghini licenses MIT's new high-capacity, fast-charging organic battery tech](https://techcrunch.com/2024/01/21/lamborghini-mit-organic-battery/)
 * [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
 * [2024-01-21, 18:27:40](https://news.ycombinator.com/item?id=39081170) - [Tesla owner adds 4000 watt solar panel roof to his car after company wouldn't](https://www.uniladtech.com/vehicles/car-news/tesla-owner-adds-solar-panel-roof-506677-20240118)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [FreeBSD evaluating Rust's adoption into base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
