@@ -15,6 +15,7 @@
 * [2024-01-21, 18:25:34](https://news.ycombinator.com/item?id=39081147) - [American society wasn't always so car-centric. Our future doesn't have to be](https://yaleclimateconnections.org/2023/10/american-society-wasnt-always-so-car-centric-our-future-doesnt-have-to-be-either/)
 * [2024-01-21, 18:24:34](https://news.ycombinator.com/item?id=39081133) - [The lazy technologist's guide to weight loss](https://dberkholz.com/2024/01/17/the-lazy-technologists-guide-to-weight-loss/)
 * [2024-01-21, 18:14:36](https://news.ycombinator.com/item?id=39080993) - [Huawei claims HarmonyOS NEXT kernel is 3x more efficient than Linux](https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html)
+* [2024-01-21, 18:12:55](https://news.ycombinator.com/item?id=39080974) - [Datomic Local](https://blog.datomic.com/2023/08/datomic-local-is-released.html)
 * [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://www.npr.org/2024/01/19/1225466035/boeing-737-max-faa-door-plug-alaska-crashes-ntsb)
 * [2024-01-21, 18:11:10](https://news.ycombinator.com/item?id=39080954) - ['Cozy' relationship between Boeing and U.S. draws scrutiny amid 737 MAX 9 mess](https://text.npr.org/1225466035)
 * [2024-01-21, 18:05:50](https://news.ycombinator.com/item?id=39080885) - [Gamers at risk of irreversible hearing loss and tinnitus, study suggests](https://www.bbc.com/news/technology-68004968)
