@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 03:40:21](https://news.ycombinator.com/item?id=39075304) - [Potential Microbiome Links to Skin Aging](https://today.ucsd.edu/story/researchers-discover-potential-microbiome-links-to-skin-aging)
 * [2024-01-21, 03:26:19](https://news.ycombinator.com/item?id=39075249) - [Adult ADHD Is the Wild West of Psychiatry](https://www.theatlantic.com/health/archive/2023/04/adult-adhd-diagnosis-treatment-adderall-shortage/673719/)
 * [2024-01-21, 02:27:02](https://news.ycombinator.com/item?id=39074903) - [PHP: A fractal of bad design (2012)](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 * [2024-01-21, 01:48:19](https://news.ycombinator.com/item?id=39074646) - [Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints [pdf]](https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf)
