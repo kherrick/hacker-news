@@ -11,6 +11,7 @@
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+* [2024-01-21, 10:31:24](https://news.ycombinator.com/item?id=39077266) - [Show HN: OpenPledge – Make a career with Open Source contributions](https://openpledge.io?source=hn2)
 * [2024-01-21, 10:22:33](https://news.ycombinator.com/item?id=39077223) - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
 * [2024-01-21, 10:04:21](https://news.ycombinator.com/item?id=39077151) - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
 * [2024-01-21, 10:00:02](https://news.ycombinator.com/item?id=39077133) - [How a baker survived the Titanic by getting spectacularly drunk](https://nationalpost.com/news/canada/how-a-baker-survived-the-titanic-by-getting-spectacularly-drunk)
