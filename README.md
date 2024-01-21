@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
+* [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-21, 18:27:18](https://news.ycombinator.com/item?id=39081166) - [The Case for Rust in the base system](https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers)
@@ -24,7 +25,6 @@
 * [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
 * [2024-01-21, 03:05:31](https://news.ycombinator.com/item?id=39075136) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
-* [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language? (2021)](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 12:22:11](https://news.ycombinator.com/item?id=39066956) - [Ransomware attack affecting Tietoevry's services to some customers in Sweden](https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/)
 * [2024-01-20, 09:41:52](https://news.ycombinator.com/item?id=39065990) - [In Praise of Difficult Children (2009)](https://www.lrb.co.uk/the-paper/v31/n03/adam-phillips/in-praise-of-difficult-children)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
+* [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
 * [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
 * [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
