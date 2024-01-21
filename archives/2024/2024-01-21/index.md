@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 11:46:47](https://news.ycombinator.com/item?id=39077622) - [Why is everything so ugly?](https://www.nplusonemag.com/issue-44/the-intellectual-situation/why-is-everything-so-ugly/#rf1-34098)
 * [2024-01-21, 11:31:07](https://news.ycombinator.com/item?id=39077536) - [Show HN: Pfuzz, a web fuzzer following the Unix philosophy](https://github.com/codesoap/pfuzz)
+* [2024-01-21, 11:30:56](https://news.ycombinator.com/item?id=39077535) - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 * [2024-01-21, 11:07:12](https://news.ycombinator.com/item?id=39077428) - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
 * [2024-01-21, 10:22:33](https://news.ycombinator.com/item?id=39077223) - [I believe bestselling author Mark Dawson is a serial plagiarist](https://old.reddit.com/r/books/comments/18n30jn/i_believe_bestselling_author_mark_dawson_is_a/)
 * [2024-01-21, 10:04:21](https://news.ycombinator.com/item?id=39077151) - [Colorado pastor charged for cryptocurrency scam he perpetrated at God's command](https://web3isgoinggreat.com/single/indxcoin)
