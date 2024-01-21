@@ -15,6 +15,7 @@
 * [2024-01-19, 21:29:34](https://news.ycombinator.com/item?id=39061457) - [We tested the most advanced haptic gloves in the world](https://www.freethink.com/ar-vr/we-tested-the-most-advanced-haptic-gloves-in-the-world)
 * [2024-01-19, 21:15:07](https://news.ycombinator.com/item?id=39061275) - [Firms churning out fake papers have taken to bribing journal editors](https://www.science.org/content/article/paper-mills-bribing-editors-scholarly-journals-science-investigation-finds)
 * [2024-01-19, 20:54:33](https://news.ycombinator.com/item?id=39061000) - [Google DeepMind Scientists in Talks to Leave and Form AI Startup](https://www.bloomberg.com/news/articles/2024-01-19/google-deepmind-ai-scientists-in-talks-to-leave-for-french-stealth-startup)
+* [2024-01-19, 20:51:29](https://news.ycombinator.com/item?id=39060958) - [A Discrete and Bounded Envy-Free Cake Cutting Protocol for Any Number of Agents (2016)](https://arxiv.org/abs/1604.03655)
 * [2024-01-19, 20:37:31](https://news.ycombinator.com/item?id=39060793) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://www.theregister.com/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-19, 20:24:32](https://news.ycombinator.com/item?id=39060601) - [US government opens 22M acres of federal lands to solar](https://electrek.co/2024/01/18/us-govt-opens-22-million-acres-federal-lands-solar/)
 * [2024-01-19, 20:08:28](https://news.ycombinator.com/item?id=39060410) - [Bitcoin Is Not Backed by Nothing](https://nakamotoinstitute.org/mempool/bitcoin-is-not-backed-by-nothing/)
