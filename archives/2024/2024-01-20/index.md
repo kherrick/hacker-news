@@ -64,6 +64,7 @@
 * [2024-01-20, 14:10:38](https://news.ycombinator.com/item?id=39067684) - [The Vast Extent by Lavinia Greenlaw review – a cabinet of curiosities](https://www.theguardian.com/books/2024/jan/19/the-vast-extent-by-lavinia-greenlaw-review-a-cabinet-of-curiosities)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
+* [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 13:10:11](https://news.ycombinator.com/item?id=39067261) - [Crafting a Handheld Game Console with RP2040 – An Open Source PCB Design Journey](https://codetiger.github.io/blog/my-first-attempt-on-pcb-designing-based-on-rp2040/)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
