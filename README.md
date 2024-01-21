@@ -19,6 +19,7 @@
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's block / return-from and unwind-protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to build your own injection molding machine (2023)](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-20, 23:28:06](https://news.ycombinator.com/item?id=39073618) - [Results of the 2015 Underhanded C Contest](http://www.underhanded-c.org/)
+* [2024-01-20, 21:40:47](https://news.ycombinator.com/item?id=39072662) - [What Happened to David Graeber?](https://lareviewofbooks.org/article/what-happened-to-david-graeber/)
 * [2024-01-20, 20:41:59](https://news.ycombinator.com/item?id=39072079) - [Show HN: Checkmate Champ – a training tool for chess tactics](https://www.checkmatechamp.net/)
 * [2024-01-20, 20:04:57](https://news.ycombinator.com/item?id=39071688) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 18:45:15](https://news.ycombinator.com/item?id=39070871) - [Investigating a vanishing BIOS on the Fujitsu Lifebook AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
@@ -27,7 +28,6 @@
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 10:48:25](https://news.ycombinator.com/item?id=39066305) - [CAP twelve years later: How the \"rules\" have changed (2012)](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
 * [2024-01-20, 10:16:02](https://news.ycombinator.com/item?id=39066136) - [Spotube: Open-source Spotify-Youtube client](https://github.com/KRTirtho/spotube)
-* [2024-01-20, 01:53:25](https://news.ycombinator.com/item?id=39063865) - [Shiyu discovery reveals East Asia's advanced materials dating to 45,000 BCE](https://phys.org/news/2024-01-shiyu-discovery-reveals-east-asia.html)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
