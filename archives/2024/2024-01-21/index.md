@@ -9,6 +9,7 @@
 * [2024-01-21, 23:29:44](https://news.ycombinator.com/item?id=39084146) - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 * [2024-01-21, 23:27:22](https://news.ycombinator.com/item?id=39084135) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+* [2024-01-21, 23:19:31](https://news.ycombinator.com/item?id=39084087) - [NASA unlocks $1B canister of asteroid dust](https://www.theguardian.com/science/2024/jan/21/nasa-bennu-asteroid-dust-rock-samples-johnson-space-center)
 * [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
 * [2024-01-21, 22:53:18](https://news.ycombinator.com/item?id=39083916) - [Apple Watch no longer sold with blood oxygen monitoring after patent battle loss](https://arstechnica.com/gadgets/2024/01/apple-watch-no-longer-sold-with-blood-oxygen-monitoring-after-patent-battle-loss/)
 * [2024-01-21, 22:29:17](https://news.ycombinator.com/item?id=39083736) - [Gem adds support for creating state machines for attributes on any Ruby class](https://github.com/state-machines/state_machines)
