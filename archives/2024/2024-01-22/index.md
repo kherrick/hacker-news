@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 05:43:08](https://news.ycombinator.com/item?id=39086692) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 * [2024-01-22, 05:17:12](https://news.ycombinator.com/item?id=39086519) - [Citing crime, In-N-Out announces closure of Oakland restaurant](https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:21:35](https://news.ycombinator.com/item?id=39086149) - [OpenAI suspends developer over bot that impersonated presidential candidate](https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html)
@@ -13,6 +14,7 @@
 * [2024-01-22, 03:47:53](https://news.ycombinator.com/item?id=39085957) - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://archive.li/aaKeb#selection-820.0-820.1)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [2024-01-22, 03:22:38](https://news.ycombinator.com/item?id=39085814) - [Palworld Has the Highest Player Count on Steam](https://www.gameleap.com/articles/palworld-has-the-highest-player-count-on-steam)
+* [2024-01-22, 03:06:40](https://news.ycombinator.com/item?id=39085704) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 03:04:36](https://news.ycombinator.com/item?id=39085683) - [Substack Won't Make You Rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
 * [2024-01-22, 02:59:41](https://news.ycombinator.com/item?id=39085640) - [Why George Washington's Statue in London Doesn't Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
 * [2024-01-22, 02:52:26](https://news.ycombinator.com/item?id=39085587) - [Games don't need venture capitalism](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
