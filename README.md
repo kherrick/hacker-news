@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
+* [2024-01-22, 03:22:38](https://news.ycombinator.com/item?id=39085814) - [Palworld Has the Highest Player Count on Steam](https://www.gameleap.com/articles/palworld-has-the-highest-player-count-on-steam)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
+* [2024-01-22, 01:42:36](https://news.ycombinator.com/item?id=39085076) - [JSON functions stopped working with blobs in SQLite 3.45](https://sqlite.org/forum/forumpost/012136abd5292b8d)
 * [2024-01-22, 01:27:32](https://news.ycombinator.com/item?id=39084983) - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
 * [2024-01-22, 01:26:58](https://news.ycombinator.com/item?id=39084980) - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
 * [2024-01-22, 00:45:29](https://news.ycombinator.com/item?id=39084711) - [Office politics is not optional: learn to play the game or you'll be its victim](https://www.ft.com/content/a84327c6-f939-480c-925d-19d3f41062bf)
@@ -25,11 +28,8 @@
 * [2024-01-21, 13:01:11](https://news.ycombinator.com/item?id=39078061) - [Some fish live beyond 100 and get healthier as they age](https://www.nationalgeographic.com/premium/article/buffalofish-oldest-hundred-years-mystery)
 * [2024-01-21, 12:43:37](https://news.ycombinator.com/item?id=39077943) - [Lessons learned from bringing promotional sweets to a conference](https://shkspr.mobi/blog/2024/01/lessons-learned-from-bringing-promotional-sweets-to-a-conference/)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
-* [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
-* [2024-01-21, 03:05:31](https://news.ycombinator.com/item?id=39075136) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
 
