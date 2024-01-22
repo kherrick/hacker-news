@@ -73,6 +73,7 @@
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)
 * [2024-01-20, 13:01:42](https://news.ycombinator.com/item?id=39067213) - [Russia has started indiscriminately blocking all OpenVPN/WireGuard connections](https://news.ycombinator.com/item?id=39067213)
 * [2024-01-20, 12:56:38](https://news.ycombinator.com/item?id=39067178) - [Tesla Employees Using Vehicle Cameras to Spy on 'Private Scenes;' Owners Suing](https://www.motorbiscuit.com/tesla-employees-using-vehicle-cameras-to-spy-on-private-scenes-owners-suing/)
+* [2024-01-20, 12:40:17](https://news.ycombinator.com/item?id=39067057) - [Show HN: Postcrest.com – faceswap and image generation tool](https://postcrest.com/ai-content-generation/faceswap)
 * [2024-01-20, 12:37:12](https://news.ycombinator.com/item?id=39067040) - [Show HN: I made an app people call \"Airdrop for Android\"](https://www.ubidrop.com)
 * [2024-01-20, 12:22:11](https://news.ycombinator.com/item?id=39066956) - [Ransomware attack affecting Tietoevry's services to some customers in Sweden](https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/)
 * [2024-01-20, 12:03:23](https://news.ycombinator.com/item?id=39066815) - [Greed Killed Sports Illustrated](https://nymag.com/intelligencer/2024/01/greed-killed-sports-illustrated.html)

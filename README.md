@@ -4,7 +4,6 @@
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
 * [2024-01-22, 17:58:31](https://news.ycombinator.com/item?id=39092828) - [Did you already break the Elliptic Curve, Satoshi, you there?](https://bitcointalk.org/index.php?topic=5481972.0)
-* [2024-01-22, 17:16:49](https://news.ycombinator.com/item?id=39092116) - [Secret Plan Against Germany](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)
 * [2024-01-22, 17:06:39](https://news.ycombinator.com/item?id=39091949) - [Evolution of AI and Amara's Law](https://n9o.xyz/posts/202401-evolution-ai/)
 * [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
 * [2024-01-22, 17:00:39](https://news.ycombinator.com/item?id=39091864) - [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
@@ -25,11 +24,12 @@
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's new flight filter allows you to exclude aircraft models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
-* [2024-01-22, 05:07:41](https://news.ycombinator.com/item?id=39086462) - [Two File Descriptors for Sockets](http://cr.yp.to/tcpip/twofd.html)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How Far Could the Sun Possibly Be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
+* [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 * [2024-01-21, 19:16:56](https://news.ycombinator.com/item?id=39081861) - [A Man Who Coined the Word \"Robot\" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
 * [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
+* [2024-01-20, 12:40:17](https://news.ycombinator.com/item?id=39067057) - [Show HN: Postcrest.com – faceswap and image generation tool](https://postcrest.com/ai-content-generation/faceswap)
 
 ## [Archives](archives/index.md)
 
