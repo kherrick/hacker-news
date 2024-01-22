@@ -2,10 +2,10 @@
 
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New theory suggests LLMs can understand text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
-* [2024-01-22, 17:58:31](https://news.ycombinator.com/item?id=39092828) - [Did you already break the Elliptic Curve, Satoshi, you there?](https://bitcointalk.org/index.php?topic=5481972.0)
+* [2024-01-22, 17:46:55](https://news.ycombinator.com/item?id=39092633) - [Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine](https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
+* [2024-01-22, 17:38:04](https://news.ycombinator.com/item?id=39092486) - [Office Landlords Use Cash Gifts, Loans to Inflate Building Values](https://www.wsj.com/real-estate/commercial/office-landlords-use-cash-gifts-loans-to-inflate-building-values-92faae2a)
 * [2024-01-22, 17:26:24](https://news.ycombinator.com/item?id=39092278) - [There is way too much serendipity](https://www.lesswrong.com/posts/oA23zoEjPnzqfHiCt/there-is-way-too-much-serendipity)
-* [2024-01-22, 17:19:27](https://news.ycombinator.com/item?id=39092161) - [AI is destabilizing 'the concept of truth itself' in 2024 election](https://www.washingtonpost.com/technology/2024/01/22/ai-deepfake-elections-politicians/)
 * [2024-01-22, 17:08:37](https://news.ycombinator.com/item?id=39091981) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://github.com/LiheYoung/Depth-Anything)
 * [2024-01-22, 17:06:39](https://news.ycombinator.com/item?id=39091949) - [Evolution of AI and Amara's Law](https://n9o.xyz/posts/202401-evolution-ai/)
 * [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
