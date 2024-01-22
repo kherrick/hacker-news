@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 16:33:57](https://news.ycombinator.com/item?id=39091416) - [Cutting down AWS cost by $150k per year simply by shutting things off](https://tuananh.net/2024/01/21/cloud-cost-optimization-at-scale-part-1/)
 * [2024-01-22, 16:01:35](https://news.ycombinator.com/item?id=39090901) - [Google cites 'durable cost savings' as CEO Sundar Pichai warns of more layoffs](https://nypost.com/2024/01/22/business/google-cites-durable-cost-savings-as-2024-goal-amid-layoffs/)
 * [2024-01-22, 16:00:00](https://news.ycombinator.com/item?id=39090879) - [Meta now lets EU users unlink their Facebook, Messenger and Instagram accounts](https://www.neowin.net/news/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/)
 * [2024-01-22, 15:35:00](https://news.ycombinator.com/item?id=39090539) - [Apple sold an estimated 180K Vision Pro units during the first pre-order weekend](https://medium.com/@mingchikuo/vision-pro%E9%A6%96%E9%80%B1%E6%9C%AB%E9%A0%90%E8%B3%BC%E6%AA%A2%E8%A6%96-%E7%AC%A6%E5%90%88%E9%A0%90%E6%9C%9F%E4%BD%86%E9%9A%B1%E6%86%82%E6%B5%AE%E7%8F%BE-vision-pros-first-weekend-pre-order-review-expectations-in-line-0450c1effe66)
@@ -54,6 +55,7 @@
 * [2024-01-22, 02:59:41](https://news.ycombinator.com/item?id=39085640) - [Why George Washington's Statue in London Doesn't Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
 * [2024-01-22, 02:52:26](https://news.ycombinator.com/item?id=39085587) - [Games don't need venture capitalism](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
 * [2024-01-22, 02:11:29](https://news.ycombinator.com/item?id=39085266) - [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
+* [2024-01-22, 02:07:51](https://news.ycombinator.com/item?id=39085238) - [Why Zig When There Is Already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/)
 * [2024-01-22, 01:48:41](https://news.ycombinator.com/item?id=39085129) - [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
 * [2024-01-22, 01:42:36](https://news.ycombinator.com/item?id=39085076) - [JSON functions stopped working with blobs in SQLite 3.45](https://sqlite.org/forum/forumpost/012136abd5292b8d)
