@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-01-22, 19:40:12",
+      "https://news.ycombinator.com/item?id=39094306"
+    ],
+    [
+      "British man appears in court over bomb joke sent in private message",
+      "https://www.bbc.com/news/world-europe-68056421"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 19:38:55",
+      "https://news.ycombinator.com/item?id=39094288"
+    ],
+    [
+      "My Toddler Still Loves Planes, So I Upgraded Her Radar",
+      "https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 19:30:35",
+      "https://news.ycombinator.com/item?id=39094187"
+    ],
+    [
+      "Against Normalcy: Why Being Normal Can Be Dangerous",
+      "https://durmonski.com/life-advice/against-normalcy/"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 19:30:21",
+      "https://news.ycombinator.com/item?id=39094181"
+    ],
+    [
+      "Ask HN: Is Apple's R1 a Discrete GPU?",
+      "https://news.ycombinator.com/item?id=39094181"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 19:14:30",
+      "https://news.ycombinator.com/item?id=39093970"
+    ],
+    [
+      "CLI tool, written in Rust, to diff directory snapshots",
+      "https://www.jotaen.net/iE3XC/"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 19:05:10",
       "https://news.ycombinator.com/item?id=39093821"
     ],
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2024-01-22, 18:02:35",
-      "https://news.ycombinator.com/item?id=39092896"
+      "2024-01-22, 18:19:22",
+      "https://news.ycombinator.com/item?id=39093109"
     ],
     [
-      "New theory suggests LLMs can understand text",
-      "https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/"
+      "Caches: LRU vs. Random",
+      "https://danluu.com/2choices-eviction/"
     ]
   ],
   [
@@ -41,32 +91,12 @@
   ],
   [
     [
-      "2024-01-22, 17:46:55",
-      "https://news.ycombinator.com/item?id=39092633"
-    ],
-    [
-      "Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine",
-      "https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224"
-    ]
-  ],
-  [
-    [
       "2024-01-22, 17:39:13",
       "https://news.ycombinator.com/item?id=39092505"
     ],
     [
       "Modder re-creates Game Boy Advance games using the audio from crash sounds",
       "https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 17:38:04",
-      "https://news.ycombinator.com/item?id=39092486"
-    ],
-    [
-      "Office Landlords Use Cash Gifts, Loans to Inflate Building Values",
-      "https://www.wsj.com/real-estate/commercial/office-landlords-use-cash-gifts-loans-to-inflate-building-values-92faae2a"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
       "https://github.com/LiheYoung/Depth-Anything"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 17:08:22",
-      "https://news.ycombinator.com/item?id=39091976"
-    ],
-    [
-      "Nvidia RTX Remix Open Beta Available Now – Remaster the Classics with RTX",
-      "https://www.nvidia.com/en-us/geforce/news/rtx-remix-open-beta-half-life-2-rtx-trailer/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-01-22, 16:05:01",
-      "https://news.ycombinator.com/item?id=39090959"
-    ],
-    [
-      "Harvard Teaching Hospital Seeks Retraction of 6 Papers by Top Researchers",
-      "https://www.wsj.com/health/dana-farber-harvard-retractions-corrections-ceo-laurie-glimcher-935636f5"
-    ]
-  ],
-  [
-    [
       "2024-01-22, 16:00:00",
       "https://news.ycombinator.com/item?id=39090879"
     ],
@@ -207,26 +217,6 @@
     [
       "When America first dropped acid",
       "https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 13:52:08",
-      "https://news.ycombinator.com/item?id=39089508"
-    ],
-    [
-      "BiomeJS 2024 Roadmap",
-      "https://biomejs.dev/blog/roadmap-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 13:27:22",
-      "https://news.ycombinator.com/item?id=39089294"
-    ],
-    [
-      "Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware",
-      "https://en.wikipedia.org/wiki/Jazelle"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Indexing iCloud Photos with AI Using LLaVA and Pgvector",
       "https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 13:21:13",
+      "https://news.ycombinator.com/item?id=39067320"
+    ],
+    [
+      "Ludum Mortuus Est",
+      "https://www.brokentoys.org/ludum-mortuus-est/"
     ]
   ]
 ]
