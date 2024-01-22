@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-22, 05:17:12](https://news.ycombinator.com/item?id=39086519) - [Citing crime, In-N-Out announces closure of Oakland restaurant](https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 * [2024-01-22, 03:59:49](https://news.ycombinator.com/item?id=39086032) - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
@@ -10,7 +9,6 @@
 * [2024-01-22, 02:59:41](https://news.ycombinator.com/item?id=39085640) - [Why George Washington's Statue in London Doesn't Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
 * [2024-01-22, 02:52:26](https://news.ycombinator.com/item?id=39085587) - [Games don't need venture capitalism](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
-* [2024-01-22, 01:42:36](https://news.ycombinator.com/item?id=39085076) - [JSON functions stopped working with blobs in SQLite 3.45](https://sqlite.org/forum/forumpost/012136abd5292b8d)
 * [2024-01-22, 01:27:32](https://news.ycombinator.com/item?id=39084983) - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
 * [2024-01-22, 01:26:58](https://news.ycombinator.com/item?id=39084980) - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
 * [2024-01-22, 00:56:25](https://news.ycombinator.com/item?id=39084785) - [Self-driving as a case study for AGI](https://karpathy.github.io/2024/01/21/selfdriving-agi/)
@@ -23,6 +21,7 @@
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-21, 17:36:50](https://news.ycombinator.com/item?id=39080562) - [The question of poverty vs. instability](https://www.robkhenderson.com/p/being-poor-doesnt-have-the-same-effect)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
+* [2024-01-21, 16:40:02](https://news.ycombinator.com/item?id=39080017) - [The Telemetron (2017)](https://www.media.mit.edu/projects/the-telemetron/overview/)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
 * [2024-01-21, 15:49:28](https://news.ycombinator.com/item?id=39079482) - [Taito's Mini-Vaders: Why Should Dottori Have All the Fun?](https://nicole.express/2024/taito-does-what-segant.html)
 * [2024-01-21, 14:49:09](https://news.ycombinator.com/item?id=39078899) - [The SuperH-3, part 1: Introduction (2019)](https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749)
@@ -30,6 +29,7 @@
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+* [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
 
