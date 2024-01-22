@@ -2,7 +2,7 @@
 
 * [2024-01-22, 22:49:39](https://news.ycombinator.com/item?id=39096646) - [The ancient history of 'forgotten crops'](https://www.arch.cam.ac.uk/news/orphan-crops)
 * [2024-01-22, 22:10:43](https://news.ycombinator.com/item?id=39096216) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
-* [2024-01-22, 21:40:55](https://news.ycombinator.com/item?id=39095865) - [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
+* [2024-01-22, 21:30:07](https://news.ycombinator.com/item?id=39095738) - [Sam Altman Says AI Using Too Much Energy Will Require Breakthrough Energy Source](https://futurism.com/sam-altman-energy-breakthrough)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 20:28:50](https://news.ycombinator.com/item?id=39094964) - [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
@@ -26,7 +26,7 @@
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
-* [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [The size of abacklog is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
+* [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
 * [2024-01-21, 19:16:56](https://news.ycombinator.com/item?id=39081861) - [A Man Who Coined the Word \"Robot\" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
 * [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
 * [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
