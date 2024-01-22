@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 22:49:39](https://news.ycombinator.com/item?id=39096646) - [The ancient history of 'forgotten crops'](https://www.arch.cam.ac.uk/news/orphan-crops)
 * [2024-01-22, 22:27:02](https://news.ycombinator.com/item?id=39096404) - [MrBeast reveals he made $250k from X video](https://www.bbc.co.uk/news/technology-68061020)
 * [2024-01-22, 22:18:09](https://news.ycombinator.com/item?id=39096297) - [The absurdity of the return-to-office movement](https://www.cnn.com/2024/01/22/opinions/remote-work-jobs-bergen/index.html)
 * [2024-01-22, 22:10:43](https://news.ycombinator.com/item?id=39096216) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
