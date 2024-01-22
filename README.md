@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
+* [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
@@ -24,8 +26,6 @@
 * [2024-01-21, 14:49:09](https://news.ycombinator.com/item?id=39078899) - [The SuperH-3, part 1: Introduction (2019)](https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749)
 * [2024-01-21, 13:21:45](https://news.ycombinator.com/item?id=39078198) - [What Adrian Did Next – Part 2 – Sun Microsystems (2022)](https://adrianco.medium.com/what-adrian-did-next-part-2-sun-microsystems-c1a512c8284)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
-* [2024-01-21, 05:17:54](https://news.ycombinator.com/item?id=39075804) - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
-* [2024-01-20, 13:24:22](https://news.ycombinator.com/item?id=39067345) - [Nix Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/)
 * [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)

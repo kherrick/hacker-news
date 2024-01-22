@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
+* [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
 * [2024-01-22, 05:43:08](https://news.ycombinator.com/item?id=39086692) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
