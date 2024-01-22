@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 20:30:59](https://news.ycombinator.com/item?id=39094993) - [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
 * [2024-01-22, 19:42:58](https://news.ycombinator.com/item?id=39094343) - [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:34:37](https://news.ycombinator.com/item?id=39094237) - [Performance Analysis of Python's Dict() and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
 * [2024-01-22, 19:30:35](https://news.ycombinator.com/item?id=39094187) - [Against Normalcy: Why Being Normal Can Be Dangerous](https://durmonski.com/life-advice/against-normalcy/)
 * [2024-01-22, 19:26:02](https://news.ycombinator.com/item?id=39094119) - [Post-Serverless Era Trends](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
-* [2024-01-22, 19:15:17](https://news.ycombinator.com/item?id=39093978) - [About Stolen Device Protection for iPhone](https://support.apple.com/en-us/HT212510)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 18:53:37](https://news.ycombinator.com/item?id=39093641) - [Capitalism and Cozy Games](https://blog.glyph.im/2024/01/a-centrist-i-guess.html)
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
