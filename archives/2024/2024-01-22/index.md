@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 21:15:51](https://news.ycombinator.com/item?id=39095571) - [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 20:30:59](https://news.ycombinator.com/item?id=39094993) - [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
+* [2024-01-22, 20:28:50](https://news.ycombinator.com/item?id=39094964) - [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
 * [2024-01-22, 19:46:10](https://news.ycombinator.com/item?id=39094387) - [Open Source Doesn't Require Providing Builds](https://codeengineered.com/blog/2024/open-source-not-builds/)
 * [2024-01-22, 19:42:58](https://news.ycombinator.com/item?id=39094343) - [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
 * [2024-01-22, 19:40:12](https://news.ycombinator.com/item?id=39094306) - [British man appears in court over bomb joke sent in private message](https://www.bbc.com/news/world-europe-68056421)
