@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 18:02:52](https://news.ycombinator.com/item?id=39092903) - [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
