@@ -6,7 +6,10 @@
 
 * [2024-01-22, 18:02:52](https://news.ycombinator.com/item?id=39092903) - [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
+* [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
+* [2024-01-22, 17:58:31](https://news.ycombinator.com/item?id=39092828) - [Did you already break the Elliptic Curve, Satoshi, you there?](https://bitcointalk.org/index.php?topic=5481972.0)
 * [2024-01-22, 17:57:19](https://news.ycombinator.com/item?id=39092802) - [David Graeber: Caring too much. That's the curse of the working classes](https://theanarchistlibrary.org/library/david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes)
+* [2024-01-22, 17:16:49](https://news.ycombinator.com/item?id=39092116) - [Secret Plan Against Germany](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)
 * [2024-01-22, 17:06:39](https://news.ycombinator.com/item?id=39091949) - [Evolution of AI and Amara's Law](https://n9o.xyz/posts/202401-evolution-ai/)
 * [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
 * [2024-01-22, 17:00:39](https://news.ycombinator.com/item?id=39091864) - [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
