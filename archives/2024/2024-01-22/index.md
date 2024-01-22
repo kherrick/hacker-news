@@ -11,6 +11,7 @@
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [2024-01-22, 03:22:38](https://news.ycombinator.com/item?id=39085814) - [Palworld Has the Highest Player Count on Steam](https://www.gameleap.com/articles/palworld-has-the-highest-player-count-on-steam)
 * [2024-01-22, 03:04:36](https://news.ycombinator.com/item?id=39085683) - [Substack Won't Make You Rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
+* [2024-01-22, 02:59:41](https://news.ycombinator.com/item?id=39085640) - [Why George Washington's Statue in London Doesn't Touch British Soil](https://www.military.com/history/george-washington-statue-london-british-soil.html)
 * [2024-01-22, 02:52:26](https://news.ycombinator.com/item?id=39085587) - [Games don't need venture capitalism](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
 * [2024-01-22, 02:11:29](https://news.ycombinator.com/item?id=39085266) - [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
 * [2024-01-22, 01:48:41](https://news.ycombinator.com/item?id=39085129) - [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
