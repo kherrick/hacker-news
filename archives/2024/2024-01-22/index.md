@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 19:46:10](https://news.ycombinator.com/item?id=39094387) - [Open Source Doesn't Require Providing Builds](https://codeengineered.com/blog/2024/open-source-not-builds/)
+* [2024-01-22, 19:42:58](https://news.ycombinator.com/item?id=39094343) - [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
 * [2024-01-22, 19:40:12](https://news.ycombinator.com/item?id=39094306) - [British man appears in court over bomb joke sent in private message](https://www.bbc.com/news/world-europe-68056421)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My Toddler Still Loves Planes, So I Upgraded Her Radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:30:35](https://news.ycombinator.com/item?id=39094187) - [Against Normalcy: Why Being Normal Can Be Dangerous](https://durmonski.com/life-advice/against-normalcy/)
 * [2024-01-22, 19:30:21](https://news.ycombinator.com/item?id=39094181) - [Ask HN: Is Apple's R1 a Discrete GPU?](https://news.ycombinator.com/item?id=39094181)
+* [2024-01-22, 19:15:17](https://news.ycombinator.com/item?id=39093978) - [About Stolen Device Protection for iPhone](https://support.apple.com/en-us/HT212510)
 * [2024-01-22, 19:14:30](https://news.ycombinator.com/item?id=39093970) - [CLI tool, written in Rust, to diff directory snapshots](https://www.jotaen.net/iE3XC/)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 19:01:46](https://news.ycombinator.com/item?id=39093773) - [Passenger notices missing bolts on plane wing, flight canceled](https://nypost.com/2024/01/22/news/nyc-bound-flight-canceled-when-passenger-notices-missing-bolts-on-plane-wing/)
