@@ -19,6 +19,7 @@
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:39:51](https://news.ycombinator.com/item?id=39082817) - [Show HN: Use GitHub Issues as Blog](https://gitblog.io)
 * [2024-01-21, 20:18:33](https://news.ycombinator.com/item?id=39082599) - [Google has no visionary leaders and a pervasive sense of nihilism](https://twitter.com/buccocapital/status/1749083246091026457)
+* [2024-01-21, 20:14:17](https://news.ycombinator.com/item?id=39082552) - [The Surprising Story of the First Microprocessors (2016)](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [Textanalysistool.net](https://textanalysistool.github.io/)
 * [2024-01-21, 20:07:37](https://news.ycombinator.com/item?id=39082470) - [DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"](https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340)
 * [2024-01-21, 20:03:07](https://news.ycombinator.com/item?id=39082421) - [A pandemic mea culpa from Francis Collins](https://www.bostonglobe.com/2024/01/21/opinion/jeff-jacoby-francis-collins-anthony-fauci-covid/)
