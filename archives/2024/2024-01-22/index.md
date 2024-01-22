@@ -6,6 +6,7 @@
 
 * [2024-01-22, 22:27:02](https://news.ycombinator.com/item?id=39096404) - [MrBeast reveals he made $250k from X video](https://www.bbc.co.uk/news/technology-68061020)
 * [2024-01-22, 22:18:09](https://news.ycombinator.com/item?id=39096297) - [The absurdity of the return-to-office movement](https://www.cnn.com/2024/01/22/opinions/remote-work-jobs-bergen/index.html)
+* [2024-01-22, 22:10:43](https://news.ycombinator.com/item?id=39096216) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 * [2024-01-22, 21:45:12](https://news.ycombinator.com/item?id=39095908) - [Mexico, Chile, South Africa, and Indonesia to Take Action Against Israel](https://medium.com/@chrisjeffrieshomelessromantic/mexico-chile-south-africa-and-indonesia-have-all-taken-or-planned-to-take-action-against-israel-475191d59419)
 * [2024-01-22, 21:40:55](https://news.ycombinator.com/item?id=39095865) - [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
 * [2024-01-22, 21:15:51](https://news.ycombinator.com/item?id=39095571) - [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)

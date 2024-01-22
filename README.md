@@ -2,6 +2,7 @@
 
 * [2024-01-22, 22:27:02](https://news.ycombinator.com/item?id=39096404) - [MrBeast reveals he made $250k from X video](https://www.bbc.co.uk/news/technology-68061020)
 * [2024-01-22, 22:18:09](https://news.ycombinator.com/item?id=39096297) - [The absurdity of the return-to-office movement](https://www.cnn.com/2024/01/22/opinions/remote-work-jobs-bergen/index.html)
+* [2024-01-22, 22:10:43](https://news.ycombinator.com/item?id=39096216) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 * [2024-01-22, 21:40:55](https://news.ycombinator.com/item?id=39095865) - [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 20:28:50](https://news.ycombinator.com/item?id=39094964) - [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
@@ -25,7 +26,6 @@
 * [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
-* [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's new flight filter allows you to exclude aircraft models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [The size of abacklog is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
 * [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
