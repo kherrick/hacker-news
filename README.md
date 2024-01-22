@@ -16,7 +16,6 @@
 * [2024-01-22, 00:22:02](https://news.ycombinator.com/item?id=39084533) - [Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
 * [2024-01-21, 23:29:44](https://news.ycombinator.com/item?id=39084146) - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
-* [2024-01-21, 22:29:17](https://news.ycombinator.com/item?id=39083736) - [Gem adds support for creating state machines for attributes on any Ruby class](https://github.com/state-machines/state_machines)
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
 * [2024-01-21, 19:48:22](https://news.ycombinator.com/item?id=39082251) - [Wind River Linux](https://www.windriver.com/products/linux/distro)
@@ -28,6 +27,7 @@
 * [2024-01-21, 13:21:45](https://news.ycombinator.com/item?id=39078198) - [What Adrian Did Next – Part 2 – Sun Microsystems (2022)](https://adrianco.medium.com/what-adrian-did-next-part-2-sun-microsystems-c1a512c8284)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-20, 13:24:22](https://news.ycombinator.com/item?id=39067345) - [Nix Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/)
+* [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 

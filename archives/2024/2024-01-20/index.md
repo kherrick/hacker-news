@@ -76,6 +76,7 @@
 * [2024-01-20, 12:22:11](https://news.ycombinator.com/item?id=39066956) - [Ransomware attack affecting Tietoevry's services to some customers in Sweden](https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/)
 * [2024-01-20, 12:03:23](https://news.ycombinator.com/item?id=39066815) - [Greed Killed Sports Illustrated](https://nymag.com/intelligencer/2024/01/greed-killed-sports-illustrated.html)
 * [2024-01-20, 12:02:32](https://news.ycombinator.com/item?id=39066801) - [Chile searches for those missing from Pinochet dictatorship with the help of AI](https://english.elpais.com/international/2024-01-18/chile-searches-for-those-missing-from-pinochet-dictatorship-with-the-help-of-artificial-intelligence.html)
+* [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 11:53:37](https://news.ycombinator.com/item?id=39066724) - [Thousands of small businesses  are struggling because of R&D amortization](https://twitter.com/mjwhansen/status/1748345492998696961)
 * [2024-01-20, 11:52:41](https://news.ycombinator.com/item?id=39066716) - [TampaDevs – Tampa Bay's Developer Community](https://github.com/TampaDevs)
 * [2024-01-20, 11:33:20](https://news.ycombinator.com/item?id=39066568) - [The Knowledge Economy Is Over. Welcome to the Allocation Economy](https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#)
