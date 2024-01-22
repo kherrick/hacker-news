@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 20:30:59](https://news.ycombinator.com/item?id=39094993) - [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
 * [2024-01-22, 19:42:58](https://news.ycombinator.com/item?id=39094343) - [Financial Markets Microstructure Introduction](https://quantfinance.substack.com/p/financial-markets-microstructure)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
@@ -28,7 +29,6 @@
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 * [2024-01-21, 15:34:22](https://news.ycombinator.com/item?id=39079335) - [Honest Feedback on a Wallpen Vertical Printer](http://guillaumeslizewicz.com/posts/2023/vertical_printer/)
-* [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
 * [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 
 ## [Archives](archives/index.md)
