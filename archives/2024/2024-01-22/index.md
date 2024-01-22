@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:21:35](https://news.ycombinator.com/item?id=39086149) - [OpenAI suspends developer over bot that impersonated presidential candidate](https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html)
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+* [2024-01-22, 03:59:49](https://news.ycombinator.com/item?id=39086032) - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
 * [2024-01-22, 03:47:53](https://news.ycombinator.com/item?id=39085957) - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
 * [2024-01-22, 03:47:53](https://news.ycombinator.com/item?id=39085957) - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://archive.li/aaKeb#selection-820.0-820.1)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
