@@ -28,6 +28,7 @@
 * [2024-01-21, 19:23:52](https://news.ycombinator.com/item?id=39081948) - [C23: A Slightly Better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 19:23:34](https://news.ycombinator.com/item?id=39081941) - [Military interests are pushing new nuclear power; UK gov finally admits it](https://theconversation.com/military-interests-are-pushing-new-nuclear-power-and-the-uk-government-has-finally-admitted-it-216118)
 * [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
+* [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [The size of abacklog is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
 * [2024-01-21, 19:16:56](https://news.ycombinator.com/item?id=39081861) - [A Man Who Coined the Word \"Robot\" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
 * [2024-01-21, 19:02:50](https://news.ycombinator.com/item?id=39081670) - [Lamborghini licenses MIT's new high-capacity, fast-charging organic battery tech](https://techcrunch.com/2024/01/21/lamborghini-mit-organic-battery/)
 * [2024-01-21, 18:43:57](https://news.ycombinator.com/item?id=39081422) - [OpenAI suspends bot developer for presidential hopeful Dean Phillips](https://www.washingtonpost.com/technology/2024/01/20/openai-dean-phillips-ban-chatgpt/)
