@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 16:01:35](https://news.ycombinator.com/item?id=39090901) - [Google cites 'durable cost savings' as CEO Sundar Pichai warns of more layoffs](https://nypost.com/2024/01/22/business/google-cites-durable-cost-savings-as-2024-goal-amid-layoffs/)
+* [2024-01-22, 16:00:00](https://news.ycombinator.com/item?id=39090879) - [Meta now lets EU users unlink their Facebook, Messenger and Instagram accounts](https://www.neowin.net/news/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/)
 * [2024-01-22, 15:35:00](https://news.ycombinator.com/item?id=39090539) - [Apple sold an estimated 180K Vision Pro units during the first pre-order weekend](https://medium.com/@mingchikuo/vision-pro%E9%A6%96%E9%80%B1%E6%9C%AB%E9%A0%90%E8%B3%BC%E6%AA%A2%E8%A6%96-%E7%AC%A6%E5%90%88%E9%A0%90%E6%9C%9F%E4%BD%86%E9%9A%B1%E6%86%82%E6%B5%AE%E7%8F%BE-vision-pros-first-weekend-pre-order-review-expectations-in-line-0450c1effe66)
 * [2024-01-22, 15:12:25](https://news.ycombinator.com/item?id=39090266) - [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
-* [2024-01-22, 14:00:18](https://news.ycombinator.com/item?id=39089599) - [Ford's new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
 * [2024-01-22, 13:52:08](https://news.ycombinator.com/item?id=39089508) - [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
 * [2024-01-22, 13:28:10](https://news.ycombinator.com/item?id=39089303) - [Extreme Value Theory (2009) [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
 * [2024-01-22, 13:27:22](https://news.ycombinator.com/item?id=39089294) - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
@@ -25,7 +26,6 @@
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
-* [2024-01-21, 20:14:17](https://news.ycombinator.com/item?id=39082552) - [The Surprising Story of the First Microprocessors (2016)](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors)
 * [2024-01-21, 19:16:56](https://news.ycombinator.com/item?id=39081861) - [A Man Who Coined the Word \"Robot\" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
 * [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
 * [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
