@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 03:47:53](https://news.ycombinator.com/item?id=39085957) - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://archive.li/aaKeb#selection-820.0-820.1)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 * [2024-01-22, 03:22:38](https://news.ycombinator.com/item?id=39085814) - [Palworld Has the Highest Player Count on Steam](https://www.gameleap.com/articles/palworld-has-the-highest-player-count-on-steam)
+* [2024-01-22, 03:04:36](https://news.ycombinator.com/item?id=39085683) - [Substack Won't Make You Rich](https://albertcory50.substack.com/p/substack-wont-make-you-rich)
+* [2024-01-22, 02:52:26](https://news.ycombinator.com/item?id=39085587) - [Games don't need venture capitalism](https://iatia.substack.com/p/games-dont-need-venture-capitalism)
 * [2024-01-22, 02:11:29](https://news.ycombinator.com/item?id=39085266) - [Ozempic Is Making People Buy Less Food, Walmart Says](https://www.bloomberg.com/news/articles/2023-10-04/walmart-says-ozempic-weight-loss-drugs-causing-slight-pullback-by-shoppers)
 * [2024-01-22, 01:48:41](https://news.ycombinator.com/item?id=39085129) - [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
 * [2024-01-22, 01:42:36](https://news.ycombinator.com/item?id=39085076) - [JSON functions stopped working with blobs in SQLite 3.45](https://sqlite.org/forum/forumpost/012136abd5292b8d)
 * [2024-01-22, 01:27:32](https://news.ycombinator.com/item?id=39084983) - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
 * [2024-01-22, 01:26:58](https://news.ycombinator.com/item?id=39084980) - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
+* [2024-01-22, 00:56:25](https://news.ycombinator.com/item?id=39084785) - [Self-driving as a case study for AGI](https://karpathy.github.io/2024/01/21/selfdriving-agi/)
 * [2024-01-22, 00:48:29](https://news.ycombinator.com/item?id=39084732) - [Beverly Clock](https://en.wikipedia.org/wiki/Beverly_Clock)
 * [2024-01-22, 00:45:29](https://news.ycombinator.com/item?id=39084711) - [Office politics is not optional: learn to play the game or you'll be its victim](https://www.ft.com/content/a84327c6-f939-480c-925d-19d3f41062bf)
 * [2024-01-22, 00:22:02](https://news.ycombinator.com/item?id=39084533) - [Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
