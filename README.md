@@ -6,6 +6,7 @@
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
+* [2024-01-22, 07:32:07](https://news.ycombinator.com/item?id=39087237) - [Boeing 737-900ER: Second model to be inspected after 737 MAX 9 blowout](https://www.bbc.co.uk/news/world-us-canada-68052160)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 05:07:41](https://news.ycombinator.com/item?id=39086462) - [Two File Descriptors for Sockets](http://cr.yp.to/tcpip/twofd.html)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
@@ -29,7 +30,6 @@
 * [2024-01-20, 12:01:43](https://news.ycombinator.com/item?id=39066795) - [The Dawn of Cultural Schizophrenia (2023)](https://www.jdemeta.net/p/the-dawn-of-cultural-schizophrenia)
 * [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
-* [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
 
