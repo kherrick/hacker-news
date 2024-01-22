@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
@@ -11,6 +12,7 @@
 * [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
 * [2024-01-22, 05:43:08](https://news.ycombinator.com/item?id=39086692) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 * [2024-01-22, 05:17:12](https://news.ycombinator.com/item?id=39086519) - [Citing crime, In-N-Out announces closure of Oakland restaurant](https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/)
+* [2024-01-22, 05:07:41](https://news.ycombinator.com/item?id=39086462) - [Two File Descriptors for Sockets](http://cr.yp.to/tcpip/twofd.html)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:21:35](https://news.ycombinator.com/item?id=39086149) - [OpenAI suspends developer over bot that impersonated presidential candidate](https://www.engadget.com/openai-suspends-developer-over-chatgpt-bot-that-impersonated-a-presidential-candidate-214854456.html)
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
