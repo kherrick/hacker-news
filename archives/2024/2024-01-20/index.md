@@ -68,6 +68,7 @@
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
 * [2024-01-20, 13:24:22](https://news.ycombinator.com/item?id=39067345) - [Nix Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/)
+* [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
 * [2024-01-20, 13:10:11](https://news.ycombinator.com/item?id=39067261) - [Crafting a Handheld Game Console with RP2040 – An Open Source PCB Design Journey](https://codetiger.github.io/blog/my-first-attempt-on-pcb-designing-based-on-rp2040/)
 * [2024-01-20, 13:08:17](https://news.ycombinator.com/item?id=39067250) - [Teaching D from Scratch: Is it a viable first language?](https://dlang.org/blog/2021/12/23/teaching-d-from-scratch-is-it-a-viable-first-language/)

@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 19:40:12](https://news.ycombinator.com/item?id=39094306) - [British man appears in court over bomb joke sent in private message](https://www.bbc.com/news/world-europe-68056421)
+* [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My Toddler Still Loves Planes, So I Upgraded Her Radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
+* [2024-01-22, 19:30:35](https://news.ycombinator.com/item?id=39094187) - [Against Normalcy: Why Being Normal Can Be Dangerous](https://durmonski.com/life-advice/against-normalcy/)
+* [2024-01-22, 19:30:21](https://news.ycombinator.com/item?id=39094181) - [Ask HN: Is Apple's R1 a Discrete GPU?](https://news.ycombinator.com/item?id=39094181)
+* [2024-01-22, 19:14:30](https://news.ycombinator.com/item?id=39093970) - [CLI tool, written in Rust, to diff directory snapshots](https://www.jotaen.net/iE3XC/)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 19:01:46](https://news.ycombinator.com/item?id=39093773) - [Passenger notices missing bolts on plane wing, flight canceled](https://nypost.com/2024/01/22/news/nyc-bound-flight-canceled-when-passenger-notices-missing-bolts-on-plane-wing/)
+* [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 18:02:52](https://news.ycombinator.com/item?id=39092903) - [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
