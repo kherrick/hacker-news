@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 15:35:00](https://news.ycombinator.com/item?id=39090539) - [Apple sold an estimated 180K Vision Pro units during the first pre-order weekend](https://medium.com/@mingchikuo/vision-pro%E9%A6%96%E9%80%B1%E6%9C%AB%E9%A0%90%E8%B3%BC%E6%AA%A2%E8%A6%96-%E7%AC%A6%E5%90%88%E9%A0%90%E6%9C%9F%E4%BD%86%E9%9A%B1%E6%86%82%E6%B5%AE%E7%8F%BE-vision-pros-first-weekend-pre-order-review-expectations-in-line-0450c1effe66)
 * [2024-01-22, 15:12:25](https://news.ycombinator.com/item?id=39090266) - [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
 * [2024-01-22, 14:59:11](https://news.ycombinator.com/item?id=39090137) - [WiFi 7 is officially here, but routers are pricey. Do you need it yet](https://www.houstonchronicle.com/business/tech/article/switch-to-wifi-7-from-wifi-6-18612832.php?sid=5b0231962ddf9c12eaeac904&ss=A&st_rid=ba565903-0389-4060-a5c2-560760d46479&utm_source=marketing&utm_medium=copy-url-link&utm_term=&utm_campaign=article-share&hash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vYnVzaW5lc3MvdGVjaC9hcnRpY2xlL3N3aXRjaC10by13aWZpLTctZnJvbS13aWZpLTYtMTg2MTI4MzIucGhw&time=MTcwNTkyNjE5MjY3MA%3D%3D&rid=YmE1NjU5MDMtMDM4OS00MDYwLWE1YzItNTYwNzYwZDQ2NDc5&sharecount=Mw%3D%3D)
 * [2024-01-22, 14:00:18](https://news.ycombinator.com/item?id=39089599) - [Ford's new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
@@ -13,6 +14,7 @@
 * [2024-01-22, 13:28:10](https://news.ycombinator.com/item?id=39089303) - [Extreme Value Theory (2009) [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
 * [2024-01-22, 13:27:22](https://news.ycombinator.com/item?id=39089294) - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
 * [2024-01-22, 12:57:05](https://news.ycombinator.com/item?id=39088991) - [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
+* [2024-01-22, 12:53:51](https://news.ycombinator.com/item?id=39088962) - [Monster Hunter Rise adds new DRM that breaks it on Steam Deck](https://www.gamingonlinux.com/2024/01/monster-hunter-rise-adds-new-drm-that-breaks-it-on-steam-deck/)
 * [2024-01-22, 12:51:33](https://news.ycombinator.com/item?id=39088941) - [Let Detroit Go Bankrupt (2008)](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 * [2024-01-22, 12:10:03](https://news.ycombinator.com/item?id=39088618) - [Restoring audio from the B-58 \"Hustler\" Voice Warning System](http://www.hydrogen18.com/blog/restoring-audio-b58-hustler-voice-warning-system.html)
 * [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
