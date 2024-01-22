@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-22, 05:17:12",
-      "https://news.ycombinator.com/item?id=39086519"
-    ],
-    [
-      "Citing crime, In-N-Out announces closure of Oakland restaurant",
-      "https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/"
-    ]
-  ],
-  [
-    [
       "2024-01-22, 04:36:20",
       "https://news.ycombinator.com/item?id=39086244"
     ],
@@ -97,16 +87,6 @@
     [
       "Helium is essential but nonrenewable and difficult to recycle",
       "https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 01:42:36",
-      "https://news.ycombinator.com/item?id=39085076"
-    ],
-    [
-      "JSON functions stopped working with blobs in SQLite 3.45",
-      "https://sqlite.org/forum/forumpost/012136abd5292b8d"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-01-21, 16:40:02",
+      "https://news.ycombinator.com/item?id=39080017"
+    ],
+    [
+      "The Telemetron (2017)",
+      "https://www.media.mit.edu/projects/the-telemetron/overview/"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 16:38:40",
       "https://news.ycombinator.com/item?id=39080003"
     ],
@@ -297,6 +287,16 @@
     [
       "What's that touchscreen in my room?",
       "https://laplab.me/posts/whats-that-touchscreen-in-my-room/"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 17:42:05",
+      "https://news.ycombinator.com/item?id=39058428"
+    ],
+    [
+      "Nightshade: An offensive tool for artists against AI art generators",
+      "https://nightshade.cs.uchicago.edu/whatis.html"
     ]
   ]
 ]
