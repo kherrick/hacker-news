@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-22, 18:02:35",
-      "https://news.ycombinator.com/item?id=39092896"
+      "2024-01-22, 19:05:10",
+      "https://news.ycombinator.com/item?id=39093821"
     ],
     [
-      "New theory suggests LLMs can understand text",
-      "https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/"
+      "Google and AT&T invest in Starlink rival for satellite-to-smartphone service",
+      "https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-01-22, 06:01:14",
+      "https://news.ycombinator.com/item?id=39086801"
+    ],
+    [
+      "Battery-free self-powered sensor harvests magnetic energy",
+      "https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 03:25:20",
       "https://news.ycombinator.com/item?id=39085830"
     ],
@@ -287,16 +297,6 @@
     [
       "Indexing iCloud Photos with AI Using LLaVA and Pgvector",
       "https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 12:40:17",
-      "https://news.ycombinator.com/item?id=39067057"
-    ],
-    [
-      "Show HN: Postcrest.com – faceswap and image generation tool",
-      "https://postcrest.com/ai-content-generation/faceswap"
     ]
   ]
 ]
