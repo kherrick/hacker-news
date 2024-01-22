@@ -2,7 +2,6 @@
 
 * [2024-01-22, 21:15:51](https://news.ycombinator.com/item?id=39095571) - [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
-* [2024-01-22, 20:30:59](https://news.ycombinator.com/item?id=39094993) - [Boeing faces new safety alert over earlier generation of 737s](https://lite.cnn.com/2024/01/22/business/boeing-737-earlier-generation-faa/index.html)
 * [2024-01-22, 20:28:50](https://news.ycombinator.com/item?id=39094964) - [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:34:37](https://news.ycombinator.com/item?id=39094237) - [Performance Analysis of Python's Dict() and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
@@ -29,6 +28,7 @@
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 * [2024-01-21, 15:34:22](https://news.ycombinator.com/item?id=39079335) - [Honest Feedback on a Wallpen Vertical Printer](http://guillaumeslizewicz.com/posts/2023/vertical_printer/)
+* [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
 * [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 
 ## [Archives](archives/index.md)

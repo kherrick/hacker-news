@@ -67,6 +67,7 @@
 * [2024-01-20, 13:45:12](https://news.ycombinator.com/item?id=39067502) - [Textfiles](http://www.textfiles.com/index.html)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 * [2024-01-20, 13:33:59](https://news.ycombinator.com/item?id=39067423) - [The Future of Memory](https://semiengineering.com/the-future-of-memory-4/)
+* [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
 * [2024-01-20, 13:24:22](https://news.ycombinator.com/item?id=39067345) - [Nix Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/)
 * [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 * [2024-01-20, 13:14:27](https://news.ycombinator.com/item?id=39067284) - [Why strive? Stephen Fry reads Nick Cave's letter on the threat of AI [video]](https://aeon.co/videos/why-strive-stephen-fry-reads-nick-caves-letter-on-the-threat-of-computed-creativity)
