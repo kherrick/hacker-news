@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 13:28:10](https://news.ycombinator.com/item?id=39089303) - [Extreme Value Theory (2009) [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
+* [2024-01-22, 13:27:22](https://news.ycombinator.com/item?id=39089294) - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
 * [2024-01-22, 12:57:05](https://news.ycombinator.com/item?id=39088991) - [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
 * [2024-01-22, 12:51:33](https://news.ycombinator.com/item?id=39088941) - [Let Detroit Go Bankrupt (2008)](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 * [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
