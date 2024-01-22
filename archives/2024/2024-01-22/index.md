@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 12:57:05](https://news.ycombinator.com/item?id=39088991) - [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
+* [2024-01-22, 12:51:33](https://news.ycombinator.com/item?id=39088941) - [Let Detroit Go Bankrupt (2008)](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 * [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
 * [2024-01-22, 11:49:33](https://news.ycombinator.com/item?id=39088480) - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
