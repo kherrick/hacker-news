@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 23:38:54](https://news.ycombinator.com/item?id=39097148) - [Only 150 apps have been designed specifically for Apple's Vision Pro, so far](https://techcrunch.com/2024/01/22/only-150-apps-have-been-designed-specifically-for-apples-vision-pro-so-far/)
 * [2024-01-22, 23:20:28](https://news.ycombinator.com/item?id=39096981) - ['No cash accepted' signs are bad news for unbanked Americans](https://theconversation.com/no-cash-accepted-signs-are-bad-news-for-millions-of-unbanked-americans-221393)
 * [2024-01-22, 23:11:33](https://news.ycombinator.com/item?id=39096892) - [Supreme Court rules border agents can remove razor wire erected by Texas](https://thehill.com/regulation/court-battles/4422203-supreme-court-southern-border-texas-razor-wire-doj/)
 * [2024-01-22, 22:49:39](https://news.ycombinator.com/item?id=39096646) - [The ancient history of 'forgotten crops'](https://www.arch.cam.ac.uk/news/orphan-crops)
