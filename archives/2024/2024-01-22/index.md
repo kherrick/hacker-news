@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 23:20:28](https://news.ycombinator.com/item?id=39096981) - ['No cash accepted' signs are bad news for unbanked Americans](https://theconversation.com/no-cash-accepted-signs-are-bad-news-for-millions-of-unbanked-americans-221393)
+* [2024-01-22, 23:11:33](https://news.ycombinator.com/item?id=39096892) - [Supreme Court rules border agents can remove razor wire erected by Texas](https://thehill.com/regulation/court-battles/4422203-supreme-court-southern-border-texas-razor-wire-doj/)
 * [2024-01-22, 22:49:39](https://news.ycombinator.com/item?id=39096646) - [The ancient history of 'forgotten crops'](https://www.arch.cam.ac.uk/news/orphan-crops)
 * [2024-01-22, 22:27:02](https://news.ycombinator.com/item?id=39096404) - [MrBeast reveals he made $250k from X video](https://www.bbc.co.uk/news/technology-68061020)
 * [2024-01-22, 22:18:09](https://news.ycombinator.com/item?id=39096297) - [The absurdity of the return-to-office movement](https://www.cnn.com/2024/01/22/opinions/remote-work-jobs-bergen/index.html)
