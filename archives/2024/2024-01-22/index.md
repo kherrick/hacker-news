@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 15:12:25](https://news.ycombinator.com/item?id=39090266) - [When America First Dropped Acid](https://www.newyorker.com/magazine/2024/01/29/tripping-on-utopia-margaret-mead-the-cold-war-and-the-troubled-birth-of-psychedelic-science-benjamin-breen-book-review)
 * [2024-01-22, 14:59:11](https://news.ycombinator.com/item?id=39090137) - [WiFi 7 is officially here, but routers are pricey. Do you need it yet](https://www.houstonchronicle.com/business/tech/article/switch-to-wifi-7-from-wifi-6-18612832.php?sid=5b0231962ddf9c12eaeac904&ss=A&st_rid=ba565903-0389-4060-a5c2-560760d46479&utm_source=marketing&utm_medium=copy-url-link&utm_term=&utm_campaign=article-share&hash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vYnVzaW5lc3MvdGVjaC9hcnRpY2xlL3N3aXRjaC10by13aWZpLTctZnJvbS13aWZpLTYtMTg2MTI4MzIucGhw&time=MTcwNTkyNjE5MjY3MA%3D%3D&rid=YmE1NjU5MDMtMDM4OS00MDYwLWE1YzItNTYwNzYwZDQ2NDc5&sharecount=Mw%3D%3D)
 * [2024-01-22, 14:00:18](https://news.ycombinator.com/item?id=39089599) - [Ford's new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
 * [2024-01-22, 13:52:08](https://news.ycombinator.com/item?id=39089508) - [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
@@ -18,6 +19,7 @@
 * [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
 * [2024-01-22, 11:49:33](https://news.ycombinator.com/item?id=39088480) - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
 * [2024-01-22, 11:45:38](https://news.ycombinator.com/item?id=39088455) - [Have the Boomers Pinched Their Children's Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
+* [2024-01-22, 10:35:24](https://news.ycombinator.com/item?id=39088077) - [The Downward Spiral of Technology](https://www.creativedestruction.club/p/the-downward-spiral-of-technology)
 * [2024-01-22, 10:12:33](https://news.ycombinator.com/item?id=39087994) - [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
