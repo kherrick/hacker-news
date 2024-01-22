@@ -2,6 +2,8 @@
 
 * [2024-01-22, 14:59:11](https://news.ycombinator.com/item?id=39090137) - [WiFi 7 is officially here, but routers are pricey. Do you need it yet](https://www.houstonchronicle.com/business/tech/article/switch-to-wifi-7-from-wifi-6-18612832.php?sid=5b0231962ddf9c12eaeac904&ss=A&st_rid=ba565903-0389-4060-a5c2-560760d46479&utm_source=marketing&utm_medium=copy-url-link&utm_term=&utm_campaign=article-share&hash=aHR0cHM6Ly93d3cuaG91c3RvbmNocm9uaWNsZS5jb20vYnVzaW5lc3MvdGVjaC9hcnRpY2xlL3N3aXRjaC10by13aWZpLTctZnJvbS13aWZpLTYtMTg2MTI4MzIucGhw&time=MTcwNTkyNjE5MjY3MA%3D%3D&rid=YmE1NjU5MDMtMDM4OS00MDYwLWE1YzItNTYwNzYwZDQ2NDc5&sharecount=Mw%3D%3D)
 * [2024-01-22, 14:00:18](https://news.ycombinator.com/item?id=39089599) - [Ford's new 48-inch digital dashboard is a lot of Android for one car](https://www.theverge.com/2024/1/22/24045932/ford-android-screen-display-size-os-apps-gaming-lincoln)
+* [2024-01-22, 13:52:08](https://news.ycombinator.com/item?id=39089508) - [BiomeJS 2024 Roadmap](https://biomejs.dev/blog/roadmap-2024/)
+* [2024-01-22, 13:50:23](https://news.ycombinator.com/item?id=39089488) - [Canada's population is booming – access to family doctors hasn't kept pace](https://www.cbc.ca/news/politics/canada-popuation-booming-family-doctor-access-1.7087794)
 * [2024-01-22, 13:43:39](https://news.ycombinator.com/item?id=39089421) - [CCP members threaten British public piano player [video]](https://www.youtube.com/watch?v=65iwnI2hjAA)
 * [2024-01-22, 13:28:10](https://news.ycombinator.com/item?id=39089303) - [Extreme Value Theory (2009) [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
 * [2024-01-22, 13:27:22](https://news.ycombinator.com/item?id=39089294) - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
@@ -21,13 +23,11 @@
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 * [2024-01-22, 03:59:49](https://news.ycombinator.com/item?id=39086032) - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
-* [2024-01-22, 00:22:02](https://news.ycombinator.com/item?id=39084533) - [Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 * [2024-01-21, 20:14:17](https://news.ycombinator.com/item?id=39082552) - [The Surprising Story of the First Microprocessors (2016)](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors)
 * [2024-01-21, 19:16:56](https://news.ycombinator.com/item?id=39081861) - [A Man Who Coined the Word \"Robot\" Defends Himself](https://spectrum.ieee.org/karel-capek-robots)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
-* [2024-01-20, 12:01:43](https://news.ycombinator.com/item?id=39066795) - [The Dawn of Cultural Schizophrenia (2023)](https://www.jdemeta.net/p/the-dawn-of-cultural-schizophrenia)
 * [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 
