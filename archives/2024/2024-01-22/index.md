@@ -5,8 +5,12 @@
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
+* [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
+* [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
+* [2024-01-22, 08:48:08](https://news.ycombinator.com/item?id=39087599) - [The Last Days of the Barcode](https://www.theatlantic.com/podcasts/archive/2024/01/the-last-days-of-the-barcode/677185/)
 * [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
+* [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)

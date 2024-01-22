@@ -62,6 +62,7 @@
 * [2024-01-20, 14:38:35](https://news.ycombinator.com/item?id=39067949) - [Google search is losing the fight with SEO spam](https://arstechnica.com/gadgets/2024/01/google-search-is-losing-the-fight-with-seo-spam-study-says/)
 * [2024-01-20, 14:35:20](https://news.ycombinator.com/item?id=39067912) - [Nightshade: A Defensive Tool for Artists Against AI Art Generators](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 14:10:38](https://news.ycombinator.com/item?id=39067684) - [The Vast Extent by Lavinia Greenlaw review – a cabinet of curiosities](https://www.theguardian.com/books/2024/jan/19/the-vast-extent-by-lavinia-greenlaw-review-a-cabinet-of-curiosities)
+* [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
 * [2024-01-20, 13:51:17](https://news.ycombinator.com/item?id=39067536) - [Lee Kuan Yew on Malta](https://www.karlsnotes.com/lee-kuan-yew-on-malta/)
 * [2024-01-20, 13:45:12](https://news.ycombinator.com/item?id=39067502) - [Textfiles](http://www.textfiles.com/index.html)
 * [2024-01-20, 13:44:41](https://news.ycombinator.com/item?id=39067496) - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
