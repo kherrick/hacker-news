@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-21](index.md)
 
+* [2024-01-21, 23:59:02](https://news.ycombinator.com/item?id=39084389) - [How to Eat a Big Burger](https://lifehacks.stackexchange.com/questions/22729/how-to-eat-a-big-burger)
 * [2024-01-21, 23:51:02](https://news.ycombinator.com/item?id=39084316) - [Apple to Developers: Heads I win, tails you lose (part 2)](https://mobiledevmemo.com/apple-to-developers-heads-i-win-tails-you-lose-part-2/)
 * [2024-01-21, 23:49:31](https://news.ycombinator.com/item?id=39084305) - [X appears to be juicing MrBeast's views](https://mashable.com/article/x-twitter-elon-musk-mrbeast-video-unlabaled-ads-creator-monetization)
 * [2024-01-21, 23:29:44](https://news.ycombinator.com/item?id=39084146) - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
