@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 13:43:39](https://news.ycombinator.com/item?id=39089421) - [CCP members threaten British public piano player [video]](https://www.youtube.com/watch?v=65iwnI2hjAA)
 * [2024-01-22, 13:28:10](https://news.ycombinator.com/item?id=39089303) - [Extreme Value Theory (2009) [pdf]](https://rls.sites.oasis.unc.edu/s890/evtclass.pdf)
 * [2024-01-22, 13:27:22](https://news.ycombinator.com/item?id=39089294) - [Jazelle DBX: Allow ARM processors to execute Java bytecode in hardware](https://en.wikipedia.org/wiki/Jazelle)
 * [2024-01-22, 12:57:05](https://news.ycombinator.com/item?id=39088991) - [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
