@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-22, 01:48:41](https://news.ycombinator.com/item?id=39085129) - [US home sales see worst year since 1995](https://www.bbc.com/news/business-68035274)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
 * [2024-01-22, 01:27:32](https://news.ycombinator.com/item?id=39084983) - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
 * [2024-01-22, 01:26:58](https://news.ycombinator.com/item?id=39084980) - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
@@ -30,6 +29,7 @@
 * [2024-01-21, 03:05:31](https://news.ycombinator.com/item?id=39075136) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+* [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
 
