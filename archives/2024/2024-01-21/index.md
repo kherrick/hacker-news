@@ -55,6 +55,7 @@
 * [2024-01-21, 16:10:37](https://news.ycombinator.com/item?id=39079726) - [Air Jordan Is Finally Deflating](https://www.theatlantic.com/technology/archive/2024/01/air-jordan-trend-is-over/677195/)
 * [2024-01-21, 15:55:52](https://news.ycombinator.com/item?id=39079542) - [Recommendations for videos/documentaries about building things](https://news.ycombinator.com/item?id=39079542)
 * [2024-01-21, 15:49:28](https://news.ycombinator.com/item?id=39079482) - [Taito's Mini-Vaders: Why Should Dottori Have All the Fun?](https://nicole.express/2024/taito-does-what-segant.html)
+* [2024-01-21, 15:34:22](https://news.ycombinator.com/item?id=39079335) - [Honest Feedback on a Wallpen Vertical Printer](http://guillaumeslizewicz.com/posts/2023/vertical_printer/)
 * [2024-01-21, 15:26:11](https://news.ycombinator.com/item?id=39079256) - [Free and Open Source Alternative to Airdrop](https://www.sharedrop.io/)
 * [2024-01-21, 15:16:35](https://news.ycombinator.com/item?id=39079179) - [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
 * [2024-01-21, 15:09:50](https://news.ycombinator.com/item?id=39079110) - [A Woman Who Spent Five Hundred Days in a Cave](https://www.newyorker.com/magazine/2024/01/29/the-woman-who-spent-five-hundred-days-in-a-cave)

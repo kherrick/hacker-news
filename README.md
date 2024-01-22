@@ -4,7 +4,6 @@
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:34:37](https://news.ycombinator.com/item?id=39094237) - [Performance Analysis of Python's Dict() and {}](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
 * [2024-01-22, 19:30:35](https://news.ycombinator.com/item?id=39094187) - [Against Normalcy: Why Being Normal Can Be Dangerous](https://durmonski.com/life-advice/against-normalcy/)
-* [2024-01-22, 19:30:21](https://news.ycombinator.com/item?id=39094181) - [Ask HN: Is Apple's R1 a Discrete GPU?](https://news.ycombinator.com/item?id=39094181)
 * [2024-01-22, 19:26:02](https://news.ycombinator.com/item?id=39094119) - [Post-Serverless Era Trends](https://www.infoq.com/articles/cloud-computing-post-serverless-trends/)
 * [2024-01-22, 19:15:17](https://news.ycombinator.com/item?id=39093978) - [About Stolen Device Protection for iPhone](https://support.apple.com/en-us/HT212510)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
@@ -28,6 +27,7 @@
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
+* [2024-01-21, 15:34:22](https://news.ycombinator.com/item?id=39079335) - [Honest Feedback on a Wallpen Vertical Printer](http://guillaumeslizewicz.com/posts/2023/vertical_printer/)
 * [2024-01-20, 14:01:45](https://news.ycombinator.com/item?id=39067615) - [Indexing iCloud Photos with AI Using LLaVA and Pgvector](https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6)
 * [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 
