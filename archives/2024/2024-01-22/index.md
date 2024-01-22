@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
+* [2024-01-22, 17:00:39](https://news.ycombinator.com/item?id=39091864) - [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
+* [2024-01-22, 17:00:14](https://news.ycombinator.com/item?id=39091857) - [Woolly mammoth movements tied to earliest Alaska hunting camps](https://www.uaf.edu/news/woolly-mammoth-movements-tied-to-earliest-alaska-hunting-camps.php)
 * [2024-01-22, 16:33:57](https://news.ycombinator.com/item?id=39091416) - [Cutting down AWS cost by $150k per year simply by shutting things off](https://tuananh.net/2024/01/21/cloud-cost-optimization-at-scale-part-1/)
 * [2024-01-22, 16:01:35](https://news.ycombinator.com/item?id=39090901) - [Google cites 'durable cost savings' as CEO Sundar Pichai warns of more layoffs](https://nypost.com/2024/01/22/business/google-cites-durable-cost-savings-as-2024-goal-amid-layoffs/)
 * [2024-01-22, 16:00:00](https://news.ycombinator.com/item?id=39090879) - [Meta now lets EU users unlink their Facebook, Messenger and Instagram accounts](https://www.neowin.net/news/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/)
