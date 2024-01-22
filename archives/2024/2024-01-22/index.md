@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
+* [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
 * [2024-01-22, 05:43:08](https://news.ycombinator.com/item?id=39086692) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
 * [2024-01-22, 05:17:12](https://news.ycombinator.com/item?id=39086519) - [Citing crime, In-N-Out announces closure of Oakland restaurant](https://www.cbsnews.com/sanfrancisco/news/citing-crime-in-n-out-announces-closure-oakland-restaurant/)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
