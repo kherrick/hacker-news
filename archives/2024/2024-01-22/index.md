@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 21:45:12](https://news.ycombinator.com/item?id=39095908) - [Mexico, Chile, South Africa, and Indonesia to Take Action Against Israel](https://medium.com/@chrisjeffrieshomelessromantic/mexico-chile-south-africa-and-indonesia-have-all-taken-or-planned-to-take-action-against-israel-475191d59419)
 * [2024-01-22, 21:40:55](https://news.ycombinator.com/item?id=39095865) - [Google News searches ranked AI-generated ripoffs above real articles](https://nypost.com/2024/01/22/business/google-news-searches-ranked-ai-generated-ripoffs-above-real-articles-including-a-post-exclusive/)
 * [2024-01-22, 21:15:51](https://news.ycombinator.com/item?id=39095571) - [Apple Music will now pay 10% higher royalties to artists for Spatial Audio music](https://9to5mac.com/2024/01/22/apple-music-spatial-audio-bonus/)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
