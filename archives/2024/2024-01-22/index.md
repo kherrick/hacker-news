@@ -16,6 +16,7 @@
 * [2024-01-22, 10:12:33](https://news.ycombinator.com/item?id=39087994) - [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
+* [2024-01-22, 09:25:42](https://news.ycombinator.com/item?id=39087776) - [HP's CEO spells it out: You're a 'bad investment' if you don't buy HP supplies](https://forums.theregister.com/forum/all/2024/01/19/hps_ceo_spells_it_out/)
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-22, 08:48:08](https://news.ycombinator.com/item?id=39087599) - [The Last Days of the Barcode](https://www.theatlantic.com/podcasts/archive/2024/01/the-last-days-of-the-barcode/677185/)
