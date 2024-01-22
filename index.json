@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-01-22, 19:34:37",
+      "https://news.ycombinator.com/item?id=39094237"
+    ],
+    [
+      "Performance Analysis of Python's Dict() and {}",
+      "https://madebyme.today/blog/python-dict-vs-curly-brackets/"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 19:30:35",
       "https://news.ycombinator.com/item?id=39094187"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-01-22, 19:30:21",
-      "https://news.ycombinator.com/item?id=39094181"
+      "2024-01-22, 19:26:02",
+      "https://news.ycombinator.com/item?id=39094119"
     ],
     [
-      "Ask HN: Is Apple's R1 a Discrete GPU?",
-      "https://news.ycombinator.com/item?id=39094181"
+      "Post-Serverless Era Trends",
+      "https://www.infoq.com/articles/cloud-computing-post-serverless-trends/"
     ]
   ],
   [
@@ -101,11 +111,21 @@
   ],
   [
     [
+      "2024-01-22, 18:53:37",
+      "https://news.ycombinator.com/item?id=39093641"
+    ],
+    [
+      "Capitalism and Cozy Games",
+      "https://blog.glyph.im/2024/01/a-centrist-i-guess.html"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 18:19:22",
       "https://news.ycombinator.com/item?id=39093109"
     ],
     [
-      "Caches: LRU vs. Random",
+      "Caches: LRU vs. Random (2014)",
       "https://danluu.com/2choices-eviction/"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
       "https://github.com/LiheYoung/Depth-Anything"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 17:06:39",
-      "https://news.ycombinator.com/item?id=39091949"
-    ],
-    [
-      "Evolution of AI and Amara's Law",
-      "https://n9o.xyz/posts/202401-evolution-ai/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How far could the sun possibly be?",
       "https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 14:01:45",
-      "https://news.ycombinator.com/item?id=39067615"
-    ],
-    [
-      "Indexing iCloud Photos with AI Using LLaVA and Pgvector",
-      "https://medium.com/@mustafaakin/indexing-icloud-photos-with-ai-using-llava-and-pgvector-fd58182febf6"
     ]
   ],
   [
