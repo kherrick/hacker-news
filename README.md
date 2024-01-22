@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-22, 10:12:33](https://news.ycombinator.com/item?id=39087994) - [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
 * [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
@@ -21,7 +22,6 @@
 * [2024-01-21, 21:02:13](https://news.ycombinator.com/item?id=39083024) - [Meticulous (YC S21) is hiring to revolutionize testing](https://news.ycombinator.com/item?id=39083024)
 * [2024-01-21, 20:14:17](https://news.ycombinator.com/item?id=39082552) - [The Surprising Story of the First Microprocessors (2016)](https://spectrum.ieee.org/the-surprising-story-of-the-first-microprocessors)
 * [2024-01-21, 20:12:05](https://news.ycombinator.com/item?id=39082524) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
-* [2024-01-21, 19:19:09](https://news.ycombinator.com/item?id=39081894) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-21, 16:59:43](https://news.ycombinator.com/item?id=39080201) - [On the dimensionality of spacetime (1997) [pdf]](https://space.mit.edu/home/tegmark/dimensions.pdf)
 * [2024-01-21, 15:49:28](https://news.ycombinator.com/item?id=39079482) - [Taito's Mini-Vaders: Why Should Dottori Have All the Fun?](https://nicole.express/2024/taito-does-what-segant.html)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
