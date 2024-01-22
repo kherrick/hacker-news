@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
-* [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
 * [2024-01-22, 04:36:20](https://news.ycombinator.com/item?id=39086244) - [Why isn't Bluesky a peer-to-peer network?](https://www.pfrazee.com/blog/why-not-p2p)
 * [2024-01-22, 04:15:27](https://news.ycombinator.com/item?id=39086106) - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 * [2024-01-22, 03:59:49](https://news.ycombinator.com/item?id=39086032) - [CSS3D Clouds](https://spite.github.io/CSS3DClouds/)
 * [2024-01-22, 03:47:53](https://news.ycombinator.com/item?id=39085957) - [Boulder VC firm Foundry to shutter after 18 years, 200 investments](https://www.bizjournals.com/denver/news/2024/01/19/boulder-vc-firm-foundry-to-close.html)
 * [2024-01-22, 03:25:20](https://news.ycombinator.com/item?id=39085830) - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
-* [2024-01-22, 03:06:40](https://news.ycombinator.com/item?id=39085704) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 01:44:48](https://news.ycombinator.com/item?id=39085092) - [Helium is essential but nonrenewable and difficult to recycle](https://theconversation.com/helium-is-an-essential-material-for-research-and-medical-equipment-but-its-nonrenewable-and-difficult-to-recycle-218668)
 * [2024-01-22, 01:27:32](https://news.ycombinator.com/item?id=39084983) - [Scientists discovered perfectly preserved dinosaur embryo inside fossilized egg](https://www.unilad.com/news/world-news/dinosaur-egg-embryo-fossil-213524-20231107)
 * [2024-01-22, 00:56:25](https://news.ycombinator.com/item?id=39084785) - [Self-driving as a case study for AGI](https://karpathy.github.io/2024/01/21/selfdriving-agi/)
@@ -24,12 +22,14 @@
 * [2024-01-21, 16:40:02](https://news.ycombinator.com/item?id=39080017) - [The Telemetron (2017)](https://www.media.mit.edu/projects/the-telemetron/overview/)
 * [2024-01-21, 16:38:40](https://news.ycombinator.com/item?id=39080003) - [Learn Datalog Today](https://www.learndatalogtoday.org/)
 * [2024-01-21, 15:49:28](https://news.ycombinator.com/item?id=39079482) - [Taito's Mini-Vaders: Why Should Dottori Have All the Fun?](https://nicole.express/2024/taito-does-what-segant.html)
+* [2024-01-21, 14:49:09](https://news.ycombinator.com/item?id=39078899) - [The SuperH-3, part 1: Introduction (2019)](https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749)
 * [2024-01-21, 13:21:45](https://news.ycombinator.com/item?id=39078198) - [What Adrian Did Next – Part 2 – Sun Microsystems (2022)](https://adrianco.medium.com/what-adrian-did-next-part-2-sun-microsystems-c1a512c8284)
 * [2024-01-21, 12:31:57](https://news.ycombinator.com/item?id=39077867) - [Remembering Bell Labs as legendary idea factory prepares to leave N.J. home](https://www.nj.com/essex/2024/01/remembering-bell-labs-as-legendary-idea-factory-prepares-to-leave-nj-home.html)
 * [2024-01-20, 13:24:22](https://news.ycombinator.com/item?id=39067345) - [Nix Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/)
 * [2024-01-20, 11:55:19](https://news.ycombinator.com/item?id=39066741) - [Dumping Firmware for fun and learning [pdf]](https://github.com/AkechiShiro/slides-talks/blob/main/UYBHYS2022/Talk%20SPI%20chips.pdf)
 * [2024-01-20, 07:15:46](https://news.ycombinator.com/item?id=39065418) - [A new book looks at the past and future of copyright](https://www.economist.com/culture/2024/01/18/a-new-book-looks-at-the-past-and-future-of-copyright)
 * [2024-01-20, 00:17:56](https://news.ycombinator.com/item?id=39063242) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+* [2024-01-19, 17:42:05](https://news.ycombinator.com/item?id=39058428) - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 
 ## [Archives](archives/index.md)
 
