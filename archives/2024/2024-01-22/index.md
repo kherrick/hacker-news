@@ -14,4 +14,5 @@
 * [2024-01-22, 01:26:58](https://news.ycombinator.com/item?id=39084980) - [Fujitsu will not bid for UK.gov business until Post Office inquiry closes](https://www.theregister.com/2024/01/19/fujitsu_pauses_uk_public_sector_contracts/)
 * [2024-01-22, 00:48:29](https://news.ycombinator.com/item?id=39084732) - [Beverly Clock](https://en.wikipedia.org/wiki/Beverly_Clock)
 * [2024-01-22, 00:45:29](https://news.ycombinator.com/item?id=39084711) - [Office politics is not optional: learn to play the game or you'll be its victim](https://www.ft.com/content/a84327c6-f939-480c-925d-19d3f41062bf)
+* [2024-01-22, 00:22:02](https://news.ycombinator.com/item?id=39084533) - [Garden Light Turned Mesh Network Node](https://hackaday.com/2024/01/21/garden-light-turned-mesh-network-node/)
 * [2024-01-22, 00:12:13](https://news.ycombinator.com/item?id=39084478) - [AI Art Is the New Stock Image](https://ia.net/topics/ai-art-is-the-new-stock-image)
