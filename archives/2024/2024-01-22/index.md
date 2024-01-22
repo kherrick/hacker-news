@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
+* [2024-01-22, 11:49:33](https://news.ycombinator.com/item?id=39088480) - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
+* [2024-01-22, 11:45:38](https://news.ycombinator.com/item?id=39088455) - [Have the Boomers Pinched Their Children's Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
 * [2024-01-22, 10:12:33](https://news.ycombinator.com/item?id=39087994) - [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)
@@ -14,6 +18,7 @@
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
 * [2024-01-22, 07:32:07](https://news.ycombinator.com/item?id=39087237) - [Boeing 737-900ER: Second model to be inspected after 737 MAX 9 blowout](https://www.bbc.co.uk/news/world-us-canada-68052160)
+* [2024-01-22, 06:50:20](https://news.ycombinator.com/item?id=39087016) - [Ten Simple IT Security Rules for Early-Stage Startups](https://chris-haarburger.com/posts/security_startups.html)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
 * [2024-01-22, 05:43:08](https://news.ycombinator.com/item?id=39086692) - [Fossils Are Neither Plant nor Animal, but a 'Weird Fusion' of Life](https://www.sciencealert.com/bizarre-fossils-are-neither-plant-nor-animal-but-a-weird-fusion-of-life)
