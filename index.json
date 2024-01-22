@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-01-21, 22:29:17",
+      "https://news.ycombinator.com/item?id=39083736"
+    ],
+    [
+      "Gem adds support for creating state machines for attributes on any Ruby class",
+      "https://github.com/state-machines/state_machines"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 21:02:13",
       "https://news.ycombinator.com/item?id=39083024"
     ],
@@ -167,6 +177,16 @@
     [
       "TextAnalysisTool.NET",
       "https://textanalysistool.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-01-21, 19:48:22",
+      "https://news.ycombinator.com/item?id=39082251"
+    ],
+    [
+      "Wind River Linux",
+      "https://www.windriver.com/products/linux/distro"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2024-01-21, 14:49:09",
-      "https://news.ycombinator.com/item?id=39078899"
-    ],
-    [
-      "The SuperH-3, part 1: Introduction (2019)",
-      "https://devblogs.microsoft.com/oldnewthing/20190805-00/?p=102749"
-    ]
-  ],
-  [
-    [
-      "2024-01-21, 14:23:38",
-      "https://news.ycombinator.com/item?id=39078669"
-    ],
-    [
-      "NASA regains contact with mini-helicopter on Mars",
-      "https://phys.org/news/2024-01-nasa-regains-contact-mini-helicopter.amp"
-    ]
-  ],
-  [
-    [
       "2024-01-21, 13:21:45",
       "https://news.ycombinator.com/item?id=39078198"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-01-20, 13:24:22",
+      "https://news.ycombinator.com/item?id=39067345"
+    ],
+    [
+      "Nix Home Manager Option Search",
+      "https://mipmip.github.io/home-manager-option-search/"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 07:15:46",
       "https://news.ycombinator.com/item?id=39065418"
     ],
@@ -287,16 +297,6 @@
     [
       "What's that touchscreen in my room?",
       "https://laplab.me/posts/whats-that-touchscreen-in-my-room/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 17:42:05",
-      "https://news.ycombinator.com/item?id=39058428"
-    ],
-    [
-      "Nightshade: An offensive tool for artists against AI art generators",
-      "https://nightshade.cs.uchicago.edu/whatis.html"
     ]
   ]
 ]
