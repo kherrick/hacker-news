@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
+* [2024-01-22, 19:01:46](https://news.ycombinator.com/item?id=39093773) - [Passenger notices missing bolts on plane wing, flight canceled](https://nypost.com/2024/01/22/news/nyc-bound-flight-canceled-when-passenger-notices-missing-bolts-on-plane-wing/)
 * [2024-01-22, 18:02:52](https://news.ycombinator.com/item?id=39092903) - [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
 * [2024-01-22, 18:02:35](https://news.ycombinator.com/item?id=39092896) - [New Theory Suggests LLMs Can Understand Text](https://www.quantamagazine.org/new-theory-suggests-chatbots-can-understand-text-20240122/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
@@ -17,6 +18,7 @@
 * [2024-01-22, 17:19:27](https://news.ycombinator.com/item?id=39092161) - [AI is destabilizing 'the concept of truth itself' in 2024 election](https://www.washingtonpost.com/technology/2024/01/22/ai-deepfake-elections-politicians/)
 * [2024-01-22, 17:16:49](https://news.ycombinator.com/item?id=39092116) - [Secret Plan Against Germany](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)
 * [2024-01-22, 17:08:37](https://news.ycombinator.com/item?id=39091981) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://github.com/LiheYoung/Depth-Anything)
+* [2024-01-22, 17:08:22](https://news.ycombinator.com/item?id=39091976) - [Nvidia RTX Remix Open Beta Available Now – Remaster the Classics with RTX](https://www.nvidia.com/en-us/geforce/news/rtx-remix-open-beta-half-life-2-rtx-trailer/)
 * [2024-01-22, 17:06:39](https://news.ycombinator.com/item?id=39091949) - [Evolution of AI and Amara's Law](https://n9o.xyz/posts/202401-evolution-ai/)
 * [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) Is Hiring to Automate Analytics with LLMs](https://patterns.app/)
 * [2024-01-22, 17:00:39](https://news.ycombinator.com/item?id=39091864) - [Toronto man uses AirTags to track stolen SUV to Dubai [video]](https://www.youtube.com/watch?v=A3eG8ZbeXeQ)
