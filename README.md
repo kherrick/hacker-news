@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
+* [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)

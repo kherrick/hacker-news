@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
 * [2024-01-23, 07:52:58](https://news.ycombinator.com/item?id=39100652) - [Tens of thousands protest in Germany against the rise of the far right](https://www.npr.org/2024/01/21/1225882007/tens-of-thousands-protest-in-germany-against-the-rise-of-the-far-right)
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
