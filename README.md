@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:26:06](https://news.ycombinator.com/item?id=39098780) - [Dana-Farberications at Harvard University](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
@@ -17,7 +18,6 @@
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
-* [2024-01-22, 17:08:37](https://news.ycombinator.com/item?id=39091981) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://github.com/LiheYoung/Depth-Anything)
 * [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-01-22, 17:00:14](https://news.ycombinator.com/item?id=39091857) - [Woolly mammoth movements tied to earliest Alaska hunting camps](https://www.uaf.edu/news/woolly-mammoth-movements-tied-to-earliest-alaska-hunting-camps.php)
 * [2024-01-22, 16:56:20](https://news.ycombinator.com/item?id=39091777) - [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
