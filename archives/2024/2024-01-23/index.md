@@ -7,6 +7,7 @@
 * [2024-01-23, 11:34:51](https://news.ycombinator.com/item?id=39102078) - [Avoid Async Rust at All Cost](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 11:28:54](https://news.ycombinator.com/item?id=39102021) - [Boeing Whistleblower: Max 9 Production Line Has \"Enormous Volume of Defects\"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
+* [2024-01-23, 11:26:58](https://news.ycombinator.com/item?id=39102002) - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 * [2024-01-23, 10:58:41](https://news.ycombinator.com/item?id=39101828) - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
 * [2024-01-23, 10:34:38](https://news.ycombinator.com/item?id=39101682) - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
 * [2024-01-23, 09:57:52](https://news.ycombinator.com/item?id=39101471) - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)

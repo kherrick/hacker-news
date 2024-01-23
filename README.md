@@ -2,6 +2,7 @@
 
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 11:28:54](https://news.ycombinator.com/item?id=39102021) - [Boeing Whistleblower: Max 9 Production Line Has \"Enormous Volume of Defects\"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
+* [2024-01-23, 11:26:58](https://news.ycombinator.com/item?id=39102002) - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 * [2024-01-23, 10:58:41](https://news.ycombinator.com/item?id=39101828) - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
 * [2024-01-23, 10:34:38](https://news.ycombinator.com/item?id=39101682) - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
@@ -9,7 +10,6 @@
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
-* [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
 * [2024-01-23, 01:17:29](https://news.ycombinator.com/item?id=39098133) - [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
