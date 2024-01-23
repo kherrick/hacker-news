@@ -9,6 +9,7 @@
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:26:06](https://news.ycombinator.com/item?id=39098780) - [Cheating scandal rocks Harvard Ivy League teaching hospital from top researchers](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 * [2024-01-23, 02:11:46](https://news.ycombinator.com/item?id=39098662) - [Why you shouldn't always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
+* [2024-01-23, 02:07:49](https://news.ycombinator.com/item?id=39098628) - [The reasons medieval people slept in cupboards](https://www.bbc.com/future/article/20240122-the-strange-reasons-medieval-people-slept-in-cupboards)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-23, 01:38:13](https://news.ycombinator.com/item?id=39098371) - [Ask HN: Best country to run a boostrapped startup from? (After Section 174)](https://news.ycombinator.com/item?id=39098371)
 * [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
