@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 20:14:52](https://news.ycombinator.com/item?id=39109104) - [The Dark Forest hypothesis is absurd](https://www.noahpinion.blog/p/the-dark-forest-hypothesis-is-absurd)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+* [2024-01-23, 18:33:04](https://news.ycombinator.com/item?id=39107536) - [Show HN: Blocks by Cosmic – Web components for headless CMS](https://news.ycombinator.com/item?id=39107536)
 * [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – Make maps like never before](https://atlas.co)
 * [2024-01-23, 18:26:40](https://news.ycombinator.com/item?id=39107435) - [Ask HN: What are the important problems in your field?](https://news.ycombinator.com/item?id=39107435)
 * [2024-01-23, 18:19:11](https://news.ycombinator.com/item?id=39107306) - [Bitcoin price falls 15% following launch of ETFs](https://www.ft.com/content/99e406f0-c5af-4a67-9937-afb1ea885565)
