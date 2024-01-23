@@ -108,6 +108,7 @@
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
 * [2024-01-22, 07:32:07](https://news.ycombinator.com/item?id=39087237) - [Boeing 737-900ER: Second model to be inspected after 737 MAX 9 blowout](https://www.bbc.co.uk/news/world-us-canada-68052160)
 * [2024-01-22, 07:20:29](https://news.ycombinator.com/item?id=39087170) - [China planning 1600-core chips that use an entire wafer – 'wafer-scale' designs](https://www.tomshardware.com/pc-components/cpus/china-planning-1600-core-chips-that-use-an-entire-wafer-similar-to-american-company-cerebras-wafer-scale-design)
+* [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 * [2024-01-22, 06:50:20](https://news.ycombinator.com/item?id=39087016) - [Ten Simple IT Security Rules for Early-Stage Startups](https://chris-haarburger.com/posts/security_startups.html)
 * [2024-01-22, 06:01:14](https://news.ycombinator.com/item?id=39086801) - [Battery-free self-powered sensor harvests magnetic energy](https://news.mit.edu/2024/self-powered-sensor-harvests-magnetic-energy-0118)
 * [2024-01-22, 05:47:29](https://news.ycombinator.com/item?id=39086713) - [In-N-Out's First Ever Store Closing](https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/)
