@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
+* [2024-01-23, 21:25:39](https://news.ycombinator.com/item?id=39110088) - [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
+* [2024-01-23, 21:23:59](https://news.ycombinator.com/item?id=39110065) - [I used Midjourney to design a brand identity](https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/)
 * [2024-01-23, 21:10:24](https://news.ycombinator.com/item?id=39109890) - [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
 * [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:55:33](https://news.ycombinator.com/item?id=39109667) - ['Pokémon with Guns' Game Goes Viral, Angering Nintendo Loyalists](https://www.bloomberg.com/news/articles/2024-01-22/what-is-palworld-pokemon-like-game-with-guns-goes-viral-irks-nintendo-fans)
+* [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:45:49](https://news.ycombinator.com/item?id=39109513) - [Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft](https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [2024-01-23, 20:42:28](https://news.ycombinator.com/item?id=39109469) - [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
@@ -84,6 +88,7 @@
 * [2024-01-23, 02:26:06](https://news.ycombinator.com/item?id=39098780) - [Cheating scandal rocks Harvard Ivy League teaching hospital from top researchers](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 * [2024-01-23, 02:11:46](https://news.ycombinator.com/item?id=39098662) - [Why you shouldn't always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
 * [2024-01-23, 02:07:49](https://news.ycombinator.com/item?id=39098628) - [The reasons medieval people slept in cupboards](https://www.bbc.com/future/article/20240122-the-strange-reasons-medieval-people-slept-in-cupboards)
+* [2024-01-23, 02:07:29](https://news.ycombinator.com/item?id=39098621) - [F3d v2.3.0 Released – Fast and minimalist 3D viewer](https://github.com/f3d-app/f3d)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-23, 01:38:13](https://news.ycombinator.com/item?id=39098371) - [Ask HN: Best country to run a boostrapped startup from? (After Section 174)](https://news.ycombinator.com/item?id=39098371)
 * [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
