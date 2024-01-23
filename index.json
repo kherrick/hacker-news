@@ -51,12 +51,22 @@
   ],
   [
     [
-      "2024-01-23, 17:45:46",
-      "https://news.ycombinator.com/item?id=39106799"
+      "2024-01-23, 17:57:31",
+      "https://news.ycombinator.com/item?id=39106972"
     ],
     [
-      "Ask HN: Any legal way against forced software upgrades and feature removal",
-      "https://news.ycombinator.com/item?id=39106799"
+      "From slow to SIMD: A Go optimization story",
+      "https://sourcegraph.com/blog/slow-to-simd"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 17:53:45",
+      "https://news.ycombinator.com/item?id=39106901"
+    ],
+    [
+      "Is offline-first not enough? Do we need \"serverfree\"?",
+      "https://subzero.cloud/blog/serverfree-architecture/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Forging signed commits on GitHub",
       "https://iter.ca/post/gh-sig-pwn/"
-    ]
-  ],
-  [
-    [
-      "2024-01-21, 23:33:53",
-      "https://news.ycombinator.com/item?id=39084177"
-    ],
-    [
-      "Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]",
-      "https://www.youtube.com/watch?v=5TPBesaSkZ8"
     ]
   ]
 ]
