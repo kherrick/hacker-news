@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
@@ -18,7 +19,6 @@
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:11:26](https://news.ycombinator.com/item?id=39093927) - [Show HN: Simply Reading Analog Gauges – GPT4, CogVLM Can't](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge)
-* [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 18:00:38](https://news.ycombinator.com/item?id=39092863) - [The building blocks of offline support](https://pketh.org/building-offline.html)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:00:44](https://news.ycombinator.com/item?id=39091867) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
