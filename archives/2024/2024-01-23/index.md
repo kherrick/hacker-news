@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 18:26:40](https://news.ycombinator.com/item?id=39107435) - [Ask HN: What are the important problems in your field?](https://news.ycombinator.com/item?id=39107435)
+* [2024-01-23, 18:19:11](https://news.ycombinator.com/item?id=39107306) - [Bitcoin price falls 15% following launch of ETFs](https://www.ft.com/content/99e406f0-c5af-4a67-9937-afb1ea885565)
+* [2024-01-23, 18:17:14](https://news.ycombinator.com/item?id=39107285) - [The \"Mom Test\": asking good questions when everyone is lying to you](https://graphite.dev/blog/the-mom-test)
+* [2024-01-23, 18:05:53](https://news.ycombinator.com/item?id=39107084) - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 * [2024-01-23, 18:01:26](https://news.ycombinator.com/item?id=39107034) - [The Variability Hypothesis](https://en.wikipedia.org/wiki/Variability_hypothesis)
+* [2024-01-23, 17:57:34](https://news.ycombinator.com/item?id=39106973) - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
 * [2024-01-23, 17:45:46](https://news.ycombinator.com/item?id=39106799) - [Ask HN: Any legal way against forced software upgrades and feature removal](https://news.ycombinator.com/item?id=39106799)
 * [2024-01-23, 17:37:07](https://news.ycombinator.com/item?id=39106648) - [ElevenLabs lands $80M from a16z and Sequoia – and becomes a unicorn](https://sifted.eu/articles/elevenlabs-80m-a16z-sequoia-becomes-unicorn)
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
