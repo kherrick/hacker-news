@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-23, 18:53:18",
+      "https://news.ycombinator.com/item?id=39107854"
+    ],
+    [
+      "Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028",
+      "https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 18:08:37",
+      "https://news.ycombinator.com/item?id=39107144"
+    ],
+    [
+      "Brex Layoffs",
+      "https://www.brex.com/journal/a-message-from-our-founder"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 18:05:53",
       "https://news.ycombinator.com/item?id=39107084"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2024-01-23, 16:50:57",
+      "https://news.ycombinator.com/item?id=39105916"
+    ],
+    [
+      "The Horse, the Drone and the Epic Fight for Gambling Success",
+      "https://www.wired.co.uk/article/horse-racing-drone"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 16:50:28",
       "https://news.ycombinator.com/item?id=39105906"
     ],
@@ -137,16 +167,6 @@
     [
       "Is the emergence of life an expected phase transition in the evolving universe?",
       "https://arxiv.org/abs/2401.09514"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 14:05:37",
-      "https://news.ycombinator.com/item?id=39103412"
-    ],
-    [
-      "Scientists discover near-Earth asteroid hours before it exploded over Berlin",
-      "https://www.livescience.com/space/asteroids/scientists-discover-near-earth-asteroid-hours-before-it-exploded-over-berlin"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-01-23, 09:13:08",
-      "https://news.ycombinator.com/item?id=39101165"
-    ],
-    [
-      "The Humble Brilliance of Italy's Moka Coffee Pot",
-      "https://www.atlasobscura.com/articles/make-coffee-moka-pot"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 05:36:07",
       "https://news.ycombinator.com/item?id=39099980"
     ],
     [
       "Show HN: Built a self hosted clean status page and batteries",
       "https://github.com/rajnandan1/kener"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 02:05:46",
-      "https://news.ycombinator.com/item?id=39098603"
-    ],
-    [
-      "Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory",
-      "https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html"
     ]
   ],
   [
@@ -257,6 +257,16 @@
     [
       "An RNG that runs in your brain",
       "https://www.hillelwayne.com/post/randomness/"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 12:22:16",
+      "https://news.ycombinator.com/item?id=39088704"
+    ],
+    [
+      "A Beginner's Guide to Gambas [pdf]",
+      "http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Forging signed commits on GitHub",
       "https://iter.ca/post/gh-sig-pwn/"
-    ]
-  ],
-  [
-    [
-      "2024-01-21, 23:33:53",
-      "https://news.ycombinator.com/item?id=39084177"
-    ],
-    [
-      "Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]",
-      "https://www.youtube.com/watch?v=5TPBesaSkZ8"
     ]
   ]
 ]
