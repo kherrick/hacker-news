@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
+* [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – Make maps like never before](https://atlas.co)
 * [2024-01-23, 18:08:37](https://news.ycombinator.com/item?id=39107144) - [Brex Layoffs](https://www.brex.com/journal/a-message-from-our-founder)
 * [2024-01-23, 18:05:53](https://news.ycombinator.com/item?id=39107084) - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 * [2024-01-23, 17:57:34](https://news.ycombinator.com/item?id=39106973) - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
@@ -13,7 +14,6 @@
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:50:57](https://news.ycombinator.com/item?id=39105916) - [The Horse, the Drone and the Epic Fight for Gambling Success](https://www.wired.co.uk/article/horse-racing-drone)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
-* [2024-01-23, 16:33:36](https://news.ycombinator.com/item?id=39105626) - [Samsung heavily expands DIY repair program, adds Galaxy S23 and Fold 5 in US](https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/)
 * [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)

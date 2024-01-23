@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
+* [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – Make maps like never before](https://atlas.co)
 * [2024-01-23, 18:26:40](https://news.ycombinator.com/item?id=39107435) - [Ask HN: What are the important problems in your field?](https://news.ycombinator.com/item?id=39107435)
 * [2024-01-23, 18:19:11](https://news.ycombinator.com/item?id=39107306) - [Bitcoin price falls 15% following launch of ETFs](https://www.ft.com/content/99e406f0-c5af-4a67-9937-afb1ea885565)
 * [2024-01-23, 18:17:14](https://news.ycombinator.com/item?id=39107285) - [The \"Mom Test\": asking good questions when everyone is lying to you](https://graphite.dev/blog/the-mom-test)
