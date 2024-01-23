@@ -89,6 +89,7 @@
 * [2024-01-22, 11:49:33](https://news.ycombinator.com/item?id=39088480) - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
 * [2024-01-22, 11:45:38](https://news.ycombinator.com/item?id=39088455) - [Have the Boomers Pinched Their Children's Futures? [video]](https://www.youtube.com/watch?v=ZuXzvjBYW8A)
 * [2024-01-22, 10:35:24](https://news.ycombinator.com/item?id=39088077) - [The Downward Spiral of Technology](https://www.creativedestruction.club/p/the-downward-spiral-of-technology)
+* [2024-01-22, 10:20:54](https://news.ycombinator.com/item?id=39088018) - [Differences Between miniKanren and Prolog](http://minikanren.org/minikanren-and-prolog.html)
 * [2024-01-22, 10:12:33](https://news.ycombinator.com/item?id=39087994) - [Why Hierarchy Is Fragile and Anarchy Is Antifragile](https://www.youtube.com/watch?v=CZ-FRyUZ3ok)
 * [2024-01-22, 09:40:13](https://news.ycombinator.com/item?id=39087837) - [Should I Open Source my Company?](https://supabase.com/blog/should-i-open-source-my-company)
 * [2024-01-22, 09:27:19](https://news.ycombinator.com/item?id=39087782) - [Haier Europe Eases Off on Legal Threat and Seeks Dialogue](https://hackaday.com/2024/01/22/haier-europe-eases-off-on-legal-threat-and-seeks-dialogue/)

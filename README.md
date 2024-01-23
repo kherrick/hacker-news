@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
-* [2024-01-23, 13:39:33](https://news.ycombinator.com/item?id=39103146) - [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
+* [2024-01-23, 13:39:33](https://news.ycombinator.com/item?id=39103146) - [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore (2020)](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
 * [2024-01-23, 13:34:15](https://news.ycombinator.com/item?id=39103093) - [Proposed Oklahoma skyscraper gets redesign to become USA's new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 11:48:39](https://news.ycombinator.com/item?id=39102183) - [Show HN: I made a Paldeck website, all Paldeck Pals in Palworld](https://www.paldeck.co/)
@@ -25,6 +24,7 @@
 * [2024-01-22, 18:00:38](https://news.ycombinator.com/item?id=39092863) - [The building blocks of offline support](https://pketh.org/building-offline.html)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:00:44](https://news.ycombinator.com/item?id=39091867) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
+* [2024-01-22, 10:20:54](https://news.ycombinator.com/item?id=39088018) - [Differences Between miniKanren and Prolog](http://minikanren.org/minikanren-and-prolog.html)
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
 * [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 * [2024-01-21, 22:54:53](https://news.ycombinator.com/item?id=39083928) - [Can You Live Code a Church Organ? [video]](https://www.youtube.com/watch?v=7RXWXYboUjA)
