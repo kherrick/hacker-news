@@ -2,9 +2,10 @@
 
 * [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
-* [2024-01-23, 16:38:18](https://news.ycombinator.com/item?id=39105705) - [FCC to End Broadband Discounts for the Poor After Republicans Undermine Program](https://www.techdirt.com/2024/01/23/fcc-to-end-broadband-discounts-for-poor-people-after-republicans-undermine-program/)
-* [2024-01-23, 16:30:22](https://news.ycombinator.com/item?id=39105568) - [DB Cooper Case Could Close Soon Thanks to Particle Evidence](https://hackaday.com/2024/01/23/db-cooper-case-could-close-soon-thanks-to-particle-evidence/)
+* [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online)
+* [2024-01-23, 16:33:36](https://news.ycombinator.com/item?id=39105626) - [Samsung heavily expands DIY repair program, adds Galaxy S23 and Fold 5 in US](https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/)
 * [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
+* [2024-01-23, 15:21:08](https://news.ycombinator.com/item?id=39104535) - [Meta-Learning Is All You Need](https://jameskle.com/writes/meta-learning-is-all-you-need)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
@@ -25,11 +26,10 @@
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:00:44](https://news.ycombinator.com/item?id=39091867) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 10:20:54](https://news.ycombinator.com/item?id=39088018) - [Differences Between miniKanren and Prolog](http://minikanren.org/minikanren-and-prolog.html)
-* [2024-01-22, 08:38:29](https://news.ycombinator.com/item?id=39087557) - [Decipherment of Old Persian](https://www.heritageinstitute.com/zoroastrianism/languages/oldPersian.htm)
+* [2024-01-22, 07:20:29](https://news.ycombinator.com/item?id=39087170) - [China planning 1600-core chips that use an entire wafer – 'wafer-scale' designs](https://www.tomshardware.com/pc-components/cpus/china-planning-1600-core-chips-that-use-an-entire-wafer-similar-to-american-company-cerebras-wafer-scale-design)
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
 * [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
-* [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
 
 ## [Archives](archives/index.md)
 
