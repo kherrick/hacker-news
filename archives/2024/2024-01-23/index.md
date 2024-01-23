@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 17:16:19](https://news.ycombinator.com/item?id=39106278) - [Amazon Fined $35M in France over 'Overly Intrusive' Surveillance](https://uk.pcmag.com/news/150577/amazon-fined-35-million-in-france-over-overly-intrusive-employee-surveillance-in-its-warehouses)
 * [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online)
@@ -20,6 +21,7 @@
 * [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:11:45](https://news.ycombinator.com/item?id=39103483) - [Sex Differences in Work Preferences, Life Values, and Personal Views](https://www.stevestewartwilliams.com/p/sex-differences-in-work-preferences)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the Emergence of Life an Expected Phase Transition in the Evolving Universe?](https://arxiv.org/abs/2401.09514)
+* [2024-01-23, 14:05:37](https://news.ycombinator.com/item?id=39103412) - [Scientists discover near-Earth asteroid hours before it exploded over Berlin](https://www.livescience.com/space/asteroids/scientists-discover-near-earth-asteroid-hours-before-it-exploded-over-berlin)
 * [2024-01-23, 13:39:33](https://news.ycombinator.com/item?id=39103146) - [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 * [2024-01-23, 13:34:15](https://news.ycombinator.com/item?id=39103093) - [Proposed Oklahoma skyscraper gets redesign to become USA's new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
