@@ -38,6 +38,7 @@
 * [2024-01-22, 19:11:26](https://news.ycombinator.com/item?id=39093927) - [Show HN: Simply Reading Analog Gauges – GPT4, CogVLM Can't](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 19:01:46](https://news.ycombinator.com/item?id=39093773) - [Passenger notices missing bolts on plane wing, flight canceled](https://nypost.com/2024/01/22/news/nyc-bound-flight-canceled-when-passenger-notices-missing-bolts-on-plane-wing/)
+* [2024-01-22, 18:56:08](https://news.ycombinator.com/item?id=39093682) - [Feral Minds](https://www.noemamag.com/feral-intelligence/)
 * [2024-01-22, 18:53:37](https://news.ycombinator.com/item?id=39093641) - [Capitalism and Cozy Games](https://blog.glyph.im/2024/01/a-centrist-i-guess.html)
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 18:02:52](https://news.ycombinator.com/item?id=39092903) - [Expensive fridges are dying young. Owners are suing, claiming fraud](https://www.nbcbayarea.com/investigations/consumer/expensive-fridges-dying-fraud-claims/3428989/)
