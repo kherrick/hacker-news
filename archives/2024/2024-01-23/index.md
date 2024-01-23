@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
 * [2024-01-23, 21:10:24](https://news.ycombinator.com/item?id=39109890) - [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
+* [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:55:33](https://news.ycombinator.com/item?id=39109667) - ['Pokémon with Guns' Game Goes Viral, Angering Nintendo Loyalists](https://www.bloomberg.com/news/articles/2024-01-22/what-is-palworld-pokemon-like-game-with-guns-goes-viral-irks-nintendo-fans)
 * [2024-01-23, 20:45:49](https://news.ycombinator.com/item?id=39109513) - [Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft](https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
