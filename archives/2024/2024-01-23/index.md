@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)
 * [2024-01-23, 20:14:52](https://news.ycombinator.com/item?id=39109104) - [The Dark Forest hypothesis is absurd](https://www.noahpinion.blog/p/the-dark-forest-hypothesis-is-absurd)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct Pixel-Space Megapixel Image Generation with Diffusion Models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
