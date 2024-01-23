@@ -84,6 +84,7 @@
 * [2024-01-22, 12:57:05](https://news.ycombinator.com/item?id=39088991) - [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
 * [2024-01-22, 12:53:51](https://news.ycombinator.com/item?id=39088962) - [Monster Hunter Rise adds new DRM that breaks it on Steam Deck](https://www.gamingonlinux.com/2024/01/monster-hunter-rise-adds-new-drm-that-breaks-it-on-steam-deck/)
 * [2024-01-22, 12:51:33](https://news.ycombinator.com/item?id=39088941) - [Let Detroit Go Bankrupt (2008)](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
+* [2024-01-22, 12:22:16](https://news.ycombinator.com/item?id=39088704) - [A Beginner's Guide to Gambas [pdf]](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
 * [2024-01-22, 12:10:03](https://news.ycombinator.com/item?id=39088618) - [Restoring audio from the B-58 \"Hustler\" Voice Warning System](http://www.hydrogen18.com/blog/restoring-audio-b58-hustler-voice-warning-system.html)
 * [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)

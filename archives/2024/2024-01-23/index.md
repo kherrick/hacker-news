@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:26:40](https://news.ycombinator.com/item?id=39107435) - [Ask HN: What are the important problems in your field?](https://news.ycombinator.com/item?id=39107435)
 * [2024-01-23, 18:19:11](https://news.ycombinator.com/item?id=39107306) - [Bitcoin price falls 15% following launch of ETFs](https://www.ft.com/content/99e406f0-c5af-4a67-9937-afb1ea885565)
 * [2024-01-23, 18:17:14](https://news.ycombinator.com/item?id=39107285) - [The \"Mom Test\": asking good questions when everyone is lying to you](https://graphite.dev/blog/the-mom-test)
+* [2024-01-23, 18:08:37](https://news.ycombinator.com/item?id=39107144) - [Brex Layoffs](https://www.brex.com/journal/a-message-from-our-founder)
 * [2024-01-23, 18:05:53](https://news.ycombinator.com/item?id=39107084) - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 * [2024-01-23, 18:01:26](https://news.ycombinator.com/item?id=39107034) - [The Variability Hypothesis](https://en.wikipedia.org/wiki/Variability_hypothesis)
 * [2024-01-23, 17:57:34](https://news.ycombinator.com/item?id=39106973) - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
@@ -22,6 +24,7 @@
 * [2024-01-23, 17:13:11](https://news.ycombinator.com/item?id=39106224) - [Cops Used DNA to Predict Suspects Face and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
 * [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
+* [2024-01-23, 16:50:57](https://news.ycombinator.com/item?id=39105916) - [The Horse, the Drone and the Epic Fight for Gambling Success](https://www.wired.co.uk/article/horse-racing-drone)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
 * [2024-01-23, 16:39:11](https://news.ycombinator.com/item?id=39105720) - [Ask HN: Can You Host Me in California(International Student from Pakistan)?](https://news.ycombinator.com/item?id=39105720)
