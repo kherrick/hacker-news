@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
 * [2024-01-23, 01:18:08](https://news.ycombinator.com/item?id=39098142) - [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
+* [2024-01-23, 01:17:29](https://news.ycombinator.com/item?id=39098133) - [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
+* [2024-01-23, 01:03:56](https://news.ycombinator.com/item?id=39097976) - [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
+* [2024-01-23, 00:34:07](https://news.ycombinator.com/item?id=39097681) - [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-23, 00:31:14](https://news.ycombinator.com/item?id=39097655) - [Trello leaked 15M email addresses](https://haveibeenpwned.com/Error/PageNotFound)
 * [2024-01-23, 00:14:26](https://news.ycombinator.com/item?id=39097502) - [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
 * [2024-01-23, 00:00:20](https://news.ycombinator.com/item?id=39097356) - [FTC bans TurboTax from advertising 'free' services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)
