@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 21:10:24",
+      "https://news.ycombinator.com/item?id=39109890"
+    ],
+    [
+      "How to install Firefox on a Chromebook the easy way",
+      "https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 20:55:33",
       "https://news.ycombinator.com/item?id=39109667"
     ],
@@ -27,6 +37,16 @@
     [
       "Why is machine learning 'hard'? (2016)",
       "https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 20:42:28",
+      "https://news.ycombinator.com/item?id=39109469"
+    ],
+    [
+      "Machine Learning Is Still Too Hard for Software Engineers",
+      "https://www.nyckel.com/blog/machine-learning-difficulties/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39107536"
     ],
     [
-      "Show HN: Blocks by Cosmic – Web components for headless CMS",
+      "Show HN: Blocks by Cosmic – React components for headless CMS",
       "https://news.ycombinator.com/item?id=39107536"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Show HN: Atlas – GIS and interactive maps in the browser",
       "https://atlas.co"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 18:08:37",
-      "https://news.ycombinator.com/item?id=39107144"
-    ],
-    [
-      "Brex Layoffs",
-      "https://www.brex.com/journal/a-message-from-our-founder"
     ]
   ],
   [
@@ -171,21 +181,11 @@
   ],
   [
     [
-      "2024-01-23, 16:33:36",
-      "https://news.ycombinator.com/item?id=39105626"
-    ],
-    [
-      "Samsung expands DIY repair program, adds Galaxy S23 and Fold 5 in US",
-      "https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 15:12:13",
       "https://news.ycombinator.com/item?id=39104363"
     ],
     [
-      "Framework Laptop 16 Delivers Great Linux Support and Performance",
+      "Framework Laptop 16 Review",
       "https://www.phoronix.com/review/framework-laptop-16"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39088704"
     ],
     [
-      "A Beginner's Guide to Gambas [pdf]",
+      "A Beginner's Guide to GAMBAS (2005) [pdf]",
       "http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf"
     ]
   ],
