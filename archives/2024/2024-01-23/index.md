@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 21:10:24](https://news.ycombinator.com/item?id=39109890) - [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)
 * [2024-01-23, 20:55:33](https://news.ycombinator.com/item?id=39109667) - ['Pokémon with Guns' Game Goes Viral, Angering Nintendo Loyalists](https://www.bloomberg.com/news/articles/2024-01-22/what-is-palworld-pokemon-like-game-with-guns-goes-viral-irks-nintendo-fans)
 * [2024-01-23, 20:45:49](https://news.ycombinator.com/item?id=39109513) - [Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft](https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+* [2024-01-23, 20:42:28](https://news.ycombinator.com/item?id=39109469) - [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
 * [2024-01-23, 20:36:04](https://news.ycombinator.com/item?id=39109393) - [Why I Love Tailwind CSS](https://ben.page/tailwind)
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 20:24:37](https://news.ycombinator.com/item?id=39109222) - [Boeing internal whistleblower RE: MAX DOOR](https://www.airlinepilotforums.com/safety/146074-boeing-internal-whistleblower-re-max-door.html)
