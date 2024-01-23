@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
 * [2024-01-23, 18:01:26](https://news.ycombinator.com/item?id=39107034) - [The Variability Hypothesis](https://en.wikipedia.org/wiki/Variability_hypothesis)
+* [2024-01-23, 17:45:46](https://news.ycombinator.com/item?id=39106799) - [Ask HN: Any legal way against forced software upgrades and feature removal](https://news.ycombinator.com/item?id=39106799)
 * [2024-01-23, 17:37:07](https://news.ycombinator.com/item?id=39106648) - [ElevenLabs lands $80M from a16z and Sequoia – and becomes a unicorn](https://sifted.eu/articles/elevenlabs-80m-a16z-sequoia-becomes-unicorn)
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The \"Notorious\" NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
@@ -13,6 +14,7 @@
 * [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online)
+* [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
 * [2024-01-23, 16:39:11](https://news.ycombinator.com/item?id=39105720) - [Ask HN: Can You Host Me in California(International Student from Pakistan)?](https://news.ycombinator.com/item?id=39105720)
 * [2024-01-23, 16:38:18](https://news.ycombinator.com/item?id=39105705) - [FCC to End Broadband Discounts for the Poor After Republicans Undermine Program](https://www.techdirt.com/2024/01/23/fcc-to-end-broadband-discounts-for-poor-people-after-republicans-undermine-program/)
 * [2024-01-23, 16:33:36](https://news.ycombinator.com/item?id=39105626) - [Samsung heavily expands DIY repair program, adds Galaxy S23 and Fold 5 in US](https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/)
