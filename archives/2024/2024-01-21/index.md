@@ -13,6 +13,7 @@
 * [2024-01-21, 23:27:22](https://news.ycombinator.com/item?id=39084135) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-21, 23:19:31](https://news.ycombinator.com/item?id=39084087) - [NASA unlocks $1B canister of asteroid dust](https://www.theguardian.com/science/2024/jan/21/nasa-bennu-asteroid-dust-rock-samples-johnson-space-center)
 * [2024-01-21, 22:57:40](https://news.ycombinator.com/item?id=39083947) - [The Bitcoin Social Network](https://bitcointalk.org/index.php?topic=5482476.0)
+* [2024-01-21, 22:54:53](https://news.ycombinator.com/item?id=39083928) - [Can You Live Code a Church Organ? [video]](https://www.youtube.com/watch?v=7RXWXYboUjA)
 * [2024-01-21, 22:53:18](https://news.ycombinator.com/item?id=39083916) - [Apple Watch no longer sold with blood oxygen monitoring after patent battle loss](https://arstechnica.com/gadgets/2024/01/apple-watch-no-longer-sold-with-blood-oxygen-monitoring-after-patent-battle-loss/)
 * [2024-01-21, 22:29:17](https://news.ycombinator.com/item?id=39083736) - [Gem adds support for creating state machines for attributes on any Ruby class](https://github.com/state-machines/state_machines)
 * [2024-01-21, 22:02:18](https://news.ycombinator.com/item?id=39083547) - [E-bikes caused record deaths, fires last year in New York City](https://news.yahoo.com/e-bikes-caused-record-deaths-090020710.html)
