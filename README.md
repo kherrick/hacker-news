@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
-* [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
 * [2024-01-23, 21:25:39](https://news.ycombinator.com/item?id=39110088) - [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
 * [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
@@ -28,6 +27,7 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 02:07:29](https://news.ycombinator.com/item?id=39098621) - [F3d v2.3.0 Released – Fast and minimalist 3D viewer](https://github.com/f3d-app/f3d)
 * [2024-01-22, 22:30:45](https://news.ycombinator.com/item?id=39096449) - ['With her own hair': A Victorian prisoner's art](https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art)
+* [2024-01-22, 12:22:16](https://news.ycombinator.com/item?id=39088704) - [A Beginner's Guide to GAMBAS (2005) [pdf]](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 * [2024-01-22, 05:34:13](https://news.ycombinator.com/item?id=39086631) - [Organic Syntheses (2023)](https://www.science.org/content/blog-post/organic-syntheses)
 
