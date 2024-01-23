@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-23, 02:47:14",
-      "https://news.ycombinator.com/item?id=39098969"
-    ],
-    [
-      "German Court Fines Security Researcher for Reporting Company's Vulnerabilities",
-      "https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 02:28:02",
       "https://news.ycombinator.com/item?id=39098803"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-01-22, 17:08:37",
+      "https://news.ycombinator.com/item?id=39091981"
+    ],
+    [
+      "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+      "https://github.com/LiheYoung/Depth-Anything"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 17:03:26",
       "https://news.ycombinator.com/item?id=39091901"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-01-22, 12:01:10",
-      "https://news.ycombinator.com/item?id=39088551"
-    ],
-    [
-      "Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative",
-      "https://news.ycombinator.com/item?id=39088551"
-    ]
-  ],
-  [
-    [
       "2024-01-22, 09:21:11",
       "https://news.ycombinator.com/item?id=39087752"
     ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39087342"
     ],
     [
-      "Confocal Microscopy",
+      "Confocal microscopy",
       "https://en.wikipedia.org/wiki/Confocal_microscopy"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript",
       "https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/"
+    ]
+  ],
+  [
+    [
+      "2024-01-20, 13:21:13",
+      "https://news.ycombinator.com/item?id=39067320"
+    ],
+    [
+      "Ludum Mortuus Est",
+      "https://www.brokentoys.org/ludum-mortuus-est/"
     ]
   ]
 ]
