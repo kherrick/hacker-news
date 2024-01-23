@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:11:45](https://news.ycombinator.com/item?id=39103483) - [Sex Differences in Work Preferences, Life Values, and Personal Views](https://www.stevestewartwilliams.com/p/sex-differences-in-work-preferences)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the Emergence of Life an Expected Phase Transition in the Evolving Universe?](https://arxiv.org/abs/2401.09514)
@@ -26,6 +27,7 @@
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
+* [2024-01-23, 04:41:29](https://news.ycombinator.com/item?id=39099723) - [IPv6 Excuse Bingo](https://ipv6bingo.com/)
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:47:14](https://news.ycombinator.com/item?id=39098969) - [German Court Fines Security Researcher for Reporting Company's Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
