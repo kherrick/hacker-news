@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 23:30:52](https://news.ycombinator.com/item?id=39111494) - [Anon Boeing engineer reveals why the 737 door blew off](https://leehamnews.com/2024/01/15/unplanned-removal-installation-inspection-procedure-at-boeing/#comment-509962)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:27:32](https://news.ycombinator.com/item?id=39110110) - [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
 * [2024-01-23, 21:25:39](https://news.ycombinator.com/item?id=39110088) - [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
@@ -25,7 +26,6 @@
 * [2024-01-23, 11:26:58](https://news.ycombinator.com/item?id=39102002) - [Free Godot engine port for Nintendo Switch](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
-* [2024-01-22, 22:30:45](https://news.ycombinator.com/item?id=39096449) - ['With her own hair': A Victorian prisoner's art](https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art)
 * [2024-01-22, 17:41:29](https://news.ycombinator.com/item?id=39092536) - [The Long Tail (2004)](https://www.wired.com/2004/10/tail/)
 * [2024-01-22, 12:22:16](https://news.ycombinator.com/item?id=39088704) - [A Beginner's Guide to GAMBAS (2005) [pdf]](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
