@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:47:14](https://news.ycombinator.com/item?id=39098969) - [German Court Fines Security Researcher for Reporting Company's Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
@@ -14,7 +15,6 @@
 * [2024-01-22, 23:38:59](https://news.ycombinator.com/item?id=39097150) - [Changes at Riot Games and the road ahead](https://www.riotgames.com/en/news/2024-player-update)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
-* [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
