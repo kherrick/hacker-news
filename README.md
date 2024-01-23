@@ -2,7 +2,6 @@
 
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
 * [2024-01-23, 17:16:19](https://news.ycombinator.com/item?id=39106278) - [Amazon Fined $35M in France over 'Overly Intrusive' Surveillance](https://uk.pcmag.com/news/150577/amazon-fined-35-million-in-france-over-overly-intrusive-employee-surveillance-in-its-warehouses)
-* [2024-01-23, 17:13:11](https://news.ycombinator.com/item?id=39106224) - [Cops Used DNA to Predict Suspects Face and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [“The mother of all breaches”: 26 billion records found online](https://www.malwarebytes.com/blog/news/2024/01/the-mother-of-all-breaches-26-billion-records-found-online)
 * [2024-01-23, 16:33:36](https://news.ycombinator.com/item?id=39105626) - [Samsung heavily expands DIY repair program, adds Galaxy S23 and Fold 5 in US](https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/)
@@ -30,6 +29,7 @@
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
 * [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
+* [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
 
 ## [Archives](archives/index.md)
 
