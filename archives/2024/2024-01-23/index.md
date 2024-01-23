@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 15:54:32](https://news.ycombinator.com/item?id=39105017) - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:11:45](https://news.ycombinator.com/item?id=39103483) - [Sex Differences in Work Preferences, Life Values, and Personal Views](https://www.stevestewartwilliams.com/p/sex-differences-in-work-preferences)
