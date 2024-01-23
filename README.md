@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-23, 18:26:40](https://news.ycombinator.com/item?id=39107435) - [Ask HN: What are the important problems in your field?](https://news.ycombinator.com/item?id=39107435)
-* [2024-01-23, 18:19:11](https://news.ycombinator.com/item?id=39107306) - [Bitcoin price falls 15% following launch of ETFs](https://www.ft.com/content/99e406f0-c5af-4a67-9937-afb1ea885565)
-* [2024-01-23, 18:17:14](https://news.ycombinator.com/item?id=39107285) - [The \"Mom Test\": asking good questions when everyone is lying to you](https://graphite.dev/blog/the-mom-test)
 * [2024-01-23, 18:05:53](https://news.ycombinator.com/item?id=39107084) - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 * [2024-01-23, 17:57:34](https://news.ycombinator.com/item?id=39106973) - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
+* [2024-01-23, 17:54:32](https://news.ycombinator.com/item?id=39106916) - [Higher vehicle hoods significantly increase pedestrian deaths, study finds](https://arstechnica.com/cars/2024/01/higher-vehicle-hoods-significantly-increase-pedestrian-deaths-study-finds/)
 * [2024-01-23, 17:53:45](https://news.ycombinator.com/item?id=39106901) - [Is offline-first not enough? Do we need \"serverfree\"?](https://subzero.cloud/blog/serverfree-architecture/)
+* [2024-01-23, 17:36:17](https://news.ycombinator.com/item?id=39106634) - [Wheel of a Delta Boeing 757 flew off while it was preparing to take off at ATL](https://twitter.com/gregg_re/status/1749835450804576370)
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The \"notorious\" NSA Furby documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
@@ -30,6 +29,7 @@
 * [2024-01-22, 07:20:29](https://news.ycombinator.com/item?id=39087170) - [China planning 1600-core chips that use an entire wafer – 'wafer-scale' designs](https://www.tomshardware.com/pc-components/cpus/china-planning-1600-core-chips-that-use-an-entire-wafer-similar-to-american-company-cerebras-wafer-scale-design)
 * [2024-01-22, 05:34:13](https://news.ycombinator.com/item?id=39086631) - [Organic Syntheses (2023)](https://www.science.org/content/blog-post/organic-syntheses)
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
+* [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 
 ## [Archives](archives/index.md)
 
