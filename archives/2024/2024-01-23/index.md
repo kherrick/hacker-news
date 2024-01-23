@@ -7,6 +7,7 @@
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:47:14](https://news.ycombinator.com/item?id=39098969) - [German Court Fines Security Researcher for Reporting Company's Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
+* [2024-01-23, 02:26:06](https://news.ycombinator.com/item?id=39098780) - [Cheating scandal rocks Harvard Ivy League teaching hospital from top researchers](https://forbetterscience.com/2024/01/02/dana-farberications-at-harvard-university/)
 * [2024-01-23, 02:11:46](https://news.ycombinator.com/item?id=39098662) - [Why you shouldn't always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-23, 01:38:13](https://news.ycombinator.com/item?id=39098371) - [Ask HN: Best country to run a boostrapped startup from? (After Section 174)](https://news.ycombinator.com/item?id=39098371)
