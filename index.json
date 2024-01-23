@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-01-23, 20:45:49",
-      "https://news.ycombinator.com/item?id=39109513"
-    ],
-    [
-      "Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft",
-      "https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 20:43:25",
       "https://news.ycombinator.com/item?id=39109481"
     ],
@@ -111,26 +101,6 @@
   ],
   [
     [
-      "2024-01-23, 18:05:53",
-      "https://news.ycombinator.com/item?id=39107084"
-    ],
-    [
-      "Deadcode: Finding unreachable functions in Go",
-      "https://go.dev/blog/deadcode"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 17:57:34",
-      "https://news.ycombinator.com/item?id=39106973"
-    ],
-    [
-      "Chrome experimental AI features",
-      "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 17:57:31",
       "https://news.ycombinator.com/item?id=39106972"
     ],
@@ -147,6 +117,16 @@
     [
       "Higher vehicle hoods significantly increase pedestrian deaths, study finds",
       "https://arstechnica.com/cars/2024/01/higher-vehicle-hoods-significantly-increase-pedestrian-deaths-study-finds/"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 17:26:34",
+      "https://news.ycombinator.com/item?id=39106464"
+    ],
+    [
+      "Gene therapy allows an 11-year-old boy to hear",
+      "https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html"
     ]
   ],
   [
@@ -177,6 +157,26 @@
     [
       "The horse, the drone, and the fight for gambling success (2021)",
       "https://www.wired.co.uk/article/horse-racing-drone"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 16:50:28",
+      "https://news.ycombinator.com/item?id=39105906"
+    ],
+    [
+      "Data leak contains 26B records from numerous previous breaches",
+      "https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 16:33:36",
+      "https://news.ycombinator.com/item?id=39105626"
+    ],
+    [
+      "Samsung expands DIY repair program, adds Galaxy S23 and Fold 5 in US",
+      "https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-23, 06:13:32",
+      "https://news.ycombinator.com/item?id=39100151"
+    ],
+    [
+      "Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"",
+      "https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 22:30:45",
       "https://news.ycombinator.com/item?id=39096449"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2024-01-22, 18:00:38",
+      "https://news.ycombinator.com/item?id=39092863"
+    ],
+    [
+      "The building blocks of offline support",
+      "https://pketh.org/building-offline.html"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 12:22:16",
       "https://news.ycombinator.com/item?id=39088704"
     ],
     [
       "A Beginner's Guide to GAMBAS (2005) [pdf]",
       "http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 07:20:29",
-      "https://news.ycombinator.com/item?id=39087170"
-    ],
-    [
-      "Chinese researchers planning 1,600-core chips that use an entire wafer",
-      "https://www.tomshardware.com/pc-components/cpus/china-planning-1600-core-chips-that-use-an-entire-wafer-similar-to-american-company-cerebras-wafer-scale-design"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Organic Syntheses (2023)",
       "https://www.science.org/content/blog-post/organic-syntheses"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 04:49:26",
-      "https://news.ycombinator.com/item?id=39086334"
-    ],
-    [
-      "Forging signed commits on GitHub",
-      "https://iter.ca/post/gh-sig-pwn/"
     ]
   ]
 ]
