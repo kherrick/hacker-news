@@ -6,6 +6,7 @@
 
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
+* [2024-01-23, 21:27:32](https://news.ycombinator.com/item?id=39110110) - [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
 * [2024-01-23, 21:25:39](https://news.ycombinator.com/item?id=39110088) - [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
 * [2024-01-23, 21:23:59](https://news.ycombinator.com/item?id=39110065) - [I used Midjourney to design a brand identity](https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/)
 * [2024-01-23, 21:10:24](https://news.ycombinator.com/item?id=39109890) - [How to install Firefox on a Chromebook the easy way](https://www.aboutchromebooks.com/how-to/how-to-install-firefox-on-a-chromebook-the-easy-way/)

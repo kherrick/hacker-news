@@ -50,6 +50,7 @@
 * [2024-01-22, 17:58:31](https://news.ycombinator.com/item?id=39092828) - [Did you already break the Elliptic Curve, Satoshi, you there?](https://bitcointalk.org/index.php?topic=5481972.0)
 * [2024-01-22, 17:57:19](https://news.ycombinator.com/item?id=39092802) - [David Graeber: Caring too much. That's the curse of the working classes](https://theanarchistlibrary.org/library/david-graeber-caring-too-much-that-s-the-curse-of-the-working-classes)
 * [2024-01-22, 17:46:55](https://news.ycombinator.com/item?id=39092633) - [Cervical Cancer incidence drops 65% in women who benefited from HPV vaccine](https://www.nbcnews.com/health/womens-health/hpv-vaccine-cervical-cancer-rising-women-research-rcna134224)
+* [2024-01-22, 17:41:29](https://news.ycombinator.com/item?id=39092536) - [The Long Tail (2004)](https://www.wired.com/2004/10/tail/)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:38:04](https://news.ycombinator.com/item?id=39092486) - [Office Landlords Use Cash Gifts, Loans to Inflate Building Values](https://www.wsj.com/real-estate/commercial/office-landlords-use-cash-gifts-loans-to-inflate-building-values-92faae2a)
 * [2024-01-22, 17:26:24](https://news.ycombinator.com/item?id=39092278) - [There is way too much serendipity](https://www.lesswrong.com/posts/oA23zoEjPnzqfHiCt/there-is-way-too-much-serendipity)
