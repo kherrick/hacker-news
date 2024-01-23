@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 10:58:41](https://news.ycombinator.com/item?id=39101828) - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
+* [2024-01-23, 10:34:38](https://news.ycombinator.com/item?id=39101682) - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
 * [2024-01-23, 09:57:52](https://news.ycombinator.com/item?id=39101471) - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
