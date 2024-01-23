@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
+* [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) Is Hiring a Lead Front End Engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:39:11](https://news.ycombinator.com/item?id=39105720) - [Ask HN: Can You Host Me in California(International Student from Pakistan)?](https://news.ycombinator.com/item?id=39105720)
+* [2024-01-23, 16:38:18](https://news.ycombinator.com/item?id=39105705) - [FCC to End Broadband Discounts for the Poor After Republicans Undermine Program](https://www.techdirt.com/2024/01/23/fcc-to-end-broadband-discounts-for-poor-people-after-republicans-undermine-program/)
+* [2024-01-23, 16:30:22](https://news.ycombinator.com/item?id=39105568) - [DB Cooper Case Could Close Soon Thanks to Particle Evidence](https://hackaday.com/2024/01/23/db-cooper-case-could-close-soon-thanks-to-particle-evidence/)
 * [2024-01-23, 16:25:57](https://news.ycombinator.com/item?id=39105492) - [An Oklahoma Anti-Porn Bill Could Ban Any Sort of Sexualized Photograph](https://petapixel.com/2024/01/23/an-oklahoma-anti-porn-bill-could-ban-any-sort-of-sexualized-photograph/)
 * [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 15:57:33](https://news.ycombinator.com/item?id=39105069) - [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
