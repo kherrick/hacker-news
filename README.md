@@ -18,7 +18,7 @@
 * [2024-01-22, 23:56:07](https://news.ycombinator.com/item?id=39097314) - [Czech republic sets IPv4 end date](https://konecipv4.cz/en/)
 * [2024-01-22, 22:04:31](https://news.ycombinator.com/item?id=39096138) - [Zag Smalltalk (2022) [video]](https://vimeo.com/802502826)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
-* [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
+* [2024-01-22, 19:30:21](https://news.ycombinator.com/item?id=39094181) - [Ask HN: Is Apple's R1 a Discrete GPU?](https://news.ycombinator.com/item?id=39094181)
 * [2024-01-22, 19:11:26](https://news.ycombinator.com/item?id=39093927) - [Show HN: Simply Reading Analog Gauges – GPT4, CogVLM Can't](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge)
 * [2024-01-22, 18:00:38](https://news.ycombinator.com/item?id=39092863) - [The building blocks of offline support](https://pketh.org/building-offline.html)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
