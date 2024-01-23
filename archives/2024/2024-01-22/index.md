@@ -92,6 +92,7 @@
 * [2024-01-22, 08:51:14](https://news.ycombinator.com/item?id=39087609) - [RubyWM – an X11 window manager in pure Ruby](https://rubyflow.com/p/pb1tu2-rubywm-an-x11-window-manager-in-pure-ruby)
 * [2024-01-22, 08:48:08](https://news.ycombinator.com/item?id=39087599) - [The Last Days of the Barcode](https://www.theatlantic.com/podcasts/archive/2024/01/the-last-days-of-the-barcode/677185/)
 * [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
+* [2024-01-22, 07:54:11](https://news.ycombinator.com/item?id=39087342) - [Confocal Microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://i.redd.it/kxptcowxiwdc1.png)
 * [2024-01-22, 07:32:07](https://news.ycombinator.com/item?id=39087237) - [Boeing 737-900ER: Second model to be inspected after 737 MAX 9 blowout](https://www.bbc.co.uk/news/world-us-canada-68052160)
