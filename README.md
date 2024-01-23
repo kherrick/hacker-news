@@ -28,8 +28,8 @@
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How far could the sun possibly be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 * [2024-01-21, 22:54:53](https://news.ycombinator.com/item?id=39083928) - [Can You Live Code a Church Organ? [video]](https://www.youtube.com/watch?v=7RXWXYboUjA)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
+* [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
 * [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
-* [2024-01-20, 13:21:13](https://news.ycombinator.com/item?id=39067320) - [Ludum Mortuus Est](https://www.brokentoys.org/ludum-mortuus-est/)
 
 ## [Archives](archives/index.md)
 

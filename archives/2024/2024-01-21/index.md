@@ -109,5 +109,6 @@
 * [2024-01-21, 01:43:03](https://news.ycombinator.com/item?id=39074605) - [Startups tend to have 3 generations of employees](https://twitter.com/Carnage4Life/status/1748830596284195238)
 * [2024-01-21, 01:37:35](https://news.ycombinator.com/item?id=39074568) - [Common Lisp's Block / Return-From and Unwind-Protect](http://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-21, 01:27:21](https://news.ycombinator.com/item?id=39074518) - ['I Almost Sound Like a Crazy Person, but I Think It Is a Superconductor'](https://nymag.com/intelligencer/2024/01/theres-a-new-superconductor-claim-out-of-china-is-it-real.html)
+* [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
 * [2024-01-21, 00:21:12](https://news.ycombinator.com/item?id=39074098) - [How to Build Your Own Injection Molding Machine](https://www.machinedesign.com/3d-printing-cad/article/21263614/how-to-build-your-own-injection-molding-machine)
 * [2024-01-21, 00:17:26](https://news.ycombinator.com/item?id=39074062) - [Anime is a $25B industry that pays its animators pennies](https://hitregbroke.com/anime/)
