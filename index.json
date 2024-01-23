@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 09:57:52",
+      "https://news.ycombinator.com/item?id=39101471"
+    ],
+    [
+      "Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]",
+      "https://www.youtube.com/watch?v=tcnN7yWCPGM"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 09:13:08",
       "https://news.ycombinator.com/item?id=39101165"
     ],
@@ -217,16 +227,6 @@
     [
       "An RNG that runs in your brain",
       "https://www.hillelwayne.com/post/randomness/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 16:56:20",
-      "https://news.ycombinator.com/item?id=39091777"
-    ],
-    [
-      "LoRA from scratch: implementation for LLM finetuning",
-      "https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all"
     ]
   ],
   [
