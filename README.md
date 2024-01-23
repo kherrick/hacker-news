@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
+* [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
+* [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
@@ -22,7 +23,6 @@
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:00:44](https://news.ycombinator.com/item?id=39091867) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 16:56:20](https://news.ycombinator.com/item?id=39091777) - [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
-* [2024-01-22, 09:21:11](https://news.ycombinator.com/item?id=39087752) - [Reading QR codes without a computer](https://qr.blinry.org/)
 * [2024-01-22, 08:01:35](https://news.ycombinator.com/item?id=39087373) - [Turning off Rust's borrow checker completely (2022)](https://iter.ca/post/rust-skip-borrowck/)
 * [2024-01-22, 07:54:11](https://news.ycombinator.com/item?id=39087342) - [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)

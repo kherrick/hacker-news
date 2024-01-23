@@ -6,6 +6,8 @@
 
 * [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
 * [2024-01-23, 07:52:58](https://news.ycombinator.com/item?id=39100652) - [Tens of thousands protest in Germany against the rise of the far right](https://www.npr.org/2024/01/21/1225882007/tens-of-thousands-protest-in-germany-against-the-rise-of-the-far-right)
+* [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
+* [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
 * [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:47:14](https://news.ycombinator.com/item?id=39098969) - [German Court Fines Security Researcher for Reporting Company's Vulnerabilities](https://socket.dev/blog/ethical-hacking-on-trial-german-court-fines-security-researcher)
