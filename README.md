@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 16:39:11](https://news.ycombinator.com/item?id=39105720) - [Ask HN: Can You Host Me in California(International Student from Pakistan)?](https://news.ycombinator.com/item?id=39105720)
+* [2024-01-23, 16:25:57](https://news.ycombinator.com/item?id=39105492) - [An Oklahoma Anti-Porn Bill Could Ban Any Sort of Sexualized Photograph](https://petapixel.com/2024/01/23/an-oklahoma-anti-porn-bill-could-ban-any-sort-of-sexualized-photograph/)
 * [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 15:57:33](https://news.ycombinator.com/item?id=39105069) - [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
@@ -14,10 +16,9 @@
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
-* [2024-01-23, 02:28:02](https://news.ycombinator.com/item?id=39098803) - [The end of \"Useless Ruby sugar\": On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-22, 22:04:31](https://news.ycombinator.com/item?id=39096138) - [Zag Smalltalk (2022) [video]](https://vimeo.com/802502826)
-* [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+* [2024-01-22, 22:03:24](https://news.ycombinator.com/item?id=39096128) - [I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
 * [2024-01-22, 19:11:26](https://news.ycombinator.com/item?id=39093927) - [Show HN: Simply Reading Analog Gauges – GPT4, CogVLM Can't](https://huggingface.co/spaces/Synanthropic/reading-analog-gauge)
 * [2024-01-22, 18:56:08](https://news.ycombinator.com/item?id=39093682) - [Feral Minds](https://www.noemamag.com/feral-intelligence/)
 * [2024-01-22, 18:00:38](https://news.ycombinator.com/item?id=39092863) - [The building blocks of offline support](https://pketh.org/building-offline.html)
@@ -29,7 +30,6 @@
 * [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 * [2024-01-21, 22:54:53](https://news.ycombinator.com/item?id=39083928) - [Can You Live Code a Church Organ? [video]](https://www.youtube.com/watch?v=7RXWXYboUjA)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
-* [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
 
 ## [Archives](archives/index.md)
 
