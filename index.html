@@ -137,13 +137,111 @@
             <h4>
               <span>2024-01-23 @ 21:51:06</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39110434"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="39110110">
+          <h3>
+            <a class="item" href="https://codemodder.io/"
+              >Show HN: Codemodder – A new codemod library for Java and
+              Python</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-23 @ 21:27:32</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39110110"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                &gt; Codemod is a tool/library to assist you with large-scale
+                codebase refactors
+              </p>
+              <p>
+                Codemods are awesome, but I felt they were far from their
+                potential, and so I’m very proud to show you all an early
+                version of a codemod library we’ve built called Codemodder (<a
+                  href="https://codemodder.io"
+                  >https://codemodder.io</a
+                >) that we think moves the "field" forward. Codemodder supports
+                both Python and Java (<a
+                  href="https://github.com/pixee/codemodder-python"
+                  >https://github.com/pixee/codemodder-python</a
+                >
+                and
+                <a href="https://github.com/pixee/codemodder-java"
+                  >https://github.com/pixee/codemodder-java</a
+                >). The license is AGPL, please don’t kill me.
+              </p>
+              <p>
+                Primarily, what makes Codemodder different is our design
+                philosophy. Instead of trying to write a new library for both
+                finding code and changing code, which is what traditional
+                codemod libraries do, we aim to provide an easy-to-use
+                orchestration library that helps connect idiomatic tools for
+                querying source code and idiomatic tools for mutating source
+                code.
+              </p>
+              <p>
+                So, if you love your current linter, Semgrep, Sonar, or PMD,
+                CodeQL or whatever for querying source code – use them! If you
+                love JavaParser or libCST for changing source code – use them!
+                We’ll provide you with all the glue and make building, testing,
+                packaging and orchestrating them easy.
+              </p>
+              <p>
+                Here are the problems with existing codemod libraries as they
+                exist today, and how Codemodder solves them.
+              </p>
+              <p>
+                1. They’re not expressive enough. They tend to offer barebones
+                APIs for querying code. There’s simply no way for these
+                libraries to compete with purpose-built static analysis tools
+                for querying code, so we should use them instead.
+              </p>
+              <p>
+                2. They produce changes without any context. Understanding why a
+                code change is made is important. If the change was obvious to
+                the developer receiving the code change, they probably wouldn’t
+                have made the mistake in the first place! Storytelling is
+                everything, and so we guide you towards making changes that are
+                more likely to be merged.
+              </p>
+              <p>
+                3. They don’t handle injecting dependencies well. I have to say
+                we’re not great at this yet either, but we have some of the
+                basics and will invest more.
+              </p>
+              <p>
+                4. Most apps involve multiple languages, but all of today’s
+                codemod libraries are for one language, so they are hard to
+                orchestrate for a single project. We’ve put a lot of work into
+                making sure these libraries are aligned with open source API
+                contracts and formats (<a
+                  href="https://github.com/pixee/codemodder-specs"
+                  >https://github.com/pixee/codemodder-specs</a
+                >) so they can be orchestrated similarly by downstream
+                automation.
+              </p>
+              <p>
+                The idea is "don’t write another PR comment saying the same
+                thing, write a codemod to just make the change automatically for
+                you every time". We hope you like it, and are excited to get any
+                feedback you might have!
+              </p>
+            </div>
           </section>
         </section>
         <section id="39110088">
@@ -158,11 +256,11 @@
             <h4>
               <span>2024-01-23 @ 21:25:39</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39110088"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -179,11 +277,11 @@
             <h4>
               <span>2024-01-23 @ 21:04:59</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39109811"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -198,7 +296,7 @@
             <h4>
               <span>2024-01-23 @ 20:49:58</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39109591"
                   >Comments</a
@@ -219,11 +317,11 @@
             <h4>
               <span>2024-01-23 @ 20:43:25</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39109481"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -239,11 +337,11 @@
             <h4>
               <span>2024-01-23 @ 20:29:35</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39109304"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -258,7 +356,7 @@
             <h4>
               <span>2024-01-23 @ 20:20:47</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39109185"
                   >Comments</a
@@ -280,11 +378,11 @@
             <h4>
               <span>2024-01-23 @ 18:53:18</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39107854"
                   >Comments</a
-                ><span class="descendants">: 312</span></span
+                ><span class="descendants">: 320</span></span
               >
             </h4>
           </section>
@@ -302,115 +400,13 @@
             <h4>
               <span>2024-01-23 @ 18:38:58</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39107620"
                   >Comments</a
                 ><span class="descendants">: 18</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="39107536">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=39107536"
-              >Show HN: Blocks by Cosmic – React components for headless CMS</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-23 @ 18:33:04</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39107536"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://blocks.cosmicjs.com/"
-                >https://blocks.cosmicjs.com/</a
-              >), our new data infused components for building Cosmic (<a
-                href="https://www.cosmicjs.com/"
-                >https://www.cosmicjs.com/</a
-              >) (W19) powered websites and apps.
-              <p>
-                Cosmic is a headless content management system (CMS). We provide
-                a dashboard to create content and API tools to deliver content
-                to any website or app.
-              </p>
-              <p>
-                Blocks are pre-built website components that you can drop into
-                your project. Choose from landing pages, blogs, image galleries,
-                product pages, and more. With Blocks you can build these
-                features with Cosmic faster than ever.
-              </p>
-              <p>
-                It's our goal to empower your team to create the best content
-                powered websites and apps. Blocks can be considered the missing
-                "head" to connect with the Cosmic headless CMS. It is our
-                opinionated component frontend for building highly scalable and
-                performant web applications built with tools we think offer a
-                development experience and performance advantage (React Server
-                Components, Next.js, and Tailwind CSS).
-              </p>
-              <p>
-                React Server Components (RSCs) have unlocked a new paradigm in
-                building data-driven web applications. By safely encapsulating
-                data-fetching inside components, we can use RSCs as building
-                blocks to enable faster and more scalable application
-                development. We are excited for the potential of RSCs and
-                Blocks. This is just the beginning.
-              </p>
-              <p>
-                To get started, go to the Blocks website (<a
-                  href="https://blocks.cosmicjs.com/"
-                  >https://blocks.cosmicjs.com/</a
-                >) and follow the steps for installation. View the Blocks demo
-                (Agency Template) (<a
-                  href="https://cosmic-agency-template.vercel.app/"
-                  >https://cosmic-agency-template.vercel.app/</a
-                >) to see all of the Blocks in action.
-              </p>
-              <p>
-                Blocks are built to give developers a head start with features
-                that are:
-              </p>
-              <p>
-                - Performance optimized - Draft preview ready - Mobile
-                responsive - Localization ready - Dark mode ready - Customizable
-                - Accessible - Type safe
-              </p>
-              <p>
-                Blocks not only provide a fast development experience, they have
-                been optimized for speed and performance by default, so you can
-                ship production-ready faster. Check out the Blocks demo (Agency
-                Template) (<a href="https://cosmic-agency-template.vercel.app/"
-                  >https://cosmic-agency-template.vercel.app/</a
-                >) to see how building with Blocks can give you high scores
-                across the board for performance, SEO, and accessibility.
-              </p>
-              <p>
-                Blocks are open source (<a
-                  href="https://github.com/cosmicjs/blocks"
-                  >https://github.com/cosmicjs/blocks</a
-                >) and built with React Server Components, Next.js, TypeScript,
-                Tailwind CSS, and powered by the Cosmic content management
-                system. You can install Blocks into any new or existing Next.js
-                (v13+) codebase using the Blocks CLI (<a
-                  href="https://www.npmjs.com/package/@cosmicjs/blocks"
-                  >https://www.npmjs.com/package/@cosmicjs/blocks</a
-                >).
-              </p>
-              <p>
-                Check it out on the Blocks website (<a
-                  href="https://blocks.cosmicjs.com/"
-                  >https://blocks.cosmicjs.com/</a
-                >) and let us know what you think in the comments.
-              </p>
-              <p>Tony</p>
-            </div>
           </section>
         </section>
         <section id="39107483">
@@ -442,11 +438,11 @@
             <h4>
               <span>2024-01-23 @ 17:57:31</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39106972"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -463,11 +459,11 @@
             <h4>
               <span>2024-01-23 @ 17:26:34</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39106464"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -484,7 +480,7 @@
             <h4>
               <span>2024-01-23 @ 17:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39106355"
                   >Comments</a
@@ -563,11 +559,11 @@
             <h4>
               <span>2024-01-23 @ 16:50:28</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39105906"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -584,11 +580,11 @@
             <h4>
               <span>2024-01-23 @ 15:12:13</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">317</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39104363"
                   >Comments</a
-                ><span class="descendants">: 265</span></span
+                ><span class="descendants">: 267</span></span
               >
             </h4>
           </section>
@@ -604,7 +600,7 @@
             <h4>
               <span>2024-01-23 @ 14:06:03</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">279</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39103419"
                   >Comments</a
@@ -625,11 +621,11 @@
             <h4>
               <span>2024-01-23 @ 13:39:23</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39103142"
                   >Comments</a
-                ><span class="descendants">: 219</span></span
+                ><span class="descendants">: 221</span></span
               >
             </h4>
           </section>
@@ -644,7 +640,7 @@
             <h4>
               <span>2024-01-23 @ 12:40:16</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39102577"
                   >Comments</a
@@ -665,11 +661,11 @@
             <h4>
               <span>2024-01-23 @ 11:33:44</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">205</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39102069"
                   >Comments</a
-                ><span class="descendants">: 302</span></span
+                ><span class="descendants">: 304</span></span
               >
             </h4>
           </section>
@@ -709,7 +705,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39101564"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -727,30 +723,11 @@
             <h4>
               <span>2024-01-23 @ 06:13:32</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39100151"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39098621">
-          <h3>
-            <a class="item" href="https://github.com/f3d-app/f3d"
-              >F3d v2.3.0 Released – Fast and minimalist 3D viewer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-01-23 @ 02:07:29</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39098621"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -776,6 +753,25 @@
             </h4>
           </section>
         </section>
+        <section id="39092536">
+          <h3>
+            <a class="item" href="https://www.wired.com/2004/10/tail/"
+              >The Long Tail (2004)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-01-22 @ 17:41:29</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39092536"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39088704">
           <h3>
             <a
@@ -788,7 +784,7 @@
             <h4>
               <span>2024-01-22 @ 12:22:16</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39088704"
                   >Comments</a
@@ -807,11 +803,11 @@
             <h4>
               <span>2024-01-22 @ 07:12:39</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39087118"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -828,7 +824,7 @@
             <h4>
               <span>2024-01-22 @ 05:34:13</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39086631"
                   >Comments</a
