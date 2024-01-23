@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
+* [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 11:34:51](https://news.ycombinator.com/item?id=39102078) - [Avoid Async Rust at All Cost](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 11:28:54](https://news.ycombinator.com/item?id=39102021) - [Boeing Whistleblower: Max 9 Production Line Has \"Enormous Volume of Defects\"](https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/)
