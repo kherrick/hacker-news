@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 09:57:52](https://news.ycombinator.com/item?id=39101471) - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
@@ -22,7 +23,6 @@
 * [2024-01-22, 18:00:38](https://news.ycombinator.com/item?id=39092863) - [The building blocks of offline support](https://pketh.org/building-offline.html)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
 * [2024-01-22, 17:00:44](https://news.ycombinator.com/item?id=39091867) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
-* [2024-01-22, 16:56:20](https://news.ycombinator.com/item?id=39091777) - [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
 * [2024-01-22, 08:01:35](https://news.ycombinator.com/item?id=39087373) - [Turning off Rust's borrow checker completely (2022)](https://iter.ca/post/rust-skip-borrowck/)
 * [2024-01-22, 07:54:11](https://news.ycombinator.com/item?id=39087342) - [Confocal microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
 * [2024-01-22, 04:49:26](https://news.ycombinator.com/item?id=39086334) - [Forging signed commits on GitHub](https://iter.ca/post/gh-sig-pwn/)
