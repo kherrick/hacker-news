@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the Emergence of Life an Expected Phase Transition in the Evolving Universe?](https://arxiv.org/abs/2401.09514)
+* [2024-01-23, 13:39:33](https://news.ycombinator.com/item?id=39103146) - [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Sex, aggression, and humour: responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 * [2024-01-23, 13:34:15](https://news.ycombinator.com/item?id=39103093) - [Proposed Oklahoma skyscraper gets redesign to become USA's new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
 * [2024-01-23, 13:23:40](https://news.ycombinator.com/item?id=39102981) - [Ask HN: What happened to normal-sized smartphones?](https://news.ycombinator.com/item?id=39102981)

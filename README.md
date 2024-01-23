@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
+* [2024-01-23, 13:39:33](https://news.ycombinator.com/item?id=39103146) - [Hanging by a Strand: Worker dissent brews at an iconic New York bookstore](https://thebaffler.com/latest/hanging-by-a-strand-oconnor)
 * [2024-01-23, 13:34:15](https://news.ycombinator.com/item?id=39103093) - [Proposed Oklahoma skyscraper gets redesign to become USA's new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 11:48:39](https://news.ycombinator.com/item?id=39102183) - [Show HN: I made a Paldeck website, all Paldeck Pals in Palworld](https://www.paldeck.co/)
@@ -11,9 +13,7 @@
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
 * [2024-01-23, 04:49:58](https://news.ycombinator.com/item?id=39099759) - [The Hawai'I Seaglider Initiative – A New Approach to Travel Between the Islands](https://www.hawaiiseaglider.org/)
-* [2024-01-23, 03:00:15](https://news.ycombinator.com/item?id=39099065) - [Tell HN: Hacker News now supports IPv6](https://news.ycombinator.com/item?id=39099065)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
-* [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
 * [2024-01-23, 01:17:29](https://news.ycombinator.com/item?id=39098133) - [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
 * [2024-01-23, 01:03:56](https://news.ycombinator.com/item?id=39097976) - [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 00:34:07](https://news.ycombinator.com/item?id=39097681) - [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
