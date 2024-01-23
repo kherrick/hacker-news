@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 18:01:26](https://news.ycombinator.com/item?id=39107034) - [The Variability Hypothesis](https://en.wikipedia.org/wiki/Variability_hypothesis)
+* [2024-01-23, 17:37:07](https://news.ycombinator.com/item?id=39106648) - [ElevenLabs lands $80M from a16z and Sequoia – and becomes a unicorn](https://sifted.eu/articles/elevenlabs-80m-a16z-sequoia-becomes-unicorn)
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
+* [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The \"Notorious\" NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 17:16:19](https://news.ycombinator.com/item?id=39106278) - [Amazon Fined $35M in France over 'Overly Intrusive' Surveillance](https://uk.pcmag.com/news/150577/amazon-fined-35-million-in-france-over-overly-intrusive-employee-surveillance-in-its-warehouses)
 * [2024-01-23, 17:13:11](https://news.ycombinator.com/item?id=39106224) - [Cops Used DNA to Predict Suspects Face and Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
 * [2024-01-23, 17:01:55](https://news.ycombinator.com/item?id=39106074) - [Americans don't believe middle class can afford homes](https://www.newsweek.com/americans-dont-believe-middle-class-can-afford-homes-1862973)
@@ -36,6 +39,7 @@
 * [2024-01-23, 11:26:58](https://news.ycombinator.com/item?id=39102002) - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 * [2024-01-23, 10:58:41](https://news.ycombinator.com/item?id=39101828) - [Why the fuck are we templating YAML? (2019)](https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml)
 * [2024-01-23, 10:34:38](https://news.ycombinator.com/item?id=39101682) - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
+* [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the Buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 09:57:52](https://news.ycombinator.com/item?id=39101471) - [Sonic: Towards a Sea-of-Nodes Inlining Compiler for Smalltalk in Smalltalk [video]](https://www.youtube.com/watch?v=tcnN7yWCPGM)
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
