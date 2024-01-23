@@ -2,7 +2,6 @@
 
 * [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
 * [2024-01-23, 21:25:39](https://news.ycombinator.com/item?id=39110088) - [Hair Sample That Put a Man in Prison Turned Out to Be Dog Hair](https://reason.com/2024/01/18/center-for-integrity-in-forensic-sciences-junk-hair-arson-bite/)
-* [2024-01-23, 21:23:59](https://news.ycombinator.com/item?id=39110065) - [I used Midjourney to design a brand identity](https://www.completepython.com/how-i-used-midjourney-to-design-a-brand-identity/)
 * [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
@@ -10,9 +9,9 @@
 * [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
+* [2024-01-23, 18:33:04](https://news.ycombinator.com/item?id=39107536) - [Show HN: Blocks by Cosmic – React components for headless CMS](https://news.ycombinator.com/item?id=39107536)
 * [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
-* [2024-01-23, 17:54:32](https://news.ycombinator.com/item?id=39106916) - [Higher vehicle hoods significantly increase pedestrian deaths, study finds](https://arstechnica.com/cars/2024/01/higher-vehicle-hoods-significantly-increase-pedestrian-deaths-study-finds/)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) is hiring a lead front end engineer](https://news.ycombinator.com/item?id=39106050)
@@ -28,6 +27,7 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 02:07:29](https://news.ycombinator.com/item?id=39098621) - [F3d v2.3.0 Released – Fast and minimalist 3D viewer](https://github.com/f3d-app/f3d)
 * [2024-01-22, 22:30:45](https://news.ycombinator.com/item?id=39096449) - ['With her own hair': A Victorian prisoner's art](https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art)
+* [2024-01-22, 12:22:16](https://news.ycombinator.com/item?id=39088704) - [A Beginner's Guide to GAMBAS (2005) [pdf]](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 * [2024-01-22, 05:34:13](https://news.ycombinator.com/item?id=39086631) - [Organic Syntheses (2023)](https://www.science.org/content/blog-post/organic-syntheses)
 
