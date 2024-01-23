@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-23, 20:24:37](https://news.ycombinator.com/item?id=39109222) - [Boeing internal whistleblower RE: MAX DOOR](https://www.airlinepilotforums.com/safety/146074-boeing-internal-whistleblower-re-max-door.html)
 * [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)
 * [2024-01-23, 20:14:52](https://news.ycombinator.com/item?id=39109104) - [The Dark Forest hypothesis is absurd](https://www.noahpinion.blog/p/the-dark-forest-hypothesis-is-absurd)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
@@ -22,7 +23,6 @@
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another mysterious Roman dodecahedron has been unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 11:26:58](https://news.ycombinator.com/item?id=39102002) - [Free Godot engine port for Nintendo Switch](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
-* [2024-01-23, 10:34:38](https://news.ycombinator.com/item?id=39101682) - [Qdrant, the Vector Search Database, raised $28M in a Series A round](https://qdrant.tech/blog/series-a-funding-round/)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the Buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 09:13:08](https://news.ycombinator.com/item?id=39101165) - [The Humble Brilliance of Italy's Moka Coffee Pot](https://www.atlasobscura.com/articles/make-coffee-moka-pot)
 * [2024-01-22, 22:30:45](https://news.ycombinator.com/item?id=39096449) - ['With Her Own Hair': A Victorian Prisoner's Art](https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art)
