@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
+* [2024-01-23, 15:57:33](https://news.ycombinator.com/item?id=39105069) - [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
 * [2024-01-23, 15:54:32](https://news.ycombinator.com/item?id=39105017) - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:43:52](https://news.ycombinator.com/item?id=39103942) - [Are electric vehicles cheaper to own? Maybe not](https://bigthink.com/the-present/are-electric-vehicles-really-cheaper/)
