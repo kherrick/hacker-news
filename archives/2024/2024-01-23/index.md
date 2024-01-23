@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 23:43:48](https://news.ycombinator.com/item?id=39111600) - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
 * [2024-01-23, 23:30:52](https://news.ycombinator.com/item?id=39111494) - [Anon Boeing engineer reveals why the 737 door blew off](https://leehamnews.com/2024/01/15/unplanned-removal-installation-inspection-procedure-at-boeing/#comment-509962)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
