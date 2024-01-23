@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 02:11:46](https://news.ycombinator.com/item?id=39098662) - [Why you shouldn't always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
+* [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
+* [2024-01-23, 01:38:13](https://news.ycombinator.com/item?id=39098371) - [Ask HN: Best country to run a boostrapped startup from? (After Section 174)](https://news.ycombinator.com/item?id=39098371)
 * [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
 * [2024-01-23, 01:18:08](https://news.ycombinator.com/item?id=39098142) - [Apple Maps wrongly lists restaurant permanently closed, costing owner thousands](https://www.abc.net.au/news/2024-01-23/apple-maps-error-costs-local-business-pums-kitchen/103364008)
 * [2024-01-23, 01:17:29](https://news.ycombinator.com/item?id=39098133) - [Show HN: Sendenv, a CLI tool to share environment variables](https://github.com/viraniaman94/sendenv)
