@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-01-23, 20:43:25",
-      "https://news.ycombinator.com/item?id=39109481"
+      "2024-01-23, 20:55:33",
+      "https://news.ycombinator.com/item?id=39109667"
     ],
     [
-      "Why is machine learning 'hard'?",
-      "https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"
+      "'Pokémon with Guns' Game Goes Viral, Angering Nintendo Loyalists",
+      "https://www.bloomberg.com/news/articles/2024-01-22/what-is-palworld-pokemon-like-game-with-guns-goes-viral-irks-nintendo-fans"
     ]
   ],
   [
     [
-      "2024-01-23, 20:36:04",
-      "https://news.ycombinator.com/item?id=39109393"
+      "2024-01-23, 20:45:49",
+      "https://news.ycombinator.com/item?id=39109513"
     ],
     [
-      "Why I Love Tailwind CSS",
-      "https://ben.page/tailwind"
+      "Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft",
+      "https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 20:43:25",
+      "https://news.ycombinator.com/item?id=39109481"
+    ],
+    [
+      "Why is machine learning 'hard'? (2016)",
+      "https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39107620"
     ],
     [
-      "Direct Pixel-Space Megapixel Image Generation with Diffusion Models",
+      "Direct pixel-space megapixel image generation with diffusion models",
       "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Show HN: Atlas – GIS and interactive maps in the browser",
       "https://atlas.co"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 18:08:37",
+      "https://news.ycombinator.com/item?id=39107144"
+    ],
+    [
+      "Brex Layoffs",
+      "https://www.brex.com/journal/a-message-from-our-founder"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-01-23, 17:53:45",
-      "https://news.ycombinator.com/item?id=39106901"
-    ],
-    [
-      "Is offline-first not enough? Do we need \"serverfree\"?",
-      "https://subzero.cloud/blog/serverfree-architecture/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 17:21:04",
       "https://news.ycombinator.com/item?id=39106355"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39106050"
     ],
     [
-      "Hightouch (YC S19) Is Hiring a Lead Front End Engineer",
+      "Hightouch (YC S19) is hiring a lead front end engineer",
       "https://news.ycombinator.com/item?id=39106050"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39105916"
     ],
     [
-      "The Horse, the Drone and the Epic Fight for Gambling Success",
+      "The horse, the drone, and the fight for gambling success (2021)",
       "https://www.wired.co.uk/article/horse-racing-drone"
     ]
   ],
@@ -165,18 +175,8 @@
       "https://news.ycombinator.com/item?id=39105626"
     ],
     [
-      "Samsung heavily expands DIY repair program, adds Galaxy S23 and Fold 5 in US",
+      "Samsung expands DIY repair program, adds Galaxy S23 and Fold 5 in US",
       "https://9to5google.com/2024/01/23/samsung-expands-diy-repair-program-galaxy-s23-fold-5/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 16:00:19",
-      "https://news.ycombinator.com/item?id=39105114"
-    ],
-    [
-      "Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives",
-      "https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=39102577"
     ],
     [
-      "Introduction to Loro's Rich Text CRDT",
+      "Loro's rich text CRDT",
       "https://www.loro.dev/blog/loro-richtext"
     ]
   ],
@@ -217,16 +217,6 @@
     [
       "Another Roman dodecahedron has been unearthed in England",
       "https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 11:28:54",
-      "https://news.ycombinator.com/item?id=39102021"
-    ],
-    [
-      "Boeing whistleblower: MAX 9 production line has \"enormous volume of defects\"",
-      "https://viewfromthewing.com/boeing-whistleblower-production-line-has-enormous-volume-of-defects-bolts-on-max-9-werent-installed/"
     ]
   ],
   [
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39096449"
     ],
     [
-      "'With Her Own Hair': A Victorian Prisoner's Art",
+      "'With her own hair': A Victorian prisoner's art",
       "https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Chinese researchers planning 1,600-core chips that use an entire wafer",
       "https://www.tomshardware.com/pc-components/cpus/china-planning-1600-core-chips-that-use-an-entire-wafer-similar-to-american-company-cerebras-wafer-scale-design"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 07:12:39",
+      "https://news.ycombinator.com/item?id=39087118"
+    ],
+    [
+      "QuickTime as a Tape Archival Format",
+      "https://eschatologist.net/blog/?p=409"
     ]
   ],
   [
