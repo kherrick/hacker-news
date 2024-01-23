@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-23, 02:11:46](https://news.ycombinator.com/item?id=39098662) - [Why you shouldn't always negotiate a job offer](https://bloomberry.com/why-you-shouldnt-always-negotiate-a-job-offer-a-cautionary-tale/)
 * [2024-01-23, 02:05:46](https://news.ycombinator.com/item?id=39098603) - [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
 * [2024-01-23, 01:38:13](https://news.ycombinator.com/item?id=39098371) - [Ask HN: Best country to run a boostrapped startup from? (After Section 174)](https://news.ycombinator.com/item?id=39098371)
 * [2024-01-23, 01:27:20](https://news.ycombinator.com/item?id=39098253) - [Scientists report fundamental asymmetry between heating and cooling](https://phys.org/news/2024-01-efficiency-asymmetry-scientists-fundamental-cooling.html)
@@ -13,6 +12,7 @@
 * [2024-01-22, 23:38:59](https://news.ycombinator.com/item?id=39097150) - [Changes at Riot Games and the road ahead](https://www.riotgames.com/en/news/2024-player-update)
 * [2024-01-22, 23:23:35](https://news.ycombinator.com/item?id=39097020) - [Show HN: A self-hosted, AWS-based secrets manager](https://embrasure.dev)
 * [2024-01-22, 20:57:27](https://news.ycombinator.com/item?id=39095337) - [Winlator: Android app that lets you to run Windows apps with Wine](https://winlator.org/)
+* [2024-01-22, 20:28:50](https://news.ycombinator.com/item?id=39094964) - [Right to Repair: The Price Is Not Right](https://repair.eu/news/the-price-is-not-right/)
 * [2024-01-22, 19:38:55](https://news.ycombinator.com/item?id=39094288) - [My toddler still loves planes, so I upgraded her radar](https://jacobbartlett.substack.com/p/my-toddler-still-loves-planes-so)
 * [2024-01-22, 19:05:10](https://news.ycombinator.com/item?id=39093821) - [Google and AT&T invest in Starlink rival for satellite-to-smartphone service](https://arstechnica.com/tech-policy/2024/01/google-and-att-invest-in-starlink-rival-for-satellite-to-smartphone-service/)
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
