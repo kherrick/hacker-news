@@ -18,7 +18,6 @@
 * [2024-01-22, 18:19:22](https://news.ycombinator.com/item?id=39093109) - [Caches: LRU vs. Random (2014)](https://danluu.com/2choices-eviction/)
 * [2024-01-22, 17:59:54](https://news.ycombinator.com/item?id=39092849) - [Building a fair multi-tenant queuing system](https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy)
 * [2024-01-22, 17:39:13](https://news.ycombinator.com/item?id=39092505) - [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
-* [2024-01-22, 17:03:26](https://news.ycombinator.com/item?id=39091901) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://patterns.app/)
 * [2024-01-22, 17:00:14](https://news.ycombinator.com/item?id=39091857) - [Woolly mammoth movements tied to earliest Alaska hunting camps](https://www.uaf.edu/news/woolly-mammoth-movements-tied-to-earliest-alaska-hunting-camps.php)
 * [2024-01-22, 16:56:20](https://news.ycombinator.com/item?id=39091777) - [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
 * [2024-01-22, 16:00:00](https://news.ycombinator.com/item?id=39090879) - [Meta now lets EU users unlink their Facebook, Messenger and Instagram accounts](https://www.neowin.net/news/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/)
@@ -30,6 +29,7 @@
 * [2024-01-21, 22:54:53](https://news.ycombinator.com/item?id=39083928) - [Can You Live Code a Church Organ? [video]](https://www.youtube.com/watch?v=7RXWXYboUjA)
 * [2024-01-21, 19:18:00](https://news.ycombinator.com/item?id=39081876) - [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
 * [2024-01-21, 00:31:20](https://news.ycombinator.com/item?id=39074159) - [Tiny Baroque Prints Once Served as Edible Prayers](https://www.atlasobscura.com/articles/the-sweet-sacredness-of-edible-prayers)
+* [2024-01-20, 13:29:00](https://news.ycombinator.com/item?id=39067385) - [Reversing and Tooling a Signed Request Hash in Obfuscated JavaScript](https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/)
 
 ## [Archives](archives/index.md)
 
