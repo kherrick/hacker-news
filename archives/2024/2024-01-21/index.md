@@ -8,6 +8,7 @@
 * [2024-01-21, 23:52:41](https://news.ycombinator.com/item?id=39084329) - [How Far Could the Sun Possibly Be?](https://profmattstrassler.com/2024/01/19/how-far-could-the-sun-possibly-be/)
 * [2024-01-21, 23:51:02](https://news.ycombinator.com/item?id=39084316) - [Apple to Developers: Heads I win, tails you lose (part 2)](https://mobiledevmemo.com/apple-to-developers-heads-i-win-tails-you-lose-part-2/)
 * [2024-01-21, 23:49:31](https://news.ycombinator.com/item?id=39084305) - [X appears to be juicing MrBeast's views](https://mashable.com/article/x-twitter-elon-musk-mrbeast-video-unlabaled-ads-creator-monetization)
+* [2024-01-21, 23:33:53](https://news.ycombinator.com/item?id=39084177) - [Reverse Engineering the TouchBar Screen and MIPI DSI Primer [video]](https://www.youtube.com/watch?v=5TPBesaSkZ8)
 * [2024-01-21, 23:29:44](https://news.ycombinator.com/item?id=39084146) - [Scientists tame chaotic protein fueling 75% of cancers](https://phys.org/news/2024-01-scientists-chaotic-protein-fueling-cancers.html)
 * [2024-01-21, 23:27:51](https://news.ycombinator.com/item?id=39084137) - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 * [2024-01-21, 23:27:22](https://news.ycombinator.com/item?id=39084135) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
