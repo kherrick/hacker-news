@@ -10,6 +10,8 @@
 * [2024-01-23, 18:05:53](https://news.ycombinator.com/item?id=39107084) - [Finding unreachable functions with deadcode – The Go Programming Language](https://go.dev/blog/deadcode)
 * [2024-01-23, 18:01:26](https://news.ycombinator.com/item?id=39107034) - [The Variability Hypothesis](https://en.wikipedia.org/wiki/Variability_hypothesis)
 * [2024-01-23, 17:57:34](https://news.ycombinator.com/item?id=39106973) - [Chrome experimental AI features](https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/)
+* [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
+* [2024-01-23, 17:53:45](https://news.ycombinator.com/item?id=39106901) - [Is offline-first not enough? Do we need \"serverfree\"?](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 17:45:46](https://news.ycombinator.com/item?id=39106799) - [Ask HN: Any legal way against forced software upgrades and feature removal](https://news.ycombinator.com/item?id=39106799)
 * [2024-01-23, 17:37:07](https://news.ycombinator.com/item?id=39106648) - [ElevenLabs lands $80M from a16z and Sequoia – and becomes a unicorn](https://sifted.eu/articles/elevenlabs-80m-a16z-sequoia-becomes-unicorn)
 * [2024-01-23, 17:27:24](https://news.ycombinator.com/item?id=39106480) - [United Airlines CEO says the airline will consider alternatives to Boeing](https://apnews.com/article/united-airlines-ceo-boeing-manufacturing-problems-4090ea6176ef59e382dd18e9522596bc)
