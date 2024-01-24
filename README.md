@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 21:19:22](https://news.ycombinator.com/item?id=39122778) - [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-* [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
+* [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 * [2024-01-24, 20:32:27](https://news.ycombinator.com/item?id=39122281) - [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
 * [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
@@ -12,7 +13,6 @@
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
-* [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 * [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
