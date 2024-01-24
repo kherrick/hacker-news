@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 11:00:50](https://news.ycombinator.com/item?id=39115926) - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
 * [2024-01-24, 10:53:03](https://news.ycombinator.com/item?id=39115878) - [Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
 * [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 * [2024-01-24, 07:56:06](https://news.ycombinator.com/item?id=39114773) - [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)

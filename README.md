@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 11:00:50](https://news.ycombinator.com/item?id=39115926) - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
 * [2024-01-24, 10:53:03](https://news.ycombinator.com/item?id=39115878) - [Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
 * [2024-01-24, 05:49:09](https://news.ycombinator.com/item?id=39114075) - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
@@ -15,10 +16,9 @@
 * [2024-01-23, 23:21:09](https://news.ycombinator.com/item?id=39111406) - [The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [SimSIMD: Hardware-accelerated similarity metrics and distance functions](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
+* [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
-* [2024-01-23, 20:31:06](https://news.ycombinator.com/item?id=39109327) - [The Beirut Port Explosion Forensic Investigation](https://forensic-architecture.org/investigation/beirut-port-explosion)
-* [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
