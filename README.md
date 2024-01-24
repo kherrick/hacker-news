@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
+* [2024-01-24, 03:48:23](https://news.ycombinator.com/item?id=39113383) - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 * [2024-01-24, 03:25:56](https://news.ycombinator.com/item?id=39113245) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-24, 02:48:44](https://news.ycombinator.com/item?id=39113017) - [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
@@ -21,9 +21,9 @@
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [Data leak contains 26B records from numerous previous breaches](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
+* [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Review](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
-* [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Loro's rich text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)

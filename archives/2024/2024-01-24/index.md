@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 03:48:23](https://news.ycombinator.com/item?id=39113383) - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 * [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
 * [2024-01-24, 03:25:56](https://news.ycombinator.com/item?id=39113245) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-24, 03:02:00](https://news.ycombinator.com/item?id=39113100) - [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
