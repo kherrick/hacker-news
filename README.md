@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 * [2024-01-24, 05:49:09](https://news.ycombinator.com/item?id=39114075) - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
@@ -14,6 +13,7 @@
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [SimSIMD: Hardware-accelerated similarity metrics and distance functions](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
+* [2024-01-23, 21:27:32](https://news.ycombinator.com/item?id=39110110) - [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
 * [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
@@ -28,8 +28,8 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 01:07:11](https://news.ycombinator.com/item?id=39098013) - [Ode to Internet – V.90 56k dialup modem handshake for orchestra [video]](https://www.youtube.com/watch?v=wuN-bW_zS0Q)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
+* [2024-01-22, 20:21:48](https://news.ycombinator.com/item?id=39094875) - [An introduction to temporal logic and how it can be used to analyze concurrency](https://github.com/Dicklesworthstone/introduction_to_temporal_logic)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
-* [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 
 ## [Archives](archives/index.md)
 
