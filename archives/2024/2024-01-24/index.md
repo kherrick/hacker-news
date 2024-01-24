@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 15:35:05](https://news.ycombinator.com/item?id=39118534) - [Man Allegedly Raped in Jail After AI Wrongly IDs Him as Suspect Despite Alibi](https://www.ibtimes.sg/texas-man-allegedly-raped-jail-after-ai-wrongly-identifies-him-robbery-suspect-despite-having-73211)
+* [2024-01-24, 15:19:33](https://news.ycombinator.com/item?id=39118342) - [Ask HN: Would you fly on a Boeing 737 MAX?](https://news.ycombinator.com/item?id=39118342)
+* [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
 * [2024-01-24, 15:02:58](https://news.ycombinator.com/item?id=39118121) - [An open-source browser engine written in Rust](https://github.com/servo/servo)
+* [2024-01-24, 14:38:28](https://news.ycombinator.com/item?id=39117810) - [My Journey Submitting to Cran](https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/)
 * [2024-01-24, 14:29:27](https://news.ycombinator.com/item?id=39117702) - [Dangerous flash flooding is happening in Texas and Louisiana, more rain coming](https://www.cnn.com/2024/01/24/weather/flood-warnings-texas-louisiana-climate/index.html)
 * [2024-01-24, 14:11:27](https://news.ycombinator.com/item?id=39117525) - [Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
 * [2024-01-24, 14:08:38](https://news.ycombinator.com/item?id=39117494) - [Tech world won't have long to fall in line when EU signs off on AI Act](https://www.theregister.com/2024/01/24/eu_ai_act_timetable/)
 * [2024-01-24, 14:05:14](https://news.ycombinator.com/item?id=39117468) - [AMD Radeon RX 7600 XT Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux)
 * [2024-01-24, 13:54:49](https://news.ycombinator.com/item?id=39117360) - [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
 * [2024-01-24, 13:49:39](https://news.ycombinator.com/item?id=39117304) - [Tesla hacked, 24 zero-days demoed at Pwn2Own Automotive 2024](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
+* [2024-01-24, 13:37:40](https://news.ycombinator.com/item?id=39117155) - [Duplicity](https://duplicity.us/)
 * [2024-01-24, 12:59:32](https://news.ycombinator.com/item?id=39116724) - [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
 * [2024-01-24, 12:41:03](https://news.ycombinator.com/item?id=39116556) - [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
 * [2024-01-24, 12:31:20](https://news.ycombinator.com/item?id=39116492) - [You (probably) don't need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
