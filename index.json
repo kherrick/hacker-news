@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-24, 16:06:21",
+      "https://news.ycombinator.com/item?id=39118988"
+    ],
+    [
+      "Experimental use of pig liver to filter blood offers hope for patients",
+      "https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 15:57:51",
+      "https://news.ycombinator.com/item?id=39118866"
+    ],
+    [
+      "Forensics Gone Wrong: When DNA Snares the Innocent",
+      "https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 15:37:50",
       "https://news.ycombinator.com/item?id=39118570"
     ],
@@ -17,16 +37,6 @@
     [
       "How Euler did it? (by Ed Sandifer)",
       "http://eulerarchive.maa.org/hedi/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 15:00:51",
-      "https://news.ycombinator.com/item?id=39118095"
-    ],
-    [
-      "Delta Air Lines Boeing 757 Lost Nose Wheel Before Takeoff, FAA Says",
-      "https://www.nytimes.com/2024/01/23/business/delta-boeing-plane-nose-tire.html"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Pentagon moves to declassify some secret space programs and technologies",
       "https://www.space.com/pentagon-us-military-declassify-secret-space-programs"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 14:11:27",
-      "https://news.ycombinator.com/item?id=39117525"
-    ],
-    [
-      "Scientific journal publishers and editors say they are being offered bribes",
-      "https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "All arabica coffee is genetically similar: how can beans taste so different?",
       "https://www.nature.com/articles/d41586-024-00165-x"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 07:16:46",
-      "https://news.ycombinator.com/item?id=39114535"
-    ],
-    [
-      "Should you go for 2 down 8?",
-      "https://www.argmin.net/p/should-you-go-for-2-down-8"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Waterway Map",
       "https://waterwaymap.org"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 18:38:58",
+      "https://news.ycombinator.com/item?id=39107620"
+    ],
+    [
+      "Direct pixel-space megapixel image generation with diffusion models",
+      "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
   [
