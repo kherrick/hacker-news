@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 19:25:51](https://news.ycombinator.com/item?id=39121574) - [Jon Stewart Returns to 'The Daily Show'](https://www.wsj.com/arts-culture/television/jon-stewart-returns-to-the-daily-show-b1a137b6)
+* [2024-01-24, 19:22:19](https://news.ycombinator.com/item?id=39121530) - [This anime exposed a $28,000,000,000 sweatshop [video]](https://www.youtube.com/watch?v=BDEIPa9b3OU)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
 * [2024-01-24, 18:59:00](https://news.ycombinator.com/item?id=39121262) - [The First Microprocessor: F-14 Central Air Data Computer [video]](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-24, 18:51:45](https://news.ycombinator.com/item?id=39121183) - [Sqlite3 Utility in the Browser](https://sqlite.org/fiddle/index.html)
 * [2024-01-24, 18:38:53](https://news.ycombinator.com/item?id=39121009) - [America Is Planning to Withdraw from Syria](https://foreignpolicy.com/2024/01/24/america-is-planning-to-withdraw-from-syria-and-create-a-disaster/)
+* [2024-01-24, 18:37:51](https://news.ycombinator.com/item?id=39120993) - [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
 * [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)
+* [2024-01-24, 18:22:28](https://news.ycombinator.com/item?id=39120773) - [Train Robbery for Amazon Packages? More Common Than You Think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
