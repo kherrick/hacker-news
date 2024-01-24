@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:01:32](https://news.ycombinator.com/item?id=39119668) - [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
@@ -28,6 +27,7 @@
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 15:46:31](https://news.ycombinator.com/item?id=39104913) - [Tarbell to Cromemco](https://www.os2museum.com/wp/tarbell-to-cromemco/)
 * [2024-01-23, 15:19:22](https://news.ycombinator.com/item?id=39104504) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+* [2024-01-23, 12:18:32](https://news.ycombinator.com/item?id=39102398) - [Show HN: Bernard – a link checker for your website](https://bernard.app)
 * [2024-01-23, 06:52:37](https://news.ycombinator.com/item?id=39100340) - [Mr. Rogers' Music Was Intricate (2020) [video]](https://www.youtube.com/watch?v=Z40SZ77CHK0)
 * [2024-01-22, 12:06:48](https://news.ycombinator.com/item?id=39088592) - [The Evolution of Warfare and Weapons in Japan, 792-1392](https://www.mdpi.com/2409-9252/4/1/2)
 

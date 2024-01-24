@@ -80,6 +80,7 @@
 * [2024-01-23, 13:34:15](https://news.ycombinator.com/item?id=39103093) - [Proposed Oklahoma skyscraper gets redesign to become USA's new tallest building](https://newatlas.com/architecture/legends-tower-ao/)
 * [2024-01-23, 13:23:40](https://news.ycombinator.com/item?id=39102981) - [Ask HN: What happened to normal-sized smartphones?](https://news.ycombinator.com/item?id=39102981)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
+* [2024-01-23, 12:18:32](https://news.ycombinator.com/item?id=39102398) - [Show HN: Bernard – a link checker for your website](https://bernard.app)
 * [2024-01-23, 11:48:39](https://news.ycombinator.com/item?id=39102183) - [Show HN: I made a Paldeck website, all Paldeck Pals in Palworld](https://www.paldeck.co/)
 * [2024-01-23, 11:34:51](https://news.ycombinator.com/item?id=39102078) - [Avoid Async Rust at All Cost](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Mysterious Roman Dodecahedron Has Been Unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
