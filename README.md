@@ -11,6 +11,7 @@
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 * [2024-01-24, 00:28:13](https://news.ycombinator.com/item?id=39111991) - [Magic Ink (2006)](http://worrydream.com/MagicInk/)
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
+* [2024-01-23, 23:21:09](https://news.ycombinator.com/item?id=39111406) - [The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [SimSIMD: Hardware-accelerated similarity metrics and distance functions](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:27:32](https://news.ycombinator.com/item?id=39110110) - [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)
@@ -28,7 +29,6 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 01:07:11](https://news.ycombinator.com/item?id=39098013) - [Ode to Internet – V.90 56k dialup modem handshake for orchestra [video]](https://www.youtube.com/watch?v=wuN-bW_zS0Q)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
-* [2024-01-22, 20:21:48](https://news.ycombinator.com/item?id=39094875) - [An introduction to temporal logic and how it can be used to analyze concurrency](https://github.com/Dicklesworthstone/introduction_to_temporal_logic)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 
 ## [Archives](archives/index.md)
