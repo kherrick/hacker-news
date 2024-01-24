@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-24, 16:08:02",
+      "https://news.ycombinator.com/item?id=39119014"
+    ],
+    [
+      "Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation",
+      "https://arxiv.org/abs/2210.15723"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 16:06:21",
       "https://news.ycombinator.com/item?id=39118988"
     ],
     [
       "Experimental use of pig liver to filter blood offers hope for patients",
       "https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 16:04:40",
+      "https://news.ycombinator.com/item?id=39118963"
+    ],
+    [
+      "AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video",
+      "https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2024-01-24, 14:38:28",
-      "https://news.ycombinator.com/item?id=39117810"
-    ],
-    [
-      "My Journey Submitting to Cran",
-      "https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 14:19:38",
       "https://news.ycombinator.com/item?id=39117609"
     ],
     [
       "Pentagon moves to declassify some secret space programs and technologies",
       "https://www.space.com/pentagon-us-military-declassify-secret-space-programs"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 14:05:14",
-      "https://news.ycombinator.com/item?id=39117468"
-    ],
-    [
-      "AMD Radeon RX 7600 XT Linux Performance",
-      "https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "All arabica coffee is genetically similar: how can beans taste so different?",
       "https://www.nature.com/articles/d41586-024-00165-x"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 07:16:46",
+      "https://news.ycombinator.com/item?id=39114535"
+    ],
+    [
+      "Should you go for 2 down 8?",
+      "https://www.argmin.net/p/should-you-go-for-2-down-8"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2024-01-24, 00:28:13",
+      "https://news.ycombinator.com/item?id=39111991"
+    ],
+    [
+      "Magic Ink (2006)",
+      "http://worrydream.com/MagicInk/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 23:21:09",
       "https://news.ycombinator.com/item?id=39111406"
     ],
@@ -207,16 +227,6 @@
     [
       "Waterway Map",
       "https://waterwaymap.org"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 18:38:58",
-      "https://news.ycombinator.com/item?id=39107620"
-    ],
-    [
-      "Direct pixel-space megapixel image generation with diffusion models",
-      "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Is the emergence of life an expected phase transition in the evolving universe?",
       "https://arxiv.org/abs/2401.09514"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 07:05:38",
-      "https://news.ycombinator.com/item?id=39100406"
-    ],
-    [
-      "The Rebel’s Clinic: A biography of Frantz Fanon",
-      "https://www.washingtonpost.com/books/2024/01/19/rebels-clinic-frantz-fanon-biography-adam-shatz-review/"
     ]
   ],
   [
