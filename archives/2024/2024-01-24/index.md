@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 05:24:35](https://news.ycombinator.com/item?id=39113935) - [The Juror Who Found Herself Guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
+* [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 * [2024-01-24, 05:10:37](https://news.ycombinator.com/item?id=39113869) - [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
 * [2024-01-24, 03:48:23](https://news.ycombinator.com/item?id=39113383) - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 * [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
@@ -16,3 +18,4 @@
 * [2024-01-24, 01:50:19](https://news.ycombinator.com/item?id=39112632) - [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
 * [2024-01-24, 01:12:52](https://news.ycombinator.com/item?id=39112372) - [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
+* [2024-01-24, 00:28:13](https://news.ycombinator.com/item?id=39111991) - [Magic Ink (2006)](http://worrydream.com/MagicInk/)
