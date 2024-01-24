@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-01-24, 03:46:13",
-      "https://news.ycombinator.com/item?id=39113367"
-    ],
-    [
-      "The Bang With Friends Story (2023)",
-      "https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 03:13:32",
       "https://news.ycombinator.com/item?id=39113168"
     ],
@@ -207,6 +197,16 @@
     [
       "Direct pixel-space megapixel image generation with diffusion models",
       "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 17:57:31",
+      "https://news.ycombinator.com/item?id=39106972"
+    ],
+    [
+      "From slow to SIMD: A Go optimization story",
+      "https://sourcegraph.com/blog/slow-to-simd"
     ]
   ],
   [
