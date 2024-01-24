@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-01-24, 15:35:05",
+      "https://news.ycombinator.com/item?id=39118534"
+    ],
+    [
+      "Man Allegedly Raped in Jail After AI Wrongly IDs Him as Suspect Despite Alibi",
+      "https://www.ibtimes.sg/texas-man-allegedly-raped-jail-after-ai-wrongly-identifies-him-robbery-suspect-despite-having-73211"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 15:19:33",
+      "https://news.ycombinator.com/item?id=39118342"
+    ],
+    [
+      "Ask HN: Would you fly on a Boeing 737 MAX?",
+      "https://news.ycombinator.com/item?id=39118342"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 15:17:09",
+      "https://news.ycombinator.com/item?id=39118314"
+    ],
+    [
+      "How Euler did it? (by Ed Sandifer)",
+      "http://eulerarchive.maa.org/hedi/index.html"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 15:02:58",
       "https://news.ycombinator.com/item?id=39118121"
     ],
     [
       "An open-source browser engine written in Rust",
       "https://github.com/servo/servo"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 14:38:28",
+      "https://news.ycombinator.com/item?id=39117810"
+    ],
+    [
+      "My Journey Submitting to Cran",
+      "https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/"
     ]
   ],
   [
@@ -47,6 +87,16 @@
     [
       "Security researchers collect awards for Tesla exploits at Pwn2Own Automotive",
       "https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 13:37:40",
+      "https://news.ycombinator.com/item?id=39117155"
+    ],
+    [
+      "Duplicity",
+      "https://duplicity.us/"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2024-01-24, 04:20:36",
-      "https://news.ycombinator.com/item?id=39113583"
-    ],
-    [
-      "Ask HN: Does (or why does) anyone use MapReduce anymore?",
-      "https://news.ycombinator.com/item?id=39113583"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 03:46:13",
       "https://news.ycombinator.com/item?id=39113367"
     ],
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2024-01-24, 00:28:13",
-      "https://news.ycombinator.com/item?id=39111991"
-    ],
-    [
-      "Magic Ink (2006)",
-      "http://worrydream.com/MagicInk/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 23:21:09",
       "https://news.ycombinator.com/item?id=39111406"
     ],
@@ -197,16 +227,6 @@
     [
       "Waterway Map",
       "https://waterwaymap.org"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 18:38:58",
-      "https://news.ycombinator.com/item?id=39107620"
-    ],
-    [
-      "Direct pixel-space megapixel image generation with diffusion models",
-      "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-01-23, 14:06:03",
-      "https://news.ycombinator.com/item?id=39103419"
-    ],
-    [
-      "Is the emergence of life an expected phase transition in the evolving universe?",
-      "https://arxiv.org/abs/2401.09514"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 07:05:38",
       "https://news.ycombinator.com/item?id=39100406"
     ],
@@ -257,16 +267,6 @@
     [
       "Ode to Internet – V.90 56k dialup modem handshake for orchestra (1996) [video]",
       "https://www.youtube.com/watch?v=wuN-bW_zS0Q"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 20:21:48",
-      "https://news.ycombinator.com/item?id=39094875"
-    ],
-    [
-      "An introduction to temporal logic and how it can be used to analyze concurrency",
-      "https://github.com/Dicklesworthstone/introduction_to_temporal_logic"
     ]
   ],
   [
