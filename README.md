@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 18:59:00](https://news.ycombinator.com/item?id=39121262) - [The First Microprocessor: F-14 Central Air Data Computer [video]](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship (2021)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
-* [2024-01-24, 17:01:32](https://news.ycombinator.com/item?id=39119668) - [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
 * [2024-01-24, 16:32:49](https://news.ycombinator.com/item?id=39119305) - [Stuck in a downturn, startups ghost investors](https://www.bloomberg.com/news/articles/2024-01-24/startup-founders-ghost-investors-to-avoid-dreaded-down-round)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
