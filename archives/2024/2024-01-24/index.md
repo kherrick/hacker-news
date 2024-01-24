@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 * [2024-01-24, 19:25:51](https://news.ycombinator.com/item?id=39121574) - [Jon Stewart Returns to 'The Daily Show'](https://www.wsj.com/arts-culture/television/jon-stewart-returns-to-the-daily-show-b1a137b6)
 * [2024-01-24, 19:22:19](https://news.ycombinator.com/item?id=39121530) - [This anime exposed a $28,000,000,000 sweatshop [video]](https://www.youtube.com/watch?v=BDEIPa9b3OU)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)

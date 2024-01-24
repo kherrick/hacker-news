@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
 * [2024-01-24, 18:37:51](https://news.ycombinator.com/item?id=39120993) - [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
@@ -11,7 +12,6 @@
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
-* [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
 * [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
