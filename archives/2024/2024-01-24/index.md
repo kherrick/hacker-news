@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 22:31:05](https://news.ycombinator.com/item?id=39123477) - [Stop Using Opera Browser and Opera GX](https://www.spacebar.news/stop-using-opera-browser/)
+* [2024-01-24, 21:57:31](https://news.ycombinator.com/item?id=39123110) - [WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd](https://rachelbythebay.com/w/2024/01/24/wpa3/)
 * [2024-01-24, 21:57:00](https://news.ycombinator.com/item?id=39123104) - [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
+* [2024-01-24, 21:51:45](https://news.ycombinator.com/item?id=39123053) - [Raspberry Pi PCIe Database](https://pipci.jeffgeerling.com/)
 * [2024-01-24, 21:38:07](https://news.ycombinator.com/item?id=39122929) - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
 * [2024-01-24, 21:19:22](https://news.ycombinator.com/item?id=39122778) - [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
@@ -72,6 +75,7 @@
 * [2024-01-24, 11:02:09](https://news.ycombinator.com/item?id=39115934) - [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
 * [2024-01-24, 11:00:50](https://news.ycombinator.com/item?id=39115926) - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
 * [2024-01-24, 10:53:03](https://news.ycombinator.com/item?id=39115878) - [Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
+* [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
 * [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 * [2024-01-24, 07:56:06](https://news.ycombinator.com/item?id=39114773) - [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
 * [2024-01-24, 07:33:09](https://news.ycombinator.com/item?id=39114622) - [Ask HN: Why Free Open Source Software?](https://news.ycombinator.com/item?id=39114622)
