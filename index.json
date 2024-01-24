@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 21:57:00",
+      "https://news.ycombinator.com/item?id=39123104"
+    ],
+    [
+      "Tesla Q4 2023 Earnings Report [pdf]",
+      "https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 21:38:07",
       "https://news.ycombinator.com/item?id=39122929"
     ],
@@ -27,16 +37,6 @@
     [
       "Continue (YC S23) is hiring a founding engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 21:00:52",
-      "https://news.ycombinator.com/item?id=39122589"
-    ],
-    [
-      "At D.E. Shaw, Larry Summers worked just one day a week (2009)",
-      "https://www.businessinsider.com/at-de-shaw-larry-summers-worked-just-one-day-a-week-2009-4"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-01-24, 18:22:28",
+      "https://news.ycombinator.com/item?id=39120773"
+    ],
+    [
+      "Train robbery for Amazon packages? More common than you think",
+      "https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 18:11:55",
       "https://news.ycombinator.com/item?id=39120647"
     ],
@@ -137,16 +147,6 @@
     [
       "Ultralight, strong, and self-reprogrammable mechanical metamaterials",
       "https://www.science.org/doi/10.1126/scirobotics.adi2746"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 16:18:33",
-      "https://news.ycombinator.com/item?id=39119141"
-    ],
-    [
-      "Good DevEx increases productivity. Here is the data",
-      "https://github.blog/2024-01-23-good-devex-increases-productivity/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-01-24, 14:46:43",
+      "https://news.ycombinator.com/item?id=39117903"
+    ],
+    [
+      "Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-0519"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 14:44:18",
       "https://news.ycombinator.com/item?id=39117876"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39117155"
     ],
     [
-      "Duplicity",
+      "Duplicity: Encrypted bandwidth-efficient backup",
       "https://duplicity.us/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Can autoimmune diseases be cured? Scientists see hope at last",
       "https://www.nature.com/articles/d41586-024-00169-7"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 06:23:42",
-      "https://news.ycombinator.com/item?id=39114259"
-    ],
-    [
-      "The Secret Life of Machines (1988)",
-      "https://www.secretlifeofmachines.com/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39100340"
     ],
     [
-      "Mr. Rogers' Music Was Intricate (2020) [video]",
+      "Mr. Rogers' music was intricate (2020) [video]",
       "https://www.youtube.com/watch?v=Z40SZ77CHK0"
     ]
   ]
