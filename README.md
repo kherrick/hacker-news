@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 02:40:47](https://news.ycombinator.com/item?id=39112958) - [Apple Vision Pro and the importance of tinkering](https://arjonagelhout.nl/writings/2024-01-24_apple_vision_pro/)
+* [2024-01-24, 03:02:00](https://news.ycombinator.com/item?id=39113100) - [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
-* [2024-01-24, 01:53:24](https://news.ycombinator.com/item?id=39112659) - [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
 * [2024-01-24, 01:50:19](https://news.ycombinator.com/item?id=39112632) - [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
-* [2024-01-23, 23:59:21](https://news.ycombinator.com/item?id=39111730) - [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [Hardware-Accelerated Similarity Metrics and Distance Functions (200x Faster)](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
@@ -21,6 +19,7 @@
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [Data leak contains 26B records from numerous previous breaches](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
+* [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Review](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Loro's rich text CRDT](https://www.loro.dev/blog/loro-richtext)
@@ -30,6 +29,7 @@
 * [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
+* [2024-01-22, 05:34:13](https://news.ycombinator.com/item?id=39086631) - [Organic Syntheses (2023)](https://www.science.org/content/blog-post/organic-syntheses)
 
 ## [Archives](archives/index.md)
 

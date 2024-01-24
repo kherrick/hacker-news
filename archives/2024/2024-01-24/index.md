@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 03:02:00](https://news.ycombinator.com/item?id=39113100) - [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
 * [2024-01-24, 02:40:47](https://news.ycombinator.com/item?id=39112958) - [Apple Vision Pro and the importance of tinkering](https://arjonagelhout.nl/writings/2024-01-24_apple_vision_pro/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 * [2024-01-24, 01:53:24](https://news.ycombinator.com/item?id=39112659) - [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
