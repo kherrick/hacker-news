@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 15:49:03](https://news.ycombinator.com/item?id=39118735) - [Microsoft crosses $3T in market cap](https://www.cnbc.com/2024/01/24/microsoft-3-trillion-market-cap.html)
 * [2024-01-24, 15:35:05](https://news.ycombinator.com/item?id=39118534) - [Man Allegedly Raped in Jail After AI Wrongly IDs Him as Suspect Despite Alibi](https://www.ibtimes.sg/texas-man-allegedly-raped-jail-after-ai-wrongly-identifies-him-robbery-suspect-despite-having-73211)
 * [2024-01-24, 15:19:33](https://news.ycombinator.com/item?id=39118342) - [Ask HN: Would you fly on a Boeing 737 MAX?](https://news.ycombinator.com/item?id=39118342)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
