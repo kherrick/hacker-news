@@ -67,6 +67,7 @@
 * [2024-01-23, 16:00:19](https://news.ycombinator.com/item?id=39105114) - [Mozilla's new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 15:57:33](https://news.ycombinator.com/item?id=39105069) - [macOS Sonoma Forced Installs](https://www.macintouch.com/post/37381/macos-sonoma-forced-installs/)
 * [2024-01-23, 15:54:32](https://news.ycombinator.com/item?id=39105017) - [Framework Laptop 16 review: two weeks with the ultimate modular laptop](https://www.theverge.com/24047424/framework-laptop-16-review)
+* [2024-01-23, 15:46:31](https://news.ycombinator.com/item?id=39104913) - [Tarbell to Cromemco](https://www.os2museum.com/wp/tarbell-to-cromemco/)
 * [2024-01-23, 15:21:08](https://news.ycombinator.com/item?id=39104535) - [Meta-Learning Is All You Need](https://jameskle.com/writes/meta-learning-is-all-you-need)
 * [2024-01-23, 15:19:22](https://news.ycombinator.com/item?id=39104504) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Delivers Great Linux Support and Performance](https://www.phoronix.com/review/framework-laptop-16)
