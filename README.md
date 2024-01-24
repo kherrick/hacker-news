@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 02:40:47](https://news.ycombinator.com/item?id=39112958) - [Apple Vision Pro and the importance of tinkering](https://arjonagelhout.nl/writings/2024-01-24_apple_vision_pro/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 * [2024-01-24, 01:53:24](https://news.ycombinator.com/item?id=39112659) - [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
 * [2024-01-24, 01:50:19](https://news.ycombinator.com/item?id=39112632) - [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
@@ -20,7 +21,6 @@
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [Data leak contains 26B records from numerous previous breaches](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
-* [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Review](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Loro's rich text CRDT](https://www.loro.dev/blog/loro-richtext)
