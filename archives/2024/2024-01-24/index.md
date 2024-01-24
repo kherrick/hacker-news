@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 * [2024-01-24, 05:24:35](https://news.ycombinator.com/item?id=39113935) - [The Juror Who Found Herself Guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 * [2024-01-24, 05:10:37](https://news.ycombinator.com/item?id=39113869) - [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
@@ -11,6 +12,7 @@
 * [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
 * [2024-01-24, 03:25:56](https://news.ycombinator.com/item?id=39113245) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-24, 03:02:00](https://news.ycombinator.com/item?id=39113100) - [Men are going to brutal boot camps to reclaim their masculinity](https://www.usatoday.com/story/life/health-wellness/2024/01/22/modern-day-knight-project-videos-men-man-camps/72290454007/)
+* [2024-01-24, 02:55:46](https://news.ycombinator.com/item?id=39113064) - [OpenAI Microscope](https://openai.com/research/microscope)
 * [2024-01-24, 02:48:44](https://news.ycombinator.com/item?id=39113017) - [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
 * [2024-01-24, 02:40:47](https://news.ycombinator.com/item?id=39112958) - [Apple Vision Pro and the importance of tinkering](https://arjonagelhout.nl/writings/2024-01-24_apple_vision_pro/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
