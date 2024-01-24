@@ -6,6 +6,7 @@
 
 * [2024-01-24, 07:56:06](https://news.ycombinator.com/item?id=39114773) - [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
 * [2024-01-24, 07:24:12](https://news.ycombinator.com/item?id=39114576) - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+* [2024-01-24, 07:15:48](https://news.ycombinator.com/item?id=39114528) - [Nose wheel falls off Boeing 757 airliner waiting for takeoff](https://www.theguardian.com/business/2024/jan/24/delta-air-lines-plane-nose-wheel-falls-off)
 * [2024-01-24, 06:59:43](https://news.ycombinator.com/item?id=39114453) - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
 * [2024-01-24, 06:29:40](https://news.ycombinator.com/item?id=39114294) - [CGI programs have an attractive one step deployment model](https://utcc.utoronto.ca/~cks/space/blog/web/CGIOneStepDeployment)
 * [2024-01-24, 06:10:52](https://news.ycombinator.com/item?id=39114192) - [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
