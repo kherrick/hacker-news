@@ -10,6 +10,7 @@
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 * [2024-01-23, 23:30:52](https://news.ycombinator.com/item?id=39111494) - [Anon Boeing engineer reveals why the 737 door blew off](https://leehamnews.com/2024/01/15/unplanned-removal-installation-inspection-procedure-at-boeing/#comment-509962)
 * [2024-01-23, 23:21:09](https://news.ycombinator.com/item?id=39111406) - [The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
+* [2024-01-23, 23:02:18](https://news.ycombinator.com/item?id=39111205) - [The Enchippening](https://sarahconstantin.substack.com/p/the-enchippening)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [Hardware-Accelerated Similarity Metrics and Distance Functions (200x Faster)](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)

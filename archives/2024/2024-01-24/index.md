@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
+* [2024-01-24, 20:32:27](https://news.ycombinator.com/item?id=39122281) - [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
 * [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 * [2024-01-24, 19:25:51](https://news.ycombinator.com/item?id=39121574) - [Jon Stewart Returns to 'The Daily Show'](https://www.wsj.com/arts-culture/television/jon-stewart-returns-to-the-daily-show-b1a137b6)
 * [2024-01-24, 19:22:19](https://news.ycombinator.com/item?id=39121530) - [This anime exposed a $28,000,000,000 sweatshop [video]](https://www.youtube.com/watch?v=BDEIPa9b3OU)
