@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
+* [2024-01-24, 16:39:12](https://news.ycombinator.com/item?id=39119387) - [Amazon's Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
+* [2024-01-24, 16:28:16](https://news.ycombinator.com/item?id=39119252) - [Offline Chat with Marcus Aurelius](https://uneven-macaw-bef2.hony.ai/app/chat/Answer%20like%20you%20are%20Marcus%20Aurelius)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 * [2024-01-24, 16:08:02](https://news.ycombinator.com/item?id=39119014) - [Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation](https://arxiv.org/abs/2210.15723)
 * [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
@@ -17,6 +20,7 @@
 * [2024-01-24, 15:02:58](https://news.ycombinator.com/item?id=39118121) - [An open-source browser engine written in Rust](https://github.com/servo/servo)
 * [2024-01-24, 15:00:51](https://news.ycombinator.com/item?id=39118095) - [Delta Air Lines Boeing 757 Lost Nose Wheel Before Takeoff, FAA Says](https://www.nytimes.com/2024/01/23/business/delta-boeing-plane-nose-tire.html)
 * [2024-01-24, 14:46:43](https://news.ycombinator.com/item?id=39117903) - [Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224](https://nvd.nist.gov/vuln/detail/CVE-2024-0519)
+* [2024-01-24, 14:44:18](https://news.ycombinator.com/item?id=39117876) - [Show HN: Deep search of all ML papers](https://app.undermind.ai/home/)
 * [2024-01-24, 14:38:28](https://news.ycombinator.com/item?id=39117810) - [My Journey Submitting to Cran](https://andrewpwheeler.com/2022/07/22/my-journey-submitting-to-cran/)
 * [2024-01-24, 14:29:27](https://news.ycombinator.com/item?id=39117702) - [Dangerous flash flooding is happening in Texas and Louisiana, more rain coming](https://www.cnn.com/2024/01/24/weather/flood-warnings-texas-louisiana-climate/index.html)
 * [2024-01-24, 14:19:38](https://news.ycombinator.com/item?id=39117609) - [Pentagon moves to declassify some secret space programs and technologies](https://www.space.com/pentagon-us-military-declassify-secret-space-programs)

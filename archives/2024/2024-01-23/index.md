@@ -93,6 +93,7 @@
 * [2024-01-23, 08:39:07](https://news.ycombinator.com/item?id=39100911) - [Vibrating belt that treats low bone density gets FDA approval](https://www.engadget.com/vibrating-belt-that-treats-low-bone-density-gets-fda-approval-181552362.html)
 * [2024-01-23, 07:52:58](https://news.ycombinator.com/item?id=39100652) - [Tens of thousands protest in Germany against the rise of the far right](https://www.npr.org/2024/01/21/1225882007/tens-of-thousands-protest-in-germany-against-the-rise-of-the-far-right)
 * [2024-01-23, 07:05:38](https://news.ycombinator.com/item?id=39100406) - [The doctor who saw colonialism as a sickness](https://www.washingtonpost.com/books/2024/01/19/rebels-clinic-frantz-fanon-biography-adam-shatz-review/)
+* [2024-01-23, 06:52:37](https://news.ycombinator.com/item?id=39100340) - [Mr. Rogers' Music Was Intricate (2020) [video]](https://www.youtube.com/watch?v=Z40SZ77CHK0)
 * [2024-01-23, 06:47:53](https://news.ycombinator.com/item?id=39100308) - [Oh My Zsh](https://ohmyz.sh/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 05:36:07](https://news.ycombinator.com/item?id=39099980) - [Show HN: Built a self hosted clean status page and batteries](https://github.com/rajnandan1/kener)
