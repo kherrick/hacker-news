@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 05:10:37](https://news.ycombinator.com/item?id=39113869) - [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
 * [2024-01-24, 03:48:23](https://news.ycombinator.com/item?id=39113383) - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 * [2024-01-24, 03:25:56](https://news.ycombinator.com/item?id=39113245) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
@@ -11,6 +12,7 @@
 * [2024-01-23, 21:04:59](https://news.ycombinator.com/item?id=39109811) - [Oxxcu, converting CO₂ into fuels, chemicals and plastics](https://www.maddyness.com/uk/2024/01/17/oxccu-converting-co₂-into-fuels-chemicals-and-plastics/)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+* [2024-01-23, 20:31:06](https://news.ycombinator.com/item?id=39109327) - [The Beirut Port Explosion Forensic Investigation](https://forensic-architecture.org/investigation/beirut-port-explosion)
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 18:53:29](https://news.ycombinator.com/item?id=39107856) - [Twoslash: Markup for generating rich type information in documentation](https://twoslash.netlify.app/)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
@@ -21,7 +23,6 @@
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [Data leak contains 26B records from numerous previous breaches](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
 * [2024-01-23, 15:19:22](https://news.ycombinator.com/item?id=39104504) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
-* [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Review](https://www.phoronix.com/review/framework-laptop-16)
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
@@ -29,7 +30,6 @@
 * [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
 * [2024-01-22, 15:00:45](https://news.ycombinator.com/item?id=39090157) - [What it takes to reroute the biggest cargo ships on a 4K mile detour](https://www.bbc.com/future/article/20240119-red-sea-crisis-how-global-shipping-is-being-rerouted-out-of-danger)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
-* [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 
 ## [Archives](archives/index.md)
 

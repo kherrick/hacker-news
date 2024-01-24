@@ -23,6 +23,7 @@
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [2024-01-23, 20:42:28](https://news.ycombinator.com/item?id=39109469) - [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
 * [2024-01-23, 20:36:04](https://news.ycombinator.com/item?id=39109393) - [Why I Love Tailwind CSS](https://ben.page/tailwind)
+* [2024-01-23, 20:31:06](https://news.ycombinator.com/item?id=39109327) - [The Beirut Port Explosion Forensic Investigation](https://forensic-architecture.org/investigation/beirut-port-explosion)
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 20:24:37](https://news.ycombinator.com/item?id=39109222) - [Boeing internal whistleblower RE: MAX DOOR](https://www.airlinepilotforums.com/safety/146074-boeing-internal-whistleblower-re-max-door.html)
 * [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)

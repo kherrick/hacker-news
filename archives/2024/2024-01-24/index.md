@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 05:10:37](https://news.ycombinator.com/item?id=39113869) - [Tesla plans to build new electric vehicles in mid-2025 -sources](https://www.reuters.com/business/autos-transportation/tesla-plans-build-new-electric-vehicles-mid-2025-sources-2024-01-24/)
 * [2024-01-24, 03:48:23](https://news.ycombinator.com/item?id=39113383) - [Patreon: Blocking platforms from sharing user video data is unconstitutional](https://arstechnica.com/tech-policy/2024/01/patreon-attacks-law-that-keeps-platforms-from-sharing-your-video-views/)
 * [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
 * [2024-01-24, 03:25:56](https://news.ycombinator.com/item?id=39113245) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
