@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 18:38:53](https://news.ycombinator.com/item?id=39121009) - [America Is Planning to Withdraw from Syria](https://foreignpolicy.com/2024/01/24/america-is-planning-to-withdraw-from-syria-and-create-a-disaster/)
+* [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)

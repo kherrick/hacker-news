@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)
+* [2024-01-24, 18:38:53](https://news.ycombinator.com/item?id=39121009) - [America Is Planning to Withdraw from Syria](https://foreignpolicy.com/2024/01/24/america-is-planning-to-withdraw-from-syria-and-create-a-disaster/)
+* [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
@@ -10,7 +11,6 @@
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 * [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
 * [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
-* [2024-01-24, 15:57:51](https://news.ycombinator.com/item?id=39118866) - [Forensics Gone Wrong: When DNA Snares the Innocent (2016)](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
