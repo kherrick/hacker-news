@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 12:41:03](https://news.ycombinator.com/item?id=39116556) - [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
 * [2024-01-24, 12:14:04](https://news.ycombinator.com/item?id=39116369) - [23andMe is reportedly turning the blame back on its customers](https://www.businessinsider.com/23andme-data-breach-victims-responsibility-not-updating-passwords-2024-1)
 * [2024-01-24, 12:00:43](https://news.ycombinator.com/item?id=39116290) - [Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-01-24, 11:22:42](https://news.ycombinator.com/item?id=39116032) - [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
@@ -17,6 +18,7 @@
 * [2024-01-24, 07:15:48](https://news.ycombinator.com/item?id=39114528) - [Nose wheel falls off Boeing 757 airliner waiting for takeoff](https://www.theguardian.com/business/2024/jan/24/delta-air-lines-plane-nose-wheel-falls-off)
 * [2024-01-24, 06:59:43](https://news.ycombinator.com/item?id=39114453) - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
 * [2024-01-24, 06:29:40](https://news.ycombinator.com/item?id=39114294) - [CGI programs have an attractive one step deployment model](https://utcc.utoronto.ca/~cks/space/blog/web/CGIOneStepDeployment)
+* [2024-01-24, 06:23:42](https://news.ycombinator.com/item?id=39114259) - [The Secret Life of Machines (1988)](https://www.secretlifeofmachines.com/)
 * [2024-01-24, 06:10:52](https://news.ycombinator.com/item?id=39114192) - [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
 * [2024-01-24, 05:49:09](https://news.ycombinator.com/item?id=39114075) - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
