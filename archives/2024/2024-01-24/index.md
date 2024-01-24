@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123794) - [X-Wing is video gaming's Greek Fire](https://aftermath.site/x-wing-lucasarts)
+* [2024-01-24, 22:56:04](https://news.ycombinator.com/item?id=39123762) - [What Killed the Fight Scene?](https://www.fastcompany.com/91008617/what-killed-the-fight-scene-and-is-it-finally-coming-back)
 * [2024-01-24, 22:45:23](https://news.ycombinator.com/item?id=39123630) - [New theory unites Einstein's gravity with quantum mechanics](https://charmingscience.com/breaking-new-theory-unites-einsteins-gravity-with-quantum-mechanics/)
 * [2024-01-24, 22:31:05](https://news.ycombinator.com/item?id=39123477) - [Stop Using Opera Browser and Opera GX](https://www.spacebar.news/stop-using-opera-browser/)
 * [2024-01-24, 21:57:31](https://news.ycombinator.com/item?id=39123110) - [WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd](https://rachelbythebay.com/w/2024/01/24/wpa3/)
