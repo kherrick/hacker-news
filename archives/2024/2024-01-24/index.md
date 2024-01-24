@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 07:24:12](https://news.ycombinator.com/item?id=39114576) - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+* [2024-01-24, 06:59:43](https://news.ycombinator.com/item?id=39114453) - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
+* [2024-01-24, 06:10:52](https://news.ycombinator.com/item?id=39114192) - [The United States is producing more oil than any country in history](https://www.cnn.com/2023/12/19/business/us-production-oil-reserves-crude/index.html)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 * [2024-01-24, 05:24:35](https://news.ycombinator.com/item?id=39113935) - [The Juror Who Found Herself Guilty](https://www.texasmonthly.com/news-politics/the-juror-who-found-herself-guilty/)
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
