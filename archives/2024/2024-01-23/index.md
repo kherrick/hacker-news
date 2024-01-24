@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 23:59:21](https://news.ycombinator.com/item?id=39111730) - [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
+* [2024-01-23, 23:52:44](https://news.ycombinator.com/item?id=39111667) - [Google cancels contract with an AI data firm that's helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
 * [2024-01-23, 23:43:48](https://news.ycombinator.com/item?id=39111600) - [Netflix is turning into cable TV](https://www.theverge.com/2024/1/23/24047817/netflix-is-turning-into-cable-tv)
+* [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 * [2024-01-23, 23:30:52](https://news.ycombinator.com/item?id=39111494) - [Anon Boeing engineer reveals why the 737 door blew off](https://leehamnews.com/2024/01/15/unplanned-removal-installation-inspection-procedure-at-boeing/#comment-509962)
+* [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [Hardware-Accelerated Similarity Metrics and Distance Functions (200x Faster)](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 21:33:30](https://news.ycombinator.com/item?id=39110194) - [Ask HN: Those making $500/month on side projects in 2024 – Show and tell](https://news.ycombinator.com/item?id=39110194)
 * [2024-01-23, 21:27:32](https://news.ycombinator.com/item?id=39110110) - [Show HN: Codemodder – A new codemod library for Java and Python](https://codemodder.io/)

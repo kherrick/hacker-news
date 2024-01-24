@@ -12,6 +12,7 @@
 * [2024-01-22, 23:23:35](https://news.ycombinator.com/item?id=39097020) - [Show HN: A self-hosted, AWS-based secrets manager](https://embrasure.dev)
 * [2024-01-22, 23:20:28](https://news.ycombinator.com/item?id=39096981) - ['No cash accepted' signs are bad news for unbanked Americans](https://theconversation.com/no-cash-accepted-signs-are-bad-news-for-millions-of-unbanked-americans-221393)
 * [2024-01-22, 23:11:33](https://news.ycombinator.com/item?id=39096892) - [Supreme Court rules border agents can remove razor wire erected by Texas](https://thehill.com/regulation/court-battles/4422203-supreme-court-southern-border-texas-razor-wire-doj/)
+* [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
 * [2024-01-22, 22:49:39](https://news.ycombinator.com/item?id=39096646) - [The ancient history of 'forgotten crops'](https://www.arch.cam.ac.uk/news/orphan-crops)
 * [2024-01-22, 22:30:45](https://news.ycombinator.com/item?id=39096449) - ['With Her Own Hair': A Victorian Prisoner's Art](https://www.historytoday.com/archive/miscellanies/her-own-hair-victorian-prisoners-art)
 * [2024-01-22, 22:27:02](https://news.ycombinator.com/item?id=39096404) - [MrBeast reveals he made $250k from X video](https://www.bbc.co.uk/news/technology-68061020)
