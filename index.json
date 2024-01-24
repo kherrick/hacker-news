@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 15:02:58",
+      "https://news.ycombinator.com/item?id=39118121"
+    ],
+    [
+      "An open-source browser engine written in Rust",
+      "https://github.com/servo/servo"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 14:11:27",
       "https://news.ycombinator.com/item?id=39117525"
     ],
@@ -41,26 +51,6 @@
   ],
   [
     [
-      "2024-01-24, 12:59:32",
-      "https://news.ycombinator.com/item?id=39116724"
-    ],
-    [
-      "Dutch Police regularly force people to give up footage from doorbell cameras",
-      "https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 12:31:20",
-      "https://news.ycombinator.com/item?id=39116492"
-    ],
-    [
-      "You (probably) don't need to learn C",
-      "https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 12:00:43",
       "https://news.ycombinator.com/item?id=39116290"
     ],
@@ -77,6 +67,16 @@
     [
       "Show HN: Open-source script to get your site indexed on Google",
       "https://github.com/goenning/google-indexing-script"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 11:02:09",
+      "https://news.ycombinator.com/item?id=39115934"
+    ],
+    [
+      "All arabica coffee is genetically similar: how can beans taste so different?",
+      "https://www.nature.com/articles/d41586-024-00165-x"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-01-23, 23:36:24",
-      "https://news.ycombinator.com/item?id=39111539"
-    ],
-    [
-      "Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment",
-      "https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 23:21:09",
       "https://news.ycombinator.com/item?id=39111406"
     ],
@@ -207,6 +197,16 @@
     [
       "Why is machine learning 'hard'? (2016)",
       "https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 18:38:58",
+      "https://news.ycombinator.com/item?id=39107620"
+    ],
+    [
+      "Direct pixel-space megapixel image generation with diffusion models",
+      "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
   [
