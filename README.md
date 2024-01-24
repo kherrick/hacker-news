@@ -28,8 +28,8 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
+* [2024-01-22, 15:00:45](https://news.ycombinator.com/item?id=39090157) - [What it takes to reroute the biggest cargo ships on a 4K mile detour](https://www.bbc.com/future/article/20240119-red-sea-crisis-how-global-shipping-is-being-rerouted-out-of-danger)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
-* [2024-01-22, 08:17:13](https://news.ycombinator.com/item?id=39087455) - [Huawei prepares to split from Android on consumer devices with HarmonyOS Next](https://www.theregister.com/2024/01/22/huawei_harmony_os_next/)
 
 ## [Archives](archives/index.md)
 
