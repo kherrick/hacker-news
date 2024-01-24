@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-24, 01:50:19",
-      "https://news.ycombinator.com/item?id=39112632"
-    ],
-    [
-      "Fix: Hong Kong is not in China",
-      "https://github.com/goplus/gop/pull/1397"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 01:09:25",
       "https://news.ycombinator.com/item?id=39112346"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39111114"
     ],
     [
-      "Hardware-Accelerated Similarity Metrics and Distance Functions (200x Faster)",
+      "SimSIMD: Hardware-accelerated similarity metrics and distance functions",
       "https://github.com/ashvardanian/SimSIMD"
     ]
   ],
@@ -147,16 +137,6 @@
     [
       "Show HN: Atlas – GIS and interactive maps in the browser",
       "https://atlas.co"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 18:27:58",
-      "https://news.ycombinator.com/item?id=39107453"
-    ],
-    [
-      "Tcl on the brain/worms",
-      "https://cohost.org/sakiamu/post/177439-tcl-on-the-brain"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-01-22, 08:17:13",
+      "https://news.ycombinator.com/item?id=39087455"
+    ],
+    [
+      "Huawei prepares to split from Android on consumer devices with HarmonyOS Next",
+      "https://www.theregister.com/2024/01/22/huawei_harmony_os_next/"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 07:12:39",
       "https://news.ycombinator.com/item?id=39087118"
     ],
     [
       "QuickTime as a Tape Archival Format",
       "https://eschatologist.net/blog/?p=409"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 05:34:13",
+      "https://news.ycombinator.com/item?id=39086631"
+    ],
+    [
+      "Organic Syntheses (2023)",
+      "https://www.science.org/content/blog-post/organic-syntheses"
     ]
   ]
 ]
