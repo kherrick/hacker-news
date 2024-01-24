@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 14:08:38](https://news.ycombinator.com/item?id=39117494) - [Tech world won't have long to fall in line when EU signs off on AI Act](https://www.theregister.com/2024/01/24/eu_ai_act_timetable/)
 * [2024-01-24, 13:49:39](https://news.ycombinator.com/item?id=39117304) - [Tesla hacked, 24 zero-days demoed at Pwn2Own Automotive 2024](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
 * [2024-01-24, 12:59:32](https://news.ycombinator.com/item?id=39116724) - [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
 * [2024-01-24, 12:41:03](https://news.ycombinator.com/item?id=39116556) - [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
 * [2024-01-24, 12:14:04](https://news.ycombinator.com/item?id=39116369) - [23andMe is reportedly turning the blame back on its customers](https://www.businessinsider.com/23andme-data-breach-victims-responsibility-not-updating-passwords-2024-1)
 * [2024-01-24, 12:00:43](https://news.ycombinator.com/item?id=39116290) - [Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
+* [2024-01-24, 11:49:04](https://news.ycombinator.com/item?id=39116195) - [Show HN: Open-source script to get your site indexed on Google](https://github.com/goenning/google-indexing-script)
 * [2024-01-24, 11:22:42](https://news.ycombinator.com/item?id=39116032) - [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
 * [2024-01-24, 11:02:09](https://news.ycombinator.com/item?id=39115934) - [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
 * [2024-01-24, 11:00:50](https://news.ycombinator.com/item?id=39115926) - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
