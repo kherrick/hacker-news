@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
+* [2024-01-24, 15:57:51](https://news.ycombinator.com/item?id=39118866) - [Forensics Gone Wrong: When DNA Snares the Innocent](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
 * [2024-01-24, 15:49:03](https://news.ycombinator.com/item?id=39118735) - [Microsoft crosses $3T in market cap](https://www.cnbc.com/2024/01/24/microsoft-3-trillion-market-cap.html)
 * [2024-01-24, 15:37:50](https://news.ycombinator.com/item?id=39118570) - [Today's architects can learn from a 19th century's lost ventilation system](https://techxplore.com/news/2024-01-today-architects-lost-ventilation-19th.html)
 * [2024-01-24, 15:35:05](https://news.ycombinator.com/item?id=39118534) - [Man Allegedly Raped in Jail After AI Wrongly IDs Him as Suspect Despite Alibi](https://www.ibtimes.sg/texas-man-allegedly-raped-jail-after-ai-wrongly-identifies-him-robbery-suspect-despite-having-73211)
