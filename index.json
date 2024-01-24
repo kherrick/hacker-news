@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 12:41:03",
+      "https://news.ycombinator.com/item?id=39116556"
+    ],
+    [
+      "Tell HN: GitHub no longer readable without JavaScript",
+      "https://news.ycombinator.com/item?id=39116556"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 12:14:04",
       "https://news.ycombinator.com/item?id=39116369"
     ],
@@ -57,6 +67,16 @@
     [
       "Alaska CEO: We found many loose bolts on our Max planes",
       "https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 06:23:42",
+      "https://news.ycombinator.com/item?id=39114259"
+    ],
+    [
+      "The Secret Life of Machines (1988)",
+      "https://www.secretlifeofmachines.com/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-01-24, 00:28:13",
-      "https://news.ycombinator.com/item?id=39111991"
-    ],
-    [
-      "Magic Ink (2006)",
-      "http://worrydream.com/MagicInk/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 23:36:24",
       "https://news.ycombinator.com/item?id=39111539"
     ],
@@ -197,16 +207,6 @@
     [
       "Direct pixel-space megapixel image generation with diffusion models",
       "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 17:57:31",
-      "https://news.ycombinator.com/item?id=39106972"
-    ],
-    [
-      "From slow to SIMD: A Go optimization story",
-      "https://sourcegraph.com/blog/slow-to-simd"
     ]
   ],
   [
