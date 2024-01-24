@@ -27,6 +27,7 @@
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 20:24:37](https://news.ycombinator.com/item?id=39109222) - [Boeing internal whistleblower RE: MAX DOOR](https://www.airlinepilotforums.com/safety/146074-boeing-internal-whistleblower-re-max-door.html)
 * [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)
+* [2024-01-23, 20:19:03](https://news.ycombinator.com/item?id=39109159) - [Waking up my NAS remotely using Tailscale (2023)](https://rischmann.fr/blog/waking-up-my-nas-remotely-using-tailscale)
 * [2024-01-23, 20:14:52](https://news.ycombinator.com/item?id=39109104) - [The Dark Forest hypothesis is absurd](https://www.noahpinion.blog/p/the-dark-forest-hypothesis-is-absurd)
 * [2024-01-23, 18:53:29](https://news.ycombinator.com/item?id=39107856) - [Twoslash: Markup for generating rich type information in documentation](https://twoslash.netlify.app/)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple Dials Back Car's Self-Driving Features and Delays Launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
