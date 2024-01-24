@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 01:12:52](https://news.ycombinator.com/item?id=39112372) - [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 * [2024-01-23, 23:59:21](https://news.ycombinator.com/item?id=39111730) - [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
 * [2024-01-23, 23:52:44](https://news.ycombinator.com/item?id=39111667) - [Google cancels contract with an AI data firm that's helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
@@ -29,6 +28,7 @@
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
+* [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
 
 ## [Archives](archives/index.md)
