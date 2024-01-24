@@ -7,6 +7,7 @@
 * [2024-01-24, 12:14:04](https://news.ycombinator.com/item?id=39116369) - [23andMe is reportedly turning the blame back on its customers](https://www.businessinsider.com/23andme-data-breach-victims-responsibility-not-updating-passwords-2024-1)
 * [2024-01-24, 12:00:43](https://news.ycombinator.com/item?id=39116290) - [Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-01-24, 11:22:42](https://news.ycombinator.com/item?id=39116032) - [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
+* [2024-01-24, 11:02:09](https://news.ycombinator.com/item?id=39115934) - [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
 * [2024-01-24, 11:00:50](https://news.ycombinator.com/item?id=39115926) - [All the Major Tech Layoffs in 2024 So Far](https://www.visualcapitalist.com/all-the-major-tech-layoffs-in-2024-so-far/)
 * [2024-01-24, 10:53:03](https://news.ycombinator.com/item?id=39115878) - [Alaska CEO: We found many loose bolts on our Max planes](https://www.nbcnews.com/business/business-news/alaska-airlines-found-more-loose-bolts-boeing-737-max-9-ceo-says-rcna135316)
 * [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
