@@ -18,7 +18,6 @@
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
-* [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
@@ -30,6 +29,7 @@
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-01-22, 20:21:48](https://news.ycombinator.com/item?id=39094875) - [An introduction to temporal logic and how it can be used to analyze concurrency](https://github.com/Dicklesworthstone/introduction_to_temporal_logic)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
+* [2024-01-22, 05:34:39](https://news.ycombinator.com/item?id=39086632) - [Ambient light sensors pose imaging privacy risk](https://www.csail.mit.edu/news/study-smart-devices-ambient-light-sensors-pose-imaging-privacy-risk)
 
 ## [Archives](archives/index.md)
 
