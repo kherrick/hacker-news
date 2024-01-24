@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 23:49:20](https://news.ycombinator.com/item?id=39124256) - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
+* [2024-01-24, 23:26:30](https://news.ycombinator.com/item?id=39124062) - [Religious 'Nones' are now the largest single group in the U.S.](https://www.npr.org/2024/01/24/1226371734/religious-nones-are-now-the-largest-single-group-in-the-u-s)
 * [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123794) - [X-Wing is video gaming's Greek Fire](https://aftermath.site/x-wing-lucasarts)
 * [2024-01-24, 22:56:04](https://news.ycombinator.com/item?id=39123762) - [What Killed the Fight Scene?](https://www.fastcompany.com/91008617/what-killed-the-fight-scene-and-is-it-finally-coming-back)
 * [2024-01-24, 22:45:23](https://news.ycombinator.com/item?id=39123630) - [New theory unites Einstein's gravity with quantum mechanics](https://charmingscience.com/breaking-new-theory-unites-einsteins-gravity-with-quantum-mechanics/)
