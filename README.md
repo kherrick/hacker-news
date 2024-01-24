@@ -23,13 +23,13 @@
 * [2024-01-24, 13:37:40](https://news.ycombinator.com/item?id=39117155) - [Duplicity](https://duplicity.us/)
 * [2024-01-24, 12:16:38](https://news.ycombinator.com/item?id=39116387) - [Can autoimmune diseases be cured? Scientists see hope at last](https://www.nature.com/articles/d41586-024-00169-7)
 * [2024-01-24, 06:23:42](https://news.ycombinator.com/item?id=39114259) - [The Secret Life of Machines (1988)](https://www.secretlifeofmachines.com/)
+* [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
 * [2024-01-23, 23:02:18](https://news.ycombinator.com/item?id=39111205) - [The Enchippening](https://sarahconstantin.substack.com/p/the-enchippening)
 * [2024-01-23, 16:26:48](https://news.ycombinator.com/item?id=39105502) - [Show HN: Retriever – Securely share secrets over the internet](https://retriever.corgea.io/)
 * [2024-01-23, 15:46:31](https://news.ycombinator.com/item?id=39104913) - [Tarbell to Cromemco](https://www.os2museum.com/wp/tarbell-to-cromemco/)
 * [2024-01-23, 15:38:53](https://news.ycombinator.com/item?id=39104804) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 * [2024-01-23, 12:18:32](https://news.ycombinator.com/item?id=39102398) - [Show HN: Bernard – a link checker for your website](https://bernard.app)
 * [2024-01-23, 06:52:37](https://news.ycombinator.com/item?id=39100340) - [Mr. Rogers' Music Was Intricate (2020) [video]](https://www.youtube.com/watch?v=Z40SZ77CHK0)
-* [2024-01-22, 12:06:48](https://news.ycombinator.com/item?id=39088592) - [The Evolution of Warfare and Weapons in Japan, 792-1392](https://www.mdpi.com/2409-9252/4/1/2)
 
 ## [Archives](archives/index.md)
 
