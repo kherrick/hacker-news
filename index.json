@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-01-24, 22:31:05",
-      "https://news.ycombinator.com/item?id=39123477"
-    ],
-    [
-      "Stop Using Opera Browser and Opera GX",
-      "https://www.spacebar.news/stop-using-opera-browser/"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 21:57:31",
-      "https://news.ycombinator.com/item?id=39123110"
-    ],
-    [
-      "WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd",
-      "https://rachelbythebay.com/w/2024/01/24/wpa3/"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 21:57:00",
       "https://news.ycombinator.com/item?id=39123104"
     ],
     [
       "Tesla Q4 2023 Earnings Report [pdf]",
       "https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 21:51:45",
-      "https://news.ycombinator.com/item?id=39123053"
-    ],
-    [
-      "Raspberry Pi PCIe Database",
-      "https://pipci.jeffgeerling.com/"
     ]
   ],
   [
@@ -161,6 +131,26 @@
   ],
   [
     [
+      "2024-01-24, 16:18:33",
+      "https://news.ycombinator.com/item?id=39119141"
+    ],
+    [
+      "Good DevEx increases productivity. Here is the data",
+      "https://github.blog/2024-01-23-good-devex-increases-productivity/"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 16:04:40",
+      "https://news.ycombinator.com/item?id=39118963"
+    ],
+    [
+      "AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video",
+      "https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 15:27:43",
       "https://news.ycombinator.com/item?id=39118438"
     ],
@@ -187,6 +177,16 @@
     [
       "How Euler Did It, by Ed Sandifer",
       "http://eulerarchive.maa.org/hedi/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 14:46:43",
+      "https://news.ycombinator.com/item?id=39117903"
+    ],
+    [
+      "Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-0519"
     ]
   ],
   [
