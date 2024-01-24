@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 22:45:23](https://news.ycombinator.com/item?id=39123630) - [New theory unites Einstein's gravity with quantum mechanics](https://charmingscience.com/breaking-new-theory-unites-einsteins-gravity-with-quantum-mechanics/)
 * [2024-01-24, 21:57:00](https://news.ycombinator.com/item?id=39123104) - [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
 * [2024-01-24, 21:38:07](https://news.ycombinator.com/item?id=39122929) - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
-* [2024-01-24, 21:15:31](https://news.ycombinator.com/item?id=39122742) - [San Francisco Tried to Build a $1.7M Toilet. It's Still Not Done](https://www.nytimes.com/2024/01/24/us/san-francisco-toilet.html)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 * [2024-01-24, 20:32:27](https://news.ycombinator.com/item?id=39122281) - [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
@@ -14,7 +14,7 @@
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
-* [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
+* [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)

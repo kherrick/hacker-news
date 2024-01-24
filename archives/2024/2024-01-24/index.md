@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 22:45:23](https://news.ycombinator.com/item?id=39123630) - [New theory unites Einstein's gravity with quantum mechanics](https://charmingscience.com/breaking-new-theory-unites-einsteins-gravity-with-quantum-mechanics/)
 * [2024-01-24, 22:31:05](https://news.ycombinator.com/item?id=39123477) - [Stop Using Opera Browser and Opera GX](https://www.spacebar.news/stop-using-opera-browser/)
 * [2024-01-24, 21:57:31](https://news.ycombinator.com/item?id=39123110) - [WPA3 on Raspberry Pi 3B+, 4B and 5B with iwd](https://rachelbythebay.com/w/2024/01/24/wpa3/)
 * [2024-01-24, 21:57:00](https://news.ycombinator.com/item?id=39123104) - [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
