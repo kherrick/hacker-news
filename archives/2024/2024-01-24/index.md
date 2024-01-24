@@ -10,6 +10,7 @@
 * [2024-01-24, 21:51:45](https://news.ycombinator.com/item?id=39123053) - [Raspberry Pi PCIe Database](https://pipci.jeffgeerling.com/)
 * [2024-01-24, 21:38:07](https://news.ycombinator.com/item?id=39122929) - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
 * [2024-01-24, 21:19:22](https://news.ycombinator.com/item?id=39122778) - [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
+* [2024-01-24, 21:15:31](https://news.ycombinator.com/item?id=39122742) - [San Francisco Tried to Build a $1.7M Toilet. It's Still Not Done](https://www.nytimes.com/2024/01/24/us/san-francisco-toilet.html)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-24, 21:00:52](https://news.ycombinator.com/item?id=39122589) - [At D.E. Shaw, Larry Summers worked just one day a week (2009)](https://www.businessinsider.com/at-de-shaw-larry-summers-worked-just-one-day-a-week-2009-4)
 * [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
