@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 16:18:33",
+      "https://news.ycombinator.com/item?id=39119141"
+    ],
+    [
+      "Good DevEx increases productivity. Here is the data",
+      "https://github.blog/2024-01-23-good-devex-increases-productivity/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 16:08:02",
       "https://news.ycombinator.com/item?id=39119014"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-01-24, 13:49:39",
-      "https://news.ycombinator.com/item?id=39117304"
-    ],
-    [
-      "Security researchers collect awards for Tesla exploits at Pwn2Own Automotive",
-      "https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 13:37:40",
       "https://news.ycombinator.com/item?id=39117155"
     ],
@@ -117,16 +117,6 @@
     [
       "Show HN: Open-source script to get your site indexed on Google",
       "https://github.com/goenning/google-indexing-script"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 11:02:09",
-      "https://news.ycombinator.com/item?id=39115934"
-    ],
-    [
-      "All arabica coffee is genetically similar: how can beans taste so different?",
-      "https://www.nature.com/articles/d41586-024-00165-x"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Waterway Map",
       "https://waterwaymap.org"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 18:38:58",
+      "https://news.ycombinator.com/item?id=39107620"
+    ],
+    [
+      "Direct pixel-space megapixel image generation with diffusion models",
+      "https://crowsonkb.github.io/hourglass-diffusion-transformers/"
     ]
   ],
   [
