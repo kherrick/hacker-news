@@ -105,6 +105,7 @@
 * [2024-01-22, 08:48:08](https://news.ycombinator.com/item?id=39087599) - [The Last Days of the Barcode](https://www.theatlantic.com/podcasts/archive/2024/01/the-last-days-of-the-barcode/677185/)
 * [2024-01-22, 08:38:29](https://news.ycombinator.com/item?id=39087557) - [Decipherment of Old Persian](https://www.heritageinstitute.com/zoroastrianism/languages/oldPersian.htm)
 * [2024-01-22, 08:34:24](https://news.ycombinator.com/item?id=39087538) - [How to Win Friends and Influence People: The Sam Altman Edition](https://www.businessinsider.com/how-to-win-friends-and-influence-people-sam-altman-edition-2024-1)
+* [2024-01-22, 08:17:13](https://news.ycombinator.com/item?id=39087455) - [Huawei prepares to split from Android on consumer devices with HarmonyOS Next](https://www.theregister.com/2024/01/22/huawei_harmony_os_next/)
 * [2024-01-22, 08:01:35](https://news.ycombinator.com/item?id=39087373) - [Turning off Rust's borrow checker completely (2022)](https://iter.ca/post/rust-skip-borrowck/)
 * [2024-01-22, 07:54:11](https://news.ycombinator.com/item?id=39087342) - [Confocal Microscopy](https://en.wikipedia.org/wiki/Confocal_microscopy)
 * [2024-01-22, 07:41:10](https://news.ycombinator.com/item?id=39087274) - [Kayak's New Flight Filter Allows You to Exclude Aircraft Models](https://www.reddit.com/r/aviation/s/kb3WBpHMFL)
