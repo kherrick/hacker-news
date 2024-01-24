@@ -2,6 +2,7 @@
 
 * [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
+* [2024-01-24, 17:01:32](https://news.ycombinator.com/item?id=39119668) - [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
 * [2024-01-24, 16:39:12](https://news.ycombinator.com/item?id=39119387) - [Amazon's Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
@@ -10,6 +11,7 @@
 * [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
 * [2024-01-24, 15:57:51](https://news.ycombinator.com/item?id=39118866) - [Forensics Gone Wrong: When DNA Snares the Innocent](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the Modern World](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
+* [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
 * [2024-01-24, 14:46:43](https://news.ycombinator.com/item?id=39117903) - [Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224](https://nvd.nist.gov/vuln/detail/CVE-2024-0519)
 * [2024-01-24, 14:44:18](https://news.ycombinator.com/item?id=39117876) - [Show HN: Deep search of all ML papers](https://app.undermind.ai/home/)
@@ -23,13 +25,11 @@
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
 * [2024-01-24, 03:13:32](https://news.ycombinator.com/item?id=39113168) - [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 * [2024-01-23, 23:21:09](https://news.ycombinator.com/item?id=39111406) - [The case of the jump into the middle of an instruction from nowhere (2023)](https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966)
-* [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 15:46:31](https://news.ycombinator.com/item?id=39104913) - [Tarbell to Cromemco](https://www.os2museum.com/wp/tarbell-to-cromemco/)
 * [2024-01-23, 15:19:22](https://news.ycombinator.com/item?id=39104504) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 * [2024-01-23, 06:52:37](https://news.ycombinator.com/item?id=39100340) - [Mr. Rogers' Music Was Intricate (2020) [video]](https://www.youtube.com/watch?v=Z40SZ77CHK0)
 * [2024-01-22, 12:06:48](https://news.ycombinator.com/item?id=39088592) - [The Evolution of Warfare and Weapons in Japan, 792-1392](https://www.mdpi.com/2409-9252/4/1/2)
-* [2024-01-22, 05:34:39](https://news.ycombinator.com/item?id=39086632) - [Ambient light sensors pose imaging privacy risk](https://www.csail.mit.edu/news/study-smart-devices-ambient-light-sensors-pose-imaging-privacy-risk)
 
 ## [Archives](archives/index.md)
 

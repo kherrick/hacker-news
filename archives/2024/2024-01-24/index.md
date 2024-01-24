@@ -6,6 +6,7 @@
 
 * [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
+* [2024-01-24, 17:01:32](https://news.ycombinator.com/item?id=39119668) - [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
 * [2024-01-24, 16:39:12](https://news.ycombinator.com/item?id=39119387) - [Amazon's Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
 * [2024-01-24, 16:28:16](https://news.ycombinator.com/item?id=39119252) - [Offline Chat with Marcus Aurelius](https://uneven-macaw-bef2.hony.ai/app/chat/Answer%20like%20you%20are%20Marcus%20Aurelius)
@@ -18,6 +19,7 @@
 * [2024-01-24, 15:37:50](https://news.ycombinator.com/item?id=39118570) - [Today's architects can learn from a 19th century's lost ventilation system](https://techxplore.com/news/2024-01-today-architects-lost-ventilation-19th.html)
 * [2024-01-24, 15:35:05](https://news.ycombinator.com/item?id=39118534) - [Man Allegedly Raped in Jail After AI Wrongly IDs Him as Suspect Despite Alibi](https://www.ibtimes.sg/texas-man-allegedly-raped-jail-after-ai-wrongly-identifies-him-robbery-suspect-despite-having-73211)
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the Modern World](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
+* [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:19:33](https://news.ycombinator.com/item?id=39118342) - [Ask HN: Would you fly on a Boeing 737 MAX?](https://news.ycombinator.com/item?id=39118342)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler did it? (by Ed Sandifer)](http://eulerarchive.maa.org/hedi/index.html)
 * [2024-01-24, 15:02:58](https://news.ycombinator.com/item?id=39118121) - [An open-source browser engine written in Rust](https://github.com/servo/servo)
