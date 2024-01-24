@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 14:29:27](https://news.ycombinator.com/item?id=39117702) - [Dangerous flash flooding is happening in Texas and Louisiana, more rain coming](https://www.cnn.com/2024/01/24/weather/flood-warnings-texas-louisiana-climate/index.html)
 * [2024-01-24, 14:08:38](https://news.ycombinator.com/item?id=39117494) - [Tech world won't have long to fall in line when EU signs off on AI Act](https://www.theregister.com/2024/01/24/eu_ai_act_timetable/)
+* [2024-01-24, 13:54:49](https://news.ycombinator.com/item?id=39117360) - [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
 * [2024-01-24, 13:49:39](https://news.ycombinator.com/item?id=39117304) - [Tesla hacked, 24 zero-days demoed at Pwn2Own Automotive 2024](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
 * [2024-01-24, 12:59:32](https://news.ycombinator.com/item?id=39116724) - [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
 * [2024-01-24, 12:41:03](https://news.ycombinator.com/item?id=39116556) - [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
