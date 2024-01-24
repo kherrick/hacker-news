@@ -7,6 +7,7 @@
 * [2024-01-24, 21:38:07](https://news.ycombinator.com/item?id=39122929) - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
 * [2024-01-24, 21:19:22](https://news.ycombinator.com/item?id=39122778) - [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-01-24, 21:00:52](https://news.ycombinator.com/item?id=39122589) - [At D.E. Shaw, Larry Summers worked just one day a week (2009)](https://www.businessinsider.com/at-de-shaw-larry-summers-worked-just-one-day-a-week-2009-4)
 * [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A new BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 * [2024-01-24, 20:32:27](https://news.ycombinator.com/item?id=39122281) - [Inside A Global Phone Spy Tool Monitoring Billions](https://www.404media.co/inside-global-phone-spy-tool-patternz-nuviad-real-time-bidding/)
 * [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
