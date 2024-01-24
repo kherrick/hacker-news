@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 16:08:02](https://news.ycombinator.com/item?id=39119014) - [Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation](https://arxiv.org/abs/2210.15723)
 * [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
+* [2024-01-24, 16:04:40](https://news.ycombinator.com/item?id=39118963) - [AI-Powered Nvidia RTX Video HDR Transforms Standard Video into HDR Video](https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/)
 * [2024-01-24, 15:57:51](https://news.ycombinator.com/item?id=39118866) - [Forensics Gone Wrong: When DNA Snares the Innocent](https://www.science.org/content/article/forensics-gone-wrong-when-dna-snares-innocent)
 * [2024-01-24, 15:49:03](https://news.ycombinator.com/item?id=39118735) - [Microsoft crosses $3T in market cap](https://www.cnbc.com/2024/01/24/microsoft-3-trillion-market-cap.html)
 * [2024-01-24, 15:37:50](https://news.ycombinator.com/item?id=39118570) - [Today's architects can learn from a 19th century's lost ventilation system](https://techxplore.com/news/2024-01-today-architects-lost-ventilation-19th.html)
