@@ -25,6 +25,7 @@
 * [2024-01-24, 07:56:06](https://news.ycombinator.com/item?id=39114773) - [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
 * [2024-01-24, 07:33:09](https://news.ycombinator.com/item?id=39114622) - [Ask HN: Why Free Open Source Software?](https://news.ycombinator.com/item?id=39114622)
 * [2024-01-24, 07:24:12](https://news.ycombinator.com/item?id=39114576) - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+* [2024-01-24, 07:16:46](https://news.ycombinator.com/item?id=39114535) - [Should you go for 2 down 8?](https://www.argmin.net/p/should-you-go-for-2-down-8)
 * [2024-01-24, 07:15:48](https://news.ycombinator.com/item?id=39114528) - [Nose wheel falls off Boeing 757 airliner waiting for takeoff](https://www.theguardian.com/business/2024/jan/24/delta-air-lines-plane-nose-wheel-falls-off)
 * [2024-01-24, 06:59:43](https://news.ycombinator.com/item?id=39114453) - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)
 * [2024-01-24, 06:29:40](https://news.ycombinator.com/item?id=39114294) - [CGI programs have an attractive one step deployment model](https://utcc.utoronto.ca/~cks/space/blog/web/CGIOneStepDeployment)
