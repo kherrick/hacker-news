@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-24, 12:41:03](https://news.ycombinator.com/item?id=39116556) - [Tell HN: GitHub no longer readable without JavaScript](https://news.ycombinator.com/item?id=39116556)
-* [2024-01-24, 12:14:04](https://news.ycombinator.com/item?id=39116369) - [23andMe is reportedly turning the blame back on its customers](https://www.businessinsider.com/23andme-data-breach-victims-responsibility-not-updating-passwords-2024-1)
 * [2024-01-24, 12:00:43](https://news.ycombinator.com/item?id=39116290) - [Jamsocket (YC W22) is hiring a senior Rust systems engineer (NYC/remote)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-01-24, 11:22:42](https://news.ycombinator.com/item?id=39116032) - [eBay is laying off 9 percent of its workforce](https://www.engadget.com/ebay-is-laying-off-9-percent-of-its-workforce-035136287.html)
 * [2024-01-24, 11:02:09](https://news.ycombinator.com/item?id=39115934) - [All arabica coffee is genetically similar: how can beans taste so different?](https://www.nature.com/articles/d41586-024-00165-x)
@@ -11,6 +10,7 @@
 * [2024-01-24, 05:49:09](https://news.ycombinator.com/item?id=39114075) - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
+* [2024-01-24, 03:46:13](https://news.ycombinator.com/item?id=39113367) - [The Bang With Friends Story (2023)](https://ehandbook.com/the-bang-with-friends-story-under-the-covers-77f757bdb822)
 * [2024-01-24, 03:13:32](https://news.ycombinator.com/item?id=39113168) - [Overpass Turbo: A Web Based Data Mining Tool for OpenStreetMap](https://overpass-turbo.eu/)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing engineering cultures: Debate everything vs. just tell me what to build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 * [2024-01-24, 01:29:02](https://news.ycombinator.com/item?id=39112486) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
