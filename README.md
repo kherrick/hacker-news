@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 14:29:27](https://news.ycombinator.com/item?id=39117702) - [Dangerous flash flooding is happening in Texas and Louisiana, more rain coming](https://www.cnn.com/2024/01/24/weather/flood-warnings-texas-louisiana-climate/index.html)
 * [2024-01-24, 14:11:27](https://news.ycombinator.com/item?id=39117525) - [Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
-* [2024-01-24, 14:08:38](https://news.ycombinator.com/item?id=39117494) - [Tech world won't have long to fall in line when EU signs off on AI Act](https://www.theregister.com/2024/01/24/eu_ai_act_timetable/)
+* [2024-01-24, 14:05:14](https://news.ycombinator.com/item?id=39117468) - [AMD Radeon RX 7600 XT Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux)
 * [2024-01-24, 13:54:49](https://news.ycombinator.com/item?id=39117360) - [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
 * [2024-01-24, 13:49:39](https://news.ycombinator.com/item?id=39117304) - [Security researchers collect awards for Tesla exploits at Pwn2Own Automotive](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
 * [2024-01-24, 12:59:32](https://news.ycombinator.com/item?id=39116724) - [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)
@@ -28,6 +27,7 @@
 * [2024-01-23, 07:05:38](https://news.ycombinator.com/item?id=39100406) - [The Rebel’s Clinic: A biography of Frantz Fanon](https://www.washingtonpost.com/books/2024/01/19/rebels-clinic-frantz-fanon-biography-adam-shatz-review/)
 * [2024-01-23, 01:07:11](https://news.ycombinator.com/item?id=39098013) - [Ode to Internet – V.90 56k dialup modem handshake for orchestra (1996) [video]](https://www.youtube.com/watch?v=wuN-bW_zS0Q)
 * [2024-01-22, 20:21:48](https://news.ycombinator.com/item?id=39094875) - [An introduction to temporal logic and how it can be used to analyze concurrency](https://github.com/Dicklesworthstone/introduction_to_temporal_logic)
+* [2024-01-22, 12:06:48](https://news.ycombinator.com/item?id=39088592) - [The Evolution of Warfare and Weapons in Japan, 792-1392](https://www.mdpi.com/2409-9252/4/1/2)
 * [2024-01-22, 10:35:05](https://news.ycombinator.com/item?id=39088075) - [Clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 * [2024-01-22, 05:34:39](https://news.ycombinator.com/item?id=39086632) - [Ambient light sensors pose imaging privacy risk](https://www.csail.mit.edu/news/study-smart-devices-ambient-light-sensors-pose-imaging-privacy-risk)
 

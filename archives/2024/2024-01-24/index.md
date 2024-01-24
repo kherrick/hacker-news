@@ -7,6 +7,7 @@
 * [2024-01-24, 14:29:27](https://news.ycombinator.com/item?id=39117702) - [Dangerous flash flooding is happening in Texas and Louisiana, more rain coming](https://www.cnn.com/2024/01/24/weather/flood-warnings-texas-louisiana-climate/index.html)
 * [2024-01-24, 14:11:27](https://news.ycombinator.com/item?id=39117525) - [Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
 * [2024-01-24, 14:08:38](https://news.ycombinator.com/item?id=39117494) - [Tech world won't have long to fall in line when EU signs off on AI Act](https://www.theregister.com/2024/01/24/eu_ai_act_timetable/)
+* [2024-01-24, 14:05:14](https://news.ycombinator.com/item?id=39117468) - [AMD Radeon RX 7600 XT Linux Performance](https://www.phoronix.com/review/amd-radeon-rx-7600-xt-linux)
 * [2024-01-24, 13:54:49](https://news.ycombinator.com/item?id=39117360) - [The scam YouTube ads are getting better](https://old.reddit.com/r/ChatGPT/comments/19dv1dg/the_scam_youtube_ads_are_getting_better/)
 * [2024-01-24, 13:49:39](https://news.ycombinator.com/item?id=39117304) - [Tesla hacked, 24 zero-days demoed at Pwn2Own Automotive 2024](https://www.bleepingcomputer.com/news/security/tesla-hacked-24-zero-days-demoed-at-pwn2own-automotive-2024/)
 * [2024-01-24, 12:59:32](https://news.ycombinator.com/item?id=39116724) - [Dutch Police regularly force people to give up footage from doorbell cameras](https://nltimes.nl/2024/01/23/police-regularly-force-people-give-footage-doorbell-cameras-report)

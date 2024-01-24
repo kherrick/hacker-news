@@ -92,6 +92,7 @@
 * [2024-01-22, 12:51:33](https://news.ycombinator.com/item?id=39088941) - [Let Detroit Go Bankrupt (2008)](https://www.nytimes.com/2008/11/19/opinion/19romney.html)
 * [2024-01-22, 12:22:16](https://news.ycombinator.com/item?id=39088704) - [A Beginner's Guide to Gambas [pdf]](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf)
 * [2024-01-22, 12:10:03](https://news.ycombinator.com/item?id=39088618) - [Restoring audio from the B-58 \"Hustler\" Voice Warning System](http://www.hydrogen18.com/blog/restoring-audio-b58-hustler-voice-warning-system.html)
+* [2024-01-22, 12:06:48](https://news.ycombinator.com/item?id=39088592) - [The Evolution of Warfare and Weapons in Japan, 792-1392](https://www.mdpi.com/2409-9252/4/1/2)
 * [2024-01-22, 12:03:06](https://news.ycombinator.com/item?id=39088566) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-01-22, 12:01:10](https://news.ycombinator.com/item?id=39088551) - [Launch HN: Diversion (YC S22) – Cloud-Native Git Alternative](https://news.ycombinator.com/item?id=39088551)
 * [2024-01-22, 11:49:33](https://news.ycombinator.com/item?id=39088480) - [Western firms are quaking as China's electric-car industry speeds up](https://www.economist.com/briefing/2024/01/11/western-firms-are-quaking-as-chinas-electric-car-industry-speeds-up)
