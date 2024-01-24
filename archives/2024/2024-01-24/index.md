@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)

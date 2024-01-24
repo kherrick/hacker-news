@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
-* [2024-01-24, 17:13:15](https://news.ycombinator.com/item?id=39119807) - [HP CEO: \"Our long-term objective is to make printing a subscription.\"](https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/)
 * [2024-01-24, 17:01:32](https://news.ycombinator.com/item?id=39119668) - [IRS Free File is now available for the 2024 filing season](https://www.irs.gov/newsroom/irs-free-file-is-now-available-for-the-2024-filing-season)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
