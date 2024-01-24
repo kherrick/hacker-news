@@ -105,5 +105,6 @@
 * [2024-01-23, 01:03:56](https://news.ycombinator.com/item?id=39097976) - [SaberVM](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 00:34:07](https://news.ycombinator.com/item?id=39097681) - [Self-contained Linux applications with lone Lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-23, 00:31:14](https://news.ycombinator.com/item?id=39097655) - [Trello leaked 15M email addresses](https://haveibeenpwned.com/Error/PageNotFound)
+* [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-01-23, 00:14:26](https://news.ycombinator.com/item?id=39097502) - [ML Engineering Online Book](https://github.com/stas00/ml-engineering)
 * [2024-01-23, 00:00:20](https://news.ycombinator.com/item?id=39097356) - [FTC bans TurboTax from advertising 'free' services, calls deceptive advertising](https://www.cnn.com/2024/01/22/business/ftc-turbotax-free-services/index.html)

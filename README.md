@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 01:12:52](https://news.ycombinator.com/item?id=39112372) - [Open Infrastructure Map](https://openinframap.org/#2/26/12)
+* [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 * [2024-01-23, 23:59:21](https://news.ycombinator.com/item?id=39111730) - [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
 * [2024-01-23, 23:52:44](https://news.ycombinator.com/item?id=39111667) - [Google cancels contract with an AI data firm that's helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
@@ -10,14 +12,12 @@
 * [2024-01-23, 20:49:58](https://news.ycombinator.com/item?id=39109591) - [Future power systems with today's weather](https://model.energy/future/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'? (2016)](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
-* [2024-01-23, 20:20:47](https://news.ycombinator.com/item?id=39109185) - [Open Infrastructure Map](https://openinframap.org)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
 * [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 17:21:04](https://news.ycombinator.com/item?id=39106355) - [The NSA Furby Documents](https://www.404media.co/these-are-the-notorious-nsa-furby-documents-showing-spy-agency-freaking-out-about-childrens-toy/)
-* [2024-01-23, 17:00:16](https://news.ycombinator.com/item?id=39106050) - [Hightouch (YC S19) is hiring a lead front end engineer](https://news.ycombinator.com/item?id=39106050)
 * [2024-01-23, 16:50:57](https://news.ycombinator.com/item?id=39105916) - [The horse, the drone, and the fight for gambling success (2021)](https://www.wired.co.uk/article/horse-racing-drone)
 * [2024-01-23, 16:50:28](https://news.ycombinator.com/item?id=39105906) - [Data leak contains 26B records from numerous previous breaches](https://cybernews.com/security/billions-passwords-credentials-leaked-mother-of-all-breaches/)
 * [2024-01-23, 15:12:13](https://news.ycombinator.com/item?id=39104363) - [Framework Laptop 16 Review](https://www.phoronix.com/review/framework-laptop-16)
@@ -27,9 +27,9 @@
 * [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Roman dodecahedron has been unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
+* [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-01-22, 23:08:04](https://news.ycombinator.com/item?id=39096869) - [All ¥500 coins that glitter are not gold](https://www.japantimes.co.jp/community/2024/01/15/voices/new-500-yen-coin/)
 * [2024-01-22, 07:12:39](https://news.ycombinator.com/item?id=39087118) - [QuickTime as a Tape Archival Format](https://eschatologist.net/blog/?p=409)
-* [2024-01-22, 05:34:13](https://news.ycombinator.com/item?id=39086631) - [Organic Syntheses (2023)](https://www.science.org/content/blog-post/organic-syntheses)
 
 ## [Archives](archives/index.md)
 
