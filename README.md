@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-24, 01:53:24](https://news.ycombinator.com/item?id=39112659) - [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)
+* [2024-01-24, 01:50:19](https://news.ycombinator.com/item?id=39112632) - [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 * [2024-01-23, 23:59:21](https://news.ycombinator.com/item?id=39111730) - [Creator of everynoise.com laid off from Spotify](https://everynoise.com/#updates)
-* [2024-01-23, 23:52:44](https://news.ycombinator.com/item?id=39111667) - [Google cancels contract with an AI data firm that's helped train Bard](https://www.theverge.com/2024/1/23/24048429/google-appen-cancel-contract-ai-training-bard)
 * [2024-01-23, 23:36:24](https://news.ycombinator.com/item?id=39111539) - [Appeals Court: FBI's Safe-Deposit Box Seizures Violated Fourth Amendment](https://reason.com/2024/01/23/appeals-court-fbis-safe-deposit-box-seizures-violated-fourth-amendment/)
 * [2024-01-23, 22:53:11](https://news.ycombinator.com/item?id=39111114) - [Hardware-Accelerated Similarity Metrics and Distance Functions (200x Faster)](https://github.com/ashvardanian/SimSIMD)
 * [2024-01-23, 21:51:06](https://news.ycombinator.com/item?id=39110434) - [Waterway Map](https://waterwaymap.org)
@@ -23,7 +24,6 @@
 * [2024-01-23, 14:06:03](https://news.ycombinator.com/item?id=39103419) - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 * [2024-01-23, 13:39:23](https://news.ycombinator.com/item?id=39103142) - [Responses to unicycling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2151169/)
 * [2024-01-23, 12:40:16](https://news.ycombinator.com/item?id=39102577) - [Loro's rich text CRDT](https://www.loro.dev/blog/loro-richtext)
-* [2024-01-23, 11:33:44](https://news.ycombinator.com/item?id=39102069) - [Another Roman dodecahedron has been unearthed in England](https://www.smithsonianmag.com/smart-news/another-of-ancient-romes-mysterious-12-sided-objects-has-been-found-in-england-180983632/)
 * [2024-01-23, 10:18:02](https://news.ycombinator.com/item?id=39101564) - [Unbloating the buffers](https://dgroshev.com/blog/bufferbloat/)
 * [2024-01-23, 06:13:32](https://news.ycombinator.com/item?id=39100151) - [Hippy, capitalist, guru, grocer: Nicholas Saunders and \"Alternative London\"](https://www.theguardian.com/food/2024/jan/23/nicholas-saunders-forgotten-genius-changed-british-food)
 * [2024-01-23, 00:14:45](https://news.ycombinator.com/item?id=39097504) - [The Itanic Saga: The History of VLIW and Itanium](https://www.abortretry.fail/p/the-itanic-saga)
