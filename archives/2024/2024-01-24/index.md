@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
 * [2024-01-24, 18:59:00](https://news.ycombinator.com/item?id=39121262) - [The First Microprocessor: F-14 Central Air Data Computer [video]](https://www.youtube.com/watch?v=YpruA5mC7wg)
+* [2024-01-24, 18:51:45](https://news.ycombinator.com/item?id=39121183) - [Sqlite3 Utility in the Browser](https://sqlite.org/fiddle/index.html)
 * [2024-01-24, 18:38:53](https://news.ycombinator.com/item?id=39121009) - [America Is Planning to Withdraw from Syria](https://foreignpolicy.com/2024/01/24/america-is-planning-to-withdraw-from-syria-and-create-a-disaster/)
 * [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)

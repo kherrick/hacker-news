@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 18:59:00](https://news.ycombinator.com/item?id=39121262) - [The First Microprocessor: F-14 Central Air Data Computer [video]](https://www.youtube.com/watch?v=YpruA5mC7wg)
+* [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+* [2024-01-24, 18:51:45](https://news.ycombinator.com/item?id=39121183) - [Sqlite3 Utility in the Browser](https://sqlite.org/fiddle/index.html)
 * [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship (2021)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
-* [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
 * [2024-01-24, 17:01:03](https://news.ycombinator.com/item?id=39119663) - [Mutable.ai (YC W22) is hiring engineers to build Auto Wiki v2](https://www.workatastartup.com/companies/mutable-ai)
