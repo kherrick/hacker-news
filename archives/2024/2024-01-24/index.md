@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
 * [2024-01-24, 07:56:06](https://news.ycombinator.com/item?id=39114773) - [Exxon throws a fit over shareholders exercising their rights](https://techcrunch.com/2024/01/22/exxon-sues-activist-investors/)
+* [2024-01-24, 07:33:09](https://news.ycombinator.com/item?id=39114622) - [Ask HN: Why Free Open Source Software?](https://news.ycombinator.com/item?id=39114622)
 * [2024-01-24, 07:24:12](https://news.ycombinator.com/item?id=39114576) - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
 * [2024-01-24, 07:15:48](https://news.ycombinator.com/item?id=39114528) - [Nose wheel falls off Boeing 757 airliner waiting for takeoff](https://www.theguardian.com/business/2024/jan/24/delta-air-lines-plane-nose-wheel-falls-off)
 * [2024-01-24, 06:59:43](https://news.ycombinator.com/item?id=39114453) - [Programming Language Checklist (2011)](https://www.mcmillen.dev/language_checklist.html)

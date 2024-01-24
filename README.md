@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-24, 07:24:12](https://news.ycombinator.com/item?id=39114576) - [Learn How to Build Your Own Max for Live Devices](https://elphnt.io/build-your-own-max-for-live-devices/)
+* [2024-01-24, 08:51:33](https://news.ycombinator.com/item?id=39115148) - [AI 'hallucinated' fake legal cases filed to B.C. court in Canadian first](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/)
+* [2024-01-24, 07:33:09](https://news.ycombinator.com/item?id=39114622) - [Ask HN: Why Free Open Source Software?](https://news.ycombinator.com/item?id=39114622)
 * [2024-01-24, 05:49:09](https://news.ycombinator.com/item?id=39114075) - [Lumiere: A Space-Time Diffusion Model for Realistic Video Generation](https://lumiere-video.github.io/)
 * [2024-01-24, 05:31:11](https://news.ycombinator.com/item?id=39113972) - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 * [2024-01-24, 05:12:49](https://news.ycombinator.com/item?id=39113879) - [Show HN: I wished for a site with a growing list of math problems, I built it](https://teachyourselfmath.app/)
@@ -21,7 +22,6 @@
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
 * [2024-01-23, 18:53:18](https://news.ycombinator.com/item?id=39107854) - [Apple dials back car's self-driving features and delays launch to 2028](https://www.bloomberg.com/news/articles/2024-01-23/apple-car-ev-set-to-debut-in-2028-with-limited-autonomous-driving)
 * [2024-01-23, 18:38:58](https://news.ycombinator.com/item?id=39107620) - [Direct pixel-space megapixel image generation with diffusion models](https://crowsonkb.github.io/hourglass-diffusion-transformers/)
-* [2024-01-23, 18:29:26](https://news.ycombinator.com/item?id=39107483) - [Show HN: Atlas – GIS and interactive maps in the browser](https://atlas.co)
 * [2024-01-23, 17:57:31](https://news.ycombinator.com/item?id=39106972) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 17:26:34](https://news.ycombinator.com/item?id=39106464) - [Gene therapy allows an 11-year-old boy to hear](https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html)
 * [2024-01-23, 15:19:22](https://news.ycombinator.com/item?id=39104504) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
