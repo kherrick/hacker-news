@@ -13,6 +13,7 @@
 * [2024-01-24, 18:38:53](https://news.ycombinator.com/item?id=39121009) - [America Is Planning to Withdraw from Syria](https://foreignpolicy.com/2024/01/24/america-is-planning-to-withdraw-from-syria-and-create-a-disaster/)
 * [2024-01-24, 18:37:51](https://news.ycombinator.com/item?id=39120993) - [Standards for Software Liability: Jim Dempsey, Lawfare, UC Berkeley Law](https://www.lawfaremedia.org/article/standards-for-software-liability-focus-on-the-product-for-liability-focus-on-the-process-for-safe-harbor)
 * [2024-01-24, 18:33:07](https://news.ycombinator.com/item?id=39120934) - [An Illustrated Guide to Post-Orwellian Censorship](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-post-orwellian-censorship/)
+* [2024-01-24, 18:32:55](https://news.ycombinator.com/item?id=39120932) - [JEP Draft – Derived Record Creation (Preview) – Java Record \"Withers\"](https://bugs.openjdk.org/browse/JDK-8321133)
 * [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)
 * [2024-01-24, 18:22:28](https://news.ycombinator.com/item?id=39120773) - [Train Robbery for Amazon Packages? More Common Than You Think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
