@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
@@ -12,6 +13,7 @@
 * [2024-01-25, 09:16:00](https://news.ycombinator.com/item?id=39127683) - [Digital Ocean killed my droplets and gives a vague reply](https://news.ycombinator.com/item?id=39127683)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
+* [2024-01-25, 08:27:38](https://news.ycombinator.com/item?id=39127432) - [GHC Steering Committee Retrospective](https://www.joachim-breitner.de/blog/811-GHC_Steering_Committee_Retrospective)
 * [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
 * [2024-01-25, 07:19:38](https://news.ycombinator.com/item?id=39127080) - [Ossian, the ‘Homer of the North’, the greatest literary hoax (2016)](https://www.independent.co.uk/arts-entertainment/books/news/ossian-literary-hoax-james-macpherson-fingal-mathematics-social-network-study-a7371806.html)
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
