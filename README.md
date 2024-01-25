@@ -24,7 +24,7 @@
 * [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
-* [2024-01-24, 12:16:38](https://news.ycombinator.com/item?id=39116387) - [Can autoimmune diseases be cured? Scientists see hope at last](https://www.nature.com/articles/d41586-024-00169-7)
+* [2024-01-24, 13:37:40](https://news.ycombinator.com/item?id=39117155) - [Duplicity: Encrypted bandwidth-efficient backup](https://duplicity.us/)
 * [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
 * [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
 * [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
