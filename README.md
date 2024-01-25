@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 04:01:32](https://news.ycombinator.com/item?id=39126063) - [Boeing, not Spirit (supplier), mis-installed piece that blew off Alaska MAX 9](https://www.seattletimes.com/business/boeing-aerospace/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet/)
+* [2024-01-25, 04:00:24](https://news.ycombinator.com/item?id=39126049) - [Which Shows Got Their Finale Right, and Which Didn't? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
@@ -20,10 +22,8 @@
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
-* [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
-* [2024-01-24, 13:37:40](https://news.ycombinator.com/item?id=39117155) - [Duplicity: Encrypted bandwidth-efficient backup](https://duplicity.us/)
 * [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
 * [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
 * [2024-01-24, 01:13:56](https://news.ycombinator.com/item?id=39112378) - [The Failed Saint: On George Orwell's India](https://lareviewofbooks.org/article/the-failed-saint-on-george-orwells-india/)

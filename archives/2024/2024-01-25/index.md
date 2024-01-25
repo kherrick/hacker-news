@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 04:01:32](https://news.ycombinator.com/item?id=39126063) - [Boeing, not Spirit (supplier), mis-installed piece that blew off Alaska MAX 9](https://www.seattletimes.com/business/boeing-aerospace/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet/)
+* [2024-01-25, 04:00:24](https://news.ycombinator.com/item?id=39126049) - [Which Shows Got Their Finale Right, and Which Didn't? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 02:16:12](https://news.ycombinator.com/item?id=39125467) - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
