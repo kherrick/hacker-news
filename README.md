@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 06:48:14](https://news.ycombinator.com/item?id=39126924) - [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
 * [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 * [2024-01-25, 03:04:39](https://news.ycombinator.com/item?id=39125799) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
@@ -19,7 +20,6 @@
 * [2024-01-24, 20:13:39](https://news.ycombinator.com/item?id=39122060) - [CRT Manufacturing](https://vintagetek.org/crt-manufacturing/)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI scrapped a promise to disclose key documents to the public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
-* [2024-01-24, 18:32:55](https://news.ycombinator.com/item?id=39120932) - [JEP Draft – Derived Record Creation (Preview)](https://bugs.openjdk.org/browse/JDK-8321133)
 * [2024-01-24, 18:22:28](https://news.ycombinator.com/item?id=39120773) - [Train robbery for Amazon packages? More common than you think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
