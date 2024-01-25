@@ -14,5 +14,6 @@
 * [2024-01-25, 01:05:13](https://news.ycombinator.com/item?id=39124882) - [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
+* [2024-01-25, 00:17:50](https://news.ycombinator.com/item?id=39124514) - [Using Arc to decode Venter's DNA watermark (2010)](https://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
 * [2024-01-25, 00:17:39](https://news.ycombinator.com/item?id=39124510) - [DigMixer: Protocols](https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/)
 * [2024-01-25, 00:14:57](https://news.ycombinator.com/item?id=39124497) - [Kagi search reached 20k paying members](https://blog.kagi.com/celebrating-20k)

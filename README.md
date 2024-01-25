@@ -7,7 +7,7 @@
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-* [2024-01-25, 00:17:39](https://news.ycombinator.com/item?id=39124510) - [DigMixer: Protocols](https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/)
+* [2024-01-25, 00:17:50](https://news.ycombinator.com/item?id=39124514) - [Using Arc to decode Venter's DNA watermark (2010)](https://www.righto.com/2010/06/using-arc-to-decode-venters-secret-dna.html)
 * [2024-01-24, 23:55:39](https://news.ycombinator.com/item?id=39124322) - [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
 * [2024-01-24, 23:49:20](https://news.ycombinator.com/item?id=39124256) - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
 * [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
