@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 * [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
@@ -28,7 +29,6 @@
 * [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
 * [2024-01-24, 01:13:56](https://news.ycombinator.com/item?id=39112378) - [The Failed Saint: On George Orwell's India](https://lareviewofbooks.org/article/the-failed-saint-on-george-orwells-india/)
 * [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
-* [2024-01-23, 16:26:48](https://news.ycombinator.com/item?id=39105502) - [Show HN: Retriever – Securely share secrets over the internet](https://retriever.corgea.io/)
 * [2024-01-23, 15:38:53](https://news.ycombinator.com/item?id=39104804) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 
 ## [Archives](archives/index.md)
