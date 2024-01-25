@@ -2,8 +2,8 @@
 
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
+* [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
-* [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 * [2024-01-25, 03:24:12](https://news.ycombinator.com/item?id=39125887) - [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 * [2024-01-25, 03:04:39](https://news.ycombinator.com/item?id=39125799) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
