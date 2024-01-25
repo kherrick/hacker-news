@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 * [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:01:50](https://news.ycombinator.com/item?id=39132437) - [iOS 17.4 Introduces Alternative App Marketplaces with No Commission in EU](https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/)
+* [2024-01-25, 18:00:43](https://news.ycombinator.com/item?id=39132423) - [The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
+* [2024-01-25, 17:49:14](https://news.ycombinator.com/item?id=39132300) - [Critical bug that exists in every Linux boot loader signed in the past decade](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
 * [2024-01-25, 17:37:33](https://news.ycombinator.com/item?id=39132185) - [The 2023 Hugo nomination statistics have been released and we have questions](https://corabuhlert.com/2024/01/21/the-2023-hugo-nomination-statistics-have-finally-been-release-and-we-have-questions/)
 * [2024-01-25, 17:28:51](https://news.ycombinator.com/item?id=39132091) - [Why Is the Web So Monotonous? Google (2022)](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
 * [2024-01-25, 17:27:06](https://news.ycombinator.com/item?id=39132073) - [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
