@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-25, 17:08:41",
+      "https://news.ycombinator.com/item?id=39131871"
+    ],
+    [
+      "An open source DuckDB text to SQL LLM",
+      "https://motherduck.com/blog/duckdb-text2sql-llm/"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 17:07:31",
+      "https://news.ycombinator.com/item?id=39131856"
+    ],
+    [
+      "Impacts of lid closure during toilet flushing",
+      "https://www.ajicjournal.org/article/S0196-6553(23)00820-9/fulltext"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 17:00:55",
       "https://news.ycombinator.com/item?id=39131780"
     ],
@@ -87,16 +107,6 @@
     [
       "Faircamp Is a Free Bandcamp Alternative",
       "https://wedistribute.org/2023/11/introducing-faircamp/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 12:45:54",
-      "https://news.ycombinator.com/item?id=39128977"
-    ],
-    [
-      "Japan's precision moon lander has hit its target, but appears to be upside-down",
-      "https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-01-24, 18:46:07",
-      "https://news.ycombinator.com/item?id=39121101"
+      "2024-01-24, 17:19:58",
+      "https://news.ycombinator.com/item?id=39119881"
     ],
     [
-      "We made an animated movie in 8kB",
-      "https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb"
+      "Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)",
+      "http://www.doctormonk.com/2024/01/comparingadcs.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Lightweight woven helical antenna could replace field-deployed dishes",
       "https://newatlas.com/telecommunications/woven-helical-antenna/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 20:40:16",
-      "https://news.ycombinator.com/item?id=39109445"
-    ],
-    [
-      "2023 Letter",
-      "https://danwang.co/2023-letter/"
     ]
   ]
 ]
