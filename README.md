@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
+* [2024-01-25, 22:15:15](https://news.ycombinator.com/item?id=39136137) - [The Annual Cost of Technical Debt: $1.52T](https://itzareyesmx.medium.com/the-annual-cost-of-technical-debt-1-52-trillion-65afaa1e0005)
 * [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [Two sides of software testing: Checking and exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
 * [2024-01-25, 18:54:48](https://news.ycombinator.com/item?id=39133338) - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
-* [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 * [2024-01-25, 18:24:40](https://news.ycombinator.com/item?id=39132766) - [Show HN: Lumos, a local LLM Chrome extension](https://github.com/andrewnguonly/Lumos)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:00:43](https://news.ycombinator.com/item?id=39132423) - [The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
