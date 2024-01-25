@@ -12,6 +12,7 @@
 * [2024-01-25, 03:24:12](https://news.ycombinator.com/item?id=39125887) - [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 * [2024-01-25, 03:04:39](https://news.ycombinator.com/item?id=39125799) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+* [2024-01-25, 02:23:24](https://news.ycombinator.com/item?id=39125518) - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 02:16:12](https://news.ycombinator.com/item?id=39125467) - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
