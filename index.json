@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2024-01-25, 22:14:34",
+      "https://news.ycombinator.com/item?id=39136123"
+    ],
+    [
+      "Show HN: Qwertle, yet another daily word game",
+      "https://qwertle.friedman.in"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 21:42:35",
       "https://news.ycombinator.com/item?id=39135779"
     ],
     [
       "Improbable Island, one of the largest and longest-running online text adventures",
       "https://www.improbableisland.com"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 21:40:38",
+      "https://news.ycombinator.com/item?id=39135742"
+    ],
+    [
+      "Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem",
+      "https://bitbashing.io/rust-http.html"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
       "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 17:08:41",
-      "https://news.ycombinator.com/item?id=39131871"
-    ],
-    [
-      "An open source DuckDB text to SQL LLM",
-      "https://motherduck.com/blog/duckdb-text2sql-llm/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Framing Frames: Bypassing wi-fi encryption by manipulating transmit queues",
       "https://www.usenix.org/conference/usenixsecurity23/presentation/schepers"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 11:07:59",
-      "https://news.ycombinator.com/item?id=39128311"
-    ],
-    [
-      "Heat exchanger masks for cold weather cycling (2019)",
-      "https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/"
     ]
   ],
   [
