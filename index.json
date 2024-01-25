@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-25, 08:27:41",
+      "https://news.ycombinator.com/item?id=39127433"
+    ],
+    [
+      "Only 90s Web Developers Remember This",
+      "https://zachholman.com/posts/only-90s-developers/"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 07:09:53",
       "https://news.ycombinator.com/item?id=39127028"
     ],
@@ -67,16 +77,6 @@
     [
       "Ollama releases Python and JavaScript Libraries",
       "https://ollama.ai/blog/python-javascript-libraries"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 01:27:57",
-      "https://news.ycombinator.com/item?id=39125063"
-    ],
-    [
-      "Forkrun: Runs multiple inputs through a command in parallel using bash coprocs",
-      "https://github.com/jkool702/forkrun"
     ]
   ],
   [
