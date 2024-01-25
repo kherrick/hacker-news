@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
+* [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 10:53:07](https://news.ycombinator.com/item?id=39128234) - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
 * [2024-01-25, 10:26:34](https://news.ycombinator.com/item?id=39128072) - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 * [2024-01-25, 09:16:00](https://news.ycombinator.com/item?id=39127683) - [Digital Ocean killed my droplets and gives a vague reply](https://news.ycombinator.com/item?id=39127683)
@@ -14,6 +16,7 @@
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 * [2024-01-25, 06:48:14](https://news.ycombinator.com/item?id=39126924) - [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
 * [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
+* [2024-01-25, 05:47:22](https://news.ycombinator.com/item?id=39126575) - [A 13th-century Arabic cookbook reveals the culinary life of al-Andalus](https://www.atlasobscura.com/articles/exiles-cookbook)
 * [2024-01-25, 04:12:44](https://news.ycombinator.com/item?id=39126121) - [Aluminum mining waste could be a source of green steel](https://arstechnica.com/science/2024/01/researchers-figure-out-how-to-extract-green-iron-from-mining-waste/)
 * [2024-01-25, 04:01:32](https://news.ycombinator.com/item?id=39126063) - [Boeing, not Spirit (supplier), mis-installed piece that blew off Alaska MAX 9](https://www.seattletimes.com/business/boeing-aerospace/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet/)
 * [2024-01-25, 04:00:24](https://news.ycombinator.com/item?id=39126049) - [Which Shows Got Their Finale Right, and Which Didn't? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
