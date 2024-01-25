@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
 * [2024-01-24, 23:55:39](https://news.ycombinator.com/item?id=39124322) - [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
+* [2024-01-24, 23:54:08](https://news.ycombinator.com/item?id=39124309) - [Promotion of Scientific Pubs on ArXiv and X on the Rise and Impacts Citations](https://arxiv.org/abs/2401.11116)
 * [2024-01-24, 23:52:18](https://news.ycombinator.com/item?id=39124291) - [User Manual for the Zuse Z4 Discovered (2020)](https://cacm.acm.org/blogs/blog-cacm/247521-discovery-user-manual-of-the-oldest-surviving-computer-in-the-world/fulltext)
 * [2024-01-24, 23:49:20](https://news.ycombinator.com/item?id=39124256) - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
 * [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
