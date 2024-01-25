@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-01-25, 22:24:40",
+      "https://news.ycombinator.com/item?id=39136238"
+    ],
+    [
+      "Show HN: NativeVision, helping React Native devs to build XR apps for any device",
+      "https://github.com/NativeVision/viro"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 22:16:00",
       "https://news.ycombinator.com/item?id=39136142"
     ],
     [
       "Clear Shadows (1867)",
       "https://publicdomainreview.org/collection/kumanaki-kage/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 22:15:15",
-      "https://news.ycombinator.com/item?id=39136137"
-    ],
-    [
-      "The Annual Cost of Technical Debt: $1.52T",
-      "https://itzareyesmx.medium.com/the-annual-cost-of-technical-debt-1-52-trillion-65afaa1e0005"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem",
       "https://bitbashing.io/rust-http.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 21:21:18",
+      "https://news.ycombinator.com/item?id=39135485"
+    ],
+    [
+      "Mabez Rust on Espressif chips – Q4 update",
+      "https://mabez.dev/blog/posts/esp-rust-24-01-2024/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Framing Frames: Bypassing wi-fi encryption by manipulating transmit queues",
       "https://www.usenix.org/conference/usenixsecurity23/presentation/schepers"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 11:07:59",
-      "https://news.ycombinator.com/item?id=39128311"
-    ],
-    [
-      "Heat exchanger masks for cold weather cycling (2019)",
-      "https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/"
     ]
   ],
   [
