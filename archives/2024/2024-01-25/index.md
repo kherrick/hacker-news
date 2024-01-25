@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 13:21:07](https://news.ycombinator.com/item?id=39129274) - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
+* [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
