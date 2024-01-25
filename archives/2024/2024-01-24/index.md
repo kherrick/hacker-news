@@ -46,6 +46,7 @@
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:30:28](https://news.ycombinator.com/item?id=39120019) - [Caltech Machine Learning Video Library](https://work.caltech.edu/library/)
+* [2024-01-24, 17:19:58](https://news.ycombinator.com/item?id=39119881) - [Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)](http://www.doctormonk.com/2024/01/comparingadcs.html)
 * [2024-01-24, 17:18:16](https://news.ycombinator.com/item?id=39119865) - [Why are so many EV charging stations broken in California?](https://www.latimes.com/environment/story/2024-01-24/california-ev-charging-stations-broken)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:13:15](https://news.ycombinator.com/item?id=39119807) - [HP CEO: \"Our long-term objective is to make printing a subscription.\"](https://arstechnica.com/gadgets/2024/01/hp-ceo-blocking-third-party-ink-from-printers-fights-viruses/)

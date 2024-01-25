@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 17:08:41](https://news.ycombinator.com/item?id=39131871) - [An open source DuckDB text to SQL LLM](https://motherduck.com/blog/duckdb-text2sql-llm/)
+* [2024-01-25, 17:07:31](https://news.ycombinator.com/item?id=39131856) - [Impacts of lid closure during toilet flushing](https://www.ajicjournal.org/article/S0196-6553(23)00820-9/fulltext)
 * [2024-01-25, 17:00:55](https://news.ycombinator.com/item?id=39131780) - [Manara (YC W21) Is Hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
 * [2024-01-25, 16:38:03](https://news.ycombinator.com/item?id=39131438) - [Fabrication of Uniform and Rounded Closed-Cell Aluminum Foams](https://www.mdpi.com/2075-4701/14/1/120)
 * [2024-01-25, 16:04:05](https://news.ycombinator.com/item?id=39130984) - [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
@@ -9,7 +11,6 @@
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
-* [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling (2019)](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
@@ -26,10 +27,9 @@
 * [2024-01-25, 02:23:24](https://news.ycombinator.com/item?id=39125518) - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-24, 21:37:19](https://news.ycombinator.com/item?id=39122926) - [A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
-* [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
+* [2024-01-24, 17:19:58](https://news.ycombinator.com/item?id=39119881) - [Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)](http://www.doctormonk.com/2024/01/comparingadcs.html)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
-* [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
 
 ## [Archives](archives/index.md)
 
