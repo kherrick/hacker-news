@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:35:34](https://news.ycombinator.com/item?id=39134046) - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
 * [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
 * [2024-01-25, 19:09:05](https://news.ycombinator.com/item?id=39133608) - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
@@ -12,6 +13,7 @@
 * [2024-01-25, 18:43:12](https://news.ycombinator.com/item?id=39133086) - [HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
 * [2024-01-25, 18:42:13](https://news.ycombinator.com/item?id=39133070) - [Framework: We don't want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
+* [2024-01-25, 18:24:40](https://news.ycombinator.com/item?id=39132766) - [Show HN: Lumos, a Local LLM Chrome Extension](https://github.com/andrewnguonly/Lumos)
 * [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:01:50](https://news.ycombinator.com/item?id=39132437) - [iOS 17.4 Introduces Alternative App Marketplaces with No Commission in EU](https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/)
@@ -45,6 +47,7 @@
 * [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
 * [2024-01-25, 12:59:50](https://news.ycombinator.com/item?id=39129098) - [Turkey hikes interest rate again to 45% after inflation nears 65%](https://www.cnbc.com/2024/01/25/turkey-hikes-interest-rate-again-to-45percent-as-inflation-remains-stubbornly-high.html)
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
+* [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [A smart redesign of chess pieces](https://twitter.com/graycrawford/status/1750225562281632048)
 * [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
