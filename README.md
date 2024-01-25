@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
@@ -26,7 +27,6 @@
 * [2024-01-24, 12:16:38](https://news.ycombinator.com/item?id=39116387) - [Can autoimmune diseases be cured? Scientists see hope at last](https://www.nature.com/articles/d41586-024-00169-7)
 * [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
 * [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
-* [2024-01-23, 23:02:18](https://news.ycombinator.com/item?id=39111205) - [The Enchippening](https://sarahconstantin.substack.com/p/the-enchippening)
 * [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
 * [2024-01-23, 15:38:53](https://news.ycombinator.com/item?id=39104804) - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 * [2024-01-23, 06:52:37](https://news.ycombinator.com/item?id=39100340) - [Mr. Rogers' music was intricate (2020) [video]](https://www.youtube.com/watch?v=Z40SZ77CHK0)
