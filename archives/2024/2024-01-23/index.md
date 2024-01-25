@@ -24,6 +24,7 @@
 * [2024-01-23, 20:45:49](https://news.ycombinator.com/item?id=39109513) - [Mozilla's \"Platform Tilt\" shows how Firefox is harmed by Apple, Microsoft](https://www.howtogeek.com/mozilla-firefox-platform-tilt-launch/)
 * [2024-01-23, 20:43:25](https://news.ycombinator.com/item?id=39109481) - [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [2024-01-23, 20:42:28](https://news.ycombinator.com/item?id=39109469) - [Machine Learning Is Still Too Hard for Software Engineers](https://www.nyckel.com/blog/machine-learning-difficulties/)
+* [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
 * [2024-01-23, 20:36:04](https://news.ycombinator.com/item?id=39109393) - [Why I Love Tailwind CSS](https://ben.page/tailwind)
 * [2024-01-23, 20:31:06](https://news.ycombinator.com/item?id=39109327) - [The Beirut Port Explosion Forensic Investigation](https://forensic-architecture.org/investigation/beirut-port-explosion)
 * [2024-01-23, 20:29:35](https://news.ycombinator.com/item?id=39109304) - [Spotting LLMs with Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/abs/2401.12070)
