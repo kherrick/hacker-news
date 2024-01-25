@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-01-25, 18:43:12",
-      "https://news.ycombinator.com/item?id=39133086"
-    ],
-    [
-      "HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14",
-      "https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 18:33:05",
       "https://news.ycombinator.com/item?id=39132901"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39132766"
     ],
     [
-      "Show HN: Lumos, a Local LLM Chrome Extension",
+      "Show HN: Lumos, a local LLM Chrome extension",
       "https://github.com/andrewnguonly/Lumos"
     ]
   ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2024-01-25, 15:44:37",
-      "https://news.ycombinator.com/item?id=39130736"
-    ],
-    [
-      "PRQL as a DuckDB Extension",
-      "https://github.com/ywelsch/duckdb-prql"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 15:42:39",
       "https://news.ycombinator.com/item?id=39130711"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-01-25, 12:45:54",
+      "https://news.ycombinator.com/item?id=39128977"
+    ],
+    [
+      "Japan's precision moon lander has hit its target, but appears to be upside-down",
+      "https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 12:36:24",
       "https://news.ycombinator.com/item?id=39128902"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=39128372"
     ],
     [
-      "Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues",
+      "Framing Frames: Bypassing wi-fi encryption by manipulating transmit queues",
       "https://www.usenix.org/conference/usenixsecurity23/presentation/schepers"
     ]
   ],
@@ -241,12 +231,32 @@
   ],
   [
     [
+      "2024-01-25, 07:19:38",
+      "https://news.ycombinator.com/item?id=39127080"
+    ],
+    [
+      "Ossian, the ‘Homer of the North’, the greatest literary hoax (2016)",
+      "https://www.independent.co.uk/arts-entertainment/books/news/ossian-literary-hoax-james-macpherson-fingal-mathematics-social-network-study-a7371806.html"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 07:09:53",
       "https://news.ycombinator.com/item?id=39127028"
     ],
     [
       "Brains are not required to think or solve problems – simple cells can do it",
       "https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 05:47:22",
+      "https://news.ycombinator.com/item?id=39126575"
+    ],
+    [
+      "A 13th-century Arabic cookbook reveals the culinary life of al-Andalus",
+      "https://www.atlasobscura.com/articles/exiles-cookbook"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Babashka: Fast native Clojure scripting runtime",
       "https://babashka.org/"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 17:19:58",
-      "https://news.ycombinator.com/item?id=39119881"
-    ],
-    [
-      "Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)",
-      "http://www.doctormonk.com/2024/01/comparingadcs.html"
     ]
   ],
   [
