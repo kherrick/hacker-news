@@ -2,15 +2,13 @@
 
 * [2024-01-25, 16:04:05](https://news.ycombinator.com/item?id=39130984) - [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
 * [2024-01-25, 15:53:40](https://news.ycombinator.com/item?id=39130849) - [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
-* [2024-01-25, 15:51:48](https://news.ycombinator.com/item?id=39130818) - [Control Mark Zuckerbergs smile property](https://terkelg.github.io/zuckerberg.smile/)
 * [2024-01-25, 15:44:37](https://news.ycombinator.com/item?id=39130736) - [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)
 * [2024-01-25, 15:44:00](https://news.ycombinator.com/item?id=39130730) - [College Is All About Curiosity. And That Requires Free Speech.](https://www.nytimes.com/2024/01/24/magazine/college-free-speech.html)
 * [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
-* [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
-* [2024-01-25, 12:59:50](https://news.ycombinator.com/item?id=39129098) - [Turkey hikes interest rate again to 45% after inflation nears 65%](https://www.cnbc.com/2024/01/25/turkey-hikes-interest-rate-again-to-45percent-as-inflation-remains-stubbornly-high.html)
+* [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling (2019)](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
@@ -28,8 +26,10 @@
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-24, 21:37:19](https://news.ycombinator.com/item?id=39122926) - [A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
+* [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
 
 ## [Archives](archives/index.md)
 
