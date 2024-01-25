@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 17:37:33](https://news.ycombinator.com/item?id=39132185) - [The 2023 Hugo nomination statistics have been released and we have questions](https://corabuhlert.com/2024/01/21/the-2023-hugo-nomination-statistics-have-finally-been-release-and-we-have-questions/)
 * [2024-01-25, 17:28:51](https://news.ycombinator.com/item?id=39132091) - [Why Is the Web So Monotonous? Google (2022)](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
 * [2024-01-25, 17:22:16](https://news.ycombinator.com/item?id=39132026) - [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
 * [2024-01-25, 17:08:41](https://news.ycombinator.com/item?id=39131871) - [An open source DuckDB text to SQL LLM](https://motherduck.com/blog/duckdb-text2sql-llm/)
 * [2024-01-25, 17:07:31](https://news.ycombinator.com/item?id=39131856) - [Impacts of lid closure during toilet flushing](https://www.ajicjournal.org/article/S0196-6553(23)00820-9/fulltext)
 * [2024-01-25, 17:00:55](https://news.ycombinator.com/item?id=39131780) - [Manara (YC W21) Is Hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
-* [2024-01-25, 16:57:40](https://news.ycombinator.com/item?id=39131729) - [On my resignation as regulator of Dutch intelligence and security services(2022)](https://berthub.eu/articles/posts/resignation-as-intelligence-regulator/)
 * [2024-01-25, 16:38:03](https://news.ycombinator.com/item?id=39131438) - [Fabrication of Uniform and Rounded Closed-Cell Aluminum Foams](https://www.mdpi.com/2075-4701/14/1/120)
 * [2024-01-25, 15:53:40](https://news.ycombinator.com/item?id=39130849) - [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
 * [2024-01-25, 15:44:37](https://news.ycombinator.com/item?id=39130736) - [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)

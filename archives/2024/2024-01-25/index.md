@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 17:37:33](https://news.ycombinator.com/item?id=39132185) - [The 2023 Hugo nomination statistics have been released and we have questions](https://corabuhlert.com/2024/01/21/the-2023-hugo-nomination-statistics-have-finally-been-release-and-we-have-questions/)
 * [2024-01-25, 17:28:51](https://news.ycombinator.com/item?id=39132091) - [Why Is the Web So Monotonous? Google (2022)](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
 * [2024-01-25, 17:22:16](https://news.ycombinator.com/item?id=39132026) - [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
 * [2024-01-25, 17:08:41](https://news.ycombinator.com/item?id=39131871) - [An open source DuckDB text to SQL LLM](https://motherduck.com/blog/duckdb-text2sql-llm/)
