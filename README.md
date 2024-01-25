@@ -2,6 +2,7 @@
 
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+* [2024-01-25, 02:16:12](https://news.ycombinator.com/item?id=39125467) - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
@@ -21,7 +22,6 @@
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 17:04:51](https://news.ycombinator.com/item?id=39119725) - [Ultralight, strong, and self-reprogrammable mechanical metamaterials](https://www.science.org/doi/10.1126/scirobotics.adi2746)
-* [2024-01-24, 15:27:43](https://news.ycombinator.com/item?id=39118438) - [Embracing Common Lisp in the modern world](https://www.juxt.pro/blog/common-lisp-in-modern-world/)
 * [2024-01-24, 15:20:12](https://news.ycombinator.com/item?id=39118349) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 15:17:09](https://news.ycombinator.com/item?id=39118314) - [How Euler Did It, by Ed Sandifer](http://eulerarchive.maa.org/hedi/index.html)
 * [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
