@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-25, 01:05:13",
-      "https://news.ycombinator.com/item?id=39124882"
+      "2024-01-25, 02:17:35",
+      "https://news.ycombinator.com/item?id=39125477"
     ],
     [
-      "Asbestos in drinking water: An overlooked health risk?",
-      "https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk"
+      "Ollama releases Python and JavaScript Libraries",
+      "https://ollama.ai/blog/python-javascript-libraries"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 01:27:57",
+      "https://news.ycombinator.com/item?id=39125063"
+    ],
+    [
+      "Forkrun: Runs multiple inputs through a command in parallel using bash coprocs",
+      "https://github.com/jkool702/forkrun"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "A minimal-part-count way to connect an SD card to a 68K",
       "http://dmitry.gr/?r=05.Projects&proj=34.%20springSD"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 23:52:18",
+      "https://news.ycombinator.com/item?id=39124291"
+    ],
+    [
+      "User Manual for the Zuse Z4 Discovered (2020)",
+      "https://cacm.acm.org/blogs/blog-cacm/247521-discovery-user-manual-of-the-oldest-surviving-computer-in-the-world/fulltext"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "On \"Owning\" Software",
       "https://avdi.codes/on-owning-software/"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 20:48:10",
-      "https://news.ycombinator.com/item?id=39122440"
-    ],
-    [
-      "Abacus: Mystery of the Bead (2004)",
-      "http://totton.idirect.com/abacus/pages.htm"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "2023 Letter",
       "https://danwang.co/2023-letter/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 16:26:48",
-      "https://news.ycombinator.com/item?id=39105502"
-    ],
-    [
-      "Show HN: Retriever – Securely share secrets over the internet",
-      "https://retriever.corgea.io/"
     ]
   ],
   [
