@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+* [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 01:05:13](https://news.ycombinator.com/item?id=39124882) - [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
