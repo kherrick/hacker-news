@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:57:07](https://news.ycombinator.com/item?id=39129578) - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 * [2024-01-25, 13:32:42](https://news.ycombinator.com/item?id=39129367) - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)
 * [2024-01-25, 13:21:07](https://news.ycombinator.com/item?id=39129274) - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)

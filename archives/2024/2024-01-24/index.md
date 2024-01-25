@@ -21,6 +21,7 @@
 * [2024-01-24, 21:57:00](https://news.ycombinator.com/item?id=39123104) - [Tesla Q4 2023 Earnings Report [pdf]](https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q4-2023-Update.pdf)
 * [2024-01-24, 21:51:45](https://news.ycombinator.com/item?id=39123053) - [Raspberry Pi PCIe Database](https://pipci.jeffgeerling.com/)
 * [2024-01-24, 21:38:07](https://news.ycombinator.com/item?id=39122929) - [Majority of America's underground water stores are drying up, study finds](https://thehill.com/policy/equilibrium-sustainability/4426143-majority-of-americas-underground-water-stores-are-drying-up-study-finds/)
+* [2024-01-24, 21:37:19](https://news.ycombinator.com/item?id=39122926) - [A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
 * [2024-01-24, 21:26:23](https://news.ycombinator.com/item?id=39122841) - [Everything Is a File](https://en.wikipedia.org/wiki/Everything_is_a_file)
 * [2024-01-24, 21:19:22](https://news.ycombinator.com/item?id=39122778) - [How many high school stars make it in the NBA?](https://pudding.cool/2019/03/hype/)
 * [2024-01-24, 21:15:31](https://news.ycombinator.com/item?id=39122742) - [San Francisco Tried to Build a $1.7M Toilet. It's Still Not Done](https://www.nytimes.com/2024/01/24/us/san-francisco-toilet.html)
