@@ -121,6 +121,7 @@
 * [2024-01-24, 01:50:19](https://news.ycombinator.com/item?id=39112632) - [Fix: Hong Kong is not in China](https://github.com/goplus/gop/pull/1397)
 * [2024-01-24, 01:45:30](https://news.ycombinator.com/item?id=39112602) - [Physics of 300-year-old firefighting methods could inform how our hearts work](https://phys.org/news/2024-01-physics-year-firefighting-methods-knowledge.html)
 * [2024-01-24, 01:29:02](https://news.ycombinator.com/item?id=39112486) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
+* [2024-01-24, 01:13:56](https://news.ycombinator.com/item?id=39112378) - [The Failed Saint: On George Orwell's India](https://lareviewofbooks.org/article/the-failed-saint-on-george-orwells-india/)
 * [2024-01-24, 01:12:52](https://news.ycombinator.com/item?id=39112372) - [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 * [2024-01-24, 01:09:25](https://news.ycombinator.com/item?id=39112346) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring a Research Scientist](https://news.ycombinator.com/item?id=39112346)
 * [2024-01-24, 00:28:13](https://news.ycombinator.com/item?id=39111991) - [Magic Ink (2006)](http://worrydream.com/MagicInk/)
