@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 16:06:35](https://news.ycombinator.com/item?id=39131025) - [Tesla shares tumble as analyst decries 'train wreck' investor call](https://www.washingtonpost.com/business/2024/01/25/tesla-share-price-earnings/)
 * [2024-01-25, 15:38:54](https://news.ycombinator.com/item?id=39130652) - [Israeli Settlers Dig Small Graves in Front of Palestinian School in Jericho](https://medium.com/@chrisjeffrieshomelessromantic/israeli-settlers-dig-small-graves-in-front-of-palestinian-bedouin-school-in-jericho-west-bank-to-48a66bb41889)
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
@@ -20,6 +21,7 @@
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
 * [2024-01-25, 10:53:07](https://news.ycombinator.com/item?id=39128234) - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
 * [2024-01-25, 10:26:34](https://news.ycombinator.com/item?id=39128072) - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
+* [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 09:16:00](https://news.ycombinator.com/item?id=39127683) - [Digital Ocean killed my droplets and gives a vague reply](https://news.ycombinator.com/item?id=39127683)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)

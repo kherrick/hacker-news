@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-25, 15:38:54](https://news.ycombinator.com/item?id=39130652) - [Israeli Settlers Dig Small Graves in Front of Palestinian School in Jericho](https://medium.com/@chrisjeffrieshomelessromantic/israeli-settlers-dig-small-graves-in-front-of-palestinian-bedouin-school-in-jericho-west-bank-to-48a66bb41889)
+* [2024-01-25, 16:06:35](https://news.ycombinator.com/item?id=39131025) - [Tesla shares tumble as analyst decries 'train wreck' investor call](https://www.washingtonpost.com/business/2024/01/25/tesla-share-price-earnings/)
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
@@ -11,6 +11,7 @@
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling (2019)](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
+* [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 08:27:38](https://news.ycombinator.com/item?id=39127432) - [GHC Steering Committee Retrospective](https://www.joachim-breitner.de/blog/811-GHC_Steering_Committee_Retrospective)
@@ -26,7 +27,6 @@
 * [2024-01-24, 21:37:19](https://news.ycombinator.com/item?id=39122926) - [A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
-* [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
 * [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
