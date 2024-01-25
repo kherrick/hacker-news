@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 18:43:12](https://news.ycombinator.com/item?id=39133086) - [HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
 * [2024-01-25, 18:42:13](https://news.ycombinator.com/item?id=39133070) - [Framework: We don't want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 * [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
