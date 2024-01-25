@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-25, 14:10:39",
+      "https://news.ycombinator.com/item?id=39129711"
+    ],
+    [
+      "Shouldn't FROM come before SELECT in SQL?",
+      "https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 13:57:07",
       "https://news.ycombinator.com/item?id=39129578"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-01-25, 00:28:58",
-      "https://news.ycombinator.com/item?id=39124614"
-    ],
-    [
-      "Show HN: Integer Map Data Structure",
-      "https://github.com/billziss-gh/imap"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 00:18:47",
       "https://news.ycombinator.com/item?id=39124522"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-24, 21:37:19",
+      "https://news.ycombinator.com/item?id=39122926"
+    ],
+    [
+      "A Single Small Map Is Enough for a Lifetime",
+      "https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 21:01:03",
       "https://news.ycombinator.com/item?id=39122591"
     ],
@@ -277,16 +287,6 @@
     [
       "Zed, a collaborative code editor, is now open source",
       "https://zed.dev/blog/zed-is-now-open-source"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 10:45:37",
-      "https://news.ycombinator.com/item?id=39115837"
-    ],
-    [
-      "Breaking Free from DRM: Hacking My Air Purifier",
-      "https://unethical.info/2024/01/24/hacking-my-air-purifier/"
     ]
   ],
   [
