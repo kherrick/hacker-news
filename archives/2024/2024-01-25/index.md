@@ -30,6 +30,7 @@
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 02:16:12](https://news.ycombinator.com/item?id=39125467) - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
+* [2024-01-25, 01:21:51](https://news.ycombinator.com/item?id=39125016) - [Wild Apples: The 12 weirdest and rarest Macs ever made](https://arstechnica.com/gadgets/2024/01/macintosh-at-40-the-oddest-and-rarest-macs-ever-built/)
 * [2024-01-25, 01:05:13](https://news.ycombinator.com/item?id=39124882) - [Asbestos in drinking water: An overlooked health risk?](https://www.bbc.com/future/article/20240124-asbestos-in-drinking-water-an-overlooked-health-risk)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
