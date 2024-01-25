@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [The Two Sides of Software Testing: Checking and Exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:35:34](https://news.ycombinator.com/item?id=39134046) - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
 * [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
@@ -37,6 +38,7 @@
 * [2024-01-25, 15:44:37](https://news.ycombinator.com/item?id=39130736) - [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)
 * [2024-01-25, 15:44:00](https://news.ycombinator.com/item?id=39130730) - [College Is All About Curiosity. And That Requires Free Speech.](https://www.nytimes.com/2024/01/24/magazine/college-free-speech.html)
 * [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
+* [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 15:38:54](https://news.ycombinator.com/item?id=39130652) - [Israeli Settlers Dig Small Graves in Front of Palestinian School in Jericho](https://medium.com/@chrisjeffrieshomelessromantic/israeli-settlers-dig-small-graves-in-front-of-palestinian-bedouin-school-in-jericho-west-bank-to-48a66bb41889)
 * [2024-01-25, 15:14:41](https://news.ycombinator.com/item?id=39130376) - [6 Deaf Children Can Now Hear After a Single Injection](https://www.wired.com/story/deaf-children-hear-gene-therapy/)
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
