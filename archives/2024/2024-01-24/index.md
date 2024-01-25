@@ -10,6 +10,7 @@
 * [2024-01-24, 23:49:20](https://news.ycombinator.com/item?id=39124256) - [Researchers find signs of intelligence among jumping spiders](https://knowablemagazine.org/content/article/mind/2021/are-spiders-intelligent)
 * [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
 * [2024-01-24, 23:47:02](https://news.ycombinator.com/item?id=39124238) - [Tech Trend: Shanzhai (2009)](https://www.bunniestudios.com/blog/?p=284)
+* [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
 * [2024-01-24, 23:26:30](https://news.ycombinator.com/item?id=39124062) - [Religious 'Nones' are now the largest single group in the U.S.](https://www.npr.org/2024/01/24/1226371734/religious-nones-are-now-the-largest-single-group-in-the-u-s)
 * [2024-01-24, 23:06:12](https://news.ycombinator.com/item?id=39123862) - [Lightweight JavaScript Framework Review (For Django Developers)](https://saashammer.com/blog/lightweight-javascript-framework-review-for-django-developers/)
 * [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123795) - [On \"Owning\" Software](https://avdi.codes/on-owning-software/)
