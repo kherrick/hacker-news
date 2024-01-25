@@ -118,6 +118,7 @@
 * [2024-01-24, 02:55:46](https://news.ycombinator.com/item?id=39113064) - [OpenAI Microscope](https://openai.com/research/microscope)
 * [2024-01-24, 02:48:44](https://news.ycombinator.com/item?id=39113017) - [New York City plans to wipe out $2B in medical debt for 500k residents](https://abcnews.go.com/US/wireStory/new-york-city-plans-wipe-2-billion-medical-106570030)
 * [2024-01-24, 02:40:47](https://news.ycombinator.com/item?id=39112958) - [Apple Vision Pro and the importance of tinkering](https://arjonagelhout.nl/writings/2024-01-24_apple_vision_pro/)
+* [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 * [2024-01-24, 02:31:11](https://news.ycombinator.com/item?id=39112907) - [Global carbon markets overcredit cookstove greenhouse gas reductions by 10](https://phys.org/news/2024-01-global-carbon-overcredit-cookstove-greenhouse.html)
 * [2024-01-24, 02:21:10](https://news.ycombinator.com/item?id=39112848) - [Balancing Engineering Cultures: Debate Everything vs. Just Tell Me What to Build](https://www.fishmanafnewsletter.com/p/balancing-engineering-cultures-debate-vs-do)
 * [2024-01-24, 01:53:24](https://news.ycombinator.com/item?id=39112659) - [Farm owners bewildered after Apple Maps removes business and street from app](https://www.abc.net.au/news/2024-01-24/apple-maps-removes-farm-business-and-street-from-app-victoria/103375288)

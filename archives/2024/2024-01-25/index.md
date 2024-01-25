@@ -6,6 +6,7 @@
 
 * [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
+* [2024-01-25, 18:01:50](https://news.ycombinator.com/item?id=39132437) - [iOS 17.4 Introduces Alternative App Marketplaces with No Commission in EU](https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/)
 * [2024-01-25, 17:37:33](https://news.ycombinator.com/item?id=39132185) - [The 2023 Hugo nomination statistics have been released and we have questions](https://corabuhlert.com/2024/01/21/the-2023-hugo-nomination-statistics-have-finally-been-release-and-we-have-questions/)
 * [2024-01-25, 17:28:51](https://news.ycombinator.com/item?id=39132091) - [Why Is the Web So Monotonous? Google (2022)](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
 * [2024-01-25, 17:27:06](https://news.ycombinator.com/item?id=39132073) - [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
