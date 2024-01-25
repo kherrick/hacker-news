@@ -2,6 +2,7 @@
 
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
 * [2024-01-25, 22:15:15](https://news.ycombinator.com/item?id=39136137) - [The Annual Cost of Technical Debt: $1.52T](https://itzareyesmx.medium.com/the-annual-cost-of-technical-debt-1-52-trillion-65afaa1e0005)
+* [2024-01-25, 21:42:35](https://news.ycombinator.com/item?id=39135779) - [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
 * [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [Two sides of software testing: Checking and exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
@@ -16,7 +17,6 @@
 * [2024-01-25, 16:00:52](https://news.ycombinator.com/item?id=39130945) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
-* [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp is a free Bandcamp alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
