@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 * [2024-01-25, 04:12:44](https://news.ycombinator.com/item?id=39126121) - [Aluminum mining waste could be a source of green steel](https://arstechnica.com/science/2024/01/researchers-figure-out-how-to-extract-green-iron-from-mining-waste/)
 * [2024-01-25, 04:01:32](https://news.ycombinator.com/item?id=39126063) - [Boeing, not Spirit (supplier), mis-installed piece that blew off Alaska MAX 9](https://www.seattletimes.com/business/boeing-aerospace/boeing-not-spirit-mis-installed-piece-that-blew-off-alaska-max-9-jet/)
 * [2024-01-25, 04:00:24](https://news.ycombinator.com/item?id=39126049) - [Which Shows Got Their Finale Right, and Which Didn't? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
