@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
-* [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:57:07](https://news.ycombinator.com/item?id=39129578) - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 * [2024-01-25, 13:32:42](https://news.ycombinator.com/item?id=39129367) - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)
 * [2024-01-25, 13:21:07](https://news.ycombinator.com/item?id=39129274) - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
@@ -21,15 +20,16 @@
 * [2024-01-25, 02:23:24](https://news.ycombinator.com/item?id=39125518) - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-* [2024-01-24, 23:55:39](https://news.ycombinator.com/item?id=39124322) - [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
-* [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
+* [2024-01-25, 00:18:47](https://news.ycombinator.com/item?id=39124522) - [Chemicals that cure malaria can kill weeds too (2017)](https://www.news.uwa.edu.au/archive/201704039514/chemicals-cure-malaria-can-kill-weeds-too/)
 * [2024-01-24, 23:47:02](https://news.ycombinator.com/item?id=39124238) - [Tech Trend: Shanzhai (2009)](https://www.bunniestudios.com/blog/?p=284)
 * [2024-01-24, 21:37:19](https://news.ycombinator.com/item?id=39122926) - [A Single Small Map Is Enough for a Lifetime](https://www.noemamag.com/a-single-small-map-is-enough-for-a-lifetime/)
 * [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup funding simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
+* [2024-01-24, 10:45:37](https://news.ycombinator.com/item?id=39115837) - [Breaking Free from DRM: Hacking My Air Purifier](https://unethical.info/2024/01/24/hacking-my-air-purifier/)
 * [2024-01-23, 20:40:16](https://news.ycombinator.com/item?id=39109445) - [2023 Letter](https://danwang.co/2023-letter/)
+* [2024-01-23, 16:26:48](https://news.ycombinator.com/item?id=39105502) - [Show HN: Retriever – Securely share secrets over the internet](https://retriever.corgea.io/)
 
 ## [Archives](archives/index.md)
 
