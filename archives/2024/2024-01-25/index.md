@@ -6,6 +6,7 @@
 
 * [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
+* [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
 * [2024-01-25, 10:53:07](https://news.ycombinator.com/item?id=39128234) - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
 * [2024-01-25, 10:26:34](https://news.ycombinator.com/item?id=39128072) - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 * [2024-01-25, 09:16:00](https://news.ycombinator.com/item?id=39127683) - [Digital Ocean killed my droplets and gives a vague reply](https://news.ycombinator.com/item?id=39127683)
