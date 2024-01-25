@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-25, 19:35:34",
-      "https://news.ycombinator.com/item?id=39134046"
+      "2024-01-25, 19:58:09",
+      "https://news.ycombinator.com/item?id=39134349"
     ],
     [
-      "Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired",
-      "https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/"
+      "Due to blade damage, Mars Helicopter Ingenuity will not fly again",
+      "https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/"
     ]
   ],
   [
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=39132901"
     ],
     [
-      "OpenAI: New embedding models and API updates",
+      "New embedding models and API updates",
       "https://openai.com/blog/new-embedding-models-and-api-updates"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 18:24:40",
+      "https://news.ycombinator.com/item?id=39132766"
+    ],
+    [
+      "Show HN: Lumos, a Local LLM Chrome Extension",
+      "https://github.com/andrewnguonly/Lumos"
     ]
   ],
   [
@@ -185,8 +195,18 @@
       "https://news.ycombinator.com/item?id=39129155"
     ],
     [
-      "Faircamp Is a Free Bandcamp Alternative",
+      "Faircamp is a free Bandcamp alternative",
       "https://wedistribute.org/2023/11/introducing-faircamp/"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 12:36:24",
+      "https://news.ycombinator.com/item?id=39128902"
+    ],
+    [
+      "A smart redesign of chess pieces",
+      "https://twitter.com/graycrawford/status/1750225562281632048"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-01-25, 08:47:43",
-      "https://news.ycombinator.com/item?id=39127532"
-    ],
-    [
-      "How AI is changing gymnastics judging",
-      "https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 07:09:53",
       "https://news.ycombinator.com/item?id=39127028"
     ],
@@ -267,16 +277,6 @@
     [
       "Babashka: Fast native Clojure scripting runtime",
       "https://babashka.org/"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 17:19:58",
-      "https://news.ycombinator.com/item?id=39119881"
-    ],
-    [
-      "Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)",
-      "http://www.doctormonk.com/2024/01/comparingadcs.html"
     ]
   ],
   [
