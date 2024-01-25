@@ -34,6 +34,7 @@
 * [2024-01-24, 19:25:51](https://news.ycombinator.com/item?id=39121574) - [Jon Stewart Returns to 'The Daily Show'](https://www.wsj.com/arts-culture/television/jon-stewart-returns-to-the-daily-show-b1a137b6)
 * [2024-01-24, 19:22:19](https://news.ycombinator.com/item?id=39121530) - [This anime exposed a $28,000,000,000 sweatshop [video]](https://www.youtube.com/watch?v=BDEIPa9b3OU)
 * [2024-01-24, 19:21:11](https://news.ycombinator.com/item?id=39121521) - [OpenAI Scrapped a Promise to Disclose Key Documents to the Public](https://www.wired.com/story/openai-scrapped-promise-disclose-key-documents/)
+* [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
 * [2024-01-24, 18:59:00](https://news.ycombinator.com/item?id=39121262) - [The First Microprocessor: F-14 Central Air Data Computer [video]](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-24, 18:51:45](https://news.ycombinator.com/item?id=39121183) - [Sqlite3 Utility in the Browser](https://sqlite.org/fiddle/index.html)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)

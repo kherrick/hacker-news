@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 19:35:34](https://news.ycombinator.com/item?id=39134046) - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
 * [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
 * [2024-01-25, 19:09:05](https://news.ycombinator.com/item?id=39133608) - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
