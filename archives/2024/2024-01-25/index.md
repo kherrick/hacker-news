@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
+* [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 17:37:33](https://news.ycombinator.com/item?id=39132185) - [The 2023 Hugo nomination statistics have been released and we have questions](https://corabuhlert.com/2024/01/21/the-2023-hugo-nomination-statistics-have-finally-been-release-and-we-have-questions/)
 * [2024-01-25, 17:28:51](https://news.ycombinator.com/item?id=39132091) - [Why Is the Web So Monotonous? Google (2022)](https://reasonablypolymorphic.com/blog/monotonous-web/index.html)
+* [2024-01-25, 17:27:06](https://news.ycombinator.com/item?id=39132073) - [Do Elephants Have Souls?](https://www.thenewatlantis.com/publications/do-elephants-have-souls)
 * [2024-01-25, 17:22:16](https://news.ycombinator.com/item?id=39132026) - [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
 * [2024-01-25, 17:08:41](https://news.ycombinator.com/item?id=39131871) - [An open source DuckDB text to SQL LLM](https://motherduck.com/blog/duckdb-text2sql-llm/)
 * [2024-01-25, 17:07:31](https://news.ycombinator.com/item?id=39131856) - [Impacts of lid closure during toilet flushing](https://www.ajicjournal.org/article/S0196-6553(23)00820-9/fulltext)
@@ -20,6 +23,7 @@
 * [2024-01-25, 15:44:00](https://news.ycombinator.com/item?id=39130730) - [College Is All About Curiosity. And That Requires Free Speech.](https://www.nytimes.com/2024/01/24/magazine/college-free-speech.html)
 * [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
 * [2024-01-25, 15:38:54](https://news.ycombinator.com/item?id=39130652) - [Israeli Settlers Dig Small Graves in Front of Palestinian School in Jericho](https://medium.com/@chrisjeffrieshomelessromantic/israeli-settlers-dig-small-graves-in-front-of-palestinian-bedouin-school-in-jericho-west-bank-to-48a66bb41889)
+* [2024-01-25, 15:14:41](https://news.ycombinator.com/item?id=39130376) - [6 Deaf Children Can Now Hear After a Single Injection](https://www.wired.com/story/deaf-children-hear-gene-therapy/)
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
