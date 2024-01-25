@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 17:00:55](https://news.ycombinator.com/item?id=39131780) - [Manara (YC W21) Is Hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
+* [2024-01-25, 16:38:03](https://news.ycombinator.com/item?id=39131438) - [Fabrication of Uniform and Rounded Closed-Cell Aluminum Foams](https://www.mdpi.com/2075-4701/14/1/120)
 * [2024-01-25, 16:06:35](https://news.ycombinator.com/item?id=39131025) - [Tesla shares tumble as analyst decries 'train wreck' investor call](https://www.washingtonpost.com/business/2024/01/25/tesla-share-price-earnings/)
 * [2024-01-25, 16:04:05](https://news.ycombinator.com/item?id=39130984) - [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
 * [2024-01-25, 15:53:40](https://news.ycombinator.com/item?id=39130849) - [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
