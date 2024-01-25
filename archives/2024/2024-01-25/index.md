@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
+* [2024-01-25, 19:09:05](https://news.ycombinator.com/item?id=39133608) - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
 * [2024-01-25, 18:43:12](https://news.ycombinator.com/item?id=39133086) - [HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
 * [2024-01-25, 18:42:13](https://news.ycombinator.com/item?id=39133070) - [Framework: We don't want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
