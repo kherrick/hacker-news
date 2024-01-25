@@ -2,10 +2,10 @@
 
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
-* [2024-01-25, 02:16:12](https://news.ycombinator.com/item?id=39125467) - [A Leaked Memo from Google CEO Sundar Pichai Comes Amidst Employee Discontent](https://www.inc.com/nick-hobson/a-leaked-memo-from-google-ceo-sundar-pichai-comes-amidst-employee-discontent-no-ceo-wants-this-for-their-company.html)
 * [2024-01-25, 01:27:57](https://news.ycombinator.com/item?id=39125063) - [Forkrun: Runs multiple inputs through a command in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 01:01:59](https://news.ycombinator.com/item?id=39124855) - [Jerry (YC S17) Is Hiring Eng, PM, Data, Cos, Ops etc. (Remote)](https://getjerry.com/careers)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
+* [2024-01-25, 00:17:39](https://news.ycombinator.com/item?id=39124510) - [DigMixer: Protocols](https://codeblog.jonskeet.uk/2024/01/02/digimixer-protocols/)
 * [2024-01-24, 23:55:39](https://news.ycombinator.com/item?id=39124322) - [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
 * [2024-01-24, 23:54:08](https://news.ycombinator.com/item?id=39124309) - [Promotion of Scientific Pubs on ArXiv and X on the Rise and Impacts Citations](https://arxiv.org/abs/2401.11116)
 * [2024-01-24, 23:52:18](https://news.ycombinator.com/item?id=39124291) - [User Manual for the Zuse Z4 Discovered (2020)](https://cacm.acm.org/blogs/blog-cacm/247521-discovery-user-manual-of-the-oldest-surviving-computer-in-the-world/fulltext)
