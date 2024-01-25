@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [The Two Sides of Software Testing: Checking and Exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
+* [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [Two sides of software testing: Checking and exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
 * [2024-01-25, 18:54:48](https://news.ycombinator.com/item?id=39133338) - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
@@ -9,9 +9,9 @@
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:00:43](https://news.ycombinator.com/item?id=39132423) - [The Uncomfortable – a collection of deliberately inconvenient objects](https://www.theuncomfortable.com/)
 * [2024-01-25, 17:49:14](https://news.ycombinator.com/item?id=39132300) - [CVE-2023-40547 – avoid incorrectly trusting HTTP headers](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
-* [2024-01-25, 17:22:16](https://news.ycombinator.com/item?id=39132026) - [Social Media, AI, and the Battle for Your Brain](https://proto.life/2023/12/social-media-artificial-intelligence-and-the-battle-for-your-brain/)
 * [2024-01-25, 17:08:41](https://news.ycombinator.com/item?id=39131871) - [An open source DuckDB text to SQL LLM](https://motherduck.com/blog/duckdb-text2sql-llm/)
 * [2024-01-25, 17:00:55](https://news.ycombinator.com/item?id=39131780) - [Manara (YC W21) is hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
+* [2024-01-25, 16:05:36](https://news.ycombinator.com/item?id=39131010) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-25, 16:00:52](https://news.ycombinator.com/item?id=39130945) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
