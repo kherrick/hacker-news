@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-25, 10:53:07](https://news.ycombinator.com/item?id=39128234) - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
+* [2024-01-25, 10:26:34](https://news.ycombinator.com/item?id=39128072) - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
@@ -20,7 +21,6 @@
 * [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
 * [2024-01-24, 23:47:02](https://news.ycombinator.com/item?id=39124238) - [Tech Trend: Shanzhai (2009)](https://www.bunniestudios.com/blog/?p=284)
 * [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123795) - [On \"Owning\" Software](https://avdi.codes/on-owning-software/)
-* [2024-01-24, 21:01:03](https://news.ycombinator.com/item?id=39122591) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-01-24, 20:32:48](https://news.ycombinator.com/item?id=39122286) - [BLIS: A BLAS-like framework for basic linear algebra routines](https://github.com/flame/blis)
 * [2024-01-24, 18:46:07](https://news.ycombinator.com/item?id=39121101) - [We made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb)
 * [2024-01-24, 18:22:28](https://news.ycombinator.com/item?id=39120773) - [Train robbery for Amazon packages? More common than you think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)

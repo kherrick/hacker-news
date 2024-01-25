@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
 * [2024-01-25, 10:53:07](https://news.ycombinator.com/item?id=39128234) - [Tesla Makes It Harder for Investors to Ignore Its Problems](https://www.wsj.com/business/autos/tesla-makes-it-harder-for-investors-to-ignore-its-problems-511a2c40)
+* [2024-01-25, 10:26:34](https://news.ycombinator.com/item?id=39128072) - [The Intellectual We Deserve](https://www.currentaffairs.org/2018/03/the-intellectual-we-deserve)
 * [2024-01-25, 09:16:00](https://news.ycombinator.com/item?id=39127683) - [Digital Ocean killed my droplets and gives a vague reply](https://news.ycombinator.com/item?id=39127683)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
