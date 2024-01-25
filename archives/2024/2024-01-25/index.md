@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 * [2024-01-25, 06:48:14](https://news.ycombinator.com/item?id=39126924) - [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
 * [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
 * [2024-01-25, 04:12:44](https://news.ycombinator.com/item?id=39126121) - [Aluminum mining waste could be a source of green steel](https://arstechnica.com/science/2024/01/researchers-figure-out-how-to-extract-green-iron-from-mining-waste/)
