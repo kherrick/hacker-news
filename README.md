@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
 * [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [Two sides of software testing: Checking and exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
@@ -13,7 +14,6 @@
 * [2024-01-25, 17:00:55](https://news.ycombinator.com/item?id=39131780) - [Manara (YC W21) is hiring](https://manara.breezy.hr/p/2c46c063355c-senior-founding-product-designer)
 * [2024-01-25, 16:05:36](https://news.ycombinator.com/item?id=39131010) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-25, 16:00:52](https://news.ycombinator.com/item?id=39130945) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
-* [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp is a free Bandcamp alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
