@@ -2,6 +2,7 @@
 
 * [2024-01-25, 16:04:05](https://news.ycombinator.com/item?id=39130984) - [The rise and fall of the standard user interface](https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/)
 * [2024-01-25, 15:53:40](https://news.ycombinator.com/item?id=39130849) - [Hugging Face and Google partner for AI collaboration](https://huggingface.co/blog/gcp-partnership)
+* [2024-01-25, 15:51:48](https://news.ycombinator.com/item?id=39130818) - [Control Mark Zuckerbergs smile property](https://terkelg.github.io/zuckerberg.smile/)
 * [2024-01-25, 15:44:37](https://news.ycombinator.com/item?id=39130736) - [PRQL as a DuckDB Extension](https://github.com/ywelsch/duckdb-prql)
 * [2024-01-25, 15:44:00](https://news.ycombinator.com/item?id=39130730) - [College Is All About Curiosity. And That Requires Free Speech.](https://www.nytimes.com/2024/01/24/magazine/college-free-speech.html)
 * [2024-01-25, 15:42:39](https://news.ycombinator.com/item?id=39130711) - [Proposed Windows NT sync driver brings big Wine/Proton performance improvements](https://www.gamingonlinux.com/2024/01/proposed-windows-nt-sync-driver-brings-big-wine-proton-performance-improvements/)
@@ -10,7 +11,6 @@
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL? (2011)](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:04:42](https://news.ycombinator.com/item?id=39129155) - [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
 * [2024-01-25, 12:59:50](https://news.ycombinator.com/item?id=39129098) - [Turkey hikes interest rate again to 45% after inflation nears 65%](https://www.cnbc.com/2024/01/25/turkey-hikes-interest-rate-again-to-45percent-as-inflation-remains-stubbornly-high.html)
-* [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 11:07:59](https://news.ycombinator.com/item?id=39128311) - [Heat exchanger masks for cold weather cycling (2019)](https://www.coldbike.com/2019/02/13/heat-exchanger-masks-a-love-story/)
