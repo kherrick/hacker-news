@@ -55,6 +55,7 @@
 * [2024-01-24, 16:39:12](https://news.ycombinator.com/item?id=39119387) - [Amazon's Ring to Stop Letting Police Request Doorbell Video from Users](https://www.bloomberg.com/news/articles/2024-01-24/amazon-s-ring-to-stop-letting-police-request-video-from-users)
 * [2024-01-24, 16:32:49](https://news.ycombinator.com/item?id=39119305) - [Stuck in a Downturn, Startups Ghost Investors](https://www.bloomberg.com/news/articles/2024-01-24/startup-founders-ghost-investors-to-avoid-dreaded-down-round)
 * [2024-01-24, 16:28:16](https://news.ycombinator.com/item?id=39119252) - [Offline Chat with Marcus Aurelius](https://uneven-macaw-bef2.hony.ai/app/chat/Answer%20like%20you%20are%20Marcus%20Aurelius)
+* [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
 * [2024-01-24, 16:18:33](https://news.ycombinator.com/item?id=39119141) - [Good DevEx increases productivity. Here is the data](https://github.blog/2024-01-23-good-devex-increases-productivity/)
 * [2024-01-24, 16:08:02](https://news.ycombinator.com/item?id=39119014) - [Birdwatch: Crowd Wisdom and Algorithms to Understand and Reduce Misinformation](https://arxiv.org/abs/2210.15723)
 * [2024-01-24, 16:06:21](https://news.ycombinator.com/item?id=39118988) - [Experimental use of pig liver to filter blood offers hope for patients](https://www.theguardian.com/science/2024/jan/18/pig-liver-animal-to-human-transplants)
