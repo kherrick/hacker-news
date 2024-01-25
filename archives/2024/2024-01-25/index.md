@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:57:07](https://news.ycombinator.com/item?id=39129578) - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 * [2024-01-25, 13:32:42](https://news.ycombinator.com/item?id=39129367) - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)

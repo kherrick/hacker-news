@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
 * [2024-01-25, 13:57:07](https://news.ycombinator.com/item?id=39129578) - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 * [2024-01-25, 13:32:42](https://news.ycombinator.com/item?id=39129367) - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)
@@ -20,7 +21,6 @@
 * [2024-01-25, 02:23:24](https://news.ycombinator.com/item?id=39125518) - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 * [2024-01-25, 00:28:58](https://news.ycombinator.com/item?id=39124614) - [Show HN: Integer Map Data Structure](https://github.com/billziss-gh/imap)
-* [2024-01-25, 00:18:47](https://news.ycombinator.com/item?id=39124522) - [Chemicals that cure malaria can kill weeds too (2017)](https://www.news.uwa.edu.au/archive/201704039514/chemicals-cure-malaria-can-kill-weeds-too/)
 * [2024-01-24, 23:55:39](https://news.ycombinator.com/item?id=39124322) - [A minimal-part-count way to connect an SD card to a 68K](http://dmitry.gr/?r=05.Projects&proj=34.%20springSD)
 * [2024-01-24, 23:47:28](https://news.ycombinator.com/item?id=39124243) - [Build your own drone tracking radar [video]](https://www.youtube.com/watch?v=igrN_wd_g74)
 * [2024-01-24, 23:47:02](https://news.ycombinator.com/item?id=39124238) - [Tech Trend: Shanzhai (2009)](https://www.bunniestudios.com/blog/?p=284)
