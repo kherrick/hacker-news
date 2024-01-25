@@ -2,6 +2,8 @@
 
 * [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
 * [2024-01-25, 19:09:05](https://news.ycombinator.com/item?id=39133608) - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
+* [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
+* [2024-01-25, 18:54:48](https://news.ycombinator.com/item?id=39133338) - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
 * [2024-01-25, 18:43:12](https://news.ycombinator.com/item?id=39133086) - [HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
@@ -23,11 +25,9 @@
 * [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 08:47:43](https://news.ycombinator.com/item?id=39127532) - [How AI is changing gymnastics judging](https://www.technologyreview.com/2024/01/16/1086498/ai-gymnastics-judging-jss-world-championships-antwerp-paris-olympics/)
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This (2014)](https://zachholman.com/posts/only-90s-developers/)
-* [2024-01-25, 08:27:38](https://news.ycombinator.com/item?id=39127432) - [GHC Steering Committee Retrospective](https://www.joachim-breitner.de/blog/811-GHC_Steering_Committee_Retrospective)
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 * [2024-01-25, 02:42:37](https://news.ycombinator.com/item?id=39125641) - [Maria Graham and the Valparaíso Earthquake](https://www.historytoday.com/archive/great-debates/maria-graham-and-valparaiso-earthquake)
 * [2024-01-24, 17:19:58](https://news.ycombinator.com/item?id=39119881) - [Lies, Damn Lies and Analog Inputs (Comparing ADCs on ESP32, Pico and Arduino)](http://www.doctormonk.com/2024/01/comparingadcs.html)
-* [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
 * [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
