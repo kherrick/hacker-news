@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-25, 06:48:14](https://news.ycombinator.com/item?id=39126924) - [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
 * [2024-01-25, 06:11:36](https://news.ycombinator.com/item?id=39126705) - [NASA System Predicts Impact of a Small Asteroid over Germany](https://www.nasa.gov/solar-system/asteroids/nasa-system-predicts-impact-of-a-very-small-asteroid-over-germany/)
+* [2024-01-25, 03:24:12](https://news.ycombinator.com/item?id=39125887) - [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 * [2024-01-25, 03:04:39](https://news.ycombinator.com/item?id=39125799) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Self-rewarding-lm-PyTorch: Self-Rewarding Language Model from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:17:35](https://news.ycombinator.com/item?id=39125477) - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
