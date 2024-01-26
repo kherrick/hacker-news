@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-26, 15:12:02",
-      "https://news.ycombinator.com/item?id=39143509"
-    ],
-    [
-      "Big Five personality traits (a.k.a. \"OCEAN model\")",
-      "https://en.wikipedia.org/wiki/Big_Five_personality_traits"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 14:35:46",
       "https://news.ycombinator.com/item?id=39143054"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2024-01-26, 12:18:00",
-      "https://news.ycombinator.com/item?id=39141822"
-    ],
-    [
-      "Co-Founder Quitting – Rant",
-      "https://news.ycombinator.com/item?id=39141822"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 12:00:07",
       "https://news.ycombinator.com/item?id=39141682"
     ],
@@ -87,16 +67,6 @@
     [
       "My heat pump: a personal story about a broken heating industry",
       "https://greenallianceblog.org.uk/2023/12/22/my-heat-pump-a-personal-story-about-a-broken-heating-industry/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 06:39:28",
-      "https://news.ycombinator.com/item?id=39139540"
-    ],
-    [
-      "Balancing Outdoor Risky Play and Injury Prevention in Childhood Development",
-      "https://cps.ca/en/documents/position/outdoor-risky-play"
     ]
   ],
   [
@@ -151,6 +121,26 @@
   ],
   [
     [
+      "2024-01-26, 00:31:13",
+      "https://news.ycombinator.com/item?id=39137430"
+    ],
+    [
+      "Air pollution over Alberta oil sands up to 6,300% higher than reported",
+      "https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 22:44:41",
+      "https://news.ycombinator.com/item?id=39136472"
+    ],
+    [
+      "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
+      "https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 22:16:00",
       "https://news.ycombinator.com/item?id=39136142"
     ],
@@ -187,6 +177,16 @@
     [
       "Apple announces changes to iOS, Safari, and the App Store in the European Union",
       "https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 17:49:14",
+      "https://news.ycombinator.com/item?id=39132300"
+    ],
+    [
+      "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
+      "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d"
     ]
   ],
   [
