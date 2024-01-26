@@ -88,6 +88,7 @@
 * [2024-01-25, 04:00:24](https://news.ycombinator.com/item?id=39126049) - [Which Shows Got Their Finale Right, and Which Didn't? A Statistical Analysis](https://www.statsignificant.com/p/which-shows-got-their-finale-right)
 * [2024-01-25, 03:24:12](https://news.ycombinator.com/item?id=39125887) - [Placemark is now open source – web-based geospatial data editor](https://github.com/placemark/placemark)
 * [2024-01-25, 03:04:39](https://news.ycombinator.com/item?id=39125799) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
+* [2024-01-25, 02:44:36](https://news.ycombinator.com/item?id=39125658) - [TThe Blue Masc: The Brilliant Discontents of Lou Reed](https://www.thenation.com/article/culture/will-hermes-lou-reed-new-york/)
 * [2024-01-25, 02:43:20](https://news.ycombinator.com/item?id=39125646) - [Lucidrains/self-rewarding-lm-PyTorch: Self-Rewarding Language Model, from MetaAI](https://github.com/lucidrains/self-rewarding-lm-pytorch)
 * [2024-01-25, 02:42:37](https://news.ycombinator.com/item?id=39125641) - [Maria Graham and the Valparaíso Earthquake](https://www.historytoday.com/archive/great-debates/maria-graham-and-valparaiso-earthquake)
 * [2024-01-25, 02:23:24](https://news.ycombinator.com/item?id=39125518) - [What are elliptic curve pairings?](https://www.zellic.io/blog/what-are-elliptic-curve-pairings/)

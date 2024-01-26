@@ -24,10 +24,10 @@
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 14:07:24](https://news.ycombinator.com/item?id=39129680) - [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
+* [2024-01-25, 02:44:36](https://news.ycombinator.com/item?id=39125658) - [TThe Blue Masc: The Brilliant Discontents of Lou Reed](https://www.thenation.com/article/culture/will-hermes-lou-reed-new-york/)
 * [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
 * [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
-* [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 * [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
