@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-01-26, 05:27:31",
+      "https://news.ycombinator.com/item?id=39139219"
+    ],
+    [
+      "The U.S. just sold its helium stockpile",
+      "https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 05:11:30",
       "https://news.ycombinator.com/item?id=39139163"
     ],
     [
       "'They're knowingly addicting kids': the attorney challenging social media firms",
       "https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 02:59:54",
-      "https://news.ycombinator.com/item?id=39138440"
-    ],
-    [
-      "LLM App Stack – a.k.a. Emerging Architectures for LLM Applications",
-      "https://github.com/a16z-infra/llm-app-stack"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-01-25, 19:09:15",
+      "https://news.ycombinator.com/item?id=39133612"
+    ],
+    [
+      "Starship.rs: minimal, fast prompt for any shell",
+      "https://starship.rs/"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 18:50:12",
       "https://news.ycombinator.com/item?id=39133238"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-01-25, 09:59:57",
-      "https://news.ycombinator.com/item?id=39127897"
-    ],
-    [
-      "Quicksort with Jenkins for fun and no profit",
-      "https://susam.net/blog/jenkins-quicksort.html"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 23:40:25",
       "https://news.ycombinator.com/item?id=39124177"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-01-24, 20:41:21",
-      "https://news.ycombinator.com/item?id=39122374"
-    ],
-    [
-      "Cops Used DNA to Predict a Suspect's Face, Tried to Run Facial Recognition on It",
-      "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 19:09:51",
       "https://news.ycombinator.com/item?id=39121392"
     ],
     [
       "Babashka: Fast native Clojure scripting runtime",
       "https://babashka.org/"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 17:15:19",
+      "https://news.ycombinator.com/item?id=39119835"
+    ],
+    [
+      "Zed, a collaborative code editor, is now open source",
+      "https://zed.dev/blog/zed-is-now-open-source"
     ]
   ],
   [
