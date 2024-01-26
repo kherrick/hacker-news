@@ -6,6 +6,7 @@
 
 * [2024-01-26, 19:41:33](https://news.ycombinator.com/item?id=39147141) - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
 * [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
+* [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
 * [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
 * [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 * [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
@@ -26,6 +27,7 @@
 * [2024-01-26, 17:08:55](https://news.ycombinator.com/item?id=39144965) - [Servo Engine Updates Bring CSS Tables and Its Browser Gets Back/Forward Buttons](https://www.phoronix.com/news/Servo-Updates-2024-Start)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 17:02:41](https://news.ycombinator.com/item?id=39144898) - [Ukraine: Hack wiped 2 petabytes of data from Russian research center](https://www.bleepingcomputer.com/news/security/ukraine-hack-wiped-2-petabytes-of-data-from-russian-research-center/)
+* [2024-01-26, 16:59:49](https://news.ycombinator.com/item?id=39144867) - [The Bad Economics of Wtfhappenedin1971](https://www.singlelunch.com/2023/09/13/the-bad-economics-of-wtfhappenedin1971/)
 * [2024-01-26, 16:59:45](https://news.ycombinator.com/item?id=39144866) - [Nancy Pelosi Made $500k from Her Nvidia Bet, Doubling Her Annual Salary](https://finance.yahoo.com/news/nancy-pelosi-made-500-000-140722196.html)
 * [2024-01-26, 16:58:17](https://news.ycombinator.com/item?id=39144851) - [Jane Street's \"Figgie\" Card Game](https://quantfinance.substack.com/p/jane-streets-figgie-card-game)
 * [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
