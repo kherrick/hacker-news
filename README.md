@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 21:53:23](https://news.ycombinator.com/item?id=39149080) - [Mozilla says Apple's new browser rules are 'as painful as possible' for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
+* [2024-01-26, 21:50:50](https://news.ycombinator.com/item?id=39149036) - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
 * [2024-01-26, 21:41:41](https://news.ycombinator.com/item?id=39148883) - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
-* [2024-01-26, 21:19:17](https://news.ycombinator.com/item?id=39148554) - [The Economist who wants the field to account for nature](https://www.technologyreview.com/2023/12/26/1084603/gretchen-daily-economist-environment-accounting/)
 * [2024-01-26, 21:18:43](https://news.ycombinator.com/item?id=39148544) - [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
 * [2024-01-26, 21:15:40](https://news.ycombinator.com/item?id=39148513) - [Ask HN: Is it really so dull to work in huge company?](https://news.ycombinator.com/item?id=39148513)
 * [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
@@ -22,7 +23,6 @@
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
-* [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
