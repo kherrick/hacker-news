@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
@@ -20,7 +21,6 @@
 * [2024-01-25, 19:09:15](https://news.ycombinator.com/item?id=39133612) - [Starship.rs: minimal, fast prompt for any shell](https://starship.rs/)
 * [2024-01-25, 18:24:40](https://news.ycombinator.com/item?id=39132766) - [Show HN: Lumos, a local LLM Chrome extension](https://github.com/andrewnguonly/Lumos)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
-* [2024-01-25, 17:49:14](https://news.ycombinator.com/item?id=39132300) - [CVE-2023-40547 – avoid incorrectly trusting HTTP headers](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
 * [2024-01-25, 16:05:36](https://news.ycombinator.com/item?id=39131010) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-25, 16:00:52](https://news.ycombinator.com/item?id=39130945) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
