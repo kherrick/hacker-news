@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 21:41:41](https://news.ycombinator.com/item?id=39148883) - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
+* [2024-01-26, 21:18:43](https://news.ycombinator.com/item?id=39148544) - [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
+* [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
 * [2024-01-26, 21:00:35](https://news.ycombinator.com/item?id=39148266) - ['Horizon IT system was 100% reliable'](https://www.bbc.co.uk/news/uk-northern-ireland-68103946)
 * [2024-01-26, 20:33:36](https://news.ycombinator.com/item?id=39147887) - [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with)
 * [2024-01-26, 20:26:14](https://news.ycombinator.com/item?id=39147774) - [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
