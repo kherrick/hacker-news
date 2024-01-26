@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2024-01-26, 09:06:52",
-      "https://news.ycombinator.com/item?id=39140353"
-    ],
-    [
-      "The ADHD Exercise Solution (2023)",
-      "https://www.additudemag.com/the-adhd-exercise-solution/"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 08:53:48",
       "https://news.ycombinator.com/item?id=39140269"
     ],
     [
-      "Why Tailwind Isn't for Me",
+      "Tailwind Isn't for Me",
       "https://www.spicyweb.dev/why-tailwind-isnt-for-me/"
     ]
   ],
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2024-01-26, 00:22:32",
-      "https://news.ycombinator.com/item?id=39137362"
+      "2024-01-25, 23:12:58",
+      "https://news.ycombinator.com/item?id=39136770"
     ],
     [
-      "LTSE shutters cap table management business (formerly captable.io)",
-      "https://equity.ltse.com/lp/important-updates"
+      "NSA Buys Americans' Internet Data Without Warrants, Unclassified Letter Says",
+      "https://www.nytimes.com/2024/01/25/us/politics/nsa-internet-privacy-warrant.html"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2024-01-25, 17:49:14",
+      "https://news.ycombinator.com/item?id=39132300"
+    ],
+    [
+      "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
+      "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 16:05:36",
       "https://news.ycombinator.com/item?id=39131010"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39120687"
     ],
     [
-      "The Man Who Carried Computer Science on His Shoulders",
+      "Edsger Dijkstra Carried Computer Science on His Shoulders (2020)",
       "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders"
     ]
   ],
