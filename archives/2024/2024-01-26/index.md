@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
 * [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
+* [2024-01-26, 09:06:52](https://news.ycombinator.com/item?id=39140353) - [The ADHD Exercise Solution (2023)](https://www.additudemag.com/the-adhd-exercise-solution/)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
+* [2024-01-26, 07:32:35](https://news.ycombinator.com/item?id=39139791) - [Induce Lucid Dreaming](https://propheticai.co/)
 * [2024-01-26, 06:53:14](https://news.ycombinator.com/item?id=39139616) - [Nobody Cares About Your Git History](https://spin.atomicobject.com/git-history/)
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
