@@ -17,6 +17,7 @@
 * [2024-01-25, 21:21:18](https://news.ycombinator.com/item?id=39135485) - [Mabez Rust on Espressif chips – Q4 update](https://mabez.dev/blog/posts/esp-rust-24-01-2024/)
 * [2024-01-25, 21:07:28](https://news.ycombinator.com/item?id=39135304) - [Git commit messages are useless](https://trunk.io/blog/git-commit-messages-are-useless)
 * [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [The Two Sides of Software Testing: Checking and Exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
+* [2024-01-25, 20:08:54](https://news.ycombinator.com/item?id=39134503) - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:35:34](https://news.ycombinator.com/item?id=39134046) - [Ex-sheriff's deputy behind SF jail 'fight club' scandal to be rehired](https://missionlocal.org/2024/01/sf-rehire-ex-sheriffs-deputy-fight-club-scandal/)
 * [2024-01-25, 19:10:07](https://news.ycombinator.com/item?id=39133628) - [Two New Reasoning Methods from Google Research: COSP and USP](https://thesequence.substack.com/p/about-cosp-and-usp-two-new-llm-reasoning)
