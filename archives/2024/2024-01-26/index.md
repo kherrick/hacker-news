@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 20:26:14](https://news.ycombinator.com/item?id=39147774) - [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
 * [2024-01-26, 20:09:05](https://news.ycombinator.com/item?id=39147528) - [Is Cloud the New Mainframe?](https://medium.com/@billynewport/is-cloud-the-new-mainframe-e43133cac151)
 * [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
 * [2024-01-26, 19:41:33](https://news.ycombinator.com/item?id=39147141) - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
@@ -58,6 +59,7 @@
 * [2024-01-26, 13:58:27](https://news.ycombinator.com/item?id=39142613) - [An ideological divide is emerging between young men and women around the world](https://twitter.com/jburnmurdoch/status/1750849189834022932)
 * [2024-01-26, 13:52:07](https://news.ycombinator.com/item?id=39142568) - [Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
+* [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 13:18:52](https://news.ycombinator.com/item?id=39142295) - [If Lisp is so great](https://mihaiolteanu.me/if-lisp-is-so-great)
 * [2024-01-26, 13:18:35](https://news.ycombinator.com/item?id=39142290) - [Show HN: Alzheimer's Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 * [2024-01-26, 12:53:55](https://news.ycombinator.com/item?id=39142075) - [Everybody's aware that Google will start enforcing DMARC Feb 1st, right?](https://easydns.com/blog/2024/01/19/new-email-policies-at-gmail-yahoo-et-al-will-require-dmarc-enabled-domains/)
