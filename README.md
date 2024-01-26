@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
+* [2024-01-26, 17:33:01](https://news.ycombinator.com/item?id=39145252) - [US agencies warn companies: Don’t delete Slack or Signal chats](https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies)
 * [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
@@ -25,10 +27,8 @@
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 05:55:24](https://news.ycombinator.com/item?id=39126618) - [DoS Attacks in Available MQTT Implementations](https://st.fbk.eu/complementary/IOTSECFOR2021.html)
 * [2024-01-25, 01:21:51](https://news.ycombinator.com/item?id=39125016) - [Some strange Macintosh computers](https://arstechnica.com/gadgets/2024/01/macintosh-at-40-the-oddest-and-rarest-macs-ever-built/)
-* [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 22:11:56](https://news.ycombinator.com/item?id=39123276) - [Why are Alaska's rivers turning orange?](https://www.scientificamerican.com/article/why-are-alaskas-rivers-turning-orange/)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
-* [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 * [2024-01-23, 20:28:26](https://news.ycombinator.com/item?id=39109286) - [Novel camera system lets us see the world through eyes of birds and bees](https://arstechnica.com/science/2024/01/novel-camera-system-lets-us-see-the-world-through-eyes-of-birds-and-bees/)
 
 ## [Archives](archives/index.md)
