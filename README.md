@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
 * [2024-01-26, 00:38:11](https://news.ycombinator.com/item?id=39137502) - [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
 * [2024-01-26, 00:22:32](https://news.ycombinator.com/item?id=39137362) - [LTSE shutters cap table management business (formerly captable.io)](https://equity.ltse.com/lp/important-updates)
@@ -22,12 +23,11 @@
 * [2024-01-25, 14:07:24](https://news.ycombinator.com/item?id=39129680) - [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
-* [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing wi-fi encryption by manipulating transmit queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
 * [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for fun and no profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 07:19:38](https://news.ycombinator.com/item?id=39127080) - [Ossian, the ‘Homer of the North’, the greatest literary hoax (2016)](https://www.independent.co.uk/arts-entertainment/books/news/ossian-literary-hoax-james-macpherson-fingal-mathematics-social-network-study-a7371806.html)
 * [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
-* [2024-01-24, 19:16:06](https://news.ycombinator.com/item?id=39121459) - [Scientists trap krypton atoms to form one-dimensional gas](https://phys.org/news/2024-01-scientists-krypton-atoms-dimensional-gas.html)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
+* [2024-01-24, 16:56:05](https://news.ycombinator.com/item?id=39119603) - [Photographer and Kat Von D Go on Trial in Case That May Upend Tattoo Industry](https://petapixel.com/2024/01/24/photographer-and-kat-von-d-go-on-trial-in-case-that-may-upend-tattoo-industry/)
 * [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
 * [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
