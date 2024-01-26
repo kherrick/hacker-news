@@ -70,6 +70,7 @@
 * [2024-01-25, 12:48:25](https://news.ycombinator.com/item?id=39129002) - [Tip Your Chef's Toque to Henry Ford, Who Helped Popularize Charcoal Briquets](https://www.hagerty.com/media/automotive-history/at-your-next-bbq-tip-your-chefs-toque-to-henry-ford-who-helped-popularize-charcoal-briquets/)
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [A smart redesign of chess pieces](https://twitter.com/graycrawford/status/1750225562281632048)
+* [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-25, 11:48:58](https://news.ycombinator.com/item?id=39128518) - [Inventor of NTP protocol that keeps time on billions of devices dies at age 85](https://arstechnica.com/gadgets/2024/01/inventor-of-ntp-protocol-that-keeps-time-on-billions-of-devices-dies-at-age-85/)
 * [2024-01-25, 11:21:06](https://news.ycombinator.com/item?id=39128387) - [Restoration of an IBM 701C Butterfly-keyboard laptop](https://blog.jgc.org/2023/12/restoration-of-ibm-thinkpad-701c.html)
 * [2024-01-25, 11:19:02](https://news.ycombinator.com/item?id=39128372) - [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
