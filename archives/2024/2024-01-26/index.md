@@ -6,9 +6,11 @@
 
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
+* [2024-01-26, 18:01:38](https://news.ycombinator.com/item?id=39145632) - [We've Forgotten How to Use Computers](https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:33:01](https://news.ycombinator.com/item?id=39145252) - [US agencies warn companies: Don’t delete Slack or Signal chats](https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies)
 * [2024-01-26, 17:30:53](https://news.ycombinator.com/item?id=39145229) - [Stunned devs left scrambling for livelihoods in wake of layoff bloodbath](https://www.pcgamer.com/stunned-devs-left-scrambling-for-livelihoods-in-wake-of-yesterdays-layoff-bloodbath-in-the-end-the-contributions-didnt-matter/)
+* [2024-01-26, 17:23:17](https://news.ycombinator.com/item?id=39145124) - [X Fights 'Genshin Impact' Subpoena, Defends Alleged Leakers' \"Anonymous Speech\"](https://torrentfreak.com/x-corp-fights-genshin-impact-subpoena-defends-alleged-leakers-anonymous-speech-240123/)
 * [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 17:08:55](https://news.ycombinator.com/item?id=39144965) - [Servo Engine Updates Bring CSS Tables and Its Browser Gets Back/Forward Buttons](https://www.phoronix.com/news/Servo-Updates-2024-Start)
