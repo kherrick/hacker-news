@@ -10,7 +10,6 @@
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
 * [2024-01-26, 00:38:11](https://news.ycombinator.com/item?id=39137502) - [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
 * [2024-01-26, 00:31:13](https://news.ycombinator.com/item?id=39137430) - [Air pollution over Alberta oil sands up to 6,300% higher than reported](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
-* [2024-01-25, 23:12:58](https://news.ycombinator.com/item?id=39136770) - [NSA Buys Americans' Internet Data Without Warrants, Unclassified Letter Says](https://www.nytimes.com/2024/01/25/us/politics/nsa-internet-privacy-warrant.html)
 * [2024-01-25, 22:44:41](https://news.ycombinator.com/item?id=39136472) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2024-01-25, 22:24:40](https://news.ycombinator.com/item?id=39136238) - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
 * [2024-01-25, 22:14:34](https://news.ycombinator.com/item?id=39136123) - [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
@@ -29,6 +28,7 @@
 * [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [Edsger Dijkstra Carried Computer Science on His Shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
+* [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 
 ## [Archives](archives/index.md)
