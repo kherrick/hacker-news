@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 03:23:07](https://news.ycombinator.com/item?id=39138548) - [Rich People Don't Talk to Robots](https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots)
 * [2024-01-26, 02:56:23](https://news.ycombinator.com/item?id=39138423) - [Ring will no longer allow police to request users' doorbell camera footage](https://text.npr.org/1226942087)
 * [2024-01-26, 02:54:08](https://news.ycombinator.com/item?id=39138411) - [India's courts to rule on who invented butter chicken](https://www.theguardian.com/world/2024/jan/25/indias-courts-to-rule-on-who-invented-butter-chicken)
 * [2024-01-26, 02:33:52](https://news.ycombinator.com/item?id=39138312) - [Craig Wright offers settlement to Bitcoin developers](https://fortune.com/crypto/2024/01/25/craig-wright-bitcoin-satoshi-claim-legal-battle/)
@@ -22,7 +23,6 @@
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:07:24](https://news.ycombinator.com/item?id=39129680) - [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
-* [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
 * [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for fun and no profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
