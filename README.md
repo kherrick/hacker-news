@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 05:11:30](https://news.ycombinator.com/item?id=39139163) - ['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
 * [2024-01-26, 02:59:54](https://news.ycombinator.com/item?id=39138440) - [LLM App Stack – a.k.a. Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
@@ -27,7 +28,6 @@
 * [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 20:41:21](https://news.ycombinator.com/item?id=39122374) - [Cops Used DNA to Predict a Suspect's Face, Tried to Run Facial Recognition on It](https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
-* [2024-01-24, 16:56:05](https://news.ycombinator.com/item?id=39119603) - [Photographer and Kat Von D Go on Trial in Case That May Upend Tattoo Industry](https://petapixel.com/2024/01/24/photographer-and-kat-von-d-go-on-trial-in-case-that-may-upend-tattoo-industry/)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 * [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
