@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 19:41:33](https://news.ycombinator.com/item?id=39147141) - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
 * [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
 * [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
+* [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 * [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
 * [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
