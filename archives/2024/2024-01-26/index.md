@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
+* [2024-01-26, 16:44:02](https://news.ycombinator.com/item?id=39144664) - [I abandoned OpenLiteSpeed and went back to good ol' Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
 * [2024-01-26, 16:28:50](https://news.ycombinator.com/item?id=39144477) - [If you make $10M in sales, Apple's cut is $6.2M annually](https://twitter.com/nikitabier/status/1750592825060921353)
 * [2024-01-26, 16:15:23](https://news.ycombinator.com/item?id=39144313) - [Web Calendars Should Be Discoverable and Provide iCalendar Feeds](https://ericlathrop.com/2024/01/web-calendars-should-be-discoverable-and-provide-icalendar-feeds/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
