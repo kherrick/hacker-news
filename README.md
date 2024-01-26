@@ -7,7 +7,6 @@
 * [2024-01-26, 19:08:26](https://news.ycombinator.com/item?id=39146658) - [Tesla Cybertruck Owner Gets 'Coming Soon' Message When Trying to Lock Diff](https://www.thedrive.com/news/tesla-cybertruck-owner-gets-coming-soon-message-when-trying-to-lock-diff)
 * [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
 * [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
-* [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
@@ -28,6 +27,7 @@
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
 * [2024-01-25, 20:08:54](https://news.ycombinator.com/item?id=39134503) - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
+* [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
 * [2024-01-25, 05:55:24](https://news.ycombinator.com/item?id=39126618) - [DoS Attacks in Available MQTT Implementations](https://st.fbk.eu/complementary/IOTSECFOR2021.html)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
