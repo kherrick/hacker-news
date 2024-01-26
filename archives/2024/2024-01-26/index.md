@@ -18,6 +18,7 @@
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:18:52](https://news.ycombinator.com/item?id=39142295) - [If Lisp is so great](https://mihaiolteanu.me/if-lisp-is-so-great)
 * [2024-01-26, 13:18:35](https://news.ycombinator.com/item?id=39142290) - [Show HN: Alzheimer's Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
+* [2024-01-26, 12:53:55](https://news.ycombinator.com/item?id=39142075) - [Everybody's aware that Google will start enforcing DMARC Feb 1st, right?](https://easydns.com/blog/2024/01/19/new-email-policies-at-gmail-yahoo-et-al-will-require-dmarc-enabled-domains/)
 * [2024-01-26, 12:50:13](https://news.ycombinator.com/item?id=39142048) - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 * [2024-01-26, 12:18:00](https://news.ycombinator.com/item?id=39141822) - [Co-Founder Quitting – Rant](https://news.ycombinator.com/item?id=39141822)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
