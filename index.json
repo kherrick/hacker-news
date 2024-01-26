@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-26, 12:00:07",
+      "https://news.ycombinator.com/item?id=39141682"
+    ],
+    [
+      "Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)",
+      "https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 11:24:35",
       "https://news.ycombinator.com/item?id=39141413"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2024-01-26, 03:51:01",
+      "https://news.ycombinator.com/item?id=39138755"
+    ],
+    [
+      "The things nobody wants to pay for",
+      "https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 01:53:11",
       "https://news.ycombinator.com/item?id=39138042"
     ],
@@ -91,22 +111,22 @@
   ],
   [
     [
-      "2024-01-26, 01:00:26",
-      "https://news.ycombinator.com/item?id=39137661"
-    ],
-    [
-      "Doctor Droid (YC W23) Is Hiring in Bangalore",
-      "https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 00:38:11",
       "https://news.ycombinator.com/item?id=39137502"
     ],
     [
       "AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux",
       "https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 00:31:13",
+      "https://news.ycombinator.com/item?id=39137430"
+    ],
+    [
+      "Air pollution over Alberta oil sands up to 6,300% higher than reported",
+      "https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Due to blade damage, Mars Helicopter Ingenuity will not fly again",
       "https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 19:09:15",
-      "https://news.ycombinator.com/item?id=39133612"
-    ],
-    [
-      "Starship.rs: minimal, fast prompt for any shell",
-      "https://starship.rs/"
     ]
   ],
   [
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2024-01-24, 19:09:51",
-      "https://news.ycombinator.com/item?id=39121392"
-    ],
-    [
-      "Babashka: Fast native Clojure scripting runtime",
-      "https://babashka.org/"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 18:14:17",
       "https://news.ycombinator.com/item?id=39120687"
     ],
     [
-      "Edsger Dijkstra Carried Computer Science on His Shoulders (2020)",
+      "Edsger Dijkstra carried computer science on his shoulders (2020)",
       "https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders"
     ]
   ],
