@@ -8,6 +8,7 @@
 * [2024-01-26, 14:49:01](https://news.ycombinator.com/item?id=39143204) - [We Need Your Email Address](https://www.404media.co/why-404-media-needs-your-email-address/)
 * [2024-01-26, 14:35:46](https://news.ycombinator.com/item?id=39143054) - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
 * [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ Orders Israel to Prevent Genocide Without Cease-Fire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
+* [2024-01-26, 14:30:50](https://news.ycombinator.com/item?id=39142985) - [How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer](https://www.turingtalks.ai/p/how-to-build-a-simple-sentiment-analyzer)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 14:09:17](https://news.ycombinator.com/item?id=39142724) - ['Mother of all breaches' data leak reveals 26B account stolen records](https://nypost.com/2024/01/23/lifestyle/extremely-dangerous-leak-reveals-26-billion-account-records-stolen-from-twitter-linkedin-more-mother-of-all-breaches/)
 * [2024-01-26, 13:58:27](https://news.ycombinator.com/item?id=39142613) - [An ideological divide is emerging between young men and women around the world](https://twitter.com/jburnmurdoch/status/1750849189834022932)
