@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
 * [2024-01-26, 03:23:07](https://news.ycombinator.com/item?id=39138548) - [Rich People Don't Talk to Robots](https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots)
+* [2024-01-26, 02:59:54](https://news.ycombinator.com/item?id=39138440) - [LLM App Stack – a.k.a. Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 * [2024-01-26, 02:56:23](https://news.ycombinator.com/item?id=39138423) - [Ring will no longer allow police to request users' doorbell camera footage](https://text.npr.org/1226942087)
 * [2024-01-26, 02:54:08](https://news.ycombinator.com/item?id=39138411) - [India's courts to rule on who invented butter chicken](https://www.theguardian.com/world/2024/jan/25/indias-courts-to-rule-on-who-invented-butter-chicken)
 * [2024-01-26, 02:33:52](https://news.ycombinator.com/item?id=39138312) - [Craig Wright offers settlement to Bitcoin developers](https://fortune.com/crypto/2024/01/25/craig-wright-bitcoin-satoshi-claim-legal-battle/)

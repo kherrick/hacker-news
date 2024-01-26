@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-26, 03:23:07](https://news.ycombinator.com/item?id=39138548) - [Rich People Don't Talk to Robots](https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots)
-* [2024-01-26, 02:54:08](https://news.ycombinator.com/item?id=39138411) - [India's courts to rule on who invented butter chicken](https://www.theguardian.com/world/2024/jan/25/indias-courts-to-rule-on-who-invented-butter-chicken)
+* [2024-01-26, 02:59:54](https://news.ycombinator.com/item?id=39138440) - [LLM App Stack – a.k.a. Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
@@ -25,9 +25,9 @@
 * [2024-01-25, 12:45:54](https://news.ycombinator.com/item?id=39128977) - [Japan's precision moon lander has hit its target, but appears to be upside-down](https://phys.org/news/2024-01-japan-craft-successful-pin-moon.html)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
 * [2024-01-25, 09:59:57](https://news.ycombinator.com/item?id=39127897) - [Quicksort with Jenkins for fun and no profit](https://susam.net/blog/jenkins-quicksort.html)
+* [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
 * [2024-01-24, 16:56:05](https://news.ycombinator.com/item?id=39119603) - [Photographer and Kat Von D Go on Trial in Case That May Upend Tattoo Industry](https://petapixel.com/2024/01/24/photographer-and-kat-von-d-go-on-trial-in-case-that-may-upend-tattoo-industry/)
-* [2024-01-24, 16:28:01](https://news.ycombinator.com/item?id=39119248) - [Lightweight woven helical antenna could replace field-deployed dishes](https://newatlas.com/telecommunications/woven-helical-antenna/)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 * [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
