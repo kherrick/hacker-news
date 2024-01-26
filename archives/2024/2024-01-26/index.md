@@ -6,6 +6,7 @@
 
 * [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
+* [2024-01-26, 16:46:22](https://news.ycombinator.com/item?id=39144693) - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
 * [2024-01-26, 16:44:02](https://news.ycombinator.com/item?id=39144664) - [I abandoned OpenLiteSpeed and went back to good ol' Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
 * [2024-01-26, 16:32:09](https://news.ycombinator.com/item?id=39144517) - [This Japanese Town Sorts Their Waste Into These 45 Categories](https://www.core77.com/posts/125980/This-Japanese-Town-Sorts-Their-Waste-Into-These-45-Categories)
 * [2024-01-26, 16:30:03](https://news.ycombinator.com/item?id=39144493) - [2013 Airbus A-380 can be yours at 'just' $25M](https://www.controller.com/listing/for-sale/224908431/2013-airbus-a380-jet-aircraft)
@@ -17,8 +18,10 @@
 * [2024-01-26, 15:12:02](https://news.ycombinator.com/item?id=39143509) - [Big Five personality traits (a.k.a. \"OCEAN model\")](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 * [2024-01-26, 14:57:20](https://news.ycombinator.com/item?id=39143310) - [Tesla's in Serious Trouble](https://disconnect.blog/teslas-in-serious-trouble/)
 * [2024-01-26, 14:49:01](https://news.ycombinator.com/item?id=39143204) - [We Need Your Email Address](https://www.404media.co/why-404-media-needs-your-email-address/)
+* [2024-01-26, 14:47:45](https://news.ycombinator.com/item?id=39143194) - [North Korean Hackers Employ Generative AI for Cyberattacks](https://www.thedefensepost.com/2024/01/26/north-korea-hackers-generative-ai-cyberattacks/)
 * [2024-01-26, 14:35:46](https://news.ycombinator.com/item?id=39143054) - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
 * [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ Orders Israel to Prevent Genocide Without Cease-Fire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
+* [2024-01-26, 14:34:28](https://news.ycombinator.com/item?id=39143033) - [Meta tool to block nude images in teens' private messages](https://www.bbc.co.uk/news/technology-68093343)
 * [2024-01-26, 14:30:50](https://news.ycombinator.com/item?id=39142985) - [How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer](https://www.turingtalks.ai/p/how-to-build-a-simple-sentiment-analyzer)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 14:09:17](https://news.ycombinator.com/item?id=39142724) - ['Mother of all breaches' data leak reveals 26B account stolen records](https://nypost.com/2024/01/23/lifestyle/extremely-dangerous-leak-reveals-26-billion-account-records-stolen-from-twitter-linkedin-more-mother-of-all-breaches/)
