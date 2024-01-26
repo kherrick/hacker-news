@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
-* [2024-01-26, 04:58:56](https://news.ycombinator.com/item?id=39139105) - [He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
@@ -24,6 +23,7 @@
 * [2024-01-25, 15:40:38](https://news.ycombinator.com/item?id=39130684) - [Capturing the ripples of spacetime: LISA gets go-ahead](https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead)
 * [2024-01-25, 14:07:24](https://news.ycombinator.com/item?id=39129680) - [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
 * [2024-01-25, 12:36:24](https://news.ycombinator.com/item?id=39128902) - [I realized chess pieces can be redesigned to be geometric attack directions](https://twitter.com/graycrawford/status/1750225562281632048)
+* [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
 * [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
