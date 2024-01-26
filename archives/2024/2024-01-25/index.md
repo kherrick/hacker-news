@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
 * [2024-01-25, 23:35:34](https://news.ycombinator.com/item?id=39136967) - [Fortnite to Return to iOS in Europe Following App Store Changes](https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/)
+* [2024-01-25, 23:12:58](https://news.ycombinator.com/item?id=39136770) - [NSA Buys Americans' Internet Data Without Warrants, Unclassified Letter Says](https://www.nytimes.com/2024/01/25/us/politics/nsa-internet-privacy-warrant.html)
 * [2024-01-25, 22:26:58](https://news.ycombinator.com/item?id=39136269) - [You're Too Old for That: Age Discrimination in Japan Tech](https://www.tokyodev.com/articles/age-discrimination-in-japan-tech)
 * [2024-01-25, 22:24:40](https://news.ycombinator.com/item?id=39136238) - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
