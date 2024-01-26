@@ -12,6 +12,7 @@
 * [2024-01-24, 23:47:02](https://news.ycombinator.com/item?id=39124238) - [Tech Trend: Shanzhai (2009)](https://www.bunniestudios.com/blog/?p=284)
 * [2024-01-24, 23:40:25](https://news.ycombinator.com/item?id=39124177) - [Daft Social: Anti-social social network for minimalists](https://daftsocial.com/)
 * [2024-01-24, 23:26:30](https://news.ycombinator.com/item?id=39124062) - [Religious 'Nones' are now the largest single group in the U.S.](https://www.npr.org/2024/01/24/1226371734/religious-nones-are-now-the-largest-single-group-in-the-u-s)
+* [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 23:06:12](https://news.ycombinator.com/item?id=39123862) - [Lightweight JavaScript Framework Review (For Django Developers)](https://saashammer.com/blog/lightweight-javascript-framework-review-for-django-developers/)
 * [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123795) - [On \"Owning\" Software](https://avdi.codes/on-owning-software/)
 * [2024-01-24, 22:58:50](https://news.ycombinator.com/item?id=39123794) - [X-Wing is video gaming's Greek Fire](https://aftermath.site/x-wing-lucasarts)
