@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
 * [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
 * [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
@@ -20,6 +21,7 @@
 * [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 17:08:55](https://news.ycombinator.com/item?id=39144965) - [Servo Engine Updates Bring CSS Tables and Its Browser Gets Back/Forward Buttons](https://www.phoronix.com/news/Servo-Updates-2024-Start)
+* [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 17:02:41](https://news.ycombinator.com/item?id=39144898) - [Ukraine: Hack wiped 2 petabytes of data from Russian research center](https://www.bleepingcomputer.com/news/security/ukraine-hack-wiped-2-petabytes-of-data-from-russian-research-center/)
 * [2024-01-26, 16:59:45](https://news.ycombinator.com/item?id=39144866) - [Nancy Pelosi Made $500k from Her Nvidia Bet, Doubling Her Annual Salary](https://finance.yahoo.com/news/nancy-pelosi-made-500-000-140722196.html)
 * [2024-01-26, 16:58:17](https://news.ycombinator.com/item?id=39144851) - [Jane Street's \"Figgie\" Card Game](https://quantfinance.substack.com/p/jane-streets-figgie-card-game)
@@ -73,6 +75,7 @@
 * [2024-01-26, 06:53:14](https://news.ycombinator.com/item?id=39139616) - [Nobody Cares About Your Git History](https://spin.atomicobject.com/git-history/)
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
+* [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:11:30](https://news.ycombinator.com/item?id=39139163) - ['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
 * [2024-01-26, 04:58:56](https://news.ycombinator.com/item?id=39139105) - [He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
 * [2024-01-26, 03:51:01](https://news.ycombinator.com/item?id=39138755) - [The things nobody wants to pay for](https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/)
