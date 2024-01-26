@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:30:53](https://news.ycombinator.com/item?id=39145229) - [Stunned devs left scrambling for livelihoods in wake of layoff bloodbath](https://www.pcgamer.com/stunned-devs-left-scrambling-for-livelihoods-in-wake-of-yesterdays-layoff-bloodbath-in-the-end-the-contributions-didnt-matter/)
 * [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
@@ -43,6 +44,7 @@
 * [2024-01-26, 12:50:13](https://news.ycombinator.com/item?id=39142048) - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 * [2024-01-26, 12:18:00](https://news.ycombinator.com/item?id=39141822) - [Co-Founder Quitting – Rant](https://news.ycombinator.com/item?id=39141822)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+* [2024-01-26, 11:35:34](https://news.ycombinator.com/item?id=39141493) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-26, 11:24:35](https://news.ycombinator.com/item?id=39141413) - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
 * [2024-01-26, 11:12:56](https://news.ycombinator.com/item?id=39141328) - [Kenneth Smith 'struggled for life' for 22 mins in Alabama nitrogen gas execution](https://www.independent.co.uk/news/world/americas/alabama-execution-nitrogen-kenneth-smith-updates-b2485208.html)
 * [2024-01-26, 10:48:50](https://news.ycombinator.com/item?id=39141155) - [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
