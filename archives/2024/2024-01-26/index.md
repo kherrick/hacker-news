@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 22:41:21](https://news.ycombinator.com/item?id=39149789) - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
 * [2024-01-26, 22:15:56](https://news.ycombinator.com/item?id=39149406) - [Sephora hits $10B in sales, gives employees a cookie as a reward](https://old.reddit.com/r/WorkReform/comments/1ablgmn/sephora_hits_10_billion_in_sales_gives_employees/)
 * [2024-01-26, 21:53:23](https://news.ycombinator.com/item?id=39149080) - [Mozilla says Apple's new browser rules are 'as painful as possible' for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
 * [2024-01-26, 21:50:50](https://news.ycombinator.com/item?id=39149036) - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
 * [2024-01-26, 21:41:41](https://news.ycombinator.com/item?id=39148883) - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
+* [2024-01-26, 21:27:31](https://news.ycombinator.com/item?id=39148681) - [iPad users will miss out on third-party app stores, browser engines, and more](https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/)
 * [2024-01-26, 21:20:23](https://news.ycombinator.com/item?id=39148577) - [Ask HN: Working with ineffective volunteers at non profit as a solo entrepreneur](https://news.ycombinator.com/item?id=39148577)
 * [2024-01-26, 21:19:17](https://news.ycombinator.com/item?id=39148554) - [The Economist who wants the field to account for nature](https://www.technologyreview.com/2023/12/26/1084603/gretchen-daily-economist-environment-accounting/)
 * [2024-01-26, 21:18:43](https://news.ycombinator.com/item?id=39148544) - [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
