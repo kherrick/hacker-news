@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-26, 17:14:56",
+      "https://news.ycombinator.com/item?id=39145024"
+    ],
+    [
+      "Phones Track Everything but Their Role in Car Wrecks",
+      "https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 17:10:28",
+      "https://news.ycombinator.com/item?id=39144978"
+    ],
+    [
+      "The Rise of Batteries in Six Charts",
+      "https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 16:49:39",
       "https://news.ycombinator.com/item?id=39144740"
     ],
@@ -17,16 +37,6 @@
     [
       "Untranslatable",
       "https://untranslatable.co/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 16:46:22",
-      "https://news.ycombinator.com/item?id=39144693"
-    ],
-    [
-      "Trolls have flooded X with graphic Taylor Swift AI fakes",
-      "https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "2013 Airbus A-380 can be yours at 'just' $25M",
       "https://www.controller.com/listing/for-sale/224908431/2013-airbus-a380-jet-aircraft"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 16:20:04",
+      "https://news.ycombinator.com/item?id=39144366"
+    ],
+    [
+      "Poor code quality due to AI assistants GitHub Copilot and ChatGPT",
+      "https://blobstreaming.org/poor-code-quality-due-to-ai-assistants-github-copilot-and-chatgpt/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "WASI 0.2.0 and Why It Matters",
       "https://wasmcloud.com/blog/wasi-preview-2-officially-launches"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 14:34:28",
-      "https://news.ycombinator.com/item?id=39143033"
-    ],
-    [
-      "Meta tool to block nude images in teens' private messages",
-      "https://www.bbc.co.uk/news/technology-68093343"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-01-25, 12:36:24",
-      "https://news.ycombinator.com/item?id=39128902"
-    ],
-    [
-      "I realized chess pieces can be redesigned to be geometric attack directions",
-      "https://twitter.com/graycrawford/status/1750225562281632048"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 01:21:51",
       "https://news.ycombinator.com/item?id=39125016"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-01-24, 17:15:19",
-      "https://news.ycombinator.com/item?id=39119835"
-    ],
-    [
-      "Zed, a collaborative code editor, is now open source",
-      "https://zed.dev/blog/zed-is-now-open-source"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 16:23:52",
       "https://news.ycombinator.com/item?id=39119198"
     ],
     [
       "Are we at peak vector database?",
       "https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 20:28:26",
+      "https://news.ycombinator.com/item?id=39109286"
+    ],
+    [
+      "Novel camera system lets us see the world through eyes of birds and bees",
+      "https://arstechnica.com/science/2024/01/novel-camera-system-lets-us-see-the-world-through-eyes-of-birds-and-bees/"
     ]
   ]
 ]
