@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
 * [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
+* [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 * [2024-01-26, 18:36:35](https://news.ycombinator.com/item?id=39146177) - [The real 30 under 30 imo you have never heard of](https://twitter.com/karpathy/status/1748816969858720232)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
@@ -20,6 +21,7 @@
 * [2024-01-26, 17:02:41](https://news.ycombinator.com/item?id=39144898) - [Ukraine: Hack wiped 2 petabytes of data from Russian research center](https://www.bleepingcomputer.com/news/security/ukraine-hack-wiped-2-petabytes-of-data-from-russian-research-center/)
 * [2024-01-26, 16:59:45](https://news.ycombinator.com/item?id=39144866) - [Nancy Pelosi Made $500k from Her Nvidia Bet, Doubling Her Annual Salary](https://finance.yahoo.com/news/nancy-pelosi-made-500-000-140722196.html)
 * [2024-01-26, 16:58:17](https://news.ycombinator.com/item?id=39144851) - [Jane Street's \"Figgie\" Card Game](https://quantfinance.substack.com/p/jane-streets-figgie-card-game)
+* [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
 * [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
 * [2024-01-26, 16:46:22](https://news.ycombinator.com/item?id=39144693) - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
