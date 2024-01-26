@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 21:00:35](https://news.ycombinator.com/item?id=39148266) - ['Horizon IT system was 100% reliable'](https://www.bbc.co.uk/news/uk-northern-ireland-68103946)
+* [2024-01-26, 20:33:36](https://news.ycombinator.com/item?id=39147887) - [Netflix CEO says Apple Vision Pro market is too insignificant to bother with](https://appleinsider.com/articles/24/01/25/netflix-ceo-says-apple-vision-pro-market-is-too-insignificant-to-bother-with)
 * [2024-01-26, 20:26:14](https://news.ycombinator.com/item?id=39147774) - [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon (2020)](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
 * [2024-01-26, 20:09:05](https://news.ycombinator.com/item?id=39147528) - [Is Cloud the New Mainframe?](https://medium.com/@billynewport/is-cloud-the-new-mainframe-e43133cac151)
 * [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
@@ -10,7 +12,6 @@
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
-* [2024-01-26, 17:33:01](https://news.ycombinator.com/item?id=39145252) - [US agencies warn companies: Don’t delete Slack or Signal chats](https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
@@ -22,7 +23,6 @@
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
-* [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
