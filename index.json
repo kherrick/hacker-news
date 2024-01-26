@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-26, 16:28:50",
-      "https://news.ycombinator.com/item?id=39144477"
-    ],
-    [
-      "If you make $10M in sales, Apple's cut is $6.2M annually",
-      "https://twitter.com/nikitabier/status/1750592825060921353"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 16:15:23",
       "https://news.ycombinator.com/item?id=39144313"
     ],
@@ -57,16 +47,6 @@
     [
       "TinySA – small spectrum analyzer and signal generator",
       "https://www.tinysa.org/wiki/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 12:53:55",
-      "https://news.ycombinator.com/item?id=39142075"
-    ],
-    [
-      "Everybody's aware that Google will start enforcing DMARC Feb 1st, right?",
-      "https://easydns.com/blog/2024/01/19/new-email-policies-at-gmail-yahoo-et-al-will-require-dmarc-enabled-domains/"
     ]
   ],
   [
@@ -201,12 +181,32 @@
   ],
   [
     [
+      "2024-01-25, 16:00:52",
+      "https://news.ycombinator.com/item?id=39130945"
+    ],
+    [
+      "CRDTs Turned Inside Out",
+      "https://interjectedfuture.com/crdts-turned-inside-out/"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 15:40:38",
       "https://news.ycombinator.com/item?id=39130684"
     ],
     [
       "Capturing the ripples of spacetime: LISA gets go-ahead",
       "https://www.esa.int/Science_Exploration/Space_Science/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 14:07:24",
+      "https://news.ycombinator.com/item?id=39129680"
+    ],
+    [
+      "Ruby on Rails load testing habits",
+      "https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-01-25, 07:32:00",
-      "https://news.ycombinator.com/item?id=39127157"
+      "2024-01-25, 07:09:53",
+      "https://news.ycombinator.com/item?id=39127028"
     ],
     [
-      "The cooling advantage that CPU integrated graphics has",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/CPUIGPCoolingAdvantage"
+      "Brains are not required to think or solve problems – simple cells can do it",
+      "https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/"
     ]
   ],
   [
