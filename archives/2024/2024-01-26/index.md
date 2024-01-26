@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 14:35:46](https://news.ycombinator.com/item?id=39143054) - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
+* [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ Orders Israel to Prevent Genocide Without Cease-Fire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 14:09:17](https://news.ycombinator.com/item?id=39142724) - ['Mother of all breaches' data leak reveals 26B account stolen records](https://nypost.com/2024/01/23/lifestyle/extremely-dangerous-leak-reveals-26-billion-account-records-stolen-from-twitter-linkedin-more-mother-of-all-breaches/)
 * [2024-01-26, 13:58:27](https://news.ycombinator.com/item?id=39142613) - [An ideological divide is emerging between young men and women around the world](https://twitter.com/jburnmurdoch/status/1750849189834022932)
 * [2024-01-26, 13:52:07](https://news.ycombinator.com/item?id=39142568) - [Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
+* [2024-01-26, 13:18:52](https://news.ycombinator.com/item?id=39142295) - [If Lisp is so great](https://mihaiolteanu.me/if-lisp-is-so-great)
 * [2024-01-26, 13:18:35](https://news.ycombinator.com/item?id=39142290) - [Show HN: Alzheimer's Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 * [2024-01-26, 12:50:13](https://news.ycombinator.com/item?id=39142048) - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
@@ -22,6 +25,7 @@
 * [2024-01-26, 09:06:52](https://news.ycombinator.com/item?id=39140353) - [The ADHD Exercise Solution (2023)](https://www.additudemag.com/the-adhd-exercise-solution/)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
+* [2024-01-26, 08:30:07](https://news.ycombinator.com/item?id=39140135) - [My heat pump: a personal story about a broken heating industry](https://greenallianceblog.org.uk/2023/12/22/my-heat-pump-a-personal-story-about-a-broken-heating-industry/)
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
 * [2024-01-26, 08:11:59](https://news.ycombinator.com/item?id=39139999) - [Cantillon Effect](https://river.com/learn/terms/c/cantillon-effect/)
 * [2024-01-26, 07:32:35](https://news.ycombinator.com/item?id=39139791) - [Induce Lucid Dreaming](https://propheticai.co/)
