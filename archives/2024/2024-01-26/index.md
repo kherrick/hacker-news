@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 10:48:50](https://news.ycombinator.com/item?id=39141155) - [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
+* [2024-01-26, 10:28:34](https://news.ycombinator.com/item?id=39141011) - [Don't Talk to People Like They're Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
 * [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
+* [2024-01-26, 10:10:17](https://news.ycombinator.com/item?id=39140843) - [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
 * [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
 * [2024-01-26, 09:06:52](https://news.ycombinator.com/item?id=39140353) - [The ADHD Exercise Solution (2023)](https://www.additudemag.com/the-adhd-exercise-solution/)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
