@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 22:15:56](https://news.ycombinator.com/item?id=39149406) - [Sephora hits $10B in sales, gives employees a cookie as a reward](https://old.reddit.com/r/WorkReform/comments/1ablgmn/sephora_hits_10_billion_in_sales_gives_employees/)
 * [2024-01-26, 21:53:23](https://news.ycombinator.com/item?id=39149080) - [Mozilla says Apple's new browser rules are 'as painful as possible' for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
 * [2024-01-26, 21:50:50](https://news.ycombinator.com/item?id=39149036) - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
 * [2024-01-26, 21:41:41](https://news.ycombinator.com/item?id=39148883) - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
@@ -12,7 +13,6 @@
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
-* [2024-01-26, 17:33:01](https://news.ycombinator.com/item?id=39145252) - [US agencies warn companies: Don’t delete Slack or Signal chats](https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
