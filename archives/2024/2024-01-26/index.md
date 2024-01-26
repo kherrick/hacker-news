@@ -9,6 +9,7 @@
 * [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
 * [2024-01-26, 19:41:33](https://news.ycombinator.com/item?id=39147141) - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
 * [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
+* [2024-01-26, 19:08:26](https://news.ycombinator.com/item?id=39146658) - [Tesla Cybertruck Owner Gets 'Coming Soon' Message When Trying to Lock Diff](https://www.thedrive.com/news/tesla-cybertruck-owner-gets-coming-soon-message-when-trying-to-lock-diff)
 * [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
 * [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
 * [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-26, 20:26:14](https://news.ycombinator.com/item?id=39147774) - [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
+* [2024-01-26, 20:26:14](https://news.ycombinator.com/item?id=39147774) - [Head of the USAF Is Jumping on the F-22 Production Re-Start Bandwagon (2020)](https://www.thedrive.com/the-war-zone/3687/now-the-head-of-the-usaf-is-jumping-on-the-f-22-production-re-start-bandwagon)
 * [2024-01-26, 20:09:05](https://news.ycombinator.com/item?id=39147528) - [Is Cloud the New Mainframe?](https://medium.com/@billynewport/is-cloud-the-new-mainframe-e43133cac151)
 * [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
+* [2024-01-26, 19:08:26](https://news.ycombinator.com/item?id=39146658) - [Tesla Cybertruck Owner Gets 'Coming Soon' Message When Trying to Lock Diff](https://www.thedrive.com/news/tesla-cybertruck-owner-gets-coming-soon-message-when-trying-to-lock-diff)
 * [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
 * [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
@@ -14,7 +15,6 @@
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
-* [2024-01-26, 16:44:02](https://news.ycombinator.com/item?id=39144664) - [I abandoned OpenLiteSpeed and went back to good ol' Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
 * [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I secured an 'Extraordinary Ability' visa as a founder](https://blog.awais.io/o1-visa/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ orders Israel to prevent genocide in Gaza, stops short of ordering ceasefire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
