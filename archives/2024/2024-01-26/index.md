@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 14:09:17](https://news.ycombinator.com/item?id=39142724) - ['Mother of all breaches' data leak reveals 26B account stolen records](https://nypost.com/2024/01/23/lifestyle/extremely-dangerous-leak-reveals-26-billion-account-records-stolen-from-twitter-linkedin-more-mother-of-all-breaches/)
 * [2024-01-26, 13:58:27](https://news.ycombinator.com/item?id=39142613) - [An ideological divide is emerging between young men and women around the world](https://twitter.com/jburnmurdoch/status/1750849189834022932)
 * [2024-01-26, 13:18:35](https://news.ycombinator.com/item?id=39142290) - [Show HN: Alzheimer's Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 * [2024-01-26, 12:50:13](https://news.ycombinator.com/item?id=39142048) - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
