@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-26, 09:13:14",
+      "https://news.ycombinator.com/item?id=39140390"
+    ],
+    [
+      "Post Office plan to sack Horizon IT reviewer kept secret, documents reveal",
+      "https://www.bbc.co.uk/news/business-68079300"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 08:53:48",
       "https://news.ycombinator.com/item?id=39140269"
     ],
@@ -197,16 +207,6 @@
     [
       "Apple announces changes to iOS, Safari, and the App Store in the European Union",
       "https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 17:49:14",
-      "https://news.ycombinator.com/item?id=39132300"
-    ],
-    [
-      "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
-      "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d"
     ]
   ],
   [
