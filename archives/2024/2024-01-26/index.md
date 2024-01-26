@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
 * [2024-01-26, 16:44:02](https://news.ycombinator.com/item?id=39144664) - [I abandoned OpenLiteSpeed and went back to good ol' Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
+* [2024-01-26, 16:32:09](https://news.ycombinator.com/item?id=39144517) - [This Japanese Town Sorts Their Waste Into These 45 Categories](https://www.core77.com/posts/125980/This-Japanese-Town-Sorts-Their-Waste-Into-These-45-Categories)
+* [2024-01-26, 16:30:03](https://news.ycombinator.com/item?id=39144493) - [2013 Airbus A-380 can be yours at 'just' $25M](https://www.controller.com/listing/for-sale/224908431/2013-airbus-a380-jet-aircraft)
 * [2024-01-26, 16:28:50](https://news.ycombinator.com/item?id=39144477) - [If you make $10M in sales, Apple's cut is $6.2M annually](https://twitter.com/nikitabier/status/1750592825060921353)
+* [2024-01-26, 16:19:18](https://news.ycombinator.com/item?id=39144360) - [HTMX 2.0.0-alpha1 has been released](https://v2-0v2-0.htmx.org/posts/2024-01-26-htmx-2-0-0-alpha1-is-released/)
 * [2024-01-26, 16:15:23](https://news.ycombinator.com/item?id=39144313) - [Web Calendars Should Be Discoverable and Provide iCalendar Feeds](https://ericlathrop.com/2024/01/web-calendars-should-be-discoverable-and-provide-icalendar-feeds/)
+* [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I secured an 'Extraordinary Ability' visa as a founder](https://blog.awais.io/o1-visa/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 15:12:02](https://news.ycombinator.com/item?id=39143509) - [Big Five personality traits (a.k.a. \"OCEAN model\")](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 * [2024-01-26, 14:57:20](https://news.ycombinator.com/item?id=39143310) - [Tesla's in Serious Trouble](https://disconnect.blog/teslas-in-serious-trouble/)
