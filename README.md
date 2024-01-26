@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-26, 17:30:53](https://news.ycombinator.com/item?id=39145229) - [Stunned devs left scrambling for livelihoods in wake of layoff bloodbath](https://www.pcgamer.com/stunned-devs-left-scrambling-for-livelihoods-in-wake-of-yesterdays-layoff-bloodbath-in-the-end-the-contributions-didnt-matter/)
+* [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
+* [2024-01-26, 17:08:55](https://news.ycombinator.com/item?id=39144965) - [Servo Engine Updates Bring CSS Tables and Its Browser Gets Back/Forward Buttons](https://www.phoronix.com/news/Servo-Updates-2024-Start)
 * [2024-01-26, 17:02:41](https://news.ycombinator.com/item?id=39144898) - [Ukraine: Hack wiped 2 petabytes of data from Russian research center](https://www.bleepingcomputer.com/news/security/ukraine-hack-wiped-2-petabytes-of-data-from-russian-research-center/)
-* [2024-01-26, 16:59:45](https://news.ycombinator.com/item?id=39144866) - [Nancy Pelosi Made $500k from Her Nvidia Bet, Doubling Her Annual Salary](https://finance.yahoo.com/news/nancy-pelosi-made-500-000-140722196.html)
 * [2024-01-26, 16:58:17](https://news.ycombinator.com/item?id=39144851) - [Jane Street's \"Figgie\" Card Game](https://quantfinance.substack.com/p/jane-streets-figgie-card-game)
 * [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
