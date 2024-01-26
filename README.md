@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
 * [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
@@ -16,6 +15,7 @@
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
 * [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I secured an 'Extraordinary Ability' visa as a founder](https://blog.awais.io/o1-visa/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
+* [2024-01-26, 14:35:46](https://news.ycombinator.com/item?id=39143054) - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
 * [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ genocide case: World court demands Israel limit deaths](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
