@@ -48,6 +48,7 @@
 * [2024-01-24, 18:32:55](https://news.ycombinator.com/item?id=39120932) - [JEP Draft – Derived Record Creation (Preview) – Java Record \"Withers\"](https://bugs.openjdk.org/browse/JDK-8321133)
 * [2024-01-24, 18:29:31](https://news.ycombinator.com/item?id=39120875) - [Jar Jar Binks: The greatest thing that ever happened to Star Wars](https://ilovejarjarbinks.tripod.com/)
 * [2024-01-24, 18:22:28](https://news.ycombinator.com/item?id=39120773) - [Train Robbery for Amazon Packages? More Common Than You Think](https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html)
+* [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 * [2024-01-24, 18:11:55](https://news.ycombinator.com/item?id=39120647) - [Show HN: Startup Funding Simulator](https://www.fundingsimulator.com/)
 * [2024-01-24, 17:58:28](https://news.ycombinator.com/item?id=39120456) - [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/abs/2312.11514)
 * [2024-01-24, 17:30:28](https://news.ycombinator.com/item?id=39120019) - [Caltech Machine Learning Video Library](https://work.caltech.edu/library/)
