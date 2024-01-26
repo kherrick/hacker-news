@@ -80,6 +80,7 @@
 * [2024-01-25, 08:27:41](https://news.ycombinator.com/item?id=39127433) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 08:27:38](https://news.ycombinator.com/item?id=39127432) - [GHC Steering Committee Retrospective](https://www.joachim-breitner.de/blog/811-GHC_Steering_Committee_Retrospective)
 * [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
+* [2024-01-25, 07:32:00](https://news.ycombinator.com/item?id=39127157) - [The cooling advantage that CPU integrated graphics has](https://utcc.utoronto.ca/~cks/space/blog/tech/CPUIGPCoolingAdvantage)
 * [2024-01-25, 07:19:38](https://news.ycombinator.com/item?id=39127080) - [Ossian, the ‘Homer of the North’, the greatest literary hoax (2016)](https://www.independent.co.uk/arts-entertainment/books/news/ossian-literary-hoax-james-macpherson-fingal-mathematics-social-network-study-a7371806.html)
 * [2024-01-25, 07:09:53](https://news.ycombinator.com/item?id=39127028) - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
 * [2024-01-25, 06:48:14](https://news.ycombinator.com/item?id=39126924) - [NYC plans to wipe out $2B in medical debt for 500k residents](https://apnews.com/article/rip-medical-debt-new-york-city-adams-1f39530cd79937ced52f47ab4749fb58)
