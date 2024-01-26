@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
 * [2024-01-26, 05:11:30](https://news.ycombinator.com/item?id=39139163) - ['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
-* [2024-01-26, 04:58:56](https://news.ycombinator.com/item?id=39139105) - [He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
