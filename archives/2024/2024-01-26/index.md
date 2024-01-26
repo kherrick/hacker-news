@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 17:14:56](https://news.ycombinator.com/item?id=39145024) - [Phones Track Everything but Their Role in Car Wrecks](https://www.nytimes.com/2024/01/26/health/cars-phones-accidents.html)
+* [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The Rise of Batteries in Six Charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
 * [2024-01-26, 16:49:39](https://news.ycombinator.com/item?id=39144740) - [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
 * [2024-01-26, 16:46:22](https://news.ycombinator.com/item?id=39144693) - [Trolls have flooded X with graphic Taylor Swift AI fakes](https://www.theverge.com/2024/1/25/24050334/x-twitter-taylor-swift-ai-fake-images-trending)
@@ -11,6 +13,7 @@
 * [2024-01-26, 16:32:09](https://news.ycombinator.com/item?id=39144517) - [This Japanese Town Sorts Their Waste Into These 45 Categories](https://www.core77.com/posts/125980/This-Japanese-Town-Sorts-Their-Waste-Into-These-45-Categories)
 * [2024-01-26, 16:30:03](https://news.ycombinator.com/item?id=39144493) - [2013 Airbus A-380 can be yours at 'just' $25M](https://www.controller.com/listing/for-sale/224908431/2013-airbus-a380-jet-aircraft)
 * [2024-01-26, 16:28:50](https://news.ycombinator.com/item?id=39144477) - [If you make $10M in sales, Apple's cut is $6.2M annually](https://twitter.com/nikitabier/status/1750592825060921353)
+* [2024-01-26, 16:20:04](https://news.ycombinator.com/item?id=39144366) - [Poor code quality due to AI assistants GitHub Copilot and ChatGPT](https://blobstreaming.org/poor-code-quality-due-to-ai-assistants-github-copilot-and-chatgpt/)
 * [2024-01-26, 16:19:18](https://news.ycombinator.com/item?id=39144360) - [HTMX 2.0.0-alpha1 has been released](https://v2-0v2-0.htmx.org/posts/2024-01-26-htmx-2-0-0-alpha1-is-released/)
 * [2024-01-26, 16:15:23](https://news.ycombinator.com/item?id=39144313) - [Web Calendars Should Be Discoverable and Provide iCalendar Feeds](https://ericlathrop.com/2024/01/web-calendars-should-be-discoverable-and-provide-icalendar-feeds/)
 * [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I secured an 'Extraordinary Ability' visa as a founder](https://blog.awais.io/o1-visa/)
