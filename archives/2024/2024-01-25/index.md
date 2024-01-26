@@ -30,6 +30,7 @@
 * [2024-01-25, 18:42:13](https://news.ycombinator.com/item?id=39133070) - [Framework: We don't want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
 * [2024-01-25, 18:24:40](https://news.ycombinator.com/item?id=39132766) - [Show HN: Lumos, a Local LLM Chrome Extension](https://github.com/andrewnguonly/Lumos)
+* [2024-01-25, 18:06:56](https://news.ycombinator.com/item?id=39132495) - [Re-implementing an old DOS game in C++ 17 (2019)](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
 * [2024-01-25, 18:04:18](https://news.ycombinator.com/item?id=39132461) - [Apple Overhauls App Store, iPhone Features in EU to Appease Regulators](https://www.bloomberg.com/news/articles/2024-01-25/apple-aapl-overhauls-app-store-iphone-features-in-eu-to-appease-regulators)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple Announces Changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:01:50](https://news.ycombinator.com/item?id=39132437) - [iOS 17.4 Introduces Alternative App Marketplaces with No Commission in EU](https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/)

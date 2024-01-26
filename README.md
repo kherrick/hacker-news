@@ -16,6 +16,7 @@
 * [2024-01-25, 19:58:09](https://news.ycombinator.com/item?id=39134349) - [Due to blade damage, Mars Helicopter Ingenuity will not fly again](https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/)
 * [2024-01-25, 19:09:15](https://news.ycombinator.com/item?id=39133612) - [Starship.rs: minimal, fast prompt for any shell](https://starship.rs/)
 * [2024-01-25, 18:24:40](https://news.ycombinator.com/item?id=39132766) - [Show HN: Lumos, a local LLM Chrome extension](https://github.com/andrewnguonly/Lumos)
+* [2024-01-25, 18:06:56](https://news.ycombinator.com/item?id=39132495) - [Re-implementing an old DOS game in C++ 17 (2019)](https://lethalguitar.wordpress.com/2019/05/28/re-implementing-an-old-dos-game-in-c-17/)
 * [2024-01-25, 18:03:26](https://news.ycombinator.com/item?id=39132453) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 17:49:14](https://news.ycombinator.com/item?id=39132300) - [CVE-2023-40547 – avoid incorrectly trusting HTTP headers](https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d)
 * [2024-01-25, 16:05:36](https://news.ycombinator.com/item?id=39131010) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
@@ -29,7 +30,6 @@
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 * [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
-* [2024-01-24, 02:33:05](https://news.ycombinator.com/item?id=39112919) - [Chemists tie a trefoil knot using only 54 atoms](https://phys.org/news/2024-01-chemists-atoms.html)
 
 ## [Archives](archives/index.md)
 
