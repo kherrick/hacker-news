@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
 * [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 * [2024-01-26, 18:36:35](https://news.ycombinator.com/item?id=39146177) - [The real 30 under 30 imo you have never heard of](https://twitter.com/karpathy/status/1748816969858720232)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
+* [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
 * [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 * [2024-01-26, 18:01:38](https://news.ycombinator.com/item?id=39145632) - [We've Forgotten How to Use Computers](https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
