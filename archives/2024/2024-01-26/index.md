@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 15:12:02](https://news.ycombinator.com/item?id=39143509) - [Big Five personality traits (a.k.a. \"OCEAN model\")](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 * [2024-01-26, 14:57:20](https://news.ycombinator.com/item?id=39143310) - [Tesla's in Serious Trouble](https://disconnect.blog/teslas-in-serious-trouble/)
 * [2024-01-26, 14:49:01](https://news.ycombinator.com/item?id=39143204) - [We Need Your Email Address](https://www.404media.co/why-404-media-needs-your-email-address/)
 * [2024-01-26, 14:35:46](https://news.ycombinator.com/item?id=39143054) - [WASI 0.2.0 and Why It Matters](https://wasmcloud.com/blog/wasi-preview-2-officially-launches)
