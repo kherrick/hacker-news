@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-01-25, 16:00:52",
-      "https://news.ycombinator.com/item?id=39130945"
-    ],
-    [
-      "CRDTs Turned Inside Out",
-      "https://interjectedfuture.com/crdts-turned-inside-out/"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 15:40:38",
       "https://news.ycombinator.com/item?id=39130684"
     ],
@@ -267,6 +257,16 @@
     [
       "Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]",
       "https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 19:09:51",
+      "https://news.ycombinator.com/item?id=39121392"
+    ],
+    [
+      "Babashka: Fast native Clojure scripting runtime",
+      "https://babashka.org/"
     ]
   ],
   [
