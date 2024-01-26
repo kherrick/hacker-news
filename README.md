@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
 * [2024-01-26, 07:32:35](https://news.ycombinator.com/item?id=39139791) - [Induce Lucid Dreaming](https://propheticai.co/)
@@ -9,7 +10,6 @@
 * [2024-01-26, 01:00:26](https://news.ycombinator.com/item?id=39137661) - [Doctor Droid (YC W23) Is Hiring in Bangalore](https://www.ycombinator.com/companies/doctor-droid/jobs/YhEZ6dZ-nlp-engineer)
 * [2024-01-26, 00:38:11](https://news.ycombinator.com/item?id=39137502) - [AMD Publishes XDNA Linux Driver: Support for Ryzen AI on Linux](https://www.phoronix.com/news/AMD-XDNA-Linux-Driver-Ryzen-AI)
 * [2024-01-26, 00:31:13](https://news.ycombinator.com/item?id=39137430) - [Air pollution over Alberta oil sands up to 6,300% higher than reported](https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834)
-* [2024-01-25, 23:12:58](https://news.ycombinator.com/item?id=39136770) - [NSA Buys Americans' Internet Data Without Warrants, Unclassified Letter Says](https://www.nytimes.com/2024/01/25/us/politics/nsa-internet-privacy-warrant.html)
 * [2024-01-25, 22:44:41](https://news.ycombinator.com/item?id=39136472) - [Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 * [2024-01-25, 22:24:40](https://news.ycombinator.com/item?id=39136238) - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
 * [2024-01-25, 22:14:34](https://news.ycombinator.com/item?id=39136123) - [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
