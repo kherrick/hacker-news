@@ -6,6 +6,7 @@
 
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
 * [2024-01-26, 05:11:30](https://news.ycombinator.com/item?id=39139163) - ['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
+* [2024-01-26, 04:58:56](https://news.ycombinator.com/item?id=39139105) - [He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
 * [2024-01-26, 03:23:07](https://news.ycombinator.com/item?id=39138548) - [Rich People Don't Talk to Robots](https://www.downtownjoshbrown.com/p/rich-people-dont-talk-robots)
 * [2024-01-26, 02:59:54](https://news.ycombinator.com/item?id=39138440) - [LLM App Stack – a.k.a. Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 * [2024-01-26, 02:56:23](https://news.ycombinator.com/item?id=39138423) - [Ring will no longer allow police to request users' doorbell camera footage](https://text.npr.org/1226942087)
