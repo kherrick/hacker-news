@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
 * [2024-01-26, 18:56:06](https://news.ycombinator.com/item?id=39146465) - [Epic Games CEO Likens Apple's Core Tech Fee to Unity's Disastrous Runtime Fee](https://twitter.com/TimSweeneyEpic/status/1750661023936209400)
 * [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
 * [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
@@ -59,6 +60,7 @@
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-26, 11:35:34](https://news.ycombinator.com/item?id=39141493) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-26, 11:24:35](https://news.ycombinator.com/item?id=39141413) - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
+* [2024-01-26, 11:13:56](https://news.ycombinator.com/item?id=39141334) - [Revisting Madonna-Ology in the Era of Taylor Swift Studies](https://lareviewofbooks.org/article/revisiting-madonna-ology-in-the-era-of-taylor-swift-studies/)
 * [2024-01-26, 11:12:56](https://news.ycombinator.com/item?id=39141328) - [Kenneth Smith 'struggled for life' for 22 mins in Alabama nitrogen gas execution](https://www.independent.co.uk/news/world/americas/alabama-execution-nitrogen-kenneth-smith-updates-b2485208.html)
 * [2024-01-26, 10:48:50](https://news.ycombinator.com/item?id=39141155) - [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
 * [2024-01-26, 10:28:34](https://news.ycombinator.com/item?id=39141011) - [Don't Talk to People Like They're Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
