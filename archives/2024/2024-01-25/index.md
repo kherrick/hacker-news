@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
 * [2024-01-25, 23:35:34](https://news.ycombinator.com/item?id=39136967) - [Fortnite to Return to iOS in Europe Following App Store Changes](https://www.macrumors.com/2024/01/25/fortnite-returning-to-ios-in-europe/)
+* [2024-01-25, 22:26:58](https://news.ycombinator.com/item?id=39136269) - [You're Too Old for That: Age Discrimination in Japan Tech](https://www.tokyodev.com/articles/age-discrimination-in-japan-tech)
 * [2024-01-25, 22:24:40](https://news.ycombinator.com/item?id=39136238) - [Show HN: NativeVision, helping React Native devs to build XR apps for any device](https://github.com/NativeVision/viro)
 * [2024-01-25, 22:16:00](https://news.ycombinator.com/item?id=39136142) - [Clear Shadows (1867)](https://publicdomainreview.org/collection/kumanaki-kage/)
 * [2024-01-25, 22:15:15](https://news.ycombinator.com/item?id=39136137) - [The Annual Cost of Technical Debt: $1.52T](https://itzareyesmx.medium.com/the-annual-cost-of-technical-debt-1-52-trillion-65afaa1e0005)
@@ -21,6 +22,7 @@
 * [2024-01-25, 19:09:05](https://news.ycombinator.com/item?id=39133608) - [Universal Self-Adaptive Prompting](https://arxiv.org/abs/2305.14926)
 * [2024-01-25, 19:07:23](https://news.ycombinator.com/item?id=39133573) - [The new architecture wars](https://aeon.co/essays/the-architectural-style-wars-have-started-all-over-again)
 * [2024-01-25, 18:54:48](https://news.ycombinator.com/item?id=39133338) - [The lithium revolution has arrived at California's Salton Sea](https://www.latimes.com/environment/newsletter/2024-01-25/column-the-lithium-revolution-has-arrived-at-californias-salton-sea-boiling-point)
+* [2024-01-25, 18:50:12](https://news.ycombinator.com/item?id=39133238) - [On climbing the stat arb leaderboard, comparative advantage, and careers](https://www.ddmckinnon.com/2024/01/25/on-climbing-the-stat-arb-cex-dex-leaderboard-comparative-advantage-and-careers-and-my-future-in-crypto/)
 * [2024-01-25, 18:43:12](https://news.ycombinator.com/item?id=39133086) - [HPV vaccine study finds zero cases of cervical cancer among women vaccinated <14](https://www.statnews.com/2024/01/25/hpv-vaccine-prevent-cervical-cancer-cervarix-gardasil-study/)
 * [2024-01-25, 18:42:13](https://news.ycombinator.com/item?id=39133070) - [Framework: We don't want to have to make a printer, but wow](https://twitter.com/FrameworkPuter/status/1750545558765519344)
 * [2024-01-25, 18:33:05](https://news.ycombinator.com/item?id=39132901) - [OpenAI: New embedding models and API updates](https://openai.com/blog/new-embedding-models-and-api-updates)
@@ -54,6 +56,7 @@
 * [2024-01-25, 14:32:41](https://news.ycombinator.com/item?id=39129949) - [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 * [2024-01-25, 14:20:28](https://news.ycombinator.com/item?id=39129806) - [We build X.509 chains so you don't have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 14:10:39](https://news.ycombinator.com/item?id=39129711) - [Shouldn't FROM come before SELECT in SQL?](https://stackoverflow.com/questions/5074044/shouldnt-from-come-before-select-in-sql)
+* [2024-01-25, 14:07:24](https://news.ycombinator.com/item?id=39129680) - [Ruby on Rails load testing habits](https://www.rorvswild.com/blog/2024/ruby-on-rails-load-testing-habits)
 * [2024-01-25, 13:57:07](https://news.ycombinator.com/item?id=39129578) - [iPhone Apps Harvest Data When They Send You Notifications, Researchers Find](https://gizmodo.com/iphone-apps-can-harvest-data-from-notifications-1851194537)
 * [2024-01-25, 13:32:42](https://news.ycombinator.com/item?id=39129367) - [Sports Illustrated Implosion Shows the Ugly, Ongoing Collapse of U.S. Journalism](https://www.techdirt.com/2024/01/24/sports-illustrated-implosion-perfectly-encapsulates-the-ugly-ongoing-collapse-of-u-s-journalism/)
 * [2024-01-25, 13:21:07](https://news.ycombinator.com/item?id=39129274) - [Proposed UN cybercrime treaty has evolved into an expansive surveillance tool](https://www.eff.org/deeplinks/2024/01/eff-and-more-100-ngos-set-non-negotiable-redlines-ahead-un-cybercrime-treaty)
