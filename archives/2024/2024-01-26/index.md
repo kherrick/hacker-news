@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 18:44:55](https://news.ycombinator.com/item?id=39146300) - [83% of Warren Buffett's $365B Portfolio Is Invested in Just 7 Stocks](https://www.fool.com/investing/2024/01/26/83-warren-buffett-portfolio-invested-just-7-stocks/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article)
+* [2024-01-26, 18:36:35](https://news.ycombinator.com/item?id=39146177) - [The real 30 under 30 imo you have never heard of](https://twitter.com/karpathy/status/1748816969858720232)
+* [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
 * [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 * [2024-01-26, 18:01:38](https://news.ycombinator.com/item?id=39145632) - [We've Forgotten How to Use Computers](https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/)
