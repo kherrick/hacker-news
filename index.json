@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-26, 12:50:13",
+      "https://news.ycombinator.com/item?id=39142048"
+    ],
+    [
+      "Artist trained rats to take selfies to make a point about social media",
+      "https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 12:00:07",
       "https://news.ycombinator.com/item?id=39141682"
     ],
@@ -17,16 +27,6 @@
     [
       "Dungeons and Dragons turns 50 today",
       "http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 10:28:34",
-      "https://news.ycombinator.com/item?id=39141011"
-    ],
-    [
-      "Don't Talk to People Like They're Chatbots",
-      "https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-01-26, 00:31:13",
+      "https://news.ycombinator.com/item?id=39137430"
+    ],
+    [
+      "Air pollution over Alberta oil sands up to 6,300% higher than reported",
+      "https://www.vancouverisawesome.com/highlights/alberta-tar-sands-pollution-up-to-6300-higher-than-industry-reported-finds-study-8162834"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 22:44:41",
       "https://news.ycombinator.com/item?id=39136472"
     ],
@@ -181,32 +191,22 @@
   ],
   [
     [
-      "2024-01-25, 19:58:09",
-      "https://news.ycombinator.com/item?id=39134349"
-    ],
-    [
-      "Due to blade damage, Mars Helicopter Ingenuity will not fly again",
-      "https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 18:24:40",
-      "https://news.ycombinator.com/item?id=39132766"
-    ],
-    [
-      "Show HN: Lumos, a local LLM Chrome extension",
-      "https://github.com/andrewnguonly/Lumos"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 18:03:26",
       "https://news.ycombinator.com/item?id=39132453"
     ],
     [
       "Apple announces changes to iOS, Safari, and the App Store in the European Union",
       "https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 17:49:14",
+      "https://news.ycombinator.com/item?id=39132300"
+    ],
+    [
+      "CVE-2023-40547 – avoid incorrectly trusting HTTP headers",
+      "https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d"
     ]
   ],
   [
