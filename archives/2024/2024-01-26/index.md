@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 22:41:21](https://news.ycombinator.com/item?id=39149789) - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
 * [2024-01-26, 22:15:56](https://news.ycombinator.com/item?id=39149406) - [Sephora hits $10B in sales, gives employees a cookie as a reward](https://old.reddit.com/r/WorkReform/comments/1ablgmn/sephora_hits_10_billion_in_sales_gives_employees/)
 * [2024-01-26, 21:53:23](https://news.ycombinator.com/item?id=39149080) - [Mozilla says Apple's new browser rules are 'as painful as possible' for Firefox](https://www.theverge.com/2024/1/26/24052067/mozilla-apple-ios-browser-rules-firefox)
 * [2024-01-26, 21:50:50](https://news.ycombinator.com/item?id=39149036) - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
