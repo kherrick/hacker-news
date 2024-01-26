@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-26, 20:09:05](https://news.ycombinator.com/item?id=39147528) - [Is Cloud the New Mainframe?](https://medium.com/@billynewport/is-cloud-the-new-mainframe-e43133cac151)
+* [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
 * [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
 * [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
-* [2024-01-26, 18:46:56](https://news.ycombinator.com/item?id=39146327) - [Apple Shares List of Alternate Browsers That Will Be Available to EU Users](https://www.macstories.net/news/apple-shares-list-of-alternate-browsers-that-will-be-available-to-eu-users-in-ios-17-4/)
 * [2024-01-26, 18:37:51](https://news.ycombinator.com/item?id=39146198) - [PC Magazine, PC World, and Macworld's Origins, as Told by David Bunnell](https://technologizer.com/2024/01/20/the-inside-story-of-pc-magazine-pc-world-and-macworlds-origins-as-told-by-david-bunnell/)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:06:33](https://news.ycombinator.com/item?id=39145728) - [The blogger who spotted problems in Dana-Farber cancer papers](https://www.nature.com/articles/d41586-024-00202-9)
@@ -14,7 +15,6 @@
 * [2024-01-26, 16:59:49](https://news.ycombinator.com/item?id=39144867) - [The Bad Economics of Wtfhappenedin1971](https://www.singlelunch.com/2023/09/13/the-bad-economics-of-wtfhappenedin1971/)
 * [2024-01-26, 16:57:45](https://news.ycombinator.com/item?id=39144845) - [Tweets to Citations: The Impact of Social Media Influencers on AI Research](https://arxiv.org/abs/2401.13782)
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
-* [2024-01-26, 16:44:02](https://news.ycombinator.com/item?id=39144664) - [I abandoned OpenLiteSpeed and went back to good ol' Nginx](https://arstechnica.com/gadgets/2024/01/i-abandoned-openlitespeed-and-went-back-to-good-ol-nginx/)
 * [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I secured an 'Extraordinary Ability' visa as a founder](https://blog.awais.io/o1-visa/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ orders Israel to prevent genocide in Gaza, stops short of ordering ceasefire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)

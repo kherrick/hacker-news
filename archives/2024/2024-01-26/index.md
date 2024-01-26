@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 20:09:05](https://news.ycombinator.com/item?id=39147528) - [Is Cloud the New Mainframe?](https://medium.com/@billynewport/is-cloud-the-new-mainframe-e43133cac151)
+* [2024-01-26, 19:51:30](https://news.ycombinator.com/item?id=39147275) - [Google's New AI-Powered Browser Could Mark the End of the Human Internet](https://nymag.com/intelligencer/2024/01/new-ai-powered-google-chrome-browser-end-of-human-internet.html)
 * [2024-01-26, 19:41:33](https://news.ycombinator.com/item?id=39147141) - [The NSA buys Americans' internet data, newly released documents show](https://www.cnn.com/2024/01/26/tech/the-nsa-buys-americans-internet-data-newly-released-documents-show/index.html)
 * [2024-01-26, 19:19:11](https://news.ycombinator.com/item?id=39146834) - [Apple to EU, Drop Dead](https://spyglass.org/apple-to-eu-drop-dead/)
 * [2024-01-26, 19:08:05](https://news.ycombinator.com/item?id=39146654) - [Ask HN: How to Get into Quantitative Trading?](https://news.ycombinator.com/item?id=39146654)
