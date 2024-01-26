@@ -2,6 +2,7 @@
 
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
+* [2024-01-26, 06:53:14](https://news.ycombinator.com/item?id=39139616) - [Nobody Cares About Your Git History](https://spin.atomicobject.com/git-history/)
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-26, 01:13:21](https://news.ycombinator.com/item?id=39137755) - [I don't always use LaTeX, but when I do, I compile to HTML (2013)](https://www.peterkrautzberger.org/0136/)
@@ -28,7 +29,6 @@
 * [2024-01-24, 23:22:23](https://news.ycombinator.com/item?id=39124018) - [Replication Prohibited: Attacking Restricted Keyways with 3D Printing [pdf]](https://www.usenix.org/system/files/conference/woot15/woot15-paper-burgess.pdf)
 * [2024-01-24, 19:09:51](https://news.ycombinator.com/item?id=39121392) - [Babashka: Fast native Clojure scripting runtime](https://babashka.org/)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
-* [2024-01-24, 17:15:19](https://news.ycombinator.com/item?id=39119835) - [Zed, a collaborative code editor, is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:23:52](https://news.ycombinator.com/item?id=39119198) - [Are we at peak vector database?](https://softwaredoug.com/blog/2024/01/24/are-we-at-peak-vector-db)
 
 ## [Archives](archives/index.md)
