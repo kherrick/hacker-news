@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 10:32:27](https://news.ycombinator.com/item?id=39154380) - [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 * [2024-01-27, 09:04:45](https://news.ycombinator.com/item?id=39153919) - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-27, 07:07:29](https://news.ycombinator.com/item?id=39153346) - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 * [2024-01-27, 07:03:16](https://news.ycombinator.com/item?id=39153330) - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
@@ -13,13 +14,11 @@
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-27, 00:39:15](https://news.ycombinator.com/item?id=39150996) - [Neighborhoods for starting a life in the galaxy](https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/)
 * [2024-01-26, 23:38:02](https://news.ycombinator.com/item?id=39150431) - [Comparing dd and cp when writing a file to a thumb drive](https://distrowatch.com/weekly-mobile.php?issue=20240122#qa)
-* [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo-like app using educational YouTube videos](https://www.platoedu.org)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
-* [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 12:29:18](https://news.ycombinator.com/item?id=39141909) - [Astronomical Data Used for Litigation (FAQ)](https://aa.usno.navy.mil/faq/lawyers)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)
 * [2024-01-26, 11:12:10](https://news.ycombinator.com/item?id=39141323) - [The KGB, the Computer and Me – The Cuckoo's Egg Story (1990) [video]](https://www.youtube.com/watch?v=Xe5AE-qYan8)
@@ -28,6 +27,7 @@
 * [2024-01-26, 07:08:11](https://news.ycombinator.com/item?id=39139671) - [Plant patents sow fear among small growers](https://www.theguardian.com/environment/2024/jan/25/plant-patents-large-companies-intellectual-property-small-breeders)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
+* [2024-01-25, 12:30:30](https://news.ycombinator.com/item?id=39128851) - [Centrifugal flows drive reverse rotation of Feynman's sprinkler](https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
