@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 01:18:07](https://news.ycombinator.com/item?id=39151306) - [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Exposure to violence in childhood linked to depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
@@ -29,7 +30,6 @@
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-25, 06:33:38](https://news.ycombinator.com/item?id=39126844) - [Just another practical sales rep comp plan](https://d.glezos.com/comp-plan-for-sales-reps/)
 * [2024-01-25, 05:55:24](https://news.ycombinator.com/item?id=39126618) - [DoS Attacks in Available MQTT Implementations (2021)](https://st.fbk.eu/complementary/IOTSECFOR2021.html)
-* [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
 ## [Archives](archives/index.md)
 
