@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 15:47:19",
+      "https://news.ycombinator.com/item?id=39156492"
+    ],
+    [
+      "Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'",
+      "https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 15:41:26",
       "https://news.ycombinator.com/item?id=39156444"
     ],
@@ -21,22 +31,12 @@
   ],
   [
     [
-      "2024-01-27, 15:37:55",
-      "https://news.ycombinator.com/item?id=39156409"
+      "2024-01-27, 15:25:16",
+      "https://news.ycombinator.com/item?id=39156308"
     ],
     [
-      "Meta would owe Apple 70M per year just for having Facebook on iOS",
-      "https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 15:19:02",
-      "https://news.ycombinator.com/item?id=39156255"
-    ],
-    [
-      "Feynman's Reversed Sprinkler Puzzle Solved",
-      "https://physics.aps.org/articles/v17/15"
+      "Beeper pulls the plug on iMessage in response to Apple banning users",
+      "https://www.androidpolice.com/beeper-imessage-shutting-down/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools",
       "https://www.mdpi.com/1424-8220/24/2/635"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 14:06:55",
-      "https://news.ycombinator.com/item?id=39155627"
-    ],
-    [
-      "Apple's Plans for the DMA in the European Union",
-      "https://daringfireball.net/2024/01/apples_plans_for_the_dma"
     ]
   ],
   [
@@ -191,12 +181,12 @@
   ],
   [
     [
-      "2024-01-27, 00:50:47",
-      "https://news.ycombinator.com/item?id=39151094"
+      "2024-01-27, 00:17:28",
+      "https://news.ycombinator.com/item?id=39150786"
     ],
     [
-      "Stem, a stack-based language with metaprogramming and a C FLI",
-      "https://ret2pop.nullring.xyz/blog/stem.html"
+      "Fossil is quitting smartwatches",
+      "https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "The quest to decode the Mandelbrot set",
       "https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 14:11:36",
+      "https://news.ycombinator.com/item?id=39142748"
+    ],
+    [
+      "Oasis – a small, statically-linked Linux system",
+      "https://github.com/oasislinux/oasis"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-01-26, 09:45:01",
-      "https://news.ycombinator.com/item?id=39140616"
+      "2024-01-26, 07:05:13",
+      "https://news.ycombinator.com/item?id=39139659"
     ],
     [
-      "FPGA, PCIe and XDMA – Building and Testing AMD SW Drivers",
-      "https://www.adiuvoengineering.com/post/microzed-alveo-edition-installing-xdma-drivers"
+      "Long Term Refactors",
+      "https://max.engineer/long-term-refactors"
     ]
   ],
   [
