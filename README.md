@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
 * [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
@@ -17,7 +18,6 @@
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
-* [2024-01-27, 14:12:12](https://news.ycombinator.com/item?id=39155670) - [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution (2021)](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 * [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
