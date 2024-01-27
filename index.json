@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 13:47:51",
+      "https://news.ycombinator.com/item?id=39155503"
+    ],
+    [
+      "The Introverts Have Taken over the US Economy",
+      "https://www.bloomberg.com/opinion/articles/2024-01-22/the-introverts-have-taken-over-the-us-economy"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 12:49:37",
       "https://news.ycombinator.com/item?id=39155103"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39154929"
     ],
     [
-      "I Am the Cheapest Bastard in Indie Games (2019)",
+      "I am the cheapest bastard in indie games (2019)",
       "http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html"
     ]
   ],
@@ -35,18 +45,18 @@
       "https://news.ycombinator.com/item?id=39154825"
     ],
     [
-      "ExifTool CVE-2021-22204 – Arbitrary Code Execution",
+      "ExifTool CVE-2021-22204 – Arbitrary Code Execution (2021)",
       "https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html"
     ]
   ],
   [
     [
-      "2024-01-27, 09:09:43",
-      "https://news.ycombinator.com/item?id=39153939"
+      "2024-01-27, 10:32:27",
+      "https://news.ycombinator.com/item?id=39154380"
     ],
     [
-      "The Earthquake That Will Devastate the Pacific Northwest (2015)",
-      "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one"
+      "Ask HN: What happened to startups, why is everything so polished?",
+      "https://news.ycombinator.com/item?id=39154380"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "RcloneBrowser: Simple cross platform GUI for rclone",
       "https://kapitainsky.github.io/RcloneBrowser/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 07:03:16",
+      "https://news.ycombinator.com/item?id=39153330"
+    ],
+    [
+      "Android now lets you transfer eSIMs between your phones",
+      "https://www.androidpolice.com/android-esim-transfer-tool/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-01-26, 23:38:02",
-      "https://news.ycombinator.com/item?id=39150431"
-    ],
-    [
-      "Comparing dd and cp when writing a file to a thumb drive",
-      "https://distrowatch.com/weekly-mobile.php?issue=20240122#qa"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 17:54:55",
       "https://news.ycombinator.com/item?id=39145513"
     ],
     [
       "The quest to decode the Mandelbrot set",
       "https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 17:03:40",
-      "https://news.ycombinator.com/item?id=39144906"
-    ],
-    [
-      "Rook to XSS: How I hacked chess.com with a rookie exploit",
-      "https://skii.dev/rook-to-xss/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=39142196"
     ],
     [
-      "Mlvwm (Macintosh-Like Virtual Window Manager)",
+      "Mlvwm –  X11 window manager with a classic MacOS appearance (2021)",
       "https://github.com/morgant/mlvwm"
     ]
   ],
