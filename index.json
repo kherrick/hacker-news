@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-27, 17:50:28",
+      "https://news.ycombinator.com/item?id=39157888"
+    ],
+    [
+      "In major gaffe, hacked Microsoft test account was assigned admin privileges",
+      "https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 17:33:51",
+      "https://news.ycombinator.com/item?id=39157678"
+    ],
+    [
+      "Microsoft Teams went down around the world for over eight hours",
+      "https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 17:29:32",
+      "https://news.ycombinator.com/item?id=39157615"
+    ],
+    [
+      "Apple's punitive compliance will burn its political and developer goodwill",
+      "https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 17:02:14",
       "https://news.ycombinator.com/item?id=39157297"
     ],
@@ -37,16 +67,6 @@
     [
       "Scale of methane leaks from fossil fuel production and landfills exposed",
       "https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 16:11:00",
-      "https://news.ycombinator.com/item?id=39156692"
-    ],
-    [
-      "The Source of Europe's Mild Climate",
-      "https://www.americanscientist.org/article/the-source-of-europes-mild-climate"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-01-27, 02:50:19",
-      "https://news.ycombinator.com/item?id=39151937"
-    ],
-    [
-      "Rclone syncs your files to cloud storage",
-      "https://rclone.org/"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 20:27:18",
       "https://news.ycombinator.com/item?id=39147791"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-01-26, 12:17:00",
-      "https://news.ycombinator.com/item?id=39141816"
+      "2024-01-26, 11:39:50",
+      "https://news.ycombinator.com/item?id=39141533"
     ],
     [
-      "CNC lasers for cutting and engraving",
-      "https://jacquesmattheij.com/cnc-lasers/"
+      "Understanding the world science fiction convention",
+      "https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Bringing Back Horizontal Rules in HTML Select Elements",
       "https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 12:30:30",
-      "https://news.ycombinator.com/item?id=39128851"
-    ],
-    [
-      "Centrifugal flows drive reverse rotation of Feynman's sprinkler",
-      "https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13"
     ]
   ]
 ]
