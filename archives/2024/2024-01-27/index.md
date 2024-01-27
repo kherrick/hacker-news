@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
+* [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:38:22](https://news.ycombinator.com/item?id=39156412) - [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
 * [2024-01-27, 15:37:55](https://news.ycombinator.com/item?id=39156409) - [Meta would owe Apple 70M per year just for having Facebook on iOS](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
@@ -15,6 +17,7 @@
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-27, 14:57:28](https://news.ycombinator.com/item?id=39156071) - [Ask HN: Has Hacker News stopped uploading its dataset in 2022?](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news&page=dataset&project=reddit-exploration&ws=!1m4!1m3!3m2!1sbigquery-public-data!2shacker_news)
 * [2024-01-27, 14:47:35](https://news.ycombinator.com/item?id=39155990) - [Making every researcher seek grants is a broken model](https://www.lesswrong.com/posts/DKH9Z4DyusEdJmXKB/making-every-researcher-seek-grants-is-a-broken-model)
+* [2024-01-27, 14:33:58](https://news.ycombinator.com/item?id=39155855) - [Shunned in computer age, cursive makes a comeback in California](https://www.reuters.com/world/us/shunned-computer-age-cursive-makes-comeback-california-2024-01-27/)
 * [2024-01-27, 14:26:20](https://news.ycombinator.com/item?id=39155805) - [CS University Lectures (Dr. Daniel Page)](https://www.youtube.com/@DanielPageCSLectures/videos)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
 * [2024-01-27, 14:12:12](https://news.ycombinator.com/item?id=39155670) - [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
