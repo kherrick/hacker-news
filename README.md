@@ -21,7 +21,6 @@
 * [2024-01-27, 03:50:18](https://news.ycombinator.com/item?id=39152332) - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [Proposed top-level domain string for private use: \".internal\"](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
-* [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
 * [2024-01-26, 20:27:18](https://news.ycombinator.com/item?id=39147791) - [A man who collects lost pet posters](https://ameliatait.substack.com/p/the-man-who-collects-lost-pet-posters)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 13:01:36](https://news.ycombinator.com/item?id=39142149) - [On Proprioception, the Sixth Sense of Storytelling (2022)](https://themillions.com/2022/09/on-proprioception-the-sixth-sense-of-storytelling.html)
@@ -30,6 +29,7 @@
 * [2024-01-26, 11:12:10](https://news.ycombinator.com/item?id=39141323) - [The KGB, the Computer and Me – The Cuckoo's Egg Story (1990) [video]](https://www.youtube.com/watch?v=Xe5AE-qYan8)
 * [2024-01-26, 07:05:13](https://news.ycombinator.com/item?id=39139659) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
+* [2024-01-25, 12:30:30](https://news.ycombinator.com/item?id=39128851) - [Centrifugal flows drive reverse rotation of Feynman's sprinkler](https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13)
 
 ## [Archives](archives/index.md)
 
