@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 07:47:16](https://news.ycombinator.com/item?id=39153535) - [The Needless Bullshit of Having a 'Mission'](https://shubhamjain.co/2024/01/27/needless-bullshit-having-mission/)
+* [2024-01-27, 07:07:29](https://news.ycombinator.com/item?id=39153346) - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 * [2024-01-27, 07:03:16](https://news.ycombinator.com/item?id=39153330) - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
 * [2024-01-27, 05:34:58](https://news.ycombinator.com/item?id=39152899) - [Cruise wasn't hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
 * [2024-01-27, 03:50:18](https://news.ycombinator.com/item?id=39152332) - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
@@ -16,8 +18,6 @@
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [As solar capacity grows, duck curves are getting deeper in California](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
-* [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
-* [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)

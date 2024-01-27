@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 07:47:16](https://news.ycombinator.com/item?id=39153535) - [The Needless Bullshit of Having a 'Mission'](https://shubhamjain.co/2024/01/27/needless-bullshit-having-mission/)
+* [2024-01-27, 07:07:29](https://news.ycombinator.com/item?id=39153346) - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 * [2024-01-27, 07:03:16](https://news.ycombinator.com/item?id=39153330) - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
 * [2024-01-27, 05:46:56](https://news.ycombinator.com/item?id=39152968) - [Wine 9.1 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.1)
 * [2024-01-27, 05:34:58](https://news.ycombinator.com/item?id=39152899) - [Cruise wasn't hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
