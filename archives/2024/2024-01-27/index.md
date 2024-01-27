@@ -8,6 +8,7 @@
 * [2024-01-27, 21:53:55](https://news.ycombinator.com/item?id=39160240) - [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
 * [2024-01-27, 21:25:25](https://news.ycombinator.com/item?id=39159997) - [Skip Microsoft Acct. Sign-In in Win 11 Home? It Skips Protecting Your Data Key](https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key)
 * [2024-01-27, 21:00:27](https://news.ycombinator.com/item?id=39159783) - [Only 7k Miles? EV Owners Not Happy About Tires Not Lasting Long](https://cowboystatedaily.com/2024/01/25/ev-owners-not-charged-about-buying-new-tires-every-10-000-miles/)
+* [2024-01-27, 20:59:15](https://news.ycombinator.com/item?id=39159774) - [Nuclear Plant Could Bring 1,600 Jobs to Kemmerer, Wyoming](https://cowboystatedaily.com/2024/01/25/nuclear-plant-could-bring-1-600-jobs-for-kemmerer-pop-2-500/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [\"It's Like You're a Space Explorer Encountering Aliens\"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:36:37](https://news.ycombinator.com/item?id=39159570) - [Pregnancies from rape occurring in abortion-ban states](https://arstechnica.com/science/2024/01/estimated-64000-women-girls-became-pregnant-from-rape-in-abortion-ban-states/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
