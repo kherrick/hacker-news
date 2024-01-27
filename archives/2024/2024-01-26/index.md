@@ -91,6 +91,7 @@
 * [2024-01-26, 12:18:00](https://news.ycombinator.com/item?id=39141822) - [Co-Founder Quitting – Rant](https://news.ycombinator.com/item?id=39141822)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC Lasers for Cutting and Engraving](https://jacquesmattheij.com/cnc-lasers/)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
+* [2024-01-26, 11:39:50](https://news.ycombinator.com/item?id=39141533) - [Understanding the world science fiction convention](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html)
 * [2024-01-26, 11:35:34](https://news.ycombinator.com/item?id=39141493) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-26, 11:24:35](https://news.ycombinator.com/item?id=39141413) - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
 * [2024-01-26, 11:13:56](https://news.ycombinator.com/item?id=39141334) - [Revisting Madonna-Ology in the Era of Taylor Swift Studies](https://lareviewofbooks.org/article/revisiting-madonna-ology-in-the-era-of-taylor-swift-studies/)
