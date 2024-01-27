@@ -6,6 +6,7 @@
 
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
+* [2024-01-27, 16:41:37](https://news.ycombinator.com/item?id=39157015) - [Record number of Americans are homeless amid nationwide surge in rent](https://www.cbsnews.com/news/rent-homelessness-harvard-report-center-for-housing-studies/)
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
 * [2024-01-27, 16:38:58](https://news.ycombinator.com/item?id=39156987) - [Remote work won, don't let anyone gaslight you to believe otherwise](https://www.hottakes.space/p/remote-work-won-dont-let-anyone-gaslight)
 * [2024-01-27, 16:37:18](https://news.ycombinator.com/item?id=39156966) - [Tell HN: Anima/Shun (YC W21) Considered Harmful](https://news.ycombinator.com/item?id=39156966)
