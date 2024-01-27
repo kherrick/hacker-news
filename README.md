@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-27, 15:19:02](https://news.ycombinator.com/item?id=39156255) - [Feynman's Reversed Sprinkler Puzzle Solved](https://physics.aps.org/articles/v17/15)
+* [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 14:47:35](https://news.ycombinator.com/item?id=39155990) - [Making every researcher seek grants is a broken model](https://www.lesswrong.com/posts/DKH9Z4DyusEdJmXKB/making-every-researcher-seek-grants-is-a-broken-model)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
 * [2024-01-27, 14:12:12](https://news.ycombinator.com/item?id=39155670) - [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
@@ -20,7 +21,6 @@
 * [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
 * [2024-01-26, 20:27:18](https://news.ycombinator.com/item?id=39147791) - [A man who collects lost pet posters](https://ameliatait.substack.com/p/the-man-who-collects-lost-pet-posters)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
-* [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 12:29:18](https://news.ycombinator.com/item?id=39141909) - [Astronomical Data Used for Litigation (FAQ)](https://aa.usno.navy.mil/faq/lawyers)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)
