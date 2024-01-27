@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 14:57:28](https://news.ycombinator.com/item?id=39156071) - [Ask HN: Has Hacker News stopped uploading its dataset in 2022?](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=hacker_news&page=dataset&project=reddit-exploration&ws=!1m4!1m3!3m2!1sbigquery-public-data!2shacker_news)
+* [2024-01-27, 14:47:35](https://news.ycombinator.com/item?id=39155990) - [Making every researcher seek grants is a broken model](https://www.lesswrong.com/posts/DKH9Z4DyusEdJmXKB/making-every-researcher-seek-grants-is-a-broken-model)
+* [2024-01-27, 14:26:20](https://news.ycombinator.com/item?id=39155805) - [CS University Lectures (Dr. Daniel Page)](https://www.youtube.com/@DanielPageCSLectures/videos)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
+* [2024-01-27, 14:12:12](https://news.ycombinator.com/item?id=39155670) - [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
 * [2024-01-27, 13:54:12](https://news.ycombinator.com/item?id=39155545) - [.git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-27, 13:51:07](https://news.ycombinator.com/item?id=39155528) - [Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?](https://news.ycombinator.com/item?id=39155528)
 * [2024-01-27, 13:47:51](https://news.ycombinator.com/item?id=39155503) - [The Introverts Have Taken over the US Economy](https://www.bloomberg.com/opinion/articles/2024-01-22/the-introverts-have-taken-over-the-us-economy)
