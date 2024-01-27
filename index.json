@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-01-27, 00:39:33",
-      "https://news.ycombinator.com/item?id=39151000"
+      "2024-01-27, 01:01:54",
+      "https://news.ycombinator.com/item?id=39151174"
     ],
     [
-      "The things nobody wants to pay for in open source",
-      "https://lwn.net/SubscriberLink/959069/24c0b18e9fc1b073/"
+      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 00:50:47",
+      "https://news.ycombinator.com/item?id=39151094"
+    ],
+    [
+      "Stem, a stack-based language with metaprogramming and a C FLI",
+      "https://ret2pop.nullring.xyz/blog/stem.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 23:36:19",
+      "https://news.ycombinator.com/item?id=39150411"
+    ],
+    [
+      "A New Hampshire cafe owner sued Meta for deleting his account and won",
+      "https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/"
     ]
   ],
   [
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2024-01-26, 21:41:41",
-      "https://news.ycombinator.com/item?id=39148883"
-    ],
-    [
-      "Modern Treasury (YC S18) Is Hiring a Design Engineer",
-      "https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 21:27:31",
       "https://news.ycombinator.com/item?id=39148681"
     ],
     [
       "iPad users will miss out on third-party app stores, browser engines, and more",
       "https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 21:20:23",
-      "https://news.ycombinator.com/item?id=39148577"
-    ],
-    [
-      "Ask HN: Working with ineffective volunteers at non profit as a solo entrepreneur",
-      "https://news.ycombinator.com/item?id=39148577"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-01-25, 12:48:25",
-      "https://news.ycombinator.com/item?id=39129002"
-    ],
-    [
-      "Tip Your Chef's Toque to Henry Ford, Who Helped Popularize Charcoal Briquets",
-      "https://www.hagerty.com/media/automotive-history/at-your-next-bbq-tip-your-chefs-toque-to-henry-ford-who-helped-popularize-charcoal-briquets/"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 12:29:15",
       "https://news.ycombinator.com/item?id=39128841"
     ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2024-01-25, 06:33:38",
+      "https://news.ycombinator.com/item?id=39126844"
+    ],
+    [
+      "Just another practical sales rep comp plan",
+      "https://d.glezos.com/comp-plan-for-sales-reps/"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 05:55:24",
       "https://news.ycombinator.com/item?id=39126618"
     ],
     [
-      "DoS Attacks in Available MQTT Implementations",
+      "DoS Attacks in Available MQTT Implementations (2021)",
       "https://st.fbk.eu/complementary/IOTSECFOR2021.html"
     ]
   ],
