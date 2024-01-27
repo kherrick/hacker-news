@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
+* [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Developmental timing of trauma associated with depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
@@ -26,7 +27,6 @@
 * [2024-01-26, 10:54:10](https://news.ycombinator.com/item?id=39141197) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
-* [2024-01-25, 20:08:54](https://news.ycombinator.com/item?id=39134503) - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-25, 06:33:38](https://news.ycombinator.com/item?id=39126844) - [Just another practical sales rep comp plan](https://d.glezos.com/comp-plan-for-sales-reps/)
 * [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [The ghostly radio station that no one claims to run](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
