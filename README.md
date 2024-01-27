@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 13:25:59](https://news.ycombinator.com/item?id=39155348) - [Abortion investigations causing women 'life-changing harm', says UK expert](https://www.theguardian.com/world/2024/jan/27/abortion-investigations-causing-women-life-changing-harm-says-uk-expert)
 * [2024-01-27, 12:59:15](https://news.ycombinator.com/item?id=39155168) - [Today's Regional Conflicts Resemble the Ones That Produced World War II](https://www.foreignaffairs.com/united-states/next-global-war)
+* [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-27, 12:35:50](https://news.ycombinator.com/item?id=39155028) - [IFTTT is killing its pay-what-you-want Legacy Pro plan (2023)](https://www.techhive.com/article/1940144/ifttt-killing-pay-what-you-want-legacy-pro-plan.html)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 * [2024-01-27, 09:41:55](https://news.ycombinator.com/item?id=39154079) - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
@@ -13,7 +15,6 @@
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-27, 00:39:15](https://news.ycombinator.com/item?id=39150996) - [Neighborhoods for starting a life in the galaxy](https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/)
 * [2024-01-26, 23:38:02](https://news.ycombinator.com/item?id=39150431) - [Comparing dd and cp when writing a file to a thumb drive](https://distrowatch.com/weekly-mobile.php?issue=20240122#qa)
-* [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo-like app using educational YouTube videos](https://www.platoedu.org)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 17:03:40](https://news.ycombinator.com/item?id=39144906) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
@@ -28,7 +29,6 @@
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-25, 12:30:30](https://news.ycombinator.com/item?id=39128851) - [Centrifugal flows drive reverse rotation of Feynman's sprinkler](https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13)
-* [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
 ## [Archives](archives/index.md)

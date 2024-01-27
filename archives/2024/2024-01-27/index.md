@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 13:25:59](https://news.ycombinator.com/item?id=39155348) - [Abortion investigations causing women 'life-changing harm', says UK expert](https://www.theguardian.com/world/2024/jan/27/abortion-investigations-causing-women-life-changing-harm-says-uk-expert)
 * [2024-01-27, 12:59:15](https://news.ycombinator.com/item?id=39155168) - [Today's Regional Conflicts Resemble the Ones That Produced World War II](https://www.foreignaffairs.com/united-states/next-global-war)
+* [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-27, 12:35:50](https://news.ycombinator.com/item?id=39155028) - [IFTTT is killing its pay-what-you-want Legacy Pro plan (2023)](https://www.techhive.com/article/1940144/ifttt-killing-pay-what-you-want-legacy-pro-plan.html)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 * [2024-01-27, 10:43:30](https://news.ycombinator.com/item?id=39154444) - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
