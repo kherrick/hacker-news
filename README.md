@@ -26,10 +26,10 @@
 * [2024-01-26, 13:01:36](https://news.ycombinator.com/item?id=39142149) - [On Proprioception, the Sixth Sense of Storytelling (2022)](https://themillions.com/2022/09/on-proprioception-the-sixth-sense-of-storytelling.html)
 * [2024-01-26, 12:29:18](https://news.ycombinator.com/item?id=39141909) - [Astronomical Data Used for Litigation (FAQ)](https://aa.usno.navy.mil/faq/lawyers)
 * [2024-01-26, 11:39:50](https://news.ycombinator.com/item?id=39141533) - [Understanding the world science fiction convention](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html)
-* [2024-01-26, 11:12:10](https://news.ycombinator.com/item?id=39141323) - [The KGB, the Computer and Me – The Cuckoo's Egg Story (1990) [video]](https://www.youtube.com/watch?v=Xe5AE-qYan8)
 * [2024-01-26, 07:05:13](https://news.ycombinator.com/item?id=39139659) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
+* [2024-01-24, 22:12:10](https://news.ycombinator.com/item?id=39123280) - [Hunter-gatherers were mostly gatherers, says archaeologist](https://www.theguardian.com/science/2024/jan/24/hunter-gatherers-were-mostly-gatherers-says-archaeologist)
 
 ## [Archives](archives/index.md)
 
