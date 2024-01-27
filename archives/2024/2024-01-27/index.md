@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
 * [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
+* [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
 * [2024-01-27, 17:41:58](https://news.ycombinator.com/item?id=39157797) - [Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
 * [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
