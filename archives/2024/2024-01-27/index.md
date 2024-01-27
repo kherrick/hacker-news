@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:38:22](https://news.ycombinator.com/item?id=39156412) - [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
 * [2024-01-27, 15:37:55](https://news.ycombinator.com/item?id=39156409) - [Meta would owe Apple 70M per year just for having Facebook on iOS](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
+* [2024-01-27, 15:25:16](https://news.ycombinator.com/item?id=39156308) - [Beeper pulls the plug on iMessage in response to Apple banning users](https://www.androidpolice.com/beeper-imessage-shutting-down/)
 * [2024-01-27, 15:19:02](https://news.ycombinator.com/item?id=39156255) - [Feynman's Reversed Sprinkler Puzzle Solved](https://physics.aps.org/articles/v17/15)
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)

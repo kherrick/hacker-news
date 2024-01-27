@@ -112,6 +112,7 @@
 * [2024-01-26, 08:11:59](https://news.ycombinator.com/item?id=39139999) - [Cantillon Effect](https://river.com/learn/terms/c/cantillon-effect/)
 * [2024-01-26, 07:32:35](https://news.ycombinator.com/item?id=39139791) - [Induce Lucid Dreaming](https://propheticai.co/)
 * [2024-01-26, 07:08:11](https://news.ycombinator.com/item?id=39139671) - ['Laying claim to nature's work': plant patents sow fear among small growers](https://www.theguardian.com/environment/2024/jan/25/plant-patents-large-companies-intellectual-property-small-breeders)
+* [2024-01-26, 07:05:13](https://news.ycombinator.com/item?id=39139659) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-26, 06:53:14](https://news.ycombinator.com/item?id=39139616) - [Nobody Cares About Your Git History](https://spin.atomicobject.com/git-history/)
 * [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
