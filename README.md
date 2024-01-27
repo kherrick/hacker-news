@@ -12,6 +12,7 @@
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) is hiring a software engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-27, 00:39:15](https://news.ycombinator.com/item?id=39150996) - [Neighborhoods for starting a life in the galaxy](https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/)
+* [2024-01-26, 23:38:02](https://news.ycombinator.com/item?id=39150431) - [Comparing dd and cp when writing a file to a thumb drive](https://distrowatch.com/weekly-mobile.php?issue=20240122#qa)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo-like app using educational YouTube videos](https://www.platoedu.org)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
@@ -28,7 +29,6 @@
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
-* [2024-01-25, 06:33:38](https://news.ycombinator.com/item?id=39126844) - [Just another practical sales rep comp plan](https://d.glezos.com/comp-plan-for-sales-reps/)
 * [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
 ## [Archives](archives/index.md)

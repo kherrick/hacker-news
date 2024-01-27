@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 23:38:02](https://news.ycombinator.com/item?id=39150431) - [Comparing dd and cp when writing a file to a thumb drive](https://distrowatch.com/weekly-mobile.php?issue=20240122#qa)
 * [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Exposure to violence in childhood linked to depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
 * [2024-01-26, 23:36:19](https://news.ycombinator.com/item?id=39150411) - [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
