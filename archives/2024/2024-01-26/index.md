@@ -87,6 +87,7 @@
 * [2024-01-26, 11:24:35](https://news.ycombinator.com/item?id=39141413) - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
 * [2024-01-26, 11:13:56](https://news.ycombinator.com/item?id=39141334) - [Revisting Madonna-Ology in the Era of Taylor Swift Studies](https://lareviewofbooks.org/article/revisiting-madonna-ology-in-the-era-of-taylor-swift-studies/)
 * [2024-01-26, 11:12:56](https://news.ycombinator.com/item?id=39141328) - [Kenneth Smith 'struggled for life' for 22 mins in Alabama nitrogen gas execution](https://www.independent.co.uk/news/world/americas/alabama-execution-nitrogen-kenneth-smith-updates-b2485208.html)
+* [2024-01-26, 10:54:10](https://news.ycombinator.com/item?id=39141197) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-26, 10:48:50](https://news.ycombinator.com/item?id=39141155) - [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
 * [2024-01-26, 10:28:34](https://news.ycombinator.com/item?id=39141011) - [Don't Talk to People Like They're Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
 * [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
