@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-27, 10:43:30](https://news.ycombinator.com/item?id=39154444) - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
-* [2024-01-27, 10:32:27](https://news.ycombinator.com/item?id=39154380) - [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 * [2024-01-27, 09:41:55](https://news.ycombinator.com/item?id=39154079) - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
 * [2024-01-27, 09:04:45](https://news.ycombinator.com/item?id=39153919) - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-27, 07:07:29](https://news.ycombinator.com/item?id=39153346) - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
@@ -25,6 +24,7 @@
 * [2024-01-26, 10:54:10](https://news.ycombinator.com/item?id=39141197) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-26, 09:45:01](https://news.ycombinator.com/item?id=39140616) - [FPGA, PCIe and XDMA – Building and Testing AMD SW Drivers](https://www.adiuvoengineering.com/post/microzed-alveo-edition-installing-xdma-drivers)
 * [2024-01-26, 07:08:11](https://news.ycombinator.com/item?id=39139671) - [Plant patents sow fear among small growers](https://www.theguardian.com/environment/2024/jan/25/plant-patents-large-companies-intellectual-property-small-breeders)
+* [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-25, 12:30:30](https://news.ycombinator.com/item?id=39128851) - [Centrifugal flows drive reverse rotation of Feynman's sprinkler](https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13)
