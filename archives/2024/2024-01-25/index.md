@@ -14,6 +14,7 @@
 * [2024-01-25, 22:14:34](https://news.ycombinator.com/item?id=39136123) - [Show HN: Qwertle, yet another daily word game](https://qwertle.friedman.in)
 * [2024-01-25, 21:42:35](https://news.ycombinator.com/item?id=39135779) - [Improbable Island, one of the largest and longest-running online text adventures](https://www.improbableisland.com)
 * [2024-01-25, 21:40:38](https://news.ycombinator.com/item?id=39135742) - [Unsafe at Any Speed: Tradeoffs and Values in the Rust Ecosystem](https://bitbashing.io/rust-http.html)
+* [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 * [2024-01-25, 21:21:18](https://news.ycombinator.com/item?id=39135485) - [Mabez Rust on Espressif chips – Q4 update](https://mabez.dev/blog/posts/esp-rust-24-01-2024/)
 * [2024-01-25, 21:07:28](https://news.ycombinator.com/item?id=39135304) - [Git commit messages are useless](https://trunk.io/blog/git-commit-messages-are-useless)
 * [2024-01-25, 20:59:04](https://news.ycombinator.com/item?id=39135192) - [The Two Sides of Software Testing: Checking and Exploring (2011)](https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring)
