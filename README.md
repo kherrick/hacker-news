@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
+* [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
 * [2024-01-27, 17:33:51](https://news.ycombinator.com/item?id=39157678) - [Microsoft Teams went down around the world for over eight hours](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
 * [2024-01-27, 17:29:32](https://news.ycombinator.com/item?id=39157615) - [Apple's punitive compliance will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
@@ -11,7 +12,6 @@
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:38:22](https://news.ycombinator.com/item?id=39156412) - [On knowing who he was](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
-* [2024-01-27, 15:21:42](https://news.ycombinator.com/item?id=39156280) - [Speeding Slows You Down (By a Lot)](https://algorithmsoup.wordpress.com/2024/01/27/driving-faster-takes-longer/)
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
