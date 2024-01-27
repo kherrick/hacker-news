@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 00:39:33](https://news.ycombinator.com/item?id=39151000) - [The things nobody wants to pay for in open source](https://lwn.net/SubscriberLink/959069/24c0b18e9fc1b073/)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 22:41:21](https://news.ycombinator.com/item?id=39149789) - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
-* [2024-01-26, 21:50:50](https://news.ycombinator.com/item?id=39149036) - [Netflix Hammers the Last Nail into Linear TV's Coffin](https://www.bloomberg.com/opinion/articles/2024-01-26/netflix-offers-subscribers-a-whole-cable-bundle)
 * [2024-01-26, 21:41:41](https://news.ycombinator.com/item?id=39148883) - [Modern Treasury (YC S18) Is Hiring a Design Engineer](https://jobs.ashbyhq.com/moderntreasury/279437f2-0671-403c-b9f5-716ed9a54845)
 * [2024-01-26, 21:27:31](https://news.ycombinator.com/item?id=39148681) - [iPad users will miss out on third-party app stores, browser engines, and more](https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/)
 * [2024-01-26, 21:20:23](https://news.ycombinator.com/item?id=39148577) - [Ask HN: Working with ineffective volunteers at non profit as a solo entrepreneur](https://news.ycombinator.com/item?id=39148577)
@@ -23,11 +23,11 @@
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
+* [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Love Letter to Intellectualism](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-25, 20:08:54](https://news.ycombinator.com/item?id=39134503) - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
 * [2024-01-25, 12:48:25](https://news.ycombinator.com/item?id=39129002) - [Tip Your Chef's Toque to Henry Ford, Who Helped Popularize Charcoal Briquets](https://www.hagerty.com/media/automotive-history/at-your-next-bbq-tip-your-chefs-toque-to-henry-ford-who-helped-popularize-charcoal-briquets/)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
-* [2024-01-25, 08:03:39](https://news.ycombinator.com/item?id=39127304) - [Idea for a new hand tool: Automatic Wire Twisting Pliers](https://docs.sweeting.me/s/ih75iZv2o)
 * [2024-01-25, 05:55:24](https://news.ycombinator.com/item?id=39126618) - [DoS Attacks in Available MQTT Implementations](https://st.fbk.eu/complementary/IOTSECFOR2021.html)
 * [2024-01-24, 18:14:17](https://news.ycombinator.com/item?id=39120687) - [Edsger Dijkstra carried computer science on his shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 

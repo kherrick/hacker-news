@@ -101,6 +101,7 @@
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French Was Medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
+* [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Love Letter to Intellectualism](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-26, 05:11:30](https://news.ycombinator.com/item?id=39139163) - ['They're knowingly addicting kids': the attorney challenging social media firms](https://www.theguardian.com/us-news/2024/jan/25/kids-addicted-social-media-congress-meta-tiktok-snap)
 * [2024-01-26, 04:58:56](https://news.ycombinator.com/item?id=39139105) - [He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered?](https://www.nytimes.com/2024/01/25/nyregion/obituary-pirates-matteo-sachman.html)
 * [2024-01-26, 03:51:01](https://news.ycombinator.com/item?id=39138755) - [The things nobody wants to pay for](https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/)
