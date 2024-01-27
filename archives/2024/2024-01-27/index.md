@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:33:29](https://news.ycombinator.com/item?id=39160571) - [Unrwa Ties to Oct. 7 Massacre Exposed – US Suspending Funding](https://www.jewishpress.com/news/global/un/us-uk-canada-suspend-unrwa-funding-due-to-hamas-involvement/2024/01/27/)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)

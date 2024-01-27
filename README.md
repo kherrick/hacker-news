@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 20:59:15](https://news.ycombinator.com/item?id=39159774) - [Nuclear Plant Could Bring 1,600 Jobs to Kemmerer, Wyoming](https://cowboystatedaily.com/2024/01/25/nuclear-plant-could-bring-1-600-jobs-for-kemmerer-pop-2-500/)
@@ -11,7 +12,6 @@
 * [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:52:13](https://news.ycombinator.com/item?id=39159153) - [Sane C++ Libraries](https://github.com/Pagghiu/SaneCppLibraries)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
-* [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
 * [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
