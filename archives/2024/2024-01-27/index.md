@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney Unveils the HoloTile Floor, Inching Us Closer to a Real-Life Holodeck](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:38:22](https://news.ycombinator.com/item?id=39156412) - [Alan Watts, for all his faults, was an imaginative and provocative thinker](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
+* [2024-01-27, 15:37:55](https://news.ycombinator.com/item?id=39156409) - [Meta would owe Apple 70M per year just for having Facebook on iOS](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
 * [2024-01-27, 15:19:02](https://news.ycombinator.com/item?id=39156255) - [Feynman's Reversed Sprinkler Puzzle Solved](https://physics.aps.org/articles/v17/15)
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)
@@ -13,6 +15,7 @@
 * [2024-01-27, 14:26:20](https://news.ycombinator.com/item?id=39155805) - [CS University Lectures (Dr. Daniel Page)](https://www.youtube.com/@DanielPageCSLectures/videos)
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
 * [2024-01-27, 14:12:12](https://news.ycombinator.com/item?id=39155670) - [Accuracy of Commercial Sleep-Trackers Compared to Research-Grade Tools](https://www.mdpi.com/1424-8220/24/2/635)
+* [2024-01-27, 14:06:55](https://news.ycombinator.com/item?id=39155627) - [Apple's Plans for the DMA in the European Union](https://daringfireball.net/2024/01/apples_plans_for_the_dma)
 * [2024-01-27, 13:54:12](https://news.ycombinator.com/item?id=39155545) - [.git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-27, 13:51:07](https://news.ycombinator.com/item?id=39155528) - [Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?](https://news.ycombinator.com/item?id=39155528)
 * [2024-01-27, 13:47:51](https://news.ycombinator.com/item?id=39155503) - [The Introverts Have Taken over the US Economy](https://www.bloomberg.com/opinion/articles/2024-01-22/the-introverts-have-taken-over-the-us-economy)
