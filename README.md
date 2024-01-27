@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-27, 01:18:07](https://news.ycombinator.com/item?id=39151306) - [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
+* [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Developmental timing of trauma associated with depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
@@ -10,7 +10,6 @@
 * [2024-01-26, 21:27:31](https://news.ycombinator.com/item?id=39148681) - [iPad users will miss out on third-party app stores, browser engines, and more](https://9to5mac.com/2024/01/26/ios-17-app-stores-and-more-ipad-changes/)
 * [2024-01-26, 21:18:43](https://news.ycombinator.com/item?id=39148544) - [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
 * [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
-* [2024-01-26, 18:50:44](https://news.ycombinator.com/item?id=39146385) - [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 * [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [As solar capacity grows, duck curves are getting deeper in California](https://www.eia.gov/todayinenergy/detail.php?id=56880)
@@ -24,6 +23,7 @@
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
+* [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC Lasers for Cutting and Engraving](https://jacquesmattheij.com/cnc-lasers/)
 * [2024-01-26, 10:54:10](https://news.ycombinator.com/item?id=39141197) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)

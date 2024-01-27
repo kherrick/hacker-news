@@ -82,6 +82,7 @@
 * [2024-01-26, 12:53:55](https://news.ycombinator.com/item?id=39142075) - [Everybody's aware that Google will start enforcing DMARC Feb 1st, right?](https://easydns.com/blog/2024/01/19/new-email-policies-at-gmail-yahoo-et-al-will-require-dmarc-enabled-domains/)
 * [2024-01-26, 12:50:13](https://news.ycombinator.com/item?id=39142048) - [Artist trained rats to take selfies to make a point about social media](https://www.cbc.ca/radio/asithappens/rat-selfies-1.7093886)
 * [2024-01-26, 12:18:00](https://news.ycombinator.com/item?id=39141822) - [Co-Founder Quitting – Rant](https://news.ycombinator.com/item?id=39141822)
+* [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC Lasers for Cutting and Engraving](https://jacquesmattheij.com/cnc-lasers/)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-26, 11:35:34](https://news.ycombinator.com/item?id=39141493) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-26, 11:24:35](https://news.ycombinator.com/item?id=39141413) - [Dungeons and Dragons turns 50 today](http://grognardia.blogspot.com/2024/01/fifty-years-ago-today.html)
