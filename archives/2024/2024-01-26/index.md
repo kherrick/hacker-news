@@ -101,6 +101,7 @@
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
 * [2024-01-26, 08:11:59](https://news.ycombinator.com/item?id=39139999) - [Cantillon Effect](https://river.com/learn/terms/c/cantillon-effect/)
 * [2024-01-26, 07:32:35](https://news.ycombinator.com/item?id=39139791) - [Induce Lucid Dreaming](https://propheticai.co/)
+* [2024-01-26, 07:08:11](https://news.ycombinator.com/item?id=39139671) - ['Laying claim to nature's work': plant patents sow fear among small growers](https://www.theguardian.com/environment/2024/jan/25/plant-patents-large-companies-intellectual-property-small-breeders)
 * [2024-01-26, 06:53:14](https://news.ycombinator.com/item?id=39139616) - [Nobody Cares About Your Git History](https://spin.atomicobject.com/git-history/)
 * [2024-01-26, 06:39:28](https://news.ycombinator.com/item?id=39139540) - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 * [2024-01-26, 05:27:31](https://news.ycombinator.com/item?id=39139219) - [The U.S. just sold its helium stockpile](https://www.nbcnews.com/health/health-news/us-just-sold-helium-stockpile-s-medical-world-worried-rcna134785)
