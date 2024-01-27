@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-27, 16:37:18](https://news.ycombinator.com/item?id=39156966) - [Tell HN: Anima/Shun (YC W21) Considered Harmful](https://news.ycombinator.com/item?id=39156966)
+* [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
+* [2024-01-27, 16:16:17](https://news.ycombinator.com/item?id=39156738) - [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 * [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
@@ -29,7 +30,6 @@
 * [2024-01-26, 07:05:13](https://news.ycombinator.com/item?id=39139659) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
 * [2024-01-25, 12:30:30](https://news.ycombinator.com/item?id=39128851) - [Centrifugal flows drive reverse rotation of Feynman's sprinkler](https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13)
-* [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
 ## [Archives](archives/index.md)
 

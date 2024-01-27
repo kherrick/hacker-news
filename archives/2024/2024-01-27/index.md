@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-01-27, 16:37:18](https://news.ycombinator.com/item?id=39156966) - [Tell HN: Anima/Shun (YC W21) Considered Harmful](https://news.ycombinator.com/item?id=39156966)
+* [2024-01-27, 16:16:17](https://news.ycombinator.com/item?id=39156738) - [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 * [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
