@@ -2,6 +2,7 @@
 
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
+* [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Exposure to violence in childhood linked to depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
 * [2024-01-26, 23:36:19](https://news.ycombinator.com/item?id=39150411) - [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 22:41:21](https://news.ycombinator.com/item?id=39149789) - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
@@ -24,7 +25,6 @@
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 05:24:11](https://news.ycombinator.com/item?id=39139208) - [How French was medieval England?](https://www.historytoday.com/archive/head-head/how-french-was-medieval-england)
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Love Letter to Intellectualism](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
-* [2024-01-26, 01:53:11](https://news.ycombinator.com/item?id=39138042) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
 * [2024-01-25, 20:08:54](https://news.ycombinator.com/item?id=39134503) - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-25, 06:33:38](https://news.ycombinator.com/item?id=39126844) - [Just another practical sales rep comp plan](https://d.glezos.com/comp-plan-for-sales-reps/)
