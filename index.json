@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-01-27, 05:46:56",
-      "https://news.ycombinator.com/item?id=39152968"
-    ],
-    [
-      "Wine 9.1 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS",
-      "https://gitlab.winehq.org/wine/wine/-/releases/wine-9.1"
-    ]
-  ],
-  [
-    [
       "2024-01-27, 03:45:15",
       "https://news.ycombinator.com/item?id=39152306"
     ],
     [
-      "ICANN picks the domain it will never, ever release",
-      "https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release"
+      "Proposed top-level domain string for private use: \".internal\"",
+      "https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024"
     ]
   ],
   [
@@ -27,16 +17,6 @@
     [
       "Rclone syncs your files to cloud storage",
       "https://rclone.org/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 02:22:52",
-      "https://news.ycombinator.com/item?id=39151768"
-    ],
-    [
-      "Something peculiar in my 2yo's bedroom led me to a revelation about our universe",
-      "https://m.twitter.com/latifnasser/status/1750952860131729544"
     ]
   ],
   [
@@ -55,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39151174"
     ],
     [
-      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "Etleap (YC W13) is hiring a software engineer (London)",
       "https://etleap.com/careers/software-engineer/"
     ]
   ],
@@ -71,22 +51,32 @@
   ],
   [
     [
+      "2024-01-27, 00:39:15",
+      "https://news.ycombinator.com/item?id=39150996"
+    ],
+    [
+      "Neighborhoods for starting a life in the galaxy",
+      "https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 00:17:28",
+      "https://news.ycombinator.com/item?id=39150786"
+    ],
+    [
+      "Fossil is quitting smartwatches",
+      "https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 23:37:18",
       "https://news.ycombinator.com/item?id=39150424"
     ],
     [
       "Developmental timing of trauma associated with depressive symptoms in adulthood",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 23:36:19",
-      "https://news.ycombinator.com/item?id=39150411"
-    ],
-    [
-      "A New Hampshire cafe owner sued Meta for deleting his account and won",
-      "https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=39148336"
     ],
     [
-      "Show HN: Anki/Duolingo like app using Educational YouTube videos",
+      "Show HN: Anki/Duolingo-like app using educational YouTube videos",
       "https://www.platoedu.org"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "PinePhone review after a month of daily driving",
       "https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 17:54:55",
+      "https://news.ycombinator.com/item?id=39145513"
+    ],
+    [
+      "The quest to decode the Mandelbrot set",
+      "https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=39141816"
     ],
     [
-      "CNC Lasers for Cutting and Engraving",
+      "CNC lasers for cutting and engraving",
       "https://jacquesmattheij.com/cnc-lasers/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39139671"
     ],
     [
-      "'Laying claim to nature's work': plant patents sow fear among small growers",
+      "Plant patents sow fear among small growers",
       "https://www.theguardian.com/environment/2024/jan/25/plant-patents-large-companies-intellectual-property-small-breeders"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39121447"
     ],
     [
-      "The ghostly radio station that no one claims to run (2020)",
+      "A ghostly radio station that no one claims to run (2020)",
       "https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run"
     ]
   ]
