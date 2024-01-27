@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-01-27, 14:18:38",
+      "https://news.ycombinator.com/item?id=39155727"
+    ],
+    [
+      "Nesizm: NES emulator for Casio Prizm calculators",
+      "https://github.com/tswilliamson/nesizm"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 13:54:12",
+      "https://news.ycombinator.com/item?id=39155545"
+    ],
+    [
+      ".git",
+      "https://jvns.ca/blog/2024/01/26/inside-git/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 13:51:07",
+      "https://news.ycombinator.com/item?id=39155528"
+    ],
+    [
+      "Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?",
+      "https://news.ycombinator.com/item?id=39155528"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 13:47:51",
       "https://news.ycombinator.com/item?id=39155503"
     ],
     [
       "The Introverts Have Taken over the US Economy",
       "https://www.bloomberg.com/opinion/articles/2024-01-22/the-introverts-have-taken-over-the-us-economy"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 13:39:15",
+      "https://news.ycombinator.com/item?id=39155449"
+    ],
+    [
+      "Ask HN: De-Googling my life: Alternatives to Google Sheets?",
+      "https://news.ycombinator.com/item?id=39155449"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "RcloneBrowser: Simple cross platform GUI for rclone",
       "https://kapitainsky.github.io/RcloneBrowser/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 07:03:16",
-      "https://news.ycombinator.com/item?id=39153330"
-    ],
-    [
-      "Android now lets you transfer eSIMs between your phones",
-      "https://www.androidpolice.com/android-esim-transfer-tool/"
     ]
   ],
   [
@@ -151,42 +181,12 @@
   ],
   [
     [
-      "2024-01-27, 00:39:15",
-      "https://news.ycombinator.com/item?id=39150996"
-    ],
-    [
-      "Neighborhoods for starting a life in the galaxy",
-      "https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 00:17:28",
-      "https://news.ycombinator.com/item?id=39150786"
-    ],
-    [
-      "Fossil is quitting smartwatches",
-      "https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 17:54:55",
       "https://news.ycombinator.com/item?id=39145513"
     ],
     [
       "The quest to decode the Mandelbrot set",
       "https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 14:11:36",
-      "https://news.ycombinator.com/item?id=39142748"
-    ],
-    [
-      "Oasis – a small, statically-linked Linux system",
-      "https://github.com/oasislinux/oasis"
     ]
   ],
   [
