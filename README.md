@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
 * [2024-01-27, 02:06:52](https://news.ycombinator.com/item?id=39151662) - [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz (dot), SQLite](https://github.com/vdjagilev/nmap-formatter)
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
-* [2024-01-27, 00:49:23](https://news.ycombinator.com/item?id=39151084) - [Apple's plan to allow browser competition dubbed unworkable](https://open-web-advocacy.org/blog/apple-dma-changes/)
 * [2024-01-26, 23:37:18](https://news.ycombinator.com/item?id=39150424) - [Developmental timing of trauma associated with depressive symptoms in adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5479490/)
 * [2024-01-26, 23:36:19](https://news.ycombinator.com/item?id=39150411) - [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
@@ -29,7 +29,7 @@
 * [2024-01-26, 05:18:30](https://news.ycombinator.com/item?id=39139182) - [A Terribly Serious adventure: Philosophy and war at Oxford](https://www.washingtonpost.com/books/2024/01/19/oxford-philosophy-history-book-krishnan/)
 * [2024-01-25, 12:29:15](https://news.ycombinator.com/item?id=39128841) - [Mod_blog: A Blogging Engine in C](https://github.com/spc476/mod_blog)
 * [2024-01-25, 06:33:38](https://news.ycombinator.com/item?id=39126844) - [Just another practical sales rep comp plan](https://d.glezos.com/comp-plan-for-sales-reps/)
-* [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [The ghostly radio station that no one claims to run](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
+* [2024-01-24, 19:15:17](https://news.ycombinator.com/item?id=39121447) - [The ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
 
 ## [Archives](archives/index.md)
 

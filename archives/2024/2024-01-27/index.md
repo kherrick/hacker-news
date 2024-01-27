@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
