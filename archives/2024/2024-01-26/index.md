@@ -104,6 +104,7 @@
 * [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
 * [2024-01-26, 09:06:52](https://news.ycombinator.com/item?id=39140353) - [The ADHD Exercise Solution (2023)](https://www.additudemag.com/the-adhd-exercise-solution/)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
+* [2024-01-26, 08:38:10](https://news.ycombinator.com/item?id=39140174) - [How to Choose and Customize a Mechanical Keyboard for Your Typing Needs](https://www.wired.com/story/how-to-shop-for-a-mechanical-keyboard/)
 * [2024-01-26, 08:33:58](https://news.ycombinator.com/item?id=39140152) - [BrowserEngineKit – Apple Developer Documentation](https://developer.apple.com/documentation/BrowserEngineKit?changes=latest_minor)
 * [2024-01-26, 08:30:07](https://news.ycombinator.com/item?id=39140135) - [My heat pump: a personal story about a broken heating industry](https://greenallianceblog.org.uk/2023/12/22/my-heat-pump-a-personal-story-about-a-broken-heating-industry/)
 * [2024-01-26, 08:15:02](https://news.ycombinator.com/item?id=39140024) - [C Is the Greenest Programming Language](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/)
