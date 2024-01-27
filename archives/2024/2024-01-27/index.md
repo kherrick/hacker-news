@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 16:37:18](https://news.ycombinator.com/item?id=39156966) - [Tell HN: Anima/Shun (YC W21) Considered Harmful](https://news.ycombinator.com/item?id=39156966)
 * [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
@@ -12,6 +13,7 @@
 * [2024-01-27, 15:37:55](https://news.ycombinator.com/item?id=39156409) - [Meta would owe Apple 70M per year just for having Facebook on iOS](https://www.theverge.com/2024/1/26/24051823/apple-third-party-app-stores-50-cent-fee)
 * [2024-01-27, 15:35:07](https://news.ycombinator.com/item?id=39156388) - [Pentagon ex-UFO chief says conspiracy theorists in government drive spending](https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths)
 * [2024-01-27, 15:25:16](https://news.ycombinator.com/item?id=39156308) - [Beeper pulls the plug on iMessage in response to Apple banning users](https://www.androidpolice.com/beeper-imessage-shutting-down/)
+* [2024-01-27, 15:21:42](https://news.ycombinator.com/item?id=39156280) - [Speeding Slows You Down (By a Lot)](https://algorithmsoup.wordpress.com/2024/01/27/driving-faster-takes-longer/)
 * [2024-01-27, 15:19:02](https://news.ycombinator.com/item?id=39156255) - [Feynman's Reversed Sprinkler Puzzle Solved](https://physics.aps.org/articles/v17/15)
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
 * [2024-01-27, 15:12:50](https://news.ycombinator.com/item?id=39156207) - [The Ur Programming Language Family](http://impredicative.com/ur/)
