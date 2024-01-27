@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 09:04:45](https://news.ycombinator.com/item?id=39153919) - [Zig Roadmap 2024 [video]](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-27, 07:47:16](https://news.ycombinator.com/item?id=39153535) - [The Needless Bullshit of Having a 'Mission'](https://shubhamjain.co/2024/01/27/needless-bullshit-having-mission/)
 * [2024-01-27, 07:07:29](https://news.ycombinator.com/item?id=39153346) - [All 7 planets could fit between Earth and the Moon](https://old.reddit.com/r/woahdude/comments/26i61g/our_seven_fellow_planets_could_fit_end_to_end/)
 * [2024-01-27, 07:03:16](https://news.ycombinator.com/item?id=39153330) - [Android now lets you transfer eSIMs between your phones](https://www.androidpolice.com/android-esim-transfer-tool/)
