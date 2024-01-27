@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-27, 21:53:55](https://news.ycombinator.com/item?id=39160240) - [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
+* [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [\"It's Like You're a Space Explorer Encountering Aliens\"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
@@ -22,8 +22,8 @@
 * [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution (2021)](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
-* [2024-01-27, 04:18:08](https://news.ycombinator.com/item?id=39152517) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 20:27:18](https://news.ycombinator.com/item?id=39147791) - [A man who collects lost pet posters](https://ameliatait.substack.com/p/the-man-who-collects-lost-pet-posters)
+* [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 13:01:49](https://news.ycombinator.com/item?id=39142154) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 * [2024-01-26, 13:01:36](https://news.ycombinator.com/item?id=39142149) - [On Proprioception, the Sixth Sense of Storytelling (2022)](https://themillions.com/2022/09/on-proprioception-the-sixth-sense-of-storytelling.html)
 * [2024-01-26, 11:39:50](https://news.ycombinator.com/item?id=39141533) - [Understanding the world science fiction convention](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html)

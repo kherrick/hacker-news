@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 21:53:55](https://news.ycombinator.com/item?id=39160240) - [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
 * [2024-01-27, 21:25:25](https://news.ycombinator.com/item?id=39159997) - [Skip Microsoft Acct. Sign-In in Win 11 Home? It Skips Protecting Your Data Key](https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key)
 * [2024-01-27, 21:00:27](https://news.ycombinator.com/item?id=39159783) - [Only 7k Miles? EV Owners Not Happy About Tires Not Lasting Long](https://cowboystatedaily.com/2024/01/25/ev-owners-not-charged-about-buying-new-tires-every-10-000-miles/)
