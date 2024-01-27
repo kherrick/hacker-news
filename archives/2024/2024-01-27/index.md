@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 21:53:55](https://news.ycombinator.com/item?id=39160240) - [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
 * [2024-01-27, 21:25:25](https://news.ycombinator.com/item?id=39159997) - [Skip Microsoft Acct. Sign-In in Win 11 Home? It Skips Protecting Your Data Key](https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key)
 * [2024-01-27, 21:00:27](https://news.ycombinator.com/item?id=39159783) - [Only 7k Miles? EV Owners Not Happy About Tires Not Lasting Long](https://cowboystatedaily.com/2024/01/25/ev-owners-not-charged-about-buying-new-tires-every-10-000-miles/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [\"It's Like You're a Space Explorer Encountering Aliens\"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
@@ -73,6 +74,7 @@
 * [2024-01-27, 05:34:58](https://news.ycombinator.com/item?id=39152899) - [Cruise wasn't hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
 * [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
 * [2024-01-27, 05:04:59](https://news.ycombinator.com/item?id=39152763) - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
+* [2024-01-27, 04:18:08](https://news.ycombinator.com/item?id=39152517) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-27, 03:50:18](https://news.ycombinator.com/item?id=39152332) - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [Proposed top-level domain string for private use: \".internal\"](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
