@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
+* [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
+* [2024-01-27, 16:38:58](https://news.ycombinator.com/item?id=39156987) - [Remote work won, don't let anyone gaslight you to believe otherwise](https://www.hottakes.space/p/remote-work-won-dont-let-anyone-gaslight)
 * [2024-01-27, 16:37:18](https://news.ycombinator.com/item?id=39156966) - [Tell HN: Anima/Shun (YC W21) Considered Harmful](https://news.ycombinator.com/item?id=39156966)
+* [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 16:16:17](https://news.ycombinator.com/item?id=39156738) - [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 * [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:47:19](https://news.ycombinator.com/item?id=39156492) - [Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'](https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/)
