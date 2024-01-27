@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
@@ -13,6 +14,7 @@
 * [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
 * [2024-01-27, 17:33:51](https://news.ycombinator.com/item?id=39157678) - [Microsoft Teams went down around the world for over eight hours](https://www.theverge.com/2024/1/26/24051966/microsoft-teams-down-outage)
 * [2024-01-27, 17:29:32](https://news.ycombinator.com/item?id=39157615) - [Apple's punitive compliance will burn its political and developer goodwill](https://techcrunch.com/2024/01/26/apples-reluctant-punitive-compliance-with-regulators-will-burn-its-political-and-developer-goodwill/)
+* [2024-01-27, 17:02:38](https://news.ycombinator.com/item?id=39157304) - [Pong Wars](https://pong-wars.vercel.app/)
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-01-27, 16:41:37](https://news.ycombinator.com/item?id=39157015) - [Record number of Americans are homeless amid nationwide surge in rent](https://www.cbsnews.com/news/rent-homelessness-harvard-report-center-for-housing-studies/)
