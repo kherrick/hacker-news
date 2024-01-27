@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 23:36:19](https://news.ycombinator.com/item?id=39150411) - [A New Hampshire cafe owner sued Meta for deleting his account and won](https://www.seacoastonline.com/story/news/2024/01/26/teatotaller-cafe-owner-wins-instagram-case-nh-supreme-court/72345276007/)
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 22:41:21](https://news.ycombinator.com/item?id=39149789) - [Dangerous chemicals found in recycled plastics, making them unsafe for use](https://theconversation.com/dangerous-chemicals-found-in-recycled-plastics-making-them-unsafe-for-use-experts-explain-the-hazards-220498)
 * [2024-01-26, 22:15:56](https://news.ycombinator.com/item?id=39149406) - [Sephora hits $10B in sales, gives employees a cookie as a reward](https://old.reddit.com/r/WorkReform/comments/1ablgmn/sephora_hits_10_billion_in_sales_gives_employees/)
