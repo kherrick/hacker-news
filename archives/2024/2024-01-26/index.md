@@ -38,6 +38,7 @@
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
 * [2024-01-26, 18:03:12](https://news.ycombinator.com/item?id=39145664) - [Google's Bard shows big leap on LLM performance leaderboard](https://twitter.com/lmsysorg/status/1750921228012122526)
 * [2024-01-26, 18:01:38](https://news.ycombinator.com/item?id=39145632) - [We've Forgotten How to Use Computers](https://www.theatlantic.com/technology/archive/2024/01/computer-mouse-evolution-trackpad/677228/)
+* [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [California's solar \"duck curve\" near neutral](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:33:01](https://news.ycombinator.com/item?id=39145252) - [US agencies warn companies: Don’t delete Slack or Signal chats](https://news.bloomberglaw.com/antitrust/dont-delete-slack-or-signal-chats-us-agencies-warn-companies)
 * [2024-01-26, 17:30:53](https://news.ycombinator.com/item?id=39145229) - [Stunned devs left scrambling for livelihoods in wake of layoff bloodbath](https://www.pcgamer.com/stunned-devs-left-scrambling-for-livelihoods-in-wake-of-yesterdays-layoff-bloodbath-in-the-end-the-contributions-didnt-matter/)

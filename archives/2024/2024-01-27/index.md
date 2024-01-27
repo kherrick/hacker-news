@@ -6,6 +6,7 @@
 
 * [2024-01-27, 05:46:56](https://news.ycombinator.com/item?id=39152968) - [Wine 9.1 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.1)
 * [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
+* [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [Proposed top-level domain string for private use: \".internal\"](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
@@ -15,3 +16,5 @@
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-27, 00:49:23](https://news.ycombinator.com/item?id=39151084) - [Apple's plan to allow browser competition dubbed unworkable](https://open-web-advocacy.org/blog/apple-dma-changes/)
 * [2024-01-27, 00:39:33](https://news.ycombinator.com/item?id=39151000) - [The things nobody wants to pay for in open source](https://lwn.net/SubscriberLink/959069/24c0b18e9fc1b073/)
+* [2024-01-27, 00:39:15](https://news.ycombinator.com/item?id=39150996) - [Neighborhoods for starting a life in the galaxy](https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/)
+* [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
