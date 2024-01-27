@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 14:18:38](https://news.ycombinator.com/item?id=39155727) - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
+* [2024-01-27, 13:54:12](https://news.ycombinator.com/item?id=39155545) - [.git](https://jvns.ca/blog/2024/01/26/inside-git/)
+* [2024-01-27, 13:51:07](https://news.ycombinator.com/item?id=39155528) - [Ask HN: Dystopian Sci-fi books that take place in San Francisco to recommend?](https://news.ycombinator.com/item?id=39155528)
 * [2024-01-27, 13:47:51](https://news.ycombinator.com/item?id=39155503) - [The Introverts Have Taken over the US Economy](https://www.bloomberg.com/opinion/articles/2024-01-22/the-introverts-have-taken-over-the-us-economy)
+* [2024-01-27, 13:39:15](https://news.ycombinator.com/item?id=39155449) - [Ask HN: De-Googling my life: Alternatives to Google Sheets?](https://news.ycombinator.com/item?id=39155449)
 * [2024-01-27, 13:25:59](https://news.ycombinator.com/item?id=39155348) - [Abortion investigations causing women 'life-changing harm', says UK expert](https://www.theguardian.com/world/2024/jan/27/abortion-investigations-causing-women-life-changing-harm-says-uk-expert)
 * [2024-01-27, 12:59:15](https://news.ycombinator.com/item?id=39155168) - [Today's Regional Conflicts Resemble the Ones That Produced World War II](https://www.foreignaffairs.com/united-states/next-global-war)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
