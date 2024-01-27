@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-01-27, 17:02:14",
+      "https://news.ycombinator.com/item?id=39157297"
+    ],
+    [
+      "Emerge (YC W21) is hiring an Android expert to help build the future of mobile",
+      "https://www.emergetools.com/careers/jobs/senior-android-engineer"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 16:44:41",
       "https://news.ycombinator.com/item?id=39157061"
     ],
     [
       "Vectorizing Unicode conversions on real RISC-V hardware",
       "https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 16:41:19",
+      "https://news.ycombinator.com/item?id=39157010"
+    ],
+    [
+      "I used to not worry about climate change. Now I do",
+      "http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 16:38:58",
+      "https://news.ycombinator.com/item?id=39156987"
+    ],
+    [
+      "Remote work won, don't let anyone gaslight you to believe otherwise",
+      "https://www.hottakes.space/p/remote-work-won-dont-let-anyone-gaslight"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 16:19:42",
+      "https://news.ycombinator.com/item?id=39156778"
+    ],
+    [
+      "Implementing a ChatGPT-like LLM from scratch, step by step",
+      "https://github.com/rasbt/LLMs-from-scratch"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "The Source of Europe's Mild Climate",
       "https://www.americanscientist.org/article/the-source-of-europes-mild-climate"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 15:47:19",
-      "https://news.ycombinator.com/item?id=39156492"
-    ],
-    [
-      "Spotify calls Apple's DMA compliance plan 'extortion''complete and total farce'",
-      "https://techcrunch.com/2024/01/26/spotify-calls-apples-dma-compliance-plan-extortion-and-a-complete-and-total-farce/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2024-01-27, 02:06:52",
-      "https://news.ycombinator.com/item?id=39151662"
-    ],
-    [
-      "NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz (dot), SQLite",
-      "https://github.com/vdjagilev/nmap-formatter"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 01:01:54",
-      "https://news.ycombinator.com/item?id=39151174"
-    ],
-    [
-      "Etleap (YC W13) is hiring a software engineer (London)",
-      "https://etleap.com/careers/software-engineer/"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 20:27:18",
       "https://news.ycombinator.com/item?id=39147791"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2024-01-26, 17:54:55",
-      "https://news.ycombinator.com/item?id=39145513"
+      "2024-01-26, 13:01:36",
+      "https://news.ycombinator.com/item?id=39142149"
     ],
     [
-      "The quest to decode the Mandelbrot set",
-      "https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/"
+      "On Proprioception, the Sixth Sense of Storytelling (2022)",
+      "https://themillions.com/2022/09/on-proprioception-the-sixth-sense-of-storytelling.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Bringing Back Horizontal Rules in HTML Select Elements",
       "https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 12:30:30",
-      "https://news.ycombinator.com/item?id=39128851"
-    ],
-    [
-      "Centrifugal flows drive reverse rotation of Feynman's sprinkler",
-      "https://journals.aps.org/prl/accepted/bd07eYb2Ma914376272d01f749b26c02e305d7e13"
     ]
   ]
 ]
