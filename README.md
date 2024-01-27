@@ -2,10 +2,11 @@
 
 * [2024-01-27, 20:36:37](https://news.ycombinator.com/item?id=39159570) - [Pregnancies from rape occurring in abortion-ban states](https://arstechnica.com/science/2024/01/estimated-64000-women-girls-became-pregnant-from-rape-in-abortion-ban-states/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
+* [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+* [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:49:20](https://news.ycombinator.com/item?id=39159127) - [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
-* [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
 * [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
 * [2024-01-27, 17:41:58](https://news.ycombinator.com/item?id=39157797) - [Is it insider trading if I bought Boeing puts while inside the wrecked airplane?](https://law.stackexchange.com/questions/98706/is-it-insider-trading-if-i-bought-boeing-puts-while-i-am-inside-the-wrecked-airp)
@@ -29,7 +30,6 @@
 * [2024-01-26, 07:05:13](https://news.ycombinator.com/item?id=39139659) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-26, 06:48:46](https://news.ycombinator.com/item?id=39139598) - [Bringing Back Horizontal Rules in HTML Select Elements](https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
-* [2024-01-24, 22:12:10](https://news.ycombinator.com/item?id=39123280) - [Hunter-gatherers were mostly gatherers, says archaeologist](https://www.theguardian.com/science/2024/jan/24/hunter-gatherers-were-mostly-gatherers-says-archaeologist)
 
 ## [Archives](archives/index.md)
 
