@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
+* [2024-01-27, 05:46:56](https://news.ycombinator.com/item?id=39152968) - [Wine 9.1 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.1)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
@@ -12,6 +12,7 @@
 * [2024-01-26, 22:54:09](https://news.ycombinator.com/item?id=39149938) - [2024 IEEE Medal of Honor Goes to Bob Kahn](https://spectrum.ieee.org/medal-of-honor-bob-kahn)
 * [2024-01-26, 21:18:43](https://news.ycombinator.com/item?id=39148544) - [Google TPU v5p beats Nvidia H100](https://www.techradar.com/pro/google-is-rapidly-turning-into-a-formidable-opponent-to-bff-nvidia-the-tpu-v5p-ai-chip-powering-its-hypercomputer-is-faster-and-has-more-memory-and-bandwidth-than-ever-before-beating-even-the-mighty-h100)
 * [2024-01-26, 21:04:38](https://news.ycombinator.com/item?id=39148336) - [Show HN: Anki/Duolingo like app using Educational YouTube videos](https://www.platoedu.org)
+* [2024-01-26, 18:18:10](https://news.ycombinator.com/item?id=39145901) - [Show HN: PHP API Bindings for Open Brewery DB](https://github.com/JoeyMckenzie/openbrewerydb-php-api)
 * [2024-01-26, 18:05:04](https://news.ycombinator.com/item?id=39145701) - [PinePhone review after a month of daily driving](https://yaky.dev/2024-01-25-pinephone-post-daily-driver-review/)
 * [2024-01-26, 17:43:36](https://news.ycombinator.com/item?id=39145379) - [As solar capacity grows, duck curves are getting deeper in California](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 * [2024-01-26, 17:10:28](https://news.ycombinator.com/item?id=39144978) - [The rise of batteries in six charts](https://rmi.org/the-rise-of-batteries-in-six-charts-and-not-too-many-numbers/)
@@ -19,7 +20,6 @@
 * [2024-01-26, 16:47:28](https://news.ycombinator.com/item?id=39144710) - [Untranslatable](https://untranslatable.co/)
 * [2024-01-26, 15:45:50](https://news.ycombinator.com/item?id=39143958) - [How I got an O-1 visa as a software engineer](https://blog.awais.io/o1-visa/)
 * [2024-01-26, 15:31:04](https://news.ycombinator.com/item?id=39143768) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
-* [2024-01-26, 14:35:06](https://news.ycombinator.com/item?id=39143043) - [ICJ orders Israel to prevent genocide in Gaza, stops short of ordering ceasefire](https://apnews.com/article/israel-gaza-genocide-court-south-africa-27cf84e16082cde798395a95e9143c06)
 * [2024-01-26, 14:11:36](https://news.ycombinator.com/item?id=39142748) - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC Lasers for Cutting and Engraving](https://jacquesmattheij.com/cnc-lasers/)
