@@ -6,6 +6,7 @@
 
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+* [2024-01-27, 19:49:20](https://news.ycombinator.com/item?id=39159127) - [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
 * [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)

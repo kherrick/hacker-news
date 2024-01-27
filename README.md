@@ -2,6 +2,7 @@
 
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+* [2024-01-27, 19:49:20](https://news.ycombinator.com/item?id=39159127) - [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 19:03:34](https://news.ycombinator.com/item?id=39158683) - [Android Studio for Platform](https://developer.android.com/studio/platform)
 * [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
@@ -13,7 +14,6 @@
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 16:16:17](https://news.ycombinator.com/item?id=39156738) - [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
-* [2024-01-27, 16:11:00](https://news.ycombinator.com/item?id=39156692) - [The Source of Europe's Mild Climate](https://www.americanscientist.org/article/the-source-of-europes-mild-climate)
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:38:22](https://news.ycombinator.com/item?id=39156412) - [On knowing who he was](https://aeon.co/essays/how-alan-watts-re-imagined-religion-desire-and-life-itself)
