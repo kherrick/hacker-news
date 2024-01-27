@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-27, 21:25:25](https://news.ycombinator.com/item?id=39159997) - [Skip Microsoft Acct. Sign-In in Win 11 Home? It Skips Protecting Your Data Key](https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key)
 * [2024-01-27, 21:00:27](https://news.ycombinator.com/item?id=39159783) - [Only 7k Miles? EV Owners Not Happy About Tires Not Lasting Long](https://cowboystatedaily.com/2024/01/25/ev-owners-not-charged-about-buying-new-tires-every-10-000-miles/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [\"It's Like You're a Space Explorer Encountering Aliens\"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
@@ -15,7 +16,6 @@
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
-* [2024-01-27, 16:16:17](https://news.ycombinator.com/item?id=39156738) - [Scale of methane leaks from fossil fuel production and landfills exposed](https://news.sky.com/story/vast-scale-of-methane-leaks-from-fossil-fuel-production-and-landfill-sites-exposed-13023354)
 * [2024-01-27, 15:43:51](https://news.ycombinator.com/item?id=39156463) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:13:20](https://news.ycombinator.com/item?id=39156212) - [Opening night at the Apollo Theater, 90 years ago](https://untappedcities.com/2024/01/26/opening-night-apollo-theater/)
