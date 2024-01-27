@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 21:00:27](https://news.ycombinator.com/item?id=39159783) - [Only 7k Miles? EV Owners Not Happy About Tires Not Lasting Long](https://cowboystatedaily.com/2024/01/25/ev-owners-not-charged-about-buying-new-tires-every-10-000-miles/)
+* [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [\"It's Like You're a Space Explorer Encountering Aliens\"](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:36:37](https://news.ycombinator.com/item?id=39159570) - [Pregnancies from rape occurring in abortion-ban states](https://arstechnica.com/science/2024/01/estimated-64000-women-girls-became-pregnant-from-rape-in-abortion-ban-states/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
