@@ -96,6 +96,7 @@
 * [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 10:10:17](https://news.ycombinator.com/item?id=39140843) - [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
 * [2024-01-26, 10:07:43](https://news.ycombinator.com/item?id=39140815) - [ChatGPT knows things that Google doesn't](https://www.alexmolas.com/2024/01/25/chat-gpt-knows-more-than-google.html)
+* [2024-01-26, 09:45:01](https://news.ycombinator.com/item?id=39140616) - [FPGA, PCIe and XDMA – Building and Testing AMD SW Drivers](https://www.adiuvoengineering.com/post/microzed-alveo-edition-installing-xdma-drivers)
 * [2024-01-26, 09:13:14](https://news.ycombinator.com/item?id=39140390) - [Post Office plan to sack Horizon IT reviewer kept secret, documents reveal](https://www.bbc.co.uk/news/business-68079300)
 * [2024-01-26, 09:06:52](https://news.ycombinator.com/item?id=39140353) - [The ADHD Exercise Solution (2023)](https://www.additudemag.com/the-adhd-exercise-solution/)
 * [2024-01-26, 08:53:48](https://news.ycombinator.com/item?id=39140269) - [Why Tailwind Isn't for Me](https://www.spicyweb.dev/why-tailwind-isnt-for-me/)
