@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 20:36:37](https://news.ycombinator.com/item?id=39159570) - [Pregnancies from rape occurring in abortion-ban states](https://arstechnica.com/science/2024/01/estimated-64000-women-girls-became-pregnant-from-rape-in-abortion-ban-states/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
 * [2024-01-27, 19:49:20](https://news.ycombinator.com/item?id=39159127) - [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
