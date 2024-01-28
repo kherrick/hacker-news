@@ -7,6 +7,8 @@
 * [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:33:29](https://news.ycombinator.com/item?id=39160571) - [Unrwa Ties to Oct. 7 Massacre Exposed – US Suspending Funding](https://www.jewishpress.com/news/global/un/us-uk-canada-suspend-unrwa-funding-due-to-hamas-involvement/2024/01/27/)
+* [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
+* [2024-01-27, 22:15:31](https://news.ycombinator.com/item?id=39160421) - [Microsoft explains how Russian hackers spied on its executives](https://www.theverge.com/2024/1/26/24051708/microsoft-hack-russian-security-attack-senior-leadership-emails)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 21:53:55](https://news.ycombinator.com/item?id=39160240) - [The indie web](https://jamesg.blog/2024/01/27/the-indie-web/)
 * [2024-01-27, 21:25:25](https://news.ycombinator.com/item?id=39159997) - [Skip Microsoft Acct. Sign-In in Win 11 Home? It Skips Protecting Your Data Key](https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key)
