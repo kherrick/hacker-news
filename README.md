@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 16:42:37](https://news.ycombinator.com/item?id=39167364) - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
+* [2024-01-28, 16:39:04](https://news.ycombinator.com/item?id=39167320) - [Feds tell companies to preserve IM and other corporate chats](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-doj-update-guidance-reinforces-parties-preservation-obligations-collaboration-tools-ephemeral)
 * [2024-01-28, 15:55:45](https://news.ycombinator.com/item?id=39166873) - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
 * [2024-01-28, 15:49:15](https://news.ycombinator.com/item?id=39166816) - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
 * [2024-01-28, 15:32:23](https://news.ycombinator.com/item?id=39166678) - [When the \"R\" goes missing from R&D (2021)](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
 * [2024-01-28, 15:28:15](https://news.ycombinator.com/item?id=39166643) - [Apple and Goldman Sachs: A timeline of the messy partnership that will soon fall](https://9to5mac.com/2024/01/26/apple-card-goldman-sachs-deal-ending-report/)
+* [2024-01-28, 15:25:32](https://news.ycombinator.com/item?id=39166626) - [Long Covid is associated with cognitive slowing](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00013-0/fulltext)
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 14:16:13](https://news.ycombinator.com/item?id=39165981) - [The floppy disk refused to die in Japan](https://www.tomshardware.com/pc-components/storage/the-floppy-disk-refuses-to-die-in-japan-laws-that-forced-the-continued-use-of-floppies-have-finally-hit-the-chopping-block)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
@@ -27,8 +29,6 @@
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
-* [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-* [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
 ## [Archives](archives/index.md)
