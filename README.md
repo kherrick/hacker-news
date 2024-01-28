@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-state EV batteries now face \"production hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [So long and thanks for all the fish](https://nitter.d420.de)
@@ -12,6 +11,7 @@
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The invention of a new pasta shape (2021)](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 * [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
+* [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
 * [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
