@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
+* [2024-01-28, 21:01:31](https://news.ycombinator.com/item?id=39169754) - [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI Targeted Camus, and Then Sartre After the JFK Assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 * [2024-01-28, 19:38:14](https://news.ycombinator.com/item?id=39169048) - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
@@ -48,6 +50,7 @@
 * [2024-01-28, 11:26:11](https://news.ycombinator.com/item?id=39164612) - [Hacker Newsy: a pretty Hacker News client](https://github.com/cotyhamilton/hacker-newsy)
 * [2024-01-28, 11:25:29](https://news.ycombinator.com/item?id=39164606) - [Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
 * [2024-01-28, 11:22:41](https://news.ycombinator.com/item?id=39164593) - [The right way to sauce pasta (2016)](https://www.seriouseats.com/the-right-way-to-sauce-pasta)
+* [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
