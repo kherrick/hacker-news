@@ -80,6 +80,7 @@
 * [2024-01-26, 13:52:07](https://news.ycombinator.com/item?id=39142568) - [Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
 * [2024-01-26, 13:51:13](https://news.ycombinator.com/item?id=39142560) - [TinySA – small spectrum analyzer and signal generator](https://www.tinysa.org/wiki/)
 * [2024-01-26, 13:38:21](https://news.ycombinator.com/item?id=39142455) - [Details of the new Suzuki Omnichord OM-108](https://www.suzuki-music.co.jp/special/omnichord_om-108/en/index.html)
+* [2024-01-26, 13:29:21](https://news.ycombinator.com/item?id=39142374) - [How the brain responds to reward is linked to socioeconomic background](https://news.mit.edu/2024/how-brain-responds-reward-socioeconomic-background-0122)
 * [2024-01-26, 13:18:52](https://news.ycombinator.com/item?id=39142295) - [If Lisp is so great](https://mihaiolteanu.me/if-lisp-is-so-great)
 * [2024-01-26, 13:18:35](https://news.ycombinator.com/item?id=39142290) - [Show HN: Alzheimer's Buddy: Use Flashing Light and Sound at 40Hz](https://alzheimersbuddy.com/)
 * [2024-01-26, 13:06:40](https://news.ycombinator.com/item?id=39142196) - [Mlvwm (Macintosh-Like Virtual Window Manager)](https://github.com/morgant/mlvwm)

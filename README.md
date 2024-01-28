@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 * [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
 * [2024-01-28, 18:37:44](https://news.ycombinator.com/item?id=39168469) - [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
 * [2024-01-28, 18:02:42](https://news.ycombinator.com/item?id=39168105) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
@@ -15,10 +16,8 @@
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
-* [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I hacked a train toilet](https://www.devever.net/~hl/traintoilet)
-* [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting electricity from high-voltage transmission lines using fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
@@ -29,7 +28,8 @@
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
-* [2024-01-26, 11:37:27](https://news.ycombinator.com/item?id=39141513) - [Georgia wanted to attract more data centers. Now it needs more power](https://www.ajc.com/news/georgia-wanted-to-attract-more-data-centers-now-it-needs-more-power/XHM3P3M2ZJGUTMIW4OD6C3YQW4/)
+* [2024-01-26, 13:29:21](https://news.ycombinator.com/item?id=39142374) - [How the brain responds to reward is linked to socioeconomic background](https://news.mit.edu/2024/how-brain-responds-reward-socioeconomic-background-0122)
+* [2024-01-26, 11:37:27](https://news.ycombinator.com/item?id=39141513) - [Georgia needs to produce more electric power for data centers](https://www.ajc.com/news/georgia-wanted-to-attract-more-data-centers-now-it-needs-more-power/XHM3P3M2ZJGUTMIW4OD6C3YQW4/)
 
 ## [Archives](archives/index.md)
 
