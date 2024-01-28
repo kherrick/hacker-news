@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 02:08:47](https://news.ycombinator.com/item?id=39161852) - [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-State EV Batteries Now Face \"Production Hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 * [2024-01-28, 00:17:07](https://news.ycombinator.com/item?id=39161218) - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [Nitter Shutting Down](https://nitter.d420.de)
@@ -13,7 +14,6 @@
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 18:44:18](https://news.ycombinator.com/item?id=39158468) - [Using AI to teach how to code, remember you still need to think for yourself](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [In major gaffe, hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
-* [2024-01-27, 17:37:34](https://news.ycombinator.com/item?id=39157735) - [LoMA: Lossless Compressed Memory Attention](https://arxiv.org/abs/2401.09486)
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:44:41](https://news.ycombinator.com/item?id=39157061) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
