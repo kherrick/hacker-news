@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
-* [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
@@ -24,6 +23,7 @@
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The invention of a new pasta shape (2021)](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
+* [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](https://www.youtube.com/watch?v=wCo3XwTRg9o)
 * [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
