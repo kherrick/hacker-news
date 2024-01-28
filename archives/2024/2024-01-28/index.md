@@ -9,6 +9,7 @@
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics](https://www.quaxio.com/hackernews_xkcd_citations/)
 * [2024-01-28, 11:36:19](https://news.ycombinator.com/item?id=39164680) - [Apple redecorates its iPhone prison to appease Europe](https://www.theregister.com/2024/01/27/apple_europe_ios_analysis/)
+* [2024-01-28, 11:26:11](https://news.ycombinator.com/item?id=39164612) - [Hacker Newsy: a pretty Hacker News client](https://github.com/cotyhamilton/hacker-newsy)
 * [2024-01-28, 11:25:29](https://news.ycombinator.com/item?id=39164606) - [Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
 * [2024-01-28, 11:22:41](https://news.ycombinator.com/item?id=39164593) - [The right way to sauce pasta (2016)](https://www.seriouseats.com/the-right-way-to-sauce-pasta)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
