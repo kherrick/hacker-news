@@ -77,6 +77,7 @@
 * [2024-01-27, 12:35:50](https://news.ycombinator.com/item?id=39155028) - [IFTTT is killing its pay-what-you-want Legacy Pro plan (2023)](https://www.techhive.com/article/1940144/ifttt-killing-pay-what-you-want-legacy-pro-plan.html)
 * [2024-01-27, 12:18:29](https://news.ycombinator.com/item?id=39154933) - [Why Is Game Writing So Terrible?](https://www.shamusyoung.com/twentysidedtale/?p=52945)
 * [2024-01-27, 12:17:48](https://news.ycombinator.com/item?id=39154929) - [I Am the Cheapest Bastard in Indie Games (2019)](http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html)
+* [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 * [2024-01-27, 10:43:30](https://news.ycombinator.com/item?id=39154444) - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
 * [2024-01-27, 10:39:19](https://news.ycombinator.com/item?id=39154418) - [Show HN: HNRelevant – Explore Related Discussions on HN in an Integrated Sidebar](https://github.com/imdj/HNRelevant)
