@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
 * [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
+* [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:33:29](https://news.ycombinator.com/item?id=39160571) - [Unrwa Ties to Oct. 7 Massacre Exposed – US Suspending Funding](https://www.jewishpress.com/news/global/un/us-uk-canada-suspend-unrwa-funding-due-to-hamas-involvement/2024/01/27/)
 * [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
