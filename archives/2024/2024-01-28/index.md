@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
 * [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
 * [2024-01-28, 21:06:47](https://news.ycombinator.com/item?id=39169810) - [Shopify let me down big time today](https://news.ycombinator.com/item?id=39169810)
