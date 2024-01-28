@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
+* [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
 * [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
@@ -21,6 +22,7 @@
 * [2024-01-28, 02:08:47](https://news.ycombinator.com/item?id=39161852) - [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-State EV Batteries Now Face \"Production Hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 * [2024-01-28, 01:32:32](https://news.ycombinator.com/item?id=39161670) - [IPv6 Buddy – The essential tool for IPv6 engineers](https://ipv6buddy.com/)
+* [2024-01-28, 01:17:44](https://news.ycombinator.com/item?id=39161577) - [Martello Tower](https://en.wikipedia.org/wiki/Martello_tower)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 00:17:07](https://news.ycombinator.com/item?id=39161218) - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [Nitter Shutting Down](https://nitter.d420.de)
