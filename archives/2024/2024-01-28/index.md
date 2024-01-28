@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
+* [2024-01-28, 04:01:09](https://news.ycombinator.com/item?id=39162436) - [Ask HN: Why Keybase?](https://news.ycombinator.com/item?id=39162436)
 * [2024-01-28, 03:19:48](https://news.ycombinator.com/item?id=39162228) - [The theory that consciousness is a quantum system gains support](https://mindmatters.ai/2024/01/the-theory-that-consciousness-is-a-quantum-system-gains-support/)
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 * [2024-01-28, 02:51:00](https://news.ycombinator.com/item?id=39162084) - [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
