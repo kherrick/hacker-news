@@ -15,6 +15,7 @@
 * [2024-01-28, 15:05:52](https://news.ycombinator.com/item?id=39166425) - [\"Lena\" isn't about uploading](https://qntm.org/uploading)
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 14:22:26](https://news.ycombinator.com/item?id=39166038) - [X blocks Taylor Swift searches after fake AI videos go viral](https://www.ft.com/content/0636eb58-eaa3-4d2c-ba22-e1a24c85da3f)
+* [2024-01-28, 14:16:13](https://news.ycombinator.com/item?id=39165981) - [The floppy disk refused to die in Japan](https://www.tomshardware.com/pc-components/storage/the-floppy-disk-refuses-to-die-in-japan-laws-that-forced-the-continued-use-of-floppies-have-finally-hit-the-chopping-block)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:40:55](https://news.ycombinator.com/item?id=39165626) - [SpatiaLite: Library extending SQLite to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
