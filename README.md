@@ -2,6 +2,7 @@
 
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-state EV batteries now face \"production hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
+* [2024-01-28, 00:17:07](https://news.ycombinator.com/item?id=39161218) - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [So long and thanks for all the fish](https://nitter.d420.de)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
@@ -27,7 +28,6 @@
 * [2024-01-27, 10:39:19](https://news.ycombinator.com/item?id=39154418) - [Show HN: HNRelevant – Explore Related Discussions on HN in an Integrated Sidebar](https://github.com/imdj/HNRelevant)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-26, 13:01:36](https://news.ycombinator.com/item?id=39142149) - [On Proprioception, the Sixth Sense of Storytelling (2022)](https://themillions.com/2022/09/on-proprioception-the-sixth-sense-of-storytelling.html)
-* [2024-01-26, 11:39:50](https://news.ycombinator.com/item?id=39141533) - [Understanding the world science fiction convention](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html)
 * [2024-01-26, 11:13:56](https://news.ycombinator.com/item?id=39141334) - [Revisting Madonna-Ology in the Era of Taylor Swift Studies](https://lareviewofbooks.org/article/revisiting-madonna-ology-in-the-era-of-taylor-swift-studies/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
