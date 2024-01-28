@@ -25,7 +25,7 @@
 * [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:52:13](https://news.ycombinator.com/item?id=39159153) - [Sane C++ Libraries](https://github.com/Pagghiu/SaneCppLibraries)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
-* [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
+* [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](https://www.youtube.com/watch?v=wCo3XwTRg9o)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
