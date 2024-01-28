@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 15:15:49](https://news.ycombinator.com/item?id=39166525) - ['How to greenwash': propane industry tries to rebrand fuel as renewable](https://www.theguardian.com/us-news/2024/jan/25/propane-industry-rebrand-fuel-as-renewable)
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 * [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
+* [2024-01-28, 12:47:04](https://news.ycombinator.com/item?id=39165167) - [NPM flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics](https://www.quaxio.com/hackernews_xkcd_citations/)
