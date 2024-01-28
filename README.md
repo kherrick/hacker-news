@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 23:08:20](https://news.ycombinator.com/item?id=39170822) - [Spotify CEO Daniel Ek says Apple's new App Store changes are a 'new low'](https://www.businessinsider.com/spotify-ceo-daniel-ek-apple-app-store-changes-new-low-2024-1)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 * [2024-01-28, 19:38:14](https://news.ycombinator.com/item?id=39169048) - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
@@ -19,8 +20,8 @@
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Try to make sudo less vulnerable to Rowhammer attacks](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
+* [2024-01-28, 12:36:08](https://news.ycombinator.com/item?id=39165098) - [Open Source Rewrite of Civilization 1 Source Code – OpenCiv1 Project](https://forums.civfanatics.com/threads/open-source-rewrite-of-civilization-1-source-code-openciv1-project.682623/)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
-* [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I hacked a train toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
@@ -29,7 +30,6 @@
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
 * [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
-* [2024-01-26, 13:29:21](https://news.ycombinator.com/item?id=39142374) - [How the brain responds to reward is linked to socioeconomic background](https://news.mit.edu/2024/how-brain-responds-reward-socioeconomic-background-0122)
 
 ## [Archives](archives/index.md)
 

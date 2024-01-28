@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 23:08:20](https://news.ycombinator.com/item?id=39170822) - [Spotify CEO Daniel Ek says Apple's new App Store changes are a 'new low'](https://www.businessinsider.com/spotify-ceo-daniel-ek-apple-app-store-changes-new-low-2024-1)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
 * [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
@@ -47,6 +48,7 @@
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 * [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
 * [2024-01-28, 12:47:04](https://news.ycombinator.com/item?id=39165167) - [NPM flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
+* [2024-01-28, 12:36:08](https://news.ycombinator.com/item?id=39165098) - [Open Source Rewrite of Civilization 1 Source Code – OpenCiv1 Project](https://forums.civfanatics.com/threads/open-source-rewrite-of-civilization-1-source-code-openciv1-project.682623/)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:06:52](https://news.ycombinator.com/item?id=39164894) - [The Plot Against Einstein](https://warfarehistorynetwork.com/article/the-plot-against-einstein/)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
