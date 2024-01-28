@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
-* [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
 * [2024-01-28, 21:01:31](https://news.ycombinator.com/item?id=39169754) - [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
+* [2024-01-28, 20:14:53](https://news.ycombinator.com/item?id=39169382) - [CO pastor: God told him to launch a crypto venture; took $1.3M from followers](https://www.cnn.com/2024/01/24/us/colorado-pastor-crypto-fraud-cec/index.html)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 * [2024-01-28, 19:38:14](https://news.ycombinator.com/item?id=39169048) - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
@@ -22,6 +22,7 @@
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I hacked a train toilet](https://www.devever.net/~hl/traintoilet)
+* [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
@@ -29,7 +30,6 @@
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
 * [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
-* [2024-01-26, 11:37:27](https://news.ycombinator.com/item?id=39141513) - [Georgia needs to produce more electric power for data centers](https://www.ajc.com/news/georgia-wanted-to-attract-more-data-centers-now-it-needs-more-power/XHM3P3M2ZJGUTMIW4OD6C3YQW4/)
 
 ## [Archives](archives/index.md)
 
