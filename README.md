@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
+* [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:26:11](https://news.ycombinator.com/item?id=39164612) - [Hacker Newsy: a pretty Hacker News client](https://github.com/cotyhamilton/hacker-newsy)
@@ -23,8 +24,7 @@
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The invention of a new pasta shape (2021)](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
-* [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](https://www.youtube.com/watch?v=wCo3XwTRg9o)
-* [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
+* [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](https://www.youtube.com/watch?v=4S9sDyooxf4)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
