@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
+* [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
@@ -17,7 +18,6 @@
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [So long and thanks for all the fish](https://nitter.d420.de)
 * [2024-01-27, 23:31:09](https://news.ycombinator.com/item?id=39160936) - [The Catacombs](https://www.archaeology.org/issues/540-2401/letter-from/11968-rome-jewish-catacombs)
 * [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
-* [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
