@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
+* [2024-01-28, 02:13:27](https://news.ycombinator.com/item?id=39161888) - [Block Dude (Ti-83) in the Browser](https://azich.org/blockdude/)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-state EV batteries now face \"production hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
-* [2024-01-28, 00:17:07](https://news.ycombinator.com/item?id=39161218) - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [So long and thanks for all the fish](https://nitter.d420.de)
-* [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
