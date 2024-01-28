@@ -6,6 +6,7 @@
 
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
 * [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
+* [2024-01-28, 21:06:47](https://news.ycombinator.com/item?id=39169810) - [Shopify let me down big time today](https://news.ycombinator.com/item?id=39169810)
 * [2024-01-28, 21:01:31](https://news.ycombinator.com/item?id=39169754) - [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
 * [2024-01-28, 20:14:53](https://news.ycombinator.com/item?id=39169382) - [CO pastor: God told him to launch a crypto venture; took $1.3M from followers](https://www.cnn.com/2024/01/24/us/colorado-pastor-crypto-fraud-cec/index.html)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI Targeted Camus, and Then Sartre After the JFK Assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)

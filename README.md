@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
+* [2024-01-28, 21:06:47](https://news.ycombinator.com/item?id=39169810) - [Shopify let me down big time today](https://news.ycombinator.com/item?id=39169810)
 * [2024-01-28, 21:01:31](https://news.ycombinator.com/item?id=39169754) - [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
 * [2024-01-28, 20:14:53](https://news.ycombinator.com/item?id=39169382) - [CO pastor: God told him to launch a crypto venture; took $1.3M from followers](https://www.cnn.com/2024/01/24/us/colorado-pastor-crypto-fraud-cec/index.html)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
@@ -22,7 +23,6 @@
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I hacked a train toilet](https://www.devever.net/~hl/traintoilet)
-* [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
