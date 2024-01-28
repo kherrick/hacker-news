@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 19:38:14](https://news.ycombinator.com/item?id=39169048) - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+* [2024-01-28, 19:19:31](https://news.ycombinator.com/item?id=39168914) - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)
 * [2024-01-28, 19:17:58](https://news.ycombinator.com/item?id=39168900) - [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
 * [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 * [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
