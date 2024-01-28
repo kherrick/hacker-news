@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 18:37:44](https://news.ycombinator.com/item?id=39168469) - [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
 * [2024-01-28, 18:02:42](https://news.ycombinator.com/item?id=39168105) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 17:40:05](https://news.ycombinator.com/item?id=39167921) - [The missing apex of Maslow's hierarchy: self-transcendence](https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/)
 * [2024-01-28, 17:25:21](https://news.ycombinator.com/item?id=39167783) - [Following lawsuit, rep admits \"AI\" George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
@@ -17,19 +18,18 @@
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I hacked a train toilet](https://www.devever.net/~hl/traintoilet)
+* [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting electricity from high-voltage transmission lines using fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
 * [2024-01-28, 01:17:44](https://news.ycombinator.com/item?id=39161577) - [Martello Tower](https://en.wikipedia.org/wiki/Martello_tower)
-* [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
+* [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 23:31:09](https://news.ycombinator.com/item?id=39160936) - [The Catacombs](https://www.archaeology.org/issues/540-2401/letter-from/11968-rome-jewish-catacombs)
 * [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
-* [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-26, 11:37:27](https://news.ycombinator.com/item?id=39141513) - [Georgia wanted to attract more data centers. Now it needs more power](https://www.ajc.com/news/georgia-wanted-to-attract-more-data-centers-now-it-needs-more-power/XHM3P3M2ZJGUTMIW4OD6C3YQW4/)
-* [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
 ## [Archives](archives/index.md)
 
