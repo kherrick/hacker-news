@@ -99,6 +99,7 @@
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
 * [2024-01-27, 02:22:52](https://news.ycombinator.com/item?id=39151768) - [Something peculiar in my 2yo's bedroom led me to a revelation about our universe](https://m.twitter.com/latifnasser/status/1750952860131729544)
 * [2024-01-27, 02:06:52](https://news.ycombinator.com/item?id=39151662) - [NMAP-formatter: convert NMAP results to HTML, CSV, JSON, graphviz (dot), SQLite](https://github.com/vdjagilev/nmap-formatter)
+* [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
 * [2024-01-27, 01:18:07](https://news.ycombinator.com/item?id=39151306) - [Schools are using surveillance tech to catch students vaping](https://apnews.com/article/vaping-surveillance-technology-schools-982128348c683b9d54c7a307c5b1fdc6)
 * [2024-01-27, 01:01:54](https://news.ycombinator.com/item?id=39151174) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2024-01-27, 00:50:47](https://news.ycombinator.com/item?id=39151094) - [Stem, a stack-based language with metaprogramming and a C FLI](https://ret2pop.nullring.xyz/blog/stem.html)
