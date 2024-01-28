@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
 * [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:52:14](https://news.ycombinator.com/item?id=39162946) - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
@@ -16,7 +17,6 @@
 * [2024-01-27, 20:39:47](https://news.ycombinator.com/item?id=39159601) - [Studying species in the deepest parts of the ocean: A new method of analysis](https://nautil.us/its-like-youre-a-space-explorer-encountering-aliens-500550/)
 * [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The invention of a new pasta shape (2021)](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
-* [2024-01-27, 20:01:56](https://news.ycombinator.com/item?id=39159246) - [Reasons to avoid static type checking](https://typing.readthedocs.io/en/latest/source/typing_anti_pitch.html)
 * [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:52:13](https://news.ycombinator.com/item?id=39159153) - [Sane C++ Libraries](https://github.com/Pagghiu/SaneCppLibraries)
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
