@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 18:02:42](https://news.ycombinator.com/item?id=39168105) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
+* [2024-01-28, 17:40:05](https://news.ycombinator.com/item?id=39167921) - [The missing apex of Maslow's hierarchy: self-transcendence](https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/)
 * [2024-01-28, 17:25:21](https://news.ycombinator.com/item?id=39167783) - [Following lawsuit, rep admits \"AI\" George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
+* [2024-01-28, 17:10:40](https://news.ycombinator.com/item?id=39167662) - [Michael Lewis's Blind Side](https://asteriskmag.com/issues/05/michael-lewis-s-blind-side)
 * [2024-01-28, 16:42:37](https://news.ycombinator.com/item?id=39167364) - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
 * [2024-01-28, 16:39:04](https://news.ycombinator.com/item?id=39167320) - [Feds tell companies to preserve IM and other corporate chats](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-doj-update-guidance-reinforces-parties-preservation-obligations-collaboration-tools-ephemeral)
 * [2024-01-28, 15:56:21](https://news.ycombinator.com/item?id=39166880) - [Plan 9 design rule: if a feature doesn't work for everything, don't do it](https://twitter.com/msimoni/status/1751634475753091384)
 * [2024-01-28, 15:55:45](https://news.ycombinator.com/item?id=39166873) - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
 * [2024-01-28, 15:52:08](https://news.ycombinator.com/item?id=39166840) - [Netflix is different now – and there's no going back](https://www.theverge.com/24051687/netflix-ads-password-sharing-wwe-changes)
 * [2024-01-28, 15:49:15](https://news.ycombinator.com/item?id=39166816) - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
+* [2024-01-28, 15:45:36](https://news.ycombinator.com/item?id=39166781) - [Don't Shave That Yak (2005)](https://seths.blog/2005/03/dont_shave_that/)
 * [2024-01-28, 15:32:23](https://news.ycombinator.com/item?id=39166678) - [When the \"R\" goes missing from R&D (2021)](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
 * [2024-01-28, 15:30:38](https://news.ycombinator.com/item?id=39166664) - [Protesters hurl soup at the Mona Lisa painting in Paris](https://edition.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html)
 * [2024-01-28, 15:28:15](https://news.ycombinator.com/item?id=39166643) - [Apple and Goldman Sachs: A timeline of the messy partnership that will soon fall](https://9to5mac.com/2024/01/26/apple-card-goldman-sachs-deal-ending-report/)
