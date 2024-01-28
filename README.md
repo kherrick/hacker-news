@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
+* [2024-01-28, 19:17:58](https://news.ycombinator.com/item?id=39168900) - [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
 * [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 * [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
 * [2024-01-28, 18:37:44](https://news.ycombinator.com/item?id=39168469) - [German train company are looking for a Windows 3.11 Administrator](https://www.gulp.de/gulp2/g/projekte/agentur/C00929028)
@@ -24,8 +26,6 @@
 * [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
 * [2024-01-28, 01:17:44](https://news.ycombinator.com/item?id=39161577) - [Martello Tower](https://en.wikipedia.org/wiki/Martello_tower)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
-* [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
-* [2024-01-27, 20:19:12](https://news.ycombinator.com/item?id=39159418) - [Show HN: Pong Wars](https://pong-wars.koenvangilst.nl/)
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
 * [2024-01-26, 13:29:21](https://news.ycombinator.com/item?id=39142374) - [How the brain responds to reward is linked to socioeconomic background](https://news.mit.edu/2024/how-brain-responds-reward-socioeconomic-background-0122)
