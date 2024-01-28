@@ -25,6 +25,7 @@
 * [2024-01-28, 17:10:40](https://news.ycombinator.com/item?id=39167662) - [Michael Lewis's Blind Side](https://asteriskmag.com/issues/05/michael-lewis-s-blind-side)
 * [2024-01-28, 16:42:37](https://news.ycombinator.com/item?id=39167364) - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
 * [2024-01-28, 16:39:04](https://news.ycombinator.com/item?id=39167320) - [Feds tell companies to preserve IM and other corporate chats](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-doj-update-guidance-reinforces-parties-preservation-obligations-collaboration-tools-ephemeral)
+* [2024-01-28, 16:31:10](https://news.ycombinator.com/item?id=39167219) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-01-28, 15:58:39](https://news.ycombinator.com/item?id=39166903) - [Software Devolution in the Hands of Apple](https://michal.sapka.me/blog/2024/apple-dma/)
 * [2024-01-28, 15:56:21](https://news.ycombinator.com/item?id=39166880) - [Plan 9 design rule: if a feature doesn't work for everything, don't do it](https://twitter.com/msimoni/status/1751634475753091384)
 * [2024-01-28, 15:55:45](https://news.ycombinator.com/item?id=39166873) - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
