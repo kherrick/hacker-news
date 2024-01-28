@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
 * [2024-01-28, 03:19:48](https://news.ycombinator.com/item?id=39162228) - [The theory that consciousness is a quantum system gains support](https://mindmatters.ai/2024/01/the-theory-that-consciousness-is-a-quantum-system-gains-support/)
@@ -14,5 +15,6 @@
 * [2024-01-28, 02:08:47](https://news.ycombinator.com/item?id=39161852) - [Are we past peak IPv4?](https://www.sidn.nl/en/news-and-blogs/are-we-past-peak-ipv4)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-State EV Batteries Now Face \"Production Hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 * [2024-01-28, 01:32:32](https://news.ycombinator.com/item?id=39161670) - [IPv6 Buddy – The essential tool for IPv6 engineers](https://ipv6buddy.com/)
+* [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 00:17:07](https://news.ycombinator.com/item?id=39161218) - [Hermit crabs are using trash as shells](https://www.bbc.com/news/science-environment-68071695.amp)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [Nitter Shutting Down](https://nitter.d420.de)
