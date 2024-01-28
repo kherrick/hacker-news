@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
+* [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics (2022)](https://www.quaxio.com/hackernews_xkcd_citations/)
 * [2024-01-28, 11:36:19](https://news.ycombinator.com/item?id=39164680) - [Apple redecorates its iPhone prison to appease Europe](https://www.theregister.com/2024/01/27/apple_europe_ios_analysis/)
@@ -13,7 +15,6 @@
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Unix desktops](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:52:14](https://news.ycombinator.com/item?id=39162946) - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
-* [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 02:51:00](https://news.ycombinator.com/item?id=39162084) - [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
 * [2024-01-28, 02:13:27](https://news.ycombinator.com/item?id=39161888) - [Block Dude (Ti-83) in the Browser](https://azich.org/blockdude/)
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-state EV batteries now face \"production hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
@@ -28,7 +29,6 @@
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](https://www.youtube.com/watch?v=wCo3XwTRg9o)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-* [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
+* [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics](https://www.quaxio.com/hackernews_xkcd_citations/)
 * [2024-01-28, 11:36:19](https://news.ycombinator.com/item?id=39164680) - [Apple redecorates its iPhone prison to appease Europe](https://www.theregister.com/2024/01/27/apple_europe_ios_analysis/)
