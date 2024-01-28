@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-28, 02:22:45",
-      "https://news.ycombinator.com/item?id=39161940"
-    ],
-    [
-      "Garry Tan, tech CEO, wishes death upon San Francisco politicians",
-      "https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/"
-    ]
-  ],
-  [
-    [
       "2024-01-28, 02:05:56",
       "https://news.ycombinator.com/item?id=39161841"
     ],
@@ -47,6 +37,16 @@
     [
       "Rising Leqembi Prescriptions Are Straining Clinic Capacity",
       "https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 22:20:57",
+      "https://news.ycombinator.com/item?id=39160463"
+    ],
+    [
+      "Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict",
+      "https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-01-27, 19:52:13",
-      "https://news.ycombinator.com/item?id=39159153"
-    ],
-    [
-      "Sane C++ Libraries",
-      "https://github.com/Pagghiu/SaneCppLibraries"
-    ]
-  ],
-  [
-    [
       "2024-01-27, 19:34:27",
       "https://news.ycombinator.com/item?id=39159002"
     ],
@@ -137,6 +127,16 @@
     [
       "In major gaffe, hacked Microsoft test account was assigned admin privileges",
       "https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/"
+    ]
+  ],
+  [
+    [
+      "2024-01-27, 17:37:34",
+      "https://news.ycombinator.com/item?id=39157735"
+    ],
+    [
+      "LoMA: Lossless Compressed Memory Attention",
+      "https://arxiv.org/abs/2401.09486"
     ]
   ],
   [
