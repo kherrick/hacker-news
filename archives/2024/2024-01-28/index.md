@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
 * [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)

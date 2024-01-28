@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
 * [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
@@ -23,11 +24,10 @@
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [A hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
+* [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
-* [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-* [2024-01-27, 10:39:19](https://news.ycombinator.com/item?id=39154418) - [Show HN: HNRelevant – Explore Related Discussions on HN in an Integrated Sidebar](https://github.com/imdj/HNRelevant)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
