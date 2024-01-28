@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 15:49:15](https://news.ycombinator.com/item?id=39166816) - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
 * [2024-01-28, 15:15:49](https://news.ycombinator.com/item?id=39166525) - ['How to greenwash': propane industry tries to rebrand fuel as renewable](https://www.theguardian.com/us-news/2024/jan/25/propane-industry-rebrand-fuel-as-renewable)
+* [2024-01-28, 15:05:52](https://news.ycombinator.com/item?id=39166425) - [\"Lena\" isn't about uploading](https://qntm.org/uploading)
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
@@ -34,6 +36,7 @@
 * [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
 * [2024-01-28, 04:01:09](https://news.ycombinator.com/item?id=39162436) - [Ask HN: Why Keybase?](https://news.ycombinator.com/item?id=39162436)
+* [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
 * [2024-01-28, 03:19:48](https://news.ycombinator.com/item?id=39162228) - [The theory that consciousness is a quantum system gains support](https://mindmatters.ai/2024/01/the-theory-that-consciousness-is-a-quantum-system-gains-support/)
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 * [2024-01-28, 02:51:00](https://news.ycombinator.com/item?id=39162084) - [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
