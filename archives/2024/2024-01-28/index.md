@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 16:42:37](https://news.ycombinator.com/item?id=39167364) - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
+* [2024-01-28, 15:56:21](https://news.ycombinator.com/item?id=39166880) - [Plan 9 design rule: if a feature doesn't work for everything, don't do it](https://twitter.com/msimoni/status/1751634475753091384)
 * [2024-01-28, 15:55:45](https://news.ycombinator.com/item?id=39166873) - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
 * [2024-01-28, 15:49:15](https://news.ycombinator.com/item?id=39166816) - [In case you missed it: America got much bigger continental shelf](https://bigthink.com/strange-maps/extended-continental-shelf/)
 * [2024-01-28, 15:32:23](https://news.ycombinator.com/item?id=39166678) - [When the \"R\" goes missing from R&D (2021)](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
