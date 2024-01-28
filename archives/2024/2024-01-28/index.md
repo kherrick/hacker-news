@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
+* [2024-01-28, 03:19:48](https://news.ycombinator.com/item?id=39162228) - [The theory that consciousness is a quantum system gains support](https://mindmatters.ai/2024/01/the-theory-that-consciousness-is-a-quantum-system-gains-support/)
 * [2024-01-28, 03:03:38](https://news.ycombinator.com/item?id=39162150) - [Building a DIY CT/CAT scanner for $200 [video]](https://www.youtube.com/watch?v=zj7YjFDt2WY)
 * [2024-01-28, 02:51:00](https://news.ycombinator.com/item?id=39162084) - [U.S. Army Drops Requirement for High School Diploma Amid Recruiting Crisis](https://www.military.com/daily-news/2022/06/24/army-drops-requirement-high-school-diploma-amid-recruiting-crisis.html)
 * [2024-01-28, 02:22:45](https://news.ycombinator.com/item?id=39161940) - [Garry Tan, tech CEO, wishes death upon San Francisco politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
