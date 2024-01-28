@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI Targeted Camus, and Then Sartre After the JFK Assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
 * [2024-01-28, 19:38:14](https://news.ycombinator.com/item?id=39169048) - [General purpose MCUs built in to LEDs emulate candle flicker](https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/)
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 19:19:31](https://news.ycombinator.com/item?id=39168914) - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)

@@ -92,6 +92,7 @@
 * [2024-01-26, 12:29:18](https://news.ycombinator.com/item?id=39141909) - [Astronomical Data Used for Litigation (FAQ)](https://aa.usno.navy.mil/faq/lawyers)
 * [2024-01-26, 12:18:00](https://news.ycombinator.com/item?id=39141822) - [Co-Founder Quitting – Rant](https://news.ycombinator.com/item?id=39141822)
 * [2024-01-26, 12:17:00](https://news.ycombinator.com/item?id=39141816) - [CNC Lasers for Cutting and Engraving](https://jacquesmattheij.com/cnc-lasers/)
+* [2024-01-26, 12:07:45](https://news.ycombinator.com/item?id=39141752) - [Using TS type annotations for JavaScript engine optimization](https://goose.icu/porffor-types/)
 * [2024-01-26, 12:00:07](https://news.ycombinator.com/item?id=39141682) - [Optery (YC W22) is hiring a full-stack dev with Node experience (Latin America)](https://app.dover.io/Optery/careers/41840615-ceb2-4629-93a5-42d49fa8987d)
 * [2024-01-26, 11:39:50](https://news.ycombinator.com/item?id=39141533) - [Understanding the world science fiction convention](https://www.antipope.org/charlie/blog-static/2024/01/worldcon-in-the-news.html)
 * [2024-01-26, 11:37:27](https://news.ycombinator.com/item?id=39141513) - [Georgia wanted to attract more data centers. Now it needs more power](https://www.ajc.com/news/georgia-wanted-to-attract-more-data-centers-now-it-needs-more-power/XHM3P3M2ZJGUTMIW4OD6C3YQW4/)
