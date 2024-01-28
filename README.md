@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
-* [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:52:14](https://news.ycombinator.com/item?id=39162946) - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 * [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
@@ -26,6 +25,7 @@
 * [2024-01-27, 17:50:28](https://news.ycombinator.com/item?id=39157888) - [A hacked Microsoft test account was assigned admin privileges](https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/)
 * [2024-01-27, 17:02:14](https://news.ycombinator.com/item?id=39157297) - [Emerge (YC W21) is hiring an Android expert to help build the future of mobile](https://www.emergetools.com/careers/jobs/senior-android-engineer)
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
+* [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
