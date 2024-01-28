@@ -71,6 +71,7 @@
 * [2024-01-27, 12:17:48](https://news.ycombinator.com/item?id=39154929) - [I Am the Cheapest Bastard in Indie Games (2019)](http://jeff-vogel.blogspot.com/2019/08/i-am-cheapest-bastard-in-indie-games.html)
 * [2024-01-27, 11:58:02](https://news.ycombinator.com/item?id=39154825) - [ExifTool CVE-2021-22204 – Arbitrary Code Execution](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
 * [2024-01-27, 10:43:30](https://news.ycombinator.com/item?id=39154444) - [ChatGPT clone in 30 minutes on AWS Kubernetes](https://medium.com/@cluster.dev/kubernetes-infrastructure-for-hugging-face-models-and-chat-with-cluster-dev-580050c29db5)
+* [2024-01-27, 10:39:19](https://news.ycombinator.com/item?id=39154418) - [Show HN: HNRelevant – Explore Related Discussions on HN in an Integrated Sidebar](https://github.com/imdj/HNRelevant)
 * [2024-01-27, 10:32:27](https://news.ycombinator.com/item?id=39154380) - [Ask HN: What happened to startups, why is everything so polished?](https://news.ycombinator.com/item?id=39154380)
 * [2024-01-27, 09:41:55](https://news.ycombinator.com/item?id=39154079) - [Building a Password Cracker in 2024](https://www.sevnx.com/blog/post/building-a-password-cracker)
 * [2024-01-27, 09:09:43](https://news.ycombinator.com/item?id=39153939) - [The Earthquake That Will Devastate the Pacific Northwest (2015)](https://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
