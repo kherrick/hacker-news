@@ -20,6 +20,7 @@
 * [2024-01-27, 20:09:19](https://news.ycombinator.com/item?id=39159322) - [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
 * [2024-01-27, 20:03:28](https://news.ycombinator.com/item?id=39159263) - [The Invention of a New Pasta Shape](https://kottke.org/21/03/the-invention-of-a-new-pasta-shape)
 * [2024-01-27, 20:02:20](https://news.ycombinator.com/item?id=39159253) - [Solar is a market for (financial) lemons](https://pluralistic.net/2024/01/27/here-comes-the-sun-king/#sign-here)
+* [2024-01-27, 20:01:56](https://news.ycombinator.com/item?id=39159246) - [Reasons to avoid static type checking](https://typing.readthedocs.io/en/latest/source/typing_anti_pitch.html)
 * [2024-01-27, 19:55:53](https://news.ycombinator.com/item?id=39159188) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 19:52:13](https://news.ycombinator.com/item?id=39159153) - [Sane C++ Libraries](https://github.com/Pagghiu/SaneCppLibraries)
 * [2024-01-27, 19:49:20](https://news.ycombinator.com/item?id=39159127) - [Mozilla thinks Apple, Google, Microsoft should play fair](https://www.theregister.com/2024/01/25/mozilla_apple_google_browser_wars/)
