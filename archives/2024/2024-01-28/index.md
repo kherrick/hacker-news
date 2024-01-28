@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 17:25:21](https://news.ycombinator.com/item?id=39167783) - [Following lawsuit, rep admits \"AI\" George Carlin was human-written](https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/)
 * [2024-01-28, 16:42:37](https://news.ycombinator.com/item?id=39167364) - [New exoplanets identified that could potentially harbor life](https://www.earth.com/news/scientists-have-identified-85-new-exoplanets-that-could-harbor-life/)
 * [2024-01-28, 16:39:04](https://news.ycombinator.com/item?id=39167320) - [Feds tell companies to preserve IM and other corporate chats](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-doj-update-guidance-reinforces-parties-preservation-obligations-collaboration-tools-ephemeral)
 * [2024-01-28, 15:56:21](https://news.ycombinator.com/item?id=39166880) - [Plan 9 design rule: if a feature doesn't work for everything, don't do it](https://twitter.com/msimoni/status/1751634475753091384)
