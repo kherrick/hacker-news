@@ -12,6 +12,7 @@
 * [2024-01-28, 02:05:56](https://news.ycombinator.com/item?id=39161841) - [Solid-state EV batteries now face \"production hell\"](https://spectrum.ieee.org/solid-state-battery-production-challenges)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 00:13:32](https://news.ycombinator.com/item?id=39161194) - [So long and thanks for all the fish](https://nitter.d420.de)
+* [2024-01-27, 23:38:33](https://news.ycombinator.com/item?id=39160987) - [South American claims in Antarctica (2022)](https://www.tandfonline.com/doi/full/10.1080/2154896X.2022.2062558)
 * [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
 * [2024-01-27, 22:20:57](https://news.ycombinator.com/item?id=39160463) - [Philadelphia Jury Hits Monsanto with $2.25B Roundup Verdict](https://www.law.com/thelegalintelligencer/2024/01/26/philadelphia-jury-hits-monsanto-with-2-25b-roundup-verdict/)
 * [2024-01-27, 21:58:46](https://news.ycombinator.com/item?id=39160291) - [The 100MHz 6502 (2022)](https://www.e-basteln.de/computing/65f02/65f02/)
@@ -28,7 +29,6 @@
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-* [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
 ## [Archives](archives/index.md)

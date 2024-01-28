@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
 * [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
+* [2024-01-27, 23:38:33](https://news.ycombinator.com/item?id=39160987) - [South American claims in Antarctica (2022)](https://www.tandfonline.com/doi/full/10.1080/2154896X.2022.2062558)
 * [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)
 * [2024-01-27, 22:45:52](https://news.ycombinator.com/item?id=39160659) - [Rising Leqembi Prescriptions Are Straining Clinic Capacity](https://www.alzforum.org/news/community-news/rising-leqembi-prescriptions-are-straining-clinic-capacity)
 * [2024-01-27, 22:33:29](https://news.ycombinator.com/item?id=39160571) - [Unrwa Ties to Oct. 7 Massacre Exposed – US Suspending Funding](https://www.jewishpress.com/news/global/un/us-uk-canada-suspend-unrwa-funding-due-to-hamas-involvement/2024/01/27/)
