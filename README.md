@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
+* [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
@@ -24,10 +26,8 @@
 * [2024-01-27, 19:34:27](https://news.ycombinator.com/item?id=39159002) - [Gitlab password reset bug leaves more than 5.3K servers up for grabs](https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs)
 * [2024-01-27, 18:23:35](https://news.ycombinator.com/item?id=39158250) - [Why good content gets posted on the wrong platform?](https://danluu.com/why-video/)
 * [2024-01-27, 16:41:19](https://news.ycombinator.com/item?id=39157010) - [I used to not worry about climate change. Now I do [video]](http://backreaction.blogspot.com/2024/01/i-used-to-not-worry-about-climate.html)
-* [2024-01-27, 16:19:42](https://news.ycombinator.com/item?id=39156778) - [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch)
 * [2024-01-27, 15:41:26](https://news.ycombinator.com/item?id=39156444) - [Disney unveils the HoloTile floor](https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck)
 * [2024-01-27, 12:49:37](https://news.ycombinator.com/item?id=39155103) - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
-* [2024-01-27, 00:17:28](https://news.ycombinator.com/item?id=39150786) - [Fossil is quitting smartwatches](https://www.theverge.com/2024/1/26/24052275/fossil-quitting-smartwatches-android-wear-os)
 * [2024-01-26, 17:54:55](https://news.ycombinator.com/item?id=39145513) - [The quest to decode the Mandelbrot set](https://www.quantamagazine.org/the-quest-to-decode-the-mandelbrot-set-maths-famed-fractal-20240126/)
 * [2024-01-25, 21:21:28](https://news.ycombinator.com/item?id=39135487) - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 
