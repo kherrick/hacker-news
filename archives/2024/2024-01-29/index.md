@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 07:55:25](https://news.ycombinator.com/item?id=39173848) - [On a Tesla: Don't](https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138)
+* [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
 * [2024-01-29, 05:57:44](https://news.ycombinator.com/item?id=39173150) - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
 * [2024-01-29, 05:38:41](https://news.ycombinator.com/item?id=39173042) - [Google Crimes](http://xahlee.info/w/google_index.html)
