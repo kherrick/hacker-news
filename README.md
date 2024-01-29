@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
 * [2024-01-29, 16:23:25](https://news.ycombinator.com/item?id=39178147) - [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
 * [2024-01-29, 16:22:18](https://news.ycombinator.com/item?id=39178122) - [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
-* [2024-01-29, 16:11:48](https://news.ycombinator.com/item?id=39177959) - [Lubricate Your Keyholes](https://practicalbetterments.com/lubricate-your-keyholes/)
 * [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
 * [2024-01-29, 15:37:04](https://news.ycombinator.com/item?id=39177452) - [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
@@ -16,7 +16,6 @@
 * [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
 * [2024-01-29, 12:52:47](https://news.ycombinator.com/item?id=39175670) - [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
 * [2024-01-29, 12:13:58](https://news.ycombinator.com/item?id=39175393) - [Svelte Native: The Svelte Mobile Development Experience](https://svelte-native.technology/)
-* [2024-01-29, 10:47:56](https://news.ycombinator.com/item?id=39174896) - [Negotiate your salary with a little philosophical backup](https://www.philonomist.com/en/article/negotiate-your-salary-little-philosophical-backup)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
@@ -30,6 +29,7 @@
 * [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
+* [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 
 ## [Archives](archives/index.md)
 
