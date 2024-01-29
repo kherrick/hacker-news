@@ -55,6 +55,7 @@
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
 * [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
 * [2024-01-28, 12:47:04](https://news.ycombinator.com/item?id=39165167) - [NPM flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
+* [2024-01-28, 12:44:06](https://news.ycombinator.com/item?id=39165147) - [Estonian Song Festival](https://en.wikipedia.org/wiki/Estonian_Song_Festival)
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 12:36:08](https://news.ycombinator.com/item?id=39165098) - [Open Source Rewrite of Civilization 1 Source Code – OpenCiv1 Project](https://forums.civfanatics.com/threads/open-source-rewrite-of-civilization-1-source-code-openciv1-project.682623/)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)

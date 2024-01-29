@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 12:53:43](https://news.ycombinator.com/item?id=39175675) - [New tires every 7k miles? Electric cars save gas; tire wear shocks some drivers](https://www.miamiherald.com/news/local/environment/climate-change/article284533695.html)
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
@@ -20,6 +19,7 @@
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 19:05:00](https://news.ycombinator.com/item?id=39168760) - [A parliament of owls and a murder of crows: How groups of birds got their names](https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
+* [2024-01-28, 12:44:06](https://news.ycombinator.com/item?id=39165147) - [Estonian Song Festival](https://en.wikipedia.org/wiki/Estonian_Song_Festival)
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's exceptional creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
