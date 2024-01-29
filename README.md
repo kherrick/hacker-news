@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
+* [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online used car seller Vroom collapses as sales fall, losses mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 19:58:31](https://news.ycombinator.com/item?id=39169245) - [How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)](https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html)
@@ -27,7 +27,7 @@
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 15:37:08](https://news.ycombinator.com/item?id=39156405) - [Flent: The FLExible Network Tester](https://flent.org/)
 * [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
-* [2024-01-27, 03:47:00](https://news.ycombinator.com/item?id=39152317) - [Confirmation of ancient lake on Mars offers hope of life](https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html)
+* [2024-01-27, 03:47:00](https://news.ycombinator.com/item?id=39152317) - [Confirmation of ancient lake on Mars](https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html)
 * [2024-01-27, 02:02:08](https://news.ycombinator.com/item?id=39151636) - [The Rest Is Silliness: Peter Schickele and PDQ Bach remembered](https://van-magazine.com/mag/peter-schickele-pdq-bach/)
 * [2024-01-26, 11:58:00](https://news.ycombinator.com/item?id=39141652) - [Multi-database support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html)
 
