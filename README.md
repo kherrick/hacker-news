@@ -4,6 +4,7 @@
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
+* [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
 * [2024-01-29, 06:41:42](https://news.ycombinator.com/item?id=39173438) - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
@@ -29,7 +30,6 @@
 * [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 18:23:51](https://news.ycombinator.com/item?id=39158254) - [The Psychology of Apple Packaging](https://www.readtrung.com/p/psychology-of-apple-packaging)
-* [2024-01-26, 11:58:00](https://news.ycombinator.com/item?id=39141652) - [Multi-database support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html)
 
 ## [Archives](archives/index.md)
 
