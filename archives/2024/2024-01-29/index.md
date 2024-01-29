@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
 * [2024-01-29, 22:42:36](https://news.ycombinator.com/item?id=39183799) - [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
+* [2024-01-29, 22:37:43](https://news.ycombinator.com/item?id=39183731) - [Penn Jillette Wants to Talk It All Out](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 * [2024-01-29, 22:11:59](https://news.ycombinator.com/item?id=39183452) - [Covid-19: Negligence by Experts](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
