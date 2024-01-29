@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-29, 19:48:41](https://news.ycombinator.com/item?id=39181473) - [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
+* [2024-01-29, 19:19:05](https://news.ycombinator.com/item?id=39181042) - [Metal guitar skills linked to intrasexual competition, but not mating success](https://psycnet.apa.org/doiLanding?doi=10.1037%2Febs0000304)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 * [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 * [2024-01-29, 19:09:22](https://news.ycombinator.com/item?id=39180898) - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
+* [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 19:06:19](https://news.ycombinator.com/item?id=39180848) - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
 * [2024-01-29, 18:48:00](https://news.ycombinator.com/item?id=39180537) - [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
@@ -24,12 +26,10 @@
 * [2024-01-29, 12:13:58](https://news.ycombinator.com/item?id=39175393) - [Svelte Native: The Svelte Mobile Development Experience](https://svelte-native.technology/)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
-* [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
+* [2024-01-29, 04:52:15](https://news.ycombinator.com/item?id=39172821) - [The Sacred Lake Project: preliminary findings](https://www.cambridge.org/core/journals/antiquity/article/sacred-lake-project-preliminary-findings-from-the-lusatian-site-of-papowo-biskupie-poland/0491CA34AAA1AC973FE78718BA574A4A)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [An artists interpretation of the creatures of Dwarf Fortress](https://www.androidarts.com/df/dorf.htm)
-* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
-* [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 
 ## [Archives](archives/index.md)
 
