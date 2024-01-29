@@ -11,6 +11,7 @@
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
 * [2024-01-28, 21:37:23](https://news.ycombinator.com/item?id=39170054) - [US State Sales Tax Rates Chart](https://www.salestaxinstitute.com/resources/rates)
+* [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [An artists interpretation of the creatures of Dwarf Fortress](https://www.androidarts.com/df/dorf.htm)
 * [2024-01-28, 21:06:47](https://news.ycombinator.com/item?id=39169810) - [Shopify let me down big time today](https://news.ycombinator.com/item?id=39169810)
 * [2024-01-28, 21:01:31](https://news.ycombinator.com/item?id=39169754) - [What makes switching to GNU Linux almost impossible for many?](https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/)
 * [2024-01-28, 20:51:14](https://news.ycombinator.com/item?id=39169676) - [Navy again lowers requirements as it struggles to meet recruitment goals](https://www.stripes.com/branches/navy/2024-01-26/navy-lowers-education-requirements-recruitment-struggles-12806279.html)
