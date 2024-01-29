@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-29, 05:00:39",
+      "https://news.ycombinator.com/item?id=39172859"
+    ],
+    [
+      "Why is Maxwell's theory so hard to understand? (2007) [pdf]",
+      "https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 04:43:30",
+      "https://news.ycombinator.com/item?id=39172772"
+    ],
+    [
+      "Passenger flight flying over Pacific reaches 822 MPH in jet stream",
+      "https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 02:24:03",
       "https://news.ycombinator.com/item?id=39172054"
     ],
@@ -47,16 +67,6 @@
     [
       "Two handy GDB breakpoint tricks",
       "https://nullprogram.com/blog/2024/01/28/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 19:58:31",
-      "https://news.ycombinator.com/item?id=39169245"
-    ],
-    [
-      "How the FBI targeted Camus, and then Sartre after the JFK assassination (2013)",
-      "https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-01-28, 06:22:02",
-      "https://news.ycombinator.com/item?id=39163042"
-    ],
-    [
-      "Some mathematical aspects of cryptography (1941)",
-      "https://celebratio.org/Albert_AA/article/455/"
-    ]
-  ],
-  [
-    [
       "2024-01-28, 05:48:48",
       "https://news.ycombinator.com/item?id=39162937"
     ],
@@ -247,16 +247,6 @@
     [
       "In loving memory of square checkbox",
       "https://tonsky.me/blog/checkbox/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 15:37:08",
-      "https://news.ycombinator.com/item?id=39156405"
-    ],
-    [
-      "Flent: The FLExible Network Tester",
-      "https://flent.org/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Multi-database support in DuckDB",
       "https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 10:47:12",
+      "https://news.ycombinator.com/item?id=39141143"
+    ],
+    [
+      "The cancer that some doctors don't want to call cancer",
+      "https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f"
     ]
   ]
 ]
