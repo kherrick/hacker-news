@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 20:48:17](https://news.ycombinator.com/item?id=39182335) - [Negligence by experts in the early response to Covid-19](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
 * [2024-01-29, 19:48:41](https://news.ycombinator.com/item?id=39181473) - [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
 * [2024-01-29, 19:19:05](https://news.ycombinator.com/item?id=39181042) - [Metal guitar skills linked to intrasexual competition, but not mating success](https://psycnet.apa.org/doiLanding?doi=10.1037%2Febs0000304)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
