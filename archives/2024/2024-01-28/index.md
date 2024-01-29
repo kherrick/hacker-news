@@ -74,6 +74,7 @@
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
+* [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 08:12:53](https://news.ycombinator.com/item?id=39163494) - [Harvesting Electricity from High-Voltage Transmission Lines Using Fences](https://hackaday.com/2024/01/27/harvesting-electricity-from-high-voltage-transmission-lines-using-fences/)
 * [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
