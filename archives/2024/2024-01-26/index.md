@@ -104,6 +104,7 @@
 * [2024-01-26, 11:12:10](https://news.ycombinator.com/item?id=39141323) - [The KGB, the Computer and Me – The Cuckoo's Egg Story [video]](https://www.youtube.com/watch?v=Xe5AE-qYan8)
 * [2024-01-26, 10:54:10](https://news.ycombinator.com/item?id=39141197) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-26, 10:48:50](https://news.ycombinator.com/item?id=39141155) - [About Apt-Get Install](https://abhaikollara.substack.com/p/about-apt-get-install)
+* [2024-01-26, 10:47:12](https://news.ycombinator.com/item?id=39141143) - [The cancer that some doctors don't want to call cancer](https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f)
 * [2024-01-26, 10:28:34](https://news.ycombinator.com/item?id=39141011) - [Don't Talk to People Like They're Chatbots](https://www.schneier.com/essays/archives/2024/01/dont-talk-to-people-like-theyre-chatbots.html)
 * [2024-01-26, 10:10:57](https://news.ycombinator.com/item?id=39140849) - [ArVid: Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 10:10:17](https://news.ycombinator.com/item?id=39140843) - [The Japanese philosophy for a no-waste world](https://www.bbc.com/travel/article/20240125-mottainai-in-japan-creativity-is-key-to-a-no-waste-ideal)
