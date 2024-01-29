@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 19:48:41](https://news.ycombinator.com/item?id=39181473) - [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
+* [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 * [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 * [2024-01-29, 19:09:22](https://news.ycombinator.com/item?id=39180898) - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
+* [2024-01-29, 19:06:19](https://news.ycombinator.com/item?id=39180848) - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
+* [2024-01-29, 18:48:00](https://news.ycombinator.com/item?id=39180537) - [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
 * [2024-01-29, 17:47:43](https://news.ycombinator.com/item?id=39179446) - [Tell HN: YouTube RSS feeds are gone](https://news.ycombinator.com/item?id=39179446)
 * [2024-01-29, 17:46:01](https://news.ycombinator.com/item?id=39179418) - [Hollywood Keeps Reminding Us Why We Need Physical Media More Than](https://www.ign.com/articles/hollywood-keeps-reminding-us-why-we-need-physical-media-more-than-ever)
