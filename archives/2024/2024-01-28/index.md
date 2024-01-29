@@ -79,6 +79,7 @@
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
 * [2024-01-28, 05:52:14](https://news.ycombinator.com/item?id=39162946) - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
+* [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
 * [2024-01-28, 05:23:42](https://news.ycombinator.com/item?id=39162856) - [I built my own 16-Bit CPU in Excel [video]](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 04:12:13](https://news.ycombinator.com/item?id=39162499) - [Garry Tan tech CEO and campaign donor wishes death upon SF politicians](https://missionlocal.org/2024/01/garry-tan-death-wish-sf-supervisors/)
 * [2024-01-28, 04:01:09](https://news.ycombinator.com/item?id=39162436) - [Ask HN: Why Keybase?](https://news.ycombinator.com/item?id=39162436)
