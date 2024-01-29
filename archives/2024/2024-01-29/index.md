@@ -13,6 +13,7 @@
 * [2024-01-29, 19:06:19](https://news.ycombinator.com/item?id=39180848) - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
 * [2024-01-29, 18:48:00](https://news.ycombinator.com/item?id=39180537) - [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
+* [2024-01-29, 18:14:58](https://news.ycombinator.com/item?id=39179929) - [Microsoft stole my Chrome tabs, and it wants yours, too](https://www.theverge.com/24054329/microsoft-edge-automatic-chrome-import-data-feature)
 * [2024-01-29, 17:47:43](https://news.ycombinator.com/item?id=39179446) - [Tell HN: YouTube RSS feeds are gone](https://news.ycombinator.com/item?id=39179446)
 * [2024-01-29, 17:46:01](https://news.ycombinator.com/item?id=39179418) - [Hollywood Keeps Reminding Us Why We Need Physical Media More Than](https://www.ign.com/articles/hollywood-keeps-reminding-us-why-we-need-physical-media-more-than-ever)
 * [2024-01-29, 17:26:35](https://news.ycombinator.com/item?id=39179125) - [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)
