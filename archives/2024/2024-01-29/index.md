@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 16:22:18](https://news.ycombinator.com/item?id=39178122) - [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
+* [2024-01-29, 16:11:48](https://news.ycombinator.com/item?id=39177959) - [Lubricate Your Keyholes](https://practicalbetterments.com/lubricate-your-keyholes/)
 * [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
 * [2024-01-29, 15:37:04](https://news.ycombinator.com/item?id=39177452) - [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
 * [2024-01-29, 15:27:17](https://news.ycombinator.com/item?id=39177321) - [Disney 'Cracks Down' on Mickey Mouse 'Steamboat Silly' Pirates](https://torrentfreak.com/disney-cracks-down-on-mickey-mouse-steamboat-silly-pirates-240128/)
@@ -42,6 +44,7 @@
 * [2024-01-29, 04:56:43](https://news.ycombinator.com/item?id=39172840) - [California Bill Wants to Mandate Electronic 'Speed Limiters' in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
 * [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 04:43:30](https://news.ycombinator.com/item?id=39172772) - [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
+* [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
 * [2024-01-29, 04:02:25](https://news.ycombinator.com/item?id=39172553) - [The Rooftop Solar Industry Could Be on the Verge of Collapse](https://time.com/6565415/rooftop-solar-industry-collapse/)
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-29, 02:55:41](https://news.ycombinator.com/item?id=39172219) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
