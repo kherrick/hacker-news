@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
+* [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:36:00](https://news.ycombinator.com/item?id=39183011) - [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
 * [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
