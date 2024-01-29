@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-29, 06:09:54",
+      "https://news.ycombinator.com/item?id=39173229"
+    ],
+    [
+      "Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel",
+      "https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 05:57:44",
       "https://news.ycombinator.com/item?id=39173150"
     ],
     [
       "Global Room-Temperature Superconductivity in Graphite",
       "https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 05:38:41",
+      "https://news.ycombinator.com/item?id=39173042"
+    ],
+    [
+      "Google Crimes",
+      "http://xahlee.info/w/google_index.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "New Renderers for GTK",
       "https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 02:24:03",
-      "https://news.ycombinator.com/item?id=39172054"
-    ],
-    [
-      "Hell is other people: performance management at Big Tech",
-      "https://lcamtuf.substack.com/p/hell-is-other-people-performance"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-01-28, 15:55:45",
-      "https://news.ycombinator.com/item?id=39166873"
-    ],
-    [
-      "Show HN: Apple II clock using interrupts from physical pendulum clock",
-      "https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2024-01-28, 13:50:36",
       "https://news.ycombinator.com/item?id=39165711"
     ],
@@ -187,6 +187,16 @@
     [
       "Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking",
       "https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 12:26:30",
+      "https://news.ycombinator.com/item?id=39165030"
+    ],
+    [
+      "Teletext on a BBC Computer in 2024",
+      "https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Easy-to-Use Apple Vision wrapper for text extraction and clustering",
       "https://pypi.org/project/apple-ocr/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 03:47:00",
-      "https://news.ycombinator.com/item?id=39152317"
-    ],
-    [
-      "Confirmation of ancient lake on Mars",
-      "https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html"
     ]
   ],
   [
