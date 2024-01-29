@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-29, 13:56:24",
-      "https://news.ycombinator.com/item?id=39176272"
+      "2024-01-29, 14:53:51",
+      "https://news.ycombinator.com/item?id=39176899"
     ],
     [
-      "Robotic \"Companions\" Are Testing the Scope of Privacy and Sexual Freedom",
-      "https://jonathanturley.org/2024/01/29/battle-bots-robotic-companions-are-testing-the-scope-of-privacy-and-sexual-freedom/"
+      "The Apple Vision Pro's Missing Apps",
+      "https://stratechery.com/2024/the-apple-vision-pros-missing-apps/"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 14:38:35",
+      "https://news.ycombinator.com/item?id=39176730"
+    ],
+    [
+      "Dr Strangelove turns 60 today",
+      "https://www.bbc.com/culture/article/20240129-dr-strangelove-at-60-the-mystery-behind-kubricks-cold-war-masterpiece"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-01-29, 12:32:13",
-      "https://news.ycombinator.com/item?id=39175500"
-    ],
-    [
-      "One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds",
-      "https://www.infoq.com/news/2024/01/1brc-fast-java-processing/"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 09:51:22",
       "https://news.ycombinator.com/item?id=39174549"
     ],
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-01-29, 06:41:42",
-      "https://news.ycombinator.com/item?id=39173438"
-    ],
-    [
-      "linefont: Font for rendering line chart data",
-      "https://github.com/dy/linefont"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 06:21:47",
       "https://news.ycombinator.com/item?id=39173308"
     ],
@@ -101,12 +91,42 @@
   ],
   [
     [
+      "2024-01-29, 06:09:54",
+      "https://news.ycombinator.com/item?id=39173229"
+    ],
+    [
+      "Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel",
+      "https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 05:57:44",
+      "https://news.ycombinator.com/item?id=39173150"
+    ],
+    [
+      "Global Room-Temperature Superconductivity in Graphite",
+      "https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 05:00:25",
       "https://news.ycombinator.com/item?id=39172858"
     ],
     [
       "Why You've Never Been in a Plane Crash",
       "https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 04:55:57",
+      "https://news.ycombinator.com/item?id=39172837"
+    ],
+    [
+      "Eagle 7B: Soaring past Transformers",
+      "https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers"
     ]
   ],
   [
@@ -131,22 +151,12 @@
   ],
   [
     [
-      "2024-01-28, 23:54:31",
-      "https://news.ycombinator.com/item?id=39171190"
+      "2024-01-29, 02:07:09",
+      "https://news.ycombinator.com/item?id=39171971"
     ],
     [
-      "Show HN: Librarian - Semantic Bookmark Search Using Transformers",
-      "https://github.com/oto-labs/librarian"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 23:41:15",
-      "https://news.ycombinator.com/item?id=39171079"
-    ],
-    [
-      "Ask HN: Those who've joined a friend's startup as an employee, how did that go?",
-      "https://news.ycombinator.com/item?id=39171079"
+      "HyperWrite Personal Assistant",
+      "https://www.hyperwriteai.com/personal-assistant"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
+      "2024-01-28, 13:50:36",
+      "https://news.ycombinator.com/item?id=39165711"
+    ],
+    [
+      "I looked through attacks in my access logs",
+      "https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/"
+    ]
+  ],
+  [
+    [
       "2024-01-28, 13:07:50",
       "https://news.ycombinator.com/item?id=39165328"
     ],
     [
       "Take the Road Most Documented",
       "https://jarbus.net/blog/take-the-road-most-documented/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 12:44:06",
-      "https://news.ycombinator.com/item?id=39165147"
-    ],
-    [
-      "Estonian Song Festival",
-      "https://en.wikipedia.org/wiki/Estonian_Song_Festival"
     ]
   ],
   [
@@ -261,12 +271,22 @@
   ],
   [
     [
-      "2024-01-28, 05:48:48",
-      "https://news.ycombinator.com/item?id=39162937"
+      "2024-01-28, 06:41:55",
+      "https://news.ycombinator.com/item?id=39163124"
     ],
     [
-      "Variable Fonts",
-      "https://v-fonts.com/"
+      "A Historical Tour of Silicon Valley (2010)",
+      "https://www.scaruffi.com/svhistory/svtour.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 06:35:03",
+      "https://news.ycombinator.com/item?id=39163094"
+    ],
+    [
+      "Anki – Powerful, intelligent flash cards",
+      "https://apps.ankiweb.net/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "In loving memory of square checkbox",
       "https://tonsky.me/blog/checkbox/"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 18:23:51",
-      "https://news.ycombinator.com/item?id=39158254"
-    ],
-    [
-      "The Psychology of Apple Packaging",
-      "https://www.readtrung.com/p/psychology-of-apple-packaging"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 04:38:29",
-      "https://news.ycombinator.com/item?id=39152622"
-    ],
-    [
-      "Useful Models: The Barbell Strategy",
-      "https://ktheory.com/useful-models-the-barbell-strategy/"
     ]
   ]
 ]
