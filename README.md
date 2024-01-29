@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
@@ -12,7 +13,6 @@
 * [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
-* [2024-01-29, 02:07:09](https://news.ycombinator.com/item?id=39171971) - [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
