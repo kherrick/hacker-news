@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 * [2024-01-28, 23:08:20](https://news.ycombinator.com/item?id=39170822) - [Spotify CEO Daniel Ek says Apple's new App Store changes are a 'new low'](https://www.businessinsider.com/spotify-ceo-daniel-ek-apple-app-store-changes-new-low-2024-1)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
@@ -46,6 +47,7 @@
 * [2024-01-28, 14:16:13](https://news.ycombinator.com/item?id=39165981) - [The floppy disk refused to die in Japan](https://www.tomshardware.com/pc-components/storage/the-floppy-disk-refuses-to-die-in-japan-laws-that-forced-the-continued-use-of-floppies-have-finally-hit-the-chopping-block)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs. Here's what I found](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 13:40:55](https://news.ycombinator.com/item?id=39165626) - [SpatiaLite: Library extending SQLite to support Spatial SQL capabilities](https://www.gaia-gis.it/fossil/libspatialite/index)
+* [2024-01-28, 13:37:10](https://news.ycombinator.com/item?id=39165596) - [Show HN: 12-colored visual interactive music theory for pop/rock MIDI (+Github)](https://rawl.rocks/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 * [2024-01-28, 12:47:45](https://news.ycombinator.com/item?id=39165175) - ['I don't see how it ends': expert sounds alarm on new wave of US opioids crisis](https://www.theguardian.com/us-news/2024/jan/28/us-opioids-crisis-fentanyl-appalachia)
 * [2024-01-28, 12:47:04](https://news.ycombinator.com/item?id=39165167) - [NPM flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
