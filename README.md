@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
+* [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 * [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
 * [2024-01-29, 17:24:05](https://news.ycombinator.com/item?id=39179095) - [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
