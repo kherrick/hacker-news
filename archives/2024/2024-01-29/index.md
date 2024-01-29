@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 14:53:51](https://news.ycombinator.com/item?id=39176899) - [The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+* [2024-01-29, 14:38:35](https://news.ycombinator.com/item?id=39176730) - [Dr Strangelove turns 60 today](https://www.bbc.com/culture/article/20240129-dr-strangelove-at-60-the-mystery-behind-kubricks-cold-war-masterpiece)
 * [2024-01-29, 14:07:26](https://news.ycombinator.com/item?id=39176382) - [The Intellectual Rot of the Industrially Necessary University](https://www.epsilontheory.com/the-intellectual-rot-of-the-industrially-necessary-university/)
 * [2024-01-29, 13:56:24](https://news.ycombinator.com/item?id=39176272) - [Robotic \"Companions\" Are Testing the Scope of Privacy and Sexual Freedom](https://jonathanturley.org/2024/01/29/battle-bots-robotic-companions-are-testing-the-scope-of-privacy-and-sexual-freedom/)
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
