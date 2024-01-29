@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-01-29, 00:53:26",
-      "https://news.ycombinator.com/item?id=39171614"
-    ],
-    [
-      "Nix-direnv is a quality of life improvement",
-      "https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 00:48:14",
       "https://news.ycombinator.com/item?id=39171579"
     ],
     [
       "Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount",
       "https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 23:20:56",
+      "https://news.ycombinator.com/item?id=39170901"
+    ],
+    [
+      "Two handy GDB breakpoint tricks",
+      "https://nullprogram.com/blog/2024/01/28/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39141652"
     ],
     [
-      "Multi-Database Support in DuckDB",
+      "Multi-database support in DuckDB",
       "https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html"
     ]
   ]
