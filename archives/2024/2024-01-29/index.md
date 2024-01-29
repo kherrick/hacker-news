@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
+* [2024-01-29, 15:07:03](https://news.ycombinator.com/item?id=39177059) - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
+* [2024-01-29, 15:02:48](https://news.ycombinator.com/item?id=39177008) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 * [2024-01-29, 14:53:51](https://news.ycombinator.com/item?id=39176899) - [The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+* [2024-01-29, 14:51:47](https://news.ycombinator.com/item?id=39176877) - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
 * [2024-01-29, 14:38:35](https://news.ycombinator.com/item?id=39176730) - [Dr Strangelove turns 60 today](https://www.bbc.com/culture/article/20240129-dr-strangelove-at-60-the-mystery-behind-kubricks-cold-war-masterpiece)
+* [2024-01-29, 14:23:10](https://news.ycombinator.com/item?id=39176570) - [Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot](https://github.com/collabora/WhisperFusion)
 * [2024-01-29, 14:07:26](https://news.ycombinator.com/item?id=39176382) - [The Intellectual Rot of the Industrially Necessary University](https://www.epsilontheory.com/the-intellectual-rot-of-the-industrially-necessary-university/)
 * [2024-01-29, 13:56:24](https://news.ycombinator.com/item?id=39176272) - [Robotic \"Companions\" Are Testing the Scope of Privacy and Sexual Freedom](https://jonathanturley.org/2024/01/29/battle-bots-robotic-companions-are-testing-the-scope-of-privacy-and-sexual-freedom/)
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
