@@ -2,7 +2,6 @@
 
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
 * [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
-* [2024-01-29, 20:50:11](https://news.ycombinator.com/item?id=39182373) - [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 * [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues)
@@ -11,6 +10,7 @@
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 * [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
+* [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction markets have an elections problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process (2019)](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 * [2024-01-29, 14:51:47](https://news.ycombinator.com/item?id=39176877) - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
@@ -27,9 +27,9 @@
 * [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
+* [2024-01-28, 18:53:24](https://news.ycombinator.com/item?id=39168648) - [Laws of Pessimism](https://quillette.com/2024/01/26/the-seven-laws-of-pessimism/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
-* [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 
 ## [Archives](archives/index.md)
 
