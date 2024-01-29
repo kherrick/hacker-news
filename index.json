@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-01-29, 06:41:42",
+      "https://news.ycombinator.com/item?id=39173438"
+    ],
+    [
+      "linefont: Font for rendering line chart data",
+      "https://github.com/dy/linefont"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 06:21:47",
       "https://news.ycombinator.com/item?id=39173308"
     ],
@@ -137,16 +147,6 @@
     [
       "Two handy GDB breakpoint tricks",
       "https://nullprogram.com/blog/2024/01/28/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 19:38:14",
-      "https://news.ycombinator.com/item?id=39169048"
-    ],
-    [
-      "General purpose MCUs built in to LEDs emulate candle flicker",
-      "https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/"
     ]
   ],
   [
