@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
+* [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-29, 20:50:11](https://news.ycombinator.com/item?id=39182373) - [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
 * [2024-01-29, 20:48:17](https://news.ycombinator.com/item?id=39182335) - [Negligence by experts in the early response to Covid-19](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
 * [2024-01-29, 20:45:31](https://news.ycombinator.com/item?id=39182294) - [Walmart Store Managers Can Make Up to $400k](https://www.bloomberg.com/news/articles/2024-01-29/walmart-to-offer-store-managers-up-to-20-000-in-stock-grants)
@@ -83,6 +85,7 @@
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-29, 02:55:41](https://news.ycombinator.com/item?id=39172219) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2024-01-29, 02:51:27](https://news.ycombinator.com/item?id=39172196) - [Ask HN: How to deploy money effectively to save time and build a business?](https://news.ycombinator.com/item?id=39172196)
+* [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 * [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
 * [2024-01-29, 02:07:09](https://news.ycombinator.com/item?id=39171971) - [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
