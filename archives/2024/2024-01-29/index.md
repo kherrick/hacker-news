@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 22:52:25](https://news.ycombinator.com/item?id=39183888) - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
 * [2024-01-29, 22:42:36](https://news.ycombinator.com/item?id=39183799) - [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 22:37:43](https://news.ycombinator.com/item?id=39183731) - [Penn Jillette Wants to Talk It All Out](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
@@ -65,6 +66,7 @@
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
 * [2024-01-29, 13:20:16](https://news.ycombinator.com/item?id=39175883) - [Florida House of Representatives approves bill to ban social media for kids < 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)
 * [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+* [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
 * [2024-01-29, 12:53:43](https://news.ycombinator.com/item?id=39175675) - [New tires every 7k miles? Electric cars save gas; tire wear shocks some drivers](https://www.miamiherald.com/news/local/environment/climate-change/article284533695.html)
 * [2024-01-29, 12:52:47](https://news.ycombinator.com/item?id=39175670) - [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
 * [2024-01-29, 12:32:13](https://news.ycombinator.com/item?id=39175500) - [One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds](https://www.infoq.com/news/2024/01/1brc-fast-java-processing/)
