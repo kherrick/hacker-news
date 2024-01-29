@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 16:23:25](https://news.ycombinator.com/item?id=39178147) - [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
 * [2024-01-29, 16:22:18](https://news.ycombinator.com/item?id=39178122) - [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
 * [2024-01-29, 16:11:48](https://news.ycombinator.com/item?id=39177959) - [Lubricate Your Keyholes](https://practicalbetterments.com/lubricate-your-keyholes/)
 * [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
@@ -29,7 +30,6 @@
 * [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
-* [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 
 ## [Archives](archives/index.md)
 
