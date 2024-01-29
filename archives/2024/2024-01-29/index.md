@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
 * [2024-01-29, 05:00:39](https://news.ycombinator.com/item?id=39172859) - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+* [2024-01-29, 04:56:43](https://news.ycombinator.com/item?id=39172840) - [California Bill Wants to Mandate Electronic 'Speed Limiters' in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
 * [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 04:43:30](https://news.ycombinator.com/item?id=39172772) - [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
 * [2024-01-29, 02:55:41](https://news.ycombinator.com/item?id=39172219) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
