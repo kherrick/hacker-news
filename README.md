@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
-* [2024-01-29, 07:55:25](https://news.ycombinator.com/item?id=39173848) - [On a Tesla: Don't](https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
@@ -11,6 +9,7 @@
 * [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
+* [2024-01-29, 02:07:09](https://news.ycombinator.com/item?id=39171971) - [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
@@ -18,7 +17,7 @@
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 19:05:00](https://news.ycombinator.com/item?id=39168760) - [A parliament of owls and a murder of crows: How groups of birds got their names](https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/)
 * [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
-* [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
+* [2024-01-28, 15:55:45](https://news.ycombinator.com/item?id=39166873) - [Show HN: Apple II clock using interrupts from physical pendulum clock](https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
@@ -30,6 +29,7 @@
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
 * [2024-01-26, 11:58:00](https://news.ycombinator.com/item?id=39141652) - [Multi-database support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html)
+* [2024-01-26, 10:47:12](https://news.ycombinator.com/item?id=39141143) - [The cancer that some doctors don't want to call cancer](https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f)
 
 ## [Archives](archives/index.md)
 
