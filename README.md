@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 02:55:41](https://news.ycombinator.com/item?id=39172219) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
+* [2024-01-29, 02:51:27](https://news.ycombinator.com/item?id=39172196) - [Ask HN: How to deploy money effectively to save time and build a business?](https://news.ycombinator.com/item?id=39172196)
 * [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
