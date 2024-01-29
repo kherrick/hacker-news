@@ -20,6 +20,7 @@
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I Need to Grow Away from These Roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 19:19:31](https://news.ycombinator.com/item?id=39168914) - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)
 * [2024-01-28, 19:17:58](https://news.ycombinator.com/item?id=39168900) - [Fungi survives outside international space station](https://www.agenciasinc.es/en/News/Antarctic-fungi-survive-Martian-conditions-on-the-International-Space-Station)
+* [2024-01-28, 19:05:00](https://news.ycombinator.com/item?id=39168760) - [A parliament of owls and a murder of crows: How groups of birds got their names](https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/)
 * [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 * [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
 * [2024-01-28, 18:38:04](https://news.ycombinator.com/item?id=39168474) - [Open-source PixArt-δ image generator spits out high-res AI images in 0.5 seconds](https://the-decoder.com/open-source-pixart-%CE%B4-image-generator-spits-out-high-resolution-ai-images-in-0-5-seconds/)
