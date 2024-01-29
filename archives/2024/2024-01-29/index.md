@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 17:26:35](https://news.ycombinator.com/item?id=39179125) - [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 * [2024-01-29, 17:19:33](https://news.ycombinator.com/item?id=39179013) - [Apple says UK could 'veto' global privacy tools](https://www.bbc.co.uk/news/technology-68128177)
 * [2024-01-29, 17:19:18](https://news.ycombinator.com/item?id=39179010) - [Lie About Your Birthday](https://themarkup.org/gentle-january/2024/01/29/lie-about-your-birthday)

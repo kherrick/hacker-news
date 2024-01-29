@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 17:26:35](https://news.ycombinator.com/item?id=39179125) - [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 * [2024-01-29, 17:19:33](https://news.ycombinator.com/item?id=39179013) - [Apple says UK could 'veto' global privacy tools](https://www.bbc.co.uk/news/technology-68128177)
 * [2024-01-29, 17:19:18](https://news.ycombinator.com/item?id=39179010) - [Lie About Your Birthday](https://themarkup.org/gentle-january/2024/01/29/lie-about-your-birthday)
@@ -24,7 +25,6 @@
 * [2024-01-29, 05:00:25](https://news.ycombinator.com/item?id=39172858) - [Why you've never been in a plane crash](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash)
 * [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
-* [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
 * [2024-01-28, 20:06:52](https://news.ycombinator.com/item?id=39169318) - [A Guide to Flamewarriors](https://www.flamewarriorsguide.com/)
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
