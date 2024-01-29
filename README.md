@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-29, 20:50:11](https://news.ycombinator.com/item?id=39182373) - [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
+* [2024-01-29, 20:48:17](https://news.ycombinator.com/item?id=39182335) - [Negligence by experts in the early response to Covid-19](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
 * [2024-01-29, 20:45:31](https://news.ycombinator.com/item?id=39182294) - [Walmart Store Managers Can Make Up to $400k](https://www.bloomberg.com/news/articles/2024-01-29/walmart-to-offer-store-managers-up-to-20-000-in-stock-grants)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 * [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
@@ -26,7 +27,6 @@
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
 * [2024-01-29, 04:52:15](https://news.ycombinator.com/item?id=39172821) - [The Sacred Lake Project: preliminary findings](https://www.cambridge.org/core/journals/antiquity/article/sacred-lake-project-preliminary-findings-from-the-lusatian-site-of-papowo-biskupie-poland/0491CA34AAA1AC973FE78718BA574A4A)
-* [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
