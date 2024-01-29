@@ -19,6 +19,7 @@
 * [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
 * [2024-01-29, 17:09:20](https://news.ycombinator.com/item?id=39178847) - [Amazon drops $1.4B deal to buy iRobot after EU veto reports](https://www.theguardian.com/technology/2024/jan/29/amazon-deal-irobot-eu-veto-roomba)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
+* [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction Markets Have an Elections Problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Oxide Computer releases distribution of illumos intended to power the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 16:38:08](https://news.ycombinator.com/item?id=39178370) - [Harvard Medical affiliate retracts, corrects research after sleuthing by blogger](https://fortune.com/europe/2024/01/29/harvard-medical-school-affiliate-retracts-corrects-research-dana-farber-welsh-blogger/)
 * [2024-01-29, 16:23:25](https://news.ycombinator.com/item?id=39178147) - [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
