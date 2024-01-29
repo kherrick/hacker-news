@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
 * [2024-01-29, 07:55:25](https://news.ycombinator.com/item?id=39173848) - [On a Tesla: Don't](https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
