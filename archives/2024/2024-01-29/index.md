@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
 * [2024-01-29, 13:20:16](https://news.ycombinator.com/item?id=39175883) - [Florida House of Representatives approves bill to ban social media for kids < 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)
 * [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
 * [2024-01-29, 12:53:43](https://news.ycombinator.com/item?id=39175675) - [New tires every 7k miles? Electric cars save gas; tire wear shocks some drivers](https://www.miamiherald.com/news/local/environment/climate-change/article284533695.html)
 * [2024-01-29, 12:52:47](https://news.ycombinator.com/item?id=39175670) - [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
+* [2024-01-29, 12:32:13](https://news.ycombinator.com/item?id=39175500) - [One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds](https://www.infoq.com/news/2024/01/1brc-fast-java-processing/)
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
 * [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
