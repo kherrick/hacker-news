@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:36:00](https://news.ycombinator.com/item?id=39183011) - [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
@@ -92,6 +93,7 @@
 * [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 * [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
 * [2024-01-29, 02:07:09](https://news.ycombinator.com/item?id=39171971) - [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
+* [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
 * [2024-01-29, 01:03:23](https://news.ycombinator.com/item?id=39171667) - [The Aviation Herald needs your help to recover from advertising failure](https://avherald.com/h?nyh=)
 * [2024-01-29, 00:53:26](https://news.ycombinator.com/item?id=39171614) - [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
