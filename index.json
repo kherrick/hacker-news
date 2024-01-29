@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-01-29, 08:51:06",
-      "https://news.ycombinator.com/item?id=39174191"
-    ],
-    [
-      "Y Combinator President Garry Tan publishes a menacing tweet before deleting it",
-      "https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 07:55:25",
-      "https://news.ycombinator.com/item?id=39173848"
-    ],
-    [
-      "On a Tesla: Don't",
-      "https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 07:43:56",
       "https://news.ycombinator.com/item?id=39173775"
     ],
@@ -111,6 +91,16 @@
   ],
   [
     [
+      "2024-01-29, 02:07:09",
+      "https://news.ycombinator.com/item?id=39171971"
+    ],
+    [
+      "HyperWrite Personal Assistant",
+      "https://www.hyperwriteai.com/personal-assistant"
+    ]
+  ],
+  [
+    [
       "2024-01-28, 23:54:31",
       "https://news.ycombinator.com/item?id=39171190"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-01-28, 18:49:12",
-      "https://news.ycombinator.com/item?id=39168602"
+      "2024-01-28, 15:55:45",
+      "https://news.ycombinator.com/item?id=39166873"
     ],
     [
-      "Law for Computer Scientists (2020)",
-      "https://lawforcomputerscientists.pubpub.org/"
+      "Show HN: Apple II clock using interrupts from physical pendulum clock",
+      "https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Multi-database support in DuckDB",
       "https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 10:47:12",
+      "https://news.ycombinator.com/item?id=39141143"
+    ],
+    [
+      "The cancer that some doctors don't want to call cancer",
+      "https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f"
     ]
   ]
 ]
