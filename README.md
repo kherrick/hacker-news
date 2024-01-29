@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 01:03:23](https://news.ycombinator.com/item?id=39171667) - [The Aviation Herald needs your help to recover from advertising failure](https://avherald.com/h?nyh=)
 * [2024-01-29, 00:53:26](https://news.ycombinator.com/item?id=39171614) - [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online Use Car Seller Vroom Collapses as Sales Fall, Losses Mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
@@ -19,6 +18,7 @@
 * [2024-01-28, 13:37:10](https://news.ycombinator.com/item?id=39165596) - [Show HN: 12-colored visual interactive music theory for pop/rock MIDI (+Github)](https://rawl.rocks/)
 * [2024-01-28, 13:09:10](https://news.ycombinator.com/item?id=39165342) - [Try to make sudo less vulnerable to Rowhammer attacks](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 * [2024-01-28, 12:36:08](https://news.ycombinator.com/item?id=39165098) - [Open Source Rewrite of Civilization 1 Source Code – OpenCiv1 Project](https://forums.civfanatics.com/threads/open-source-rewrite-of-civilization-1-source-code-openciv1-project.682623/)
+* [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 10:37:40](https://news.ycombinator.com/item?id=39164317) - [The Articulation Barrier: Prompt-Driven AI UX Hurts Usability](https://www.uxtigers.com/post/ai-articulation-barrier)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
