@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:41:42](https://news.ycombinator.com/item?id=39173438) - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
@@ -26,6 +25,7 @@
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
 * [2024-01-28, 06:57:59](https://news.ycombinator.com/item?id=39163179) - [The Menu Trends That Define Dining](https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html)
 * [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
+* [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 18:23:51](https://news.ycombinator.com/item?id=39158254) - [The Psychology of Apple Packaging](https://www.readtrung.com/p/psychology-of-apple-packaging)
