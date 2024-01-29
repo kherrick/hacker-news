@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-29, 19:10:53](https://news.ycombinator.com/item?id=39180926) - [Darknetlive Sold to Incognito Market](https://darkdot.com/articles/darknetlive-sold/)
+* [2024-01-29, 19:09:22](https://news.ycombinator.com/item?id=39180898) - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
+* [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
 * [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
 * [2024-01-29, 17:24:05](https://news.ycombinator.com/item?id=39179095) - [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
@@ -8,8 +10,6 @@
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Oxide Computer releases distribution of illumos intended to power the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 16:38:08](https://news.ycombinator.com/item?id=39178370) - [Harvard Medical affiliate retracts, corrects research after sleuthing by blogger](https://fortune.com/europe/2024/01/29/harvard-medical-school-affiliate-retracts-corrects-research-dana-farber-welsh-blogger/)
-* [2024-01-29, 16:22:18](https://news.ycombinator.com/item?id=39178122) - [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
-* [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 * [2024-01-29, 14:53:51](https://news.ycombinator.com/item?id=39176899) - [The Apple Vision Pro’s missing apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
 * [2024-01-29, 14:51:47](https://news.ycombinator.com/item?id=39176877) - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
@@ -26,8 +26,8 @@
 * [2024-01-29, 05:00:39](https://news.ycombinator.com/item?id=39172859) - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 * [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [An artists interpretation of the creatures of Dwarf Fortress](https://www.androidarts.com/df/dorf.htm)
-* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
+* [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 
