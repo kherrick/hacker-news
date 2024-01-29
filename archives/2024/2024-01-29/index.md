@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
+* [2024-01-29, 15:37:04](https://news.ycombinator.com/item?id=39177452) - [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
 * [2024-01-29, 15:27:17](https://news.ycombinator.com/item?id=39177321) - [Disney 'Cracks Down' on Mickey Mouse 'Steamboat Silly' Pirates](https://torrentfreak.com/disney-cracks-down-on-mickey-mouse-steamboat-silly-pirates-240128/)
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 * [2024-01-29, 15:07:03](https://news.ycombinator.com/item?id=39177059) - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 15:38:02](https://news.ycombinator.com/item?id=39177467) - [Show HN: Phrasing – learn every language, to any level](https://phrasing.app/playground)
+* [2024-01-29, 15:37:04](https://news.ycombinator.com/item?id=39177452) - [How we had our Nectar Points stolen, and this is how yours will be too](https://www.kiphakes.com/2024/01/how-we-had-our-nectar-points-stolen-and-this-is-how-yours-will-be-too/)
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 * [2024-01-29, 15:07:03](https://news.ycombinator.com/item?id=39177059) - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
 * [2024-01-29, 15:02:48](https://news.ycombinator.com/item?id=39177008) - [Coding on Copilot: Data suggests downward pressure on code quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
@@ -10,7 +12,6 @@
 * [2024-01-29, 14:35:53](https://news.ycombinator.com/item?id=39176688) - [Python types have an expectations problem](https://medium.com/@sgorawski/python-types-have-an-expectations-problem-ea71a8645ce8)
 * [2024-01-29, 14:23:10](https://news.ycombinator.com/item?id=39176570) - [Show HN: WhisperFusion – Ultra-low latency conversations with an AI chatbot](https://github.com/collabora/WhisperFusion)
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
-* [2024-01-29, 13:20:16](https://news.ycombinator.com/item?id=39175883) - [Florida House of Representatives approves bill to ban social media for kids < 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)
 * [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
 * [2024-01-29, 12:52:47](https://news.ycombinator.com/item?id=39175670) - [Streetview scraper v1: cheap, arbitrary sized streetview images](https://loichovon.com/posts/streetview-scraper.html)
 * [2024-01-29, 12:13:58](https://news.ycombinator.com/item?id=39175393) - [Svelte Native: The Svelte Mobile Development Experience](https://svelte-native.technology/)
@@ -25,7 +26,6 @@
 * [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 19:05:00](https://news.ycombinator.com/item?id=39168760) - [A parliament of owls and a murder of crows: How groups of birds got their names](https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/)
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
-* [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 08:26:52](https://news.ycombinator.com/item?id=39163556) - [Linux for Playstation 2](https://web.archive.org/web/20100524023205/http://playstation2-linux.com:80/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
