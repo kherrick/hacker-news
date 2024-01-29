@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 02:55:41](https://news.ycombinator.com/item?id=39172219) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 * [2024-01-29, 01:03:23](https://news.ycombinator.com/item?id=39171667) - [The Aviation Herald needs your help to recover from advertising failure](https://avherald.com/h?nyh=)
 * [2024-01-29, 00:53:26](https://news.ycombinator.com/item?id=39171614) - [Nix-direnv is a quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
