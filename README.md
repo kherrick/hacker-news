@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-29, 22:52:25](https://news.ycombinator.com/item?id=39183888) - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
-* [2024-01-29, 22:37:43](https://news.ycombinator.com/item?id=39183731) - [Penn Jillette wants to talk it all out](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
@@ -11,6 +10,7 @@
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
+* [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction markets have an elections problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
