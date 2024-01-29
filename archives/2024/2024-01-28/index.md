@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
 * [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
+* [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-28, 23:08:20](https://news.ycombinator.com/item?id=39170822) - [Spotify CEO Daniel Ek says Apple's new App Store changes are a 'new low'](https://www.businessinsider.com/spotify-ceo-daniel-ek-apple-app-store-changes-new-low-2024-1)
 * [2024-01-28, 22:45:42](https://news.ycombinator.com/item?id=39170622) - [GitHub Spam is out of control](https://djanes.xyz/spam-on-github-is-getting-crazy-these-days/)
 * [2024-01-28, 21:49:13](https://news.ycombinator.com/item?id=39170149) - [No more magic, please! (2023)](https://nickgeorge.net/nomagic/)
