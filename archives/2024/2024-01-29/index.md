@@ -7,6 +7,8 @@
 * [2024-01-29, 17:47:43](https://news.ycombinator.com/item?id=39179446) - [Tell HN: YouTube RSS feeds are gone](https://news.ycombinator.com/item?id=39179446)
 * [2024-01-29, 17:46:01](https://news.ycombinator.com/item?id=39179418) - [Hollywood Keeps Reminding Us Why We Need Physical Media More Than](https://www.ign.com/articles/hollywood-keeps-reminding-us-why-we-need-physical-media-more-than-ever)
 * [2024-01-29, 17:26:35](https://news.ycombinator.com/item?id=39179125) - [How the U.S. Government Could Lower Food Prices for Everyone](https://www.vice.com/en/article/88x783/how-the-us-government-could-lower-food-prices-for-everyone)
+* [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
+* [2024-01-29, 17:24:23](https://news.ycombinator.com/item?id=39179099) - [Car ownership in the US is becoming more expensive](https://www.theguardian.com/business/2024/jan/29/us-car-costs-insurance-unaffordable)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 * [2024-01-29, 17:19:33](https://news.ycombinator.com/item?id=39179013) - [Apple says UK could 'veto' global privacy tools](https://www.bbc.co.uk/news/technology-68128177)
 * [2024-01-29, 17:19:18](https://news.ycombinator.com/item?id=39179010) - [Lie About Your Birthday](https://themarkup.org/gentle-january/2024/01/29/lie-about-your-birthday)
