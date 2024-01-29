@@ -2,6 +2,7 @@
 
 * [2024-01-29, 02:51:27](https://news.ycombinator.com/item?id=39172196) - [Ask HN: How to deploy money effectively to save time and build a business?](https://news.ycombinator.com/item?id=39172196)
 * [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
+* [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online used car seller Vroom collapses as sales fall, losses mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
@@ -17,7 +18,6 @@
 * [2024-01-28, 15:32:23](https://news.ycombinator.com/item?id=39166678) - [When the \"R\" goes missing from R&D (2021)](https://madned.substack.com/p/when-the-r-goes-missing-from-r-and)
 * [2024-01-28, 15:03:31](https://news.ycombinator.com/item?id=39166399) - [Breaking SecuROM 7 – A Dissection](https://lostfilearchives.github.io/08/28/Dissection/)
 * [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
-* [2024-01-28, 13:37:10](https://news.ycombinator.com/item?id=39165596) - [Show HN: 12-colored visual interactive music theory for pop/rock MIDI (+Github)](https://rawl.rocks/)
 * [2024-01-28, 12:06:52](https://news.ycombinator.com/item?id=39164894) - [The Plot Against Einstein](https://warfarehistorynetwork.com/article/the-plot-against-einstein/)
 * [2024-01-28, 10:37:40](https://news.ycombinator.com/item?id=39164317) - [The Articulation Barrier: Prompt-Driven AI UX Hurts Usability](https://www.uxtigers.com/post/ai-articulation-barrier)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
