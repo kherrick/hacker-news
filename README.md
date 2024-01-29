@@ -22,7 +22,7 @@
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 12:06:52](https://news.ycombinator.com/item?id=39164894) - [The Plot Against Einstein](https://warfarehistorynetwork.com/article/the-plot-against-einstein/)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's exceptional creatures](https://www.exceptionalcreatures.com/)
-* [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
+* [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
 * [2024-01-28, 06:57:59](https://news.ycombinator.com/item?id=39163179) - [The Menu Trends That Define Dining](https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html)
 * [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
 * [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
