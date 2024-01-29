@@ -64,6 +64,7 @@
 * [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)
+* [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 09:10:56](https://news.ycombinator.com/item?id=39163797) - [I Hacked a Train Toilet](https://www.devever.net/~hl/traintoilet)
 * [2024-01-28, 08:39:18](https://news.ycombinator.com/item?id=39163625) - [Over 2k shell companies have directors aged 123 years or older](https://fortune.com/2024/01/22/moodys-red-flags-shell-companies-directors-123-years-old/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
