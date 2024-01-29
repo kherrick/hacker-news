@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:41:15](https://news.ycombinator.com/item?id=39171079) - [Ask HN: Those who've joined a friend's startup as an employee, how did that go?](https://news.ycombinator.com/item?id=39171079)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-28, 23:08:20](https://news.ycombinator.com/item?id=39170822) - [Spotify CEO Daniel Ek says Apple's new App Store changes are a 'new low'](https://www.businessinsider.com/spotify-ceo-daniel-ek-apple-app-store-changes-new-low-2024-1)
@@ -73,6 +74,7 @@
 * [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
 * [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
+* [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 05:56:26](https://news.ycombinator.com/item?id=39162963) - [Remembering Unix Desktops – and What We Can Learn from Them](https://www.theregister.com/2024/01/27/opinion_column/)
