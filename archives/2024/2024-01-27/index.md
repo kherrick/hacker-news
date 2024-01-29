@@ -94,6 +94,7 @@
 * [2024-01-27, 05:34:58](https://news.ycombinator.com/item?id=39152899) - [Cruise wasn't hiding accident video from regulators – it had bad internet](https://www.theverge.com/2024/1/25/24050791/cruise-pedestrian-dragging-video-driverless-report)
 * [2024-01-27, 05:13:33](https://news.ycombinator.com/item?id=39152804) - [Blue Screen, SciFi novel about a hacker recruited by AI to take over the world](https://www.amazon.com/Blue-Screen-Peter-Gustafson-Defragmented-ebook/dp/B084GHLYSX)
 * [2024-01-27, 05:04:59](https://news.ycombinator.com/item?id=39152763) - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
+* [2024-01-27, 04:38:29](https://news.ycombinator.com/item?id=39152622) - [Useful Models: The Barbell Strategy](https://ktheory.com/useful-models-the-barbell-strategy/)
 * [2024-01-27, 04:18:08](https://news.ycombinator.com/item?id=39152517) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-27, 03:50:18](https://news.ycombinator.com/item?id=39152332) - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
 * [2024-01-27, 03:47:00](https://news.ycombinator.com/item?id=39152317) - [Confirmation of ancient lake on Mars offers hope of life](https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html)

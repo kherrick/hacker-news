@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 14:07:26](https://news.ycombinator.com/item?id=39176382) - [The Intellectual Rot of the Industrially Necessary University](https://www.epsilontheory.com/the-intellectual-rot-of-the-industrially-necessary-university/)
 * [2024-01-29, 13:56:24](https://news.ycombinator.com/item?id=39176272) - [Robotic \"Companions\" Are Testing the Scope of Privacy and Sexual Freedom](https://jonathanturley.org/2024/01/29/battle-bots-robotic-companions-are-testing-the-scope-of-privacy-and-sexual-freedom/)
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
 * [2024-01-29, 13:20:16](https://news.ycombinator.com/item?id=39175883) - [Florida House of Representatives approves bill to ban social media for kids < 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586)

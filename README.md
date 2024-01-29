@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 14:07:26](https://news.ycombinator.com/item?id=39176382) - [The Intellectual Rot of the Industrially Necessary University](https://www.epsilontheory.com/the-intellectual-rot-of-the-industrially-necessary-university/)
 * [2024-01-29, 13:56:24](https://news.ycombinator.com/item?id=39176272) - [Robotic \"Companions\" Are Testing the Scope of Privacy and Sexual Freedom](https://jonathanturley.org/2024/01/29/battle-bots-robotic-companions-are-testing-the-scope-of-privacy-and-sexual-freedom/)
 * [2024-01-29, 13:29:32](https://news.ycombinator.com/item?id=39175981) - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
 * [2024-01-29, 13:19:20](https://news.ycombinator.com/item?id=39175873) - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
@@ -11,7 +12,6 @@
 * [2024-01-29, 06:41:42](https://news.ycombinator.com/item?id=39173438) - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 * [2024-01-29, 05:00:25](https://news.ycombinator.com/item?id=39172858) - [Why You've Never Been in a Plane Crash](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash)
-* [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 03:24:10](https://news.ycombinator.com/item?id=39172377) - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-29, 02:18:51](https://news.ycombinator.com/item?id=39172029) - [A writer fabricated a series of stories for Atlas Obscura](https://thewalrus.ca/around-the-world-in-eighty-lies/)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
@@ -22,7 +22,6 @@
 * [2024-01-28, 13:07:50](https://news.ycombinator.com/item?id=39165328) - [Take the Road Most Documented](https://jarbus.net/blog/take-the-road-most-documented/)
 * [2024-01-28, 12:44:06](https://news.ycombinator.com/item?id=39165147) - [Estonian Song Festival](https://en.wikipedia.org/wiki/Estonian_Song_Festival)
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
-* [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's exceptional creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 08:19:03](https://news.ycombinator.com/item?id=39163522) - [Ask HN: Best open source and/or free EDA tooling](https://news.ycombinator.com/item?id=39163522)
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
@@ -30,6 +29,7 @@
 * [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 18:23:51](https://news.ycombinator.com/item?id=39158254) - [The Psychology of Apple Packaging](https://www.readtrung.com/p/psychology-of-apple-packaging)
+* [2024-01-27, 04:38:29](https://news.ycombinator.com/item?id=39152622) - [Useful Models: The Barbell Strategy](https://ktheory.com/useful-models-the-barbell-strategy/)
 
 ## [Archives](archives/index.md)
 
