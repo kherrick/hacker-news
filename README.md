@@ -25,11 +25,11 @@
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [Appearances of MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
 * [2024-01-28, 06:57:59](https://news.ycombinator.com/item?id=39163179) - [The Menu Trends That Define Dining](https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html)
 * [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
+* [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 05:48:48](https://news.ycombinator.com/item?id=39162937) - [Variable Fonts](https://v-fonts.com/)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 18:23:51](https://news.ycombinator.com/item?id=39158254) - [The Psychology of Apple Packaging](https://www.readtrung.com/p/psychology-of-apple-packaging)
 * [2024-01-26, 11:58:00](https://news.ycombinator.com/item?id=39141652) - [Multi-database support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html)
-* [2024-01-26, 10:47:12](https://news.ycombinator.com/item?id=39141143) - [The cancer that some doctors don't want to call cancer](https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f)
 
 ## [Archives](archives/index.md)
 
