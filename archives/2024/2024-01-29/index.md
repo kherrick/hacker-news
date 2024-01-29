@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 20:50:11](https://news.ycombinator.com/item?id=39182373) - [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
 * [2024-01-29, 20:48:17](https://news.ycombinator.com/item?id=39182335) - [Negligence by experts in the early response to Covid-19](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
+* [2024-01-29, 20:45:31](https://news.ycombinator.com/item?id=39182294) - [Walmart Store Managers Can Make Up to $400k](https://www.bloomberg.com/news/articles/2024-01-29/walmart-to-offer-store-managers-up-to-20-000-in-stock-grants)
 * [2024-01-29, 19:48:41](https://news.ycombinator.com/item?id=39181473) - [There's No Good Reason to Buy a Carbon Bike](https://www.outsideonline.com/culture/opinion/theres-no-good-reason-to-buy-a-carbon-bike/)
 * [2024-01-29, 19:19:05](https://news.ycombinator.com/item?id=39181042) - [Metal guitar skills linked to intrasexual competition, but not mating success](https://psycnet.apa.org/doiLanding?doi=10.1037%2Febs0000304)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
@@ -13,6 +15,7 @@
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 19:06:19](https://news.ycombinator.com/item?id=39180848) - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
 * [2024-01-29, 18:48:00](https://news.ycombinator.com/item?id=39180537) - [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
+* [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
 * [2024-01-29, 18:14:58](https://news.ycombinator.com/item?id=39179929) - [Microsoft stole my Chrome tabs, and it wants yours, too](https://www.theverge.com/24054329/microsoft-edge-automatic-chrome-import-data-feature)
 * [2024-01-29, 17:47:43](https://news.ycombinator.com/item?id=39179446) - [Tell HN: YouTube RSS feeds are gone](https://news.ycombinator.com/item?id=39179446)
