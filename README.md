@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-29, 02:24:03](https://news.ycombinator.com/item?id=39172054) - [Hell is other people: performance management at Big Tech](https://lcamtuf.substack.com/p/hell-is-other-people-performance)
 * [2024-01-29, 00:48:14](https://news.ycombinator.com/item?id=39171579) - [Online used car seller Vroom collapses as sales fall, losses mount](https://www.thedrive.com/news/online-use-car-seller-vroom-collapses-as-sales-fall-losses-mount)
 * [2024-01-28, 23:54:31](https://news.ycombinator.com/item?id=39171190) - [Show HN: Librarian - Semantic Bookmark Search Using Transformers](https://github.com/oto-labs/librarian)
 * [2024-01-28, 23:20:56](https://news.ycombinator.com/item?id=39170901) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
@@ -21,7 +22,6 @@
 * [2024-01-28, 10:37:40](https://news.ycombinator.com/item?id=39164317) - [The Articulation Barrier: Prompt-Driven AI UX Hurts Usability](https://www.uxtigers.com/post/ai-articulation-barrier)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
 * [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
-* [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
 * [2024-01-28, 06:22:02](https://news.ycombinator.com/item?id=39163042) - [Some mathematical aspects of cryptography (1941)](https://celebratio.org/Albert_AA/article/455/)
 * [2024-01-28, 03:44:11](https://news.ycombinator.com/item?id=39162355) - [Can Earthquakes Be Predicted? (2022)](https://heritageproject.caltech.edu/interviews-updates/robert-geller)
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
