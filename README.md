@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
-* [2024-01-29, 17:24:23](https://news.ycombinator.com/item?id=39179099) - [Car ownership in the US is becoming more expensive](https://www.theguardian.com/business/2024/jan/29/us-car-costs-insurance-unaffordable)
+* [2024-01-29, 17:24:05](https://news.ycombinator.com/item?id=39179095) - [Experiments on a $50 DIY air purifier you can make in 30s](https://dynomight.net/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/)
 * [2024-01-29, 17:20:34](https://news.ycombinator.com/item?id=39179031) - [An Air Force officer who spent $11M searching Earhart's plane may have found it](https://www.businessinsider.com/sonar-image-pilot-amelia-earhart-plane-found-pacific-ocean-2024)
 * [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
