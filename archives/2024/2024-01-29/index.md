@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 17:19:33](https://news.ycombinator.com/item?id=39179013) - [Apple says UK could 'veto' global privacy tools](https://www.bbc.co.uk/news/technology-68128177)
 * [2024-01-29, 17:11:34](https://news.ycombinator.com/item?id=39178886) - [Meta AI releases Code Llama 70B](https://twitter.com/AIatMeta/status/1752013879532782075)
+* [2024-01-29, 17:09:20](https://news.ycombinator.com/item?id=39178847) - [Amazon drops $1.4B deal to buy iRobot after EU veto reports](https://www.theguardian.com/technology/2024/jan/29/amazon-deal-irobot-eu-veto-roomba)
 * [2024-01-29, 16:23:25](https://news.ycombinator.com/item?id=39178147) - [Vape-o-nomics: Why Everything is Addictive Now [video]](https://www.youtube.com/watch?v=XuTQbOo3Y30)
 * [2024-01-29, 16:22:18](https://news.ycombinator.com/item?id=39178122) - [Viewing Illegal Streams: No Cautions, Fines or Arrests Say GM Police](https://torrentfreak.com/viewing-illegal-streams-no-cautions-fines-or-arrests-say-gm-police-240129/)
 * [2024-01-29, 16:11:48](https://news.ycombinator.com/item?id=39177959) - [Lubricate Your Keyholes](https://practicalbetterments.com/lubricate-your-keyholes/)
