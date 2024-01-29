@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
+* [2024-01-29, 21:36:00](https://news.ycombinator.com/item?id=39183011) - [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
 * [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-29, 20:50:11](https://news.ycombinator.com/item?id=39182373) - [OpenAI: Copy, Steal, Paste](https://www.computerworld.com/article/3712540/openai-copy-steal-paste.html)
@@ -17,6 +18,7 @@
 * [2024-01-29, 19:09:22](https://news.ycombinator.com/item?id=39180898) - [Evergrande, once China's biggest property developer, ordered to liquidate](https://www.wsj.com/articles/evergrande-faces-imminent-liquidation-after-talks-with-top-creditors-break-down-4af5f657)
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 19:06:19](https://news.ycombinator.com/item?id=39180848) - [The Amiga as a computer built to last 50 years](https://www.datagubbe.se/30yearcomp/)
+* [2024-01-29, 18:48:43](https://news.ycombinator.com/item?id=39180547) - [Google significantly reduces recaptcha free tier, introduces new pricing models](https://bytepursuits.com/google-significantly-reduces-recaptcha-free-tier-introduces-new-pricing-models)
 * [2024-01-29, 18:48:00](https://news.ycombinator.com/item?id=39180537) - [Beliefs That Kill Birth Rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-01-29, 18:27:05](https://news.ycombinator.com/item?id=39180155) - [Ask HN: What are some homeless shelter innovations?](https://news.ycombinator.com/item?id=39180155)
