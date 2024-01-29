@@ -19,6 +19,7 @@
 * [2024-01-28, 19:05:00](https://news.ycombinator.com/item?id=39168760) - [A parliament of owls and a murder of crows: How groups of birds got their names](https://www.themarginalian.org/2024/01/04/brian-wildsmith-birds-company-terms/)
 * [2024-01-28, 19:01:49](https://news.ycombinator.com/item?id=39168728) - [Milwaukee reporter investigates cousin's 1978 car bombing death](https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/)
 * [2024-01-28, 18:49:12](https://news.ycombinator.com/item?id=39168602) - [Law for Computer Scientists (2020)](https://lawforcomputerscientists.pubpub.org/)
+* [2024-01-28, 13:50:36](https://news.ycombinator.com/item?id=39165711) - [I looked through attacks in my access logs](https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/)
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's exceptional creatures](https://www.exceptionalcreatures.com/)
@@ -29,7 +30,6 @@
 * [2024-01-28, 00:36:19](https://news.ycombinator.com/item?id=39161339) - [In loving memory of square checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 11:58:37](https://news.ycombinator.com/item?id=39154829) - [Easy-to-Use Apple Vision wrapper for text extraction and clustering](https://pypi.org/project/apple-ocr/)
 * [2024-01-26, 11:58:00](https://news.ycombinator.com/item?id=39141652) - [Multi-database support in DuckDB](https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html)
-* [2024-01-26, 10:47:12](https://news.ycombinator.com/item?id=39141143) - [The cancer that some doctors don't want to call cancer](https://www.wsj.com/health/wellness/prostate-cancer-low-risk-treatment-rename-185b6e3f)
 
 ## [Archives](archives/index.md)
 
