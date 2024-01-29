@@ -77,6 +77,7 @@
 * [2024-01-28, 08:02:29](https://news.ycombinator.com/item?id=39163447) - [Gravity Helps Show Strong Force Strength in the Proton](https://www.jlab.org/news/releases/gravity-helps-show-strong-force-strength-proton)
 * [2024-01-28, 07:24:00](https://news.ycombinator.com/item?id=39163284) - [MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
 * [2024-01-28, 07:08:06](https://news.ycombinator.com/item?id=39163213) - [Filmmaker Ken Burns calls Mark Zuckerberg an `enemy of the state' (2021)](https://www.independent.co.uk/arts-entertainment/films/news/ken-burns-facebook-mark-zuckerberg-sheryl-sandberg-new-york-times-podcast-b1896953.html)
+* [2024-01-28, 06:57:59](https://news.ycombinator.com/item?id=39163179) - [The Menu Trends That Define Dining](https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html)
 * [2024-01-28, 06:43:30](https://news.ycombinator.com/item?id=39163129) - [The Electric-Vehicle Cheating Scandal](https://www.wsj.com/articles/the-electric-car-cheating-scandal-subsidy-rule-efficiency-falsehood-2798b4ab)
 * [2024-01-28, 06:41:55](https://news.ycombinator.com/item?id=39163124) - [A Historical Tour of Silicon Valley (2010)](https://www.scaruffi.com/svhistory/svtour.html)
 * [2024-01-28, 06:35:03](https://news.ycombinator.com/item?id=39163094) - [Anki – Powerful, intelligent flash cards](https://apps.ankiweb.net/)
