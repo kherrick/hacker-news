@@ -60,6 +60,7 @@
 * [2024-01-28, 11:26:11](https://news.ycombinator.com/item?id=39164612) - [Hacker Newsy: a pretty Hacker News client](https://github.com/cotyhamilton/hacker-newsy)
 * [2024-01-28, 11:25:29](https://news.ycombinator.com/item?id=39164606) - [Google Chrome goes native for Windows on Arm](https://www.theverge.com/2024/1/26/24051485/google-chrome-windows-arm-support-canary-channel-test)
 * [2024-01-28, 11:22:41](https://news.ycombinator.com/item?id=39164593) - [The right way to sauce pasta (2016)](https://www.seriouseats.com/the-right-way-to-sauce-pasta)
+* [2024-01-28, 10:37:40](https://news.ycombinator.com/item?id=39164317) - [The Articulation Barrier: Prompt-Driven AI UX Hurts Usability](https://www.uxtigers.com/post/ai-articulation-barrier)
 * [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)

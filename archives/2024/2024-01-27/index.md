@@ -95,6 +95,7 @@
 * [2024-01-27, 05:04:59](https://news.ycombinator.com/item?id=39152763) - [Brave Leo now uses Mixtral 8x7B as default](https://brave.com/leo-mixtral/)
 * [2024-01-27, 04:18:08](https://news.ycombinator.com/item?id=39152517) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-27, 03:50:18](https://news.ycombinator.com/item?id=39152332) - [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
+* [2024-01-27, 03:47:00](https://news.ycombinator.com/item?id=39152317) - [Confirmation of ancient lake on Mars offers hope of life](https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [Proposed top-level domain string for private use: \".internal\"](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 03:45:15](https://news.ycombinator.com/item?id=39152306) - [ICANN picks the domain it will never, ever release](https://domainincite.com/29381-icann-picks-the-domain-it-will-never-ever-release)
 * [2024-01-27, 02:50:19](https://news.ycombinator.com/item?id=39151937) - [Rclone syncs your files to cloud storage](https://rclone.org/)
