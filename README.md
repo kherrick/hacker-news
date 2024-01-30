@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
+* [2024-01-30, 09:19:13](https://news.ycombinator.com/item?id=39187973) - [How Will the Golden Age of \"Making It Worse\" End?](https://defector.com/how-will-the-golden-age-of-making-it-worse-end)
 * [2024-01-30, 08:52:02](https://news.ycombinator.com/item?id=39187817) - [Raspberry Pi Picks Banks for IPO, Choosing London over New York](https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york)
 * [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 * [2024-01-30, 08:40:15](https://news.ycombinator.com/item?id=39187744) - [After 32 years, one of the 'Net's oldest software archives is shutting down](https://arstechnica.com/gadgets/2024/01/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down/)
+* [2024-01-30, 07:23:26](https://news.ycombinator.com/item?id=39187294) - [Notes on Cruise's Pedestrian Accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [The music industry's A.I. experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
@@ -19,7 +21,6 @@
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
-* [2024-01-29, 13:59:03](https://news.ycombinator.com/item?id=39176297) - [Amazon and iRobot call off their planned acquisition](https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html)
 * [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
 * [2024-01-29, 10:15:28](https://news.ycombinator.com/item?id=39174704) - [CDC 6600](https://en.wikipedia.org/wiki/CDC_6600)
@@ -27,7 +28,6 @@
 * [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
-* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 06:59:23](https://news.ycombinator.com/item?id=39163184) - [Poincaré Recurrence Theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)
 * [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 
