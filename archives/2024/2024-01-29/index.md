@@ -15,6 +15,7 @@
 * [2024-01-29, 22:11:59](https://news.ycombinator.com/item?id=39183452) - [Covid-19: Negligence by Experts](https://blogs.bmj.com/medical-ethics/2024/01/24/negligence-by-experts-in-the-early-response-to-covid-19/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Scientists document first-ever transmitted Alzheimer's cases](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:36:00](https://news.ycombinator.com/item?id=39183011) - [HP CEO Makes Up a Whole Lot of Bullshit to Defend Crippling Printers](https://www.techdirt.com/2024/01/29/hp-ceo-makes-up-a-whole-lot-of-bullshit-to-defend-crippling-printers-that-use-cheaper-ink/)
+* [2024-01-29, 21:27:49](https://news.ycombinator.com/item?id=39182910) - [Two Sonoma communes’ psychedelic rise and fall (2017)](https://www.sonomamag.com/50-years-later-sonomas-summer-love/)
 * [2024-01-29, 21:22:41](https://news.ycombinator.com/item?id=39182829) - [Show HN: Submit your startup in 150 directories in 5 min](https://quicklist.ing/)
 * [2024-01-29, 21:18:26](https://news.ycombinator.com/item?id=39182764) - [The horror of being a Meta content moderator](https://english.elpais.com/economy-and-business/2024-01-29/the-horrors-experienced-by-meta-moderators-i-didnt-know-what-humans-are-capable-of.html)
 * [2024-01-29, 21:16:36](https://news.ycombinator.com/item?id=39182738) - [Ask HN: How can I back up an old vBulletin forum without admin access?](https://news.ycombinator.com/item?id=39182738)
