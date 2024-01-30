@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 19:35:17](https://news.ycombinator.com/item?id=39194585) - [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
+* [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 * [2024-01-30, 19:24:29](https://news.ycombinator.com/item?id=39194439) - [The Soviet 1801VM2 LSI-11 Processor](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
 * [2024-01-30, 19:18:17](https://news.ycombinator.com/item?id=39194358) - [Wine on Wayland: A year in review (and a look ahead)](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-a-year-in-review-and-a-look-ahead.html)
 * [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
