@@ -11,6 +11,7 @@
 * [2024-01-30, 14:03:24](https://news.ycombinator.com/item?id=39190213) - [Global fertility isn't just declining, it's collapsing](https://fasterplease.substack.com/p/fewer-and-faster-global-fertility)
 * [2024-01-30, 13:54:35](https://news.ycombinator.com/item?id=39190110) - [The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
+* [2024-01-30, 13:51:23](https://news.ycombinator.com/item?id=39190084) - [BlockTube, a YouTube Content Blocker](https://github.com/amitbl/blocktube)
 * [2024-01-30, 13:35:34](https://news.ycombinator.com/item?id=39189904) - [Show HN: AI User Persona Generator](https://www.featuredgpts.com/gpts/ai-user-persona-generator/)
 * [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
