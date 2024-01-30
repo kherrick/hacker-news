@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 15:16:12](https://news.ycombinator.com/item?id=39191038) - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
+* [2024-01-30, 15:16:01](https://news.ycombinator.com/item?id=39191036) - [John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
 * [2024-01-30, 14:48:21](https://news.ycombinator.com/item?id=39190670) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-30, 14:32:22](https://news.ycombinator.com/item?id=39190506) - [Apple Vision Pro review: magic, until it's not](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price)
-* [2024-01-30, 14:12:25](https://news.ycombinator.com/item?id=39190296) - [The Rise of Technoauthoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)
 * [2024-01-30, 14:05:13](https://news.ycombinator.com/item?id=39190223) - [Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
 * [2024-01-30, 13:54:35](https://news.ycombinator.com/item?id=39190110) - [The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
@@ -28,7 +29,6 @@
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
-* [2024-01-28, 06:59:23](https://news.ycombinator.com/item?id=39163184) - [Poincaré Recurrence Theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)
 * [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 
 ## [Archives](archives/index.md)
