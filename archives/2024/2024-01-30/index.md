@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 * [2024-01-30, 07:13:45](https://news.ycombinator.com/item?id=39187236) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
 * [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
 * [2024-01-30, 06:26:22](https://news.ycombinator.com/item?id=39186985) - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)

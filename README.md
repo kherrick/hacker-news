@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 * [2024-01-30, 07:13:45](https://news.ycombinator.com/item?id=39187236) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
 * [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
 * [2024-01-30, 06:26:22](https://news.ycombinator.com/item?id=39186985) - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
@@ -24,7 +25,6 @@
 * [2024-01-29, 13:59:03](https://news.ycombinator.com/item?id=39176297) - [Amazon and iRobot call off their planned acquisition](https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html)
 * [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
-* [2024-01-29, 10:13:01](https://news.ycombinator.com/item?id=39174685) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
