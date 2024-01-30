@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 16:20:03](https://news.ycombinator.com/item?id=39191931) - ['Do not drive': Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
+* [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners. Reduces GitHub Actions bill 10x](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
 * [2024-01-30, 15:59:51](https://news.ycombinator.com/item?id=39191651) - [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
 * [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
@@ -21,10 +23,8 @@
 * [2024-01-30, 09:30:08](https://news.ycombinator.com/item?id=39188040) - [Finding the Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
 * [2024-01-30, 08:46:10](https://news.ycombinator.com/item?id=39187785) - [Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/)
 * [2024-01-30, 06:42:16](https://news.ycombinator.com/item?id=39187069) - [There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
-* [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-* [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
 * [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
 * [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 16:20:03](https://news.ycombinator.com/item?id=39191931) - ['Do not drive': Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
+* [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners. Reduces GitHub Actions bill 10x](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
 * [2024-01-30, 15:59:51](https://news.ycombinator.com/item?id=39191651) - [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
 * [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
