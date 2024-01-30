@@ -11,6 +11,7 @@
 * [2024-01-30, 19:18:17](https://news.ycombinator.com/item?id=39194358) - [Wine on Wayland: A year in review (and a look ahead)](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-a-year-in-review-and-a-look-ahead.html)
 * [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
 * [2024-01-30, 19:11:19](https://news.ycombinator.com/item?id=39194269) - [Rent has never been less affordable, especially for the middle class](https://www.washingtonpost.com/business/2024/01/25/rent-housing-costs/)
+* [2024-01-30, 19:04:27](https://news.ycombinator.com/item?id=39194196) - [When I got started I debugged using printf() today I debug with print()](https://twitter.com/fchollet/status/1752384546291769510)
 * [2024-01-30, 18:38:13](https://news.ycombinator.com/item?id=39193870) - [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
 * [2024-01-30, 18:22:47](https://news.ycombinator.com/item?id=39193665) - [''Smoking gun proof'': fossil fuel industry knew of climate danger by 1954](https://www.theguardian.com/us-news/2024/jan/30/fossil-fuel-industry-air-pollution-fund-research-caltech-climate-change-denial)
 * [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)

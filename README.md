@@ -5,6 +5,7 @@
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [Why the AI Boom Is a Windfall for Tiny Anguilla](https://spectrum.ieee.org/ai-domains)
 * [2024-01-30, 19:24:29](https://news.ycombinator.com/item?id=39194439) - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
 * [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
+* [2024-01-30, 19:04:27](https://news.ycombinator.com/item?id=39194196) - [When I got started I debugged using printf() today I debug with print()](https://twitter.com/fchollet/status/1752384546291769510)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
@@ -27,7 +28,6 @@
 * [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
-* [2024-01-30, 09:30:08](https://news.ycombinator.com/item?id=39188040) - [Finding the Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 
