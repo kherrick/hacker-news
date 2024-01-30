@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
 * [2024-01-27, 23:46:11](https://news.ycombinator.com/item?id=39161027) - [U.S. to reportedly announce billions of dollars in subsidies for advanced chips](https://www.cnbc.com/2024/01/27/us-to-reportedly-announce-billions-of-dollars-in-subsidies-for-advanced-chips.html)
+* [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 * [2024-01-27, 23:38:33](https://news.ycombinator.com/item?id=39160987) - [South American claims in Antarctica (2022)](https://www.tandfonline.com/doi/full/10.1080/2154896X.2022.2062558)
 * [2024-01-27, 23:31:09](https://news.ycombinator.com/item?id=39160936) - [The Catacombs](https://www.archaeology.org/issues/540-2401/letter-from/11968-rome-jewish-catacombs)
 * [2024-01-27, 23:10:19](https://news.ycombinator.com/item?id=39160813) - [Syphilis microbe's family has plagued humans for millennia](https://www.nature.com/articles/d41586-024-00191-9)

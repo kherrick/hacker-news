@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-30, 06:26:22](https://news.ycombinator.com/item?id=39186985) - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
+* [2024-01-30, 05:44:49](https://news.ycombinator.com/item?id=39186770) - [Patients say keto helps with mental illness. Science is racing to understand why](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
 * [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
@@ -28,8 +29,7 @@
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
-* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
-* [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [A company that sells lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
+* [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 
 ## [Archives](archives/index.md)
 
