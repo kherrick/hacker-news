@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 17:31:48](https://news.ycombinator.com/item?id=39193004) - [Putin Isn't Hitler, He's Mussolini–and Ukraine Is His Abyssinia](https://mwi.westpoint.edu/putin-isnt-hitler-hes-mussolini-and-ukraine-is-his-abyssinia/)
 * [2024-01-30, 17:12:09](https://news.ycombinator.com/item?id=39192704) - [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
 * [2024-01-30, 17:05:04](https://news.ycombinator.com/item?id=39192587) - [Python HTTP library 'urllib3' now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
 * [2024-01-30, 17:04:58](https://news.ycombinator.com/item?id=39192584) - [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)

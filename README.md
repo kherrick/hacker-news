@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 17:31:48](https://news.ycombinator.com/item?id=39193004) - [Putin Isn't Hitler, He's Mussolini–and Ukraine Is His Abyssinia](https://mwi.westpoint.edu/putin-isnt-hitler-hes-mussolini-and-ukraine-is-his-abyssinia/)
 * [2024-01-30, 17:12:09](https://news.ycombinator.com/item?id=39192704) - [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
 * [2024-01-30, 17:05:04](https://news.ycombinator.com/item?id=39192587) - [Python HTTP library 'urllib3' now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
-* [2024-01-30, 17:04:58](https://news.ycombinator.com/item?id=39192584) - [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 17:00:34](https://news.ycombinator.com/item?id=39192507) - [Playground (YC S19) Is Hiring a Product Engineer (Remote)](https://playground.com/jobs)
 * [2024-01-30, 16:48:24](https://news.ycombinator.com/item?id=39192305) - [Russian TLD .RU fails DNSSEC validation](https://dnsviz.net/d/cctld.ru/dnssec/)
 * [2024-01-30, 16:20:03](https://news.ycombinator.com/item?id=39191931) - ['Do not drive': Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
