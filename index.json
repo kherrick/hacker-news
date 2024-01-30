@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-30, 17:05:04",
+      "https://news.ycombinator.com/item?id=39192587"
+    ],
+    [
+      "Python HTTP library 'urllib3' now works in the browser",
+      "https://github.com/urllib3/urllib3/releases/tag/2.2.0"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 17:04:58",
+      "https://news.ycombinator.com/item?id=39192584"
+    ],
+    [
+      "Daily Driving the PinePhone Pro",
+      "https://zerwuerfnis.org/daily-driving-the-pinephone-pro"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 17:00:34",
       "https://news.ycombinator.com/item?id=39192507"
     ],
     [
       "Playground (YC S19) Is Hiring a Product Engineer (Remote)",
       "https://playground.com/jobs"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 16:48:24",
+      "https://news.ycombinator.com/item?id=39192305"
+    ],
+    [
+      "Russian TLD .RU fails DNSSEC validation",
+      "https://dnsviz.net/d/cctld.ru/dnssec/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Why Certificate Lifecycle Automation Matters",
       "https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 13:51:23",
-      "https://news.ycombinator.com/item?id=39190084"
-    ],
-    [
-      "BlockTube, a YouTube Content Blocker",
-      "https://github.com/amitbl/blocktube"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Researchers have found a faster way to do integer linear programming",
       "https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 21:39:58",
-      "https://news.ycombinator.com/item?id=39183063"
-    ],
-    [
-      "Alzheimer’s cases tied to no-longer-used medical procedure",
-      "https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 14:36:33",
-      "https://news.ycombinator.com/item?id=39176705"
-    ],
-    [
-      "A Tinkertoy computer that plays tic-tac-toe (1989)",
-      "https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html"
     ]
   ],
   [
