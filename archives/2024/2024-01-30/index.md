@@ -17,6 +17,7 @@
 * [2024-01-30, 17:04:58](https://news.ycombinator.com/item?id=39192584) - [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 17:00:34](https://news.ycombinator.com/item?id=39192507) - [Playground (YC S19) Is Hiring a Product Engineer (Remote)](https://playground.com/jobs)
 * [2024-01-30, 16:48:24](https://news.ycombinator.com/item?id=39192305) - [Russian TLD .RU fails DNSSEC validation](https://dnsviz.net/d/cctld.ru/dnssec/)
+* [2024-01-30, 16:48:22](https://news.ycombinator.com/item?id=39192304) - [Show HN: Open SaaS – An open-source alternative to paid boilerplate starters](https://github.com/wasp-lang/open-saas)
 * [2024-01-30, 16:20:03](https://news.ycombinator.com/item?id=39191931) - ['Do not drive': Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners. Reduces GitHub Actions bill 10x](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
