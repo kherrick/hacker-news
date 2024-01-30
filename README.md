@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
-* [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Why Everyone Hates the Electronic Medical Record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
+* [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 * [2024-01-30, 02:54:52](https://news.ycombinator.com/item?id=39185876) - [When did cold, carbonated beer become the standard, and was there pushback?](https://old.reddit.com/r/AskHistorians/comments/1adzsfg/when_did_cold_carbonated_beer_become_the_standard/)
