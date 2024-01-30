@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 * [2024-01-30, 21:24:29](https://news.ycombinator.com/item?id=39196055) - [The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)
 * [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
@@ -12,7 +13,6 @@
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:48:22](https://news.ycombinator.com/item?id=39192304) - [Show HN: Open SaaS – An open-source alternative to paid boilerplate starters](https://github.com/wasp-lang/open-saas)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
-* [2024-01-30, 15:58:37](https://news.ycombinator.com/item?id=39191627) - [How to Build an Origami Computer](https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/)
 * [2024-01-30, 15:51:19](https://news.ycombinator.com/item?id=39191507) - [The C Bounded Model Checker: Criminally Underused](https://www.philipzucker.com/cbmc_tut/)
 * [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:09:28](https://news.ycombinator.com/item?id=39190947) - [Germany: Police seize bitcoins worth €2B](https://www.dw.com/en/germany-police-seize-bitcoins-worth-2-billion/a-68121384)

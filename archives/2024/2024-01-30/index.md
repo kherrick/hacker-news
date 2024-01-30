@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 * [2024-01-30, 21:42:30](https://news.ycombinator.com/item?id=39196274) - [Ask HN: What is a 2024-2030 moat for AI](https://news.ycombinator.com/item?id=39196274)
 * [2024-01-30, 21:24:29](https://news.ycombinator.com/item?id=39196055) - [The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)
 * [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
