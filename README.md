@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-30, 18:38:13](https://news.ycombinator.com/item?id=39193870) - [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
+* [2024-01-30, 18:22:47](https://news.ycombinator.com/item?id=39193665) - [''Smoking gun proof'': fossil fuel industry knew of climate danger by 1954](https://www.theguardian.com/us-news/2024/jan/30/fossil-fuel-industry-air-pollution-fund-research-caltech-climate-change-denial)
 * [2024-01-30, 17:57:23](https://news.ycombinator.com/item?id=39193331) - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
@@ -14,6 +15,7 @@
 * [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:09:28](https://news.ycombinator.com/item?id=39190947) - [Germany: Police seize bitcoins worth €2B](https://www.dw.com/en/germany-police-seize-bitcoins-worth-2-billion/a-68121384)
 * [2024-01-30, 14:57:31](https://news.ycombinator.com/item?id=39190791) - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
+* [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro Review: The Best Headset yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
 * [2024-01-30, 14:18:10](https://news.ycombinator.com/item?id=39190354) - [Weldon's Dice, Automated (2009) [pdf]](https://link.springer.com/article/10.1007/s00144-009-0036-8)
 * [2024-01-30, 14:17:32](https://news.ycombinator.com/item?id=39190345) - [The Crime Rings Trafficking Sand](https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/)
 * [2024-01-30, 14:05:13](https://news.ycombinator.com/item?id=39190223) - [Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
@@ -26,10 +28,8 @@
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-30, 09:30:08](https://news.ycombinator.com/item?id=39188040) - [Finding the Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
-* [2024-01-30, 06:42:16](https://news.ycombinator.com/item?id=39187069) - [There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
 * [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
 * [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
-* [2024-01-28, 12:28:26](https://news.ycombinator.com/item?id=39165042) - [The New Story of the Milky Way's Surprisingly Turbulent Past](https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/)
 
 ## [Archives](archives/index.md)
 

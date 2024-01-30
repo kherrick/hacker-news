@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
 * [2024-01-30, 18:38:13](https://news.ycombinator.com/item?id=39193870) - [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
+* [2024-01-30, 18:22:47](https://news.ycombinator.com/item?id=39193665) - [''Smoking gun proof'': fossil fuel industry knew of climate danger by 1954](https://www.theguardian.com/us-news/2024/jan/30/fossil-fuel-industry-air-pollution-fund-research-caltech-climate-change-denial)
 * [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
 * [2024-01-30, 17:57:23](https://news.ycombinator.com/item?id=39193331) - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
@@ -31,6 +32,7 @@
 * [2024-01-30, 14:57:31](https://news.ycombinator.com/item?id=39190791) - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
 * [2024-01-30, 14:48:21](https://news.ycombinator.com/item?id=39190670) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-30, 14:32:22](https://news.ycombinator.com/item?id=39190506) - [Apple Vision Pro review: magic, until it's not](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price)
+* [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro Review: The Best Headset yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
 * [2024-01-30, 14:18:10](https://news.ycombinator.com/item?id=39190354) - [Weldon's Dice, Automated (2009) [pdf]](https://link.springer.com/article/10.1007/s00144-009-0036-8)
 * [2024-01-30, 14:17:32](https://news.ycombinator.com/item?id=39190345) - [The Crime Rings Trafficking Sand](https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/)
 * [2024-01-30, 14:12:25](https://news.ycombinator.com/item?id=39190296) - [The Rise of Technoauthoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)
