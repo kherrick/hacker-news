@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
+* [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Why Everyone Hates the Electronic Medical Record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
-* [2024-01-30, 02:54:52](https://news.ycombinator.com/item?id=39185876) - [When did cold, carbonated beer become the standard, and was there pushback?](https://old.reddit.com/r/AskHistorians/comments/1adzsfg/when_did_cold_carbonated_beer_become_the_standard/)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
@@ -19,7 +20,6 @@
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction markets have an elections problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
-* [2024-01-29, 14:51:47](https://news.ycombinator.com/item?id=39176877) - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
 * [2024-01-29, 14:45:08](https://news.ycombinator.com/item?id=39176797) - [What I talk about when I talk about query optimizer (part 1): IR design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 13:59:03](https://news.ycombinator.com/item?id=39176297) - [Amazon and iRobot call off their planned acquisition](https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
