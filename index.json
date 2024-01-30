@@ -21,12 +21,22 @@
   ],
   [
     [
-      "2024-01-30, 14:03:24",
-      "https://news.ycombinator.com/item?id=39190213"
+      "2024-01-30, 14:12:25",
+      "https://news.ycombinator.com/item?id=39190296"
     ],
     [
-      "Global fertility isn't just declining, it's collapsing",
-      "https://fasterplease.substack.com/p/fewer-and-faster-global-fertility"
+      "The Rise of Technoauthoritarianism",
+      "https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 14:05:13",
+      "https://news.ycombinator.com/item?id=39190223"
+    ],
+    [
+      "Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP",
+      "https://github.com/bjesus/wren"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Why Certificate Lifecycle Automation Matters",
       "https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 13:35:34",
-      "https://news.ycombinator.com/item?id=39189904"
-    ],
-    [
-      "Show HN: AI User Persona Generator",
-      "https://www.featuredgpts.com/gpts/ai-user-persona-generator/"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers",
       "https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 12:25:57",
+      "https://news.ycombinator.com/item?id=39189289"
+    ],
+    [
+      "Show HN: Mailready – meet the new email deliverability standards",
+      "https://mailready.info"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-01-29, 21:15:36",
-      "https://news.ycombinator.com/item?id=39182721"
-    ],
-    [
-      "A Tour of the Lisps",
-      "https://www.fosskers.ca/en/blog/rounds-of-lisp"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 19:12:53",
       "https://news.ycombinator.com/item?id=39180953"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-01-29, 10:15:28",
-      "https://news.ycombinator.com/item?id=39174704"
-    ],
-    [
-      "CDC 6600",
-      "https://en.wikipedia.org/wiki/CDC_6600"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 10:11:16",
       "https://news.ycombinator.com/item?id=39174674"
     ],
     [
       "On the Costs of Syscalls (2021)",
       "https://gms.tf/on-the-costs-of-syscalls.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 10:01:12",
+      "https://news.ycombinator.com/item?id=39174610"
+    ],
+    [
+      "Reverse Engineering a Soviet CMOS Chip",
+      "https://twitter.com/kenshirriff/status/1751666094626967694"
     ]
   ],
   [
