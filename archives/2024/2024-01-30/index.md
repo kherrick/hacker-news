@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
+* [2024-01-30, 17:57:23](https://news.ycombinator.com/item?id=39193331) - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 * [2024-01-30, 17:31:48](https://news.ycombinator.com/item?id=39193004) - [Putin Isn't Hitler, He's Mussolini–and Ukraine Is His Abyssinia](https://mwi.westpoint.edu/putin-isnt-hitler-hes-mussolini-and-ukraine-is-his-abyssinia/)
+* [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
+* [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 17:12:09](https://news.ycombinator.com/item?id=39192704) - [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
 * [2024-01-30, 17:05:04](https://news.ycombinator.com/item?id=39192587) - [Python HTTP library 'urllib3' now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
 * [2024-01-30, 17:04:58](https://news.ycombinator.com/item?id=39192584) - [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
