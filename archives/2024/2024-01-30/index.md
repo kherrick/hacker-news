@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 19:18:17](https://news.ycombinator.com/item?id=39194358) - [Wine on Wayland: A year in review (and a look ahead)](https://www.collabora.com/news-and-blog/news-and-events/wine-on-wayland-a-year-in-review-and-a-look-ahead.html)
+* [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots and plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
 * [2024-01-30, 18:38:13](https://news.ycombinator.com/item?id=39193870) - [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
 * [2024-01-30, 18:22:47](https://news.ycombinator.com/item?id=39193665) - [''Smoking gun proof'': fossil fuel industry knew of climate danger by 1954](https://www.theguardian.com/us-news/2024/jan/30/fossil-fuel-industry-air-pollution-fund-research-caltech-climate-change-denial)
 * [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
@@ -24,6 +26,7 @@
 * [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
 * [2024-01-30, 15:59:51](https://news.ycombinator.com/item?id=39191651) - [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
 * [2024-01-30, 15:58:37](https://news.ycombinator.com/item?id=39191627) - [How to Build an Origami Computer](https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/)
+* [2024-01-30, 15:51:19](https://news.ycombinator.com/item?id=39191507) - [The C Bounded Model Checker: Criminally Underused](https://www.philipzucker.com/cbmc_tut/)
 * [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
 * [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:16:12](https://news.ycombinator.com/item?id=39191038) - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
