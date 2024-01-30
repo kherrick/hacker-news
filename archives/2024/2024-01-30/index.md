@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
+* [2024-01-30, 22:42:36](https://news.ycombinator.com/item?id=39196960) - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
 * [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 * [2024-01-30, 21:42:30](https://news.ycombinator.com/item?id=39196274) - [Ask HN: What is a 2024-2030 moat for AI](https://news.ycombinator.com/item?id=39196274)
 * [2024-01-30, 21:24:29](https://news.ycombinator.com/item?id=39196055) - [The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)
