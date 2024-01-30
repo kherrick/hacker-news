@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
 * [2024-01-30, 22:42:36](https://news.ycombinator.com/item?id=39196960) - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
 * [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
@@ -8,7 +9,6 @@
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [.ai website registrations are a windfall for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
 * [2024-01-30, 19:24:29](https://news.ycombinator.com/item?id=39194439) - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
-* [2024-01-30, 17:55:19](https://news.ycombinator.com/item?id=39193306) - [Show HN: Easily compare the costs of newsletter platforms](https://nl-compare.streamlit.app)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:48:22](https://news.ycombinator.com/item?id=39192304) - [Show HN: Open SaaS – An open-source alternative to paid boilerplate starters](https://github.com/wasp-lang/open-saas)
