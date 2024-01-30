@@ -2,6 +2,7 @@
 
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
+* [2024-01-30, 02:54:52](https://news.ycombinator.com/item?id=39185876) - [When did cold, carbonated beer become the standard, and was there pushback?](https://old.reddit.com/r/AskHistorians/comments/1adzsfg/when_did_cold_carbonated_beer_become_the_standard/)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
@@ -28,7 +29,6 @@
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
-* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [A company that sells lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 
 ## [Archives](archives/index.md)
