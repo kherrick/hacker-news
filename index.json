@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-01-30, 17:53:06",
-      "https://news.ycombinator.com/item?id=39193269"
-    ],
-    [
-      "Tractor cab looks like a space ship (2021) [video]",
-      "https://www.youtube.com/watch?v=ubl5BEuqzL8"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 17:18:32",
       "https://news.ycombinator.com/item?id=39192807"
     ],
@@ -287,6 +277,16 @@
     [
       "Learning Universal Predictors",
       "https://arxiv.org/abs/2401.14953"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 05:25:59",
+      "https://news.ycombinator.com/item?id=39172981"
+    ],
+    [
+      "Kirei is a work-in-progress keyboard library written in Zig",
+      "https://github.com/semickolon/kirei"
     ]
   ],
   [
