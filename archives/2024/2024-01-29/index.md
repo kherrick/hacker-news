@@ -8,6 +8,7 @@
 * [2024-01-29, 23:25:27](https://news.ycombinator.com/item?id=39184181) - [Deus Ex title killed after Embracer Group's cuts at Eidos](https://arstechnica.com/gaming/2024/01/report-embracers-ongoing-layoffs-kill-a-new-deus-ex-game-after-2-years-work/)
 * [2024-01-29, 23:22:02](https://news.ycombinator.com/item?id=39184149) - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
 * [2024-01-29, 23:05:38](https://news.ycombinator.com/item?id=39184007) - [IBM to Managers: Move Near an Office or Leave Company](https://www.bloomberg.com/news/articles/2024-01-29/ibm-to-managers-move-near-an-office-or-leave-company)
+* [2024-01-29, 23:01:28](https://news.ycombinator.com/item?id=39183968) - [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that)
 * [2024-01-29, 22:52:25](https://news.ycombinator.com/item?id=39183888) - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
 * [2024-01-29, 22:42:36](https://news.ycombinator.com/item?id=39183799) - [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 22:37:43](https://news.ycombinator.com/item?id=39183731) - [Penn Jillette Wants to Talk It All Out](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html)
