@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
+* [2024-01-30, 15:59:51](https://news.ycombinator.com/item?id=39191651) - [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
 * [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
 * [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:16:12](https://news.ycombinator.com/item?id=39191038) - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)

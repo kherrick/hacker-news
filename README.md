@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 16:02:34](https://news.ycombinator.com/item?id=39191696) - [CEOs Are Using Return to Office Mandates to Mask Poor Management](https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/)
+* [2024-01-30, 15:59:51](https://news.ycombinator.com/item?id=39191651) - [Birth rates are falling in the Nordics. Are natalist policies no longer enough?](https://www.ft.com/content/500c0fb7-a04a-4f87-9b93-bf65045b9401)
 * [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
 * [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:16:12](https://news.ycombinator.com/item?id=39191038) - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
@@ -23,10 +25,8 @@
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
-* [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
 * [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
-* [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
 * [2024-01-28, 12:28:26](https://news.ycombinator.com/item?id=39165042) - [The New Story of the Milky Way's Surprisingly Turbulent Past](https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/)
 * [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
