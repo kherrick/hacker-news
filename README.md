@@ -25,9 +25,9 @@
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
 * [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
+* [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
-* [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
 * [2024-01-28, 06:59:23](https://news.ycombinator.com/item?id=39163184) - [Poincaré Recurrence Theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)
 * [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 
