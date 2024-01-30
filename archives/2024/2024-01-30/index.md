@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 23:00:00](https://news.ycombinator.com/item?id=39197158) - [Study finds Montanans are increasingly OK with wolves](https://montanafreepress.org/2024/01/29/study-finds-montanans-are-increasingly-ok-with-wolves/)
 * [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
 * [2024-01-30, 22:42:36](https://news.ycombinator.com/item?id=39196960) - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
 * [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb Depicts Staggering Structure in 19 Nearby Spiral Galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
@@ -25,6 +26,7 @@
 * [2024-01-30, 18:22:47](https://news.ycombinator.com/item?id=39193665) - [''Smoking gun proof'': fossil fuel industry knew of climate danger by 1954](https://www.theguardian.com/us-news/2024/jan/30/fossil-fuel-industry-air-pollution-fund-research-caltech-climate-change-denial)
 * [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
 * [2024-01-30, 17:57:23](https://news.ycombinator.com/item?id=39193331) - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
+* [2024-01-30, 17:55:19](https://news.ycombinator.com/item?id=39193306) - [Show HN: Easily compare the costs of newsletter platforms](https://nl-compare.streamlit.app)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 * [2024-01-30, 17:31:48](https://news.ycombinator.com/item?id=39193004) - [Putin Isn't Hitler, He's Mussolini–and Ukraine Is His Abyssinia](https://mwi.westpoint.edu/putin-isnt-hitler-hes-mussolini-and-ukraine-is-his-abyssinia/)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
