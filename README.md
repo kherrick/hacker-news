@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-30, 10:17:49](https://news.ycombinator.com/item?id=39188371) - [JetBrains CEO Transition](https://blog.jetbrains.com/blog/2024/01/30/jetbrains-ceo-transition/)
 * [2024-01-30, 10:17:23](https://news.ycombinator.com/item?id=39188364) - [Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
 * [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
@@ -19,7 +20,6 @@
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
-* [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
 * [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
