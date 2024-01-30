@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
 * [2024-01-30, 21:42:30](https://news.ycombinator.com/item?id=39196274) - [Ask HN: What is a 2024-2030 moat for AI](https://news.ycombinator.com/item?id=39196274)
+* [2024-01-30, 21:24:29](https://news.ycombinator.com/item?id=39196055) - [The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)
 * [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
 * [2024-01-30, 20:44:15](https://news.ycombinator.com/item?id=39195529) - [YouTube-dl has been taken down](https://news.ycombinator.com/item?id=39195529)

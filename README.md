@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 21:24:29](https://news.ycombinator.com/item?id=39196055) - [The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)
 * [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
 * [2024-01-30, 20:41:16](https://news.ycombinator.com/item?id=39195490) - [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
@@ -28,7 +29,6 @@
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
-* [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 * [2024-01-28, 12:34:59](https://news.ycombinator.com/item?id=39165089) - [Flight-Testing of Otto Lilienthal's Monoplane Design from 1893](https://arc.aiaa.org/doi/10.2514/1.C035399)
 
 ## [Archives](archives/index.md)
