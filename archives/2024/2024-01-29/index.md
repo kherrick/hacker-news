@@ -82,6 +82,7 @@
 * [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
+* [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
 * [2024-01-29, 07:55:25](https://news.ycombinator.com/item?id=39173848) - [On a Tesla: Don't](https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
