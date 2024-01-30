@@ -99,6 +99,7 @@
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
 * [2024-01-29, 05:57:44](https://news.ycombinator.com/item?id=39173150) - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
 * [2024-01-29, 05:38:41](https://news.ycombinator.com/item?id=39173042) - [Google Crimes](http://xahlee.info/w/google_index.html)
+* [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 * [2024-01-29, 05:00:39](https://news.ycombinator.com/item?id=39172859) - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 * [2024-01-29, 05:00:25](https://news.ycombinator.com/item?id=39172858) - [Why You've Never Been in a Plane Crash](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash)
 * [2024-01-29, 04:56:43](https://news.ycombinator.com/item?id=39172840) - [California Bill Wants to Mandate Electronic 'Speed Limiters' in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
