@@ -11,6 +11,7 @@
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 17:12:09](https://news.ycombinator.com/item?id=39192704) - [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
+* [2024-01-30, 17:11:05](https://news.ycombinator.com/item?id=39192682) - [Enzyme breaks down single use plastic PLA quickly](https://phys.org/news/2024-01-enzyme-laundry-detergent-recycle-plastics.html)
 * [2024-01-30, 17:05:04](https://news.ycombinator.com/item?id=39192587) - [Python HTTP library 'urllib3' now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
 * [2024-01-30, 17:04:58](https://news.ycombinator.com/item?id=39192584) - [Daily Driving the PinePhone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 17:00:34](https://news.ycombinator.com/item?id=39192507) - [Playground (YC S19) Is Hiring a Product Engineer (Remote)](https://playground.com/jobs)

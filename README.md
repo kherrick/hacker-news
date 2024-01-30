@@ -6,6 +6,7 @@
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 17:12:09](https://news.ycombinator.com/item?id=39192704) - [A South Carolina lawmaker is suing Instagram after his son died by suicide](https://www.cnn.com/2024/01/30/us/rep-brandon-guffey-instagram-lawsuit-cec/index.html)
+* [2024-01-30, 17:11:05](https://news.ycombinator.com/item?id=39192682) - [Enzyme breaks down single use plastic PLA quickly](https://phys.org/news/2024-01-enzyme-laundry-detergent-recycle-plastics.html)
 * [2024-01-30, 17:05:04](https://news.ycombinator.com/item?id=39192587) - [Python HTTP library 'urllib3' now works in the browser](https://github.com/urllib3/urllib3/releases/tag/2.2.0)
 * [2024-01-30, 17:00:34](https://news.ycombinator.com/item?id=39192507) - [Playground (YC S19) Is Hiring a Product Engineer (Remote)](https://playground.com/jobs)
 * [2024-01-30, 16:20:03](https://news.ycombinator.com/item?id=39191931) - ['Do not drive': Toyota recalls some 50k older vehicles](https://scrippsnews.com/stories/do-not-drive-toyota-recalls-some-50-000-older-vehicles/)
@@ -27,7 +28,6 @@
 * [2024-01-30, 06:42:16](https://news.ycombinator.com/item?id=39187069) - [There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-29, 13:15:58](https://news.ycombinator.com/item?id=39175849) - [Fontface's Geometric Explorations of Minimalism](https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/)
-* [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
 * [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 * [2024-01-28, 12:28:26](https://news.ycombinator.com/item?id=39165042) - [The New Story of the Milky Way's Surprisingly Turbulent Past](https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/)
 
