@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-30, 14:48:21",
+      "https://news.ycombinator.com/item?id=39190670"
+    ],
+    [
+      "Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam",
+      "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 14:32:22",
+      "https://news.ycombinator.com/item?id=39190506"
+    ],
+    [
+      "Apple Vision Pro review: magic, until it's not",
+      "https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 14:03:24",
+      "https://news.ycombinator.com/item?id=39190213"
+    ],
+    [
+      "Global fertility isn't just declining, it's collapsing",
+      "https://fasterplease.substack.com/p/fewer-and-faster-global-fertility"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 13:54:35",
       "https://news.ycombinator.com/item?id=39190110"
     ],
@@ -61,6 +91,16 @@
   ],
   [
     [
+      "2024-01-30, 11:35:19",
+      "https://news.ycombinator.com/item?id=39188886"
+    ],
+    [
+      "Build a simple LSM-Tree storage engine in a week",
+      "https://skyzh.github.io/mini-lsm/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 11:19:06",
       "https://news.ycombinator.com/item?id=39188760"
     ],
@@ -111,26 +151,6 @@
   ],
   [
     [
-      "2024-01-30, 08:40:15",
-      "https://news.ycombinator.com/item?id=39187744"
-    ],
-    [
-      "Hobbes OS/2 Archive is shutting down",
-      "https://arstechnica.com/gadgets/2024/01/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 07:23:26",
-      "https://news.ycombinator.com/item?id=39187294"
-    ],
-    [
-      "Notes on Cruise's Pedestrian Accident",
-      "https://danluu.com/cruise-report/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 06:42:16",
       "https://news.ycombinator.com/item?id=39187069"
     ],
@@ -157,16 +177,6 @@
     [
       "Pub400.com – Your public IBM I 7.5 server",
       "https://pub400.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 02:57:21",
-      "https://news.ycombinator.com/item?id=39185895"
-    ],
-    [
-      "Boeing withdraws bid for safety exemption for Boeing 737 MAX 7",
-      "https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/"
     ]
   ],
   [
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2024-01-29, 13:18:13",
-      "https://news.ycombinator.com/item?id=39175863"
+      "2024-01-29, 13:15:58",
+      "https://news.ycombinator.com/item?id=39175849"
     ],
     [
-      "The Unique History of Japanese Plastic Food Samples",
-      "https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 12:08:26",
-      "https://news.ycombinator.com/item?id=39175359"
-    ],
-    [
-      "Accessing the Pinecil UART with Picoprobe",
-      "https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/"
+      "Fontface's Geometric Explorations of Minimalism",
+      "https://www.designboom.com/art/fontface-geometric-minimalism-walls-canvases-posters-01-28-2024/"
     ]
   ],
   [
