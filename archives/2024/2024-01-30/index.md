@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
 * [2024-01-30, 06:26:22](https://news.ycombinator.com/item?id=39186985) - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
 * [2024-01-30, 05:44:49](https://news.ycombinator.com/item?id=39186770) - [Patients say keto helps with mental illness. Science is racing to understand why](https://www.npr.org/sections/health-shots/2024/01/27/1227062470/keto-ketogenic-diet-mental-illness-bipolar-depression)
 * [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
