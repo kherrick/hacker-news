@@ -19,7 +19,6 @@
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction markets have an elections problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
-* [2024-01-29, 14:45:08](https://news.ycombinator.com/item?id=39176797) - [What I talk about when I talk about query optimizer (part 1): IR design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 13:59:03](https://news.ycombinator.com/item?id=39176297) - [Amazon and iRobot call off their planned acquisition](https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html)
 * [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
@@ -29,6 +28,7 @@
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
+* [2024-01-28, 19:29:23](https://news.ycombinator.com/item?id=39168986) - [I need to grow away from these roots](https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [A company that sells lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 
 ## [Archives](archives/index.md)
