@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 14:48:21](https://news.ycombinator.com/item?id=39190670) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
+* [2024-01-30, 14:32:22](https://news.ycombinator.com/item?id=39190506) - [Apple Vision Pro review: magic, until it's not](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price)
+* [2024-01-30, 14:03:24](https://news.ycombinator.com/item?id=39190213) - [Global fertility isn't just declining, it's collapsing](https://fasterplease.substack.com/p/fewer-and-faster-global-fertility)
 * [2024-01-30, 13:54:35](https://news.ycombinator.com/item?id=39190110) - [The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
 * [2024-01-30, 13:35:34](https://news.ycombinator.com/item?id=39189904) - [Show HN: AI User Persona Generator](https://www.featuredgpts.com/gpts/ai-user-persona-generator/)
@@ -11,6 +14,7 @@
 * [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
 * [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
+* [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 11:02:58](https://news.ycombinator.com/item?id=39188657) - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
