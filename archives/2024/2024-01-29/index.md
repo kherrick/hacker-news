@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 23:50:35](https://news.ycombinator.com/item?id=39184408) - [Ask HN: Are full-page Google Ads more frequent now?](https://news.ycombinator.com/item?id=39184408)
+* [2024-01-29, 23:25:27](https://news.ycombinator.com/item?id=39184181) - [Deus Ex title killed after Embracer Group's cuts at Eidos](https://arstechnica.com/gaming/2024/01/report-embracers-ongoing-layoffs-kill-a-new-deus-ex-game-after-2-years-work/)
+* [2024-01-29, 23:22:02](https://news.ycombinator.com/item?id=39184149) - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
+* [2024-01-29, 23:05:38](https://news.ycombinator.com/item?id=39184007) - [IBM to Managers: Move Near an Office or Leave Company](https://www.bloomberg.com/news/articles/2024-01-29/ibm-to-managers-move-near-an-office-or-leave-company)
 * [2024-01-29, 22:52:25](https://news.ycombinator.com/item?id=39183888) - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
 * [2024-01-29, 22:42:36](https://news.ycombinator.com/item?id=39183799) - [Beliefs that kill birth rates](https://www.ariababu.co.uk/p/beliefs-that-kill-birth-rates)
 * [2024-01-29, 22:37:43](https://news.ycombinator.com/item?id=39183731) - [Penn Jillette Wants to Talk It All Out](https://www.cracked.com/article_40871_penn-jillette-wants-to-talk-it-all-out.html)
@@ -89,6 +93,7 @@
 * [2024-01-29, 05:00:25](https://news.ycombinator.com/item?id=39172858) - [Why You've Never Been in a Plane Crash](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash)
 * [2024-01-29, 04:56:43](https://news.ycombinator.com/item?id=39172840) - [California Bill Wants to Mandate Electronic 'Speed Limiters' in Cars](https://www.caranddriver.com/news/a46554218/new-car-regulated-speed-limit-california-bill/)
 * [2024-01-29, 04:55:57](https://news.ycombinator.com/item?id=39172837) - [Eagle 7B: Soaring past Transformers](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
+* [2024-01-29, 04:53:46](https://news.ycombinator.com/item?id=39172829) - [What Is Incoherence?](https://aeon.co/essays/is-it-possible-to-hold-truly-contradictory-beliefs-together)
 * [2024-01-29, 04:52:15](https://news.ycombinator.com/item?id=39172821) - [The Sacred Lake Project: preliminary findings](https://www.cambridge.org/core/journals/antiquity/article/sacred-lake-project-preliminary-findings-from-the-lusatian-site-of-papowo-biskupie-poland/0491CA34AAA1AC973FE78718BA574A4A)
 * [2024-01-29, 04:43:30](https://news.ycombinator.com/item?id=39172772) - [Passenger flight flying over Pacific reaches 822 MPH in jet stream](https://www.washingtonpost.com/weather/2024/01/26/airplane-flight-record-speed-pacific-jetstream/)
 * [2024-01-29, 04:37:51](https://news.ycombinator.com/item?id=39172732) - [The Twins Obsession](https://www.newyorker.com/magazine/2024/01/29/the-twins-obsession)
