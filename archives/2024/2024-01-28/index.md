@@ -62,6 +62,7 @@
 * [2024-01-28, 12:36:50](https://news.ycombinator.com/item?id=39165101) - [Canon aims to ship low-cost 'stamp' machine this year to disrupt chipmaking](https://www.ft.com/content/2643ed31-8b8c-4d3d-a7a8-c4383d06e8a6)
 * [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [The company that sells your lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 * [2024-01-28, 12:36:08](https://news.ycombinator.com/item?id=39165098) - [Open Source Rewrite of Civilization 1 Source Code – OpenCiv1 Project](https://forums.civfanatics.com/threads/open-source-rewrite-of-civilization-1-source-code-openciv1-project.682623/)
+* [2024-01-28, 12:34:59](https://news.ycombinator.com/item?id=39165089) - [Flight-Testing of Otto Lilienthal's Monoplane Design from 1893](https://arc.aiaa.org/doi/10.2514/1.C035399)
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:28:26](https://news.ycombinator.com/item?id=39165042) - [The New Story of the Milky Way's Surprisingly Turbulent Past](https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/)
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)

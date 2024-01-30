@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
+* [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
+* [2024-01-30, 20:44:15](https://news.ycombinator.com/item?id=39195529) - [YouTube-dl has been taken down](https://news.ycombinator.com/item?id=39195529)
+* [2024-01-30, 20:41:16](https://news.ycombinator.com/item?id=39195490) - [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
 * [2024-01-30, 19:35:17](https://news.ycombinator.com/item?id=39194585) - [The five Gaits of the Icelandic horse](https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/)
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [Why the AI Boom Is a Windfall for Tiny Anguilla](https://spectrum.ieee.org/ai-domains)
