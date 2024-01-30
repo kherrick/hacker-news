@@ -3,7 +3,7 @@
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-30, 00:19:44](https://news.ycombinator.com/item?id=39184674) - [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
-* [2024-01-29, 23:22:02](https://news.ycombinator.com/item?id=39184149) - [Ask HN: Are you using a GPT to prompt-engineer another GPT?](https://news.ycombinator.com/item?id=39184149)
+* [2024-01-29, 22:52:25](https://news.ycombinator.com/item?id=39183888) - [The first human received an implant from Neuralink yesterday](https://twitter.com/elonmusk/status/1752098683024220632)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:27:49](https://news.ycombinator.com/item?id=39182910) - [Two Sonoma communes’ psychedelic rise and fall (2017)](https://www.sonomamag.com/50-years-later-sonomas-summer-love/)
