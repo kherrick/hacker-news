@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-01-30, 20:44:15",
-      "https://news.ycombinator.com/item?id=39195529"
-    ],
-    [
-      "YouTube-dl has been taken down",
-      "https://news.ycombinator.com/item?id=39195529"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 20:41:16",
       "https://news.ycombinator.com/item?id=39195490"
     ],
@@ -247,6 +237,16 @@
     [
       "Chris Date and the Relational Model (2014)",
       "https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 11:35:19",
+      "https://news.ycombinator.com/item?id=39188886"
+    ],
+    [
+      "Build a simple LSM-Tree storage engine in a week",
+      "https://skyzh.github.io/mini-lsm/"
     ]
   ],
   [
