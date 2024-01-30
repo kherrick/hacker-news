@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 23:00:00",
+      "https://news.ycombinator.com/item?id=39197158"
+    ],
+    [
+      "Study finds Montanans are increasingly OK with wolves",
+      "https://montanafreepress.org/2024/01/29/study-finds-montanans-are-increasingly-ok-with-wolves/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 22:56:19",
       "https://news.ycombinator.com/item?id=39197116"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-01-30, 19:13:01",
-      "https://news.ycombinator.com/item?id=39194297"
+      "2024-01-30, 17:55:19",
+      "https://news.ycombinator.com/item?id=39193306"
     ],
     [
-      "Tear up unused parking lots, plant trees",
-      "https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/"
+      "Show HN: Easily compare the costs of newsletter platforms",
+      "https://nl-compare.streamlit.app"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-01-30, 15:32:37",
-      "https://news.ycombinator.com/item?id=39191260"
-    ],
-    [
-      "Covid Test Data Breach: 1.3M Patient Records Exposed Online",
-      "https://www.vpnmentor.com/news/report-coronalab-breach/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 15:09:28",
       "https://news.ycombinator.com/item?id=39190947"
     ],
@@ -187,16 +187,6 @@
     [
       "Crime rings trafficking sand",
       "https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 14:05:13",
-      "https://news.ycombinator.com/item?id=39190223"
-    ],
-    [
-      "Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP",
-      "https://github.com/bjesus/wren"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines",
       "https://github.com/quickemu-project/quickemu"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 20:29:23",
+      "https://news.ycombinator.com/item?id=39182046"
+    ],
+    [
+      "A confusing probability question: Red and green balls in an urn",
+      "https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing"
     ]
   ],
   [
