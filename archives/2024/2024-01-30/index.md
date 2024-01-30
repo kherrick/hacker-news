@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 06:26:22](https://news.ycombinator.com/item?id=39186985) - [Show HN: TLD Squatting](https://captnemo.in/tld-squatting/)
 * [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
 * [2024-01-30, 04:16:10](https://news.ycombinator.com/item?id=39186346) - [Man raped in jail after AI technology wrongfully identifies him in robbery](https://www.star-telegram.com/news/state/texas/article284595930.html)
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Why Everyone Hates the Electronic Medical Record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
