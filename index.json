@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-01-30, 19:35:17",
-      "https://news.ycombinator.com/item?id=39194585"
+      "2024-01-30, 21:04:53",
+      "https://news.ycombinator.com/item?id=39195796"
     ],
     [
-      "The five gaits of the icelandic horse",
-      "https://islandshestar.is/the-five-gaits-of-the-icelandic-horse/"
+      "Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]",
+      "https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 21:00:35",
+      "https://news.ycombinator.com/item?id=39195747"
+    ],
+    [
+      "Relationship Hero (YC S17) Is Hiring Relationship Coaches",
+      "https://relationshiphero.com/careers?role=coach"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 20:44:15",
+      "https://news.ycombinator.com/item?id=39195529"
+    ],
+    [
+      "YouTube-dl has been taken down",
+      "https://news.ycombinator.com/item?id=39195529"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 20:41:16",
+      "https://news.ycombinator.com/item?id=39195490"
+    ],
+    [
+      "Small biz owners scale back their office space or go remote altogether",
+      "https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Profiling Your Numba Code",
       "https://pythonspeed.com/articles/numba-profiling/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 17:00:34",
-      "https://news.ycombinator.com/item?id=39192507"
-    ],
-    [
-      "Playground (YC S19) Is Hiring a Product Engineer (Remote)",
-      "https://playground.com/jobs"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-01-30, 12:25:57",
-      "https://news.ycombinator.com/item?id=39189289"
-    ],
-    [
-      "Show HN: Mailready – meet the new email deliverability standards",
-      "https://mailready.info"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 11:50:49",
       "https://news.ycombinator.com/item?id=39189015"
     ],
     [
       "Chris Date and the Relational Model (2014)",
       "https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 11:35:19",
-      "https://news.ycombinator.com/item?id=39188886"
-    ],
-    [
-      "Build a simple LSM-Tree storage engine in a week",
-      "https://skyzh.github.io/mini-lsm/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-01-30, 09:30:08",
-      "https://news.ycombinator.com/item?id=39188040"
-    ],
-    [
-      "Finding the Air Cannon",
-      "https://www.twobraids.com/2024/01/air-cannon.html"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 11:04:00",
       "https://news.ycombinator.com/item?id=39174998"
     ],
@@ -297,6 +287,16 @@
     [
       "Kirei is a work-in-progress keyboard library written in Zig",
       "https://github.com/semickolon/kirei"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 12:34:59",
+      "https://news.ycombinator.com/item?id=39165089"
+    ],
+    [
+      "Flight-Testing of Otto Lilienthal's Monoplane Design from 1893",
+      "https://arc.aiaa.org/doi/10.2514/1.C035399"
     ]
   ]
 ]
