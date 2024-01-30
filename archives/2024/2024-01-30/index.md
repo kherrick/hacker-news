@@ -6,6 +6,8 @@
 
 * [2024-01-30, 13:54:35](https://news.ycombinator.com/item?id=39190110) - [The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
+* [2024-01-30, 13:35:34](https://news.ycombinator.com/item?id=39189904) - [Show HN: AI User Persona Generator](https://www.featuredgpts.com/gpts/ai-user-persona-generator/)
+* [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
 * [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)

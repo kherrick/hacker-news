@@ -2,7 +2,9 @@
 
 * [2024-01-30, 13:54:35](https://news.ycombinator.com/item?id=39190110) - [The original magic Emacs garbage collection hack (2019)](https://akrl.sdf.org/#orgc15a10d)
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
-* [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
+* [2024-01-30, 13:35:34](https://news.ycombinator.com/item?id=39189904) - [Show HN: AI User Persona Generator](https://www.featuredgpts.com/gpts/ai-user-persona-generator/)
+* [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I Just Wanted Emacs to Look Nice – Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
+* [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to report their safety tests to the US government](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
@@ -15,7 +17,6 @@
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
-* [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
 * [2024-01-29, 21:15:36](https://news.ycombinator.com/item?id=39182721) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
@@ -27,7 +28,6 @@
 * [2024-01-29, 10:15:28](https://news.ycombinator.com/item?id=39174704) - [CDC 6600](https://en.wikipedia.org/wiki/CDC_6600)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls (2021)](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
-* [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-28, 06:59:23](https://news.ycombinator.com/item?id=39163184) - [Poincaré Recurrence Theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)
 * [2024-01-27, 23:39:58](https://news.ycombinator.com/item?id=39160998) - [Show HN: WAYF – A Simple Scheduling App](https://wayf.social)
 
