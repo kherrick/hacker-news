@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 11:02:58](https://news.ycombinator.com/item?id=39188657) - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)

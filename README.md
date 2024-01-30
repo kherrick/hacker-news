@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
@@ -7,7 +8,6 @@
 * [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
 * [2024-01-30, 08:46:10](https://news.ycombinator.com/item?id=39187785) - [Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/)
 * [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
-* [2024-01-30, 08:40:15](https://news.ycombinator.com/item?id=39187744) - [After 32 years, one of the 'Net's oldest software archives is shutting down](https://arstechnica.com/gadgets/2024/01/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down/)
 * [2024-01-30, 07:23:26](https://news.ycombinator.com/item?id=39187294) - [Notes on Cruise's Pedestrian Accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 06:42:16](https://news.ycombinator.com/item?id=39187069) - [There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Everyone hates the electronic medical record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
