@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 15:40:42](https://news.ycombinator.com/item?id=39191358) - [Hoover Free Flights Promotion](https://en.wikipedia.org/wiki/Hoover_free_flights_promotion)
+* [2024-01-30, 15:32:37](https://news.ycombinator.com/item?id=39191260) - [Covid Test Data Breach: 1.3M Patient Records Exposed Online](https://www.vpnmentor.com/news/report-coronalab-breach/)
 * [2024-01-30, 15:16:12](https://news.ycombinator.com/item?id=39191038) - [Safetyism Killed Playtime](https://unherd.com/2024/01/how-safetyism-killed-playtime/)
 * [2024-01-30, 15:16:01](https://news.ycombinator.com/item?id=39191036) - [John Deere Announces Strategic Partnership with SpaceX](https://www.deere.com/en/news/all-news/john-deere-partnership-with-spacex/)
 * [2024-01-30, 14:48:21](https://news.ycombinator.com/item?id=39190670) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
@@ -27,6 +29,7 @@
 * [2024-01-30, 10:17:49](https://news.ycombinator.com/item?id=39188371) - [JetBrains CEO Transition](https://blog.jetbrains.com/blog/2024/01/30/jetbrains-ceo-transition/)
 * [2024-01-30, 10:17:23](https://news.ycombinator.com/item?id=39188364) - [Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
 * [2024-01-30, 09:34:38](https://news.ycombinator.com/item?id=39188073) - [Seniors spend the equivalent of 3 weeks a year on health care, study says](https://www.washingtonpost.com/wellness/2024/01/29/time-spent-doctors-health-seniors/)
+* [2024-01-30, 09:30:08](https://news.ycombinator.com/item?id=39188040) - [Finding the Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
 * [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
 * [2024-01-30, 09:19:13](https://news.ycombinator.com/item?id=39187973) - [How Will the Golden Age of \"Making It Worse\" End?](https://defector.com/how-will-the-golden-age-of-making-it-worse-end)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'Einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
