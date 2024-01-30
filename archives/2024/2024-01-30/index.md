@@ -31,6 +31,7 @@
 * [2024-01-30, 14:57:31](https://news.ycombinator.com/item?id=39190791) - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
 * [2024-01-30, 14:48:21](https://news.ycombinator.com/item?id=39190670) - [Tesorio (YC S15) Is Hiring a Senior Data Engineer in Latam](https://www.tesorio.com/careers#job-openings)
 * [2024-01-30, 14:32:22](https://news.ycombinator.com/item?id=39190506) - [Apple Vision Pro review: magic, until it's not](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price)
+* [2024-01-30, 14:18:10](https://news.ycombinator.com/item?id=39190354) - [Weldon's Dice, Automated (2009) [pdf]](https://link.springer.com/article/10.1007/s00144-009-0036-8)
 * [2024-01-30, 14:17:32](https://news.ycombinator.com/item?id=39190345) - [The Crime Rings Trafficking Sand](https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/)
 * [2024-01-30, 14:12:25](https://news.ycombinator.com/item?id=39190296) - [The Rise of Technoauthoritarianism](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)
 * [2024-01-30, 14:05:13](https://news.ycombinator.com/item?id=39190223) - [Show HN: Wren – simple yet extensible task management with CLI, Telegram, HTTP](https://github.com/bjesus/wren)
