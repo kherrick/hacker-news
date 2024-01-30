@@ -86,6 +86,7 @@
 * [2024-01-29, 10:15:28](https://news.ycombinator.com/item?id=39174704) - [CDC 6600](https://en.wikipedia.org/wiki/CDC_6600)
 * [2024-01-29, 10:13:01](https://news.ycombinator.com/item?id=39174685) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
+* [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
 * [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
