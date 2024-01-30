@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-30, 04:29:09](https://news.ycombinator.com/item?id=39186399) - [Periodontal Disease Promotes Alzheimer's in Mice](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-023-02821-x)
+* [2024-01-30, 04:16:10](https://news.ycombinator.com/item?id=39186346) - [Man raped in jail after AI technology wrongfully identifies him in robbery](https://www.star-telegram.com/news/state/texas/article284595930.html)
 * [2024-01-30, 03:59:18](https://news.ycombinator.com/item?id=39186252) - [Why Everyone Hates the Electronic Medical Record](https://logicmag.io/policy/why-everyone-hates-the-electronic-medical-record/)
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
@@ -16,12 +17,12 @@
 * [2024-01-29, 19:12:53](https://news.ycombinator.com/item?id=39180953) - [Show HN: Boardzilla, a framework for making web-based board games](https://www.boardzilla.io/)
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
-* [2024-01-29, 17:26:12](https://news.ycombinator.com/item?id=39179121) - [Thaddeus Cahill's Teleharmonium](https://www.synthmuseum.com/magazine/0102jw.html)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
 * [2024-01-29, 17:02:56](https://news.ycombinator.com/item?id=39178750) - [Prediction markets have an elections problem](https://asteriskmag.com/issues/05/prediction-markets-have-an-elections-problem-jeremiah-johnson)
 * [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 14:45:08](https://news.ycombinator.com/item?id=39176797) - [What I talk about when I talk about query optimizer (part 1): IR design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 13:59:03](https://news.ycombinator.com/item?id=39176297) - [Amazon and iRobot call off their planned acquisition](https://www.cnbc.com/2024/01/29/amazon-terminates-irobot-deal-vacuum-maker-to-lay-off-31percent-of-staff.html)
+* [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
@@ -29,7 +30,6 @@
 * [2024-01-29, 02:31:22](https://news.ycombinator.com/item?id=39172086) - [Real estate giant China Evergrande will be liquidated](https://www.nytimes.com/2024/01/28/business/china-evergrande.html)
 * [2024-01-29, 01:39:10](https://news.ycombinator.com/item?id=39171857) - [Pitch Drop Experiment](https://en.wikipedia.org/wiki/Pitch_drop_experiment)
 * [2024-01-28, 21:26:39](https://news.ycombinator.com/item?id=39169972) - [Dorf Fort (2020)](https://www.androidarts.com/df/dorf.htm)
-* [2024-01-28, 12:36:49](https://news.ycombinator.com/item?id=39165100) - [A company that sells lost airplane luggage](https://thehustle.co/the-lucrative-business-of-lost-airplane-luggage/)
 
 ## [Archives](archives/index.md)
 
