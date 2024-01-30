@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 * [2024-01-30, 02:23:31](https://news.ycombinator.com/item?id=39185676) - [US marshals lure fugitive killer of Texas cyclist out of hiding with yoga ad](https://www.theguardian.com/us-news/2024/jan/29/texas-cyclist-killer-caught-yoga-ad-costa-rica)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
-* [2024-01-30, 00:19:44](https://news.ycombinator.com/item?id=39184674) - [A Mouse Becomes a Camera](https://hackaday.com/2024/01/29/a-mouse-becomes-a-camera/)
 * [2024-01-29, 23:01:28](https://news.ycombinator.com/item?id=39183968) - [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File](https://archive-it.org/post/the-stack-warc-file/)
 * [2024-01-29, 21:39:58](https://news.ycombinator.com/item?id=39183063) - [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)

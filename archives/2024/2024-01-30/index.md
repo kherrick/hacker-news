@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 * [2024-01-30, 02:23:31](https://news.ycombinator.com/item?id=39185676) - [US marshals lure fugitive killer out of hiding with yoga ad on Facebook](https://www.theguardian.com/us-news/2024/jan/29/texas-cyclist-killer-caught-yoga-ad-costa-rica)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Bob is in prison and Alice is dead](https://dl.acm.org/doi/10.1145/3623614)
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
