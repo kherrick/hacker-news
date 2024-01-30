@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 21:24:29",
+      "https://news.ycombinator.com/item?id=39196055"
+    ],
+    [
+      "The Vision Pro",
+      "https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 21:04:53",
       "https://news.ycombinator.com/item?id=39195796"
     ],
@@ -277,16 +287,6 @@
     [
       "Learning Universal Predictors",
       "https://arxiv.org/abs/2401.14953"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 05:25:59",
-      "https://news.ycombinator.com/item?id=39172981"
-    ],
-    [
-      "Kirei is a work-in-progress keyboard library written in Zig",
-      "https://github.com/semickolon/kirei"
     ]
   ],
   [
