@@ -78,6 +78,7 @@
 * [2024-01-29, 12:32:13](https://news.ycombinator.com/item?id=39175500) - [One Billion Row Challenge Shows Java Can Process 1B Rows File in 2 Seconds](https://www.infoq.com/news/2024/01/1brc-fast-java-processing/)
 * [2024-01-29, 12:19:17](https://news.ycombinator.com/item?id=39175423) - [Ingenuity had more computing power than all NASA deep space missions combined](https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/)
 * [2024-01-29, 12:13:58](https://news.ycombinator.com/item?id=39175393) - [Svelte Native: The Svelte Mobile Development Experience](https://svelte-native.technology/)
+* [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
 * [2024-01-29, 10:47:56](https://news.ycombinator.com/item?id=39174896) - [Negotiate your salary with a little philosophical backup](https://www.philonomist.com/en/article/negotiate-your-salary-little-philosophical-backup)
 * [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
