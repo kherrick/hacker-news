@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'Einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
+* [2024-01-30, 08:52:02](https://news.ycombinator.com/item?id=39187817) - [Raspberry Pi Picks Banks for IPO, Choosing London over New York](https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york)
 * [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 * [2024-01-30, 07:13:45](https://news.ycombinator.com/item?id=39187236) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
 * [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [The music industry's A.I. experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
@@ -9,7 +11,6 @@
 * [2024-01-30, 03:03:41](https://news.ycombinator.com/item?id=39185933) - [Pub400.com – Your public IBM I 7.5 server](https://pub400.com/)
 * [2024-01-30, 02:57:21](https://news.ycombinator.com/item?id=39185895) - [Boeing withdraws bid for safety exemption for Boeing 737 MAX 7](https://www.reuters.com/business/aerospace-defense/boeing-withdraws-bid-safety-exemption-boeing-737-max-7-2024-01-30/)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Protecting Secrets from Computers (2023)](https://dl.acm.org/doi/10.1145/3623614)
-* [2024-01-30, 02:14:32](https://news.ycombinator.com/item?id=39185610) - [The pursuit of cutting-edge JS frameworks resulted in a less accessible web](https://www.easylaptopfinder.com/blog/posts/cutting-edge-js-framework-accessibility)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-29, 23:01:28](https://news.ycombinator.com/item?id=39183968) - [How to do things if you're not that smart and don't have any talent](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that)
 * [2024-01-29, 22:31:41](https://news.ycombinator.com/item?id=39183670) - [An Introduction to the WARC File (2021)](https://archive-it.org/post/the-stack-warc-file/)
@@ -20,7 +21,6 @@
 * [2024-01-29, 19:08:52](https://news.ycombinator.com/item?id=39180891) - [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues)
 * [2024-01-29, 18:42:35](https://news.ycombinator.com/item?id=39180430) - [Lessons from history's greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-01-29, 17:03:18](https://news.ycombinator.com/item?id=39178753) - [Launch HN: Dashdive (YC W23) – Track your cloud costs precisely](https://news.ycombinator.com/item?id=39178753)
-* [2024-01-29, 16:47:05](https://news.ycombinator.com/item?id=39178521) - [Helios: A distribution of Illumos powering the Oxide Rack](https://github.com/oxidecomputer/helios)
 * [2024-01-29, 14:36:33](https://news.ycombinator.com/item?id=39176705) - [A Tinkertoy computer that plays tic-tac-toe (1989)](https://web.archive.org/web/20070110215459/http://www.rci.rutgers.edu:80/~cfs/472_html/Intro/TinkertoyComputer/TinkerToy.html)
 * [2024-01-29, 13:18:13](https://news.ycombinator.com/item?id=39175863) - [The Unique History of Japanese Plastic Food Samples](https://www.tokyoweekender.com/art_and_culture/the-unique-history-of-japanese-plastic-food-samples/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
