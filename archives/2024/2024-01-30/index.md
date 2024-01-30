@@ -17,6 +17,7 @@
 * [2024-01-30, 02:54:52](https://news.ycombinator.com/item?id=39185876) - [When did cold, carbonated beer become the standard, and was there pushback?](https://old.reddit.com/r/AskHistorians/comments/1adzsfg/when_did_cold_carbonated_beer_become_the_standard/)
 * [2024-01-30, 02:23:31](https://news.ycombinator.com/item?id=39185676) - [US marshals lure fugitive killer out of hiding with yoga ad on Facebook](https://www.theguardian.com/us-news/2024/jan/29/texas-cyclist-killer-caught-yoga-ad-costa-rica)
 * [2024-01-30, 02:16:28](https://news.ycombinator.com/item?id=39185625) - [Bob is in prison and Alice is dead](https://dl.acm.org/doi/10.1145/3623614)
+* [2024-01-30, 02:14:32](https://news.ycombinator.com/item?id=39185610) - [The pursuit of cutting-edge JS frameworks resulted in a less accessible web](https://www.easylaptopfinder.com/blog/posts/cutting-edge-js-framework-accessibility)
 * [2024-01-30, 01:46:22](https://news.ycombinator.com/item?id=39185403) - [Dracula Theme for Hacker News](https://draculatheme.com/hacker-news)
 * [2024-01-30, 01:19:41](https://news.ycombinator.com/item?id=39185198) - [Linear Programming - Researchers Approach New Speed Limit for Seminal Problem](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
 * [2024-01-30, 00:57:50](https://news.ycombinator.com/item?id=39185001) - [Colored Functions Are Good](https://www.danmailloux.com/blog/colored-functions-are-good-actually)
