@@ -2,7 +2,6 @@
 
 * [2024-01-30, 21:04:53](https://news.ycombinator.com/item?id=39195796) - [Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]](https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
-* [2024-01-30, 20:44:15](https://news.ycombinator.com/item?id=39195529) - [YouTube-dl has been taken down](https://news.ycombinator.com/item?id=39195529)
 * [2024-01-30, 20:41:16](https://news.ycombinator.com/item?id=39195490) - [Small biz owners scale back their office space or go remote altogether](https://www.cp24.com/world/small-biz-owners-scale-back-their-office-space-or-go-remote-altogether-some-move-to-the-suburbs-1.6747552)
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [.ai website registrations are a windfallf for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
@@ -25,6 +24,7 @@
 * [2024-01-30, 13:52:27](https://news.ycombinator.com/item?id=39190096) - [Why Certificate Lifecycle Automation Matters](https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html)
 * [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I just wanted Emacs to look nice – Using 24-bit color in terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
+* [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
