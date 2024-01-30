@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-30, 11:02:58](https://news.ycombinator.com/item?id=39188657) - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
-* [2024-01-30, 10:17:49](https://news.ycombinator.com/item?id=39188371) - [JetBrains CEO Transition](https://blog.jetbrains.com/blog/2024/01/30/jetbrains-ceo-transition/)
 * [2024-01-30, 10:17:23](https://news.ycombinator.com/item?id=39188364) - [Men hand over Bitcoins worth two billion euros to German federal police](https://www.spiegel.de/netzwelt/web/movie2k-to-beschuldigter-uebergibt-bitcoins-im-wert-von-zwei-milliarden-euro-ans-bundeskriminalamt-a-66a34b4a-a01b-4edf-b622-cdbff14596dd)
 * [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
 * [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
