@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 09:34:38](https://news.ycombinator.com/item?id=39188073) - [Seniors spend the equivalent of 3 weeks a year on health care, study says](https://www.washingtonpost.com/wellness/2024/01/29/time-spent-doctors-health-seniors/)
+* [2024-01-30, 09:21:47](https://news.ycombinator.com/item?id=39187994) - [Ryzen 8000G review: An integrated GPU that can beat a graphics card, for a price](https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/)
+* [2024-01-30, 09:19:13](https://news.ycombinator.com/item?id=39187973) - [How Will the Golden Age of \"Making It Worse\" End?](https://defector.com/how-will-the-golden-age-of-making-it-worse-end)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'Einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 * [2024-01-30, 08:52:02](https://news.ycombinator.com/item?id=39187817) - [Raspberry Pi Picks Banks for IPO, Choosing London over New York](https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york)
 * [2024-01-30, 08:46:10](https://news.ycombinator.com/item?id=39187785) - [Hopes for Finding Mars Life After Rover's Ground-Penetrating Radar Discovery](https://scitechdaily.com/excitement-builds-for-finding-life-on-mars-after-perseverance-rovers-ground-penetrating-radar-discovery/)
