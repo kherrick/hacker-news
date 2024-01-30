@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 18:38:13](https://news.ycombinator.com/item?id=39193870) - [Seven Indicators of Shell Company Risk](https://www.moodys.com/web/en/us/about/insights/data-stories/kyc-innovation-shell-company-indicator.html)
 * [2024-01-30, 18:03:32](https://news.ycombinator.com/item?id=39193423) - [The disastrous communication from Apple to apps developers](https://www.carette.xyz/posts/dont_be_evil_apple/)
 * [2024-01-30, 17:57:23](https://news.ycombinator.com/item?id=39193331) - [What the The end of 0% interest rates means for software engineers](https://newsletter.pragmaticengineer.com/p/zirp-software-engineers)
 * [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab look like a space ship [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
@@ -42,6 +43,7 @@
 * [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
 * [2024-01-30, 12:25:57](https://news.ycombinator.com/item?id=39189289) - [Show HN: Mailready – meet the new email deliverability standards](https://mailready.info)
+* [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
 * [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 11:02:58](https://news.ycombinator.com/item?id=39188657) - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
