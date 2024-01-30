@@ -8,7 +8,6 @@
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [.ai website registrations are a windfallf for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
 * [2024-01-30, 19:24:29](https://news.ycombinator.com/item?id=39194439) - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
 * [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots, plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
-* [2024-01-30, 17:53:06](https://news.ycombinator.com/item?id=39193269) - [Tractor cab looks like a space ship (2021) [video]](https://www.youtube.com/watch?v=ubl5BEuqzL8)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling Your Numba Code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:48:22](https://news.ycombinator.com/item?id=39192304) - [Show HN: Open SaaS – An open-source alternative to paid boilerplate starters](https://github.com/wasp-lang/open-saas)
@@ -29,6 +28,7 @@
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
+* [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 * [2024-01-28, 12:34:59](https://news.ycombinator.com/item?id=39165089) - [Flight-Testing of Otto Lilienthal's Monoplane Design from 1893](https://arc.aiaa.org/doi/10.2514/1.C035399)
 
 ## [Archives](archives/index.md)
