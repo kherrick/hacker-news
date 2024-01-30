@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-30, 23:00:00](https://news.ycombinator.com/item?id=39197158) - [Study finds Montanans are increasingly OK with wolves](https://montanafreepress.org/2024/01/29/study-finds-montanans-are-increasingly-ok-with-wolves/)
 * [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
 * [2024-01-30, 22:42:36](https://news.ycombinator.com/item?id=39196960) - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
 * [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
@@ -26,6 +25,7 @@
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-29, 20:29:23](https://news.ycombinator.com/item?id=39182046) - [A confusing probability question: Red and green balls in an urn](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing)
+* [2024-01-29, 14:54:18](https://news.ycombinator.com/item?id=39176906) - [Show HN: Privacy-first cross platform spreadsheet pipeline app](https://tablesmith.io/)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 10:01:19](https://news.ycombinator.com/item?id=39174612) - [Dart/Flutter now has macros/metaprogramming](https://github.com/millsteed/macros)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)

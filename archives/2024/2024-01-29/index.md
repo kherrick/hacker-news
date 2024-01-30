@@ -61,6 +61,7 @@
 * [2024-01-29, 15:17:54](https://news.ycombinator.com/item?id=39177206) - [Paintings of the Traditional Porcelain Process](https://www.derekau.net/blog/2019/07/10/paintings-of-the-traditional-porcelain-process)
 * [2024-01-29, 15:07:03](https://news.ycombinator.com/item?id=39177059) - [Why focus on AI meeting transcripts if the real problem is bad meeting prep?](https://www.meetrics.ai/)
 * [2024-01-29, 15:02:48](https://news.ycombinator.com/item?id=39177008) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
+* [2024-01-29, 14:54:18](https://news.ycombinator.com/item?id=39176906) - [Show HN: Privacy-first cross platform spreadsheet pipeline app](https://tablesmith.io/)
 * [2024-01-29, 14:53:51](https://news.ycombinator.com/item?id=39176899) - [The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
 * [2024-01-29, 14:51:47](https://news.ycombinator.com/item?id=39176877) - [Why Walmart pays its truck drivers 6 figures](https://www.freightwaves.com/news/how-walmart-uses-trucking-to-dominate-american-retail)
 * [2024-01-29, 14:45:08](https://news.ycombinator.com/item?id=39176797) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
