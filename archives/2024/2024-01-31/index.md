@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:29:53](https://news.ycombinator.com/item?id=39204962) - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
 * [2024-01-31, 15:29:32](https://news.ycombinator.com/item?id=39204955) - [Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
 * [2024-01-31, 15:16:14](https://news.ycombinator.com/item?id=39204775) - [Why do programmers need private offices with doors?](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors/)
@@ -12,6 +13,7 @@
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
+* [2024-01-31, 14:01:33](https://news.ycombinator.com/item?id=39203862) - [Show HN: Fourays: AY-3-8910 Synthesizer (Part 1)](https://doug.lon.dev/blog/2024/fourays/part-1/)
 * [2024-01-31, 13:50:02](https://news.ycombinator.com/item?id=39203738) - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
 * [2024-01-31, 13:12:01](https://news.ycombinator.com/item?id=39203324) - [A Bad Day for Tech: 31,000 Jobs Slashed (2001)](https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html)
@@ -31,6 +33,7 @@
 * [2024-01-31, 09:09:25](https://news.ycombinator.com/item?id=39201648) - [The Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+* [2024-01-31, 07:59:13](https://news.ycombinator.com/item?id=39201247) - [What it was like to be the subject of a longitudinal study (2023)](https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html)
 * [2024-01-31, 07:54:30](https://news.ycombinator.com/item?id=39201224) - [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 07:25:07](https://news.ycombinator.com/item?id=39201025) - [Colophon for Psymon.com (1998-2021)](https://www.psymon.com/colophon/index.html)
