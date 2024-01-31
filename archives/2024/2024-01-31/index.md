@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
+* [2024-01-31, 20:50:32](https://news.ycombinator.com/item?id=39209211) - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)
 * [2024-01-31, 20:43:34](https://news.ycombinator.com/item?id=39209111) - [Sen Wyden Reintroduces Legislation That Would Actually Help Be Kids Safer Online](https://www.techdirt.com/2024/01/31/as-congress-grandstands-nonsense-kid-safety-bills-senator-wyden-reintroduces-legislation-that-would-actually-help-deal-with-kid-exploitation-online/)
 * [2024-01-31, 20:13:10](https://news.ycombinator.com/item?id=39208747) - [One Glass of Wine or Beer Daily May Cause Brain to Shrink (2022)](https://www.usatoday.com/story/news/health/2022/03/09/beer-glass-wine-daily-brain-shrink/9425508002/)
 * [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
