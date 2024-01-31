@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
 * [2024-01-31, 22:39:35](https://news.ycombinator.com/item?id=39210436) - [Visual Analysis of Binary Files](http://binvis.io/#/)
+* [2024-01-31, 22:39:08](https://news.ycombinator.com/item?id=39210431) - [Tried Vision Pro. Here's what I thought](https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/)
 * [2024-01-31, 22:11:08](https://news.ycombinator.com/item?id=39210126) - [I don't want anything your AI generates](https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/)
 * [2024-01-31, 21:43:40](https://news.ycombinator.com/item?id=39209814) - [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)

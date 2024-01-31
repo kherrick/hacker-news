@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-31, 22:39:35](https://news.ycombinator.com/item?id=39210436) - [Visual Analysis of Binary Files](http://binvis.io/#/)
+* [2024-01-31, 22:39:08](https://news.ycombinator.com/item?id=39210431) - [Tried Vision Pro. Here's what I thought](https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/)
 * [2024-01-31, 22:11:08](https://news.ycombinator.com/item?id=39210126) - [I don't want anything your AI generates](https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/)
 * [2024-01-31, 21:43:40](https://news.ycombinator.com/item?id=39209814) - [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps (2016)](http://mewo2.com/notes/terrain/)
@@ -10,7 +11,6 @@
 * [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
-* [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
