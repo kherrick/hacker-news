@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-01-30, 23:43:11",
+      "https://news.ycombinator.com/item?id=39197634"
+    ],
+    [
+      "Boeing has withdrawn its request for an exemption on the 737-MAX",
+      "https://airwaysmag.com/boeing-drops-request-737-7-safety-exempt/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 23:42:03",
       "https://news.ycombinator.com/item?id=39197619"
     ],
     [
       "Intel's Humbling",
       "https://stratechery.com/2024/intels-humbling/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 23:36:24",
+      "https://news.ycombinator.com/item?id=39197550"
+    ],
+    [
+      "USCIS Announces Strengthened Integrity Measures for H-1B Program",
+      "https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "NASA's Webb depicts structure in 19 nearby spiral galaxies",
       "https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 21:04:53",
-      "https://news.ycombinator.com/item?id=39195796"
-    ],
-    [
-      "Google Announces Fourth Quarter and Fiscal Year 2023 Results [pdf]",
-      "https://abc.xyz/assets/95/eb/9cef90184e09bac553796896c633/2023q4-alphabet-earnings-release.pdf"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-01-30, 13:52:27",
-      "https://news.ycombinator.com/item?id=39190096"
-    ],
-    [
-      "Why Certificate Lifecycle Automation Matters",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 13:32:34",
       "https://news.ycombinator.com/item?id=39189881"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-01-29, 14:54:18",
-      "https://news.ycombinator.com/item?id=39176906"
+      "2024-01-29, 11:26:08",
+      "https://news.ycombinator.com/item?id=39175112"
     ],
     [
-      "Show HN: Privacy-first cross platform spreadsheet pipeline app",
-      "https://tablesmith.io/"
+      "The Broadway Windowing System",
+      "https://docs.gtk.org/gtk4/broadway.html"
     ]
   ],
   [
