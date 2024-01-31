@@ -72,6 +72,7 @@
 * [2024-01-30, 12:31:44](https://news.ycombinator.com/item?id=39189339) - [Dynamouse: Mouse driver for Mac studios](https://github.com/projectstorm/dynamouse)
 * [2024-01-30, 12:25:57](https://news.ycombinator.com/item?id=39189289) - [Show HN: Mailready – meet the new email deliverability standards](https://mailready.info)
 * [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
+* [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 11:02:58](https://news.ycombinator.com/item?id=39188657) - [Ask HN: Would doing a coding bootcamp be a horrible idea?](https://news.ycombinator.com/item?id=39188657)
