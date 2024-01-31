@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
+* [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
@@ -16,7 +17,6 @@
 * [2024-01-30, 19:24:29](https://news.ycombinator.com/item?id=39194439) - [The Soviet 1801VM2 LSI-11 Processor (2021)](https://www.cpushack.com/2021/11/04/the-soviet-1801vm2-lsi-11-processor/)
 * [2024-01-30, 19:13:01](https://news.ycombinator.com/item?id=39194297) - [Tear up unused parking lots, plant trees](https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
-* [2024-01-30, 17:12:18](https://news.ycombinator.com/item?id=39192709) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 15:51:19](https://news.ycombinator.com/item?id=39191507) - [The C bounded model checker: criminally underused](https://www.philipzucker.com/cbmc_tut/)
 * [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro review](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
