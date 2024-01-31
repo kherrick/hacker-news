@@ -66,6 +66,7 @@
 * [2024-01-28, 12:33:46](https://news.ycombinator.com/item?id=39165080) - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 * [2024-01-28, 12:28:26](https://news.ycombinator.com/item?id=39165042) - [The New Story of the Milky Way's Surprisingly Turbulent Past](https://www.scientificamerican.com/article/the-new-story-of-the-milky-ways-surprisingly-turbulent-past/)
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
+* [2024-01-28, 12:14:51](https://news.ycombinator.com/item?id=39164950) - [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945)
 * [2024-01-28, 12:06:52](https://news.ycombinator.com/item?id=39164894) - [The Plot Against Einstein](https://warfarehistorynetwork.com/article/the-plot-against-einstein/)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics](https://www.quaxio.com/hackernews_xkcd_citations/)
