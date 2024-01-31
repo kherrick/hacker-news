@@ -12,6 +12,7 @@
 * [2024-01-31, 16:13:27](https://news.ycombinator.com/item?id=39205515) - [AWS is estimated to make $400M to $1B with the new IPv4 charge](https://www.border0.com/blogs/ipv4-surcharge---your-aws-bill-is-going-up-this-february)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:29:32](https://news.ycombinator.com/item?id=39204955) - [Adobe gives up on web-design product to rival Figma after deal collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
+* [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
@@ -27,7 +28,6 @@
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
 * [2024-01-31, 02:16:07](https://news.ycombinator.com/item?id=39198913) - [Farside: A smart redirecting gateway for various front end services](https://sr.ht/~benbusby/farside/)
-* [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 
