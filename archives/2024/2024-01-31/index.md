@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 15:29:53](https://news.ycombinator.com/item?id=39204962) - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
+* [2024-01-31, 15:16:14](https://news.ycombinator.com/item?id=39204775) - [Why do programmers need private offices with doors?](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors/)
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
+* [2024-01-31, 15:02:31](https://news.ycombinator.com/item?id=39204594) - [Photos of Silicon Valley](https://mkaz.com/silicon-valley/)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
@@ -14,6 +17,7 @@
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
+* [2024-01-31, 12:52:31](https://news.ycombinator.com/item?id=39203147) - [The promise and challenges of crypto and AI applications](https://vitalik.eth.limo/general/2024/01/30/cryptoai.html)
 * [2024-01-31, 12:46:31](https://news.ycombinator.com/item?id=39203106) - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
 * [2024-01-31, 12:34:28](https://news.ycombinator.com/item?id=39202992) - [There's More Proof That Return to Office Is Pointless](https://gizmodo.com/more-proof-that-return-to-office-is-pointless-1851209231)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
@@ -21,6 +25,7 @@
 * [2024-01-31, 11:37:46](https://news.ycombinator.com/item?id=39202598) - [Could our Universe be a simulation? How would we even tell?](https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/)
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall from $6B to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians–and their universities–climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
+* [2024-01-31, 09:43:34](https://news.ycombinator.com/item?id=39201859) - [Byju's seeks $200M in rights issue at 99% valuation cut](https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr)
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 09:09:25](https://news.ycombinator.com/item?id=39201648) - [The Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
