@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-01-31, 20:11:47",
+      "https://news.ycombinator.com/item?id=39208731"
+    ],
+    [
+      "Buggy software is dogging the switch to electric cars",
+      "https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 20:03:33",
+      "https://news.ycombinator.com/item?id=39208633"
+    ],
+    [
+      "Japan gives up on 1.44MB floppy disks, 50 years after they went on sale",
+      "https://www.techradar.com/pro/japan-finally-gives-up-on-144mb-floppy-disk-drives-50-years-after-they-went-on-sale-but-theres-no-sign-of-microsoft-removing-the-iconic-save-floppy-icon-from-office-just-yet"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 20:03:18",
+      "https://news.ycombinator.com/item?id=39208629"
+    ],
+    [
+      "Fighting Infomania: Why 80% of Your Reading Is a Waste of Time",
+      "https://www.nateliason.com/blog/infomania"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 19:50:59",
+      "https://news.ycombinator.com/item?id=39208451"
+    ],
+    [
+      "Show HN: Some blind hackers are bridging IRC to LMMs running locally",
+      "https://2mb.codes/~cmb/ollama-bot/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 19:32:14",
       "https://news.ycombinator.com/item?id=39208213"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2024-01-31, 11:36:04",
-      "https://news.ycombinator.com/item?id=39202583"
-    ],
-    [
-      "23andMe's Fall",
-      "https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 11:34:21",
-      "https://news.ycombinator.com/item?id=39202571"
-    ],
-    [
-      "Citation cartels help mathematicians-and their universities-climb the rankings",
-      "https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 09:08:01",
       "https://news.ycombinator.com/item?id=39201643"
     ],
@@ -251,36 +271,6 @@
   ],
   [
     [
-      "2024-01-31, 05:05:32",
-      "https://news.ycombinator.com/item?id=39200182"
-    ],
-    [
-      "Epitaph – Fermi Paradox Simulator",
-      "https://mkremins.github.io/epitaph/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 05:01:41",
-      "https://news.ycombinator.com/item?id=39200149"
-    ],
-    [
-      "Why Custom GPTs are better than plugins",
-      "https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 02:16:07",
-      "https://news.ycombinator.com/item?id=39198913"
-    ],
-    [
-      "Farside: A smart redirecting gateway for various front end services",
-      "https://sr.ht/~benbusby/farside/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 11:43:51",
       "https://news.ycombinator.com/item?id=39188954"
     ],
@@ -297,6 +287,16 @@
     [
       "A predicted quasicrystal is based on the 'einstein' tile known as the hat",
       "https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 06:06:41",
+      "https://news.ycombinator.com/item?id=39173215"
+    ],
+    [
+      "Incremental Reading (2023)",
+      "https://www.help.supermemo.org/wiki/Incremental_reading"
     ]
   ]
 ]
