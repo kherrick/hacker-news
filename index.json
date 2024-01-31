@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-31, 15:29:53",
+      "https://news.ycombinator.com/item?id=39204962"
+    ],
+    [
+      "Jones Act Contributions to Offshore Wind Difficulties",
+      "https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 15:16:14",
+      "https://news.ycombinator.com/item?id=39204775"
+    ],
+    [
+      "Why do programmers need private offices with doors?",
+      "https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 15:04:11",
       "https://news.ycombinator.com/item?id=39204622"
     ],
     [
       "RavenDB 6.0.2 (A Jepsen Report)",
       "https://jepsen.io/analyses/ravendb-6.0.2"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 15:02:31",
+      "https://news.ycombinator.com/item?id=39204594"
+    ],
+    [
+      "Photos of Silicon Valley",
+      "https://mkaz.com/silicon-valley/"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2024-01-31, 13:12:01",
-      "https://news.ycombinator.com/item?id=39203324"
+      "2024-01-31, 12:52:31",
+      "https://news.ycombinator.com/item?id=39203147"
     ],
     [
-      "A Bad Day for Tech: 31,000 Jobs Slashed (2001)",
-      "https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html"
+      "The promise and challenges of crypto and AI applications",
+      "https://vitalik.eth.limo/general/2024/01/30/cryptoai.html"
     ]
   ],
   [
@@ -81,22 +111,12 @@
   ],
   [
     [
-      "2024-01-31, 09:09:25",
-      "https://news.ycombinator.com/item?id=39201648"
+      "2024-01-31, 09:43:34",
+      "https://news.ycombinator.com/item?id=39201859"
     ],
     [
-      "The Performance Inequality Gap, 2024",
-      "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 08:37:05",
-      "https://news.ycombinator.com/item?id=39201453"
-    ],
-    [
-      "Gitlab's ActivityPub architecture blueprint",
-      "https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/"
+      "Byju's seeks $200M in rights issue at 99% valuation cut",
+      "https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-01-30, 22:56:19",
-      "https://news.ycombinator.com/item?id=39197116"
-    ],
-    [
-      "The business of check cashing",
-      "https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 17:18:32",
       "https://news.ycombinator.com/item?id=39192807"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: Open-source x64 and Arm GitHub runners",
       "https://www.ubicloud.com/use-cases/github-actions"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 15:51:19",
-      "https://news.ycombinator.com/item?id=39191507"
-    ],
-    [
-      "The C bounded model checker: criminally underused",
-      "https://www.philipzucker.com/cbmc_tut/"
     ]
   ],
   [
