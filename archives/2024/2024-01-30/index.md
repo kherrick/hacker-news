@@ -69,6 +69,7 @@
 * [2024-01-30, 13:28:20](https://news.ycombinator.com/item?id=39189840) - [AI companies will need to start reporting their safety tests to DoC](https://apnews.com/article/biden-ai-artificial-intelligence-safe-395591bcde523416db88767fa54f30f5)
 * [2024-01-30, 13:01:00](https://news.ycombinator.com/item?id=39189590) - [Show HN: I made a site that lets you punish yourself](https://punishme.app)
 * [2024-01-30, 12:48:35](https://news.ycombinator.com/item?id=39189481) - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
+* [2024-01-30, 12:31:44](https://news.ycombinator.com/item?id=39189339) - [Dynamouse: Mouse driver for Mac studios](https://github.com/projectstorm/dynamouse)
 * [2024-01-30, 12:25:57](https://news.ycombinator.com/item?id=39189289) - [Show HN: Mailready – meet the new email deliverability standards](https://mailready.info)
 * [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
 * [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
