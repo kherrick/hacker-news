@@ -8,6 +8,7 @@
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
 * [2024-01-31, 12:46:31](https://news.ycombinator.com/item?id=39203106) - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
+* [2024-01-31, 12:34:28](https://news.ycombinator.com/item?id=39202992) - [There's More Proof That Return to Office Is Pointless](https://gizmodo.com/more-proof-that-return-to-office-is-pointless-1851209231)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
 * [2024-01-31, 12:00:47](https://news.ycombinator.com/item?id=39202762) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2024-01-31, 11:37:46](https://news.ycombinator.com/item?id=39202598) - [Could our Universe be a simulation? How would we even tell?](https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/)
