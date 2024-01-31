@@ -3,6 +3,7 @@
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+* [2024-01-31, 07:54:30](https://news.ycombinator.com/item?id=39201224) - [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
@@ -27,7 +28,6 @@
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-30, 09:43:28](https://news.ycombinator.com/item?id=39188125) - [Square Kilometre Array prototype 'scope achieves first light](https://www.theregister.com/2024/01/30/ska_skampi_first_light/)
 * [2024-01-30, 08:41:59](https://news.ycombinator.com/item?id=39187757) - [The Apparent Simplicity of RGB Rendering](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
-* [2024-01-29, 20:29:23](https://news.ycombinator.com/item?id=39182046) - [A confusing probability question: Red and green balls in an urn](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing)
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
 

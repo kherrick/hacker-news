@@ -7,6 +7,7 @@
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+* [2024-01-31, 07:54:30](https://news.ycombinator.com/item?id=39201224) - [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 * [2024-01-31, 06:02:31](https://news.ycombinator.com/item?id=39200511) - [It turns out the six-feet social-distancing rule had no scientific basis](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
