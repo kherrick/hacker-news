@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-01-31, 12:23:30",
-      "https://news.ycombinator.com/item?id=39202916"
-    ],
-    [
-      "Fix date-handling bug when today’s date is later than the target month",
-      "https://github.com/Simon-Initiative/oli-torus/pull/4614"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 12:00:47",
       "https://news.ycombinator.com/item?id=39202762"
     ],
@@ -137,6 +127,16 @@
     [
       "Show HN: ChatGPT prompt builder – the simplest prompt builder",
       "https://mitenmit.github.io/gpt/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 07:25:07",
+      "https://news.ycombinator.com/item?id=39201025"
+    ],
+    [
+      "Colophon for Psymon.com (1998-2021)",
+      "https://www.psymon.com/colophon/index.html"
     ]
   ],
   [
