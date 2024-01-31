@@ -86,6 +86,7 @@
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 11:01:09](https://news.ycombinator.com/item?id=39174973) - [Google Update Reveals AI Will Read All Your Private Messages](https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/)
+* [2024-01-29, 10:55:30](https://news.ycombinator.com/item?id=39174941) - [Pipe Rings (2023)](http://niplav.site/pipe_rings.html)
 * [2024-01-29, 10:47:56](https://news.ycombinator.com/item?id=39174896) - [Negotiate your salary with a little philosophical backup](https://www.philonomist.com/en/article/negotiate-your-salary-little-philosophical-backup)
 * [2024-01-29, 10:15:28](https://news.ycombinator.com/item?id=39174704) - [CDC 6600](https://en.wikipedia.org/wiki/CDC_6600)
 * [2024-01-29, 10:13:01](https://news.ycombinator.com/item?id=39174685) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
