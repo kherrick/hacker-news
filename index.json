@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-31, 13:50:02",
+      "https://news.ycombinator.com/item?id=39203738"
+    ],
+    [
+      "Godot 4.3 Game Engine to Feature Native Wayland Support",
+      "https://www.phoronix.com/news/Godot-4.3-Wayland-Support"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 13:32:00",
       "https://news.ycombinator.com/item?id=39203542"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39202571"
     ],
     [
-      "Citation cartels help mathematicians–and their universities–climb the rankings",
+      "Citation cartels help mathematicians-and their universities-climb the rankings",
       "https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings"
     ]
   ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2024-01-30, 22:56:19",
-      "https://news.ycombinator.com/item?id=39197116"
-    ],
-    [
-      "The business of check cashing",
-      "https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 17:18:32",
       "https://news.ycombinator.com/item?id=39192807"
     ],
     [
       "Why flying insects gather at artificial light",
       "https://www.nature.com/articles/s41467-024-44785-3"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 16:14:42",
+      "https://news.ycombinator.com/item?id=39191870"
+    ],
+    [
+      "Show HN: Open-source x64 and Arm GitHub runners",
+      "https://www.ubicloud.com/use-cases/github-actions"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Apparent Simplicity of RGB Rendering",
       "https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 11:26:08",
-      "https://news.ycombinator.com/item?id=39175112"
-    ],
-    [
-      "The Broadway Windowing System",
-      "https://docs.gtk.org/gtk4/broadway.html"
     ]
   ]
 ]
