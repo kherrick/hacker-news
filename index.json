@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-31, 18:50:19",
-      "https://news.ycombinator.com/item?id=39207719"
-    ],
-    [
-      "Ask HN: Does Microsoft Teams work in Firefox for you?",
-      "https://news.ycombinator.com/item?id=39207719"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 18:15:26",
       "https://news.ycombinator.com/item?id=39207291"
     ],
@@ -37,16 +27,6 @@
     [
       "Hearing aids slow cognitive decline in people at high risk",
       "https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 17:20:12",
-      "https://news.ycombinator.com/item?id=39206493"
-    ],
-    [
-      "Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica",
-      "https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2024-01-31, 08:37:05",
+      "https://news.ycombinator.com/item?id=39201453"
+    ],
+    [
+      "Gitlab's ActivityPub architecture blueprint",
+      "https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 08:15:44",
       "https://news.ycombinator.com/item?id=39201332"
     ],
@@ -271,16 +261,6 @@
   ],
   [
     [
-      "2024-01-30, 17:18:32",
-      "https://news.ycombinator.com/item?id=39192807"
-    ],
-    [
-      "Why flying insects gather at artificial light",
-      "https://www.nature.com/articles/s41467-024-44785-3"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 11:43:51",
       "https://news.ycombinator.com/item?id=39188954"
     ],
@@ -297,6 +277,26 @@
     [
       "A predicted quasicrystal is based on the 'einstein' tile known as the hat",
       "https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 06:25:44",
+      "https://news.ycombinator.com/item?id=39173329"
+    ],
+    [
+      "No one is \"non-technical\" (2022)",
+      "https://everythingchanges.us/blog/no-one-is-non-technical/"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 12:40:08",
+      "https://news.ycombinator.com/item?id=39165117"
+    ],
+    [
+      "Towards a Precise Definition of Microflows",
+      "https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/"
     ]
   ]
 ]
