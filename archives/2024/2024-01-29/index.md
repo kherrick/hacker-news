@@ -100,6 +100,7 @@
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
 * [2024-01-29, 06:41:42](https://news.ycombinator.com/item?id=39173438) - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
+* [2024-01-29, 06:25:44](https://news.ycombinator.com/item?id=39173329) - [No one is \"non-technical\" (2022)](https://everythingchanges.us/blog/no-one-is-non-technical/)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
 * [2024-01-29, 05:57:44](https://news.ycombinator.com/item?id=39173150) - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
