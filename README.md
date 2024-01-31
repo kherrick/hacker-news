@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
@@ -8,6 +7,7 @@
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google search drops cache link from search results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+* [2024-01-30, 23:36:24](https://news.ycombinator.com/item?id=39197550) - [USCIS announces strengthened integrity measures for H-1B program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
 * [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) is hiring relationship coaches](https://relationshiphero.com/careers?role=coach)
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
