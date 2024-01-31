@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 18:50:19](https://news.ycombinator.com/item?id=39207719) - [Ask HN: Does Microsoft Teams work in Firefox for you?](https://news.ycombinator.com/item?id=39207719)
 * [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
 * [2024-01-31, 17:51:28](https://news.ycombinator.com/item?id=39206959) - [A plan to save democracy by ending homelessness, reducing the prison population](https://www.piratewires.com/p/wireheading-city-george-hotz)
