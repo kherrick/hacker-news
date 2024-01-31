@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 22:56:56](https://news.ycombinator.com/item?id=39210603) - [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
+* [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+* [2024-01-31, 22:42:49](https://news.ycombinator.com/item?id=39210458) - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 * [2024-01-31, 22:39:35](https://news.ycombinator.com/item?id=39210436) - [Visual Analysis of Binary Files](http://binvis.io/#/)
 * [2024-01-31, 22:39:08](https://news.ycombinator.com/item?id=39210431) - [Tried Vision Pro. Here's what I thought](https://old.reddit.com/r/OculusQuest/comments/1aetqks/long_posttried_vision_pro_heres_what_i_thought/)
 * [2024-01-31, 22:11:08](https://news.ycombinator.com/item?id=39210126) - [I don't want anything your AI generates](https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/)
