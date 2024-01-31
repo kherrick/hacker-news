@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-31, 06:02:31",
-      "https://news.ycombinator.com/item?id=39200511"
-    ],
-    [
-      "It turns out the six-feet social-distancing rule had no scientific basis",
-      "https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 05:15:47",
       "https://news.ycombinator.com/item?id=39200239"
     ],
@@ -47,6 +37,16 @@
     [
       "Why Custom GPTs are better than plugins",
       "https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 01:07:35",
+      "https://news.ycombinator.com/item?id=39198372"
+    ],
+    [
+      "A Trojan approach to guide and trap light beams via Lagrange points",
+      "https://phys.org/news/2024-01-trojan-approach-lagrange.html"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-01-30, 19:34:35",
-      "https://news.ycombinator.com/item?id=39194578"
-    ],
-    [
-      "Gitstr: Send and receive Git patches over Nostr",
-      "https://github.com/fiatjaf/gitstr"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 19:26:44",
       "https://news.ycombinator.com/item?id=39194477"
     ],
@@ -157,6 +147,16 @@
     [
       "Why flying insects gather at artificial light",
       "https://www.nature.com/articles/s41467-024-44785-3"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 17:12:18",
+      "https://news.ycombinator.com/item?id=39192709"
+    ],
+    [
+      "Profiling your Numba code",
+      "https://pythonspeed.com/articles/numba-profiling/"
     ]
   ],
   [
