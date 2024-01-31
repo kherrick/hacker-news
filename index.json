@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-01-31, 21:43:40",
+      "https://news.ycombinator.com/item?id=39209814"
+    ],
+    [
+      "DeepSeek Coder: Let the Code Write Itself",
+      "https://deepseekcoder.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 21:31:44",
       "https://news.ycombinator.com/item?id=39209687"
     ],
     [
-      "Generating Fantasy Maps",
+      "Generating Fantasy Maps (2016)",
       "http://mewo2.com/notes/terrain/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 21:31:29",
+      "https://news.ycombinator.com/item?id=39209684"
+    ],
+    [
+      "Non-deterministic execution of Python functions",
+      "https://gitlab.inria.fr/cpaperma/nondet"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 21:10:13",
+      "https://news.ycombinator.com/item?id=39209469"
+    ],
+    [
+      "Comcast reluctantly agrees to stop its misleading \"10G Network\" claims",
+      "https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/"
     ]
   ],
   [
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2024-01-31, 19:32:14",
-      "https://news.ycombinator.com/item?id=39208213"
-    ],
-    [
-      "Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance",
-      "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 19:15:11",
       "https://news.ycombinator.com/item?id=39208029"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-01-31, 17:42:30",
-      "https://news.ycombinator.com/item?id=39206843"
-    ],
-    [
-      "Peppermint: Open Source Helpdesk Solution",
-      "https://peppermint.sh/"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 17:35:09",
       "https://news.ycombinator.com/item?id=39206731"
     ],
@@ -147,6 +157,16 @@
     [
       "Sega AI",
       "https://www.smspower.org/SegaAI/Index"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 17:13:05",
+      "https://news.ycombinator.com/item?id=39206375"
+    ],
+    [
+      "LLaVA-1.6: Improved reasoning, OCR, and world knowledge",
+      "https://llava-vl.github.io/blog/2024-01-30-llava-1-6/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-01-31, 07:59:13",
-      "https://news.ycombinator.com/item?id=39201247"
-    ],
-    [
-      "What it was like to be the subject of a longitudinal study (2023)",
-      "https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 07:47:34",
       "https://news.ycombinator.com/item?id=39201182"
     ],
     [
       "Show HN: A simple ChatGPT prompt builder",
       "https://mitenmit.github.io/gpt/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 06:48:49",
-      "https://news.ycombinator.com/item?id=39200791"
-    ],
-    [
-      "1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media",
-      "https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit"
     ]
   ],
   [
