@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
+* [2024-01-31, 16:42:01](https://news.ycombinator.com/item?id=39205885) - [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
 * [2024-01-31, 16:40:44](https://news.ycombinator.com/item?id=39205871) - [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
@@ -35,8 +37,11 @@
 * [2024-01-31, 09:43:34](https://news.ycombinator.com/item?id=39201859) - [Byju's seeks $200M in rights issue at 99% valuation cut](https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr)
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 09:09:25](https://news.ycombinator.com/item?id=39201648) - [The Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
+* [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Gorgeous open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
+* [2024-01-31, 08:15:44](https://news.ycombinator.com/item?id=39201332) - [Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
+* [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
 * [2024-01-31, 07:59:13](https://news.ycombinator.com/item?id=39201247) - [What it was like to be the subject of a longitudinal study (2023)](https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html)
 * [2024-01-31, 07:54:30](https://news.ycombinator.com/item?id=39201224) - [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
