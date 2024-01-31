@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-31, 13:32:00",
+      "https://news.ycombinator.com/item?id=39203542"
+    ],
+    [
+      "Does fermion doubling make the universe not a computer?",
+      "https://scottaaronson.blog/?p=7705"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 13:10:34",
+      "https://news.ycombinator.com/item?id=39203315"
+    ],
+    [
+      "Don't use NameCheap for the .fr TLD",
+      "https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 12:56:24",
       "https://news.ycombinator.com/item?id=39203185"
     ],
@@ -37,16 +57,6 @@
     [
       "OneSignal (YC S11) Is Hiring Engineers",
       "https://onesignal.com/careers"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 11:37:46",
-      "https://news.ycombinator.com/item?id=39202598"
-    ],
-    [
-      "Could our Universe be a simulation? How would we even tell?",
-      "https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-01-31, 02:16:07",
+      "https://news.ycombinator.com/item?id=39198913"
+    ],
+    [
+      "Farside: A smart redirecting gateway for various front end services",
+      "https://sr.ht/~benbusby/farside/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 01:01:11",
       "https://news.ycombinator.com/item?id=39198329"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-01-30, 15:51:19",
-      "https://news.ycombinator.com/item?id=39191507"
-    ],
-    [
-      "The C bounded model checker: criminally underused",
-      "https://www.philipzucker.com/cbmc_tut/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 14:28:36",
       "https://news.ycombinator.com/item?id=39190468"
     ],
     [
       "Apple Vision Pro review",
       "https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 13:32:34",
-      "https://news.ycombinator.com/item?id=39189881"
-    ],
-    [
-      "I just wanted Emacs to look nice – Using 24-bit color in terminals",
-      "https://chadaustin.me/2024/01/truecolor-terminal-emacs/"
     ]
   ],
   [
