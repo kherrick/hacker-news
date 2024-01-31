@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-01-30, 15:51:19",
+      "https://news.ycombinator.com/item?id=39191507"
+    ],
+    [
+      "The C bounded model checker: criminally underused",
+      "https://www.philipzucker.com/cbmc_tut/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 14:28:36",
       "https://news.ycombinator.com/item?id=39190468"
     ],
@@ -277,16 +287,6 @@
     [
       "The Broadway Windowing System",
       "https://docs.gtk.org/gtk4/broadway.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 11:04:00",
-      "https://news.ycombinator.com/item?id=39174998"
-    ],
-    [
-      "Adding type safety to object IDs in TypeScript",
-      "https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/"
     ]
   ],
   [
