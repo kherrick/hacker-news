@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-31, 12:00:47",
+      "https://news.ycombinator.com/item?id=39202762"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers",
+      "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 11:37:46",
+      "https://news.ycombinator.com/item?id=39202598"
+    ],
+    [
+      "Could our Universe be a simulation? How would we even tell?",
+      "https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 11:36:04",
+      "https://news.ycombinator.com/item?id=39202583"
+    ],
+    [
+      "23andMe's Fall from $6B to Nearly $0",
+      "https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 09:11:28",
       "https://news.ycombinator.com/item?id=39201660"
     ],
@@ -47,6 +77,16 @@
     [
       "Show HN: ChatGPT prompt builder – the simplest prompt builder",
       "https://mitenmit.github.io/gpt/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 06:48:49",
+      "https://news.ycombinator.com/item?id=39200791"
+    ],
+    [
+      "1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media",
+      "https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit"
     ]
   ],
   [
@@ -121,32 +161,12 @@
   ],
   [
     [
-      "2024-01-30, 23:36:24",
-      "https://news.ycombinator.com/item?id=39197550"
-    ],
-    [
-      "USCIS announces strengthened integrity measures for H-1B program",
-      "https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 22:56:19",
       "https://news.ycombinator.com/item?id=39197116"
     ],
     [
       "The business of check cashing",
       "https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 21:00:35",
-      "https://news.ycombinator.com/item?id=39195747"
-    ],
-    [
-      "Relationship Hero (YC S17) is hiring relationship coaches",
-      "https://relationshiphero.com/careers?role=coach"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-01-29, 20:29:23",
-      "https://news.ycombinator.com/item?id=39182046"
-    ],
-    [
-      "A confusing probability question: Red and green balls in an urn",
-      "https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 11:26:08",
       "https://news.ycombinator.com/item?id=39175112"
     ],
     [
       "The Broadway Windowing System",
       "https://docs.gtk.org/gtk4/broadway.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 05:36:30",
-      "https://news.ycombinator.com/item?id=39173034"
-    ],
-    [
-      "Learning Universal Predictors",
-      "https://arxiv.org/abs/2401.14953"
     ]
   ]
 ]
