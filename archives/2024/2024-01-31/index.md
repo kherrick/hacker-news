@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 03:24:25](https://news.ycombinator.com/item?id=39199439) - [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
 * [2024-01-31, 03:19:33](https://news.ycombinator.com/item?id=39199405) - [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
 * [2024-01-31, 02:53:35](https://news.ycombinator.com/item?id=39199199) - [Never incorporate your company in the state of Delaware](https://twitter.com/elonmusk/status/1752455348106166598)
 * [2024-01-31, 02:39:02](https://news.ycombinator.com/item?id=39199095) - [Elon Musk's $56B Tesla compensation voided by judge](https://www.cnbc.com/amp/2024/01/30/tesla-shares-slide-after-judge-voids-elon-musks-56-billion-compensation.html)
