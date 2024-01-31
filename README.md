@@ -10,7 +10,6 @@
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
 * [2024-01-31, 05:03:58](https://news.ycombinator.com/item?id=39200173) - [Getting fitter can reduce prostate cancer risk by 35%, study finds](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
-* [2024-01-31, 02:21:49](https://news.ycombinator.com/item?id=39198965) - [The Weird World of Alternative Buildings](https://andrewknighton.com/the-weird-world-of-alternative-buildings/)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google search drops cache link from search results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 23:36:24](https://news.ycombinator.com/item?id=39197550) - [USCIS announces strengthened integrity measures for H-1B program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
@@ -28,6 +27,7 @@
 * [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-30, 09:43:28](https://news.ycombinator.com/item?id=39188125) - [Square Kilometre Array prototype 'scope achieves first light](https://www.theregister.com/2024/01/30/ska_skampi_first_light/)
 * [2024-01-30, 08:41:59](https://news.ycombinator.com/item?id=39187757) - [The Apparent Simplicity of RGB Rendering](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
+* [2024-01-29, 20:29:23](https://news.ycombinator.com/item?id=39182046) - [A confusing probability question: Red and green balls in an urn](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing)
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
 
