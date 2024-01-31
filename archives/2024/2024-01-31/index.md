@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 21:43:40](https://news.ycombinator.com/item?id=39209814) - [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
+* [2024-01-31, 21:31:29](https://news.ycombinator.com/item?id=39209684) - [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
+* [2024-01-31, 21:10:13](https://news.ycombinator.com/item?id=39209469) - [Comcast reluctantly agrees to stop its misleading \"10G Network\" claims](https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/)
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
 * [2024-01-31, 20:50:32](https://news.ycombinator.com/item?id=39209211) - [Tech Layoffs Not Tied to Economic Struggles, but AI Investments](https://decodetoday.com/tech-layoffs-due-to-ai/)
@@ -32,6 +35,7 @@
 * [2024-01-31, 17:22:48](https://news.ycombinator.com/item?id=39206529) - [Sega AI](https://www.smspower.org/SegaAI/Index)
 * [2024-01-31, 17:21:06](https://news.ycombinator.com/item?id=39206503) - [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
 * [2024-01-31, 17:20:12](https://news.ycombinator.com/item?id=39206493) - [Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica](https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing)
+* [2024-01-31, 17:13:05](https://news.ycombinator.com/item?id=39206375) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
 * [2024-01-31, 16:42:01](https://news.ycombinator.com/item?id=39205885) - [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
 * [2024-01-31, 16:40:44](https://news.ycombinator.com/item?id=39205871) - [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
