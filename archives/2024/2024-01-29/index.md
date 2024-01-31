@@ -103,6 +103,7 @@
 * [2024-01-29, 06:25:44](https://news.ycombinator.com/item?id=39173329) - [No one is \"non-technical\" (2022)](https://everythingchanges.us/blog/no-one-is-non-technical/)
 * [2024-01-29, 06:21:47](https://news.ycombinator.com/item?id=39173308) - [Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 * [2024-01-29, 06:09:54](https://news.ycombinator.com/item?id=39173229) - [Ubuntu Looking at Applying Low-Latency Optimizations to Its Generic Kernel](https://www.phoronix.com/news/Ubuntu-Low-Lat-Generic-Kernel)
+* [2024-01-29, 06:06:41](https://news.ycombinator.com/item?id=39173215) - [Incremental Reading (2023)](https://www.help.supermemo.org/wiki/Incremental_reading)
 * [2024-01-29, 05:57:44](https://news.ycombinator.com/item?id=39173150) - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
 * [2024-01-29, 05:38:41](https://news.ycombinator.com/item?id=39173042) - [Google Crimes](http://xahlee.info/w/google_index.html)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)

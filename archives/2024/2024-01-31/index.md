@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
+* [2024-01-31, 20:03:33](https://news.ycombinator.com/item?id=39208633) - [Japan gives up on 1.44MB floppy disks, 50 years after they went on sale](https://www.techradar.com/pro/japan-finally-gives-up-on-144mb-floppy-disk-drives-50-years-after-they-went-on-sale-but-theres-no-sign-of-microsoft-removing-the-iconic-save-floppy-icon-from-office-just-yet)
+* [2024-01-31, 20:03:18](https://news.ycombinator.com/item?id=39208629) - [Fighting Infomania: Why 80% of Your Reading Is a Waste of Time](https://www.nateliason.com/blog/infomania)
+* [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 * [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)

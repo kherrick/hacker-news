@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
+* [2024-01-31, 20:03:33](https://news.ycombinator.com/item?id=39208633) - [Japan gives up on 1.44MB floppy disks, 50 years after they went on sale](https://www.techradar.com/pro/japan-finally-gives-up-on-144mb-floppy-disk-drives-50-years-after-they-went-on-sale-but-theres-no-sign-of-microsoft-removing-the-iconic-save-floppy-icon-from-office-just-yet)
+* [2024-01-31, 20:03:18](https://news.ycombinator.com/item?id=39208629) - [Fighting Infomania: Why 80% of Your Reading Is a Waste of Time](https://www.nateliason.com/blog/infomania)
+* [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 * [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
@@ -16,8 +20,6 @@
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
-* [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
-* [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians-and their universities-climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
 * [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-01-31, 08:15:44](https://news.ycombinator.com/item?id=39201332) - [Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
@@ -25,11 +27,9 @@
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: A simple ChatGPT prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 06:48:49](https://news.ycombinator.com/item?id=39200791) - [1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media](https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
-* [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
-* [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
-* [2024-01-31, 02:16:07](https://news.ycombinator.com/item?id=39198913) - [Farside: A smart redirecting gateway for various front end services](https://sr.ht/~benbusby/farside/)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
+* [2024-01-29, 06:06:41](https://news.ycombinator.com/item?id=39173215) - [Incremental Reading (2023)](https://www.help.supermemo.org/wiki/Incremental_reading)
 
 ## [Archives](archives/index.md)
 
