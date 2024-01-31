@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 22:39:35](https://news.ycombinator.com/item?id=39210436) - [Visual Analysis of Binary Files](http://binvis.io/#/)
+* [2024-01-31, 22:11:08](https://news.ycombinator.com/item?id=39210126) - [I don't want anything your AI generates](https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/)
 * [2024-01-31, 21:43:40](https://news.ycombinator.com/item?id=39209814) - [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps (2016)](http://mewo2.com/notes/terrain/)
 * [2024-01-31, 21:31:29](https://news.ycombinator.com/item?id=39209684) - [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
@@ -7,7 +9,6 @@
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
-* [2024-01-31, 20:05:04](https://news.ycombinator.com/item?id=39208652) - [Ask HN: Advice for turning my side project into a real business](https://news.ycombinator.com/item?id=39208652)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
@@ -26,7 +27,6 @@
 * [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-01-31, 08:15:44](https://news.ycombinator.com/item?id=39201332) - [Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
-* [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: A simple ChatGPT prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 * [2024-01-29, 10:55:30](https://news.ycombinator.com/item?id=39174941) - [Pipe Rings (2023)](http://niplav.site/pipe_rings.html)
 * [2024-01-29, 07:21:58](https://news.ycombinator.com/item?id=39173665) - [Executing Cron Scripts Reliably at Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/)
