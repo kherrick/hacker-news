@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
@@ -27,7 +28,6 @@
 * [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
-* [2024-01-30, 10:25:04](https://news.ycombinator.com/item?id=39188432) - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 * [2024-01-30, 09:43:28](https://news.ycombinator.com/item?id=39188125) - [Square Kilometre Array prototype 'scope achieves first light](https://www.theregister.com/2024/01/30/ska_skampi_first_light/)
 * [2024-01-30, 08:41:59](https://news.ycombinator.com/item?id=39187757) - [The Apparent Simplicity of RGB Rendering](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 

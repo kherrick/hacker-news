@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
