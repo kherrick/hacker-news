@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-01-31, 05:35:39",
-      "https://news.ycombinator.com/item?id=39200353"
+      "2024-01-31, 06:02:31",
+      "https://news.ycombinator.com/item?id=39200511"
     ],
     [
-      "Beej's Guide to Networking Concepts",
-      "https://beej.us/guide/bgnet0/"
+      "It turns out the six-feet social-distancing rule had no scientific basis",
+      "https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850"
     ]
   ],
   [
     [
-      "2024-01-31, 05:14:09",
-      "https://news.ycombinator.com/item?id=39200226"
+      "2024-01-31, 05:15:47",
+      "https://news.ycombinator.com/item?id=39200239"
     ],
     [
-      "How to Find Hidden Cameras in Your Airbnb",
-      "https://isc.sans.edu/diary/0"
+      "XFaaS: Hyperscale and Low Cost Serverless Functions at Meta",
+      "https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html"
     ]
   ],
   [
@@ -31,12 +31,22 @@
   ],
   [
     [
-      "2024-01-31, 01:07:35",
-      "https://news.ycombinator.com/item?id=39198372"
+      "2024-01-31, 05:05:32",
+      "https://news.ycombinator.com/item?id=39200182"
     ],
     [
-      "A Trojan approach to guide and trap light beams via Lagrange points",
-      "https://phys.org/news/2024-01-trojan-approach-lagrange.html"
+      "Epitaph – Fermi Paradox Simulator",
+      "https://mkremins.github.io/epitaph/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 05:01:41",
+      "https://news.ycombinator.com/item?id=39200149"
+    ],
+    [
+      "Why Custom GPTs are better than plugins",
+      "https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-01-30, 14:57:31",
-      "https://news.ycombinator.com/item?id=39190791"
-    ],
-    [
-      "How to deal with receiving a cease-and-desist letter from Big Tech",
-      "https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 14:28:36",
       "https://news.ycombinator.com/item?id=39190468"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-01-30, 09:43:28",
+      "https://news.ycombinator.com/item?id=39188125"
+    ],
+    [
+      "Square Kilometre Array prototype 'scope achieves first light",
+      "https://www.theregister.com/2024/01/30/ska_skampi_first_light/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 08:41:59",
       "https://news.ycombinator.com/item?id=39187757"
     ],
@@ -267,16 +277,6 @@
     [
       "Adding type safety to object IDs in TypeScript",
       "https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 10:01:19",
-      "https://news.ycombinator.com/item?id=39174612"
-    ],
-    [
-      "Dart/Flutter now has macros/metaprogramming",
-      "https://github.com/millsteed/macros"
     ]
   ],
   [
