@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
+* [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)
 * [2024-01-31, 18:50:19](https://news.ycombinator.com/item?id=39207719) - [Ask HN: Does Microsoft Teams work in Firefox for you?](https://news.ycombinator.com/item?id=39207719)
 * [2024-01-31, 18:31:36](https://news.ycombinator.com/item?id=39207475) - [Biogen Abandons Its Controversial Alzheimer's Drug Aduhelm](https://www.nytimes.com/2024/01/31/business/biogen-alzheimers-aduhelm.html)
 * [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
 * [2024-01-31, 17:51:28](https://news.ycombinator.com/item?id=39206959) - [A plan to save democracy by ending homelessness, reducing the prison population](https://www.piratewires.com/p/wireheading-city-george-hotz)
 * [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
+* [2024-01-31, 17:42:30](https://news.ycombinator.com/item?id=39206843) - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
+* [2024-01-31, 17:22:48](https://news.ycombinator.com/item?id=39206529) - [Sega AI](https://www.smspower.org/SegaAI/Index)
 * [2024-01-31, 17:21:06](https://news.ycombinator.com/item?id=39206503) - [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
 * [2024-01-31, 17:20:12](https://news.ycombinator.com/item?id=39206493) - [Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica](https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing)
 * [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
