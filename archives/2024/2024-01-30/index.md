@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 23:43:11](https://news.ycombinator.com/item?id=39197634) - [Boeing has withdrawn its request for an exemption on the 737-MAX](https://airwaysmag.com/boeing-drops-request-737-7-safety-exempt/)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+* [2024-01-30, 23:36:24](https://news.ycombinator.com/item?id=39197550) - [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
 * [2024-01-30, 23:00:00](https://news.ycombinator.com/item?id=39197158) - [Study finds Montanans are increasingly OK with wolves](https://montanafreepress.org/2024/01/29/study-finds-montanans-are-increasingly-ok-with-wolves/)
 * [2024-01-30, 22:56:19](https://news.ycombinator.com/item?id=39197116) - [The business of check cashing](https://www.bitsaboutmoney.com/archive/the-business-of-check-cashing/)
 * [2024-01-30, 22:42:36](https://news.ycombinator.com/item?id=39196960) - [Proton, a fast and lightweight alternative to Apache Flink](https://github.com/timeplus-io/proton)
