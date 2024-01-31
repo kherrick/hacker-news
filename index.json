@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2024-01-31, 12:46:31",
-      "https://news.ycombinator.com/item?id=39203106"
-    ],
-    [
-      "Japan will no longer require floppy disks for submitting some official documents",
-      "https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 12:00:47",
       "https://news.ycombinator.com/item?id=39202762"
     ],
     [
       "OneSignal (YC S11) Is Hiring Engineers",
       "https://onesignal.com/careers"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 11:36:04",
+      "https://news.ycombinator.com/item?id=39202583"
+    ],
+    [
+      "23andMe's Fall from $6B to Nearly $0",
+      "https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4"
     ]
   ],
   [
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-01-31, 09:11:28",
-      "https://news.ycombinator.com/item?id=39201660"
+      "2024-01-31, 09:09:25",
+      "https://news.ycombinator.com/item?id=39201648"
     ],
     [
-      "The Pentagon tried to hide that it bought Americans' data without a warrant",
-      "https://www.wired.com/story/pentagon-data-purchases-wyden-letter/"
+      "The Performance Inequality Gap, 2024",
+      "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
     ]
   ],
   [
@@ -87,26 +87,6 @@
     [
       "Gitlab's ActivityPub architecture blueprint",
       "https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 08:12:52",
-      "https://news.ycombinator.com/item?id=39201317"
-    ],
-    [
-      "Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission",
-      "https://www.theregister.com/2024/01/30/microsoft_edge_tabs/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 07:54:30",
-      "https://news.ycombinator.com/item?id=39201224"
-    ],
-    [
-      "Microsoft Edge now steals your data from Google Chrome after an update",
-      "https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-01-30, 15:51:19",
+      "https://news.ycombinator.com/item?id=39191507"
+    ],
+    [
+      "The C bounded model checker: criminally underused",
+      "https://www.philipzucker.com/cbmc_tut/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 14:28:36",
       "https://news.ycombinator.com/item?id=39190468"
     ],
@@ -277,6 +267,16 @@
     [
       "Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor",
       "https://news.ycombinator.com/item?id=39188760"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 10:25:04",
+      "https://news.ycombinator.com/item?id=39188432"
+    ],
+    [
+      "Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines",
+      "https://github.com/quickemu-project/quickemu"
     ]
   ],
   [
