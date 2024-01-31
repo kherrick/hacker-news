@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
 * [2024-01-31, 03:58:47](https://news.ycombinator.com/item?id=39199703) - [Garry Tan's vulgar tweet prompts reports by supervisors to SFPD](https://sfstandard.com/2024/01/30/garry-tan-vulgar-tweet-prompts-san-francisco-police-reports/)
+* [2024-01-31, 03:42:02](https://news.ycombinator.com/item?id=39199559) - [Austin Gave Poor Families a Basic Income. It Changed Their Lives](https://www.vice.com/en/article/4a38nq/austin-gave-poor-families-a-basic-income-it-changed-their-lives)
 * [2024-01-31, 03:24:25](https://news.ycombinator.com/item?id=39199439) - [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
 * [2024-01-31, 03:19:33](https://news.ycombinator.com/item?id=39199405) - [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
 * [2024-01-31, 02:53:35](https://news.ycombinator.com/item?id=39199199) - [Never incorporate your company in the state of Delaware](https://twitter.com/elonmusk/status/1752455348106166598)
