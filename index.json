@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-01-31, 03:58:47",
-      "https://news.ycombinator.com/item?id=39199703"
+      "2024-01-31, 03:42:02",
+      "https://news.ycombinator.com/item?id=39199559"
     ],
     [
-      "Garry Tan's vulgar tweet prompts reports by supervisors to SFPD",
-      "https://sfstandard.com/2024/01/30/garry-tan-vulgar-tweet-prompts-san-francisco-police-reports/"
+      "Austin Gave Poor Families a Basic Income. It Changed Their Lives",
+      "https://www.vice.com/en/article/4a38nq/austin-gave-poor-families-a-basic-income-it-changed-their-lives"
     ]
   ],
   [
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=39198329"
     ],
     [
-      "Google Search Drops Cache Link from Search Results",
+      "Google search drops cache link from search results",
       "https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 00:55:17",
+      "https://news.ycombinator.com/item?id=39198281"
+    ],
+    [
+      "165 m private submersible superyacht",
+      "https://www.migaloo-submarines.com/m5-1-of-1/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Intel's Humbling",
       "https://stratechery.com/2024/intels-humbling/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 23:36:24",
+      "https://news.ycombinator.com/item?id=39197550"
+    ],
+    [
+      "USCIS announces strengthened integrity measures for H-1B program",
+      "https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39195747"
     ],
     [
-      "Relationship Hero (YC S17) Is Hiring Relationship Coaches",
+      "Relationship Hero (YC S17) is hiring relationship coaches",
       "https://relationshiphero.com/careers?role=coach"
     ]
   ],
@@ -101,22 +121,22 @@
   ],
   [
     [
+      "2024-01-30, 19:13:01",
+      "https://news.ycombinator.com/item?id=39194297"
+    ],
+    [
+      "Tear up unused parking lots, plant trees",
+      "https://danrodricks.com/2024/01/29/tear-up-unused-parking-lots-plant-trees/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 17:18:32",
       "https://news.ycombinator.com/item?id=39192807"
     ],
     [
       "Why flying insects gather at artificial light",
       "https://www.nature.com/articles/s41467-024-44785-3"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 17:12:18",
-      "https://news.ycombinator.com/item?id=39192709"
-    ],
-    [
-      "Profiling your Numba code",
-      "https://pythonspeed.com/articles/numba-profiling/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-01-30, 13:52:27",
-      "https://news.ycombinator.com/item?id=39190096"
-    ],
-    [
-      "Why Certificate Lifecycle Automation Matters",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/01/30/why-certificate-automation-matters.html"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 13:32:34",
       "https://news.ycombinator.com/item?id=39189881"
     ],
@@ -217,16 +227,6 @@
     [
       "Dynamouse: Mouse driver for Mac studios",
       "https://github.com/projectstorm/dynamouse"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 11:50:49",
-      "https://news.ycombinator.com/item?id=39189015"
-    ],
-    [
-      "Chris Date and the Relational Model (2014)",
-      "https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-01-29, 20:29:23",
-      "https://news.ycombinator.com/item?id=39182046"
-    ],
-    [
-      "A confusing probability question: Red and green balls in an urn",
-      "https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 11:26:08",
       "https://news.ycombinator.com/item?id=39175112"
     ],
@@ -277,6 +267,16 @@
     [
       "Adding type safety to object IDs in TypeScript",
       "https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 10:01:19",
+      "https://news.ycombinator.com/item?id=39174612"
+    ],
+    [
+      "Dart/Flutter now has macros/metaprogramming",
+      "https://github.com/millsteed/macros"
     ]
   ],
   [
