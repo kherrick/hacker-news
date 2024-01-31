@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+* [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
 * [2024-01-31, 13:50:02](https://news.ycombinator.com/item?id=39203738) - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
+* [2024-01-31, 13:12:01](https://news.ycombinator.com/item?id=39203324) - [A Bad Day for Tech: 31,000 Jobs Slashed (2001)](https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
