@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
 * [2024-01-31, 13:50:02](https://news.ycombinator.com/item?id=39203738) - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
@@ -23,7 +24,6 @@
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro review](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
-* [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I just wanted Emacs to look nice – Using 24-bit color in terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 12:31:44](https://news.ycombinator.com/item?id=39189339) - [Dynamouse: Mouse driver for Mac studios](https://github.com/projectstorm/dynamouse)
 * [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
