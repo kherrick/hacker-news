@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
-* [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
+* [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
 * [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
 * [2024-01-31, 17:42:30](https://news.ycombinator.com/item?id=39206843) - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
@@ -9,6 +9,7 @@
 * [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
+* [2024-01-31, 16:13:27](https://news.ycombinator.com/item?id=39205515) - [AWS is estimated to make $400M to $1B with the new IPv4 charge](https://www.border0.com/blogs/ipv4-surcharge---your-aws-bill-is-going-up-this-february)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:29:32](https://news.ycombinator.com/item?id=39204955) - [Adobe gives up on web-design product to rival Figma after deal collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
@@ -29,7 +30,6 @@
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
-* [2024-01-28, 12:40:08](https://news.ycombinator.com/item?id=39165117) - [Towards a Precise Definition of Microflows](https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/)
 
 ## [Archives](archives/index.md)
 
