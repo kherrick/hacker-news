@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 05:35:39](https://news.ycombinator.com/item?id=39200353) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
+* [2024-01-31, 05:14:09](https://news.ycombinator.com/item?id=39200226) - [How to Find Hidden Cameras in Your Airbnb](https://isc.sans.edu/diary/0)
+* [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 03:58:47](https://news.ycombinator.com/item?id=39199703) - [Garry Tan's vulgar tweet prompts reports by supervisors to SFPD](https://sfstandard.com/2024/01/30/garry-tan-vulgar-tweet-prompts-san-francisco-police-reports/)
 * [2024-01-31, 03:42:02](https://news.ycombinator.com/item?id=39199559) - [Austin Gave Poor Families a Basic Income. It Changed Their Lives](https://www.vice.com/en/article/4a38nq/austin-gave-poor-families-a-basic-income-it-changed-their-lives)
 * [2024-01-31, 03:24:25](https://news.ycombinator.com/item?id=39199439) - [No One Should Be the Second Person to Die on a Dangerous Street](https://www.strongtowns.org/journal/2024/1/26/no-one-should-be-the-second-person-to-die-on-a-dangerous-street)
