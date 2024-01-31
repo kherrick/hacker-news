@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 02:53:35](https://news.ycombinator.com/item?id=39199199) - [Never incorporate your company in the state of Delaware](https://twitter.com/elonmusk/status/1752455348106166598)
 * [2024-01-31, 02:39:02](https://news.ycombinator.com/item?id=39199095) - [Elon Musk's $56B Tesla compensation voided by judge](https://www.cnbc.com/amp/2024/01/30/tesla-shares-slide-after-judge-voids-elon-musks-56-billion-compensation.html)
 * [2024-01-31, 02:23:48](https://news.ycombinator.com/item?id=39198981) - [Gaming is now Microsoft's third largest business, bigger than Windows](https://twitter.com/tomwarren/status/1752452485116018704)
 * [2024-01-31, 01:16:57](https://news.ycombinator.com/item?id=39198462) - [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
