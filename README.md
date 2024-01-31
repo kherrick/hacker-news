@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
@@ -29,7 +30,6 @@
 * [2024-01-29, 20:29:23](https://news.ycombinator.com/item?id=39182046) - [A confusing probability question: Red and green balls in an urn](https://colab.research.google.com/drive/1vK8sl3ZecjBTjrcNcee6hmlHvrp3Zh4_?usp=sharing)
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
-* [2024-01-28, 12:34:59](https://news.ycombinator.com/item?id=39165089) - [Flight-Testing of Otto Lilienthal's Monoplane Design from 1893](https://arc.aiaa.org/doi/10.2514/1.C035399)
 
 ## [Archives](archives/index.md)
 

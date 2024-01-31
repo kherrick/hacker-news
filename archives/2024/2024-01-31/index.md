@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 08:12:52](https://news.ycombinator.com/item?id=39201317) - [Microsoft Edge ignores user wishes, slurps tabs from Chrome without permission](https://www.theregister.com/2024/01/30/microsoft_edge_tabs/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
