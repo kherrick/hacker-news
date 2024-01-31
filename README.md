@@ -14,9 +14,10 @@
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
+* [2024-01-31, 13:25:11](https://news.ycombinator.com/item?id=39203463) - [Show HN: Telescope – Hassle-free company research](https://scope.quantichq.com/)
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians-and their universities-climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
-* [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Gorgeous open source multiplatform RSS app](https://github.com/msasikanth/twine)
+* [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-01-31, 08:15:44](https://news.ycombinator.com/item?id=39201332) - [Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
 * [2024-01-31, 07:59:13](https://news.ycombinator.com/item?id=39201247) - [What it was like to be the subject of a longitudinal study (2023)](https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html)
@@ -29,7 +30,6 @@
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
-* [2024-01-28, 12:40:08](https://news.ycombinator.com/item?id=39165117) - [Towards a Precise Definition of Microflows](https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/)
 
 ## [Archives](archives/index.md)
 

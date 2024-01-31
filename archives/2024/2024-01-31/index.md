@@ -28,6 +28,7 @@
 * [2024-01-31, 14:01:33](https://news.ycombinator.com/item?id=39203862) - [Show HN: Fourays: AY-3-8910 Synthesizer (Part 1)](https://doug.lon.dev/blog/2024/fourays/part-1/)
 * [2024-01-31, 13:50:02](https://news.ycombinator.com/item?id=39203738) - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
+* [2024-01-31, 13:25:11](https://news.ycombinator.com/item?id=39203463) - [Show HN: Telescope – Hassle-free company research](https://scope.quantichq.com/)
 * [2024-01-31, 13:12:01](https://news.ycombinator.com/item?id=39203324) - [A Bad Day for Tech: 31,000 Jobs Slashed (2001)](https://www.latimes.com/archives/la-xpm-2001-jul-27-mn-27155-story.html)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
