@@ -22,7 +22,6 @@
 * [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I just wanted Emacs to look nice – Using 24-bit color in terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 12:31:44](https://news.ycombinator.com/item?id=39189339) - [Dynamouse: Mouse driver for Mac studios](https://github.com/projectstorm/dynamouse)
 * [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
-* [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
 * [2024-01-30, 09:43:28](https://news.ycombinator.com/item?id=39188125) - [Square Kilometre Array prototype 'scope achieves first light](https://www.theregister.com/2024/01/30/ska_skampi_first_light/)
@@ -30,6 +29,7 @@
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
+* [2024-01-28, 12:26:00](https://news.ycombinator.com/item?id=39165027) - [A Nigerian professor who makes more money welding](https://www.bbc.com/news/world-africa-68079364)
 
 ## [Archives](archives/index.md)
 
