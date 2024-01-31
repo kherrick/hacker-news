@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
+* [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 * [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
 * [2024-01-31, 12:46:31](https://news.ycombinator.com/item?id=39203106) - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
@@ -36,6 +38,7 @@
 * [2024-01-31, 02:39:02](https://news.ycombinator.com/item?id=39199095) - [Elon Musk's $56B Tesla compensation voided by judge](https://www.cnbc.com/amp/2024/01/30/tesla-shares-slide-after-judge-voids-elon-musks-56-billion-compensation.html)
 * [2024-01-31, 02:23:48](https://news.ycombinator.com/item?id=39198981) - [Gaming is now Microsoft's third largest business, bigger than Windows](https://twitter.com/tomwarren/status/1752452485116018704)
 * [2024-01-31, 02:21:49](https://news.ycombinator.com/item?id=39198965) - [The Weird World of Alternative Buildings](https://andrewknighton.com/the-weird-world-of-alternative-buildings/)
+* [2024-01-31, 02:16:07](https://news.ycombinator.com/item?id=39198913) - [Farside: A smart redirecting gateway for various front end services](https://sr.ht/~benbusby/farside/)
 * [2024-01-31, 01:16:57](https://news.ycombinator.com/item?id=39198462) - [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
 * [2024-01-31, 01:14:40](https://news.ycombinator.com/item?id=39198438) - [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
 * [2024-01-31, 01:07:35](https://news.ycombinator.com/item?id=39198372) - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
