@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
-* [2024-01-31, 04:16:24](https://news.ycombinator.com/item?id=39199843) - [OWA's Review of Apple's DMA Compliance Proposal for the Web](https://open-web-advocacy.org/blog/owa-review-apple-dma-compliance-for-web/)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google search drops cache link from search results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-31, 00:55:17](https://news.ycombinator.com/item?id=39198281) - [165 m private submersible superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)

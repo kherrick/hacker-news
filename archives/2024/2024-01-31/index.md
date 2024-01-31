@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 * [2024-01-31, 06:02:31](https://news.ycombinator.com/item?id=39200511) - [It turns out the six-feet social-distancing rule had no scientific basis](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
 * [2024-01-31, 05:35:39](https://news.ycombinator.com/item?id=39200353) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
