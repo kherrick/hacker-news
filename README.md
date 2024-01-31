@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
+* [2024-01-31, 17:21:06](https://news.ycombinator.com/item?id=39206503) - [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
 * [2024-01-31, 17:20:12](https://news.ycombinator.com/item?id=39206493) - [Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica](https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing)
 * [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
 * [2024-01-31, 16:42:01](https://news.ycombinator.com/item?id=39205885) - [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
@@ -25,10 +27,8 @@
 * [2024-01-31, 02:16:07](https://news.ycombinator.com/item?id=39198913) - [Farside: A smart redirecting gateway for various front end services](https://sr.ht/~benbusby/farside/)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
-* [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 09:43:28](https://news.ycombinator.com/item?id=39188125) - [Square Kilometre Array prototype 'scope achieves first light](https://www.theregister.com/2024/01/30/ska_skampi_first_light/)
-* [2024-01-30, 08:41:59](https://news.ycombinator.com/item?id=39187757) - [The Apparent Simplicity of RGB Rendering](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 * [2024-01-28, 12:40:08](https://news.ycombinator.com/item?id=39165117) - [Towards a Precise Definition of Microflows](https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
+* [2024-01-31, 17:21:06](https://news.ycombinator.com/item?id=39206503) - [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
 * [2024-01-31, 17:20:12](https://news.ycombinator.com/item?id=39206493) - [Lawmakers Seeking to Outlaw Rent Price Fixing Reported by Propublica](https://www.propublica.org/article/senators-introduce-legislation-stop-landlords-algorithm-price-fixing)
 * [2024-01-31, 17:01:07](https://news.ycombinator.com/item?id=39206169) - [Justpaid.io (YC W23) Account Executive](https://news.ycombinator.com/item?id=39206169)
 * [2024-01-31, 16:42:01](https://news.ycombinator.com/item?id=39205885) - [Ask HN: How would you approach mastering a skill ASAP?](https://news.ycombinator.com/item?id=39205885)
