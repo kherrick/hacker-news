@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-01-31, 20:43:34](https://news.ycombinator.com/item?id=39209111) - [Sen Wyden Reintroduces Legislation That Would Actually Help Be Kids Safer Online](https://www.techdirt.com/2024/01/31/as-congress-grandstands-nonsense-kid-safety-bills-senator-wyden-reintroduces-legislation-that-would-actually-help-deal-with-kid-exploitation-online/)
 * [2024-01-31, 20:13:10](https://news.ycombinator.com/item?id=39208747) - [One Glass of Wine or Beer Daily May Cause Brain to Shrink (2022)](https://www.usatoday.com/story/news/health/2022/03/09/beer-glass-wine-daily-brain-shrink/9425508002/)
 * [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
+* [2024-01-31, 20:05:04](https://news.ycombinator.com/item?id=39208652) - [Ask HN: Advice for turning my side project into a real business](https://news.ycombinator.com/item?id=39208652)
 * [2024-01-31, 20:03:33](https://news.ycombinator.com/item?id=39208633) - [Japan gives up on 1.44MB floppy disks, 50 years after they went on sale](https://www.techradar.com/pro/japan-finally-gives-up-on-144mb-floppy-disk-drives-50-years-after-they-went-on-sale-but-theres-no-sign-of-microsoft-removing-the-iconic-save-floppy-icon-from-office-just-yet)
 * [2024-01-31, 20:03:18](https://news.ycombinator.com/item?id=39208629) - [Fighting Infomania: Why 80% of Your Reading Is a Waste of Time](https://www.nateliason.com/blog/infomania)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
