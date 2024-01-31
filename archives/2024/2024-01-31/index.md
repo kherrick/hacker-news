@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 02:23:48](https://news.ycombinator.com/item?id=39198981) - [Gaming is now Microsoft's third largest business, bigger than Windows](https://twitter.com/tomwarren/status/1752452485116018704)
 * [2024-01-31, 01:16:57](https://news.ycombinator.com/item?id=39198462) - [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
 * [2024-01-31, 01:14:40](https://news.ycombinator.com/item?id=39198438) - [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
 * [2024-01-31, 01:07:35](https://news.ycombinator.com/item?id=39198372) - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)

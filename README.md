@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 02:23:48](https://news.ycombinator.com/item?id=39198981) - [Gaming is now Microsoft's third largest business, bigger than Windows](https://twitter.com/tomwarren/status/1752452485116018704)
 * [2024-01-31, 01:16:57](https://news.ycombinator.com/item?id=39198462) - [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
 * [2024-01-31, 01:07:35](https://news.ycombinator.com/item?id=39198372) - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-31, 00:55:17](https://news.ycombinator.com/item?id=39198281) - [165 m Private Submersible Superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 23:36:24](https://news.ycombinator.com/item?id=39197550) - [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
-* [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
 * [2024-01-30, 19:26:44](https://news.ycombinator.com/item?id=39194477) - [.ai website registrations are a windfall for tiny Anguilla](https://spectrum.ieee.org/ai-domains)
