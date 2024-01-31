@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
 * [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)
 * [2024-01-31, 18:50:19](https://news.ycombinator.com/item?id=39207719) - [Ask HN: Does Microsoft Teams work in Firefox for you?](https://news.ycombinator.com/item?id=39207719)

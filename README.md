@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
-* [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)
-* [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
 * [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
 * [2024-01-31, 17:42:30](https://news.ycombinator.com/item?id=39206843) - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
@@ -27,6 +26,7 @@
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
 * [2024-01-31, 02:16:07](https://news.ycombinator.com/item?id=39198913) - [Farside: A smart redirecting gateway for various front end services](https://sr.ht/~benbusby/farside/)
+* [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 * [2024-01-28, 12:40:08](https://news.ycombinator.com/item?id=39165117) - [Towards a Precise Definition of Microflows](https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/)
