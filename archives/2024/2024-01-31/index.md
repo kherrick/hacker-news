@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 20:13:10](https://news.ycombinator.com/item?id=39208747) - [One Glass of Wine or Beer Daily May Cause Brain to Shrink (2022)](https://www.usatoday.com/story/news/health/2022/03/09/beer-glass-wine-daily-brain-shrink/9425508002/)
 * [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 * [2024-01-31, 20:03:33](https://news.ycombinator.com/item?id=39208633) - [Japan gives up on 1.44MB floppy disks, 50 years after they went on sale](https://www.techradar.com/pro/japan-finally-gives-up-on-144mb-floppy-disk-drives-50-years-after-they-went-on-sale-but-theres-no-sign-of-microsoft-removing-the-iconic-save-floppy-icon-from-office-just-yet)
@@ -12,6 +13,7 @@
 * [2024-01-31, 19:47:58](https://news.ycombinator.com/item?id=39208414) - ['You have blood on your hands', US senator tells Zuckerberg [video]](https://www.youtube.com/watch?v=UtlaKIC1JSQ)
 * [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
+* [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)
 * [2024-01-31, 18:50:19](https://news.ycombinator.com/item?id=39207719) - [Ask HN: Does Microsoft Teams work in Firefox for you?](https://news.ycombinator.com/item?id=39207719)
 * [2024-01-31, 18:31:36](https://news.ycombinator.com/item?id=39207475) - [Biogen Abandons Its Controversial Alzheimer's Drug Aduhelm](https://www.nytimes.com/2024/01/31/business/biogen-alzheimers-aduhelm.html)

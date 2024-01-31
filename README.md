@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 20:13:10](https://news.ycombinator.com/item?id=39208747) - [One Glass of Wine or Beer Daily May Cause Brain to Shrink (2022)](https://www.usatoday.com/story/news/health/2022/03/09/beer-glass-wine-daily-brain-shrink/9425508002/)
 * [2024-01-31, 20:11:47](https://news.ycombinator.com/item?id=39208731) - [Buggy software is dogging the switch to electric cars](https://www.axios.com/2024/01/31/gm-ev-electric-vehicle-error-software)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 * [2024-01-31, 20:03:18](https://news.ycombinator.com/item?id=39208629) - [Fighting Infomania: Why 80% of Your Reading Is a Waste of Time](https://www.nateliason.com/blog/infomania)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
-* [2024-01-31, 19:47:58](https://news.ycombinator.com/item?id=39208414) - ['You have blood on your hands', US senator tells Zuckerberg [video]](https://www.youtube.com/watch?v=UtlaKIC1JSQ)
 * [2024-01-31, 19:32:14](https://news.ycombinator.com/item?id=39208213) - [Mistral CEO confirms 'leak' of new open source AI model nearing GPT4 performance](https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/)
 * [2024-01-31, 19:15:11](https://news.ycombinator.com/item?id=39208029) - [Give AI curiosity, and it will watch TV forever (2018)](https://qz.com/1366484/give-ai-curiosity-and-it-will-watch-tv-forever)
+* [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
 * [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
 * [2024-01-31, 17:42:30](https://news.ycombinator.com/item?id=39206843) - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
@@ -27,7 +28,6 @@
 * [2024-01-31, 07:59:13](https://news.ycombinator.com/item?id=39201247) - [What it was like to be the subject of a longitudinal study (2023)](https://slate.com/human-interest/2023/11/research-subject-children-ethics-psychology.html)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: A simple ChatGPT prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 06:48:49](https://news.ycombinator.com/item?id=39200791) - [1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media](https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit)
-* [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 * [2024-01-29, 06:06:41](https://news.ycombinator.com/item?id=39173215) - [Incremental Reading (2023)](https://www.help.supermemo.org/wiki/Incremental_reading)
 
