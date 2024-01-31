@@ -2,7 +2,6 @@
 
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
 * [2024-01-31, 13:10:34](https://news.ycombinator.com/item?id=39203315) - [Don't use NameCheap for the .fr TLD](https://old.reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
-* [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
 * [2024-01-31, 12:46:31](https://news.ycombinator.com/item?id=39203106) - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
 * [2024-01-31, 12:00:47](https://news.ycombinator.com/item?id=39202762) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
@@ -23,6 +22,7 @@
 * [2024-01-30, 17:18:32](https://news.ycombinator.com/item?id=39192807) - [Why flying insects gather at artificial light](https://www.nature.com/articles/s41467-024-44785-3)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro review](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
+* [2024-01-30, 13:32:34](https://news.ycombinator.com/item?id=39189881) - [I just wanted Emacs to look nice – Using 24-bit color in terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-30, 12:31:44](https://news.ycombinator.com/item?id=39189339) - [Dynamouse: Mouse driver for Mac studios](https://github.com/projectstorm/dynamouse)
 * [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
