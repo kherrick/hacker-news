@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-01-31, 02:53:35](https://news.ycombinator.com/item?id=39199199) - [Never incorporate your company in the state of Delaware](https://twitter.com/elonmusk/status/1752455348106166598)
+* [2024-01-31, 03:19:33](https://news.ycombinator.com/item?id=39199405) - [The Average American Spends $3.3M over Their Lifetime](https://www.nasdaq.com/articles/the-average-american-spends-$3.3-million-over-their-lifetime:-see-how-that-breaks-down)
 * [2024-01-31, 01:07:35](https://news.ycombinator.com/item?id=39198372) - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
