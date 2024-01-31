@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 05:15:47](https://news.ycombinator.com/item?id=39200239) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
@@ -29,7 +30,6 @@
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
-* [2024-01-28, 12:26:00](https://news.ycombinator.com/item?id=39165027) - [A Nigerian professor who makes more money welding](https://www.bbc.com/news/world-africa-68079364)
 
 ## [Archives](archives/index.md)
 

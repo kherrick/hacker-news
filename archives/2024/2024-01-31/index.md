@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 08:37:05](https://news.ycombinator.com/item?id=39201453) - [Gitlab's ActivityPub architecture blueprint](https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/)
 * [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
 * [2024-01-31, 06:02:31](https://news.ycombinator.com/item?id=39200511) - [It turns out the six-feet social-distancing rule had no scientific basis](https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850)
 * [2024-01-31, 05:35:39](https://news.ycombinator.com/item?id=39200353) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
