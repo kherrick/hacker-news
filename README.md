@@ -11,7 +11,7 @@
 * [2024-01-31, 21:10:13](https://news.ycombinator.com/item?id=39209469) - [Comcast reluctantly agrees to stop its misleading \"10G Network\" claims](https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/)
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
-* [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I Moved My Blog from IPFS to a Server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
+* [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I moved my blog from IPFS to a server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 * [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
