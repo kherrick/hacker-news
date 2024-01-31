@@ -11,6 +11,7 @@
 * [2024-01-31, 05:14:09](https://news.ycombinator.com/item?id=39200226) - [How to Find Hidden Cameras in Your Airbnb](https://isc.sans.edu/diary/0)
 * [2024-01-31, 05:06:38](https://news.ycombinator.com/item?id=39200189) - [Satellites Are Becoming the New Cellphone Towers](https://spectrum.ieee.org/satellite-cellphone-starlink)
 * [2024-01-31, 05:05:32](https://news.ycombinator.com/item?id=39200182) - [Epitaph – Fermi Paradox Simulator](https://mkremins.github.io/epitaph/)
+* [2024-01-31, 05:03:58](https://news.ycombinator.com/item?id=39200173) - [Getting fitter can reduce prostate cancer risk by 35%, study finds](https://www.theguardian.com/society/2024/jan/30/getting-fitter-can-reduce-prostate-cancer-risk-by-35-study-finds)
 * [2024-01-31, 05:01:41](https://news.ycombinator.com/item?id=39200149) - [Why Custom GPTs are better than plugins](https://moveit.substack.com/p/why-custom-gpts-are-better-than-plugins)
 * [2024-01-31, 04:16:24](https://news.ycombinator.com/item?id=39199843) - [OWA's Review of Apple's DMA Compliance Proposal for the Web](https://open-web-advocacy.org/blog/owa-review-apple-dma-compliance-for-web/)
 * [2024-01-31, 03:58:47](https://news.ycombinator.com/item?id=39199703) - [Garry Tan's vulgar tweet prompts reports by supervisors to SFPD](https://sfstandard.com/2024/01/30/garry-tan-vulgar-tweet-prompts-san-francisco-police-reports/)
