@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-01-31, 01:16:57](https://news.ycombinator.com/item?id=39198462) - [Instagram Threads triples downloads in December, reaching top; X falls to #36](https://techcrunch.com/2024/01/30/instagram-threads-triples-downloads-in-december-reaching-the-top-10-x-falls-to-no-36/)
+* [2024-01-31, 01:14:40](https://news.ycombinator.com/item?id=39198438) - [Framework DIY 13 Gen AMD Review](https://tylercipriani.com/blog/2024/01/22/framework-13-amd-diy/)
 * [2024-01-31, 01:07:35](https://news.ycombinator.com/item?id=39198372) - [A Trojan approach to guide and trap light beams via Lagrange points](https://phys.org/news/2024-01-trojan-approach-lagrange.html)
 * [2024-01-31, 01:01:11](https://news.ycombinator.com/item?id=39198329) - [Google Search Drops Cache Link from Search Results](https://www.seroundtable.com/google-search-drops-cache-link-from-search-results-36787.html)
 * [2024-01-31, 00:55:17](https://news.ycombinator.com/item?id=39198281) - [165 m Private Submersible Superyacht](https://www.migaloo-submarines.com/m5-1-of-1/)
 * [2024-01-30, 23:42:03](https://news.ycombinator.com/item?id=39197619) - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
-* [2024-01-30, 23:36:24](https://news.ycombinator.com/item?id=39197550) - [USCIS Announces Strengthened Integrity Measures for H-1B Program](https://www.uscis.gov/newsroom/news-releases/uscis-announces-strengthened-integrity-measures-for-h-1b-program)
 * [2024-01-30, 22:06:27](https://news.ycombinator.com/item?id=39196532) - [NASA's Webb depicts structure in 19 nearby spiral galaxies](https://webbtelescope.org/contents/news-releases/2024/news-2024-105?news=true)
 * [2024-01-30, 21:00:35](https://news.ycombinator.com/item?id=39195747) - [Relationship Hero (YC S17) Is Hiring Relationship Coaches](https://relationshiphero.com/careers?role=coach)
 * [2024-01-30, 19:34:35](https://news.ycombinator.com/item?id=39194578) - [Gitstr: Send and receive Git patches over Nostr](https://github.com/fiatjaf/gitstr)
@@ -16,7 +16,6 @@
 * [2024-01-30, 16:48:22](https://news.ycombinator.com/item?id=39192304) - [Show HN: Open SaaS – An open-source alternative to paid boilerplate starters](https://github.com/wasp-lang/open-saas)
 * [2024-01-30, 16:14:42](https://news.ycombinator.com/item?id=39191870) - [Show HN: Open-source x64 and Arm GitHub runners](https://www.ubicloud.com/use-cases/github-actions)
 * [2024-01-30, 15:51:19](https://news.ycombinator.com/item?id=39191507) - [The C Bounded Model Checker: Criminally Underused](https://www.philipzucker.com/cbmc_tut/)
-* [2024-01-30, 15:09:28](https://news.ycombinator.com/item?id=39190947) - [Germany: Police seize bitcoins worth €2B](https://www.dw.com/en/germany-police-seize-bitcoins-worth-2-billion/a-68121384)
 * [2024-01-30, 14:57:31](https://news.ycombinator.com/item?id=39190791) - [How to deal with receiving a cease-and-desist letter from Big Tech](https://12challenges.substack.com/p/how-to-deal-with-receiving-a-cease)
 * [2024-01-30, 14:28:36](https://news.ycombinator.com/item?id=39190468) - [Apple Vision Pro review](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
 * [2024-01-30, 14:17:32](https://news.ycombinator.com/item?id=39190345) - [Crime rings trafficking sand](https://www.scientificamerican.com/article/sand-mafias-are-plundering-the-earth/)
@@ -29,6 +28,7 @@
 * [2024-01-29, 10:01:19](https://news.ycombinator.com/item?id=39174612) - [Dart/Flutter now has macros/metaprogramming](https://github.com/millsteed/macros)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
 * [2024-01-28, 12:34:59](https://news.ycombinator.com/item?id=39165089) - [Flight-Testing of Otto Lilienthal's Monoplane Design from 1893](https://arc.aiaa.org/doi/10.2514/1.C035399)
+* [2024-01-28, 12:26:00](https://news.ycombinator.com/item?id=39165027) - [The Nigerian professor who makes more money welding](https://www.bbc.com/news/world-africa-68079364)
 * [2024-01-28, 12:14:51](https://news.ycombinator.com/item?id=39164950) - [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945)
 
 ## [Archives](archives/index.md)
