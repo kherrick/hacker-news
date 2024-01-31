@@ -6,6 +6,7 @@
 
 * [2024-01-31, 16:40:44](https://news.ycombinator.com/item?id=39205871) - [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
+* [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 16:26:16](https://news.ycombinator.com/item?id=39205676) - [Y Combinator CEO Garry Tan's online rant spurs threats to supes, police reports](https://missionlocal.org/2024/01/y-combinator-ceo-garry-tans-online-rant-spurs-threat-to-supe-police-reports/)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:29:53](https://news.ycombinator.com/item?id=39204962) - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)

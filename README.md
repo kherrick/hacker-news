@@ -2,6 +2,7 @@
 
 * [2024-01-31, 16:40:44](https://news.ycombinator.com/item?id=39205871) - [Apple is turning developers against Vision Pro before it even arrives](https://www.macworld.com/article/2220841/app-store-fees-maliciious-compliance-vision-pro.html)
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
+* [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 16:26:16](https://news.ycombinator.com/item?id=39205676) - [Y Combinator CEO Garry Tan's online rant spurs threats to supes, police reports](https://missionlocal.org/2024/01/y-combinator-ceo-garry-tans-online-rant-spurs-threat-to-supe-police-reports/)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:29:53](https://news.ycombinator.com/item?id=39204962) - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
@@ -9,7 +10,6 @@
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 14:26:54](https://news.ycombinator.com/item?id=39204162) - [Reverse-Engineering a Scoreboard Display](https://hardfault.life/p/big-seven-segment)
-* [2024-01-31, 14:01:33](https://news.ycombinator.com/item?id=39203862) - [Show HN: Fourays: AY-3-8910 Synthesizer (Part 1)](https://doug.lon.dev/blog/2024/fourays/part-1/)
 * [2024-01-31, 12:00:47](https://news.ycombinator.com/item?id=39202762) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians-and their universities-climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
