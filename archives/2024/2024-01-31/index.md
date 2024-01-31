@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
 * [2024-01-31, 15:29:53](https://news.ycombinator.com/item?id=39204962) - [Jones Act Contributions to Offshore Wind Difficulties](https://www.cato.org/blog/jones-act-contributes-offshore-wind-growing-pains)
+* [2024-01-31, 15:29:32](https://news.ycombinator.com/item?id=39204955) - [Adobe Gives Up on Web-Design Product to Rival Figma After Deal Collapse](https://www.bloomberg.com/news/articles/2024-01-30/adobe-gives-up-on-xd-after-figma-deal-collapse)
 * [2024-01-31, 15:16:14](https://news.ycombinator.com/item?id=39204775) - [Why do programmers need private offices with doors?](https://blobstreaming.org/why-do-programmers-need-private-offices-with-doors/)
 * [2024-01-31, 15:04:11](https://news.ycombinator.com/item?id=39204622) - [RavenDB 6.0.2 (A Jepsen Report)](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:31](https://news.ycombinator.com/item?id=39204594) - [Photos of Silicon Valley](https://mkaz.com/silicon-valley/)
