@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
 * [2024-02-01, 09:32:43](https://news.ycombinator.com/item?id=39214165) - [Meta is the 'single largest market for paedophiles', says New Mexico AG](https://www.theguardian.com/global-development/2024/jan/31/meta-worlds-single-largest-marketplace-for-paedophiles-new-mexico-attorney-general-facebook-instagram)
+* [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 06:51:03](https://news.ycombinator.com/item?id=39213359) - [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)

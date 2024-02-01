@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-01, 09:32:43](https://news.ycombinator.com/item?id=39214165) - [Meta is the 'single largest market for paedophiles', says New Mexico AG](https://www.theguardian.com/global-development/2024/jan/31/meta-worlds-single-largest-marketplace-for-paedophiles-new-mexico-attorney-general-facebook-instagram)
+* [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 06:51:03](https://news.ycombinator.com/item?id=39213359) - [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
@@ -16,7 +17,6 @@
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps (2016)](http://mewo2.com/notes/terrain/)
 * [2024-01-31, 20:07:02](https://news.ycombinator.com/item?id=39208673) - [I moved my blog from IPFS to a server](https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html)
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
-* [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 17:35:09](https://news.ycombinator.com/item?id=39206731) - [Testing how hard it is to cheat with ChatGPT in interviews](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 * [2024-01-31, 17:22:48](https://news.ycombinator.com/item?id=39206529) - [Sega AI](https://www.smspower.org/SegaAI/Index)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
