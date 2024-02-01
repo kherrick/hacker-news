@@ -31,22 +31,22 @@
   ],
   [
     [
+      "2024-02-01, 05:13:16",
+      "https://news.ycombinator.com/item?id=39212910"
+    ],
+    [
+      "RFC: Rust Has Provenance",
+      "https://github.com/rust-lang/rfcs/pull/3559"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 05:12:32",
       "https://news.ycombinator.com/item?id=39212905"
     ],
     [
       "Matryoshka Representation Learning",
       "https://arxiv.org/abs/2205.13147"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 04:49:47",
-      "https://news.ycombinator.com/item?id=39212813"
-    ],
-    [
-      "Pivotal Mental States (2020)",
-      "https://journals.sagepub.com/doi/full/10.1177/0269881120959637"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-01-31, 20:39:41",
+      "https://news.ycombinator.com/item?id=39209062"
+    ],
+    [
+      "DNS over HTTPS is not what I thought",
+      "https://www.petefreitag.com/blog/dns-over-https/"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 20:07:02",
       "https://news.ycombinator.com/item?id=39208673"
     ],
@@ -157,16 +167,6 @@
     [
       "Building an early warning system for LLM-aided biological threat creation",
       "https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 17:51:54",
-      "https://news.ycombinator.com/item?id=39206966"
-    ],
-    [
-      "Kando: The Cross-Platform Pie Menu",
-      "https://github.com/kando-menu/kando"
     ]
   ],
   [
