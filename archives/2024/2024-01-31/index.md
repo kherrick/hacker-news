@@ -82,6 +82,7 @@
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall from $6B to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians–and their universities–climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
 * [2024-01-31, 09:43:34](https://news.ycombinator.com/item?id=39201859) - [Byju's seeks $200M in rights issue at 99% valuation cut](https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr)
+* [2024-01-31, 09:25:35](https://news.ycombinator.com/item?id=39201756) - [Rust, a Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-31, 09:14:32](https://news.ycombinator.com/item?id=39201684) - [Spatial Computing](https://hypercritical.co/2024/01/30/spatial-computing)
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)
 * [2024-01-31, 09:09:25](https://news.ycombinator.com/item?id=39201648) - [The Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
