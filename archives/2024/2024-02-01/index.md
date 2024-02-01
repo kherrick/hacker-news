@@ -8,6 +8,7 @@
 * [2024-02-01, 16:20:28](https://news.ycombinator.com/item?id=39217608) - [Windows 10 users report app problems after Microsoft update](https://www.theregister.com/2024/02/01/windows_10_users_errors_hardware/)
 * [2024-02-01, 16:07:47](https://news.ycombinator.com/item?id=39217440) - [Quadratic – Open-Source Spreadsheet Is Now Multiplayer](https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet)
 * [2024-02-01, 16:07:38](https://news.ycombinator.com/item?id=39217436) - [In China, clean energy is now THE driver of overall economic growth](https://adamtooze.substack.com/p/chartbook-carbon-notes-10-in-china)
+* [2024-02-01, 16:05:19](https://news.ycombinator.com/item?id=39217395) - [CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser](https://labs.leaningtech.com/blog/cheerpj-3.0)
 * [2024-02-01, 15:52:49](https://news.ycombinator.com/item?id=39217231) - [Ask HN: Looking for a project to volunteer on? (February 2024)](https://news.ycombinator.com/item?id=39217231)
 * [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
