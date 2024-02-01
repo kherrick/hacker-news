@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 16:21:41](https://news.ycombinator.com/item?id=39217616) - [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
 * [2024-02-01, 16:20:28](https://news.ycombinator.com/item?id=39217608) - [Windows 10 users report app problems after Microsoft update](https://www.theregister.com/2024/02/01/windows_10_users_errors_hardware/)
 * [2024-02-01, 15:52:49](https://news.ycombinator.com/item?id=39217231) - [Ask HN: Looking for a project to volunteer on? (February 2024)](https://news.ycombinator.com/item?id=39217231)
 * [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
@@ -23,7 +24,6 @@
 * [2024-02-01, 04:53:54](https://news.ycombinator.com/item?id=39212833) - [The curious case of the disappearing Polish Ś (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 * [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-* [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The theory of concatenative combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:54:45](https://news.ycombinator.com/item?id=39202722) - [Neovide – A simple, no-nonsense, cross-platform GUI for Neovim](https://neovide.dev)

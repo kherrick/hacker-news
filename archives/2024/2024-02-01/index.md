@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 16:21:41](https://news.ycombinator.com/item?id=39217616) - [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
 * [2024-02-01, 16:20:28](https://news.ycombinator.com/item?id=39217608) - [Windows 10 users report app problems after Microsoft update](https://www.theregister.com/2024/02/01/windows_10_users_errors_hardware/)
 * [2024-02-01, 15:52:49](https://news.ycombinator.com/item?id=39217231) - [Ask HN: Looking for a project to volunteer on? (February 2024)](https://news.ycombinator.com/item?id=39217231)
 * [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
