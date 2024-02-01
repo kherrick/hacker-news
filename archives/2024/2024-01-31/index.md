@@ -33,6 +33,7 @@
 * [2024-01-31, 19:00:45](https://news.ycombinator.com/item?id=39207872) - [Arctic Adventure: A Lost 1981 TRS-80 Adventure Game](https://www.arctic81.com)
 * [2024-01-31, 18:57:51](https://news.ycombinator.com/item?id=39207832) - [In the Shadow of Silicon Valley: Losing San Francisco](https://www.lrb.co.uk/the-paper/v46/n03/rebecca-solnit/in-the-shadow-of-silicon-valley)
 * [2024-01-31, 18:50:19](https://news.ycombinator.com/item?id=39207719) - [Ask HN: Does Microsoft Teams work in Firefox for you?](https://news.ycombinator.com/item?id=39207719)
+* [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 18:31:36](https://news.ycombinator.com/item?id=39207475) - [Biogen Abandons Its Controversial Alzheimer's Drug Aduhelm](https://www.nytimes.com/2024/01/31/business/biogen-alzheimers-aduhelm.html)
 * [2024-01-31, 18:15:26](https://news.ycombinator.com/item?id=39207291) - [Building an early warning system for LLM-aided biological threat creation](https://openai.com/research/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 * [2024-01-31, 17:51:54](https://news.ycombinator.com/item?id=39206966) - [Kando: The Cross-Platform Pie Menu](https://github.com/kando-menu/kando)
