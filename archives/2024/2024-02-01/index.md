@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 19:52:02](https://news.ycombinator.com/item?id=39220418) - [U.S. Corporations Are Openly Trying to Destroy Core Public Institutions](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
 * [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
 * [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
@@ -11,6 +12,7 @@
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:25:14](https://news.ycombinator.com/item?id=39219344) - [Germany explores 4-day workweek amid labor shortage](https://www.dw.com/en/germany-tests-four-day-workweek-amid-labor-shortage/a-68125506)
+* [2024-02-01, 18:23:04](https://news.ycombinator.com/item?id=39219308) - [YouTube Says It Has More Than 100M Premium and Music Subscribers](https://variety.com/2024/digital/news/youtube-100-million-premium-music-subscribers-1235894391/)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
 * [2024-02-01, 18:04:17](https://news.ycombinator.com/item?id=39219073) - [Why Men Are Drifting to the Far Right](https://www.persuasion.community/p/why-men-are-drifting-to-the-far-right)
 * [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace – Pope Francis](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
