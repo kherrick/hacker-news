@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 21:45:50](https://news.ycombinator.com/item?id=39221894) - [We need motivation (good managers)](https://www.ethanalter.com/blog/motivation)
 * [2024-02-01, 21:31:43](https://news.ycombinator.com/item?id=39221738) - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
 * [2024-02-01, 21:24:06](https://news.ycombinator.com/item?id=39221661) - [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)
 * [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
-* [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
-* [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [Appin Technology’s alleged hacking past](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
+* [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:49:16](https://news.ycombinator.com/item?id=39221243) - [Make Invalid States Unrepresentable](https://www.awwsmm.com/blog/make-invalid-states-unrepresentable)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 * [2024-02-01, 19:29:43](https://news.ycombinator.com/item?id=39220124) - [Pooled number of deaths by age group in EU](https://www.euromomo.eu/graphs-and-maps/)

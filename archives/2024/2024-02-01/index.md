@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 21:45:50](https://news.ycombinator.com/item?id=39221894) - [We need motivation (good managers)](https://www.ethanalter.com/blog/motivation)
 * [2024-02-01, 21:31:43](https://news.ycombinator.com/item?id=39221738) - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
 * [2024-02-01, 21:24:06](https://news.ycombinator.com/item?id=39221661) - [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)
