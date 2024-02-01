@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 04:51:14](https://news.ycombinator.com/item?id=39212819) - [Garry Tan's Tupac Reference Goes Wrong](https://thiscrowd.com/y-combinator-president-garry-tans-tupac/)
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 * [2024-02-01, 04:39:06](https://news.ycombinator.com/item?id=39212766) - [How Boeing Put Profits over Planes](https://www.vox.com/money/24052245/boeing-corporate-culture-737-airplane-safety-door-plug)
 * [2024-02-01, 04:26:36](https://news.ycombinator.com/item?id=39212710) - [How Ancient Roman Concrete Was Able to Last Thousands of Years](https://www.sciencealert.com/we-finally-know-how-ancient-roman-concrete-was-able-to-last-thousands-of-yearsl)
