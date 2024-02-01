@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2024-02-01, 16:07:47",
-      "https://news.ycombinator.com/item?id=39217440"
-    ],
-    [
-      "Quadratic – Open-Source Spreadsheet Is Now Multiplayer",
-      "https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 16:05:19",
-      "https://news.ycombinator.com/item?id=39217395"
-    ],
-    [
-      "CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser",
-      "https://labs.leaningtech.com/blog/cheerpj-3.0"
-    ]
-  ],
-  [
-    [
       "2024-02-01, 16:00:08",
       "https://news.ycombinator.com/item?id=39217310"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-02-01, 05:12:32",
+      "https://news.ycombinator.com/item?id=39212905"
+    ],
+    [
+      "Matryoshka Representation Learning",
+      "https://arxiv.org/abs/2205.13147"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 04:53:54",
       "https://news.ycombinator.com/item?id=39212833"
     ],
@@ -267,6 +257,16 @@
     [
       "Redeployment Part Three",
       "https://brr.fyi/posts/redeployment-part-three"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 11:54:45",
+      "https://news.ycombinator.com/item?id=39202722"
+    ],
+    [
+      "Neovide – A simple, no-nonsense, cross-platform GUI for Neovim",
+      "https://neovide.dev"
     ]
   ],
   [
