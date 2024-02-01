@@ -6,6 +6,7 @@
 
 * [2024-02-01, 21:07:49](https://news.ycombinator.com/item?id=39221483) - [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
 * [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
+* [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A Startup Allegedly 'Hacked the World.' Then Came the Censorship, and Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Cloudflare Thanksgiving 2023 Security Incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 * [2024-02-01, 19:56:09](https://news.ycombinator.com/item?id=39220474) - [FOSDEM 2024 – NetBSD 10: Thirty years, still going strong [video]](https://fosdem.org/2024/schedule/event/fosdem-2024-3508-netbsd-10-thirty-years-still-going-strong-/)
 * [2024-02-01, 19:52:02](https://news.ycombinator.com/item?id=39220418) - [U.S. Corporations Are Openly Trying to Destroy Core Public Institutions](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
@@ -15,6 +16,7 @@
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 * [2024-02-01, 18:47:27](https://news.ycombinator.com/item?id=39219598) - [A new way to discover places with generative AI in Maps](https://blog.google/products/maps/google-maps-generative-ai-local-guides/)
 * [2024-02-01, 18:44:15](https://news.ycombinator.com/item?id=39219568) - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
+* [2024-02-01, 18:42:52](https://news.ycombinator.com/item?id=39219553) - [Math Built the Modern World](https://worksinprogress.co/issue/how-mathematics-built-the-modern-world/)
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:25:14](https://news.ycombinator.com/item?id=39219344) - [Germany explores 4-day workweek amid labor shortage](https://www.dw.com/en/germany-tests-four-day-workweek-amid-labor-shortage/a-68125506)
