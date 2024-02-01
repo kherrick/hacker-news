@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-01, 02:17:15](https://news.ycombinator.com/item?id=39212112) - ['Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 * [2024-02-01, 00:12:11](https://news.ycombinator.com/item?id=39211328) - [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
 * [2024-02-01, 00:02:38](https://news.ycombinator.com/item?id=39211263) - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
@@ -25,6 +24,7 @@
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)
 * [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+* [2024-01-31, 09:08:01](https://news.ycombinator.com/item?id=39201643) - [Show HN: Twine – Open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-01-31, 08:15:44](https://news.ycombinator.com/item?id=39201332) - [Constructing a Four-Point Egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 09:03:37](https://news.ycombinator.com/item?id=39187884) - [A predicted quasicrystal is based on the 'einstein' tile known as the hat](https://www.sciencenews.org/article/quasicrystal-einstein-tile-hat-shape)
 * [2024-01-29, 10:48:07](https://news.ycombinator.com/item?id=39174897) - [Strategies of the Request (2011)](http://www.petruspsychology.com/2011/10/04/strategies-of-the-request/)
