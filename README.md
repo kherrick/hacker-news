@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
-* [2024-02-01, 04:26:36](https://news.ycombinator.com/item?id=39212710) - [How Ancient Roman Concrete Was Able to Last Thousands of Years](https://www.sciencealert.com/we-finally-know-how-ancient-roman-concrete-was-able-to-last-thousands-of-yearsl)
+* [2024-02-01, 04:39:06](https://news.ycombinator.com/item?id=39212766) - [How Boeing Put Profits over Planes](https://www.vox.com/money/24052245/boeing-corporate-culture-737-airplane-safety-door-plug)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 * [2024-02-01, 00:02:38](https://news.ycombinator.com/item?id=39211263) - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 * [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
