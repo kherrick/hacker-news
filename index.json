@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-02-01, 21:31:43",
-      "https://news.ycombinator.com/item?id=39221738"
-    ],
-    [
-      "Apple reports first quarter results",
-      "https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/"
-    ]
-  ],
-  [
-    [
       "2024-02-01, 21:24:06",
       "https://news.ycombinator.com/item?id=39221661"
     ],
@@ -297,6 +287,16 @@
     [
       "Starlink's laser system is beaming 42 petabytes of data per day",
       "https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 11:55:23",
+      "https://news.ycombinator.com/item?id=39175279"
+    ],
+    [
+      "How Much Architecture Is \"Enough?\"",
+      "https://www.infoq.com/articles/mva-enough-architecture/"
     ]
   ]
 ]
