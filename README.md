@@ -1,14 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-01, 13:56:34](https://news.ycombinator.com/item?id=39215920) - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
+* [2024-02-01, 13:56:09](https://news.ycombinator.com/item?id=39215913) - [Why are Russian covert actions so easily unmasked?](https://www.tandfonline.com/doi/full/10.1080/02684527.2023.2300165)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:44:17](https://news.ycombinator.com/item?id=39215826) - [Oil firms forced to consider climate effects of new drilling, rules Norway court](https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
+* [2024-02-01, 13:36:34](https://news.ycombinator.com/item?id=39215750) - [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
 * [2024-02-01, 13:28:19](https://news.ycombinator.com/item?id=39215682) - [Voter Suppression, Harvard-Style](http://harry-lewis.blogspot.com/2022/12/voter-suppression-harvard-style.html)
-* [2024-02-01, 13:18:09](https://news.ycombinator.com/item?id=39215609) - [UNRWA-Hamas Relations](https://www.scribd.com/document/702738861/Swords-of-Iron-UNRWA-Hamas-Relations)
-* [2024-02-01, 12:48:08](https://news.ycombinator.com/item?id=39215384) - [Cops bogged down by flood of fake AI child sex images, report says](https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/)
+* [2024-02-01, 13:25:43](https://news.ycombinator.com/item?id=39215662) - [Crash tests show nation's guardrail system can't handle heavy electric vehicles](https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce)
 * [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
-* [2024-02-01, 12:30:06](https://news.ycombinator.com/item?id=39215270) - [What is an integration platform and how to integrate APIs correctly?](https://zato.io/articles/integration-platform.html)
 * [2024-02-01, 12:25:48](https://news.ycombinator.com/item?id=39215242) - [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
 * [2024-02-01, 12:16:47](https://news.ycombinator.com/item?id=39215163) - [Easy Introduction to Vector Databases](https://hubertdulay.substack.com/p/easy-introduction-to-vector-databases)
 * [2024-02-01, 12:15:13](https://news.ycombinator.com/item?id=39215153) - [Original reports summarizing the latest analysis of U.S. families](https://www.bgsu.edu/ncfmr/resources/data/family-profiles.html)
@@ -17,6 +17,7 @@
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
+* [2024-02-01, 06:04:41](https://news.ycombinator.com/item?id=39213150) - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace (2015)](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
 * [2024-02-01, 05:12:32](https://news.ycombinator.com/item?id=39212905) - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 * [2024-02-01, 04:53:54](https://news.ycombinator.com/item?id=39212833) - [The curious case of the disappearing Polish Ś (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
@@ -29,7 +30,6 @@
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The theory of concatenative combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:54:45](https://news.ycombinator.com/item?id=39202722) - [Neovide – a simple, no-nonsense, cross-platform GUI for Neovim](https://neovide.dev)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
-* [2024-01-29, 08:06:14](https://news.ycombinator.com/item?id=39173915) - [How we crowdfunded $750k for a giant book about keyboard history](https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e)
 
 ## [Archives](archives/index.md)
 

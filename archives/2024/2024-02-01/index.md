@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
 * [2024-02-01, 13:56:34](https://news.ycombinator.com/item?id=39215920) - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
+* [2024-02-01, 13:56:09](https://news.ycombinator.com/item?id=39215913) - [Why are Russian covert actions so easily unmasked?](https://www.tandfonline.com/doi/full/10.1080/02684527.2023.2300165)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:44:17](https://news.ycombinator.com/item?id=39215826) - [Oil firms forced to consider climate effects of new drilling, rules Norway court](https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
+* [2024-02-01, 13:36:34](https://news.ycombinator.com/item?id=39215750) - [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
 * [2024-02-01, 13:28:19](https://news.ycombinator.com/item?id=39215682) - [Voter Suppression, Harvard-Style](http://harry-lewis.blogspot.com/2022/12/voter-suppression-harvard-style.html)
 * [2024-02-01, 13:25:43](https://news.ycombinator.com/item?id=39215662) - [Crash tests show nation's guardrail system can't handle heavy electric vehicles](https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce)
 * [2024-02-01, 13:18:09](https://news.ycombinator.com/item?id=39215609) - [UNRWA-Hamas Relations](https://www.scribd.com/document/702738861/Swords-of-Iron-UNRWA-Hamas-Relations)
