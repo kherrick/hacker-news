@@ -2,7 +2,6 @@
 
 * [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 21:45:50](https://news.ycombinator.com/item?id=39221894) - [We need motivation (good managers)](https://www.ethanalter.com/blog/motivation)
-* [2024-02-01, 21:31:43](https://news.ycombinator.com/item?id=39221738) - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
 * [2024-02-01, 21:24:06](https://news.ycombinator.com/item?id=39221661) - [Show HN: The Super Programmer – A colorful introduction to engineering](https://keyvan.me/tsp)
 * [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
@@ -30,6 +29,7 @@
 * [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
+* [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 
 ## [Archives](archives/index.md)
 
