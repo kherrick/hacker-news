@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 17:00:23](https://news.ycombinator.com/item?id=39218160) - [HyperDX (YC S22) Is Hiring a Founding Engineer – Open-Source Observability (SF)](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
+* [2024-02-01, 16:32:23](https://news.ycombinator.com/item?id=39217757) - [It's Fair to Describe Schizophrenia as Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia)
 * [2024-02-01, 16:21:41](https://news.ycombinator.com/item?id=39217616) - [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
 * [2024-02-01, 16:20:28](https://news.ycombinator.com/item?id=39217608) - [Windows 10 users report app problems after Microsoft update](https://www.theregister.com/2024/02/01/windows_10_users_errors_hardware/)
+* [2024-02-01, 16:15:21](https://news.ycombinator.com/item?id=39217550) - [Show HN: ML Blocks – Deploy multimodal AI workflows without code](https://www.mlblocks.com/)
 * [2024-02-01, 16:07:47](https://news.ycombinator.com/item?id=39217440) - [Quadratic – Open-Source Spreadsheet Is Now Multiplayer](https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet)
 * [2024-02-01, 16:07:38](https://news.ycombinator.com/item?id=39217436) - [In China, clean energy is now THE driver of overall economic growth](https://adamtooze.substack.com/p/chartbook-carbon-notes-10-in-china)
 * [2024-02-01, 16:05:19](https://news.ycombinator.com/item?id=39217395) - [CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser](https://labs.leaningtech.com/blog/cheerpj-3.0)
