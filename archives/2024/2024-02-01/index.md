@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 17:21:42](https://news.ycombinator.com/item?id=39218463) - [Corporations Openly Trying to Destroy Core Public Institutions. We Should Worry](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
+* [2024-02-01, 17:14:43](https://news.ycombinator.com/item?id=39218367) - [Google Maps is getting 'supercharged' with generative AI](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search)
+* [2024-02-01, 17:06:18](https://news.ycombinator.com/item?id=39218237) - [Religious 'Nones' in America: Who They Are and What They Believe](https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/)
 * [2024-02-01, 17:00:23](https://news.ycombinator.com/item?id=39218160) - [HyperDX (YC S22) Is Hiring a Founding Engineer – Open-Source Observability (SF)](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
 * [2024-02-01, 16:32:23](https://news.ycombinator.com/item?id=39217757) - [It's Fair to Describe Schizophrenia as Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia)
 * [2024-02-01, 16:21:41](https://news.ycombinator.com/item?id=39217616) - [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
@@ -29,6 +32,7 @@
 * [2024-02-01, 13:44:17](https://news.ycombinator.com/item?id=39215826) - [Oil firms forced to consider climate effects of new drilling, rules Norway court](https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 * [2024-02-01, 13:36:34](https://news.ycombinator.com/item?id=39215750) - [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
+* [2024-02-01, 13:35:00](https://news.ycombinator.com/item?id=39215732) - [Apprise: Open-Source, Self-Hosted, Push Notifications](https://github.com/caronc/apprise)
 * [2024-02-01, 13:33:38](https://news.ycombinator.com/item?id=39215723) - [Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
 * [2024-02-01, 13:28:19](https://news.ycombinator.com/item?id=39215682) - [Voter Suppression, Harvard-Style](http://harry-lewis.blogspot.com/2022/12/voter-suppression-harvard-style.html)
 * [2024-02-01, 13:25:43](https://news.ycombinator.com/item?id=39215662) - [Crash tests show nation's guardrail system can't handle heavy electric vehicles](https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce)
