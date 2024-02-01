@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 21:07:49](https://news.ycombinator.com/item?id=39221483) - [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
 * [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Cloudflare Thanksgiving 2023 Security Incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 * [2024-02-01, 19:56:09](https://news.ycombinator.com/item?id=39220474) - [FOSDEM 2024 – NetBSD 10: Thirty years, still going strong [video]](https://fosdem.org/2024/schedule/event/fosdem-2024-3508-netbsd-10-thirty-years-still-going-strong-/)
