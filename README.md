@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
+* [2024-02-01, 12:34:34](https://news.ycombinator.com/item?id=39215302) - [InstaPython – Instant custom Python scripts on-demand](https://instapython.com)
 * [2024-02-01, 12:25:48](https://news.ycombinator.com/item?id=39215242) - [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
-* [2024-02-01, 12:24:35](https://news.ycombinator.com/item?id=39215230) - [Senate tells social media CEOs they have 'blood on their hands'](https://www.engadget.com/senate-tells-social-media-ceos-they-have-blood-on-their-hands-for-failing-to-protect-children-170411884.html)
 * [2024-02-01, 12:14:32](https://news.ycombinator.com/item?id=39215142) - [Think of your home as (small) profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
@@ -20,7 +21,6 @@
 * [2024-01-31, 19:50:59](https://news.ycombinator.com/item?id=39208451) - [Show HN: Some blind hackers are bridging IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot/)
 * [2024-01-31, 17:35:09](https://news.ycombinator.com/item?id=39206731) - [Testing how hard it is to cheat with ChatGPT in interviews](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 * [2024-01-31, 17:22:48](https://news.ycombinator.com/item?id=39206529) - [Sega AI](https://www.smspower.org/SegaAI/Index)
-* [2024-01-31, 17:13:05](https://news.ycombinator.com/item?id=39206375) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)

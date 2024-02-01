@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
+* [2024-02-01, 12:34:34](https://news.ycombinator.com/item?id=39215302) - [InstaPython – Instant custom Python scripts on-demand](https://instapython.com)
 * [2024-02-01, 12:25:48](https://news.ycombinator.com/item?id=39215242) - [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
 * [2024-02-01, 12:24:35](https://news.ycombinator.com/item?id=39215230) - [Senate tells social media CEOs they have 'blood on their hands'](https://www.engadget.com/senate-tells-social-media-ceos-they-have-blood-on-their-hands-for-failing-to-protect-children-170411884.html)
 * [2024-02-01, 12:14:32](https://news.ycombinator.com/item?id=39215142) - [Think of your home as (small) profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
