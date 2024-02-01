@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 21:31:43](https://news.ycombinator.com/item?id=39221738) - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
 * [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
 * [2024-02-01, 21:07:49](https://news.ycombinator.com/item?id=39221483) - [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
 * [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
@@ -12,6 +13,7 @@
 * [2024-02-01, 19:56:09](https://news.ycombinator.com/item?id=39220474) - [FOSDEM 2024 – NetBSD 10: Thirty years, still going strong [video]](https://fosdem.org/2024/schedule/event/fosdem-2024-3508-netbsd-10-thirty-years-still-going-strong-/)
 * [2024-02-01, 19:52:02](https://news.ycombinator.com/item?id=39220418) - [U.S. Corporations Are Openly Trying to Destroy Core Public Institutions](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
 * [2024-02-01, 19:17:16](https://news.ycombinator.com/item?id=39219953) - [Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=)
+* [2024-02-01, 19:13:50](https://news.ycombinator.com/item?id=39219903) - [Large sequence models for software development activities](https://blog.research.google/2023/05/large-sequence-models-for-software.html)
 * [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
 * [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
