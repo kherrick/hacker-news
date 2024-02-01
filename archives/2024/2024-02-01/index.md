@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 12:24:35](https://news.ycombinator.com/item?id=39215230) - [Senate tells social media CEOs they have 'blood on their hands'](https://www.engadget.com/senate-tells-social-media-ceos-they-have-blood-on-their-hands-for-failing-to-protect-children-170411884.html)
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 11:04:04](https://news.ycombinator.com/item?id=39214701) - [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
