@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-01, 04:51:14](https://news.ycombinator.com/item?id=39212819) - [Garry Tan's Tupac Reference Goes Wrong](https://thiscrowd.com/y-combinator-president-garry-tans-tupac/)
+* [2024-02-01, 06:04:41](https://news.ycombinator.com/item?id=39213150) - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+* [2024-02-01, 05:12:32](https://news.ycombinator.com/item?id=39212905) - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
 * [2024-02-01, 04:39:06](https://news.ycombinator.com/item?id=39212766) - [How Boeing Put Profits over Planes](https://www.vox.com/money/24052245/boeing-corporate-culture-737-airplane-safety-door-plug)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
@@ -22,7 +23,6 @@
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
-* [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)
 * [2024-01-31, 13:35:08](https://news.ycombinator.com/item?id=39203582) - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The Theory of Concatenative Combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 13:14:40](https://news.ycombinator.com/item?id=39203354) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks for HPC and Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
