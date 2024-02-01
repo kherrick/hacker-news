@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
+* [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
 * [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
 * [2024-02-01, 15:25:20](https://news.ycombinator.com/item?id=39216921) - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
 * [2024-02-01, 15:11:59](https://news.ycombinator.com/item?id=39216790) - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
 * [2024-02-01, 14:13:20](https://news.ycombinator.com/item?id=39216110) - [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
-* [2024-02-01, 13:56:34](https://news.ycombinator.com/item?id=39215920) - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 * [2024-02-01, 13:36:34](https://news.ycombinator.com/item?id=39215750) - [Neanderthals and humans lived side by side in Northern Europe 45,000 years ago](https://phys.org/news/2024-01-neanderthals-humans-side-northern-europe.html)
@@ -27,7 +28,6 @@
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The theory of concatenative combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:54:45](https://news.ycombinator.com/item?id=39202722) - [Neovide – A simple, no-nonsense, cross-platform GUI for Neovim](https://neovide.dev)
 * [2024-01-31, 09:27:23](https://news.ycombinator.com/item?id=39201772) - [In Praise of Buttons](https://www.nubero.ch/blog/009/)
-* [2024-01-31, 09:14:32](https://news.ycombinator.com/item?id=39201684) - [Spatial Computing](https://hypercritical.co/2024/01/30/spatial-computing)
 * [2024-01-30, 11:47:46](https://news.ycombinator.com/item?id=39188987) - [To Be Is to Be a Value of a Variable (2006) [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 
