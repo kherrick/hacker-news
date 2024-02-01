@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-02-01, 06:11:16",
-      "https://news.ycombinator.com/item?id=39213180"
-    ],
-    [
-      "EU chip goal 'unrealistic' says ASML CEO",
-      "https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/"
-    ]
-  ],
-  [
-    [
       "2024-02-01, 06:04:41",
       "https://news.ycombinator.com/item?id=39213150"
     ],
     [
       "Marlon Brando Was a Secret Tech Geek and Photoshop Ace",
       "https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 05:13:16",
+      "https://news.ycombinator.com/item?id=39212910"
+    ],
+    [
+      "RFC: Rust Has Provenance",
+      "https://github.com/rust-lang/rfcs/pull/3559"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39212813"
     ],
     [
-      "Pivotal Mental States",
+      "Pivotal Mental States (2020)",
       "https://journals.sagepub.com/doi/full/10.1177/0269881120959637"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39203404"
     ],
     [
-      "The Theory of Concatenative Combinators (2007)",
+      "The theory of concatenative combinators (2007)",
       "http://tunes.org/~iepos/joy.html"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39173915"
     ],
     [
-      "How We Crowdfunded $750k for a Giant Book about Keyboard History",
+      "How we crowdfunded $750k for a giant book about keyboard history",
       "https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e"
     ]
   ],
