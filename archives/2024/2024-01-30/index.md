@@ -73,6 +73,7 @@
 * [2024-01-30, 12:25:57](https://news.ycombinator.com/item?id=39189289) - [Show HN: Mailready – meet the new email deliverability standards](https://mailready.info)
 * [2024-01-30, 12:22:06](https://news.ycombinator.com/item?id=39189252) - [ISBL: Information Systems Base Language Implemented in Tcl](https://github.com/jbroll/isbl)
 * [2024-01-30, 11:50:49](https://news.ycombinator.com/item?id=39189015) - [Chris Date and the Relational Model (2014)](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/chris-date-and-the-relational-model/)
+* [2024-01-30, 11:47:46](https://news.ycombinator.com/item?id=39188987) - [To Be Is to Be a Value of a Variable [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
 * [2024-01-30, 11:43:51](https://news.ycombinator.com/item?id=39188954) - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 * [2024-01-30, 11:35:19](https://news.ycombinator.com/item?id=39188886) - [Build a simple LSM-Tree storage engine in a week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 11:19:06](https://news.ycombinator.com/item?id=39188760) - [Launch HN: Univerbal (YC W23) – Language learning with a conversational AI tutor](https://news.ycombinator.com/item?id=39188760)
