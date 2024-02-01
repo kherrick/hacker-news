@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
+* [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 * [2024-02-01, 18:44:15](https://news.ycombinator.com/item?id=39219568) - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)

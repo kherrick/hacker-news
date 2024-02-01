@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
+* [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 * [2024-02-01, 18:44:15](https://news.ycombinator.com/item?id=39219568) - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
@@ -20,14 +22,12 @@
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 * [2024-02-01, 13:35:00](https://news.ycombinator.com/item?id=39215732) - [Apprise: Open-Source, Self-Hosted, Push Notifications](https://github.com/caronc/apprise)
 * [2024-02-01, 13:33:38](https://news.ycombinator.com/item?id=39215723) - [Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
-* [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
 * [2024-02-01, 12:25:48](https://news.ycombinator.com/item?id=39215242) - [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
 * [2024-02-01, 11:46:28](https://news.ycombinator.com/item?id=39214939) - [Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 * [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
-* [2024-01-30, 11:47:46](https://news.ycombinator.com/item?id=39188987) - [To Be Is to Be a Value of a Variable (2006) [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 
