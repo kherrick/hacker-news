@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+* [2024-02-01, 15:25:20](https://news.ycombinator.com/item?id=39216921) - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
 * [2024-02-01, 15:11:59](https://news.ycombinator.com/item?id=39216790) - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
 * [2024-02-01, 14:13:20](https://news.ycombinator.com/item?id=39216110) - [Lifestance: A mental health rollup headed for a breakdown](https://hindenburgresearch.com/lifestance/)
 * [2024-02-01, 13:56:34](https://news.ycombinator.com/item?id=39215920) - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
@@ -23,7 +24,6 @@
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 13:39:36](https://news.ycombinator.com/item?id=39203633) - [Code Coverage for Arbitrary Languages Made Easy [pdf]](http://www.semdesigns.com/Company/Publications/TestCoverage.pdf)
-* [2024-01-31, 13:35:08](https://news.ycombinator.com/item?id=39203582) - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The theory of concatenative combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:54:45](https://news.ycombinator.com/item?id=39202722) - [Neovide – A simple, no-nonsense, cross-platform GUI for Neovim](https://neovide.dev)
 * [2024-01-31, 09:27:23](https://news.ycombinator.com/item?id=39201772) - [In Praise of Buttons](https://www.nubero.ch/blog/009/)
