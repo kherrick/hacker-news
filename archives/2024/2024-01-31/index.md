@@ -84,6 +84,7 @@
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians–and their universities–climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
 * [2024-01-31, 09:54:27](https://news.ycombinator.com/item?id=39201922) - [IPC – Shared Memory](https://goodyduru.github.io/os/2024/01/31/ipc-shared-memory.html)
 * [2024-01-31, 09:43:34](https://news.ycombinator.com/item?id=39201859) - [Byju's seeks $200M in rights issue at 99% valuation cut](https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr)
+* [2024-01-31, 09:27:23](https://news.ycombinator.com/item?id=39201772) - [In Praise of Buttons](https://www.nubero.ch/blog/009/)
 * [2024-01-31, 09:25:35](https://news.ycombinator.com/item?id=39201756) - [Rust, a Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-31, 09:14:32](https://news.ycombinator.com/item?id=39201684) - [Spatial Computing](https://hypercritical.co/2024/01/30/spatial-computing)
 * [2024-01-31, 09:11:28](https://news.ycombinator.com/item?id=39201660) - [The Pentagon Tried to Hide That It Bought Americans' Data Without a Warrant](https://www.wired.com/story/pentagon-data-purchases-wyden-letter/)

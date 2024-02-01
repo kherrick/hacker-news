@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+* [2024-02-01, 15:11:59](https://news.ycombinator.com/item?id=39216790) - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
 * [2024-02-01, 14:29:21](https://news.ycombinator.com/item?id=39216284) - [Astro 4.3](https://astro.build/blog/astro-430/)
 * [2024-02-01, 14:16:21](https://news.ycombinator.com/item?id=39216149) - [AI-related companies lost $190B in stock market value](https://futurism.com/the-byte/ai-companies-lose-190-billion-dismal-google-report)
 * [2024-02-01, 14:13:20](https://news.ycombinator.com/item?id=39216110) - [LifeStance: A Private Equity-Backed Mental Health Rollup Headed For A Breakdown](https://hindenburgresearch.com/lifestance/)
