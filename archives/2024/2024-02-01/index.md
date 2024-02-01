@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
 * [2024-02-01, 17:21:42](https://news.ycombinator.com/item?id=39218463) - [Corporations Openly Trying to Destroy Core Public Institutions. We Should Worry](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
+* [2024-02-01, 17:20:35](https://news.ycombinator.com/item?id=39218446) - [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
 * [2024-02-01, 17:14:43](https://news.ycombinator.com/item?id=39218367) - [Google Maps is getting 'supercharged' with generative AI](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search)
 * [2024-02-01, 17:06:18](https://news.ycombinator.com/item?id=39218237) - [Religious 'Nones' in America: Who They Are and What They Believe](https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/)
+* [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 * [2024-02-01, 17:00:23](https://news.ycombinator.com/item?id=39218160) - [HyperDX (YC S22) Is Hiring a Founding Engineer – Open-Source Observability (SF)](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
 * [2024-02-01, 16:32:23](https://news.ycombinator.com/item?id=39217757) - [It's Fair to Describe Schizophrenia as Probably Mostly Genetic](https://www.astralcodexten.com/p/its-fair-to-describe-schizophrenia)
 * [2024-02-01, 16:21:41](https://news.ycombinator.com/item?id=39217616) - [US designates more Chinese tech companies as military collaborators](https://www.theregister.com/2024/02/01/us_china_military_collaborators/)
