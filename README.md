@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
+* [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace – Pope Francis](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:20:35](https://news.ycombinator.com/item?id=39218446) - [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
@@ -22,14 +24,12 @@
 * [2024-02-01, 11:46:28](https://news.ycombinator.com/item?id=39214939) - [Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
-* [2024-02-01, 05:12:32](https://news.ycombinator.com/item?id=39212905) - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 * [2024-02-01, 04:53:54](https://news.ycombinator.com/item?id=39212833) - [The curious case of the disappearing Polish Ś (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
-* [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-* [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-30, 11:47:46](https://news.ycombinator.com/item?id=39188987) - [To Be Is to Be a Value of a Variable (2006) [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
+* [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 
 ## [Archives](archives/index.md)
 

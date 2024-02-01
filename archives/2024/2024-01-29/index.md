@@ -83,6 +83,7 @@
 * [2024-01-29, 12:19:17](https://news.ycombinator.com/item?id=39175423) - [Ingenuity had more computing power than all NASA deep space missions combined](https://arstechnica.com/space/2024/01/now-that-weve-flown-on-mars-what-comes-next-in-aerial-planetary-exploration/)
 * [2024-01-29, 12:13:58](https://news.ycombinator.com/item?id=39175393) - [Svelte Native: The Svelte Mobile Development Experience](https://svelte-native.technology/)
 * [2024-01-29, 12:08:26](https://news.ycombinator.com/item?id=39175359) - [Accessing the Pinecil UART with Picoprobe](https://danielmangum.com/posts/risc-v-bytes-accessing-pinecil-uart-picoprobe/)
+* [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 * [2024-01-29, 11:29:47](https://news.ycombinator.com/item?id=39175137) - [String Prism](https://bkis.github.io/string-prism/)
 * [2024-01-29, 11:26:08](https://news.ycombinator.com/item?id=39175112) - [The Broadway Windowing System](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-29, 11:04:00](https://news.ycombinator.com/item?id=39174998) - [Adding type safety to object IDs in TypeScript](https://www.kravchyk.com/adding-type-safety-to-object-ids-typescript/)

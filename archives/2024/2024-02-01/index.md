@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
 * [2024-02-01, 18:04:17](https://news.ycombinator.com/item?id=39219073) - [Why Men Are Drifting to the Far Right](https://www.persuasion.community/p/why-men-are-drifting-to-the-far-right)
+* [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace – Pope Francis](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:21:42](https://news.ycombinator.com/item?id=39218463) - [Corporations Openly Trying to Destroy Core Public Institutions. We Should Worry](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
 * [2024-02-01, 17:20:35](https://news.ycombinator.com/item?id=39218446) - [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
