@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-01, 13:56:34",
+      "https://news.ycombinator.com/item?id=39215920"
+    ],
+    [
+      "'I should not have written 'A Clockwork Orange''",
+      "https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 13:47:48",
+      "https://news.ycombinator.com/item?id=39215846"
+    ],
+    [
+      "Damn Small Linux 2024",
+      "https://www.damnsmalllinux.org/"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 13:44:17",
+      "https://news.ycombinator.com/item?id=39215826"
+    ],
+    [
+      "Oil firms forced to consider climate effects of new drilling, rules Norway court",
+      "https://theconversation.com/oil-firms-forced-to-consider-full-climate-effects-of-new-drilling-following-landmark-norwegian-court-ruling-221810"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 13:38:42",
       "https://news.ycombinator.com/item?id=39215779"
     ],
@@ -11,12 +41,22 @@
   ],
   [
     [
-      "2024-02-01, 13:25:43",
-      "https://news.ycombinator.com/item?id=39215662"
+      "2024-02-01, 13:28:19",
+      "https://news.ycombinator.com/item?id=39215682"
     ],
     [
-      "Crash tests show nation's guardrail system can't handle heavy electric vehicles",
-      "https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce"
+      "Voter Suppression, Harvard-Style",
+      "http://harry-lewis.blogspot.com/2022/12/voter-suppression-harvard-style.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 13:18:09",
+      "https://news.ycombinator.com/item?id=39215609"
+    ],
+    [
+      "UNRWA-Hamas Relations",
+      "https://www.scribd.com/document/702738861/Swords-of-Iron-UNRWA-Hamas-Relations"
     ]
   ],
   [
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2024-02-01, 12:30:06",
+      "https://news.ycombinator.com/item?id=39215270"
+    ],
+    [
+      "What is an integration platform and how to integrate APIs correctly?",
+      "https://zato.io/articles/integration-platform.html"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 12:25:48",
       "https://news.ycombinator.com/item?id=39215242"
     ],
@@ -61,12 +111,32 @@
   ],
   [
     [
+      "2024-02-01, 12:15:13",
+      "https://news.ycombinator.com/item?id=39215153"
+    ],
+    [
+      "Original reports summarizing the latest analysis of U.S. families",
+      "https://www.bgsu.edu/ncfmr/resources/data/family-profiles.html"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 12:14:32",
       "https://news.ycombinator.com/item?id=39215142"
     ],
     [
       "Think of your home as (small) profitable power plant",
       "https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 11:46:28",
+      "https://news.ycombinator.com/item?id=39214939"
+    ],
+    [
+      "Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM",
+      "https://arxiv.org/abs/2401.09417"
     ]
   ],
   [
@@ -91,32 +161,12 @@
   ],
   [
     [
-      "2024-02-01, 11:04:04",
-      "https://news.ycombinator.com/item?id=39214701"
-    ],
-    [
-      "Across the country, houses of worship are going solar",
-      "https://grist.org/buildings/more-churches-plugging-solar-power/"
-    ]
-  ],
-  [
-    [
       "2024-02-01, 07:00:46",
       "https://news.ycombinator.com/item?id=39213421"
     ],
     [
       "PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)",
       "https://news.ycombinator.com/item?id=39213421"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 06:04:41",
-      "https://news.ycombinator.com/item?id=39213150"
-    ],
-    [
-      "Marlon Brando Was a Secret Tech Geek and Photoshop Ace (2015)",
-      "https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html"
     ]
   ],
   [
@@ -181,46 +231,6 @@
   ],
   [
     [
-      "2024-01-31, 22:39:35",
-      "https://news.ycombinator.com/item?id=39210436"
-    ],
-    [
-      "Visual Analysis of Binary Files",
-      "http://binvis.io/#/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 20:07:02",
-      "https://news.ycombinator.com/item?id=39208673"
-    ],
-    [
-      "I moved my blog from IPFS to a server",
-      "https://neimanslab.org/2024-01-31/why-i-moved-my-blog-ipfs-to-server.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 19:50:59",
-      "https://news.ycombinator.com/item?id=39208451"
-    ],
-    [
-      "Show HN: Some blind hackers are bridging IRC to LMMs running locally",
-      "https://2mb.codes/~cmb/ollama-bot/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 17:35:09",
-      "https://news.ycombinator.com/item?id=39206731"
-    ],
-    [
-      "Testing how hard it is to cheat with ChatGPT in interviews",
-      "https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 16:29:12",
       "https://news.ycombinator.com/item?id=39205725"
     ],
@@ -237,16 +247,6 @@
     [
       "Infinite Craft",
       "https://neal.fun/infinite-craft/"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 15:27:06",
-      "https://news.ycombinator.com/item?id=39204918"
-    ],
-    [
-      "The Far Side – By Gary Larson",
-      "https://www.thefarside.com/"
     ]
   ],
   [
