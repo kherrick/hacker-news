@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-01, 13:25:43",
+      "https://news.ycombinator.com/item?id=39215662"
+    ],
+    [
+      "Crash tests show nation's guardrail system can't handle heavy electric vehicles",
+      "https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 12:48:08",
+      "https://news.ycombinator.com/item?id=39215384"
+    ],
+    [
+      "Cops bogged down by flood of fake AI child sex images, report says",
+      "https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 12:36:15",
       "https://news.ycombinator.com/item?id=39215309"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-01-31, 21:31:44",
-      "https://news.ycombinator.com/item?id=39209687"
-    ],
-    [
-      "Generating Fantasy Maps (2016)",
-      "http://mewo2.com/notes/terrain/"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 20:07:02",
       "https://news.ycombinator.com/item?id=39208673"
     ],
@@ -197,16 +207,6 @@
     [
       "Sega AI",
       "https://www.smspower.org/SegaAI/Index"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 17:13:05",
-      "https://news.ycombinator.com/item?id=39206375"
-    ],
-    [
-      "LLaVA-1.6: Improved reasoning, OCR, and world knowledge",
-      "https://llava-vl.github.io/blog/2024-01-30-llava-1-6/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-01-31, 11:54:45",
+      "https://news.ycombinator.com/item?id=39202722"
+    ],
+    [
+      "Neovide – a simple, no-nonsense, cross-platform GUI for Neovim",
+      "https://neovide.dev"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 08:00:26",
       "https://news.ycombinator.com/item?id=39187487"
     ],
@@ -287,16 +297,6 @@
     [
       "How we crowdfunded $750k for a giant book about keyboard history",
       "https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 07:21:58",
-      "https://news.ycombinator.com/item?id=39173665"
-    ],
-    [
-      "Executing Cron Scripts Reliably at Scale",
-      "https://slack.engineering/executing-cron-scripts-reliably-at-scale/"
     ]
   ]
 ]
