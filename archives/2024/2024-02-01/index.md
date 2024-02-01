@@ -7,6 +7,7 @@
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 * [2024-02-01, 06:04:41](https://news.ycombinator.com/item?id=39213150) - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+* [2024-02-01, 05:13:16](https://news.ycombinator.com/item?id=39212910) - [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)
 * [2024-02-01, 05:12:32](https://news.ycombinator.com/item?id=39212905) - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 * [2024-02-01, 04:51:14](https://news.ycombinator.com/item?id=39212819) - [Garry Tan's Tupac Reference Goes Wrong](https://thiscrowd.com/y-combinator-president-garry-tans-tupac/)
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
