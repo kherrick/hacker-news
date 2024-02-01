@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
 * [2024-02-01, 21:07:49](https://news.ycombinator.com/item?id=39221483) - [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
 * [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A Startup Allegedly 'Hacked the World.' Then Came the Censorship, and Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)

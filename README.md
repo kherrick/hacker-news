@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
 * [2024-02-01, 21:07:49](https://news.ycombinator.com/item?id=39221483) - [Meta Reports Fourth Quarter and Full Year 2023 Results](https://investor.fb.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx)
 * [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A Startup Allegedly 'Hacked the World.' Then Came the Censorship, and Backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
@@ -17,7 +18,6 @@
 * [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 16:00:06](https://news.ycombinator.com/item?id=39217308) - [Ask HN: Who wants to be hired? (February 2024)](https://news.ycombinator.com/item?id=39217308)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
-* [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
 * [2024-02-01, 15:23:27](https://news.ycombinator.com/item?id=39216904) - [Compiling a Lisp (2020)](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
