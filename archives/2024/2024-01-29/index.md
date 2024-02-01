@@ -97,6 +97,7 @@
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
 * [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
 * [2024-01-29, 08:14:50](https://news.ycombinator.com/item?id=39173971) - [Paul Erdős, the most prolific mathematician](https://www.scientificamerican.com/article/this-nomadic-eccentric-was-the-most-prolific-mathematician-in-history/)
+* [2024-01-29, 08:06:14](https://news.ycombinator.com/item?id=39173915) - [How We Crowdfunded $750k for a Giant Book about Keyboard History](https://glennf.medium.com/how-we-crowdfunded-750-000-for-a-giant-book-about-keyboard-history-c30e24c4022e)
 * [2024-01-29, 07:55:25](https://news.ycombinator.com/item?id=39173848) - [On a Tesla: Don't](https://medium.com/jammernd/on-a-tesla-dont-c6bdb6bf6138)
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 07:21:58](https://news.ycombinator.com/item?id=39173665) - [Executing Cron Scripts Reliably at Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/)

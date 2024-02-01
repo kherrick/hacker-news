@@ -13,6 +13,7 @@
 * [2024-01-31, 21:43:40](https://news.ycombinator.com/item?id=39209814) - [DeepSeek Coder: Let the Code Write Itself](https://deepseekcoder.github.io/)
 * [2024-01-31, 21:31:44](https://news.ycombinator.com/item?id=39209687) - [Generating Fantasy Maps](http://mewo2.com/notes/terrain/)
 * [2024-01-31, 21:31:29](https://news.ycombinator.com/item?id=39209684) - [Non-deterministic execution of Python functions](https://gitlab.inria.fr/cpaperma/nondet)
+* [2024-01-31, 21:24:02](https://news.ycombinator.com/item?id=39209607) - [A roadmap and appeal for help from The Matrix.org Foundation](https://matrix.org/blog/2024/01/2024-roadmap-and-fundraiser/)
 * [2024-01-31, 21:10:13](https://news.ycombinator.com/item?id=39209469) - [Comcast reluctantly agrees to stop its misleading \"10G Network\" claims](https://arstechnica.com/tech-policy/2024/01/comcast-to-stop-calling-entire-network-10g-as-name-is-ruled-misleading/)
 * [2024-01-31, 21:01:09](https://news.ycombinator.com/item?id=39209356) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-01-31, 21:00:53](https://news.ycombinator.com/item?id=39209352) - [FBI confirms it issued remote kill command to blow out Volt Typhoon's botnet](https://www.theregister.com/2024/01/31/volt_typhoon_botnet/)
