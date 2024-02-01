@@ -62,6 +62,7 @@
 * [2024-01-31, 14:06:20](https://news.ycombinator.com/item?id=39203916) - [Ask HN: Any good Silicon Valley Photo coffee table books?](https://news.ycombinator.com/item?id=39203916)
 * [2024-01-31, 14:01:33](https://news.ycombinator.com/item?id=39203862) - [Show HN: Fourays: AY-3-8910 Synthesizer (Part 1)](https://doug.lon.dev/blog/2024/fourays/part-1/)
 * [2024-01-31, 13:50:02](https://news.ycombinator.com/item?id=39203738) - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
+* [2024-01-31, 13:39:36](https://news.ycombinator.com/item?id=39203633) - [Code Coverage for Arbitrary Languages Made Easy [pdf]](http://www.semdesigns.com/Company/Publications/TestCoverage.pdf)
 * [2024-01-31, 13:35:08](https://news.ycombinator.com/item?id=39203582) - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 * [2024-01-31, 13:32:00](https://news.ycombinator.com/item?id=39203542) - [Does fermion doubling make the universe not a computer?](https://scottaaronson.blog/?p=7705)
 * [2024-01-31, 13:25:11](https://news.ycombinator.com/item?id=39203463) - [Show HN: Telescope – Hassle-free company research](https://scope.quantichq.com/)

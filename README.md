@@ -23,7 +23,7 @@
 * [2024-01-31, 16:33:50](https://news.ycombinator.com/item?id=39205784) - [Differ: Tool for testing and validating transformed programs](https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/)
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
-* [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)
+* [2024-01-31, 13:39:36](https://news.ycombinator.com/item?id=39203633) - [Code Coverage for Arbitrary Languages Made Easy [pdf]](http://www.semdesigns.com/Company/Publications/TestCoverage.pdf)
 * [2024-01-31, 13:35:08](https://news.ycombinator.com/item?id=39203582) - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The Theory of Concatenative Combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 09:14:32](https://news.ycombinator.com/item?id=39201684) - [Spatial Computing](https://hypercritical.co/2024/01/30/spatial-computing)
