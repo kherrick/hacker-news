@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 14:29:21](https://news.ycombinator.com/item?id=39216284) - [Astro 4.3](https://astro.build/blog/astro-430/)
 * [2024-02-01, 14:16:21](https://news.ycombinator.com/item?id=39216149) - [AI-related companies lost $190B in stock market value](https://futurism.com/the-byte/ai-companies-lose-190-billion-dismal-google-report)
 * [2024-02-01, 14:13:20](https://news.ycombinator.com/item?id=39216110) - [LifeStance: A Private Equity-Backed Mental Health Rollup Headed For A Breakdown](https://hindenburgresearch.com/lifestance/)
 * [2024-02-01, 13:56:34](https://news.ycombinator.com/item?id=39215920) - ['I should not have written 'A Clockwork Orange''](https://english.elpais.com/culture/2024-01-29/i-should-not-have-written-a-clockwork-orange-how-anthony-burgess-came-to-disown-his-own-novel.html)
