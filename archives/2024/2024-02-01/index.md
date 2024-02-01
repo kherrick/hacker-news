@@ -10,6 +10,7 @@
 * [2024-02-01, 18:44:15](https://news.ycombinator.com/item?id=39219568) - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
+* [2024-02-01, 18:25:14](https://news.ycombinator.com/item?id=39219344) - [Germany explores 4-day workweek amid labor shortage](https://www.dw.com/en/germany-tests-four-day-workweek-amid-labor-shortage/a-68125506)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
 * [2024-02-01, 18:04:17](https://news.ycombinator.com/item?id=39219073) - [Why Men Are Drifting to the Far Right](https://www.persuasion.community/p/why-men-are-drifting-to-the-far-right)
 * [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace – Pope Francis](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
