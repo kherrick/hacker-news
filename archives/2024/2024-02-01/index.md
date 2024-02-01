@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
+* [2024-02-01, 04:26:36](https://news.ycombinator.com/item?id=39212710) - [How Ancient Roman Concrete Was Able to Last Thousands of Years](https://www.sciencealert.com/we-finally-know-how-ancient-roman-concrete-was-able-to-last-thousands-of-yearsl)
 * [2024-02-01, 03:30:41](https://news.ycombinator.com/item?id=39212474) - [Amazon left Roomba with a huge mess to clean up](https://www.theverge.com/2024/1/31/24057077/irobot-amazon-deal-collapse-roomba-uncertain-future)
 * [2024-02-01, 02:46:37](https://news.ycombinator.com/item?id=39212257) - [Photoshop's \"generative expand\" tool may have expanded bust and exposed midriff](https://www.abc.net.au/news/2024-02-01/georgie-purcell-ai-image-nine-news-apology-digital-ethics/103408440)
 * [2024-02-01, 02:17:15](https://news.ycombinator.com/item?id=39212112) - ['Pataphysics](https://en.wikipedia.org/wiki/%27Pataphysics)

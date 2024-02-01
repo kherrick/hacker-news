@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-01, 04:49:47](https://news.ycombinator.com/item?id=39212813) - [Pivotal Mental States](https://journals.sagepub.com/doi/full/10.1177/0269881120959637)
+* [2024-02-01, 04:26:36](https://news.ycombinator.com/item?id=39212710) - [How Ancient Roman Concrete Was Able to Last Thousands of Years](https://www.sciencealert.com/we-finally-know-how-ancient-roman-concrete-was-able-to-last-thousands-of-yearsl)
 * [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 * [2024-02-01, 00:02:38](https://news.ycombinator.com/item?id=39211263) - [Gnuplotlib: Non-Painful Plotting for NumPy](https://github.com/dkogan/gnuplotlib)
 * [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
@@ -21,7 +22,6 @@
 * [2024-01-31, 16:29:12](https://news.ycombinator.com/item?id=39205725) - [Launch HN: Encord (YC W21) – Unit testing for computer vision models](https://news.ycombinator.com/item?id=39205725)
 * [2024-01-31, 15:34:28](https://news.ycombinator.com/item?id=39205020) - [Infinite Craft](https://neal.fun/infinite-craft/)
 * [2024-01-31, 15:27:06](https://news.ycombinator.com/item?id=39204918) - [The Far Side – By Gary Larson](https://www.thefarside.com/)
-* [2024-01-31, 14:39:19](https://news.ycombinator.com/item?id=39204314) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:19:49](https://news.ycombinator.com/item?id=39203404) - [The Theory of Concatenative Combinators (2007)](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 13:14:40](https://news.ycombinator.com/item?id=39203354) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks for HPC and Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
 * [2024-01-31, 09:14:32](https://news.ycombinator.com/item?id=39201684) - [Spatial Computing](https://hypercritical.co/2024/01/30/spatial-computing)
