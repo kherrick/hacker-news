@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-01, 00:30:03](https://news.ycombinator.com/item?id=39211473) - ['Black Swan' author Nassim Taleb says the U.S. is in a 'death spiral'](https://fortune.com/2024/01/31/nassim-nicholas-taleb-black-swan-author-national-debt-death-spiral/)
+* [2024-02-01, 01:26:55](https://news.ycombinator.com/item?id=39211857) - [Show HN: Lockbox: forward proxy for making third party API calls](https://github.com/mkjt2/lockbox)
 * [2024-02-01, 00:12:11](https://news.ycombinator.com/item?id=39211328) - [The End of My Childhood](https://vitalik.eth.limo/general/2024/01/31/end.html)
 * [2024-01-31, 22:56:56](https://news.ycombinator.com/item?id=39210603) - [Ars Technica used in malware campaign with never-before-seen obfuscation](https://arstechnica.com/security/2024/01/ars-technica-used-in-malware-campaign-with-never-before-seen-obfuscation/)
 * [2024-01-31, 22:47:47](https://news.ycombinator.com/item?id=39210507) - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
