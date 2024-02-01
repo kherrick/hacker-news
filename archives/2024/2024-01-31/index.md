@@ -75,6 +75,7 @@
 * [2024-01-31, 12:56:24](https://news.ycombinator.com/item?id=39203185) - [Remote work morphs into elite status symbol for wealthy, college-educated](https://fortune.com/2024/01/29/remote-work-wealth-education-inequality-white-collar-jobs/)
 * [2024-01-31, 12:52:31](https://news.ycombinator.com/item?id=39203147) - [The promise and challenges of crypto and AI applications](https://vitalik.eth.limo/general/2024/01/30/cryptoai.html)
 * [2024-01-31, 12:46:31](https://news.ycombinator.com/item?id=39203106) - [Japan will no longer require floppy disks for submitting some official documents](https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html)
+* [2024-01-31, 12:40:12](https://news.ycombinator.com/item?id=39203041) - [The people hosting their own 'living funerals'](https://www.theguardian.com/society/2024/jan/28/i-didnt-realise-i-was-so-loved-five-people-stories-of-a-living-funeral)
 * [2024-01-31, 12:34:28](https://news.ycombinator.com/item?id=39202992) - [There's More Proof That Return to Office Is Pointless](https://gizmodo.com/more-proof-that-return-to-office-is-pointless-1851209231)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
 * [2024-01-31, 12:00:47](https://news.ycombinator.com/item?id=39202762) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
