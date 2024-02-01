@@ -6,6 +6,7 @@
 
 * [2024-02-01, 17:21:42](https://news.ycombinator.com/item?id=39218463) - [Corporations Openly Trying to Destroy Core Public Institutions. We Should Worry](https://www.vice.com/en/article/v7bnyb/meta-spacex-lawsuits-declaring-ftc-nlrb-unconstitutional)
 * [2024-02-01, 17:20:35](https://news.ycombinator.com/item?id=39218446) - [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
+* [2024-02-01, 17:18:17](https://news.ycombinator.com/item?id=39218410) - [Nine Ugly Truths about Copyright and five predictions about its future](https://www.honest-broker.com/p/nine-ugly-truths-about-copyright)
 * [2024-02-01, 17:14:43](https://news.ycombinator.com/item?id=39218367) - [Google Maps is getting 'supercharged' with generative AI](https://www.theverge.com/2024/2/1/24057994/google-maps-generative-ai-llm-local-guide-search)
 * [2024-02-01, 17:06:18](https://news.ycombinator.com/item?id=39218237) - [Religious 'Nones' in America: Who They Are and What They Believe](https://www.pewresearch.org/religion/2024/01/24/religious-nones-in-america-who-they-are-and-what-they-believe/)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
@@ -17,6 +18,7 @@
 * [2024-02-01, 16:07:47](https://news.ycombinator.com/item?id=39217440) - [Quadratic – Open-Source Spreadsheet Is Now Multiplayer](https://www.quadratichq.com/blog/2024-01-28-the-multiplayer-spreadsheet)
 * [2024-02-01, 16:07:38](https://news.ycombinator.com/item?id=39217436) - [In China, clean energy is now THE driver of overall economic growth](https://adamtooze.substack.com/p/chartbook-carbon-notes-10-in-china)
 * [2024-02-01, 16:05:19](https://news.ycombinator.com/item?id=39217395) - [CheerpJ 3.0: A WebAssembly JVM to run real-world applications in the browser](https://labs.leaningtech.com/blog/cheerpj-3.0)
+* [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 15:52:49](https://news.ycombinator.com/item?id=39217231) - [Ask HN: Looking for a project to volunteer on? (February 2024)](https://news.ycombinator.com/item?id=39217231)
 * [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)

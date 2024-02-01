@@ -78,6 +78,7 @@
 * [2024-01-31, 12:34:28](https://news.ycombinator.com/item?id=39202992) - [There's More Proof That Return to Office Is Pointless](https://gizmodo.com/more-proof-that-return-to-office-is-pointless-1851209231)
 * [2024-01-31, 12:23:30](https://news.ycombinator.com/item?id=39202916) - [A bug which is only a bug five days out of the year](https://github.com/Simon-Initiative/oli-torus/pull/4614)
 * [2024-01-31, 12:00:47](https://news.ycombinator.com/item?id=39202762) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+* [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 11:54:45](https://news.ycombinator.com/item?id=39202722) - [Neovide – a simple, no-nonsense, cross-platform GUI for Neovim](https://neovide.dev)
 * [2024-01-31, 11:37:46](https://news.ycombinator.com/item?id=39202598) - [Could our Universe be a simulation? How would we even tell?](https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/)
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall from $6B to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
