@@ -82,6 +82,7 @@
 * [2024-01-31, 11:37:46](https://news.ycombinator.com/item?id=39202598) - [Could our Universe be a simulation? How would we even tell?](https://arstechnica.com/science/2024/01/could-our-universe-be-a-simulation-how-would-we-even-tell/)
 * [2024-01-31, 11:36:04](https://news.ycombinator.com/item?id=39202583) - [23andMe's Fall from $6B to Nearly $0](https://www.wsj.com/health/healthcare/23andme-anne-wojcicki-healthcare-stock-913468f4)
 * [2024-01-31, 11:34:21](https://news.ycombinator.com/item?id=39202571) - [Citation cartels help mathematicians–and their universities–climb the rankings](https://www.science.org/content/article/citation-cartels-help-some-mathematicians-and-their-universities-climb-rankings)
+* [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-31, 09:54:27](https://news.ycombinator.com/item?id=39201922) - [IPC – Shared Memory](https://goodyduru.github.io/os/2024/01/31/ipc-shared-memory.html)
 * [2024-01-31, 09:43:34](https://news.ycombinator.com/item?id=39201859) - [Byju's seeks $200M in rights issue at 99% valuation cut](https://economictimes.indiatimes.com/tech/startups/byjus-seeks-200-million-in-rights-issue-amid-cash-crunch/articleshow/107230248.cms?from=mdr)
 * [2024-01-31, 09:27:23](https://news.ycombinator.com/item?id=39201772) - [In Praise of Buttons](https://www.nubero.ch/blog/009/)
