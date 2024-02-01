@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+* [2024-02-01, 18:44:15](https://news.ycombinator.com/item?id=39219568) - [Starlink's Laser System Is Beaming 42 Petabytes of Data per Day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 * [2024-02-01, 18:27:19](https://news.ycombinator.com/item?id=39219371) - [Watch a 7k-LB Rivian R1T Destroy a Guardrail in Eyebrow-Raising Test](https://www.thedrive.com/news/rivian-r1t-destroys-guardrail-ev-safety-crash-test-video)
 * [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
@@ -12,7 +14,6 @@
 * [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
 * [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
-* [2024-02-01, 15:25:20](https://news.ycombinator.com/item?id=39216921) - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
 * [2024-02-01, 15:23:27](https://news.ycombinator.com/item?id=39216904) - [Compiling a Lisp (2020)](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
 * [2024-02-01, 15:11:59](https://news.ycombinator.com/item?id=39216790) - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
@@ -24,7 +25,6 @@
 * [2024-02-01, 11:46:28](https://news.ycombinator.com/item?id=39214939) - [Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
-* [2024-02-01, 04:53:54](https://news.ycombinator.com/item?id=39212833) - [The curious case of the disappearing Polish Ś (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-30, 11:47:46](https://news.ycombinator.com/item?id=39188987) - [To Be Is to Be a Value of a Variable (2006) [pdf]](https://www.dcs.warwick.ac.uk/~hugh/TTM/relvars.pdf)
