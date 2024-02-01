@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 * [2024-02-01, 13:25:43](https://news.ycombinator.com/item?id=39215662) - [Crash tests show nation's guardrail system can't handle heavy electric vehicles](https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce)
 * [2024-02-01, 12:48:08](https://news.ycombinator.com/item?id=39215384) - [Cops bogged down by flood of fake AI child sex images, report says](https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/)
 * [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
 * [2024-02-01, 12:34:34](https://news.ycombinator.com/item?id=39215302) - [InstaPython – Instant custom Python scripts on-demand](https://instapython.com)
 * [2024-02-01, 12:25:48](https://news.ycombinator.com/item?id=39215242) - [The VAE Used for Stable Diffusion Is Flawed](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
 * [2024-02-01, 12:24:35](https://news.ycombinator.com/item?id=39215230) - [Senate tells social media CEOs they have 'blood on their hands'](https://www.engadget.com/senate-tells-social-media-ceos-they-have-blood-on-their-hands-for-failing-to-protect-children-170411884.html)
+* [2024-02-01, 12:16:47](https://news.ycombinator.com/item?id=39215163) - [Easy Introduction to Vector Databases](https://hubertdulay.substack.com/p/easy-introduction-to-vector-databases)
 * [2024-02-01, 12:14:32](https://news.ycombinator.com/item?id=39215142) - [Think of your home as (small) profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
