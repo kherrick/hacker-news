@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 20:55:08](https://news.ycombinator.com/item?id=39221337) - [Sorry Appin, We're Not Taking Down Our Article About Your Attempts to Silence](https://www.techdirt.com/2024/02/01/sorry-appin-were-not-taking-down-our-article-about-your-attempts-to-silence-reporters/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Cloudflare Thanksgiving 2023 Security Incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
 * [2024-02-01, 19:17:16](https://news.ycombinator.com/item?id=39219953) - [Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=)
 * [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
@@ -28,7 +29,6 @@
 * [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-31, 10:03:43](https://news.ycombinator.com/item?id=39201976) - [Predictability, Home Advantage, and Fairness in Team Sports](https://www.michelecoscia.com/?p=2311)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
-* [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 
 ## [Archives](archives/index.md)
