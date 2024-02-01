@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
-* [2024-02-01, 18:04:17](https://news.ycombinator.com/item?id=39219073) - [Why Men Are Drifting to the Far Right](https://www.persuasion.community/p/why-men-are-drifting-to-the-far-right)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:20:35](https://news.ycombinator.com/item?id=39218446) - [CISA directs federal agencies to disconnect Ivanti products by Friday midnight](https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)

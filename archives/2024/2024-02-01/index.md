@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 18:25:37](https://news.ycombinator.com/item?id=39219349) - [A SQLite extension that brings column-oriented tables to SQLite](https://github.com/dgllghr/stanchion)
 * [2024-02-01, 18:19:48](https://news.ycombinator.com/item?id=39219258) - [Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market](https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market)
 * [2024-02-01, 18:04:17](https://news.ycombinator.com/item?id=39219073) - [Why Men Are Drifting to the Far Right](https://www.persuasion.community/p/why-men-are-drifting-to-the-far-right)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
