@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-02-02, 11:06:06",
-      "https://news.ycombinator.com/item?id=39227355"
-    ],
-    [
-      "Australian YouTuber removes video after death threats from organised crime",
-      "https://www.theguardian.com/australia-news/2024/feb/02/youtuber-friendlyjordies-jordan-shanks-markovina-takes-down-video-after-alleged-death-threats-ntwnfb"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 10:35:14",
       "https://news.ycombinator.com/item?id=39227184"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39226754"
     ],
     [
-      "Google has another secret browser accessible by a link",
+      "Google has another secret browser",
       "https://matan-h.com/another-secret-browser"
     ]
   ],
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2024-02-01, 22:14:52",
-      "https://news.ycombinator.com/item?id=39222196"
-    ],
-    [
-      "Rivers Cuomo is an active developer on GitHub",
-      "https://github.com/riverscuomo"
-    ]
-  ],
-  [
-    [
       "2024-02-01, 19:59:24",
       "https://news.ycombinator.com/item?id=39220528"
     ],
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-02-01, 15:46:15",
+      "https://news.ycombinator.com/item?id=39217149"
+    ],
+    [
+      "My favourite Git commit (2019)",
+      "https://dhwthompson.com/2019/my-favourite-git-commit"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 13:38:42",
       "https://news.ycombinator.com/item?id=39215779"
     ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=39214019"
     ],
     [
-      "A Man Who Invented VR Goggles 50 Years Too Soon",
+      "A man who invented VR goggles 50 years too soon (2016)",
       "https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon"
     ]
   ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=39213134"
     ],
     [
-      "Weird, amazing psychotic life In Technicolor. Farscape & Henson's Lasting Legacy",
+      "Farscape and Henson’s Lasting Legacy (2011)",
       "https://reactormag.com/weird-amazing-psychotic-life-in-technicolor-farscape-and-hensons-lasting-legacy/"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 18:38:53",
+      "https://news.ycombinator.com/item?id=39207570"
+    ],
+    [
+      "Show HN: Stanchion – Column-oriented tables in SQLite",
+      "https://github.com/dgllghr/stanchion"
     ]
   ],
   [
