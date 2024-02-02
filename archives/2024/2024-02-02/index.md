@@ -10,6 +10,7 @@
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 * [2024-02-02, 04:02:27](https://news.ycombinator.com/item?id=39224865) - [The medieval habit of 'two sleeps'](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
+* [2024-02-02, 02:28:21](https://news.ycombinator.com/item?id=39224203) - [USB-C power for your Amiga 500, 600 and 1200](https://retrousbpower.com)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-02, 01:47:47](https://news.ycombinator.com/item?id=39223950) - [Peter Thiel Backs Doping-Friendly Olympics Rival – The 'Enhanced Games'](https://www.forbes.com/sites/roberthart/2024/01/31/billionaire-peter-thiel-backs-doping-friendly-olympics-rival---what-to-know-about-the-enhanced-games/)
 * [2024-02-02, 01:17:48](https://news.ycombinator.com/item?id=39223766) - ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
