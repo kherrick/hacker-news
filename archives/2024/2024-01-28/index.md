@@ -69,6 +69,7 @@
 * [2024-01-28, 12:26:30](https://news.ycombinator.com/item?id=39165030) - [Teletext on a BBC Computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 12:26:00](https://news.ycombinator.com/item?id=39165027) - [The Nigerian professor who makes more money welding](https://www.bbc.com/news/world-africa-68079364)
 * [2024-01-28, 12:14:51](https://news.ycombinator.com/item?id=39164950) - [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945)
+* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - [A Compelling Portrait of Brian Eno Is Different Each Time You Watch It](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
 * [2024-01-28, 12:06:52](https://news.ycombinator.com/item?id=39164894) - [The Plot Against Einstein](https://warfarehistorynetwork.com/article/the-plot-against-einstein/)
 * [2024-01-28, 12:05:08](https://news.ycombinator.com/item?id=39164881) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-01-28, 11:38:17](https://news.ycombinator.com/item?id=39164695) - [Hacker News' favorite Xkcd comics](https://www.quaxio.com/hackernews_xkcd_citations/)

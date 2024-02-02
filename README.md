@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 06:18:01](https://news.ycombinator.com/item?id=39225674) - [Philips hid CPAP machine problems from FDA and patients for years](https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 05:09:07](https://news.ycombinator.com/item?id=39225286) - [NTP Timelord Dies](https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html)
@@ -8,10 +9,8 @@
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 02:28:21](https://news.ycombinator.com/item?id=39224203) - [USB-C power for your Amiga 500, 600 and 1200](https://retrousbpower.com)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-* [2024-02-02, 01:00:36](https://news.ycombinator.com/item?id=39223649) - [Unlogged (YC S22) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-01, 23:44:52](https://news.ycombinator.com/item?id=39223126) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
-* [2024-02-01, 23:18:38](https://news.ycombinator.com/item?id=39222898) - [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
 * [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Rivers Cuomo is an active developer on GitHub](https://github.com/riverscuomo)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
@@ -30,6 +29,7 @@
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
+* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - [A Compelling Portrait of Brian Eno Is Different Each Time You Watch It](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
 
 ## [Archives](archives/index.md)
 
