@@ -86,6 +86,7 @@
 * [2024-02-01, 12:15:13](https://news.ycombinator.com/item?id=39215153) - [Original reports summarizing the latest analysis of U.S. families](https://www.bgsu.edu/ncfmr/resources/data/family-profiles.html)
 * [2024-02-01, 12:14:41](https://news.ycombinator.com/item?id=39215147) - [Poem/1: AI rhyming clock](https://poem.town/)
 * [2024-02-01, 12:14:32](https://news.ycombinator.com/item?id=39215142) - [Think of your home as (small) profitable power plant](https://www.bostonglobe.com/2024/01/30/science/net-zero-home-renovation/)
+* [2024-02-01, 11:49:51](https://news.ycombinator.com/item?id=39214966) - [Reverse Engineering DOS Software as If It Were 1990](https://and0uille.net/misc/debug90.html)
 * [2024-02-01, 11:46:28](https://news.ycombinator.com/item?id=39214939) - [Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
