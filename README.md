@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 01:00:36](https://news.ycombinator.com/item?id=39223649) - [Unlogged (YC S22) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
+* [2024-02-02, 00:57:58](https://news.ycombinator.com/item?id=39223625) - [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
@@ -11,10 +13,8 @@
 * [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
 * [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
-* [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
-* [2024-02-01, 17:00:23](https://news.ycombinator.com/item?id=39218160) - [HyperDX (YC S22) Is Hiring a Founding Engineer – Open-Source Observability (SF)](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
 * [2024-02-01, 16:15:21](https://news.ycombinator.com/item?id=39217550) - [Show HN: ML Blocks – Deploy multimodal AI workflows without code](https://www.mlblocks.com/)
 * [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 16:00:06](https://news.ycombinator.com/item?id=39217308) - [Ask HN: Who wants to be hired? (February 2024)](https://news.ycombinator.com/item?id=39217308)
