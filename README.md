@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 22:00:15](https://news.ycombinator.com/item?id=39235036) - [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
 * [2024-02-02, 21:46:00](https://news.ycombinator.com/item?id=39234899) - [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)
 * [2024-02-02, 21:01:02](https://news.ycombinator.com/item?id=39234327) - [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
@@ -13,7 +14,6 @@
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:32:15](https://news.ycombinator.com/item?id=39231488) - [Show HN: Million 3 – Optimizing compiler for React](https://million.dev/blog/million-3.en-US)
 * [2024-02-02, 16:51:41](https://news.ycombinator.com/item?id=39230939) - [Researchers develop novel 'bone bandage' material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
-* [2024-02-02, 16:25:29](https://news.ycombinator.com/item?id=39230513) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2024-02-02, 16:09:44](https://news.ycombinator.com/item?id=39230263) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
 * [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 * [2024-02-02, 15:33:13](https://news.ycombinator.com/item?id=39229746) - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
