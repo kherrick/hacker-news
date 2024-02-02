@@ -15,7 +15,7 @@
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
-* [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
+* [2024-02-01, 19:17:16](https://news.ycombinator.com/item?id=39219953) - [Nasopharyngeal Lymphatics Found to Be Crucial for Cerebrospinal Fluid Outflow](https://www.ibs.re.kr/cop/bbs/BBSMSTR_000000000738/selectBoardArticle.do?nttId=24483&pageIndex=1&searchCnd=&searchWrd=)
 * [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 16:00:06](https://news.ycombinator.com/item?id=39217308) - [Ask HN: Who wants to be hired? (February 2024)](https://news.ycombinator.com/item?id=39217308)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
