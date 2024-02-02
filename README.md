@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 15:05:56](https://news.ycombinator.com/item?id=39229389) - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
+* [2024-02-02, 14:46:32](https://news.ycombinator.com/item?id=39229112) - [There Are Too Many Damn Honeypots](https://vulncheck.com/blog/too-many-honeypots)
 * [2024-02-02, 14:43:35](https://news.ycombinator.com/item?id=39229070) - [Japan to introduce six-month residency visa for 'digital nomads'](https://asia.nikkei.com/Spotlight/Japan-immigration/Japan-to-introduce-six-month-residency-visa-for-digital-nomads)
 * [2024-02-02, 14:19:12](https://news.ycombinator.com/item?id=39228744) - [You Shouldn't Start with an SPA](https://simonhamp.me/blog/you-shouldnt-start-with-an-spa/)
 * [2024-02-02, 13:42:51](https://news.ycombinator.com/item?id=39228432) - [U.S. Hiring Accelerated in January](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-02-2024)
@@ -15,7 +16,6 @@
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
-* [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-02, 00:37:40](https://news.ycombinator.com/item?id=39223499) - [Slint GUI Toolkit](https://github.com/slint-ui/slint)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
