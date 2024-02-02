@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 13:59:02](https://news.ycombinator.com/item?id=39228557) - [I'm Done Punching Trees and Grabbing Rocks in Video Games](https://kotaku.com/palworld-valheim-minecraft-punch-trees-survival-games-1851193458)
-* [2024-02-02, 13:58:48](https://news.ycombinator.com/item?id=39228556) - [Total nonfarm payroll employment rose by 353,000 in January](https://www.bls.gov/news.release/empsit.nr0.htm)
 * [2024-02-02, 13:32:56](https://news.ycombinator.com/item?id=39228332) - [Payroll employment rises by 353K in January; unemployment rate remains at 3.7%](https://www.bls.gov/news.release/archives/empsit_02022024.htm)
 * [2024-02-02, 13:15:13](https://news.ycombinator.com/item?id=39228156) - [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind Color Palette Generator](https://www.tints.dev/)
@@ -13,6 +12,7 @@
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
+* [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 02:28:21](https://news.ycombinator.com/item?id=39224203) - [USB-C power for your Amiga 500, 600 and 1200](https://retrousbpower.com)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-02, 00:37:40](https://news.ycombinator.com/item?id=39223499) - [Slint GUI Toolkit](https://github.com/slint-ui/slint)
