@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-02, 05:25:51",
+      "https://news.ycombinator.com/item?id=39225382"
+    ],
+    [
+      "The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware",
+      "https://theretroweb.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-02, 05:09:07",
+      "https://news.ycombinator.com/item?id=39225286"
+    ],
+    [
+      "NTP Timelord Dies",
+      "https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 04:25:33",
       "https://news.ycombinator.com/item?id=39225004"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2024-02-02, 00:57:58",
-      "https://news.ycombinator.com/item?id=39223625"
-    ],
-    [
-      "Harvard Faces New Threat of State Tax on $51B Endowment",
-      "https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 00:33:02",
       "https://news.ycombinator.com/item?id=39223467"
     ],
@@ -97,16 +107,6 @@
     [
       "Rivers Cuomo is an active developer on GitHub",
       "https://github.com/riverscuomo"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 22:01:10",
-      "https://news.ycombinator.com/item?id=39222066"
-    ],
-    [
-      "In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter",
-      "https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-02-01, 06:40:37",
+      "https://news.ycombinator.com/item?id=39213309"
+    ],
+    [
+      "We built our customer data warehouse all on Postgres",
+      "https://tembo.io/blog/tembo-data-warehouse"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 06:37:43",
       "https://news.ycombinator.com/item?id=39213296"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: Stanchion – Column-oriented tables in SQLite",
       "https://github.com/dgllghr/stanchion"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 11:55:09",
-      "https://news.ycombinator.com/item?id=39202728"
-    ],
-    [
-      "Redeployment Part Three",
-      "https://brr.fyi/posts/redeployment-part-three"
     ]
   ],
   [
