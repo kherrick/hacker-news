@@ -26,9 +26,9 @@
 * [2024-02-01, 13:33:38](https://news.ycombinator.com/item?id=39215723) - [Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-02-01, 11:05:51](https://news.ycombinator.com/item?id=39214712) - [Nano-scale inks could lighten airliners by hundreds of kilograms](https://newatlas.com/materials/lightweight-structural-color-ink/)
+* [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 10:03:43](https://news.ycombinator.com/item?id=39201976) - [Predictability, Home Advantage, and Fairness in Team Sports](https://www.michelecoscia.com/?p=2311)
-* [2024-01-31, 09:18:03](https://news.ycombinator.com/item?id=39201707) - [Separation of Concerns in Cross-Compilation](https://nixcademy.com/2024/01/30/cross-compilation-with-nix/)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
 ## [Archives](archives/index.md)
