@@ -12,7 +12,6 @@
 * [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 * [2024-02-02, 15:33:13](https://news.ycombinator.com/item?id=39229746) - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
 * [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
-* [2024-02-02, 15:04:45](https://news.ycombinator.com/item?id=39229371) - [Bell's V-280 Valor Tiltrotor Picked as Army's Black Hawk Replacement (2022)](https://www.twz.com/bells-v-280-valor-tiltrotor-picked-as-armys-black-hawk-replacement)
 * [2024-02-02, 14:46:32](https://news.ycombinator.com/item?id=39229112) - [There are too many damn honeypots](https://vulncheck.com/blog/too-many-honeypots)
 * [2024-02-02, 13:59:44](https://news.ycombinator.com/item?id=39228565) - [Show HN: Attabit – AI powered news](https://attabit.com/)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
@@ -28,6 +27,7 @@
 * [2024-02-01, 06:00:21](https://news.ycombinator.com/item?id=39213134) - [Farscape and Henson’s Lasting Legacy (2011)](https://reactormag.com/weird-amazing-psychotic-life-in-technicolor-farscape-and-hensons-lasting-legacy/)
 * [2024-01-31, 20:09:53](https://news.ycombinator.com/item?id=39208702) - [The Burial of William the Conqueror: A Comedy of Errors](http://strangeco.blogspot.com/2024/01/the-burial-of-william-conqueror-comedy.html)
 * [2024-01-31, 06:37:27](https://news.ycombinator.com/item?id=39200716) - [The Hobbes OS/2 Archive logs off permanently in April](https://www.theregister.com/2024/01/10/hobbes_os2_archive_shut_down/)
+* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - ['Eno' Review: A portrait of Brian Eno that is different each time you watch it](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
 * [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
