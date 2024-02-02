@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-02, 18:16:44](https://news.ycombinator.com/item?id=39232132) - [Boeing 737 MAX-7/-10 Certification Halted](https://www.federalregister.gov/documents/2023/08/10/2023-17197/airworthiness-directives-the-boeing-company-airplanes)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
+* [2024-02-02, 17:55:56](https://news.ycombinator.com/item?id=39231833) - [Why Don't We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:35:33](https://news.ycombinator.com/item?id=39231538) - [Meta's Reality Labs loses record $4.65B ahead of Apple's Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
 * [2024-02-02, 17:08:07](https://news.ycombinator.com/item?id=39231182) - [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
@@ -14,6 +14,7 @@
 * [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 * [2024-02-02, 15:04:45](https://news.ycombinator.com/item?id=39229371) - [Bell's V-280 Valor Tiltrotor Picked as Army's Black Hawk Replacement (2022)](https://www.twz.com/bells-v-280-valor-tiltrotor-picked-as-armys-black-hawk-replacement)
 * [2024-02-02, 14:46:32](https://news.ycombinator.com/item?id=39229112) - [There are too many damn honeypots](https://vulncheck.com/blog/too-many-honeypots)
+* [2024-02-02, 13:59:44](https://news.ycombinator.com/item?id=39228565) - [Show HN: Attabit – AI powered news](https://attabit.com/)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
@@ -27,7 +28,6 @@
 * [2024-02-01, 06:00:21](https://news.ycombinator.com/item?id=39213134) - [Farscape and Henson’s Lasting Legacy (2011)](https://reactormag.com/weird-amazing-psychotic-life-in-technicolor-farscape-and-hensons-lasting-legacy/)
 * [2024-01-31, 20:09:53](https://news.ycombinator.com/item?id=39208702) - [The Burial of William the Conqueror: A Comedy of Errors](http://strangeco.blogspot.com/2024/01/the-burial-of-william-conqueror-comedy.html)
 * [2024-01-31, 06:37:27](https://news.ycombinator.com/item?id=39200716) - [The Hobbes OS/2 Archive logs off permanently in April](https://www.theregister.com/2024/01/10/hobbes_os2_archive_shut_down/)
-* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - ['Eno' Review: A portrait of Brian Eno that is different each time you watch it](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
 * [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 

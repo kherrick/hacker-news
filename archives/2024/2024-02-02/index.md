@@ -6,6 +6,7 @@
 
 * [2024-02-02, 18:16:44](https://news.ycombinator.com/item?id=39232132) - [Boeing 737 MAX-7/-10 Certification Halted](https://www.federalregister.gov/documents/2023/08/10/2023-17197/airworthiness-directives-the-boeing-company-airplanes)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
+* [2024-02-02, 17:55:56](https://news.ycombinator.com/item?id=39231833) - [Why Don't We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:35:33](https://news.ycombinator.com/item?id=39231538) - [Meta's Reality Labs loses record $4.65B ahead of Apple's Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
 * [2024-02-02, 17:11:36](https://news.ycombinator.com/item?id=39231229) - [Tesla facing another massive recall – affecting 2.2 million vehicles](https://nypost.com/2024/02/02/business/tesla-facing-another-massive-recall-this-time-to-fix-warning-lights/)
