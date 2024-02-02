@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 17:00:54](https://news.ycombinator.com/item?id=39231096) - [SelectIQ (YC W23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
+* [2024-02-02, 16:51:41](https://news.ycombinator.com/item?id=39230939) - [Researchers develop novel 'bone bandage' material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
 * [2024-02-02, 16:25:29](https://news.ycombinator.com/item?id=39230513) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2024-02-02, 16:09:44](https://news.ycombinator.com/item?id=39230263) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
 * [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 * [2024-02-02, 16:00:51](https://news.ycombinator.com/item?id=39230132) - [Ask HN: When to Start a Business?](https://news.ycombinator.com/item?id=39230132)
+* [2024-02-02, 15:54:22](https://news.ycombinator.com/item?id=39230025) - [Tips for Remote Workers](https://news.ycombinator.com/item?id=39230025)
 * [2024-02-02, 15:52:48](https://news.ycombinator.com/item?id=39229987) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://text.npr.org/1228540721)
 * [2024-02-02, 15:33:13](https://news.ycombinator.com/item?id=39229746) - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
 * [2024-02-02, 15:31:11](https://news.ycombinator.com/item?id=39229727) - [An alternative cause for the Great Stagnation: the cargo cult company](https://www.shyamsankar.com/p/technology-is-the-problem)
