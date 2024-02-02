@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-02, 17:11:36",
+      "https://news.ycombinator.com/item?id=39231229"
+    ],
+    [
+      "Tesla facing another massive recall – affecting 2.2 million vehicles",
+      "https://nypost.com/2024/02/02/business/tesla-facing-another-massive-recall-this-time-to-fix-warning-lights/"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 17:00:54",
       "https://news.ycombinator.com/item?id=39231096"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39229112"
     ],
     [
-      "There Are Too Many Damn Honeypots",
+      "There are too many damn honeypots",
       "https://vulncheck.com/blog/too-many-honeypots"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39227831"
     ],
     [
-      "Tailwind Color Palette Generator",
+      "Tailwind color palette generator",
       "https://www.tints.dev/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "NASA Workmanship Guide for wire splicing",
       "https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 10:35:14",
-      "https://news.ycombinator.com/item?id=39227184"
-    ],
-    [
-      "The European regulators listened to the Open Source communities",
-      "https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Juno – A YouTube Client for Vision Pro",
       "https://christianselig.com/2024/02/introducing-juno/"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 09:03:54",
-      "https://news.ycombinator.com/item?id=39214019"
-    ],
-    [
-      "A man who invented VR goggles 50 years too soon (2016)",
-      "https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "'Eno' Review: A portrait of Brian Eno that is different each time you watch it",
       "https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 09:42:37",
+      "https://news.ycombinator.com/item?id=39164010"
+    ],
+    [
+      "Fck-nat: The (f)easible (C)ost (k)onfigurable NAT",
+      "https://fck-nat.dev/v1.3.0/"
     ]
   ],
   [
