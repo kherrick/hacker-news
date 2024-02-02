@@ -24,10 +24,10 @@
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
-* [2024-02-01, 13:33:38](https://news.ycombinator.com/item?id=39215723) - [Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
+* [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-31, 10:03:43](https://news.ycombinator.com/item?id=39201976) - [Predictability, Home Advantage, and Fairness in Team Sports](https://www.michelecoscia.com/?p=2311)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
