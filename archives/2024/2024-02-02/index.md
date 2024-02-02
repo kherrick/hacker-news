@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 15:05:56](https://news.ycombinator.com/item?id=39229389) - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
 * [2024-02-02, 14:43:35](https://news.ycombinator.com/item?id=39229070) - [Japan to introduce six-month residency visa for 'digital nomads'](https://asia.nikkei.com/Spotlight/Japan-immigration/Japan-to-introduce-six-month-residency-visa-for-digital-nomads)
 * [2024-02-02, 14:30:24](https://news.ycombinator.com/item?id=39228879) - [The Rise of the American Oligarchy](https://www.motherjones.com/politics/2024/01/american-oligarchy-introduction-essay-russia-ukraine-capitalism/)
 * [2024-02-02, 14:19:12](https://news.ycombinator.com/item?id=39228744) - [You Shouldn't Start with an SPA](https://simonhamp.me/blog/you-shouldnt-start-with-an-spa/)
