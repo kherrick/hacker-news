@@ -105,6 +105,7 @@
 * [2024-01-31, 07:54:30](https://news.ycombinator.com/item?id=39201224) - [Microsoft Edge now steals your data from Google Chrome after an update](https://9to5google.com/2024/01/30/microsoft-edge-chrome-data-update-windows/)
 * [2024-01-31, 07:47:34](https://news.ycombinator.com/item?id=39201182) - [Show HN: ChatGPT prompt builder – the simplest prompt builder](https://mitenmit.github.io/gpt/)
 * [2024-01-31, 07:25:07](https://news.ycombinator.com/item?id=39201025) - [Colophon for Psymon.com (1998-2021)](https://www.psymon.com/colophon/index.html)
+* [2024-01-31, 07:15:07](https://news.ycombinator.com/item?id=39200955) - [The Official Raspberry Pi Handbook 2024](https://store.rpipress.cc/products/the-official-raspberry-pi-handbook-2024)
 * [2024-01-31, 06:48:49](https://news.ycombinator.com/item?id=39200791) - [1-Bit Pixels Encoded in E. Coli for the Display of Interactive Digital Media](https://docs.google.com/document/d/1SFm1dS6myqq7psBKttP7CVYN4jO66lOp7ZMA829c_hc/edit)
 * [2024-01-31, 06:37:27](https://news.ycombinator.com/item?id=39200716) - [The Hobbes OS/2 Archive logs off permanently in April](https://www.theregister.com/2024/01/10/hobbes_os2_archive_shut_down/)
 * [2024-01-31, 06:31:38](https://news.ycombinator.com/item?id=39200682) - [HTTP Area Codes](https://dougsillars.github.io/httpareacodes/)
