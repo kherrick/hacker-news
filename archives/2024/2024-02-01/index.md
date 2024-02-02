@@ -97,6 +97,7 @@
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
+* [2024-02-01, 07:00:39](https://news.ycombinator.com/item?id=39213418) - [Lasers or Longbows? A Paradox of Military Technology (2010)](https://search.informit.org/doi/10.3316/ielapa.201008920)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains Are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 * [2024-02-01, 06:51:03](https://news.ycombinator.com/item?id=39213359) - [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
 * [2024-02-01, 06:40:37](https://news.ycombinator.com/item?id=39213309) - [We built our customer data warehouse all on Postgres](https://tembo.io/blog/tembo-data-warehouse)
