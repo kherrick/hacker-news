@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 04:41:40](https://news.ycombinator.com/item?id=39225118) - [So Many Problems Continue to Plague the EV Industry](https://wattsupwiththat.com/2024/01/30/so-many-problems-continue-to-plague-the-ev-industry/)
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-02, 01:47:47](https://news.ycombinator.com/item?id=39223950) - [Peter Thiel Backs Doping-Friendly Olympics Rival – The 'Enhanced Games'](https://www.forbes.com/sites/roberthart/2024/01/31/billionaire-peter-thiel-backs-doping-friendly-olympics-rival---what-to-know-about-the-enhanced-games/)

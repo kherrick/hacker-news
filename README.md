@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 04:41:40](https://news.ycombinator.com/item?id=39225118) - [So Many Problems Continue to Plague the EV Industry](https://wattsupwiththat.com/2024/01/30/so-many-problems-continue-to-plague-the-ev-industry/)
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-02, 01:17:48](https://news.ycombinator.com/item?id=39223766) - ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
@@ -25,10 +26,9 @@
 * [2024-02-01, 13:47:48](https://news.ycombinator.com/item?id=39215846) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:38:42](https://news.ycombinator.com/item?id=39215779) - [Launch HN: Escape (YC W23) – Discover and secure all your APIs](https://news.ycombinator.com/item?id=39215779)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
+* [2024-02-01, 06:37:43](https://news.ycombinator.com/item?id=39213296) - [Apple declares last MacBook Pro with an optical drive obsolete](https://arstechnica.com/gadgets/2024/01/apple-declares-last-macbook-pro-with-an-optical-drive-obsolete/)
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
-* [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
-* [2024-01-31, 10:03:43](https://news.ycombinator.com/item?id=39201976) - [Predictability, Home Advantage, and Fairness in Team Sports](https://www.michelecoscia.com/?p=2311)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
 ## [Archives](archives/index.md)
