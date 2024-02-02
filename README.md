@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
@@ -12,7 +13,6 @@
 * [2024-02-01, 23:44:52](https://news.ycombinator.com/item?id=39223126) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-01, 23:18:38](https://news.ycombinator.com/item?id=39222898) - [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
 * [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Rivers Cuomo is an active developer on GitHub](https://github.com/riverscuomo)
-* [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
