@@ -8,6 +8,7 @@
 * [2024-02-02, 12:23:32](https://news.ycombinator.com/item?id=39227809) - [Homemade Pasta Now Is the Time (2021)](https://ruhlman.com/homemade-pasta/)
 * [2024-02-02, 12:10:03](https://news.ycombinator.com/item?id=39227727) - [NASA Workmanship Guide for wire splicing](https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html)
 * [2024-02-02, 11:41:47](https://news.ycombinator.com/item?id=39227551) - [Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l)
+* [2024-02-02, 11:06:06](https://news.ycombinator.com/item?id=39227355) - [Australian YouTuber removes video after death threats from organised crime](https://www.theguardian.com/australia-news/2024/feb/02/youtuber-friendlyjordies-jordan-shanks-markovina-takes-down-video-after-alleged-death-threats-ntwnfb)
 * [2024-02-02, 10:35:14](https://news.ycombinator.com/item?id=39227184) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser accessible by a link](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
