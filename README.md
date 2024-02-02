@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 15:33:13](https://news.ycombinator.com/item?id=39229746) - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
+* [2024-02-02, 15:31:11](https://news.ycombinator.com/item?id=39229727) - [An alternative cause for the Great Stagnation: the cargo cult company](https://www.shyamsankar.com/p/technology-is-the-problem)
 * [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 * [2024-02-02, 15:05:56](https://news.ycombinator.com/item?id=39229389) - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
 * [2024-02-02, 15:04:45](https://news.ycombinator.com/item?id=39229371) - [Bell's V-280 Valor Tiltrotor Picked as Army's Black Hawk Replacement (2022)](https://www.twz.com/bells-v-280-valor-tiltrotor-picked-as-armys-black-hawk-replacement)
@@ -18,8 +19,7 @@
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
-* [2024-02-02, 00:37:40](https://news.ycombinator.com/item?id=39223499) - [Slint GUI Toolkit](https://github.com/slint-ui/slint)
-* [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
+* [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A man who invented VR goggles 50 years too soon (2016)](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
 * [2024-02-01, 08:11:57](https://news.ycombinator.com/item?id=39213772) - [Check Out These Self-Soldering Sleeves from World War II](https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/)
