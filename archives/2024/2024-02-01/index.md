@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 23:44:52](https://news.ycombinator.com/item?id=39223126) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-01, 23:18:38](https://news.ycombinator.com/item?id=39222898) - [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
 * [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Frontman of Weezer, Rivers Cuomo, is an active developer on GitHub](https://github.com/riverscuomo)
 * [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
