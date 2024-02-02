@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 22:11:59](https://news.ycombinator.com/item?id=39235146) - [It's the Impunity, Stupid](https://niedermeyer.io/2024/02/02/its-the-impunity-stupid)
 * [2024-02-02, 22:00:15](https://news.ycombinator.com/item?id=39235036) - [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
 * [2024-02-02, 21:56:41](https://news.ycombinator.com/item?id=39235001) - [Why Isn't the <html> Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
 * [2024-02-02, 21:46:00](https://news.ycombinator.com/item?id=39234899) - [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)

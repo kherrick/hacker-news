@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 22:11:59](https://news.ycombinator.com/item?id=39235146) - [It's the Impunity, Stupid](https://niedermeyer.io/2024/02/02/its-the-impunity-stupid)
 * [2024-02-02, 22:00:15](https://news.ycombinator.com/item?id=39235036) - [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
 * [2024-02-02, 21:56:41](https://news.ycombinator.com/item?id=39235001) - [Why Isn't the <html> Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
 * [2024-02-02, 21:46:00](https://news.ycombinator.com/item?id=39234899) - [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)
@@ -22,12 +23,11 @@
 * [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
 * [2024-02-01, 11:49:51](https://news.ycombinator.com/item?id=39214966) - [Reverse Engineering DOS Software as If It Were 1990](https://and0uille.net/misc/debug90.html)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
-* [2024-02-01, 07:46:09](https://news.ycombinator.com/item?id=39213648) - [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
+* [2024-02-01, 08:11:57](https://news.ycombinator.com/item?id=39213772) - [Check Out These Self-Soldering Sleeves from World War II](https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/)
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A Little Closer to Finding What Became of M. Schönfinkel Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-01-31, 20:09:53](https://news.ycombinator.com/item?id=39208702) - [The Burial of William the Conqueror: A Comedy of Errors](http://strangeco.blogspot.com/2024/01/the-burial-of-william-conqueror-comedy.html)
 * [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
-* [2024-01-31, 06:37:27](https://news.ycombinator.com/item?id=39200716) - [The Hobbes OS/2 Archive logs off permanently in April](https://www.theregister.com/2024/01/10/hobbes_os2_archive_shut_down/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
 * [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
