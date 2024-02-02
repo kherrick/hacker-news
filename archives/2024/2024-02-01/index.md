@@ -108,6 +108,7 @@
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 * [2024-02-01, 06:04:41](https://news.ycombinator.com/item?id=39213150) - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
+* [2024-02-01, 06:00:21](https://news.ycombinator.com/item?id=39213134) - [Weird, amazing psychotic life In Technicolor. Farscape & Henson's Lasting Legacy](https://reactormag.com/weird-amazing-psychotic-life-in-technicolor-farscape-and-hensons-lasting-legacy/)
 * [2024-02-01, 05:13:16](https://news.ycombinator.com/item?id=39212910) - [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)
 * [2024-02-01, 05:12:32](https://news.ycombinator.com/item?id=39212905) - [Matryoshka Representation Learning](https://arxiv.org/abs/2205.13147)
 * [2024-02-01, 04:53:54](https://news.ycombinator.com/item?id=39212833) - [The curious case of the disappearing Polish Ś (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
