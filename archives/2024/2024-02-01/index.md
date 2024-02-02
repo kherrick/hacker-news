@@ -57,6 +57,7 @@
 * [2024-02-01, 15:48:27](https://news.ycombinator.com/item?id=39217174) - [Los Angeles Becomes First US City to Outlaw Digital Discrimination](https://themarkup.org/still-loading/2024/02/01/los-angeles-becomes-first-us-city-to-outlaw-digital-discrimination)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
 * [2024-02-01, 15:36:51](https://news.ycombinator.com/item?id=39217046) - [Bard's latest updates: Access Gemini Pro globally and generate images](https://blog.google/products/bard/google-bard-gemini-pro-image-generation/)
+* [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
 * [2024-02-01, 15:25:20](https://news.ycombinator.com/item?id=39216921) - [When the Mac Was a Munition](https://newsletter.pessimistsarchive.org/p/when-the-mac-was-a-munition)
 * [2024-02-01, 15:23:27](https://news.ycombinator.com/item?id=39216904) - [Compiling a Lisp](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
 * [2024-02-01, 15:11:59](https://news.ycombinator.com/item?id=39216790) - [What Makes for 'Good' Mathematics?](https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/)
