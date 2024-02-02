@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 06:18:01](https://news.ycombinator.com/item?id=39225674) - [Philips hid CPAP machine problems from FDA and patients for years](https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 05:09:07](https://news.ycombinator.com/item?id=39225286) - [NTP Timelord Dies](https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
@@ -10,7 +11,6 @@
 * [2024-02-02, 01:00:36](https://news.ycombinator.com/item?id=39223649) - [Unlogged (YC S22) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-01, 23:44:52](https://news.ycombinator.com/item?id=39223126) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
-* [2024-02-01, 23:18:38](https://news.ycombinator.com/item?id=39222898) - [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
 * [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Rivers Cuomo is an active developer on GitHub](https://github.com/riverscuomo)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
