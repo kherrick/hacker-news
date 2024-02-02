@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 15:33:13](https://news.ycombinator.com/item?id=39229746) - [Open Source color palettes generator in HSLuv color space](https://github.com/saneef/color-color)
+* [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 * [2024-02-02, 15:05:56](https://news.ycombinator.com/item?id=39229389) - [Messenger Implosion Shows Journalism Lead by Visionless, Fail-Upward Brunchlords](https://www.techdirt.com/2024/02/02/the-messenger-implosion-once-again-shows-the-real-problem-with-u-s-journalism-is-shitty-management-by-visionless-fail-upward-brunchlords/)
+* [2024-02-02, 15:04:45](https://news.ycombinator.com/item?id=39229371) - [Bell's V-280 Valor Tiltrotor Picked as Army's Black Hawk Replacement (2022)](https://www.twz.com/bells-v-280-valor-tiltrotor-picked-as-armys-black-hawk-replacement)
 * [2024-02-02, 14:46:32](https://news.ycombinator.com/item?id=39229112) - [There Are Too Many Damn Honeypots](https://vulncheck.com/blog/too-many-honeypots)
 * [2024-02-02, 14:43:35](https://news.ycombinator.com/item?id=39229070) - [Japan to introduce six-month residency visa for 'digital nomads'](https://asia.nikkei.com/Spotlight/Japan-immigration/Japan-to-introduce-six-month-residency-visa-for-digital-nomads)
 * [2024-02-02, 14:30:24](https://news.ycombinator.com/item?id=39228879) - [The Rise of the American Oligarchy](https://www.motherjones.com/politics/2024/01/american-oligarchy-introduction-essay-russia-ukraine-capitalism/)
