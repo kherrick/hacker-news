@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 18:44:06](https://news.ycombinator.com/item?id=39232497) - [American Ornithological Society changing the names of birds named after people](https://slate.com/technology/2024/01/renaming-birds-eponyms-american-ornithological-society.html)
 * [2024-02-02, 18:16:44](https://news.ycombinator.com/item?id=39232132) - [Boeing 737 MAX-7/-10 Certification Halted](https://www.federalregister.gov/documents/2023/08/10/2023-17197/airworthiness-directives-the-boeing-company-airplanes)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:55:56](https://news.ycombinator.com/item?id=39231833) - [Why Don't We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
