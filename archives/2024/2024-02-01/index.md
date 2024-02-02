@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Frontman of Weezer, Rivers Cuomo, is an active developer on GitHub](https://github.com/riverscuomo)
 * [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 21:45:50](https://news.ycombinator.com/item?id=39221894) - [We need motivation (good managers)](https://www.ethanalter.com/blog/motivation)
 * [2024-02-01, 21:31:43](https://news.ycombinator.com/item?id=39221738) - [Apple reports first quarter results](https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/)
@@ -85,6 +86,7 @@
 * [2024-02-01, 11:46:28](https://news.ycombinator.com/item?id=39214939) - [Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM](https://arxiv.org/abs/2401.09417)
 * [2024-02-01, 11:25:41](https://news.ycombinator.com/item?id=39214818) - [Gary Bowser and gaming's most infamous piracy case](https://www.theguardian.com/games/2024/feb/01/the-man-who-owes-nintendo-14m-gary-bowser-and-gamings-most-infamous-piracy-case)
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
+* [2024-02-01, 11:05:51](https://news.ycombinator.com/item?id=39214712) - [Nano-scale inks could lighten airliners by hundreds of kilograms](https://newatlas.com/materials/lightweight-structural-color-ink/)
 * [2024-02-01, 11:04:04](https://news.ycombinator.com/item?id=39214701) - [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
 * [2024-02-01, 10:43:24](https://news.ycombinator.com/item?id=39214578) - [Ask HN: Could we just re-invent original Google?](https://news.ycombinator.com/item?id=39214578)
 * [2024-02-01, 10:17:53](https://news.ycombinator.com/item?id=39214428) - [PDF file is its own original soundtrack](https://www.lab6.com/6)
