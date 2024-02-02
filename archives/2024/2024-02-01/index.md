@@ -78,6 +78,7 @@
 * [2024-02-01, 13:25:43](https://news.ycombinator.com/item?id=39215662) - [Crash tests show nation's guardrail system can't handle heavy electric vehicles](https://apnews.com/article/electric-vehicles-crash-test-guardrails-nebraska-3ec299a7ad87d0f63a6dd9357f663fce)
 * [2024-02-01, 13:18:09](https://news.ycombinator.com/item?id=39215609) - [UNRWA-Hamas Relations](https://www.scribd.com/document/702738861/Swords-of-Iron-UNRWA-Hamas-Relations)
 * [2024-02-01, 12:48:08](https://news.ycombinator.com/item?id=39215384) - [Cops bogged down by flood of fake AI child sex images, report says](https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/)
+* [2024-02-01, 12:38:40](https://news.ycombinator.com/item?id=39215321) - [Notcurses: Blingful character graphics/TUI library](https://github.com/dankamongmen/notcurses)
 * [2024-02-01, 12:36:15](https://news.ycombinator.com/item?id=39215309) - [FreeBSD 4 Bug may be present in Playstation 4/5](https://wololo.net/2024/02/01/is-an-18-year-old-vulnerability-the-key-to-the-next-ps5-ps4-jailbreak/)
 * [2024-02-01, 12:34:34](https://news.ycombinator.com/item?id=39215302) - [InstaPython – Instant custom Python scripts on-demand](https://instapython.com)
 * [2024-02-01, 12:30:06](https://news.ycombinator.com/item?id=39215270) - [What is an integration platform and how to integrate APIs correctly?](https://zato.io/articles/integration-platform.html)
