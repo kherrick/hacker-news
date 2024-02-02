@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
-* [2024-02-02, 17:55:56](https://news.ycombinator.com/item?id=39231833) - [Why Don't We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:35:33](https://news.ycombinator.com/item?id=39231538) - [Meta's Reality Labs loses record $4.65B ahead of Apple's Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
 * [2024-02-02, 17:08:07](https://news.ycombinator.com/item?id=39231182) - [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
@@ -15,6 +14,7 @@
 * [2024-02-02, 14:46:32](https://news.ycombinator.com/item?id=39229112) - [There are too many damn honeypots](https://vulncheck.com/blog/too-many-honeypots)
 * [2024-02-02, 13:59:44](https://news.ycombinator.com/item?id=39228565) - [Show HN: Attabit – AI powered news](https://attabit.com/)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
+* [2024-02-02, 10:35:14](https://news.ycombinator.com/item?id=39227184) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
