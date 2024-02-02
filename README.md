@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 21:46:00](https://news.ycombinator.com/item?id=39234899) - [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)
 * [2024-02-02, 21:01:02](https://news.ycombinator.com/item?id=39234327) - [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
-* [2024-02-02, 20:27:59](https://news.ycombinator.com/item?id=39233855) - [David Kahn Has Died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
+* [2024-02-02, 20:27:59](https://news.ycombinator.com/item?id=39233855) - [David Kahn has died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
 * [2024-02-02, 20:24:52](https://news.ycombinator.com/item?id=39233802) - [Where Will Virtual Reality Take Us?](https://www.newyorker.com/tech/annals-of-technology/where-will-virtual-reality-take-us)
 * [2024-02-02, 19:46:33](https://news.ycombinator.com/item?id=39233239) - [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
 * [2024-02-02, 19:32:31](https://news.ycombinator.com/item?id=39233080) - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
@@ -26,7 +27,6 @@
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A Little Closer to Finding What Became of M. Schönfinkel Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-01-31, 20:09:53](https://news.ycombinator.com/item?id=39208702) - [The Burial of William the Conqueror: A Comedy of Errors](http://strangeco.blogspot.com/2024/01/the-burial-of-william-conqueror-comedy.html)
-* [2024-01-31, 07:15:07](https://news.ycombinator.com/item?id=39200955) - [The Official Raspberry Pi Handbook 2024](https://store.rpipress.cc/products/the-official-raspberry-pi-handbook-2024)
 * [2024-01-31, 06:37:27](https://news.ycombinator.com/item?id=39200716) - [The Hobbes OS/2 Archive logs off permanently in April](https://www.theregister.com/2024/01/10/hobbes_os2_archive_shut_down/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
 * [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)

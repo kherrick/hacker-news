@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 21:46:00](https://news.ycombinator.com/item?id=39234899) - [US investigation of Tesla steering problems is now one step closer to a recall](https://apnews.com/article/tesla-investigation-steering-control-lost-f29be580500a4ca97a280d6090259f05)
 * [2024-02-02, 21:01:02](https://news.ycombinator.com/item?id=39234327) - [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 * [2024-02-02, 20:27:59](https://news.ycombinator.com/item?id=39233855) - [David Kahn Has Died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
