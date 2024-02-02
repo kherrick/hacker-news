@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 21:01:02](https://news.ycombinator.com/item?id=39234327) - [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 * [2024-02-02, 20:27:59](https://news.ycombinator.com/item?id=39233855) - [David Kahn Has Died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
+* [2024-02-02, 20:24:52](https://news.ycombinator.com/item?id=39233802) - [Jaron Lanier: Where Will Virtual Reality Take Us?](https://www.newyorker.com/tech/annals-of-technology/where-will-virtual-reality-take-us)
+* [2024-02-02, 20:05:48](https://news.ycombinator.com/item?id=39233518) - [Joe Rogan's new 'multiyear' Spotify deal worth as much as $250M: report](https://nypost.com/2024/02/02/media/joe-rogans-new-spotify-deal-reportedly-valued-up-to-250m/)
 * [2024-02-02, 19:46:33](https://news.ycombinator.com/item?id=39233239) - [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
 * [2024-02-02, 19:32:31](https://news.ycombinator.com/item?id=39233080) - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
 * [2024-02-02, 19:15:03](https://news.ycombinator.com/item?id=39232890) - [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
