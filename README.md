@@ -4,7 +4,6 @@
 * [2024-02-02, 04:02:27](https://news.ycombinator.com/item?id=39224865) - [The medieval habit of 'two sleeps'](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-* [2024-02-02, 01:17:48](https://news.ycombinator.com/item?id=39223766) - ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
 * [2024-02-02, 01:00:36](https://news.ycombinator.com/item?id=39223649) - [Unlogged (YC S22) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
 * [2024-02-02, 00:57:58](https://news.ycombinator.com/item?id=39223625) - [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
@@ -29,6 +28,7 @@
 * [2024-02-01, 06:37:43](https://news.ycombinator.com/item?id=39213296) - [Apple declares last MacBook Pro with an optical drive obsolete](https://arstechnica.com/gadgets/2024/01/apple-declares-last-macbook-pro-with-an-optical-drive-obsolete/)
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
+* [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
 ## [Archives](archives/index.md)
