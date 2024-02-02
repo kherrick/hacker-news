@@ -6,6 +6,7 @@
 
 * [2024-02-02, 19:46:33](https://news.ycombinator.com/item?id=39233239) - [Limitarianism: The Case Against Extreme Wealth: Ingrid Robeyns](https://www.hive.co.uk/Product/Ingrid-Robeyns/Limitarianism--The-Case-Against-Extreme-Wealth/28866492)
 * [2024-02-02, 19:32:31](https://news.ycombinator.com/item?id=39233080) - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
+* [2024-02-02, 19:15:03](https://news.ycombinator.com/item?id=39232890) - [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
 * [2024-02-02, 19:09:58](https://news.ycombinator.com/item?id=39232838) - [Over 2 percent of the US's electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
 * [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
 * [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
@@ -18,6 +19,7 @@
 * [2024-02-02, 17:55:56](https://news.ycombinator.com/item?id=39231833) - [Why Don't We Teach People How to Parent?](https://www.theatlantic.com/family/archive/2024/02/intensive-parenting-learn-classes/677329/)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:35:33](https://news.ycombinator.com/item?id=39231538) - [Meta's Reality Labs loses record $4.65B ahead of Apple's Vision Pro launch](https://www.cnbc.com/2024/02/01/metas-reality-labs-loses-4point65-billion-in-q4-ahead-of-vision-pro.html)
+* [2024-02-02, 17:32:15](https://news.ycombinator.com/item?id=39231488) - [Show HN: Million 3 – Optimizing compiler for React](https://million.dev/blog/million-3.en-US)
 * [2024-02-02, 17:11:36](https://news.ycombinator.com/item?id=39231229) - [Tesla facing another massive recall – affecting 2.2 million vehicles](https://nypost.com/2024/02/02/business/tesla-facing-another-massive-recall-this-time-to-fix-warning-lights/)
 * [2024-02-02, 17:08:07](https://news.ycombinator.com/item?id=39231182) - [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
 * [2024-02-02, 17:00:54](https://news.ycombinator.com/item?id=39231096) - [SelectIQ (YC W23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
