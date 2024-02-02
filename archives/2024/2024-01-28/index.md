@@ -79,6 +79,7 @@
 * [2024-01-28, 11:22:41](https://news.ycombinator.com/item?id=39164593) - [The right way to sauce pasta (2016)](https://www.seriouseats.com/the-right-way-to-sauce-pasta)
 * [2024-01-28, 10:37:40](https://news.ycombinator.com/item?id=39164317) - [The Articulation Barrier: Prompt-Driven AI UX Hurts Usability](https://www.uxtigers.com/post/ai-articulation-barrier)
 * [2024-01-28, 10:09:44](https://news.ycombinator.com/item?id=39164159) - [I'm sorry, but omnidirectional treadmills can't work and here's why](https://james.darpinian.com/blog/omnidirectional-treadmills-cant-work)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 * [2024-01-28, 09:31:22](https://news.ycombinator.com/item?id=39163948) - [Curl HTTP/3 Performance](https://github.com/icing/blog/blob/main/curl-h3-performance.md)
 * [2024-01-28, 09:30:44](https://news.ycombinator.com/item?id=39163944) - [Ask HN: What are your Favorite Things?](https://news.ycombinator.com/item?id=39163944)
 * [2024-01-28, 09:15:11](https://news.ycombinator.com/item?id=39163828) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
