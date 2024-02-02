@@ -99,6 +99,7 @@
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains Are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 * [2024-02-01, 06:51:03](https://news.ycombinator.com/item?id=39213359) - [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
+* [2024-02-01, 06:40:37](https://news.ycombinator.com/item?id=39213309) - [We built our customer data warehouse all on Postgres](https://tembo.io/blog/tembo-data-warehouse)
 * [2024-02-01, 06:37:43](https://news.ycombinator.com/item?id=39213296) - [Apple declares last MacBook Pro with an optical drive obsolete](https://arstechnica.com/gadgets/2024/01/apple-declares-last-macbook-pro-with-an-optical-drive-obsolete/)
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)

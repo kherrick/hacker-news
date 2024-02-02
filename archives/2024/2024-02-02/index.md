@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
+* [2024-02-02, 05:09:07](https://news.ycombinator.com/item?id=39225286) - [NTP Timelord Dies](https://www.i-programmer.info/news/82-heritage/16929-ntp-timelord-dies.html)
 * [2024-02-02, 04:41:40](https://news.ycombinator.com/item?id=39225118) - [So Many Problems Continue to Plague the EV Industry](https://wattsupwiththat.com/2024/01/30/so-many-problems-continue-to-plague-the-ev-industry/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 * [2024-02-02, 04:02:27](https://news.ycombinator.com/item?id=39224865) - [The medieval habit of 'two sleeps'](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
