@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 * [2024-02-02, 19:32:31](https://news.ycombinator.com/item?id=39233080) - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
 * [2024-02-02, 19:15:03](https://news.ycombinator.com/item?id=39232890) - [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
 * [2024-02-02, 19:09:58](https://news.ycombinator.com/item?id=39232838) - [Over 2 percent of the US's electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
@@ -18,7 +19,6 @@
 * [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser](https://matan-h.com/another-secret-browser)
-* [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
 * [2024-02-01, 11:49:51](https://news.ycombinator.com/item?id=39214966) - [Reverse Engineering DOS Software as If It Were 1990](https://and0uille.net/misc/debug90.html)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
