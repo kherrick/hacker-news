@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 19:09:58](https://news.ycombinator.com/item?id=39232838) - [Over 2 percent of the US's electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
 * [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
 * [2024-02-02, 18:47:25](https://news.ycombinator.com/item?id=39232550) - [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/)
 * [2024-02-02, 18:45:50](https://news.ycombinator.com/item?id=39232522) - [Owning SpaceX's Starship Rockets Could Be in Department of Defense's Future](https://www.twz.com/space/owning-spacexs-starship-rockets-could-be-in-department-of-defenses-future)
@@ -16,7 +17,6 @@
 * [2024-02-02, 15:12:18](https://news.ycombinator.com/item?id=39229476) - [AWS charge for using IPv4 expected to bring $1B/year and speed up IPv6 adoption](https://www.tomshardware.com/networking/amazons-aws-new-charge-for-using-ipv4-is-expected-to-rake-in-up-to-dollar1b-per-year-change-should-speed-ipv6-adoption)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser](https://matan-h.com/another-secret-browser)
-* [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 * [2024-02-01, 11:49:51](https://news.ycombinator.com/item?id=39214966) - [Reverse Engineering DOS Software as If It Were 1990](https://and0uille.net/misc/debug90.html)
