@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
-* [2024-02-02, 06:18:01](https://news.ycombinator.com/item?id=39225674) - [Philips hid CPAP machine problems from FDA and patients for years](https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 * [2024-02-02, 04:02:27](https://news.ycombinator.com/item?id=39224865) - [The medieval habit of 'two sleeps'](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
@@ -11,7 +10,9 @@
 * [2024-02-02, 01:17:48](https://news.ycombinator.com/item?id=39223766) - ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-01, 23:44:52](https://news.ycombinator.com/item?id=39223126) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
+* [2024-02-01, 23:18:38](https://news.ycombinator.com/item?id=39222898) - [Two Mindsets That Can Create Rude or Polite Coworkers](https://journals.aom.org/doi/10.5465/amd.2022.0069.summary)
 * [2024-02-01, 22:14:52](https://news.ycombinator.com/item?id=39222196) - [Rivers Cuomo is an active developer on GitHub](https://github.com/riverscuomo)
+* [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
 * [2024-02-01, 19:59:24](https://news.ycombinator.com/item?id=39220528) - [Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident)
@@ -19,7 +20,6 @@
 * [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
-* [2024-02-01, 16:15:21](https://news.ycombinator.com/item?id=39217550) - [Show HN: ML Blocks – Deploy multimodal AI workflows without code](https://www.mlblocks.com/)
 * [2024-02-01, 16:00:08](https://news.ycombinator.com/item?id=39217310) - [Ask HN: Who is hiring? (February 2024)](https://news.ycombinator.com/item?id=39217310)
 * [2024-02-01, 16:00:06](https://news.ycombinator.com/item?id=39217308) - [Ask HN: Who wants to be hired? (February 2024)](https://news.ycombinator.com/item?id=39217308)
 * [2024-02-01, 15:46:15](https://news.ycombinator.com/item?id=39217149) - [My favourite Git commit (2019)](https://dhwthompson.com/2019/my-favourite-git-commit)
@@ -29,7 +29,7 @@
 * [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
-* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - [A Compelling Portrait of Brian Eno Is Different Each Time You Watch It](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
+* [2024-01-28, 12:12:47](https://news.ycombinator.com/item?id=39164933) - ['Eno' Review: A portrait of Brian Eno that is different each time you watch it](https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/)
 
 ## [Archives](archives/index.md)
 
