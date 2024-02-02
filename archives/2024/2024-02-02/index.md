@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
+* [2024-02-02, 18:47:25](https://news.ycombinator.com/item?id=39232550) - [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/)
+* [2024-02-02, 18:45:50](https://news.ycombinator.com/item?id=39232522) - [Owning SpaceX's Starship Rockets Could Be in Department of Defense's Future](https://www.twz.com/space/owning-spacexs-starship-rockets-could-be-in-department-of-defenses-future)
 * [2024-02-02, 18:44:06](https://news.ycombinator.com/item?id=39232497) - [American Ornithological Society changing the names of birds named after people](https://slate.com/technology/2024/01/renaming-birds-eponyms-american-ornithological-society.html)
 * [2024-02-02, 18:16:44](https://news.ycombinator.com/item?id=39232132) - [Boeing 737 MAX-7/-10 Certification Halted](https://www.federalregister.gov/documents/2023/08/10/2023-17197/airworthiness-directives-the-boeing-company-airplanes)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
