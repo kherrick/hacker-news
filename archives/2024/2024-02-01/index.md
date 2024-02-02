@@ -99,6 +99,7 @@
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains Are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)
 * [2024-02-01, 06:51:03](https://news.ycombinator.com/item?id=39213359) - [Ask HN: What are your thoughts on ChatGPT as a professional?](https://news.ycombinator.com/item?id=39213359)
+* [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-02-01, 06:11:16](https://news.ycombinator.com/item?id=39213180) - [EU chip goal 'unrealistic' says ASML CEO](https://www.electronicsweekly.com/news/business/eu-chip-goal-totally-unrealistic-2024-01/)
 * [2024-02-01, 06:04:41](https://news.ycombinator.com/item?id=39213150) - [Marlon Brando Was a Secret Tech Geek and Photoshop Ace](https://www.yahoo.com/entertainment/marlon-brando-was-a-secret-tech-geek-and-photoshop-124061824672.html)
 * [2024-02-01, 05:13:16](https://news.ycombinator.com/item?id=39212910) - [RFC: Rust Has Provenance](https://github.com/rust-lang/rfcs/pull/3559)

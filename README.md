@@ -2,7 +2,6 @@
 
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
-* [2024-02-02, 01:47:47](https://news.ycombinator.com/item?id=39223950) - [Peter Thiel Backs Doping-Friendly Olympics Rival – The 'Enhanced Games'](https://www.forbes.com/sites/roberthart/2024/01/31/billionaire-peter-thiel-backs-doping-friendly-olympics-rival---what-to-know-about-the-enhanced-games/)
 * [2024-02-02, 01:17:48](https://news.ycombinator.com/item?id=39223766) - ['Stupid,' 'shameful:' Tech workers on Y Combinator CEO Garry Tan's rant](https://missionlocal.org/2024/01/stupid-shameful-say-tech-workers-of-y-combinator-ceo-garry-tans-rant/)
 * [2024-02-02, 01:00:36](https://news.ycombinator.com/item?id=39223649) - [Unlogged (YC S22) Is Hiring a Founding Engineer](https://news.ycombinator.com/item?id=39223649)
 * [2024-02-02, 00:57:58](https://news.ycombinator.com/item?id=39223625) - [Harvard Faces New Threat of State Tax on $51B Endowment](https://www.bloomberg.com/news/articles/2024-02-01/harvard-faces-new-threat-of-state-tax-on-51-billion-endowment)
@@ -28,6 +27,7 @@
 * [2024-02-01, 13:33:38](https://news.ycombinator.com/item?id=39215723) - [Spider webs capture environmental DNA from terrestrial vertebrates](https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1)
 * [2024-02-01, 11:05:51](https://news.ycombinator.com/item?id=39214712) - [Nano-scale inks could lighten airliners by hundreds of kilograms](https://newatlas.com/materials/lightweight-structural-color-ink/)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
+* [2024-02-01, 06:30:17](https://news.ycombinator.com/item?id=39213261) - [Ask HN: Guide for Implementing Common Lisp](https://news.ycombinator.com/item?id=39213261)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
 
