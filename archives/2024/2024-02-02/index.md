@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 14:17:04](https://news.ycombinator.com/item?id=39228717) - [Show HN: Glasskube v0.0.1 Technical Preview for a New Kubernetes Package Manager](https://glasskube.dev/blog/technical-preview/)
 * [2024-02-02, 13:59:02](https://news.ycombinator.com/item?id=39228557) - [I'm Done Punching Trees and Grabbing Rocks in Video Games](https://kotaku.com/palworld-valheim-minecraft-punch-trees-survival-games-1851193458)
 * [2024-02-02, 13:58:48](https://news.ycombinator.com/item?id=39228556) - [Total nonfarm payroll employment rose by 353,000 in January](https://www.bls.gov/news.release/empsit.nr0.htm)
+* [2024-02-02, 13:42:51](https://news.ycombinator.com/item?id=39228432) - [U.S. Hiring Accelerated in January](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-02-2024)
 * [2024-02-02, 13:32:56](https://news.ycombinator.com/item?id=39228332) - [Payroll employment rises by 353K in January; unemployment rate remains at 3.7%](https://www.bls.gov/news.release/archives/empsit_02022024.htm)
 * [2024-02-02, 13:15:13](https://news.ycombinator.com/item?id=39228156) - [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind Color Palette Generator](https://www.tints.dev/)
