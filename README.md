@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
+* [2024-02-02, 20:27:59](https://news.ycombinator.com/item?id=39233855) - [David Kahn Has Died](https://www.schneier.com/blog/archives/2024/02/david-kahn.html)
 * [2024-02-02, 19:32:31](https://news.ycombinator.com/item?id=39233080) - [New Super Secret Surveillance Court Covering Old Super Secret Surveillance Court](https://www.techdirt.com/2024/02/02/we-shouldnt-allow-a-new-super-secret-surveillance-court-cover-up-the-civil-liberties-problems-of-the-old-super-secret-surveillance-court/)
 * [2024-02-02, 19:15:03](https://news.ycombinator.com/item?id=39232890) - [Never Retire](https://www.economist.com/business/2024/01/25/why-you-should-never-retire)
 * [2024-02-02, 19:09:58](https://news.ycombinator.com/item?id=39232838) - [Over 2 percent of the US's electricity generation now goes to Bitcoin](https://arstechnica.com/science/2024/02/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin/)
-* [2024-02-02, 19:09:34](https://news.ycombinator.com/item?id=39232832) - [Microsoft Edge Sucks Up Chrome Data Without Permission](https://reclaimthenet.org/microsoft-edge-sucks-up-chrome-data-without-permission)
 * [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
 * [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
 * [2024-02-02, 18:27:37](https://news.ycombinator.com/item?id=39232286) - [Temu's ad spend soars as it embarks on a marketing blitz](https://www.modernretail.co/marketing/ive-never-seen-anything-like-this-temus-ad-spend-soars-as-it-embarks-on-a-marketing-blitz/)
