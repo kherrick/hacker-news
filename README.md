@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
-* [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
 * [2024-02-02, 04:25:33](https://news.ycombinator.com/item?id=39225004) - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
+* [2024-02-02, 04:02:27](https://news.ycombinator.com/item?id=39224865) - [The medieval habit of 'two sleeps' (2022)](https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep)
 * [2024-02-02, 02:33:48](https://news.ycombinator.com/item?id=39224249) - [The FCC wants to criminalize AI robocall spam](https://www.theregister.com/2024/02/02/fcc_ai_robocall/)
 * [2024-02-02, 02:28:21](https://news.ycombinator.com/item?id=39224203) - [USB-C power for your Amiga 500, 600 and 1200](https://retrousbpower.com)
 * [2024-02-02, 01:53:13](https://news.ycombinator.com/item?id=39223982) - [FDA says 561 deaths tied to recalled Philips sleep apnea machines](https://www.cbsnews.com/news/fda-sleep-apnea-philips-recall-cpap/)
