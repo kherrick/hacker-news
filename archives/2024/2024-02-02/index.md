@@ -23,6 +23,7 @@
 * [2024-02-02, 14:30:24](https://news.ycombinator.com/item?id=39228879) - [The Rise of the American Oligarchy](https://www.motherjones.com/politics/2024/01/american-oligarchy-introduction-essay-russia-ukraine-capitalism/)
 * [2024-02-02, 14:19:12](https://news.ycombinator.com/item?id=39228744) - [You Shouldn't Start with an SPA](https://simonhamp.me/blog/you-shouldnt-start-with-an-spa/)
 * [2024-02-02, 14:17:04](https://news.ycombinator.com/item?id=39228717) - [Show HN: Glasskube v0.0.1 Technical Preview for a New Kubernetes Package Manager](https://glasskube.dev/blog/technical-preview/)
+* [2024-02-02, 13:59:44](https://news.ycombinator.com/item?id=39228565) - [Show HN: Attabit – AI powered news](https://attabit.com/)
 * [2024-02-02, 13:59:02](https://news.ycombinator.com/item?id=39228557) - [I'm Done Punching Trees and Grabbing Rocks in Video Games](https://kotaku.com/palworld-valheim-minecraft-punch-trees-survival-games-1851193458)
 * [2024-02-02, 13:58:48](https://news.ycombinator.com/item?id=39228556) - [Total nonfarm payroll employment rose by 353,000 in January](https://www.bls.gov/news.release/empsit.nr0.htm)
 * [2024-02-02, 13:42:51](https://news.ycombinator.com/item?id=39228432) - [U.S. Hiring Accelerated in January](https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-02-02-2024)
