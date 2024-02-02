@@ -97,6 +97,7 @@
 * [2024-02-01, 09:21:04](https://news.ycombinator.com/item?id=39214114) - [Study finds that once people use cargo bikes, they like their cars much less](https://arstechnica.com/cars/2024/01/study-finds-that-once-people-use-cargo-bikes-they-like-their-cars-much-less/)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
+* [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
 * [2024-02-01, 08:11:57](https://news.ycombinator.com/item?id=39213772) - [Check Out These Self-Soldering Sleeves from World War II](https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 07:00:39](https://news.ycombinator.com/item?id=39213418) - [Lasers or Longbows? A Paradox of Military Technology (2010)](https://search.informit.org/doi/10.3316/ielapa.201008920)
