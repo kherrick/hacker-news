@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-01, 22:01:10](https://news.ycombinator.com/item?id=39222066) - [In a 'Dark Dimension,' Physicists Search for the Universe's Missing Matter](https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/)
-* [2024-02-01, 21:45:50](https://news.ycombinator.com/item?id=39221894) - [We need motivation (good managers)](https://www.ethanalter.com/blog/motivation)
 * [2024-02-01, 21:10:55](https://news.ycombinator.com/item?id=39221526) - [Genetic autopsies to unravel the mystery of sudden deaths](https://english.elpais.com/health/2024-01-25/genetic-autopsies-to-unravel-the-mystery-of-sudden-deaths.html)
 * [2024-02-01, 20:53:23](https://news.ycombinator.com/item?id=39221309) - [A startup allegedly 'hacked the world', then came censorship, and now backlash](https://www.wired.com/story/appin-training-centers-lawsuits-censorship/)
 * [2024-02-01, 20:48:19](https://news.ycombinator.com/item?id=39221230) - [Fixing a broken smart cat feeder with ESP32](https://pdx.su/blog/2024-01-19-fixing-a-broken-smart-cat-feeder-with-esp32/)
@@ -11,6 +11,7 @@
 * [2024-02-01, 19:08:27](https://news.ycombinator.com/item?id=39219834) - [What Is an Electronic Sackbut?](https://spectrum.ieee.org/electronic-music)
 * [2024-02-01, 19:07:39](https://news.ycombinator.com/item?id=39219826) - [240-Gbit/s sub-THz wireless communications using ultra-low phase noise receiver](https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article)
 * [2024-02-01, 19:01:45](https://news.ycombinator.com/item?id=39219761) - [CyberChef from GCHQ: Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+* [2024-02-01, 17:50:23](https://news.ycombinator.com/item?id=39218867) - [Artificial Intelligence and Peace](https://www.vatican.va/content/francesco/en/messages/peace/documents/20231208-messaggio-57giornatamondiale-pace2024.html)
 * [2024-02-01, 17:33:33](https://news.ycombinator.com/item?id=39218638) - [The web just gets better with Interop 2024](https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/)
 * [2024-02-01, 17:01:44](https://news.ycombinator.com/item?id=39218173) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 * [2024-02-01, 17:00:23](https://news.ycombinator.com/item?id=39218160) - [HyperDX (YC S22) Is Hiring a Founding Engineer – Open-Source Observability (SF)](https://www.ycombinator.com/companies/hyperdx/jobs/1Ja2psR-founding-software-engineer-backend)
@@ -25,11 +26,10 @@
 * [2024-02-01, 11:10:58](https://news.ycombinator.com/item?id=39214743) - [Show HN: filippo.io/mlkem768 – Post-Quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-31, 18:38:53](https://news.ycombinator.com/item?id=39207570) - [Show HN: Stanchion – Column-oriented tables in SQLite](https://github.com/dgllghr/stanchion)
 * [2024-01-31, 11:55:09](https://news.ycombinator.com/item?id=39202728) - [Redeployment Part Three](https://brr.fyi/posts/redeployment-part-three)
+* [2024-01-31, 10:46:42](https://news.ycombinator.com/item?id=39202248) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-01-31, 10:03:43](https://news.ycombinator.com/item?id=39201976) - [Predictability, Home Advantage, and Fairness in Team Sports](https://www.michelecoscia.com/?p=2311)
 * [2024-01-31, 09:18:03](https://news.ycombinator.com/item?id=39201707) - [Separation of Concerns in Cross-Compilation](https://nixcademy.com/2024/01/30/cross-compilation-with-nix/)
-* [2024-01-31, 08:11:06](https://news.ycombinator.com/item?id=39201308) - [Death by Numbers – The London Bills of Mortality](https://www.deathbynumbers.org/)
 * [2024-01-31, 05:31:08](https://news.ycombinator.com/item?id=39200323) - [Starlink's laser system is beaming 42 petabytes of data per day](https://www.pcmag.com/news/starlinks-laser-system-is-beaming-42-million-gb-of-data-per-day)
-* [2024-01-29, 11:55:23](https://news.ycombinator.com/item?id=39175279) - [How Much Architecture Is \"Enough?\"](https://www.infoq.com/articles/mva-enough-architecture/)
 
 ## [Archives](archives/index.md)
 
