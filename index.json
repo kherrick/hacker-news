@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-02-02, 22:39:10",
-      "https://news.ycombinator.com/item?id=39235428"
-    ],
-    [
-      "Virtual Reality: still not quite there, again (2017)",
-      "https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 22:30:50",
       "https://news.ycombinator.com/item?id=39235336"
     ],
@@ -265,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39213485"
     ],
     [
-      "A Little Closer to Finding What Became of M. Schönfinkel Inventor of Combinators",
+      "A little closer to finding what became Moses Schönfinkel (2021)",
       "https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Fck-nat: The (f)easible (C)ost (k)onfigurable NAT",
       "https://fck-nat.dev/v1.3.0/"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 09:41:43",
+      "https://news.ycombinator.com/item?id=39164002"
+    ],
+    [
+      "Pandoc",
+      "https://pandoc.org"
     ]
   ]
 ]
