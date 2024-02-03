@@ -15,18 +15,18 @@
       "https://news.ycombinator.com/item?id=39241448"
     ],
     [
-      "How Quora Died",
+      "How Quora died",
       "https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html"
     ]
   ],
   [
     [
-      "2024-02-03, 15:24:48",
-      "https://news.ycombinator.com/item?id=39241153"
+      "2024-02-03, 15:26:32",
+      "https://news.ycombinator.com/item?id=39241174"
     ],
     [
-      "Native Exchange Support is coming to Thunderbird",
-      "https://linuxiac.com/thunderbirds-devs-rust-is-coming/"
+      "Republicans in Congress try to kill FCC's broadband discrimination rules",
+      "https://arstechnica.com/tech-policy/2024/02/republicans-in-congress-try-to-kill-fccs-broadband-discrimination-rules/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Video: Doom Running on Gut Bacteria",
       "https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 15:17:35",
-      "https://news.ycombinator.com/item?id=39241077"
-    ],
-    [
-      "Current Software Engineers Have No Deep Knowledge (Jonathan Blow) [video]",
-      "https://www.youtube.com/watch?v=Z0SJNkzOiq4"
     ]
   ],
   [
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2024-02-03, 13:39:13",
+      "https://news.ycombinator.com/item?id=39240232"
+    ],
+    [
+      "The worst users come from referral programs, free trials, coupons",
+      "https://andrewchen.com/worst-users-referral-trials-coupons-gamification/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 13:36:11",
       "https://news.ycombinator.com/item?id=39240205"
     ],
@@ -117,16 +117,6 @@
     [
       "Ofsted inspectors 'make up evidence' about a school's performance when IT fails",
       "https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 11:12:07",
-      "https://news.ycombinator.com/item?id=39239265"
-    ],
-    [
-      "Apple releases Pkl – configuration as code language",
-      "https://pkl-lang.org/index.html"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-02-03, 05:50:57",
-      "https://news.ycombinator.com/item?id=39237876"
+      "2024-02-03, 04:01:23",
+      "https://news.ycombinator.com/item?id=39237438"
     ],
     [
-      "The Decline of Hardware Knowledge in the Era of Cloud Native Compute",
-      "https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/"
+      "Car insurance in America is too cheap",
+      "https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2024-02-03, 01:31:17",
-      "https://news.ycombinator.com/item?id=39236777"
+      "2024-02-02, 19:22:59",
+      "https://news.ycombinator.com/item?id=39232976"
     ],
     [
-      "Designer News is dead",
-      "https://solomon.io/designer-news-is-dead/"
+      "Pkl, a Programming Language for Configuration",
+      "https://pkl-lang.org/blog/introducing-pkl.html"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2024-02-02, 07:18:49",
-      "https://news.ycombinator.com/item?id=39226008"
-    ],
-    [
-      "Si Units for Request Rate",
-      "https://two-wrongs.com/si-units-for-request-rate"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 05:17:41",
       "https://news.ycombinator.com/item?id=39225332"
     ],
     [
       "Well-Known Secrets of AmigaDOS",
       "https://www.datagubbe.se/adosmyst/"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 18:45:11",
+      "https://news.ycombinator.com/item?id=39219573"
+    ],
+    [
+      "SI Units for Request Rate",
+      "https://two-wrongs.com/si-units-for-request-rate"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 22:23:20",
+      "https://news.ycombinator.com/item?id=39210266"
+    ],
+    [
+      "Abstractions, repetition and discovery (2015)",
+      "http://beyond-code.com/blog/abstractions-repetition-discovery"
     ]
   ],
   [
