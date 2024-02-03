@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 15:50:55](https://news.ycombinator.com/item?id=39241448) - [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 * [2024-02-03, 15:24:48](https://news.ycombinator.com/item?id=39241153) - [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
+* [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
+* [2024-02-03, 15:19:51](https://news.ycombinator.com/item?id=39241101) - [Video: Doom Running on Gut Bacteria](https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html)
+* [2024-02-03, 15:17:35](https://news.ycombinator.com/item?id=39241077) - [Current Software Engineers Have No Deep Knowledge (Jonathan Blow) [video]](https://www.youtube.com/watch?v=Z0SJNkzOiq4)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:41:21](https://news.ycombinator.com/item?id=39240727) - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
 * [2024-02-03, 14:35:03](https://news.ycombinator.com/item?id=39240656) - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
