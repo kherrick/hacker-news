@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-03, 20:49:39](https://news.ycombinator.com/item?id=39244601) - [The scientists fighting the epidemic of fraudulent science research](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
-* [2024-02-03, 19:40:01](https://news.ycombinator.com/item?id=39243976) - [The Tyranny of the Rocket Equation](https://newspaceeconomy.ca/2023/05/28/the-tyranny-of-the-rocket-equation-an-in-depth-examination/)
 * [2024-02-03, 19:37:40](https://news.ycombinator.com/item?id=39243949) - [Researchers uncover potential non-opioid treatment for chronic pain in mice](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
 * [2024-02-03, 19:31:36](https://news.ycombinator.com/item?id=39243885) - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
 * [2024-02-03, 19:24:24](https://news.ycombinator.com/item?id=39243816) - [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
@@ -21,7 +21,7 @@
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
-* [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the edge: The use of design tactics to undermine browser choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
+* [2024-02-03, 07:10:12](https://news.ycombinator.com/item?id=39238176) - [Thomas Stevens (Cyclist)](https://en.wikipedia.org/wiki/Thomas_Stevens_(cyclist))
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
