@@ -17,7 +17,6 @@
 * [2024-02-02, 17:32:15](https://news.ycombinator.com/item?id=39231488) - [Show HN: Million 3 – Optimizing compiler for React](https://million.dev/blog/million-3.en-US)
 * [2024-02-02, 16:51:41](https://news.ycombinator.com/item?id=39230939) - [Researchers develop novel 'bone bandage' material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
 * [2024-02-02, 16:25:29](https://news.ycombinator.com/item?id=39230513) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
-* [2024-02-02, 16:09:44](https://news.ycombinator.com/item?id=39230263) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
 * [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 * [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
 * [2024-02-01, 12:38:40](https://news.ycombinator.com/item?id=39215321) - [Notcurses: Blingful character graphics/TUI library](https://github.com/dankamongmen/notcurses)
@@ -30,6 +29,7 @@
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
