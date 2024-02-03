@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 19:37:40](https://news.ycombinator.com/item?id=39243949) - [Researchers Uncover Potential Non-Opioid Treatment for Chronic Pain](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
+* [2024-02-03, 19:31:36](https://news.ycombinator.com/item?id=39243885) - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
 * [2024-02-03, 19:09:46](https://news.ycombinator.com/item?id=39243643) - [CaseyNeistat – the thing no one will say about Apple Vision Pro [video]](https://www.youtube.com/watch?v=UvkgmyfMPks)
+* [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 * [2024-02-03, 18:25:14](https://news.ycombinator.com/item?id=39243196) - [It begins: Ethiopia set to become first country to ban internal combustion cars](https://electrek.co/2024/02/02/it-begins-ethiopia-set-to-become-first-country-to-ban-internal-combustion-cars/)
 * [2024-02-03, 18:18:59](https://news.ycombinator.com/item?id=39243129) - [Los Angeles Passes Rule Banning Broadband Deployment Discrimination](https://www.techdirt.com/2024/02/02/los-angeles-passes-rule-banning-broadband-deployment-discrimination/)
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 18:07:33](https://news.ycombinator.com/item?id=39243013) - [OnlyFans Paid Chatters Lawsuit](https://www.savethefans.com/)
+* [2024-02-03, 17:50:54](https://news.ycombinator.com/item?id=39242822) - [The economics of fertility: a new era [pdf]](https://faculty.wcas.northwestern.edu/mdo738/research/Doepke_Hannusch_Kindermann_Tertilt_Handbook_23.pdf)
 * [2024-02-03, 17:31:35](https://news.ycombinator.com/item?id=39242598) - [Paris Vote Targets SUV Drivers with Parking Fees Set to Triple](https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple)
 * [2024-02-03, 17:03:05](https://news.ycombinator.com/item?id=39242244) - [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
 * [2024-02-03, 17:00:28](https://news.ycombinator.com/item?id=39242218) - [Ciro (YC S22) hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
