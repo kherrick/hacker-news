@@ -13,6 +13,7 @@
 * [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
+* [2024-02-03, 05:02:19](https://news.ycombinator.com/item?id=39237668) - [Git Query Language](https://amrdeveloper.github.io/GQL)
 * [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-03, 03:51:24](https://news.ycombinator.com/item?id=39237392) - [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)

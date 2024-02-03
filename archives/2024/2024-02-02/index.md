@@ -78,6 +78,7 @@
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser accessible by a link](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
+* [2024-02-02, 08:02:23](https://news.ycombinator.com/item?id=39226279) - [New Era of Video Editing](https://chillin.online/blog/new-era-of-video-editing)
 * [2024-02-02, 07:01:16](https://news.ycombinator.com/item?id=39225906) - [Bloop (YC S21) is hiring Rust engineers interested in compilers, in London](https://bloop.jobs.personio.com/job/1410410)
 * [2024-02-02, 06:18:01](https://news.ycombinator.com/item?id=39225674) - [Philips hid CPAP machine problems from FDA and patients for years](https://www.propublica.org/article/philips-kept-warnings-about-dangerous-cpaps-secret-profits-soared)
 * [2024-02-02, 05:25:51](https://news.ycombinator.com/item?id=39225382) - [The Retro Web – Database, Docs, BIOS, Drivers, etc. for old PC Hardware](https://theretroweb.com/)
