@@ -6,7 +6,6 @@
 * [2024-02-03, 15:50:55](https://news.ycombinator.com/item?id=39241448) - [How Quora died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 * [2024-02-03, 15:43:44](https://news.ycombinator.com/item?id=39241372) - [Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]](https://research.mozilla.org/files/2024/01/Over-the-Edge-Report-January-2024.pdf)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
-* [2024-02-03, 15:19:51](https://news.ycombinator.com/item?id=39241101) - [Video: Doom Running on Gut Bacteria](https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:41:21](https://news.ycombinator.com/item?id=39240727) - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
 * [2024-02-03, 14:28:51](https://news.ycombinator.com/item?id=39240608) - [Ask HN: Have humans always found socialising so challenging?](https://news.ycombinator.com/item?id=39240608)
@@ -29,6 +28,7 @@
 * [2024-02-02, 00:01:15](https://news.ycombinator.com/item?id=39223266) - [Why Drug History?](https://resobscura.substack.com/p/why-drug-history)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 22:23:20](https://news.ycombinator.com/item?id=39210266) - [Abstractions, repetition and discovery (2015)](http://beyond-code.com/blog/abstractions-repetition-discovery)
+* [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
 
 ## [Archives](archives/index.md)
