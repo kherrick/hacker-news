@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 * [2024-02-02, 23:03:51](https://news.ycombinator.com/item?id=39235663) - [Does fluoride in drinking water lower IQ? Question looms large in court battle](https://www.science.org/content/article/does-fluoride-drinking-water-lower-iq-question-looms-large-court-battle)
 * [2024-02-02, 22:57:13](https://news.ycombinator.com/item?id=39235593) - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
 * [2024-02-02, 22:39:10](https://news.ycombinator.com/item?id=39235428) - [Virtual Reality: still not quite there, again. – by Andrej Karpathy](https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867)
@@ -28,6 +29,7 @@
 * [2024-02-02, 18:47:25](https://news.ycombinator.com/item?id=39232550) - [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/)
 * [2024-02-02, 18:45:50](https://news.ycombinator.com/item?id=39232522) - [Owning SpaceX's Starship Rockets Could Be in Department of Defense's Future](https://www.twz.com/space/owning-spacexs-starship-rockets-could-be-in-department-of-defenses-future)
 * [2024-02-02, 18:44:06](https://news.ycombinator.com/item?id=39232497) - [American Ornithological Society changing the names of birds named after people](https://slate.com/technology/2024/01/renaming-birds-eponyms-american-ornithological-society.html)
+* [2024-02-02, 18:40:25](https://news.ycombinator.com/item?id=39232456) - [jj init – getting serious about replacing Git with Jujutsu](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 18:27:37](https://news.ycombinator.com/item?id=39232286) - [Temu's ad spend soars as it embarks on a marketing blitz](https://www.modernretail.co/marketing/ive-never-seen-anything-like-this-temus-ad-spend-soars-as-it-embarks-on-a-marketing-blitz/)
 * [2024-02-02, 18:16:44](https://news.ycombinator.com/item?id=39232132) - [Boeing 737 MAX-7/-10 Certification Halted](https://www.federalregister.gov/documents/2023/08/10/2023-17197/airworthiness-directives-the-boeing-company-airplanes)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)

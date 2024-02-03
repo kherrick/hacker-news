@@ -98,6 +98,7 @@
 * [2024-02-01, 10:17:53](https://news.ycombinator.com/item?id=39214428) - [PDF file is its own original soundtrack](https://www.lab6.com/6)
 * [2024-02-01, 09:32:43](https://news.ycombinator.com/item?id=39214165) - [Meta is the 'single largest market for paedophiles', says New Mexico AG](https://www.theguardian.com/global-development/2024/jan/31/meta-worlds-single-largest-marketplace-for-paedophiles-new-mexico-attorney-general-facebook-instagram)
 * [2024-02-01, 09:21:04](https://news.ycombinator.com/item?id=39214114) - [Study finds that once people use cargo bikes, they like their cars much less](https://arstechnica.com/cars/2024/01/study-finds-that-once-people-use-cargo-bikes-they-like-their-cars-much-less/)
+* [2024-02-01, 09:10:43](https://news.ycombinator.com/item?id=39214047) - [Fiber Optics Bring You Internet. Now They're Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
 * [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
