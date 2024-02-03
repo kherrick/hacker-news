@@ -66,6 +66,7 @@
 * [2024-02-02, 13:35:03](https://news.ycombinator.com/item?id=39228356) - [The Mystery of Chernobyl's Post-Invasion Radiation Spikes (2023)](https://www.wired.com/story/chernobyl-radiation-spike-mystery/)
 * [2024-02-02, 13:32:56](https://news.ycombinator.com/item?id=39228332) - [Payroll employment rises by 353K in January; unemployment rate remains at 3.7%](https://www.bls.gov/news.release/archives/empsit_02022024.htm)
 * [2024-02-02, 13:15:13](https://news.ycombinator.com/item?id=39228156) - [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
+* [2024-02-02, 13:05:05](https://news.ycombinator.com/item?id=39228088) - [Tissot's Indicatrix](https://observablehq.com/@d3/tissots-indicatrix)
 * [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind Color Palette Generator](https://www.tints.dev/)
 * [2024-02-02, 12:23:32](https://news.ycombinator.com/item?id=39227809) - [Homemade Pasta Now Is the Time (2021)](https://ruhlman.com/homemade-pasta/)
 * [2024-02-02, 12:10:03](https://news.ycombinator.com/item?id=39227727) - [NASA Workmanship Guide for wire splicing](https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html)
