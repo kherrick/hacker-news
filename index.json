@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-02-03, 14:35:03",
+      "https://news.ycombinator.com/item?id=39240656"
+    ],
+    [
+      "Superionic Water",
+      "https://en.wikipedia.org/wiki/Superionic_water"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 14:10:14",
       "https://news.ycombinator.com/item?id=39240471"
     ],
     [
-      "I reduced the size of my Docker image by 40% – Dockerizing shell scripts",
+      "A lesson in dockerizing shell scripts",
       "https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "The worst users come from referral programs, free trials, coupons",
       "https://andrewchen.com/worst-users-referral-trials-coupons-gamification/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 13:36:11",
+      "https://news.ycombinator.com/item?id=39240205"
+    ],
+    [
+      "Microsoft seeks Rust developers to rewrite core C# code",
+      "https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-02-02, 10:20:56",
-      "https://news.ycombinator.com/item?id=39227105"
-    ],
-    [
-      "Prehistoric Animals",
-      "https://www.prehistoricdomain.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 08:46:29",
       "https://news.ycombinator.com/item?id=39226549"
     ],
@@ -247,16 +257,6 @@
     [
       "Computer and Network Security",
       "https://engineering.purdue.edu/kak/compsec/"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 09:10:43",
-      "https://news.ycombinator.com/item?id=39214047"
-    ],
-    [
-      "Fiber Optics Bring You Internet. Now They're Also Listening to Trains",
-      "https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/"
     ]
   ],
   [
