@@ -20,7 +20,7 @@
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
-* [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
+* [2024-02-03, 07:10:12](https://news.ycombinator.com/item?id=39238176) - [Thomas Stevens (Cyclist)](https://en.wikipedia.org/wiki/Thomas_Stevens_(cyclist))
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-02-02, 07:57:50](https://news.ycombinator.com/item?id=39226251) - [RustQuant: A Library for Quantitative Finance](https://github.com/avhz/RustQuant)
