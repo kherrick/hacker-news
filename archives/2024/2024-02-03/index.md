@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 * [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)

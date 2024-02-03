@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 * [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
@@ -17,7 +18,6 @@
 * [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
-* [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
 * [2024-02-02, 05:17:41](https://news.ycombinator.com/item?id=39225332) - [Well-Known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
