@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 14:35:03](https://news.ycombinator.com/item?id=39240656) - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [I reduced the size of my Docker image by 40% – Dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 13:40:20](https://news.ycombinator.com/item?id=39240255) - [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [Why the Worst Users Come from Referral Programs, Free Trials, Coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
+* [2024-02-03, 13:36:11](https://news.ycombinator.com/item?id=39240205) - [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)
 * [2024-02-03, 11:46:06](https://news.ycombinator.com/item?id=39239449) - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
