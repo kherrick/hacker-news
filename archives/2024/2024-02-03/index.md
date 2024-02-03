@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
 * [2024-02-03, 17:00:28](https://news.ycombinator.com/item?id=39242218) - [Ciro (YC S22) hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
+* [2024-02-03, 16:26:40](https://news.ycombinator.com/item?id=39241825) - [The engineering behind Figma's vector networks (2019)](https://alexharri.com/blog/vector-networks)
 * [2024-02-03, 15:52:40](https://news.ycombinator.com/item?id=39241472) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 15:50:55](https://news.ycombinator.com/item?id=39241448) - [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 * [2024-02-03, 15:48:27](https://news.ycombinator.com/item?id=39241424) - [How bad is Tesla's hazardous waste problem in California?](https://www.theverge.com/2024/2/3/24058476/tesla-hazardous-waste-suit-settlement-california)
@@ -17,6 +18,7 @@
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:41:21](https://news.ycombinator.com/item?id=39240727) - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
 * [2024-02-03, 14:35:03](https://news.ycombinator.com/item?id=39240656) - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
+* [2024-02-03, 14:28:51](https://news.ycombinator.com/item?id=39240608) - [Ask HN: Have humans always found socialising so challenging?](https://news.ycombinator.com/item?id=39240608)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [I reduced the size of my Docker image by 40% – Dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 13:40:20](https://news.ycombinator.com/item?id=39240255) - [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [Why the Worst Users Come from Referral Programs, Free Trials, Coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
