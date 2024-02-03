@@ -115,6 +115,7 @@
 * [2024-01-29, 05:57:44](https://news.ycombinator.com/item?id=39173150) - [Global Room-Temperature Superconductivity in Graphite](https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230)
 * [2024-01-29, 05:38:41](https://news.ycombinator.com/item?id=39173042) - [Google Crimes](http://xahlee.info/w/google_index.html)
 * [2024-01-29, 05:36:30](https://news.ycombinator.com/item?id=39173034) - [Learning Universal Predictors](https://arxiv.org/abs/2401.14953)
+* [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
 * [2024-01-29, 05:25:59](https://news.ycombinator.com/item?id=39172981) - [Kirei is a work-in-progress keyboard library written in Zig](https://github.com/semickolon/kirei)
 * [2024-01-29, 05:00:39](https://news.ycombinator.com/item?id=39172859) - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 * [2024-01-29, 05:00:25](https://news.ycombinator.com/item?id=39172858) - [Why You've Never Been in a Plane Crash](https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash)

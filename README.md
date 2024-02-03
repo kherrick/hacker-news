@@ -15,7 +15,6 @@
 * [2024-02-02, 22:30:50](https://news.ycombinator.com/item?id=39235336) - [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
 * [2024-02-02, 21:56:41](https://news.ycombinator.com/item?id=39235001) - [Why isn't the <html> element 100% supported on caniuse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
-* [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 13:05:05](https://news.ycombinator.com/item?id=39228088) - [Tissot's Indicatrix](https://observablehq.com/@d3/tissots-indicatrix)
@@ -29,6 +28,7 @@
 * [2024-02-01, 08:06:24](https://news.ycombinator.com/item?id=39213748) - [Sega Flux: Home Planetarium](https://www.segatoys.space/en/public/flux.html)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
+* [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
 * [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
