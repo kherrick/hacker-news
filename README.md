@@ -2,6 +2,7 @@
 
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:41:21](https://news.ycombinator.com/item?id=39240727) - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
+* [2024-02-03, 14:35:03](https://news.ycombinator.com/item?id=39240656) - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 13:40:20](https://news.ycombinator.com/item?id=39240255) - [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [The worst users come from referral programs, free trials, coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
@@ -29,7 +30,6 @@
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
-* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
