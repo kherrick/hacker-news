@@ -28,8 +28,8 @@
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A little closer to finding what became Moses Schönfinkel (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
-* [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
