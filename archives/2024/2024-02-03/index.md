@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 18:25:14](https://news.ycombinator.com/item?id=39243196) - [It begins: Ethiopia set to become first country to ban internal combustion cars](https://electrek.co/2024/02/02/it-begins-ethiopia-set-to-become-first-country-to-ban-internal-combustion-cars/)
 * [2024-02-03, 18:18:59](https://news.ycombinator.com/item?id=39243129) - [Los Angeles Passes Rule Banning Broadband Deployment Discrimination](https://www.techdirt.com/2024/02/02/los-angeles-passes-rule-banning-broadband-deployment-discrimination/)
+* [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 17:31:35](https://news.ycombinator.com/item?id=39242598) - [Paris Vote Targets SUV Drivers with Parking Fees Set to Triple](https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple)
 * [2024-02-03, 17:03:05](https://news.ycombinator.com/item?id=39242244) - [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
 * [2024-02-03, 17:00:28](https://news.ycombinator.com/item?id=39242218) - [Ciro (YC S22) hiring a Founding Engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
