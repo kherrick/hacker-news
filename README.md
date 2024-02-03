@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-03, 01:49:35](https://news.ycombinator.com/item?id=39236862) - [Did Apple Just Break Web Apps in iOS 17.4 Beta (EU)? – Open Web Advocacy](https://open-web-advocacy.org/blog/did-apple-just-break-web-apps-in-ios17.4-beta-eu/)
 * [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 * [2024-02-02, 23:32:43](https://news.ycombinator.com/item?id=39235966) - [Python-based pinball software framework](https://missionpinball.org/)
 * [2024-02-02, 22:57:13](https://news.ycombinator.com/item?id=39235593) - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
@@ -30,6 +29,7 @@
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
