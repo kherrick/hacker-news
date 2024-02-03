@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 19:09:46](https://news.ycombinator.com/item?id=39243643) - [CaseyNeistat – the thing no one will say about Apple Vision Pro [video]](https://www.youtube.com/watch?v=UvkgmyfMPks)
 * [2024-02-03, 18:25:14](https://news.ycombinator.com/item?id=39243196) - [It begins: Ethiopia set to become first country to ban internal combustion cars](https://electrek.co/2024/02/02/it-begins-ethiopia-set-to-become-first-country-to-ban-internal-combustion-cars/)
 * [2024-02-03, 18:18:59](https://news.ycombinator.com/item?id=39243129) - [Los Angeles Passes Rule Banning Broadband Deployment Discrimination](https://www.techdirt.com/2024/02/02/los-angeles-passes-rule-banning-broadband-deployment-discrimination/)
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
