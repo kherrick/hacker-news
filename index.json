@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-02-03, 03:51:24",
-      "https://news.ycombinator.com/item?id=39237392"
+      "2024-02-03, 06:32:41",
+      "https://news.ycombinator.com/item?id=39238039"
     ],
     [
-      "French Bulldog puppy spontaneously regrows jaw that was removed due to cancer",
-      "https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/"
+      "AT&T applies to end obligation to service landlines in California",
+      "https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 06:24:15",
+      "https://news.ycombinator.com/item?id=39238010"
+    ],
+    [
+      "Goodbye Non-Kiss Appliances",
+      "https://willbush.dev/blog/complex-appliances/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 04:35:21",
+      "https://news.ycombinator.com/item?id=39237567"
+    ],
+    [
+      "Over the Edge: The Use of Design Tactics to Undermine Browser Choice",
+      "https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39235001"
     ],
     [
-      "Why Isn't the <html> Element 100% Supported on CanIUse.com?",
+      "Why isn't the <html> element 100% supported on caniuse.com?",
       "https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "How is a binary executable organized? Let's explore it (2014)",
       "https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 17:32:15",
-      "https://news.ycombinator.com/item?id=39231488"
-    ],
-    [
-      "Show HN: Million 3 – Optimizing compiler for React",
-      "https://million.dev/blog/million-3.en-US"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Fck-nat: The (f)easible (C)ost (k)onfigurable NAT",
       "https://fck-nat.dev/v1.3.0/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 09:41:43",
-      "https://news.ycombinator.com/item?id=39164002"
-    ],
-    [
-      "Pandoc",
-      "https://pandoc.org"
     ]
   ]
 ]
