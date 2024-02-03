@@ -105,6 +105,7 @@
 * [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
 * [2024-02-01, 08:11:57](https://news.ycombinator.com/item?id=39213772) - [Check Out These Self-Soldering Sleeves from World War II](https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/)
+* [2024-02-01, 08:06:24](https://news.ycombinator.com/item?id=39213748) - [Sega Flux: Home Planetarium](https://www.segatoys.space/en/public/flux.html)
 * [2024-02-01, 07:46:09](https://news.ycombinator.com/item?id=39213648) - [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A Little Closer to Finding What Became of M. Schönfinkel Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)

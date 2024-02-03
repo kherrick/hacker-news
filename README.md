@@ -2,6 +2,7 @@
 
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-03, 03:51:24](https://news.ycombinator.com/item?id=39237392) - [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)
+* [2024-02-03, 03:13:49](https://news.ycombinator.com/item?id=39237232) - [Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 * [2024-02-03, 01:31:17](https://news.ycombinator.com/item?id=39236777) - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
 * [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 * [2024-02-02, 22:57:13](https://news.ycombinator.com/item?id=39235593) - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
@@ -24,12 +25,11 @@
 * [2024-02-01, 09:38:53](https://news.ycombinator.com/item?id=39214202) - [How paid Wikipedia editors squeeze you dry](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-01-31/Disinformation_report)
 * [2024-02-01, 09:37:38](https://news.ycombinator.com/item?id=39214193) - [Computer and Network Security](https://engineering.purdue.edu/kak/compsec/)
 * [2024-02-01, 09:10:43](https://news.ycombinator.com/item?id=39214047) - [Fiber Optics Bring You Internet. Now They're Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)
+* [2024-02-01, 08:06:24](https://news.ycombinator.com/item?id=39213748) - [Sega Flux: Home Planetarium](https://www.segatoys.space/en/public/flux.html)
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A little closer to finding what became Moses Schönfinkel (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
-* [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
-* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
