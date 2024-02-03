@@ -73,6 +73,7 @@
 * [2024-02-02, 11:06:06](https://news.ycombinator.com/item?id=39227355) - [Australian YouTuber removes video after death threats from organised crime](https://www.theguardian.com/australia-news/2024/feb/02/youtuber-friendlyjordies-jordan-shanks-markovina-takes-down-video-after-alleged-death-threats-ntwnfb)
 * [2024-02-02, 10:35:14](https://news.ycombinator.com/item?id=39227184) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
+* [2024-02-02, 10:20:56](https://news.ycombinator.com/item?id=39227105) - [Prehistoric Animals](https://www.prehistoricdomain.com/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser accessible by a link](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
