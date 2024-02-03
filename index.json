@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-02-03, 23:03:06",
+      "https://news.ycombinator.com/item?id=39245664"
+    ],
+    [
+      "TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)",
+      "https://lupyuen.codeberg.page/articles/tcc.html"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 20:49:39",
       "https://news.ycombinator.com/item?id=39244601"
     ],
     [
-      "The scientists fighting the epidemic of fraudulent science research",
+      "Researchers taking on fraudulent science",
       "https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research"
     ]
   ],
@@ -17,6 +27,26 @@
     [
       "A brief history of the U.S. trying to add backdoors into encrypted data (2016)",
       "https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 19:24:24",
+      "https://news.ycombinator.com/item?id=39243816"
+    ],
+    [
+      "Cork is displacing plastics and creating a billion-dollar industry",
+      "https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 19:10:43",
+      "https://news.ycombinator.com/item?id=39243655"
+    ],
+    [
+      "Why Postgres RDS didn't work for us",
+      "https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       ".NET on Linux: What a Contrast",
       "https://two-wrongs.com/dotnet-on-linux-update.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 17:36:22",
-      "https://news.ycombinator.com/item?id=39242662"
-    ],
-    [
-      "Apple Vision Pro and ADHD",
-      "https://dansalva.to/apple-vision-pro-and-adhd/"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "A lesson in dockerizing shell scripts",
       "https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 07:10:12",
-      "https://news.ycombinator.com/item?id=39238176"
-    ],
-    [
-      "Thomas Stevens (Cyclist)",
-      "https://en.wikipedia.org/wiki/Thomas_Stevens_(cyclist)"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 04:35:21",
-      "https://news.ycombinator.com/item?id=39237567"
-    ],
-    [
-      "Over the edge: The use of design tactics to undermine browser choice",
-      "https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/"
     ]
   ],
   [
