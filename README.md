@@ -5,7 +5,7 @@
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
-* [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
+* [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment (2014)](https://edeproject.org/)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
 * [2024-02-03, 03:13:49](https://news.ycombinator.com/item?id=39237232) - [Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
