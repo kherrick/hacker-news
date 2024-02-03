@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-03, 03:51:24](https://news.ycombinator.com/item?id=39237392) - [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)
 * [2024-02-03, 03:13:49](https://news.ycombinator.com/item?id=39237232) - [Full $71M breakdown for The Village by M. Night Shyamalan (2003) [pdf]](https://wlmager.com/wp-content/uploads/2012/10/Budget-The-Village-Shyamalan-copy.pdf)
 * [2024-02-03, 01:31:17](https://news.ycombinator.com/item?id=39236777) - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
@@ -30,6 +29,7 @@
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A little closer to finding what became Moses Schönfinkel (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
