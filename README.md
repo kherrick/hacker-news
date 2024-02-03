@@ -10,7 +10,6 @@
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:41:21](https://news.ycombinator.com/item?id=39240727) - [VueJS turns 10 years old](https://twitter.com/vuejs/status/1753678155444101385)
-* [2024-02-03, 14:28:51](https://news.ycombinator.com/item?id=39240608) - [Ask HN: Have humans always found socialising so challenging?](https://news.ycombinator.com/item?id=39240608)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [The worst users come from referral programs, free trials, coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
 * [2024-02-03, 13:36:11](https://news.ycombinator.com/item?id=39240205) - [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)
@@ -29,6 +28,7 @@
 * [2024-02-02, 00:01:15](https://news.ycombinator.com/item?id=39223266) - [Why Drug History?](https://resobscura.substack.com/p/why-drug-history)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 22:23:20](https://news.ycombinator.com/item?id=39210266) - [Abstractions, repetition and discovery (2015)](http://beyond-code.com/blog/abstractions-repetition-discovery)
+* [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
 
 ## [Archives](archives/index.md)
