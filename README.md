@@ -18,7 +18,6 @@
 * [2024-02-02, 16:25:29](https://news.ycombinator.com/item?id=39230513) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2024-02-02, 16:09:44](https://news.ycombinator.com/item?id=39230263) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
 * [2024-02-02, 16:08:51](https://news.ycombinator.com/item?id=39230244) - [Pinball Map: Crowd-sourced worldwide map of public pinball machines](https://pinballmap.com/)
-* [2024-02-02, 12:26:37](https://news.ycombinator.com/item?id=39227831) - [Tailwind color palette generator](https://www.tints.dev/)
 * [2024-02-01, 15:32:18](https://news.ycombinator.com/item?id=39217000) - [Show HN: An open source performance monitoring tool](https://github.com/highlight/highlight/blob/3cc29388f99716833055d1aaa4a53d938d9e786e/README.md)
 * [2024-02-01, 12:38:40](https://news.ycombinator.com/item?id=39215321) - [Notcurses: Blingful character graphics/TUI library](https://github.com/dankamongmen/notcurses)
 * [2024-02-01, 11:49:51](https://news.ycombinator.com/item?id=39214966) - [Reverse Engineering DOS Software as If It Were 1990](https://and0uille.net/misc/debug90.html)
@@ -30,6 +29,7 @@
 * [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
 * [2024-01-29, 08:59:09](https://news.ycombinator.com/item?id=39174229) - [Incomplete thoughts on contrastive audio models](https://zelalabs.substack.com/p/incomplete-thoughts-on-contrastive)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
+* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
