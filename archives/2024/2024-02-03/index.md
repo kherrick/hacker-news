@@ -7,6 +7,7 @@
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
+* [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
 * [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
