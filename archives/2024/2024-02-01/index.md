@@ -96,6 +96,7 @@
 * [2024-02-01, 11:04:04](https://news.ycombinator.com/item?id=39214701) - [Across the country, houses of worship are going solar](https://grist.org/buildings/more-churches-plugging-solar-power/)
 * [2024-02-01, 10:43:24](https://news.ycombinator.com/item?id=39214578) - [Ask HN: Could we just re-invent original Google?](https://news.ycombinator.com/item?id=39214578)
 * [2024-02-01, 10:17:53](https://news.ycombinator.com/item?id=39214428) - [PDF file is its own original soundtrack](https://www.lab6.com/6)
+* [2024-02-01, 09:38:53](https://news.ycombinator.com/item?id=39214202) - [How paid Wikipedia editors squeeze you dry](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-01-31/Disinformation_report)
 * [2024-02-01, 09:32:43](https://news.ycombinator.com/item?id=39214165) - [Meta is the 'single largest market for paedophiles', says New Mexico AG](https://www.theguardian.com/global-development/2024/jan/31/meta-worlds-single-largest-marketplace-for-paedophiles-new-mexico-attorney-general-facebook-instagram)
 * [2024-02-01, 09:21:04](https://news.ycombinator.com/item?id=39214114) - [Study finds that once people use cargo bikes, they like their cars much less](https://arstechnica.com/cars/2024/01/study-finds-that-once-people-use-cargo-bikes-they-like-their-cars-much-less/)
 * [2024-02-01, 09:10:43](https://news.ycombinator.com/item?id=39214047) - [Fiber Optics Bring You Internet. Now They're Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)
