@@ -42,6 +42,7 @@
 * [2024-01-31, 17:51:28](https://news.ycombinator.com/item?id=39206959) - [A plan to save democracy by ending homelessness, reducing the prison population](https://www.piratewires.com/p/wireheading-city-george-hotz)
 * [2024-01-31, 17:47:32](https://news.ycombinator.com/item?id=39206911) - [Hearing aids slow cognitive decline in people at high risk](https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk)
 * [2024-01-31, 17:42:30](https://news.ycombinator.com/item?id=39206843) - [Peppermint: Open Source Helpdesk Solution](https://peppermint.sh/)
+* [2024-01-31, 17:42:28](https://news.ycombinator.com/item?id=39206842) - [Show HN: Visualize the Entropy of a Codebase with a 3D Force-Directed Graph](https://github.com/gabotechs/dep-tree)
 * [2024-01-31, 17:35:09](https://news.ycombinator.com/item?id=39206731) - [How hard is it to cheat with ChatGPT in interviews?](https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews)
 * [2024-01-31, 17:22:48](https://news.ycombinator.com/item?id=39206529) - [Sega AI](https://www.smspower.org/SegaAI/Index)
 * [2024-01-31, 17:21:06](https://news.ycombinator.com/item?id=39206503) - [ICANN proposes creating .INTERNAL domain to do the same job as 192.168.x.x](https://www.theregister.com/2024/01/29/icann_internal_tld/)
