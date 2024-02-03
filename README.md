@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
@@ -16,6 +15,7 @@
 * [2024-02-02, 21:01:02](https://news.ycombinator.com/item?id=39234327) - [Kodable is hiring a Full Stack Engineer to help teach kids to code](https://www.ziprecruiter.com/jobs/kodable-fd6f1626/senior-full-stack-software-engineer-c215f839)
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 * [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
+* [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
