@@ -82,6 +82,7 @@
 * [2024-02-02, 08:44:49](https://news.ycombinator.com/item?id=39226540) - [Vision Pro's killer feature? It's a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html)
 * [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
 * [2024-02-02, 08:02:23](https://news.ycombinator.com/item?id=39226279) - [New Era of Video Editing](https://chillin.online/blog/new-era-of-video-editing)
+* [2024-02-02, 07:57:50](https://news.ycombinator.com/item?id=39226251) - [RustQuant: A Library for Quantitative Finance](https://github.com/avhz/RustQuant)
 * [2024-02-02, 07:57:16](https://news.ycombinator.com/item?id=39226243) - [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)
 * [2024-02-02, 07:18:49](https://news.ycombinator.com/item?id=39226008) - [Si Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-02-02, 07:09:59](https://news.ycombinator.com/item?id=39225953) - [Nvidia CEO Says Nations Seeking Own AI Systems Will Raise Demand](https://www.bloomberg.com/news/articles/2024-02-02/nvidia-ceo-says-nations-seeking-own-ai-systems-will-raise-demand)
