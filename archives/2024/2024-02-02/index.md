@@ -101,3 +101,4 @@
 * [2024-02-02, 00:37:40](https://news.ycombinator.com/item?id=39223499) - [Slint GUI Toolkit](https://github.com/slint-ui/slint)
 * [2024-02-02, 00:33:02](https://news.ycombinator.com/item?id=39223467) - [OLMo: Accelerating the Science of Language Models [pdf]](https://allenai.org/olmo/olmo-paper.pdf)
 * [2024-02-02, 00:11:04](https://news.ycombinator.com/item?id=39223330) - [Opt Out of Hulu's New Binding Arbitration Clause](https://honeypot.net/post/opt-out-of-hulus-new-binding-arbitration-clause/)
+* [2024-02-02, 00:01:15](https://news.ycombinator.com/item?id=39223266) - [Why Drug History?](https://resobscura.substack.com/p/why-drug-history)
