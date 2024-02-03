@@ -7,6 +7,7 @@
 * [2024-02-03, 15:52:40](https://news.ycombinator.com/item?id=39241472) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 15:50:55](https://news.ycombinator.com/item?id=39241448) - [How Quora Died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 * [2024-02-03, 15:48:27](https://news.ycombinator.com/item?id=39241424) - [How bad is Tesla's hazardous waste problem in California?](https://www.theverge.com/2024/2/3/24058476/tesla-hazardous-waste-suit-settlement-california)
+* [2024-02-03, 15:26:32](https://news.ycombinator.com/item?id=39241174) - [Republicans in Congress try to kill FCC's broadband discrimination rules](https://arstechnica.com/tech-policy/2024/02/republicans-in-congress-try-to-kill-fccs-broadband-discrimination-rules/)
 * [2024-02-03, 15:24:48](https://news.ycombinator.com/item?id=39241153) - [Native Exchange Support is coming to Thunderbird](https://linuxiac.com/thunderbirds-devs-rust-is-coming/)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:19:51](https://news.ycombinator.com/item?id=39241101) - [Video: Doom Running on Gut Bacteria](https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html)
