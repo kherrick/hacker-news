@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-03, 01:31:17](https://news.ycombinator.com/item?id=39236777) - [Designer News Is Dead](https://solomon.io/designer-news-is-dead/)
+* [2024-02-03, 01:31:17](https://news.ycombinator.com/item?id=39236777) - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
 * [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 * [2024-02-02, 22:57:13](https://news.ycombinator.com/item?id=39235593) - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
 * [2024-02-02, 22:44:56](https://news.ycombinator.com/item?id=39235484) - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
@@ -28,8 +28,8 @@
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A little closer to finding what became Moses Schönfinkel (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-31, 07:05:17](https://news.ycombinator.com/item?id=39200883) - [How Software Works (2015)](https://nostarch.com/howsoftwareworks)
+* [2024-01-29, 08:59:09](https://news.ycombinator.com/item?id=39174229) - [Incomplete thoughts on contrastive audio models](https://zelalabs.substack.com/p/incomplete-thoughts-on-contrastive)
 * [2024-01-28, 09:42:37](https://news.ycombinator.com/item?id=39164010) - [Fck-nat: The (f)easible (C)ost (k)onfigurable NAT](https://fck-nat.dev/v1.3.0/)
-* [2024-01-28, 09:41:43](https://news.ycombinator.com/item?id=39164002) - [Pandoc](https://pandoc.org)
 
 ## [Archives](archives/index.md)
 
