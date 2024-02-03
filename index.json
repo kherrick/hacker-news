@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-02-03, 15:50:55",
+      "https://news.ycombinator.com/item?id=39241448"
+    ],
+    [
+      "How Quora Died",
+      "https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 15:24:48",
       "https://news.ycombinator.com/item?id=39241153"
     ],
     [
       "Native Exchange Support is coming to Thunderbird",
       "https://linuxiac.com/thunderbirds-devs-rust-is-coming/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 15:21:09",
+      "https://news.ycombinator.com/item?id=39241113"
+    ],
+    [
+      "A 1.55 R⊕ habitable-zone planet hosted by TOI-715",
+      "https://academic.oup.com/mnras/article/527/1/35/7172075"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 15:19:51",
+      "https://news.ycombinator.com/item?id=39241101"
+    ],
+    [
+      "Video: Doom Running on Gut Bacteria",
+      "https://www.engadget.com/heres-a-video-of-doom-running-on-gut-bacteria-proving-you-really-can-play-the-game-on-anything-184629896.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 15:17:35",
+      "https://news.ycombinator.com/item?id=39241077"
+    ],
+    [
+      "Current Software Engineers Have No Deep Knowledge (Jonathan Blow) [video]",
+      "https://www.youtube.com/watch?v=Z0SJNkzOiq4"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Microsoft seeks Rust developers to rewrite core C# code",
       "https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 11:46:06",
-      "https://news.ycombinator.com/item?id=39239449"
-    ],
-    [
-      "Physical cash is dying–and you don't need to be a conspiracist to worry",
-      "https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society"
     ]
   ],
   [
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=39238010"
     ],
     [
-      "Goodbye Non-Kiss Appliances",
+      "Goodbye non-KISS appliances",
       "https://willbush.dev/blog/complex-appliances/"
     ]
   ],
@@ -157,16 +187,6 @@
     [
       "The Decline of Hardware Knowledge in the Era of Cloud Native Compute",
       "https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 04:35:21",
-      "https://news.ycombinator.com/item?id=39237567"
-    ],
-    [
-      "Over the edge: The use of design tactics to undermine browser choice",
-      "https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Designer News is dead",
       "https://solomon.io/designer-news-is-dead/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 22:57:13",
-      "https://news.ycombinator.com/item?id=39235593"
-    ],
-    [
-      "SeaweedFS fast distributed storage system for blobs, objects, files and datalake",
-      "https://github.com/seaweedfs/seaweedfs"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Well-Known Secrets of AmigaDOS",
       "https://www.datagubbe.se/adosmyst/"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 07:07:18",
-      "https://news.ycombinator.com/item?id=39213454"
-    ],
-    [
-      "Origami Simulator",
-      "https://origamisimulator.org/"
     ]
   ],
   [
