@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-03, 11:46:06](https://news.ycombinator.com/item?id=39239449) - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
@@ -15,7 +16,7 @@
 * [2024-02-02, 22:44:56](https://news.ycombinator.com/item?id=39235484) - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
 * [2024-02-02, 22:30:50](https://news.ycombinator.com/item?id=39235336) - [Carl Weathers has died](https://www.bbc.co.uk/news/world-us-canada-68188746)
 * [2024-02-02, 21:56:41](https://news.ycombinator.com/item?id=39235001) - [Why isn't the <html> element 100% supported on caniuse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)
-* [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
+* [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 13:05:05](https://news.ycombinator.com/item?id=39228088) - [Tissot's Indicatrix](https://observablehq.com/@d3/tissots-indicatrix)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
@@ -25,7 +26,6 @@
 * [2024-02-01, 09:38:53](https://news.ycombinator.com/item?id=39214202) - [How paid Wikipedia editors squeeze you dry](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-01-31/Disinformation_report)
 * [2024-02-01, 09:37:38](https://news.ycombinator.com/item?id=39214193) - [Computer and Network Security](https://engineering.purdue.edu/kak/compsec/)
 * [2024-02-01, 09:10:43](https://news.ycombinator.com/item?id=39214047) - [Fiber Optics Bring You Internet. Now They're Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)
-* [2024-02-01, 08:06:24](https://news.ycombinator.com/item?id=39213748) - [Sega Flux: Home Planetarium](https://www.segatoys.space/en/public/flux.html)
 * [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)

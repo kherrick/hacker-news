@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 11:46:06](https://news.ycombinator.com/item?id=39239449) - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
