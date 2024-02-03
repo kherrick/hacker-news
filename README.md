@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-03, 03:51:24](https://news.ycombinator.com/item?id=39237392) - [French Bulldog puppy spontaneously regrows jaw that was removed due to cancer](https://www.earth.com/news/french-bulldog-puppy-spontaneously-regrows-jaw-that-was-removed-due-to-cancer/)
 * [2024-02-03, 01:31:17](https://news.ycombinator.com/item?id=39236777) - [Designer News is dead](https://solomon.io/designer-news-is-dead/)
 * [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
@@ -11,7 +12,6 @@
 * [2024-02-02, 20:33:33](https://news.ycombinator.com/item?id=39233943) - [OpenBSD System-Call Pinning](https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/)
 * [2024-02-02, 18:49:20](https://news.ycombinator.com/item?id=39232580) - [Multi-channel Audio Part 2](https://computer.rip/2024-01-31-multi-channel-audio-part-2.html)
 * [2024-02-02, 18:48:53](https://news.ycombinator.com/item?id=39232572) - [Show HN: The classic Minesweeper on an irregular grid](https://polyreplay.com/minesweepertwist)
-* [2024-02-02, 18:40:25](https://news.ycombinator.com/item?id=39232456) - [jj init – getting serious about replacing Git with Jujutsu](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 18:07:15](https://news.ycombinator.com/item?id=39232004) - [When should you give up on a project that doesn't work?](https://www.preethamrn.com/posts/when-should-you-give-up)
 * [2024-02-02, 17:43:33](https://news.ycombinator.com/item?id=39231663) - [How is a binary executable organized? Let's explore it (2014)](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
 * [2024-02-02, 17:32:15](https://news.ycombinator.com/item?id=39231488) - [Show HN: Million 3 – Optimizing compiler for React](https://million.dev/blog/million-3.en-US)
