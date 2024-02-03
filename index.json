@@ -35,18 +35,8 @@
       "https://news.ycombinator.com/item?id=39243816"
     ],
     [
-      "Cork Is Displacing Plastics and Creating a Billion-Dollar Industry",
+      "Cork is displacing plastics and creating a billion-dollar industry",
       "https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 19:22:47",
-      "https://news.ycombinator.com/item?id=39243794"
-    ],
-    [
-      "Global cancer cases will jump 77% by 2050, WHO report estimates",
-      "https://www.cnn.com/2024/02/02/health/who-cancer-estimates/index.html"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39243044"
     ],
     [
-      "DIY MBA: My Reading List",
+      "DIY MBA: My Reading List (2019)",
       "https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6"
     ]
   ],
@@ -111,22 +101,12 @@
   ],
   [
     [
-      "2024-02-03, 17:50:37",
-      "https://news.ycombinator.com/item?id=39242817"
+      "2024-02-03, 17:36:22",
+      "https://news.ycombinator.com/item?id=39242662"
     ],
     [
-      "Low-Power Wi-Fi Extends Signals Up to 3 Kilometers",
-      "https://spectrum.ieee.org/wi-fi-halow"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 17:31:35",
-      "https://news.ycombinator.com/item?id=39242598"
-    ],
-    [
-      "Paris Vote Targets SUV Drivers with Parking Fees Set to Triple",
-      "https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple"
+      "Apple Vision Pro and ADHD",
+      "https://dansalva.to/apple-vision-pro-and-adhd/"
     ]
   ],
   [
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39242218"
     ],
     [
-      "Ciro (YC S22) hiring a Founding Engineer to build an SMB search engine",
+      "Ciro (YC S22) is hiring a founding engineer to build an SMB search engine",
       "https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer"
     ]
   ],
@@ -167,6 +147,16 @@
     [
       "Folk Computer",
       "https://folk.computer/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 15:50:55",
+      "https://news.ycombinator.com/item?id=39241448"
+    ],
+    [
+      "How Quora died",
+      "https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2024-02-02, 05:17:41",
-      "https://news.ycombinator.com/item?id=39225332"
-    ],
-    [
-      "Well-Known Secrets of AmigaDOS",
-      "https://www.datagubbe.se/adosmyst/"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 00:01:15",
       "https://news.ycombinator.com/item?id=39223266"
     ],
     [
       "Drug history is a backdoor to cultural history",
       "https://resobscura.substack.com/p/why-drug-history"
+    ]
+  ],
+  [
+    [
+      "2024-02-01, 18:45:11",
+      "https://news.ycombinator.com/item?id=39219573"
+    ],
+    [
+      "SI Units for Request Rate",
+      "https://two-wrongs.com/si-units-for-request-rate"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 17:42:28",
+      "https://news.ycombinator.com/item?id=39206842"
+    ],
+    [
+      "Show HN: Visualize the Entropy of a Codebase with a 3D Force-Directed Graph",
+      "https://github.com/gabotechs/dep-tree"
     ]
   ]
 ]
