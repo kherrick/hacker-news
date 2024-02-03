@@ -106,6 +106,7 @@
 * [2024-02-01, 07:46:09](https://news.ycombinator.com/item?id=39213648) - [The Thundering Herd Problem](https://encore.dev/blog/thundering-herd-problem)
 * [2024-02-01, 07:34:57](https://news.ycombinator.com/item?id=39213595) - [Aerugo – RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:14:51](https://news.ycombinator.com/item?id=39213485) - [A Little Closer to Finding What Became of M. Schönfinkel Inventor of Combinators](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
+* [2024-02-01, 07:07:18](https://news.ycombinator.com/item?id=39213454) - [Origami Simulator](https://origamisimulator.org/)
 * [2024-02-01, 07:00:46](https://news.ycombinator.com/item?id=39213421) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39213421)
 * [2024-02-01, 07:00:39](https://news.ycombinator.com/item?id=39213418) - [Lasers or Longbows? A Paradox of Military Technology (2010)](https://search.informit.org/doi/10.3316/ielapa.201008920)
 * [2024-02-01, 06:59:11](https://news.ycombinator.com/item?id=39213410) - [Markov Chains Are the Original Language Models](https://elijahpotter.dev/articles/markov_chains_are_the_original_language_models)

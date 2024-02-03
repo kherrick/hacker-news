@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
 * [2024-02-02, 23:34:28](https://news.ycombinator.com/item?id=39235983) - [A decoder-only foundation model for time-series forecasting](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+* [2024-02-02, 23:32:43](https://news.ycombinator.com/item?id=39235966) - [Python-based pinball software framework](https://missionpinball.org/)
 * [2024-02-02, 23:03:51](https://news.ycombinator.com/item?id=39235663) - [Does fluoride in drinking water lower IQ? Question looms large in court battle](https://www.science.org/content/article/does-fluoride-drinking-water-lower-iq-question-looms-large-court-battle)
 * [2024-02-02, 22:57:13](https://news.ycombinator.com/item?id=39235593) - [SeaweedFS fast distributed storage system for blobs, objects, files and datalake](https://github.com/seaweedfs/seaweedfs)
+* [2024-02-02, 22:44:56](https://news.ycombinator.com/item?id=39235484) - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
 * [2024-02-02, 22:39:10](https://news.ycombinator.com/item?id=39235428) - [Virtual Reality: still not quite there, again. – by Andrej Karpathy](https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867)
 * [2024-02-02, 22:30:50](https://news.ycombinator.com/item?id=39235336) - [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
 * [2024-02-02, 22:11:59](https://news.ycombinator.com/item?id=39235146) - [It's the Impunity, Stupid](https://niedermeyer.io/2024/02/02/its-the-impunity-stupid)
