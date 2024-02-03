@@ -6,6 +6,7 @@
 
 * [2024-02-03, 19:37:40](https://news.ycombinator.com/item?id=39243949) - [Researchers Uncover Potential Non-Opioid Treatment for Chronic Pain](https://news.utexas.edu/2024/01/30/researchers-uncover-potential-non-opioid-treatment-for-chronic-pain/)
 * [2024-02-03, 19:31:36](https://news.ycombinator.com/item?id=39243885) - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
+* [2024-02-03, 19:24:24](https://news.ycombinator.com/item?id=39243816) - [Cork Is Displacing Plastics and Creating a Billion-Dollar Industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
 * [2024-02-03, 19:09:46](https://news.ycombinator.com/item?id=39243643) - [CaseyNeistat – the thing no one will say about Apple Vision Pro [video]](https://www.youtube.com/watch?v=UvkgmyfMPks)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 * [2024-02-03, 18:25:14](https://news.ycombinator.com/item?id=39243196) - [It begins: Ethiopia set to become first country to ban internal combustion cars](https://electrek.co/2024/02/02/it-begins-ethiopia-set-to-become-first-country-to-ban-internal-combustion-cars/)
@@ -41,6 +42,7 @@
 * [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
 * [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
+* [2024-02-03, 07:10:12](https://news.ycombinator.com/item?id=39238176) - [Thomas Stevens (Cyclist)](https://en.wikipedia.org/wiki/Thomas_Stevens_(cyclist))
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 * [2024-02-03, 05:50:57](https://news.ycombinator.com/item?id=39237876) - [The Decline of Hardware Knowledge in the Era of Cloud Native Compute](https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/)
