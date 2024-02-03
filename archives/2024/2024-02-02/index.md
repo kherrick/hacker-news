@@ -79,6 +79,7 @@
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser accessible by a link](https://matan-h.com/another-secret-browser)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
+* [2024-02-02, 08:44:49](https://news.ycombinator.com/item?id=39226540) - [Vision Pro's killer feature? It's a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html)
 * [2024-02-02, 08:28:56](https://news.ycombinator.com/item?id=39226442) - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
 * [2024-02-02, 08:02:23](https://news.ycombinator.com/item?id=39226279) - [New Era of Video Editing](https://chillin.online/blog/new-era-of-video-editing)
 * [2024-02-02, 07:57:16](https://news.ycombinator.com/item?id=39226243) - [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)

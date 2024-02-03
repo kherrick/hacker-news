@@ -23,12 +23,12 @@
 * [2024-02-02, 13:05:05](https://news.ycombinator.com/item?id=39228088) - [Tissot's Indicatrix](https://observablehq.com/@d3/tissots-indicatrix)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
+* [2024-02-02, 08:44:49](https://news.ycombinator.com/item?id=39226540) - [Vision Pro's killer feature? It's a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html)
 * [2024-02-02, 07:57:16](https://news.ycombinator.com/item?id=39226243) - [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)
 * [2024-02-02, 05:17:41](https://news.ycombinator.com/item?id=39225332) - [Well-Known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 00:01:15](https://news.ycombinator.com/item?id=39223266) - [Why Drug History?](https://resobscura.substack.com/p/why-drug-history)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 22:23:20](https://news.ycombinator.com/item?id=39210266) - [Abstractions, repetition and discovery (2015)](http://beyond-code.com/blog/abstractions-repetition-discovery)
-* [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 05:34:50](https://news.ycombinator.com/item?id=39173031) - [A new Debian package helper: debputy](https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html)
 
 ## [Archives](archives/index.md)
