@@ -22,6 +22,7 @@
 * [2024-02-03, 18:02:41](https://news.ycombinator.com/item?id=39242962) - [Let Futures Be Futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 17:50:54](https://news.ycombinator.com/item?id=39242822) - [The economics of fertility: a new era [pdf]](https://faculty.wcas.northwestern.edu/mdo738/research/Doepke_Hannusch_Kindermann_Tertilt_Handbook_23.pdf)
 * [2024-02-03, 17:50:37](https://news.ycombinator.com/item?id=39242817) - [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
+* [2024-02-03, 17:49:06](https://news.ycombinator.com/item?id=39242797) - [.NET on Linux: What a Contrast](https://two-wrongs.com/dotnet-on-linux-update.html)
 * [2024-02-03, 17:36:22](https://news.ycombinator.com/item?id=39242662) - [Apple Vision Pro and ADHD](https://dansalva.to/apple-vision-pro-and-adhd/)
 * [2024-02-03, 17:31:35](https://news.ycombinator.com/item?id=39242598) - [Paris Vote Targets SUV Drivers with Parking Fees Set to Triple](https://www.bloomberg.com/news/articles/2024-02-03/paris-vote-targets-suv-drivers-with-parking-fees-set-to-triple)
 * [2024-02-03, 17:03:05](https://news.ycombinator.com/item?id=39242244) - [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
