@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
+* [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
 * [2024-02-04, 14:16:24](https://news.ycombinator.com/item?id=39250352) - [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
 * [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids to Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
