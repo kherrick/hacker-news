@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 20:49:22](https://news.ycombinator.com/item?id=39254299) - [Autism, Through the Eyes of a Computer](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
+* [2024-02-04, 20:38:44](https://news.ycombinator.com/item?id=39254187) - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)](https://adilegian.com/FranzenGaddis.htm)
 * [2024-02-04, 19:46:40](https://news.ycombinator.com/item?id=39253654) - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the Codpiece Flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
