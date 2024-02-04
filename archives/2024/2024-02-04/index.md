@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The First Amateur Radio Station on the Moon, JS1YMG, Is Now Transmitting](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-04, 04:10:10](https://news.ycombinator.com/item?id=39247497) - [A Brief History of NSA Backdoors (2013)](https://www.ethanheilman.com/x/12/index.html)
 * [2024-02-04, 02:43:18](https://news.ycombinator.com/item?id=39247039) - [Richard Scolyer: Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
 * [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
