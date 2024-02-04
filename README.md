@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The First Amateur Radio Station on the Moon, JS1YMG, Is Now Transmitting](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
-* [2024-02-04, 04:10:10](https://news.ycombinator.com/item?id=39247497) - [A Brief History of NSA Backdoors (2013)](https://www.ethanheilman.com/x/12/index.html)
 * [2024-02-04, 02:43:18](https://news.ycombinator.com/item?id=39247039) - [Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
 * [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
+* [2024-02-04, 02:28:47](https://news.ycombinator.com/item?id=39246950) - [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
 * [2024-02-04, 02:05:02](https://news.ycombinator.com/item?id=39246825) - [How Doom didn't kill the Amiga](https://www.datagubbe.se/afb/)
 * [2024-02-04, 01:37:43](https://news.ycombinator.com/item?id=39246664) - [Vision Pro Teardown – Why those fake eyes look so weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
 * [2024-02-04, 01:11:42](https://news.ycombinator.com/item?id=39246508) - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
@@ -11,6 +11,7 @@
 * [2024-02-03, 23:03:06](https://news.ycombinator.com/item?id=39245664) - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
 * [2024-02-03, 20:49:39](https://news.ycombinator.com/item?id=39244601) - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+* [2024-02-03, 19:24:24](https://news.ycombinator.com/item?id=39243816) - [Cork is displacing plastics and creating a billion-dollar industry](https://www.washingtonpost.com/climate-solutions/2024/02/03/cork-sustainable-material/)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List (2019)](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 17:50:37](https://news.ycombinator.com/item?id=39242817) - [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
@@ -27,7 +28,6 @@
 * [2024-02-02, 08:55:14](https://news.ycombinator.com/item?id=39226611) - [Sapling – A VCS from Meta](https://github.com/facebook/sapling)
 * [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-02-02, 06:27:26](https://news.ycombinator.com/item?id=39225716) - [Keeler's Theory of Plot](https://site.xavier.edu/polt/keeler/onwebwork.html)
-* [2024-02-02, 05:45:44](https://news.ycombinator.com/item?id=39225503) - [Microdot: A Web Framework for Microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:42:28](https://news.ycombinator.com/item?id=39206842) - [Show HN: Visualize the entropy of a codebase with a 3D force-directed graph](https://github.com/gabotechs/dep-tree)
 
