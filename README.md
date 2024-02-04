@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-04, 12:35:30](https://news.ycombinator.com/item?id=39249745) - [Taggers have sprayed graffiti on 27 stories of a downtown Los Angeles skyscraper](https://www.latimes.com/california/story/2024-02-02/graffiti-highrise-downtown-la)
+* [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
 * [2024-02-04, 12:21:10](https://news.ycombinator.com/item?id=39249676) - [Association of long-term exposure to air pollution w retinal neurodegeneration](https://www.sciencedirect.com/science/article/abs/pii/S0013935123011684)
 * [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules>](https://zeux.io/2010/11/15/include-rules/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
@@ -18,7 +19,6 @@
 * [2024-02-03, 21:21:37](https://news.ycombinator.com/item?id=39244867) - [Space Station Demo](https://www.lexaloffle.com/bbs/?pid=94322#p)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
-* [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List (2019)](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
