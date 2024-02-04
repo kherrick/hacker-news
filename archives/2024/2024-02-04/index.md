@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 18:18:43](https://news.ycombinator.com/item?id=39252801) - [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
 * [2024-02-04, 18:07:27](https://news.ycombinator.com/item?id=39252690) - [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
 * [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
 * [2024-02-04, 17:50:59](https://news.ycombinator.com/item?id=39252517) - [Digitopia is ruining our lives](https://deeshee.io/2024/02/04/digitopia-is-ruining.html)
 * [2024-02-04, 17:43:29](https://news.ycombinator.com/item?id=39252448) - [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
 * [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 * [2024-02-04, 17:25:43](https://news.ycombinator.com/item?id=39252253) - [Apple doesn't allow you to change macOS cursor anymore](https://github.com/alexzielenski/Mousecape)
+* [2024-02-04, 17:24:09](https://news.ycombinator.com/item?id=39252235) - [How do Transformers Work?](https://nintyzeros.substack.com/p/how-do-transformer-workdesign-a-multi)
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-04, 16:47:14](https://news.ycombinator.com/item?id=39251812) - [Kim Dotcom's pro-Kremlin lies](https://www.polygraph.info/a/fact-check-pro-russian-falsehoods-kim-dotcom/6743375.html)
