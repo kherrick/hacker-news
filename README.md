@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The DIY Diggers Who Can't Stop Making 'Hobby Tunnels'](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 * [2024-02-03, 23:03:06](https://news.ycombinator.com/item?id=39245664) - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
 * [2024-02-03, 20:49:39](https://news.ycombinator.com/item?id=39244601) - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
@@ -7,7 +8,6 @@
 * [2024-02-03, 19:10:43](https://news.ycombinator.com/item?id=39243655) - [Why Postgres RDS didn't work for us](https://medium.com/@mkremer_75412/why-postgres-rds-didnt-work-for-us-and-why-it-won-t-work-for-you-if-you-re-implementing-a-big-6c4fff5a8644)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List (2019)](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
-* [2024-02-03, 18:02:41](https://news.ycombinator.com/item?id=39242962) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 17:50:54](https://news.ycombinator.com/item?id=39242822) - [The economics of fertility: a new era (2023) [pdf]](https://faculty.wcas.northwestern.edu/mdo738/research/Doepke_Hannusch_Kindermann_Tertilt_Handbook_23.pdf)
 * [2024-02-03, 17:50:37](https://news.ycombinator.com/item?id=39242817) - [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
 * [2024-02-03, 17:49:06](https://news.ycombinator.com/item?id=39242797) - [.NET on Linux: What a Contrast](https://two-wrongs.com/dotnet-on-linux-update.html)
@@ -25,9 +25,9 @@
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-02-02, 07:57:50](https://news.ycombinator.com/item?id=39226251) - [RustQuant: A Library for Quantitative Finance](https://github.com/avhz/RustQuant)
 * [2024-02-02, 07:57:16](https://news.ycombinator.com/item?id=39226243) - [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)
+* [2024-02-02, 06:27:26](https://news.ycombinator.com/item?id=39225716) - [Keeler's Theory of Plot](https://site.xavier.edu/polt/keeler/onwebwork.html)
 * [2024-02-02, 06:06:54](https://news.ycombinator.com/item?id=39225619) - [System Interaction Model](https://jointhefreeworld.org/blog/articles/development/System%20Interaction%20Model.html)
 * [2024-02-02, 05:45:44](https://news.ycombinator.com/item?id=39225503) - [Microdot: A Web Framework for Microcontrollers](https://lwn.net//Articles/959067/)
-* [2024-02-02, 00:01:15](https://news.ycombinator.com/item?id=39223266) - [Drug history is a backdoor to cultural history](https://resobscura.substack.com/p/why-drug-history)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:42:28](https://news.ycombinator.com/item?id=39206842) - [Show HN: Visualize the entropy of a codebase with a 3D force-directed graph](https://github.com/gabotechs/dep-tree)
 
