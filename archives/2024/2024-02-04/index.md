@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 14:16:24](https://news.ycombinator.com/item?id=39250352) - [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
 * [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids to Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
 * [2024-02-04, 13:55:11](https://news.ycombinator.com/item?id=39250207) - [How easy is it for a non-entrepreneur to become an entrepreneur in 2024?](https://news.ycombinator.com/item?id=39250207)
 * [2024-02-04, 13:37:33](https://news.ycombinator.com/item?id=39250089) - [We just launched Sketch Logo AI- Ask us anything](https://www.sketchlogo.ai/)
