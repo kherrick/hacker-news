@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
 * [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 * [2024-02-04, 16:19:53](https://news.ycombinator.com/item?id=39251525) - [Cloudflare Hacked by Suspected State-Sponsored Threat Actor](https://www.securityweek.com/cloudflare-hacked-by-suspected-state-sponsored-attacker/)

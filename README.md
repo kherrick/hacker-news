@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
 * [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
-* [2024-02-04, 16:19:53](https://news.ycombinator.com/item?id=39251525) - [Cloudflare Hacked by Suspected State-Sponsored Threat Actor](https://www.securityweek.com/cloudflare-hacked-by-suspected-state-sponsored-attacker/)
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 15:32:21](https://news.ycombinator.com/item?id=39250975) - [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
@@ -24,7 +24,7 @@
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
 * [2024-02-04, 02:28:47](https://news.ycombinator.com/item?id=39246950) - [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
-* [2024-02-04, 02:05:02](https://news.ycombinator.com/item?id=39246825) - [How Doom didn't kill the Amiga](https://www.datagubbe.se/afb/)
+* [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 07:27:41](https://news.ycombinator.com/item?id=39238223) - [Foldmation: Interactive Origami Folding](https://foldmation.com/)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-01-30, 12:25:46](https://news.ycombinator.com/item?id=39189285) - [Missile Game](https://www.missile-game.com)
