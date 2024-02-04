@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 23:08:34](https://news.ycombinator.com/item?id=39255486) - [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
 * [2024-02-04, 20:47:07](https://news.ycombinator.com/item?id=39254274) - [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
@@ -11,7 +12,6 @@
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 * [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
-* [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki: Online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
 * [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
