@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
 * [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 * [2024-02-04, 16:19:53](https://news.ycombinator.com/item?id=39251525) - [Cloudflare Hacked by Suspected State-Sponsored Threat Actor](https://www.securityweek.com/cloudflare-hacked-by-suspected-state-sponsored-attacker/)
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
@@ -12,7 +13,6 @@
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
 * [2024-02-04, 14:18:49](https://news.ycombinator.com/item?id=39250362) - [IPTV Anti-Piracy Threats May Increase Male Motivation to Pirate by 30%](https://torrentfreak.com/iptv-anti-piracy-threats-may-increase-male-motivation-to-pirate-by-30-240202/)
 * [2024-02-04, 14:12:02](https://news.ycombinator.com/item?id=39250320) - [A Reasonable Configuration Language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
-* [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids To Control Their Anger (2019)](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
 * [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules> (2010)](https://zeux.io/2010/11/15/include-rules/)
