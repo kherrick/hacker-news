@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy Is Difficult to Compete Against and Growing Rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
+* [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
-* [2024-02-04, 20:49:22](https://news.ycombinator.com/item?id=39254299) - [Autism, through the eyes of a computer (2019)](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
 * [2024-02-04, 20:47:07](https://news.ycombinator.com/item?id=39254274) - [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
 * [2024-02-04, 20:38:44](https://news.ycombinator.com/item?id=39254187) - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)](https://adilegian.com/FranzenGaddis.htm)
+* [2024-02-04, 20:37:10](https://news.ycombinator.com/item?id=39254176) - [How fast is rolling Karp-Rabin hashing?](https://lemire.me/blog/2024/02/04/how-fast-is-rolling-karp-rabin-hashing/)
 * [2024-02-04, 20:36:28](https://news.ycombinator.com/item?id=39254172) - [Stract: Open-souce, non-profit search engine](https://stract.com/)
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
