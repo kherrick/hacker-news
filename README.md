@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 02:05:02](https://news.ycombinator.com/item?id=39246825) - [Doom Didn't Kill the Amiga](https://www.datagubbe.se/afb/)
 * [2024-02-04, 01:37:43](https://news.ycombinator.com/item?id=39246664) - [Vision Pro Teardown–Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
 * [2024-02-04, 01:11:42](https://news.ycombinator.com/item?id=39246508) - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
 * [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The DIY Diggers Who Can't Stop Making 'Hobby Tunnels'](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
@@ -16,7 +17,6 @@
 * [2024-02-03, 17:00:28](https://news.ycombinator.com/item?id=39242218) - [Ciro (YC S22) is hiring a founding engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
 * [2024-02-03, 16:26:40](https://news.ycombinator.com/item?id=39241825) - [The engineering behind Figma's vector networks (2019)](https://alexharri.com/blog/vector-networks)
 * [2024-02-03, 15:52:40](https://news.ycombinator.com/item?id=39241472) - [Folk Computer](https://folk.computer/)
-* [2024-02-03, 15:50:55](https://news.ycombinator.com/item?id=39241448) - [How Quora died](https://slate.com/technology/2024/02/quora-what-happened-ai-decline.html)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
