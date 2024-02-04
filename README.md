@@ -2,8 +2,7 @@
 
 * [2024-02-04, 14:16:24](https://news.ycombinator.com/item?id=39250352) - [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
 * [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids To Control Their Anger (2019)](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
-* [2024-02-04, 13:55:11](https://news.ycombinator.com/item?id=39250207) - [How easy is it for a non-entrepreneur to become an entrepreneur in 2024?](https://news.ycombinator.com/item?id=39250207)
-* [2024-02-04, 13:37:33](https://news.ycombinator.com/item?id=39250089) - [We just launched Sketch Logo AI. Ask us anything](https://www.sketchlogo.ai/)
+* [2024-02-04, 13:37:33](https://news.ycombinator.com/item?id=39250089) - [We just launched Sketch Logo AI](https://www.sketchlogo.ai/)
 * [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
@@ -20,6 +19,7 @@
 * [2024-02-04, 01:37:43](https://news.ycombinator.com/item?id=39246664) - [Vision Pro Teardown – Why those fake eyes look so weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
 * [2024-02-04, 01:20:09](https://news.ycombinator.com/item?id=39246563) - [Nuclear power saved Armenia](https://thebulletin.org/2024/01/how-nuclear-power-saved-armenia/)
 * [2024-02-04, 01:11:42](https://news.ycombinator.com/item?id=39246508) - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
+* [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The underground world of hobby tunneling](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
@@ -27,7 +27,7 @@
 * [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
 * [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
-* [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview](https://locuza.substack.com/p/zen-evolution-a-small-overview)
+* [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview (2022)](https://locuza.substack.com/p/zen-evolution-a-small-overview)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 
