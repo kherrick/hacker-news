@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
 * [2024-02-04, 14:16:24](https://news.ycombinator.com/item?id=39250352) - [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
 * [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids To Control Their Anger (2019)](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
 * [2024-02-04, 13:37:33](https://news.ycombinator.com/item?id=39250089) - [We just launched Sketch Logo AI](https://www.sketchlogo.ai/)
@@ -18,7 +19,6 @@
 * [2024-02-04, 02:05:02](https://news.ycombinator.com/item?id=39246825) - [How Doom didn't kill the Amiga](https://www.datagubbe.se/afb/)
 * [2024-02-04, 01:37:43](https://news.ycombinator.com/item?id=39246664) - [Vision Pro Teardown – Why those fake eyes look so weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird)
 * [2024-02-04, 01:20:09](https://news.ycombinator.com/item?id=39246563) - [Nuclear power saved Armenia](https://thebulletin.org/2024/01/how-nuclear-power-saved-armenia/)
-* [2024-02-04, 01:11:42](https://news.ycombinator.com/item?id=39246508) - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
 * [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The underground world of hobby tunneling](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
