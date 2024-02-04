@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2024-02-04, 16:47:14](https://news.ycombinator.com/item?id=39251812) - [Kim Dotcom's pro-Kremlin lies](https://www.polygraph.info/a/fact-check-pro-russian-falsehoods-kim-dotcom/6743375.html)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
 * [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
@@ -15,7 +16,6 @@
 * [2024-02-04, 14:12:02](https://news.ycombinator.com/item?id=39250320) - [A Reasonable Configuration Language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
-* [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules> (2010)](https://zeux.io/2010/11/15/include-rules/)
 * [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
