@@ -10,6 +10,7 @@
 * [2024-02-04, 20:36:28](https://news.ycombinator.com/item?id=39254172) - [Stract: Open-Souce, Non-Profit Search Engine](https://stract.com/)
 * [2024-02-04, 20:36:01](https://news.ycombinator.com/item?id=39254165) - [Banning Private Jets and Going to a 4-Day Work Week Are Radical – and Popular](https://gizmodo.com/banning-private-jets-and-going-to-a-4-day-work-week-are-1851221050)
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
+* [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:46:40](https://news.ycombinator.com/item?id=39253654) - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the Codpiece Flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
