@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 * [2024-02-04, 16:19:53](https://news.ycombinator.com/item?id=39251525) - [Cloudflare Hacked by Suspected State-Sponsored Threat Actor](https://www.securityweek.com/cloudflare-hacked-by-suspected-state-sponsored-attacker/)
-* [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
+* [2024-02-04, 15:32:21](https://news.ycombinator.com/item?id=39250975) - [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
 * [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
@@ -27,7 +28,6 @@
 * [2024-02-03, 07:27:41](https://news.ycombinator.com/item?id=39238223) - [Foldmation: Interactive Origami Folding](https://foldmation.com/)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-01-30, 12:25:46](https://news.ycombinator.com/item?id=39189285) - [Missile Game](https://www.missile-game.com)
-* [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview (2022)](https://locuza.substack.com/p/zen-evolution-a-small-overview)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 

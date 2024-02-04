@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 16:28:58](https://news.ycombinator.com/item?id=39251616) - [Why buying tickets to a game has become so unaffordable](https://lite.cnn.com/2024/02/04/business/its-not-just-the-super-bowl-going-to-a-game-is-becoming-unaffordable/index.html)
 * [2024-02-04, 16:19:53](https://news.ycombinator.com/item?id=39251525) - [Cloudflare Hacked by Suspected State-Sponsored Threat Actor](https://www.securityweek.com/cloudflare-hacked-by-suspected-state-sponsored-attacker/)
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 15:38:52](https://news.ycombinator.com/item?id=39251048) - [CNN staff say network's pro-Israel slant amounts to 'journalistic malpractice'](https://www.theguardian.com/media/2024/feb/04/cnn-staff-pro-israel-bias)
+* [2024-02-04, 15:32:21](https://news.ycombinator.com/item?id=39250975) - [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
 * [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 15:24:55](https://news.ycombinator.com/item?id=39250897) - [Humans are living longer than ever no matter where they come from](https://arstechnica.com/science/2024/02/humans-are-living-longer-than-ever-no-matter-where-they-come-from/)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
