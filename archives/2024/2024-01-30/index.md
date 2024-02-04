@@ -97,6 +97,7 @@
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
 * [2024-01-30, 07:41:07](https://news.ycombinator.com/item?id=39187365) - [Japanese government bids sayonara to the 3.5\" floppy disk](https://www.theregister.com/2024/01/29/japan_government_floppy_disks/)
+* [2024-01-30, 07:38:35](https://news.ycombinator.com/item?id=39187349) - [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
 * [2024-01-30, 07:23:26](https://news.ycombinator.com/item?id=39187294) - [Notes on Cruise's Pedestrian Accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 07:13:45](https://news.ycombinator.com/item?id=39187236) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://apnews.com/article/prison-to-plate-inmate-labor-investigation-c6f0eb4747963283316e494eadf08c4e)
 * [2024-01-30, 07:13:28](https://news.ycombinator.com/item?id=39187235) - [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)

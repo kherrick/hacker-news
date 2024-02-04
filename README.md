@@ -26,8 +26,8 @@
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after video call call with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-03, 11:30:27](https://news.ycombinator.com/item?id=39239356) - [Back to the Floppy (2019)](https://www.markround.com/blog/2019/12/30/back-to-the-floppy/)
 * [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
-* [2024-02-03, 07:27:41](https://news.ycombinator.com/item?id=39238223) - [Foldmation: Interactive Origami Folding](https://foldmation.com/)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
+* [2024-01-30, 07:38:35](https://news.ycombinator.com/item?id=39187349) - [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
 * [2024-01-29, 07:21:26](https://news.ycombinator.com/item?id=39173661) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 
