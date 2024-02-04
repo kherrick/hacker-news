@@ -20,7 +20,7 @@
 * [2024-02-03, 15:52:40](https://news.ycombinator.com/item?id=39241472) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 15:04:57](https://news.ycombinator.com/item?id=39240944) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
-* [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
+* [2024-02-03, 08:21:13](https://news.ycombinator.com/item?id=39238476) - [Apple Vision Pro: What About Comic Books?](https://digitalcomposting.wordpress.com/2024/02/02/apple-vision-pro-what-about-comic-books/)
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 12:58:49](https://news.ycombinator.com/item?id=39228044) - [Battery power management for power users (2023)](https://akc3n.page/posts/battery-management/)
