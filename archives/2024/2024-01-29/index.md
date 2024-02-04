@@ -107,6 +107,7 @@
 * [2024-01-29, 07:43:56](https://news.ycombinator.com/item?id=39173775) - [Japan: Moon lander Slim comes back to life and resumes mission](https://www.bbc.co.uk/news/world-asia-68125589)
 * [2024-01-29, 07:21:58](https://news.ycombinator.com/item?id=39173665) - [Executing Cron Scripts Reliably at Scale](https://slack.engineering/executing-cron-scripts-reliably-at-scale/)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
+* [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 * [2024-01-29, 06:44:10](https://news.ycombinator.com/item?id=39173455) - [Higher Order Derivatives of Transforms](https://nosferalatu.com/HigherOrderDerivativesTransforms.html)
 * [2024-01-29, 06:41:42](https://news.ycombinator.com/item?id=39173438) - [linefont: Font for rendering line chart data](https://github.com/dy/linefont)
 * [2024-01-29, 06:25:44](https://news.ycombinator.com/item?id=39173329) - [No one is \"non-technical\" (2022)](https://everythingchanges.us/blog/no-one-is-non-technical/)
