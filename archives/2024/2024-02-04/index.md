@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
 * [2024-02-04, 05:40:09](https://news.ycombinator.com/item?id=39247897) - [Is the $139 Amazon Prime Subscription Still Worth It?](https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7)
+* [2024-02-04, 05:02:05](https://news.ycombinator.com/item?id=39247759) - [Response to protein ingestion during recovery from exercise has no upper limit](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00540-2)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The First Amateur Radio Station on the Moon, JS1YMG, Is Now Transmitting](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-04, 04:10:10](https://news.ycombinator.com/item?id=39247497) - [A Brief History of NSA Backdoors (2013)](https://www.ethanheilman.com/x/12/index.html)
 * [2024-02-04, 02:43:18](https://news.ycombinator.com/item?id=39247039) - [Richard Scolyer: Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)

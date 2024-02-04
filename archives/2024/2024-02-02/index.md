@@ -74,6 +74,7 @@
 * [2024-02-02, 12:10:03](https://news.ycombinator.com/item?id=39227727) - [NASA Workmanship Guide for wire splicing](https://workmanship.nasa.gov/lib/insp/2%20books/links/sections/407%20Splices.html)
 * [2024-02-02, 11:41:47](https://news.ycombinator.com/item?id=39227551) - [Yakhchāl](https://en.wikipedia.org/wiki/Yakhch%C4%81l)
 * [2024-02-02, 11:06:06](https://news.ycombinator.com/item?id=39227355) - [Australian YouTuber removes video after death threats from organised crime](https://www.theguardian.com/australia-news/2024/feb/02/youtuber-friendlyjordies-jordan-shanks-markovina-takes-down-video-after-alleged-death-threats-ntwnfb)
+* [2024-02-02, 10:59:08](https://news.ycombinator.com/item?id=39227308) - [To all the newspapers I loved](https://branko2f7.substack.com/p/to-all-the-newspapers-i-loved)
 * [2024-02-02, 10:35:14](https://news.ycombinator.com/item?id=39227184) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
 * [2024-02-02, 10:20:56](https://news.ycombinator.com/item?id=39227105) - [Prehistoric Animals](https://www.prehistoricdomain.com/)
