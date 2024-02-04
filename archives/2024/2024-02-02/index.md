@@ -77,6 +77,7 @@
 * [2024-02-02, 10:33:14](https://news.ycombinator.com/item?id=39227169) - [Significant features introduced for recent versions of Perl](https://sheet.shiar.nl/perl/)
 * [2024-02-02, 10:20:56](https://news.ycombinator.com/item?id=39227105) - [Prehistoric Animals](https://www.prehistoricdomain.com/)
 * [2024-02-02, 09:17:00](https://news.ycombinator.com/item?id=39226754) - [Google has another secret browser accessible by a link](https://matan-h.com/another-secret-browser)
+* [2024-02-02, 08:55:14](https://news.ycombinator.com/item?id=39226611) - [Sapling – A VCS from Meta](https://github.com/facebook/sapling)
 * [2024-02-02, 08:48:14](https://news.ycombinator.com/item?id=39226563) - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 * [2024-02-02, 08:46:29](https://news.ycombinator.com/item?id=39226549) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-02-02, 08:44:49](https://news.ycombinator.com/item?id=39226540) - [Vision Pro's killer feature? It's a wearable Mac](https://www.computerworld.com/article/3712682/vision-pros-killer-feature-its-a-wearable-mac.html)
