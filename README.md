@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-04, 09:17:16](https://news.ycombinator.com/item?id=39248780) - [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
+* [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
