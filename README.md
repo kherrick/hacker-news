@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 01:11:42](https://news.ycombinator.com/item?id=39246508) - [Bernoulli's Principle Applied to Firefighting – Box Alarm Training](https://www.boxalarmtraining.com/blog/bernoullis-principle-applied-to-firefighting-box-alarm-training)
 * [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The DIY Diggers Who Can't Stop Making 'Hobby Tunnels'](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 * [2024-02-03, 23:03:06](https://news.ycombinator.com/item?id=39245664) - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
 * [2024-02-03, 20:49:39](https://news.ycombinator.com/item?id=39244601) - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
@@ -10,7 +11,6 @@
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List (2019)](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 17:50:54](https://news.ycombinator.com/item?id=39242822) - [The economics of fertility: a new era (2023) [pdf]](https://faculty.wcas.northwestern.edu/mdo738/research/Doepke_Hannusch_Kindermann_Tertilt_Handbook_23.pdf)
 * [2024-02-03, 17:50:37](https://news.ycombinator.com/item?id=39242817) - [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
-* [2024-02-03, 17:49:06](https://news.ycombinator.com/item?id=39242797) - [.NET on Linux: What a Contrast](https://two-wrongs.com/dotnet-on-linux-update.html)
 * [2024-02-03, 17:03:05](https://news.ycombinator.com/item?id=39242244) - [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
 * [2024-02-03, 17:00:28](https://news.ycombinator.com/item?id=39242218) - [Ciro (YC S22) is hiring a founding engineer to build an SMB search engine](https://www.ycombinator.com/companies/ciro/jobs/13ThLWT-founding-full-stack-engineer)
 * [2024-02-03, 16:26:40](https://news.ycombinator.com/item?id=39241825) - [The engineering behind Figma's vector networks (2019)](https://alexharri.com/blog/vector-networks)
