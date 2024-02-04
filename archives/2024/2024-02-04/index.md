@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 * [2024-02-04, 18:43:30](https://news.ycombinator.com/item?id=39253054) - [When the tech bros come for me](https://gerrymcgovern.com/when-the-tech-bros-come-for-me/)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting Neural Networks Through the Polytope Lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 18:18:43](https://news.ycombinator.com/item?id=39252801) - [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
@@ -15,6 +16,7 @@
 * [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 * [2024-02-04, 17:25:43](https://news.ycombinator.com/item?id=39252253) - [Apple doesn't allow you to change macOS cursor anymore](https://github.com/alexzielenski/Mousecape)
 * [2024-02-04, 17:24:09](https://news.ycombinator.com/item?id=39252235) - [How do Transformers Work?](https://nintyzeros.substack.com/p/how-do-transformer-workdesign-a-multi)
+* [2024-02-04, 17:16:46](https://news.ycombinator.com/item?id=39252143) - [\"Don't Eat Before Reading This,\" by Anthony Bourdain](https://www.newyorker.com/magazine/1999/04/19/dont-eat-before-reading-this)
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:03:36](https://news.ycombinator.com/item?id=39252007) - [This AI learnt language by seeing the world through a baby's eyes](https://www.nature.com/articles/d41586-024-00288-1)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
