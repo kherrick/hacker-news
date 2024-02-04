@@ -92,6 +92,7 @@
 * [2024-01-29, 10:48:07](https://news.ycombinator.com/item?id=39174897) - [Strategies of the Request (2011)](http://www.petruspsychology.com/2011/10/04/strategies-of-the-request/)
 * [2024-01-29, 10:47:56](https://news.ycombinator.com/item?id=39174896) - [Negotiate your salary with a little philosophical backup](https://www.philonomist.com/en/article/negotiate-your-salary-little-philosophical-backup)
 * [2024-01-29, 10:15:28](https://news.ycombinator.com/item?id=39174704) - [CDC 6600](https://en.wikipedia.org/wiki/CDC_6600)
+* [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview](https://locuza.substack.com/p/zen-evolution-a-small-overview)
 * [2024-01-29, 10:13:01](https://news.ycombinator.com/item?id=39174685) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-29, 10:11:16](https://news.ycombinator.com/item?id=39174674) - [On the Costs of Syscalls](https://gms.tf/on-the-costs-of-syscalls.html)
 * [2024-01-29, 10:01:19](https://news.ycombinator.com/item?id=39174612) - [Dart/Flutter now has macros/metaprogramming](https://github.com/millsteed/macros)

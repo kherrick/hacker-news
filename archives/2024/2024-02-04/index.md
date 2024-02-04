@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:35:30](https://news.ycombinator.com/item?id=39249745) - [Taggers have sprayed graffiti on 27 stories of a downtown Los Angeles skyscraper](https://www.latimes.com/california/story/2024-02-02/graffiti-highrise-downtown-la)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
 * [2024-02-04, 12:21:10](https://news.ycombinator.com/item?id=39249676) - [Association of long-term exposure to air pollution w retinal neurodegeneration](https://www.sciencedirect.com/science/article/abs/pii/S0013935123011684)
 * [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules>](https://zeux.io/2010/11/15/include-rules/)
+* [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 09:17:16](https://news.ycombinator.com/item?id=39248780) - [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)

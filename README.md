@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-04, 12:35:30](https://news.ycombinator.com/item?id=39249745) - [Taggers have sprayed graffiti on 27 stories of a downtown Los Angeles skyscraper](https://www.latimes.com/california/story/2024-02-02/graffiti-highrise-downtown-la)
+* [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
-* [2024-02-04, 12:21:10](https://news.ycombinator.com/item?id=39249676) - [Association of long-term exposure to air pollution w retinal neurodegeneration](https://www.sciencedirect.com/science/article/abs/pii/S0013935123011684)
 * [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules>](https://zeux.io/2010/11/15/include-rules/)
+* [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
@@ -19,7 +19,6 @@
 * [2024-02-03, 23:03:06](https://news.ycombinator.com/item?id=39245664) - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
-* [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
 * [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
@@ -28,6 +27,7 @@
 * [2024-02-02, 10:59:08](https://news.ycombinator.com/item?id=39227308) - [To all the newspapers I loved](https://branko2f7.substack.com/p/to-all-the-newspapers-i-loved)
 * [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
+* [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview](https://locuza.substack.com/p/zen-evolution-a-small-overview)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 
