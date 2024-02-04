@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39254172"
     ],
     [
-      "Stract: Open-Souce, Non-Profit Search Engine",
+      "Stract: Open-souce, non-profit search engine",
       "https://stract.com/"
     ]
   ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2024-02-04, 19:46:40",
-      "https://news.ycombinator.com/item?id=39253654"
+      "2024-02-04, 20:01:07",
+      "https://news.ycombinator.com/item?id=39253798"
     ],
     [
-      "Compiling Rust Is Testing",
-      "https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html"
+      "Sapling: A highly experimental vi-inspired editor where you edit code, not text",
+      "https://github.com/kneasle/sapling"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-02-04, 18:33:34",
-      "https://news.ycombinator.com/item?id=39252957"
-    ],
-    [
-      "New EU law sets to make repair more affordable for selected products",
-      "https://repair.eu/news/new-eu-law-sets-to-make-repair-more-affordable-for-selected-products-campaigners-push-for-widespread-right-to-repair/"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 17:51:58",
       "https://news.ycombinator.com/item?id=39252531"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=39252235"
     ],
     [
-      "How do Transformers Work?",
+      "How do transformers work?",
       "https://nintyzeros.substack.com/p/how-do-transformer-workdesign-a-multi"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39251909"
     ],
     [
-      "Beyond Self-Attention: How a Small Language Model Predicts the Next Token",
+      "Beyond self-attention: How a small language model predicts the next token",
       "https://shyam.blog/posts/beyond-self-attention/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "A reasonable configuration language",
       "https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language"
+    ]
+  ],
+  [
+    [
+      "2024-02-04, 11:28:31",
+      "https://news.ycombinator.com/item?id=39249430"
+    ],
+    [
+      "#include <rules> (2010)",
+      "https://zeux.io/2010/11/15/include-rules/"
     ]
   ],
   [
