@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 15:38:52](https://news.ycombinator.com/item?id=39251048) - [CNN staff say network's pro-Israel slant amounts to 'journalistic malpractice'](https://www.theguardian.com/media/2024/feb/04/cnn-staff-pro-israel-bias)
+* [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
 * [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)

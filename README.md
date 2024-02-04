@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 15:38:52](https://news.ycombinator.com/item?id=39251048) - [CNN staff say network's pro-Israel slant amounts to 'journalistic malpractice'](https://www.theguardian.com/media/2024/feb/04/cnn-staff-pro-israel-bias)
+* [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
 * [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
@@ -23,8 +25,6 @@
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing (2022)](https://thechipletter.substack.com/p/60-bit-computing)
-* [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
-* [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-01-30, 12:25:46](https://news.ycombinator.com/item?id=39189285) - [Missile Game](https://www.missile-game.com)
 * [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview (2022)](https://locuza.substack.com/p/zen-evolution-a-small-overview)
