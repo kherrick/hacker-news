@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-04, 11:28:31",
+      "https://news.ycombinator.com/item?id=39249430"
+    ],
+    [
+      "#include <rules>",
+      "https://zeux.io/2010/11/15/include-rules/"
+    ]
+  ],
+  [
+    [
       "2024-02-04, 09:57:04",
       "https://news.ycombinator.com/item?id=39248931"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-02-03, 15:21:09",
-      "https://news.ycombinator.com/item?id=39241113"
-    ],
-    [
-      "A 1.55 R⊕ habitable-zone planet hosted by TOI-715",
-      "https://academic.oup.com/mnras/article/527/1/35/7172075"
-    ]
-  ],
-  [
-    [
       "2024-02-03, 10:02:49",
       "https://news.ycombinator.com/item?id=39238958"
     ],
@@ -207,16 +207,6 @@
     [
       "60-Bit Computing",
       "https://thechipletter.substack.com/p/60-bit-computing"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 09:27:54",
-      "https://news.ycombinator.com/item?id=39238807"
-    ],
-    [
-      "ESP8266 DIY Smart Socket (2017)",
-      "https://notenoughtech.com/esp/diy-smart-socket-hardware/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to Make a Gravilaser",
       "https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 06:55:52",
+      "https://news.ycombinator.com/item?id=39173528"
+    ],
+    [
+      "41 Years in UX: A Career Retrospective",
+      "https://www.uxtigers.com/post/41-years-in-ux"
     ]
   ]
 ]
