@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 09:17:16](https://news.ycombinator.com/item?id=39248780) - [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)

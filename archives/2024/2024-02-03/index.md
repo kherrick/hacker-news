@@ -57,6 +57,7 @@
 * [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
+* [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
 * [2024-02-03, 08:21:13](https://news.ycombinator.com/item?id=39238476) - [Apple Vision Pro: What About Comic Books?](https://digitalcomposting.wordpress.com/2024/02/02/apple-vision-pro-what-about-comic-books/)
 * [2024-02-03, 07:54:27](https://news.ycombinator.com/item?id=39238350) - [First Apple Vision Pro Kernel Exploit](https://twitter.com/0xjprx/status/1753575170101461266)
 * [2024-02-03, 07:47:59](https://news.ycombinator.com/item?id=39238318) - [Ede – An Fltk based desktop environment](https://edeproject.org/)
