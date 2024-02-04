@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 05:40:09](https://news.ycombinator.com/item?id=39247897) - [Is the $139 Amazon Prime Subscription Still Worth It?](https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-04, 02:43:18](https://news.ycombinator.com/item?id=39247039) - [Melanoma doctor's high-stakes gamble to treat his brain cancer](https://www.bbc.com/news/world-australia-67870595)
 * [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
@@ -25,7 +26,6 @@
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 12:58:49](https://news.ycombinator.com/item?id=39228044) - [Battery power management for power users (2023)](https://akc3n.page/posts/battery-management/)
-* [2024-02-02, 08:55:14](https://news.ycombinator.com/item?id=39226611) - [Sapling – A VCS from Meta](https://github.com/facebook/sapling)
 * [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-02-02, 06:27:26](https://news.ycombinator.com/item?id=39225716) - [Keeler's Theory of Plot](https://site.xavier.edu/polt/keeler/onwebwork.html)
 * [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
