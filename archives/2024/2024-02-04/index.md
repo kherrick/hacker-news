@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy Is Difficult to Compete Against and Growing Rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
 * [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
 * [2024-02-04, 20:49:22](https://news.ycombinator.com/item?id=39254299) - [Autism, Through the Eyes of a Computer](https://www.spectrumnews.org/features/deep-dive/autism-through-the-eyes-of-a-computer/)
 * [2024-02-04, 20:38:44](https://news.ycombinator.com/item?id=39254187) - [Mr. Difficult: William Gaddis and the Problem of Hard-to-Read Books (2002)](https://adilegian.com/FranzenGaddis.htm)
