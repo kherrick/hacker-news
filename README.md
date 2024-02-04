@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
@@ -11,7 +12,6 @@
 * [2024-02-03, 23:39:12](https://news.ycombinator.com/item?id=39245893) - [The underground world of hobby tunneling](https://www.bloomberg.com/news/features/2024-02-03/dig-if-you-will-the-underground-world-of-hobby-tunneling)
 * [2024-02-03, 23:03:06](https://news.ycombinator.com/item?id=39245664) - [TCC RISC-V Compiler Runs in the Web Browser (Thanks to Zig Compiler)](https://lupyuen.codeberg.page/articles/tcc.html)
 * [2024-02-03, 21:21:37](https://news.ycombinator.com/item?id=39244867) - [Space Station Demo](https://www.lexaloffle.com/bbs/?pid=94322#p)
-* [2024-02-03, 20:49:39](https://news.ycombinator.com/item?id=39244601) - [Researchers taking on fraudulent science](https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243305) - [Breaking Bitlocker – Bypassing the Windows Disk Encryption [video]](https://www.youtube.com/watch?v=wTl4vEednkQ)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
