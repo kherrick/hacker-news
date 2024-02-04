@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 17:43:29](https://news.ycombinator.com/item?id=39252448) - [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
+* [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 * [2024-02-04, 17:25:43](https://news.ycombinator.com/item?id=39252253) - [Apple doesn't allow you to change macOS cursor anymore](https://github.com/alexzielenski/Mousecape)
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-04, 17:25:43](https://news.ycombinator.com/item?id=39252253) - [Apple doesn't allow you to change macOS cursor anymore](https://github.com/alexzielenski/Mousecape)
+* [2024-02-04, 17:43:29](https://news.ycombinator.com/item?id=39252448) - [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
+* [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
@@ -10,7 +11,6 @@
 * [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
-* [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
 * [2024-02-04, 14:18:49](https://news.ycombinator.com/item?id=39250362) - [IPTV Anti-Piracy Threats May Increase Male Motivation to Pirate by 30%](https://torrentfreak.com/iptv-anti-piracy-threats-may-increase-male-motivation-to-pirate-by-30-240202/)
 * [2024-02-04, 14:12:02](https://news.ycombinator.com/item?id=39250320) - [A Reasonable Configuration Language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
