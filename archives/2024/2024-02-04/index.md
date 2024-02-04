@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
 * [2024-02-04, 19:46:40](https://news.ycombinator.com/item?id=39253654) - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
+* [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the Codpiece Flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 * [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
 * [2024-02-04, 18:50:01](https://news.ycombinator.com/item?id=39253117) - [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
