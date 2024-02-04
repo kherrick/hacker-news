@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 18:43:30](https://news.ycombinator.com/item?id=39253054) - [When the tech bros come for me](https://gerrymcgovern.com/when-the-tech-bros-come-for-me/)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting Neural Networks Through the Polytope Lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 18:18:43](https://news.ycombinator.com/item?id=39252801) - [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
 * [2024-02-04, 18:07:27](https://news.ycombinator.com/item?id=39252690) - [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
