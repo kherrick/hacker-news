@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 19:46:40](https://news.ycombinator.com/item?id=39253654) - [Compiling Rust Is Testing](https://kobzol.github.io/rust/2024/02/04/compiling-rust-is-testing.html)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
+* [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
+* [2024-02-04, 18:50:01](https://news.ycombinator.com/item?id=39253117) - [Is Open Source a diversion from what users want?](https://discourse.ardour.org/t/is-open-source-a-diversion-from-what-users-really-want/102665)
+* [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Why Gödel, Escher, Bach is the most influential book in my life](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:43:30](https://news.ycombinator.com/item?id=39253054) - [When the tech bros come for me](https://gerrymcgovern.com/when-the-tech-bros-come-for-me/)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting Neural Networks Through the Polytope Lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 18:18:43](https://news.ycombinator.com/item?id=39252801) - [Linux has reached 4% for the partial Feburary 2024 data on StatCounter](https://github.com/OpenStatsLab/statcounterdata/blob/main/parsed/os/desktop.json)
@@ -20,6 +24,7 @@
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:03:36](https://news.ycombinator.com/item?id=39252007) - [This AI learnt language by seeing the world through a baby's eyes](https://www.nature.com/articles/d41586-024-00288-1)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond Self-Attention: How a Small Language Model Predicts the Next Token](https://shyam.blog/posts/beyond-self-attention/)
 * [2024-02-04, 16:51:05](https://news.ycombinator.com/item?id=39251868) - [Europe Regulates Its Way to Last Place](https://www.wsj.com/economy/europe-regulates-its-way-to-last-place-2a03c21d)
 * [2024-02-04, 16:47:14](https://news.ycombinator.com/item?id=39251812) - [Kim Dotcom's pro-Kremlin lies](https://www.polygraph.info/a/fact-check-pro-russian-falsehoods-kim-dotcom/6743375.html)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
