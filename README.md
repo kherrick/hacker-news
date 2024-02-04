@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-04, 18:07:27](https://news.ycombinator.com/item?id=39252690) - [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
+* [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki is an online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
 * [2024-02-04, 17:50:59](https://news.ycombinator.com/item?id=39252517) - [Digitopia is ruining our lives](https://deeshee.io/2024/02/04/digitopia-is-ruining.html)
 * [2024-02-04, 17:43:29](https://news.ycombinator.com/item?id=39252448) - [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
 * [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
@@ -28,7 +29,6 @@
 * [2024-02-03, 07:27:41](https://news.ycombinator.com/item?id=39238223) - [Foldmation: Interactive Origami Folding](https://foldmation.com/)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-01-30, 12:25:46](https://news.ycombinator.com/item?id=39189285) - [Missile Game](https://www.missile-game.com)
-* [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 
 ## [Archives](archives/index.md)
