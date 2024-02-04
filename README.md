@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 14:10:11](https://news.ycombinator.com/item?id=39250304) - [How Inuit Parents Teach Kids to Control Their Anger](https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger)
 * [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
@@ -25,7 +26,6 @@
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 10:59:08](https://news.ycombinator.com/item?id=39227308) - [To all the newspapers I loved](https://branko2f7.substack.com/p/to-all-the-newspapers-i-loved)
-* [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
 * [2024-01-29, 10:13:51](https://news.ycombinator.com/item?id=39174693) - [Zen Evolution: A Small Overview](https://locuza.substack.com/p/zen-evolution-a-small-overview)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
