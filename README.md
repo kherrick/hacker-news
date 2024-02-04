@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
@@ -18,9 +19,9 @@
 * [2024-02-03, 18:10:34](https://news.ycombinator.com/item?id=39243044) - [DIY MBA: My Reading List (2019)](https://chrisstoneman.medium.com/diy-mba-my-reading-list-f7699bd7d0c6)
 * [2024-02-03, 17:50:37](https://news.ycombinator.com/item?id=39242817) - [Low-Power Wi-Fi Extends Signals Up to 3 Kilometers](https://spectrum.ieee.org/wi-fi-halow)
 * [2024-02-03, 17:03:05](https://news.ycombinator.com/item?id=39242244) - [Show HN: Simple demo of a cold boot attack using a Raspberry Pi](https://github.com/anfractuosity/ramrecovery)
-* [2024-02-03, 15:52:40](https://news.ycombinator.com/item?id=39241472) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
+* [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
 * [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
 * [2024-02-03, 08:21:13](https://news.ycombinator.com/item?id=39238476) - [Apple Vision Pro: What About Comic Books?](https://digitalcomposting.wordpress.com/2024/02/02/apple-vision-pro-what-about-comic-books/)
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)
@@ -28,7 +29,6 @@
 * [2024-02-02, 10:59:08](https://news.ycombinator.com/item?id=39227308) - [To all the newspapers I loved](https://branko2f7.substack.com/p/to-all-the-newspapers-i-loved)
 * [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-02-02, 06:27:26](https://news.ycombinator.com/item?id=39225716) - [Keeler's Theory of Plot](https://site.xavier.edu/polt/keeler/onwebwork.html)
-* [2024-02-01, 18:45:11](https://news.ycombinator.com/item?id=39219573) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:42:28](https://news.ycombinator.com/item?id=39206842) - [Show HN: Visualize the entropy of a codebase with a 3D force-directed graph](https://github.com/gabotechs/dep-tree)
 
 ## [Archives](archives/index.md)
