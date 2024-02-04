@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 18:07:27](https://news.ycombinator.com/item?id=39252690) - [Empirical Failures of the Claim That Autistic People Lack a Theory of Mind](https://psycnet.apa.org/fulltext/2019-75285-001.html)
+* [2024-02-04, 17:50:59](https://news.ycombinator.com/item?id=39252517) - [Digitopia is ruining our lives](https://deeshee.io/2024/02/04/digitopia-is-ruining.html)
 * [2024-02-04, 17:43:29](https://news.ycombinator.com/item?id=39252448) - [DNA damage and mutations in cells after irradiation with a nail polish dryer](https://www.nature.com/articles/s41467-023-35876-8)
 * [2024-02-04, 17:32:11](https://news.ycombinator.com/item?id=39252321) - [Apple fixes zero-day bug in Apple Vision Pro that 'may have been exploited'](https://techcrunch.com/2024/01/31/apple-vision-pro-zero-day-security-bug-exploited/)
 * [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
@@ -8,7 +10,6 @@
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 15:32:21](https://news.ycombinator.com/item?id=39250975) - [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
-* [2024-02-04, 15:28:24](https://news.ycombinator.com/item?id=39250938) - [Still no love for JPEG XL: Browser maker love-in snubs next-gen image format](https://www.theregister.com/2024/02/03/jpeg_xl_interop_2024/)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
@@ -20,7 +21,6 @@
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a Tiny Raspberry Pi Based Cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
-* [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
 * [2024-02-03, 11:30:27](https://news.ycombinator.com/item?id=39239356) - [Back to the Floppy (2019)](https://www.markround.com/blog/2019/12/30/back-to-the-floppy/)
