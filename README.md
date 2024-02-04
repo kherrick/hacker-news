@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-04, 17:25:43](https://news.ycombinator.com/item?id=39252253) - [Apple doesn't allow you to change macOS cursor anymore](https://github.com/alexzielenski/Mousecape)
+* [2024-02-04, 17:08:05](https://news.ycombinator.com/item?id=39252047) - [Psychology, a Failed Discipline: Flawed Paradigms, Methodology, and Epistemology](https://unfashionable.blog/p/psychology)
 * [2024-02-04, 17:00:07](https://news.ycombinator.com/item?id=39251963) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-04, 16:34:49](https://news.ycombinator.com/item?id=39251677) - [Oxford PV sets new solar panel efficiency world record](https://www.oxfordpv.com/news/oxford-pv-sets-new-solar-panel-efficiency-world-record-0)
 * [2024-02-04, 15:53:41](https://news.ycombinator.com/item?id=39251206) - [macOS Sonoma 14.4 removes critical functions from the fileproviderctl command](https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/)
@@ -21,8 +23,6 @@
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 04:27:50](https://news.ycombinator.com/item?id=39247614) - [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
-* [2024-02-04, 02:34:22](https://news.ycombinator.com/item?id=39246988) - [AvaloniaUI: Create Multi-Platform Apps with .NET](https://www.avaloniaui.net/)
-* [2024-02-04, 02:28:47](https://news.ycombinator.com/item?id=39246950) - [In 1950, a U.S. troop plane vanished without a trace in the Yukon](https://www.cbc.ca/documentaries/in-1950-a-u-s-troop-plane-carrying-44-passengers-vanished-without-a-trace-in-the-yukon-1.7063704)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 11:30:27](https://news.ycombinator.com/item?id=39239356) - [Back to the Floppy (2019)](https://www.markround.com/blog/2019/12/30/back-to-the-floppy/)
 * [2024-02-03, 07:27:41](https://news.ycombinator.com/item?id=39238223) - [Foldmation: Interactive Origami Folding](https://foldmation.com/)
