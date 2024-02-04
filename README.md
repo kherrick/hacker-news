@@ -19,7 +19,6 @@
 * [2024-02-03, 21:21:37](https://news.ycombinator.com/item?id=39244867) - [Space Station Demo](https://www.lexaloffle.com/bbs/?pid=94322#p)
 * [2024-02-03, 20:11:16](https://news.ycombinator.com/item?id=39244254) - [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
 * [2024-02-03, 18:36:20](https://news.ycombinator.com/item?id=39243303) - [How much bigger could Earth be before rockets wouldn't work?](https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work)
-* [2024-02-03, 15:21:09](https://news.ycombinator.com/item?id=39241113) - [A 1.55 R⊕ habitable-zone planet hosted by TOI-715](https://academic.oup.com/mnras/article/527/1/35/7172075)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
 * [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
@@ -28,6 +27,7 @@
 * [2024-02-02, 10:59:08](https://news.ycombinator.com/item?id=39227308) - [To all the newspapers I loved](https://branko2f7.substack.com/p/to-all-the-newspapers-i-loved)
 * [2024-02-02, 08:53:10](https://news.ycombinator.com/item?id=39226594) - [Blood doping and its detection](https://ashpublications.org/blood/article/118/9/2395/29508/Blood-doping-and-its-detection)
 * [2024-02-02, 06:27:26](https://news.ycombinator.com/item?id=39225716) - [Keeler's Theory of Plot](https://site.xavier.edu/polt/keeler/onwebwork.html)
+* [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
 * [2024-01-29, 07:14:22](https://news.ycombinator.com/item?id=39173619) - [How to Make a Gravilaser](https://astrobites.org/2024/01/27/how-to-make-a-gravilaser/)
 * [2024-01-29, 06:55:52](https://news.ycombinator.com/item?id=39173528) - [41 Years in UX: A Career Retrospective](https://www.uxtigers.com/post/41-years-in-ux)
 
