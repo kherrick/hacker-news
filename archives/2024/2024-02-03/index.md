@@ -57,6 +57,7 @@
 * [2024-02-03, 10:14:05](https://news.ycombinator.com/item?id=39239011) - [Thompson Sampling](https://en.wikipedia.org/wiki/Thompson_sampling)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
+* [2024-02-03, 09:32:49](https://news.ycombinator.com/item?id=39238820) - [Open Source Tensegrity](https://pretenst.com/)
 * [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
