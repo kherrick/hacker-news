@@ -61,6 +61,7 @@
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)
 * [2024-02-03, 09:32:49](https://news.ycombinator.com/item?id=39238820) - [Open Source Tensegrity](https://pretenst.com/)
 * [2024-02-03, 09:27:54](https://news.ycombinator.com/item?id=39238807) - [ESP8266 DIY Smart Socket (2017)](https://notenoughtech.com/esp/diy-smart-socket-hardware/)
+* [2024-02-03, 09:24:23](https://news.ycombinator.com/item?id=39238781) - [Zuckerberg: Apple's DMA rules 'so onerous' he doubts any developer will opt in](https://techcrunch.com/2024/02/01/mark-zuckerberg-calls-apples-dma-rules-so-onerous-he-doubts-any-developer-will-opt-in/)
 * [2024-02-03, 09:05:37](https://news.ycombinator.com/item?id=39238691) - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 08:59:20](https://news.ycombinator.com/item?id=39238666) - [JetBrains' unremovable AI assistant meets irresistible outcry](https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/)
 * [2024-02-03, 08:52:03](https://news.ycombinator.com/item?id=39238635) - [A minimal, complete, and correct ELF file](https://scratchpad.avikdas.com/elf-explanation/elf-explanation.html)
