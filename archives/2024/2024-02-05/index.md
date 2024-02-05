@@ -39,6 +39,7 @@
 * [2024-02-05, 14:24:55](https://news.ycombinator.com/item?id=39261511) - [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:22:17](https://news.ycombinator.com/item?id=39261482) - [Boeing Finds More Misdrilled Holes on 737 in Latest Setback](https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s)
+* [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-05, 13:24:14](https://news.ycombinator.com/item?id=39260968) - [Solving durable execution's immutability problem](https://restate.dev/blog/solving-durable-executions-immutability-problem/)
 * [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
