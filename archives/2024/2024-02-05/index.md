@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: Always Learning Members of HN, How to Find the Time after Full-Time Job?](https://news.ycombinator.com/item?id=39264751)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 * [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
 * [2024-02-05, 17:54:53](https://news.ycombinator.com/item?id=39264221) - [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
