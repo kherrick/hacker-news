@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
+* [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 * [2024-02-05, 00:18:33](https://news.ycombinator.com/item?id=39255940) - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
@@ -15,7 +16,6 @@
 * [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki: Online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
-* [2024-02-04, 17:24:09](https://news.ycombinator.com/item?id=39252235) - [How do transformers work?](https://nintyzeros.substack.com/p/how-do-transformer-workdesign-a-multi)
 * [2024-02-04, 17:22:31](https://news.ycombinator.com/item?id=39252206) - [How many IP addresses can a DNS query return? (2015)](https://www.ethanheilman.com/x/21/index.html)
 * [2024-02-04, 17:16:46](https://news.ycombinator.com/item?id=39252143) - [Don’t Eat Before Reading This (1999)](https://www.newyorker.com/magazine/1999/04/19/dont-eat-before-reading-this)
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
