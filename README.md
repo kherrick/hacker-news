@@ -5,7 +5,6 @@
 * [2024-02-05, 01:55:05](https://news.ycombinator.com/item?id=39256430) - [The IRS has all our tax data. Why doesn't its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
 * [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 00:18:33](https://news.ycombinator.com/item?id=39255940) - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
-* [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
 * [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
 * [2024-02-04, 20:47:07](https://news.ycombinator.com/item?id=39254274) - [Solving the darknet riddle (2022)](https://sizeof.life/posts/darknet-riddle/)
@@ -30,6 +29,7 @@
 * [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [2024-01-30, 08:07:06](https://news.ycombinator.com/item?id=39187529) - [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)
 * [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams – Memos by Bill Tindall](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
+* [2024-01-29, 07:21:26](https://news.ycombinator.com/item?id=39173661) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 
 ## [Archives](archives/index.md)
 
