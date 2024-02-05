@@ -43,6 +43,7 @@
 * [2024-02-02, 17:11:36](https://news.ycombinator.com/item?id=39231229) - [Tesla facing another massive recall – affecting 2.2 million vehicles](https://nypost.com/2024/02/02/business/tesla-facing-another-massive-recall-this-time-to-fix-warning-lights/)
 * [2024-02-02, 17:08:07](https://news.ycombinator.com/item?id=39231182) - [Print off a QR code for guests to join your WiFi network](https://practicalbetterments.com/print-off-a-qr-code-for-guests-to-join-your-wifi-network/)
 * [2024-02-02, 17:00:54](https://news.ycombinator.com/item?id=39231096) - [SelectIQ (YC W23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/selectiq/jobs/4aRBMcX-founding-engineer-full-stack-employee-1)
+* [2024-02-02, 16:58:24](https://news.ycombinator.com/item?id=39231052) - [I also hacked my car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-02-02, 16:51:41](https://news.ycombinator.com/item?id=39230939) - [Researchers develop novel 'bone bandage' material for cracked bones](https://phys.org/news/2024-02-bone-bandage-material-bones.html)
 * [2024-02-02, 16:25:29](https://news.ycombinator.com/item?id=39230513) - [Stories removed from the Hacker News Front Page, updated in real time](https://github.com/vitoplantamura/HackerNewsRemovals)
 * [2024-02-02, 16:09:44](https://news.ycombinator.com/item?id=39230263) - [The EPA is proposing that 'forever chemicals' be considered hazardous substances](https://www.npr.org/2024/02/02/1228540721/forever-chemicals-pfas-epa-hazardous)
