@@ -2,7 +2,6 @@
 
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 * [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
-* [2024-02-05, 17:54:53](https://news.ycombinator.com/item?id=39264221) - [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
 * [2024-02-05, 17:47:52](https://news.ycombinator.com/item?id=39264116) - [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 17:22:05](https://news.ycombinator.com/item?id=39263736) - [Improving Interoperability Between Rust and C++](https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html)
@@ -27,6 +26,7 @@
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
+* [2024-02-05, 05:59:44](https://news.ycombinator.com/item?id=39257843) - [Handling Service Worker updates – keep the app updated and stay sane (2020)](https://whatwebcando.today/articles/handling-service-worker-updates/)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-04, 13:27:10](https://news.ycombinator.com/item?id=39250025) - [Liquid logistics: The fine art of wine transport](https://www.dhl.com/global-en/delivered/globalization/the-art-of-wine-transportation.html)
 * [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)

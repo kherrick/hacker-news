@@ -49,6 +49,7 @@
 * [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 * [2024-02-05, 06:17:58](https://news.ycombinator.com/item?id=39257946) - [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)
 * [2024-02-05, 06:17:21](https://news.ycombinator.com/item?id=39257942) - [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
+* [2024-02-05, 05:59:44](https://news.ycombinator.com/item?id=39257843) - [Handling Service Worker updates – keep the app updated and stay sane (2020)](https://whatwebcando.today/articles/handling-service-worker-updates/)
 * [2024-02-05, 05:59:19](https://news.ycombinator.com/item?id=39257841) - [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 04:20:48](https://news.ycombinator.com/item?id=39257273) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
