@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
+* [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
+* [2024-02-05, 17:54:53](https://news.ycombinator.com/item?id=39264221) - [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
+* [2024-02-05, 17:47:52](https://news.ycombinator.com/item?id=39264116) - [Bootstrap or VC?](https://www.ycombinator.com/blog/bootstrap-or-vc/)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 17:22:05](https://news.ycombinator.com/item?id=39263736) - [Improving Interoperability Between Rust and C++](https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html)
 * [2024-02-05, 17:05:33](https://news.ycombinator.com/item?id=39263528) - [The road to hell is paved with asphalt](https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt)
