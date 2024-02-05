@@ -12,6 +12,7 @@
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
+* [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 * [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
 * [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
@@ -29,7 +30,6 @@
 * [2024-01-30, 09:34:38](https://news.ycombinator.com/item?id=39188073) - [Seniors spend the equivalent of 3 weeks a year on health care, study says](https://www.washingtonpost.com/wellness/2024/01/29/time-spent-doctors-health-seniors/)
 * [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [2024-01-30, 07:38:35](https://news.ycombinator.com/item?id=39187349) - [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
-* [2024-01-29, 07:21:26](https://news.ycombinator.com/item?id=39173661) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 
 ## [Archives](archives/index.md)
 
