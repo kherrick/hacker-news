@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-02-04, 19:28:39",
-      "https://news.ycombinator.com/item?id=39253511"
-    ],
-    [
-      "Introduction to Thompson Sampling: The Bernoulli Bandit (2017)",
-      "https://gdmarmerola.github.io//ts-for-bernoulli-bandit/"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 18:48:54",
       "https://news.ycombinator.com/item?id=39253099"
     ],
@@ -267,6 +257,16 @@
     [
       "A new solution for the \"reverse sprinkler\" problem",
       "https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/"
+    ]
+  ],
+  [
+    [
+      "2024-02-02, 19:22:59",
+      "https://news.ycombinator.com/item?id=39232976"
+    ],
+    [
+      "Pkl, a Programming Language for Configuration",
+      "https://pkl-lang.org/blog/introducing-pkl.html"
     ]
   ],
   [
