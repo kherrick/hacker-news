@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [Caesars abruptly cancels contract with DEF CON](https://forum.defcon.org/node/248360)
+* [2024-02-05, 01:55:05](https://news.ycombinator.com/item?id=39256430) - [The IRS has all our tax data. Why doesn't its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
 * [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 * [2024-02-05, 00:59:54](https://news.ycombinator.com/item?id=39256160) - [Optimistic thinking linked with lower cognitive abilities](https://www.bath.ac.uk/announcements/optimistic-thinking-linked-with-lower-cognitive-abilities-new-research/)
@@ -13,7 +15,6 @@
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
 * [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
-* [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
 * [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki: Online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
@@ -25,11 +26,10 @@
 * [2024-02-04, 13:15:50](https://news.ycombinator.com/item?id=39249938) - [Acme Klein Bottle](https://www.kleinbottle.com/)
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a tiny Raspberry Pi based cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
-* [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 16:58:24](https://news.ycombinator.com/item?id=39231052) - [I also hacked my car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-01-30, 09:34:38](https://news.ycombinator.com/item?id=39188073) - [Seniors spend the equivalent of 3 weeks a year on health care, study says](https://www.washingtonpost.com/wellness/2024/01/29/time-spent-doctors-health-seniors/)
 * [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
-* [2024-01-30, 07:38:35](https://news.ycombinator.com/item?id=39187349) - [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
+* [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams – Memos by Bill Tindall](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
 
 ## [Archives](archives/index.md)
 

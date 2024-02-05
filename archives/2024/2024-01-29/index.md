@@ -99,6 +99,7 @@
 * [2024-01-29, 10:01:12](https://news.ycombinator.com/item?id=39174610) - [Reverse Engineering a Soviet CMOS Chip](https://twitter.com/kenshirriff/status/1751666094626967694)
 * [2024-01-29, 09:56:08](https://news.ycombinator.com/item?id=39174577) - [Several Truths Regarding Success](https://risingthumb.xyz/Writing/Blog/TruthsAboutSuccess)
 * [2024-01-29, 09:51:22](https://news.ycombinator.com/item?id=39174549) - [Harmonics Explorer](https://teropa.info/harmonics-explorer/)
+* [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams – Memos by Bill Tindall](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
 * [2024-01-29, 09:03:24](https://news.ycombinator.com/item?id=39174255) - [The New ROM Antics – Building the ZX Spectrum 128](https://www.theregister.com/2024/01/15/opinion_column_zxspectrum_128/)
 * [2024-01-29, 08:59:09](https://news.ycombinator.com/item?id=39174229) - [Incomplete thoughts on contrastive audio models](https://zelalabs.substack.com/p/incomplete-thoughts-on-contrastive)
 * [2024-01-29, 08:51:06](https://news.ycombinator.com/item?id=39174191) - [Y Combinator President Garry Tan publishes a menacing tweet before deleting it](https://techcrunch.com/2024/01/28/y-combinator-president-garry-tan-publishes-a-menacing-tweet-before-deleting-it-apologizing-die-slow-motherfckers/)
