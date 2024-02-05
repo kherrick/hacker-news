@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 19:49:21](https://news.ycombinator.com/item?id=39266117) - [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
+* [2024-02-05, 19:48:54](https://news.ycombinator.com/item?id=39266112) - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
+* [2024-02-05, 19:44:29](https://news.ycombinator.com/item?id=39266058) - [Gates, Bezos-backed KoBold Metals says Zambia copper find largest in a century](https://www.mining.com/gates-bezos-backed-kobold-says-zambia-copper-find-largest-in-a-century/)
 * [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
 * [2024-02-05, 18:54:05](https://news.ycombinator.com/item?id=39265275) - [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
 * [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: Always Learning Members of HN, How to Find the Time after Full-Time Job?](https://news.ycombinator.com/item?id=39264751)
