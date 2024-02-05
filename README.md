@@ -2,6 +2,7 @@
 
 * [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
+* [2024-02-05, 00:59:54](https://news.ycombinator.com/item?id=39256160) - [Optimistic thinking linked with lower cognitive abilities](https://www.bath.ac.uk/announcements/optimistic-thinking-linked-with-lower-cognitive-abilities-new-research/)
 * [2024-02-05, 00:18:33](https://news.ycombinator.com/item?id=39255940) - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
@@ -11,7 +12,6 @@
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
-* [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 * [2024-02-04, 19:07:57](https://news.ycombinator.com/item?id=39253298) - [Magnetic launching of black hole jets in Perseus A](https://www.mpifr-bonn.mpg.de/pressreleases/2024/4)
 * [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
