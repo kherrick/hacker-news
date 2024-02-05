@@ -129,6 +129,141 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39263854">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39263854"
+              >Show HN: atopile – Design circuit boards with code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-05 @ 17:30:50</span
+              ><span class="points-container"
+                >Points: <span class="points">30</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39263854"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://youtu.be/7-Q0XVpfW3Y"
+                >https://youtu.be/7-Q0XVpfW3Y</a
+              >
+              <p>
+                Could you imagine the pain of building an entire software
+                product using only assembly code? That’s about how we felt
+                designing hardware. We don’t currently have good ways to
+                describe what we need, reuse existing designs and compile that
+                description down to a product.
+              </p>
+              <p>
+                We started atopile to fix this. atopile is an open-source
+                language and toolchain to describe circuits with code. The
+                compiler is here:
+                <a href="https://github.com/atopile/atopile"
+                  >https://github.com/atopile/atopile</a
+                >
+                Docs are here:
+                <a href="https://atopile.io/getting-started/"
+                  >https://atopile.io/getting-started/</a
+                >
+                . For a detailed deep dive designing an ESP32 module, see this
+                video:
+                <a href="https://youtu.be/eMWRwZOajdQ"
+                  >https://youtu.be/eMWRwZOajdQ</a
+                >
+              </p>
+              <p>
+                We realized this was a problem in our previous jobs. Narayan and
+                I (Tim) had to manually, draw and export all our electronic
+                circuit boards. This lasted until our friend Matt, a software
+                engineer, showed us his development workflow. All his projects
+                were built, tested, and merged automatically via GitHub. So we
+                asked: Can we build the same for hardware?
+              </p>
+              <p>
+                We observed that the ability to abstract electronics effectively
+                hinged on using a language to describe the requirements, so we
+                came up with the “ato” language. In ato, you can break down
+                circuits into modules, components and interfaces. You can nest
+                and connect those blocks with each other. Here is an example
+                with an RP2040 microcontroller:
+              </p>
+              <p></p>
+              <pre><code>  import RP2040Kit from "rp2040/RP2040Kit.ato"
+  import LEDIndicatorBlue from "generics/leds.ato"
+  import LDOReg3V3 from "regulators/regulators.ato"
+  import USBCConn from "usb-connectors/usb-connectors.ato"
+
+  module Blinky:
+    micro_controller = new RP2040Kit
+    led_indicator = new LEDIndicatorBlue
+    voltage_regulator = new LDOReg3V3
+    usb_c_connector = new USBCConn
+
+    usb_c_connector.power ~ voltage_regulator.power_in
+    voltage_regulator.power_out ~ micro_controller.power
+    micro_controller.gpio13 ~ led_indicator.input
+    micro_controller.power.gnd ~ led_indicator.gnd
+
+    led_indicator.resistor.value = 100ohm +/- 10%
+
+</code></pre>
+              From there, the compiler produces a netlist that describes how the
+              circuit is connected and selects jelly-bean components for you (<a
+                href="https://atopile.io/blog/2024/01/31/cloud-components/"
+                >https://atopile.io/blog/2024/01/31/cloud-components/</a
+              >). Our next focus will be to add layout reuse, mathematical
+              relations between values and define circuits by traits (similar to
+              Rusts’).
+              <p>
+                At the moment, atopile is intended to design all types of
+                printed circuit boards (PCB) with low to medium complexity. The
+                circuit complexity that the compiler can handle will steadily
+                increase until it becomes suited for production usage. We often
+                get asked if the compiler is meant for chip design rather than
+                PCBs, but that is not the case. The language is exclusive to
+                PCBs. At least for now..!
+              </p>
+              <p>
+                A big part of why the software community is so prolific is
+                thanks to open source and open core technology. The ability to
+                share software packages with each other and efficiently chain
+                tools together has made the software world an awesome place for
+                developers. As hardware engineers, we would love our field to
+                benefit from this as well. That’s why we’ve made atopile’s core
+                open source (Apache 2.0). We plan to generate revenue by selling
+                entreprise targeted features, similar to GitLab.
+              </p>
+              <p>
+                We would love to have your thoughts on the compiler! What’s your
+                story in electronics? What would you want us to build?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="39263736">
+          <h3>
+            <a
+              class="item"
+              href="https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html"
+              >Improving Interoperability Between Rust and C++</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-05 @ 17:22:05</span
+              ><span class="points-container"
+                >Points: <span class="points">56</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39263736"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39263528">
           <h3>
             <a
@@ -141,11 +276,11 @@
             <h4>
               <span>2024-02-05 @ 17:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39263528"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -163,11 +298,11 @@
             <h4>
               <span>2024-02-05 @ 17:02:02</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39263476"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -177,8 +312,8 @@
             <a
               class="item"
               href="https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
-              >Ashby (YC W19) Hiring a Product Engineering Manager in Americas
-              (Remote)</a
+              >Ashby (YC W19) is hiring a product engineering manager in
+              Americas (remote)</a
             >
           </h3>
           <section>
@@ -202,11 +337,11 @@
             <h4>
               <span>2024-02-05 @ 16:51:18</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39263332"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -223,11 +358,11 @@
             <h4>
               <span>2024-02-05 @ 16:38:17</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39263142"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -245,11 +380,30 @@
             <h4>
               <span>2024-02-05 @ 16:35:56</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39263106"
                   >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 194</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="39262087">
+          <h3>
+            <a class="item" href="https://www.youtube.com/watch?v=BV9Xy6L_rlM"
+              >Working in the Vision Pro [video]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-05 @ 15:17:56</span
+              ><span class="points-container"
+                >Points: <span class="points">53</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39262087"
+                  >Comments</a
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -266,11 +420,11 @@
             <h4>
               <span>2024-02-05 @ 15:14:14</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39262043"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -286,11 +440,11 @@
             <h4>
               <span>2024-02-05 @ 15:00:02</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261861"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -308,11 +462,11 @@
             <h4>
               <span>2024-02-05 @ 14:48:05</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261754"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -330,11 +484,11 @@
             <h4>
               <span>2024-02-05 @ 14:31:02</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261566"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -352,11 +506,11 @@
             <h4>
               <span>2024-02-05 @ 14:24:55</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261511"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -371,11 +525,11 @@
             <h4>
               <span>2024-02-05 @ 14:22:36</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261486"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -392,11 +546,11 @@
             <h4>
               <span>2024-02-05 @ 14:22:17</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261482"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -406,18 +560,18 @@
             <a
               class="item"
               href="https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html"
-              >Programming in 1969, by Emilk</a
+              >Programming in 1969</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-02-05 @ 14:06:50</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39261321"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -432,11 +586,11 @@
             <h4>
               <span>2024-02-05 @ 12:56:27</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39260760"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
             <div class="text">
@@ -465,11 +619,11 @@
             <h4>
               <span>2024-02-05 @ 12:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39260617"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -484,11 +638,11 @@
             <h4>
               <span>2024-02-05 @ 12:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39260614"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -503,11 +657,11 @@
             <h4>
               <span>2024-02-05 @ 10:38:41</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39259602"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 297</span></span
               >
             </h4>
             <div class="text">
@@ -528,7 +682,7 @@
             <h4>
               <span>2024-02-05 @ 10:00:19</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39259316"
                   >Comments</a
@@ -547,11 +701,11 @@
             <h4>
               <span>2024-02-05 @ 09:46:09</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39259224"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -566,30 +720,11 @@
             <h4>
               <span>2024-02-05 @ 09:23:53</span
               ><span class="points-container"
-                >Points: <span class="points">315</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39259068"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39258560">
-          <h3>
-            <a class="item" href="https://ir.yandex/press-releases?year=2024"
-              >Yandex to divest its Russia-based businesses</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-05 @ 08:18:43</span
-              ><span class="points-container"
-                >Points: <span class="points">192</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39258560"
-                  >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -606,7 +741,7 @@
             <h4>
               <span>2024-02-05 @ 07:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39258361"
                   >Comments</a
@@ -627,11 +762,11 @@
             <h4>
               <span>2024-02-05 @ 04:58:00</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39257529"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -646,11 +781,11 @@
             <h4>
               <span>2024-02-05 @ 04:05:39</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39257174"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -665,32 +800,11 @@
             <h4>
               <span>2024-02-05 @ 03:22:07</span
               ><span class="points-container"
-                >Points: <span class="points">527</span></span
+                >Points: <span class="points">537</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39256930"
                   >Comments</a
-                ><span class="descendants">: 343</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39254871">
-          <h3>
-            <a
-              class="item"
-              href="https://ardentperf.com/2024/02/03/uuid-benchmark-war/"
-              >UUID Benchmark War</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-04 @ 21:50:53</span
-              ><span class="points-container"
-                >Points: <span class="points">115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39254871"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 353</span></span
               >
             </h4>
           </section>
@@ -707,7 +821,7 @@
             <h4>
               <span>2024-02-04 @ 13:27:10</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39250025"
                   >Comments</a
@@ -726,32 +840,11 @@
             <h4>
               <span>2024-02-03 @ 13:43:51</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39240274"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39239964">
-          <h3>
-            <a
-              class="item"
-              href="https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio"
-              >Amelia Didn't Know Radio (1993)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-03 @ 13:02:21</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39239964"
-                  >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
