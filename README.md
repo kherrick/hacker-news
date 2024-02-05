@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 11:07:26](https://news.ycombinator.com/item?id=39259835) - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
 * [2024-02-05, 10:38:41](https://news.ycombinator.com/item?id=39259602) - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 * [2024-02-05, 10:30:38](https://news.ycombinator.com/item?id=39259533) - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 08:52:26](https://news.ycombinator.com/item?id=39258823) - [Zellij – A terminal workspace with batteries included (tmux alternative)](https://zellij.dev/screencasts/)
-* [2024-02-05, 08:18:43](https://news.ycombinator.com/item?id=39258560) - [Yandex to Divest its Russia-based Businesses](https://ir.yandex/press-releases?year=2024)
 * [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 04:05:39](https://news.ycombinator.com/item?id=39257174) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
