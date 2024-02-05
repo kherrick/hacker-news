@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How Progress Compounds and Why It Matters (2018)](https://fs.blog/gates-law/)
 * [2024-02-05, 19:49:21](https://news.ycombinator.com/item?id=39266117) - [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-05, 19:48:54](https://news.ycombinator.com/item?id=39266112) - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
 * [2024-02-05, 19:44:29](https://news.ycombinator.com/item?id=39266058) - [Gates, Bezos-backed KoBold Metals says Zambia copper find largest in a century](https://www.mining.com/gates-bezos-backed-kobold-says-zambia-copper-find-largest-in-a-century/)
 * [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
-* [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: How to find time to learn after full-time job?](https://news.ycombinator.com/item?id=39264751)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort()](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 * [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
 * [2024-02-05, 17:47:52](https://news.ycombinator.com/item?id=39264116) - [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
