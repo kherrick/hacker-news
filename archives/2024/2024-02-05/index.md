@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
+* [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How Progress Compounds and Why It Matters (2018)](https://fs.blog/gates-law/)
