@@ -49,6 +49,7 @@
 * [2024-02-03, 13:40:20](https://news.ycombinator.com/item?id=39240255) - [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [Why the Worst Users Come from Referral Programs, Free Trials, Coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
 * [2024-02-03, 13:36:11](https://news.ycombinator.com/item?id=39240205) - [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)
+* [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 * [2024-02-03, 11:46:06](https://news.ycombinator.com/item?id=39239449) - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
 * [2024-02-03, 11:30:27](https://news.ycombinator.com/item?id=39239356) - [Back to the Floppy (2019)](https://www.markround.com/blog/2019/12/30/back-to-the-floppy/)
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
