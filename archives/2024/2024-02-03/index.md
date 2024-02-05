@@ -46,6 +46,7 @@
 * [2024-02-03, 14:35:03](https://news.ycombinator.com/item?id=39240656) - [Superionic Water](https://en.wikipedia.org/wiki/Superionic_water)
 * [2024-02-03, 14:28:51](https://news.ycombinator.com/item?id=39240608) - [Ask HN: Have humans always found socialising so challenging?](https://news.ycombinator.com/item?id=39240608)
 * [2024-02-03, 14:10:14](https://news.ycombinator.com/item?id=39240471) - [I reduced the size of my Docker image by 40% – Dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
+* [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:40:20](https://news.ycombinator.com/item?id=39240255) - [Show HN: Twitter API Wrapper for Python – No API Keys Needed](https://github.com/d60/twikit)
 * [2024-02-03, 13:39:13](https://news.ycombinator.com/item?id=39240232) - [Why the Worst Users Come from Referral Programs, Free Trials, Coupons](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/)
 * [2024-02-03, 13:36:11](https://news.ycombinator.com/item?id=39240205) - [Microsoft seeks Rust developers to rewrite core C# code](https://www.theregister.com/2024/01/31/microsoft_seeks_rust_developers/)

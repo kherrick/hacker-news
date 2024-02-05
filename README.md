@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-05, 15:17:56](https://news.ycombinator.com/item?id=39262087) - [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
 * [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
 * [2024-02-05, 14:31:02](https://news.ycombinator.com/item?id=39261566) - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
@@ -29,6 +28,7 @@
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 12:51:58](https://news.ycombinator.com/item?id=39249813) - [Russian cosmonaut sets record for most time in space – more than 878 days](https://www.reuters.com/technology/space/russian-cosmonaut-set-record-sunday-most-time-spent-space-reports-2024-02-04/)
 * [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar (2009)](https://www.science.org/doi/10.1126/science.1174096)
+* [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 
 ## [Archives](archives/index.md)
