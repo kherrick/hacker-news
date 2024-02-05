@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
 * [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
@@ -8,6 +7,7 @@
 * [2024-02-05, 19:48:54](https://news.ycombinator.com/item?id=39266112) - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
 * [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating PDFs for offline reading](https://github.com/dvcoolarun/web2pdf)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort()](https://www.openwall.com/lists/oss-security/2024/01/30/7)
+* [2024-02-05, 17:47:52](https://news.ycombinator.com/item?id=39264116) - [Bootstrap or VC? [video]](https://www.youtube.com/watch?v=D81y-kh11oI)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 17:16:27](https://news.ycombinator.com/item?id=39263664) - [Ask HN: What have you built with LLMs?](https://news.ycombinator.com/item?id=39263664)
 * [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) is hiring a product engineering manager in Americas (remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
