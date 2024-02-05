@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How Progress Compounds and Why It Matters (2018)](https://fs.blog/gates-law/)
 * [2024-02-05, 19:49:21](https://news.ycombinator.com/item?id=39266117) - [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-05, 19:48:54](https://news.ycombinator.com/item?id=39266112) - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
@@ -28,7 +29,6 @@
 * [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 * [2024-02-05, 05:59:44](https://news.ycombinator.com/item?id=39257843) - [Handling Service Worker updates – keep the app updated and stay sane (2020)](https://whatwebcando.today/articles/handling-service-worker-updates/)
 * [2024-02-04, 13:27:10](https://news.ycombinator.com/item?id=39250025) - [Liquid logistics: The fine art of wine transport](https://www.dhl.com/global-en/delivered/globalization/the-art-of-wine-transportation.html)
-* [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 10:21:52](https://news.ycombinator.com/item?id=39239044) - [How to write a novel using the snowflake method (2013)](https://www.advancedfictionwriting.com/articles/snowflake-method/)
 
 ## [Archives](archives/index.md)

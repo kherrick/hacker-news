@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How Progress Compounds and Why It Matters (2018)](https://fs.blog/gates-law/)
 * [2024-02-05, 19:49:21](https://news.ycombinator.com/item?id=39266117) - [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-05, 19:48:54](https://news.ycombinator.com/item?id=39266112) - [Show HN: The HTTP Garden – A Parser Vulnerability Research Tool](https://github.com/narfindustries/http-garden)
