@@ -6,6 +6,8 @@
 
 * [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
+* [2024-02-05, 22:32:53](https://news.ycombinator.com/item?id=39268160) - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
+* [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
 * [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)
 * [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
@@ -19,6 +21,7 @@
 * [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
 * [2024-02-05, 18:54:05](https://news.ycombinator.com/item?id=39265275) - [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
 * [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: Always Learning Members of HN, How to Find the Time after Full-Time Job?](https://news.ycombinator.com/item?id=39264751)
+* [2024-02-05, 18:09:58](https://news.ycombinator.com/item?id=39264487) - [Reducing BigQuery Costs](https://blog.peerdb.io/reducing-bigquery-costs-by-260x)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 * [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
 * [2024-02-05, 17:54:53](https://news.ycombinator.com/item?id=39264221) - [Tesla driver pulled over after wearing new Apple vision headset on highway](https://www.the-express.com/tech/tech-news/126783/tesla-Apple-Vision-pro-driver-pulled-over)
