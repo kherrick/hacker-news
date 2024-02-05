@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-04, 23:08:34](https://news.ycombinator.com/item?id=39255486) - [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
 * [2024-02-04, 20:47:07](https://news.ycombinator.com/item?id=39254274) - [Solving the Darknet Riddle](https://sizeof.life/posts/darknet-riddle/)
@@ -21,6 +20,7 @@
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bag bans work](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:12:02](https://news.ycombinator.com/item?id=39250320) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
+* [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules> (2010)](https://zeux.io/2010/11/15/include-rules/)
 * [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after video call call with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-03, 11:30:27](https://news.ycombinator.com/item?id=39239356) - [Back to the Floppy (2019)](https://www.markround.com/blog/2019/12/30/back-to-the-floppy/)
