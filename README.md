@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 17:05:33](https://news.ycombinator.com/item?id=39263528) - [The road to hell is paved with asphalt](https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt)
+* [2024-02-05, 17:02:02](https://news.ycombinator.com/item?id=39263476) - [Bottom 80% of US Households Persistently Dissaves-Spending More Than Income](https://wealtheconomics.substack.com/p/the-bottom-80-of-us-households-persistently)
 * [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) Hiring a Product Engineering Manager in Americas (Remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-02-05, 16:51:18](https://news.ycombinator.com/item?id=39263332) - [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
 * [2024-02-05, 16:38:17](https://news.ycombinator.com/item?id=39263142) - [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
@@ -25,9 +27,7 @@
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 04:05:39](https://news.ycombinator.com/item?id=39257174) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
-* [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
-* [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 

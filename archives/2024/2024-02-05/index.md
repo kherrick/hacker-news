@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 17:05:33](https://news.ycombinator.com/item?id=39263528) - [The road to hell is paved with asphalt](https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt)
+* [2024-02-05, 17:02:02](https://news.ycombinator.com/item?id=39263476) - [Bottom 80% of US Households Persistently Dissaves-Spending More Than Income](https://wealtheconomics.substack.com/p/the-bottom-80-of-us-households-persistently)
 * [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) Hiring a Product Engineering Manager in Americas (Remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-02-05, 16:51:18](https://news.ycombinator.com/item?id=39263332) - [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
 * [2024-02-05, 16:38:17](https://news.ycombinator.com/item?id=39263142) - [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
