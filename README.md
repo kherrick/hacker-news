@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-05, 06:17:58](https://news.ycombinator.com/item?id=39257946) - [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)
+* [2024-02-05, 05:59:19](https://news.ycombinator.com/item?id=39257841) - [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
+* [2024-02-05, 04:20:48](https://news.ycombinator.com/item?id=39257273) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
@@ -19,7 +20,6 @@
 * [2024-02-04, 17:16:46](https://news.ycombinator.com/item?id=39252143) - [Don’t Eat Before Reading This (1999)](https://www.newyorker.com/magazine/1999/04/19/dont-eat-before-reading-this)
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
-* [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 13:15:50](https://news.ycombinator.com/item?id=39249938) - [Acme Klein Bottle](https://www.kleinbottle.com/)
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a tiny Raspberry Pi based cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
