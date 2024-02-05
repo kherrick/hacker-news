@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 20:41:39",
+      "https://news.ycombinator.com/item?id=39266859"
+    ],
+    [
+      "Want to build a sequencer? 454.bio opens up their plans",
+      "http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 20:07:47",
       "https://news.ycombinator.com/item?id=39266396"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-02-05, 17:05:33",
-      "https://news.ycombinator.com/item?id=39263528"
-    ],
-    [
-      "The road to hell is paved with asphalt",
-      "https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 17:00:26",
       "https://news.ycombinator.com/item?id=39263453"
     ],
@@ -151,26 +151,6 @@
   ],
   [
     [
-      "2024-02-05, 14:48:05",
-      "https://news.ycombinator.com/item?id=39261754"
-    ],
-    [
-      "OnlyFake: A site where ‘neural networks’ churn out fake IDs",
-      "https://www.404media.co/inside-the-underground-site-where-ai-neural-networks-churns-out-fake-ids-onlyfake/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 14:24:55",
-      "https://news.ycombinator.com/item?id=39261511"
-    ],
-    [
-      "Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees",
-      "https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 14:22:36",
       "https://news.ycombinator.com/item?id=39261486"
     ],
@@ -197,6 +177,16 @@
     [
       "Programming in 1969",
       "https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 13:24:14",
+      "https://news.ycombinator.com/item?id=39260968"
+    ],
+    [
+      "Solving durable execution's immutability problem",
+      "https://restate.dev/blog/solving-durable-executions-immutability-problem/"
     ]
   ],
   [
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-02-05, 05:59:44",
-      "https://news.ycombinator.com/item?id=39257843"
-    ],
-    [
-      "Handling Service Worker updates – keep the app updated and stay sane (2020)",
-      "https://whatwebcando.today/articles/handling-service-worker-updates/"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 13:27:10",
       "https://news.ycombinator.com/item?id=39250025"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-02-03, 12:29:44",
+      "https://news.ycombinator.com/item?id=39239721"
+    ],
+    [
+      "Goal: Embeddable array programming language with a bytecode interpreter in Go",
+      "https://anaseto.codeberg.page/goal/chap-intro.html"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 10:21:52",
       "https://news.ycombinator.com/item?id=39239044"
     ],
     [
       "How to write a novel using the snowflake method (2013)",
       "https://www.advancedfictionwriting.com/articles/snowflake-method/"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 05:50:36",
+      "https://news.ycombinator.com/item?id=39237874"
+    ],
+    [
+      "MAME Debugging",
+      "https://mattgreer.dev/blog/mame-debugging/"
     ]
   ]
 ]
