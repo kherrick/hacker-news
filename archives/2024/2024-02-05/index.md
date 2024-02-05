@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
+* [2024-02-05, 17:22:05](https://news.ycombinator.com/item?id=39263736) - [Improving Interoperability Between Rust and C++](https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html)
 * [2024-02-05, 17:05:33](https://news.ycombinator.com/item?id=39263528) - [The road to hell is paved with asphalt](https://devonzuegel.com/the-road-to-hell-is-paved-with-asphalt)
 * [2024-02-05, 17:02:02](https://news.ycombinator.com/item?id=39263476) - [Bottom 80% of US Households Persistently Dissaves-Spending More Than Income](https://wealtheconomics.substack.com/p/the-bottom-80-of-us-households-persistently)
 * [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) Hiring a Product Engineering Manager in Americas (Remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
