@@ -58,6 +58,7 @@
 * [2024-02-03, 11:25:22](https://news.ycombinator.com/item?id=39239335) - [Ofsted inspectors 'make up evidence' about a school's performance when IT fails](https://www.theguardian.com/education/2024/feb/03/ofsted-inspectors-make-up-evidence-about-a-schools-performance-when-it-fails)
 * [2024-02-03, 11:12:07](https://news.ycombinator.com/item?id=39239265) - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 * [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
+* [2024-02-03, 10:21:52](https://news.ycombinator.com/item?id=39239044) - [How to write a novel using the snowflake method (2013)](https://www.advancedfictionwriting.com/articles/snowflake-method/)
 * [2024-02-03, 10:14:05](https://news.ycombinator.com/item?id=39239011) - [Thompson Sampling](https://en.wikipedia.org/wiki/Thompson_sampling)
 * [2024-02-03, 10:02:49](https://news.ycombinator.com/item?id=39238958) - [Rope making in the Aurignacian of Central Europe more than 35,000 years ago](https://www.science.org/doi/10.1126/sciadv.adh5217)
 * [2024-02-03, 10:01:00](https://news.ycombinator.com/item?id=39238953) - [60-Bit Computing](https://thechipletter.substack.com/p/60-bit-computing)

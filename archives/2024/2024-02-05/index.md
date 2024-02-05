@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating beautiful PDF for offline reading](https://github.com/dvcoolarun/web2pdf)
 * [2024-02-05, 18:54:05](https://news.ycombinator.com/item?id=39265275) - [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
 * [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: Always Learning Members of HN, How to Find the Time after Full-Time Job?](https://news.ycombinator.com/item?id=39264751)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
