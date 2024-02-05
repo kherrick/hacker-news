@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-05, 17:30:50",
+      "https://news.ycombinator.com/item?id=39263854"
+    ],
+    [
+      "Show HN: atopile – Design circuit boards with code",
+      "https://news.ycombinator.com/item?id=39263854"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 17:22:05",
+      "https://news.ycombinator.com/item?id=39263736"
+    ],
+    [
+      "Improving Interoperability Between Rust and C++",
+      "https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 17:05:33",
       "https://news.ycombinator.com/item?id=39263528"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39263453"
     ],
     [
-      "Ashby (YC W19) Hiring a Product Engineering Manager in Americas (Remote)",
+      "Ashby (YC W19) is hiring a product engineering manager in Americas (remote)",
       "https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a"
     ]
   ],
@@ -57,6 +77,16 @@
     [
       "SAT (and ACT) scores are highly predictive of academic achievement at Dartmouth [pdf]",
       "https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 15:17:56",
+      "https://news.ycombinator.com/item?id=39262087"
+    ],
+    [
+      "Working in the Vision Pro [video]",
+      "https://www.youtube.com/watch?v=BV9Xy6L_rlM"
     ]
   ],
   [
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39261321"
     ],
     [
-      "Programming in 1969, by Emilk",
+      "Programming in 1969",
       "https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html"
     ]
   ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-02-05, 08:18:43",
-      "https://news.ycombinator.com/item?id=39258560"
-    ],
-    [
-      "Yandex to divest its Russia-based businesses",
-      "https://ir.yandex/press-releases?year=2024"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 07:41:36",
       "https://news.ycombinator.com/item?id=39258361"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-02-04, 21:50:53",
-      "https://news.ycombinator.com/item?id=39254871"
-    ],
-    [
-      "UUID Benchmark War",
-      "https://ardentperf.com/2024/02/03/uuid-benchmark-war/"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 13:27:10",
       "https://news.ycombinator.com/item?id=39250025"
     ],
@@ -287,16 +297,6 @@
     [
       "YDB – an open source distributed SQL database",
       "https://ydb.tech/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 13:02:21",
-      "https://news.ycombinator.com/item?id=39239964"
-    ],
-    [
-      "Amelia Didn't Know Radio (1993)",
-      "https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio"
     ]
   ]
 ]
