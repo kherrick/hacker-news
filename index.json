@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 04:58:00",
+      "https://news.ycombinator.com/item?id=39257529"
+    ],
+    [
+      "WebAssembly Playground",
+      "https://observablehq.com/@chaosalchemist/wasm-playground"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 04:20:48",
       "https://news.ycombinator.com/item?id=39257273"
     ],
@@ -127,16 +137,6 @@
     [
       "How the codpiece flopped",
       "https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 19:28:39",
-      "https://news.ycombinator.com/item?id=39253511"
-    ],
-    [
-      "Introduction to Thompson Sampling: The Bernoulli Bandit (2017)",
-      "https://gdmarmerola.github.io//ts-for-bernoulli-bandit/"
     ]
   ],
   [
