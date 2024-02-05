@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 00:18:33](https://news.ycombinator.com/item?id=39255940) - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
@@ -21,7 +22,6 @@
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 13:15:50](https://news.ycombinator.com/item?id=39249938) - [Acme Klein Bottle](https://www.kleinbottle.com/)
-* [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a tiny Raspberry Pi based cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
 * [2024-02-03, 09:32:49](https://news.ycombinator.com/item?id=39238820) - [Open Source Tensegrity](https://pretenst.com/)

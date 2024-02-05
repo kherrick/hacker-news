@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 00:18:33](https://news.ycombinator.com/item?id=39255940) - [Small Business and Mid Market Is Not Easier Than Enterprise](https://www.jjellyfish.com/articles/debunking-the-myth-smbmid-market-is-not-easier-than-enterprise)
