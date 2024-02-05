@@ -24,11 +24,11 @@
 * [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar](https://www.science.org/doi/10.1126/science.1174096)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 * [2024-02-03, 12:35:26](https://news.ycombinator.com/item?id=39239765) - [MIT and IBM Find Clever AI Ways Around Brute-Force Math](https://spectrum.ieee.org/mathematical-model-ai)
-* [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 16:58:24](https://news.ycombinator.com/item?id=39231052) - [I also hacked my car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [2024-01-30, 08:07:06](https://news.ycombinator.com/item?id=39187529) - [A reporter's journey into how the U.S. funded the bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)
+* [2024-01-30, 07:42:23](https://news.ycombinator.com/item?id=39187370) - [Improving my Emacs experience with completion](https://martinfowler.com/articles/2024-emacs-completion.html)
 * [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
 
 ## [Archives](archives/index.md)

@@ -98,6 +98,7 @@
 * [2024-01-30, 08:07:06](https://news.ycombinator.com/item?id=39187529) - [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
+* [2024-01-30, 07:42:23](https://news.ycombinator.com/item?id=39187370) - [Improving my Emacs experience with completion](https://martinfowler.com/articles/2024-emacs-completion.html)
 * [2024-01-30, 07:41:07](https://news.ycombinator.com/item?id=39187365) - [Japanese government bids sayonara to the 3.5\" floppy disk](https://www.theregister.com/2024/01/29/japan_government_floppy_disks/)
 * [2024-01-30, 07:38:35](https://news.ycombinator.com/item?id=39187349) - [__VA_OPT__ Minutiae](https://www.corsix.org/content/va-opt-minutiae)
 * [2024-01-30, 07:23:26](https://news.ycombinator.com/item?id=39187294) - [Notes on Cruise's Pedestrian Accident](https://danluu.com/cruise-report/)
