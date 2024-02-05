@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
+* [2024-02-05, 09:28:11](https://news.ycombinator.com/item?id=39259093) - [The New Work-Life Balance: Don't Have Kids](https://www.bloomberg.com/opinion/articles/2024-02-04/career-demands-meager-leave-policies-drive-down-birth-rate)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 08:18:43](https://news.ycombinator.com/item?id=39258560) - [Yandex (Russian Google) sells all of its Russian businesses](https://ir.yandex/press-releases?year=2024)
 * [2024-02-05, 07:50:08](https://news.ycombinator.com/item?id=39258404) - [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)

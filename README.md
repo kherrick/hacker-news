@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
+* [2024-02-05, 09:28:11](https://news.ycombinator.com/item?id=39259093) - [The New Work-Life Balance: Don't Have Kids](https://www.bloomberg.com/opinion/articles/2024-02-04/career-demands-meager-leave-policies-drive-down-birth-rate)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
@@ -15,8 +17,6 @@
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
-* [2024-02-04, 19:28:39](https://news.ycombinator.com/item?id=39253511) - [Introduction to Thompson Sampling: The Bernoulli Bandit (2017)](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
-* [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 17:22:31](https://news.ycombinator.com/item?id=39252206) - [How many IP addresses can a DNS query return? (2015)](https://www.ethanheilman.com/x/21/index.html)
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
