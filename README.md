@@ -4,7 +4,7 @@
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
 * [2024-02-05, 22:32:53](https://news.ycombinator.com/item?id=39268160) - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
-* [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
+* [2024-02-05, 21:27:44](https://news.ycombinator.com/item?id=39267447) - [On Avoiding Register Spills in Vectorized Code with Many Constants](https://johnnysswlab.com/on-avoiding-register-spills-in-vectorized-code-with-many-constants/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How progress compounds and why it matters (2018)](https://fs.blog/gates-law/)
