@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-02-05, 13:21:49",
-      "https://news.ycombinator.com/item?id=39260956"
-    ],
-    [
-      "Google's Once Happy Offices Feel the Chill of Layoffs",
-      "https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 12:47:52",
       "https://news.ycombinator.com/item?id=39260685"
     ],
     [
-      "Exotic selfhosted solutions for personal usage",
+      "Tell me your most exotic selfhosted solution",
       "https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "Deno in 2023",
       "https://deno.com/blog/deno-in-2023"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 08:52:26",
+      "https://news.ycombinator.com/item?id=39258823"
+    ],
+    [
+      "Zellij: A terminal workspace with batteries included",
+      "https://zellij.dev/screencasts/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=39249690"
     ],
     [
-      "Tiger moth jams bat sonar",
+      "Tiger moth jams bat sonar (2009)",
       "https://www.science.org/doi/10.1126/science.1174096"
     ]
   ],
