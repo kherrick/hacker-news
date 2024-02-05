@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2024-02-05, 12:47:52",
+      "https://news.ycombinator.com/item?id=39260685"
+    ],
+    [
+      "Exotic selfhosted solutions for personal usage",
+      "https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 12:39:10",
       "https://news.ycombinator.com/item?id=39260614"
     ],
     [
-      "UUIDv7 is (probably) coming in PostgreSQL 17",
+      "PostgreSQL UUID v7 support",
       "https://commitfest.postgresql.org/47/4388/"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Deno in 2023",
       "https://deno.com/blog/deno-in-2023"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 08:52:26",
-      "https://news.ycombinator.com/item?id=39258823"
-    ],
-    [
-      "Zellij – A terminal workspace with batteries included (tmux alternative)",
-      "https://zellij.dev/screencasts/"
     ]
   ],
   [
