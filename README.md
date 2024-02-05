@@ -10,7 +10,6 @@
 * [2024-02-05, 14:22:17](https://news.ycombinator.com/item?id=39261482) - [Boeing Finds More Misdrilled Holes on 737 in Latest Setback](https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
-* [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Tell me your most exotic selfhosted solution](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
 * [2024-02-05, 12:39:53](https://news.ycombinator.com/item?id=39260617) - [Hisense A9 Pro E-Ink Android Smartphone](https://hisenseeink.com/products/hisense-a9-pro-e-ink-smartphone-1)
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [PostgreSQL UUID v7 support](https://commitfest.postgresql.org/47/4388/)
 * [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -28,6 +27,7 @@
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 12:51:58](https://news.ycombinator.com/item?id=39249813) - [Russian cosmonaut sets record for most time in space – more than 878 days](https://www.reuters.com/technology/space/russian-cosmonaut-set-record-sunday-most-time-spent-space-reports-2024-02-04/)
+* [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar (2009)](https://www.science.org/doi/10.1126/science.1174096)
 * [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 
