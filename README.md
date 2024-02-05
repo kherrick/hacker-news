@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-05, 08:18:43](https://news.ycombinator.com/item?id=39258560) - [Yandex (Russian Google) sells all of its Russian businesses](https://ir.yandex/press-releases?year=2024)
-* [2024-02-05, 07:50:08](https://news.ycombinator.com/item?id=39258404) - [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)
+* [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
+* [2024-02-05, 07:41:36](https://news.ycombinator.com/item?id=39258361) - [Running Open-Source AI Models Locally with Ruby](https://reinteractive.com/articles/running-open-source-AI-models-locally-with-ruby)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 04:05:39](https://news.ycombinator.com/item?id=39257174) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
