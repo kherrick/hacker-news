@@ -17,7 +17,6 @@
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
 * [2024-02-05, 12:39:53](https://news.ycombinator.com/item?id=39260617) - [Hisense A9 Pro E-Ink Android Smartphone](https://hisenseeink.com/products/hisense-a9-pro-e-ink-smartphone-1)
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [PostgreSQL UUID v7 support](https://commitfest.postgresql.org/47/4388/)
-* [2024-02-05, 11:07:26](https://news.ycombinator.com/item?id=39259835) - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
 * [2024-02-05, 10:38:41](https://news.ycombinator.com/item?id=39259602) - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 * [2024-02-05, 10:00:19](https://news.ycombinator.com/item?id=39259316) - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
@@ -28,6 +27,7 @@
 * [2024-02-05, 04:05:39](https://news.ycombinator.com/item?id=39257174) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
+* [2024-02-04, 13:27:10](https://news.ycombinator.com/item?id=39250025) - [Liquid logistics: The fine art of wine transport](https://www.dhl.com/global-en/delivered/globalization/the-art-of-wine-transportation.html)
 * [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 

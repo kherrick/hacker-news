@@ -64,6 +64,7 @@
 * [2024-02-04, 13:55:11](https://news.ycombinator.com/item?id=39250207) - [How easy is it for a non-entrepreneur to become an entrepreneur in 2024?](https://news.ycombinator.com/item?id=39250207)
 * [2024-02-04, 13:37:33](https://news.ycombinator.com/item?id=39250089) - [We just launched Sketch Logo AI- Ask us anything](https://www.sketchlogo.ai/)
 * [2024-02-04, 13:35:38](https://news.ycombinator.com/item?id=39250076) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
+* [2024-02-04, 13:27:10](https://news.ycombinator.com/item?id=39250025) - [Liquid logistics: The fine art of wine transport](https://www.dhl.com/global-en/delivered/globalization/the-art-of-wine-transportation.html)
 * [2024-02-04, 13:15:50](https://news.ycombinator.com/item?id=39249938) - [Acme Klein Bottle](https://www.kleinbottle.com/)
 * [2024-02-04, 12:51:58](https://news.ycombinator.com/item?id=39249813) - [Russian cosmonaut sets record for most time in space – more than 878 days](https://www.reuters.com/technology/space/russian-cosmonaut-set-record-sunday-most-time-spent-space-reports-2024-02-04/)
 * [2024-02-04, 12:35:30](https://news.ycombinator.com/item?id=39249745) - [Taggers have sprayed graffiti on 27 stories of a downtown Los Angeles skyscraper](https://www.latimes.com/california/story/2024-02-02/graffiti-highrise-downtown-la)
