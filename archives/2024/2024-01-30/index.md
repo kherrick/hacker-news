@@ -95,6 +95,7 @@
 * [2024-01-30, 08:41:59](https://news.ycombinator.com/item?id=39187757) - [The Apparent Simplicity of RGB Rendering](https://thomasmansencal.substack.com/p/the-apparent-simplicity-of-rgb-rendering)
 * [2024-01-30, 08:40:52](https://news.ycombinator.com/item?id=39187749) - [A mistakenly published password exposed Mercedes-Benz source code](https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/)
 * [2024-01-30, 08:40:15](https://news.ycombinator.com/item?id=39187744) - [After 32 years, one of the 'Net's oldest software archives is shutting down](https://arstechnica.com/gadgets/2024/01/after-32-years-one-of-the-nets-oldest-software-archives-is-shutting-down/)
+* [2024-01-30, 08:07:06](https://news.ycombinator.com/item?id=39187529) - [A Reporter's Journey into How the U.S. Funded the Bomb](https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html)
 * [2024-01-30, 08:00:26](https://news.ycombinator.com/item?id=39187487) - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-01-30, 07:42:41](https://news.ycombinator.com/item?id=39187371) - [Wear OS's most consistent OEM quits: Fossil stops making smartwatches](https://arstechnica.com/gadgets/2024/01/fossil-smartwatches-go-extinct-company-quits-wear-os-ecosystem/)
 * [2024-01-30, 07:41:07](https://news.ycombinator.com/item?id=39187365) - [Japanese government bids sayonara to the 3.5\" floppy disk](https://www.theregister.com/2024/01/29/japan_government_floppy_disks/)
