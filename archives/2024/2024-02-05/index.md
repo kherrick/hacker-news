@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)
 * [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
 * [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
