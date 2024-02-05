@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
 * [2024-02-05, 06:17:58](https://news.ycombinator.com/item?id=39257946) - [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)
+* [2024-02-05, 06:17:21](https://news.ycombinator.com/item?id=39257942) - [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
 * [2024-02-05, 05:59:19](https://news.ycombinator.com/item?id=39257841) - [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 04:20:48](https://news.ycombinator.com/item?id=39257273) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
