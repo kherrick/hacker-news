@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
 * [2024-02-05, 14:31:02](https://news.ycombinator.com/item?id=39261566) - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)

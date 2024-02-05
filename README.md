@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
 * [2024-02-05, 14:31:02](https://news.ycombinator.com/item?id=39261566) - [Remote access giant AnyDesk resets passwords and revokes certificates after hack](https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/)
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
@@ -17,7 +18,6 @@
 * [2024-02-05, 04:05:39](https://news.ycombinator.com/item?id=39257174) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
-* [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
