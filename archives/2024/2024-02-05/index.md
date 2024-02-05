@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 18:54:05](https://news.ycombinator.com/item?id=39265275) - [Ask HN: How did yall meet your SO?](https://news.ycombinator.com/item?id=39265275)
 * [2024-02-05, 18:25:57](https://news.ycombinator.com/item?id=39264751) - [Ask HN: Always Learning Members of HN, How to Find the Time after Full-Time Job?](https://news.ycombinator.com/item?id=39264751)
 * [2024-02-05, 18:04:06](https://news.ycombinator.com/item?id=39264396) - [Out-of-bounds read and write in the glibc's qsort() 1992-2024](https://www.openwall.com/lists/oss-security/2024/01/30/7)
 * [2024-02-05, 18:03:37](https://news.ycombinator.com/item?id=39264383) - [WA House bill would make it illegal for police to lie during interrogations](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/)
@@ -19,6 +20,7 @@
 * [2024-02-05, 16:51:18](https://news.ycombinator.com/item?id=39263332) - [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
 * [2024-02-05, 16:38:17](https://news.ycombinator.com/item?id=39263142) - [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
 * [2024-02-05, 16:35:56](https://news.ycombinator.com/item?id=39263106) - [SAT (and ACT) scores are highly predictive of academic achievement at Dartmouth [pdf]](https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf)
+* [2024-02-05, 16:06:50](https://news.ycombinator.com/item?id=39262650) - [Weaveworks is shutting down](https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67)
 * [2024-02-05, 15:17:56](https://news.ycombinator.com/item?id=39262087) - [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
 * [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
