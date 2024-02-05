@@ -171,26 +171,6 @@
   ],
   [
     [
-      "2024-02-04, 20:16:29",
-      "https://news.ycombinator.com/item?id=39253944"
-    ],
-    [
-      "Dijkstra's interview on Dutch TV (2000)",
-      "https://pncnmnp.github.io/blogs/translating-dijakstra.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 20:01:07",
-      "https://news.ycombinator.com/item?id=39253798"
-    ],
-    [
-      "Sapling: Experimental vi-inspired editor where you edit code, not text",
-      "https://github.com/kneasle/sapling"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 16:54:29",
       "https://news.ycombinator.com/item?id=39251909"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-02-04, 08:43:42",
+      "https://news.ycombinator.com/item?id=39248649"
+    ],
+    [
+      "Finance worker pays out $25M after video call call with deepfake CFO",
+      "https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 13:02:21",
       "https://news.ycombinator.com/item?id=39239964"
     ],
@@ -237,6 +227,16 @@
     [
       "MIT and IBM Find Clever AI Ways Around Brute-Force Math",
       "https://spectrum.ieee.org/mathematical-model-ai"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 12:29:44",
+      "https://news.ycombinator.com/item?id=39239721"
+    ],
+    [
+      "Goal: embeddable array programming language with a bytecode interpreter in Go",
+      "https://anaseto.codeberg.page/goal/chap-intro.html"
     ]
   ],
   [
