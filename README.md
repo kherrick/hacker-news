@@ -27,7 +27,7 @@
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
-* [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar (2009)](https://www.science.org/doi/10.1126/science.1174096)
+* [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-03, 13:43:51](https://news.ycombinator.com/item?id=39240274) - [YDB – an open source distributed SQL database](https://ydb.tech/)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 
