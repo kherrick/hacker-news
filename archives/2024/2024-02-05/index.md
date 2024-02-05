@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
 * [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
 * [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
 * [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
 * [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
@@ -12,7 +13,6 @@
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 17:16:27](https://news.ycombinator.com/item?id=39263664) - [Ask HN: What have you built with LLMs?](https://news.ycombinator.com/item?id=39263664)
 * [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) is hiring a product engineering manager in Americas (remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
-* [2024-02-05, 16:35:56](https://news.ycombinator.com/item?id=39263106) - [Report on the role of standardized test scores in undergraduate admissions [pdf]](https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf)
 * [2024-02-05, 16:06:50](https://news.ycombinator.com/item?id=39262650) - [Weaveworks is shutting down](https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67)
 * [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent engineers talk open-sourced bare-metal stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
