@@ -2,6 +2,7 @@
 
 * [2024-02-05, 05:59:19](https://news.ycombinator.com/item?id=39257841) - [GitHub is preparing for IPv6 support for Github.com](https://www.githubstatus.com/incidents/5y8b8lsqbbyq)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
+* [2024-02-05, 04:20:48](https://news.ycombinator.com/item?id=39257273) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
@@ -13,7 +14,6 @@
 * [2024-02-04, 20:16:29](https://news.ycombinator.com/item?id=39253944) - [Dijkstra's interview on Dutch TV (2000)](https://pncnmnp.github.io/blogs/translating-dijakstra.html)
 * [2024-02-04, 20:01:07](https://news.ycombinator.com/item?id=39253798) - [Sapling: Experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 19:40:33](https://news.ycombinator.com/item?id=39253603) - [How the codpiece flopped](https://www.bbc.com/future/article/20240202-what-happened-to-the-codpiece)
-* [2024-02-04, 18:48:54](https://news.ycombinator.com/item?id=39253099) - [Gödel, Escher, Bach is the most influential book in my life (2022)](https://philosophygeek.medium.com/why-g%C3%B6del-escher-bach-is-the-most-influential-book-in-my-life-49d785a4e428)
 * [2024-02-04, 18:36:26](https://news.ycombinator.com/item?id=39252989) - [Interpreting neural networks through the polytope lens (2022)](https://www.lesswrong.com/posts/eDicGjD9yte6FLSie/interpreting-neural-networks-through-the-polytope-lens)
 * [2024-02-04, 17:51:58](https://news.ycombinator.com/item?id=39252531) - [ProofWiki: Online compendium of mathematical proofs](https://proofwiki.org/wiki/Main_Page)
 * [2024-02-04, 17:22:31](https://news.ycombinator.com/item?id=39252206) - [How many IP addresses can a DNS query return? (2015)](https://www.ethanheilman.com/x/21/index.html)
