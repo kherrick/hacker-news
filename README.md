@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 10:38:41](https://news.ycombinator.com/item?id=39259602) - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 * [2024-02-05, 10:30:38](https://news.ycombinator.com/item?id=39259533) - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
@@ -21,7 +22,6 @@
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
 * [2024-02-04, 15:43:31](https://news.ycombinator.com/item?id=39251095) - [Browser extensions are underrated: the promise of hackable software (2019)](https://www.geoffreylitt.com/2019/07/29/browser-extensions)
 * [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar](https://www.science.org/doi/10.1126/science.1174096)
-* [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after video call call with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-03, 13:02:21](https://news.ycombinator.com/item?id=39239964) - [Amelia Didn't Know Radio (1993)](https://www.usni.org/magazines/naval-history-magazine/1993/december/amelia-didnt-know-radio)
 * [2024-02-03, 12:35:26](https://news.ycombinator.com/item?id=39239765) - [MIT and IBM Find Clever AI Ways Around Brute-Force Math](https://spectrum.ieee.org/mathematical-model-ai)
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)

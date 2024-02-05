@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 10:38:41](https://news.ycombinator.com/item?id=39259602) - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 * [2024-02-05, 10:30:38](https://news.ycombinator.com/item?id=39259533) - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 * [2024-02-05, 09:28:11](https://news.ycombinator.com/item?id=39259093) - [The New Work-Life Balance: Don't Have Kids](https://www.bloomberg.com/opinion/articles/2024-02-04/career-demands-meager-leave-policies-drive-down-birth-rate)
