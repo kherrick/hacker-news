@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-02-03, 10:44:36",
-      "https://news.ycombinator.com/item?id=39239152"
-    ],
-    [
-      "A new solution for the \"reverse sprinkler\" problem",
-      "https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/"
-    ]
-  ],
-  [
-    [
       "2024-02-02, 19:22:59",
       "https://news.ycombinator.com/item?id=39232976"
     ],
@@ -287,6 +277,16 @@
     [
       "A reporter's journey into how the U.S. funded the bomb",
       "https://www.nytimes.com/2024/01/17/us/politics/atomic-bomb-secret-funding-congress.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 07:42:23",
+      "https://news.ycombinator.com/item?id=39187370"
+    ],
+    [
+      "Improving my Emacs experience with completion",
+      "https://martinfowler.com/articles/2024-emacs-completion.html"
     ]
   ],
   [
