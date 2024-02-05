@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-05, 11:07:26](https://news.ycombinator.com/item?id=39259835) - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
 * [2024-02-05, 10:38:41](https://news.ycombinator.com/item?id=39259602) - [Ask HN: How many of you are self employed?](https://news.ycombinator.com/item?id=39259602)
 * [2024-02-05, 10:30:38](https://news.ycombinator.com/item?id=39259533) - [Parisians vote in favour of tripling parking costs for SUVs](https://www.theguardian.com/world/2024/feb/04/parisians-vote-in-favour-of-tripling-parking-costs-for-suvs)
@@ -14,7 +15,6 @@
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [A practical guide to quitting your smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
 * [2024-02-04, 21:44:22](https://news.ycombinator.com/item?id=39254807) - [Netflix: Piracy is difficult to compete against and growing rapidly](https://torrentfreak.com/netflix-piracy-is-difficult-to-compete-against-and-growing-rapidly-240204/)
-* [2024-02-04, 21:02:42](https://news.ycombinator.com/item?id=39254438) - [Meticulous (YC S21) is hiring to eliminate UI testing](https://news.ycombinator.com/item?id=39254438)
 * [2024-02-04, 20:47:07](https://news.ycombinator.com/item?id=39254274) - [Solving the darknet riddle (2022)](https://sizeof.life/posts/darknet-riddle/)
 * [2024-02-04, 20:36:28](https://news.ycombinator.com/item?id=39254172) - [Stract: Open-souce, non-profit search engine](https://stract.com/)
 * [2024-02-04, 16:54:29](https://news.ycombinator.com/item?id=39251909) - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
