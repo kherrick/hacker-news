@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
+* [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
 * [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)
 * [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
 * [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
