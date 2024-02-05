@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 17:00:26](https://news.ycombinator.com/item?id=39263453) - [Ashby (YC W19) Hiring a Product Engineering Manager in Americas (Remote)](https://www.ashbyhq.com/careers?ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
+* [2024-02-05, 16:51:18](https://news.ycombinator.com/item?id=39263332) - [Weaveworks Is Shuting Down](https://twitter.com/monadic/status/1754530336120140116)
+* [2024-02-05, 16:38:17](https://news.ycombinator.com/item?id=39263142) - [Without software right to repair, your devices are not secure](https://sfconservancy.org/blog/2024/feb/03/ccirt-security-and-software-right-to-repair/)
 * [2024-02-05, 16:35:56](https://news.ycombinator.com/item?id=39263106) - [SAT (and ACT) scores are highly predictive of academic achievement at Dartmouth [pdf]](https://home.dartmouth.edu/sites/home/files/2024-02/sat-undergrad-admissions.pdf)
 * [2024-02-05, 15:17:56](https://news.ycombinator.com/item?id=39262087) - [Working in the Vision Pro [video]](https://www.youtube.com/watch?v=BV9Xy6L_rlM)
 * [2024-02-05, 15:14:14](https://news.ycombinator.com/item?id=39262043) - [Tenstorrent Engineers Talk Open-Sourced Bare-Metal Stack](https://www.eetimes.com/tenstorrent-engineers-talk-open-sourced-bare-metal-stack/)
