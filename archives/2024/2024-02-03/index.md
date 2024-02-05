@@ -76,6 +76,7 @@
 * [2024-02-03, 06:32:41](https://news.ycombinator.com/item?id=39238039) - [AT&T applies to end obligation to service landlines in California](https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/)
 * [2024-02-03, 06:24:15](https://news.ycombinator.com/item?id=39238010) - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 * [2024-02-03, 05:50:57](https://news.ycombinator.com/item?id=39237876) - [The Decline of Hardware Knowledge in the Era of Cloud Native Compute](https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/)
+* [2024-02-03, 05:50:36](https://news.ycombinator.com/item?id=39237874) - [MAME Debugging](https://mattgreer.dev/blog/mame-debugging/)
 * [2024-02-03, 05:02:19](https://news.ycombinator.com/item?id=39237668) - [Git Query Language](https://amrdeveloper.github.io/GQL)
 * [2024-02-03, 04:35:21](https://news.ycombinator.com/item?id=39237567) - [Over the Edge: The Use of Design Tactics to Undermine Browser Choice](https://research.mozilla.org/browser-competition/over-the-edge-the-use-of-design-tactics-to-undermine-browser-choice/)
 * [2024-02-03, 04:01:23](https://news.ycombinator.com/item?id=39237438) - [Why car insurance in America is too cheap](https://www.economist.com/united-states/2024/01/18/why-car-insurance-in-america-is-actually-too-cheap)

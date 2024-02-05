@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How Progress Compounds and Why It Matters (2018)](https://fs.blog/gates-law/)
 * [2024-02-05, 19:49:21](https://news.ycombinator.com/item?id=39266117) - [Htmx deep dive with carson gross [video]](https://www.youtube.com/watch?v=javGxN-h9VQ)
@@ -37,6 +38,7 @@
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:22:17](https://news.ycombinator.com/item?id=39261482) - [Boeing Finds More Misdrilled Holes on 737 in Latest Setback](https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
+* [2024-02-05, 13:24:14](https://news.ycombinator.com/item?id=39260968) - [Solving durable execution's immutability problem](https://restate.dev/blog/solving-durable-executions-immutability-problem/)
 * [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
 * [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
