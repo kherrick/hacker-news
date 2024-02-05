@@ -103,6 +103,7 @@
 * [2024-02-01, 09:21:04](https://news.ycombinator.com/item?id=39214114) - [Study finds that once people use cargo bikes, they like their cars much less](https://arstechnica.com/cars/2024/01/study-finds-that-once-people-use-cargo-bikes-they-like-their-cars-much-less/)
 * [2024-02-01, 09:10:43](https://news.ycombinator.com/item?id=39214047) - [Fiber Optics Bring You Internet. Now They're Also Listening to Trains](https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/)
 * [2024-02-01, 09:03:54](https://news.ycombinator.com/item?id=39214019) - [A Man Who Invented VR Goggles 50 Years Too Soon](https://spectrum.ieee.org/the-man-who-invented-vr-goggles-50-years-too-soon)
+* [2024-02-01, 09:00:59](https://news.ycombinator.com/item?id=39214005) - [History of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html)
 * [2024-02-01, 08:58:32](https://news.ycombinator.com/item?id=39213992) - [UK Wind Farms Are Overstating Their Output](https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/)
 * [2024-02-01, 08:21:12](https://news.ycombinator.com/item?id=39213809) - [The Undercover Generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
 * [2024-02-01, 08:11:57](https://news.ycombinator.com/item?id=39213772) - [Check Out These Self-Soldering Sleeves from World War II](https://hackaday.com/2024/01/31/check-out-these-amazing-self-soldering-sleeves-from-world-war-ii/)
