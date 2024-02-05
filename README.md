@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
 * [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
-* [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
+* [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is (probably) coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
 * [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-05, 11:07:26](https://news.ycombinator.com/item?id=39259835) - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)
 * [2024-02-05, 10:00:19](https://news.ycombinator.com/item?id=39259316) - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
@@ -27,7 +28,6 @@
 * [2024-02-02, 19:22:59](https://news.ycombinator.com/item?id=39232976) - [Pkl, a Programming Language for Configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 16:58:24](https://news.ycombinator.com/item?id=39231052) - [I also hacked my car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-02-01, 09:00:59](https://news.ycombinator.com/item?id=39214005) - [History of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html)
-* [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [2024-01-30, 07:42:23](https://news.ycombinator.com/item?id=39187370) - [Improving my Emacs experience with completion](https://martinfowler.com/articles/2024-emacs-completion.html)
 * [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
 

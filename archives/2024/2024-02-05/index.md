@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
 * [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
 * [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
