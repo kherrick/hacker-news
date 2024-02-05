@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [Caesars abruptly cancels contract with DEF CON](https://forum.defcon.org/node/248360)
+* [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
 * [2024-02-05, 01:55:05](https://news.ycombinator.com/item?id=39256430) - [The IRS has all our tax data. Why doesn't its new website use it?](https://www.washingtonpost.com/business/2024/02/04/direct-file-irs-taxes/)
 * [2024-02-05, 01:41:48](https://news.ycombinator.com/item?id=39256364) - [Apple Ramped Up Autonomous Vehicle Testing Last Year, Filings Show](https://www.wired.com/story/apple-ramped-up-autonomous-vehicle-testing-last-year/)
 * [2024-02-05, 01:03:58](https://news.ycombinator.com/item?id=39256176) - [How to Quit Your Smartphone](https://www.nytimes.com/2024/02/01/technology/iphone-mental-health-flip-phone.html)
@@ -27,7 +28,6 @@
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a tiny Raspberry Pi based cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-03, 10:44:36](https://news.ycombinator.com/item?id=39239152) - [A new solution for the \"reverse sprinkler\" problem](https://arstechnica.com/science/2024/02/mathematicians-finally-solved-feynmans-reverse-sprinkler-problem/)
 * [2024-02-02, 16:58:24](https://news.ycombinator.com/item?id=39231052) - [I also hacked my car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
-* [2024-01-30, 09:34:38](https://news.ycombinator.com/item?id=39188073) - [Seniors spend the equivalent of 3 weeks a year on health care, study says](https://www.washingtonpost.com/wellness/2024/01/29/time-spent-doctors-health-seniors/)
 * [2024-01-30, 09:28:58](https://news.ycombinator.com/item?id=39188029) - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/)
 * [2024-01-29, 09:22:30](https://news.ycombinator.com/item?id=39174373) - [Tindallgrams – Memos by Bill Tindall](https://www.nasa.gov/history/alsj/alsj-Tindallgrams.html)
 
