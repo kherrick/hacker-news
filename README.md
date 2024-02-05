@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)
 * [2024-02-05, 20:43:08](https://news.ycombinator.com/item?id=39266874) - [Meta cuts off third-party access to Facebook Groups](https://techcrunch.com/2024/02/05/meta-cuts-off-third-party-access-to-facebook-groups-leaving-developers-and-customers-in-disarray/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
@@ -21,6 +20,7 @@
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-05, 13:24:14](https://news.ycombinator.com/item?id=39260968) - [Solving durable execution's immutability problem](https://restate.dev/blog/solving-durable-executions-immutability-problem/)
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
+* [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUID v7](https://commitfest.postgresql.org/47/4388/)
 * [2024-02-05, 10:00:19](https://news.ycombinator.com/item?id=39259316) - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
 * [2024-02-05, 09:46:09](https://news.ycombinator.com/item?id=39259224) - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
 * [2024-02-05, 09:23:53](https://news.ycombinator.com/item?id=39259068) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
