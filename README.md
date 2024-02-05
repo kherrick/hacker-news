@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-05, 08:18:43](https://news.ycombinator.com/item?id=39258560) - [Yandex (Russian Google) sells all of its Russian businesses](https://ir.yandex/press-releases?year=2024)
 * [2024-02-05, 07:50:08](https://news.ycombinator.com/item?id=39258404) - [Top workers more likely to want to quit when companies have strict RTO mandates](https://www.businessinsider.com/strict-return-to-office-mandates-could-drive-away-top-workers-2024-2)
-* [2024-02-05, 06:17:21](https://news.ycombinator.com/item?id=39257942) - [Vanguard economic and market outlook 2024: Global summary](https://www.nl.vanguard/professional/insights/macro-economics/vanguard-economic-and-market-outlook-2024-global-summary)
 * [2024-02-05, 04:58:00](https://news.ycombinator.com/item?id=39257529) - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 * [2024-02-05, 03:22:07](https://news.ycombinator.com/item?id=39256930) - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
 * [2024-02-05, 02:41:41](https://news.ycombinator.com/item?id=39256687) - [Apple iPod Shuffle USB interface pinout](https://pinoutguide.com/PortableDevices/ipod_shuffle_pinout.shtml)
