@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
+* [2024-02-06, 13:49:38](https://news.ycombinator.com/item?id=39274125) - [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
 * [2024-02-06, 13:28:27](https://news.ycombinator.com/item?id=39273954) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2024-02-06, 13:25:34](https://news.ycombinator.com/item?id=39273932) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2024-02-06, 12:51:27](https://news.ycombinator.com/item?id=39273647) - [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)

@@ -90,6 +90,7 @@
 * [2024-02-04, 07:32:22](https://news.ycombinator.com/item?id=39248364) - [Tom Dowdy](https://www.engineersneedart.com/blog/dowdy/dowdy.html)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
+* [2024-02-04, 06:47:12](https://news.ycombinator.com/item?id=39248184) - [The Speed Project Atacama: The rebel race across a desert](https://www.bbc.co.uk/sport/athletics/67956582)
 * [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How Not to Bomb Your Offer Negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [2024-02-04, 05:40:09](https://news.ycombinator.com/item?id=39247897) - [Is the $139 Amazon Prime Subscription Still Worth It?](https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7)
 * [2024-02-04, 05:02:05](https://news.ycombinator.com/item?id=39247759) - [Response to protein ingestion during recovery from exercise has no upper limit](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00540-2)
