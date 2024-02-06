@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-06, 04:09:58](https://news.ycombinator.com/item?id=39270681) - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
+* [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 * [2024-02-06, 01:44:01](https://news.ycombinator.com/item?id=39269742) - [The tragedy of mathematics in Russia (2013)](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 * [2024-02-06, 00:59:39](https://news.ycombinator.com/item?id=39269418) - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
@@ -23,7 +24,6 @@
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:22:17](https://news.ycombinator.com/item?id=39261482) - [More misdrilled holes on 737 MAX in latest setback](https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
-* [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23M](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
 * [2024-02-04, 07:48:18](https://news.ycombinator.com/item?id=39248437) - [The Optical Mouse [pdf] (1981)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/VLSI-81-1_The_Optical_Mouse.pdf)
