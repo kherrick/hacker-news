@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 08:16:02](https://news.ycombinator.com/item?id=39272103) - [OpenAI's Whisper is another case study in Colonisation](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)
+* [2024-02-06, 07:23:47](https://news.ycombinator.com/item?id=39271749) - [Get notified when GitHub IPv6 support is Live](https://isgithubipv6.live/)
 * [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [Destruction of nuclear bombs using ultra-high energy neutrino beam (2003) [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 * [2024-02-06, 06:05:30](https://news.ycombinator.com/item?id=39271297) - [CERN aims to build €20B collider](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
 * [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
@@ -7,7 +9,6 @@
 * [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 * [2024-02-06, 00:59:39](https://news.ycombinator.com/item?id=39269418) - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
-* [2024-02-05, 23:19:30](https://news.ycombinator.com/item?id=39268572) - [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
 * [2024-02-05, 23:14:51](https://news.ycombinator.com/item?id=39268530) - [The little SSH that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 * [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux and Ultrix (2022)](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
@@ -19,7 +20,6 @@
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 16:06:50](https://news.ycombinator.com/item?id=39262650) - [Weaveworks is shutting down](https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
-* [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23M](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
