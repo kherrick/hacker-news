@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-06, 00:59:39",
+      "https://news.ycombinator.com/item?id=39269418"
+    ],
+    [
+      "Panda CSS: build time and type-safe CSS-in-JS",
+      "https://panda-css.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 00:48:37",
       "https://news.ycombinator.com/item?id=39269327"
     ],
@@ -277,16 +287,6 @@
     [
       "Visual overview of a custom malloc() implementation",
       "https://silent-tower.net/projects/visual-overview-malloc"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 12:29:44",
-      "https://news.ycombinator.com/item?id=39239721"
-    ],
-    [
-      "Goal: Embeddable array programming language with a bytecode interpreter in Go",
-      "https://anaseto.codeberg.page/goal/chap-intro.html"
     ]
   ],
   [
