@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 13:28:27](https://news.ycombinator.com/item?id=39273954) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
+* [2024-02-06, 13:25:34](https://news.ycombinator.com/item?id=39273932) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2024-02-06, 12:51:27](https://news.ycombinator.com/item?id=39273647) - [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)
 * [2024-02-06, 12:13:12](https://news.ycombinator.com/item?id=39273406) - [A famous climate scientist is in court, with big stakes for attacks on science](https://www.npr.org/2024/02/06/1228720142/michael-mann-climate-scientist-in-court-suing-for-defamation)
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
@@ -11,6 +13,7 @@
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
 * [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
+* [2024-02-06, 10:51:21](https://news.ycombinator.com/item?id=39272950) - [Pete Buttigieg Viral Tesla Truck Driver with Apple Vision Pro](https://twitter.com/SecretaryPete/status/1754559027688685941)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 10:34:22](https://news.ycombinator.com/item?id=39272847) - [Elon Code Review](https://eloncodereview.com)
 * [2024-02-06, 09:24:00](https://news.ycombinator.com/item?id=39272461) - [EU right to repair: Sellers liable for 1 year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
