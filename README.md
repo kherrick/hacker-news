@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 22:46:27](https://news.ycombinator.com/item?id=39281914) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 * [2024-02-06, 21:01:02](https://news.ycombinator.com/item?id=39280537) - [Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
@@ -26,6 +25,7 @@
 * [2024-02-05, 20:30:33](https://news.ycombinator.com/item?id=39266701) - [The Potent Pollution of Noise](https://www.noemamag.com/the-potent-pollution-of-noise/)
 * [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
+* [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
 * [2024-02-04, 09:45:33](https://news.ycombinator.com/item?id=39248892) - [What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
 * [2024-02-04, 07:20:03](https://news.ycombinator.com/item?id=39248326) - [The ancient Germanic history of Groundhog Day](https://www.bbc.com/future/article/20240131-how-the-pennsylvania-dutch-created-groundhog-day)
 * [2024-02-03, 17:00:20](https://news.ycombinator.com/item?id=39242213) - [Thou shalt follow these vintage computing commandments](http://oldvcr.blogspot.com/2024/02/thou-shalt-follow-these-vintage.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
 * [2024-02-04, 23:08:34](https://news.ycombinator.com/item?id=39255486) - [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
 * [2024-02-04, 21:50:53](https://news.ycombinator.com/item?id=39254871) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
 * [2024-02-04, 21:50:47](https://news.ycombinator.com/item?id=39254869) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
