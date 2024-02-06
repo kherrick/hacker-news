@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making Steel Without Emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+* [2024-02-06, 22:48:37](https://news.ycombinator.com/item?id=39281939) - [The three million toothbrush botnet story isn't true](https://cyberplace.social/@GossiTheDog/111886558855943676)
 * [2024-02-06, 22:46:27](https://news.ycombinator.com/item?id=39281914) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)

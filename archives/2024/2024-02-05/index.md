@@ -55,6 +55,7 @@
 * [2024-02-05, 14:24:55](https://news.ycombinator.com/item?id=39261511) - [Cable Companies, Automakers Try to Derail FTC, FCC Quest to Kill Misleading Fees](https://www.techdirt.com/2024/02/05/cable-companies-automakers-try-to-derail-ftc-fcc-quest-to-kill-misleading-fees/)
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong open-source text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:22:17](https://news.ycombinator.com/item?id=39261482) - [Boeing Finds More Misdrilled Holes on 737 in Latest Setback](https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s)
+* [2024-02-05, 14:13:54](https://news.ycombinator.com/item?id=39261395) - [A Typinator Snippet for Plotting](https://leancrew.com/all-this/2024/01/a-typinator-snippet-for-plotting/)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-05, 14:01:21](https://news.ycombinator.com/item?id=39261268) - [What are senders good for, anyway?](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
