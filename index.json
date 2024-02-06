@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=39281178"
     ],
     [
-      "SQL for Data Scientists in 100 Queries",
+      "SQL for data scientists in 100 queries",
       "https://gvwilson.github.io/sql-tutorial/"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Spine AI (YC S23) Is Hiring a Lead ML Scientist",
       "https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 20:23:17",
+      "https://news.ycombinator.com/item?id=39280024"
+    ],
+    [
+      "PVC: A KVM/Zookeeper/Ceph-based hyperconverged infrastructure manager",
+      "https://github.com/parallelvirtualcluster/pvc"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39279163"
     ],
     [
-      "Demystifying GPU Compute Architectures – By Babbage",
+      "Demystifying GPU compute architectures",
       "https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Instruction-Based Image Editing via LLM",
       "https://github.com/apple/ml-mgie"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 15:25:33",
-      "https://news.ycombinator.com/item?id=39275203"
-    ],
-    [
-      "Bluesky and the AT Protocol: Usable decentralized social media",
-      "https://arxiv.org/abs/2402.03239"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-02-04, 09:46:40",
-      "https://news.ycombinator.com/item?id=39248900"
+      "2024-02-05, 12:54:15",
+      "https://news.ycombinator.com/item?id=39260738"
     ],
     [
-      "How Lego Became the Apple of Toys (2015)",
-      "https://www.fastcompany.com/3040223/when-it-clicks-it-clicks"
+      "How Condé Nast bought and destroyed Pitchfork",
+      "https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39242213"
     ],
     [
-      "Thou shalt follow these Vintage Computing Commandments",
+      "Thou shalt follow these vintage computing commandments",
       "http://oldvcr.blogspot.com/2024/02/thou-shalt-follow-these-vintage.html"
     ]
   ],
