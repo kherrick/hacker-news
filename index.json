@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-02-06, 01:10:41",
+      "https://news.ycombinator.com/item?id=39269497"
+    ],
+    [
+      "New viruslike entities found in human gut microbes",
+      "https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 00:48:37",
+      "https://news.ycombinator.com/item?id=39269327"
+    ],
+    [
+      "Companies embracing SMS for account logins should be blamed for SIM-swap attacks",
+      "https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 00:42:31",
       "https://news.ycombinator.com/item?id=39269284"
     ],
     [
       "I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me",
       "https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 23:25:58",
-      "https://news.ycombinator.com/item?id=39268623"
-    ],
-    [
-      "Towards Sustainable Workplace Mental Health: Early Intervention and Support",
-      "https://arxiv.org/abs/2402.01592"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-02-05, 14:22:17",
-      "https://news.ycombinator.com/item?id=39261482"
-    ],
-    [
-      "More misdrilled holes on 737 MAX in latest setback",
-      "https://www.bloomberg.com/news/articles/2024-02-05/boeing-needs-to-fix-faulty-rivet-holes-on-50-undelivered-737s"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 14:08:07",
       "https://news.ycombinator.com/item?id=39261333"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-02-04, 07:11:54",
+      "https://news.ycombinator.com/item?id=39248292"
+    ],
+    [
+      "Visual overview of a custom malloc() implementation",
+      "https://silent-tower.net/projects/visual-overview-malloc"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 12:29:44",
       "https://news.ycombinator.com/item?id=39239721"
     ],
     [
       "Goal: Embeddable array programming language with a bytecode interpreter in Go",
       "https://anaseto.codeberg.page/goal/chap-intro.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 10:21:52",
-      "https://news.ycombinator.com/item?id=39239044"
-    ],
-    [
-      "How to write a novel using the snowflake method (2013)",
-      "https://www.advancedfictionwriting.com/articles/snowflake-method/"
     ]
   ],
   [
