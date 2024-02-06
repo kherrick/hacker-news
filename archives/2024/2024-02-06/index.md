@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 15:27:06](https://news.ycombinator.com/item?id=39275231) - [Ask HN: Alternative to Mint.com?](https://news.ycombinator.com/item?id=39275231)
 * [2024-02-06, 15:13:09](https://news.ycombinator.com/item?id=39275030) - [The far right is scaring away Washington's private hacker army](https://www.politico.com/news/2024/02/06/far-right-washington-private-hackers-00139413)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
