@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
+* [2024-02-06, 14:23:46](https://news.ycombinator.com/item?id=39274461) - [The Dean of Engineering at UofNevada wrote a paper so bad, you can't believe it](https://statmodeling.stat.columbia.edu/2024/02/06/its-bezzle-time-the-dean-of-engineering-at-the-university-of-nevada-gets-paid-372127-a-year-and-wrote-a-paper-thats-so-bad-you-cant-believe-it-i-mean-really-you-have-to-take-a-look-at-t/)
+* [2024-02-06, 14:22:42](https://news.ycombinator.com/item?id=39274440) - [The Apple Vision Pro](https://stratechery.com/2024/the-apple-vision-pro/)
 * [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
 * [2024-02-06, 13:49:38](https://news.ycombinator.com/item?id=39274125) - [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
 * [2024-02-06, 13:34:55](https://news.ycombinator.com/item?id=39274004) - [Write a Letter to Your Future Self](https://www.futureme.org/)
