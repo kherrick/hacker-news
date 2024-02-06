@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 15:13:09](https://news.ycombinator.com/item?id=39275030) - [The far right is scaring away Washington's private hacker army](https://www.politico.com/news/2024/02/06/far-right-washington-private-hackers-00139413)
+* [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
 * [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky has publicly launched (no invite required)](https://bsky.social/about/blog/02-06-2024-join-bluesky)
 * [2024-02-06, 14:53:30](https://news.ycombinator.com/item?id=39274799) - [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
