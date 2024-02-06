@@ -8,6 +8,7 @@
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 * [2024-02-06, 21:01:02](https://news.ycombinator.com/item?id=39280537) - [Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-06, 20:48:59](https://news.ycombinator.com/item?id=39280367) - [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
+* [2024-02-06, 20:23:17](https://news.ycombinator.com/item?id=39280024) - [PVC: A KVM/Zookeeper/Ceph-based hyperconverged infrastructure manager](https://github.com/parallelvirtualcluster/pvc)
 * [2024-02-06, 20:04:48](https://news.ycombinator.com/item?id=39279777) - [Child Labour in Cocoa Production](https://en.wikipedia.org/wiki/Child_labour_in_cocoa_production)
 * [2024-02-06, 19:40:48](https://news.ycombinator.com/item?id=39279448) - [Nassim Taleb: U.S. is in a 'death spiral' over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
 * [2024-02-06, 19:40:14](https://news.ycombinator.com/item?id=39279441) - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)

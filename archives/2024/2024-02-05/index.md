@@ -61,6 +61,7 @@
 * [2024-02-05, 13:24:14](https://news.ycombinator.com/item?id=39260968) - [Solving durable execution's immutability problem](https://restate.dev/blog/solving-durable-executions-immutability-problem/)
 * [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
+* [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
 * [2024-02-05, 12:39:53](https://news.ycombinator.com/item?id=39260617) - [Hisense A9 Pro E-Ink Android Smartphone](https://hisenseeink.com/products/hisense-a9-pro-e-ink-smartphone-1)
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
