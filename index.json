@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 10:51:37",
+      "https://news.ycombinator.com/item?id=39272952"
+    ],
+    [
+      "We might want to regularly keep track of how important each server is",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 10:40:05",
       "https://news.ycombinator.com/item?id=39272884"
     ],
@@ -127,16 +137,6 @@
     [
       "Relativistic Spaceship",
       "https://dmytry.github.io/space/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 19:24:48",
-      "https://news.ycombinator.com/item?id=39265756"
-    ],
-    [
-      "Show HN: CLI for generating PDFs for offline reading",
-      "https://github.com/dvcoolarun/web2pdf"
     ]
   ],
   [
