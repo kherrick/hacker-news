@@ -84,6 +84,7 @@
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a Tiny Raspberry Pi Based Cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
 * [2024-02-04, 09:46:40](https://news.ycombinator.com/item?id=39248900) - [Lego Became the Apple of Toys (2015)](https://www.fastcompany.com/3040223/when-it-clicks-it-clicks)
+* [2024-02-04, 09:45:33](https://news.ycombinator.com/item?id=39248892) - [What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
 * [2024-02-04, 09:17:16](https://news.ycombinator.com/item?id=39248780) - [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)

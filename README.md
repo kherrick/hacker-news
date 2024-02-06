@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 19:40:48](https://news.ycombinator.com/item?id=39279448) - [Nassim Taleb: U.S. is in a 'death spiral' over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
 * [2024-02-06, 19:40:14](https://news.ycombinator.com/item?id=39279441) - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
 * [2024-02-06, 19:39:13](https://news.ycombinator.com/item?id=39279431) - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 * [2024-02-06, 19:39:08](https://news.ycombinator.com/item?id=39279428) - [Why I Live in IRC (2015)](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
@@ -27,6 +26,7 @@
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will satellite megaconstellations weaken earth's magnetic field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-04, 09:46:40](https://news.ycombinator.com/item?id=39248900) - [How Lego Became the Apple of Toys (2015)](https://www.fastcompany.com/3040223/when-it-clicks-it-clicks)
+* [2024-02-04, 09:45:33](https://news.ycombinator.com/item?id=39248892) - [What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
 * [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The mythos of leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
 * [2024-02-04, 07:20:03](https://news.ycombinator.com/item?id=39248326) - [The ancient Germanic history of Groundhog Day](https://www.bbc.com/future/article/20240131-how-the-pennsylvania-dutch-created-groundhog-day)
 * [2024-02-02, 22:12:35](https://news.ycombinator.com/item?id=39235153) - [Paintings reveal how the Dutch adapted to extreme weather in the little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
