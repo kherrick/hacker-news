@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 09:24:00](https://news.ycombinator.com/item?id=39272461) - [EU right to repair: Sellers liable for 1 year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 08:16:02](https://news.ycombinator.com/item?id=39272103) - [OpenAI's Whisper is another case study in Colonisation](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)
 * [2024-02-06, 07:23:47](https://news.ycombinator.com/item?id=39271749) - [Get notified when GitHub IPv6 support is Live](https://isgithubipv6.live/)

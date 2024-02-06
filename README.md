@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 09:24:00](https://news.ycombinator.com/item?id=39272461) - [EU right to repair: Sellers liable for 1 year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [Destruction of nuclear bombs using ultra-high energy neutrino beam (2003) [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 * [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
@@ -18,7 +19,6 @@
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 16:06:50](https://news.ycombinator.com/item?id=39262650) - [Weaveworks is shutting down](https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
-* [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [Mobile phones and wrong numbers: how Maasai form and use accidental social ties](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23M](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
