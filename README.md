@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 18:23:20](https://news.ycombinator.com/item?id=39278253) - [Divorce hits men harder financially than women: economists](https://www.msn.com/en-us/money/personalfinance/divorce-hits-men-harder-financially-than-women-say-economists/ar-BB1hSbij)
 * [2024-02-06, 18:07:32](https://news.ycombinator.com/item?id=39277990) - [Three million malware-infected smart toothbrushes used in Swiss DDoS attacks](https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages)
 * [2024-02-06, 17:52:31](https://news.ycombinator.com/item?id=39277767) - [\"Fake Chinese Income\" Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
 * [2024-02-06, 17:43:17](https://news.ycombinator.com/item?id=39277634) - [Spotify CEO Daniel Ek tells investors Apple's DMA rules are a 'farce'](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
@@ -24,7 +25,6 @@
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 05:30:16](https://news.ycombinator.com/item?id=39271107) - [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/)
 * [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
-* [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 09:46:40](https://news.ycombinator.com/item?id=39248900) - [Lego Became the Apple of Toys (2015)](https://www.fastcompany.com/3040223/when-it-clicks-it-clicks)
