@@ -11,6 +11,7 @@
 * [2024-02-02, 22:44:56](https://news.ycombinator.com/item?id=39235484) - [Daunting papers/books and how to read them](https://mathoverflow.net/questions/463287/daunting-papers-books-and-how-to-finally-read-them)
 * [2024-02-02, 22:39:10](https://news.ycombinator.com/item?id=39235428) - [Virtual Reality: still not quite there, again. – by Andrej Karpathy](https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867)
 * [2024-02-02, 22:30:50](https://news.ycombinator.com/item?id=39235336) - [Carl Weathers, Apollo Creed from Rocky movies, dies aged 76](https://www.bbc.co.uk/news/world-us-canada-68188746)
+* [2024-02-02, 22:12:35](https://news.ycombinator.com/item?id=39235153) - [Paintings Reveal How the Dutch Adapted to Extreme Weather in the Little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
 * [2024-02-02, 22:11:59](https://news.ycombinator.com/item?id=39235146) - [It's the Impunity, Stupid](https://niedermeyer.io/2024/02/02/its-the-impunity-stupid)
 * [2024-02-02, 22:00:15](https://news.ycombinator.com/item?id=39235036) - [Rice scientists pull off quantum coup](https://news.rice.edu/news/2024/rice-scientists-pull-quantum-coup)
 * [2024-02-02, 21:56:41](https://news.ycombinator.com/item?id=39235001) - [Why Isn't the <html> Element 100% Supported on CanIUse.com?](https://anderegg.ca/2024/02/02/why-isnt-the-html-element-100-supported)

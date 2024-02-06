@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+* [2024-02-06, 16:59:16](https://news.ycombinator.com/item?id=39276891) - ['Left high and dry': Confessions of a laid-off gaming industry worker](https://digiday.com/marketing/left-high-and-dry-confessions-of-a-laid-off-gaming-industry-worker/)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
@@ -24,12 +25,11 @@
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
-* [2024-02-05, 14:01:21](https://news.ycombinator.com/item?id=39261268) - [What are senders good for, anyway?](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [How Maasai agro-pastoralists form and use accidental social ties (2021)](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
-* [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+* [2024-02-02, 22:12:35](https://news.ycombinator.com/item?id=39235153) - [Paintings Reveal How the Dutch Adapted to Extreme Weather in the Little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
 
 ## [Archives](archives/index.md)
 
