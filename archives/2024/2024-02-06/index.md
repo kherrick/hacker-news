@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 18:46:25](https://news.ycombinator.com/item?id=39278631) - [The world is awful. The world is much better. The world can be much better](https://ourworldindata.org/much-better-awful-can-be-better)
 * [2024-02-06, 18:23:20](https://news.ycombinator.com/item?id=39278253) - [Divorce hits men harder financially than women: economists](https://www.msn.com/en-us/money/personalfinance/divorce-hits-men-harder-financially-than-women-say-economists/ar-BB1hSbij)
 * [2024-02-06, 18:07:32](https://news.ycombinator.com/item?id=39277990) - [Three million malware-infected smart toothbrushes used in Swiss DDoS attacks](https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages)
 * [2024-02-06, 17:52:31](https://news.ycombinator.com/item?id=39277767) - [\"Fake Chinese Income\" Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
