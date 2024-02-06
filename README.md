@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 15:29:09](https://news.ycombinator.com/item?id=39275272) - [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
 * [2024-02-06, 15:27:06](https://news.ycombinator.com/item?id=39275231) - [Ask HN: Alternative to Mint.com?](https://news.ycombinator.com/item?id=39275231)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
 * [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky signups are now open to the public](https://bsky.social/about/blog/02-06-2024-join-bluesky)
-* [2024-02-06, 14:53:30](https://news.ycombinator.com/item?id=39274799) - [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
 * [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What Happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
@@ -27,7 +27,7 @@
 * [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [How Maasai agro-pastoralists form and use accidental social ties (2021)](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 12:21:35](https://news.ycombinator.com/item?id=39249677) - [The House of Requirements](https://linkedrecords.com/the-house-of-requirements-1fc98061c91b?gi=4d2290392952)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
-* [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
+* [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
 * [2024-02-04, 06:47:12](https://news.ycombinator.com/item?id=39248184) - [The Speed Project Atacama: The rebel race across a desert](https://www.bbc.co.uk/sport/athletics/67956582)
 * [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 

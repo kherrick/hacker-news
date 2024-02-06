@@ -88,6 +88,7 @@
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
 * [2024-02-04, 07:48:18](https://news.ycombinator.com/item?id=39248437) - [The Optical Mouse [pdf] (1981)](http://bitsavers.trailing-edge.com/pdf/xerox/parc/techReports/VLSI-81-1_The_Optical_Mouse.pdf)
 * [2024-02-04, 07:32:22](https://news.ycombinator.com/item?id=39248364) - [Tom Dowdy](https://www.engineersneedart.com/blog/dowdy/dowdy.html)
+* [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 06:47:12](https://news.ycombinator.com/item?id=39248184) - [The Speed Project Atacama: The rebel race across a desert](https://www.bbc.co.uk/sport/athletics/67956582)
