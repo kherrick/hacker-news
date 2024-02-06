@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
-* [2024-02-06, 16:05:07](https://news.ycombinator.com/item?id=39275897) - [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
 * [2024-02-06, 15:30:48](https://news.ycombinator.com/item?id=39275314) - [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
 * [2024-02-06, 15:29:09](https://news.ycombinator.com/item?id=39275272) - [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
@@ -9,7 +9,6 @@
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
 * [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky signups are now open to the public](https://bsky.social/about/blog/02-06-2024-join-bluesky)
-* [2024-02-06, 14:59:12](https://news.ycombinator.com/item?id=39274857) - [Taylor Swift threatens legal action against student who tracks her jet](https://www.washingtonpost.com/technology/2024/02/06/taylor-swift-jet-tracking-legal-threat/)
 * [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What Happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
@@ -30,6 +29,7 @@
 * [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [How Maasai agro-pastoralists form and use accidental social ties (2021)](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
+* [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 
 ## [Archives](archives/index.md)
 
