@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 21:01:02](https://news.ycombinator.com/item?id=39280537) - [Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+* [2024-02-06, 20:48:59](https://news.ycombinator.com/item?id=39280367) - [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
 * [2024-02-06, 20:04:48](https://news.ycombinator.com/item?id=39279777) - [Child Labour in Cocoa Production](https://en.wikipedia.org/wiki/Child_labour_in_cocoa_production)
 * [2024-02-06, 19:40:48](https://news.ycombinator.com/item?id=39279448) - [Nassim Taleb: U.S. is in a 'death spiral' over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
 * [2024-02-06, 19:40:14](https://news.ycombinator.com/item?id=39279441) - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
@@ -58,6 +60,7 @@
 * [2024-02-06, 10:51:21](https://news.ycombinator.com/item?id=39272950) - [Pete Buttigieg Viral Tesla Truck Driver with Apple Vision Pro](https://twitter.com/SecretaryPete/status/1754559027688685941)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 10:34:22](https://news.ycombinator.com/item?id=39272847) - [Elon Code Review](https://eloncodereview.com)
+* [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-06, 09:24:00](https://news.ycombinator.com/item?id=39272461) - [EU right to repair: Sellers liable for 1 year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
