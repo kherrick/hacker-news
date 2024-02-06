@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
-* [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky has publicly launched (no invite required)](https://bsky.social/about/blog/02-06-2024-join-bluesky)
+* [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky has publicly launched](https://bsky.social/about/blog/02-06-2024-join-bluesky)
 * [2024-02-06, 14:53:30](https://news.ycombinator.com/item?id=39274799) - [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
 * [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:23:46](https://news.ycombinator.com/item?id=39274461) - [The Dean of Engineering at UofNevada wrote a paper so bad, you can't believe it](https://statmodeling.stat.columbia.edu/2024/02/06/its-bezzle-time-the-dean-of-engineering-at-the-university-of-nevada-gets-paid-372127-a-year-and-wrote-a-paper-thats-so-bad-you-cant-believe-it-i-mean-really-you-have-to-take-a-look-at-t/)
@@ -24,7 +24,7 @@
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
 * [2024-02-05, 14:01:21](https://news.ycombinator.com/item?id=39261268) - [What are senders good for, anyway?](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
-* [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [Mobile phones and wrong numbers: how Maasai form and use accidental social ties](https://www.ecologyandsociety.org/vol26/iss2/art41/)
+* [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [How Maasai agro-pastoralists form and use accidental social ties (2021)](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 12:21:35](https://news.ycombinator.com/item?id=39249677) - [The House of Requirements](https://linkedrecords.com/the-house-of-requirements-1fc98061c91b?gi=4d2290392952)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
