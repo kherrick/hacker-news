@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 16:05:07](https://news.ycombinator.com/item?id=39275897) - [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
+* [2024-02-06, 15:30:48](https://news.ycombinator.com/item?id=39275314) - [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
 * [2024-02-06, 15:29:09](https://news.ycombinator.com/item?id=39275272) - [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
 * [2024-02-06, 15:25:33](https://news.ycombinator.com/item?id=39275203) - [Bluesky and the at Protocol](https://arxiv.org/abs/2402.03239)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
@@ -18,7 +20,6 @@
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
-* [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
 * [2024-02-06, 05:30:16](https://news.ycombinator.com/item?id=39271107) - [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/)
 * [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
@@ -29,7 +30,6 @@
 * [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [How Maasai agro-pastoralists form and use accidental social ties (2021)](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
-* [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 
 ## [Archives](archives/index.md)
 
