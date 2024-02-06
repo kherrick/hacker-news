@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
+* [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky has publicly launched (no invite required)](https://bsky.social/about/blog/02-06-2024-join-bluesky)
+* [2024-02-06, 14:53:30](https://news.ycombinator.com/item?id=39274799) - [Hal Finney was the designer of Bitcoin](https://yro.slashdot.org/comments.pl?sid=23217056&cid=64218342)
 * [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:23:46](https://news.ycombinator.com/item?id=39274461) - [The Dean of Engineering at UofNevada wrote a paper so bad, you can't believe it](https://statmodeling.stat.columbia.edu/2024/02/06/its-bezzle-time-the-dean-of-engineering-at-the-university-of-nevada-gets-paid-372127-a-year-and-wrote-a-paper-thats-so-bad-you-cant-believe-it-i-mean-really-you-have-to-take-a-look-at-t/)
+* [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What Happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 14:22:42](https://news.ycombinator.com/item?id=39274440) - [The Apple Vision Pro](https://stratechery.com/2024/the-apple-vision-pro/)
 * [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
 * [2024-02-06, 13:49:38](https://news.ycombinator.com/item?id=39274125) - [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)

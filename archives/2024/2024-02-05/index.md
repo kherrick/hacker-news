@@ -56,6 +56,7 @@
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969, by Emilk](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
 * [2024-02-05, 14:01:21](https://news.ycombinator.com/item?id=39261268) - [What are senders good for, anyway?](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
+* [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-05, 13:24:14](https://news.ycombinator.com/item?id=39260968) - [Solving durable execution's immutability problem](https://restate.dev/blog/solving-durable-executions-immutability-problem/)
 * [2024-02-05, 13:21:49](https://news.ycombinator.com/item?id=39260956) - [Google's Once Happy Offices Feel the Chill of Layoffs](https://www.nytimes.com/2024/02/05/technology/google-layoffs-work-culture.html)
 * [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
