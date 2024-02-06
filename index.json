@@ -1,22 +1,52 @@
 [
   [
     [
-      "2024-02-05, 23:06:22",
-      "https://news.ycombinator.com/item?id=39268460"
+      "2024-02-06, 00:42:31",
+      "https://news.ycombinator.com/item?id=39269284"
     ],
     [
-      "My business card runs Linux (and Ultrix), yours can too",
-      "https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard"
+      "I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me",
+      "https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me"
     ]
   ],
   [
     [
-      "2024-02-05, 22:58:18",
-      "https://news.ycombinator.com/item?id=39268387"
+      "2024-02-05, 23:25:58",
+      "https://news.ycombinator.com/item?id=39268623"
     ],
     [
-      "The world has warmed 1.5 °C, according to 300-year-old sponges",
-      "https://www.nature.com/articles/d41586-024-00281-8"
+      "Towards Sustainable Workplace Mental Health: Early Intervention and Support",
+      "https://arxiv.org/abs/2402.01592"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 23:19:30",
+      "https://news.ycombinator.com/item?id=39268572"
+    ],
+    [
+      "Organ playing 639-year-long piece changes chord",
+      "https://www.bbc.com/news/world-europe-68209691"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 23:14:51",
+      "https://news.ycombinator.com/item?id=39268530"
+    ],
+    [
+      "The little SSH that sometimes couldn't (2012)",
+      "https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 23:06:22",
+      "https://news.ycombinator.com/item?id=39268460"
+    ],
+    [
+      "My business card runs Linux and Ultrix (2022)",
+      "https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard"
     ]
   ],
   [
@@ -35,8 +65,18 @@
       "https://news.ycombinator.com/item?id=39268106"
     ],
     [
-      "We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official",
+      "We've already seen category 6 hurricanes – scientists want to make it official",
       "https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 22:16:36",
+      "https://news.ycombinator.com/item?id=39268011"
+    ],
+    [
+      "New E. coli strain will accelerate evolution of the genes of your choice",
+      "https://arstechnica.com/science/2024/02/new-e-coli-strain-will-accelerate-evolution-of-the-genes-of-your-choice/"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39267447"
     ],
     [
-      "On Avoiding Register Spills in Vectorized Code with Many Constants",
+      "Avoiding register spills in vectorized code with many constants",
       "https://johnnysswlab.com/on-avoiding-register-spills-in-vectorized-code-with-many-constants/"
     ]
   ],
@@ -107,16 +147,6 @@
     [
       "Reducing BigQuery Costs",
       "https://blog.peerdb.io/reducing-bigquery-costs-by-260x"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 18:04:06",
-      "https://news.ycombinator.com/item?id=39264396"
-    ],
-    [
-      "Out-of-bounds read and write in the glibc's qsort()",
-      "https://www.openwall.com/lists/oss-security/2024/01/30/7"
     ]
   ],
   [
@@ -221,42 +251,12 @@
   ],
   [
     [
-      "2024-02-05, 10:00:19",
-      "https://news.ycombinator.com/item?id=39259316"
+      "2024-02-04, 11:19:26",
+      "https://news.ycombinator.com/item?id=39249378"
     ],
     [
-      "How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)",
-      "https://castel.dev/post/lecture-notes-1/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 09:46:09",
-      "https://news.ycombinator.com/item?id=39259224"
-    ],
-    [
-      "Gin, Television, and Social Surplus (2008)",
-      "https://gist.github.com/jm3/6724931"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 09:23:53",
-      "https://news.ycombinator.com/item?id=39259068"
-    ],
-    [
-      "Deno in 2023",
-      "https://deno.com/blog/deno-in-2023"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 13:27:10",
-      "https://news.ycombinator.com/item?id=39250025"
-    ],
-    [
-      "Liquid logistics: The fine art of wine transport",
-      "https://www.dhl.com/global-en/delivered/globalization/the-art-of-wine-transportation.html"
+      "\"Bookfind of the century\" sells for $2.23 million",
+      "https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=39249282"
     ],
     [
-      "Hash Collisions and Exploitations",
+      "Hash collisions and exploitations (2019)",
       "https://github.com/corkami/collisions"
     ]
   ],
