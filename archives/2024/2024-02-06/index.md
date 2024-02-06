@@ -14,6 +14,7 @@
 * [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2024-02-06, 16:59:16](https://news.ycombinator.com/item?id=39276891) - ['Left high and dry': Confessions of a laid-off gaming industry worker](https://digiday.com/marketing/left-high-and-dry-confessions-of-a-laid-off-gaming-industry-worker/)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
+* [2024-02-06, 16:45:16](https://news.ycombinator.com/item?id=39276623) - [DeepSeekMath 7B achieved 51.7% on MATH benchmark](https://github.com/deepseek-ai/DeepSeek-Math)
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 16:05:07](https://news.ycombinator.com/item?id=39275897) - [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
