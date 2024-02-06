@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making Steel Without Emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
+* [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 * [2024-02-06, 22:48:37](https://news.ycombinator.com/item?id=39281939) - [The three million toothbrush botnet story isn't true](https://cyberplace.social/@GossiTheDog/111886558855943676)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
@@ -22,7 +22,7 @@
 * [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-05, 22:04:33](https://news.ycombinator.com/item?id=39267883) - [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space)
 * [2024-02-05, 20:30:33](https://news.ycombinator.com/item?id=39266701) - [The Potent Pollution of Noise](https://www.noemamag.com/the-potent-pollution-of-noise/)
-* [2024-02-05, 14:13:54](https://news.ycombinator.com/item?id=39261395) - [A Typinator Snippet for Plotting](https://leancrew.com/all-this/2024/01/a-typinator-snippet-for-plotting/)
+* [2024-02-05, 14:13:54](https://news.ycombinator.com/item?id=39261395) - [A Typinator snippet for plotting](https://leancrew.com/all-this/2024/01/a-typinator-snippet-for-plotting/)
 * [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
 * [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
