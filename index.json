@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-02-06, 20:23:17",
-      "https://news.ycombinator.com/item?id=39280024"
-    ],
-    [
-      "PVC: A KVM/Zookeeper/Ceph-based hyperconverged infrastructure manager",
-      "https://github.com/parallelvirtualcluster/pvc"
-    ]
-  ],
-  [
-    [
       "2024-02-06, 19:39:13",
       "https://news.ycombinator.com/item?id=39279431"
     ],
@@ -87,6 +77,16 @@
     [
       "Three million malware-infected smart toothbrushes used in Swiss DDoS attacks",
       "https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 17:52:31",
+      "https://news.ycombinator.com/item?id=39277767"
+    ],
+    [
+      "\"Fake Chinese income\" mortgages fuel Toronto real estate bubble: HSBC bank leaks",
+      "https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2024-02-06, 13:49:38",
-      "https://news.ycombinator.com/item?id=39274125"
-    ],
-    [
-      "NetBox: a source of truth for everything on your network",
-      "https://netbox.dev/"
-    ]
-  ],
-  [
-    [
       "2024-02-06, 13:34:55",
       "https://news.ycombinator.com/item?id=39274004"
     ],
     [
       "Write a Letter to Your Future Self",
       "https://www.futureme.org/"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 13:25:34",
+      "https://news.ycombinator.com/item?id=39273932"
+    ],
+    [
+      "Command line interface guidelines (2021)",
+      "https://clig.dev/"
     ]
   ],
   [
