@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 * [2024-02-06, 21:01:02](https://news.ycombinator.com/item?id=39280537) - [Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-06, 20:48:59](https://news.ycombinator.com/item?id=39280367) - [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
 * [2024-02-06, 19:39:13](https://news.ycombinator.com/item?id=39279431) - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
@@ -25,7 +26,6 @@
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will satellite megaconstellations weaken earth's magnetic field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-05, 20:30:33](https://news.ycombinator.com/item?id=39266701) - [The Potent Pollution of Noise](https://www.noemamag.com/the-potent-pollution-of-noise/)
-* [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-04, 09:46:40](https://news.ycombinator.com/item?id=39248900) - [How Lego Became the Apple of Toys (2015)](https://www.fastcompany.com/3040223/when-it-clicks-it-clicks)
 * [2024-02-04, 09:45:33](https://news.ycombinator.com/item?id=39248892) - [What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
 * [2024-02-04, 07:20:03](https://news.ycombinator.com/item?id=39248326) - [The ancient Germanic history of Groundhog Day](https://www.bbc.com/future/article/20240131-how-the-pennsylvania-dutch-created-groundhog-day)
