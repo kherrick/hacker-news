@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 07:23:47](https://news.ycombinator.com/item?id=39271749) - [Get notified when GitHub IPv6 support is Live](https://isgithubipv6.live/)
+* [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [Destruction of nuclear bombs using ultra-high energy neutrino beam (2003) [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
-* [2024-02-06, 06:05:30](https://news.ycombinator.com/item?id=39271297) - [CERN aims to build €20B collider](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
 * [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 * [2024-02-06, 04:09:58](https://news.ycombinator.com/item?id=39270681) - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 * [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
@@ -21,6 +20,7 @@
 * [2024-02-05, 15:00:02](https://news.ycombinator.com/item?id=39261861) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll](https://scrollprize.org/grandprize)
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
+* [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [Mobile phones and wrong numbers: how Maasai form and use accidental social ties](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23M](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)

@@ -55,6 +55,7 @@
 * [2024-02-04, 15:24:55](https://news.ycombinator.com/item?id=39250897) - [Humans are living longer than ever no matter where they come from](https://arstechnica.com/science/2024/02/humans-are-living-longer-than-ever-no-matter-where-they-come-from/)
 * [2024-02-04, 15:24:52](https://news.ycombinator.com/item?id=39250896) - [Rolling Airframe Missile](https://www.navalgazing.net/RAM)
 * [2024-02-04, 14:53:26](https://news.ycombinator.com/item?id=39250609) - [Gentoo x86-64-v3 binary packages available](https://www.gentoo.org/news/2024/02/04/x86-64-v3.html)
+* [2024-02-04, 14:45:43](https://news.ycombinator.com/item?id=39250552) - [Mobile phones and wrong numbers: how Maasai form and use accidental social ties](https://www.ecologyandsociety.org/vol26/iss2/art41/)
 * [2024-02-04, 14:28:38](https://news.ycombinator.com/item?id=39250434) - [Plastic bans work. Billions of plastic bags were avoided in the US alone](https://www.zmescience.com/science/news-science/plastic-bans-work-billions-of-plastic-bags-were-avoided-in-the-us-alone/)
 * [2024-02-04, 14:24:38](https://news.ycombinator.com/item?id=39250406) - [Write code for the web - Apple doesn't care about you, Mr. Developer](https://mrmr.io/apple/)
 * [2024-02-04, 14:18:49](https://news.ycombinator.com/item?id=39250362) - [IPTV Anti-Piracy Threats May Increase Male Motivation to Pirate by 30%](https://torrentfreak.com/iptv-anti-piracy-threats-may-increase-male-motivation-to-pirate-by-30-240202/)
