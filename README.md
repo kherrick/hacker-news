@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 01:17:28](https://news.ycombinator.com/item?id=39269559) - [I Got Scammed](https://pluralistic.net/2024/02/05/cyber-dunning-kruger/#swiss-cheese-security)
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 * [2024-02-06, 00:59:39](https://news.ycombinator.com/item?id=39269418) - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
 * [2024-02-06, 00:48:37](https://news.ycombinator.com/item?id=39269327) - [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
@@ -10,7 +11,6 @@
 * [2024-02-05, 22:32:53](https://news.ycombinator.com/item?id=39268160) - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 22:16:36](https://news.ycombinator.com/item?id=39268011) - [New E. coli strain will accelerate evolution of the genes of your choice](https://arstechnica.com/science/2024/02/new-e-coli-strain-will-accelerate-evolution-of-the-genes-of-your-choice/)
-* [2024-02-05, 21:27:44](https://news.ycombinator.com/item?id=39267447) - [Avoiding register spills in vectorized code with many constants](https://johnnysswlab.com/on-avoiding-register-spills-in-vectorized-code-with-many-constants/)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 20:06:18](https://news.ycombinator.com/item?id=39266381) - [Gates' Law: How progress compounds and why it matters (2018)](https://fs.blog/gates-law/)
