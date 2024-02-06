@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 17:43:17](https://news.ycombinator.com/item?id=39277634) - [Spotify CEO Daniel Ek tells investors Apple's DMA rules are a 'farce'](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
+* [2024-02-06, 17:36:07](https://news.ycombinator.com/item?id=39277525) - [China spied on Dutch Cyber Intelligence through FortiGate backdoors](https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland)
+* [2024-02-06, 17:22:57](https://news.ycombinator.com/item?id=39277299) - [Cannabis use linked to anxiety diagnoses, worsened anxiety disorders](https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/)
 * [2024-02-06, 17:13:18](https://news.ycombinator.com/item?id=39277115) - [Canada Must End Reliance on Cheap Foreign Labor, Minister Says](https://www.bnnbloomberg.ca/canada-must-end-reliance-on-cheap-foreign-labor-minister-says-1.2031458)
 * [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2024-02-06, 16:59:16](https://news.ycombinator.com/item?id=39276891) - ['Left high and dry': Confessions of a laid-off gaming industry worker](https://digiday.com/marketing/left-high-and-dry-confessions-of-a-laid-off-gaming-industry-worker/)
@@ -9,9 +12,7 @@
 * [2024-02-06, 15:29:09](https://news.ycombinator.com/item?id=39275272) - [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
 * [2024-02-06, 15:25:33](https://news.ycombinator.com/item?id=39275203) - [Bluesky and the at Protocol](https://arxiv.org/abs/2402.03239)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
-* [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
 * [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky signups are now open to the public](https://bsky.social/about/blog/02-06-2024-join-bluesky)
-* [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What Happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 13:50:03](https://news.ycombinator.com/item?id=39274128) - [Prisoners in the US are part of a hidden workforce linked to popular food brands](https://english.elpais.com/usa/2024-01-29/prisoners-in-the-us-are-part-of-a-hidden-workforce-linked-to-hundreds-of-popular-food-brands.html)
 * [2024-02-06, 13:49:38](https://news.ycombinator.com/item?id=39274125) - [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
@@ -28,7 +29,6 @@
 * [2024-02-05, 13:58:32](https://news.ycombinator.com/item?id=39261241) - [Lady Tasting Brine](https://slimemoldtimemold.com/2024/02/03/lady-tasting-brine/)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 07:21:57](https://news.ycombinator.com/item?id=39248331) - [The Mythos of Leadership](https://aeon.co/essays/who-are-the-leaders-in-our-heads-and-how-did-they-get-there)
-* [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [2024-02-02, 22:12:35](https://news.ycombinator.com/item?id=39235153) - [Paintings Reveal How the Dutch Adapted to Extreme Weather in the Little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
 
 ## [Archives](archives/index.md)
