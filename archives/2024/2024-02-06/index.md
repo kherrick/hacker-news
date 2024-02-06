@@ -45,6 +45,7 @@
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:02:39](https://news.ycombinator.com/item?id=39273338) - [Google and Mozilla don't like Apple's new iOS browser rules](https://arstechnica.com/gadgets/2024/02/google-and-mozilla-dont-like-apples-new-ios-browser-rules/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+* [2024-02-06, 11:57:26](https://news.ycombinator.com/item?id=39273308) - [Business advice plagued by survivor bias (2009)](https://longform.asmartbear.com/survivor-bias/)
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
 * [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
