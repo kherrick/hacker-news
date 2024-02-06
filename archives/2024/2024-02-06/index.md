@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 17:13:18](https://news.ycombinator.com/item?id=39277115) - [Canada Must End Reliance on Cheap Foreign Labor, Minister Says](https://www.bnnbloomberg.ca/canada-must-end-reliance-on-cheap-foreign-labor-minister-says-1.2031458)
 * [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2024-02-06, 16:59:16](https://news.ycombinator.com/item?id=39276891) - ['Left high and dry': Confessions of a laid-off gaming industry worker](https://digiday.com/marketing/left-high-and-dry-confessions-of-a-laid-off-gaming-industry-worker/)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
