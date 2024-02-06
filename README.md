@@ -9,7 +9,7 @@
 * [2024-02-06, 02:14:46](https://news.ycombinator.com/item?id=39269949) - [Mozilla's Abandoned Web Engine 'Servo' Project Is Getting a Well-Deserved Reboot](https://news.itsfoss.com/servo-rust-web-engine/)
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 * [2024-02-05, 23:14:51](https://news.ycombinator.com/item?id=39268530) - [The little SSH that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
-* [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
+* [2024-02-05, 22:37:48](https://news.ycombinator.com/item?id=39268201) - [Somewhere along the way we forgot about software craftsmanship](https://www.pcloadletter.dev/blog/craftsmanship/)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)

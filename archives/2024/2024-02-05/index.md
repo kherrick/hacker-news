@@ -10,6 +10,7 @@
 * [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
+* [2024-02-05, 22:37:48](https://news.ycombinator.com/item?id=39268201) - [Somewhere along the way we forgot about software craftsmanship](https://www.pcloadletter.dev/blog/craftsmanship/)
 * [2024-02-05, 22:32:53](https://news.ycombinator.com/item?id=39268160) - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
