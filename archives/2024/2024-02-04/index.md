@@ -76,6 +76,7 @@
 * [2024-02-04, 11:24:02](https://news.ycombinator.com/item?id=39249406) - [First-Gen Social Media Users Have Nowhere to Go](https://www.wired.com/story/first-gen-social-media-users-have-nowhere-to-go/)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23 million](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash Collisions and Exploitations](https://github.com/corkami/collisions)
+* [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
 * [2024-02-04, 10:15:12](https://news.ycombinator.com/item?id=39249005) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 10:05:24](https://news.ycombinator.com/item?id=39248963) - [Make a Tiny Raspberry Pi Based Cyberdeck](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/)
 * [2024-02-04, 09:57:04](https://news.ycombinator.com/item?id=39248931) - [You are what you love](https://gspanos.tech/posts/facts-1/)
