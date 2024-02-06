@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 02:50:43](https://news.ycombinator.com/item?id=39270190) - [Yazidi woman held by IS for 10 years freed by Kurdish fighters in Syria](https://www.theguardian.com/world/2024/feb/05/yazidi-woman-held-by-is-for-10-years-freed-by-kurdish-fighters-in-syria)
 * [2024-02-06, 02:19:12](https://news.ycombinator.com/item?id=39269978) - [Threads now reaches more than 130M monthly users, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
 * [2024-02-06, 01:43:56](https://news.ycombinator.com/item?id=39269741) - [Zero-knowledge security model: an introduction](https://haybatov.com/blog/zksm-intro/)
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
@@ -29,6 +28,7 @@
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23 million](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
+* [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How Not to Bomb Your Offer Negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 * [2024-02-03, 05:50:36](https://news.ycombinator.com/item?id=39237874) - [MAME Debugging](https://mattgreer.dev/blog/mame-debugging/)
 
 ## [Archives](archives/index.md)
