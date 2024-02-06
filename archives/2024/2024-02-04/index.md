@@ -81,6 +81,7 @@
 * [2024-02-04, 09:17:16](https://news.ycombinator.com/item?id=39248780) - [Ask HN: What are you reading Feb 2024](https://news.ycombinator.com/item?id=39248780)
 * [2024-02-04, 08:43:42](https://news.ycombinator.com/item?id=39248649) - [Finance worker pays out $25M after VC with deepfake CFO](https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html)
 * [2024-02-04, 08:36:43](https://news.ycombinator.com/item?id=39248631) - [How to Replace Your CPAP in Only 666 Days](https://aphyr.com/posts/368-how-to-replace-your-cpap-in-only-666-days)
+* [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-04, 06:57:24](https://news.ycombinator.com/item?id=39248225) - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 * [2024-02-04, 05:40:09](https://news.ycombinator.com/item?id=39247897) - [Is the $139 Amazon Prime Subscription Still Worth It?](https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7)
 * [2024-02-04, 05:02:05](https://news.ycombinator.com/item?id=39247759) - [Response to protein ingestion during recovery from exercise has no upper limit](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00540-2)
