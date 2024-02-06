@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
+* [2024-02-06, 00:59:39](https://news.ycombinator.com/item?id=39269418) - [Panda CSS: build time and type-safe CSS-in-JS](https://panda-css.com/)
 * [2024-02-06, 00:48:37](https://news.ycombinator.com/item?id=39269327) - [Companies embracing SMS for account logins should be blamed for SIM-swap attacks](https://keydiscussions.com/2024/02/05/sim-swap-attacks-can-be-blamed-on-companies-embracing-sms-based-password-resets/)
 * [2024-02-06, 00:42:31](https://news.ycombinator.com/item?id=39269284) - [I worked 80 hour weeks to deliver a platform for a hedge fund,then they fired me](https://www.efinancialcareers.com/news/i-worked-80-hour-weeks-to-deliver-a-platform-for-a-hedge-fund-then-they-fired-me)
 * [2024-02-05, 23:19:30](https://news.ycombinator.com/item?id=39268572) - [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
@@ -28,7 +29,6 @@
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23 million](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
-* [2024-02-03, 12:29:44](https://news.ycombinator.com/item?id=39239721) - [Goal: Embeddable array programming language with a bytecode interpreter in Go](https://anaseto.codeberg.page/goal/chap-intro.html)
 * [2024-02-03, 05:50:36](https://news.ycombinator.com/item?id=39237874) - [MAME Debugging](https://mattgreer.dev/blog/mame-debugging/)
 
 ## [Archives](archives/index.md)
