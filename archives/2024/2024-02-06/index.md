@@ -7,6 +7,7 @@
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
+* [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 10:34:22](https://news.ycombinator.com/item?id=39272847) - [Elon Code Review](https://eloncodereview.com)

@@ -2,6 +2,7 @@
 
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
+* [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
@@ -12,7 +13,6 @@
 * [2024-02-06, 01:10:41](https://news.ycombinator.com/item?id=39269497) - [New viruslike entities found in human gut microbes](https://www.science.org/content/article/it-s-insane-new-viruslike-entities-found-human-gut-microbes)
 * [2024-02-05, 23:14:51](https://news.ycombinator.com/item?id=39268530) - [The little SSH that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
-* [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 18:09:58](https://news.ycombinator.com/item?id=39264487) - [Reducing BigQuery Costs](https://blog.peerdb.io/reducing-bigquery-costs-by-260x)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
