@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
@@ -13,7 +14,6 @@
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've already seen category 6 hurricanes – scientists want to make it official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 20:41:39](https://news.ycombinator.com/item?id=39266859) - [Want to build a sequencer? 454.bio opens up their plans](http://omicsomics.blogspot.com/2024/02/want-to-build-sequencer-454bio-opens-up.html)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
-* [2024-02-05, 19:24:48](https://news.ycombinator.com/item?id=39265756) - [Show HN: CLI for generating PDFs for offline reading](https://github.com/dvcoolarun/web2pdf)
 * [2024-02-05, 18:09:58](https://news.ycombinator.com/item?id=39264487) - [Reducing BigQuery Costs](https://blog.peerdb.io/reducing-bigquery-costs-by-260x)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
 * [2024-02-05, 16:06:50](https://news.ycombinator.com/item?id=39262650) - [Weaveworks is shutting down](https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67)
