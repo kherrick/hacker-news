@@ -24,11 +24,11 @@
 * [2024-02-05, 14:22:36](https://news.ycombinator.com/item?id=39261486) - [Show HN: Natural-SQL-7B, a strong text-to-SQL model](https://github.com/cfahlgren1/natural-sql)
 * [2024-02-05, 14:08:07](https://news.ycombinator.com/item?id=39261333) - [Analysis of Bach's information-dense music](https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/)
 * [2024-02-05, 14:06:50](https://news.ycombinator.com/item?id=39261321) - [Programming in 1969](https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html)
-* [2024-02-05, 12:56:27](https://news.ycombinator.com/item?id=39260760) - [Show HN: Visit the front page of Hacker News on a random day](https://randomhackernews.com/)
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23 million](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:02:49](https://news.ycombinator.com/item?id=39249282) - [Hash collisions and exploitations (2019)](https://github.com/corkami/collisions)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How Not to Bomb Your Offer Negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+* [2024-02-03, 12:29:44](https://news.ycombinator.com/item?id=39239721) - [Goal: Embeddable array programming language with a bytecode interpreter in Go](https://anaseto.codeberg.page/goal/chap-intro.html)
 * [2024-02-03, 05:50:36](https://news.ycombinator.com/item?id=39237874) - [MAME Debugging](https://mattgreer.dev/blog/mame-debugging/)
 
 ## [Archives](archives/index.md)
