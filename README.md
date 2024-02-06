@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
@@ -16,7 +17,6 @@
 * [2024-02-06, 13:34:55](https://news.ycombinator.com/item?id=39274004) - [Write a Letter to Your Future Self](https://www.futureme.org/)
 * [2024-02-06, 13:28:27](https://news.ycombinator.com/item?id=39273954) - [PostgreSQL is enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2024-02-06, 13:25:34](https://news.ycombinator.com/item?id=39273932) - [Command Line Interface Guidelines](https://clig.dev/)
-* [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 05:30:16](https://news.ycombinator.com/item?id=39271107) - [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/)
