@@ -26,10 +26,10 @@
 * [2024-02-04, 11:19:26](https://news.ycombinator.com/item?id=39249378) - [\"Bookfind of the century\" sells for $2.23M](https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/)
 * [2024-02-04, 11:15:07](https://news.ycombinator.com/item?id=39249350) - [The Sotheby's trial revealed the art market's unsavoury practices](https://www.economist.com/culture/2024/01/31/the-sothebys-trial-revealed-the-art-markets-unsavoury-practices)
 * [2024-02-04, 11:02:45](https://news.ycombinator.com/item?id=39249281) - [Concurrent Processes and Their Syntax (1979) [pdf]](https://dl.acm.org/doi/pdf/10.1145/322123.322134)
+* [2024-02-04, 07:32:22](https://news.ycombinator.com/item?id=39248364) - [Tom Dowdy (2022)](https://www.engineersneedart.com/blog/dowdy/dowdy.html)
 * [2024-02-04, 07:11:54](https://news.ycombinator.com/item?id=39248292) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-04, 06:47:12](https://news.ycombinator.com/item?id=39248184) - [The Speed Project Atacama: The rebel race across a desert](https://www.bbc.co.uk/sport/athletics/67956582)
 * [2024-02-04, 06:33:22](https://news.ycombinator.com/item?id=39248110) - [How not to bomb your offer negotiation (2016)](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
-* [2024-02-03, 19:31:36](https://news.ycombinator.com/item?id=39243885) - [Dance mat-style game helps stop older people falling](https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/)
 
 ## [Archives](archives/index.md)
 
