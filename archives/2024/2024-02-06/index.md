@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [A method to unilaterally disable all nuclear bombs on Earth [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 * [2024-02-06, 06:05:30](https://news.ycombinator.com/item?id=39271297) - [CERN aims to build €20B collider to unlock secrets of universe](https://www.theguardian.com/science/2024/feb/05/cern-atom-smasher-unlock-secrets-universe-large-hadron-collider)
 * [2024-02-06, 05:53:58](https://news.ycombinator.com/item?id=39271243) - [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)
+* [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 * [2024-02-06, 04:09:58](https://news.ycombinator.com/item?id=39270681) - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 * [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 * [2024-02-06, 02:50:43](https://news.ycombinator.com/item?id=39270190) - [Yazidi woman held by IS for 10 years freed by Kurdish fighters in Syria](https://www.theguardian.com/world/2024/feb/05/yazidi-woman-held-by-is-for-10-years-freed-by-kurdish-fighters-in-syria)
