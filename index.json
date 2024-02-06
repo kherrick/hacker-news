@@ -1,32 +1,32 @@
 [
   [
     [
-      "2024-02-06, 10:34:22",
-      "https://news.ycombinator.com/item?id=39272847"
-    ],
-    [
-      "Elon Code Review",
-      "https://eloncodereview.com"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 09:24:00",
-      "https://news.ycombinator.com/item?id=39272461"
-    ],
-    [
-      "EU right to repair: Sellers liable for 1 year after products are fixed",
-      "https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/"
-    ]
-  ],
-  [
-    [
       "2024-02-06, 08:50:00",
       "https://news.ycombinator.com/item?id=39272301"
     ],
     [
       "Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought",
       "https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 08:45:48",
+      "https://news.ycombinator.com/item?id=39272278"
+    ],
+    [
+      "A Teen's Fatal Plunge into the London Underworld",
+      "https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 06:42:55",
+      "https://news.ycombinator.com/item?id=39271472"
+    ],
+    [
+      "Destruction of nuclear bombs using ultra-high energy neutrino beam (2003) [pdf]",
+      "https://arxiv.org/pdf/hep-ph/0305062.pdf"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2024-02-05, 22:37:48",
-      "https://news.ycombinator.com/item?id=39268201"
+      "2024-02-05, 23:06:22",
+      "https://news.ycombinator.com/item?id=39268460"
     ],
     [
-      "Somewhere along the way we forgot about software craftsmanship",
-      "https://www.pcloadletter.dev/blog/craftsmanship/"
+      "My business card runs Linux and Ultrix (2022)",
+      "https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard"
     ]
   ],
   [
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2024-02-05, 14:08:07",
-      "https://news.ycombinator.com/item?id=39261333"
+      "2024-02-05, 14:22:36",
+      "https://news.ycombinator.com/item?id=39261486"
     ],
     [
-      "Analysis of Bach's information-dense music",
-      "https://www.newscientist.com/article/2415469-mathematicians-have-finally-proved-that-bach-was-a-great-composer/"
+      "Show HN: Natural-SQL-7B, a strong text-to-SQL model",
+      "https://github.com/cfahlgren1/natural-sql"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "\"Bookfind of the century\" sells for $2.23M",
       "https://newatlas.com/collectibles/bookfind-of-the-century-sells-for-2-23-million/"
+    ]
+  ],
+  [
+    [
+      "2024-02-04, 11:15:07",
+      "https://news.ycombinator.com/item?id=39249350"
+    ],
+    [
+      "The Sotheby's trial revealed the art market's unsavoury practices",
+      "https://www.economist.com/culture/2024/01/31/the-sothebys-trial-revealed-the-art-markets-unsavoury-practices"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Dance mat-style game helps stop older people falling",
       "https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 05:50:36",
-      "https://news.ycombinator.com/item?id=39237874"
-    ],
-    [
-      "MAME Debugging",
-      "https://mattgreer.dev/blog/mame-debugging/"
     ]
   ]
 ]
