@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 19:40:48](https://news.ycombinator.com/item?id=39279448) - [Nassim Taleb: U.S. is in a 'death spiral' over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
 * [2024-02-06, 19:40:14](https://news.ycombinator.com/item?id=39279441) - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
 * [2024-02-06, 19:39:13](https://news.ycombinator.com/item?id=39279431) - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 * [2024-02-06, 19:39:08](https://news.ycombinator.com/item?id=39279428) - [Why I Live in IRC (2015)](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
@@ -8,7 +9,6 @@
 * [2024-02-06, 18:07:32](https://news.ycombinator.com/item?id=39277990) - [Three million malware-infected smart toothbrushes used in Swiss DDoS attacks](https://www.tomshardware.com/networking/three-million-malware-infected-smart-toothbrushes-used-in-swiss-ddos-attacks-botnet-causes-millions-of-euros-in-damages)
 * [2024-02-06, 17:52:31](https://news.ycombinator.com/item?id=39277767) - [\"Fake Chinese income\" mortgages fuel Toronto real estate bubble: HSBC bank leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
 * [2024-02-06, 17:31:24](https://news.ycombinator.com/item?id=39277451) - [BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
-* [2024-02-06, 17:22:57](https://news.ycombinator.com/item?id=39277299) - [Cannabis use linked to anxiety diagnoses, worsened anxiety disorders](https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/)
 * [2024-02-06, 17:01:01](https://news.ycombinator.com/item?id=39276916) - [PlayHT (YC W23) Is Hiring a Founding LLM Engineer and Researcher](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [Runs on your OpenWrt box: AdGuard Home is network-wide blocking ads and tracking](https://github.com/AdguardTeam/AdGuardHome)
 * [2024-02-06, 16:45:16](https://news.ycombinator.com/item?id=39276623) - [DeepSeekMath 7B achieved 51.7% on MATH benchmark](https://github.com/deepseek-ai/DeepSeek-Math)

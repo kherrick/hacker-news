@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 19:40:48](https://news.ycombinator.com/item?id=39279448) - [Nassim Taleb: U.S. is in a 'death spiral' over government debt](https://finance.yahoo.com/news/black-swan-author-nassim-taleb-112918333.html)
 * [2024-02-06, 19:40:14](https://news.ycombinator.com/item?id=39279441) - [Mozilla's new service removes your personal info from data brokers](https://techcrunch.com/2024/02/06/mozilla-monitors-new-service-removes-your-personal-info-from-data-broker-sites-automatically/)
 * [2024-02-06, 19:39:13](https://news.ycombinator.com/item?id=39279431) - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 * [2024-02-06, 19:39:08](https://news.ycombinator.com/item?id=39279428) - [Why I Live in IRC (2015)](https://aaronparecki.com/2015/08/29/8/why-i-live-in-irc)
