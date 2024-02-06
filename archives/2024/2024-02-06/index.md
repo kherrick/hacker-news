@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 12:51:27](https://news.ycombinator.com/item?id=39273647) - [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
