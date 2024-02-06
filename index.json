@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-06, 13:28:27",
+      "https://news.ycombinator.com/item?id=39273954"
+    ],
+    [
+      "PostgreSQL Is Enough",
+      "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 13:25:34",
+      "https://news.ycombinator.com/item?id=39273932"
+    ],
+    [
+      "Command Line Interface Guidelines",
+      "https://clig.dev/"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 12:13:12",
       "https://news.ycombinator.com/item?id=39273406"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2024-02-06, 10:51:21",
+      "https://news.ycombinator.com/item?id=39272950"
+    ],
+    [
+      "Pete Buttigieg Viral Tesla Truck Driver with Apple Vision Pro",
+      "https://twitter.com/SecretaryPete/status/1754559027688685941"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 10:40:05",
       "https://news.ycombinator.com/item?id=39272884"
     ],
@@ -87,16 +117,6 @@
     [
       "JVM Performance Comparison for JDK 21",
       "https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 04:09:58",
-      "https://news.ycombinator.com/item?id=39270681"
-    ],
-    [
-      "Vision 1993",
-      "https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-02-05, 16:06:50",
-      "https://news.ycombinator.com/item?id=39262650"
-    ],
-    [
-      "Weaveworks is shutting down",
-      "https://www.linkedin.com/posts/richardsonalexis_hi-everyone-i-am-very-sad-to-announce-activity-7160295096825860096-ZS67"
-    ]
-  ],
-  [
-    [
       "2024-02-05, 15:00:02",
       "https://news.ycombinator.com/item?id=39261861"
     ],
     [
       "Vesuvius Challenge 2023 Grand Prize awarded: we can read the first scroll",
       "https://scrollprize.org/grandprize"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 14:22:36",
-      "https://news.ycombinator.com/item?id=39261486"
-    ],
-    [
-      "Show HN: Natural-SQL-7B, a strong text-to-SQL model",
-      "https://github.com/cfahlgren1/natural-sql"
     ]
   ],
   [
