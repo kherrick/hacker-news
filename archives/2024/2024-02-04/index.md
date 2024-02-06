@@ -72,6 +72,7 @@
 * [2024-02-04, 12:27:57](https://news.ycombinator.com/item?id=39249719) - [Duncan Campbell](https://www.duncancampbell.org/content/biography)
 * [2024-02-04, 12:23:25](https://news.ycombinator.com/item?id=39249692) - [Highland hermit makes surprise film festival visit (2022)](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60632608)
 * [2024-02-04, 12:23:05](https://news.ycombinator.com/item?id=39249690) - [Tiger moth jams bat sonar](https://www.science.org/doi/10.1126/science.1174096)
+* [2024-02-04, 12:21:35](https://news.ycombinator.com/item?id=39249677) - [The House of Requirements](https://linkedrecords.com/the-house-of-requirements-1fc98061c91b?gi=4d2290392952)
 * [2024-02-04, 12:21:10](https://news.ycombinator.com/item?id=39249676) - [Association of long-term exposure to air pollution w retinal neurodegeneration](https://www.sciencedirect.com/science/article/abs/pii/S0013935123011684)
 * [2024-02-04, 11:28:31](https://news.ycombinator.com/item?id=39249430) - [#include <rules>](https://zeux.io/2010/11/15/include-rules/)
 * [2024-02-04, 11:24:02](https://news.ycombinator.com/item?id=39249406) - [First-Gen Social Media Users Have Nowhere to Go](https://www.wired.com/story/first-gen-social-media-users-have-nowhere-to-go/)
