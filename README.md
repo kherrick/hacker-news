@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-06, 15:13:09](https://news.ycombinator.com/item?id=39275030) - [The far right is scaring away Washington's private hacker army](https://www.politico.com/news/2024/02/06/far-right-washington-private-hackers-00139413)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT, Comparing Large Language Models Against Lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 15:02:38](https://news.ycombinator.com/item?id=39274895) - [Review: Framework's Laptop 16 is unique, laudable and flawed](https://arstechnica.com/gadgets/2024/01/review-frameworks-laptop-16-is-unique-laudable-fascinating-and-flawed/)
 * [2024-02-06, 15:01:28](https://news.ycombinator.com/item?id=39274882) - [Bluesky signups are now open to the public](https://bsky.social/about/blog/02-06-2024-join-bluesky)
@@ -18,6 +17,7 @@
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
 * [2024-02-06, 05:30:16](https://news.ycombinator.com/item?id=39271107) - [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/)
+* [2024-02-06, 02:14:46](https://news.ycombinator.com/item?id=39269949) - [Mozilla's abandoned web engine 'Servo' project is getting a reboot](https://news.itsfoss.com/servo-rust-web-engine/)
 * [2024-02-05, 23:04:17](https://news.ycombinator.com/item?id=39268439) - [Show HN: Name That Nation](https://www.namethatnation.com/)
 * [2024-02-05, 20:07:47](https://news.ycombinator.com/item?id=39266396) - [Relativistic Spaceship](https://dmytry.github.io/space/)
 * [2024-02-05, 17:30:50](https://news.ycombinator.com/item?id=39263854) - [Show HN: Atopile – Design circuit boards with code](https://news.ycombinator.com/item?id=39263854)
