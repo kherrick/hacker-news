@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 23:25:58](https://news.ycombinator.com/item?id=39268623) - [Towards Sustainable Workplace Mental Health: Early Intervention and Support](https://arxiv.org/abs/2402.01592)
+* [2024-02-05, 23:19:30](https://news.ycombinator.com/item?id=39268572) - [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
+* [2024-02-05, 23:14:51](https://news.ycombinator.com/item?id=39268530) - [The little SSH that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 * [2024-02-05, 23:06:22](https://news.ycombinator.com/item?id=39268460) - [My business card runs Linux (and Ultrix), yours can too](https://dmitry.gr/?r=05.Projects&proj=33.+LinuxCard)
 * [2024-02-05, 22:58:18](https://news.ycombinator.com/item?id=39268387) - [The world has warmed 1.5 °C, according to 300-year-old sponges](https://www.nature.com/articles/d41586-024-00281-8)
 * [2024-02-05, 22:32:53](https://news.ycombinator.com/item?id=39268160) - [FAA Aviation Maps](https://www.beautifulpublicdata.com/faa-aviation-maps/)
 * [2024-02-05, 22:27:08](https://news.ycombinator.com/item?id=39268106) - [We've Already Seen Category 6 Hurricanes–Now Scientists Want to Make It Official](https://eos.org/articles/weve-already-seen-category-6-hurricanes-now-scientists-want-to-make-it-official)
 * [2024-02-05, 22:17:29](https://news.ycombinator.com/item?id=39268016) - [Seattle Ordinance Backfires on Delivery Workers](https://www.king5.com/article/news/local/seattle-ordinance-intended-app-delivery-workers-hurting-them/281-9516c79c-3161-41f3-a662-798b9db16d3f)
+* [2024-02-05, 22:16:36](https://news.ycombinator.com/item?id=39268011) - [New E. coli strain will accelerate evolution of the genes of your choice](https://arstechnica.com/science/2024/02/new-e-coli-strain-will-accelerate-evolution-of-the-genes-of-your-choice/)
 * [2024-02-05, 21:28:51](https://news.ycombinator.com/item?id=39267471) - [I bought the Apple Vision Pro, even when the technology is amazing I returned it](https://twitter.com/neilpatel/status/1754327092538577220)
 * [2024-02-05, 21:27:44](https://news.ycombinator.com/item?id=39267447) - [On Avoiding Register Spills in Vectorized Code with Many Constants](https://johnnysswlab.com/on-avoiding-register-spills-in-vectorized-code-with-many-constants/)
 * [2024-02-05, 21:08:29](https://news.ycombinator.com/item?id=39267200) - [Chris Wanstrath \"defunkt\" GitHub cofounder and former CEO is banned on GitHub](https://twitter.com/defunkt/status/1754610843361362360)
