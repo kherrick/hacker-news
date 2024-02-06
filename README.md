@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
 * [2024-02-06, 21:01:02](https://news.ycombinator.com/item?id=39280537) - [Spine AI (YC S23) Is Hiring a Lead ML Scientist](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-06, 20:48:59](https://news.ycombinator.com/item?id=39280367) - [High coffee consumption, brain volume and risk of dementia and stroke](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858)
@@ -16,7 +17,6 @@
 * [2024-02-06, 15:30:48](https://news.ycombinator.com/item?id=39275314) - [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
 * [2024-02-06, 15:25:33](https://news.ycombinator.com/item?id=39275203) - [Bluesky and the AT Protocol: Usable decentralized social media](https://arxiv.org/abs/2402.03239)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT: Comparing large language models against lawyers [pdf]](https://arxiv.org/abs/2401.16212)
-* [2024-02-06, 14:37:19](https://news.ycombinator.com/item?id=39274631) - [Mozilla Monitor Plus: automatically remove your personal info from data brokers](https://blog.mozilla.org/en/mozilla/introducing-mozilla-monitor-plus-a-new-tool-to-automatically-remove-your-personal-information-from-data-broker-sites/)
 * [2024-02-06, 14:28:15](https://news.ycombinator.com/item?id=39274521) - [Show HN: Pika – Simple blogging software](https://pika.page)
 * [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 13:49:38](https://news.ycombinator.com/item?id=39274125) - [NetBox: a source of truth for everything on your network](https://netbox.dev/)
