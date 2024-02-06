@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:40:05](https://news.ycombinator.com/item?id=39272884) - [Will Satellite Megaconstellations Weaken Earth's Magnetic Field?](https://spaceweatherarchive.com/2024/02/01/will-satellite-megaconstellations-weaken-earths-magnetic-field/)
 * [2024-02-06, 08:50:00](https://news.ycombinator.com/item?id=39272301) - [Six Spongy Sea Creatures Suggest Warming Might Be Worse Than Thought](https://www.nytimes.com/2024/02/05/climate/global-warming-sponges.html)
 * [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
-* [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [Destruction of nuclear bombs using ultra-high energy neutrino beam (2003) [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 * [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
 * [2024-02-06, 04:09:58](https://news.ycombinator.com/item?id=39270681) - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 * [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
