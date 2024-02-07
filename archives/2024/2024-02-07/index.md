@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+* [2024-02-07, 21:11:05](https://news.ycombinator.com/item?id=39294372) - [Microsoft's Adaptive Cards](https://adaptivecards.io/)
+* [2024-02-07, 21:08:59](https://news.ycombinator.com/item?id=39294345) - [Rebecca Solnit: How to Comment on Social Media](https://lithub.com/rebecca-solnit-how-to-comment-on-social-media/)
 * [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-02-07, 20:07:40](https://news.ycombinator.com/item?id=39293589) - [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
+* [2024-02-07, 19:59:29](https://news.ycombinator.com/item?id=39293470) - [Hyper-Reality (2016) [video]](https://vimeo.com/166807261)
 * [2024-02-07, 19:56:43](https://news.ycombinator.com/item?id=39293441) - [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
 * [2024-02-07, 19:51:24](https://news.ycombinator.com/item?id=39293366) - [After Libs of TikTok posted, at least 21 bomb threats followed](https://www.nbcnews.com/tech/internet/libs-tiktok-x-chaya-raichik-bomb-threat-twitter-of-libsoftiktok-rcna102784)
 * [2024-02-07, 19:48:03](https://news.ycombinator.com/item?id=39293318) - [Ask HN: How about no more \"I got scammed\" submissions?](https://news.ycombinator.com/item?id=39293318)
@@ -15,6 +20,7 @@
 * [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
 * [2024-02-07, 19:19:02](https://news.ycombinator.com/item?id=39292941) - [A record number of Americans can't afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
 * [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit Accuses Anna's Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
+* [2024-02-07, 18:59:10](https://news.ycombinator.com/item?id=39292690) - [Neanderthals, modern humans may have co-existed in Europe for at least 10k years](https://theconversation.com/how-long-did-neanderthals-and-modern-humans-co-exist-in-europe-evidence-is-growing-it-may-have-been-at-least-10-000-years-222762)
 * [2024-02-07, 18:55:53](https://news.ycombinator.com/item?id=39292638) - [Unison File Synchronizer](https://github.com/bcpierce00/unison)
 * [2024-02-07, 18:51:54](https://news.ycombinator.com/item?id=39292584) - [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
 * [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
