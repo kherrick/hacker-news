@@ -23,7 +23,7 @@
 * [2024-02-06, 04:41:32](https://news.ycombinator.com/item?id=39270875) - [Two's complement integers with only sign bit set should be a trap representation](https://social.belkadan.com/@jrose/statuses/01HNRNHBQY4E5MC37KG14R50P7)
 * [2024-02-05, 22:45:25](https://news.ycombinator.com/item?id=39268264) - [William Dampier, Revered and Reviled (2022)](https://www.sciencehistory.org/stories/magazine/william-dampier-revered-and-reviled/)
 * [2024-02-05, 22:04:33](https://news.ycombinator.com/item?id=39267883) - [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space)
-* [2024-02-05, 20:30:33](https://news.ycombinator.com/item?id=39266701) - [The Potent Pollution of Noise](https://www.noemamag.com/the-potent-pollution-of-noise/)
+* [2024-02-05, 15:43:59](https://news.ycombinator.com/item?id=39262314) - [Show HN: CPU Prices on eBay](https://www.cpuscout.com/)
 * [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
