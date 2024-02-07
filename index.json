@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-02-06, 15:30:48",
-      "https://news.ycombinator.com/item?id=39275314"
-    ],
-    [
-      "Instruction-Based Image Editing via LLM",
-      "https://github.com/apple/ml-mgie"
-    ]
-  ],
-  [
-    [
       "2024-02-06, 15:25:33",
       "https://news.ycombinator.com/item?id=39275203"
     ],
@@ -187,6 +177,16 @@
     [
       "What happened with the Web Monetization API?",
       "https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 13:49:38",
+      "https://news.ycombinator.com/item?id=39274125"
+    ],
+    [
+      "NetBox: a source of truth for everything on your network",
+      "https://netbox.dev/"
     ]
   ],
   [
