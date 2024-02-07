@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 22:36:47](https://news.ycombinator.com/item?id=39295267) - [Ask HN: Best \"entry tech\" jobs to learn coding?](https://news.ycombinator.com/item?id=39295267)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
 * [2024-02-07, 21:17:49](https://news.ycombinator.com/item?id=39294433) - [Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
 * [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A conspiracy to kill IE6 (2019)](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
@@ -19,7 +20,6 @@
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-* [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary fusion breakthroughs face hard reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
 * [2024-02-06, 22:59:09](https://news.ycombinator.com/item?id=39282054) - [The disaggregated write-ahead log (2023)](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-06, 14:02:57](https://news.ycombinator.com/item?id=39274250) - [Prosthetic limbs need not look like real ones](https://www.economist.com/science-and-technology/2024/02/01/why-prosthetic-limbs-need-not-look-like-real-ones)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
