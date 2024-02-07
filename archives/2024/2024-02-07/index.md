@@ -9,6 +9,7 @@
 * [2024-02-07, 13:42:29](https://news.ycombinator.com/item?id=39288426) - [Bluesky gets rid of invite codes, lets everyone join](https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/)
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
+* [2024-02-07, 12:24:46](https://news.ycombinator.com/item?id=39287688) - [The EU proposes slashing pollution 90% by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
 * [2024-02-07, 12:14:48](https://news.ycombinator.com/item?id=39287616) - [Neal Stephenson's Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
 * [2024-02-07, 12:07:10](https://news.ycombinator.com/item?id=39287537) - [The LOW FERTILITY TRAP: An analysis of the great worldwide baby bust](https://postliberal.substack.com/p/the-low-fertility-trap)
