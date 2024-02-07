@@ -32,6 +32,7 @@
 * [2024-02-07, 09:03:56](https://news.ycombinator.com/item?id=39286206) - [Deutsche Bahn is looking for Win 3.11 admin](https://t3n.de/news/windows-3-11-bahn-sucht-administrator-1604711/)
 * [2024-02-07, 08:11:45](https://news.ycombinator.com/item?id=39285878) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+* [2024-02-07, 07:52:58](https://news.ycombinator.com/item?id=39285749) - [Lessons Learned from Payments Startups](https://www.pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 * [2024-02-07, 07:00:26](https://news.ycombinator.com/item?id=39285415) - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
 * [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary Fusion Breakthroughs Face Hard Reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
