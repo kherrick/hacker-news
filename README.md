@@ -2,6 +2,7 @@
 
 * [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2024-02-07, 21:11:05](https://news.ycombinator.com/item?id=39294372) - [Microsoft's Adaptive Cards](https://adaptivecards.io/)
+* [2024-02-07, 21:09:58](https://news.ycombinator.com/item?id=39294360) - [Microsoft's Fast](https://www.fast.design/)
 * [2024-02-07, 21:08:59](https://news.ycombinator.com/item?id=39294345) - [Rebecca Solnit: How to Comment on Social Media](https://lithub.com/rebecca-solnit-how-to-comment-on-social-media/)
 * [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-07, 20:07:40](https://news.ycombinator.com/item?id=39293589) - [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
@@ -13,7 +14,6 @@
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
 * [2024-02-07, 16:59:50](https://news.ycombinator.com/item?id=39290982) - [Unison Cloud](https://www.unison.cloud/)
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro teardown part 2: What’s the display resolution?](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
-* [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [Claim: the ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)

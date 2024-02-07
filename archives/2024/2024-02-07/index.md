@@ -6,6 +6,7 @@
 
 * [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 * [2024-02-07, 21:11:05](https://news.ycombinator.com/item?id=39294372) - [Microsoft's Adaptive Cards](https://adaptivecards.io/)
+* [2024-02-07, 21:09:58](https://news.ycombinator.com/item?id=39294360) - [Microsoft's Fast](https://www.fast.design/)
 * [2024-02-07, 21:08:59](https://news.ycombinator.com/item?id=39294345) - [Rebecca Solnit: How to Comment on Social Media](https://lithub.com/rebecca-solnit-how-to-comment-on-social-media/)
 * [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-07, 20:07:40](https://news.ycombinator.com/item?id=39293589) - [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
