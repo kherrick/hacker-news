@@ -85,6 +85,7 @@
 * [2024-02-06, 05:53:58](https://news.ycombinator.com/item?id=39271243) - [Browsers Are Weird](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 05:30:16](https://news.ycombinator.com/item?id=39271107) - [JVM Performance Comparison for JDK 21](https://ionutbalosin.com/2024/02/jvm-performance-comparison-for-jdk-21/)
 * [2024-02-06, 05:25:42](https://news.ycombinator.com/item?id=39271083) - [OKRs Are Bullshit](https://blog.appliedcomputing.io/p/okrs-are-bullshit)
+* [2024-02-06, 04:41:32](https://news.ycombinator.com/item?id=39270875) - [Two's complement integers with only sign bit set should be a trap representation](https://social.belkadan.com/@jrose/statuses/01HNRNHBQY4E5MC37KG14R50P7)
 * [2024-02-06, 04:09:58](https://news.ycombinator.com/item?id=39270681) - [Vision 1993](https://www.tbray.org/ongoing/When/202x/2024/02/02/Vision-1993)
 * [2024-02-06, 02:54:19](https://news.ycombinator.com/item?id=39270215) - [LineageOS is currently installed on 1.5M Android devices](https://9to5google.com/2023/11/20/lineageos-number-of-devices/)
 * [2024-02-06, 02:50:43](https://news.ycombinator.com/item?id=39270190) - [Yazidi woman held by IS for 10 years freed by Kurdish fighters in Syria](https://www.theguardian.com/world/2024/feb/05/yazidi-woman-held-by-is-for-10-years-freed-by-kurdish-fighters-in-syria)
