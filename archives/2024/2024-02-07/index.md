@@ -7,6 +7,7 @@
 * [2024-02-07, 17:22:13](https://news.ycombinator.com/item?id=39291269) - [Apple throws its hat into the AI-generated image ring](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
 * [2024-02-07, 17:01:16](https://news.ycombinator.com/item?id=39291004) - [SigNoz (YC W21) Is Hiring Technical Writer – Open-Source Observability(Remote)](https://signoz.io/careers/technical-content-writer-in/)
 * [2024-02-07, 16:54:30](https://news.ycombinator.com/item?id=39290900) - [Woman Got Cremation Ads in the Mail After Getting Chemotherapy](https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/)
+* [2024-02-07, 16:44:33](https://news.ycombinator.com/item?id=39290760) - [Common food preservative has unexpected effects on the gut microbiome](https://www.eurekalert.org/news-releases/1033327)
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro Teardown Part 2](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
 * [2024-02-07, 16:22:59](https://news.ycombinator.com/item?id=39290448) - [The web is mostly links and forms](https://gomakethings.com/the-web-is-mostly-links-and-forms/)
 * [2024-02-07, 15:56:44](https://news.ycombinator.com/item?id=39290072) - [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
