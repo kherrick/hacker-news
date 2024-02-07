@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
 * [2024-02-07, 22:36:47](https://news.ycombinator.com/item?id=39295267) - [Ask HN: Best \"entry tech\" jobs to learn coding?](https://news.ycombinator.com/item?id=39295267)
+* [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
 * [2024-02-07, 21:17:49](https://news.ycombinator.com/item?id=39294433) - [Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
 * [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
