@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-07, 14:32:36](https://news.ycombinator.com/item?id=39288999) - [Maine becomes fourth State to abolish civil asset forfeiture (2021)](https://news.ycombinator.com/item?id=39288999)
 * [2024-02-07, 14:27:35](https://news.ycombinator.com/item?id=39288940) - [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
 * [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 * [2024-02-07, 14:04:12](https://news.ycombinator.com/item?id=39288669) - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
@@ -20,6 +19,7 @@
 * [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary Fusion Breakthroughs Face Hard Reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:48:25](https://news.ycombinator.com/item?id=39283058) - [The Problem with Civil Asset Forfeiture (2016)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
+* [2024-02-06, 20:48:06](https://news.ycombinator.com/item?id=39280358) - [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and cons of direct uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
