@@ -65,6 +65,7 @@
 * [2024-02-06, 13:25:34](https://news.ycombinator.com/item?id=39273932) - [Command Line Interface Guidelines](https://clig.dev/)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 12:51:27](https://news.ycombinator.com/item?id=39273647) - [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)
+* [2024-02-06, 12:17:23](https://news.ycombinator.com/item?id=39273430) - [Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)
 * [2024-02-06, 12:13:12](https://news.ycombinator.com/item?id=39273406) - [A famous climate scientist is in court, with big stakes for attacks on science](https://www.npr.org/2024/02/06/1228720142/michael-mann-climate-scientist-in-court-suing-for-defamation)
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:02:39](https://news.ycombinator.com/item?id=39273338) - [Google and Mozilla don't like Apple's new iOS browser rules](https://arstechnica.com/gadgets/2024/02/google-and-mozilla-dont-like-apples-new-ios-browser-rules/)
