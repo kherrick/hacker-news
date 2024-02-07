@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+* [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 * [2024-02-07, 07:00:26](https://news.ycombinator.com/item?id=39285415) - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
 * [2024-02-07, 05:35:56](https://news.ycombinator.com/item?id=39284893) - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
 * [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)

@@ -69,6 +69,7 @@
 * [2024-02-05, 12:47:52](https://news.ycombinator.com/item?id=39260685) - [Exotic selfhosted solutions for personal usage](https://old.reddit.com/r/selfhosted/comments/187d7m2/tell_me_your_most_exotic_selfhosted_solution_the/)
 * [2024-02-05, 12:39:53](https://news.ycombinator.com/item?id=39260617) - [Hisense A9 Pro E-Ink Android Smartphone](https://hisenseeink.com/products/hisense-a9-pro-e-ink-smartphone-1)
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
+* [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 * [2024-02-05, 12:26:16](https://news.ycombinator.com/item?id=39260503) - [Awesome Indie Hackers](https://github.com/johackim/awesome-indiehackers)
 * [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
