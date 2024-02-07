@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-02-07, 17:22:13",
+      "https://news.ycombinator.com/item?id=39291269"
+    ],
+    [
+      "Apple releases MGIE, an AI-based image editing model",
+      "https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 17:01:16",
       "https://news.ycombinator.com/item?id=39291004"
     ],
@@ -287,16 +297,6 @@
     [
       "Transforming Postgres into a Fast OLAP Database",
       "https://blog.paradedb.com/pages/introducing_analytics"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 12:29:17",
-      "https://news.ycombinator.com/item?id=39260536"
-    ],
-    [
-      "Open source 3D atlas of human anatomy",
-      "https://conference.blender.org/2022/presentations/1365/"
     ]
   ]
 ]
