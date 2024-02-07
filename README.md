@@ -2,6 +2,7 @@
 
 * [2024-02-07, 19:31:25](https://news.ycombinator.com/item?id=39293101) - [Ask HN: Recommendation for Intermediate CSS Course?](https://news.ycombinator.com/item?id=39293101)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
+* [2024-02-07, 19:23:21](https://news.ycombinator.com/item?id=39292990) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
 * [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit accuses Anna's Archive of hacking WorldCat](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 * [2024-02-07, 18:51:54](https://news.ycombinator.com/item?id=39292584) - [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
@@ -16,7 +17,6 @@
 * [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [“Wherever you get your podcasts” is a radical statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:53:34](https://news.ycombinator.com/item?id=39286986) - [ElixirNitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
-* [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [Interview with Andreas Kling of Serenity OS (2022)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
 * [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should error messages apologize? (2013)](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
