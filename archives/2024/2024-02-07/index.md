@@ -7,6 +7,7 @@
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 09:27:22](https://news.ycombinator.com/item?id=39286390) - [Mozilla's new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
+* [2024-02-07, 09:11:36](https://news.ycombinator.com/item?id=39286269) - [Danish schools will no longer be allowed to use Chromebooks and Google platforms](https://theprivacydad.com/final-decision-on-chromebook-case-in-denmark/)
 * [2024-02-07, 09:04:27](https://news.ycombinator.com/item?id=39286209) - [Rocky Linux, Reflections on Three Years of Growth](https://rockylinux.org/news/happy-birthday-rocky/)
 * [2024-02-07, 09:03:56](https://news.ycombinator.com/item?id=39286206) - [Deutsche Bahn is looking for Win 3.11 admin](https://t3n.de/news/windows-3-11-bahn-sucht-administrator-1604711/)
 * [2024-02-07, 08:11:45](https://news.ycombinator.com/item?id=39285878) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
