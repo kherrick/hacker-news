@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 14:59:53](https://news.ycombinator.com/item?id=39289350) - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)
+* [2024-02-07, 14:52:24](https://news.ycombinator.com/item?id=39289246) - [SQLite Isn't Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
 * [2024-02-07, 14:32:36](https://news.ycombinator.com/item?id=39288999) - [Maine becomes fourth State to abolish civil asset forfeiture (2021)](https://news.ycombinator.com/item?id=39288999)
 * [2024-02-07, 14:27:35](https://news.ycombinator.com/item?id=39288940) - [States, including CA and NY, sign heat pump memorandum to reduce air pollution](https://www.theverge.com/2024/2/7/24063751/heat-pump-mou-nine-states-california-new-york)
 * [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
