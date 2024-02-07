@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-02-07, 08:11:45",
-      "https://news.ycombinator.com/item?id=39285878"
-    ],
-    [
-      "Apple to EU: \"Go fuck yourself\"",
-      "https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 07:53:44",
       "https://news.ycombinator.com/item?id=39285752"
     ],
     [
       "Implementing system-versioned tables in Postgres",
       "https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 07:27:58",
-      "https://news.ycombinator.com/item?id=39285611"
-    ],
-    [
-      "Should Error Messages Apologize?",
-      "https://ux.stackexchange.com/questions/31359/should-error-messages-apologize"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-02-06, 17:31:24",
+      "https://news.ycombinator.com/item?id=39277451"
+    ],
+    [
+      "BuildKit in depth: Docker's build engine explained",
+      "https://depot.dev/blog/buildkit-in-depth"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 15:25:33",
       "https://news.ycombinator.com/item?id=39275203"
     ],
@@ -227,6 +217,16 @@
     [
       "Explaining the SDXL Latent Space",
       "https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 20:30:33",
+      "https://news.ycombinator.com/item?id=39266701"
+    ],
+    [
+      "The Potent Pollution of Noise",
+      "https://www.noemamag.com/the-potent-pollution-of-noise/"
     ]
   ],
   [
