@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
+* [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit Accuses Anna's Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 * [2024-02-07, 18:55:53](https://news.ycombinator.com/item?id=39292638) - [Unison File Synchronizer](https://github.com/bcpierce00/unison)
-* [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
 * [2024-02-07, 17:25:52](https://news.ycombinator.com/item?id=39291322) - [How I got scammed on Facebook Marketplace (2023)](https://ben.page/scammed)
-* [2024-02-07, 17:22:13](https://news.ycombinator.com/item?id=39291269) - [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
 * [2024-02-07, 17:01:16](https://news.ycombinator.com/item?id=39291004) - [SigNoz (YC W21) Is Hiring Technical Writer – Open-Source Observability(Remote)](https://signoz.io/careers/technical-content-writer-in/)
 * [2024-02-07, 16:59:50](https://news.ycombinator.com/item?id=39290982) - [Unison Cloud](https://www.unison.cloud/)
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro teardown part 2: What’s the display resolution?](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
