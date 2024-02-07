@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 21:54:45",
+      "https://news.ycombinator.com/item?id=39294799"
+    ],
+    [
+      "Disney to take $1.5B stake in Epic Games",
+      "https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 21:14:31",
       "https://news.ycombinator.com/item?id=39294406"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-02-07, 11:19:21",
-      "https://news.ycombinator.com/item?id=39287163"
-    ],
-    [
-      "“Wherever you get your podcasts” is a radical statement",
-      "https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 10:39:45",
       "https://news.ycombinator.com/item?id=39286877"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2024-02-06, 12:17:23",
+      "https://news.ycombinator.com/item?id=39273430"
+    ],
+    [
+      "Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop",
+      "https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 10:41:41",
       "https://news.ycombinator.com/item?id=39272890"
     ],
     [
       "Scriptisto: \"Shebang interpreter\" that enables writing scripts in compiled langs",
       "https://github.com/igor-petruk/scriptisto"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 07:58:06",
-      "https://news.ycombinator.com/item?id=39271991"
-    ],
-    [
-      "Show HN: Franz – A desktop client for Apache Kafka",
-      "https://github.com/Bogdanp/Franz"
     ]
   ],
   [
