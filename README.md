@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-07, 19:31:25](https://news.ycombinator.com/item?id=39293101) - [Ask HN: Recommendation for Intermediate CSS Course?](https://news.ycombinator.com/item?id=39293101)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:21](https://news.ycombinator.com/item?id=39292990) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
 * [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit accuses Anna's Archive of hacking WorldCat](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 * [2024-02-07, 18:51:54](https://news.ycombinator.com/item?id=39292584) - [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
-* [2024-02-07, 17:01:16](https://news.ycombinator.com/item?id=39291004) - [SigNoz (YC W21) Is Hiring Technical Writer – Open-Source Observability(Remote)](https://signoz.io/careers/technical-content-writer-in/)
 * [2024-02-07, 16:59:50](https://news.ycombinator.com/item?id=39290982) - [Unison Cloud](https://www.unison.cloud/)
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro teardown part 2: What’s the display resolution?](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
 * [2024-02-07, 14:59:53](https://news.ycombinator.com/item?id=39289350) - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)

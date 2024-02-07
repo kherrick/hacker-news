@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-07, 19:56:43](https://news.ycombinator.com/item?id=39293441) - [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
 * [2024-02-07, 19:51:24](https://news.ycombinator.com/item?id=39293366) - [After Libs of TikTok posted, at least 21 bomb threats followed](https://www.nbcnews.com/tech/internet/libs-tiktok-x-chaya-raichik-bomb-threat-twitter-of-libsoftiktok-rcna102784)
 * [2024-02-07, 19:48:03](https://news.ycombinator.com/item?id=39293318) - [Ask HN: How about no more \"I got scammed\" submissions?](https://news.ycombinator.com/item?id=39293318)
