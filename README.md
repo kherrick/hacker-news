@@ -6,7 +6,7 @@
 * [2024-02-07, 07:00:26](https://news.ycombinator.com/item?id=39285415) - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:48:25](https://news.ycombinator.com/item?id=39283058) - [Don't Steal; Government Hates Competition: The Problem with Asset Forfeiture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
-* [2024-02-06, 23:15:18](https://news.ycombinator.com/item?id=39282225) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
+* [2024-02-06, 23:15:18](https://news.ycombinator.com/item?id=39282225) - [Go 1.22](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 * [2024-02-06, 22:50:21](https://news.ycombinator.com/item?id=39281963) - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2024-02-06, 21:58:56](https://news.ycombinator.com/item?id=39281297) - [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
