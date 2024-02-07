@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
 * [2024-02-07, 03:45:21](https://news.ycombinator.com/item?id=39284227) - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
@@ -13,7 +14,6 @@
 * [2024-02-06, 17:31:24](https://news.ycombinator.com/item?id=39277451) - [BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
 * [2024-02-06, 17:11:15](https://news.ycombinator.com/item?id=39277079) - [Show HN: Logdy.dev – web based log viewer UI for local development environments](https://logdy.dev/blog/post/web-based-logs-viewer-ui-for-local-development-environment)
 * [2024-02-06, 16:48:27](https://news.ycombinator.com/item?id=39276687) - [AdGuard Home: Network-wide ad- and tracker-blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)
-* [2024-02-06, 16:45:16](https://news.ycombinator.com/item?id=39276623) - [DeepSeekMath 7B achieved 51.7% on MATH benchmark](https://github.com/deepseek-ai/DeepSeek-Math)
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The perverse policies that fuel wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 15:25:33](https://news.ycombinator.com/item?id=39275203) - [Bluesky and the AT Protocol: Usable decentralized social media](https://arxiv.org/abs/2402.03239)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT: Comparing large language models against lawyers [pdf]](https://arxiv.org/abs/2401.16212)
