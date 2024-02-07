@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 23:06:00](https://news.ycombinator.com/item?id=39295558) - [Taylor Swift is demanding this college student stop tracking her private jet](https://www.msn.com/en-us/news/us/taylor-swift-is-demanding-this-college-student-stop-tracking-her-private-jet/ar-BB1hTNxu)
 * [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
 * [2024-02-07, 21:17:49](https://news.ycombinator.com/item?id=39294433) - [Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
@@ -18,7 +19,6 @@
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro teardown part 2: What’s the display resolution?](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
-* [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [“Wherever you get your podcasts” is a radical statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-06, 22:59:09](https://news.ycombinator.com/item?id=39282054) - [The disaggregated write-ahead log (2023)](https://blog.schmizz.net/disaggregated-wal)

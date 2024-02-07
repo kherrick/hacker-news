@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 23:06:00](https://news.ycombinator.com/item?id=39295558) - [Taylor Swift is demanding this college student stop tracking her private jet](https://www.msn.com/en-us/news/us/taylor-swift-is-demanding-this-college-student-stop-tracking-her-private-jet/ar-BB1hTNxu)
 * [2024-02-07, 22:36:47](https://news.ycombinator.com/item?id=39295267) - [Ask HN: Best \"entry tech\" jobs to learn coding?](https://news.ycombinator.com/item?id=39295267)
 * [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
