@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
+* [2024-02-07, 19:19:02](https://news.ycombinator.com/item?id=39292941) - [A record number of Americans can't afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
 * [2024-02-07, 19:18:14](https://news.ycombinator.com/item?id=39292929) - [Lawsuit Accuses Anna's Archive of Hacking WorldCat, Stealing 2.2 TB Data](https://torrentfreak.com/lawsuit-accuses-annas-archive-of-hacking-worldcat-stealing-2-2-tb-data-240207/)
 * [2024-02-07, 18:55:53](https://news.ycombinator.com/item?id=39292638) - [Unison File Synchronizer](https://github.com/bcpierce00/unison)
+* [2024-02-07, 18:51:54](https://news.ycombinator.com/item?id=39292584) - [Memorizing a programming language using spaced repetition software (2013)](https://sive.rs/srs)
 * [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
 * [2024-02-07, 18:26:29](https://news.ycombinator.com/item?id=39292228) - [Delivering Copilot for Everyone](https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/)
 * [2024-02-07, 18:16:32](https://news.ycombinator.com/item?id=39292070) - [The EU sets the limit for bank transfer time to 10 seconds](https://www.europarl.europa.eu/news/en/press-room/20240202IPR17318/ensuring-euro-money-transfers-arrive-within-ten-seconds)
