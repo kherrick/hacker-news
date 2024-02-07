@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 12:14:48](https://news.ycombinator.com/item?id=39287616) - [Neal Stephenson's Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
 * [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [\"Wherever you get your podcasts\" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 10:31:40](https://news.ycombinator.com/item?id=39286824) - [You Don't Hate Polyamory, You Hate People Who Write Books](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)
