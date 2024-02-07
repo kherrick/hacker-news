@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 14:32:36](https://news.ycombinator.com/item?id=39288999) - [Maine becomes fourth State to abolish civil asset forfeiture (2021)](https://news.ycombinator.com/item?id=39288999)
 * [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 * [2024-02-07, 14:00:22](https://news.ycombinator.com/item?id=39288635) - [How many people die each year in jails and prisons? No one knows](https://www.latimes.com/california/story/2024-02-02/death-in-custody-interview)
 * [2024-02-07, 13:42:29](https://news.ycombinator.com/item?id=39288426) - [Bluesky gets rid of invite codes, lets everyone join](https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/)

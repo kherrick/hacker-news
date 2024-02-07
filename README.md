@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 14:32:36](https://news.ycombinator.com/item?id=39288999) - [Maine becomes fourth State to abolish civil asset forfeiture (2021)](https://news.ycombinator.com/item?id=39288999)
 * [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
@@ -29,7 +30,6 @@
 * [2024-02-05, 23:55:25](https://news.ycombinator.com/item?id=39268883) - [First 3D-printed functional human brain tissue grows like the real thing](https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/)
 * [2024-02-05, 15:43:59](https://news.ycombinator.com/item?id=39262314) - [Show HN: CPU Prices on eBay](https://www.cpuscout.com/)
 * [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
-* [2024-02-05, 10:58:22](https://news.ycombinator.com/item?id=39259751) - [Show HN: Tokamak – Server-side framework for Zig](https://github.com/cztomsik/tokamak)
 
 ## [Archives](archives/index.md)
 
