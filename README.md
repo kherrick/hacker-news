@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 10:20:00](https://news.ycombinator.com/item?id=39286751) - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 09:27:22](https://news.ycombinator.com/item?id=39286390) - [Mozilla's new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
@@ -24,7 +25,6 @@
 * [2024-02-05, 23:55:25](https://news.ycombinator.com/item?id=39268883) - [First 3D-printed functional human brain tissue grows like the real thing](https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/)
 * [2024-02-05, 22:04:33](https://news.ycombinator.com/item?id=39267883) - [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space)
 * [2024-02-05, 15:43:59](https://news.ycombinator.com/item?id=39262314) - [Show HN: CPU Prices on eBay](https://www.cpuscout.com/)
-* [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
 * [2024-02-05, 10:58:22](https://news.ycombinator.com/item?id=39259751) - [Show HN: Tokamak – Server-side framework for Zig](https://github.com/cztomsik/tokamak)
