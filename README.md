@@ -4,6 +4,7 @@
 * [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
 * [2024-02-07, 17:25:52](https://news.ycombinator.com/item?id=39291322) - [How I got scammed on Facebook Marketplace (2023)](https://ben.page/scammed)
+* [2024-02-07, 17:22:13](https://news.ycombinator.com/item?id=39291269) - [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
 * [2024-02-07, 17:01:16](https://news.ycombinator.com/item?id=39291004) - [SigNoz (YC W21) Is Hiring Technical Writer – Open-Source Observability(Remote)](https://signoz.io/careers/technical-content-writer-in/)
 * [2024-02-07, 16:59:50](https://news.ycombinator.com/item?id=39290982) - [Unison Cloud](https://www.unison.cloud/)
 * [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro teardown part 2: What’s the display resolution?](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
@@ -29,7 +30,6 @@
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
 * [2024-02-06, 00:10:44](https://news.ycombinator.com/item?id=39269015) - [Thirteen Ways of Looking at Art](https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art)
 * [2024-02-05, 17:24:07](https://news.ycombinator.com/item?id=39263760) - [Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
-* [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [Open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 
 ## [Archives](archives/index.md)
 
