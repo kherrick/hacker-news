@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro Teardown Part 2](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
+* [2024-02-07, 16:22:59](https://news.ycombinator.com/item?id=39290448) - [The web is mostly links and forms](https://gomakethings.com/the-web-is-mostly-links-and-forms/)
 * [2024-02-07, 15:56:44](https://news.ycombinator.com/item?id=39290072) - [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
 * [2024-02-07, 14:59:53](https://news.ycombinator.com/item?id=39289350) - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)
 * [2024-02-07, 14:52:24](https://news.ycombinator.com/item?id=39289246) - [SQLite Isn't Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 16:23:43](https://news.ycombinator.com/item?id=39290456) - [Vision Pro Teardown Part 2](https://www.ifixit.com/News/90409/vision-pro-teardown-part-2-whats-the-display-resolution)
+* [2024-02-07, 16:22:59](https://news.ycombinator.com/item?id=39290448) - [The web is mostly links and forms](https://gomakethings.com/the-web-is-mostly-links-and-forms/)
 * [2024-02-07, 15:56:44](https://news.ycombinator.com/item?id=39290072) - [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
 * [2024-02-07, 14:59:53](https://news.ycombinator.com/item?id=39289350) - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)
 * [2024-02-07, 14:04:12](https://news.ycombinator.com/item?id=39288669) - [How to hire low experience, high potential people](https://worktopia.substack.com/p/how-to-hire-low-experience-high-potential)
@@ -17,7 +19,6 @@
 * [2024-02-07, 07:52:58](https://news.ycombinator.com/item?id=39285749) - [Lessons Learned from Payments Startups](https://www.pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize? (2013)](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 * [2024-02-07, 07:00:26](https://news.ycombinator.com/item?id=39285415) - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
-* [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary Fusion Breakthroughs Face Hard Reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-06, 20:48:06](https://news.ycombinator.com/item?id=39280358) - [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
@@ -25,7 +26,6 @@
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
 * [2024-02-06, 06:37:56](https://news.ycombinator.com/item?id=39271449) - [The Ladybird browser project](https://ladybird.dev/)
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
-* [2024-02-06, 04:41:32](https://news.ycombinator.com/item?id=39270875) - [Two's complement integers with only sign bit set should be a trap representation](https://social.belkadan.com/@jrose/statuses/01HNRNHBQY4E5MC37KG14R50P7)
 * [2024-02-06, 01:39:42](https://news.ycombinator.com/item?id=39269709) - [Jackie Coogan and the fall of Hollywood's child stars](https://www.historytoday.com/archive/history-matters/jackie-coogan-and-fall-hollywoods-child-stars)
 * [2024-02-06, 00:10:44](https://news.ycombinator.com/item?id=39269015) - [Thirteen Ways of Looking at Art](https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art)
 * [2024-02-05, 23:55:25](https://news.ycombinator.com/item?id=39268883) - [First 3D-printed functional human brain tissue grows like the real thing](https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/)
