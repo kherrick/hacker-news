@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-06, 23:15:18](https://news.ycombinator.com/item?id=39282225) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 * [2024-02-06, 22:50:21](https://news.ycombinator.com/item?id=39281963) - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
@@ -20,14 +21,13 @@
 * [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 13:34:55](https://news.ycombinator.com/item?id=39274004) - [Write a Letter to Your Future Self](https://www.futureme.org/)
 * [2024-02-06, 11:57:26](https://news.ycombinator.com/item?id=39273308) - [Business advice plagued by survivor bias (2009)](https://longform.asmartbear.com/survivor-bias/)
-* [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
 * [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-05, 22:04:33](https://news.ycombinator.com/item?id=39267883) - [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space)
 * [2024-02-05, 20:30:33](https://news.ycombinator.com/item?id=39266701) - [The Potent Pollution of Noise](https://www.noemamag.com/the-potent-pollution-of-noise/)
 * [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
+* [2024-02-05, 10:58:22](https://news.ycombinator.com/item?id=39259751) - [Show HN: Tokamak – Server-side framework for Zig](https://github.com/cztomsik/tokamak)
 * [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
 * [2024-02-04, 09:45:33](https://news.ycombinator.com/item?id=39248892) - [What is a hard error, and what makes it harder than an easy error?](https://devblogs.microsoft.com/oldnewthing/20240116-00/?p=109274)
-* [2024-02-04, 07:20:03](https://news.ycombinator.com/item?id=39248326) - [The ancient Germanic history of Groundhog Day](https://www.bbc.com/future/article/20240131-how-the-pennsylvania-dutch-created-groundhog-day)
 * [2024-02-03, 17:00:20](https://news.ycombinator.com/item?id=39242213) - [Thou shalt follow these vintage computing commandments](http://oldvcr.blogspot.com/2024/02/thou-shalt-follow-these-vintage.html)
 * [2024-02-02, 22:12:35](https://news.ycombinator.com/item?id=39235153) - [Paintings reveal how the Dutch adapted to extreme weather in the little Ice Age](https://www.smithsonianmag.com/history/these-paintings-reveal-how-the-dutch-adapted-to-extreme-weather-during-the-little-ice-age-180983671/)
 
