@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 19:31:13](https://news.ycombinator.com/item?id=39293093) - [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
 * [2024-02-07, 19:19:02](https://news.ycombinator.com/item?id=39292941) - [A record number of Americans can't afford rent](https://apnews.com/article/affordable-housing-rent-eviction-price-harvard-congress-f5411012e10fa78d0257c137e60c1be3)
@@ -25,7 +26,6 @@
 * [2024-02-06, 22:59:09](https://news.ycombinator.com/item?id=39282054) - [The disaggregated write-ahead log (2023)](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 10:41:41](https://news.ycombinator.com/item?id=39272890) - [Scriptisto: \"Shebang interpreter\" that enables writing scripts in compiled langs](https://github.com/igor-petruk/scriptisto)
-* [2024-02-06, 07:58:10](https://news.ycombinator.com/item?id=39271992) - [Microsoft Autoroute Express (1995)](http://www.win3x.org/win3board/viewtopic.php?t=4881)
 * [2024-02-06, 06:37:56](https://news.ycombinator.com/item?id=39271449) - [The Ladybird browser project](https://ladybird.dev/)
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
 * [2024-02-06, 00:10:44](https://news.ycombinator.com/item?id=39269015) - [Thirteen Ways of Looking at Art](https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art)
