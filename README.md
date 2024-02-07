@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
 * [2024-02-07, 03:45:21](https://news.ycombinator.com/item?id=39284227) - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-06, 23:15:18](https://news.ycombinator.com/item?id=39282225) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
@@ -7,7 +8,6 @@
 * [2024-02-06, 22:50:21](https://news.ycombinator.com/item?id=39281963) - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
-* [2024-02-06, 20:48:06](https://news.ycombinator.com/item?id=39280358) - [Show HN: Geppetto, an open source AI companion for your Slack teams](https://github.com/Deeptechia/geppetto)
 * [2024-02-06, 19:39:13](https://news.ycombinator.com/item?id=39279431) - [New IBM LinuxONE 4 Express – Rack-mounted pre-configured Linux mainframe](https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-Resilient-Hybrid-Cloud-and-AI-Platform)
 * [2024-02-06, 19:20:32](https://news.ycombinator.com/item?id=39279163) - [Demystifying GPU compute architectures](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)
 * [2024-02-06, 17:31:24](https://news.ycombinator.com/item?id=39277451) - [BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
