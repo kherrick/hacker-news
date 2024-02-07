@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 17:26:55](https://news.ycombinator.com/item?id=39291341) - [Kraken: Privacy Is Not a Crime](https://twitter.com/krakenfx/status/1754891973062697235)
 * [2024-02-07, 17:22:13](https://news.ycombinator.com/item?id=39291269) - [Apple throws its hat into the AI-generated image ring](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
+* [2024-02-07, 17:10:09](https://news.ycombinator.com/item?id=39291105) - [Cryptominer loses bid to force Canadian energy company to provide it power](https://www.vernonmorningstar.com/news/cryptominer-loses-bid-to-force-bc-hydro-to-provide-it-power-7314314)
 * [2024-02-07, 17:01:16](https://news.ycombinator.com/item?id=39291004) - [SigNoz (YC W21) Is Hiring Technical Writer – Open-Source Observability(Remote)](https://signoz.io/careers/technical-content-writer-in/)
 * [2024-02-07, 16:54:30](https://news.ycombinator.com/item?id=39290900) - [Woman Got Cremation Ads in the Mail After Getting Chemotherapy](https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/)
 * [2024-02-07, 16:44:33](https://news.ycombinator.com/item?id=39290760) - [Common food preservative has unexpected effects on the gut microbiome](https://www.eurekalert.org/news-releases/1033327)
