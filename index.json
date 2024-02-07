@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-02-07, 18:26:48",
-      "https://news.ycombinator.com/item?id=39292232"
+      "2024-02-07, 18:55:53",
+      "https://news.ycombinator.com/item?id=39292638"
     ],
     [
-      "Keeping code simple: moving fast by avoiding over-engineering",
-      "https://graphite.dev/blog/keeping-code-simple"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 18:26:29",
-      "https://news.ycombinator.com/item?id=39292228"
-    ],
-    [
-      "Delivering Copilot for Everyone",
-      "https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 17:46:01",
-      "https://news.ycombinator.com/item?id=39291612"
-    ],
-    [
-      "Ford EV Drivers Will Get Free Tesla Supercharger Adapters",
-      "https://www.thedrive.com/news/ford-ev-drivers-will-get-free-tesla-supercharger-adapters"
+      "Unison File Synchronizer",
+      "https://github.com/bcpierce00/unison"
     ]
   ],
   [
@@ -215,8 +195,28 @@
       "https://news.ycombinator.com/item?id=39285611"
     ],
     [
-      "Should Error Messages Apologize? (2013)",
+      "Should error messages apologize? (2013)",
       "https://ux.stackexchange.com/questions/31359/should-error-messages-apologize"
+    ]
+  ],
+  [
+    [
+      "2024-02-07, 06:04:32",
+      "https://news.ycombinator.com/item?id=39285065"
+    ],
+    [
+      "Momentary fusion breakthroughs face hard reality",
+      "https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 22:59:09",
+      "https://news.ycombinator.com/item?id=39282054"
+    ],
+    [
+      "The disaggregated write-ahead log (2023)",
+      "https://blog.schmizz.net/disaggregated-wal"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39260536"
     ],
     [
-      "The first open source 3D atlas of human anatomy",
+      "Open source 3D atlas of human anatomy",
       "https://conference.blender.org/2022/presentations/1365/"
     ]
   ]
