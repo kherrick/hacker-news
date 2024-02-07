@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
+* [2024-02-07, 18:16:32](https://news.ycombinator.com/item?id=39292070) - [The EU sets the limit for bank transfer time to 10 seconds](https://www.europarl.europa.eu/news/en/press-room/20240202IPR17318/ensuring-euro-money-transfers-arrive-within-ten-seconds)
 * [2024-02-07, 17:47:55](https://news.ycombinator.com/item?id=39291641) - [Arlington's first guaranteed income pilot boosted QoL for poorest residents](https://www.arlnow.com/2024/02/06/report-arlingtons-first-guaranteed-income-pilot-boosted-quality-of-life-for-poorest-residents/)
 * [2024-02-07, 17:46:01](https://news.ycombinator.com/item?id=39291612) - [Ford EV Drivers Will Get Free Tesla Supercharger Adapters](https://www.thedrive.com/news/ford-ev-drivers-will-get-free-tesla-supercharger-adapters)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A Surprisingly Sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
