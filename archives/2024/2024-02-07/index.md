@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 05:35:56](https://news.ycombinator.com/item?id=39284893) - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
 * [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
 * [2024-02-07, 05:01:53](https://news.ycombinator.com/item?id=39284696) - [hx-pod, the HTMX Podcast](https://hx-pod.transistor.fm/)
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)

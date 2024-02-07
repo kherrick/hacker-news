@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 05:35:56](https://news.ycombinator.com/item?id=39284893) - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
 * [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
 * [2024-02-07, 05:01:53](https://news.ycombinator.com/item?id=39284696) - [hx-pod, the HTMX Podcast](https://hx-pod.transistor.fm/)
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
@@ -23,7 +24,6 @@
 * [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-06, 07:57:47](https://news.ycombinator.com/item?id=39271987) - [Edit This Blog Post](https://shkspr.mobi/blog/2022/01/edit-this-blog-post/)
 * [2024-02-06, 04:41:32](https://news.ycombinator.com/item?id=39270875) - [Two's complement integers with only sign bit set should be a trap representation](https://social.belkadan.com/@jrose/statuses/01HNRNHBQY4E5MC37KG14R50P7)
-* [2024-02-05, 22:45:25](https://news.ycombinator.com/item?id=39268264) - [William Dampier, Revered and Reviled (2022)](https://www.sciencehistory.org/stories/magazine/william-dampier-revered-and-reviled/)
 * [2024-02-05, 22:04:33](https://news.ycombinator.com/item?id=39267883) - [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space)
 * [2024-02-05, 15:43:59](https://news.ycombinator.com/item?id=39262314) - [Show HN: CPU Prices on eBay](https://www.cpuscout.com/)
 * [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
