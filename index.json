@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 13:42:29",
+      "https://news.ycombinator.com/item?id=39288426"
+    ],
+    [
+      "Bluesky gets rid of invite codes, lets everyone join",
+      "https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 13:22:46",
       "https://news.ycombinator.com/item?id=39288231"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39285611"
     ],
     [
-      "Should Error Messages Apologize?",
+      "Should Error Messages Apologize? (2013)",
       "https://ux.stackexchange.com/questions/31359/should-error-messages-apologize"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "SQL for data scientists in 100 queries",
       "https://gvwilson.github.io/sql-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 19:20:32",
-      "https://news.ycombinator.com/item?id=39279163"
-    ],
-    [
-      "Demystifying GPU compute architectures",
-      "https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures"
     ]
   ],
   [
