@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
+* [2024-02-07, 05:01:53](https://news.ycombinator.com/item?id=39284696) - [hx-pod, the HTMX Podcast](https://hx-pod.transistor.fm/)
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
 * [2024-02-07, 03:45:21](https://news.ycombinator.com/item?id=39284227) - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
@@ -18,7 +19,6 @@
 * [2024-02-06, 15:25:33](https://news.ycombinator.com/item?id=39275203) - [Bluesky and the AT Protocol: Usable decentralized social media](https://arxiv.org/abs/2402.03239)
 * [2024-02-06, 15:04:39](https://news.ycombinator.com/item?id=39274918) - [Better Call GPT: Comparing large language models against lawyers [pdf]](https://arxiv.org/abs/2401.16212)
 * [2024-02-06, 14:28:15](https://news.ycombinator.com/item?id=39274521) - [Show HN: Pika – Simple blogging software](https://pika.page)
-* [2024-02-06, 14:23:24](https://news.ycombinator.com/item?id=39274455) - [What happened with the Web Monetization API?](https://chriscoyier.net/2024/01/24/what-happened-with-the-web-monetization-api/)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
 * [2024-02-06, 10:10:18](https://news.ycombinator.com/item?id=39272698) - [Learnings from our 8 years of Kubernetes in production](https://medium.com/@.anders/learnings-from-our-8-years-of-kubernetes-in-production-two-major-cluster-crashes-ditching-self-0257c09d36cd)
 * [2024-02-06, 07:57:47](https://news.ycombinator.com/item?id=39271987) - [Edit This Blog Post](https://shkspr.mobi/blog/2022/01/edit-this-blog-post/)
