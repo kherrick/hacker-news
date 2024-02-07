@@ -84,6 +84,7 @@
 * [2024-02-06, 08:45:48](https://news.ycombinator.com/item?id=39272278) - [A Teen's Fatal Plunge into the London Underworld](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
 * [2024-02-06, 08:16:02](https://news.ycombinator.com/item?id=39272103) - [OpenAI's Whisper is another case study in Colonisation](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)
 * [2024-02-06, 07:58:10](https://news.ycombinator.com/item?id=39271992) - [Microsoft Autoroute Express (1995)](http://www.win3x.org/win3board/viewtopic.php?t=4881)
+* [2024-02-06, 07:58:06](https://news.ycombinator.com/item?id=39271991) - [Show HN: Franz – A desktop client for Apache Kafka](https://github.com/Bogdanp/Franz)
 * [2024-02-06, 07:57:47](https://news.ycombinator.com/item?id=39271987) - [Edit This Blog Post](https://shkspr.mobi/blog/2022/01/edit-this-blog-post/)
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
 * [2024-02-06, 07:23:47](https://news.ycombinator.com/item?id=39271749) - [Get notified when GitHub IPv6 support is Live](https://isgithubipv6.live/)
