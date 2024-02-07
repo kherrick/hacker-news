@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:06:00](https://news.ycombinator.com/item?id=39295558) - [Taylor Swift is demanding this college student stop tracking her private jet](https://www.msn.com/en-us/news/us/taylor-swift-is-demanding-this-college-student-stop-tracking-her-private-jet/ar-BB1hTNxu)
 * [2024-02-07, 22:36:47](https://news.ycombinator.com/item?id=39295267) - [Ask HN: Best \"entry tech\" jobs to learn coding?](https://news.ycombinator.com/item?id=39295267)
 * [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
 * [2024-02-07, 21:17:49](https://news.ycombinator.com/item?id=39294433) - [Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
 * [2024-02-07, 21:14:31](https://news.ycombinator.com/item?id=39294406) - [A Conspiracy to Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+* [2024-02-07, 21:12:01](https://news.ycombinator.com/item?id=39294383) - [Escalation Risks from Language Models in Military and Diplomatic Decision-Making](https://arxiv.org/abs/2401.03408)
 * [2024-02-07, 21:11:05](https://news.ycombinator.com/item?id=39294372) - [Microsoft's Adaptive Cards](https://adaptivecards.io/)
 * [2024-02-07, 21:09:58](https://news.ycombinator.com/item?id=39294360) - [Microsoft's Fast](https://www.fast.design/)
 * [2024-02-07, 21:09:09](https://news.ycombinator.com/item?id=39294346) - [The appendix is not, in fact, useless](https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health)
