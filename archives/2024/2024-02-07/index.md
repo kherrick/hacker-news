@@ -7,6 +7,7 @@
 * [2024-02-07, 19:56:43](https://news.ycombinator.com/item?id=39293441) - [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
 * [2024-02-07, 19:51:24](https://news.ycombinator.com/item?id=39293366) - [After Libs of TikTok posted, at least 21 bomb threats followed](https://www.nbcnews.com/tech/internet/libs-tiktok-x-chaya-raichik-bomb-threat-twitter-of-libsoftiktok-rcna102784)
 * [2024-02-07, 19:48:03](https://news.ycombinator.com/item?id=39293318) - [Ask HN: How about no more \"I got scammed\" submissions?](https://news.ycombinator.com/item?id=39293318)
+* [2024-02-07, 19:31:25](https://news.ycombinator.com/item?id=39293101) - [Ask HN: Recommendation for Intermediate CSS Course?](https://news.ycombinator.com/item?id=39293101)
 * [2024-02-07, 19:31:13](https://news.ycombinator.com/item?id=39293093) - [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
