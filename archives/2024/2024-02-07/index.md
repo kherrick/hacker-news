@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 14:25:29](https://news.ycombinator.com/item?id=39288920) - [The ideal PR is 50 lines long](https://graphite.dev/blog/the-ideal-pr-is-50-lines-long)
 * [2024-02-07, 14:00:22](https://news.ycombinator.com/item?id=39288635) - [How many people die each year in jails and prisons? No one knows](https://www.latimes.com/california/story/2024-02-02/death-in-custody-interview)
 * [2024-02-07, 13:42:29](https://news.ycombinator.com/item?id=39288426) - [Bluesky gets rid of invite codes, lets everyone join](https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/)
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
