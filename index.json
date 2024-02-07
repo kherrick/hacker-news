@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 17:47:55",
+      "https://news.ycombinator.com/item?id=39291641"
+    ],
+    [
+      "Arlington's first guaranteed income pilot boosted QoL for poorest residents",
+      "https://www.arlnow.com/2024/02/06/report-arlingtons-first-guaranteed-income-pilot-boosted-quality-of-life-for-poorest-residents/"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 17:46:01",
       "https://news.ycombinator.com/item?id=39291612"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2024-02-07, 17:26:55",
-      "https://news.ycombinator.com/item?id=39291341"
-    ],
-    [
-      "Kraken: Privacy Is Not a Crime",
-      "https://twitter.com/krakenfx/status/1754891973062697235"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 17:25:52",
       "https://news.ycombinator.com/item?id=39291322"
     ],
     [
-      "I got scammed on Facebook Marketplace (2023)",
+      "How I got scammed on Facebook Marketplace (2023)",
       "https://ben.page/scammed"
     ]
   ],
@@ -61,32 +61,22 @@
   ],
   [
     [
+      "2024-02-07, 16:59:50",
+      "https://news.ycombinator.com/item?id=39290982"
+    ],
+    [
+      "Unison Cloud",
+      "https://www.unison.cloud/"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 16:54:30",
       "https://news.ycombinator.com/item?id=39290900"
     ],
     [
       "Woman Got Cremation Ads in the Mail After Getting Chemotherapy",
       "https://www.404media.co/woman-got-cremation-ads-in-the-mail-after-getting-chemotherapy/"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 16:22:59",
-      "https://news.ycombinator.com/item?id=39290448"
-    ],
-    [
-      "The web is mostly links and forms",
-      "https://gomakethings.com/the-web-is-mostly-links-and-forms/"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 15:56:44",
-      "https://news.ycombinator.com/item?id=39290072"
-    ],
-    [
-      "Raspberry Pi Pico cracks BitLocker in under a minute",
-      "https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/"
     ]
   ],
   [
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39288231"
     ],
     [
-      "Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally",
+      "Paperwall: Chinese websites posing as local news outlets target global audiences",
       "https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39286638"
     ],
     [
-      "How would you build an operating system?",
+      "Interview with Andreas Kling of Serenity OS (2022)",
       "https://corecursive.com/serenity-os-with-andreas-kling/"
     ]
   ],
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=39273830"
     ],
     [
-      "TSMC to build second Japan chip factory, raising investment to $20B",
+      "TSMC to build second Japan chip factory",
       "https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "First 3D-printed functional human brain tissue grows like the real thing",
       "https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 17:24:07",
+      "https://news.ycombinator.com/item?id=39263760"
+    ],
+    [
+      "Transforming Postgres into a Fast OLAP Database",
+      "https://blog.paradedb.com/pages/introducing_analytics"
     ]
   ],
   [
