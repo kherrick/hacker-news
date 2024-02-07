@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
-* [2024-02-07, 18:26:29](https://news.ycombinator.com/item?id=39292228) - [Delivering Copilot for Everyone](https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/)
-* [2024-02-07, 17:46:01](https://news.ycombinator.com/item?id=39291612) - [Ford EV Drivers Will Get Free Tesla Supercharger Adapters](https://www.thedrive.com/news/ford-ev-drivers-will-get-free-tesla-supercharger-adapters)
+* [2024-02-07, 18:55:53](https://news.ycombinator.com/item?id=39292638) - [Unison File Synchronizer](https://github.com/bcpierce00/unison)
 * [2024-02-07, 17:38:47](https://news.ycombinator.com/item?id=39291520) - [AMD Ryzen 5 8500G: A surprisingly fascinating sub-$200 CPU](https://www.phoronix.com/review/amd-ryzen-5-8500g)
 * [2024-02-07, 17:25:52](https://news.ycombinator.com/item?id=39291322) - [How I got scammed on Facebook Marketplace (2023)](https://ben.page/scammed)
 * [2024-02-07, 17:22:13](https://news.ycombinator.com/item?id=39291269) - [Apple releases MGIE, an AI-based image editing model](https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring)
@@ -21,7 +19,9 @@
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [Interview with Andreas Kling of Serenity OS (2022)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-* [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize? (2013)](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
+* [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should error messages apologize? (2013)](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
+* [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary fusion breakthroughs face hard reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
+* [2024-02-06, 22:59:09](https://news.ycombinator.com/item?id=39282054) - [The disaggregated write-ahead log (2023)](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 10:41:41](https://news.ycombinator.com/item?id=39272890) - [Scriptisto: \"Shebang interpreter\" that enables writing scripts in compiled langs](https://github.com/igor-petruk/scriptisto)
 * [2024-02-06, 07:58:10](https://news.ycombinator.com/item?id=39271992) - [Microsoft Autoroute Express (1995)](http://www.win3x.org/win3board/viewtopic.php?t=4881)
@@ -29,7 +29,7 @@
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
 * [2024-02-06, 00:10:44](https://news.ycombinator.com/item?id=39269015) - [Thirteen Ways of Looking at Art](https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art)
 * [2024-02-05, 17:24:07](https://news.ycombinator.com/item?id=39263760) - [Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
-* [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
+* [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [Open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 
 ## [Archives](archives/index.md)
 

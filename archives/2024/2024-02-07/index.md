@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 18:55:53](https://news.ycombinator.com/item?id=39292638) - [Unison File Synchronizer](https://github.com/bcpierce00/unison)
 * [2024-02-07, 18:26:48](https://news.ycombinator.com/item?id=39292232) - [Keeping code simple: moving fast by avoiding over-engineering](https://graphite.dev/blog/keeping-code-simple)
 * [2024-02-07, 18:26:29](https://news.ycombinator.com/item?id=39292228) - [Delivering Copilot for Everyone](https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/)
 * [2024-02-07, 18:16:32](https://news.ycombinator.com/item?id=39292070) - [The EU sets the limit for bank transfer time to 10 seconds](https://www.europarl.europa.eu/news/en/press-room/20240202IPR17318/ensuring-euro-money-transfers-arrive-within-ten-seconds)
