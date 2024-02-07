@@ -61,6 +61,7 @@
 * [2024-02-06, 13:34:55](https://news.ycombinator.com/item?id=39274004) - [Write a Letter to Your Future Self](https://www.futureme.org/)
 * [2024-02-06, 13:28:27](https://news.ycombinator.com/item?id=39273954) - [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb)
 * [2024-02-06, 13:25:34](https://news.ycombinator.com/item?id=39273932) - [Command Line Interface Guidelines](https://clig.dev/)
+* [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 12:51:27](https://news.ycombinator.com/item?id=39273647) - [Nvidia surges about $500B in 6 wks, nearly much as Tesla is worth](https://markets.businessinsider.com/news/stocks/nvidia-tesla-stock-price-market-cap-huang-musk-ai-microchips-2024-2)
 * [2024-02-06, 12:13:12](https://news.ycombinator.com/item?id=39273406) - [A famous climate scientist is in court, with big stakes for attacks on science](https://www.npr.org/2024/02/06/1228720142/michael-mann-climate-scientist-in-court-suing-for-defamation)
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)

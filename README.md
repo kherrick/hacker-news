@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-07, 12:14:48](https://news.ycombinator.com/item?id=39287616) - [Neal Stephenson's Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
+* [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
+* [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [\"Wherever you get your podcasts\" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 10:20:00](https://news.ycombinator.com/item?id=39286751) - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
@@ -17,6 +18,7 @@
 * [2024-02-06, 22:50:21](https://news.ycombinator.com/item?id=39281963) - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 19:20:32](https://news.ycombinator.com/item?id=39279163) - [Demystifying GPU compute architectures](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)
+* [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and cons of direct uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
 * [2024-02-06, 06:37:56](https://news.ycombinator.com/item?id=39271449) - [The Ladybird browser project](https://ladybird.dev/)
@@ -24,12 +26,10 @@
 * [2024-02-06, 01:39:42](https://news.ycombinator.com/item?id=39269709) - [Jackie Coogan and the fall of Hollywood's child stars](https://www.historytoday.com/archive/history-matters/jackie-coogan-and-fall-hollywoods-child-stars)
 * [2024-02-05, 23:55:25](https://news.ycombinator.com/item?id=39268883) - [First 3D-printed functional human brain tissue grows like the real thing](https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/)
 * [2024-02-05, 15:43:59](https://news.ycombinator.com/item?id=39262314) - [Show HN: CPU Prices on eBay](https://www.cpuscout.com/)
-* [2024-02-05, 12:54:15](https://news.ycombinator.com/item?id=39260738) - [How Condé Nast bought and destroyed Pitchfork](https://www.semafor.com/article/02/04/2024/inside-conde-nasts-breakup-with-pitchfork)
 * [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 * [2024-02-05, 12:24:11](https://news.ycombinator.com/item?id=39260483) - [Show HN: Rank a random subject every day](https://rankaday.com/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
 * [2024-02-05, 10:58:22](https://news.ycombinator.com/item?id=39259751) - [Show HN: Tokamak – Server-side framework for Zig](https://github.com/cztomsik/tokamak)
-* [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
 
 ## [Archives](archives/index.md)
 
