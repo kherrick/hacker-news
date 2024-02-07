@@ -72,6 +72,7 @@
 * [2024-02-05, 12:39:10](https://news.ycombinator.com/item?id=39260614) - [UUIDv7 is coming in PostgreSQL 17](https://commitfest.postgresql.org/47/4388/)
 * [2024-02-05, 12:29:17](https://news.ycombinator.com/item?id=39260536) - [The first open source 3D atlas of human anatomy](https://conference.blender.org/2022/presentations/1365/)
 * [2024-02-05, 12:26:16](https://news.ycombinator.com/item?id=39260503) - [Awesome Indie Hackers](https://github.com/johackim/awesome-indiehackers)
+* [2024-02-05, 12:24:11](https://news.ycombinator.com/item?id=39260483) - [Show HN: Rank a random subject every day](https://rankaday.com/)
 * [2024-02-05, 12:04:19](https://news.ycombinator.com/item?id=39260320) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
 * [2024-02-05, 11:07:26](https://news.ycombinator.com/item?id=39259835) - [The fastest-growing countries for software development, according to GitHub](https://restofworld.org/2024/github-developer-bangladesh-nigeria-pakistan/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 10:31:40](https://news.ycombinator.com/item?id=39286824) - [You Don't Hate Polyamory, You Hate People Who Write Books](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)
 * [2024-02-07, 10:20:00](https://news.ycombinator.com/item?id=39286751) - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
