@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 19:51:24](https://news.ycombinator.com/item?id=39293366) - [After Libs of TikTok posted, at least 21 bomb threats followed](https://www.nbcnews.com/tech/internet/libs-tiktok-x-chaya-raichik-bomb-threat-twitter-of-libsoftiktok-rcna102784)
 * [2024-02-07, 19:31:13](https://news.ycombinator.com/item?id=39293093) - [JavaScript in SVGs](https://www.devdailydigest.tech/javascript-in-svgs/)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 19:23:01](https://news.ycombinator.com/item?id=39292985) - [Nix-shell shebang: run any script with arbitrary packages, self-contained](https://nixos.wiki/wiki/Nix-shell_shebang)
