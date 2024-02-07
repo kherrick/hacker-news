@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 23:55:25](https://news.ycombinator.com/item?id=39268883) - [First 3D-printed functional human brain tissue grows like the real thing](https://newatlas.com/science/novel-3d-printing-technique-brain-tissue-functional-neurons/)
 * [2024-02-05, 23:25:58](https://news.ycombinator.com/item?id=39268623) - [Towards Sustainable Workplace Mental Health: Early Intervention and Support](https://arxiv.org/abs/2402.01592)
 * [2024-02-05, 23:19:30](https://news.ycombinator.com/item?id=39268572) - [Organ playing 639-year-long piece changes chord](https://www.bbc.com/news/world-europe-68209691)
 * [2024-02-05, 23:14:51](https://news.ycombinator.com/item?id=39268530) - [The little SSH that sometimes couldn't (2012)](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
