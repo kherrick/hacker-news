@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 15:56:44](https://news.ycombinator.com/item?id=39290072) - [Raspberry Pi Pico cracks BitLocker in under a minute](https://www.theregister.com/2024/02/07/breaking_bitlocker_pi_pico/)
 * [2024-02-07, 14:59:53](https://news.ycombinator.com/item?id=39289350) - [Latest ChatGPT 4 System prompt (1,700 tokens)](https://pastebin.com/vnxJ7kQk)
 * [2024-02-07, 14:52:24](https://news.ycombinator.com/item?id=39289246) - [SQLite Isn't Enough](https://ente.io/blog/tech/sqlite-objectbox-isar/)
 * [2024-02-07, 14:32:36](https://news.ycombinator.com/item?id=39288999) - [Maine becomes fourth State to abolish civil asset forfeiture (2021)](https://news.ycombinator.com/item?id=39288999)
