@@ -14,7 +14,6 @@
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
 * [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [“Wherever you get your podcasts” is a radical statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
-* [2024-02-07, 10:53:34](https://news.ycombinator.com/item?id=39286986) - [ElixirNitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
@@ -28,6 +27,7 @@
 * [2024-02-06, 06:37:56](https://news.ycombinator.com/item?id=39271449) - [The Ladybird browser project](https://ladybird.dev/)
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
 * [2024-02-06, 06:13:10](https://news.ycombinator.com/item?id=39271345) - [Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)
+* [2024-02-06, 02:04:43](https://news.ycombinator.com/item?id=39269886) - [I is for Intent](https://acko.net/blog/i-is-for-intent/)
 * [2024-02-06, 00:10:44](https://news.ycombinator.com/item?id=39269015) - [Thirteen Ways of Looking at Art](https://salmagundi.skidmore.edu/articles/477-thirteen-ways-of-looking-at-art)
 * [2024-02-05, 17:24:07](https://news.ycombinator.com/item?id=39263760) - [Transforming Postgres into a Fast OLAP Database](https://blog.paradedb.com/pages/introducing_analytics)
 

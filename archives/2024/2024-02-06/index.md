@@ -102,6 +102,7 @@
 * [2024-02-06, 02:50:43](https://news.ycombinator.com/item?id=39270190) - [Yazidi woman held by IS for 10 years freed by Kurdish fighters in Syria](https://www.theguardian.com/world/2024/feb/05/yazidi-woman-held-by-is-for-10-years-freed-by-kurdish-fighters-in-syria)
 * [2024-02-06, 02:19:12](https://news.ycombinator.com/item?id=39269978) - [Threads now reaches more than 130M monthly users, up 30M from Q3](https://techcrunch.com/2024/02/01/threads-now-reaches-more-130-million-monthly-users-says-meta-up-30m-from-q3/)
 * [2024-02-06, 02:14:46](https://news.ycombinator.com/item?id=39269949) - [Mozilla's Abandoned Web Engine 'Servo' Project Is Getting a Well-Deserved Reboot](https://news.itsfoss.com/servo-rust-web-engine/)
+* [2024-02-06, 02:04:43](https://news.ycombinator.com/item?id=39269886) - [I is for Intent](https://acko.net/blog/i-is-for-intent/)
 * [2024-02-06, 01:44:01](https://news.ycombinator.com/item?id=39269742) - [The Tragedy of Mathematics in Russia](http://old.math.nsc.ru/LBRT/g2/english/ssk/case_e.html#contents)
 * [2024-02-06, 01:43:56](https://news.ycombinator.com/item?id=39269741) - [Zero-knowledge security model: an introduction](https://haybatov.com/blog/zksm-intro/)
 * [2024-02-06, 01:39:42](https://news.ycombinator.com/item?id=39269709) - [Jackie Coogan and the fall of Hollywood's child stars](https://www.historytoday.com/archive/history-matters/jackie-coogan-and-fall-hollywoods-child-stars)
