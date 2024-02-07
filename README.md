@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 13:42:29](https://news.ycombinator.com/item?id=39288426) - [Bluesky gets rid of invite codes, lets everyone join](https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/)
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
@@ -11,7 +12,7 @@
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
-* [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
+* [2024-02-07, 07:27:58](https://news.ycombinator.com/item?id=39285611) - [Should Error Messages Apologize? (2013)](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
 * [2024-02-07, 07:00:26](https://news.ycombinator.com/item?id=39285415) - [Deepnote (YC S19) is hiring engineers to build ChatGPT for data (Europe)](https://deepnote.com/join-us)
 * [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary Fusion Breakthroughs Face Hard Reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
@@ -19,7 +20,6 @@
 * [2024-02-06, 23:15:18](https://news.ycombinator.com/item?id=39282225) - [Go 1.22](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:55:38](https://news.ycombinator.com/item?id=39282020) - [Making steel without emitting CO2](https://www.science.org/content/article/electrifying-new-ironmaking-method-could-slash-carbon-emissions)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for data scientists in 100 queries](https://gvwilson.github.io/sql-tutorial/)
-* [2024-02-06, 19:20:32](https://news.ycombinator.com/item?id=39279163) - [Demystifying GPU compute architectures](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and cons of direct uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
