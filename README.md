@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [\"Wherever you get your podcasts\" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 10:20:00](https://news.ycombinator.com/item?id=39286751) - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
@@ -28,7 +29,6 @@
 * [2024-02-05, 12:24:11](https://news.ycombinator.com/item?id=39260483) - [Show HN: Rank a random subject every day](https://rankaday.com/)
 * [2024-02-05, 11:46:27](https://news.ycombinator.com/item?id=39260171) - [It's time to admit that genes are not the blueprint for life](https://www.nature.com/articles/d41586-024-00327-x)
 * [2024-02-05, 10:58:22](https://news.ycombinator.com/item?id=39259751) - [Show HN: Tokamak – Server-side framework for Zig](https://github.com/cztomsik/tokamak)
-* [2024-02-05, 01:54:23](https://news.ycombinator.com/item?id=39256425) - [The Shed: A building on wheels in New York City](https://blog.ferrovial.com/en/2023/11/a-building-on-wheels-in-new-york-city/)
 * [2024-02-04, 23:56:47](https://news.ycombinator.com/item?id=39255792) - [Show HN: ReadToMe (iOS) turns paper books into audio](https://www.readtome-app.com)
 
 ## [Archives](archives/index.md)

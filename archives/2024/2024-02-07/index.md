@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [\"Wherever you get your podcasts\" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
 * [2024-02-07, 10:31:40](https://news.ycombinator.com/item?id=39286824) - [You Don't Hate Polyamory, You Hate People Who Write Books](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)
 * [2024-02-07, 10:20:00](https://news.ycombinator.com/item?id=39286751) - [Orange Pi Neo Coming as a Ryzen 7 and Linux Powered Handheld Device](https://www.phoronix.com/news/Orange-Pi-Neo-Console)
