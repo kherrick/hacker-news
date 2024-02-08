@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 23:44:30](https://news.ycombinator.com/item?id=39295868) - [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
+* [2024-02-07, 23:34:12](https://news.ycombinator.com/item?id=39295784) - [Morale plummets at Google as workers complain bosses are 'inept' and 'boring'](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
 * [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
+* [2024-02-07, 23:12:24](https://news.ycombinator.com/item?id=39295600) - [Execute any JavaScript from any browser tab on any browser tabs](https://github.com/devidw/tabgod)
 * [2024-02-07, 23:06:00](https://news.ycombinator.com/item?id=39295558) - [Taylor Swift is demanding this college student stop tracking her private jet](https://www.msn.com/en-us/news/us/taylor-swift-is-demanding-this-college-student-stop-tracking-her-private-jet/ar-BB1hTNxu)
+* [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy](https://github.com/FujiwaraChoki/MoneyPrinter)
 * [2024-02-07, 22:36:47](https://news.ycombinator.com/item?id=39295267) - [Ask HN: Best \"entry tech\" jobs to learn coding?](https://news.ycombinator.com/item?id=39295267)
 * [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
