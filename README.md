@@ -17,8 +17,9 @@
 * [2024-02-08, 01:52:45](https://news.ycombinator.com/item?id=39296871) - [Mimas' surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
 * [2024-02-08, 00:59:16](https://news.ycombinator.com/item?id=39296505) - [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
 * [2024-02-08, 00:19:47](https://news.ycombinator.com/item?id=39296134) - [Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
+* [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar attack causes automotive radar to 'hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
-* [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
+* [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [Automate the creation of YouTube Shorts by providing a topic](https://github.com/FujiwaraChoki/MoneyPrinter)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure. It also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 02:05:24](https://news.ycombinator.com/item?id=39283595) - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
@@ -28,7 +29,6 @@
 * [2024-02-06, 12:10:27](https://news.ycombinator.com/item?id=39273389) - [Surely You're Joking, Comrade Beria (2021)](https://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
 * [2024-02-06, 11:45:45](https://news.ycombinator.com/item?id=39273245) - [The Wetware Crisis: The Dead Sea Effect (2008)](https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 * [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
-* [2024-02-06, 07:12:19](https://news.ycombinator.com/item?id=39271658) - [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 * [2024-02-06, 06:13:10](https://news.ycombinator.com/item?id=39271345) - [Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)
 
 ## [Archives](archives/index.md)
