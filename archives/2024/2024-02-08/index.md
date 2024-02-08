@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
 * [2024-02-08, 13:17:33](https://news.ycombinator.com/item?id=39301586) - [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
@@ -11,6 +12,7 @@
 * [2024-02-08, 12:51:14](https://news.ycombinator.com/item?id=39301348) - [I will work for free on your Ruby project](https://rubymule.com/blog/i-will-work-for-free-on-your-ruby-project)
 * [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
+* [2024-02-08, 12:21:26](https://news.ycombinator.com/item?id=39301091) - [Walking home at night is not the same for women – study](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
 * [2024-02-08, 12:12:28](https://news.ycombinator.com/item?id=39301034) - [Web Design Inspiration](https://www.curated.design/)
 * [2024-02-08, 12:00:07](https://news.ycombinator.com/item?id=39300946) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
 * [2024-02-08, 11:47:22](https://news.ycombinator.com/item?id=39300838) - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
