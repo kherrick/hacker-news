@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 * [2024-02-08, 08:29:05](https://news.ycombinator.com/item?id=39299639) - [Men on Viagra may reduce their Alzheimer's risk – study](https://www.bbc.co.uk/news/health-68232649)
 * [2024-02-08, 06:44:15](https://news.ycombinator.com/item?id=39299007) - [Apple drops PWA support on iOS for EU users](https://twitter.com/firt/status/1755406923485122615)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
-* [2024-02-08, 08:29:05](https://news.ycombinator.com/item?id=39299639) - [Men on Viagra may reduce their Alzheimer's risk – study](https://www.bbc.co.uk/news/health-68232649)
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 * [2024-02-08, 05:07:57](https://news.ycombinator.com/item?id=39298451) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
