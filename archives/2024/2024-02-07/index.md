@@ -92,6 +92,7 @@
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
 * [2024-02-07, 03:45:21](https://news.ycombinator.com/item?id=39284227) - [Fathom AI Meeting Assistant (YC W21) Is Hiring a Senior Data Analyst (Remote)](https://www.ycombinator.com/companies/fathom/jobs/xOM0Nfl-senior-data-analyst-remote-utc-8-to-13)
 * [2024-02-07, 03:23:35](https://news.ycombinator.com/item?id=39284073) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
+* [2024-02-07, 03:20:42](https://news.ycombinator.com/item?id=39284053) - [Animated pavilion made of cardboard and powered by sand](https://www.designboom.com/art/pinaffo-and-pluvinage-cardboard-installation-sand-en-cascade-02-06-204/)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:55:29](https://news.ycombinator.com/item?id=39283113) - [Ask HN: Best Preventative for Aging Parents?](https://news.ycombinator.com/item?id=39283113)
 * [2024-02-07, 00:48:25](https://news.ycombinator.com/item?id=39283058) - [Don't Steal; Government Hates Competition: The Problem with Asset Forfeiture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
