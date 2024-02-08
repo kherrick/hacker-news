@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 06:44:15](https://news.ycombinator.com/item?id=39299007) - [Apple drops PWA support on iOS for EU users](https://twitter.com/firt/status/1755406923485122615)
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 * [2024-02-08, 05:07:57](https://news.ycombinator.com/item?id=39298451) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
@@ -8,7 +9,6 @@
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-08, 01:56:48](https://news.ycombinator.com/item?id=39296905) - [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
 * [2024-02-08, 01:52:45](https://news.ycombinator.com/item?id=39296871) - [Mimas' surprise: Tiny moon holds young ocean beneath icy shell](https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html)
-* [2024-02-08, 01:07:25](https://news.ycombinator.com/item?id=39296561) - [As much as you ever wanted to know about 155M artillery shell production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 * [2024-02-08, 00:59:16](https://news.ycombinator.com/item?id=39296505) - [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
 * [2024-02-08, 00:24:40](https://news.ycombinator.com/item?id=39296178) - [2024 Kawasaki Ninja 7 hybrid motorcycle first ride review](https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-7-hybrid-motorcycle-first-ride-review/)
 * [2024-02-08, 00:19:47](https://news.ycombinator.com/item?id=39296134) - [Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
