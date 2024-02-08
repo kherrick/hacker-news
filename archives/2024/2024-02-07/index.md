@@ -94,5 +94,6 @@
 * [2024-02-07, 03:23:35](https://news.ycombinator.com/item?id=39284073) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-07, 03:20:42](https://news.ycombinator.com/item?id=39284053) - [Animated pavilion made of cardboard and powered by sand](https://www.designboom.com/art/pinaffo-and-pluvinage-cardboard-installation-sand-en-cascade-02-06-204/)
 * [2024-02-07, 02:27:13](https://news.ycombinator.com/item?id=39283733) - [jQuery v4.0.0 Beta](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
+* [2024-02-07, 02:05:24](https://news.ycombinator.com/item?id=39283595) - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
 * [2024-02-07, 00:55:29](https://news.ycombinator.com/item?id=39283113) - [Ask HN: Best Preventative for Aging Parents?](https://news.ycombinator.com/item?id=39283113)
 * [2024-02-07, 00:48:25](https://news.ycombinator.com/item?id=39283058) - [Don't Steal; Government Hates Competition: The Problem with Asset Forfeiture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959039)
