@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
 * [2024-02-08, 03:43:55](https://news.ycombinator.com/item?id=39297782) - [Vision Pro Review: Apple's First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
 * [2024-02-08, 03:04:04](https://news.ycombinator.com/item?id=39297479) - [Google DeepMind Alignment with Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
@@ -25,7 +26,6 @@
 * [2024-02-07, 03:23:35](https://news.ycombinator.com/item?id=39284073) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 12:54:44](https://news.ycombinator.com/item?id=39273677) - [Welcome to the \"neomedieval era\": are states becoming obsolete?](https://www.vox.com/world-politics/24062198/israel-gaza-middle-east-united-states-war-biden-china-ukraine-putin-russia-taiwan-defense-military)
-* [2024-02-06, 12:17:23](https://news.ycombinator.com/item?id=39273430) - [Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)
 * [2024-02-06, 11:45:45](https://news.ycombinator.com/item?id=39273245) - [The Wetware Crisis: The Dead Sea Effect](https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 * [2024-02-06, 07:12:19](https://news.ycombinator.com/item?id=39271658) - [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 * [2024-02-06, 06:13:10](https://news.ycombinator.com/item?id=39271345) - [Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)

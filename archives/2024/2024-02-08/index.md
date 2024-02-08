@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
 * [2024-02-08, 03:43:55](https://news.ycombinator.com/item?id=39297782) - [Vision Pro Review: Apple's First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
 * [2024-02-08, 03:04:04](https://news.ycombinator.com/item?id=39297479) - [Google DeepMind Alignment with Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, dead at 75](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
