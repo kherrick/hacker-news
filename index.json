@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-08, 18:16:05",
+      "https://news.ycombinator.com/item?id=39305452"
+    ],
+    [
+      "Sudo for Windows",
+      "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 17:39:25",
       "https://news.ycombinator.com/item?id=39304946"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39304736"
     ],
     [
-      "FCC Makes AI-Generated Voices in Robocalls Illegal",
+      "FCC rules AI-generated voices in robocalls illegal",
       "https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal"
     ]
   ],
@@ -57,6 +67,26 @@
     [
       "GiveCampus (YC S15) Is Hiring US Engineers who care about education",
       "https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 16:57:18",
+      "https://news.ycombinator.com/item?id=39304312"
+    ],
+    [
+      "FinCEN proposes new rule for residential real estate held in trusts or LLCs",
+      "https://www.fincen.gov/news/news-releases/fincen-proposes-rule-combat-money-laundering-and-promote-transparency"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 16:46:06",
+      "https://news.ycombinator.com/item?id=39304188"
+    ],
+    [
+      "LLRT: A low-latency JavaScript runtime from AWS",
+      "https://github.com/awslabs/llrt"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Launch HN: AgentHub (YC W24) – A no-code automation platform",
       "https://news.ycombinator.com/item?id=39302870"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 15:06:47",
-      "https://news.ycombinator.com/item?id=39302744"
-    ],
-    [
-      "Mozilla names new CEO as it pivots to data privacy",
-      "https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "Simple Precision Time Protocol at Meta",
       "https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 05:07:57",
-      "https://news.ycombinator.com/item?id=39298451"
-    ],
-    [
-      "When \"letting it crash\" is not enough",
-      "https://flawless.dev/essays/when-letting-it-crash-is-not-enough/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Ridiculous Journey of the First Email from Space",
       "https://www.youtube.com/watch?v=0mBurvPxNRI"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 17:35:21",
-      "https://news.ycombinator.com/item?id=39277516"
-    ],
-    [
-      "Incentives and the Cobra Effect",
-      "https://boz.com/articles/incentives"
     ]
   ],
   [
