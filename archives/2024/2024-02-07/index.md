@@ -79,6 +79,7 @@
 * [2024-02-07, 10:04:56](https://news.ycombinator.com/item?id=39286638) - [How would you build an operating system? (SerenityOS with Andreas Kling)](https://corecursive.com/serenity-os-with-andreas-kling/)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure. It also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 09:38:02](https://news.ycombinator.com/item?id=39286458) - [RustPython](https://rustpython.github.io/)
+* [2024-02-07, 09:35:59](https://news.ycombinator.com/item?id=39286443) - [OpenScope Air Traffic Control Simulator](https://www.openscope.io/)
 * [2024-02-07, 09:27:22](https://news.ycombinator.com/item?id=39286390) - [Mozilla's new service tries to wipe your data off the web](https://www.theverge.com/2024/2/6/24062765/mozilla-monitor-plus-firefox-paid-subscription-privacy-data-broker-removal-requests)
 * [2024-02-07, 09:11:36](https://news.ycombinator.com/item?id=39286269) - [Danish schools will no longer be allowed to use Chromebooks and Google platforms](https://theprivacydad.com/final-decision-on-chromebook-case-in-denmark/)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy Sex Is a Force of Nature](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)

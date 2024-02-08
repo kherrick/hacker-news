@@ -8,6 +8,7 @@
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 19:55:26](https://news.ycombinator.com/item?id=39306781) - [Is Apple breaking PWAs out of malicious compliance?](https://brucelawson.co.uk/2024/apple-breaking-pwas-out-of-malicious-compliance/)
 * [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
+* [2024-02-08, 19:39:42](https://news.ycombinator.com/item?id=39306566) - [After Its $20B Windfall Evaporated, a Startup Picks Up the Pieces](https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html)
 * [2024-02-08, 19:37:33](https://news.ycombinator.com/item?id=39306543) - [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)
 * [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident](https://neal.fun/days-since-incident/)
 * [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the Art of Thinking in Dangerous Times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
