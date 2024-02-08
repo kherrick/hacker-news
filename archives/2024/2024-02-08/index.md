@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 12:00:07](https://news.ycombinator.com/item?id=39300946) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+* [2024-02-08, 11:47:22](https://news.ycombinator.com/item?id=39300838) - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
 * [2024-02-08, 10:41:47](https://news.ycombinator.com/item?id=39300447) - [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
 * [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)

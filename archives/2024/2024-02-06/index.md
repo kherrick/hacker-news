@@ -78,6 +78,7 @@
 * [2024-02-06, 11:57:26](https://news.ycombinator.com/item?id=39273308) - [Business advice plagued by survivor bias (2009)](https://longform.asmartbear.com/survivor-bias/)
 * [2024-02-06, 11:45:45](https://news.ycombinator.com/item?id=39273245) - [The Wetware Crisis: The Dead Sea Effect](https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
+* [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
 * [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
 * [2024-02-06, 10:51:37](https://news.ycombinator.com/item?id=39272952) - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
