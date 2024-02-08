@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 19:55:26](https://news.ycombinator.com/item?id=39306781) - [Is Apple breaking PWAs out of malicious compliance?](https://brucelawson.co.uk/2024/apple-breaking-pwas-out-of-malicious-compliance/)
 * [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
+* [2024-02-08, 19:37:33](https://news.ycombinator.com/item?id=39306543) - [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)
 * [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident](https://neal.fun/days-since-incident/)
+* [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the Art of Thinking in Dangerous Times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
+* [2024-02-08, 18:57:04](https://news.ycombinator.com/item?id=39305994) - [I Accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 * [2024-02-08, 18:51:31](https://news.ycombinator.com/item?id=39305912) - [The wealthy are cutting the line at the airport, Disney World and ski resorts](https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html)
 * [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
@@ -25,6 +29,7 @@
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
 * [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
+* [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
 * [2024-02-08, 13:17:33](https://news.ycombinator.com/item?id=39301586) - [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
