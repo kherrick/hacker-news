@@ -6,6 +6,7 @@
 
 * [2024-02-08, 22:07:52](https://news.ycombinator.com/item?id=39308455) - [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
 * [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
+* [2024-02-08, 22:02:23](https://news.ycombinator.com/item?id=39308382) - [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
 * [2024-02-08, 21:53:41](https://news.ycombinator.com/item?id=39308260) - [Fake app masquerading as password manager LastPass just pulled from App Store](https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/)
 * [2024-02-08, 21:18:57](https://news.ycombinator.com/item?id=39307865) - [TransTroj: Transferable Backdoor Attacks to Pre-Trained Models](https://arxiv.org/abs/2401.15883)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway Effect](https://en.wikipedia.org/wiki/Doorway_effect)
