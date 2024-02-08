@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 * [2024-02-08, 05:07:57](https://news.ycombinator.com/item?id=39298451) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
 * [2024-02-08, 03:43:55](https://news.ycombinator.com/item?id=39297782) - [Vision Pro Review: Apple's First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
