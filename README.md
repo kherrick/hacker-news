@@ -2,6 +2,7 @@
 
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
+* [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
@@ -9,7 +10,6 @@
 * [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:12:28](https://news.ycombinator.com/item?id=39301034) - [Web design inspiration catalog](https://www.curated.design/)
 * [2024-02-08, 12:00:07](https://news.ycombinator.com/item?id=39300946) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
-* [2024-02-08, 11:47:22](https://news.ycombinator.com/item?id=39300838) - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
 * [2024-02-08, 11:33:23](https://news.ycombinator.com/item?id=39300741) - [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
