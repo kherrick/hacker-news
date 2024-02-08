@@ -25,6 +25,7 @@
 * [2024-02-08, 18:57:04](https://news.ycombinator.com/item?id=39305994) - [I Accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 * [2024-02-08, 18:51:31](https://news.ycombinator.com/item?id=39305912) - [The wealthy are cutting the line at the airport, Disney World and ski resorts](https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html)
+* [2024-02-08, 18:18:26](https://news.ycombinator.com/item?id=39305482) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
 * [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
 * [2024-02-08, 18:16:05](https://news.ycombinator.com/item?id=39305452) - [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 17:39:25](https://news.ycombinator.com/item?id=39304946) - [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
