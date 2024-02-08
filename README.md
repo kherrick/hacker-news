@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 08:29:05](https://news.ycombinator.com/item?id=39299639) - [Men on Viagra may reduce their Alzheimer's risk – study](https://www.bbc.co.uk/news/health-68232649)
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 * [2024-02-08, 05:07:57](https://news.ycombinator.com/item?id=39298451) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
@@ -15,7 +16,6 @@
 * [2024-02-08, 00:11:15](https://news.ycombinator.com/item?id=39296067) - [Cyclist hit by driverless Waymo car in San Francisco, police say](https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php)
 * [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar attack causes automotive radar to 'hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
-* [2024-02-07, 23:12:24](https://news.ycombinator.com/item?id=39295600) - [Execute any JavaScript from any browser tab on any browser tabs](https://github.com/devidw/tabgod)
 * [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [Automate the creation of YouTube Shorts by providing a topic](https://github.com/FujiwaraChoki/MoneyPrinter)
 * [2024-02-07, 21:55:36](https://news.ycombinator.com/item?id=39294810) - [Localllm lets you develop gen AI apps on local CPUs](https://cloud.google.com/blog/products/application-development/new-localllm-lets-you-develop-gen-ai-apps-locally-without-gpus)
 * [2024-02-07, 21:54:45](https://news.ycombinator.com/item?id=39294799) - [Disney to take $1.5B stake in Epic Games](https://www.cnbc.com/2024/02/07/disney-to-take-1point5-billion-stake-in-epic-games-maker-of-fortnite.html)
