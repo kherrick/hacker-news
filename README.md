@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 23:18:16](https://news.ycombinator.com/item?id=39309157) - [What Does \"With Continuation\" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
+* [2024-02-08, 23:12:45](https://news.ycombinator.com/item?id=39309093) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
 * [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 22:02:23](https://news.ycombinator.com/item?id=39308382) - [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
-* [2024-02-08, 21:53:41](https://news.ycombinator.com/item?id=39308260) - [Fake app masquerading as password manager LastPass just pulled from App Store](https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Is Hiring a Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
@@ -28,7 +29,6 @@
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 * [2024-02-07, 09:35:59](https://news.ycombinator.com/item?id=39286443) - [OpenScope Air Traffic Control Simulator](https://www.openscope.io/)
-* [2024-02-07, 09:23:45](https://news.ycombinator.com/item?id=39286366) - [A_brief_story_of_hier](https://andrewdomain.com/posts/a_brief_story_of_hier/)
 * [2024-02-07, 05:29:56](https://news.ycombinator.com/item?id=39284858) - [Viboritas: Reverse engineering of my 1990 game (I was 11 years old)](https://nanochess.org/viboritas.html)
 
 ## [Archives](archives/index.md)
