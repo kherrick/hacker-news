@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-08, 17:00:28](https://news.ycombinator.com/item?id=39304365) - [GiveCampus (YC S15) Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
+* [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
 * [2024-02-08, 16:03:06](https://news.ycombinator.com/item?id=39303537) - [A seafood firm wants to farm octopus. Activists say they're too smart for that](https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy)
 * [2024-02-08, 15:50:23](https://news.ycombinator.com/item?id=39303357) - [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 * [2024-02-08, 15:38:18](https://news.ycombinator.com/item?id=39303160) - [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
@@ -20,7 +21,6 @@
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
 * [2024-02-08, 03:43:31](https://news.ycombinator.com/item?id=39297776) - [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
-* [2024-02-08, 00:24:40](https://news.ycombinator.com/item?id=39296178) - [2024 Kawasaki Ninja 7 hybrid motorcycle first ride review](https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-7-hybrid-motorcycle-first-ride-review/)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure, and it also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy Sex Is a Force of Nature](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
 * [2024-02-07, 08:51:08](https://news.ycombinator.com/item?id=39286111) - [Princess: Coding Like Royalty](https://princess.sh/)

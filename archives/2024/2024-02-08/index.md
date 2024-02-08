@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
 * [2024-02-08, 17:00:28](https://news.ycombinator.com/item?id=39304365) - [GiveCampus (YC S15) Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
+* [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
 * [2024-02-08, 16:03:06](https://news.ycombinator.com/item?id=39303537) - [A seafood firm wants to farm octopus. Activists say they're too smart for that](https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy)
 * [2024-02-08, 15:50:23](https://news.ycombinator.com/item?id=39303357) - [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 * [2024-02-08, 15:38:18](https://news.ycombinator.com/item?id=39303160) - [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
