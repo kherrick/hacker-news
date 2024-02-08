@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
+* [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 19:55:26](https://news.ycombinator.com/item?id=39306781) - [Is Apple breaking PWAs out of malicious compliance?](https://brucelawson.co.uk/2024/apple-breaking-pwas-out-of-malicious-compliance/)
 * [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
 * [2024-02-08, 19:37:33](https://news.ycombinator.com/item?id=39306543) - [Reuse of aging fronds in tropical mountain forest tree ferns: Zombie leaves](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4248)
 * [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident](https://neal.fun/days-since-incident/)
 * [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the Art of Thinking in Dangerous Times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
+* [2024-02-08, 19:22:01](https://news.ycombinator.com/item?id=39306308) - [Immigration to Boost US GDP by $7T over Decade, CBO Says](https://www.bloomberg.com/news/articles/2024-02-08/immigration-to-boost-us-gdp-by-7-trillion-over-decade-cbo-says)
 * [2024-02-08, 18:57:04](https://news.ycombinator.com/item?id=39305994) - [I Accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 * [2024-02-08, 18:51:31](https://news.ycombinator.com/item?id=39305912) - [The wealthy are cutting the line at the airport, Disney World and ski resorts](https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html)
