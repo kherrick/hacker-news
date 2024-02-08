@@ -6,6 +6,7 @@
 
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
+* [2024-02-08, 13:17:33](https://news.ycombinator.com/item?id=39301586) - [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Gemini Ultra now available in Google Bard](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)

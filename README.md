@@ -2,6 +2,7 @@
 
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
+* [2024-02-08, 13:17:33](https://news.ycombinator.com/item?id=39301586) - [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Gemini Ultra now available in Google Bard](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
@@ -26,7 +27,6 @@
 * [2024-02-06, 23:27:58](https://news.ycombinator.com/item?id=39282360) - [The Ridiculous Journey of the First Email from Space](https://www.youtube.com/watch?v=0mBurvPxNRI)
 * [2024-02-06, 17:35:21](https://news.ycombinator.com/item?id=39277516) - [Incentives and the Cobra Effect](https://boz.com/articles/incentives)
 * [2024-02-06, 15:53:23](https://news.ycombinator.com/item?id=39275715) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
-* [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 12:10:27](https://news.ycombinator.com/item?id=39273389) - [Surely You're Joking, Comrade Beria (2021)](https://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
 * [2024-02-06, 11:45:45](https://news.ycombinator.com/item?id=39273245) - [The Wetware Crisis: The Dead Sea Effect (2008)](https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 * [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
