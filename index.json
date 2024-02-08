@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39307330"
     ],
     [
-      "Ollama releases OpenAI API compatibility",
+      "OpenAI compatibility",
       "https://ollama.ai/blog/openai-compatibility"
     ]
   ],
@@ -201,26 +201,6 @@
   ],
   [
     [
-      "2024-02-08, 14:41:02",
-      "https://news.ycombinator.com/item?id=39302436"
-    ],
-    [
-      "Show HN: Lookup the school district associated with a street address",
-      "https://github.com/codebyamir/school-district-locator"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 13:57:19",
-      "https://news.ycombinator.com/item?id=39301944"
-    ],
-    [
-      "Grandmaster-Level Chess Without Search",
-      "https://arxiv.org/abs/2402.04494"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 13:45:42",
       "https://news.ycombinator.com/item?id=39301830"
     ],
@@ -297,6 +277,26 @@
     [
       "Viboritas: Reverse engineering of my 1990 game (I was 11 years old)",
       "https://nanochess.org/viboritas.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 23:27:58",
+      "https://news.ycombinator.com/item?id=39282360"
+    ],
+    [
+      "The Ridiculous Journey of the First Email from Space",
+      "https://www.youtube.com/watch?v=0mBurvPxNRI"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 11:11:48",
+      "https://news.ycombinator.com/item?id=39273085"
+    ],
+    [
+      "Billion File Filesystem",
+      "https://blog.liw.fi/posts/2024/billion/"
     ]
   ]
 ]
