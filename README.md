@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-08, 02:03:42](https://news.ycombinator.com/item?id=39296945) - [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
 * [2024-02-08, 01:40:34](https://news.ycombinator.com/item?id=39296805) - [McDonald's pushed customers to the brink on price. They're starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
 * [2024-02-08, 01:10:46](https://news.ycombinator.com/item?id=39296581) - [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
 * [2024-02-08, 01:07:25](https://news.ycombinator.com/item?id=39296561) - [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
@@ -26,6 +25,7 @@
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 03:23:35](https://news.ycombinator.com/item?id=39284073) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
+* [2024-02-06, 12:54:44](https://news.ycombinator.com/item?id=39273677) - [Welcome to the \"neomedieval era\": are states becoming obsolete?](https://www.vox.com/world-politics/24062198/israel-gaza-middle-east-united-states-war-biden-china-ukraine-putin-russia-taiwan-defense-military)
 * [2024-02-06, 12:17:23](https://news.ycombinator.com/item?id=39273430) - [Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)
 * [2024-02-06, 07:12:19](https://news.ycombinator.com/item?id=39271658) - [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 * [2024-02-06, 06:13:10](https://news.ycombinator.com/item?id=39271345) - [Explore interesting places nearby listed on Wikipedia](https://en.nearbywiki.org/map/)
