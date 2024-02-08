@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-08, 05:36:54",
+      "https://news.ycombinator.com/item?id=39298652"
+    ],
+    [
+      "Simple Precision Time Protocol at Meta",
+      "https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 05:07:57",
       "https://news.ycombinator.com/item?id=39298451"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39297479"
     ],
     [
-      "Google DeepMind Alignment with Online AI Feedback (OAIF)",
+      "Direct Language Model Alignment from Online AI Feedback",
       "https://arxiv.org/abs/2402.04792"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Mimas' surprise: Tiny moon holds young ocean beneath icy shell",
       "https://phys.org/news/2024-02-mimas-tiny-moon-young-ocean.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 01:07:25",
-      "https://news.ycombinator.com/item?id=39296561"
-    ],
-    [
-      "As much as you ever wanted to know about 155M artillery shell production",
-      "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39296067"
     ],
     [
-      "Waymo hits cyclist in SF",
+      "Cyclist hit by driverless Waymo car in San Francisco, police say",
       "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php"
     ]
   ],
