@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
 * [2024-02-08, 17:39:25](https://news.ycombinator.com/item?id=39304946) - [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC Makes AI-Generated Voices in Robocalls Illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)

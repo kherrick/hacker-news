@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
 * [2024-02-08, 17:39:25](https://news.ycombinator.com/item?id=39304946) - [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC Makes AI-Generated Voices in Robocalls Illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
@@ -19,7 +20,6 @@
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 * [2024-02-08, 05:07:57](https://news.ycombinator.com/item?id=39298451) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
-* [2024-02-08, 03:43:31](https://news.ycombinator.com/item?id=39297776) - [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure, and it also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy spawning causes temperature swings and turbulence in ocean layers](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
