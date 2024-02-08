@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 16:03:06](https://news.ycombinator.com/item?id=39303537) - [A seafood firm wants to farm octopus. Activists say they're too smart for that](https://www.npr.org/2024/02/07/1229233837/octopus-farm-spain-controversy)
+* [2024-02-08, 15:50:23](https://news.ycombinator.com/item?id=39303357) - [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
 * [2024-02-08, 15:38:18](https://news.ycombinator.com/item?id=39303160) - [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
@@ -19,7 +21,6 @@
 * [2024-02-08, 03:43:31](https://news.ycombinator.com/item?id=39297776) - [SQLite-Web: Web-based SQLite database browser written in Python](https://github.com/coleifer/sqlite-web)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-08, 01:56:48](https://news.ycombinator.com/item?id=39296905) - [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
-* [2024-02-08, 00:24:40](https://news.ycombinator.com/item?id=39296178) - [2024 Kawasaki Ninja 7 hybrid motorcycle first ride review](https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-7-hybrid-motorcycle-first-ride-review/)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure, and it also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy Sex Is a Force of Nature](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
 * [2024-02-07, 08:51:08](https://news.ycombinator.com/item?id=39286111) - [Princess: Coding Like Royalty](https://princess.sh/)
@@ -28,7 +29,6 @@
 * [2024-02-06, 23:27:58](https://news.ycombinator.com/item?id=39282360) - [The Ridiculous Journey of the First Email from Space](https://www.youtube.com/watch?v=0mBurvPxNRI)
 * [2024-02-06, 17:35:21](https://news.ycombinator.com/item?id=39277516) - [Incentives and the Cobra Effect](https://boz.com/articles/incentives)
 * [2024-02-06, 15:53:23](https://news.ycombinator.com/item?id=39275715) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
-* [2024-02-06, 12:10:27](https://news.ycombinator.com/item?id=39273389) - [Surely You're Joking, Comrade Beria (2021)](https://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
 * [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
 
 ## [Archives](archives/index.md)
