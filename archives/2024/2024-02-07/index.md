@@ -92,6 +92,7 @@
 * [2024-02-07, 06:04:32](https://news.ycombinator.com/item?id=39285065) - [Momentary Fusion Breakthroughs Face Hard Reality](https://spectrum.ieee.org/nuclear-fusion-breakthrough-long-road)
 * [2024-02-07, 05:35:56](https://news.ycombinator.com/item?id=39284893) - [EU coal and gas collapse as wind and solar ascend](https://electrek.co/2024/02/06/eu-coal-and-gas-collapse-wind-and-solar-ascend/)
 * [2024-02-07, 05:32:23](https://news.ycombinator.com/item?id=39284870) - [What if you threw a baseball at nearly light speed? [video]](https://www.youtube.com/watch?v=3EI08o-IGYk)
+* [2024-02-07, 05:29:56](https://news.ycombinator.com/item?id=39284858) - [Viboritas: Reverse engineering of my 1990 game (I was 11 years old)](https://nanochess.org/viboritas.html)
 * [2024-02-07, 05:04:37](https://news.ycombinator.com/item?id=39284711) - [BitLocker encryption broken in 43 seconds with sub-$10 Raspberry Pi Pico](https://www.tomshardware.com/pc-components/cpus/youtuber-breaks-bitlocker-encryption-in-less-than-43-seconds-with-sub-dollar10-raspberry-pi-pico)
 * [2024-02-07, 05:01:53](https://news.ycombinator.com/item?id=39284696) - [hx-pod, the HTMX Podcast](https://hx-pod.transistor.fm/)
 * [2024-02-07, 04:17:46](https://news.ycombinator.com/item?id=39284443) - [Oslo acquires ChatGPT for 110k students and teachers](https://www.digi.no/artikler/oslo-kjoper-chat-gpt-til-110-000-elever-og-laerere/543339)
