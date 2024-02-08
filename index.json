@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-08, 06:44:15",
-      "https://news.ycombinator.com/item?id=39299007"
-    ],
-    [
-      "Apple drops PWA support on iOS for EU users",
-      "https://twitter.com/firt/status/1755406923485122615"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 05:36:54",
       "https://news.ycombinator.com/item?id=39298652"
     ],
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2024-02-08, 01:07:25",
+      "https://news.ycombinator.com/item?id=39296561"
+    ],
+    [
+      "As much as you ever wanted to know about 155M artillery shell production",
+      "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 00:59:16",
       "https://news.ycombinator.com/item?id=39296505"
     ],
@@ -127,6 +127,16 @@
     [
       "Cyclist hit by driverless Waymo car in San Francisco, police say",
       "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php"
+    ]
+  ],
+  [
+    [
+      "2024-02-07, 23:32:38",
+      "https://news.ycombinator.com/item?id=39295769"
+    ],
+    [
+      "Europe's deepest mine to become giant gravity battery",
+      "https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-02-07, 21:14:31",
+      "https://news.ycombinator.com/item?id=39294406"
+    ],
+    [
+      "A conspiracy to kill IE6 (2019)",
+      "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 21:09:09",
       "https://news.ycombinator.com/item?id=39294346"
     ],
@@ -207,16 +227,6 @@
     [
       "A search engine in 80 lines of Python",
       "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 16:59:50",
-      "https://news.ycombinator.com/item?id=39290982"
-    ],
-    [
-      "Unison Cloud",
-      "https://www.unison.cloud/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Explore interesting places nearby listed on Wikipedia",
       "https://en.nearbywiki.org/map/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 17:24:07",
-      "https://news.ycombinator.com/item?id=39263760"
-    ],
-    [
-      "Transforming Postgres into a Fast OLAP Database",
-      "https://blog.paradedb.com/pages/introducing_analytics"
     ]
   ]
 ]
