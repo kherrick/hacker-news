@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
+* [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident](https://neal.fun/days-since-incident/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 * [2024-02-08, 18:51:31](https://news.ycombinator.com/item?id=39305912) - [The wealthy are cutting the line at the airport, Disney World and ski resorts](https://www.cnn.com/2024/02/08/business/line-skipping-clear-disney/index.html)
 * [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
