@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, dead at 75](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-08, 02:03:42](https://news.ycombinator.com/item?id=39296945) - [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
 * [2024-02-08, 01:40:34](https://news.ycombinator.com/item?id=39296805) - [McDonald's pushed customers to the brink on price. They're starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
 * [2024-02-08, 01:10:46](https://news.ycombinator.com/item?id=39296581) - [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)

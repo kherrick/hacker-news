@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-08, 01:40:34](https://news.ycombinator.com/item?id=39296805) - [McDonald's pushed customers to the brink on price. They're starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
+* [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, dead at 75](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-08, 01:10:46](https://news.ycombinator.com/item?id=39296581) - [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
 * [2024-02-08, 01:07:25](https://news.ycombinator.com/item?id=39296561) - [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 * [2024-02-08, 01:02:47](https://news.ycombinator.com/item?id=39296535) - [Jerry (YC S17) Is Hiring PMs, Engs, Data (Remote)](https://getjerry.com/careers)
@@ -9,7 +9,6 @@
 * [2024-02-08, 00:11:15](https://news.ycombinator.com/item?id=39296067) - [Waymo Hits Cyclist in SF](https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php)
 * [2024-02-07, 23:44:30](https://news.ycombinator.com/item?id=39295868) - [The Rural Ski Slope Caught Up in an International Scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
 * [2024-02-07, 23:34:12](https://news.ycombinator.com/item?id=39295784) - [Morale plummets at Google as workers complain bosses are 'inept' and 'boring'](https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php)
-* [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar Attack Causes Automotive Radar to 'Hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
 * [2024-02-07, 23:12:24](https://news.ycombinator.com/item?id=39295600) - [Execute any JavaScript from any browser tab on any browser tabs](https://github.com/devidw/tabgod)
 * [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy](https://github.com/FujiwaraChoki/MoneyPrinter)
@@ -24,6 +23,7 @@
 * [2024-02-07, 16:59:50](https://news.ycombinator.com/item?id=39290982) - [Unison Cloud](https://www.unison.cloud/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 03:23:35](https://news.ycombinator.com/item?id=39284073) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
+* [2024-02-06, 22:59:09](https://news.ycombinator.com/item?id=39282054) - [The disaggregated write-ahead log (2023)](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-06, 13:12:36](https://news.ycombinator.com/item?id=39273830) - [TSMC to build second Japan chip factory](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 * [2024-02-06, 12:54:44](https://news.ycombinator.com/item?id=39273677) - [Welcome to the \"neomedieval era\": are states becoming obsolete?](https://www.vox.com/world-politics/24062198/israel-gaza-middle-east-united-states-war-biden-china-ukraine-putin-russia-taiwan-defense-military)
 * [2024-02-06, 12:17:23](https://news.ycombinator.com/item?id=39273430) - [Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)
