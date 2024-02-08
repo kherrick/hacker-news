@@ -63,6 +63,7 @@
 * [2024-02-07, 14:00:22](https://news.ycombinator.com/item?id=39288635) - [How many people die each year in jails and prisons? No one knows](https://www.latimes.com/california/story/2024-02-02/death-in-custody-interview)
 * [2024-02-07, 13:42:29](https://news.ycombinator.com/item?id=39288426) - [Bluesky gets rid of invite codes, lets everyone join](https://arstechnica.com/tech-policy/2024/02/bluesky-opens-to-the-public-with-choose-your-own-algorithm-options/)
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
+* [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
 * [2024-02-07, 12:24:46](https://news.ycombinator.com/item?id=39287688) - [The EU proposes slashing pollution 90% by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)
 * [2024-02-07, 12:24:10](https://news.ycombinator.com/item?id=39287682) - [The moon is slowly shrinking – and it's triggering powerful moonquakes](https://www.zmescience.com/science/news-science/moon-shrinking-moonquakes/)
