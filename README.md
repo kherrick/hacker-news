@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
+* [2024-02-08, 10:41:47](https://news.ycombinator.com/item?id=39300447) - [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
 * [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
@@ -13,7 +14,6 @@
 * [2024-02-08, 01:07:25](https://news.ycombinator.com/item?id=39296561) - [As much as you ever wanted to know about 155M artillery shell production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 * [2024-02-08, 00:59:16](https://news.ycombinator.com/item?id=39296505) - [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
 * [2024-02-08, 00:19:47](https://news.ycombinator.com/item?id=39296134) - [Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
-* [2024-02-08, 00:11:15](https://news.ycombinator.com/item?id=39296067) - [Cyclist hit by driverless Waymo car in San Francisco, police say](https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php)
 * [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar attack causes automotive radar to 'hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
 * [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [Automate the creation of YouTube Shorts by providing a topic](https://github.com/FujiwaraChoki/MoneyPrinter)
