@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 * [2024-02-08, 08:29:05](https://news.ycombinator.com/item?id=39299639) - [Men on Viagra may reduce their Alzheimer's risk – study](https://www.bbc.co.uk/news/health-68232649)
 * [2024-02-08, 06:44:15](https://news.ycombinator.com/item?id=39299007) - [Apple drops PWA support on iOS for EU users](https://twitter.com/firt/status/1755406923485122615)
 * [2024-02-08, 05:36:54](https://news.ycombinator.com/item?id=39298652) - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)

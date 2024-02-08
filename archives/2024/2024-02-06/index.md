@@ -71,6 +71,7 @@
 * [2024-02-06, 12:17:23](https://news.ycombinator.com/item?id=39273430) - [Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop](https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh)
 * [2024-02-06, 12:14:17](https://news.ycombinator.com/item?id=39273412) - [It is a laser wet dream of many fappers](http://ronja.twibright.com)
 * [2024-02-06, 12:13:12](https://news.ycombinator.com/item?id=39273406) - [A famous climate scientist is in court, with big stakes for attacks on science](https://www.npr.org/2024/02/06/1228720142/michael-mann-climate-scientist-in-court-suing-for-defamation)
+* [2024-02-06, 12:10:27](https://news.ycombinator.com/item?id=39273389) - [Surely You're Joking, Comrade Beria (2021)](https://blog.nuclearsecrecy.com/2021/11/19/surely-youre-joking-comrade-beria/)
 * [2024-02-06, 12:09:04](https://news.ycombinator.com/item?id=39273380) - [AI can now master your music](https://arstechnica.com/ai/2024/02/mastering-music-is-hard-can-one-click-ai-make-it-easy/)
 * [2024-02-06, 12:02:39](https://news.ycombinator.com/item?id=39273338) - [Google and Mozilla don't like Apple's new iOS browser rules](https://arstechnica.com/gadgets/2024/02/google-and-mozilla-dont-like-apples-new-ios-browser-rules/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
