@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway Effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 21:03:01](https://news.ycombinator.com/item?id=39307656) - [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)
 * [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)

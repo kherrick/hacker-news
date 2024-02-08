@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway Effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 21:03:01](https://news.ycombinator.com/item?id=39307656) - [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)
 * [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
@@ -14,7 +15,6 @@
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
 * [2024-02-08, 17:03:29](https://news.ycombinator.com/item?id=39304409) - [Porting Libyaml to Safe Rust: Some Thoughts](https://simonask.github.io/libyaml-safer/)
-* [2024-02-08, 16:57:18](https://news.ycombinator.com/item?id=39304312) - [FinCEN proposes new rule for residential real estate held in trusts or LLCs](https://www.fincen.gov/news/news-releases/fincen-proposes-rule-combat-money-laundering-and-promote-transparency)
 * [2024-02-08, 16:46:06](https://news.ycombinator.com/item?id=39304188) - [LLRT: A low-latency JavaScript runtime from AWS](https://github.com/awslabs/llrt)
 * [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Show HN: Daily price tracking for Trader Joe's](https://traderjoesprices.com)
 * [2024-02-08, 15:50:23](https://news.ycombinator.com/item?id=39303357) - [Pakistan cuts off phone and internet services on election day](https://techcrunch.com/2024/02/07/pakistan-suspends-mobile-phone-services-on-election-day/)
