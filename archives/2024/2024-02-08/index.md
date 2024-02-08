@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 15:38:18](https://news.ycombinator.com/item?id=39303160) - [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
 * [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
