@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-08, 03:43:55",
+      "https://news.ycombinator.com/item?id=39297782"
+    ],
+    [
+      "Vision Pro Review: Apple's First Headset Lacks Polish and Purpose",
+      "https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 03:04:04",
+      "https://news.ycombinator.com/item?id=39297479"
+    ],
+    [
+      "Google DeepMind Alignment with Online AI Feedback (OAIF)",
+      "https://arxiv.org/abs/2402.04792"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 02:33:50",
       "https://news.ycombinator.com/item?id=39297185"
     ],
@@ -77,26 +97,6 @@
     [
       "Waymo hits cyclist in SF",
       "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 23:44:30",
-      "https://news.ycombinator.com/item?id=39295868"
-    ],
-    [
-      "The Rural Ski Slope Caught Up in an International Scam",
-      "https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 23:34:12",
-      "https://news.ycombinator.com/item?id=39295784"
-    ],
-    [
-      "Morale plummets at Google as workers complain bosses are 'inept' and 'boring'",
-      "https://www.sfgate.com/tech/article/google-workers-company-culture-pichai-18653877.php"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-02-07, 21:11:05",
-      "https://news.ycombinator.com/item?id=39294372"
-    ],
-    [
-      "Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON",
-      "https://adaptivecards.io/"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 21:09:09",
       "https://news.ycombinator.com/item?id=39294346"
     ],
@@ -267,6 +257,16 @@
     [
       "Hackintosh: OpenCore EFI for HP Pavilion Aero 13 Laptop",
       "https://github.com/aleixsr/HP-Pavilion-Aero-13-Hackintosh"
+    ]
+  ],
+  [
+    [
+      "2024-02-06, 11:45:45",
+      "https://news.ycombinator.com/item?id=39273245"
+    ],
+    [
+      "The Wetware Crisis: The Dead Sea Effect",
+      "https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/"
     ]
   ],
   [
