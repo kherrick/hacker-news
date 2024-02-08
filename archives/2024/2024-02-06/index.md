@@ -42,6 +42,7 @@
 * [2024-02-06, 16:35:28](https://news.ycombinator.com/item?id=39276452) - [The Perverse Policies That Fuel Wildfires](https://www.newyorker.com/magazine/2024/02/05/the-perverse-policies-that-fuel-wildfires)
 * [2024-02-06, 16:05:07](https://news.ycombinator.com/item?id=39275897) - [Toyota Cashes in on Booming Hybrid Sales](https://www.wsj.com/business/earnings/toyota-motor-reports-rise-in-quarterly-net-profit-as-sales-grew-5324042e)
 * [2024-02-06, 16:02:23](https://news.ycombinator.com/item?id=39275860) - [TikTok Is Destroying Itself from the Inside Out](https://gizmodo.com/tiktok-is-destroying-itself-from-the-inside-out-1851227491)
+* [2024-02-06, 15:53:23](https://news.ycombinator.com/item?id=39275715) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 15:30:48](https://news.ycombinator.com/item?id=39275314) - [Instruction-Based Image Editing via LLM](https://github.com/apple/ml-mgie)
 * [2024-02-06, 15:29:09](https://news.ycombinator.com/item?id=39275272) - [Oceans May Have Already Seen 1.7°C of Warming](https://eos.org/articles/oceans-may-have-already-seen-1-7c-of-warming)
 * [2024-02-06, 15:27:06](https://news.ycombinator.com/item?id=39275231) - [Ask HN: Alternative to Mint.com?](https://news.ycombinator.com/item?id=39275231)
