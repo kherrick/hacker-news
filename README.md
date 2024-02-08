@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-08, 04:04:33](https://news.ycombinator.com/item?id=39297949) - [Concrete.css](https://concrete.style)
-* [2024-02-08, 03:43:55](https://news.ycombinator.com/item?id=39297782) - [Vision Pro Review: Apple's First Headset Lacks Polish and Purpose](https://www.nytimes.com/2024/02/07/technology/personaltech/apple-vision-pro-review.html)
 * [2024-02-08, 03:04:04](https://news.ycombinator.com/item?id=39297479) - [Google DeepMind Alignment with Online AI Feedback (OAIF)](https://arxiv.org/abs/2402.04792)
 * [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-08, 01:56:48](https://news.ycombinator.com/item?id=39296905) - [Novel drug could protect brains from damage after repeat concussions](https://medicalxpress.com/news/2024-02-drug-brains-concussions.html)
@@ -12,6 +11,7 @@
 * [2024-02-08, 00:47:05](https://news.ycombinator.com/item?id=39296405) - [New Zealand set to be first country to ban PFAS in cosmetic products](https://www.chemistryworld.com/news/new-zealand-set-to-be-first-country-to-ban-pfas-in-cosmetic-products/4018893.article)
 * [2024-02-08, 00:19:47](https://news.ycombinator.com/item?id=39296134) - [Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-08, 00:11:15](https://news.ycombinator.com/item?id=39296067) - [Waymo hits cyclist in SF](https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php)
+* [2024-02-07, 23:44:30](https://news.ycombinator.com/item?id=39295868) - [A rural ski slope caught up in an international scam](https://www.newyorker.com/magazine/2024/02/05/the-rural-ski-slope-caught-up-in-an-international-scam)
 * [2024-02-07, 23:32:38](https://news.ycombinator.com/item?id=39295769) - [Europe's deepest mine to become giant gravity battery](https://www.independent.co.uk/tech/gravity-battery-mine-renewable-energy-b2492087.html)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar Attack Causes Automotive Radar to 'Hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
 * [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [FujiwaraChoki/MoneyPrinter: Automate Creation of YouTube Shorts Using MoviePy](https://github.com/FujiwaraChoki/MoneyPrinter)
