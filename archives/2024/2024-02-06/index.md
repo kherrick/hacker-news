@@ -89,6 +89,7 @@
 * [2024-02-06, 07:57:47](https://news.ycombinator.com/item?id=39271987) - [Edit This Blog Post](https://shkspr.mobi/blog/2022/01/edit-this-blog-post/)
 * [2024-02-06, 07:49:41](https://news.ycombinator.com/item?id=39271933) - [A Gap in the TrustZone preset settings for the LPC55S69](https://oxide.computer/blog/lpc55s69-tzpreset)
 * [2024-02-06, 07:23:47](https://news.ycombinator.com/item?id=39271749) - [Get notified when GitHub IPv6 support is Live](https://isgithubipv6.live/)
+* [2024-02-06, 07:12:19](https://news.ycombinator.com/item?id=39271658) - [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b)
 * [2024-02-06, 06:42:55](https://news.ycombinator.com/item?id=39271472) - [A method to unilaterally disable all nuclear bombs on Earth [pdf]](https://arxiv.org/pdf/hep-ph/0305062.pdf)
 * [2024-02-06, 06:37:56](https://news.ycombinator.com/item?id=39271449) - [The Ladybird browser project](https://ladybird.dev/)
 * [2024-02-06, 06:35:50](https://news.ycombinator.com/item?id=39271437) - [Puzzling prehistoric artifacts served a practical purpose: ropemaking](https://www.science.org/content/article/puzzling-prehistoric-artifacts-served-practical-purpose-ropemaking)
