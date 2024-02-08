@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2024-02-08, 01:10:46",
-      "https://news.ycombinator.com/item?id=39296581"
-    ],
-    [
-      "Asciinema 3.0 will be rewritten in Rust",
-      "https://github.com/asciinema/asciinema/pull/579"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 01:07:25",
-      "https://news.ycombinator.com/item?id=39296561"
-    ],
-    [
-      "As Much as You Ever Wanted to Know About 155M Artillery Shell Production",
-      "https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 01:02:47",
       "https://news.ycombinator.com/item?id=39296535"
     ],
@@ -85,8 +65,18 @@
       "https://news.ycombinator.com/item?id=39296134"
     ],
     [
-      "Thinking Forth: A Language and Philosophy for Solving Problems [pdf]",
+      "Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]",
       "https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 00:11:15",
+      "https://news.ycombinator.com/item?id=39296067"
+    ],
+    [
+      "Waymo hits cyclist in SF",
+      "https://www.sfgate.com/bayarea/article/waymo-driverless-car-hits-cyclist-in-sf-18654109.php"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Escalation Risks from Language Models in Military and Diplomatic Decision-Making",
       "https://arxiv.org/abs/2401.03408"
+    ]
+  ],
+  [
+    [
+      "2024-02-07, 21:11:05",
+      "https://news.ycombinator.com/item?id=39294372"
+    ],
+    [
+      "Adaptive Cards: Platform-agnostic snippets of UI, authored in JSON",
+      "https://adaptivecards.io/"
     ]
   ],
   [
