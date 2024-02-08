@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 21:03:01](https://news.ycombinator.com/item?id=39307656) - [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)
 * [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
+* [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
+* [2024-02-08, 20:25:53](https://news.ycombinator.com/item?id=39307199) - [Phase shift between rotation and actuation predicts muscle activation patterns](https://academic.oup.com/pnasnexus/article/2/10/pgad298/7288758)
 * [2024-02-08, 19:55:26](https://news.ycombinator.com/item?id=39306781) - [Is Apple breaking PWAs out of malicious compliance?](https://brucelawson.co.uk/2024/apple-breaking-pwas-out-of-malicious-compliance/)
 * [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
 * [2024-02-08, 19:39:42](https://news.ycombinator.com/item?id=39306566) - [After Its $20B Windfall Evaporated, a Startup Picks Up the Pieces](https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html)
