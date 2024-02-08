@@ -72,6 +72,7 @@
 * [2024-02-06, 12:02:39](https://news.ycombinator.com/item?id=39273338) - [Google and Mozilla don't like Apple's new iOS browser rules](https://arstechnica.com/gadgets/2024/02/google-and-mozilla-dont-like-apples-new-ios-browser-rules/)
 * [2024-02-06, 12:00:42](https://news.ycombinator.com/item?id=39273327) - [Lago: Open-Source Alternative to Stripe Is Hiring a Solution Engineer](https://www.ycombinator.com/companies/lago/jobs/zEAkwhK-solution-engineer-post-sales)
 * [2024-02-06, 11:57:26](https://news.ycombinator.com/item?id=39273308) - [Business advice plagued by survivor bias (2009)](https://longform.asmartbear.com/survivor-bias/)
+* [2024-02-06, 11:45:45](https://news.ycombinator.com/item?id=39273245) - [The Wetware Crisis: The Dead Sea Effect](https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/)
 * [2024-02-06, 11:25:14](https://news.ycombinator.com/item?id=39273151) - [Flathub: Pros and Cons of Direct Uploads](https://ramcq.net/2024/02/06/flathub-pros-and-cons-of-direct-uploads/)
 * [2024-02-06, 11:10:16](https://news.ycombinator.com/item?id=39273076) - [Some Rare, Real Talk from a Utility About Competition with Rooftop Solar](https://insideclimatenews.org/news/21092023/inside-clean-energy-utilities-rooftop-solar-competition-profits/)
 * [2024-02-06, 10:51:47](https://news.ycombinator.com/item?id=39272953) - [Ask HN: Looking for lightweight personal blogging platform](https://news.ycombinator.com/item?id=39272953)
