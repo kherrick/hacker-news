@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
 * [2024-02-08, 12:00:07](https://news.ycombinator.com/item?id=39300946) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
 * [2024-02-08, 11:47:22](https://news.ycombinator.com/item?id=39300838) - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
@@ -20,7 +21,6 @@
 * [2024-02-07, 21:17:49](https://news.ycombinator.com/item?id=39294433) - [Nvidia's \"Grace\" Arm CPU holds its own against x86 for HPC](https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/)
 * [2024-02-07, 21:09:09](https://news.ycombinator.com/item?id=39294346) - [The appendix is not, in fact, useless](https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
-* [2024-02-07, 12:24:10](https://news.ycombinator.com/item?id=39287682) - [The moon is slowly shrinking – and it's triggering powerful moonquakes](https://www.zmescience.com/science/news-science/moon-shrinking-moonquakes/)
 * [2024-02-07, 02:05:24](https://news.ycombinator.com/item?id=39283595) - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
 * [2024-02-06, 17:35:21](https://news.ycombinator.com/item?id=39277516) - [Incentives and the Cobra Effect](https://boz.com/articles/incentives)
 * [2024-02-06, 15:53:23](https://news.ycombinator.com/item?id=39275715) - [The Sinusoidal Tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
