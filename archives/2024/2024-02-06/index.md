@@ -30,6 +30,7 @@
 * [2024-02-06, 17:52:31](https://news.ycombinator.com/item?id=39277767) - [\"Fake Chinese Income\" Mortgages Fuel Toronto Real Estate Bubble: HSBC Bank Leaks](https://www.thebureau.news/p/fake-chinese-income-mortgages-fuel)
 * [2024-02-06, 17:43:17](https://news.ycombinator.com/item?id=39277634) - [Spotify CEO Daniel Ek tells investors Apple's DMA rules are a 'farce'](https://techcrunch.com/2024/02/06/spotify-ceo-daniel-ek-tells-investors-apples-dma-rules-are-a-farce-but-says-there-are-future-upsides-too/)
 * [2024-02-06, 17:36:07](https://news.ycombinator.com/item?id=39277525) - [China spied on Dutch Cyber Intelligence through FortiGate backdoors](https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland)
+* [2024-02-06, 17:35:21](https://news.ycombinator.com/item?id=39277516) - [Incentives and the Cobra Effect](https://boz.com/articles/incentives)
 * [2024-02-06, 17:31:24](https://news.ycombinator.com/item?id=39277451) - [BuildKit in depth: Docker's build engine explained](https://depot.dev/blog/buildkit-in-depth)
 * [2024-02-06, 17:22:57](https://news.ycombinator.com/item?id=39277299) - [Cannabis use linked to anxiety diagnoses, worsened anxiety disorders](https://globalnews.ca/news/10275463/cannabis-anxiety-ontario-study/)
 * [2024-02-06, 17:22:20](https://news.ycombinator.com/item?id=39277283) - [$3500 Chastity Belt Apple Vision Pro Adopters Alarmed Learn VR Porn Doesn't Work](https://www.404media.co/a-3-500-chastity-belt-early-apple-vision-pro-adopters-alarmed-to-learn-vr-porn-doesnt-work/)
