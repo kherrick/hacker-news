@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
 * [2024-02-08, 22:07:52](https://news.ycombinator.com/item?id=39308455) - [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
 * [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 22:02:23](https://news.ycombinator.com/item?id=39308382) - [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
