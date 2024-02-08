@@ -69,6 +69,7 @@
 * [2024-02-07, 12:17:56](https://news.ycombinator.com/item?id=39287641) - [Toyota to invest $1.3B in Kentucky factory to build battery packs and new EV](https://apnews.com/article/toyota-investment-georgetown-kentucky-factory-9d8142fb9d92ead0f895dd6f3d9fe215)
 * [2024-02-07, 12:14:48](https://news.ycombinator.com/item?id=39287616) - [Neal Stephenson's Most Stunning Prediction](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/)
 * [2024-02-07, 12:07:10](https://news.ycombinator.com/item?id=39287537) - [The LOW FERTILITY TRAP: An analysis of the great worldwide baby bust](https://postliberal.substack.com/p/the-low-fertility-trap)
+* [2024-02-07, 11:28:44](https://news.ycombinator.com/item?id=39287225) - [TechCrunch+ Termination](https://www.luxcapital.com/securities/techcrunch-plus-termination)
 * [2024-02-07, 11:19:21](https://news.ycombinator.com/item?id=39287163) - [\"Wherever you get your podcasts\" is a statement](https://www.anildash.com//2024/02/06/wherever-you-get-podcasts/)
 * [2024-02-07, 10:53:34](https://news.ycombinator.com/item?id=39286986) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-07, 10:39:45](https://news.ycombinator.com/item?id=39286877) - [Show HN: YTPics – Download pictures from YouTube videos](https://www.ytpics.com/)
