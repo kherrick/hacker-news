@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 02:03:42](https://news.ycombinator.com/item?id=39296945) - [Apple Vision Pro – Why Monitor Replacement Is Ridiculous](https://kguttag.com/2023/08/09/apple-vision-pro-part-5b-more-on-monitor-replacement-is-ridiculous/)
+* [2024-02-08, 01:40:34](https://news.ycombinator.com/item?id=39296805) - [McDonald's pushed customers to the brink on price. They're starting to push back](https://www.cnn.com/2024/02/06/business/mcdonalds-prices/index.html)
 * [2024-02-08, 01:10:46](https://news.ycombinator.com/item?id=39296581) - [Asciinema 3.0 will be rewritten in Rust](https://github.com/asciinema/asciinema/pull/579)
 * [2024-02-08, 01:07:25](https://news.ycombinator.com/item?id=39296561) - [As Much as You Ever Wanted to Know About 155M Artillery Shell Production](https://roblh.substack.com/p/as-much-as-you-ever-wanted-to-know)
 * [2024-02-08, 01:02:47](https://news.ycombinator.com/item?id=39296535) - [Jerry (YC S17) Is Hiring PMs, Engs, Data (Remote)](https://getjerry.com/careers)
