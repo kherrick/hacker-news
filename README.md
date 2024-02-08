@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Gemini Ultra now available in Google Bard](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
@@ -19,7 +20,6 @@
 * [2024-02-08, 00:59:16](https://news.ycombinator.com/item?id=39296505) - [Loungy: An Application Launcher Written with GPUI, the Zed GPU UI Framework](https://github.com/MatthiasGrandl/loungy)
 * [2024-02-08, 00:19:47](https://news.ycombinator.com/item?id=39296134) - [Thinking Forth: A Language and Philosophy for Solving Problems (2004) [pdf]](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-07, 23:24:08](https://news.ycombinator.com/item?id=39295692) - [MadRadar attack causes automotive radar to 'hallucinate'](https://www.allaboutcircuits.com/news/duke-universitys-madradar-attack-causes-automotive-radar-to-hallucinate/)
-* [2024-02-07, 23:02:22](https://news.ycombinator.com/item?id=39295526) - [Automate the creation of YouTube Shorts by providing a topic](https://github.com/FujiwaraChoki/MoneyPrinter)
 * [2024-02-07, 19:28:05](https://news.ycombinator.com/item?id=39293050) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 10:00:58](https://news.ycombinator.com/item?id=39286609) - [My experiment in phonelessness was a failure. It also changed my life](https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection)
 * [2024-02-07, 02:05:24](https://news.ycombinator.com/item?id=39283595) - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
