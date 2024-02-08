@@ -4,7 +4,7 @@
 * [2024-02-08, 21:03:01](https://news.ycombinator.com/item?id=39307656) - [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)
 * [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
-* [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
+* [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 20:25:53](https://news.ycombinator.com/item?id=39307199) - [Phase shift between rotation and actuation predicts muscle activation patterns](https://academic.oup.com/pnasnexus/article/2/10/pgad298/7288758)
 * [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident (2022)](https://neal.fun/days-since-incident/)
 * [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the art of thinking in dangerous times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
@@ -20,8 +20,6 @@
 * [2024-02-08, 15:38:18](https://news.ycombinator.com/item?id=39303160) - [A distributed systems reading list](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
-* [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
-* [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
@@ -30,6 +28,8 @@
 * [2024-02-07, 09:35:59](https://news.ycombinator.com/item?id=39286443) - [OpenScope Air Traffic Control Simulator](https://www.openscope.io/)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy spawning causes temperature swings and turbulence in ocean layers](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
 * [2024-02-07, 05:29:56](https://news.ycombinator.com/item?id=39284858) - [Viboritas: Reverse engineering of my 1990 game (I was 11 years old)](https://nanochess.org/viboritas.html)
+* [2024-02-06, 23:27:58](https://news.ycombinator.com/item?id=39282360) - [The Ridiculous Journey of the First Email from Space](https://www.youtube.com/watch?v=0mBurvPxNRI)
+* [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
 
 ## [Archives](archives/index.md)
 
