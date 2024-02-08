@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway Effect](https://en.wikipedia.org/wiki/Doorway_effect)
-* [2024-02-08, 21:03:01](https://news.ycombinator.com/item?id=39307656) - [IRS: billions in overdue/unpaid taxes to be collected with new funding](https://apnews.com/article/irs-tax-gap-audits-inflation-reduction-act-e0dcb9bc52cfcdd8fc40caa2c04e8011)
-* [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
-* [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper](https://www.science.org/content/article/how-seriously-read-scientific-paper)
+* [2024-02-08, 22:07:52](https://news.ycombinator.com/item?id=39308455) - [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
+* [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
+* [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Is Hiring a Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
+* [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 20:25:53](https://news.ycombinator.com/item?id=39307199) - [Phase shift between rotation and actuation predicts muscle activation patterns](https://academic.oup.com/pnasnexus/article/2/10/pgad298/7288758)
 * [2024-02-08, 19:35:53](https://news.ycombinator.com/item?id=39306513) - [Days Since Incident (2022)](https://neal.fun/days-since-incident/)
@@ -28,8 +28,8 @@
 * [2024-02-07, 09:35:59](https://news.ycombinator.com/item?id=39286443) - [OpenScope Air Traffic Control Simulator](https://www.openscope.io/)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy spawning causes temperature swings and turbulence in ocean layers](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
 * [2024-02-07, 05:29:56](https://news.ycombinator.com/item?id=39284858) - [Viboritas: Reverse engineering of my 1990 game (I was 11 years old)](https://nanochess.org/viboritas.html)
-* [2024-02-06, 23:27:58](https://news.ycombinator.com/item?id=39282360) - [The Ridiculous Journey of the First Email from Space](https://www.youtube.com/watch?v=0mBurvPxNRI)
-* [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion File Filesystem](https://blog.liw.fi/posts/2024/billion/)
+* [2024-02-06, 23:27:58](https://news.ycombinator.com/item?id=39282360) - [The first email from space [video]](https://www.youtube.com/watch?v=0mBurvPxNRI)
+* [2024-02-06, 11:11:48](https://news.ycombinator.com/item?id=39273085) - [Billion file filesystem](https://blog.liw.fi/posts/2024/billion/)
 
 ## [Archives](archives/index.md)
 
