@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-08, 17:39:25](https://news.ycombinator.com/item?id=39304946) - [Iceland: Eruption on the Reykjanes Peninsula](https://www.ruv.is/english/2024-02-08-eruption-on-the-reykjanes-peninsula-404272)
+* [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC Makes AI-Generated Voices in Robocalls Illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
 * [2024-02-08, 17:00:28](https://news.ycombinator.com/item?id=39304365) - [GiveCampus (YC S15) Is Hiring US Engineers who care about education](https://givecampus.breezy.hr/p/66fd8f39ab4c-senior-software-engineer)
 * [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Daily Price Tracking for Trader Joes](https://traderjoesprices.com)
@@ -11,7 +12,6 @@
 * [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
-* [2024-02-08, 12:31:50](https://news.ycombinator.com/item?id=39301163) - [AMD Athlon K7 Easter egg has a revolver and map of Texas etched onto the chip](https://www.pcgamer.com/an-old-amd-athlon-k7-easter-egg-has-a-revolver-and-map-of-texas-etched-onto-the-chip-they-dont-make-em-like-that-anymore-eh/)
 * [2024-02-08, 12:12:28](https://news.ycombinator.com/item?id=39301034) - [Web design inspiration catalog](https://www.curated.design/)
 * [2024-02-08, 11:33:23](https://news.ycombinator.com/item?id=39300741) - [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
