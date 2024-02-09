@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [Writing HTTP services in Go after 13 years (Mat Ryer, 2024)](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 19:00:23](https://news.ycombinator.com/item?id=39318860) - [Spreadsheet \"Breaks\" Apple Vision Pro Eye-Tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
@@ -12,6 +13,7 @@
 * [2024-02-09, 18:43:45](https://news.ycombinator.com/item?id=39318614) - [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
 * [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 18:20:36](https://news.ycombinator.com/item?id=39318305) - [Hyperbridge: Fast multi-producer, multi-consumer unbounded channel in Rust](https://github.com/singaraiona/hyperbridge)
+* [2024-02-09, 18:10:26](https://news.ycombinator.com/item?id=39318190) - [Re: Thesis Defense Issue](https://archiveofourown.org/works/28299630)
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
 * [2024-02-09, 17:40:41](https://news.ycombinator.com/item?id=39317782) - [A lost hiker ignored rescuers' phone calls, thinking they were spam (2021)](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
 * [2024-02-09, 17:19:36](https://news.ycombinator.com/item?id=39317424) - [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
