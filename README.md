@@ -18,6 +18,7 @@
 * [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the art of thinking in dangerous times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
 * [2024-02-08, 18:57:04](https://news.ycombinator.com/item?id=39305994) - [I accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
+* [2024-02-08, 18:18:26](https://news.ycombinator.com/item?id=39305482) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
 * [2024-02-08, 18:16:05](https://news.ycombinator.com/item?id=39305452) - [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
@@ -28,7 +29,6 @@
 * [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
-* [2024-02-07, 12:58:21](https://news.ycombinator.com/item?id=39287983) - [An autonomous robot arm that you can play against](https://github.com/02alexander/robby-fischer)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
 ## [Archives](archives/index.md)
