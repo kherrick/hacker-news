@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-02-08, 18:52:37",
-      "https://news.ycombinator.com/item?id=39305931"
-    ],
-    [
-      "Physics for Mathematicians – Introduction",
-      "https://nicf.net/articles/physics-for-mathematicians/"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 18:18:26",
       "https://news.ycombinator.com/item?id=39305482"
     ],
@@ -247,6 +237,16 @@
     [
       "Debugging Tokio Instrumentation",
       "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 08:40:58",
+      "https://news.ycombinator.com/item?id=39299715"
+    ],
+    [
+      "Context Control in Go",
+      "https://zenhorace.dev/blog/context-control-go/"
     ]
   ],
   [
