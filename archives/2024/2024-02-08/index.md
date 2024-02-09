@@ -52,6 +52,7 @@
 * [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
 * [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
+* [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light Characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
 * [2024-02-08, 13:45:42](https://news.ycombinator.com/item?id=39301830) - [Dutch Police intelligence services unlawfully spied on whole population groups](https://nltimes.nl/2024/02/08/police-intelligence-services-unlawfully-spied-whole-population-groups)
 * [2024-02-08, 13:29:58](https://news.ycombinator.com/item?id=39301675) - [The seedy underbelly of the life coaching industry](https://www.bbc.com/worklife/article/20240206-life-coaching-industry-scams)
 * [2024-02-08, 13:17:33](https://news.ycombinator.com/item?id=39301586) - [Show HN: SnapCode – a real Java IDE in the browser](https://reportmill.com/SnapCode/)
