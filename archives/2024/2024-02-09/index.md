@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
 * [2024-02-09, 17:40:41](https://news.ycombinator.com/item?id=39317782) - [A lost hiker ignored rescuers' phone calls, thinking they were spam (2021)](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
 * [2024-02-09, 17:19:36](https://news.ycombinator.com/item?id=39317424) - [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
@@ -53,3 +54,4 @@
 * [2024-02-09, 02:05:16](https://news.ycombinator.com/item?id=39310563) - [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
 * [2024-02-09, 01:01:16](https://news.ycombinator.com/item?id=39310059) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
 * [2024-02-09, 00:34:17](https://news.ycombinator.com/item?id=39309820) - [The (history of) spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
+* [2024-02-09, 00:23:01](https://news.ycombinator.com/item?id=39309723) - [Thoughts on Tech Employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
