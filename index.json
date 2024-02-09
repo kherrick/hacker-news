@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-09, 12:14:04",
+      "https://news.ycombinator.com/item?id=39314019"
+    ],
+    [
+      "'Mr Bean' actor Rowan Atkinson blamed for slumping electric car sale in the UK",
+      "https://www.news.com.au/technology/motoring/motoring-news/rowan-atkinson-blamed-for-slumping-electric-car-sales/news-story/cc709061b0606f1d4ac4318ff0d2721f"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 12:01:09",
       "https://news.ycombinator.com/item?id=39313928"
     ],
@@ -67,16 +77,6 @@
     [
       "What's new in the Postgres 16 query planner",
       "https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 00:34:17",
-      "https://news.ycombinator.com/item?id=39309820"
-    ],
-    [
-      "The (history of) spice must flow",
-      "https://resobscura.substack.com/p/the-history-of-spice-must-flow"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-02-08, 13:07:37",
-      "https://news.ycombinator.com/item?id=39301495"
-    ],
-    [
-      "Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced",
-      "https://blog.google/products/gemini/bard-gemini-advanced-app/"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 11:49:20",
       "https://news.ycombinator.com/item?id=39300859"
     ],
     [
       "Compiling Expressions",
       "https://craftinginterpreters.com/compiling-expressions.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 11:11:21",
+      "https://news.ycombinator.com/item?id=39300629"
+    ],
+    [
+      "Cyclomatic Complexity",
+      "https://en.wikipedia.org/wiki/Cyclomatic_complexity"
     ]
   ],
   [
