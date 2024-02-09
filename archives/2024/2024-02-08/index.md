@@ -70,6 +70,7 @@
 * [2024-02-08, 10:41:47](https://news.ycombinator.com/item?id=39300447) - [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
 * [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
+* [2024-02-08, 09:25:05](https://news.ycombinator.com/item?id=39299985) - [A layered approach to preserving documents](https://eclecticlight.co/2024/02/08/a-layered-approach-to-preserving-documents/)
 * [2024-02-08, 08:29:05](https://news.ycombinator.com/item?id=39299639) - [Men on Viagra may reduce their Alzheimer's risk – study](https://www.bbc.co.uk/news/health-68232649)
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)

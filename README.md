@@ -25,7 +25,7 @@
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
 * [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
-* [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
+* [2024-02-08, 09:25:05](https://news.ycombinator.com/item?id=39299985) - [A layered approach to preserving documents](https://eclecticlight.co/2024/02/08/a-layered-approach-to-preserving-documents/)
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
