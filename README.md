@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
+* [2024-02-09, 19:43:00](https://news.ycombinator.com/item?id=39319509) - [Mozilla CEO quits, pushes pivot to data privacy champion.. what about Firefox?](https://www.theregister.com/2024/02/09/opinion_column_mozilla_ceo_quits/)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:02:32](https://news.ycombinator.com/item?id=39318891) - [Mozilla places Microsoft under fire for using deceptive tricks in Edge](https://www.windowscentral.com/software-apps/browsing/hi-microsoft-please-stop-using-harmful-designs-and-deceptive-tactics-to-give-edge-the-competitive-advantage-over-other-browsers-on-windows-says-mozilla)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
@@ -23,7 +24,6 @@
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
-* [2024-02-08, 20:32:02](https://news.ycombinator.com/item?id=39307284) - [The mysterious death of the ketamine priestess](https://www.ecstaticintegration.org/p/the-mysterious-death-of-the-ketamine)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Someone stole a Jasper radio station’s 200-foot tower, owner says](https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
 * [2024-02-08, 11:11:21](https://news.ycombinator.com/item?id=39300629) - [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
