@@ -51,6 +51,7 @@
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
 * [2024-02-08, 14:41:02](https://news.ycombinator.com/item?id=39302436) - [Show HN: Lookup the school district associated with a street address](https://github.com/codebyamir/school-district-locator)
+* [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Someone stole a Jasper radio station’s 200-foot tower, owner says](https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Radio station baffled after 200-foot radio tower disappears without a trace](https://nypost.com/2024/02/07/news/radio-station-baffled-after-200-foot-radio-tower-disappears/)
 * [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light Characteristic](https://en.wikipedia.org/wiki/Light_characteristic)

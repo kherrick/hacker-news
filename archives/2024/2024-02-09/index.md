@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [Writing HTTP services in Go after 13 years (Mat Ryer, 2024)](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+* [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
+* [2024-02-09, 18:51:18](https://news.ycombinator.com/item?id=39318733) - [Research at the heart of a federal case against the abortion pill retracted](https://text.npr.org/1230175305)
 * [2024-02-09, 18:43:45](https://news.ycombinator.com/item?id=39318614) - [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
 * [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
