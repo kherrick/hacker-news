@@ -11,6 +11,7 @@
 * [2024-02-08, 23:11:50](https://news.ycombinator.com/item?id=39309083) - [Walter Shawlee, the Sovereign of Slide Rules, Is Dead at 73](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
 * [2024-02-08, 22:35:00](https://news.ycombinator.com/item?id=39308731) - [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
 * [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
+* [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
@@ -28,7 +29,6 @@
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
-* [2024-02-07, 11:25:15](https://news.ycombinator.com/item?id=39287197) - [A local tip helps reveal an ancient 'arcade' in Kenya's highlands](https://news.yale.edu/2024/02/01/local-tip-helps-reveal-ancient-arcade-kenyas-highlands)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
 ## [Archives](archives/index.md)
