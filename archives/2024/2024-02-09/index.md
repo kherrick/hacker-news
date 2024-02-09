@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 18:43:45](https://news.ycombinator.com/item?id=39318614) - [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
 * [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
 * [2024-02-09, 17:40:41](https://news.ycombinator.com/item?id=39317782) - [A lost hiker ignored rescuers' phone calls, thinking they were spam (2021)](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
