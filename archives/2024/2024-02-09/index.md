@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+* [2024-02-09, 14:54:16](https://news.ycombinator.com/item?id=39315378) - [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
+* [2024-02-09, 14:53:06](https://news.ycombinator.com/item?id=39315367) - [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
 * [2024-02-09, 13:45:31](https://news.ycombinator.com/item?id=39314776) - [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
 * [2024-02-09, 12:41:05](https://news.ycombinator.com/item?id=39314189) - [Huawei's offices in France raided by financial prosecutors](https://www.cnn.com/2024/02/09/tech/china-huawei-france-financial-investigation-intl-hnk/index.html)
