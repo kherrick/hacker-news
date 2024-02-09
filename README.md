@@ -10,7 +10,6 @@
 * [2024-02-08, 23:18:16](https://news.ycombinator.com/item?id=39309157) - [What Does \"With Continuation\" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
 * [2024-02-08, 23:11:50](https://news.ycombinator.com/item?id=39309083) - [Walter Shawlee, the sovereign of slide rules, has died](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
 * [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
-* [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
@@ -28,6 +27,7 @@
 * [2024-02-08, 11:02:18](https://news.ycombinator.com/item?id=39300573) - [How QUIC is displacing TCP for speed](https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed)
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
+* [2024-02-08, 07:50:19](https://news.ycombinator.com/item?id=39299419) - [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
