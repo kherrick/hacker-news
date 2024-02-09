@@ -6,6 +6,7 @@
 
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [Writing HTTP services in Go after 13 years (Mat Ryer, 2024)](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+* [2024-02-09, 19:00:23](https://news.ycombinator.com/item?id=39318860) - [Spreadsheet \"Breaks\" Apple Vision Pro Eye-Tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:51:18](https://news.ycombinator.com/item?id=39318733) - [Research at the heart of a federal case against the abortion pill retracted](https://text.npr.org/1230175305)
 * [2024-02-09, 18:43:45](https://news.ycombinator.com/item?id=39318614) - [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)

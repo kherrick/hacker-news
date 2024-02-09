@@ -2,6 +2,7 @@
 
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [Writing HTTP services in Go after 13 years (Mat Ryer, 2024)](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+* [2024-02-09, 19:00:23](https://news.ycombinator.com/item?id=39318860) - [Spreadsheet \"Breaks\" Apple Vision Pro Eye-Tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:51:18](https://news.ycombinator.com/item?id=39318733) - [Research at the heart of a federal case against the abortion pill retracted](https://text.npr.org/1230175305)
 * [2024-02-09, 18:20:36](https://news.ycombinator.com/item?id=39318305) - [Hyperbridge: Fast multi-producer, multi-consumer unbounded channel in Rust](https://github.com/singaraiona/hyperbridge)
@@ -25,7 +26,6 @@
 * [2024-02-09, 00:23:01](https://news.ycombinator.com/item?id=39309723) - [Thoughts on Tech Employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Someone stole a Jasper radio station’s 200-foot tower, owner says](https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
-* [2024-02-08, 12:05:35](https://news.ycombinator.com/item?id=39300985) - [Controlled Tango into Terrain (2008)](https://idlewords.com/2008/04/controlled_tango_into_terrain.htm)
 * [2024-02-08, 11:11:21](https://news.ycombinator.com/item?id=39300629) - [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 * [2024-02-08, 08:40:58](https://news.ycombinator.com/item?id=39299715) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-08, 08:22:56](https://news.ycombinator.com/item?id=39299599) - [Rebuilding Netflix's video processing pipeline with microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75)
