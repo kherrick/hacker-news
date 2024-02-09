@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 08:15:45](https://news.ycombinator.com/item?id=39312613) - [Ask HN: What is your go-to stack for the web?](https://news.ycombinator.com/item?id=39312613)
-* [2024-02-09, 05:49:02](https://news.ycombinator.com/item?id=39311803) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
 * [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 * [2024-02-09, 02:52:10](https://news.ycombinator.com/item?id=39310837) - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 02:11:17](https://news.ycombinator.com/item?id=39310605) - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
@@ -25,6 +24,7 @@
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
 * [2024-02-08, 13:57:19](https://news.ycombinator.com/item?id=39301944) - [Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
+* [2024-02-08, 13:07:37](https://news.ycombinator.com/item?id=39301495) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 * [2024-02-08, 11:02:18](https://news.ycombinator.com/item?id=39300573) - [How QUIC is displacing TCP for speed](https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed)
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
