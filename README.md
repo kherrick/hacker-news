@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+* [2024-02-09, 15:11:04](https://news.ycombinator.com/item?id=39315542) - [40% of Lawyers Are Women. 7% Are Black. America's Workforce in Charts](https://www.wsj.com/economy/jobs/workers-america-jobs-demographics-charts-94a5ff6c)
 * [2024-02-09, 14:54:16](https://news.ycombinator.com/item?id=39315378) - [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
 * [2024-02-09, 14:53:06](https://news.ycombinator.com/item?id=39315367) - [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
@@ -25,7 +26,6 @@
 * [2024-02-08, 11:02:18](https://news.ycombinator.com/item?id=39300573) - [How QUIC is displacing TCP for speed](https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed)
 * [2024-02-08, 08:51:51](https://news.ycombinator.com/item?id=39299794) - [Debugging Tokio Instrumentation](https://hegdenu.net/posts/debugging-tokio-instrumentation/)
 * [2024-02-08, 08:40:58](https://news.ycombinator.com/item?id=39299715) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
-* [2024-02-08, 08:22:56](https://news.ycombinator.com/item?id=39299599) - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75)
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-08, 07:50:19](https://news.ycombinator.com/item?id=39299419) - [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)

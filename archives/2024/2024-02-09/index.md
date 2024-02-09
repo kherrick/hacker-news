@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
+* [2024-02-09, 15:11:04](https://news.ycombinator.com/item?id=39315542) - [40% of Lawyers Are Women. 7% Are Black. America's Workforce in Charts](https://www.wsj.com/economy/jobs/workers-america-jobs-demographics-charts-94a5ff6c)
 * [2024-02-09, 14:54:16](https://news.ycombinator.com/item?id=39315378) - [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
 * [2024-02-09, 14:53:06](https://news.ycombinator.com/item?id=39315367) - [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
 * [2024-02-09, 13:45:31](https://news.ycombinator.com/item?id=39314776) - [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
