@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 17:00:14](https://news.ycombinator.com/item?id=39317100) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
 * [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
+* [2024-02-09, 16:38:43](https://news.ycombinator.com/item?id=39316707) - [Another 'Great Retirement' Wave Hits the US After Stocks Rally](https://www.bloomberg.com/news/articles/2024-02-09/another-great-retirement-wave-hits-the-us-after-stocks-rally)
+* [2024-02-09, 16:35:36](https://news.ycombinator.com/item?id=39316653) - [I'm an engineer that needs to sell my services. Any good books on sales?](https://news.ycombinator.com/item?id=39316653)
 * [2024-02-09, 16:19:12](https://news.ycombinator.com/item?id=39316365) - [A Case for the Preservation of Abandoned Places](https://www.atlasobscura.com/articles/column-preservation-of-abandoned-places)
 * [2024-02-09, 16:11:41](https://news.ycombinator.com/item?id=39316266) - [250M-plus reserved IPv4 addresses could be released](https://www.theregister.com/2024/02/09/240_4_ipv4_block_activism/)
 * [2024-02-09, 16:10:53](https://news.ycombinator.com/item?id=39316257) - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)
