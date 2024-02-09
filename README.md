@@ -18,7 +18,6 @@
 * [2024-02-08, 18:57:04](https://news.ycombinator.com/item?id=39305994) - [I accidentally Blender VSE](https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/)
 * [2024-02-08, 18:52:37](https://news.ycombinator.com/item?id=39305931) - [Physics for Mathematicians – Introduction](https://nicf.net/articles/physics-for-mathematicians/)
 * [2024-02-08, 18:18:26](https://news.ycombinator.com/item?id=39305482) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
-* [2024-02-08, 18:17:06](https://news.ycombinator.com/item?id=39305464) - [Ask HN: Does anyone care about OpenPOWER?](https://news.ycombinator.com/item?id=39305464)
 * [2024-02-08, 18:16:05](https://news.ycombinator.com/item?id=39305452) - [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
@@ -29,6 +28,7 @@
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-08, 07:50:19](https://news.ycombinator.com/item?id=39299419) - [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
+* [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
 ## [Archives](archives/index.md)
