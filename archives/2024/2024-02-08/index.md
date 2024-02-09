@@ -64,6 +64,7 @@
 * [2024-02-08, 11:33:23](https://news.ycombinator.com/item?id=39300741) - [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
+* [2024-02-08, 10:53:10](https://news.ycombinator.com/item?id=39300510) - [Thermodynamic AI is getting hotter](https://gonzoml.substack.com/p/thermodynamic-ai-is-getting-hotter)
 * [2024-02-08, 10:41:47](https://news.ycombinator.com/item?id=39300447) - [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
 * [2024-02-08, 10:29:13](https://news.ycombinator.com/item?id=39300373) - [3M electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
 * [2024-02-08, 10:20:25](https://news.ycombinator.com/item?id=39300317) - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
