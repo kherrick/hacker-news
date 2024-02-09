@@ -39,6 +39,7 @@
 * [2024-02-09, 15:40:18](https://news.ycombinator.com/item?id=39315875) - [Juniper Support Portal Exposed Customer Device Info](https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/)
 * [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
 * [2024-02-09, 15:32:52](https://news.ycombinator.com/item?id=39315786) - [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
+* [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [Why Bloat Is Still Software's Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:11:04](https://news.ycombinator.com/item?id=39315542) - [40% of Lawyers Are Women. 7% Are Black. America's Workforce in Charts](https://www.wsj.com/economy/jobs/workers-america-jobs-demographics-charts-94a5ff6c)
 * [2024-02-09, 15:01:38](https://news.ycombinator.com/item?id=39315448) - [Scientists Find Optimal Balance of Data Storage and Time](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)

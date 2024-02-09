@@ -11,6 +11,7 @@
 * [2024-02-06, 22:50:21](https://news.ycombinator.com/item?id=39281963) - [The leadership myth in replicated databases (2023)](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2024-02-06, 22:48:37](https://news.ycombinator.com/item?id=39281939) - [The three million toothbrush botnet story isn't true](https://cyberplace.social/@GossiTheDog/111886558855943676)
 * [2024-02-06, 22:46:27](https://news.ycombinator.com/item?id=39281914) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
+* [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
 * [2024-02-06, 21:58:56](https://news.ycombinator.com/item?id=39281297) - [Setting up a secondary Pi-Hole on my home network](https://www.dzombak.com/blog/2024/02/Setting-up-a-secondary-Pi-Hole-on-my-home-network.html)
 * [2024-02-06, 21:50:26](https://news.ycombinator.com/item?id=39281178) - [SQL for Data Scientists in 100 Queries](https://gvwilson.github.io/sql-tutorial/)
 * [2024-02-06, 21:17:35](https://news.ycombinator.com/item?id=39280756) - [Alaska Airlines flight 1282 NTSB preliminary report [pdf]](https://www.ntsb.gov/investigations/Documents/DCA24MA063%20Preliminary%20report.pdf)
