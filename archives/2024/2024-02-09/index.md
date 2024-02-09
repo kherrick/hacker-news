@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 13:45:31](https://news.ycombinator.com/item?id=39314776) - [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
 * [2024-02-09, 12:41:05](https://news.ycombinator.com/item?id=39314189) - [Huawei's offices in France raided by financial prosecutors](https://www.cnn.com/2024/02/09/tech/china-huawei-france-financial-investigation-intl-hnk/index.html)
 * [2024-02-09, 12:14:04](https://news.ycombinator.com/item?id=39314019) - ['Mr Bean' actor Rowan Atkinson blamed for slumping electric car sale in the UK](https://www.news.com.au/technology/motoring/motoring-news/rowan-atkinson-blamed-for-slumping-electric-car-sales/news-story/cc709061b0606f1d4ac4318ff0d2721f)
@@ -12,6 +13,7 @@
 * [2024-02-09, 11:55:10](https://news.ycombinator.com/item?id=39313891) - [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 11:09:49](https://news.ycombinator.com/item?id=39313646) - [World surpasses key warming threshold across an entire year](https://www.cnbc.com/2024/02/08/climate-world-surpasses-key-warming-threshold-across-an-entire-year.html)
+* [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 * [2024-02-09, 09:26:06](https://news.ycombinator.com/item?id=39313060) - [The world’s most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
