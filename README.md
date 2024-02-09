@@ -3,7 +3,7 @@
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [Writing HTTP services in Go after 13 years (Mat Ryer, 2024)](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
-* [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
+* [2024-02-09, 18:51:18](https://news.ycombinator.com/item?id=39318733) - [Research at the heart of a federal case against the abortion pill retracted](https://text.npr.org/1230175305)
 * [2024-02-09, 18:20:36](https://news.ycombinator.com/item?id=39318305) - [Hyperbridge: Fast multi-producer, multi-consumer unbounded channel in Rust](https://github.com/singaraiona/hyperbridge)
 * [2024-02-09, 17:11:35](https://news.ycombinator.com/item?id=39317300) - [I don't care about memory safety (2023)](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
 * [2024-02-09, 17:08:46](https://news.ycombinator.com/item?id=39317248) - [David Kahn, Leading Historian of Codes and Code Breaking, Dies at 93](https://www.nytimes.com/2024/02/09/us/david-kahn-dead.html)
