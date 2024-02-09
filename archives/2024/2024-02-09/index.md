@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 16:11:41](https://news.ycombinator.com/item?id=39316266) - [250M-plus reserved IPv4 addresses could be released](https://www.theregister.com/2024/02/09/240_4_ipv4_block_activism/)
 * [2024-02-09, 16:08:21](https://news.ycombinator.com/item?id=39316234) - [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
+* [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
 * [2024-02-09, 15:32:52](https://news.ycombinator.com/item?id=39315786) - [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:11:04](https://news.ycombinator.com/item?id=39315542) - [40% of Lawyers Are Women. 7% Are Black. America's Workforce in Charts](https://www.wsj.com/economy/jobs/workers-america-jobs-demographics-charts-94a5ff6c)
