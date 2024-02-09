@@ -18,6 +18,7 @@
 * [2024-02-09, 15:55:26](https://news.ycombinator.com/item?id=39316084) - [Could a Giant Parasol in Outer Space Help Solve the Climate Crisis?](https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
+* [2024-02-09, 15:40:18](https://news.ycombinator.com/item?id=39315875) - [Juniper Support Portal Exposed Customer Device Info](https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/)
 * [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
 * [2024-02-09, 15:32:52](https://news.ycombinator.com/item?id=39315786) - [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
