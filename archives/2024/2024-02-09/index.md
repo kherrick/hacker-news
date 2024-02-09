@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 12:01:09](https://news.ycombinator.com/item?id=39313928) - [Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
+* [2024-02-09, 11:55:10](https://news.ycombinator.com/item?id=39313891) - [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 11:09:49](https://news.ycombinator.com/item?id=39313646) - [World surpasses key warming threshold across an entire year](https://www.cnbc.com/2024/02/08/climate-world-surpasses-key-warming-threshold-across-an-entire-year.html)
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)

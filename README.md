@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 12:01:09](https://news.ycombinator.com/item?id=39313928) - [Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
+* [2024-02-09, 11:55:10](https://news.ycombinator.com/item?id=39313891) - [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 11:09:49](https://news.ycombinator.com/item?id=39313646) - [World surpasses key warming threshold across an entire year](https://www.cnbc.com/2024/02/08/climate-world-surpasses-key-warming-threshold-across-an-entire-year.html)
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
@@ -11,7 +12,6 @@
 * [2024-02-08, 23:18:16](https://news.ycombinator.com/item?id=39309157) - [What Does \"With Continuation\" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
 * [2024-02-08, 23:11:50](https://news.ycombinator.com/item?id=39309083) - [Walter Shawlee, the sovereign of slide rules, has died](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
 * [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
-* [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
