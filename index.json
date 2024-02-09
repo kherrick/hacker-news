@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-09, 18:43:45",
+      "https://news.ycombinator.com/item?id=39318614"
+    ],
+    [
+      "I Taught My Cat to Play the Piano [video]",
+      "https://www.youtube.com/watch?v=ZtoMiK4ywOU"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 18:29:32",
       "https://news.ycombinator.com/item?id=39318423"
     ],
@@ -21,42 +31,12 @@
   ],
   [
     [
-      "2024-02-09, 17:19:36",
-      "https://news.ycombinator.com/item?id=39317424"
-    ],
-    [
-      "FAA says 737 MAX operator discovered loose bolts in rudder control system",
-      "https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 17:16:28",
-      "https://news.ycombinator.com/item?id=39317372"
-    ],
-    [
-      "American VC Firms Investing Billions into PRC Companies Fueling the CCP Military",
-      "https://selectcommitteeontheccp.house.gov/media/press-releases/committee-report-american-vc-firms-investing-billions-prc-companies-fueling"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 17:11:35",
       "https://news.ycombinator.com/item?id=39317300"
     ],
     [
-      "I don't care about memory safety",
+      "I don't care about memory safety (2023)",
       "https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 17:00:14",
-      "https://news.ycombinator.com/item?id=39317100"
-    ],
-    [
-      "GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer",
-      "https://news.ycombinator.com/item?id=39317100"
     ]
   ],
   [
@@ -65,18 +45,8 @@
       "https://news.ycombinator.com/item?id=39316365"
     ],
     [
-      "A Case for the Preservation of Abandoned Places",
+      "A case for the preservation of abandoned places",
       "https://www.atlasobscura.com/articles/column-preservation-of-abandoned-places"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 16:10:53",
-      "https://news.ycombinator.com/item?id=39316257"
-    ],
-    [
-      "London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime",
-      "https://www.wired.com/story/london-underground-ai-surveillance-documents/"
     ]
   ],
   [
@@ -87,6 +57,16 @@
     [
       "Add coffee stains to LaTeX documents (2021)",
       "https://ctan.org/pkg/coffeestains"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 15:55:26",
+      "https://news.ycombinator.com/item?id=39316084"
+    ],
+    [
+      "Could a giant parasol in outer space help solve the climate crisis?",
+      "https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html"
     ]
   ],
   [
@@ -115,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39315875"
     ],
     [
-      "Juniper Support Portal Exposed Customer Device Info",
+      "Juniper support portal exposed customer device info",
       "https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/"
     ]
   ],
@@ -151,11 +131,21 @@
   ],
   [
     [
+      "2024-02-09, 12:01:09",
+      "https://news.ycombinator.com/item?id=39313928"
+    ],
+    [
+      "Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal",
+      "https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 11:55:10",
       "https://news.ycombinator.com/item?id=39313891"
     ],
     [
-      "Hono v4.0.0",
+      "Hono v4.0",
       "https://github.com/honojs/hono/releases/tag/v4.0.0"
     ]
   ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2024-02-09, 04:46:02",
-      "https://news.ycombinator.com/item?id=39311507"
-    ],
-    [
-      "Figure out who's leaving the company: dump, diff, repeat",
-      "https://rachelbythebay.com/w/2024/02/08/ldap/"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 00:23:01",
       "https://news.ycombinator.com/item?id=39309723"
     ],
@@ -211,11 +191,41 @@
   ],
   [
     [
+      "2024-02-08, 18:57:04",
+      "https://news.ycombinator.com/item?id=39305994"
+    ],
+    [
+      "I accidentally Blender VSE",
+      "https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 18:16:05",
+      "https://news.ycombinator.com/item?id=39305452"
+    ],
+    [
+      "Sudo for Windows",
+      "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 15:17:05",
+      "https://news.ycombinator.com/item?id=39302870"
+    ],
+    [
+      "Launch HN: AgentHub (YC W24) – A no-code automation platform",
+      "https://news.ycombinator.com/item?id=39302870"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 13:46:40",
       "https://news.ycombinator.com/item?id=39301839"
     ],
     [
-      "Light Characteristic",
+      "Light characteristic",
       "https://en.wikipedia.org/wiki/Light_characteristic"
     ]
   ],
@@ -245,18 +255,8 @@
       "https://news.ycombinator.com/item?id=39300629"
     ],
     [
-      "Cyclomatic Complexity",
+      "Cyclomatic complexity",
       "https://en.wikipedia.org/wiki/Cyclomatic_complexity"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 11:02:18",
-      "https://news.ycombinator.com/item?id=39300573"
-    ],
-    [
-      "How QUIC is displacing TCP for speed",
-      "https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=39299794"
     ],
     [
-      "Debugging Tokio Instrumentation",
+      "Debugging Tokio instrumentation",
       "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39299419"
     ],
     [
-      "Receiving Weather Satellite Images Using SatDump",
+      "Receiving weather satellite images using SatDump",
       "https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump"
     ]
   ]
