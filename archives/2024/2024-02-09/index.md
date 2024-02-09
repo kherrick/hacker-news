@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
 * [2024-02-09, 16:11:41](https://news.ycombinator.com/item?id=39316266) - [250M-plus reserved IPv4 addresses could be released](https://www.theregister.com/2024/02/09/240_4_ipv4_block_activism/)
 * [2024-02-09, 16:08:21](https://news.ycombinator.com/item?id=39316234) - [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
