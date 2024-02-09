@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 17:16:28](https://news.ycombinator.com/item?id=39317372) - [American VC Firms Investing Billions into PRC Companies Fueling the CCP Military](https://selectcommitteeontheccp.house.gov/media/press-releases/committee-report-american-vc-firms-investing-billions-prc-companies-fueling)
 * [2024-02-09, 17:00:56](https://news.ycombinator.com/item?id=39317107) - [The \"3 standup questions\" are terrible and need to die](https://morethancoding.com/2024/02/09/the-3-standup-questions-are-terrible-and-need-to-die/)
 * [2024-02-09, 17:00:14](https://news.ycombinator.com/item?id=39317100) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
 * [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
