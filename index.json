@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-02-08, 17:24:44",
-      "https://news.ycombinator.com/item?id=39304736"
-    ],
-    [
-      "FCC rules AI-generated voices in robocalls illegal",
-      "https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 15:17:05",
       "https://news.ycombinator.com/item?id=39302870"
     ],
@@ -257,6 +247,16 @@
     [
       "Context Control in Go",
       "https://zenhorace.dev/blog/context-control-go/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 08:22:56",
+      "https://news.ycombinator.com/item?id=39299599"
+    ],
+    [
+      "Rebuilding Netflix Video Processing Pipeline with Microservices",
+      "https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75"
     ]
   ],
   [
