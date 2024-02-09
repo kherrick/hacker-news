@@ -8,6 +8,8 @@
 * [2024-02-08, 23:30:36](https://news.ycombinator.com/item?id=39309269) - [You Don't Need React](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
 * [2024-02-08, 23:18:16](https://news.ycombinator.com/item?id=39309157) - [What Does \"With Continuation\" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
 * [2024-02-08, 23:12:45](https://news.ycombinator.com/item?id=39309093) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
+* [2024-02-08, 23:11:50](https://news.ycombinator.com/item?id=39309083) - [Walter Shawlee, the Sovereign of Slide Rules, Is Dead at 73](https://www.nytimes.com/2024/02/08/science/walter-shawlee-dead.html)
+* [2024-02-08, 22:45:19](https://news.ycombinator.com/item?id=39308840) - [Can AI Unlock the Secrets of the Ancient World?](https://www.bloomberg.com/features/2024-ai-unlock-ancient-world-secrets/)
 * [2024-02-08, 22:35:00](https://news.ycombinator.com/item?id=39308731) - [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
 * [2024-02-08, 22:30:02](https://news.ycombinator.com/item?id=39308679) - [Sony is erasing digital libraries that were supposed to be accessible \"forever\"](https://arstechnica.com/culture/2024/02/funimation-dvds-included-forever-available-digital-copies-forever-ends-april-2/)
 * [2024-02-08, 22:07:52](https://news.ycombinator.com/item?id=39308455) - [Lonely, but Not Always Alone](https://www.bps.org.uk/research-digest/lonely-not-always-alone)
