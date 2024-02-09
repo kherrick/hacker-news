@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-09, 22:19:14](https://news.ycombinator.com/item?id=39321181) - [iOS 17.4 Nerfs Web Apps in the EU](https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/)
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:21:58](https://news.ycombinator.com/item?id=39319191) - [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
@@ -25,7 +26,6 @@
 * [2024-02-08, 18:28:54](https://news.ycombinator.com/item?id=39305603) - [John Donne's Numbers (2010)](https://poetrywithmathematics.blogspot.com/2010/03/john-donnes-numbers.html)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Someone stole a Jasper radio station’s 200-foot tower, owner says](https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
-* [2024-02-08, 11:11:21](https://news.ycombinator.com/item?id=39300629) - [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 * [2024-02-08, 08:40:58](https://news.ycombinator.com/item?id=39299715) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-08, 08:22:56](https://news.ycombinator.com/item?id=39299599) - [Rebuilding Netflix's video processing pipeline with microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75)
 * [2024-02-08, 07:50:19](https://news.ycombinator.com/item?id=39299419) - [Receiving weather satellite images using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
