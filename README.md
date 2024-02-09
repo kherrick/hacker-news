@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:02:32](https://news.ycombinator.com/item?id=39318891) - [Mozilla places Microsoft under fire for using deceptive tricks in Edge](https://www.windowscentral.com/software-apps/browsing/hi-microsoft-please-stop-using-harmful-designs-and-deceptive-tactics-to-give-edge-the-competitive-advantage-over-other-browsers-on-windows-says-mozilla)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
@@ -12,7 +11,7 @@
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
 * [2024-02-09, 15:40:18](https://news.ycombinator.com/item?id=39315875) - [Juniper support portal exposed customer device info](https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/)
-* [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [Why Bloat Is Still Software's Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
+* [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [A 2024 plea for lean software](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:01:38](https://news.ycombinator.com/item?id=39315448) - [Scientists find optimal space-time balance for hash tables](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
 * [2024-02-09, 15:01:14](https://news.ycombinator.com/item?id=39315440) - [Tiny Quadrotor Learns to Fly in 18 Seconds](https://spectrum.ieee.org/drone-quadrotor)
@@ -21,6 +20,7 @@
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
+* [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 * [2024-02-09, 00:23:01](https://news.ycombinator.com/item?id=39309723) - [Thoughts on tech employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-08, 20:22:22](https://news.ycombinator.com/item?id=39307149) - [The Eagle Never Sleeps: one Kentucky newspaper still screams for press freedom](https://strangersguide.com/articles/the-eagle-never-sleeps/)
 * [2024-02-08, 14:06:49](https://news.ycombinator.com/item?id=39302045) - [Someone stole a Jasper radio station’s 200-foot tower, owner says](https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html)
