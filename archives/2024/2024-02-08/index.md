@@ -24,6 +24,7 @@
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [Ollama releases OpenAI API compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 20:32:02](https://news.ycombinator.com/item?id=39307284) - [The mysterious death of the ketamine priestess](https://www.ecstaticintegration.org/p/the-mysterious-death-of-the-ketamine)
 * [2024-02-08, 20:25:53](https://news.ycombinator.com/item?id=39307199) - [Phase shift between rotation and actuation predicts muscle activation patterns](https://academic.oup.com/pnasnexus/article/2/10/pgad298/7288758)
+* [2024-02-08, 20:22:22](https://news.ycombinator.com/item?id=39307149) - [The Eagle Never Sleeps: one Kentucky newspaper still screams for press freedom](https://strangersguide.com/articles/the-eagle-never-sleeps/)
 * [2024-02-08, 19:55:26](https://news.ycombinator.com/item?id=39306781) - [Is Apple breaking PWAs out of malicious compliance?](https://brucelawson.co.uk/2024/apple-breaking-pwas-out-of-malicious-compliance/)
 * [2024-02-08, 19:48:23](https://news.ycombinator.com/item?id=39306695) - [Apple Vision Pro review: Eyes on the future](https://sixcolors.com/post/2024/02/apple-vision-pro-review-eyes-on-the-future/)
 * [2024-02-08, 19:39:42](https://news.ycombinator.com/item?id=39306566) - [After Its $20B Windfall Evaporated, a Startup Picks Up the Pieces](https://www.nytimes.com/2024/02/08/technology/figma-adobe-.html)
