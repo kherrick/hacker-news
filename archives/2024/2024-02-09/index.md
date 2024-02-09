@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 08:15:45](https://news.ycombinator.com/item?id=39312613) - [Ask HN: What is your go-to stack for the web?](https://news.ycombinator.com/item?id=39312613)
 * [2024-02-09, 05:49:02](https://news.ycombinator.com/item?id=39311803) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
 * [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 * [2024-02-09, 04:11:51](https://news.ycombinator.com/item?id=39311296) - [Apple Vision Pro Owners Are Struggling to Figure Out What They Just Bought](https://nymag.com/intelligencer/article/apple-vision-pro-owners-are-wondering-what-they-bought.html)
