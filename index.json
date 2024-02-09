@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-02-09, 17:43:06",
-      "https://news.ycombinator.com/item?id=39317819"
+      "2024-02-09, 18:29:32",
+      "https://news.ycombinator.com/item?id=39318423"
     ],
     [
-      "Apple Is Lobbying Against Right to Repair 6 Months After Supporting It",
-      "https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/"
+      "Why we can’t build family-sized apartments in North America",
+      "https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america"
     ]
   ],
   [
@@ -171,6 +171,26 @@
   ],
   [
     [
+      "2024-02-09, 10:14:54",
+      "https://news.ycombinator.com/item?id=39313339"
+    ],
+    [
+      "It was almost impossible to make the blue LED [video]",
+      "https://www.youtube.com/watch?v=AF8d72mA41M"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 09:00:23",
+      "https://news.ycombinator.com/item?id=39312896"
+    ],
+    [
+      "Gemini can't show me the fastest way to copy memory in C# because it's unethical",
+      "https://twitter.com/garrynewman/status/1755851884047303012"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 04:46:02",
       "https://news.ycombinator.com/item?id=39311507"
     ],
@@ -181,42 +201,12 @@
   ],
   [
     [
-      "2024-02-09, 02:52:10",
-      "https://news.ycombinator.com/item?id=39310837"
+      "2024-02-09, 00:23:01",
+      "https://news.ycombinator.com/item?id=39309723"
     ],
     [
-      "What's new in the Postgres 16 query planner",
-      "https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 18:57:04",
-      "https://news.ycombinator.com/item?id=39305994"
-    ],
-    [
-      "I accidentally Blender VSE",
-      "https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 18:16:05",
-      "https://news.ycombinator.com/item?id=39305452"
-    ],
-    [
-      "Sudo for Windows",
-      "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 15:17:05",
-      "https://news.ycombinator.com/item?id=39302870"
-    ],
-    [
-      "Launch HN: AgentHub (YC W24) – A no-code automation platform",
-      "https://news.ycombinator.com/item?id=39302870"
+      "Thoughts on Tech Employment",
+      "https://ma.tt/2024/02/thoughts-on-tech-employment/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Context Control in Go",
       "https://zenhorace.dev/blog/context-control-go/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 08:22:56",
+      "https://news.ycombinator.com/item?id=39299599"
+    ],
+    [
+      "Rebuilding Netflix's video processing pipeline with microservices",
+      "https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75"
     ]
   ],
   [
