@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 22:19:14](https://news.ycombinator.com/item?id=39321181) - [iOS 17.4 Nerfs Web Apps in the EU](https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/)
+* [2024-02-09, 22:06:28](https://news.ycombinator.com/item?id=39321074) - [Vision Pro is second most impressive tech since the iPhone](https://twitter.com/sama/status/1756072368236376171)
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
 * [2024-02-09, 19:43:00](https://news.ycombinator.com/item?id=39319509) - [Mozilla CEO quits, pushes pivot to data privacy champion.. what about Firefox?](https://www.theregister.com/2024/02/09/opinion_column_mozilla_ceo_quits/)
@@ -19,6 +20,7 @@
 * [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 18:20:36](https://news.ycombinator.com/item?id=39318305) - [Hyperbridge: Fast multi-producer, multi-consumer unbounded channel in Rust](https://github.com/singaraiona/hyperbridge)
 * [2024-02-09, 18:10:26](https://news.ycombinator.com/item?id=39318190) - [Re: Thesis Defense Issue](https://archiveofourown.org/works/28299630)
+* [2024-02-09, 18:05:36](https://news.ycombinator.com/item?id=39318132) - [Brilliant Labs' frame AI glasses](https://brilliant.xyz/)
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
 * [2024-02-09, 17:40:41](https://news.ycombinator.com/item?id=39317782) - [A lost hiker ignored rescuers' phone calls, thinking they were spam (2021)](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
 * [2024-02-09, 17:19:36](https://news.ycombinator.com/item?id=39317424) - [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
