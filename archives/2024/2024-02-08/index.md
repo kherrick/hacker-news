@@ -67,6 +67,7 @@
 * [2024-02-08, 11:33:23](https://news.ycombinator.com/item?id=39300741) - [How iTunes Is Changing on PC](https://support.apple.com/guide/itunes/how-itunes-is-changing-itns5ecc4f3c/windows)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Gemini Ultra Released](https://one.google.com/explore-plan/gemini-advanced)
 * [2024-02-08, 11:21:04](https://news.ycombinator.com/item?id=39300679) - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
+* [2024-02-08, 11:11:21](https://news.ycombinator.com/item?id=39300629) - [Cyclomatic Complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 * [2024-02-08, 11:02:18](https://news.ycombinator.com/item?id=39300573) - [How QUIC is displacing TCP for speed](https://engineeringatscale.substack.com/p/how-quic-is-displacing-tcp-for-speed)
 * [2024-02-08, 10:53:10](https://news.ycombinator.com/item?id=39300510) - [Thermodynamic AI is getting hotter](https://gonzoml.substack.com/p/thermodynamic-ai-is-getting-hotter)
 * [2024-02-08, 10:41:47](https://news.ycombinator.com/item?id=39300447) - [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
