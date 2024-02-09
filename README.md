@@ -2,6 +2,7 @@
 
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
+* [2024-02-09, 19:21:58](https://news.ycombinator.com/item?id=39319191) - [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
 * [2024-02-09, 19:02:32](https://news.ycombinator.com/item?id=39318891) - [Mozilla places Microsoft under fire for using deceptive tricks in Edge](https://www.windowscentral.com/software-apps/browsing/hi-microsoft-please-stop-using-harmful-designs-and-deceptive-tactics-to-give-edge-the-competitive-advantage-over-other-browsers-on-windows-says-mozilla)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 19:00:23](https://news.ycombinator.com/item?id=39318860) - [Spreadsheet \"breaks\" Apple Vision Pro eye-tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
@@ -17,7 +18,6 @@
 * [2024-02-09, 15:01:38](https://news.ycombinator.com/item?id=39315448) - [Scientists find optimal space-time balance for hash tables](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
 * [2024-02-09, 15:01:14](https://news.ycombinator.com/item?id=39315440) - [Tiny Quadrotor Learns to Fly in 18 Seconds](https://spectrum.ieee.org/drone-quadrotor)
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Researchers shed light on higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
-* [2024-02-09, 12:01:09](https://news.ycombinator.com/item?id=39313928) - [Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
