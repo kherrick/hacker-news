@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 17:00:56](https://news.ycombinator.com/item?id=39317107) - [The \"3 standup questions\" are terrible and need to die](https://morethancoding.com/2024/02/09/the-3-standup-questions-are-terrible-and-need-to-die/)
 * [2024-02-09, 17:00:14](https://news.ycombinator.com/item?id=39317100) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
 * [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
 * [2024-02-09, 16:38:43](https://news.ycombinator.com/item?id=39316707) - [Another 'Great Retirement' Wave Hits the US After Stocks Rally](https://www.bloomberg.com/news/articles/2024-02-09/another-great-retirement-wave-hits-the-us-after-stocks-rally)
@@ -13,6 +14,7 @@
 * [2024-02-09, 16:10:53](https://news.ycombinator.com/item?id=39316257) - [London Underground Is Testing Real-Time AI Surveillance Tools to Spot Crime](https://www.wired.com/story/london-underground-ai-surveillance-documents/)
 * [2024-02-09, 16:08:21](https://news.ycombinator.com/item?id=39316234) - [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
+* [2024-02-09, 15:55:26](https://news.ycombinator.com/item?id=39316084) - [Could a Giant Parasol in Outer Space Help Solve the Climate Crisis?](https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
 * [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
