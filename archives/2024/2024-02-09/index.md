@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
+* [2024-02-09, 15:32:52](https://news.ycombinator.com/item?id=39315786) - [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [These states are basically begging you to get a heat pump](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:11:04](https://news.ycombinator.com/item?id=39315542) - [40% of Lawyers Are Women. 7% Are Black. America's Workforce in Charts](https://www.wsj.com/economy/jobs/workers-america-jobs-demographics-charts-94a5ff6c)
 * [2024-02-09, 14:54:16](https://news.ycombinator.com/item?id=39315378) - [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)

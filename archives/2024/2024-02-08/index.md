@@ -61,6 +61,7 @@
 * [2024-02-08, 12:30:57](https://news.ycombinator.com/item?id=39301152) - [Iran-backed hackers interrupt UAE TV streaming services with deepfake news](https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news)
 * [2024-02-08, 12:21:26](https://news.ycombinator.com/item?id=39301091) - [Walking home at night is not the same for women – study](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
 * [2024-02-08, 12:12:28](https://news.ycombinator.com/item?id=39301034) - [Web Design Inspiration](https://www.curated.design/)
+* [2024-02-08, 12:05:35](https://news.ycombinator.com/item?id=39300985) - [Controlled Tango into Terrain (2008)](https://idlewords.com/2008/04/controlled_tango_into_terrain.htm)
 * [2024-02-08, 12:00:07](https://news.ycombinator.com/item?id=39300946) - [Nimbus (YC W21) Is Hiring Founding Engineer to Make Datadog Affordable Again](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
 * [2024-02-08, 11:49:20](https://news.ycombinator.com/item?id=39300859) - [Compiling Expressions](https://craftinginterpreters.com/compiling-expressions.html)
 * [2024-02-08, 11:47:22](https://news.ycombinator.com/item?id=39300838) - [On whether we're living in a simulation](https://scottaaronson.blog/?p=7774)
