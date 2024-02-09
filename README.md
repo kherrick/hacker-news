@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 22:43:05](https://news.ycombinator.com/item?id=39321395) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
+* [2024-02-09, 22:23:13](https://news.ycombinator.com/item?id=39321225) - [Thinking about High-Quality Human Data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 * [2024-02-09, 22:11:17](https://news.ycombinator.com/item?id=39321109) - [Should I use a pie chart?](https://www.shouldiuseapiechart.com/)
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
@@ -18,7 +19,6 @@
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:01:38](https://news.ycombinator.com/item?id=39315448) - [Scientists find optimal space-time balance for hash tables](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
 * [2024-02-09, 15:01:14](https://news.ycombinator.com/item?id=39315440) - [Tiny quadrotor learns to fly in 18 seconds](https://spectrum.ieee.org/drone-quadrotor)
-* [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Researchers shed light on higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)

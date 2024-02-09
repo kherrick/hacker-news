@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 22:43:05](https://news.ycombinator.com/item?id=39321395) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
+* [2024-02-09, 22:23:13](https://news.ycombinator.com/item?id=39321225) - [Thinking about High-Quality Human Data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 * [2024-02-09, 22:19:14](https://news.ycombinator.com/item?id=39321181) - [iOS 17.4 Nerfs Web Apps in the EU](https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/)
 * [2024-02-09, 22:11:17](https://news.ycombinator.com/item?id=39321109) - [Should I use a pie chart?](https://www.shouldiuseapiechart.com/)
 * [2024-02-09, 22:06:28](https://news.ycombinator.com/item?id=39321074) - [Vision Pro is second most impressive tech since the iPhone](https://twitter.com/sama/status/1756072368236376171)
