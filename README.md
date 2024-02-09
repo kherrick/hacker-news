@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
+* [2024-02-09, 04:11:51](https://news.ycombinator.com/item?id=39311296) - [Apple Vision Pro Owners Are Struggling to Figure Out What They Just Bought](https://nymag.com/intelligencer/article/apple-vision-pro-owners-are-wondering-what-they-bought.html)
 * [2024-02-09, 02:52:10](https://news.ycombinator.com/item?id=39310837) - [What's new in the Postgres 16 query planner (a.k.a. optimizer)](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 02:11:17](https://news.ycombinator.com/item?id=39310605) - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
 * [2024-02-09, 02:05:16](https://news.ycombinator.com/item?id=39310563) - [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0)
@@ -20,7 +22,6 @@
 * [2024-02-08, 18:16:05](https://news.ycombinator.com/item?id=39305452) - [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
-* [2024-02-08, 16:46:06](https://news.ycombinator.com/item?id=39304188) - [LLRT: A low-latency JavaScript runtime from AWS](https://github.com/awslabs/llrt)
 * [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Show HN: Daily price tracking for Trader Joe's](https://traderjoesprices.com)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
@@ -28,7 +29,6 @@
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
-* [2024-02-07, 12:58:21](https://news.ycombinator.com/item?id=39287983) - [An autonomous robot arm that you can play against](https://github.com/02alexander/robby-fischer)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
 ## [Archives](archives/index.md)
