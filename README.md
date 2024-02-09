@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 02:52:10](https://news.ycombinator.com/item?id=39310837) - [What's new in the Postgres 16 query planner (a.k.a. optimizer)](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+* [2024-02-09, 02:24:01](https://news.ycombinator.com/item?id=39310688) - [Quartz – PKM Oriented SSG for Markdown](https://github.com/jackyzha0/quartz)
 * [2024-02-09, 02:11:17](https://news.ycombinator.com/item?id=39310605) - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
 * [2024-02-09, 01:01:16](https://news.ycombinator.com/item?id=39310059) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
 * [2024-02-09, 00:34:17](https://news.ycombinator.com/item?id=39309820) - [The (history of) spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
@@ -21,7 +22,6 @@
 * [2024-02-08, 18:16:05](https://news.ycombinator.com/item?id=39305452) - [Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 17:24:44](https://news.ycombinator.com/item?id=39304736) - [FCC rules AI-generated voices in robocalls illegal](https://www.fcc.gov/document/fcc-makes-ai-generated-voices-robocalls-illegal)
 * [2024-02-08, 17:18:49](https://news.ycombinator.com/item?id=39304650) - [J.G. Ballard: My Favorite Books](https://thereader.mitpress.mit.edu/j-g-ballard-my-favorite-books/)
-* [2024-02-08, 16:46:06](https://news.ycombinator.com/item?id=39304188) - [LLRT: A low-latency JavaScript runtime from AWS](https://github.com/awslabs/llrt)
 * [2024-02-08, 16:37:38](https://news.ycombinator.com/item?id=39304068) - [Show HN: Daily price tracking for Trader Joe's](https://traderjoesprices.com)
 * [2024-02-08, 15:17:05](https://news.ycombinator.com/item?id=39302870) - [Launch HN: AgentHub (YC W24) – A no-code automation platform](https://news.ycombinator.com/item?id=39302870)
 * [2024-02-08, 15:06:47](https://news.ycombinator.com/item?id=39302744) - [Mozilla names new CEO as it pivots to data privacy](https://fortune.com/2024/02/08/mozilla-firefox-ceo-laura-chambers-mitchell-baker-leadership-transition/)
