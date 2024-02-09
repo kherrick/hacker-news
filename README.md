@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
-* [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
 * [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 * [2024-02-09, 02:52:10](https://news.ycombinator.com/item?id=39310837) - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 02:11:17](https://news.ycombinator.com/item?id=39310605) - [The Triumph and Terror of Wang Huning](https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0)
@@ -29,6 +28,7 @@
 * [2024-02-08, 08:01:00](https://news.ycombinator.com/item?id=39299482) - [Lamport Clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-08, 07:55:58](https://news.ycombinator.com/item?id=39299455) - [Spectrum Analyser, a Sinclair ZX Spectrum reverse engineering tool](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-08, 07:50:19](https://news.ycombinator.com/item?id=39299419) - [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
+* [2024-02-08, 02:33:50](https://news.ycombinator.com/item?id=39297185) - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 * [2024-02-07, 11:12:24](https://news.ycombinator.com/item?id=39287120) - [\"Niksen\": The art of doing nothing](https://www.theguardian.com/lifeandstyle/2024/feb/07/the-art-of-doing-nothing-have-the-dutch-found-the-answer-to-burnout-culture)
 
 ## [Archives](archives/index.md)
