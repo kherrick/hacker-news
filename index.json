@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-02-09, 18:43:45",
-      "https://news.ycombinator.com/item?id=39318614"
+      "2024-02-09, 19:00:59",
+      "https://news.ycombinator.com/item?id=39318867"
     ],
     [
-      "I Taught My Cat to Play the Piano [video]",
-      "https://www.youtube.com/watch?v=ZtoMiK4ywOU"
+      "Writing HTTP services in Go after 13 years (Mat Ryer, 2024)",
+      "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 18:53:56",
+      "https://news.ycombinator.com/item?id=39318774"
+    ],
+    [
+      "Data Structures for Data-Intensive Applications [pdf]",
+      "https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 18:51:18",
+      "https://news.ycombinator.com/item?id=39318733"
+    ],
+    [
+      "Research at the heart of a federal case against the abortion pill retracted",
+      "https://text.npr.org/1230175305"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-02-09, 14:54:16",
-      "https://news.ycombinator.com/item?id=39315378"
-    ],
-    [
-      "An extreme ice-age climate 700M years ago",
-      "https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 13:19:50",
       "https://news.ycombinator.com/item?id=39314550"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-02-09, 04:46:02",
+      "https://news.ycombinator.com/item?id=39311507"
+    ],
+    [
+      "Figure out who's leaving the company: dump, diff, repeat",
+      "https://rachelbythebay.com/w/2024/02/08/ldap/"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 00:23:01",
       "https://news.ycombinator.com/item?id=39309723"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-02-08, 18:57:04",
-      "https://news.ycombinator.com/item?id=39305994"
+      "2024-02-08, 14:06:49",
+      "https://news.ycombinator.com/item?id=39302045"
     ],
     [
-      "I accidentally Blender VSE",
-      "https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 18:16:05",
-      "https://news.ycombinator.com/item?id=39305452"
-    ],
-    [
-      "Sudo for Windows",
-      "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 15:17:05",
-      "https://news.ycombinator.com/item?id=39302870"
-    ],
-    [
-      "Launch HN: AgentHub (YC W24) – A no-code automation platform",
-      "https://news.ycombinator.com/item?id=39302870"
+      "Someone stole a Jasper radio station’s 200-foot tower, owner says",
+      "https://www.al.com/news/2024/02/someone-stole-a-jasper-radio-stations-200-foot-tower-owner-says.html"
     ]
   ],
   [
