@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
+* [2024-02-09, 12:41:05](https://news.ycombinator.com/item?id=39314189) - [Huawei's offices in France raided by financial prosecutors](https://www.cnn.com/2024/02/09/tech/china-huawei-france-financial-investigation-intl-hnk/index.html)
 * [2024-02-09, 12:14:04](https://news.ycombinator.com/item?id=39314019) - ['Mr Bean' actor Rowan Atkinson blamed for slumping electric car sale in the UK](https://www.news.com.au/technology/motoring/motoring-news/rowan-atkinson-blamed-for-slumping-electric-car-sales/news-story/cc709061b0606f1d4ac4318ff0d2721f)
+* [2024-02-09, 12:10:44](https://news.ycombinator.com/item?id=39314001) - [OpenAI on track to hit $2B revenue milestone as growth rockets](https://www.ft.com/content/81ac0e78-5b9b-43c2-b135-d11c47480119)
 * [2024-02-09, 12:01:09](https://news.ycombinator.com/item?id=39313928) - [Circle Medical (YC S15) Is Hiring Ruby Engineers in Montreal](https://www.ycombinator.com/companies/circle-medical/jobs/2RM7yFC-senior-backend-engineer)
 * [2024-02-09, 11:55:10](https://news.ycombinator.com/item?id=39313891) - [Hono v4.0.0](https://github.com/honojs/hono/releases/tag/v4.0.0)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City](https://www.gregegan.net/PERMUTATION/Permutation.html)
