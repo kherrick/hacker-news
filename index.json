@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-09, 19:59:06",
+      "https://news.ycombinator.com/item?id=39319746"
+    ],
+    [
+      "JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4",
+      "https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 19:22:26",
       "https://news.ycombinator.com/item?id=39319202"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=39318867"
     ],
     [
-      "Writing HTTP services in Go after 13 years (Mat Ryer, 2024)",
+      "How I write HTTP services in Go after 13 years",
       "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
     ]
   ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-02-09, 18:10:26",
+      "https://news.ycombinator.com/item?id=39318190"
+    ],
+    [
+      "Re: Thesis Defense Issue",
+      "https://archiveofourown.org/works/28299630"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 17:11:35",
       "https://news.ycombinator.com/item?id=39317300"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2024-02-09, 15:55:26",
-      "https://news.ycombinator.com/item?id=39316084"
-    ],
-    [
-      "Could a giant parasol in outer space help solve the climate crisis?",
-      "https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 15:48:29",
       "https://news.ycombinator.com/item?id=39315986"
     ],
     [
       "Goody-2, the world's most responsible AI model",
       "https://www.goody2.ai/chat"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 15:40:30",
-      "https://news.ycombinator.com/item?id=39315880"
-    ],
-    [
-      "Fedora Atomic Desktops",
-      "https://fedoramagazine.org/introducing-fedora-atomic-desktops/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-02-09, 04:46:02",
-      "https://news.ycombinator.com/item?id=39311507"
-    ],
-    [
-      "Figure out who's leaving the company: dump, diff, repeat",
-      "https://rachelbythebay.com/w/2024/02/08/ldap/"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 00:23:01",
       "https://news.ycombinator.com/item?id=39309723"
     ],
     [
       "Thoughts on Tech Employment",
       "https://ma.tt/2024/02/thoughts-on-tech-employment/"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 20:32:02",
+      "https://news.ycombinator.com/item?id=39307284"
+    ],
+    [
+      "The mysterious death of the ketamine priestess",
+      "https://www.ecstaticintegration.org/p/the-mysterious-death-of-the-ketamine"
     ]
   ],
   [
