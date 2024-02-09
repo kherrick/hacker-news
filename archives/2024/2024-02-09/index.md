@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 17:43:06](https://news.ycombinator.com/item?id=39317819) - [Apple Is Lobbying Against Right to Repair 6 Months After Supporting It](https://www.404media.co/apple-is-lobbying-against-right-to-repair-again/)
+* [2024-02-09, 17:40:41](https://news.ycombinator.com/item?id=39317782) - [A lost hiker ignored rescuers' phone calls, thinking they were spam (2021)](https://www.npr.org/2021/10/26/1049252333/lost-hiker-mount-elbert-colorado-ignored-rescuers-phone-calls)
 * [2024-02-09, 17:19:36](https://news.ycombinator.com/item?id=39317424) - [FAA says 737 MAX operator discovered loose bolts in rudder control system](https://thehill.com/regulation/transportation/4458220-faa-says-737-max-operator-discovered-loose-bolts-in-rudder-control-system-on-plane/)
 * [2024-02-09, 17:16:28](https://news.ycombinator.com/item?id=39317372) - [American VC Firms Investing Billions into PRC Companies Fueling the CCP Military](https://selectcommitteeontheccp.house.gov/media/press-releases/committee-report-american-vc-firms-investing-billions-prc-companies-fueling)
+* [2024-02-09, 17:11:35](https://news.ycombinator.com/item?id=39317300) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall)
+* [2024-02-09, 17:02:30](https://news.ycombinator.com/item?id=39317135) - [The Far Right's Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
 * [2024-02-09, 17:00:56](https://news.ycombinator.com/item?id=39317107) - [The \"3 standup questions\" are terrible and need to die](https://morethancoding.com/2024/02/09/the-3-standup-questions-are-terrible-and-need-to-die/)
 * [2024-02-09, 17:00:14](https://news.ycombinator.com/item?id=39317100) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
 * [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
