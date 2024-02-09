@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-09, 01:01:16](https://news.ycombinator.com/item?id=39310059) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring](https://news.ycombinator.com/item?id=39310059)
+* [2024-02-09, 00:34:17](https://news.ycombinator.com/item?id=39309820) - [The (history of) spice must flow](https://resobscura.substack.com/p/the-history-of-spice-must-flow)
 * [2024-02-08, 23:38:56](https://news.ycombinator.com/item?id=39309337) - [Funimation End of Services](https://help.funimation.com/hc/en-us/articles/23103586580244-Funimation-End-of-services)
-* [2024-02-08, 23:30:36](https://news.ycombinator.com/item?id=39309269) - [You Don't Need React](https://md.jtmn.dev/blog/💻+Programming/PR-007+-+Why+you+don%27t+need+React)
 * [2024-02-08, 23:18:16](https://news.ycombinator.com/item?id=39309157) - [What Does \"With Continuation\" Mean?](https://forum.snap.berkeley.edu/t/what-does-with-continuation-mean/1518/2)
 * [2024-02-08, 23:12:45](https://news.ycombinator.com/item?id=39309093) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 22:35:00](https://news.ycombinator.com/item?id=39308731) - [Canadian government banning Flipper Zero to combat auto theft](https://www.canada.ca/en/public-safety-canada/news/2024/02/federal-action-on-combatting-auto-theft.html)
@@ -9,7 +10,6 @@
 * [2024-02-08, 22:05:08](https://news.ycombinator.com/item?id=39308420) - [Multics and AS400：DPS8M on IBM PASE for I (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 22:02:23](https://news.ycombinator.com/item?id=39308382) - [Show HN: Open-source coding assistant with terminal access](https://docs.sweep.dev/assistant)
 * [2024-02-08, 21:04:59](https://news.ycombinator.com/item?id=39307677) - [Doorway effect](https://en.wikipedia.org/wiki/Doorway_effect)
-* [2024-02-08, 21:00:29](https://news.ycombinator.com/item?id=39307618) - [Reflex (YC W23) Is Hiring a Founding Developer Advocate](https://www.ycombinator.com/companies/reflex/jobs/lLd7KYY-founding-developer-advocate)
 * [2024-02-08, 20:41:41](https://news.ycombinator.com/item?id=39307394) - [How to (seriously) read a scientific paper (2016)](https://www.science.org/content/article/how-seriously-read-scientific-paper)
 * [2024-02-08, 20:36:08](https://news.ycombinator.com/item?id=39307330) - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
 * [2024-02-08, 19:25:07](https://news.ycombinator.com/item?id=39306352) - [Baruch Spinoza and the art of thinking in dangerous times](https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times)
