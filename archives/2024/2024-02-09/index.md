@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
 * [2024-02-09, 08:15:45](https://news.ycombinator.com/item?id=39312613) - [Ask HN: What is your go-to stack for the web?](https://news.ycombinator.com/item?id=39312613)
 * [2024-02-09, 05:49:02](https://news.ycombinator.com/item?id=39311803) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
