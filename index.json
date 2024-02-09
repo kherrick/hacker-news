@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39313696"
     ],
     [
-      "Permutation City",
+      "Permutation City (2007)",
       "https://www.gregegan.net/PERMUTATION/Permutation.html"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Russian troops use Starlink licensed and imported from Dubai",
       "https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 09:26:06",
+      "https://news.ycombinator.com/item?id=39313060"
+    ],
+    [
+      "The world’s most responsible AI model",
+      "https://www.goody2.ai/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "What's new in the Postgres 16 query planner",
       "https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 02:11:17",
+      "https://news.ycombinator.com/item?id=39310605"
+    ],
+    [
+      "The Triumph and Terror of Wang Huning",
+      "https://letter.palladiummag.com/p/the-triumph-and-terror-of-wang-huning-3b0"
     ]
   ],
   [
@@ -121,22 +141,12 @@
   ],
   [
     [
-      "2024-02-08, 21:04:59",
-      "https://news.ycombinator.com/item?id=39307677"
+      "2024-02-08, 22:05:08",
+      "https://news.ycombinator.com/item?id=39308420"
     ],
     [
-      "Doorway effect",
-      "https://en.wikipedia.org/wiki/Doorway_effect"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 20:41:41",
-      "https://news.ycombinator.com/item?id=39307394"
-    ],
-    [
-      "How to (seriously) read a scientific paper (2016)",
-      "https://www.science.org/content/article/how-seriously-read-scientific-paper"
+      "Multics and AS400：DPS8M on IBM PASE for I (OS/400)",
+      "https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2024-02-08, 19:25:07",
-      "https://news.ycombinator.com/item?id=39306352"
-    ],
-    [
-      "Baruch Spinoza and the art of thinking in dangerous times",
-      "https://www.newyorker.com/magazine/2024/02/12/baruch-spinoza-and-the-art-of-thinking-in-dangerous-times"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 18:57:04",
       "https://news.ycombinator.com/item?id=39305994"
     ],
     [
       "I accidentally Blender VSE",
       "https://aras-p.info/blog/2024/02/06/I-accidentally-Blender-VSE/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 18:52:37",
-      "https://news.ycombinator.com/item?id=39305931"
-    ],
-    [
-      "Physics for Mathematicians – Introduction",
-      "https://nicf.net/articles/physics-for-mathematicians/"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-02-08, 13:57:19",
-      "https://news.ycombinator.com/item?id=39301944"
+      "2024-02-08, 13:07:37",
+      "https://news.ycombinator.com/item?id=39301495"
     ],
     [
-      "Grandmaster-Level Chess Without Search",
-      "https://arxiv.org/abs/2402.04494"
+      "Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced",
+      "https://blog.google/products/gemini/bard-gemini-advanced-app/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Cyclomatic Complexity",
       "https://en.wikipedia.org/wiki/Cyclomatic_complexity"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 08:51:51",
+      "https://news.ycombinator.com/item?id=39299794"
+    ],
+    [
+      "Debugging Tokio Instrumentation",
+      "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
     ]
   ],
   [
