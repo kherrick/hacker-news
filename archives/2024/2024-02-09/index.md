@@ -42,6 +42,7 @@
 * [2024-02-09, 17:02:30](https://news.ycombinator.com/item?id=39317135) - [The Far Right's Favorite Web Host Has a Shadowy New Owner](https://www.wired.com/story/epik-domain-registrar-new-owner/)
 * [2024-02-09, 17:00:56](https://news.ycombinator.com/item?id=39317107) - [The \"3 standup questions\" are terrible and need to die](https://morethancoding.com/2024/02/09/the-3-standup-questions-are-terrible-and-need-to-die/)
 * [2024-02-09, 17:00:14](https://news.ycombinator.com/item?id=39317100) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=39317100)
+* [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
 * [2024-02-09, 16:43:19](https://news.ycombinator.com/item?id=39316796) - [Inflation in December was even lower than first reported, the government says](https://www.cnbc.com/2024/02/09/-inflation-in-december-was-even-lower-than-first-reported-the-government-says.html)
 * [2024-02-09, 16:38:43](https://news.ycombinator.com/item?id=39316707) - [Another 'Great Retirement' Wave Hits the US After Stocks Rally](https://www.bloomberg.com/news/articles/2024-02-09/another-great-retirement-wave-hits-the-us-after-stocks-rally)
 * [2024-02-09, 16:35:36](https://news.ycombinator.com/item?id=39316653) - [I'm an engineer that needs to sell my services. Any good books on sales?](https://news.ycombinator.com/item?id=39316653)
