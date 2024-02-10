@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-02-09, 22:02:15",
-      "https://news.ycombinator.com/item?id=39321038"
-    ],
-    [
-      "Are you sure you want to use MMAP in your DBMS?",
-      "https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 21:42:38",
       "https://news.ycombinator.com/item?id=39320868"
     ],
@@ -207,6 +197,16 @@
     [
       "Postgres as queue",
       "https://leontrolski.github.io/postgres-as-queue.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 15:24:49",
+      "https://news.ycombinator.com/item?id=39315689"
+    ],
+    [
+      "Dax – Cross-platform shell for Node.js",
+      "https://david.deno.dev/posts/dax-node-js/"
     ]
   ],
   [
