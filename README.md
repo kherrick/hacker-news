@@ -8,6 +8,7 @@
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 21:39:27](https://news.ycombinator.com/item?id=39320846) - [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
 * [2024-02-09, 19:21:58](https://news.ycombinator.com/item?id=39319191) - [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
+* [2024-02-09, 19:21:40](https://news.ycombinator.com/item?id=39319186) - [A glaring error in methane flaring (2022)](https://arstechnica.com/science/2022/09/oil-industry-flaring-less-effective-than-thought-study/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 19:00:23](https://news.ycombinator.com/item?id=39318860) - [Spreadsheet \"breaks\" Apple Vision Pro eye-tracking](https://kguttag.com/2024/02/05/spreadsheet-breaks-the-apple-vision-pros-avp-eye-tracking-foveation-the-first-through-the-optics-pictures/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
@@ -28,7 +29,6 @@
 * [2024-02-08, 18:28:54](https://news.ycombinator.com/item?id=39305603) - [John Donne's numbers (2010)](https://poetrywithmathematics.blogspot.com/2010/03/john-donnes-numbers.html)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
-* [2024-02-08, 08:40:58](https://news.ycombinator.com/item?id=39299715) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
 
 ## [Archives](archives/index.md)
