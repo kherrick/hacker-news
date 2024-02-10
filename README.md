@@ -27,9 +27,9 @@
 * [2024-02-08, 20:22:22](https://news.ycombinator.com/item?id=39307149) - [The Eagle Never Sleeps: one Kentucky newspaper still screams for press freedom](https://strangersguide.com/articles/the-eagle-never-sleeps/)
 * [2024-02-08, 18:28:54](https://news.ycombinator.com/item?id=39305603) - [John Donne's numbers (2010)](https://poetrywithmathematics.blogspot.com/2010/03/john-donnes-numbers.html)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
+* [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
 * [2024-02-08, 08:40:58](https://news.ycombinator.com/item?id=39299715) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
-* [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
 
 ## [Archives](archives/index.md)
 
