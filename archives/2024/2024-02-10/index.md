@@ -9,6 +9,7 @@
 * [2024-02-10, 14:56:33](https://news.ycombinator.com/item?id=39326559) - [I Was Illegally Fired by Amazon for Speaking Out About a Coworker's Death (2023)](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
 * [2024-02-10, 14:46:53](https://news.ycombinator.com/item?id=39326486) - [Is the Media Prepared for an Extinction-Level Event?](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event)
 * [2024-02-10, 14:36:17](https://news.ycombinator.com/item?id=39326401) - [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
+* [2024-02-10, 14:33:17](https://news.ycombinator.com/item?id=39326377) - [The 'Unthinkable' New Reality About Bedbugs](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
 * [2024-02-10, 14:33:11](https://news.ycombinator.com/item?id=39326376) - [Broken to BBS: A Dell 286 Restoration](https://www.youtube.com/watch?v=3wgiQDmeFQU)
 * [2024-02-10, 14:25:01](https://news.ycombinator.com/item?id=39326333) - [The Race Is on to Stop Ozempic Muscle Loss](https://www.nytimes.com/2024/02/08/well/live/ozempic-muscle-loss-exercise.html)
 * [2024-02-10, 14:06:31](https://news.ycombinator.com/item?id=39326201) - [Walmart, Delta, and Starbucks are using AI to monitor employee messages](https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html)
