@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a Growth Engineer (small team,fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
-* [2024-02-10, 19:35:48](https://news.ycombinator.com/item?id=39329472) - [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
+* [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)

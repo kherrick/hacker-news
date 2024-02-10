@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
 * [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a Growth Engineer (small team,fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+* [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 19:35:48](https://news.ycombinator.com/item?id=39329472) - [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
 * [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
