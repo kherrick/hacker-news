@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 11:06:25](https://news.ycombinator.com/item?id=39325265) - [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
@@ -20,7 +21,6 @@
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
 * [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
-* [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
 * [2024-02-09, 15:24:49](https://news.ycombinator.com/item?id=39315689) - [Dax – Cross-platform shell for Node.js](https://david.deno.dev/posts/dax-node-js/)
