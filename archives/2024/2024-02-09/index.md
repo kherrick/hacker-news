@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
 * [2024-02-09, 23:59:58](https://news.ycombinator.com/item?id=39322018) - [Somewhere There's Cheese](https://www.brightwalldarkroom.com/2024/02/08/a-grand-day-out/)
+* [2024-02-09, 23:59:29](https://news.ycombinator.com/item?id=39322012) - [A nuclear weapons lab helped crack a serial-killer case](https://undark.org/2024/02/09/wilo-serial-killer-nuclear-lab/)
 * [2024-02-09, 22:43:05](https://news.ycombinator.com/item?id=39321395) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 * [2024-02-09, 22:23:13](https://news.ycombinator.com/item?id=39321225) - [Thinking about High-Quality Human Data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 * [2024-02-09, 22:19:14](https://news.ycombinator.com/item?id=39321181) - [iOS 17.4 Nerfs Web Apps in the EU](https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/)
@@ -64,6 +65,7 @@
 * [2024-02-09, 15:01:14](https://news.ycombinator.com/item?id=39315440) - [Tiny Quadrotor Learns to Fly in 18 Seconds](https://spectrum.ieee.org/drone-quadrotor)
 * [2024-02-09, 14:54:16](https://news.ycombinator.com/item?id=39315378) - [What Turned Earth into a Giant Snowball 700M Years Ago?](https://astrobiology.com/2024/02/what-turned-earth-into-a-giant-snowball-700m-years-ago.html)
 * [2024-02-09, 14:53:06](https://news.ycombinator.com/item?id=39315367) - [Jury awards climate scientist Michael Mann $1M in defamation lawsuit](https://apnews.com/article/climate-change-defamation-michael-mann-penn-state-61289ee2d8d2143768d28995c83899ef)
+* [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
 * [2024-02-09, 13:45:31](https://news.ycombinator.com/item?id=39314776) - [VR porn a no go for Apple Vision Pro users as capability blocked by Apple](https://www.notebookcheck.net/VR-porn-a-no-go-for-Apple-Vision-Pro-users-as-capability-blocked-by-Apple.801282.0.html)
 * [2024-02-09, 13:19:50](https://news.ycombinator.com/item?id=39314550) - [Mysterious, higher energy yields in vertical PV systems](https://www.pv-magazine.com/2023/11/10/researchers-shed-light-on-mysterious-higher-energy-yields-in-vertical-pv-systems/)
 * [2024-02-09, 12:41:05](https://news.ycombinator.com/item?id=39314189) - [Huawei's offices in France raided by financial prosecutors](https://www.cnn.com/2024/02/09/tech/china-huawei-france-financial-investigation-intl-hnk/index.html)
