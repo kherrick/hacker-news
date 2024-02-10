@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
+* [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
 * [2024-02-10, 17:42:53](https://news.ycombinator.com/item?id=39328336) - [Xist ribonucleoproteins promote female sex-biased autoimmunity](https://www.cell.com/cell/fulltext/S0092-8674(24)00002-3)
 * [2024-02-10, 17:13:19](https://news.ycombinator.com/item?id=39328007) - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
