@@ -22,6 +22,7 @@
 * [2024-02-07, 21:09:09](https://news.ycombinator.com/item?id=39294346) - [The appendix is not, in fact, useless](https://www.npr.org/sections/health-shots/2024/02/02/1228474984/appendix-function-appendicitis-gut-health)
 * [2024-02-07, 21:08:59](https://news.ycombinator.com/item?id=39294345) - [Rebecca Solnit: How to Comment on Social Media](https://lithub.com/rebecca-solnit-how-to-comment-on-social-media/)
 * [2024-02-07, 21:01:30](https://news.ycombinator.com/item?id=39294277) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
 * [2024-02-07, 20:07:40](https://news.ycombinator.com/item?id=39293589) - [Adult Komodo teeth are similar to those of theropod dinosaurs: new research](https://phys.org/news/2024-02-adult-komodo-teeth-similar-theropod.html)
 * [2024-02-07, 19:59:29](https://news.ycombinator.com/item?id=39293470) - [Hyper-Reality (2016) [video]](https://vimeo.com/166807261)
 * [2024-02-07, 19:56:43](https://news.ycombinator.com/item?id=39293441) - [Struggling 23andMe Is Exploring Splitting the DNA Company in Two](https://www.bloomberg.com/news/articles/2024-02-07/23andme-ceo-explores-splitting-dna-company-in-two)
