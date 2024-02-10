@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 04:06:56](https://news.ycombinator.com/item?id=39323487) - [Shell closes all of its hydrogen refuelling stations for cars in California](https://www.hydrogeninsight.com/transport/shell-permanently-closes-all-of-its-hydrogen-refuelling-stations-for-cars-in-california/2-1-1596104?zephr_sso_ott=ynOWoF)
 * [2024-02-10, 02:09:45](https://news.ycombinator.com/item?id=39322859) - [Carl Griffith's 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
 * [2024-02-10, 00:58:59](https://news.ycombinator.com/item?id=39322388) - [Espressif ESP32: Breaking HW AES with Power Analysis (2023)](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
 * [2024-02-10, 00:22:45](https://news.ycombinator.com/item?id=39322173) - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
@@ -25,7 +26,6 @@
 * [2024-02-09, 15:01:14](https://news.ycombinator.com/item?id=39315440) - [Tiny quadrotor learns to fly in 18 seconds](https://spectrum.ieee.org/drone-quadrotor)
 * [2024-02-09, 11:18:07](https://news.ycombinator.com/item?id=39313696) - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 * [2024-02-09, 11:05:39](https://news.ycombinator.com/item?id=39313623) - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
-* [2024-02-09, 00:23:01](https://news.ycombinator.com/item?id=39309723) - [Thoughts on tech employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-08, 20:22:22](https://news.ycombinator.com/item?id=39307149) - [The Eagle Never Sleeps: one Kentucky newspaper still screams for press freedom](https://strangersguide.com/articles/the-eagle-never-sleeps/)
 * [2024-02-08, 18:28:54](https://news.ycombinator.com/item?id=39305603) - [John Donne's numbers (2010)](https://poetrywithmathematics.blogspot.com/2010/03/john-donnes-numbers.html)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
