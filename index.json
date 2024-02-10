@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-10, 06:01:20",
+      "https://news.ycombinator.com/item?id=39323986"
+    ],
+    [
+      "Google ZX – A tool for writing better scripts",
+      "https://github.com/google/zx"
+    ]
+  ],
+  [
+    [
       "2024-02-10, 05:57:00",
       "https://news.ycombinator.com/item?id=39323973"
     ],
@@ -197,16 +207,6 @@
     [
       "Postgres as queue",
       "https://leontrolski.github.io/postgres-as-queue.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 15:24:49",
-      "https://news.ycombinator.com/item?id=39315689"
-    ],
-    [
-      "Dax – Cross-platform shell for Node.js",
-      "https://david.deno.dev/posts/dax-node-js/"
     ]
   ],
   [
