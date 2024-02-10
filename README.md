@@ -2,6 +2,7 @@
 
 * [2024-02-10, 12:52:24](https://news.ycombinator.com/item?id=39325829) - [How to Be Someone People Love to Talk to (2015)](https://bakadesuyo.com/2015/02/love-to-talk/)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
+* [2024-02-10, 12:23:15](https://news.ycombinator.com/item?id=39325648) - [Study captures hard truth: Walking home at night is not the same for women](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
 * [2024-02-10, 12:00:24](https://news.ycombinator.com/item?id=39325531) - [Dyte (YC W21) Is Hiring Support Engineers (Latin America)](https://news.ycombinator.com/item?id=39325531)
 * [2024-02-10, 11:40:36](https://news.ycombinator.com/item?id=39325441) - [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
@@ -20,14 +21,13 @@
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
-* [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
-* [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
 * [2024-02-09, 15:24:49](https://news.ycombinator.com/item?id=39315689) - [Dax – Cross-platform shell for Node.js](https://david.deno.dev/posts/dax-node-js/)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
 * [2024-02-09, 11:05:39](https://news.ycombinator.com/item?id=39313623) - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
+* [2024-02-09, 05:57:52](https://news.ycombinator.com/item?id=39311852) - ['What do you mean, the tower is gone?'](https://www.theguardian.com/us-news/2024/feb/08/alabama-200ft-radio-tower-stolen)
 * [2024-02-09, 05:44:46](https://news.ycombinator.com/item?id=39311787) - [Bayesian Analysis with Python](http://bap.com.ar/)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
 
