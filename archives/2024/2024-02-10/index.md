@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 14:46:53](https://news.ycombinator.com/item?id=39326486) - [Is the Media Prepared for an Extinction-Level Event?](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event)
+* [2024-02-10, 14:33:11](https://news.ycombinator.com/item?id=39326376) - [Broken to BBS: A Dell 286 Restoration](https://www.youtube.com/watch?v=3wgiQDmeFQU)
 * [2024-02-10, 13:46:28](https://news.ycombinator.com/item?id=39326092) - [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
 * [2024-02-10, 13:28:47](https://news.ycombinator.com/item?id=39325983) - [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
 * [2024-02-10, 12:52:24](https://news.ycombinator.com/item?id=39325829) - [How to Be Someone People Love to Talk to (2015)](https://bakadesuyo.com/2015/02/love-to-talk/)
