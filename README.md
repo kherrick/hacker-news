@@ -2,6 +2,7 @@
 
 * [2024-02-10, 17:00:43](https://news.ycombinator.com/item?id=39327862) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
+* [2024-02-10, 16:38:48](https://news.ycombinator.com/item?id=39327578) - [Lag in Cybertruck's drive-by-wire system](https://twitter.com/Factschaser/status/1756032906290434514)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
 * [2024-02-10, 16:06:12](https://news.ycombinator.com/item?id=39327199) - [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
@@ -19,7 +20,6 @@
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 05:37:04](https://news.ycombinator.com/item?id=39323893) - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 * [2024-02-10, 04:29:14](https://news.ycombinator.com/item?id=39323601) - [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
-* [2024-02-09, 23:59:29](https://news.ycombinator.com/item?id=39322012) - [A nuclear weapons lab helped crack a serial-killer case](https://undark.org/2024/02/09/wilo-serial-killer-nuclear-lab/)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
 * [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
 * [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
