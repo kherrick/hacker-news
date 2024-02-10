@@ -14,7 +14,6 @@
 * [2024-02-10, 14:36:17](https://news.ycombinator.com/item?id=39326401) - [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
 * [2024-02-10, 14:33:17](https://news.ycombinator.com/item?id=39326377) - [Getting rid of bed bugs: trickier than ever](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
 * [2024-02-10, 14:33:11](https://news.ycombinator.com/item?id=39326376) - [Broken to BBS: A Dell 286 Restoration [video]](https://www.youtube.com/watch?v=3wgiQDmeFQU)
-* [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [The Tears of a Clown: Probing the comedian's psyche (2008)](https://www.psychologytoday.com/gb/blog/beautiful-minds/200812/the-tears-clown)
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
@@ -28,6 +27,7 @@
 * [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
+* [2024-02-09, 10:04:42](https://news.ycombinator.com/item?id=39313298) - [The Sankey Photography Archive](https://www.sankeyphotoarchive.uk/)
 * [2024-02-09, 09:06:30](https://news.ycombinator.com/item?id=39312935) - [Earthquake Fish](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=951:earthquake-fish-academia-sinicabetty-lin&catid=163:biosphere-and-nature&Itemid=210)
 * [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 
