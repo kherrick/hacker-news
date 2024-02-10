@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
 * [2024-02-10, 17:00:43](https://news.ycombinator.com/item?id=39327862) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 * [2024-02-10, 16:38:48](https://news.ycombinator.com/item?id=39327578) - [Lag in Cybertruck's drive-by-wire system](https://twitter.com/Factschaser/status/1756032906290434514)
