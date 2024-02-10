@@ -11,6 +11,7 @@
 * [2024-02-09, 22:06:28](https://news.ycombinator.com/item?id=39321074) - [Vision Pro is second most impressive tech since the iPhone](https://twitter.com/sama/status/1756072368236376171)
 * [2024-02-09, 22:02:15](https://news.ycombinator.com/item?id=39321038) - [Are You Sure You Want to Use MMAP in Your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
+* [2024-02-09, 21:39:27](https://news.ycombinator.com/item?id=39320846) - [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
 * [2024-02-09, 21:37:23](https://news.ycombinator.com/item?id=39320825) - [Consumption of 100% Fruit Juice and Body Weight in Children and Adults](https://pubmed.ncbi.nlm.nih.gov/38227336/)
 * [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
 * [2024-02-09, 19:43:00](https://news.ycombinator.com/item?id=39319509) - [Mozilla CEO quits, pushes pivot to data privacy champion.. what about Firefox?](https://www.theregister.com/2024/02/09/opinion_column_mozilla_ceo_quits/)
