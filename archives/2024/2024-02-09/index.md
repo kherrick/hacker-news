@@ -18,6 +18,7 @@
 * [2024-02-09, 21:37:23](https://news.ycombinator.com/item?id=39320825) - [Consumption of 100% Fruit Juice and Body Weight in Children and Adults](https://pubmed.ncbi.nlm.nih.gov/38227336/)
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
+* [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 19:43:00](https://news.ycombinator.com/item?id=39319509) - [Mozilla CEO quits, pushes pivot to data privacy champion.. what about Firefox?](https://www.theregister.com/2024/02/09/opinion_column_mozilla_ceo_quits/)
 * [2024-02-09, 19:22:26](https://news.ycombinator.com/item?id=39319202) - [Reddit beats film industry again, won't have to reveal pirates' IP addresses](https://arstechnica.com/tech-policy/2024/02/reddit-beats-film-industry-again-wont-have-to-reveal-pirates-ip-addresses/)
 * [2024-02-09, 19:21:58](https://news.ycombinator.com/item?id=39319191) - [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
