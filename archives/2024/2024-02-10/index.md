@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a Growth Engineer (small team,fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 19:35:48](https://news.ycombinator.com/item?id=39329472) - [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
 * [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
@@ -43,6 +44,7 @@
 * [2024-02-10, 11:06:25](https://news.ycombinator.com/item?id=39325265) - [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
+* [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
