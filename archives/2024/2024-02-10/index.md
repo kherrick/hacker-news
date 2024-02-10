@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
+* [2024-02-10, 22:14:32](https://news.ycombinator.com/item?id=39330721) - [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:26:23](https://news.ycombinator.com/item?id=39330377) - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 * [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
