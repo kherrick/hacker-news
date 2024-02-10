@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
+* [2024-02-10, 19:35:48](https://news.ycombinator.com/item?id=39329472) - [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
@@ -19,7 +20,6 @@
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 08:51:58](https://news.ycombinator.com/item?id=39324664) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
-* [2024-02-10, 05:37:04](https://news.ycombinator.com/item?id=39323893) - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
