@@ -2,7 +2,6 @@
 
 * [2024-02-10, 17:00:43](https://news.ycombinator.com/item?id=39327862) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
-* [2024-02-10, 16:38:48](https://news.ycombinator.com/item?id=39327578) - [Lag in Cybertruck's drive-by-wire system](https://twitter.com/Factschaser/status/1756032906290434514)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
 * [2024-02-10, 16:06:12](https://news.ycombinator.com/item?id=39327199) - [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
@@ -26,6 +25,7 @@
 * [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
 * [2024-02-09, 12:37:03](https://news.ycombinator.com/item?id=39314153) - [Show HN: Presentations for your webcam, not a projector](https://cuecam-presenter.com?ct=hn)
 * [2024-02-09, 11:05:39](https://news.ycombinator.com/item?id=39313623) - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+* [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
 * [2024-02-09, 09:06:30](https://news.ycombinator.com/item?id=39312935) - [Earthquake Fish](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=951:earthquake-fish-academia-sinicabetty-lin&catid=163:biosphere-and-nature&Itemid=210)
 * [2024-02-09, 05:57:52](https://news.ycombinator.com/item?id=39311852) - ['What do you mean, the tower is gone?'](https://www.theguardian.com/us-news/2024/feb/08/alabama-200ft-radio-tower-stolen)
