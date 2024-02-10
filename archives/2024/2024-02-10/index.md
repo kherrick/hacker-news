@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 12:52:24](https://news.ycombinator.com/item?id=39325829) - [How to Be Someone People Love to Talk to (2015)](https://bakadesuyo.com/2015/02/love-to-talk/)
+* [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
 * [2024-02-10, 12:10:02](https://news.ycombinator.com/item?id=39325578) - [The Blood of Exceptionally Long-Lived People Reveals Key Differences](https://www.sciencealert.com/the-blood-of-exceptionally-long-lived-people-reveals-key-differences)
 * [2024-02-10, 12:00:24](https://news.ycombinator.com/item?id=39325531) - [Dyte (YC W21) Is Hiring Support Engineers (Latin America)](https://news.ycombinator.com/item?id=39325531)
 * [2024-02-10, 11:40:36](https://news.ycombinator.com/item?id=39325441) - [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)

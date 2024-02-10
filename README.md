@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 12:52:24](https://news.ycombinator.com/item?id=39325829) - [How to Be Someone People Love to Talk to (2015)](https://bakadesuyo.com/2015/02/love-to-talk/)
+* [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
 * [2024-02-10, 12:00:24](https://news.ycombinator.com/item?id=39325531) - [Dyte (YC W21) Is Hiring Support Engineers (Latin America)](https://news.ycombinator.com/item?id=39325531)
 * [2024-02-10, 11:40:36](https://news.ycombinator.com/item?id=39325441) - [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
@@ -15,11 +17,10 @@
 * [2024-02-09, 23:59:29](https://news.ycombinator.com/item?id=39322012) - [A nuclear weapons lab helped crack a serial-killer case](https://undark.org/2024/02/09/wilo-serial-killer-nuclear-lab/)
 * [2024-02-09, 23:59:08](https://news.ycombinator.com/item?id=39322004) - [History of the Chapter](https://themillions.com/2023/11/the-forgotten-history-of-the-chapter.html)
 * [2024-02-09, 22:23:13](https://news.ycombinator.com/item?id=39321225) - [Thinking about high-quality human data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
-* [2024-02-09, 22:02:15](https://news.ycombinator.com/item?id=39321038) - [Are you sure you want to use MMAP in your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
-* [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
+* [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
 * [2024-02-09, 15:24:49](https://news.ycombinator.com/item?id=39315689) - [Dax – Cross-platform shell for Node.js](https://david.deno.dev/posts/dax-node-js/)
@@ -29,7 +30,6 @@
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
 * [2024-02-09, 05:44:46](https://news.ycombinator.com/item?id=39311787) - [Bayesian Analysis with Python](http://bap.com.ar/)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
-* [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
 
 ## [Archives](archives/index.md)
 
