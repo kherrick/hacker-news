@@ -85,6 +85,7 @@
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 * [2024-02-09, 09:26:06](https://news.ycombinator.com/item?id=39313060) - [The world’s most responsible AI model](https://www.goody2.ai/)
+* [2024-02-09, 09:06:30](https://news.ycombinator.com/item?id=39312935) - [Earthquake Fish](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=951:earthquake-fish-academia-sinicabetty-lin&catid=163:biosphere-and-nature&Itemid=210)
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
 * [2024-02-09, 08:15:45](https://news.ycombinator.com/item?id=39312613) - [Ask HN: What is your go-to stack for the web?](https://news.ycombinator.com/item?id=39312613)
 * [2024-02-09, 05:57:52](https://news.ycombinator.com/item?id=39311852) - ['What do you mean, the tower is gone?'](https://www.theguardian.com/us-news/2024/feb/08/alabama-200ft-radio-tower-stolen)
