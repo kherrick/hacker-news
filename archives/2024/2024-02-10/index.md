@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
 * [2024-02-10, 19:12:28](https://news.ycombinator.com/item?id=39329264) - [Masturbation abstinence is popular online. Doctors and therapists are worried](https://www.npr.org/2026/01/01/1198916105/mens-health-masturbation-abstinence)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)

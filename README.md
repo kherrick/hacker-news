@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
@@ -14,7 +15,6 @@
 * [2024-02-10, 14:36:17](https://news.ycombinator.com/item?id=39326401) - [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
 * [2024-02-10, 14:33:17](https://news.ycombinator.com/item?id=39326377) - [Getting rid of bed bugs: trickier than ever](https://knowablemagazine.org/content/article/health-disease/2024/where-did-bed-bugs-come-from-how-to-get-rid-of-them)
 * [2024-02-10, 14:33:11](https://news.ycombinator.com/item?id=39326376) - [Broken to BBS: A Dell 286 Restoration [video]](https://www.youtube.com/watch?v=3wgiQDmeFQU)
-* [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [The Tears of a Clown: Probing the comedian's psyche (2008)](https://www.psychologytoday.com/gb/blog/beautiful-minds/200812/the-tears-clown)
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
