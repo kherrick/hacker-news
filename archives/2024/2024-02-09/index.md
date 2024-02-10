@@ -27,6 +27,7 @@
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:51:18](https://news.ycombinator.com/item?id=39318733) - [Research at the heart of a federal case against the abortion pill retracted](https://text.npr.org/1230175305)
 * [2024-02-09, 18:43:45](https://news.ycombinator.com/item?id=39318614) - [I Taught My Cat to Play the Piano [video]](https://www.youtube.com/watch?v=ZtoMiK4ywOU)
+* [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
 * [2024-02-09, 18:29:32](https://news.ycombinator.com/item?id=39318423) - [Why we can’t build family-sized apartments in North America](https://www.centerforbuilding.org/blog/we-we-cant-build-family-sized-apartments-in-north-america)
 * [2024-02-09, 18:20:36](https://news.ycombinator.com/item?id=39318305) - [Hyperbridge: Fast multi-producer, multi-consumer unbounded channel in Rust](https://github.com/singaraiona/hyperbridge)
 * [2024-02-09, 18:19:26](https://news.ycombinator.com/item?id=39318288) - [Too Dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
