@@ -5,7 +5,7 @@
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
-* [2024-02-10, 15:57:42](https://news.ycombinator.com/item?id=39327113) - [Svelte Tenets by Rich Harris](https://github.com/sveltejs/svelte/discussions/10085)
+* [2024-02-10, 15:57:42](https://news.ycombinator.com/item?id=39327113) - [Tenets](https://github.com/sveltejs/svelte/discussions/10085)
 * [2024-02-10, 15:50:50](https://news.ycombinator.com/item?id=39327028) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
 * [2024-02-10, 15:12:25](https://news.ycombinator.com/item?id=39326675) - [A rent-stabilized 1 bedroom apartment for $1,100 In NYC? broker's fee is $15K](https://gothamist.com/news/a-rent-stabilized-1-bedroom-apartment-for-1100-in-nyc-the-brokers-fee-is-15k)
 * [2024-02-10, 14:56:33](https://news.ycombinator.com/item?id=39326559) - [I Was Illegally Fired by Amazon for Speaking Out About a Coworker's Death (2023)](https://jacobin.com/2023/11/i-was-illegally-fired-by-amazon-for-speaking-out-about-a-coworkers-death/)
