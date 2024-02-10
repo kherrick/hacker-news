@@ -52,6 +52,7 @@
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
 * [2024-02-09, 15:40:18](https://news.ycombinator.com/item?id=39315875) - [Juniper Support Portal Exposed Customer Device Info](https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/)
 * [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
+* [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
 * [2024-02-09, 15:32:52](https://news.ycombinator.com/item?id=39315786) - [Sam Altman seeks to raise up to $7T for new chip project](https://www.reuters.com/technology/openais-altman-talks-raise-funds-chips-ai-initiative-wsj-2024-02-09/)
 * [2024-02-09, 15:24:49](https://news.ycombinator.com/item?id=39315689) - [Dax – Cross-platform shell for Node.js](https://david.deno.dev/posts/dax-node-js/)
 * [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [Why Bloat Is Still Software's Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
