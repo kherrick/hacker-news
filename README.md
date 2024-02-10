@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
-* [2024-02-10, 22:14:32](https://news.ycombinator.com/item?id=39330721) - [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:26:23](https://news.ycombinator.com/item?id=39330377) - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 * [2024-02-10, 21:25:30](https://news.ycombinator.com/item?id=39330367) - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
@@ -29,6 +28,7 @@
 * [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
 * [2024-02-09, 10:04:42](https://news.ycombinator.com/item?id=39313298) - [The Sankey Photography Archive](https://www.sankeyphotoarchive.uk/)
+* [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 * [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
 
 ## [Archives](archives/index.md)
