@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 07:44:41](https://news.ycombinator.com/item?id=39324382) - [Mixed reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [ZX – A tool for writing better scripts](https://github.com/google/zx)
@@ -26,7 +27,6 @@
 * [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [A 2024 plea for lean software](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
-* [2024-02-09, 12:59:31](https://news.ycombinator.com/item?id=39314371) - [I Stopped Using Passwords. It's Great–and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)
 * [2024-02-09, 11:05:39](https://news.ycombinator.com/item?id=39313623) - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
 * [2024-02-08, 12:26:25](https://news.ycombinator.com/item?id=39301116) - [I Stopped Using Passwords. It's Great–and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)
