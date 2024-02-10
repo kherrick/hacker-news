@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-02-09, 23:59:08",
-      "https://news.ycombinator.com/item?id=39322004"
-    ],
-    [
-      "History of the Chapter",
-      "https://themillions.com/2023/11/the-forgotten-history-of-the-chapter.html"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 22:23:13",
       "https://news.ycombinator.com/item?id=39321225"
     ],
@@ -207,6 +197,16 @@
     [
       "Postgres as queue",
       "https://leontrolski.github.io/postgres-as-queue.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 15:24:49",
+      "https://news.ycombinator.com/item?id=39315689"
+    ],
+    [
+      "Dax – Cross-platform shell for Node.js",
+      "https://david.deno.dev/posts/dax-node-js/"
     ]
   ],
   [
