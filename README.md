@@ -6,6 +6,7 @@
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [ZX – A tool for writing better scripts](https://github.com/google/zx)
 * [2024-02-10, 05:37:04](https://news.ycombinator.com/item?id=39323893) - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 * [2024-02-10, 04:29:14](https://news.ycombinator.com/item?id=39323601) - [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
+* [2024-02-10, 04:06:56](https://news.ycombinator.com/item?id=39323487) - [Shell closes all of its hydrogen refuelling stations for cars in California](https://www.hydrogeninsight.com/transport/shell-permanently-closes-all-of-its-hydrogen-refuelling-stations-for-cars-in-california/2-1-1596104?zephr_sso_ott=ynOWoF)
 * [2024-02-10, 02:09:45](https://news.ycombinator.com/item?id=39322859) - [Carl Griffith's 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
 * [2024-02-10, 00:58:59](https://news.ycombinator.com/item?id=39322388) - [Espressif ESP32: Breaking HW AES with Power Analysis (2023)](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
 * [2024-02-10, 00:22:45](https://news.ycombinator.com/item?id=39322173) - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
@@ -28,7 +29,6 @@
 * [2024-02-09, 14:06:04](https://news.ycombinator.com/item?id=39314953) - [Benchmarking latency across common wireless links for microcontrollers](https://electricui.com/blog/latency-comparison)
 * [2024-02-09, 11:05:39](https://news.ycombinator.com/item?id=39313623) - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
-* [2024-02-08, 12:26:25](https://news.ycombinator.com/item?id=39301116) - [I Stopped Using Passwords. It's Great–and a Total Mess](https://www.wired.com/story/stopped-using-passwords-passkeys/)
 * [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
 
 ## [Archives](archives/index.md)
