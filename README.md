@@ -21,7 +21,6 @@
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 08:51:58](https://news.ycombinator.com/item?id=39324664) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
-* [2024-02-10, 07:44:41](https://news.ycombinator.com/item?id=39324382) - [Mixed Reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
@@ -29,6 +28,7 @@
 * [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
 * [2024-02-09, 10:04:42](https://news.ycombinator.com/item?id=39313298) - [The Sankey Photography Archive](https://www.sankeyphotoarchive.uk/)
+* [2024-02-09, 09:06:30](https://news.ycombinator.com/item?id=39312935) - [Earthquake Fish](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=951:earthquake-fish-academia-sinicabetty-lin&catid=163:biosphere-and-nature&Itemid=210)
 * [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 
 ## [Archives](archives/index.md)
