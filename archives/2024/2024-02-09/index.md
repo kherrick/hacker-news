@@ -49,6 +49,7 @@
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:55:26](https://news.ycombinator.com/item?id=39316084) - [Could a Giant Parasol in Outer Space Help Solve the Climate Crisis?](https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
+* [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
 * [2024-02-09, 15:40:18](https://news.ycombinator.com/item?id=39315875) - [Juniper Support Portal Exposed Customer Device Info](https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/)
 * [2024-02-09, 15:38:23](https://news.ycombinator.com/item?id=39315847) - [In Reversal, Guinness Gives a Frenchman's Matchstick Eiffel Tower the Record](https://www.nytimes.com/2024/02/09/world/europe/eiffel-tower-matchsticks-guinness.html)
