@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 02:09:45](https://news.ycombinator.com/item?id=39322859) - [Carl Griffith's 1847 Oregon Trail Sourdough Starter](https://carlsfriends.net/source.html)
 * [2024-02-10, 00:58:59](https://news.ycombinator.com/item?id=39322388) - [Espressif ESP32: Breaking HW AES with Power Analysis (2023)](https://raelize.com/blog/espressif-systems-esp32-breaking-hw-aes-with-power-analysis/)
 * [2024-02-10, 00:22:45](https://news.ycombinator.com/item?id=39322173) - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset.](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
 * [2024-02-10, 00:00:46](https://news.ycombinator.com/item?id=39322022) - [Creeped Out [pdf]](https://philpapers.org/archive/BERCOY-2.pdf)
@@ -27,7 +28,6 @@
 * [2024-02-09, 00:23:01](https://news.ycombinator.com/item?id=39309723) - [Thoughts on tech employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-08, 20:22:22](https://news.ycombinator.com/item?id=39307149) - [The Eagle Never Sleeps: one Kentucky newspaper still screams for press freedom](https://strangersguide.com/articles/the-eagle-never-sleeps/)
 * [2024-02-08, 18:28:54](https://news.ycombinator.com/item?id=39305603) - [John Donne's numbers (2010)](https://poetrywithmathematics.blogspot.com/2010/03/john-donnes-numbers.html)
-* [2024-02-08, 13:57:47](https://news.ycombinator.com/item?id=39301948) - [Lessons from a fountain pen addict](https://ukfountainpens.com/2019/03/24/13-hard-learned-lessons-from-a-veteran-fountain-pen-addict/)
 * [2024-02-08, 13:46:40](https://news.ycombinator.com/item?id=39301839) - [Light characteristic](https://en.wikipedia.org/wiki/Light_characteristic)
 * [2024-02-07, 20:13:10](https://news.ycombinator.com/item?id=39293659) - [Never-again Land: J. M. Barrie's My Lady Nicotine (1896)](https://publicdomainreview.org/collection/my-lady-nicotine/)
 
