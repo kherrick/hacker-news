@@ -86,6 +86,7 @@
 * [2024-02-09, 09:00:23](https://news.ycombinator.com/item?id=39312896) - [Gemini can't show me the fastest way to copy memory in C# because it's unethical](https://twitter.com/garrynewman/status/1755851884047303012)
 * [2024-02-09, 08:15:45](https://news.ycombinator.com/item?id=39312613) - [Ask HN: What is your go-to stack for the web?](https://news.ycombinator.com/item?id=39312613)
 * [2024-02-09, 05:49:02](https://news.ycombinator.com/item?id=39311803) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
+* [2024-02-09, 05:44:46](https://news.ycombinator.com/item?id=39311787) - [Bayesian Analysis with Python](http://bap.com.ar/)
 * [2024-02-09, 04:46:02](https://news.ycombinator.com/item?id=39311507) - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 * [2024-02-09, 04:11:51](https://news.ycombinator.com/item?id=39311296) - [Apple Vision Pro Owners Are Struggling to Figure Out What They Just Bought](https://nymag.com/intelligencer/article/apple-vision-pro-owners-are-wondering-what-they-bought.html)
 * [2024-02-09, 02:52:10](https://news.ycombinator.com/item?id=39310837) - [What's new in the Postgres 16 query planner (a.k.a. optimizer)](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
