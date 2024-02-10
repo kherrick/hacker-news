@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 15:05:44](https://news.ycombinator.com/item?id=39326630) - [HexChat 2.16.2, the Final Release](https://hexchat.github.io/news/2.16.2.html)
 * [2024-02-10, 14:46:53](https://news.ycombinator.com/item?id=39326486) - [Is the Media Prepared for an Extinction-Level Event?](https://www.newyorker.com/news/the-weekend-essay/is-the-media-prepared-for-an-extinction-level-event)
-* [2024-02-10, 14:33:11](https://news.ycombinator.com/item?id=39326376) - [Broken to BBS: A Dell 286 Restoration](https://www.youtube.com/watch?v=3wgiQDmeFQU)
+* [2024-02-10, 14:25:01](https://news.ycombinator.com/item?id=39326333) - [The Race Is on to Stop Ozempic Muscle Loss](https://www.nytimes.com/2024/02/08/well/live/ozempic-muscle-loss-exercise.html)
 * [2024-02-10, 13:46:28](https://news.ycombinator.com/item?id=39326092) - [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
 * [2024-02-10, 13:28:47](https://news.ycombinator.com/item?id=39325983) - [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad clown paradox: Why you should check in on your funny friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
@@ -19,7 +20,6 @@
 * [2024-02-10, 00:22:45](https://news.ycombinator.com/item?id=39322173) - [Privacy focused platform Skiff is joining Notion, Skiff to be sunset](https://www.notion.so/blog/meet-skiff-the-newest-member-of-the-notion-family)
 * [2024-02-09, 23:59:29](https://news.ycombinator.com/item?id=39322012) - [A nuclear weapons lab helped crack a serial-killer case](https://undark.org/2024/02/09/wilo-serial-killer-nuclear-lab/)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
-* [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf] (2023)](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 18:40:56](https://news.ycombinator.com/item?id=39318571) - [Power of small optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
 * [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
 * [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
