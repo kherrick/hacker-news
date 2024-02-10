@@ -6,6 +6,7 @@
 
 * [2024-02-10, 17:00:43](https://news.ycombinator.com/item?id=39327862) - [Patterns (YC S21) is hiring to automate analytics with LLMs](https://www.ycombinator.com/companies/patterns)
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
+* [2024-02-10, 16:38:48](https://news.ycombinator.com/item?id=39327578) - [Lag in Cybertruck's drive-by-wire system](https://twitter.com/Factschaser/status/1756032906290434514)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
 * [2024-02-10, 16:14:01](https://news.ycombinator.com/item?id=39327276) - [46% of Americans didn't read a book in 2023](https://nathanbransford.com/blog/2024/01/46-of-americans-didnt-read-a-book-in-2023-this-week-in-books)
 * [2024-02-10, 16:06:12](https://news.ycombinator.com/item?id=39327199) - [The French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
