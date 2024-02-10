@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 05:57:00](https://news.ycombinator.com/item?id=39323973) - [Skiff is shutting down in six months](https://skiff.com/data-migration)
 * [2024-02-10, 05:37:04](https://news.ycombinator.com/item?id=39323893) - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 * [2024-02-10, 04:29:14](https://news.ycombinator.com/item?id=39323601) - [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
 * [2024-02-10, 04:17:27](https://news.ycombinator.com/item?id=39323543) - [How engineers test Moon landers on Earth](https://nature.com/articles/d41586-024-00352-w)
