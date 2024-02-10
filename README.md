@@ -2,6 +2,7 @@
 
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 * [2024-02-10, 05:57:00](https://news.ycombinator.com/item?id=39323973) - [Skiff is shutting down in six months](https://skiff.com/data-migration)
+* [2024-02-10, 05:37:42](https://news.ycombinator.com/item?id=39323898) - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
 * [2024-02-10, 05:37:04](https://news.ycombinator.com/item?id=39323893) - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
 * [2024-02-10, 04:29:14](https://news.ycombinator.com/item?id=39323601) - [LubeLogger: Self-hosted, open-source vehicle service records and tracker](https://github.com/hargata/lubelog)
 * [2024-02-10, 04:17:27](https://news.ycombinator.com/item?id=39323543) - [How engineers test Moon landers on Earth](https://nature.com/articles/d41586-024-00352-w)
@@ -15,7 +16,6 @@
 * [2024-02-09, 22:02:15](https://news.ycombinator.com/item?id=39321038) - [Are you sure you want to use MMAP in your DBMS?](https://www.symas.com/post/are-you-sure-you-want-to-use-mmap-in-your-dbms)
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 21:39:27](https://news.ycombinator.com/item?id=39320846) - [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
-* [2024-02-09, 19:21:58](https://news.ycombinator.com/item?id=39319191) - [Brplot – plotting app/lib in C](https://github.com/branc116/brplot)
 * [2024-02-09, 19:00:59](https://news.ycombinator.com/item?id=39318867) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 18:53:56](https://news.ycombinator.com/item?id=39318774) - [Data Structures for Data-Intensive Applications [pdf]](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf)
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents (2021)](https://ctan.org/pkg/coffeestains)
