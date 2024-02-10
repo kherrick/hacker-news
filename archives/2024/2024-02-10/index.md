@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 07:12:54](https://news.ycombinator.com/item?id=39324254) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 * [2024-02-10, 05:57:00](https://news.ycombinator.com/item?id=39323973) - [Skiff is shutting down in six months](https://skiff.com/data-migration)
 * [2024-02-10, 05:37:42](https://news.ycombinator.com/item?id=39323898) - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)

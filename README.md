@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-10, 07:12:54](https://news.ycombinator.com/item?id=39324254) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 * [2024-02-10, 05:57:00](https://news.ycombinator.com/item?id=39323973) - [Skiff is shutting down in six months](https://skiff.com/data-migration)
 * [2024-02-10, 05:37:42](https://news.ycombinator.com/item?id=39323898) - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
@@ -20,7 +21,6 @@
 * [2024-02-09, 16:46:00](https://news.ycombinator.com/item?id=39316847) - [Saving Electricity (1998 – 2023)](https://michaelbluejay.com/electricity/)
 * [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:37:33](https://news.ycombinator.com/item?id=39315833) - [Postgres as queue](https://leontrolski.github.io/postgres-as-queue.html)
-* [2024-02-09, 15:24:49](https://news.ycombinator.com/item?id=39315689) - [Dax – Cross-platform shell for Node.js](https://david.deno.dev/posts/dax-node-js/)
 * [2024-02-09, 15:15:24](https://news.ycombinator.com/item?id=39315585) - [A 2024 plea for lean software](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 15:11:21](https://news.ycombinator.com/item?id=39315545) - [Nine US states are teaming up to accelerate the adoption of heat pumps](https://www.wired.com/story/these-states-are-basically-begging-you-to-get-a-heat-pump/)
 * [2024-02-09, 15:01:38](https://news.ycombinator.com/item?id=39315448) - [Scientists find optimal space-time balance for hash tables](https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/)
