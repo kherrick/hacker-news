@@ -58,6 +58,7 @@
 * [2024-02-10, 11:06:25](https://news.ycombinator.com/item?id=39325265) - [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
+* [2024-02-10, 10:30:49](https://news.ycombinator.com/item?id=39325110) - [Getting into Robotics as a Software Engineer](https://bou.ke/blog/robotics/)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
