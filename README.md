@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 06:22:27](https://news.ycombinator.com/item?id=39333007) - [Tech vs. SF](https://www.wsj.com/politics/elections/tech-millionaires-take-on-politicians-in-a-fight-to-fix-san-francisco-e0daf87e)
 * [2024-02-11, 05:21:07](https://news.ycombinator.com/item?id=39332834) - [No data? No problem. Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 * [2024-02-11, 00:59:42](https://news.ycombinator.com/item?id=39331771) - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 * [2024-02-11, 00:48:57](https://news.ycombinator.com/item?id=39331705) - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
@@ -13,7 +14,6 @@
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens (2021)](https://grabbyaliens.com/)
 * [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a growth engineer (small team, fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
-* [2024-02-10, 20:54:20](https://news.ycombinator.com/item?id=39330111) - [The Benefits of Mangroves (2023)](https://www.wlrn.org/environment/2023-10-12/floridas-coastal-savior-the-benefits-of-mangroves)
 * [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 19:24:46](https://news.ycombinator.com/item?id=39329383) - [Speak Friend and Enter – Do people use movie passwords? (2018)](https://kobikobi.wordpress.com/2018/03/03/speak-friend-and-enter-do-people-actually-use-movie-passwords/)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
