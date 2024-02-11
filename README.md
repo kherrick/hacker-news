@@ -7,7 +7,6 @@
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:26:23](https://news.ycombinator.com/item?id=39330377) - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 * [2024-02-10, 21:25:30](https://news.ycombinator.com/item?id=39330367) - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
-* [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
 * [2024-02-10, 21:19:19](https://news.ycombinator.com/item?id=39330330) - [Demoscene and video game music streaming radio links](https://mw.rat.bz/davgmsrl/)
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens (2021)](https://grabbyaliens.com/)
@@ -29,6 +28,7 @@
 * [2024-02-09, 12:37:03](https://news.ycombinator.com/item?id=39314153) - [Show HN: Presentations for your webcam, not a projector](https://cuecam-presenter.com?ct=hn)
 * [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
+* [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 * [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
 
 ## [Archives](archives/index.md)
