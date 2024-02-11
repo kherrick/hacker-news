@@ -57,6 +57,7 @@
 * [2024-02-10, 12:10:02](https://news.ycombinator.com/item?id=39325578) - [The Blood of Exceptionally Long-Lived People Reveals Key Differences](https://www.sciencealert.com/the-blood-of-exceptionally-long-lived-people-reveals-key-differences)
 * [2024-02-10, 12:00:24](https://news.ycombinator.com/item?id=39325531) - [Dyte (YC W21) Is Hiring Support Engineers (Latin America)](https://news.ycombinator.com/item?id=39325531)
 * [2024-02-10, 11:40:36](https://news.ycombinator.com/item?id=39325441) - [UK to replace physical biometric immigration cards with e-visas](https://www.bleepingcomputer.com/news/security/uk-to-replace-physical-biometric-immigration-cards-with-e-visas/)
+* [2024-02-10, 11:07:23](https://news.ycombinator.com/item?id=39325273) - [Best Mathematical Science Fiction Books](https://best-sci-fi-books.com/12-best-mathematical-science-fiction-books/)
 * [2024-02-10, 11:06:25](https://news.ycombinator.com/item?id=39325265) - [Germany's Days as an Industrial Superpower Are Coming to an End](https://www.bloomberg.com/news/features/2024-02-10/why-germany-s-days-as-an-industrial-superpower-are-coming-to-an-end)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the Hidden Secrets of Superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)

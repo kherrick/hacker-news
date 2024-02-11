@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 21:35:44](https://news.ycombinator.com/item?id=39338989) - [Why Deleting and Destroying Finished Movies Should Be a Crime](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
 * [2024-02-11, 20:58:34](https://news.ycombinator.com/item?id=39338628) - [Gemini lying about having data until 2021](https://twitter.com/Malix_off/status/1756784386958135437)
+* [2024-02-11, 20:53:55](https://news.ycombinator.com/item?id=39338582) - [It's time to break free from Corporate Agile](https://bits.danielrothmann.com/corporate-agile)
 * [2024-02-11, 20:22:42](https://news.ycombinator.com/item?id=39338285) - [How Boeing Lost Its Way [video]](https://www.youtube.com/watch?v=URoVKPVDKPU)
 * [2024-02-11, 20:22:42](https://news.ycombinator.com/item?id=39338285) - [How Boeing Lost Its Way [video]](https://nebula.tv/videos/wendover-how-boeing-lost-its-way)
 * [2024-02-11, 20:11:55](https://news.ycombinator.com/item?id=39338201) - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
