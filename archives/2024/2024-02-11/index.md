@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
 * [2024-02-11, 12:59:16](https://news.ycombinator.com/item?id=39334685) - [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
 * [2024-02-11, 12:06:04](https://news.ycombinator.com/item?id=39334457) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
