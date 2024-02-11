@@ -1,0 +1,3 @@
+# [Published on 2024-02-11](index.md)
+
+* [2024-02-11, 20:22:42](https://news.ycombinator.com/item?id=39338285) - [How Boeing Lost Its Way [video]](https://www.youtube.com/watch?v=URoVKPVDKPU)
