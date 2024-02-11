@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-11, 07:29:04](https://news.ycombinator.com/item?id=39333220) - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 07:04:27](https://news.ycombinator.com/item?id=39333137) - [TurboTax maker Intuit spent millions in record lobbying blitz](https://www.opensecrets.org/news/2024/02/turbotax-maker-intuit-spent-millions-in-record-lobbying-blitz-amid-threats-to-tax-prep-industry/)
 * [2024-02-11, 06:46:22](https://news.ycombinator.com/item?id=39333081) - [Waymo car vandalized and lit on fire in San Francisco](https://twitter.com/michael_vandi/status/1756550257851449372)
