@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 19:58:29](https://news.ycombinator.com/item?id=39338072) - [Notes on My Remarkable Tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
+* [2024-02-11, 19:31:56](https://news.ycombinator.com/item?id=39337813) - [The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 * [2024-02-11, 19:22:22](https://news.ycombinator.com/item?id=39337733) - [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
 * [2024-02-11, 19:18:46](https://news.ycombinator.com/item?id=39337696) - [Finding a New Software Developer Job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
 * [2024-02-11, 19:03:43](https://news.ycombinator.com/item?id=39337535) - [Brazil's hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
@@ -28,6 +30,7 @@
 * [2024-02-11, 15:04:31](https://news.ycombinator.com/item?id=39335451) - [Israel Has Ramped Up Attacks on Jenin Camp in the West Bank](https://jacobin.com/2024/02/jenin-idf-raids-air-strikes-west-bank)
 * [2024-02-11, 15:04:16](https://news.ycombinator.com/item?id=39335450) - [The Mana World Classic – Open-Source MMORPG](https://classic.themanaworld.org/)
 * [2024-02-11, 15:01:37](https://news.ycombinator.com/item?id=39335425) - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
+* [2024-02-11, 14:40:26](https://news.ycombinator.com/item?id=39335263) - [Show HN: LLMWare – Small Specialized Function Calling 1B LLMs for Multi-Step RAG](https://github.com/llmware-ai/llmware)
 * [2024-02-11, 14:33:00](https://news.ycombinator.com/item?id=39335215) - [They Are Trying to Kill the Electric Car Again](https://www.forbes.com/sites/jamesmorris/2024/02/10/they-are-trying-to-kill-the-electric-car-again/)
 * [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
 * [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
