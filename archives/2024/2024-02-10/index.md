@@ -68,6 +68,7 @@
 * [2024-02-10, 08:51:58](https://news.ycombinator.com/item?id=39324664) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-10, 08:10:15](https://news.ycombinator.com/item?id=39324491) - [Curious tale of broken VPNs, the Year 2038, and certs that expired 100 years ago](https://www.theregister.com/2024/02/09/it_incident_report_the_clock/)
 * [2024-02-10, 07:44:41](https://news.ycombinator.com/item?id=39324382) - [Mixed reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
+* [2024-02-10, 07:19:05](https://news.ycombinator.com/item?id=39324278) - [The Complete Bus Logic of the Intel 8088](https://martypc.blogspot.com/2024/02/the-complete-bus-logic-of-intel-8088.html)
 * [2024-02-10, 07:12:54](https://news.ycombinator.com/item?id=39324254) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-10, 06:28:41](https://news.ycombinator.com/item?id=39324091) - [Overburden Conveyor Bridge F60](https://en.wikipedia.org/wiki/Overburden_Conveyor_Bridge_F60)
 * [2024-02-10, 06:13:46](https://news.ycombinator.com/item?id=39324040) - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://literaryreview.co.uk/the-soliloquies-of-the-lambs)
