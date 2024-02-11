@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 10:22:19](https://news.ycombinator.com/item?id=39334000) - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
 * [2024-02-11, 08:11:18](https://news.ycombinator.com/item?id=39333360) - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-11, 07:29:04](https://news.ycombinator.com/item?id=39333220) - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
@@ -20,7 +21,7 @@
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:13:19](https://news.ycombinator.com/item?id=39328007) - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
-* [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (video) [2019]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
+* [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 09:13:14](https://news.ycombinator.com/item?id=39324749) - [SIMD-Scan: Ultra Fast In-Memory Table Scan (2009) [pdf]](http://lersse-dl.ece.ubc.ca/record/230/files/230.pdf)
 * [2024-02-10, 09:00:26](https://news.ycombinator.com/item?id=39324697) - [Putting the pieces together: Meet Justin Yu ’25, Tetris world champion](https://thetech.com/2024/02/08/justin-yu)
@@ -28,7 +29,6 @@
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
-* [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-07, 12:21:59](https://news.ycombinator.com/item?id=39287664) - [A Deep Dive into RSpec Tests in Ruby on Rails](https://blog.appsignal.com/2024/02/07/a-deep-dive-into-rspec-tests-in-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
