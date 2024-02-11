@@ -2,7 +2,6 @@
 
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 15:01:37](https://news.ycombinator.com/item?id=39335425) - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
-* [2024-02-11, 13:39:24](https://news.ycombinator.com/item?id=39334902) - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
 * [2024-02-11, 13:03:01](https://news.ycombinator.com/item?id=39334706) - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
 * [2024-02-11, 12:55:39](https://news.ycombinator.com/item?id=39334672) - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 * [2024-02-11, 12:06:04](https://news.ycombinator.com/item?id=39334457) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -18,6 +17,7 @@
 * [2024-02-10, 23:12:01](https://news.ycombinator.com/item?id=39331126) - [Spark – A web micro framework for Java and Kotlin](https://sparkjava.com/)
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
+* [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
