@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 19:22:22](https://news.ycombinator.com/item?id=39337733) - [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
 * [2024-02-11, 19:18:46](https://news.ycombinator.com/item?id=39337696) - [Finding a New Software Developer Job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
+* [2024-02-11, 19:03:43](https://news.ycombinator.com/item?id=39337535) - [Brazil's hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
 * [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
 * [2024-02-11, 18:40:45](https://news.ycombinator.com/item?id=39337305) - [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)
 * [2024-02-11, 18:25:27](https://news.ycombinator.com/item?id=39337118) - [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)

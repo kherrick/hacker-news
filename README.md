@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 19:22:22](https://news.ycombinator.com/item?id=39337733) - [Investors in Airbnb arbitrage business allege they were defrauded in scheme](https://www.cnbc.com/2024/02/11/investors-in-airbnb-arbitrage-business-allege-they-were-defrauded.html)
 * [2024-02-11, 19:18:46](https://news.ycombinator.com/item?id=39337696) - [Finding a New Software Developer Job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
+* [2024-02-11, 19:03:43](https://news.ycombinator.com/item?id=39337535) - [Brazil's hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
 * [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
 * [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
@@ -22,12 +24,10 @@
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-11, 06:04:23](https://news.ycombinator.com/item?id=39332963) - [RetroMags: Download Retro Gaming Magazines](https://www.retromags.com)
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
-* [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the hidden secrets of superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
 * [2024-02-10, 10:30:49](https://news.ycombinator.com/item?id=39325110) - [Getting into Robotics as a Software Engineer](https://bou.ke/blog/robotics/)
 * [2024-02-10, 08:10:15](https://news.ycombinator.com/item?id=39324491) - [Broken VPNs, the Year 2038, and certs that expired 100 years ago](https://www.theregister.com/2024/02/09/it_incident_report_the_clock/)
 * [2024-02-10, 07:19:05](https://news.ycombinator.com/item?id=39324278) - [The Complete Bus Logic of the Intel 8088](https://martypc.blogspot.com/2024/02/the-complete-bus-logic-of-intel-8088.html)
-* [2024-02-10, 06:13:46](https://news.ycombinator.com/item?id=39324040) - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://literaryreview.co.uk/the-soliloquies-of-the-lambs)
 * [2024-02-07, 08:46:44](https://news.ycombinator.com/item?id=39286088) - [Human-Interfacing Devices: Packing for the Descriptor Heist](https://hackaday.com/2024/02/06/human-interfacing-devices-packing-for-the-descriptor-heist/)
 * [2024-02-07, 07:43:28](https://news.ycombinator.com/item?id=39285695) - [Announcing Stride 4.2 with .NET 8 support](https://www.stride3d.net/blog/announcing-stride-4-2-in-dotnet-8/)
 
