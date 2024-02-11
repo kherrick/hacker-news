@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-11, 03:48:32](https://news.ycombinator.com/item?id=39332501) - [Stop using gitlab.com for projects – Credit card required for new registrations](https://old.reddit.com/r/opensource/comments/1alxjom/stop_using_gitlabcom_for_projects_credit_card/)
 * [2024-02-11, 00:59:42](https://news.ycombinator.com/item?id=39331771) - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 * [2024-02-11, 00:48:57](https://news.ycombinator.com/item?id=39331705) - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
@@ -8,6 +7,7 @@
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:26:23](https://news.ycombinator.com/item?id=39330377) - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 * [2024-02-10, 21:25:30](https://news.ycombinator.com/item?id=39330367) - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
+* [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
 * [2024-02-10, 21:19:19](https://news.ycombinator.com/item?id=39330330) - [Demoscene and video game music streaming radio links](https://mw.rat.bz/davgmsrl/)
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens (2021)](https://grabbyaliens.com/)
