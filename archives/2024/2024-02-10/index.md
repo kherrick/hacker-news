@@ -52,6 +52,7 @@
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [The Tears of a Clown: Probing the comedian's psyche (2008)](https://www.psychologytoday.com/gb/blog/beautiful-minds/200812/the-tears-clown)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
+* [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101 at Purdue Online for Free](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 * [2024-02-10, 12:23:15](https://news.ycombinator.com/item?id=39325648) - [Study captures hard truth: Walking home at night is not the same for women](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
 * [2024-02-10, 12:21:38](https://news.ycombinator.com/item?id=39325642) - [Vladimir Lukyanov's Water Computer](https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html)
 * [2024-02-10, 12:10:02](https://news.ycombinator.com/item?id=39325578) - [The Blood of Exceptionally Long-Lived People Reveals Key Differences](https://www.sciencealert.com/the-blood-of-exceptionally-long-lived-people-reveals-key-differences)
