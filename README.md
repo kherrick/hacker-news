@@ -2,6 +2,7 @@
 
 * [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
+* [2024-02-11, 13:03:01](https://news.ycombinator.com/item?id=39334706) - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
 * [2024-02-11, 12:59:16](https://news.ycombinator.com/item?id=39334685) - [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
 * [2024-02-11, 12:06:04](https://news.ycombinator.com/item?id=39334457) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-02-11, 10:22:19](https://news.ycombinator.com/item?id=39334000) - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
@@ -29,7 +30,6 @@
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
-* [2024-02-07, 12:21:59](https://news.ycombinator.com/item?id=39287664) - [A Deep Dive into RSpec Tests in Ruby on Rails](https://blog.appsignal.com/2024/02/07/a-deep-dive-into-rspec-tests-in-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
 
