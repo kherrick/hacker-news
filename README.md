@@ -16,7 +16,6 @@
 * [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens (2021)](https://grabbyaliens.com/)
-* [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a growth engineer (small team, fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:13:19](https://news.ycombinator.com/item?id=39328007) - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
@@ -29,6 +28,7 @@
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
+* [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-07, 12:21:59](https://news.ycombinator.com/item?id=39287664) - [A Deep Dive into RSpec Tests in Ruby on Rails](https://blog.appsignal.com/2024/02/07/a-deep-dive-into-rspec-tests-in-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
