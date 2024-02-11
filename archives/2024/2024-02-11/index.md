@@ -8,6 +8,7 @@
 * [2024-02-11, 12:59:16](https://news.ycombinator.com/item?id=39334685) - [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
 * [2024-02-11, 12:06:04](https://news.ycombinator.com/item?id=39334457) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-02-11, 10:22:19](https://news.ycombinator.com/item?id=39334000) - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
+* [2024-02-11, 09:34:52](https://news.ycombinator.com/item?id=39333777) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 08:11:18](https://news.ycombinator.com/item?id=39333360) - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-11, 07:29:04](https://news.ycombinator.com/item?id=39333220) - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
