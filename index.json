@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-11, 20:11:55",
-      "https://news.ycombinator.com/item?id=39338201"
-    ],
-    [
-      "A crowd destroyed a driverless Waymo car in San Francisco",
-      "https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town"
-    ]
-  ],
-  [
-    [
       "2024-02-11, 19:58:29",
       "https://news.ycombinator.com/item?id=39338072"
     ],
@@ -47,6 +37,16 @@
     [
       "Finding a New Software Developer Job",
       "https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 19:03:43",
+      "https://news.ycombinator.com/item?id=39337535"
+    ],
+    [
+      "Brazil's hydro power adds to global gas surplus",
+      "https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-02-11, 15:56:42",
-      "https://news.ycombinator.com/item?id=39335842"
-    ],
-    [
-      "Social networks are getting stingy with their data",
-      "https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/"
-    ]
-  ],
-  [
-    [
       "2024-02-11, 15:12:37",
       "https://news.ycombinator.com/item?id=39335509"
     ],
@@ -197,6 +187,16 @@
     [
       "Javalin – a simple web framework for Java and Kotlin",
       "https://javalin.io/"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 09:34:52",
+      "https://news.ycombinator.com/item?id=39333777"
+    ],
+    [
+      "Minimal Linux Bootloader debugging story",
+      "https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/"
     ]
   ],
   [
