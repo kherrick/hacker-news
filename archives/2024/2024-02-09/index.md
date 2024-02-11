@@ -56,6 +56,7 @@
 * [2024-02-09, 16:08:21](https://news.ycombinator.com/item?id=39316234) - [Just 137 crypto miners use 2.3% of total U.S. power](https://www.tomshardware.com/tech-industry/cryptomining/just-137-crypto-miners-use-23-of-total-us-power-government-now-requiring-commercial-miners-to-report-energy-consumption)
 * [2024-02-09, 16:05:00](https://news.ycombinator.com/item?id=39316193) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:55:26](https://news.ycombinator.com/item?id=39316084) - [Could a Giant Parasol in Outer Space Help Solve the Climate Crisis?](https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html)
+* [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
 * [2024-02-09, 15:48:29](https://news.ycombinator.com/item?id=39315986) - [Goody-2, the world's most responsible AI model](https://www.goody2.ai/chat)
 * [2024-02-09, 15:41:50](https://news.ycombinator.com/item?id=39315898) - [The Taito Taitan arcade cabinet](https://arcadeblogger.com/2024/01/27/the-bizarre-taito-taitan-arcade-cabinet/)
 * [2024-02-09, 15:40:30](https://news.ycombinator.com/item?id=39315880) - [Fedora Atomic Desktops](https://fedoramagazine.org/introducing-fedora-atomic-desktops/)
