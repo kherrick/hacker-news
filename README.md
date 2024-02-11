@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
 * [2024-02-11, 13:03:01](https://news.ycombinator.com/item?id=39334706) - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
 * [2024-02-11, 12:59:16](https://news.ycombinator.com/item?id=39334685) - [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
@@ -22,6 +21,7 @@
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:30:49](https://news.ycombinator.com/item?id=39325110) - [Getting into Robotics as a Software Engineer](https://bou.ke/blog/robotics/)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
+* [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:13:14](https://news.ycombinator.com/item?id=39324749) - [SIMD-Scan: Ultra Fast In-Memory Table Scan (2009) [pdf]](http://lersse-dl.ece.ubc.ca/record/230/files/230.pdf)
 * [2024-02-10, 09:00:26](https://news.ycombinator.com/item?id=39324697) - [Putting the pieces together: Meet Justin Yu ’25, Tetris world champion](https://thetech.com/2024/02/08/justin-yu)
 * [2024-02-10, 08:10:15](https://news.ycombinator.com/item?id=39324491) - [Curious tale of broken VPNs, the Year 2038, and certs that expired 100 years ago](https://www.theregister.com/2024/02/09/it_incident_report_the_clock/)
