@@ -61,6 +61,7 @@
 * [2024-02-10, 09:31:47](https://news.ycombinator.com/item?id=39324847) - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-10, 09:27:37](https://news.ycombinator.com/item?id=39324820) - [What is trauma? The author of \"The Body Keeps the Score\" explains [video]](https://www.youtube.com/watch?v=BJfmfkDQb14)
 * [2024-02-10, 09:22:33](https://news.ycombinator.com/item?id=39324800) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
+* [2024-02-10, 09:13:14](https://news.ycombinator.com/item?id=39324749) - [SIMD-Scan: Ultra Fast In-Memory Table Scan (2009) [pdf]](http://lersse-dl.ece.ubc.ca/record/230/files/230.pdf)
 * [2024-02-10, 08:51:58](https://news.ycombinator.com/item?id=39324664) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-10, 07:44:41](https://news.ycombinator.com/item?id=39324382) - [Mixed reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
 * [2024-02-10, 07:12:54](https://news.ycombinator.com/item?id=39324254) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
