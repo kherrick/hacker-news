@@ -22,6 +22,7 @@
 * [2024-02-11, 16:56:18](https://news.ycombinator.com/item?id=39336308) - [100% User-Supported](https://stephango.com/vcware)
 * [2024-02-11, 16:53:00](https://news.ycombinator.com/item?id=39336270) - [XFCE 4.20 Aiming for Usable Wayland Support While Maintaining X11 Compatibility](https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap)
 * [2024-02-11, 16:49:44](https://news.ycombinator.com/item?id=39336239) - [Popcorn Time 0.5.0](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0)
+* [2024-02-11, 16:47:14](https://news.ycombinator.com/item?id=39336221) - [Computer and Coding Books from Usborne](https://usborne.com/us/books/computer-and-coding-books)
 * [2024-02-11, 16:46:34](https://news.ycombinator.com/item?id=39336211) - [When Laws Make Divorce Easier, Women Benefit, Outcomes Improve (2019)](https://www.census.gov/library/stories/2019/12/the-upside-of-divorce.html)
 * [2024-02-11, 16:41:56](https://news.ycombinator.com/item?id=39336177) - [Did the ancient Greeks and Romans experience Alzheimer's?](https://today.usc.edu/alzheimers-in-history-did-the-ancient-greeks-and-romans-experience-dementia/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
