@@ -11,6 +11,7 @@
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
 * [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
 * [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
+* [2024-02-11, 16:56:18](https://news.ycombinator.com/item?id=39336308) - [100% User-Supported](https://stephango.com/vcware)
 * [2024-02-11, 16:49:44](https://news.ycombinator.com/item?id=39336239) - [Popcorn Time 0.5.0](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0)
 * [2024-02-11, 16:47:14](https://news.ycombinator.com/item?id=39336221) - [Computer and Coding Books from Usborne](https://usborne.com/us/books/computer-and-coding-books)
 * [2024-02-11, 16:41:56](https://news.ycombinator.com/item?id=39336177) - [Did the ancient Greeks and Romans experience Alzheimer's?](https://today.usc.edu/alzheimers-in-history-did-the-ancient-greeks-and-romans-experience-dementia/)
@@ -23,13 +24,12 @@
 * [2024-02-11, 08:11:18](https://news.ycombinator.com/item?id=39333360) - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
-* [2024-02-10, 12:21:38](https://news.ycombinator.com/item?id=39325642) - [Vladimir Lukyanov's Water Computer](https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html)
+* [2024-02-10, 12:21:38](https://news.ycombinator.com/item?id=39325642) - [Vladimir Lukyanov's Water Computer (2019)](https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html)
 * [2024-02-10, 10:30:49](https://news.ycombinator.com/item?id=39325110) - [Getting into Robotics as a Software Engineer](https://bou.ke/blog/robotics/)
 * [2024-02-10, 09:43:11](https://news.ycombinator.com/item?id=39324898) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&id=000F6A)
 * [2024-02-10, 08:10:15](https://news.ycombinator.com/item?id=39324491) - [Broken VPNs, the Year 2038, and certs that expired 100 years ago](https://www.theregister.com/2024/02/09/it_incident_report_the_clock/)
 * [2024-02-10, 07:19:05](https://news.ycombinator.com/item?id=39324278) - [The Complete Bus Logic of the Intel 8088](https://martypc.blogspot.com/2024/02/the-complete-bus-logic-of-intel-8088.html)
 * [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
-* [2024-02-07, 07:43:28](https://news.ycombinator.com/item?id=39285695) - [Announcing Stride 4.2 with .NET 8 support](https://www.stride3d.net/blog/announcing-stride-4-2-in-dotnet-8/)
 
 ## [Archives](archives/index.md)
 
