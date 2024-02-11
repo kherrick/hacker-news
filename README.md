@@ -18,7 +18,7 @@
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 15:04:16](https://news.ycombinator.com/item?id=39335450) - [The Mana World Classic – Open-Source MMORPG](https://classic.themanaworld.org/)
 * [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
-* [2024-02-11, 08:11:18](https://news.ycombinator.com/item?id=39333360) - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
+* [2024-02-11, 12:55:39](https://news.ycombinator.com/item?id=39334672) - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101 at Purdue Online for Free](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
