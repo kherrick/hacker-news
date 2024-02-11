@@ -13,6 +13,7 @@
 * [2024-02-11, 16:53:00](https://news.ycombinator.com/item?id=39336270) - [XFCE 4.20 Aiming for Usable Wayland Support While Maintaining X11 Compatibility](https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap)
 * [2024-02-11, 16:49:44](https://news.ycombinator.com/item?id=39336239) - [Popcorn Time 0.5.0](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0)
 * [2024-02-11, 16:46:34](https://news.ycombinator.com/item?id=39336211) - [When Laws Make Divorce Easier, Women Benefit, Outcomes Improve (2019)](https://www.census.gov/library/stories/2019/12/the-upside-of-divorce.html)
+* [2024-02-11, 16:41:56](https://news.ycombinator.com/item?id=39336177) - [Did the ancient Greeks and Romans experience Alzheimer's?](https://today.usc.edu/alzheimers-in-history-did-the-ancient-greeks-and-romans-experience-dementia/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 16:07:37](https://news.ycombinator.com/item?id=39335927) - [New Bill Would Require Phonics-Based Reading Instruction in California](https://timesofsandiego.com/education/2024/02/10/new-bill-would-require-phonics-based-reading-instruction-in-california/)
 * [2024-02-11, 16:01:37](https://news.ycombinator.com/item?id=39335879) - ['Baby Bust': Why Fewer Young People Expect to Become Parents (2013)](https://knowledge.wharton.upenn.edu/article/stew-friedman-new-work-family-choices-men-women/)
