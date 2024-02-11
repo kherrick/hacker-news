@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
 * [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-02-11, 16:53:00](https://news.ycombinator.com/item?id=39336270) - [XFCE 4.20 Aiming for Usable Wayland Support While Maintaining X11 Compatibility](https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
@@ -17,8 +18,6 @@
 * [2024-02-11, 06:04:23](https://news.ycombinator.com/item?id=39332963) - [RetroMags: Download Retro Gaming Magazines](https://www.retromags.com)
 * [2024-02-11, 05:21:07](https://news.ycombinator.com/item?id=39332834) - [Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
-* [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
-* [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens (2021)](https://grabbyaliens.com/)
 * [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
@@ -30,6 +29,7 @@
 * [2024-02-10, 06:13:46](https://news.ycombinator.com/item?id=39324040) - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://literaryreview.co.uk/the-soliloquies-of-the-lambs)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-07, 08:46:44](https://news.ycombinator.com/item?id=39286088) - [Human-Interfacing Devices: Packing for the Descriptor Heist](https://hackaday.com/2024/02/06/human-interfacing-devices-packing-for-the-descriptor-heist/)
+* [2024-02-07, 07:43:28](https://news.ycombinator.com/item?id=39285695) - [Announcing Stride 4.2 with .NET 8 support](https://www.stride3d.net/blog/announcing-stride-4-2-in-dotnet-8/)
 
 ## [Archives](archives/index.md)
 
