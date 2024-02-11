@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-11, 00:59:42](https://news.ycombinator.com/item?id=39331771) - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 * [2024-02-11, 00:48:57](https://news.ycombinator.com/item?id=39331705) - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
@@ -14,6 +13,7 @@
 * [2024-02-10, 20:54:20](https://news.ycombinator.com/item?id=39330111) - [The Benefits of Mangroves (2023)](https://www.wlrn.org/environment/2023-10-12/floridas-coastal-savior-the-benefits-of-mangroves)
 * [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
+* [2024-02-10, 17:46:17](https://news.ycombinator.com/item?id=39328368) - [Nvidia pursues $30B custom chip opportunity with new unit](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/)
 * [2024-02-10, 17:13:19](https://news.ycombinator.com/item?id=39328007) - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
