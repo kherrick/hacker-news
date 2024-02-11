@@ -66,6 +66,7 @@
 * [2024-02-07, 13:22:46](https://news.ycombinator.com/item?id=39288231) - [Paperwall: Chinese Sites Mimic Local News, Promote Pro-Beijing Agenda Globally](https://citizenlab.ca/2024/02/paperwall-chinese-websites-posing-as-local-news-outlets-with-pro-beijing-content/)
 * [2024-02-07, 13:06:17](https://news.ycombinator.com/item?id=39288062) - [City Street Orientations Around the World](https://geoffboeing.com/2018/07/city-street-orientations-world/)
 * [2024-02-07, 13:03:59](https://news.ycombinator.com/item?id=39288039) - [Show HN: Improve cognitive focus in 1 minute](https://oneminutefocus.com)
+* [2024-02-07, 13:00:08](https://news.ycombinator.com/item?id=39287999) - [Polyinstantiation in DBMS](https://coding-land.blogspot.com/2023/06/polyinstantiation-in-dbms.html)
 * [2024-02-07, 12:58:21](https://news.ycombinator.com/item?id=39287983) - [An autonomous robot arm that you can play against](https://github.com/02alexander/robby-fischer)
 * [2024-02-07, 12:24:46](https://news.ycombinator.com/item?id=39287688) - [The EU proposes slashing pollution 90% by 2040](https://www.theverge.com/2024/2/6/24062570/europe-eu-2040-climate-change-carbon-capture-strategy)
 * [2024-02-07, 12:24:10](https://news.ycombinator.com/item?id=39287682) - [The moon is slowly shrinking – and it's triggering powerful moonquakes](https://www.zmescience.com/science/news-science/moon-shrinking-moonquakes/)
