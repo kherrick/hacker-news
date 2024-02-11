@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 07:29:04](https://news.ycombinator.com/item?id=39333220) - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 07:04:27](https://news.ycombinator.com/item?id=39333137) - [TurboTax maker Intuit spent millions in record lobbying blitz](https://www.opensecrets.org/news/2024/02/turbotax-maker-intuit-spent-millions-in-record-lobbying-blitz-amid-threats-to-tax-prep-industry/)
+* [2024-02-11, 06:46:22](https://news.ycombinator.com/item?id=39333081) - [Waymo car vandalized and lit on fire in San Francisco](https://twitter.com/michael_vandi/status/1756550257851449372)
 * [2024-02-11, 06:22:27](https://news.ycombinator.com/item?id=39333007) - [Tech vs. SF](https://www.wsj.com/politics/elections/tech-millionaires-take-on-politicians-in-a-fight-to-fix-san-francisco-e0daf87e)
 * [2024-02-11, 06:15:13](https://news.ycombinator.com/item?id=39332989) - [No job? No shame. Younger workers are opening up about unemployment](https://www.washingtonpost.com/business/2024/02/10/gen-z-layoffs-tiktok-younger-workers/)
 * [2024-02-11, 05:21:07](https://news.ycombinator.com/item?id=39332834) - [No data? No problem. Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
