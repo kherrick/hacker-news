@@ -69,6 +69,7 @@
 * [2024-02-10, 07:44:41](https://news.ycombinator.com/item?id=39324382) - [Mixed reality gone in Windows 11 Insider Preview Build 26052](https://blogs.windows.com/windows-insider/2024/02/08/announcing-windows-11-insider-preview-build-26052-canary-and-dev-channels/)
 * [2024-02-10, 07:12:54](https://news.ycombinator.com/item?id=39324254) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-10, 06:28:41](https://news.ycombinator.com/item?id=39324091) - [Overburden Conveyor Bridge F60](https://en.wikipedia.org/wiki/Overburden_Conveyor_Bridge_F60)
+* [2024-02-10, 06:13:46](https://news.ycombinator.com/item?id=39324040) - [The Soliloquies of the Lambs: Review of Why Animals Talk](https://literaryreview.co.uk/the-soliloquies-of-the-lambs)
 * [2024-02-10, 06:01:20](https://news.ycombinator.com/item?id=39323986) - [Google ZX – A tool for writing better scripts](https://github.com/google/zx)
 * [2024-02-10, 05:57:00](https://news.ycombinator.com/item?id=39323973) - [Skiff is shutting down in six months](https://skiff.com/data-migration)
 * [2024-02-10, 05:37:42](https://news.ycombinator.com/item?id=39323898) - [RSS related tools, services, communities and tutorials](https://github.com/AboutRSS/ALL-about-RSS)
