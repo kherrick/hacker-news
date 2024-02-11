@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
 * [2024-02-10, 22:14:32](https://news.ycombinator.com/item?id=39330721) - [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
@@ -11,6 +12,7 @@
 * [2024-02-10, 21:25:30](https://news.ycombinator.com/item?id=39330367) - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
 * [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
 * [2024-02-10, 21:19:19](https://news.ycombinator.com/item?id=39330330) - [Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+* [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens](https://grabbyaliens.com/)
 * [2024-02-10, 21:00:46](https://news.ycombinator.com/item?id=39330161) - [Emerge (YC W21) is hiring a Growth Engineer (small team,fully remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
 * [2024-02-10, 20:54:20](https://news.ycombinator.com/item?id=39330111) - [The Benefits of Mangroves (2023)](https://www.wlrn.org/environment/2023-10-12/floridas-coastal-savior-the-benefits-of-mangroves)
