@@ -49,6 +49,7 @@
 * [2024-02-10, 13:46:28](https://news.ycombinator.com/item?id=39326092) - [In 2023 operations for the .GOV TLD transitioned from Verisign to Cloudflare](https://indico.dns-oarc.net/event/48/contributions/1038/)
 * [2024-02-10, 13:28:47](https://news.ycombinator.com/item?id=39325983) - [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
 * [2024-02-10, 12:52:24](https://news.ycombinator.com/item?id=39325829) - [How to Be Someone People Love to Talk to (2015)](https://bakadesuyo.com/2015/02/love-to-talk/)
+* [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [The Tears of a Clown: Probing the comedian's psyche (2008)](https://www.psychologytoday.com/gb/blog/beautiful-minds/200812/the-tears-clown)
 * [2024-02-10, 12:32:20](https://news.ycombinator.com/item?id=39325700) - [Sad Clown Paradox: Why You Should Check in on Your Funny Friends](https://www.iflscience.com/sad-clown-paradox-why-you-should-check-in-on-your-funny-friends-66845)
 * [2024-02-10, 12:23:15](https://news.ycombinator.com/item?id=39325648) - [Study captures hard truth: Walking home at night is not the same for women](https://news.byu.edu/intellect/study-visually-captures-hard-truth-walking-home-at-night-is-not-the-same-for-women)
