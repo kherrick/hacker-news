@@ -19,7 +19,6 @@
 * [2024-02-10, 20:30:10](https://news.ycombinator.com/item?id=39329912) - [Detroit's abandoned tunnel systems open door to another world](https://www.freep.com/story/news/local/michigan/2024/02/10/underground-tunnels-detroit-michigan/72060366007/)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:13:19](https://news.ycombinator.com/item?id=39328007) - [Becoming a dungeon master for an interview](https://www.propelauth.com/post/interview-dungeon-master)
-* [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 09:13:14](https://news.ycombinator.com/item?id=39324749) - [SIMD-Scan: Ultra Fast In-Memory Table Scan (2009) [pdf]](http://lersse-dl.ece.ubc.ca/record/230/files/230.pdf)
@@ -28,6 +27,7 @@
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
+* [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-07, 12:21:59](https://news.ycombinator.com/item?id=39287664) - [A Deep Dive into RSpec Tests in Ruby on Rails](https://blog.appsignal.com/2024/02/07/a-deep-dive-into-rspec-tests-in-ruby-on-rails.html)
 * [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
 
