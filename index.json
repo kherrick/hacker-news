@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-11, 18:25:27",
-      "https://news.ycombinator.com/item?id=39337118"
-    ],
-    [
-      "Ask HN: Why is Google search unusable lately?",
-      "https://news.ycombinator.com/item?id=39337118"
-    ]
-  ],
-  [
-    [
       "2024-02-11, 18:00:27",
       "https://news.ycombinator.com/item?id=39336890"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39335842"
     ],
     [
-      "Social networks are getting stingy with their data, closing their doors to devs",
+      "Social networks are getting stingy with their data",
       "https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/"
     ]
   ],
@@ -117,16 +107,6 @@
     [
       "The Mana World Classic – Open-Source MMORPG",
       "https://classic.themanaworld.org/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 15:01:37",
-      "https://news.ycombinator.com/item?id=39335425"
-    ],
-    [
-      "Sleeping Our Way to Being Productive",
-      "https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html"
     ]
   ],
   [
@@ -211,12 +191,22 @@
   ],
   [
     [
-      "2024-02-11, 05:21:07",
-      "https://news.ycombinator.com/item?id=39332834"
+      "2024-02-10, 23:50:29",
+      "https://news.ycombinator.com/item?id=39331383"
     ],
     [
-      "Undisclosed tinkering in Excel behind economics paper",
-      "https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/"
+      "Show HN: A platform for remote piano lessons based on the Web MIDI API",
+      "https://keyboardconnect.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-10, 12:50:48",
+      "https://news.ycombinator.com/item?id=39325821"
+    ],
+    [
+      "A look at the Mojo language for bioinformatics",
+      "https://viralinstruction.com/posts/mojo/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-02-10, 10:30:49",
+      "https://news.ycombinator.com/item?id=39325110"
+    ],
+    [
+      "Getting into Robotics as a Software Engineer",
+      "https://bou.ke/blog/robotics/"
+    ]
+  ],
+  [
+    [
       "2024-02-10, 09:00:26",
       "https://news.ycombinator.com/item?id=39324697"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39324491"
     ],
     [
-      "Curious tale of broken VPNs, the Year 2038, and certs that expired 100 years ago",
+      "Broken VPNs, the Year 2038, and certs that expired 100 years ago",
       "https://www.theregister.com/2024/02/09/it_incident_report_the_clock/"
     ]
   ],
