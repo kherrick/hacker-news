@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 15:04:31](https://news.ycombinator.com/item?id=39335451) - [Israel Has Ramped Up Attacks on Jenin Camp in the West Bank](https://jacobin.com/2024/02/jenin-idf-raids-air-strikes-west-bank)
 * [2024-02-11, 15:01:37](https://news.ycombinator.com/item?id=39335425) - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
 * [2024-02-11, 14:33:00](https://news.ycombinator.com/item?id=39335215) - [They Are Trying to Kill the Electric Car Again](https://www.forbes.com/sites/jamesmorris/2024/02/10/they-are-trying-to-kill-the-electric-car-again/)
