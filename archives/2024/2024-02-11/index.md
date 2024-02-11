@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
+* [2024-02-11, 18:40:45](https://news.ycombinator.com/item?id=39337305) - [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)
 * [2024-02-11, 18:25:27](https://news.ycombinator.com/item?id=39337118) - [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
 * [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)

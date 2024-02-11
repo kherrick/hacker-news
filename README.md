@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
+* [2024-02-11, 18:40:45](https://news.ycombinator.com/item?id=39337305) - [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)
 * [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
 * [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
@@ -18,9 +20,7 @@
 * [2024-02-11, 09:34:52](https://news.ycombinator.com/item?id=39333777) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 08:11:18](https://news.ycombinator.com/item?id=39333360) - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
-* [2024-02-11, 07:29:04](https://news.ycombinator.com/item?id=39333220) - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 06:04:23](https://news.ycombinator.com/item?id=39332963) - [RetroMags: Download Retro Gaming Magazines](https://www.retromags.com)
-* [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 11:02:48](https://news.ycombinator.com/item?id=39325248) - [Ruby on the Apple II: Adventures in Retro Programming (2019) [video]](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2024-02-10, 10:39:56](https://news.ycombinator.com/item?id=39325146) - [Unscrambling the hidden secrets of superpermutations](https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/)
