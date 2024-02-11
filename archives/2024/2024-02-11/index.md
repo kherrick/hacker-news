@@ -15,6 +15,7 @@
 * [2024-02-11, 19:03:43](https://news.ycombinator.com/item?id=39337535) - [Brazil's hydro power adds to global gas surplus](https://www.reuters.com/markets/commodities/brazils-hydro-power-adds-global-gas-surplus-kemp-2024-02-09/)
 * [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
 * [2024-02-11, 18:40:45](https://news.ycombinator.com/item?id=39337305) - [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)
+* [2024-02-11, 18:35:39](https://news.ycombinator.com/item?id=39337237) - [Residents' lives still in limbo a year after East Palestine toxic derailment](https://www.theguardian.com/us-news/2024/feb/03/east-palestine-train-derailment-pollution-update-ohio)
 * [2024-02-11, 18:25:27](https://news.ycombinator.com/item?id=39337118) - [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
 * [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
