@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 20:22:42](https://news.ycombinator.com/item?id=39338285) - [How Boeing Lost Its Way [video]](https://nebula.tv/videos/wendover-how-boeing-lost-its-way)
 * [2024-02-11, 20:11:55](https://news.ycombinator.com/item?id=39338201) - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
 * [2024-02-11, 19:58:29](https://news.ycombinator.com/item?id=39338072) - [Notes on My Remarkable Tablet](https://tomcritchlow.com/2024/02/09/remarkable-notes/)
 * [2024-02-11, 19:31:56](https://news.ycombinator.com/item?id=39337813) - [The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
