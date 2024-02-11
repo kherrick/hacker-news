@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 07:04:27](https://news.ycombinator.com/item?id=39333137) - [TurboTax maker Intuit spent millions in record lobbying blitz](https://www.opensecrets.org/news/2024/02/turbotax-maker-intuit-spent-millions-in-record-lobbying-blitz-amid-threats-to-tax-prep-industry/)
 * [2024-02-11, 05:21:07](https://news.ycombinator.com/item?id=39332834) - [Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 * [2024-02-11, 02:58:20](https://news.ycombinator.com/item?id=39332301) - [A new study reveals a direct connection between the brain and its dura mater](https://neurosciencenews.com/immunity-aging-brain-drainage-25573/)
 * [2024-02-11, 00:59:42](https://news.ycombinator.com/item?id=39331771) - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
@@ -28,8 +29,7 @@
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
 * [2024-02-09, 17:27:35](https://news.ycombinator.com/item?id=39317580) - [Toolong: Terminal application to view, tail, merge, and search log files](https://github.com/Textualize/toolong)
-* [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
-* [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
+* [2024-02-07, 12:21:59](https://news.ycombinator.com/item?id=39287664) - [A Deep Dive into RSpec Tests in Ruby on Rails](https://blog.appsignal.com/2024/02/07/a-deep-dive-into-rspec-tests-in-ruby-on-rails.html)
 
 ## [Archives](archives/index.md)
 
