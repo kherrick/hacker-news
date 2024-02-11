@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-11, 02:58:20](https://news.ycombinator.com/item?id=39332301) - [Brain's Drainage System Provides New Insights into Aging and Immunity](https://neurosciencenews.com/immunity-aging-brain-drainage-25573/)
 * [2024-02-11, 00:59:42](https://news.ycombinator.com/item?id=39331771) - [A man has been swatted 47 times for making a joke about Norm Macdonald](https://www.independent.co.uk/news/world/americas/crime/swatting-nikki-haley-trump-fbi-stalkers-b2494097.html)
 * [2024-02-11, 00:48:57](https://news.ycombinator.com/item?id=39331705) - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
@@ -27,6 +26,7 @@
 * [2024-02-09, 12:37:03](https://news.ycombinator.com/item?id=39314153) - [Show HN: Presentations for your webcam, not a projector](https://cuecam-presenter.com?ct=hn)
 * [2024-02-09, 12:02:56](https://news.ycombinator.com/item?id=39313942) - [Why it's impossible to agree on what's allowed](https://danluu.com/impossible-agree/)
 * [2024-02-09, 10:18:56](https://news.ycombinator.com/item?id=39313361) - [Multilingual transformer and BERTopic for topic modeling: The case of Serbian](https://arxiv.org/abs/2402.03067)
+* [2024-02-09, 10:04:42](https://news.ycombinator.com/item?id=39313298) - [The Sankey Photography Archive](https://www.sankeyphotoarchive.uk/)
 * [2024-02-09, 06:13:10](https://news.ycombinator.com/item?id=39311930) - [Maze proof establishes a 'backbone' for statistical mechanics](https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/)
 * [2024-02-07, 09:05:25](https://news.ycombinator.com/item?id=39286218) - [Review: Demons, by Fyodor Dostoevsky](https://www.thepsmiths.com/p/review-demons-by-fyodor-dostoevsky)
 * [2024-02-06, 22:26:01](https://news.ycombinator.com/item?id=39281661) - [Understanding Wood Bonds – Going beyond what meets the eye [pdf] (2018)](https://www.fpl.fs.usda.gov/documnts/pdf2018/fpl_2018_hunt002.pdf)
