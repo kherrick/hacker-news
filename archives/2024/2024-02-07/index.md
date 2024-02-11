@@ -95,6 +95,7 @@
 * [2024-02-07, 09:04:27](https://news.ycombinator.com/item?id=39286209) - [Rocky Linux, Reflections on Three Years of Growth](https://rockylinux.org/news/happy-birthday-rocky/)
 * [2024-02-07, 09:03:56](https://news.ycombinator.com/item?id=39286206) - [Deutsche Bahn is looking for Win 3.11 admin](https://t3n.de/news/windows-3-11-bahn-sucht-administrator-1604711/)
 * [2024-02-07, 08:51:08](https://news.ycombinator.com/item?id=39286111) - [Princess: Coding Like Royalty](https://princess.sh/)
+* [2024-02-07, 08:46:44](https://news.ycombinator.com/item?id=39286088) - [Human-Interfacing Devices: Packing for the Descriptor Heist](https://hackaday.com/2024/02/06/human-interfacing-devices-packing-for-the-descriptor-heist/)
 * [2024-02-07, 08:46:27](https://news.ycombinator.com/item?id=39286084) - [How Programming Languages Got Their Names](https://kylehigginson.medium.com/how-programming-languages-got-their-names-df85277de4c3)
 * [2024-02-07, 08:11:45](https://news.ycombinator.com/item?id=39285878) - [Apple to EU: \"Go fuck yourself\"](https://pluralistic.net/2024/02/06/spoil-the-bunch/#dma)
 * [2024-02-07, 07:53:44](https://news.ycombinator.com/item?id=39285752) - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
