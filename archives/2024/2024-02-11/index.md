@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
+* [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 16:01:37](https://news.ycombinator.com/item?id=39335879) - ['Baby Bust': Why Fewer Young People Expect to Become Parents (2013)](https://knowledge.wharton.upenn.edu/article/stew-friedman-new-work-family-choices-men-women/)
 * [2024-02-11, 15:56:42](https://news.ycombinator.com/item?id=39335842) - [Social networks are getting stingy with their data, closing their doors to devs](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/)
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
