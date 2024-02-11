@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 18:25:27](https://news.ycombinator.com/item?id=39337118) - [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
+* [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
 * [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
 * [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
