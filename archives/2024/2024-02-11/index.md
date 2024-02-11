@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
 * [2024-02-11, 06:22:27](https://news.ycombinator.com/item?id=39333007) - [Tech vs. SF](https://www.wsj.com/politics/elections/tech-millionaires-take-on-politicians-in-a-fight-to-fix-san-francisco-e0daf87e)
+* [2024-02-11, 06:15:13](https://news.ycombinator.com/item?id=39332989) - [No job? No shame. Younger workers are opening up about unemployment](https://www.washingtonpost.com/business/2024/02/10/gen-z-layoffs-tiktok-younger-workers/)
 * [2024-02-11, 05:21:07](https://news.ycombinator.com/item?id=39332834) - [No data? No problem. Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 * [2024-02-11, 03:48:32](https://news.ycombinator.com/item?id=39332501) - [Stop using gitlab.com for projects – Credit card required for new registrations](https://old.reddit.com/r/opensource/comments/1alxjom/stop_using_gitlabcom_for_projects_credit_card/)
 * [2024-02-11, 02:58:20](https://news.ycombinator.com/item?id=39332301) - [Brain's Drainage System Provides New Insights into Aging and Immunity](https://neurosciencenews.com/immunity-aging-brain-drainage-25573/)
