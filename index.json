@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-11, 17:00:02",
+      "https://news.ycombinator.com/item?id=39336336"
+    ],
+    [
+      "Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)",
+      "https://jamsocket.com/blog/senior-rust-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 16:36:58",
+      "https://news.ycombinator.com/item?id=39336139"
+    ],
+    [
+      "I designed a cube that balances itself on a corner",
+      "https://willempennings.nl/balancing-cube/"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 16:01:37",
       "https://news.ycombinator.com/item?id=39335879"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2024-02-11, 13:03:01",
-      "https://news.ycombinator.com/item?id=39334706"
-    ],
-    [
-      "I Know What Your Password Was Last Summer",
-      "https://labs.lares.com/password-analysis/"
-    ]
-  ],
-  [
-    [
       "2024-02-11, 12:55:39",
       "https://news.ycombinator.com/item?id=39334672"
     ],
     [
       "Javalin – a simple web framework for Java and Kotlin",
       "https://javalin.io/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 12:06:04",
-      "https://news.ycombinator.com/item?id=39334457"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-02-10, 23:50:29",
-      "https://news.ycombinator.com/item?id=39331383"
-    ],
-    [
-      "Show HN: A platform for remote piano lessons based on the Web MIDI API",
-      "https://keyboardconnect.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-10, 23:12:01",
       "https://news.ycombinator.com/item?id=39331126"
     ],
@@ -207,6 +197,16 @@
     [
       "Ruby on the Apple II: Adventures in Retro Programming (2019) [video]",
       "https://www.youtube.com/watch?v=Qn6TCXJmITM"
+    ]
+  ],
+  [
+    [
+      "2024-02-10, 10:39:56",
+      "https://news.ycombinator.com/item?id=39325146"
+    ],
+    [
+      "Unscrambling the hidden secrets of superpermutations",
+      "https://www.quantamagazine.org/unscrambling-the-hidden-secrets-of-superpermutations-20190116/"
     ]
   ],
   [
