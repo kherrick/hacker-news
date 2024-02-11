@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-11, 01:01:59](https://news.ycombinator.com/item?id=39331779) - [Apple argues against right-to-repair bill that would reduce its control](https://www.theverge.com/2024/2/9/24067957/apple-right-to-repair-oregon-bill-parts-pairing-ban)
 * [2024-02-11, 00:48:57](https://news.ycombinator.com/item?id=39331705) - [ForceGen: End-to-end de novo protein generation](https://www.science.org/doi/10.1126/sciadv.adl4000)
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
@@ -18,7 +19,6 @@
 * [2024-02-10, 16:50:30](https://news.ycombinator.com/item?id=39327734) - [How to Study (2023)](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 * [2024-02-10, 16:37:38](https://news.ycombinator.com/item?id=39327561) - [Niagara Launcher](https://niagaralauncher.app/)
 * [2024-02-10, 16:05:37](https://news.ycombinator.com/item?id=39327192) - [Aho – a Git implementation in Awk](https://github.com/djanderson/aho)
-* [2024-02-10, 14:36:17](https://news.ycombinator.com/item?id=39326401) - [Show HN: Now my pet programming language can run in the browser](https://nbittich.github.io/adana/)
 * [2024-02-10, 09:55:37](https://news.ycombinator.com/item?id=39324956) - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 08:51:58](https://news.ycombinator.com/item?id=39324664) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
