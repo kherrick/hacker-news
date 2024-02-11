@@ -20,6 +20,7 @@
 * [2024-02-10, 20:02:10](https://news.ycombinator.com/item?id=39329677) - [How much 1 TB of egress costs by cloud provider](https://getdeploying.com/reference/data-egress)
 * [2024-02-10, 19:35:48](https://news.ycombinator.com/item?id=39329472) - [Canada declares Flipper Zero public enemy No. 1 in car-theft crackdown](https://arstechnica.com/security/2024/02/canada-vows-to-ban-flipper-zero-device-in-crackdown-on-car-theft/)
 * [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
+* [2024-02-10, 19:24:46](https://news.ycombinator.com/item?id=39329383) - [Speak Friend and Enter – Do people use movie passwords? (2018)](https://kobikobi.wordpress.com/2018/03/03/speak-friend-and-enter-do-people-actually-use-movie-passwords/)
 * [2024-02-10, 19:12:28](https://news.ycombinator.com/item?id=39329264) - [Masturbation abstinence is popular online. Doctors and therapists are worried](https://www.npr.org/2026/01/01/1198916105/mens-health-masturbation-abstinence)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
