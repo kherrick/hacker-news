@@ -2,6 +2,7 @@
 
 * [2024-02-11, 22:15:05](https://news.ycombinator.com/item?id=39339287) - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
 * [2024-02-11, 22:11:41](https://news.ycombinator.com/item?id=39339264) - [Disney's newest robot demonstrates collaborative cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
+* [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:59:39](https://news.ycombinator.com/item?id=39339182) - [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
 * [2024-02-11, 20:58:21](https://news.ycombinator.com/item?id=39338626) - [Is the \"modern data stack\" still a useful idea?](https://roundup.getdbt.com/p/is-the-modern-data-stack-still-a)
 * [2024-02-11, 20:53:55](https://news.ycombinator.com/item?id=39338582) - [It's time to break free from Corporate Agile](https://bits.danielrothmann.com/corporate-agile)
@@ -18,7 +19,6 @@
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 15:04:16](https://news.ycombinator.com/item?id=39335450) - [The Mana World Classic – Open-Source MMORPG](https://classic.themanaworld.org/)
 * [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
-* [2024-02-11, 12:55:39](https://news.ycombinator.com/item?id=39334672) - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101 at Purdue Online for Free](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
