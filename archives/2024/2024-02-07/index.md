@@ -89,6 +89,7 @@
 * [2024-02-07, 09:23:45](https://news.ycombinator.com/item?id=39286366) - [A_brief_story_of_hier](https://andrewdomain.com/posts/a_brief_story_of_hier/)
 * [2024-02-07, 09:11:36](https://news.ycombinator.com/item?id=39286269) - [Danish schools will no longer be allowed to use Chromebooks and Google platforms](https://theprivacydad.com/final-decision-on-chromebook-case-in-denmark/)
 * [2024-02-07, 09:07:02](https://news.ycombinator.com/item?id=39286229) - [Anchovy Sex Is a Force of Nature](https://hakaimagazine.com/news/anchovy-sex-is-a-force-of-nature/)
+* [2024-02-07, 09:05:25](https://news.ycombinator.com/item?id=39286218) - [Review: Demons, by Fyodor Dostoevsky](https://www.thepsmiths.com/p/review-demons-by-fyodor-dostoevsky)
 * [2024-02-07, 09:04:27](https://news.ycombinator.com/item?id=39286209) - [Rocky Linux, Reflections on Three Years of Growth](https://rockylinux.org/news/happy-birthday-rocky/)
 * [2024-02-07, 09:03:56](https://news.ycombinator.com/item?id=39286206) - [Deutsche Bahn is looking for Win 3.11 admin](https://t3n.de/news/windows-3-11-bahn-sucht-administrator-1604711/)
 * [2024-02-07, 08:51:08](https://news.ycombinator.com/item?id=39286111) - [Princess: Coding Like Royalty](https://princess.sh/)
