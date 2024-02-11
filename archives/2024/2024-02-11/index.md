@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 15:04:31](https://news.ycombinator.com/item?id=39335451) - [Israel Has Ramped Up Attacks on Jenin Camp in the West Bank](https://jacobin.com/2024/02/jenin-idf-raids-air-strikes-west-bank)
+* [2024-02-11, 15:01:37](https://news.ycombinator.com/item?id=39335425) - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
+* [2024-02-11, 14:33:00](https://news.ycombinator.com/item?id=39335215) - [They Are Trying to Kill the Electric Car Again](https://www.forbes.com/sites/jamesmorris/2024/02/10/they-are-trying-to-kill-the-electric-car-again/)
 * [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
 * [2024-02-11, 13:39:24](https://news.ycombinator.com/item?id=39334902) - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
