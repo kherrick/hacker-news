@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 08:56:12](https://news.ycombinator.com/item?id=39342877) - [Tech companies axe 34,000 jobs since start of year in pivot to AI](https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0)
 * [2024-02-12, 08:15:27](https://news.ycombinator.com/item?id=39342669) - [An Open Letter to Sam Altman](https://garymarcus.substack.com/p/an-open-letter-to-sam-altman)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)

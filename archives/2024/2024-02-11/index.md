@@ -61,6 +61,7 @@
 * [2024-02-11, 13:03:01](https://news.ycombinator.com/item?id=39334706) - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
 * [2024-02-11, 12:59:16](https://news.ycombinator.com/item?id=39334685) - [CSS Is Logical](https://geoffgraham.me/css-is-logical/)
 * [2024-02-11, 12:55:39](https://news.ycombinator.com/item?id=39334672) - [Javalin – a simple web framework for Java and Kotlin](https://javalin.io/)
+* [2024-02-11, 12:20:43](https://news.ycombinator.com/item?id=39334542) - [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 * [2024-02-11, 12:06:04](https://news.ycombinator.com/item?id=39334457) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
 * [2024-02-11, 10:22:19](https://news.ycombinator.com/item?id=39334000) - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
