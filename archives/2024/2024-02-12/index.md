@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 14:51:04](https://news.ycombinator.com/item?id=39345368) - [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
+* [2024-02-12, 14:15:07](https://news.ycombinator.com/item?id=39344960) - [Slut-onomics: How the scarcity of sluts tears the social fabric apart](https://woodfromeden.substack.com/p/slut-onomics-how-the-scarcity-of)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:58:17](https://news.ycombinator.com/item?id=39344786) - [I was wrong to ignore Zigbee and Z-Wave. They're the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
