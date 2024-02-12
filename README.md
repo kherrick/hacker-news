@@ -2,7 +2,6 @@
 
 * [2024-02-12, 04:38:49](https://news.ycombinator.com/item?id=39341398) - [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)
 * [2024-02-12, 04:26:55](https://news.ycombinator.com/item?id=39341341) - [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
-* [2024-02-12, 04:03:10](https://news.ycombinator.com/item?id=39341202) - [New York's new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
 * [2024-02-12, 01:47:45](https://news.ycombinator.com/item?id=39340581) - [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
 * [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-12, 00:39:44](https://news.ycombinator.com/item?id=39340277) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
@@ -29,6 +28,7 @@
 * [2024-02-10, 12:50:48](https://news.ycombinator.com/item?id=39325821) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 * [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
+* [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
 * [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
 ## [Archives](archives/index.md)
