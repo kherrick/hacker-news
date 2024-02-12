@@ -6,6 +6,7 @@
 
 * [2024-02-12, 23:06:43](https://news.ycombinator.com/item?id=39351810) - [Shell Is Immediately Closing All of Its California Hydrogen Fueling Stations](https://insideevs.com/news/708156/shell-closes-california-hydrogen-stations/)
 * [2024-02-12, 22:59:37](https://news.ycombinator.com/item?id=39351737) - [6 months in, journalist-owned tech publication 404 Media is profitable](https://www.niemanlab.org/2024/02/six-months-in-journalist-owned-tech-publication-404-media-is-profitable/)
+* [2024-02-12, 22:53:43](https://news.ycombinator.com/item?id=39351673) - [Tell HN: Google Drive for Mac deleted all my files](https://news.ycombinator.com/item?id=39351673)
 * [2024-02-12, 22:22:43](https://news.ycombinator.com/item?id=39351347) - [Spotify's layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
 * [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
