@@ -7,6 +7,7 @@
 * [2024-02-12, 08:56:12](https://news.ycombinator.com/item?id=39342877) - [Tech companies axe 34,000 jobs since start of year in pivot to AI](https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0)
 * [2024-02-12, 08:15:27](https://news.ycombinator.com/item?id=39342669) - [An Open Letter to Sam Altman](https://garymarcus.substack.com/p/an-open-letter-to-sam-altman)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
+* [2024-02-12, 07:16:10](https://news.ycombinator.com/item?id=39342346) - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 06:23:35](https://news.ycombinator.com/item?id=39342057) - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)

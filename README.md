@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
+* [2024-02-12, 07:16:10](https://news.ycombinator.com/item?id=39342346) - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done (2003)](https://multicians.org/andre.html)
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 05:30:43](https://news.ycombinator.com/item?id=39341727) - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
@@ -18,7 +19,6 @@
 * [2024-02-11, 18:01:35](https://news.ycombinator.com/item?id=39336904) - [How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:18:33](https://news.ycombinator.com/item?id=39335549) - [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
-* [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
