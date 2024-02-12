@@ -20,7 +20,6 @@
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:18:33](https://news.ycombinator.com/item?id=39335549) - [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
-* [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 * [2024-02-11, 07:31:44](https://news.ycombinator.com/item?id=39333230) - [More wood: The story of Manuel Soler and the largest xiloteca in Spain](https://www.denia.com/en/mas-madera-la-historia-de-manuel-soler-y-la-xiloteca-mas-grande-de-espana/)
@@ -29,6 +28,7 @@
 * [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 * [2024-02-10, 11:05:33](https://news.ycombinator.com/item?id=39325261) - [Building for DOS, OS/2, and DOS on a MacBook Apple Silicon](https://retrocoding.net/building-for-dos-os2-and-dos-on-a-macbook-apple-silicon)
 * [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
+* [2024-02-09, 10:41:59](https://news.ycombinator.com/item?id=39313480) - [The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 * [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
 ## [Archives](archives/index.md)
