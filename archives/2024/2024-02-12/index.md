@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 18:08:43](https://news.ycombinator.com/item?id=39348195) - [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)
 * [2024-02-12, 17:50:08](https://news.ycombinator.com/item?id=39347961) - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
