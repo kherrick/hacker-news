@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 18:08:43](https://news.ycombinator.com/item?id=39348195) - [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)
-* [2024-02-12, 17:40:21](https://news.ycombinator.com/item?id=39347809) - [Crowd sets Waymo self-driving vehicle ablaze in San Francisco](https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:39:33](https://news.ycombinator.com/item?id=39346944) - [How Two Irish Businessmen Almost Took Nigeria for $11B](https://nytimes.com/2024/02/09/magazine/nigeria-corruption-michael-quinn-brendan-cahill.html)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
@@ -24,6 +23,7 @@
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 16:28:19](https://news.ycombinator.com/item?id=39336089) - [Cap-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](http://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
 * [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)
+* [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 13:25:55](https://news.ycombinator.com/item?id=39334833) - [Shadxn: An experimental CLI tool that builds upon shadcn-UI CLI](https://github.com/anis-marrouchi/shadxn)
 * [2024-02-11, 12:20:43](https://news.ycombinator.com/item?id=39334542) - [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
