@@ -7,6 +7,7 @@
 * [2024-02-09, 23:59:58](https://news.ycombinator.com/item?id=39322018) - [Somewhere There's Cheese](https://www.brightwalldarkroom.com/2024/02/08/a-grand-day-out/)
 * [2024-02-09, 23:59:29](https://news.ycombinator.com/item?id=39322012) - [A nuclear weapons lab helped crack a serial-killer case](https://undark.org/2024/02/09/wilo-serial-killer-nuclear-lab/)
 * [2024-02-09, 23:59:08](https://news.ycombinator.com/item?id=39322004) - [History of the Chapter](https://themillions.com/2023/11/the-forgotten-history-of-the-chapter.html)
+* [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
 * [2024-02-09, 22:43:05](https://news.ycombinator.com/item?id=39321395) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 * [2024-02-09, 22:23:13](https://news.ycombinator.com/item?id=39321225) - [Thinking about High-Quality Human Data](https://lilianweng.github.io/posts/2024-02-05-human-data-quality/)
 * [2024-02-09, 22:19:14](https://news.ycombinator.com/item?id=39321181) - [iOS 17.4 Nerfs Web Apps in the EU](https://www.macrumors.com/2024/02/08/ios-17-4-nerfs-web-apps-in-the-eu/)

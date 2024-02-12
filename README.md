@@ -11,7 +11,6 @@
 * [2024-02-11, 19:31:56](https://news.ycombinator.com/item?id=39337813) - [The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 * [2024-02-11, 19:18:46](https://news.ycombinator.com/item?id=39337696) - [Finding a new software developer job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
 * [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
-* [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people?](https://news.ycombinator.com/item?id=39336840)
 * [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
 * [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-02-11, 16:56:18](https://news.ycombinator.com/item?id=39336308) - [100% User-Supported](https://stephango.com/vcware)
@@ -29,6 +28,7 @@
 * [2024-02-10, 09:43:11](https://news.ycombinator.com/item?id=39324898) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?chlang=en&id=000F6A)
 * [2024-02-10, 07:19:05](https://news.ycombinator.com/item?id=39324278) - [The Complete Bus Logic of the Intel 8088](https://martypc.blogspot.com/2024/02/the-complete-bus-logic-of-intel-8088.html)
 * [2024-02-10, 06:13:46](https://news.ycombinator.com/item?id=39324040) - [Review of Why Animals Talk: The New Science of Animal Communication](https://literaryreview.co.uk/the-soliloquies-of-the-lambs)
+* [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
 * [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
 
 ## [Archives](archives/index.md)
