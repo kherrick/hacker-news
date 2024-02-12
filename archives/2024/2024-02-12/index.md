@@ -9,6 +9,7 @@
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 06:23:35](https://news.ycombinator.com/item?id=39342057) - [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town)
 * [2024-02-12, 06:17:51](https://news.ycombinator.com/item?id=39342028) - [The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
+* [2024-02-12, 05:30:43](https://news.ycombinator.com/item?id=39341727) - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
 * [2024-02-12, 04:38:49](https://news.ycombinator.com/item?id=39341398) - [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)
 * [2024-02-12, 04:26:55](https://news.ycombinator.com/item?id=39341341) - [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
 * [2024-02-12, 04:03:10](https://news.ycombinator.com/item?id=39341202) - [New York's new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
