@@ -2,6 +2,7 @@
 
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
+* [2024-02-12, 11:33:08](https://news.ycombinator.com/item?id=39343746) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-02-12, 10:19:24](https://news.ycombinator.com/item?id=39343330) - [SCSI isn't dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
 * [2024-02-12, 08:13:13](https://news.ycombinator.com/item?id=39342649) - [Should toggle button show its current state or the state to which it'll change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
@@ -15,7 +16,6 @@
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:35:44](https://news.ycombinator.com/item?id=39338989) - [Deleting and destroying finished movies](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
-* [2024-02-11, 19:31:56](https://news.ycombinator.com/item?id=39337813) - [The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 * [2024-02-11, 18:01:35](https://news.ycombinator.com/item?id=39336904) - [How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:18:33](https://news.ycombinator.com/item?id=39335549) - [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)

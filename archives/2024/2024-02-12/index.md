@@ -6,6 +6,7 @@
 
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
+* [2024-02-12, 11:33:08](https://news.ycombinator.com/item?id=39343746) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-02-12, 10:19:24](https://news.ycombinator.com/item?id=39343330) - [SCSI isn't dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
 * [2024-02-12, 08:56:12](https://news.ycombinator.com/item?id=39342877) - [Tech companies axe 34,000 jobs since start of year in pivot to AI](https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0)
 * [2024-02-12, 08:15:27](https://news.ycombinator.com/item?id=39342669) - [An Open Letter to Sam Altman](https://garymarcus.substack.com/p/an-open-letter-to-sam-altman)
