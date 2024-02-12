@@ -44,6 +44,7 @@
 * [2024-02-12, 04:03:10](https://news.ycombinator.com/item?id=39341202) - [New York's new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
 * [2024-02-12, 03:59:11](https://news.ycombinator.com/item?id=39341180) - [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 * [2024-02-12, 03:09:09](https://news.ycombinator.com/item?id=39340946) - [Australia passes Right To Disconnect outside of work hours law](https://www.theregister.com/2024/02/12/australia_right_to_disconnect_law/)
+* [2024-02-12, 02:06:54](https://news.ycombinator.com/item?id=39340649) - [Harpastum – ancient Roman prototype of soccer and rugby](https://medium.com/@ancient.rome/harpastum-ancient-roman-prototype-of-soccer-and-rugby-2702c31c4f1)
 * [2024-02-12, 01:51:41](https://news.ycombinator.com/item?id=39340599) - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
 * [2024-02-12, 01:47:45](https://news.ycombinator.com/item?id=39340581) - [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
 * [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
