@@ -6,7 +6,6 @@
 * [2024-02-12, 17:50:08](https://news.ycombinator.com/item?id=39347961) - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
-* [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a software role at FedEx and was asked to take a personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
@@ -28,6 +27,7 @@
 * [2024-02-11, 13:25:55](https://news.ycombinator.com/item?id=39334833) - [Shadxn: An experimental CLI tool that builds upon shadcn-UI CLI](https://github.com/anis-marrouchi/shadxn)
 * [2024-02-11, 12:20:43](https://news.ycombinator.com/item?id=39334542) - [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
+* [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [Chicago Underground Pedway [pdf]](https://www.chicago.gov/content/dam/city/depts/cdot/pedestrian/Pedway/PedwayMap2013.pdf)
 * [2024-02-10, 11:05:33](https://news.ycombinator.com/item?id=39325261) - [Building for DOS, OS/2, and DOS on a MacBook Apple Silicon](https://retrocoding.net/building-for-dos-os2-and-dos-on-a-macbook-apple-silicon)
 * [2024-02-09, 10:41:59](https://news.ycombinator.com/item?id=39313480) - [The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 

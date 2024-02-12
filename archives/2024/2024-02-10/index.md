@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
 * [2024-02-10, 23:50:29](https://news.ycombinator.com/item?id=39331383) - [Show HN: A platform for remote piano lessons based on the Web MIDI API](https://keyboardconnect.com/)
+* [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [Chicago Underground Pedway [pdf]](https://www.chicago.gov/content/dam/city/depts/cdot/pedestrian/Pedway/PedwayMap2013.pdf)
 * [2024-02-10, 23:12:01](https://news.ycombinator.com/item?id=39331126) - [Spark – A web micro framework for Java and Kotlin](https://sparkjava.com/)
 * [2024-02-10, 22:28:02](https://news.ycombinator.com/item?id=39330797) - [OpenTTD](https://www.openttd.org/about)
 * [2024-02-10, 22:14:32](https://news.ycombinator.com/item?id=39330721) - [Has LA cracked the code for building affordable housing?](https://benjaminschneider.substack.com/p/has-la-cracked-the-code-for-building)
