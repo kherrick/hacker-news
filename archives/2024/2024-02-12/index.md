@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 23:06:43](https://news.ycombinator.com/item?id=39351810) - [Shell Is Immediately Closing All of Its California Hydrogen Fueling Stations](https://insideevs.com/news/708156/shell-closes-california-hydrogen-stations/)
 * [2024-02-12, 22:59:37](https://news.ycombinator.com/item?id=39351737) - [6 months in, journalist-owned tech publication 404 Media is profitable](https://www.niemanlab.org/2024/02/six-months-in-journalist-owned-tech-publication-404-media-is-profitable/)
+* [2024-02-12, 22:22:43](https://news.ycombinator.com/item?id=39351347) - [Spotify's layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
 * [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
+* [2024-02-12, 21:38:01](https://news.ycombinator.com/item?id=39350876) - [Digital Advertising May Be Causing Almost 2% of Global Carbon Emissions](https://www.magiclasso.co/insights/advertising-carbon-emmissions/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs. Regression](https://www.amorphousdata.com/blog/time-series-vs-regression)
 * [2024-02-12, 21:34:36](https://news.ycombinator.com/item?id=39350833) - [AI Needs So Much Power That Old Coal Plants Are Sticking Around](https://www.bloomberg.com/news/articles/2024-01-25/ai-needs-so-much-power-that-old-coal-plants-are-sticking-around)
 * [2024-02-12, 21:33:36](https://news.ycombinator.com/item?id=39350825) - [Nvidia CEO: Every Country Needs Sovereign AI](https://blogs.nvidia.com/blog/world-governments-summit/)
