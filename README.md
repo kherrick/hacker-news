@@ -21,7 +21,7 @@
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:18:33](https://news.ycombinator.com/item?id=39335549) - [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
-* [2024-02-11, 15:04:16](https://news.ycombinator.com/item?id=39335450) - [The Mana World Classic – Open-Source MMORPG](https://classic.themanaworld.org/)
+* [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Should I ride an NDD triathlon bike?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:21:17](https://news.ycombinator.com/item?id=39330339) - [The Atlas of Analytical Signatures of Photographic Processes](https://www.getty.edu/conservation/publications_resources/pdf_publications/atlas.html)
 * [2024-02-10, 17:58:18](https://news.ycombinator.com/item?id=39328506) - [Lunar reflections during SLIM landing](https://destevez.net/2024/02/lunar-reflections-during-slim-landing/)
