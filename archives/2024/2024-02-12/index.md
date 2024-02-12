@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 19:19:52](https://news.ycombinator.com/item?id=39349046) - [Violent crime is dropping fast in the U.S. – even if Americans don't believe it](https://www.npr.org/2024/02/12/1229891045/police-crime-baltimore-san-francisco-minneapolis-murder-statistics)
 * [2024-02-12, 19:06:09](https://news.ycombinator.com/item?id=39348871) - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
 * [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 18:08:43](https://news.ycombinator.com/item?id=39348195) - [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)

@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 19:19:52](https://news.ycombinator.com/item?id=39349046) - [Violent crime is dropping fast in the U.S. – even if Americans don't believe it](https://www.npr.org/2024/02/12/1229891045/police-crime-baltimore-san-francisco-minneapolis-murder-statistics)
 * [2024-02-12, 19:06:09](https://news.ycombinator.com/item?id=39348871) - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
 * [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 17:50:08](https://news.ycombinator.com/item?id=39347961) - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a software role at FedEx and was asked to take a personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
-* [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers revolt over Apple's new app store rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
