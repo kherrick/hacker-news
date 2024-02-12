@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 19:06:09](https://news.ycombinator.com/item?id=39348871) - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
 * [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 17:50:08](https://news.ycombinator.com/item?id=39347961) - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
@@ -18,7 +19,6 @@
 * [2024-02-12, 08:58:26](https://news.ycombinator.com/item?id=39342887) - [Understanding Complexity Like an Engineer – The Case of the Ladybird Browser](https://t-shaped.nl/understanding-complexity-like-an-engineer-the-case-of-the-ladybird-browser)
 * [2024-02-12, 08:13:13](https://news.ycombinator.com/item?id=39342649) - [Should toggle button show its current state or the state to which it'll change? (2010)](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
-* [2024-02-12, 07:16:10](https://news.ycombinator.com/item?id=39342346) - [We need to talk about parentheses (2020)](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done (2003)](https://multicians.org/andre.html)
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 05:42:58](https://news.ycombinator.com/item?id=39341814) - [Dipping into the Most Stunning Hot Springs](https://www.nytimes.com/2024/02/09/travel/hot-springs.html)
