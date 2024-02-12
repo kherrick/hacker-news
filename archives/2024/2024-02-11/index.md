@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 23:35:35](https://news.ycombinator.com/item?id=39339928) - [Can tin foil hats block anything?](https://physics.stackexchange.com/questions/208516/can-tin-foil-hats-block-anything)
 * [2024-02-11, 23:29:06](https://news.ycombinator.com/item?id=39339876) - [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:20:26](https://news.ycombinator.com/item?id=39339335) - [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
