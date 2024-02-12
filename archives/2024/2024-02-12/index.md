@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 19:29:11](https://news.ycombinator.com/item?id=39349175) - [The myth of big salaries (it's all marketing)](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
 * [2024-02-12, 19:19:52](https://news.ycombinator.com/item?id=39349046) - [Violent crime is dropping fast in the U.S. – even if Americans don't believe it](https://www.npr.org/2024/02/12/1229891045/police-crime-baltimore-san-francisco-minneapolis-murder-statistics)
 * [2024-02-12, 19:06:09](https://news.ycombinator.com/item?id=39348871) - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
 * [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
