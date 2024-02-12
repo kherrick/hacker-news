@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:20:26](https://news.ycombinator.com/item?id=39339335) - [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
 * [2024-02-11, 22:15:05](https://news.ycombinator.com/item?id=39339287) - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
@@ -10,7 +11,6 @@
 * [2024-02-11, 19:42:06](https://news.ycombinator.com/item?id=39337923) - [Why Software Engineers like Woodworking (2021)](https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/)
 * [2024-02-11, 19:31:56](https://news.ycombinator.com/item?id=39337813) - [The Empire Strikes Back First Draft by Leigh Brackett (1978) [pdf]](https://starwarz.com/tbone/wp-content/uploads/Star-Wars-Sequel-Brackett.pdf)
 * [2024-02-11, 19:18:46](https://news.ycombinator.com/item?id=39337696) - [Finding a new software developer job](https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/)
-* [2024-02-11, 18:58:24](https://news.ycombinator.com/item?id=39337485) - [The quietest places in the loudest cities](https://earth.fm/the-quietest-places-in-the-worlds-loudest-cities/)
 * [2024-02-11, 17:00:02](https://news.ycombinator.com/item?id=39336336) - [Jamsocket (YC W22) is hiring a senior Rust engineer for a WebSocket PaaS (NYC)](https://jamsocket.com/blog/senior-rust-engineer)
 * [2024-02-11, 16:56:18](https://news.ycombinator.com/item?id=39336308) - [100% User-Supported](https://stephango.com/vcware)
 * [2024-02-11, 16:47:14](https://news.ycombinator.com/item?id=39336221) - [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
