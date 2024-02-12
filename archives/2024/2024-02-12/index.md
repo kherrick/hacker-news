@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs. Regression](https://www.amorphousdata.com/blog/time-series-vs-regression)
+* [2024-02-12, 21:34:36](https://news.ycombinator.com/item?id=39350833) - [AI Needs So Much Power That Old Coal Plants Are Sticking Around](https://www.bloomberg.com/news/articles/2024-01-25/ai-needs-so-much-power-that-old-coal-plants-are-sticking-around)
 * [2024-02-12, 21:33:36](https://news.ycombinator.com/item?id=39350825) - [Nvidia CEO: Every Country Needs Sovereign AI](https://blogs.nvidia.com/blog/world-governments-summit/)
 * [2024-02-12, 21:30:21](https://news.ycombinator.com/item?id=39350796) - [First Arrests Under Florida's New DNA Law, Pennsylvania Also Considers Testing](https://www.forensicmag.com/610912-First-Arrests-Under-Florida-s-New-DNA-Law-Pennsylvania-Considers-Post-arrest-Testing/)
 * [2024-02-12, 20:41:22](https://news.ycombinator.com/item?id=39350192) - [AI Is Starting to Threaten White-Collar Jobs](https://www.wsj.com/lifestyle/careers/ai-is-starting-to-threaten-white-collar-jobs-few-industries-are-immune-9cdbcb90)
