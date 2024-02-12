@@ -12,6 +12,7 @@
 * [2024-02-10, 21:26:23](https://news.ycombinator.com/item?id=39330377) - [New adhesive tape picks up and sticks down 2D materials easily](https://phys.org/news/2024-02-adhesive-tape-2d-materials-easily.html)
 * [2024-02-10, 21:25:30](https://news.ycombinator.com/item?id=39330367) - [Global study: Wild megafauna shape ecosystem properties](https://phys.org/news/2024-02-global-wild-megafauna-ecosystem-properties.html)
 * [2024-02-10, 21:24:49](https://news.ycombinator.com/item?id=39330362) - [Fourays: A Tribute to the AY-3-8910](https://doug.lon.dev/blog/2024/fourays/tribute/)
+* [2024-02-10, 21:21:17](https://news.ycombinator.com/item?id=39330339) - [The Atlas of Analytical Signatures of Photographic Processes](https://www.getty.edu/conservation/publications_resources/pdf_publications/atlas.html)
 * [2024-02-10, 21:19:19](https://news.ycombinator.com/item?id=39330330) - [Demoscene and Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 * [2024-02-10, 21:13:38](https://news.ycombinator.com/item?id=39330281) - [Show HN: Emacs minor mode for connecting assembly and assembled code buffers](https://github.com/ebanner/hexasm)
 * [2024-02-10, 21:03:29](https://news.ycombinator.com/item?id=39330188) - [Grabby Aliens](https://grabbyaliens.com/)
