@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-02-12, 04:38:49",
-      "https://news.ycombinator.com/item?id=39341398"
-    ],
-    [
-      "Crowd Attacks Waymo, Sets It on Fire",
-      "https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/"
-    ]
-  ],
-  [
-    [
       "2024-02-12, 04:26:55",
       "https://news.ycombinator.com/item?id=39341341"
     ],
     [
       "OpenZFS bug reports for native encryption",
       "https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 01:47:45",
-      "https://news.ycombinator.com/item?id=39340581"
-    ],
-    [
-      "Famous Solopreneurs Who Accomplished Nothing by Age 30",
-      "https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30"
     ]
   ],
   [
@@ -41,12 +21,12 @@
   ],
   [
     [
-      "2024-02-12, 00:39:44",
-      "https://news.ycombinator.com/item?id=39340277"
+      "2024-02-12, 00:32:32",
+      "https://news.ycombinator.com/item?id=39340244"
     ],
     [
-      "The Value of Open Source Software",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148"
+      "You Can Call the Super Bowl the \"Super Bowl\"",
+      "https://www.eff.org/deeplinks/2018/02/you-can-call-super-bowl-super-bowl"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2024-02-11, 19:18:46",
+      "https://news.ycombinator.com/item?id=39337696"
+    ],
+    [
+      "Finding a new software developer job",
+      "https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 18:01:35",
       "https://news.ycombinator.com/item?id=39336904"
     ],
@@ -187,6 +177,16 @@
     [
       "I designed a cube that balances itself on a corner",
       "https://willempennings.nl/balancing-cube/"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 15:12:37",
+      "https://news.ycombinator.com/item?id=39335509"
+    ],
+    [
+      "RLHF a LLM in <50 lines of Python",
+      "https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html"
     ]
   ],
   [
