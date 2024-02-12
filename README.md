@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:58:17](https://news.ycombinator.com/item?id=39344786) - [I was wrong to ignore Zigbee and Z-Wave. They're the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
 * [2024-02-12, 13:57:04](https://news.ycombinator.com/item?id=39344770) - ['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
@@ -12,7 +13,6 @@
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done (2003)](https://multicians.org/andre.html)
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 05:30:43](https://news.ycombinator.com/item?id=39341727) - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
-* [2024-02-12, 03:59:11](https://news.ycombinator.com/item?id=39341180) - [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
 * [2024-02-12, 01:51:41](https://news.ycombinator.com/item?id=39340599) - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
 * [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-12, 00:12:09](https://news.ycombinator.com/item?id=39340146) - [Questioning \"The Value of Open Source Software\"](https://openpath.chadwhitacre.com/2024/questioning-the-value-of-open-source-software/)
