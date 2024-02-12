@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 03:09:09](https://news.ycombinator.com/item?id=39340946) - [Australian senate passes Right To Disconnect law](https://www.theregister.com/2024/02/12/australia_right_to_disconnect_law/)
-* [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-12, 00:39:44](https://news.ycombinator.com/item?id=39340277) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
 * [2024-02-11, 23:29:06](https://news.ycombinator.com/item?id=39339876) - [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
@@ -30,6 +29,7 @@
 * [2024-02-10, 12:21:38](https://news.ycombinator.com/item?id=39325642) - [Vladimir Lukyanov's Water Computer (2019)](https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html)
 * [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
 * [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
+* [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [Getting SSH Port 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
 ## [Archives](archives/index.md)
 

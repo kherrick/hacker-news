@@ -91,6 +91,7 @@
 * [2024-02-09, 10:14:54](https://news.ycombinator.com/item?id=39313339) - [It was almost impossible to make the blue LED [video]](https://www.youtube.com/watch?v=AF8d72mA41M)
 * [2024-02-09, 10:13:41](https://news.ycombinator.com/item?id=39313332) - [Accidentally making windows vanish in my old-fashioned Unix X environment](https://utcc.utoronto.ca/~cks/space/blog/unix/XOffscreenIconMistake)
 * [2024-02-09, 10:04:42](https://news.ycombinator.com/item?id=39313298) - [The Sankey Photography Archive](https://www.sankeyphotoarchive.uk/)
+* [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [Getting SSH Port 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 * [2024-02-09, 09:27:39](https://news.ycombinator.com/item?id=39313074) - [Russian troops use Starlink licensed and imported from Dubai](https://bulgarianmilitary.com/2024/02/08/russian-troops-use-starlink-licensed-and-imported-from-dubai/)
 * [2024-02-09, 09:26:06](https://news.ycombinator.com/item?id=39313060) - [The world’s most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 09:06:30](https://news.ycombinator.com/item?id=39312935) - [Earthquake Fish](https://culture.teldap.tw/culture/index.php?option=com_content&view=article&id=951:earthquake-fish-academia-sinicabetty-lin&catid=163:biosphere-and-nature&Itemid=210)
