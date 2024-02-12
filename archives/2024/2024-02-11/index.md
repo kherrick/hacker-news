@@ -59,6 +59,7 @@
 * [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Should I ride an NDD triathlon bike?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 13:39:24](https://news.ycombinator.com/item?id=39334902) - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
+* [2024-02-11, 13:37:10](https://news.ycombinator.com/item?id=39334894) - [Orbital's Hartnoll brothers look back](https://www.theguardian.com/lifeandstyle/2024/feb/10/orbitals-paul-and-phil-hartnoll-look-back)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
 * [2024-02-11, 13:25:55](https://news.ycombinator.com/item?id=39334833) - [Shadxn: An experimental CLI tool that builds upon shadcn-UI CLI](https://github.com/anis-marrouchi/shadxn)
 * [2024-02-11, 13:03:01](https://news.ycombinator.com/item?id=39334706) - [I Know What Your Password Was Last Summer](https://labs.lares.com/password-analysis/)
