@@ -55,6 +55,7 @@
 * [2024-02-11, 14:33:00](https://news.ycombinator.com/item?id=39335215) - [They Are Trying to Kill the Electric Car Again](https://www.forbes.com/sites/jamesmorris/2024/02/10/they-are-trying-to-kill-the-electric-car-again/)
 * [2024-02-11, 14:17:11](https://news.ycombinator.com/item?id=39335126) - [Show HN: Miracode, a Minecraft programming font that is readable](https://github.com/IdreesInc/Miracode)
 * [2024-02-11, 13:51:53](https://news.ycombinator.com/item?id=39334981) - [The harsh reality of tech in finance: UBS calls coding an outdated skill](https://www.efinancialcareers.com/news/coding-jobs-in-finance-obsolete)
+* [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Should I ride an NDD triathlon bike?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 13:39:24](https://news.ycombinator.com/item?id=39334902) - [Are we visible to advanced alien civilizations?](https://arxiv.org/abs/2308.08689)
 * [2024-02-11, 13:28:52](https://news.ycombinator.com/item?id=39334841) - [The meathead margin: how lifting weights might have saved my life](https://jakeseliger.com/2024/02/06/the-meathead-margin-how-lifting-weights-might-have-saved-my-life/)
