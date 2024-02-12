@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 14:51:04](https://news.ycombinator.com/item?id=39345368) - [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
@@ -23,11 +24,10 @@
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
+* [2024-02-11, 13:25:55](https://news.ycombinator.com/item?id=39334833) - [Shadxn: An experimental CLI tool that builds upon shadcn-UI CLI](https://github.com/anis-marrouchi/shadxn)
 * [2024-02-11, 12:20:43](https://news.ycombinator.com/item?id=39334542) - [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
-* [2024-02-11, 07:31:44](https://news.ycombinator.com/item?id=39333230) - [More wood: The story of Manuel Soler and the largest xiloteca in Spain (2020)](https://www.denia.com/en/mas-madera-la-historia-de-manuel-soler-y-la-xiloteca-mas-grande-de-espana/)
 * [2024-02-10, 11:05:33](https://news.ycombinator.com/item?id=39325261) - [Building for DOS, OS/2, and DOS on a MacBook Apple Silicon](https://retrocoding.net/building-for-dos-os2-and-dos-on-a-macbook-apple-silicon)
-* [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
 * [2024-02-09, 10:41:59](https://news.ycombinator.com/item?id=39313480) - [The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 * [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
