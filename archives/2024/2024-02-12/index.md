@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 21:30:21](https://news.ycombinator.com/item?id=39350796) - [First Arrests Under Florida's New DNA Law, Pennsylvania Also Considers Testing](https://www.forensicmag.com/610912-First-Arrests-Under-Florida-s-New-DNA-Law-Pennsylvania-Considers-Post-arrest-Testing/)
 * [2024-02-12, 20:41:22](https://news.ycombinator.com/item?id=39350192) - [AI Is Starting to Threaten White-Collar Jobs](https://www.wsj.com/lifestyle/careers/ai-is-starting-to-threaten-white-collar-jobs-few-industries-are-immune-9cdbcb90)
 * [2024-02-12, 20:31:30](https://news.ycombinator.com/item?id=39350069) - [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
 * [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
