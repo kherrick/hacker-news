@@ -10,6 +10,7 @@
 * [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
 * [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [vDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
 * [2024-02-12, 19:08:57](https://news.ycombinator.com/item?id=39348902) - [GeneGPT, a tool-augmented LLM for bioinformatics](https://github.com/ncbi/GeneGPT)
+* [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or slow? Lizards help resolve a paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a software role at FedEx and was asked to take a personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
@@ -29,7 +30,6 @@
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
 * [2024-02-11, 06:41:26](https://news.ycombinator.com/item?id=39333068) - [Anatomist of Evil](https://literaryreview.co.uk/anatomist-of-evil)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
-* [2024-02-09, 10:41:59](https://news.ycombinator.com/item?id=39313480) - [The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 
 ## [Archives](archives/index.md)
 
