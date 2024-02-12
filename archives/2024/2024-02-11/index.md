@@ -11,6 +11,7 @@
 * [2024-02-11, 22:11:41](https://news.ycombinator.com/item?id=39339264) - [Disney's Newest Robot Demonstrates Collaborative Cuteness](https://spectrum.ieee.org/disney-robot-2666681104)
 * [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Ｂｉｔｗｉｓｅ Ｌｉｍｉｎａｌ – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:59:39](https://news.ycombinator.com/item?id=39339182) - [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
+* [2024-02-11, 21:54:55](https://news.ycombinator.com/item?id=39339149) - [A Cycle of Misery: The business of building commercial aircraft](https://www.construction-physics.com/p/a-cycle-of-misery-the-business-of)
 * [2024-02-11, 21:37:28](https://news.ycombinator.com/item?id=39339004) - [Companies which sold FFmpeg as a service attack FFmpeg on LinkedIn](https://twitter.com/FFmpeg/status/1756018534939758718)
 * [2024-02-11, 21:35:44](https://news.ycombinator.com/item?id=39338989) - [Why Deleting and Destroying Finished Movies Should Be a Crime](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
 * [2024-02-11, 20:58:34](https://news.ycombinator.com/item?id=39338628) - [Gemini lying about having data until 2021](https://twitter.com/Malix_off/status/1756784386958135437)
