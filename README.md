@@ -5,7 +5,7 @@
 * [2024-02-12, 01:47:45](https://news.ycombinator.com/item?id=39340581) - [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
 * [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-12, 00:39:44](https://news.ycombinator.com/item?id=39340277) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
-* [2024-02-11, 23:29:06](https://news.ycombinator.com/item?id=39339876) - [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
+* [2024-02-12, 00:12:09](https://news.ycombinator.com/item?id=39340146) - [Questioning \"The Value of Open Source Software\"](https://openpath.chadwhitacre.com/2024/questioning-the-value-of-open-source-software/)
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:59:39](https://news.ycombinator.com/item?id=39339182) - [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
