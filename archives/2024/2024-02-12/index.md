@@ -9,6 +9,7 @@
 * [2024-02-12, 13:57:04](https://news.ycombinator.com/item?id=39344770) - ['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
+* [2024-02-12, 12:00:46](https://news.ycombinator.com/item?id=39343895) - [My Visit to Deep Springs College (2009)](https://www.harrisonbarnes.com/do-not-trust-appearances-my-visit-to-deep-springs-college/)
 * [2024-02-12, 11:33:08](https://news.ycombinator.com/item?id=39343746) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-02-12, 10:19:24](https://news.ycombinator.com/item?id=39343330) - [SCSI isn't dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
 * [2024-02-12, 08:58:26](https://news.ycombinator.com/item?id=39342887) - [Understanding Complexity Like an Engineer – The Case of the Ladybird Browser](https://t-shaped.nl/understanding-complexity-like-an-engineer-the-case-of-the-ladybird-browser)
