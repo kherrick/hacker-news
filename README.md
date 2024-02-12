@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
+* [2024-02-12, 08:13:13](https://news.ycombinator.com/item?id=39342649) - [Should toggle button show its current state or the state to which it'll change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
 * [2024-02-12, 07:16:10](https://news.ycombinator.com/item?id=39342346) - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done (2003)](https://multicians.org/andre.html)
@@ -13,7 +14,6 @@
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Orbit: C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:59:39](https://news.ycombinator.com/item?id=39339182) - [2024: The year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
-* [2024-02-11, 21:54:55](https://news.ycombinator.com/item?id=39339149) - [A Cycle of Misery: The business of building commercial aircraft](https://www.construction-physics.com/p/a-cycle-of-misery-the-business-of)
 * [2024-02-11, 21:35:44](https://news.ycombinator.com/item?id=39338989) - [Deleting and destroying finished movies](https://www.rogerebert.com/mzs/coyote-vs-acme-canceled)
 * [2024-02-11, 18:01:35](https://news.ycombinator.com/item?id=39336904) - [How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)

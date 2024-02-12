@@ -7,6 +7,7 @@
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 08:56:12](https://news.ycombinator.com/item?id=39342877) - [Tech companies axe 34,000 jobs since start of year in pivot to AI](https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0)
 * [2024-02-12, 08:15:27](https://news.ycombinator.com/item?id=39342669) - [An Open Letter to Sam Altman](https://garymarcus.substack.com/p/an-open-letter-to-sam-altman)
+* [2024-02-12, 08:13:13](https://news.ycombinator.com/item?id=39342649) - [Should toggle button show its current state or the state to which it'll change?](https://ux.stackexchange.com/questions/1318/should-a-toggle-button-show-its-current-state-or-the-state-to-which-it-will-chan)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
 * [2024-02-12, 07:16:10](https://news.ycombinator.com/item?id=39342346) - [We need to talk about parentheses](https://andreyor.st/posts/2020-12-03-we-need-to-talk-about-parentheses/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done](https://multicians.org/andre.html)
