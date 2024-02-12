@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 * [2024-02-12, 15:59:19](https://news.ycombinator.com/item?id=39346345) - [Tech Strikes Back: \"Accelerationism\" is an overdue corrective to years of gloom](https://www.thenewatlantis.com/publications/tech-strikes-back)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
@@ -19,7 +20,6 @@
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 05:42:58](https://news.ycombinator.com/item?id=39341814) - [Dipping into the Most Stunning Hot Springs](https://www.nytimes.com/2024/02/09/travel/hot-springs.html)
 * [2024-02-12, 01:51:41](https://news.ycombinator.com/item?id=39340599) - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
-* [2024-02-11, 22:09:48](https://news.ycombinator.com/item?id=39339249) - [Show HN: Bitwise Liminal – A Short Film in 256 Bytes of Code](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/)
 * [2024-02-11, 21:54:55](https://news.ycombinator.com/item?id=39339149) - [A Cycle of Misery: The business of building commercial aircraft](https://www.construction-physics.com/p/a-cycle-of-misery-the-business-of)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)

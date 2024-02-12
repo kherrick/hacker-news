@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:20:49](https://news.ycombinator.com/item?id=39346668) - [Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021)
 * [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 * [2024-02-12, 15:59:19](https://news.ycombinator.com/item?id=39346345) - [Tech Strikes Back: \"Accelerationism\" is an overdue corrective to years of gloom](https://www.thenewatlantis.com/publications/tech-strikes-back)
