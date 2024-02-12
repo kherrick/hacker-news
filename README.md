@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 08:15:27](https://news.ycombinator.com/item?id=39342669) - [An Open Letter to Sam Altman](https://garymarcus.substack.com/p/an-open-letter-to-sam-altman)
 * [2024-02-12, 07:50:28](https://news.ycombinator.com/item?id=39342532) - [28-ton, 1.2-megawatt tidal kite is now exporting power to the grid](https://newatlas.com/energy/minesto-tidal-kite/)
 * [2024-02-12, 06:38:13](https://news.ycombinator.com/item?id=39342143) - [It Can Be Done (2003)](https://multicians.org/andre.html)
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
@@ -28,7 +29,6 @@
 * [2024-02-10, 12:24:15](https://news.ycombinator.com/item?id=39325659) - [Semiconductor Fabrication 101](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 * [2024-02-10, 12:21:38](https://news.ycombinator.com/item?id=39325642) - [Vladimir Lukyanov's Water Computer (2019)](https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html)
 * [2024-02-09, 23:58:26](https://news.ycombinator.com/item?id=39321999) - [Learning to live with musk oxen](https://www.hcn.org/issues/56-2/wildlife-learning-to-live-with-musk-oxen/)
-* [2024-02-09, 15:51:07](https://news.ycombinator.com/item?id=39316019) - [Show HN: Oration (iOS) turns pdfs into audiobooks](https://oration.app)
 * [2024-02-09, 09:43:42](https://news.ycombinator.com/item?id=39313170) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port#the-story-of-getting-ssh-port-22)
 
 ## [Archives](archives/index.md)
