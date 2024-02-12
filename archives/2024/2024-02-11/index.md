@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 23:29:06](https://news.ycombinator.com/item?id=39339876) - [Man who shoveled new channel into Lake Michigan convicted](https://www.msn.com/en-us/news/us/man-who-shoveled-new-channel-into-lake-michigan-convicted/ar-BB1i0t7P)
 * [2024-02-11, 22:35:28](https://news.ycombinator.com/item?id=39339461) - [Google/orbit – C/C++ Performance Profiler](https://github.com/google/orbit)
 * [2024-02-11, 22:20:26](https://news.ycombinator.com/item?id=39339335) - [Show HN: Aurora- a comprehensive set of Statistics and Machine Learning tools](https://github.com/MariusNea/Aurora)
 * [2024-02-11, 22:15:05](https://news.ycombinator.com/item?id=39339287) - [Spec Ops: The Line permanently removed from Steam and other digital stores](https://www.theverge.com/2024/1/30/24055807/spec-ops-the-line-delisting-licensing-2k)
@@ -28,6 +29,7 @@
 * [2024-02-11, 18:40:45](https://news.ycombinator.com/item?id=39337305) - [What Would America Look Like If It Lost Wwiii?](https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii)
 * [2024-02-11, 18:35:39](https://news.ycombinator.com/item?id=39337237) - [Residents' lives still in limbo a year after East Palestine toxic derailment](https://www.theguardian.com/us-news/2024/feb/03/east-palestine-train-derailment-pollution-update-ohio)
 * [2024-02-11, 18:25:27](https://news.ycombinator.com/item?id=39337118) - [Ask HN: Why is Google search unusable lately?](https://news.ycombinator.com/item?id=39337118)
+* [2024-02-11, 18:01:35](https://news.ycombinator.com/item?id=39336904) - [How Venus ended up with a mini-moon named Zoozve](https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/)
 * [2024-02-11, 18:00:27](https://news.ycombinator.com/item?id=39336890) - [Immich is changing its license from MIT to AGPLv3](https://github.com/immich-app/immich/discussions/7023)
 * [2024-02-11, 17:53:47](https://news.ycombinator.com/item?id=39336840) - [Ask HN: What are the best articles on managing people you've ever read?](https://news.ycombinator.com/item?id=39336840)
 * [2024-02-11, 17:34:03](https://news.ycombinator.com/item?id=39336677) - [Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
