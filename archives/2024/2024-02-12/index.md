@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
+* [2024-02-12, 19:43:03](https://news.ycombinator.com/item?id=39349366) - [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
 * [2024-02-12, 19:29:11](https://news.ycombinator.com/item?id=39349175) - [The myth of big salaries (it's all marketing)](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
 * [2024-02-12, 19:19:52](https://news.ycombinator.com/item?id=39349046) - [Violent crime is dropping fast in the U.S. – even if Americans don't believe it](https://www.npr.org/2024/02/12/1229891045/police-crime-baltimore-san-francisco-minneapolis-murder-statistics)
+* [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [VDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
 * [2024-02-12, 19:06:09](https://news.ycombinator.com/item?id=39348871) - [US Employers Brace for 16M Super Bowl Sick Days](https://www.bloomberg.com/news/articles/2024-02-12/what-time-is-the-super-bowl-not-the-right-time-for-many-workers)
 * [2024-02-12, 18:33:09](https://news.ycombinator.com/item?id=39348500) - [Ask HN: Alternatives to the Pomodoro Technique?](https://news.ycombinator.com/item?id=39348500)
 * [2024-02-12, 18:08:43](https://news.ycombinator.com/item?id=39348195) - [Tesla Sold Only One Car in Korea in January](https://www.bloomberg.com/news/articles/2024-02-07/tesla-sold-only-one-car-in-korea-in-january-as-ev-demand-weakens)
