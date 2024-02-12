@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 20:41:22](https://news.ycombinator.com/item?id=39350192) - [AI Is Starting to Threaten White-Collar Jobs](https://www.wsj.com/lifestyle/careers/ai-is-starting-to-threaten-white-collar-jobs-few-industries-are-immune-9cdbcb90)
 * [2024-02-12, 20:31:30](https://news.ycombinator.com/item?id=39350069) - [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
+* [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
 * [2024-02-12, 20:05:12](https://news.ycombinator.com/item?id=39349695) - [Brazil Hits 92% Renewable Energy Milestone](https://old.reddit.com/r/technology/comments/1aoe9so/brazil_hits_92_renewable_energy_milestone/)
 * [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
 * [2024-02-12, 19:43:03](https://news.ycombinator.com/item?id=39349366) - [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
