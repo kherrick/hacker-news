@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 22:59:37](https://news.ycombinator.com/item?id=39351737) - [6 months in, journalist-owned tech publication 404 Media is profitable](https://www.niemanlab.org/2024/02/six-months-in-journalist-owned-tech-publication-404-media-is-profitable/)
 * [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs. Regression](https://www.amorphousdata.com/blog/time-series-vs-regression)

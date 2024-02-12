@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-12, 22:59:37](https://news.ycombinator.com/item?id=39351737) - [6 months in, journalist-owned tech publication 404 Media is profitable](https://www.niemanlab.org/2024/02/six-months-in-journalist-owned-tech-publication-404-media-is-profitable/)
 * [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs. Regression](https://www.amorphousdata.com/blog/time-series-vs-regression)
@@ -28,7 +29,6 @@
 * [2024-02-11, 13:37:10](https://news.ycombinator.com/item?id=39334894) - [Orbital's Hartnoll brothers look back](https://www.theguardian.com/lifeandstyle/2024/feb/10/orbitals-paul-and-phil-hartnoll-look-back)
 * [2024-02-11, 12:20:43](https://news.ycombinator.com/item?id=39334542) - [The surreal life of a professional bridesmaid](https://thehustle.co/the-surreal-life-of-a-professional-bridesmaid/)
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
-* [2024-02-11, 06:41:26](https://news.ycombinator.com/item?id=39333068) - [Anatomist of Evil](https://literaryreview.co.uk/anatomist-of-evil)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
 
 ## [Archives](archives/index.md)
