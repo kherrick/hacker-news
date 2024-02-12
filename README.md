@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
-* [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
-* [2024-02-12, 15:59:19](https://news.ycombinator.com/item?id=39346345) - [Tech Strikes Back: \"Accelerationism\" is an overdue corrective to years of gloom](https://www.thenewatlantis.com/publications/tech-strikes-back)
+* [2024-02-12, 16:39:33](https://news.ycombinator.com/item?id=39346944) - [How Two Irish Businessmen Almost Took Nigeria for $11B](https://nytimes.com/2024/02/09/magazine/nigeria-corruption-michael-quinn-brendan-cahill.html)
+* [2024-02-12, 16:00:34](https://news.ycombinator.com/item?id=39346361) - [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
