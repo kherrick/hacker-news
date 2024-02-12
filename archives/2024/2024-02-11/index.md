@@ -43,6 +43,7 @@
 * [2024-02-11, 16:07:37](https://news.ycombinator.com/item?id=39335927) - [New Bill Would Require Phonics-Based Reading Instruction in California](https://timesofsandiego.com/education/2024/02/10/new-bill-would-require-phonics-based-reading-instruction-in-california/)
 * [2024-02-11, 16:01:37](https://news.ycombinator.com/item?id=39335879) - ['Baby Bust': Why Fewer Young People Expect to Become Parents (2013)](https://knowledge.wharton.upenn.edu/article/stew-friedman-new-work-family-choices-men-women/)
 * [2024-02-11, 15:56:42](https://news.ycombinator.com/item?id=39335842) - [Social networks are getting stingy with their data, closing their doors to devs](https://techcrunch.com/2024/02/09/social-network-api-apps-twitter-reddit-threads-mastodon-bluesky/)
+* [2024-02-11, 15:18:33](https://news.ycombinator.com/item?id=39335549) - [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
 * [2024-02-11, 15:12:37](https://news.ycombinator.com/item?id=39335509) - [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 * [2024-02-11, 15:04:31](https://news.ycombinator.com/item?id=39335451) - [Israel Has Ramped Up Attacks on Jenin Camp in the West Bank](https://jacobin.com/2024/02/jenin-idf-raids-air-strikes-west-bank)
 * [2024-02-11, 15:04:16](https://news.ycombinator.com/item?id=39335450) - [The Mana World Classic – Open-Source MMORPG](https://classic.themanaworld.org/)
