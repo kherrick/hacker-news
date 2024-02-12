@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 16:20:49](https://news.ycombinator.com/item?id=39346668) - [Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021)
 * [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
+* [2024-02-12, 15:59:19](https://news.ycombinator.com/item?id=39346345) - [Tech Strikes Back: \"Accelerationism\" is an overdue corrective to years of gloom](https://www.thenewatlantis.com/publications/tech-strikes-back)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [2024-02-12, 14:51:04](https://news.ycombinator.com/item?id=39345368) - [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
