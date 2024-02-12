@@ -21,7 +21,7 @@
 * [2024-02-11, 16:41:56](https://news.ycombinator.com/item?id=39336177) - [Did the ancient Greeks and Romans experience Alzheimer's?](https://today.usc.edu/alzheimers-in-history-did-the-ancient-greeks-and-romans-experience-dementia/)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
-* [2024-02-11, 07:56:46](https://news.ycombinator.com/item?id=39333309) - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
+* [2024-02-11, 06:58:39](https://news.ycombinator.com/item?id=39333116) - [Show HN: pg-bulk-ingest – Now with multi-table support](https://github.com/uktrade/pg-bulk-ingest/releases)
 * [2024-02-10, 21:28:35](https://news.ycombinator.com/item?id=39330391) - [Eugène-François Vidocq and the Birth of the Detective](https://publicdomainreview.org/essay/eugene-francois-vidocq-and-the-birth-of-the-detective/)
 * [2024-02-10, 21:21:17](https://news.ycombinator.com/item?id=39330339) - [The Atlas of Analytical Signatures of Photographic Processes](https://www.getty.edu/conservation/publications_resources/pdf_publications/atlas.html)
 * [2024-02-10, 17:58:18](https://news.ycombinator.com/item?id=39328506) - [Lunar reflections during SLIM landing](https://destevez.net/2024/02/lunar-reflections-during-slim-landing/)
