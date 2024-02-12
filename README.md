@@ -7,6 +7,7 @@
 * [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
 * [2024-02-12, 19:43:03](https://news.ycombinator.com/item?id=39349366) - [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
 * [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [VDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+* [2024-02-12, 19:08:57](https://news.ycombinator.com/item?id=39348902) - [GeneGPT, a tool-augmented LLM for bioinformatics](https://github.com/ncbi/GeneGPT)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a software role at FedEx and was asked to take a personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
@@ -28,7 +29,6 @@
 * [2024-02-11, 11:16:30](https://news.ycombinator.com/item?id=39334240) - [OpenFPGA. The future of video game preservation](https://www.analogue.co/developer)
 * [2024-02-11, 06:41:26](https://news.ycombinator.com/item?id=39333068) - [Anatomist of Evil](https://literaryreview.co.uk/anatomist-of-evil)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [Chicago Underground Pedway [pdf]](https://www.chicago.gov/content/dam/city/depts/cdot/pedestrian/Pedway/PedwayMap2013.pdf)
-* [2024-02-10, 11:05:33](https://news.ycombinator.com/item?id=39325261) - [Building for DOS, OS/2, and DOS on a MacBook Apple Silicon](https://retrocoding.net/building-for-dos-os2-and-dos-on-a-macbook-apple-silicon)
 * [2024-02-09, 10:41:59](https://news.ycombinator.com/item?id=39313480) - [The scarcity of the long term](https://kk.org/thetechnium/the-scarcity-of-the-long-term/)
 
 ## [Archives](archives/index.md)
