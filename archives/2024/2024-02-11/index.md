@@ -76,6 +76,7 @@
 * [2024-02-11, 07:04:27](https://news.ycombinator.com/item?id=39333137) - [TurboTax maker Intuit spent millions in record lobbying blitz](https://www.opensecrets.org/news/2024/02/turbotax-maker-intuit-spent-millions-in-record-lobbying-blitz-amid-threats-to-tax-prep-industry/)
 * [2024-02-11, 06:58:39](https://news.ycombinator.com/item?id=39333116) - [Show HN: pg-bulk-ingest – Now with multi-table support](https://github.com/uktrade/pg-bulk-ingest/releases)
 * [2024-02-11, 06:46:22](https://news.ycombinator.com/item?id=39333081) - [Waymo car vandalized and lit on fire in San Francisco](https://twitter.com/michael_vandi/status/1756550257851449372)
+* [2024-02-11, 06:41:26](https://news.ycombinator.com/item?id=39333068) - [Anatomist of Evil](https://literaryreview.co.uk/anatomist-of-evil)
 * [2024-02-11, 06:22:27](https://news.ycombinator.com/item?id=39333007) - [Tech vs. SF](https://www.wsj.com/politics/elections/tech-millionaires-take-on-politicians-in-a-fight-to-fix-san-francisco-e0daf87e)
 * [2024-02-11, 06:15:13](https://news.ycombinator.com/item?id=39332989) - [No job? No shame. Younger workers are opening up about unemployment](https://www.washingtonpost.com/business/2024/02/10/gen-z-layoffs-tiktok-younger-workers/)
 * [2024-02-11, 06:04:23](https://news.ycombinator.com/item?id=39332963) - [RetroMags: Download Retro Gaming Magazines](https://www.retromags.com)
