@@ -11,4 +11,5 @@
 * [2024-02-12, 01:47:45](https://news.ycombinator.com/item?id=39340581) - [Famous Solopreneurs Who Accomplished Nothing by Age 30](https://solounicornsclub.beehiiv.com/p/5-famous-solopreneurs-who-accomplished-nothing-by-age-30)
 * [2024-02-12, 01:24:35](https://news.ycombinator.com/item?id=39340501) - [Cousins are disappearing. Is this reshaping the experience of childhood?](https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338)
 * [2024-02-12, 00:39:44](https://news.ycombinator.com/item?id=39340277) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
+* [2024-02-12, 00:32:32](https://news.ycombinator.com/item?id=39340244) - [You Can Call the Super Bowl the \"Super Bowl\"](https://www.eff.org/deeplinks/2018/02/you-can-call-super-bowl-super-bowl)
 * [2024-02-12, 00:12:09](https://news.ycombinator.com/item?id=39340146) - [Questioning \"The Value of Open Source Software\"](https://openpath.chadwhitacre.com/2024/questioning-the-value-of-open-source-software/)
