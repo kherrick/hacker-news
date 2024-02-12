@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:58:17](https://news.ycombinator.com/item?id=39344786) - [I was wrong to ignore Zigbee and Z-Wave. They're the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
 * [2024-02-12, 13:57:04](https://news.ycombinator.com/item?id=39344770) - ['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
+* [2024-02-12, 13:26:15](https://news.ycombinator.com/item?id=39344478) - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
 * [2024-02-12, 12:00:46](https://news.ycombinator.com/item?id=39343895) - [My Visit to Deep Springs College (2009)](https://www.harrisonbarnes.com/do-not-trust-appearances-my-visit-to-deep-springs-college/)
