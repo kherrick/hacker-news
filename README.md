@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
-* [2024-02-12, 16:39:33](https://news.ycombinator.com/item?id=39346944) - [How Two Irish Businessmen Almost Took Nigeria for $11B](https://nytimes.com/2024/02/09/magazine/nigeria-corruption-michael-quinn-brendan-cahill.html)
+* [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a SW role at FedEx and had to take this bizarre personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
 * [2024-02-12, 16:00:34](https://news.ycombinator.com/item?id=39346361) - [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
@@ -20,8 +20,8 @@
 * [2024-02-12, 06:32:37](https://news.ycombinator.com/item?id=39342109) - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
 * [2024-02-12, 05:42:58](https://news.ycombinator.com/item?id=39341814) - [Dipping into the Most Stunning Hot Springs](https://www.nytimes.com/2024/02/09/travel/hot-springs.html)
 * [2024-02-12, 01:51:41](https://news.ycombinator.com/item?id=39340599) - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)
-* [2024-02-11, 21:54:55](https://news.ycombinator.com/item?id=39339149) - [A Cycle of Misery: The business of building commercial aircraft](https://www.construction-physics.com/p/a-cycle-of-misery-the-business-of)
 * [2024-02-11, 16:36:58](https://news.ycombinator.com/item?id=39336139) - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
+* [2024-02-11, 16:28:19](https://news.ycombinator.com/item?id=39336089) - [Cap-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](http://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
 * [2024-02-11, 13:44:20](https://news.ycombinator.com/item?id=39334936) - [Rediscovered Rembrandt Portraits May Be the Artist's Smallest Paintings](https://hyperallergic.com/862203/rediscovered-rembrandt-portraits-may-be-the-artists-smallest-paintings/)
 * [2024-02-11, 13:43:06](https://news.ycombinator.com/item?id=39334926) - [Ventum, Dimond, Cervelo – Why do these triathlon bikes look so weird?](https://www.theproscloset.com/blogs/news/ventum-dimond-cervelo-why-do-these-tri-bikes-look-so-weird)
 * [2024-02-11, 13:25:55](https://news.ycombinator.com/item?id=39334833) - [Shadxn: An experimental CLI tool that builds upon shadcn-UI CLI](https://github.com/anis-marrouchi/shadxn)

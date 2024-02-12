@@ -6,6 +6,7 @@
 
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:39:33](https://news.ycombinator.com/item?id=39346944) - [How Two Irish Businessmen Almost Took Nigeria for $11B](https://nytimes.com/2024/02/09/magazine/nigeria-corruption-michael-quinn-brendan-cahill.html)
+* [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a SW role at FedEx and had to take this bizarre personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)
 * [2024-02-12, 16:20:49](https://news.ycombinator.com/item?id=39346668) - [Bitcoin Breaks $50K for First Time Since Hitting All-Time High in 2021](https://decrypt.co/217033/bitcoin-breaks-50k-first-time-since-2021)
 * [2024-02-12, 16:11:34](https://news.ycombinator.com/item?id=39346527) - [Developers Are in Open Revolt over Apple's New App Store Rules](https://www.wired.com/story/developers-revolt-apple-dma/)
 * [2024-02-12, 16:00:34](https://news.ycombinator.com/item?id=39346361) - [Atmospheric river storms are getting stronger, and deadlier](https://www.theguardian.com/science/2024/feb/11/atmospheric-river-pacific-storms-climate-crisis)
