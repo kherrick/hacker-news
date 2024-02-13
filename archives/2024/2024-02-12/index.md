@@ -30,6 +30,7 @@
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
 * [2024-02-12, 20:05:12](https://news.ycombinator.com/item?id=39349695) - [Brazil Hits 92% Renewable Energy Milestone](https://old.reddit.com/r/technology/comments/1aoe9so/brazil_hits_92_renewable_energy_milestone/)
+* [2024-02-12, 20:02:27](https://news.ycombinator.com/item?id=39349652) - [The Second Death of Pablo Neruda](https://www.newyorker.com/news/daily-comment/the-second-death-of-pablo-neruda)
 * [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
 * [2024-02-12, 19:43:03](https://news.ycombinator.com/item?id=39349366) - [US rail safety legislation stalled one year after East Palestine Ohio disaster](https://www.wlbt.com/2024/02/02/rail-safety-legislation-still-stalled-one-year-after-east-palestine-disaster/)
 * [2024-02-12, 19:29:11](https://news.ycombinator.com/item?id=39349175) - [The myth of big salaries (it's all marketing)](https://seths.blog/2009/03/the-myth-of-big-salaries-its-all-marketing/)
