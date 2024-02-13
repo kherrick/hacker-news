@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 22:27:15](https://news.ycombinator.com/item?id=39363706) - [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)
+* [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [Polars – A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
 * [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-13, 20:34:40](https://news.ycombinator.com/item?id=39362481) - [Mozilla downsizes as it refocuses on Firefox and AI](https://techcrunch.com/2024/02/13/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai-read-the-memo/)
@@ -16,8 +18,6 @@
 * [2024-02-13, 14:27:58](https://news.ycombinator.com/item?id=39357900) - [Nvidia's Chat with RTX is an AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The dating app paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
-* [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
-* [2024-02-13, 13:33:43](https://news.ycombinator.com/item?id=39357423) - [CSS WG resolved to officially work on native custom functions and mixins](https://css.oddbird.net/sasslike/mixins-functions/)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 * [2024-02-13, 12:35:28](https://news.ycombinator.com/item?id=39357033) - [Aya: An open LLM by 3k independent researchers across the globe](https://cohere.com/research/aya)
 * [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
