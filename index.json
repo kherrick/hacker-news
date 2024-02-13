@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-02-13, 10:19:47",
-      "https://news.ycombinator.com/item?id=39356277"
-    ],
-    [
-      "\"PayPal took $80k from me and banned me\"",
-      "https://twitter.com/dannypostmaa/status/1757343318239813730"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 09:41:02",
       "https://news.ycombinator.com/item?id=39356066"
     ],
@@ -217,6 +207,16 @@
     [
       "vDPA: Support for block devices in Linux and QEMU",
       "https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 19:08:57",
+      "https://news.ycombinator.com/item?id=39348902"
+    ],
+    [
+      "GeneGPT, a tool-augmented LLM for bioinformatics",
+      "https://github.com/ncbi/GeneGPT"
     ]
   ],
   [
