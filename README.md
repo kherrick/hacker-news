@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
+* [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
@@ -11,9 +11,8 @@
 * [2024-02-13, 01:45:36](https://news.ycombinator.com/item?id=39353297) - [Cautionary Fables for Darwin's Birthday (2018)](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
 * [2024-02-13, 01:35:38](https://news.ycombinator.com/item?id=39353231) - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 * [2024-02-13, 01:32:33](https://news.ycombinator.com/item?id=39353207) - [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
-* [2024-02-13, 00:07:53](https://news.ycombinator.com/item?id=39352472) - [Unicomp's \"New\" Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
 * [2024-02-12, 22:38:17](https://news.ycombinator.com/item?id=39351494) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
-* [2024-02-12, 21:51:49](https://news.ycombinator.com/item?id=39351026) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
+* [2024-02-12, 21:51:49](https://news.ycombinator.com/item?id=39351026) - [Security flaws in an SSO plugin for Caddy (2023)](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
 * [2024-02-12, 21:22:51](https://news.ycombinator.com/item?id=39350700) - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
 * [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
@@ -28,6 +27,7 @@
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-12, 05:25:39](https://news.ycombinator.com/item?id=39341692) - [The Isle of Doctor Seaborg (2013)](https://www.damninteresting.com/the-isle-of-doctor-seaborg/)
+* [2024-02-11, 04:12:21](https://news.ycombinator.com/item?id=39332588) - [The Quest for Blue (2021)](https://www.aramcoworld.com/Articles/February-2021/The-Quest-for-Blue)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
 * [2024-02-09, 20:28:41](https://news.ycombinator.com/item?id=39320091) - [Mystery monk makes billions with 5-hour energy (2012)](https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/)
 
