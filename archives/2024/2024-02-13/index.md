@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
