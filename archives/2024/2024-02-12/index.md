@@ -52,6 +52,7 @@
 * [2024-02-12, 15:59:19](https://news.ycombinator.com/item?id=39346345) - [Tech Strikes Back: \"Accelerationism\" is an overdue corrective to years of gloom](https://www.thenewatlantis.com/publications/tech-strikes-back)
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
+* [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
 * [2024-02-12, 14:51:04](https://news.ycombinator.com/item?id=39345368) - [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
 * [2024-02-12, 14:45:42](https://news.ycombinator.com/item?id=39345309) - [Kroger's Digital Struggle](https://joshstrange.com/2024/02/11/krogers-digital-struggle/)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)

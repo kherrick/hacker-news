@@ -23,13 +23,13 @@
 * [2024-02-12, 19:08:57](https://news.ycombinator.com/item?id=39348902) - [GeneGPT, a tool-augmented LLM for bioinformatics](https://github.com/ncbi/GeneGPT)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or slow? Lizards help resolve a paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
+* [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
 * [2024-02-12, 14:11:56](https://news.ycombinator.com/item?id=39344934) - [The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-12, 05:25:39](https://news.ycombinator.com/item?id=39341692) - [The Isle of Doctor Seaborg (2013)](https://www.damninteresting.com/the-isle-of-doctor-seaborg/)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
-* [2024-02-09, 20:28:41](https://news.ycombinator.com/item?id=39320091) - [Mystery monk makes billions with 5-hour energy (2012)](https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/)
 
 ## [Archives](archives/index.md)
 
