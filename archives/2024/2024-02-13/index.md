@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-02-13, 20:23:48](https://news.ycombinator.com/item?id=39362372) - [Cloudflare DNS Updates Delayed](https://www.cloudflarestatus.com/incidents/byhy098jxck6)
 * [2024-02-13, 19:24:56](https://news.ycombinator.com/item?id=39361661) - [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
 * [2024-02-13, 18:55:04](https://news.ycombinator.com/item?id=39361279) - [Someone is going to dim the sun, and it will be soon](https://climate.benjames.io/someone-is-going-to-dim-the-sun/)
 * [2024-02-13, 18:37:53](https://news.ycombinator.com/item?id=39361077) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
