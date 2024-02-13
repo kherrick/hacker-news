@@ -23,11 +23,11 @@
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell (2002)](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [Git tips and tricks](https://blog.gitbutler.com/git-tips-and-tricks/)
+* [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
-* [2024-02-13, 05:56:21](https://news.ycombinator.com/item?id=39354922) - [World Radio History Archive](https://www.worldradiohistory.com/index.htm)
-* [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 * [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
+* [2024-02-12, 17:25:09](https://news.ycombinator.com/item?id=39347616) - [Cryostasis Revival](https://www.alcor.org/cryostasis-revival/)
 * [2024-02-12, 17:13:32](https://news.ycombinator.com/item?id=39347453) - [K Isn't Lisp](http://nsl.com/papers/kisntlisp.htm)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
 
