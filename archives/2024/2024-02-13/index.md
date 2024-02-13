@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 15:32:04](https://news.ycombinator.com/item?id=39358509) - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
 * [2024-02-13, 15:25:32](https://news.ycombinator.com/item?id=39358437) - [A Fossil Fuel Economy Requires 535x More Mining Than a Clean Energy Economy](https://www.distilled.earth/p/a-fossil-fuel-economy-requires-535x)
+* [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
 * [2024-02-13, 14:49:24](https://news.ycombinator.com/item?id=39358072) - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
 * [2024-02-13, 14:39:45](https://news.ycombinator.com/item?id=39357999) - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
 * [2024-02-13, 14:35:44](https://news.ycombinator.com/item?id=39357961) - [How were photos transmitted by wire in 1937?](https://thekidshouldseethis.com/post/wired-photo-transmission-news-1937)
@@ -12,6 +14,7 @@
 * [2024-02-13, 14:18:02](https://news.ycombinator.com/item?id=39357799) - [Atlantic Ocean is headed for a tipping point. Extreme climate within decades](https://theconversation.com/atlantic-ocean-is-headed-for-a-tipping-point-once-melting-glaciers-shut-down-the-gulf-stream-we-would-see-extreme-climate-change-within-decades-study-shows-222834)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [The original WWW proposal is a Word for Macintosh 4.0 file, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
+* [2024-02-13, 13:53:56](https://news.ycombinator.com/item?id=39357595) - [Owners report rust forming on Tesla Cybertruck](https://www.theregister.com/2024/02/13/tesla_cybertruck_rust/)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:33:43](https://news.ycombinator.com/item?id=39357423) - [CSS WG resolved to officially work on native custom functions and mixins](https://css.oddbird.net/sasslike/mixins-functions/)
 * [2024-02-13, 13:10:22](https://news.ycombinator.com/item?id=39357252) - [What I Learned Joining a Climate Civil Resistance Organization for 18 Months](https://lhostis.me/what-i-learned-joining-a-climate-civil-resistance-organization-for-18-months/)
