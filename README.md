@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
@@ -20,7 +21,6 @@
 * [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
 * [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [vDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
 * [2024-02-12, 19:08:57](https://news.ycombinator.com/item?id=39348902) - [GeneGPT, a tool-augmented LLM for bioinformatics](https://github.com/ncbi/GeneGPT)
-* [2024-02-12, 18:53:38](https://news.ycombinator.com/item?id=39348741) - [Lies, Damned Lies, and Manometer Readings](https://asteriskmag.com/issues/05/lies-damned-lies-and-manometer-readings)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or slow? Lizards help resolve a paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
