@@ -12,6 +12,7 @@
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [The original WWW proposal is a Word for Macintosh 4.0 file, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
+* [2024-02-13, 13:33:43](https://news.ycombinator.com/item?id=39357423) - [CSS WG resolved to officially work on native custom functions and mixins](https://css.oddbird.net/sasslike/mixins-functions/)
 * [2024-02-13, 13:10:22](https://news.ycombinator.com/item?id=39357252) - [What I Learned Joining a Climate Civil Resistance Organization for 18 Months](https://lhostis.me/what-i-learned-joining-a-climate-civil-resistance-organization-for-18-months/)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
