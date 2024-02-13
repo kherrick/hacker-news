@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
 * [2024-02-13, 17:48:15](https://news.ycombinator.com/item?id=39360439) - [End of Life for Twilio Authy Desktop App](https://help.twilio.com/articles/22771146070299-End-user-guide-End-of-Life-EOL-for-Twilio-Authy-Desktop-app)
+* [2024-02-13, 17:35:53](https://news.ycombinator.com/item?id=39360258) - [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
 * [2024-02-13, 17:18:14](https://news.ycombinator.com/item?id=39360050) - [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
 * [2024-02-13, 17:12:08](https://news.ycombinator.com/item?id=39359976) - [Filtering the noise created by vague business advice](https://crnkovic.me/filtering-out-vague-business-advice)
