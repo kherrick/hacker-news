@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
+* [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
@@ -8,7 +9,6 @@
 * [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 * [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
 * [2024-02-13, 02:19:33](https://news.ycombinator.com/item?id=39353516) - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
-* [2024-02-13, 01:45:36](https://news.ycombinator.com/item?id=39353297) - [Cautionary Fables for Darwin's Birthday (2018)](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
 * [2024-02-13, 01:35:38](https://news.ycombinator.com/item?id=39353231) - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 * [2024-02-13, 01:32:33](https://news.ycombinator.com/item?id=39353207) - [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
 * [2024-02-13, 00:07:53](https://news.ycombinator.com/item?id=39352472) - [Unicomp's \"New\" Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
