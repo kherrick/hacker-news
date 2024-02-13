@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 13:10:22](https://news.ycombinator.com/item?id=39357252) - [What I Learned Joining a Climate Civil Resistance Organization for 18 Months](https://lhostis.me/what-i-learned-joining-a-climate-civil-resistance-organization-for-18-months/)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
@@ -27,7 +28,6 @@
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
 * [2024-02-12, 14:11:56](https://news.ycombinator.com/item?id=39344934) - [The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
-* [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-12, 03:21:20](https://news.ycombinator.com/item?id=39340998) - [Where did DNA come from?](https://geneticsunzipped.com/transcripts/2021/8/26/where-did-dna-come-from)
 
