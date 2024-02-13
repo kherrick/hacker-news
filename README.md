@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 14:18:02](https://news.ycombinator.com/item?id=39357799) - [Atlantic Ocean is headed for a tipping point. Extreme climate within decades](https://theconversation.com/atlantic-ocean-is-headed-for-a-tipping-point-once-melting-glaciers-shut-down-the-gulf-stream-we-would-see-extreme-climate-change-within-decades-study-shows-222834)
+* [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
@@ -12,7 +14,6 @@
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [Git Tips and Tricks](https://blog.gitbutler.com/git-tips-and-tricks/)
-* [2024-02-13, 09:00:52](https://news.ycombinator.com/item?id=39355869) - [Rampant DMCA use of Tumblr site for filing false copyright claims with Google](https://www.weeklyblitz.net/featured/rampant-use-of-tumblr-site-for-filing-false-copyright-claims-with-google-under-dmca/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
@@ -27,7 +28,6 @@
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
 * [2024-02-12, 14:11:56](https://news.ycombinator.com/item?id=39344934) - [The Rise and Fall of GOFAI](https://billwadge.com/2024/02/12/the-rise-and-fall-of-gofai/)
-* [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-12, 03:21:20](https://news.ycombinator.com/item?id=39340998) - [Where did DNA come from?](https://geneticsunzipped.com/transcripts/2021/8/26/where-did-dna-come-from)
 

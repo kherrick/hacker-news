@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 14:18:02](https://news.ycombinator.com/item?id=39357799) - [Atlantic Ocean is headed for a tipping point. Extreme climate within decades](https://theconversation.com/atlantic-ocean-is-headed-for-a-tipping-point-once-melting-glaciers-shut-down-the-gulf-stream-we-would-see-extreme-climate-change-within-decades-study-shows-222834)
+* [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:10:22](https://news.ycombinator.com/item?id=39357252) - [What I Learned Joining a Climate Civil Resistance Organization for 18 Months](https://lhostis.me/what-i-learned-joining-a-climate-civil-resistance-organization-for-18-months/)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
