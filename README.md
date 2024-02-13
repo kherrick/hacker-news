@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
 * [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-13, 20:34:40](https://news.ycombinator.com/item?id=39362481) - [Mozilla downsizes as it refocuses on Firefox and AI](https://techcrunch.com/2024/02/13/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai-read-the-memo/)
 * [2024-02-13, 18:21:00](https://news.ycombinator.com/item?id=39360856) - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
@@ -12,7 +13,6 @@
 * [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A novel approach to front end testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: Faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
 * [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
-* [2024-02-13, 14:49:24](https://news.ycombinator.com/item?id=39358072) - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
 * [2024-02-13, 14:27:58](https://news.ycombinator.com/item?id=39357900) - [Nvidia's Chat with RTX is an AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The dating app paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
@@ -28,8 +28,8 @@
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 * [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
 * [2024-02-12, 23:47:21](https://news.ycombinator.com/item?id=39352251) - [Before he was George Orwell, he was Eric Blair, police officer](https://www.nytimes.com/2024/02/05/books/review/george-orwell-burma-sahib-paul-theroux.html)
-* [2024-02-12, 17:13:32](https://news.ycombinator.com/item?id=39347453) - [K Isn't Lisp (2004)](http://nsl.com/papers/kisntlisp.htm)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
+* [2024-02-10, 18:18:19](https://news.ycombinator.com/item?id=39328747) - [Margaret Mead's LSD Memo](https://slate.com/news-and-politics/2024/02/tripping-on-utopia-book-lsd-psychedelics-history.html)
 
 ## [Archives](archives/index.md)
 

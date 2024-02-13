@@ -26,6 +26,7 @@
 * [2024-02-10, 19:31:22](https://news.ycombinator.com/item?id=39329443) - [Ivanti discloses fifth vulnerability, doesn't credit researchers who found it](https://www.theregister.com/2024/02/09/ivanti_discloses_fifth_ics_vulnerability/)
 * [2024-02-10, 19:24:46](https://news.ycombinator.com/item?id=39329383) - [Speak Friend and Enter – Do people use movie passwords? (2018)](https://kobikobi.wordpress.com/2018/03/03/speak-friend-and-enter-do-people-actually-use-movie-passwords/)
 * [2024-02-10, 19:12:28](https://news.ycombinator.com/item?id=39329264) - [Masturbation abstinence is popular online. Doctors and therapists are worried](https://www.npr.org/2026/01/01/1198916105/mens-health-masturbation-abstinence)
+* [2024-02-10, 18:18:19](https://news.ycombinator.com/item?id=39328747) - [Margaret Mead's LSD Memo](https://slate.com/news-and-politics/2024/02/tripping-on-utopia-book-lsd-psychedelics-history.html)
 * [2024-02-10, 18:15:59](https://news.ycombinator.com/item?id=39328716) - [50 Years of Prolog: Becoming More Declarative [video]](https://www.youtube.com/watch?v=Ru2oZGRJTQg)
 * [2024-02-10, 18:13:54](https://news.ycombinator.com/item?id=39328684) - [Grand-Master Level Chess Without Search: Modeling Choices and Their Implications](https://gist.github.com/yoavg/8b98bbd70eb187cf1852b3485b8cda4f)
 * [2024-02-10, 17:58:18](https://news.ycombinator.com/item?id=39328506) - [Lunar reflections during SLIM landing](https://destevez.net/2024/02/lunar-reflections-during-slim-landing/)
