@@ -2,7 +2,6 @@
 
 * [2024-02-13, 19:24:56](https://news.ycombinator.com/item?id=39361661) - [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
 * [2024-02-13, 18:37:53](https://news.ycombinator.com/item?id=39361077) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
-* [2024-02-13, 18:22:04](https://news.ycombinator.com/item?id=39360870) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 18:21:00](https://news.ycombinator.com/item?id=39360856) - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-13, 18:10:05](https://news.ycombinator.com/item?id=39360724) - [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 * [2024-02-13, 17:48:15](https://news.ycombinator.com/item?id=39360439) - [End of Life for Twilio Authy Desktop App](https://help.twilio.com/articles/22771146070299-End-user-guide-End-of-Life-EOL-for-Twilio-Authy-Desktop-app)
@@ -18,6 +17,7 @@
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The dating app paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
+* [2024-02-13, 13:33:43](https://news.ycombinator.com/item?id=39357423) - [CSS WG resolved to officially work on native custom functions and mixins](https://css.oddbird.net/sasslike/mixins-functions/)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 * [2024-02-13, 12:35:28](https://news.ycombinator.com/item?id=39357033) - [Aya: An open LLM by 3k independent researchers across the globe](https://cohere.com/research/aya)
 * [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
