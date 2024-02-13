@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 23:54:46](https://news.ycombinator.com/item?id=39352342) - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)
+* [2024-02-12, 23:51:20](https://news.ycombinator.com/item?id=39352304) - [A journalist has his account on X suspended after writing critique of platform](https://www.irishtimes.com/culture/books/2024/02/12/journalist-says-he-finds-it-surreal-to-have-account-on-x-suspended-after-writing-critique-of-platform/)
+* [2024-02-12, 23:37:48](https://news.ycombinator.com/item?id=39352153) - [Jetbrains unbundling AI assistant doing the right thing](https://youtrack.jetbrains.com/issue/LLM-1973/Provide-the-possibility-to-remove-a-plugin-completely-from-the-system#focus=Comments-27-9099932.0-0)
 * [2024-02-12, 23:06:43](https://news.ycombinator.com/item?id=39351810) - [Shell Is Immediately Closing All of Its California Hydrogen Fueling Stations](https://insideevs.com/news/708156/shell-closes-california-hydrogen-stations/)
 * [2024-02-12, 22:59:37](https://news.ycombinator.com/item?id=39351737) - [6 months in, journalist-owned tech publication 404 Media is profitable](https://www.niemanlab.org/2024/02/six-months-in-journalist-owned-tech-publication-404-media-is-profitable/)
 * [2024-02-12, 22:53:43](https://news.ycombinator.com/item?id=39351673) - [Tell HN: Google Drive for Mac deleted all my files](https://news.ycombinator.com/item?id=39351673)
+* [2024-02-12, 22:43:10](https://news.ycombinator.com/item?id=39351556) - [The Gemini Update to Let Me Google That for You?](https://letmegeminithatforyou.com/)
 * [2024-02-12, 22:22:43](https://news.ycombinator.com/item?id=39351347) - [Spotify's layoffs put an end to a musical encyclopedia, and fans are pissed](https://techcrunch.com/2024/02/12/every-noise-shut-down-spotify-layoffs/)
 * [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [Daniel Dennett: What If I'm Wrong?](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:44](https://news.ycombinator.com/item?id=39351023) - [Prime Video cuts Dolby Vision, Atmos support from ad tier–and didn't tell subs](https://arstechnica.com/gadgets/2024/02/prime-video-cuts-dolby-vision-atmos-support-from-ad-tier-and-didnt-tell-subs/)
