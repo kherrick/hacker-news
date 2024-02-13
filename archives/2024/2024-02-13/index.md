@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 17:01:10](https://news.ycombinator.com/item?id=39359824) - [Roboflow (YC S20) is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 15:32:04](https://news.ycombinator.com/item?id=39358509) - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
 * [2024-02-13, 15:25:32](https://news.ycombinator.com/item?id=39358437) - [A Fossil Fuel Economy Requires 535x More Mining Than a Clean Energy Economy](https://www.distilled.earth/p/a-fossil-fuel-economy-requires-535x)

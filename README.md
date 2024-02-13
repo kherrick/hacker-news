@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 17:01:10](https://news.ycombinator.com/item?id=39359824) - [Roboflow (YC S20) is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 15:32:04](https://news.ycombinator.com/item?id=39358509) - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: 10 times faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
@@ -8,7 +9,6 @@
 * [2024-02-13, 14:39:45](https://news.ycombinator.com/item?id=39357999) - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
 * [2024-02-13, 14:27:58](https://news.ycombinator.com/item?id=39357900) - [Nvidia's Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
-* [2024-02-13, 13:53:56](https://news.ycombinator.com/item?id=39357595) - [Owners report rust forming on Tesla Cybertruck](https://www.theregister.com/2024/02/13/tesla_cybertruck_rust/)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:33:43](https://news.ycombinator.com/item?id=39357423) - [CSS WG resolved to officially work on native custom functions and mixins](https://css.oddbird.net/sasslike/mixins-functions/)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
