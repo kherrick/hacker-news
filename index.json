@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2024-02-13, 17:35:53",
-      "https://news.ycombinator.com/item?id=39360258"
-    ],
-    [
-      "Falsehoods programmers believe about time zones",
-      "https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 17:23:22",
       "https://news.ycombinator.com/item?id=39360106"
     ],
     [
       "Stable Cascade",
       "https://github.com/Stability-AI/StableCascade"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 17:18:14",
+      "https://news.ycombinator.com/item?id=39360050"
+    ],
+    [
+      "Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries",
+      "https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=39358406"
     ],
     [
-      "Show HN: 10 times faster LLM evaluation with Bayesian optimization",
+      "Show HN: Faster LLM evaluation with Bayesian optimization",
       "https://github.com/rentruewang/bocoel"
     ]
   ],
@@ -141,12 +141,22 @@
   ],
   [
     [
-      "2024-02-13, 14:27:58",
-      "https://news.ycombinator.com/item?id=39357900"
+      "2024-02-13, 14:34:20",
+      "https://news.ycombinator.com/item?id=39357948"
     ],
     [
-      "Nvidia's Chat with RTX is an AI chatbot that runs locally on your PC",
-      "https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on"
+      "Apple's iMessage avoids EU's Digital Markets Act regulation",
+      "https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 14:07:18",
+      "https://news.ycombinator.com/item?id=39357721"
+    ],
+    [
+      "The dating app paradox",
+      "https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever"
     ]
   ],
   [
@@ -167,6 +177,26 @@
     [
       "Implement Tcl in Tcl (2007)",
       "https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 13:33:43",
+      "https://news.ycombinator.com/item?id=39357423"
+    ],
+    [
+      "CSS WG resolved to officially work on native custom functions and mixins",
+      "https://css.oddbird.net/sasslike/mixins-functions/"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 12:41:30",
+      "https://news.ycombinator.com/item?id=39357068"
+    ],
+    [
+      "A Git client for simultaneous branches on top of your existing workflow",
+      "https://gitbutler.com"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-02-13, 09:35:13",
-      "https://news.ycombinator.com/item?id=39356042"
-    ],
-    [
-      "Git tips and tricks",
-      "https://blog.gitbutler.com/git-tips-and-tricks/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 09:25:46",
       "https://news.ycombinator.com/item?id=39355998"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-02-13, 06:39:31",
-      "https://news.ycombinator.com/item?id=39355180"
+      "2024-02-13, 08:35:01",
+      "https://news.ycombinator.com/item?id=39355744"
     ],
     [
-      "Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943",
-      "https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 05:56:21",
-      "https://news.ycombinator.com/item?id=39354922"
-    ],
-    [
-      "World Radio History Archive",
-      "https://www.worldradiohistory.com/index.htm"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 23:55:53",
-      "https://news.ycombinator.com/item?id=39352354"
-    ],
-    [
-      "Perun2 Programming Language",
-      "https://perun2.org/"
+      "Nokia made too many phones",
+      "https://textquery.app/2024/02/06/nokia-made-too-many-phones/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39347453"
     ],
     [
-      "K Isn't Lisp",
+      "K Isn't Lisp (2004)",
       "http://nsl.com/papers/kisntlisp.htm"
     ]
   ],
