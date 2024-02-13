@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
@@ -21,7 +22,6 @@
 * [2024-02-13, 01:35:38](https://news.ycombinator.com/item?id=39353231) - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 * [2024-02-13, 01:32:33](https://news.ycombinator.com/item?id=39353207) - [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
 * [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
-* [2024-02-12, 22:38:17](https://news.ycombinator.com/item?id=39351494) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 * [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
