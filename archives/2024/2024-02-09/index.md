@@ -17,6 +17,7 @@
 * [2024-02-09, 21:42:38](https://news.ycombinator.com/item?id=39320868) - [Modern Treasury (YC S18) Is Hiring an Enterprise PM](https://jobs.ashbyhq.com/moderntreasury/7d1f8b2e-e151-48b1-a6fc-c02780aa78a4)
 * [2024-02-09, 21:39:27](https://news.ycombinator.com/item?id=39320846) - [Seiji Ozawa 1935-2024](https://bostonclassicalreview.com/2024/02/seiji-ozawa-1935-2024/)
 * [2024-02-09, 21:37:23](https://news.ycombinator.com/item?id=39320825) - [Consumption of 100% Fruit Juice and Body Weight in Children and Adults](https://pubmed.ncbi.nlm.nih.gov/38227336/)
+* [2024-02-09, 20:28:41](https://news.ycombinator.com/item?id=39320091) - [Mystery monk makes billions with 5-hour energy (2012)](https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/)
 * [2024-02-09, 20:19:53](https://news.ycombinator.com/item?id=39320003) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-02-09, 19:59:06](https://news.ycombinator.com/item?id=39319746) - [JSON Parsing: Intel Sapphire Rapids versus AMD Zen 4](https://lemire.me/blog/2024/02/09/json-parsing-intel-sapphire-rapids-versus-amd-zen-4/)
 * [2024-02-09, 19:52:07](https://news.ycombinator.com/item?id=39319649) - [How to write stuff no one else can](https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can)
