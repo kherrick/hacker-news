@@ -29,7 +29,7 @@
 * [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
 * [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly (2023)](https://unterwaditzer.net/2023/cool-uris.html)
-* [2024-02-12, 03:21:20](https://news.ycombinator.com/item?id=39340998) - [Where did DNA come from?](https://geneticsunzipped.com/transcripts/2021/8/26/where-did-dna-come-from)
+* [2024-02-10, 02:36:16](https://news.ycombinator.com/item?id=39323015) - [The emotional arcs of stories are dominated by six basic shapes](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0093-1)
 
 ## [Archives](archives/index.md)
 
