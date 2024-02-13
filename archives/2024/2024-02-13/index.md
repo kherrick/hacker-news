@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 10:19:47](https://news.ycombinator.com/item?id=39356277) - [\"PayPal took $80k from me and banned me\"](https://twitter.com/dannypostmaa/status/1757343318239813730)
 * [2024-02-13, 10:02:46](https://news.ycombinator.com/item?id=39356171) - [Why I threw away your resume (from the crankiest recruiter)](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
