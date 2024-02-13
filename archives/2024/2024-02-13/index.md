@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 15:25:32](https://news.ycombinator.com/item?id=39358437) - [A Fossil Fuel Economy Requires 535x More Mining Than a Clean Energy Economy](https://www.distilled.earth/p/a-fossil-fuel-economy-requires-535x)
 * [2024-02-13, 14:49:24](https://news.ycombinator.com/item?id=39358072) - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
 * [2024-02-13, 14:39:45](https://news.ycombinator.com/item?id=39357999) - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
 * [2024-02-13, 14:35:44](https://news.ycombinator.com/item?id=39357961) - [How were photos transmitted by wire in 1937?](https://thekidshouldseethis.com/post/wired-photo-transmission-news-1937)
@@ -17,6 +18,7 @@
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
+* [2024-02-13, 12:35:28](https://news.ycombinator.com/item?id=39357033) - [Aya: An open LLM by 3k independent researchers across the globe](https://cohere.com/research/aya)
 * [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
 * [2024-02-13, 12:24:15](https://news.ycombinator.com/item?id=39356982) - [Antithesis – Autonomous Testing](https://www.antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
