@@ -43,6 +43,7 @@
 * [2024-02-12, 17:50:08](https://news.ycombinator.com/item?id=39347961) - [On the Proposed California SB 1047](https://thezvi.substack.com/p/on-the-proposed-california-sb-1047)
 * [2024-02-12, 17:48:59](https://news.ycombinator.com/item?id=39347936) - [Evolution: Fast or Slow? Lizards Help Resolve a Paradox](https://www.quantamagazine.org/evolution-fast-or-slow-lizards-help-resolve-a-paradox-20240102/)
 * [2024-02-12, 17:40:21](https://news.ycombinator.com/item?id=39347809) - [Crowd sets Waymo self-driving vehicle ablaze in San Francisco](https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/)
+* [2024-02-12, 17:13:32](https://news.ycombinator.com/item?id=39347453) - [K Isn't Lisp](http://nsl.com/papers/kisntlisp.htm)
 * [2024-02-12, 17:00:40](https://news.ycombinator.com/item?id=39347260) - [Nango (YC W23, open-source product integrations) is hiring a back end engineer](https://www.nango.dev/jobs)
 * [2024-02-12, 16:39:33](https://news.ycombinator.com/item?id=39346944) - [How Two Irish Businessmen Almost Took Nigeria for $11B](https://nytimes.com/2024/02/09/magazine/nigeria-corruption-michael-quinn-brendan-cahill.html)
 * [2024-02-12, 16:34:26](https://news.ycombinator.com/item?id=39346870) - [I applied for a SW role at FedEx and had to take this bizarre personality test](https://old.reddit.com/r/mildlyinfuriating/comments/1ap1345/i_applied_for_a_software_role_at_fedex_and_was/)

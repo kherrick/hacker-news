@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
 * [2024-02-13, 17:01:10](https://news.ycombinator.com/item?id=39359824) - [Roboflow (YC S20) is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
+* [2024-02-13, 16:46:40](https://news.ycombinator.com/item?id=39359599) - [Nvidia Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
+* [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?gi=eae52dc83daf)
 * [2024-02-13, 15:32:04](https://news.ycombinator.com/item?id=39358509) - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
 * [2024-02-13, 15:25:32](https://news.ycombinator.com/item?id=39358437) - [A Fossil Fuel Economy Requires 535x More Mining Than a Clean Energy Economy](https://www.distilled.earth/p/a-fossil-fuel-economy-requires-535x)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: 10 times faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
@@ -42,6 +44,7 @@
 * [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
+* [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
 * [2024-02-13, 05:56:21](https://news.ycombinator.com/item?id=39354922) - [World Radio History Archive](https://www.worldradiohistory.com/index.htm)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 04:18:46](https://news.ycombinator.com/item?id=39354342) - [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
