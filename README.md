@@ -2,6 +2,7 @@
 
 * [2024-02-13, 14:18:02](https://news.ycombinator.com/item?id=39357799) - [Atlantic Ocean is headed for a tipping point. Extreme climate within decades](https://theconversation.com/atlantic-ocean-is-headed-for-a-tipping-point-once-melting-glaciers-shut-down-the-gulf-stream-we-would-see-extreme-climate-change-within-decades-study-shows-222834)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
+* [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [The original WWW proposal is a Word for Macintosh 4.0 file, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
 * [2024-02-13, 13:06:32](https://news.ycombinator.com/item?id=39357232) - [They gave local news away for free. Virtually nobody wanted it](https://www.cjr.org/business_of_news/they-gave-local-news-away-for-free-virtually-nobody-wanted-it.php)
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
@@ -19,7 +20,6 @@
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 * [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
-* [2024-02-13, 01:45:36](https://news.ycombinator.com/item?id=39353297) - [Cautionary Fables for Darwin's Birthday (2018)](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
 * [2024-02-13, 01:35:38](https://news.ycombinator.com/item?id=39353231) - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
 * [2024-02-13, 01:32:33](https://news.ycombinator.com/item?id=39353207) - [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
 * [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
