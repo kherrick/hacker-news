@@ -87,6 +87,7 @@
 * [2024-02-12, 04:26:55](https://news.ycombinator.com/item?id=39341341) - [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
 * [2024-02-12, 04:03:10](https://news.ycombinator.com/item?id=39341202) - [New York's new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
 * [2024-02-12, 03:59:11](https://news.ycombinator.com/item?id=39341180) - [A celebrated cryptography-breaking algorithm just got an upgrade](https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/)
+* [2024-02-12, 03:21:20](https://news.ycombinator.com/item?id=39340998) - [Where did DNA come from?](https://geneticsunzipped.com/transcripts/2021/8/26/where-did-dna-come-from)
 * [2024-02-12, 03:09:09](https://news.ycombinator.com/item?id=39340946) - [Australia passes Right To Disconnect outside of work hours law](https://www.theregister.com/2024/02/12/australia_right_to_disconnect_law/)
 * [2024-02-12, 02:06:54](https://news.ycombinator.com/item?id=39340649) - [Harpastum – ancient Roman prototype of soccer and rugby](https://medium.com/@ancient.rome/harpastum-ancient-roman-prototype-of-soccer-and-rugby-2702c31c4f1)
 * [2024-02-12, 01:51:41](https://news.ycombinator.com/item?id=39340599) - [The Brennan self-balancing monorail [video]](https://www.youtube.com/watch?v=kUYzuAJeg3M)

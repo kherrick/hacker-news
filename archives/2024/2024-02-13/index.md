@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
+* [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 * [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
