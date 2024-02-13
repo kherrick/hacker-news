@@ -2,6 +2,7 @@
 
 * [2024-02-13, 02:46:40](https://news.ycombinator.com/item?id=39353704) - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
 * [2024-02-13, 02:25:03](https://news.ycombinator.com/item?id=39353562) - [It Is Somebody's Moral Imperative to Leak \"Coyote vs. Acme\" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
+* [2024-02-13, 02:19:33](https://news.ycombinator.com/item?id=39353516) - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
 * [2024-02-13, 01:48:36](https://news.ycombinator.com/item?id=39353325) - [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
 * [2024-02-13, 01:45:36](https://news.ycombinator.com/item?id=39353297) - [Cautionary Fables for Darwin's Birthday (2018)](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
 * [2024-02-13, 01:42:31](https://news.ycombinator.com/item?id=39353279) - [United Just Grounded Fleet of Planes Because Its No Smoking Signs Don't Turn Off](https://viewfromthewing.com/united-airlines-just-grounded-a-fleet-of-planes-because-its-no-smoking-signs-dont-turn-off/)
@@ -26,7 +27,6 @@
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
-* [2024-02-11, 13:37:10](https://news.ycombinator.com/item?id=39334894) - [Orbital's Hartnoll brothers look back](https://www.theguardian.com/lifeandstyle/2024/feb/10/orbitals-paul-and-phil-hartnoll-look-back)
 * [2024-02-11, 05:44:54](https://news.ycombinator.com/item?id=39332908) - [Evidence of the intentional use of black henbane in the Roman Netherlands](https://www.cambridge.org/core/journals/antiquity/article/evidence-of-the-intentional-use-of-black-henbane-hyoscyamus-niger-in-the-roman-netherlands/A06E000B17E1642C878E469157D5131C)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
 * [2024-02-09, 20:28:41](https://news.ycombinator.com/item?id=39320091) - [Mystery monk makes billions with 5-hour energy (2012)](https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/)
