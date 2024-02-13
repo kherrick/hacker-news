@@ -6,7 +6,7 @@
 * [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
 * [2024-02-13, 14:49:24](https://news.ycombinator.com/item?id=39358072) - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
 * [2024-02-13, 14:39:45](https://news.ycombinator.com/item?id=39357999) - [Industry veterans get candid on ageism in gaming](https://kotaku.com/activision-ageism-video-games-cliffy-b-warren-spector-1851220345)
-* [2024-02-13, 14:34:20](https://news.ycombinator.com/item?id=39357948) - [Apple's iMessage Avoids EU's Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
+* [2024-02-13, 14:27:58](https://news.ycombinator.com/item?id=39357900) - [Nvidia's Chat with RTX is a promising AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 13:53:56](https://news.ycombinator.com/item?id=39357595) - [Owners report rust forming on Tesla Cybertruck](https://www.theregister.com/2024/02/13/tesla_cybertruck_rust/)
 * [2024-02-13, 13:43:12](https://news.ycombinator.com/item?id=39357513) - [Implement Tcl in Tcl (2007)](https://wiki.tcl-lang.org/page/Implement+tcl+in+tcl)
