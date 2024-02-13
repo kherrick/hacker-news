@@ -51,6 +51,7 @@
 * [2024-02-12, 15:11:02](https://news.ycombinator.com/item?id=39345618) - [The Ultraviolet Myth](http://www.arxiv.org/abs/2402.03405)
 * [2024-02-12, 15:06:04](https://news.ycombinator.com/item?id=39345545) - [The Annotated S4](https://srush.github.io/annotated-s4/)
 * [2024-02-12, 14:51:04](https://news.ycombinator.com/item?id=39345368) - [The idea that AI will just augment jobs never replace them](http://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html)
+* [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
 * [2024-02-12, 14:15:07](https://news.ycombinator.com/item?id=39344960) - [Slut-onomics: How the scarcity of sluts tears the social fabric apart](https://woodfromeden.substack.com/p/slut-onomics-how-the-scarcity-of)
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
