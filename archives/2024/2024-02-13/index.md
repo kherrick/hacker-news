@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 04:18:46](https://news.ycombinator.com/item?id=39354342) - [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
