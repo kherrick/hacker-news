@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-13, 04:18:46](https://news.ycombinator.com/item?id=39354342) - [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
 * [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 * [2024-02-13, 03:19:42](https://news.ycombinator.com/item?id=39353916) - [No CMS? Writing Our Blog in React](https://getwaitlist.com/blog/blogging_software)
-* [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+* [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of my work with Arm architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
 * [2024-02-13, 02:47:41](https://news.ycombinator.com/item?id=39353710) - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
 * [2024-02-13, 02:19:33](https://news.ycombinator.com/item?id=39353516) - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
 * [2024-02-13, 02:19:04](https://news.ycombinator.com/item?id=39353511) - [Client did not pay? Add opacity and decrease it until their site fades away](https://github.com/kleampa/not-paid)
@@ -13,6 +12,7 @@
 * [2024-02-13, 01:32:33](https://news.ycombinator.com/item?id=39353207) - [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
 * [2024-02-13, 00:07:53](https://news.ycombinator.com/item?id=39352472) - [Unicomp's \"New\" Model M Keyboard](https://www.pckeyboard.com/page/product/NEW_M)
 * [2024-02-12, 22:38:17](https://news.ycombinator.com/item?id=39351494) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
+* [2024-02-12, 22:06:40](https://news.ycombinator.com/item?id=39351195) - [What If I’m Wrong? (2023)](https://behavioralscientist.org/ive-been-thinking-daniel-dennett-what-if-im-wrong/)
 * [2024-02-12, 21:51:49](https://news.ycombinator.com/item?id=39351026) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
 * [2024-02-12, 21:22:51](https://news.ycombinator.com/item?id=39350700) - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
