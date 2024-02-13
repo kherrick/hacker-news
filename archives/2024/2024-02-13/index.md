@@ -8,6 +8,7 @@
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 * [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
+* [2024-02-13, 12:24:15](https://news.ycombinator.com/item?id=39356982) - [Antithesis – Autonomous Testing](https://www.antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:00:51](https://news.ycombinator.com/item?id=39356860) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-02-13, 11:02:16](https://news.ycombinator.com/item?id=39356574) - [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
