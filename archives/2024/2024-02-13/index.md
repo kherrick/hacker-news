@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+* [2024-02-13, 02:47:41](https://news.ycombinator.com/item?id=39353710) - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
 * [2024-02-13, 02:46:40](https://news.ycombinator.com/item?id=39353704) - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
 * [2024-02-13, 02:25:03](https://news.ycombinator.com/item?id=39353562) - [It Is Somebody's Moral Imperative to Leak \"Coyote vs. Acme\" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
 * [2024-02-13, 02:19:33](https://news.ycombinator.com/item?id=39353516) - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)

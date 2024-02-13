@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
+* [2024-02-13, 02:47:41](https://news.ycombinator.com/item?id=39353710) - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
 * [2024-02-13, 02:46:40](https://news.ycombinator.com/item?id=39353704) - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
 * [2024-02-13, 02:25:03](https://news.ycombinator.com/item?id=39353562) - [It Is Somebody's Moral Imperative to Leak \"Coyote vs. Acme\" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
 * [2024-02-13, 02:19:33](https://news.ycombinator.com/item?id=39353516) - [OOHtml – Object-Oriented HTML Implementation](https://github.com/webqit/oohtml)
@@ -14,7 +16,6 @@
 * [2024-02-12, 21:51:49](https://news.ycombinator.com/item?id=39351026) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
 * [2024-02-12, 21:22:51](https://news.ycombinator.com/item?id=39350700) - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
-* [2024-02-12, 20:31:30](https://news.ycombinator.com/item?id=39350069) - [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
 * [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [vDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
@@ -27,7 +28,6 @@
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
-* [2024-02-11, 05:44:54](https://news.ycombinator.com/item?id=39332908) - [Evidence of the intentional use of black henbane in the Roman Netherlands](https://www.cambridge.org/core/journals/antiquity/article/evidence-of-the-intentional-use-of-black-henbane-hyoscyamus-niger-in-the-roman-netherlands/A06E000B17E1642C878E469157D5131C)
 * [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
 * [2024-02-09, 20:28:41](https://news.ycombinator.com/item?id=39320091) - [Mystery monk makes billions with 5-hour energy (2012)](https://www.forbes.com/sites/clareoconnor/2012/02/08/manoj-bhargava-the-mystery-monk-making-billions-with-5-hour-energy/)
 
