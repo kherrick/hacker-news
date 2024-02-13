@@ -77,6 +77,7 @@
 * [2024-02-12, 06:17:51](https://news.ycombinator.com/item?id=39342028) - [The Nasdaq is in an A.I.-led bubble](https://www.philoinvestor.com/p/downside-at-nvidia-and-the-nasdaq)
 * [2024-02-12, 05:42:58](https://news.ycombinator.com/item?id=39341814) - [Dipping into the Most Stunning Hot Springs](https://www.nytimes.com/2024/02/09/travel/hot-springs.html)
 * [2024-02-12, 05:30:43](https://news.ycombinator.com/item?id=39341727) - [The boring technology behind a one-person Internet company](https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/)
+* [2024-02-12, 05:25:39](https://news.ycombinator.com/item?id=39341692) - [The Isle of Doctor Seaborg (2013)](https://www.damninteresting.com/the-isle-of-doctor-seaborg/)
 * [2024-02-12, 04:38:49](https://news.ycombinator.com/item?id=39341398) - [Crowd Attacks Waymo, Sets It on Fire](https://www.forbes.com/sites/bradtempleton/2024/02/11/crowd-attacks-waymo-sets-it-on-fire/)
 * [2024-02-12, 04:26:55](https://news.ycombinator.com/item?id=39341341) - [OpenZFS bug reports for native encryption](https://docs.google.com/spreadsheets/d/1OfRSXibZ2nIE9DGK6swwBZXgXwdCPKgp4SbPZwTexCg/htmlview)
 * [2024-02-12, 04:03:10](https://news.ycombinator.com/item?id=39341202) - [New York's new credit card surcharge mandate takes effect: What to know](https://www.nbcnewyork.com/news/local/new-yorks-new-credit-card-surcharge-mandate-takes-effect-what-to-know/5126087/)
