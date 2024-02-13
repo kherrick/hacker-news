@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 14:49:24](https://news.ycombinator.com/item?id=39358072) - [Show HN: Statusduck – Website monitoring tool where the data is public](https://statusduck.io/)
+* [2024-02-13, 14:35:44](https://news.ycombinator.com/item?id=39357961) - [How were photos transmitted by wire in 1937?](https://thekidshouldseethis.com/post/wired-photo-transmission-news-1937)
+* [2024-02-13, 14:34:20](https://news.ycombinator.com/item?id=39357948) - [Apple's iMessage Avoids EU's Digital Markets Act Regulation](https://www.macrumors.com/2024/02/13/imessage-avoids-eu-regulation/)
 * [2024-02-13, 14:18:02](https://news.ycombinator.com/item?id=39357799) - [Atlantic Ocean is headed for a tipping point. Extreme climate within decades](https://theconversation.com/atlantic-ocean-is-headed-for-a-tipping-point-once-melting-glaciers-shut-down-the-gulf-stream-we-would-see-extreme-climate-change-within-decades-study-shows-222834)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The Dating App Paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [The original WWW proposal is a Word for Macintosh 4.0 file, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
@@ -28,6 +31,7 @@
 * [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
+* [2024-02-13, 05:56:21](https://news.ycombinator.com/item?id=39354922) - [World Radio History Archive](https://www.worldradiohistory.com/index.htm)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 04:18:46](https://news.ycombinator.com/item?id=39354342) - [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
