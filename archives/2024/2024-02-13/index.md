@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 17:18:14](https://news.ycombinator.com/item?id=39360050) - [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
 * [2024-02-13, 17:01:10](https://news.ycombinator.com/item?id=39359824) - [Roboflow (YC S20) is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
 * [2024-02-13, 16:46:40](https://news.ycombinator.com/item?id=39359599) - [Nvidia Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)

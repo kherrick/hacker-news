@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 17:18:14](https://news.ycombinator.com/item?id=39360050) - [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
 * [2024-02-13, 17:01:10](https://news.ycombinator.com/item?id=39359824) - [Roboflow (YC S20) is hiring a new leader for its machine learning team](https://www.ycombinator.com/companies/roboflow/jobs/3esJuI0-machine-learning-lead)
 * [2024-02-13, 16:46:40](https://news.ycombinator.com/item?id=39359599) - [Nvidia Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
@@ -27,7 +28,6 @@
 * [2024-02-13, 03:53:06](https://news.ycombinator.com/item?id=39354155) - [Math as a habit](https://kidswholovemath.substack.com/p/math-as-a-habit)
 * [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 * [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
-* [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
 * [2024-02-12, 17:13:32](https://news.ycombinator.com/item?id=39347453) - [K Isn't Lisp](http://nsl.com/papers/kisntlisp.htm)
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly (2023)](https://unterwaditzer.net/2023/cool-uris.html)
 
