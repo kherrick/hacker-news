@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 23:55:53](https://news.ycombinator.com/item?id=39352354) - [Perun2 Programming Language](https://perun2.org/)
 * [2024-02-12, 23:54:46](https://news.ycombinator.com/item?id=39352342) - [The Chevy Equinox EV will get 319 miles of range and start at around $35,000](https://www.theverge.com/2024/2/12/24070558/gm-chevy-equinox-ev-price-range-trim-model-date)
 * [2024-02-12, 23:51:20](https://news.ycombinator.com/item?id=39352304) - [A journalist has his account on X suspended after writing critique of platform](https://www.irishtimes.com/culture/books/2024/02/12/journalist-says-he-finds-it-surreal-to-have-account-on-x-suspended-after-writing-critique-of-platform/)
 * [2024-02-12, 23:37:48](https://news.ycombinator.com/item?id=39352153) - [Jetbrains unbundling AI assistant doing the right thing](https://youtrack.jetbrains.com/issue/LLM-1973/Provide-the-possibility-to-remove-a-plugin-completely-from-the-system#focus=Comments-27-9099932.0-0)

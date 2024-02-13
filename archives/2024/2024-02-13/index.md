@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 12:00:51](https://news.ycombinator.com/item?id=39356860) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-02-13, 11:02:16](https://news.ycombinator.com/item?id=39356574) - [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 10:19:47](https://news.ycombinator.com/item?id=39356277) - [\"PayPal took $80k from me and banned me\"](https://twitter.com/dannypostmaa/status/1757343318239813730)
 * [2024-02-13, 10:02:46](https://news.ycombinator.com/item?id=39356171) - [Why I threw away your resume (from the crankiest recruiter)](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
+* [2024-02-13, 09:00:52](https://news.ycombinator.com/item?id=39355869) - [Rampant DMCA use of Tumblr site for filing false copyright claims with Google](https://www.weeklyblitz.net/featured/rampant-use-of-tumblr-site-for-filing-false-copyright-claims-with-google-under-dmca/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 * [2024-02-13, 07:22:37](https://news.ycombinator.com/item?id=39355393) - [Door Boeing 737 pre-MAX opens after takeoff, aircraft returns in safety](https://www.luchtvaartnieuws.nl/nieuws/categorie/2/airlines/deur-van-transavia-toestel-vorige-maand-stukje-opengegaan-tijdens-opstijgen)
