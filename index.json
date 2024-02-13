@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 08:47:02",
+      "https://news.ycombinator.com/item?id=39355804"
+    ],
+    [
+      "StreamingLLM: tiny tweak to KV LRU improves long conversations",
+      "https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 07:11:14",
       "https://news.ycombinator.com/item?id=39355343"
     ],
@@ -77,16 +87,6 @@
     [
       "OOHtml – Object-Oriented HTML Implementation",
       "https://github.com/webqit/oohtml"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 01:45:36",
-      "https://news.ycombinator.com/item?id=39353297"
-    ],
-    [
-      "Cautionary Fables for Darwin's Birthday (2018)",
-      "https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html"
     ]
   ],
   [
