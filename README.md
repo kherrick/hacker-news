@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:00:51](https://news.ycombinator.com/item?id=39356860) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-02-13, 11:02:16](https://news.ycombinator.com/item?id=39356574) - [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
@@ -20,7 +21,6 @@
 * [2024-02-12, 22:38:17](https://news.ycombinator.com/item?id=39351494) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 * [2024-02-12, 21:51:49](https://news.ycombinator.com/item?id=39351026) - [Security flaws in an SSO plugin for Caddy (2023)](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2024-02-12, 21:37:26](https://news.ycombinator.com/item?id=39350866) - [Time Series Forecasting vs Regression: An informal guide](https://www.amorphousdata.com/blog/time-series-vs-regression)
-* [2024-02-12, 21:22:51](https://news.ycombinator.com/item?id=39350700) - [Wall found at bottom of Baltic Sea 'may be Europe’s oldest megastructure'](https://www.theguardian.com/science/2024/feb/12/stone-age-wall-found-at-bottom-of-baltic-sea-may-be-europes-oldest-megastructure)
 * [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
