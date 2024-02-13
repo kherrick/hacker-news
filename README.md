@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-13, 02:25:03](https://news.ycombinator.com/item?id=39353562) - [It Is Somebody's Moral Imperative to Leak \"Coyote vs. Acme\" to the World](https://aftermath.site/coyote-vs-acme-fuck-david-zaslav)
 * [2024-02-13, 01:48:36](https://news.ycombinator.com/item?id=39353325) - [Nvidia is now more valuable than Amazon and Google](https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/)
 * [2024-02-13, 01:45:36](https://news.ycombinator.com/item?id=39353297) - [Cautionary Fables for Darwin's Birthday (2018)](https://3quarksdaily.com/3quarksdaily/2018/02/cautionary-fables-for-darwins-birthday.html)
 * [2024-02-13, 01:35:38](https://news.ycombinator.com/item?id=39353231) - [Abandoned villages of Hong Kong](https://www.cnn.com/2024/02/13/style/hong-kong-abandoned-villages-stefan-irvine-photographer-hnk/index.html)
@@ -24,7 +25,6 @@
 * [2024-02-12, 14:14:42](https://news.ycombinator.com/item?id=39344956) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD funded a drop-in CUDA implementation built on ROCm: It's now open-source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
-* [2024-02-12, 02:06:54](https://news.ycombinator.com/item?id=39340649) - [Harpastum – ancient Roman prototype of soccer and rugby](https://medium.com/@ancient.rome/harpastum-ancient-roman-prototype-of-soccer-and-rugby-2702c31c4f1)
 * [2024-02-11, 13:37:10](https://news.ycombinator.com/item?id=39334894) - [Orbital's Hartnoll brothers look back](https://www.theguardian.com/lifeandstyle/2024/feb/10/orbitals-paul-and-phil-hartnoll-look-back)
 * [2024-02-11, 05:44:54](https://news.ycombinator.com/item?id=39332908) - [Evidence of the intentional use of black henbane in the Roman Netherlands](https://www.cambridge.org/core/journals/antiquity/article/evidence-of-the-intentional-use-of-black-henbane-hyoscyamus-niger-in-the-roman-netherlands/A06E000B17E1642C878E469157D5131C)
 * [2024-02-11, 04:12:21](https://news.ycombinator.com/item?id=39332588) - [The Quest for Blue (2021)](https://www.aramcoworld.com/Articles/February-2021/The-Quest-for-Blue)
