@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-13, 10:02:46](https://news.ycombinator.com/item?id=39356171) - [Why I threw away your resume (from the crankiest recruiter)](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
@@ -30,6 +29,7 @@
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-12, 05:25:39](https://news.ycombinator.com/item?id=39341692) - [The Isle of Doctor Seaborg (2013)](https://www.damninteresting.com/the-isle-of-doctor-seaborg/)
 * [2024-02-12, 03:21:20](https://news.ycombinator.com/item?id=39340998) - [Where did DNA come from?](https://geneticsunzipped.com/transcripts/2021/8/26/where-did-dna-come-from)
+* [2024-02-10, 23:16:43](https://news.ycombinator.com/item?id=39331169) - [A walk through Chicago Pedway (2017)](https://chicago.curbed.com/2017/9/21/16345460/chicago-pedway-walkway-tour-map-safety-directions)
 
 ## [Archives](archives/index.md)
 
