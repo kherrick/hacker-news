@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
-* [2024-02-13, 10:19:47](https://news.ycombinator.com/item?id=39356277) - [\"PayPal took $80k from me and banned me\"](https://twitter.com/dannypostmaa/status/1757343318239813730)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
@@ -22,6 +21,7 @@
 * [2024-02-12, 21:08:57](https://news.ycombinator.com/item?id=39350541) - [Analyzing Spotify Stream History](https://ericchiang.github.io/post/spotify/)
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 19:16:42](https://news.ycombinator.com/item?id=39348997) - [vDPA: Support for block devices in Linux and QEMU](https://stefano-garzarella.github.io/posts/2024-02-12-vdpa-blk/)
+* [2024-02-12, 19:08:57](https://news.ycombinator.com/item?id=39348902) - [GeneGPT, a tool-augmented LLM for bioinformatics](https://github.com/ncbi/GeneGPT)
 * [2024-02-12, 16:13:13](https://news.ycombinator.com/item?id=39346567) - [The story behind the NeuralRad organ and tumor segmentation cloud service](https://howardchen.substack.com/p/after-switching-from-a-1080ti-to)
 * [2024-02-12, 14:57:51](https://news.ycombinator.com/item?id=39345439) - [Cool URIs can be ugly](https://unterwaditzer.net/2023/cool-uris.html)
 * [2024-02-12, 14:28:28](https://news.ycombinator.com/item?id=39345122) - [Home Assistant: Three years later](https://eamonnsullivan.co.uk/posts-output/home-automation-three-years/2024-02-11-home-assistant-three-years-later/)
