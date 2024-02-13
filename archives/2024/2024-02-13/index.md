@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 03:50:52](https://news.ycombinator.com/item?id=39354138) - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 * [2024-02-13, 03:01:14](https://news.ycombinator.com/item?id=39353784) - [Twenty years of work with the ARM architecture](https://marcin.juszkiewicz.com.pl/2024/02/12/twenty-years-of-my-work-with-arm-architecture/)
 * [2024-02-13, 02:47:41](https://news.ycombinator.com/item?id=39353710) - [Induced demand is not a useful concept](https://www.bensouthwood.co.uk/p/why-induced-demand-is-fake)
 * [2024-02-13, 02:46:40](https://news.ycombinator.com/item?id=39353704) - [Instagram account lets you squat in metro homes](https://news.yahoo.com/stealing-channel-2-goes-undercover-164049984.html)
