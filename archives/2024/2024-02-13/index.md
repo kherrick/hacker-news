@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 18:55:04](https://news.ycombinator.com/item?id=39361279) - [Someone is going to dim the sun, and it will be soon](https://climate.benjames.io/someone-is-going-to-dim-the-sun/)
 * [2024-02-13, 18:22:04](https://news.ycombinator.com/item?id=39360870) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 18:21:00](https://news.ycombinator.com/item?id=39360856) - [How to Center a Div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-13, 18:10:05](https://news.ycombinator.com/item?id=39360724) - [OpenAI: Memory and New Controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
