@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
 * [2024-02-14, 13:06:13](https://news.ycombinator.com/item?id=39369353) - [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
+* [2024-02-14, 13:01:31](https://news.ycombinator.com/item?id=39369319) - [Over 50% of the population of Germany does not own their home](https://ec.europa.eu/eurostat/cache/digpub/housing/bloc-1a.html)
 * [2024-02-14, 12:41:51](https://news.ycombinator.com/item?id=39369159) - [Andrej Karpathy Departs OpenAI](https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/)
 * [2024-02-14, 12:24:57](https://news.ycombinator.com/item?id=39369040) - [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
 * [2024-02-14, 12:15:32](https://news.ycombinator.com/item?id=39368972) - [The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
