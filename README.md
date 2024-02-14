@@ -20,7 +20,7 @@
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart terminals: Personal computing’s true origin? (2023)](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A novel approach to front end testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: Faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
-* [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
+* [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming (2016)](https://tidyfirst.substack.com/p/mastering-programming)
 * [2024-02-13, 14:31:56](https://news.ycombinator.com/item?id=39357928) - [Show HN: Linen.team – A lightweight, thread-first Slack alternative](https://news.ycombinator.com/item?id=39357928)
 * [2024-02-13, 14:27:58](https://news.ycombinator.com/item?id=39357900) - [Nvidia's Chat with RTX is an AI chatbot that runs locally on your PC](https://www.theverge.com/2024/2/13/24071645/nvidia-ai-chatbot-chat-with-rtx-tech-demo-hands-on)
 * [2024-02-13, 14:07:18](https://news.ycombinator.com/item?id=39357721) - [The dating app paradox](https://www.npr.org/sections/money/2024/02/13/1228749143/the-dating-app-paradox-why-dating-apps-may-be-worse-than-ever)
