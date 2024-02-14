@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-02-13, 18:21:00",
-      "https://news.ycombinator.com/item?id=39360856"
-    ],
-    [
-      "How to center a div in CSS",
-      "https://www.joshwcomeau.com/css/center-a-div/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 18:10:05",
       "https://news.ycombinator.com/item?id=39360724"
     ],
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2024-02-13, 13:35:14",
+      "https://news.ycombinator.com/item?id=39357436"
+    ],
+    [
+      "Dynamic Voltage and Frequency Scaling for Intermittent Computing",
+      "https://arxiv.org/abs/2401.08710"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 12:54:47",
+      "https://news.ycombinator.com/item?id=39357155"
+    ],
+    [
+      "Maybe Everything Is a Coroutine",
+      "https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 12:31:55",
       "https://news.ycombinator.com/item?id=39357015"
     ],
@@ -277,16 +287,6 @@
     [
       "Is something bugging you?",
       "https://antithesis.com/blog/is_something_bugging_you/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 09:25:46",
-      "https://news.ycombinator.com/item?id=39355998"
-    ],
-    [
-      "Show HN: Kubetail – Web-based real-time log viewer for Kubernetes",
-      "https://github.com/kubetail-org/kubetail"
     ]
   ],
   [
