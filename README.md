@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Terence Tao, \"Machine Assisted Proof\" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
+* [2024-02-14, 22:46:08](https://news.ycombinator.com/item?id=39376634) - [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
 * [2024-02-14, 21:53:39](https://news.ycombinator.com/item?id=39376059) - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
 * [2024-02-14, 21:34:55](https://news.ycombinator.com/item?id=39375788) - [Why is Common Lisp not the most popular programming language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 * [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
@@ -20,7 +21,6 @@
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:14:01](https://news.ycombinator.com/item?id=39370681) - [Only real people can patent inventions – not AI, US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
-* [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-end encryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
 * [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)

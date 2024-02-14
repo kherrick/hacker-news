@@ -6,6 +6,7 @@
 
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Terence Tao, \"Machine Assisted Proof\" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
 * [2024-02-14, 23:04:56](https://news.ycombinator.com/item?id=39376845) - [Valve Prism](https://www.valveprism.com/)
+* [2024-02-14, 22:46:08](https://news.ycombinator.com/item?id=39376634) - [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
 * [2024-02-14, 21:53:39](https://news.ycombinator.com/item?id=39376059) - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
 * [2024-02-14, 21:34:55](https://news.ycombinator.com/item?id=39375788) - [Why Is Common Lisp Not the Most Popular Programming Language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 * [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
