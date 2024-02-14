@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 23:44:20](https://news.ycombinator.com/item?id=39364447) - [Judge rejects most ChatGPT copyright claims from book authors](https://arstechnica.com/tech-policy/2024/02/judge-sides-with-openai-dismisses-bulk-of-book-authors-copyright-claims/)
 * [2024-02-13, 22:27:15](https://news.ycombinator.com/item?id=39363706) - [A Pursuit of Simplicity](https://quiltro.org/notes/simplicity.html)
 * [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [Polars – A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
