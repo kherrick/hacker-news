@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 18:45:44](https://news.ycombinator.com/item?id=39373538) - [Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
+* [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 17:48:24](https://news.ycombinator.com/item?id=39372762) - [Cosmic Desktop: Closing in on a Cosmic Alpha](https://blog.system76.com/post/closing-in-on-a-cosmic-alpha)
 * [2024-02-14, 17:40:25](https://news.ycombinator.com/item?id=39372667) - [Private jets departed Las Vegas after the Super Bowl ended](https://old.reddit.com/r/BeAmazed/comments/1aqpfu0/525_private_jets_departed_las_vegas_after_the/)
 * [2024-02-14, 17:20:19](https://news.ycombinator.com/item?id=39372403) - [Meta's big vision for face computers might be better than Apple's](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)

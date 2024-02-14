@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 18:45:44](https://news.ycombinator.com/item?id=39373538) - [Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
+* [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 17:48:24](https://news.ycombinator.com/item?id=39372762) - [Cosmic Desktop: Closing in on a Cosmic Alpha](https://blog.system76.com/post/closing-in-on-a-cosmic-alpha)
 * [2024-02-14, 17:18:56](https://news.ycombinator.com/item?id=39372384) - [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
 * [2024-02-14, 17:09:21](https://news.ycombinator.com/item?id=39372269) - [Things We Didn't Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
@@ -21,15 +23,13 @@
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
 * [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [OpenAI: Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 * [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
+* [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
+* [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 09:28:02](https://news.ycombinator.com/item?id=39356007) - [Calliope MINI – The Small Computer for Big Ideas](https://calliope.cc/en)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
-* [2024-02-12, 10:14:43](https://news.ycombinator.com/item?id=39343308) - [Deluge, a portable sequencer, synthesizer and sampler](https://github.com/SynthstromAudible/DelugeFirmware)
-* [2024-02-12, 08:28:55](https://news.ycombinator.com/item?id=39342746) - [A gentle introduction to automated reasoning](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)
-* [2024-02-12, 08:21:55](https://news.ycombinator.com/item?id=39342705) - [Praying to the God of Valuation (2022)](https://bothsidesofthetable.com/praying-to-the-god-of-valuation-7f6758ba3b16?gi=b5e63e1cadad)
-* [2024-02-12, 07:24:43](https://news.ycombinator.com/item?id=39342392) - [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)
 
 ## [Archives](archives/index.md)
 
