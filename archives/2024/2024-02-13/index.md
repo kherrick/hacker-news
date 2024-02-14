@@ -67,6 +67,7 @@
 * [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 10:19:47](https://news.ycombinator.com/item?id=39356277) - [\"PayPal took $80k from me and banned me\"](https://twitter.com/dannypostmaa/status/1757343318239813730)
+* [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
 * [2024-02-13, 10:02:46](https://news.ycombinator.com/item?id=39356171) - [Why I threw away your resume (from the crankiest recruiter)](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
 * [2024-02-13, 09:41:02](https://news.ycombinator.com/item?id=39356066) - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
