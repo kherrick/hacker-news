@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
+* [2024-02-14, 03:12:12](https://news.ycombinator.com/item?id=39365970) - [US Federal Reserve says its goal is 'to get wages down' (2022)](https://canadiandimension.com/articles/view/us-federal-reserve-says-its-goal-is-to-get-wages-down)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-14, 01:14:34](https://news.ycombinator.com/item?id=39365142) - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Instantly play the game I'm developing directly on its website](https://athenacrisis.com)
+* [2024-02-14, 01:13:33](https://news.ycombinator.com/item?id=39365132) - [Sam Altman Wants $7T](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion)
 * [2024-02-14, 01:09:36](https://news.ycombinator.com/item?id=39365104) - [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
 * [2024-02-14, 00:00:15](https://news.ycombinator.com/item?id=39364576) - [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
 * [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
@@ -29,7 +30,6 @@
 * [2024-02-13, 12:31:55](https://news.ycombinator.com/item?id=39357015) - [Hired: A Modern Take on 'Ed'](https://github.com/sidju/hired)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
-* [2024-02-10, 18:18:19](https://news.ycombinator.com/item?id=39328747) - [Margaret Mead's LSD Memo](https://slate.com/news-and-politics/2024/02/tripping-on-utopia-book-lsd-psychedelics-history.html)
 
 ## [Archives](archives/index.md)
 
