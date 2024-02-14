@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
 * [2024-02-14, 20:23:42](https://news.ycombinator.com/item?id=39374797) - [I Fucking Hate Jira (2022)](https://ifuckinghatejira.com)
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
 * [2024-02-14, 19:49:59](https://news.ycombinator.com/item?id=39374332) - [Nanoplastics in water – surprisingly large amounts discovered and its not good](https://molecularspec.substack.com/p/nanoplastics-in-water-surprisingly)
@@ -15,6 +16,7 @@
 * [2024-02-14, 19:10:37](https://news.ycombinator.com/item?id=39373829) - [Out of Control by Kevin Kelly (1994)](https://kk.org/books/out-of-control)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
+* [2024-02-14, 19:03:55](https://news.ycombinator.com/item?id=39373744) - [Show HN: Natural Language to SQL \"Text-to-SQL\" API](https://www.dataherald.com/news/introducing-dhai)
 * [2024-02-14, 19:03:55](https://news.ycombinator.com/item?id=39373744) - [Show HN: Natural Language to SQL \"Text-to-SQL\" API](https://console.dataherald.ai/playground)
 * [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
 * [2024-02-14, 18:53:17](https://news.ycombinator.com/item?id=39373612) - [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)

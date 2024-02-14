@@ -30,6 +30,7 @@
 * [2024-02-12, 20:31:30](https://news.ycombinator.com/item?id=39350069) - [US Government makes $42M bet on open cell networks: Open RAN dream stays alive](https://www.theverge.com/2024/2/12/24070550/open-ran-standard-us-funding-5g-huawei)
 * [2024-02-12, 20:25:47](https://news.ycombinator.com/item?id=39349992) - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
 * [2024-02-12, 20:14:15](https://news.ycombinator.com/item?id=39349817) - [Mornington Crescent](https://www.isihac.net/mornington_crescent.php)
+* [2024-02-12, 20:12:05](https://news.ycombinator.com/item?id=39349793) - [A custom Zigbee doorbell (2023)](https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/)
 * [2024-02-12, 20:05:12](https://news.ycombinator.com/item?id=39349695) - [Brazil Hits 92% Renewable Energy Milestone](https://old.reddit.com/r/technology/comments/1aoe9so/brazil_hits_92_renewable_energy_milestone/)
 * [2024-02-12, 20:02:27](https://news.ycombinator.com/item?id=39349652) - [The Second Death of Pablo Neruda](https://www.newyorker.com/news/daily-comment/the-second-death-of-pablo-neruda)
 * [2024-02-12, 19:44:18](https://news.ycombinator.com/item?id=39349389) - [FCC gets tough: Telcos must now tell you when your personal info is stolen](https://www.theregister.com/2024/02/12/fcc_gets_tough_on_telcos/)
