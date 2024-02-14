@@ -28,7 +28,7 @@
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [World model on million-length video and  language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
-* [2024-02-13, 06:15:46](https://news.ycombinator.com/item?id=39355041) - [Running Ethernet over existing coaxial cable](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable)
+* [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing Factorio with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 
 ## [Archives](archives/index.md)
