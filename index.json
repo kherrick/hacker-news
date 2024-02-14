@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-14, 23:04:56",
+      "https://news.ycombinator.com/item?id=39376845"
+    ],
+    [
+      "Valve Prism",
+      "https://www.valveprism.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 21:53:39",
       "https://news.ycombinator.com/item?id=39376059"
     ],
@@ -27,26 +37,6 @@
     [
       "I Went to FOSDEM",
       "https://leejo.github.io/2024/02/14/fosdem/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 20:23:42",
-      "https://news.ycombinator.com/item?id=39374797"
-    ],
-    [
-      "I Fucking Hate Jira (2022)",
-      "https://ifuckinghatejira.com"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 19:54:11",
-      "https://news.ycombinator.com/item?id=39374389"
-    ],
-    [
-      "Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception",
-      "https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Conformant OpenGL 4.6 on the M1",
       "https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 15:52:03",
+      "https://news.ycombinator.com/item?id=39371297"
+    ],
+    [
+      "Show HN: You don't need to adopt new tools for LLM observability",
+      "https://github.com/traceloop/openllmetry-js"
     ]
   ],
   [
