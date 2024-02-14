@@ -83,6 +83,7 @@
 * [2024-02-13, 07:11:14](https://news.ycombinator.com/item?id=39355343) - [AMD's Mild Hybrid Strategy: Ryzen Z1 in Asus's ROG Ally](https://chipsandcheese.com/2024/02/12/amds-mild-hybrid-strategy-ryzen-z1-in-asuss-rog-ally/)
 * [2024-02-13, 07:00:32](https://news.ycombinator.com/item?id=39355294) - [Supabase (YC S20) Is Hiring a Growth Marketer](https://boards.greenhouse.io/supabase/jobs/5072984004)
 * [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
+* [2024-02-13, 06:15:46](https://news.ycombinator.com/item?id=39355041) - [2.5G Home networking via eathernet over coaxial](https://til.simonwillison.net/networking/ethernet-over-coaxial-cable)
 * [2024-02-13, 05:56:21](https://news.ycombinator.com/item?id=39354922) - [World Radio History Archive](https://www.worldradiohistory.com/index.htm)
 * [2024-02-13, 05:43:29](https://news.ycombinator.com/item?id=39354870) - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 * [2024-02-13, 04:18:46](https://news.ycombinator.com/item?id=39354342) - [Tesla Cybertruck May Have a Rust Problem](https://www.carsdirect.com/automotive-news/green-technology/tesla-cybertruck-may-have-a-rust-problem)
