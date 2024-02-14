@@ -76,6 +76,7 @@
 * [2024-02-12, 11:40:20](https://news.ycombinator.com/item?id=39343777) - [Measuring Stack Usage the Hard Way](https://interrupt.memfault.com/blog/measuring-stack-usage)
 * [2024-02-12, 11:33:08](https://news.ycombinator.com/item?id=39343746) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-02-12, 10:19:24](https://news.ycombinator.com/item?id=39343330) - [SCSI isn't dead yet – new SSD for old or obsolete systems](https://www.tomshardware.com/pc-components/storage/scsi-isnt-dead-yet-new-ssd-for-old-or-obsolete-systems-is-a-boon-for-retro-computing-fans)
+* [2024-02-12, 10:14:43](https://news.ycombinator.com/item?id=39343308) - [Deluge, a portable sequencer, synthesizer and sampler](https://github.com/SynthstromAudible/DelugeFirmware)
 * [2024-02-12, 08:58:26](https://news.ycombinator.com/item?id=39342887) - [Understanding Complexity Like an Engineer – The Case of the Ladybird Browser](https://t-shaped.nl/understanding-complexity-like-an-engineer-the-case-of-the-ladybird-browser)
 * [2024-02-12, 08:56:12](https://news.ycombinator.com/item?id=39342877) - [Tech companies axe 34,000 jobs since start of year in pivot to AI](https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0)
 * [2024-02-12, 08:53:22](https://news.ycombinator.com/item?id=39342863) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)

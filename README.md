@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 14:38:49](https://news.ycombinator.com/item?id=39370242) - [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
-* [2024-02-14, 14:38:21](https://news.ycombinator.com/item?id=39370235) - [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
+* [2024-02-14, 14:38:21](https://news.ycombinator.com/item?id=39370235) - [Your AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
 * [2024-02-14, 14:37:51](https://news.ycombinator.com/item?id=39370226) - [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
 * [2024-02-14, 14:15:02](https://news.ycombinator.com/item?id=39369982) - [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
 * [2024-02-14, 14:14:25](https://news.ycombinator.com/item?id=39369973) - [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
@@ -25,9 +25,9 @@
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
 * [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 12:54:47](https://news.ycombinator.com/item?id=39357155) - [Maybe Everything Is a Coroutine](https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/)
-* [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 * [2024-02-12, 11:40:20](https://news.ycombinator.com/item?id=39343777) - [Measuring Stack Usage the Hard Way (2023)](https://interrupt.memfault.com/blog/measuring-stack-usage)
+* [2024-02-12, 10:14:43](https://news.ycombinator.com/item?id=39343308) - [Deluge, a portable sequencer, synthesizer and sampler](https://github.com/SynthstromAudible/DelugeFirmware)
 * [2024-02-12, 08:28:55](https://news.ycombinator.com/item?id=39342746) - [A gentle introduction to automated reasoning](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)
 * [2024-02-12, 07:24:43](https://news.ycombinator.com/item?id=39342392) - [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)
 
