@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 10:12:12](https://news.ycombinator.com/item?id=39368308) - [X-ray survey bolsters prevailing theory of universe's expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
 * [2024-02-14, 10:03:44](https://news.ycombinator.com/item?id=39368269) - [The Awfulness of Elite Hypocrisy on Marriage](https://www.theatlantic.com/ideas/archive/2024/02/elitism-marriage-rates-hypocrisy/677401/)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
