@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-02-14, 12:41:51",
-      "https://news.ycombinator.com/item?id=39369159"
+      "2024-02-14, 12:24:57",
+      "https://news.ycombinator.com/item?id=39369040"
     ],
     [
-      "Andrej Karpathy Departs OpenAI",
-      "https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/"
+      "What made Earth a giant snowball 700M years ago? Scientists have an answer",
+      "https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Lightdash (YC S20) Is hiring an analytics engineering advocate",
       "https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 11:47:16",
+      "https://news.ycombinator.com/item?id=39368776"
+    ],
+    [
+      "Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading",
+      "http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2024-02-13, 22:04:31",
-      "https://news.ycombinator.com/item?id=39363479"
-    ],
-    [
-      "The Sneaky Standard – Intel PCI Standardization History",
-      "https://tedium.co/2024/02/09/intel-pci-standardization-history/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 17:23:22",
       "https://news.ycombinator.com/item?id=39360106"
     ],
     [
       "Stable Cascade",
       "https://github.com/Stability-AI/StableCascade"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 16:00:44",
-      "https://news.ycombinator.com/item?id=39358884"
-    ],
-    [
-      "Oink: An API for PHP in a single file",
-      "https://github.com/jcarlosroldan/oink"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Physical Properties #3",
       "https://buttondown.email/jaffray/archive/physical-properties-3/"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 13:09:47",
+      "https://news.ycombinator.com/item?id=39344355"
+    ],
+    [
+      "Enhancing the Factorio experience with SAT solvers",
+      "https://github.com/R-O-C-K-E-T/Factorio-SAT"
     ]
   ],
   [
