@@ -7,6 +7,7 @@
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 10:12:12](https://news.ycombinator.com/item?id=39368308) - [X-ray survey bolsters prevailing theory of universe's expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
 * [2024-02-14, 10:03:44](https://news.ycombinator.com/item?id=39368269) - [The Awfulness of Elite Hypocrisy on Marriage](https://www.theatlantic.com/ideas/archive/2024/02/elitism-marriage-rates-hypocrisy/677401/)
+* [2024-02-14, 09:54:41](https://news.ycombinator.com/item?id=39368233) - [Popular XMPP App \"Conversations\" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
 * [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)

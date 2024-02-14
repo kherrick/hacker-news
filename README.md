@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
+* [2024-02-14, 09:54:41](https://news.ycombinator.com/item?id=39368233) - [Popular XMPP App \"Conversations\" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
@@ -17,7 +18,6 @@
 * [2024-02-13, 21:01:29](https://news.ycombinator.com/item?id=39362777) - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
 * [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
-* [2024-02-13, 16:42:32](https://news.ycombinator.com/item?id=39359545) - [A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
 * [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-13, 14:31:56](https://news.ycombinator.com/item?id=39357928) - [Show HN: Linen.team – A lightweight, thread-first Slack alternative](https://news.ycombinator.com/item?id=39357928)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
