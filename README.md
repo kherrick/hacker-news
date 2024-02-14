@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
+* [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
@@ -18,7 +19,6 @@
 * [2024-02-13, 18:21:00](https://news.ycombinator.com/item?id=39360856) - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-13, 18:10:05](https://news.ycombinator.com/item?id=39360724) - [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
-* [2024-02-13, 17:18:14](https://news.ycombinator.com/item?id=39360050) - [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
 * [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-13, 14:31:56](https://news.ycombinator.com/item?id=39357928) - [Show HN: Linen.team – A lightweight, thread-first Slack alternative](https://news.ycombinator.com/item?id=39357928)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
