@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
+* [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
+* [2024-02-14, 18:53:17](https://news.ycombinator.com/item?id=39373612) - [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
 * [2024-02-14, 18:45:44](https://news.ycombinator.com/item?id=39373538) - [Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
 * [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 17:48:24](https://news.ycombinator.com/item?id=39372762) - [Cosmic Desktop: Closing in on a Cosmic Alpha](https://blog.system76.com/post/closing-in-on-a-cosmic-alpha)
@@ -56,6 +59,7 @@
 * [2024-02-14, 05:54:10](https://news.ycombinator.com/item?id=39366957) - [Oink: An open source API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-14, 05:26:08](https://news.ycombinator.com/item?id=39366816) - [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)
 * [2024-02-14, 05:18:06](https://news.ycombinator.com/item?id=39366767) - [What's Happening with the Evergrande Liquidation](https://www.npr.org/2024/02/12/1197961810/whats-really-happening-with-the-evergrande-liquidation?ft=nprml&f=93559255)
+* [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, Who Founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-14, 03:12:12](https://news.ycombinator.com/item?id=39365970) - [US Federal Reserve says its goal is 'to get wages down' (2022)](https://canadiandimension.com/articles/view/us-federal-reserve-says-its-goal-is-to-get-wages-down)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 03:06:37](https://news.ycombinator.com/item?id=39365919) - [Mark Zuckerberg on Apple Vision Pro](https://www.instagram.com/zuck/reel/C3TkhmivNzt/)
