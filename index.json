@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-02-14, 15:21:06",
+      "https://news.ycombinator.com/item?id=39370792"
+    ],
+    [
+      "OpenAI experiments with giving ChatGPT a long-term conversation memory",
+      "https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 15:14:01",
+      "https://news.ycombinator.com/item?id=39370681"
+    ],
+    [
+      "Only real people can patent inventions – not AI – US Government says",
+      "https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 14:38:49",
       "https://news.ycombinator.com/item?id=39370242"
     ],
@@ -47,16 +67,6 @@
     [
       "We sped up time series by 20-30x",
       "https://www.rerun.io/blog/primary-query-caching"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 13:56:22",
-      "https://news.ycombinator.com/item?id=39369766"
-    ],
-    [
-      "YC's Latest Request for Startups",
-      "https://www.ycombinator.com/blog/ycs-latest-request-for-startups/"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2024-02-14, 11:58:05",
+      "https://news.ycombinator.com/item?id=39368859"
+    ],
+    [
+      "OpenAI: Disrupting malicious uses of AI by state-affiliated threat actors",
+      "https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 11:14:10",
       "https://news.ycombinator.com/item?id=39368586"
     ],
@@ -137,16 +157,6 @@
     [
       "Not all TLDs are Created Equal",
       "https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 07:37:04",
-      "https://news.ycombinator.com/item?id=39367460"
-    ],
-    [
-      "Apple has not fixed the macOS audio left/right balance bug for nearly 10 years",
-      "https://twitter.com/ffaebi/status/1757669861377949930"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Fly.io has GPUs now",
       "https://fly.io/blog/fly-io-has-gpus-now/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 17:23:22",
-      "https://news.ycombinator.com/item?id=39360106"
-    ],
-    [
-      "Stable Cascade",
-      "https://github.com/Stability-AI/StableCascade"
     ]
   ],
   [
