@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 14:38:21](https://news.ycombinator.com/item?id=39370235) - [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
 * [2024-02-14, 14:37:51](https://news.ycombinator.com/item?id=39370226) - [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
 * [2024-02-14, 14:15:02](https://news.ycombinator.com/item?id=39369982) - [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
+* [2024-02-14, 14:14:25](https://news.ycombinator.com/item?id=39369973) - [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
+* [2024-02-14, 13:59:10](https://news.ycombinator.com/item?id=39369793) - [Mark Zuckerberg says Quest 3 'is the better product, period'](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 13:06:13](https://news.ycombinator.com/item?id=39369353) - [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
 * [2024-02-14, 13:01:31](https://news.ycombinator.com/item?id=39369319) - [Over 50% of the population of Germany does not own their home](https://ec.europa.eu/eurostat/cache/digpub/housing/bloc-1a.html)
