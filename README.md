@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
-* [2024-02-14, 03:06:37](https://news.ycombinator.com/item?id=39365919) - [Mark Zuckerberg on Apple Vision Pro [video]](https://www.instagram.com/zuck/reel/C3TkhmivNzt/)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-14, 01:14:34](https://news.ycombinator.com/item?id=39365142) - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
@@ -29,6 +28,7 @@
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 12:31:55](https://news.ycombinator.com/item?id=39357015) - [Hired: A Modern Take on 'Ed'](https://github.com/sidju/hired)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
+* [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 
 ## [Archives](archives/index.md)
