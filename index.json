@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-02-13, 22:17:56",
-      "https://news.ycombinator.com/item?id=39363613"
-    ],
-    [
-      "A 1.9 solar mass neutron star candidate in a 2-year orbit",
-      "https://arxiv.org/abs/2402.06722"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 22:06:51",
       "https://news.ycombinator.com/item?id=39363499"
     ],
@@ -147,6 +137,16 @@
     [
       "Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 18:21:00",
+      "https://news.ycombinator.com/item?id=39360856"
+    ],
+    [
+      "How to center a div in CSS",
+      "https://www.joshwcomeau.com/css/center-a-div/"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "SafeTest: A novel approach to front end testing",
       "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 15:21:39",
-      "https://news.ycombinator.com/item?id=39358406"
-    ],
-    [
-      "Show HN: Faster LLM evaluation with Bayesian optimization",
-      "https://github.com/rentruewang/bocoel"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Getting the RK3588 SoC supported in upstream Linux (2023)",
       "https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 09:25:46",
+      "https://news.ycombinator.com/item?id=39355998"
+    ],
+    [
+      "Show HN: Kubetail – Web-based real-time log viewer for Kubernetes",
+      "https://github.com/kubetail-org/kubetail"
     ]
   ],
   [
