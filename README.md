@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
 * [2024-02-14, 15:21:06](https://news.ycombinator.com/item?id=39370792) - [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
 * [2024-02-14, 15:14:01](https://news.ycombinator.com/item?id=39370681) - [Only real people can patent inventions – not AI – US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
@@ -16,7 +17,6 @@
 * [2024-02-14, 09:54:41](https://news.ycombinator.com/item?id=39368233) - [Google has removed Conversations_im from the Play Store](https://gultsch.social/@daniel/111929074071688694)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
-* [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
