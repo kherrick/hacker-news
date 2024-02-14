@@ -15,7 +15,7 @@
 * [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 22:04:31](https://news.ycombinator.com/item?id=39363479) - [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
 * [2024-02-13, 21:01:29](https://news.ycombinator.com/item?id=39362777) - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
-* [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-02-13, 18:50:01](https://news.ycombinator.com/item?id=39361227) - [Copyright Easter Eggs (2018)](https://wiki.openstreetmap.org/wiki/Copyright_Easter_Eggs)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
 * [2024-02-13, 16:42:32](https://news.ycombinator.com/item?id=39359545) - [A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
 * [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
