@@ -7,6 +7,7 @@
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
 * [2024-02-14, 19:27:15](https://news.ycombinator.com/item?id=39374031) - [Meta Has Sold Nearly 20M Quest Headsets, but Retention Struggles Remain](https://www.roadtovr.com/quest-sales-20-million-retention-struggles/amp/)
 * [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+* [2024-02-14, 19:21:07](https://news.ycombinator.com/item?id=39373960) - [Holepunch Unveils P2P Platform \"Pear Runtime\"](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
 * [2024-02-14, 19:17:53](https://news.ycombinator.com/item?id=39373921) - [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
