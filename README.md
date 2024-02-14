@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Terence Tao, \"Machine Assisted Proof\" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
 * [2024-02-14, 21:53:39](https://news.ycombinator.com/item?id=39376059) - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
 * [2024-02-14, 21:34:55](https://news.ycombinator.com/item?id=39375788) - [Why is Common Lisp not the most popular programming language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 * [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
@@ -16,7 +17,6 @@
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 * [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
-* [2024-02-14, 16:23:52](https://news.ycombinator.com/item?id=39371726) - [Suikoden creator Yoshitaka Murayama has died](https://www.ign.com/articles/suikoden-creator-and-eiyuden-chronicle-lead-yoshitaka-murayama-has-died)
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:14:01](https://news.ycombinator.com/item?id=39370681) - [Only real people can patent inventions – not AI, US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
