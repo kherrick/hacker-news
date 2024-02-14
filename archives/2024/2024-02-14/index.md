@@ -6,6 +6,7 @@
 
 * [2024-02-14, 03:12:12](https://news.ycombinator.com/item?id=39365970) - [US Federal Reserve says its goal is 'to get wages down' (2022)](https://canadiandimension.com/articles/view/us-federal-reserve-says-its-goal-is-to-get-wages-down)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
+* [2024-02-14, 02:37:32](https://news.ycombinator.com/item?id=39365714) - [Broadcom-owned VMware kills the free version of ESXi virtualization software](https://arstechnica.com/information-technology/2024/02/broadcom-owned-vmware-kills-the-free-version-of-esxi-virtualization-software/)
 * [2024-02-14, 01:39:25](https://news.ycombinator.com/item?id=39365318) - [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
 * [2024-02-14, 01:35:25](https://news.ycombinator.com/item?id=39365288) - [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
