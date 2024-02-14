@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-02-14, 07:37:04",
-      "https://news.ycombinator.com/item?id=39367460"
-    ],
-    [
-      "Apple has not fixed the macOS audio left/right balance bug for nearly 10 years",
-      "https://twitter.com/ffaebi/status/1757669861377949930"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 06:34:59",
       "https://news.ycombinator.com/item?id=39367141"
     ],
@@ -297,6 +287,16 @@
     [
       "The Last Linotype Newspaper (2022)",
       "https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 09:25:46",
+      "https://news.ycombinator.com/item?id=39355998"
+    ],
+    [
+      "Show HN: Kubetail – Web-based real-time log viewer for Kubernetes",
+      "https://github.com/kubetail-org/kubetail"
     ]
   ]
 ]
