@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 12:41:51](https://news.ycombinator.com/item?id=39369159) - [Andrej Karpathy Departs OpenAI](https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/)
+* [2024-02-14, 12:15:32](https://news.ycombinator.com/item?id=39368972) - [The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
 * [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
@@ -20,8 +22,6 @@
 * [2024-02-13, 22:04:31](https://news.ycombinator.com/item?id=39363479) - [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
 * [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
-* [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
-* [2024-02-13, 13:35:14](https://news.ycombinator.com/item?id=39357436) - [Dynamic Voltage and Frequency Scaling for Intermittent Computing](https://arxiv.org/abs/2401.08710)
 * [2024-02-13, 13:15:28](https://news.ycombinator.com/item?id=39357293) - [IBM, sonic delay lines, and the history of the 80×24 display](http://www.righto.com/2019/11/ibm-sonic-delay-lines-and-history-of.html)
 * [2024-02-13, 12:54:47](https://news.ycombinator.com/item?id=39357155) - [Maybe Everything Is a Coroutine](https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
