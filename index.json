@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-14, 07:51:07",
+      "https://news.ycombinator.com/item?id=39367540"
+    ],
+    [
+      "Not all TLDs are Created Equal",
+      "https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 07:37:04",
       "https://news.ycombinator.com/item?id=39367460"
     ],
     [
       "Apple has not fixed the macOS audio left/right balance bug for nearly 10 years",
       "https://twitter.com/ffaebi/status/1757669861377949930"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 07:01:25",
+      "https://news.ycombinator.com/item?id=39367264"
+    ],
+    [
+      "How to summarize YouTube videos using artificial intelligence",
+      "https://implementing.substack.com/p/how-to-summarize-youtube-video-using"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-02-13, 16:42:32",
-      "https://news.ycombinator.com/item?id=39359545"
-    ],
-    [
-      "A woman who can smell Parkinson's is inspiring research into diagnosis (2020)",
-      "https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 16:00:44",
       "https://news.ycombinator.com/item?id=39358884"
     ],
@@ -287,16 +297,6 @@
     [
       "Getting the RK3588 SoC supported in upstream Linux (2023)",
       "https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 09:25:46",
-      "https://news.ycombinator.com/item?id=39355998"
-    ],
-    [
-      "Show HN: Kubetail – Web-based real-time log viewer for Kubernetes",
-      "https://github.com/kubetail-org/kubetail"
     ]
   ]
 ]
