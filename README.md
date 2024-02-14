@@ -1,14 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-14, 05:54:10](https://news.ycombinator.com/item?id=39366957) - [Oink: An open source API for PHP in a single file](https://github.com/jcarlosroldan/oink)
-* [2024-02-14, 05:26:08](https://news.ycombinator.com/item?id=39366816) - [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)
+* [2024-02-14, 05:18:06](https://news.ycombinator.com/item?id=39366767) - [What's Happening with the Evergrande Liquidation](https://www.npr.org/2024/02/12/1197961810/whats-really-happening-with-the-evergrande-liquidation?ft=nprml&f=93559255)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-14, 01:14:34](https://news.ycombinator.com/item?id=39365142) - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
 * [2024-02-14, 01:09:36](https://news.ycombinator.com/item?id=39365104) - [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
 * [2024-02-14, 00:00:15](https://news.ycombinator.com/item?id=39364576) - [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
-* [2024-02-13, 23:44:20](https://news.ycombinator.com/item?id=39364447) - [Judge rejects most ChatGPT copyright claims from book authors](https://arstechnica.com/tech-policy/2024/02/judge-sides-with-openai-dismisses-bulk-of-book-authors-copyright-claims/)
 * [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 22:04:31](https://news.ycombinator.com/item?id=39363479) - [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
@@ -21,6 +19,7 @@
 * [2024-02-13, 16:42:32](https://news.ycombinator.com/item?id=39359545) - [A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart terminals: Personal computing’s true origin? (2023)](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A novel approach to front end testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
+* [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-13, 14:31:56](https://news.ycombinator.com/item?id=39357928) - [Show HN: Linen.team – A lightweight, thread-first Slack alternative](https://news.ycombinator.com/item?id=39357928)
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 13:35:14](https://news.ycombinator.com/item?id=39357436) - [Dynamic Voltage and Frequency Scaling for Intermittent Computing](https://arxiv.org/abs/2401.08710)
@@ -30,6 +29,7 @@
 * [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
+* [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
 
 ## [Archives](archives/index.md)
 

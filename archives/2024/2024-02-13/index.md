@@ -33,6 +33,7 @@
 * [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart Terminals: Personal Computing's True Origin? – The History of How We Play](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A novel approach to front end testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-13, 16:20:31](https://news.ycombinator.com/item?id=39359198) - [SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d?gi=eae52dc83daf)
+* [2024-02-13, 16:00:44](https://news.ycombinator.com/item?id=39358884) - [Oink: An API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-13, 15:32:04](https://news.ycombinator.com/item?id=39358509) - [Tesla worker killed in fiery crash may be first 'Full Self-Driving' fatality](https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/)
 * [2024-02-13, 15:25:32](https://news.ycombinator.com/item?id=39358437) - [A Fossil Fuel Economy Requires 535x More Mining Than a Clean Energy Economy](https://www.distilled.earth/p/a-fossil-fuel-economy-requires-535x)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: 10 times faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)

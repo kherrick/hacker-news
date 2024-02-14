@@ -6,6 +6,7 @@
 
 * [2024-02-14, 05:54:10](https://news.ycombinator.com/item?id=39366957) - [Oink: An open source API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-14, 05:26:08](https://news.ycombinator.com/item?id=39366816) - [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)
+* [2024-02-14, 05:18:06](https://news.ycombinator.com/item?id=39366767) - [What's Happening with the Evergrande Liquidation](https://www.npr.org/2024/02/12/1197961810/whats-really-happening-with-the-evergrande-liquidation?ft=nprml&f=93559255)
 * [2024-02-14, 03:12:12](https://news.ycombinator.com/item?id=39365970) - [US Federal Reserve says its goal is 'to get wages down' (2022)](https://canadiandimension.com/articles/view/us-federal-reserve-says-its-goal-is-to-get-wages-down)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 03:06:37](https://news.ycombinator.com/item?id=39365919) - [Mark Zuckerberg on Apple Vision Pro](https://www.instagram.com/zuck/reel/C3TkhmivNzt/)
