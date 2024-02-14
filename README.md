@@ -2,7 +2,6 @@
 
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
-* [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
@@ -16,6 +15,7 @@
 * [2024-02-13, 22:04:31](https://news.ycombinator.com/item?id=39363479) - [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
 * [2024-02-13, 21:01:29](https://news.ycombinator.com/item?id=39362777) - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
 * [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-02-13, 19:14:47](https://news.ycombinator.com/item?id=39361511) - [The Linux kernel project becomes a CVE numbering authority](https://lwn.net/Articles/961961/)
 * [2024-02-13, 18:21:00](https://news.ycombinator.com/item?id=39360856) - [How to center a div in CSS](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-13, 18:10:05](https://news.ycombinator.com/item?id=39360724) - [Memory and new controls for ChatGPT](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)

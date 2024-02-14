@@ -16,6 +16,7 @@
 * [2024-02-13, 20:23:48](https://news.ycombinator.com/item?id=39362372) - [Cloudflare DNS Updates Delayed](https://www.cloudflarestatus.com/incidents/byhy098jxck6)
 * [2024-02-13, 19:24:56](https://news.ycombinator.com/item?id=39361661) - [Ask HN: How do you come up with side project ideas in 2024?](https://news.ycombinator.com/item?id=39361661)
 * [2024-02-13, 19:22:26](https://news.ycombinator.com/item?id=39361617) - [Half Earth: A Planetary Crisis Planning Game](https://play.half.earth/)
+* [2024-02-13, 19:14:47](https://news.ycombinator.com/item?id=39361511) - [The Linux kernel project becomes a CVE numbering authority](https://lwn.net/Articles/961961/)
 * [2024-02-13, 18:55:04](https://news.ycombinator.com/item?id=39361279) - [Someone is going to dim the sun, and it will be soon](https://climate.benjames.io/someone-is-going-to-dim-the-sun/)
 * [2024-02-13, 18:50:01](https://news.ycombinator.com/item?id=39361227) - [Copyright Easter Eggs (2018)](https://wiki.openstreetmap.org/wiki/Copyright_Easter_Eggs)
 * [2024-02-13, 18:37:53](https://news.ycombinator.com/item?id=39361077) - [Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://depth-anything.github.io/)
