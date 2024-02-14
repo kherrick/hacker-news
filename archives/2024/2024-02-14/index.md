@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
 * [2024-02-14, 07:01:25](https://news.ycombinator.com/item?id=39367264) - [How to summarize YouTube videos using artificial intelligence](https://implementing.substack.com/p/how-to-summarize-youtube-video-using)
 * [2024-02-14, 06:43:42](https://news.ycombinator.com/item?id=39367182) - [Caching with Redis](https://nintyzeros.substack.com/p/power-of-redis-a-deep-dive-into-caching)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
