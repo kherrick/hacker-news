@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 19:17:53](https://news.ycombinator.com/item?id=39373921) - [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
 * [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
@@ -20,10 +21,9 @@
 * [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-end encryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 12:24:57](https://news.ycombinator.com/item?id=39369040) - [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
+* [2024-02-14, 12:15:32](https://news.ycombinator.com/item?id=39368972) - [The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
-* [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [OpenAI: Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 * [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade inflation at UC Riverside, and institutional pressures for easier grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
-* [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)

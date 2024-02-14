@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 19:17:53](https://news.ycombinator.com/item?id=39373921) - [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
 * [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
