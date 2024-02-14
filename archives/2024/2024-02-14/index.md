@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
 * [2024-02-14, 14:38:49](https://news.ycombinator.com/item?id=39370242) - [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
 * [2024-02-14, 14:38:21](https://news.ycombinator.com/item?id=39370235) - [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
 * [2024-02-14, 14:37:51](https://news.ycombinator.com/item?id=39370226) - [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
