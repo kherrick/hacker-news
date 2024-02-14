@@ -2,6 +2,7 @@
 
 * [2024-02-14, 20:23:42](https://news.ycombinator.com/item?id=39374797) - [I Fucking Hate Jira (2022)](https://ifuckinghatejira.com)
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
+* [2024-02-14, 19:49:59](https://news.ycombinator.com/item?id=39374332) - [Nanoplastics in water – surprisingly large amounts discovered and its not good](https://molecularspec.substack.com/p/nanoplastics-in-water-surprisingly)
 * [2024-02-14, 19:37:32](https://news.ycombinator.com/item?id=39374152) - [The happiest kids in the world have social safety nets](https://www.mother.ly/parenting/social-safety-net/)
 * [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2024-02-14, 19:21:07](https://news.ycombinator.com/item?id=39373960) - [Holepunch Unveils P2P Platform \"Pear Runtime\"](https://pears.com/news/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime/)
@@ -26,7 +27,6 @@
 * [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade inflation at UC Riverside, and institutional pressures for easier grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
-* [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing Factorio with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
