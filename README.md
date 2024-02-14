@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-14, 01:39:25](https://news.ycombinator.com/item?id=39365318) - [San Francisco staged a surprising comeback](https://www.economist.com/finance-and-economics/2024/02/12/san-franciscos-surprising-comeback)
 * [2024-02-14, 01:35:25](https://news.ycombinator.com/item?id=39365288) - [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-14, 01:14:34](https://news.ycombinator.com/item?id=39365142) - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
@@ -19,6 +18,7 @@
 * [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
 * [2024-02-13, 17:18:14](https://news.ycombinator.com/item?id=39360050) - [Wi-Fi jamming to knock out cameras suspected in nine Minnesota burglaries](https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire)
 * [2024-02-13, 16:42:32](https://news.ycombinator.com/item?id=39359545) - [A woman who can smell Parkinson's is inspiring research into diagnosis (2020)](https://www.npr.org/sections/health-shots/2020/03/23/820274501/her-incredible-sense-of-smell-is-helping-scientists-find-new-ways-to-diagnose-di)
+* [2024-02-13, 16:26:56](https://news.ycombinator.com/item?id=39359307) - [Smart terminals: Personal computing’s true origin? (2023)](https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/)
 * [2024-02-13, 15:21:39](https://news.ycombinator.com/item?id=39358406) - [Show HN: Faster LLM evaluation with Bayesian optimization](https://github.com/rentruewang/bocoel)
 * [2024-02-13, 15:12:21](https://news.ycombinator.com/item?id=39358317) - [Mastering Programming - by Kent Beck (2016)](https://tidyfirst.substack.com/p/mastering-programming)
 * [2024-02-13, 14:31:56](https://news.ycombinator.com/item?id=39357928) - [Show HN: Linen.team – A lightweight, thread-first Slack alternative](https://news.ycombinator.com/item?id=39357928)
