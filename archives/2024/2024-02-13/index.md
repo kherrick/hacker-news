@@ -53,6 +53,7 @@
 * [2024-02-13, 13:02:58](https://news.ycombinator.com/item?id=39357211) - [What great American cities looked like a century ago, in video (thread)](https://twitter.com/Culture_Crit/status/1755293706184208631)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 * [2024-02-13, 12:35:28](https://news.ycombinator.com/item?id=39357033) - [Aya: An open LLM by 3k independent researchers across the globe](https://cohere.com/research/aya)
+* [2024-02-13, 12:31:55](https://news.ycombinator.com/item?id=39357015) - [Hired: A Modern Take on 'Ed'](https://github.com/sidju/hired)
 * [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
 * [2024-02-13, 12:24:15](https://news.ycombinator.com/item?id=39356982) - [Antithesis – Autonomous Testing](https://www.antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
