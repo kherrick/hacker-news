@@ -7,6 +7,7 @@
 * [2024-02-14, 14:38:49](https://news.ycombinator.com/item?id=39370242) - [The Argument over a Long-Standing Autism Intervention](https://www.newyorker.com/science/annals-of-medicine/the-argument-over-a-long-standing-autism-intervention)
 * [2024-02-14, 14:38:21](https://news.ycombinator.com/item?id=39370235) - [AI Girlfriend Is a Data-Harvesting Horror Show](https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284)
 * [2024-02-14, 14:37:51](https://news.ycombinator.com/item?id=39370226) - [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
+* [2024-02-14, 14:32:29](https://news.ycombinator.com/item?id=39370173) - [Tai chi reduces blood pressure better than aerobic exercise](https://www.npr.org/sections/health-shots/2024/02/14/1231232197/tai-chi-aerobics-exercise-blood-pressure-hypertension-mindfulness)
 * [2024-02-14, 14:15:02](https://news.ycombinator.com/item?id=39369982) - [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
 * [2024-02-14, 14:14:25](https://news.ycombinator.com/item?id=39369973) - [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
 * [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
