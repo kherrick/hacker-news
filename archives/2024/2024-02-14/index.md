@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 14:37:51](https://news.ycombinator.com/item?id=39370226) - [Ask HN: How do you organize software documentation at work?](https://news.ycombinator.com/item?id=39370226)
 * [2024-02-14, 14:15:02](https://news.ycombinator.com/item?id=39369982) - [Walmart in talks to buy TV maker Vizio for more than $2B](https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 13:06:13](https://news.ycombinator.com/item?id=39369353) - [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
