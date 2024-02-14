@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-02-14, 14:15:02",
+      "https://news.ycombinator.com/item?id=39369982"
+    ],
+    [
+      "Walmart in talks to buy TV maker Vizio for more than $2B",
+      "https://www.theverge.com/2024/2/13/24072191/walmart-vizio-smart-tv-acquisition-rumor"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 13:44:45",
+      "https://news.ycombinator.com/item?id=39369653"
+    ],
+    [
+      "European Court of Human Rights bans weakening of secure end-to-endencryption",
+      "https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 13:06:13",
       "https://news.ycombinator.com/item?id=39369353"
     ],
     [
       "PySimpleGUI 4 will be sunsetted in Q2 2024",
       "https://docs.PySimpleGUI.com/en/latest/readme/sunset/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 13:01:31",
-      "https://news.ycombinator.com/item?id=39369319"
-    ],
-    [
-      "Over 50% of the population of Germany does not own their home",
-      "https://ec.europa.eu/eurostat/cache/digpub/housing/bloc-1a.html"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-02-14, 11:47:16",
-      "https://news.ycombinator.com/item?id=39368776"
-    ],
-    [
-      "Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading",
-      "http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 11:14:10",
       "https://news.ycombinator.com/item?id=39368586"
     ],
@@ -81,21 +81,11 @@
   ],
   [
     [
-      "2024-02-14, 10:27:40",
-      "https://news.ycombinator.com/item?id=39368370"
-    ],
-    [
-      "I grew my Substack from 439 to 451 free subscribers in just 11 months",
-      "https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 09:54:41",
       "https://news.ycombinator.com/item?id=39368233"
     ],
     [
-      "Popular XMPP App \"Conversations\" Removed from PlayStore by Google",
+      "Google has removed Conversations_im from the Play Store",
       "https://gultsch.social/@daniel/111929074071688694"
     ]
   ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=39343777"
     ],
     [
-      "Measuring Stack Usage the Hard Way",
+      "Measuring Stack Usage the Hard Way (2023)",
       "https://interrupt.memfault.com/blog/measuring-stack-usage"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 08:28:55",
+      "https://news.ycombinator.com/item?id=39342746"
+    ],
+    [
+      "A gentle introduction to automated reasoning",
+      "https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning"
     ]
   ],
   [
