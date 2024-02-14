@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 21:34:55](https://news.ycombinator.com/item?id=39375788) - [Why Is Common Lisp Not the Most Popular Programming Language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 * [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
 * [2024-02-14, 20:23:42](https://news.ycombinator.com/item?id=39374797) - [I Fucking Hate Jira (2022)](https://ifuckinghatejira.com)
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)

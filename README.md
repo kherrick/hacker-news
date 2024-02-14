@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 21:34:55](https://news.ycombinator.com/item?id=39375788) - [Why Is Common Lisp Not the Most Popular Programming Language?](https://daninus14.github.io/posts/Why-is-Common-Lisp-not-the-Most-Popular-Programming-Language.html)
 * [2024-02-14, 21:09:25](https://news.ycombinator.com/item?id=39375410) - [I Went to FOSDEM](https://leejo.github.io/2024/02/14/fosdem/)
 * [2024-02-14, 20:23:42](https://news.ycombinator.com/item?id=39374797) - [I Fucking Hate Jira (2022)](https://ifuckinghatejira.com)
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
@@ -13,7 +14,6 @@
 * [2024-02-14, 19:03:55](https://news.ycombinator.com/item?id=39373744) - [Show HN: Natural Language to SQL \"Text-to-SQL\" API](https://www.dataherald.com/news/introducing-dhai)
 * [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
 * [2024-02-14, 18:53:17](https://news.ycombinator.com/item?id=39373612) - [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
-* [2024-02-14, 18:43:06](https://news.ycombinator.com/item?id=39373495) - [A 'Lobby' Where a Molecule Mob Tells Genes What to Do](https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/)
 * [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Freenginx: Core Nginx developer announces fork](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 17:18:56](https://news.ycombinator.com/item?id=39372384) - [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
