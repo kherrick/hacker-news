@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-14, 16:40:00",
+      "https://news.ycombinator.com/item?id=39371892"
+    ],
+    [
+      "Canadian federal government will stop investing in new road infrastructure",
+      "https://www.cbc.ca/news/politics/guilbeault-no-new-roads-1.7114867"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 16:34:22",
+      "https://news.ycombinator.com/item?id=39371831"
+    ],
+    [
+      "Reverse-engineering an encrypted IoT protocol",
+      "https://smlx.dev/posts/goodwe-sems-protocol-teardown/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 15:52:03",
       "https://news.ycombinator.com/item?id=39371297"
     ],
@@ -217,26 +237,6 @@
     [
       "Fly.io has GPUs now",
       "https://fly.io/blog/fly-io-has-gpus-now/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 17:23:22",
-      "https://news.ycombinator.com/item?id=39360106"
-    ],
-    [
-      "Stable Cascade",
-      "https://github.com/Stability-AI/StableCascade"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 12:54:47",
-      "https://news.ycombinator.com/item?id=39357155"
-    ],
-    [
-      "Maybe Everything Is a Coroutine",
-      "https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/"
     ]
   ],
   [
