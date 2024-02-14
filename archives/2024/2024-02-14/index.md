@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 17:48:24](https://news.ycombinator.com/item?id=39372762) - [Cosmic Desktop: Closing in on a Cosmic Alpha](https://blog.system76.com/post/closing-in-on-a-cosmic-alpha)
 * [2024-02-14, 17:40:25](https://news.ycombinator.com/item?id=39372667) - [Private jets departed Las Vegas after the Super Bowl ended](https://old.reddit.com/r/BeAmazed/comments/1aqpfu0/525_private_jets_departed_las_vegas_after_the/)
 * [2024-02-14, 17:20:19](https://news.ycombinator.com/item?id=39372403) - [Meta's big vision for face computers might be better than Apple's](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
+* [2024-02-14, 17:18:56](https://news.ycombinator.com/item?id=39372384) - [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
 * [2024-02-14, 17:09:21](https://news.ycombinator.com/item?id=39372269) - [Things We Didn't Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 * [2024-02-14, 16:56:00](https://news.ycombinator.com/item?id=39372087) - [U.S. Internet Leaked Years of Internal, Customer Emails](https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/)

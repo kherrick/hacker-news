@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-14, 17:20:19](https://news.ycombinator.com/item?id=39372403) - [Meta's big vision for face computers might be better than Apple's](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
+* [2024-02-14, 17:48:24](https://news.ycombinator.com/item?id=39372762) - [Cosmic Desktop: Closing in on a Cosmic Alpha](https://blog.system76.com/post/closing-in-on-a-cosmic-alpha)
+* [2024-02-14, 17:18:56](https://news.ycombinator.com/item?id=39372384) - [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
 * [2024-02-14, 17:09:21](https://news.ycombinator.com/item?id=39372269) - [Things We Didn't Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 * [2024-02-14, 16:56:00](https://news.ycombinator.com/item?id=39372087) - [U.S. Internet Leaked Years of Internal, Customer Emails](https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/)
@@ -23,7 +24,6 @@
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
-* [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 09:28:02](https://news.ycombinator.com/item?id=39356007) - [Calliope MINI – The Small Computer for Big Ideas](https://calliope.cc/en)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 * [2024-02-12, 10:14:43](https://news.ycombinator.com/item?id=39343308) - [Deluge, a portable sequencer, synthesizer and sampler](https://github.com/SynthstromAudible/DelugeFirmware)
