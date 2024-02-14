@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
 * [2024-02-14, 17:20:19](https://news.ycombinator.com/item?id=39372403) - [Meta's big vision for face computers might be better than Apple's](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
+* [2024-02-14, 17:09:21](https://news.ycombinator.com/item?id=39372269) - [Things We Didn't Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 * [2024-02-14, 16:40:00](https://news.ycombinator.com/item?id=39371892) - [Canadian federal government will stop investing in new road infrastructure](https://www.cbc.ca/news/politics/guilbeault-no-new-roads-1.7114867)
 * [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
