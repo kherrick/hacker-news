@@ -20,6 +20,7 @@
 * [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
 * [2024-02-14, 16:23:52](https://news.ycombinator.com/item?id=39371726) - [Suikoden creator Yoshitaka Murayama has passed away at 55](https://rabbitandbearstudios.com/%e7%9a%86%e6%a7%98%e3%81%b8%e5%a4%a7%e5%88%87%e3%81%aa%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)
+* [2024-02-14, 16:23:52](https://news.ycombinator.com/item?id=39371726) - [Suikoden creator Yoshitaka Murayama has died](https://www.ign.com/articles/suikoden-creator-and-eiyuden-chronicle-lead-yoshitaka-murayama-has-died)
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
