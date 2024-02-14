@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 17:40:25](https://news.ycombinator.com/item?id=39372667) - [Private jets departed Las Vegas after the Super Bowl ended](https://old.reddit.com/r/BeAmazed/comments/1aqpfu0/525_private_jets_departed_las_vegas_after_the/)
 * [2024-02-14, 17:20:19](https://news.ycombinator.com/item?id=39372403) - [Meta's big vision for face computers might be better than Apple's](https://www.theverge.com/2024/2/14/24070729/ray-ban-meta-smart-glasses-apple-vision-pro-ar-vr)
 * [2024-02-14, 17:09:21](https://news.ycombinator.com/item?id=39372269) - [Things We Didn't Know About Ourselves](https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/)
 * [2024-02-14, 17:00:52](https://news.ycombinator.com/item?id=39372159) - [Show HN: Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
@@ -11,6 +12,7 @@
 * [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
 * [2024-02-14, 16:23:52](https://news.ycombinator.com/item?id=39371726) - [Suikoden creator Yoshitaka Murayama has passed away at 55](https://rabbitandbearstudios.com/%e7%9a%86%e6%a7%98%e3%81%b8%e5%a4%a7%e5%88%87%e3%81%aa%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)
+* [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
 * [2024-02-14, 15:21:06](https://news.ycombinator.com/item?id=39370792) - [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
