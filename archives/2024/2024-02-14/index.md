@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
 * [2024-02-14, 12:41:51](https://news.ycombinator.com/item?id=39369159) - [Andrej Karpathy Departs OpenAI](https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/)
+* [2024-02-14, 12:24:57](https://news.ycombinator.com/item?id=39369040) - [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
 * [2024-02-14, 12:15:32](https://news.ycombinator.com/item?id=39368972) - [The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
+* [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
 * [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 10:27:40](https://news.ycombinator.com/item?id=39368370) - [I Grew My Substack from 439 to 451 Free Subscribers in Just 11 Months](https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to)
