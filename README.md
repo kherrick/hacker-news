@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 05:54:10](https://news.ycombinator.com/item?id=39366957) - [Oink: An open source API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-14, 05:26:08](https://news.ycombinator.com/item?id=39366816) - [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-14, 01:14:34](https://news.ycombinator.com/item?id=39365142) - [Bioluminescent petunias now available for U.S. market](https://lgrmag.com/news/light-bio-to-introduce-bioluminescent-petunias-into-u-s-market/)
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Play the game I'm developing directly on its website](https://athenacrisis.com)
 * [2024-02-14, 01:09:36](https://news.ycombinator.com/item?id=39365104) - [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
-* [2024-02-14, 00:00:15](https://news.ycombinator.com/item?id=39364576) - [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
 * [2024-02-13, 23:44:20](https://news.ycombinator.com/item?id=39364447) - [Judge rejects most ChatGPT copyright claims from book authors](https://arstechnica.com/tech-policy/2024/02/judge-sides-with-openai-dismisses-bulk-of-book-authors-copyright-claims/)
 * [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
@@ -28,7 +28,7 @@
 * [2024-02-13, 12:54:47](https://news.ycombinator.com/item?id=39357155) - [Maybe Everything Is a Coroutine](https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/)
 * [2024-02-13, 12:31:55](https://news.ycombinator.com/item?id=39357015) - [Hired: A Modern Take on 'Ed'](https://github.com/sidju/hired)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
-* [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
+* [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
 
 ## [Archives](archives/index.md)

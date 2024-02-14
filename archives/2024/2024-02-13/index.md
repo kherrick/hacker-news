@@ -62,6 +62,7 @@
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:00:51](https://news.ycombinator.com/item?id=39356860) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-02-13, 11:02:16](https://news.ycombinator.com/item?id=39356574) - [Drowning in code: The ever-growing problem of ever-growing codebases](https://www.theregister.com/2024/02/12/drowning_in_code/)
+* [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions are the secret to open source success](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 10:19:47](https://news.ycombinator.com/item?id=39356277) - [\"PayPal took $80k from me and banned me\"](https://twitter.com/dannypostmaa/status/1757343318239813730)
 * [2024-02-13, 10:02:46](https://news.ycombinator.com/item?id=39356171) - [Why I threw away your resume (from the crankiest recruiter)](https://bloomberry.com/why-i-threw-away-your-resume-from-the-worlds-crankiest-recruiter/)
