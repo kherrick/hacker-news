@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
-* [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
@@ -30,6 +29,7 @@
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
+* [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
 
 ## [Archives](archives/index.md)
 
