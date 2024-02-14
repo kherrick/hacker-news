@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 01:35:25](https://news.ycombinator.com/item?id=39365288) - [Andrej Karpathy Departs OpenAI](https://www.theinformation.com/articles/openai-researcher-andrej-karpathy-departs)
+* [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+* [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Instantly play the game I'm developing directly on its website](https://athenacrisis.com)
 * [2024-02-14, 00:00:15](https://news.ycombinator.com/item?id=39364576) - [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)
 * [2024-02-13, 22:25:14](https://news.ycombinator.com/item?id=39363675) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
@@ -23,12 +26,9 @@
 * [2024-02-13, 14:06:00](https://news.ycombinator.com/item?id=39357709) - [Original WWW proposal is a Word for Macintosh 4 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 12:41:30](https://news.ycombinator.com/item?id=39357068) - [A Git client for simultaneous branches on top of your existing workflow](https://gitbutler.com)
 * [2024-02-13, 12:35:28](https://news.ycombinator.com/item?id=39357033) - [Aya: An open LLM by 3k independent researchers across the globe](https://cohere.com/research/aya)
-* [2024-02-13, 12:31:46](https://news.ycombinator.com/item?id=39357014) - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
 * [2024-02-13, 12:13:12](https://news.ycombinator.com/item?id=39356920) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
-* [2024-02-13, 10:26:18](https://news.ycombinator.com/item?id=39356320) - [Non-code contributions to open source](https://github.com/readme/featured/open-source-non-code-contributions)
 * [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia made too many phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
-* [2024-02-13, 06:39:31](https://news.ycombinator.com/item?id=39355180) - [Strike at the Knee: Review of the Savage Storm: The Battle for Italy 1943](https://www.lrb.co.uk/the-paper/v46/n03/malcolm-gaskill/strike-at-the-knee)
 * [2024-02-10, 18:18:19](https://news.ycombinator.com/item?id=39328747) - [Margaret Mead's LSD Memo](https://slate.com/news-and-politics/2024/02/tripping-on-utopia-book-lsd-psychedelics-history.html)
 
 ## [Archives](archives/index.md)
