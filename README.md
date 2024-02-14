@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2024-02-14, 19:17:53](https://news.ycombinator.com/item?id=39373921) - [Duolingo Sucks, Now What?](https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS (Amazon): The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
@@ -16,7 +17,6 @@
 * [2024-02-14, 16:23:52](https://news.ycombinator.com/item?id=39371726) - [Suikoden creator Yoshitaka Murayama has died](https://www.ign.com/articles/suikoden-creator-and-eiyuden-chronicle-lead-yoshitaka-murayama-has-died)
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
-* [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
 * [2024-02-14, 15:14:01](https://news.ycombinator.com/item?id=39370681) - [Only real people can patent inventions – not AI – US Government says](https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html)
 * [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-end encryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
