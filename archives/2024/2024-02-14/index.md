@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 20:23:42](https://news.ycombinator.com/item?id=39374797) - [I Fucking Hate Jira (2022)](https://ifuckinghatejira.com)
 * [2024-02-14, 19:54:11](https://news.ycombinator.com/item?id=39374389) - [Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception](https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/)
 * [2024-02-14, 19:27:15](https://news.ycombinator.com/item?id=39374031) - [Meta Has Sold Nearly 20M Quest Headsets, but Retention Struggles Remain](https://www.roadtovr.com/quest-sales-20-million-retention-struggles/amp/)
 * [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [The Proton, the 'Most Complicated Thing You Could Possibly Imagine](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
