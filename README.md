@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-14, 16:40:00](https://news.ycombinator.com/item?id=39371892) - [Canadian federal government will stop investing in new road infrastructure](https://www.cbc.ca/news/politics/guilbeault-no-new-roads-1.7114867)
+* [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 15:24:09](https://news.ycombinator.com/item?id=39370851) - [US Military notifies 20k of data breach after cloud email leak](https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/)
 * [2024-02-14, 15:21:06](https://news.ycombinator.com/item?id=39370792) - [OpenAI experiments with giving ChatGPT a long-term conversation memory](https://arstechnica.com/information-technology/2024/02/amnesia-begone-soon-chatgpt-will-remember-what-you-tell-it-between-sessions/)
@@ -22,8 +24,6 @@
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Hi everyone yes, I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 01:20:42](https://news.ycombinator.com/item?id=39365187) - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
 * [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
-* [2024-02-13, 17:23:22](https://news.ycombinator.com/item?id=39360106) - [Stable Cascade](https://github.com/Stability-AI/StableCascade)
-* [2024-02-13, 12:54:47](https://news.ycombinator.com/item?id=39357155) - [Maybe Everything Is a Coroutine](https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/)
 * [2024-02-13, 10:56:04](https://news.ycombinator.com/item?id=39356530) - [Getting the RK3588 SoC supported in upstream Linux (2023)](https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 * [2024-02-12, 11:40:20](https://news.ycombinator.com/item?id=39343777) - [Measuring Stack Usage the Hard Way (2023)](https://interrupt.memfault.com/blog/measuring-stack-usage)
