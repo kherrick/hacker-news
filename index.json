@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-02-14, 19:26:18",
-      "https://news.ycombinator.com/item?id=39374020"
+      "2024-02-14, 19:54:11",
+      "https://news.ycombinator.com/item?id=39374389"
     ],
     [
-      "The Proton, the 'Most Complicated Thing You Could Possibly Imagine",
-      "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
+      "Amazon Sued over Prime Video Ads: Class-Action Suit Alleges Deception",
+      "https://variety.com/2024/digital/news/amazon-prime-video-ads-lawsuit-class-action-1235910694/"
     ]
   ],
   [
     [
-      "2024-02-14, 19:17:53",
-      "https://news.ycombinator.com/item?id=39373921"
+      "2024-02-14, 19:27:15",
+      "https://news.ycombinator.com/item?id=39374031"
     ],
     [
-      "Duolingo Sucks, Now What?",
-      "https://ruhua-langblr.tumblr.com/post/739086003139149824/duolingo-sucks-now-what-a-guide"
+      "Meta Has Sold Nearly 20M Quest Headsets, but Retention Struggles Remain",
+      "https://www.roadtovr.com/quest-sales-20-million-retention-struggles/amp/"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 19:26:18",
+      "https://news.ycombinator.com/item?id=39374020"
+    ],
+    [
+      "Inside the proton, the ‘most complicated thing you could possibly imagine’",
+      "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=39373814"
     ],
     [
-      "BASE TTS (Amazon): The largest text-to-speech model to-date",
+      "BASE TTS: The largest text-to-speech model to-date",
       "https://amazon-ltts-paper.com/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Nginx Security Advisory",
       "https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 18:45:44",
-      "https://news.ycombinator.com/item?id=39373538"
-    ],
-    [
-      "Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman",
-      "https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Show HN: Reor – An AI note-taking app that runs models locally",
       "https://github.com/reorproject/reor"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 16:56:00",
-      "https://news.ycombinator.com/item?id=39372087"
-    ],
-    [
-      "U.S. Internet Leaked Years of Internal, Customer Emails",
-      "https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2024-02-14, 15:24:09",
+      "https://news.ycombinator.com/item?id=39370851"
+    ],
+    [
+      "US Military notifies 20k of data breach after cloud email leak",
+      "https://techcrunch.com/2024/02/14/department-defense-data-breach-microsoft-cloud-email/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 15:14:01",
       "https://news.ycombinator.com/item?id=39370681"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-02-14, 12:24:57",
-      "https://news.ycombinator.com/item?id=39369040"
-    ],
-    [
-      "What made Earth a giant snowball 700M years ago? Scientists have an answer",
-      "https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 12:00:09",
       "https://news.ycombinator.com/item?id=39368868"
     ],
@@ -227,6 +217,16 @@
     [
       "Grade inflation at UC Riverside, and institutional pressures for easier grading",
       "http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 11:14:10",
+      "https://news.ycombinator.com/item?id=39368586"
+    ],
+    [
+      "Xonsh: Python-powered, cross-platform, Unix-gazing shell",
+      "https://github.com/xonsh/xonsh"
     ]
   ],
   [
