@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39370235"
     ],
     [
-      "AI Girlfriend Is a Data-Harvesting Horror Show",
+      "Your AI Girlfriend Is a Data-Harvesting Horror Show",
       "https://gizmodo.com/your-ai-girlfriend-is-a-data-harvesting-horror-show-1851253284"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-02-13, 10:56:04",
-      "https://news.ycombinator.com/item?id=39356530"
-    ],
-    [
-      "Getting the RK3588 SoC supported in upstream Linux (2023)",
-      "https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/"
-    ]
-  ],
-  [
-    [
       "2024-02-12, 13:09:47",
       "https://news.ycombinator.com/item?id=39344355"
     ],
@@ -277,6 +267,16 @@
     [
       "Measuring Stack Usage the Hard Way (2023)",
       "https://interrupt.memfault.com/blog/measuring-stack-usage"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 10:14:43",
+      "https://news.ycombinator.com/item?id=39343308"
+    ],
+    [
+      "Deluge, a portable sequencer, synthesizer and sampler",
+      "https://github.com/SynthstromAudible/DelugeFirmware"
     ]
   ],
   [
