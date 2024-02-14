@@ -45,18 +45,8 @@
       "https://news.ycombinator.com/item?id=39373327"
     ],
     [
-      "Core Nginx developer announces fork, freenginx",
+      "Freenginx: Core Nginx developer announces fork",
       "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 17:48:24",
-      "https://news.ycombinator.com/item?id=39372762"
-    ],
-    [
-      "Cosmic Desktop: Closing in on a Cosmic Alpha",
-      "https://blog.system76.com/post/closing-in-on-a-cosmic-alpha"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39372269"
     ],
     [
-      "Things We Didn't Know About Ourselves",
+      "Things we didn't know about ourselves",
       "https://kk.org/thetechnium/things-we-didnt-know-about-ourselves/"
     ]
   ],
@@ -125,8 +115,8 @@
       "https://news.ycombinator.com/item?id=39371726"
     ],
     [
-      "Suikoden creator Yoshitaka Murayama has passed away at 55",
-      "https://rabbitandbearstudios.com/%e7%9a%86%e6%a7%98%e3%81%b8%e5%a4%a7%e5%88%87%e3%81%aa%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/"
+      "Suikoden creator Yoshitaka Murayama has died",
+      "https://www.ign.com/articles/suikoden-creator-and-eiyuden-chronicle-lead-yoshitaka-murayama-has-died"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-02-14, 11:47:16",
+      "https://news.ycombinator.com/item?id=39368776"
+    ],
+    [
+      "Grade inflation at UC Riverside, and institutional pressures for easier grading",
+      "http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 11:14:10",
       "https://news.ycombinator.com/item?id=39368586"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39366542"
     ],
     [
-      "Bob Moore, Who Founded Bob's Red Mill, has died",
+      "Bob Moore, who founded Bob's Red Mill, has died",
       "https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39344355"
     ],
     [
-      "Enhancing the Factorio experience with SAT solvers",
+      "Enhancing Factorio with SAT solvers",
       "https://github.com/R-O-C-K-E-T/Factorio-SAT"
     ]
   ]
