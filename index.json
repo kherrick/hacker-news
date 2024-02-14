@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-02-14, 05:18:06",
-      "https://news.ycombinator.com/item?id=39366767"
+      "2024-02-14, 07:01:25",
+      "https://news.ycombinator.com/item?id=39367264"
     ],
     [
-      "What's Happening with the Evergrande Liquidation",
-      "https://www.npr.org/2024/02/12/1197961810/whats-really-happening-with-the-evergrande-liquidation?ft=nprml&f=93559255"
+      "How to summarize YouTube videos using artificial intelligence",
+      "https://implementing.substack.com/p/how-to-summarize-youtube-video-using"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 06:43:42",
+      "https://news.ycombinator.com/item?id=39367182"
+    ],
+    [
+      "Caching with Redis",
+      "https://nintyzeros.substack.com/p/power-of-redis-a-deep-dive-into-caching"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 06:34:59",
+      "https://news.ycombinator.com/item?id=39367141"
+    ],
+    [
+      "UC Berkley: World Model on Million-Length Video and Language with RingAttention",
+      "https://largeworldmodel.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 06:27:39",
+      "https://news.ycombinator.com/item?id=39367103"
+    ],
+    [
+      "Quarto",
+      "https://quarto.org/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-02-13, 22:04:31",
-      "https://news.ycombinator.com/item?id=39363479"
-    ],
-    [
-      "The Sneaky Standard – Intel PCI Standardization History",
-      "https://tedium.co/2024/02/09/intel-pci-standardization-history/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 21:01:29",
       "https://news.ycombinator.com/item?id=39362777"
     ],
@@ -177,16 +197,6 @@
     [
       "Smart terminals: Personal computing’s true origin? (2023)",
       "https://thehistoryofhowweplay.wordpress.com/2023/10/23/smart-terminals-personal-computings-true-origin/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 16:20:31",
-      "https://news.ycombinator.com/item?id=39359198"
-    ],
-    [
-      "SafeTest: A novel approach to front end testing",
-      "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Getting the RK3588 SoC supported in upstream Linux (2023)",
       "https://kernel-recipes.org/en/2023/schedule/getting-the-rk3588-soc-supported-upstream/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 09:25:46",
-      "https://news.ycombinator.com/item?id=39355998"
-    ],
-    [
-      "Show HN: Kubetail – Web-based real-time log viewer for Kubernetes",
-      "https://github.com/kubetail-org/kubetail"
     ]
   ],
   [
