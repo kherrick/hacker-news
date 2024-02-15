@@ -68,6 +68,7 @@
 * [2024-02-12, 14:00:35](https://news.ycombinator.com/item?id=39344815) - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-12, 13:58:17](https://news.ycombinator.com/item?id=39344786) - [I was wrong to ignore Zigbee and Z-Wave. They're the best part of my smart home](https://arstechnica.com/gadgets/2024/02/i-was-wrong-to-ignore-zigbee-and-z-wave-theyre-the-best-part-of-my-smart-home/)
 * [2024-02-12, 13:57:04](https://news.ycombinator.com/item?id=39344770) - ['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
+* [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:26:15](https://news.ycombinator.com/item?id=39344478) - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
