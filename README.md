@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 12:10:12](https://news.ycombinator.com/item?id=39381740) - [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
-* [2024-02-15, 11:59:08](https://news.ycombinator.com/item?id=39381662) - [Ask HN: Does anyone feel anxious about the Sun's death or is it just me?](https://news.ycombinator.com/item?id=39381662)
 * [2024-02-15, 11:45:05](https://news.ycombinator.com/item?id=39381567) - [Google enables OS upgrades for older PCs post-Windows 10 support cutoff](https://www.reuters.com/technology/google-enables-os-upgrades-older-pcs-post-windows-10-support-cutoff-2024-02-14/)
 * [2024-02-15, 11:32:18](https://news.ycombinator.com/item?id=39381478) - [Four SpaceX rockets on four launch pads in Florida, California, and Texas](https://twitter.com/SpaceX/status/1757880623115714837)
 * [2024-02-15, 11:24:56](https://news.ycombinator.com/item?id=39381435) - [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
-* [2024-02-15, 11:17:22](https://news.ycombinator.com/item?id=39381390) - [British intelligence able to read and flag private Snapchat messages](https://www.reuters.com/world/europe/spanish-judge-clears-british-teen-menorca-flight-bomb-hoax-charges-2024-01-25/)
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark \"GPT\" has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 * [2024-02-15, 05:35:48](https://news.ycombinator.com/item?id=39379480) - [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
@@ -29,6 +28,7 @@
 * [2024-02-12, 13:38:28](https://news.ycombinator.com/item?id=39344583) - [When Every Ketchup but One Went Extinct](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
+* [2024-02-12, 12:11:00](https://news.ycombinator.com/item?id=39343948) - [Contents of Charles Darwin's entire personal library revealed for first time](https://www.theguardian.com/science/2024/feb/11/charles-darwin-entire-personal-library-revealed-first-time)
 * [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [Systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
 ## [Archives](archives/index.md)
