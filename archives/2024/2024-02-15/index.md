@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
+* [2024-02-15, 17:02:47](https://news.ycombinator.com/item?id=39385150) - [Bitcoin could support renewable energy development](https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development)
+* [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
+* [2024-02-15, 16:58:28](https://news.ycombinator.com/item?id=39385092) - [I'm eating raw chicken every day for 100 days – or until I'm hospitalized](https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/)
+* [2024-02-15, 16:54:28](https://news.ycombinator.com/item?id=39385043) - [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 * [2024-02-15, 15:50:22](https://news.ycombinator.com/item?id=39384158) - [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
 * [2024-02-15, 15:48:31](https://news.ycombinator.com/item?id=39384137) - [Ask HN: Why is OpenAI and ChatGPT design so bad?](https://news.ycombinator.com/item?id=39384137)
@@ -12,6 +17,8 @@
 * [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
 * [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
+* [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
+* [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
 * [2024-02-15, 14:19:03](https://news.ycombinator.com/item?id=39382981) - [How I Got Scammed Out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
