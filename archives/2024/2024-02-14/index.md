@@ -71,6 +71,7 @@
 * [2024-02-14, 10:12:12](https://news.ycombinator.com/item?id=39368308) - [X-ray survey bolsters prevailing theory of universe's expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
 * [2024-02-14, 10:03:44](https://news.ycombinator.com/item?id=39368269) - [The Awfulness of Elite Hypocrisy on Marriage](https://www.theatlantic.com/ideas/archive/2024/02/elitism-marriage-rates-hypocrisy/677401/)
 * [2024-02-14, 09:54:41](https://news.ycombinator.com/item?id=39368233) - [Popular XMPP App \"Conversations\" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
+* [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 * [2024-02-14, 07:37:04](https://news.ycombinator.com/item?id=39367460) - [Apple has not fixed the macOS audio left/right balance bug for nearly 10 years](https://twitter.com/ffaebi/status/1757669861377949930)
