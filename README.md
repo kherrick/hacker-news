@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 18:51:25](https://news.ycombinator.com/item?id=39386726) - [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 * [2024-02-15, 18:41:02](https://news.ycombinator.com/item?id=39386569) - [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)
+* [2024-02-15, 18:20:37](https://news.ycombinator.com/item?id=39386244) - [Apple confirms iOS 17.4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
 * [2024-02-15, 18:18:15](https://news.ycombinator.com/item?id=39386217) - [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:48:51](https://news.ycombinator.com/item?id=39385809) - [University of Michigan selling student speech and papers as LLM training data](https://llm-academic-speech-data.catalystresearch.io/)
@@ -18,7 +20,6 @@
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
-* [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 * [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark “GPT” has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
@@ -27,7 +28,6 @@
 * [2024-02-14, 15:37:24](https://news.ycombinator.com/item?id=39371064) - [Show HN: Frontend Fuzzy Search](https://github.com/m31coding/fuzzy-search)
 * [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 04:19:12](https://news.ycombinator.com/item?id=39366435) - [Portal (2021)](http://macintoshgarden.org/games/portal)
-* [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:36:52](https://news.ycombinator.com/item?id=39344568) - [Baird's beaked whales found in shallower waters than previously observed](https://phys.org/news/2024-02-behavior-mammals-world.html)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 
