@@ -25,9 +25,9 @@
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
-* [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
 * [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
+* [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 05:05:31](https://news.ycombinator.com/item?id=39366715) - [Artobiography: Two critics locate themselves in Netherlandish painting](https://www.the-tls.co.uk/articles/thunderclap-laura-cumming-book-review-hettie-judah/)
 * [2024-02-12, 13:36:52](https://news.ycombinator.com/item?id=39344568) - [Baird's beaked whales found in shallower waters than previously observed](https://phys.org/news/2024-02-behavior-mammals-world.html)
 
