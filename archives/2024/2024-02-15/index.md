@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 21:27:00](https://news.ycombinator.com/item?id=39389154) - [Coinbase swings to profit on interest income strength](https://www.nasdaq.com/articles/coinbase-swings-to-profit-on-interest-income-strength)
 * [2024-02-15, 20:43:06](https://news.ycombinator.com/item?id=39388505) - [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
