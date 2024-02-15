@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 18:41:02](https://news.ycombinator.com/item?id=39386569) - [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)
+* [2024-02-15, 18:18:15](https://news.ycombinator.com/item?id=39386217) - [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 18:09:11](https://news.ycombinator.com/item?id=39386092) - [Senate Poised to Pass Kids Online Safety Act KOSA](https://www.washingtonpost.com/technology/2024/02/15/kids-online-safety-act-kosa-senate/)
 * [2024-02-15, 17:48:51](https://news.ycombinator.com/item?id=39385809) - [University of Michigan selling student speech and papers as LLM training data](https://llm-academic-speech-data.catalystresearch.io/)
