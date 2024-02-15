@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi's Price Map](https://www.aldipricemap.com/navel_oranges.html)
 * [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 04:21:45](https://news.ycombinator.com/item?id=39379073) - [The Netflix Logo with Yarn was a lie](https://kevinparry.tv/blog/i-lied-about-recreating-the-netflix-intro)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
