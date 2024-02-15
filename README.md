@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 20:43:06](https://news.ycombinator.com/item?id=39388505) - [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
@@ -15,8 +16,6 @@
 * [2024-02-15, 18:16:34](https://news.ycombinator.com/item?id=39386195) - [Code Chores: The boring part of maintaining](https://polar.sh/matmair/posts/code-chores-the-boring-part-of-maintenance)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:49:03](https://news.ycombinator.com/item?id=39385811) - [Personality Trait Recognition Using ECG Spectrograms and Deep Learning](https://arxiv.org/abs/2402.04326)
-* [2024-02-15, 17:48:51](https://news.ycombinator.com/item?id=39385809) - [License University of Michigan's Databases of Academic Speech and Student Papers](https://llm-academic-speech-data.catalystresearch.io/)
-* [2024-02-15, 17:45:07](https://news.ycombinator.com/item?id=39385739) - [Unreal Engine 5 ported to WebGPU](https://twitter.com/spatialweeb/status/1757581115609817236)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 17:10:15](https://news.ycombinator.com/item?id=39385228) - [Three Virtues of a Great Programmer](https://thethreevirtues.com/)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) is a fintech hiring software engineers (US remote)](https://www.finleycms.com/careers/)
@@ -29,6 +28,7 @@
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
+* [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-12, 13:38:28](https://news.ycombinator.com/item?id=39344583) - [When every ketchup but one went extinct (2022)](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
 
 ## [Archives](archives/index.md)
