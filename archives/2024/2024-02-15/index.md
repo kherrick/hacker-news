@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 19:28:13](https://news.ycombinator.com/item?id=39387304) - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
 * [2024-02-15, 18:51:25](https://news.ycombinator.com/item?id=39386726) - [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 * [2024-02-15, 18:43:48](https://news.ycombinator.com/item?id=39386611) - [Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
 * [2024-02-15, 18:41:02](https://news.ycombinator.com/item?id=39386569) - [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)

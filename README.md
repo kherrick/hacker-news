@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 19:28:13](https://news.ycombinator.com/item?id=39387304) - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
 * [2024-02-15, 18:51:25](https://news.ycombinator.com/item?id=39386726) - [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 * [2024-02-15, 18:43:48](https://news.ycombinator.com/item?id=39386611) - [Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
-* [2024-02-15, 18:20:37](https://news.ycombinator.com/item?id=39386244) - [Apple confirms iOS 17.4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
 * [2024-02-15, 18:18:15](https://news.ycombinator.com/item?id=39386217) - [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
 * [2024-02-15, 18:16:34](https://news.ycombinator.com/item?id=39386195) - [Code Chores: The boring part of maintaining](https://polar.sh/matmair/posts/code-chores-the-boring-part-of-maintenance)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
