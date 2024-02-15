@@ -9,7 +9,7 @@
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 19:50:24](https://news.ycombinator.com/item?id=39387640) - [Two Ethereum DeFi traders just made $120M using a strategy called 'looping'](https://www.dlnews.com/articles/defi/two-ethereum-defi-traders-made-120-million-million-looping/)
-* [2024-02-15, 19:28:13](https://news.ycombinator.com/item?id=39387304) - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
+* [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic (2013)](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
 * [2024-02-15, 19:20:41](https://news.ycombinator.com/item?id=39387191) - [Renesas Buys Altium](https://www.renesas.com/us/en/about/press-room/renesas-acquire-pcb-design-software-leader-altium-make-electronics-design-accessible-broader-market)
 * [2024-02-15, 18:43:48](https://news.ycombinator.com/item?id=39386611) - [Safe and reliable production changes, and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
@@ -27,9 +27,9 @@
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today – alternatives?](https://news.ycombinator.com/item?id=39382590)
 * [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
-* [2024-02-14, 21:07:39](https://news.ycombinator.com/item?id=39375377) - [Waymo recalls software after two self-driving cars hit the same truck](https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html)
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
+* [2024-02-12, 13:38:28](https://news.ycombinator.com/item?id=39344583) - [When every ketchup but one went extinct (2022)](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
 
 ## [Archives](archives/index.md)
 
