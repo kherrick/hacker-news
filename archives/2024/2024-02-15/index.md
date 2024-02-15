@@ -14,6 +14,7 @@
 * [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic script](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
 * [2024-02-15, 19:32:15](https://news.ycombinator.com/item?id=39387387) - [Plastics producers deceived public about recycling, report reveals](https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report)
 * [2024-02-15, 19:28:13](https://news.ycombinator.com/item?id=39387304) - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
+* [2024-02-15, 19:20:41](https://news.ycombinator.com/item?id=39387191) - [Renesas Buys Altium](https://www.renesas.com/us/en/about/press-room/renesas-acquire-pcb-design-software-leader-altium-make-electronics-design-accessible-broader-market)
 * [2024-02-15, 18:51:25](https://news.ycombinator.com/item?id=39386726) - [Problem solving across 100,633 lines of code – Gemini 1.5 Pro Demo [video]](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 * [2024-02-15, 18:43:48](https://news.ycombinator.com/item?id=39386611) - [Safe and reliable production changes; and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
