@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 14:19:03](https://news.ycombinator.com/item?id=39382981) - [How I Got Scammed Out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
