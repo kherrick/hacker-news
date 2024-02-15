@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-15, 00:18:00",
+      "https://news.ycombinator.com/item?id=39377480"
+    ],
+    [
+      "Tesla's Cybertrucks are rusting despite stainless steel",
+      "https://jalopnik.com/why-tesla-cybertrucks-are-rusting-despite-being-made-of-1851257091"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 00:07:46",
+      "https://news.ycombinator.com/item?id=39377382"
+    ],
+    [
+      "How to copy a file between devices?",
+      "https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 23:28:34",
       "https://news.ycombinator.com/item?id=39377055"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-02-14, 18:58:06",
-      "https://news.ycombinator.com/item?id=39373662"
-    ],
-    [
-      "Ask HN: What are some actual use cases of AI Agents right now?",
-      "https://news.ycombinator.com/item?id=39373662"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 18:53:17",
       "https://news.ycombinator.com/item?id=39373612"
     ],
@@ -187,26 +197,6 @@
     [
       "Conformant OpenGL 4.6 on the M1",
       "https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 15:52:03",
-      "https://news.ycombinator.com/item?id=39371297"
-    ],
-    [
-      "Show HN: You don't need to adopt new tools for LLM observability",
-      "https://github.com/traceloop/openllmetry-js"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 15:14:01",
-      "https://news.ycombinator.com/item?id=39370681"
-    ],
-    [
-      "Only real people can patent inventions – not AI, US Government says",
-      "https://www.cnn.com/2024/02/14/tech/billions-in-ai-patents-get-new-regulations/index.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Enhancing Factorio with SAT solvers",
       "https://github.com/R-O-C-K-E-T/Factorio-SAT"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 13:01:07",
+      "https://news.ycombinator.com/item?id=39344292"
+    ],
+    [
+      "The story of Signature Plastics",
+      "https://kbd.news/The-story-of-Signature-Plastics-2271.html"
     ]
   ]
 ]
