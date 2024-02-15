@@ -8,6 +8,7 @@
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
 * [2024-02-15, 02:22:07](https://news.ycombinator.com/item?id=39378386) - [Miguel de Icaza shadowbanned from X for posting about Gaza](https://twitter.com/migueldeicaza/status/1757761702550994961)
 * [2024-02-15, 02:14:15](https://news.ycombinator.com/item?id=39378342) - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
+* [2024-02-15, 02:09:45](https://news.ycombinator.com/item?id=39378305) - [The Brutal Reality of Plunging Office Values Is Here](https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices)
 * [2024-02-15, 02:02:54](https://news.ycombinator.com/item?id=39378259) - [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
 * [2024-02-15, 01:59:06](https://news.ycombinator.com/item?id=39378235) - [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
 * [2024-02-15, 01:05:41](https://news.ycombinator.com/item?id=39377860) - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
