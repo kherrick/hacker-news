@@ -9,6 +9,7 @@
 * [2024-02-15, 21:59:14](https://news.ycombinator.com/item?id=39389655) - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 21:45:53](https://news.ycombinator.com/item?id=39389448) - [Solar and Batteries Make Up 81% of New US Electric-Generating Capacity in 2024](https://cleantechnica.com/2024/02/15/solar-battery-storage-to-make-up-81-of-new-u-s-electric-generating-capacity-in-2024/)
 * [2024-02-15, 21:41:37](https://news.ycombinator.com/item?id=39389375) - [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
+* [2024-02-15, 21:36:07](https://news.ycombinator.com/item?id=39389294) - [NeoOffice for Mac has been sunset](https://github.com/neooffice)
 * [2024-02-15, 21:30:18](https://news.ycombinator.com/item?id=39389201) - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
 * [2024-02-15, 21:27:00](https://news.ycombinator.com/item?id=39389154) - [Coinbase swings to profit on interest income strength](https://www.nasdaq.com/articles/coinbase-swings-to-profit-on-interest-income-strength)
 * [2024-02-15, 20:43:06](https://news.ycombinator.com/item?id=39388505) - [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
