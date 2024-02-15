@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
+* [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:19:03](https://news.ycombinator.com/item?id=39382981) - [How I Got Scammed Out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
