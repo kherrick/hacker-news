@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 07:21:58](https://news.ycombinator.com/item?id=39379985) - [Power grab: the hidden costs of Ireland's datacentre boom](https://www.theguardian.com/world/2024/feb/15/power-grab-hidden-costs-of-ireland-datacentre-boom)
 * [2024-02-15, 07:00:54](https://news.ycombinator.com/item?id=39379882) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39379882)
 * [2024-02-15, 06:59:13](https://news.ycombinator.com/item?id=39379872) - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-15, 05:35:54](https://news.ycombinator.com/item?id=39379483) - [Free Nginx](https://freenginx.org/)
