@@ -14,6 +14,7 @@
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into a GPT assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 17:22:46](https://news.ycombinator.com/item?id=39385413) - [The US over-reliance on incarceration is lazy and cruel](https://obviatethestate.substack.com/p/the-us-over-reliance-on-incarceration)
 * [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds Want to Ban the Cutest Hacking Device. Experts Say It's a Scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
+* [2024-02-15, 17:10:15](https://news.ycombinator.com/item?id=39385228) - [Three Virtues of a Great Programmer](https://thethreevirtues.com/)
 * [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
 * [2024-02-15, 17:02:47](https://news.ycombinator.com/item?id=39385150) - [Bitcoin could support renewable energy development](https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
