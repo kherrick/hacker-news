@@ -6,6 +6,7 @@
 
 * [2024-02-15, 22:12:11](https://news.ycombinator.com/item?id=39389858) - [Show HN: Galactic Compass, an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
 * [2024-02-15, 21:45:53](https://news.ycombinator.com/item?id=39389448) - [Solar and Batteries Make Up 81% of New US Electric-Generating Capacity in 2024](https://cleantechnica.com/2024/02/15/solar-battery-storage-to-make-up-81-of-new-u-s-electric-generating-capacity-in-2024/)
+* [2024-02-15, 21:41:37](https://news.ycombinator.com/item?id=39389375) - [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
 * [2024-02-15, 21:27:00](https://news.ycombinator.com/item?id=39389154) - [Coinbase swings to profit on interest income strength](https://www.nasdaq.com/articles/coinbase-swings-to-profit-on-interest-income-strength)
 * [2024-02-15, 20:43:06](https://news.ycombinator.com/item?id=39388505) - [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
