@@ -2,12 +2,12 @@
 
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-15, 09:12:42](https://news.ycombinator.com/item?id=39380595) - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
+* [2024-02-15, 09:05:11](https://news.ycombinator.com/item?id=39380556) - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark \"GPT\" has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 * [2024-02-15, 07:00:54](https://news.ycombinator.com/item?id=39379882) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39379882)
 * [2024-02-15, 06:35:46](https://news.ycombinator.com/item?id=39379782) - [DockGuard: The easiest way to backup your Docker containers](https://github.com/daanschenkel/DockGuard)
 * [2024-02-15, 05:35:48](https://news.ycombinator.com/item?id=39379480) - [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
 * [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
-* [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction (2023)](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
 * [2024-02-15, 02:14:15](https://news.ycombinator.com/item?id=39378342) - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
