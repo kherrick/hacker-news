@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-15, 04:58:02",
+      "https://news.ycombinator.com/item?id=39379273"
+    ],
+    [
+      "Anonymous Block Forwarding in Ruby",
+      "https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 03:29:20",
       "https://news.ycombinator.com/item?id=39378773"
     ],
@@ -165,38 +175,18 @@
       "https://news.ycombinator.com/item?id=39373829"
     ],
     [
-      "Out of Control by Kevin Kelly (1994)",
+      "Out of Control (1994)",
       "https://kk.org/books/out-of-control"
     ]
   ],
   [
     [
-      "2024-02-14, 19:09:29",
-      "https://news.ycombinator.com/item?id=39373814"
+      "2024-02-14, 17:00:52",
+      "https://news.ycombinator.com/item?id=39372159"
     ],
     [
-      "BASE TTS: The largest text-to-speech model to-date",
-      "https://amazon-ltts-paper.com/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 19:08:24",
-      "https://news.ycombinator.com/item?id=39373800"
-    ],
-    [
-      "Show HN: FoldMation – Interactive origami learning and creation",
-      "https://foldmation.com"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 18:29:40",
-      "https://news.ycombinator.com/item?id=39373327"
-    ],
-    [
-      "Freenginx: Core Nginx developer announces fork",
-      "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html"
+      "Show HN: Reor – An AI note-taking app that runs models locally",
+      "https://github.com/reorproject/reor"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2024-02-14, 08:01:04",
-      "https://news.ycombinator.com/item?id=39367580"
-    ],
-    [
-      "Memory Profiling: Introduction",
-      "https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 04:38:29",
       "https://news.ycombinator.com/item?id=39366542"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-02-12, 20:12:05",
+      "https://news.ycombinator.com/item?id=39349793"
+    ],
+    [
+      "A custom Zigbee doorbell (2023)",
+      "https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/"
+    ]
+  ],
+  [
+    [
       "2024-02-12, 13:44:01",
       "https://news.ycombinator.com/item?id=39344643"
     ],
     [
       "Glowdust is a new kind of database management system",
       "https://codeberg.org/glowdust/glowdust"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 13:38:28",
+      "https://news.ycombinator.com/item?id=39344583"
+    ],
+    [
+      "When Every Ketchup but One Went Extinct",
+      "https://www.atlasobscura.com/articles/history-of-heinz-ketchup"
     ]
   ],
   [
