@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 04:21:45](https://news.ycombinator.com/item?id=39379073) - [The Netflix Logo with Yarn was a lie](https://kevinparry.tv/blog/i-lied-about-recreating-the-netflix-intro)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
@@ -19,7 +20,6 @@
 * [2024-02-14, 16:34:22](https://news.ycombinator.com/item?id=39371831) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
-* [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-end encryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-13, 10:48:10](https://news.ycombinator.com/item?id=39356467) - [Better Babblers](https://www.overcomingbias.com/p/better-babblershtml)
