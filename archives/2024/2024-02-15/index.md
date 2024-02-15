@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 11:24:56](https://news.ycombinator.com/item?id=39381435) - [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-15, 09:12:42](https://news.ycombinator.com/item?id=39380595) - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
 * [2024-02-15, 09:05:11](https://news.ycombinator.com/item?id=39380556) - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
