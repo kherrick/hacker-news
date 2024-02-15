@@ -18,6 +18,7 @@
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
 * [2024-02-15, 18:41:02](https://news.ycombinator.com/item?id=39386569) - [EU DMA requirements have killed iPhone progressive web apps](https://appleinsider.com/articles/24/02/15/apple-blames-new-law-for-why-progressive-web-apps-dont-work-right-in-the-eu)
 * [2024-02-15, 18:35:41](https://news.ycombinator.com/item?id=39386477) - [Ask HN: Are there any good reasons to use C++ over Rust for new projects today?](https://news.ycombinator.com/item?id=39386477)
+* [2024-02-15, 18:24:31](https://news.ycombinator.com/item?id=39386293) - [The Fine Art of Baloney Detection [pdf]](https://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * [2024-02-15, 18:20:37](https://news.ycombinator.com/item?id=39386244) - [Apple confirms iOS 17.4 removes Home Screen web apps in the EU](https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/)
 * [2024-02-15, 18:18:15](https://news.ycombinator.com/item?id=39386217) - [The reasons people are sending back their Apple Vision Pro headsets](https://www.techradar.com/computing/virtual-reality-augmented-reality/the-3-reasons-people-are-sending-back-their-apple-vision-pro-headsets)
 * [2024-02-15, 18:16:34](https://news.ycombinator.com/item?id=39386195) - [Code Chores: The boring part of maintaining](https://polar.sh/matmair/posts/code-chores-the-boring-part-of-maintenance)
