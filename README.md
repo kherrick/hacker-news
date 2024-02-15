@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 17:22:46](https://news.ycombinator.com/item?id=39385413) - [The US over-reliance on incarceration is lazy and cruel](https://obviatethestate.substack.com/p/the-us-over-reliance-on-incarceration)
 * [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds want to ban the Flipper Zero – Experts say it's a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 * [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
@@ -29,7 +30,6 @@
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
-* [2024-02-12, 12:11:00](https://news.ycombinator.com/item?id=39343948) - [Contents of Charles Darwin's entire personal library revealed for first time](https://www.theguardian.com/science/2024/feb/11/charles-darwin-entire-personal-library-revealed-first-time)
 
 ## [Archives](archives/index.md)
 
