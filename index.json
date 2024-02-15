@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-02-15, 17:05:55",
+      "https://news.ycombinator.com/item?id=39385172"
+    ],
+    [
+      "EU to make AI generated child abuse material criminal",
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 17:02:47",
+      "https://news.ycombinator.com/item?id=39385150"
+    ],
+    [
+      "Bitcoin could support renewable energy development",
+      "https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 17:00:21",
+      "https://news.ycombinator.com/item?id=39385121"
+    ],
+    [
+      "Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)",
+      "https://www.finleycms.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 16:58:28",
+      "https://news.ycombinator.com/item?id=39385092"
+    ],
+    [
+      "I'm eating raw chicken every day for 100 days – or until I'm hospitalized",
+      "https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 16:54:28",
+      "https://news.ycombinator.com/item?id=39385043"
+    ],
+    [
+      "Air Force OKs Autonomous Cargo Flights Across California After Successful Test",
+      "https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 16:29:39",
       "https://news.ycombinator.com/item?id=39384731"
     ],
@@ -47,6 +97,26 @@
     [
       "Our next-generation model: Gemini 1.5",
       "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 14:57:49",
+      "https://news.ycombinator.com/item?id=39383386"
+    ],
+    [
+      "Observable 2.0, a static site generator for data apps",
+      "https://observablehq.com/blog/observable-2-0"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 14:44:18",
+      "https://news.ycombinator.com/item?id=39383246"
+    ],
+    [
+      "Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate",
+      "https://www.justship.today/"
     ]
   ],
   [
@@ -101,26 +171,6 @@
   ],
   [
     [
-      "2024-02-15, 12:41:53",
-      "https://news.ycombinator.com/item?id=39381977"
-    ],
-    [
-      "Google is making a map of methane leaks for the whole world to see",
-      "https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 12:01:16",
-      "https://news.ycombinator.com/item?id=39381673"
-    ],
-    [
-      "Fella Health (YC W20) Is Hiring",
-      "https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 11:17:22",
       "https://news.ycombinator.com/item?id=39381390"
     ],
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2024-02-15, 00:22:10",
-      "https://news.ycombinator.com/item?id=39377508"
-    ],
-    [
-      "Show HN: Gitlab Meeting Simulator 2024",
-      "https://benjamin-brady.github.io/gitlab-simulator/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 23:28:34",
-      "https://news.ycombinator.com/item?id=39377055"
-    ],
-    [
-      "Machine Assisted Proof [video]",
-      "https://www.youtube.com/watch?v=AayZuuDDKP0"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 19:26:18",
       "https://news.ycombinator.com/item?id=39374020"
     ],
     [
       "Inside the proton, the ‘most complicated thing you could possibly imagine’",
       "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 16:31:57",
-      "https://news.ycombinator.com/item?id=39371805"
-    ],
-    [
-      "YC: Requests for Startups",
-      "https://www.ycombinator.com/rfs"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Friction is Good: Let's add it to our digital experiences",
       "https://www.theregister.com/2024/02/14/friction_is_good/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 04:38:29",
-      "https://news.ycombinator.com/item?id=39366542"
-    ],
-    [
-      "Bob Moore, who founded Bob's Red Mill, has died",
-      "https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Contents of Charles Darwin's entire personal library revealed for first time",
       "https://www.theguardian.com/science/2024/feb/11/charles-darwin-entire-personal-library-revealed-first-time"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 11:48:51",
-      "https://news.ycombinator.com/item?id=39343831"
-    ],
-    [
-      "Systemd by Example (2021)",
-      "https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/"
     ]
   ]
 ]
