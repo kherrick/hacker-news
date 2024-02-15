@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
+* [2024-02-15, 18:09:11](https://news.ycombinator.com/item?id=39386092) - [Senate Poised to Pass Kids Online Safety Act KOSA](https://www.washingtonpost.com/technology/2024/02/15/kids-online-safety-act-kosa-senate/)
+* [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into a GPT assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 17:22:46](https://news.ycombinator.com/item?id=39385413) - [The US over-reliance on incarceration is lazy and cruel](https://obviatethestate.substack.com/p/the-us-over-reliance-on-incarceration)
 * [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds Want to Ban the Cutest Hacking Device. Experts Say It's a Scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 * [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
@@ -18,6 +21,7 @@
 * [2024-02-15, 15:22:36](https://news.ycombinator.com/item?id=39383739) - [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
 * [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
 * [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
+* [2024-02-15, 15:03:39](https://news.ycombinator.com/item?id=39383466) - [Freenginx.org – open-source Nginx fork](https://freenginx.org/pipermail/nginx/2024-February/000000.html)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
