@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-15, 01:59:06",
+      "https://news.ycombinator.com/item?id=39378235"
+    ],
+    [
+      "Air Canada liable for misleading information provided by service chatbot",
+      "https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 01:05:41",
       "https://news.ycombinator.com/item?id=39377860"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-02-14, 19:03:55",
-      "https://news.ycombinator.com/item?id=39373744"
-    ],
-    [
-      "Show HN: Natural Language to SQL \"Text-to-SQL\" API",
-      "https://www.dataherald.com/news/introducing-dhai"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 18:53:17",
       "https://news.ycombinator.com/item?id=39373612"
     ],
@@ -197,16 +197,6 @@
     [
       "Conformant OpenGL 4.6 on the M1",
       "https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 15:52:03",
-      "https://news.ycombinator.com/item?id=39371297"
-    ],
-    [
-      "Show HN: You don't need to adopt new tools for LLM observability",
-      "https://github.com/traceloop/openllmetry-js"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The story of Signature Plastics",
       "https://kbd.news/The-story-of-Signature-Plastics-2271.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-12, 11:48:51",
+      "https://news.ycombinator.com/item?id=39343831"
+    ],
+    [
+      "systemd by Example (2021)",
+      "https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/"
     ]
   ]
 ]
