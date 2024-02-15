@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-02-15, 19:50:27",
+      "https://news.ycombinator.com/item?id=39387641"
+    ],
+    [
+      "uv: Python Packaging in Rust",
+      "https://astral.sh/blog/uv"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 19:45:55",
+      "https://news.ycombinator.com/item?id=39387578"
+    ],
+    [
+      "Sam Altman owns OpenAI's venture capital fund",
+      "https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 19:36:55",
+      "https://news.ycombinator.com/item?id=39387447"
+    ],
+    [
+      "Hello world: meet قلب (Qalb) a programming language based on Arabic script",
+      "https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 19:32:15",
+      "https://news.ycombinator.com/item?id=39387387"
+    ],
+    [
+      "Plastics producers deceived public about recycling, report reveals",
+      "https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 19:28:13",
       "https://news.ycombinator.com/item?id=39387304"
     ],
@@ -27,6 +67,26 @@
     [
       "Safe and reliable production changes; and how Rivian recently got this wrong",
       "https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 18:41:12",
+      "https://news.ycombinator.com/item?id=39386572"
+    ],
+    [
+      "Show HN: SlideCross – a combination of a crossword and Rubik's Cube",
+      "https://slidecross.io"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 18:35:41",
+      "https://news.ycombinator.com/item?id=39386477"
+    ],
+    [
+      "Ask HN: Are there any good reasons to use C++ over Rust for new projects today?",
+      "https://news.ycombinator.com/item?id=39386477"
     ]
   ],
   [
@@ -121,16 +181,6 @@
   ],
   [
     [
-      "2024-02-15, 16:54:28",
-      "https://news.ycombinator.com/item?id=39385043"
-    ],
-    [
-      "Air Force OKs autonomous cargo flights across California after successful test",
-      "https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 16:29:39",
       "https://news.ycombinator.com/item?id=39384731"
     ],
@@ -191,26 +241,6 @@
   ],
   [
     [
-      "2024-02-15, 14:03:44",
-      "https://news.ycombinator.com/item?id=39382803"
-    ],
-    [
-      "Show HN: Dstack – an open-source engine for running GPU workloads",
-      "https://dstack.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 13:14:06",
-      "https://news.ycombinator.com/item?id=39382264"
-    ],
-    [
-      "How deceptive design is used to compromise your privacy and how to fight back",
-      "https://consciousdigital.org/deceptive-design-patterns/"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 13:09:51",
       "https://news.ycombinator.com/item?id=39382227"
     ],
@@ -241,32 +271,12 @@
   ],
   [
     [
-      "2024-02-15, 05:35:48",
-      "https://news.ycombinator.com/item?id=39379480"
-    ],
-    [
-      "Reverse engineering a forgotten 1970s Intel dual core beast: 8271 (2020)",
-      "https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 23:28:27",
       "https://news.ycombinator.com/item?id=39377052"
     ],
     [
       "Stable pseudonyms create a more civil environment than real names: study (2021)",
       "https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 15:37:24",
-      "https://news.ycombinator.com/item?id=39371064"
-    ],
-    [
-      "Show HN: Frontend Fuzzy Search",
-      "https://github.com/m31coding/fuzzy-search"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Baird's beaked whales found in shallower waters than previously observed",
       "https://phys.org/news/2024-02-behavior-mammals-world.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 13:27:55",
-      "https://news.ycombinator.com/item?id=39344493"
-    ],
-    [
-      "WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction",
-      "https://www.x86matthew.com/view_post?id=mips_1"
     ]
   ]
 ]
