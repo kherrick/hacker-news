@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
-* [2024-02-15, 02:22:07](https://news.ycombinator.com/item?id=39378386) - [Miguel de Icaza shadowbanned from X for posting about Gaza](https://twitter.com/migueldeicaza/status/1757761702550994961)
 * [2024-02-15, 02:14:15](https://news.ycombinator.com/item?id=39378342) - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
 * [2024-02-15, 01:59:06](https://news.ycombinator.com/item?id=39378235) - [Air Canada is responsible for chatbot's mistake: B.C. tribunal](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
 * [2024-02-15, 01:05:41](https://news.ycombinator.com/item?id=39377860) - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
