@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-15, 17:22:46](https://news.ycombinator.com/item?id=39385413) - [The US over-reliance on incarceration is lazy and cruel](https://obviatethestate.substack.com/p/the-us-over-reliance-on-incarceration)
 * [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds want to ban the Flipper Zero – Experts say it's a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
-* [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
 * [2024-02-15, 16:54:28](https://news.ycombinator.com/item?id=39385043) - [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
@@ -13,6 +11,7 @@
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
+* [2024-02-15, 13:48:38](https://news.ycombinator.com/item?id=39382625) - [Boeing Disaster Proves Americans Businesses Greedy Mentality Is Broken](https://www.businessinsider.com/boeing-disaster-american-businesses-greedy-broken-stock-market-wall-street-2024-2)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 * [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
@@ -30,6 +29,7 @@
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
+* [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [Systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
 ## [Archives](archives/index.md)
 

@@ -23,6 +23,7 @@
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
 * [2024-02-15, 14:19:03](https://news.ycombinator.com/item?id=39382981) - [How I Got Scammed Out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
+* [2024-02-15, 13:48:38](https://news.ycombinator.com/item?id=39382625) - [Boeing Disaster Proves Americans Businesses Greedy Mentality Is Broken](https://www.businessinsider.com/boeing-disaster-american-businesses-greedy-broken-stock-market-wall-street-2024-2)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
