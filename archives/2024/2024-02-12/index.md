@@ -70,6 +70,7 @@
 * [2024-02-12, 13:57:04](https://news.ycombinator.com/item?id=39344770) - ['I have not seen one cent': billions stolen in wage theft from US workers](https://www.theguardian.com/us-news/2023/jun/15/wage-theft-us-workers-employees)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:38:28](https://news.ycombinator.com/item?id=39344583) - [When Every Ketchup but One Went Extinct](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
+* [2024-02-12, 13:36:52](https://news.ycombinator.com/item?id=39344568) - [Baird's beaked whales found in shallower waters than previously observed](https://phys.org/news/2024-02-behavior-mammals-world.html)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-12, 13:26:15](https://news.ycombinator.com/item?id=39344478) - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)

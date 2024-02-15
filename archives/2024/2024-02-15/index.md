@@ -6,6 +6,8 @@
 
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 18:09:11](https://news.ycombinator.com/item?id=39386092) - [Senate Poised to Pass Kids Online Safety Act KOSA](https://www.washingtonpost.com/technology/2024/02/15/kids-online-safety-act-kosa-senate/)
+* [2024-02-15, 17:48:51](https://news.ycombinator.com/item?id=39385809) - [University of Michigan selling student speech and papers as LLM training data](https://llm-academic-speech-data.catalystresearch.io/)
+* [2024-02-15, 17:45:07](https://news.ycombinator.com/item?id=39385739) - [Unreal Engine 5 ported to WebGPU](https://twitter.com/spatialweeb/status/1757581115609817236)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into a GPT assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 17:22:46](https://news.ycombinator.com/item?id=39385413) - [The US over-reliance on incarceration is lazy and cruel](https://obviatethestate.substack.com/p/the-us-over-reliance-on-incarceration)
 * [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds Want to Ban the Cutest Hacking Device. Experts Say It's a Scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)

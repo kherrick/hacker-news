@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Terence Tao, \"Machine Assisted Proof\" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
+* [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
 * [2024-02-14, 23:04:56](https://news.ycombinator.com/item?id=39376845) - [Valve Prism](https://www.valveprism.com/)
 * [2024-02-14, 22:46:08](https://news.ycombinator.com/item?id=39376634) - [Researchers have developed a beef-rice hybrid](https://www.scimex.org/newsfeed/youve-heard-of-lab-grown-meat-are-you-ready-for-rice-grown-beef)
 * [2024-02-14, 21:53:39](https://news.ycombinator.com/item?id=39376059) - [Internal tools often make bad startup ideas](https://philosophicalhacker.substack.com/p/internal-tools-often-make-bad-startup)
