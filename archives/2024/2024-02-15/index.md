@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 02:02:54](https://news.ycombinator.com/item?id=39378259) - [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
 * [2024-02-15, 01:59:06](https://news.ycombinator.com/item?id=39378235) - [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
 * [2024-02-15, 01:05:41](https://news.ycombinator.com/item?id=39377860) - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
 * [2024-02-15, 01:01:58](https://news.ycombinator.com/item?id=39377824) - [SpaceX files to move incorporation site from Delaware to Texas](https://www.cnbc.com/2024/02/14/spacex-files-to-move-incorporation-site-from-delaware-to-texas.html)
