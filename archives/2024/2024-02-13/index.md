@@ -75,6 +75,7 @@
 * [2024-02-13, 09:35:13](https://news.ycombinator.com/item?id=39356042) - [So You Think You Know Git – Git Tips and Tricks by Scott Chacon](https://blog.gitbutler.com/git-tips-and-tricks/)
 * [2024-02-13, 09:28:02](https://news.ycombinator.com/item?id=39356007) - [Calliope MINI – The Small Computer for Big Ideas](https://calliope.cc/en)
 * [2024-02-13, 09:25:46](https://news.ycombinator.com/item?id=39355998) - [Show HN: Kubetail – Web-based real-time log viewer for Kubernetes](https://github.com/kubetail-org/kubetail)
+* [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-13, 09:00:52](https://news.ycombinator.com/item?id=39355869) - [Rampant DMCA use of Tumblr site for filing false copyright claims with Google](https://www.weeklyblitz.net/featured/rampant-use-of-tumblr-site-for-filing-false-copyright-claims-with-google-under-dmca/)
 * [2024-02-13, 08:47:02](https://news.ycombinator.com/item?id=39355804) - [StreamingLLM: tiny tweak to KV LRU improves long conversations](https://news.mit.edu/2024/new-way-let-ai-chatbots-converse-all-day-without-crashing-0213)
 * [2024-02-13, 08:35:01](https://news.ycombinator.com/item?id=39355744) - [Nokia Made Too Many Phones](https://textquery.app/2024/02/06/nokia-made-too-many-phones/)
