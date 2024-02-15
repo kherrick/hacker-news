@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
 * [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:19:03](https://news.ycombinator.com/item?id=39382981) - [How I got scammed out of $50k](https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html)
@@ -21,7 +22,6 @@
 * [2024-02-15, 00:22:10](https://news.ycombinator.com/item?id=39377508) - [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Machine Assisted Proof [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
 * [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
-* [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
 * [2024-02-14, 15:37:24](https://news.ycombinator.com/item?id=39371064) - [Show HN: Frontend Fuzzy Search](https://github.com/m31coding/fuzzy-search)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-14, 04:19:12](https://news.ycombinator.com/item?id=39366435) - [Portal (2021)](http://macintoshgarden.org/games/portal)
