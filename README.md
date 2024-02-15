@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
+* [2024-02-15, 02:14:15](https://news.ycombinator.com/item?id=39378342) - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
 * [2024-02-15, 02:02:54](https://news.ycombinator.com/item?id=39378259) - [Why Americans Suddenly Stopped Hanging Out](https://www.theatlantic.com/ideas/archive/2024/02/america-decline-hanging-out/677451/)
-* [2024-02-15, 01:59:06](https://news.ycombinator.com/item?id=39378235) - [Air Canada liable for misleading information provided by service chatbot](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
+* [2024-02-15, 01:59:06](https://news.ycombinator.com/item?id=39378235) - [Air Canada is responsible for chatbot's mistake: B.C. tribunal](https://bc.ctvnews.ca/air-canada-s-chatbot-gave-a-b-c-man-the-wrong-information-now-the-airline-has-to-pay-for-the-mistake-1.6769454)
 * [2024-02-15, 01:05:41](https://news.ycombinator.com/item?id=39377860) - [gpulist – Craigslist for GPUs](https://gpulist.ai/)
 * [2024-02-15, 00:22:10](https://news.ycombinator.com/item?id=39377508) - [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Machine Assisted Proof [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
@@ -22,7 +23,6 @@
 * [2024-02-14, 15:52:03](https://news.ycombinator.com/item?id=39371297) - [Show HN: You don't need to adopt new tools for LLM observability](https://github.com/traceloop/openllmetry-js)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-end encryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
-* [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade inflation at UC Riverside, and institutional pressures for easier grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
