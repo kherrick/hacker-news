@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-02-14, 21:09:25",
-      "https://news.ycombinator.com/item?id=39375410"
-    ],
-    [
-      "I Went to FOSDEM",
-      "https://leejo.github.io/2024/02/14/fosdem/"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 19:26:18",
       "https://news.ycombinator.com/item?id=39374020"
     ],
@@ -197,6 +187,16 @@
     [
       "Conformant OpenGL 4.6 on the M1",
       "https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 15:52:03",
+      "https://news.ycombinator.com/item?id=39371297"
+    ],
+    [
+      "Show HN: You don't need to adopt new tools for LLM observability",
+      "https://github.com/traceloop/openllmetry-js"
     ]
   ],
   [
