@@ -28,7 +28,7 @@
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-12, 20:12:05](https://news.ycombinator.com/item?id=39349793) - [A custom Zigbee doorbell (2023)](https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
-* [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
+* [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [Systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
 ## [Archives](archives/index.md)
