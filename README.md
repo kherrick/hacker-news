@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark \"GPT\" has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 * [2024-02-15, 07:00:54](https://news.ycombinator.com/item?id=39379882) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39379882)
 * [2024-02-15, 06:59:13](https://news.ycombinator.com/item?id=39379872) - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-15, 05:35:48](https://news.ycombinator.com/item?id=39379480) - [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
 * [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
 * [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
-* [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction (2023)](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
 * [2024-02-15, 02:14:15](https://news.ycombinator.com/item?id=39378342) - [What you've got is in fact a people problem](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html)
 * [2024-02-15, 02:09:45](https://news.ycombinator.com/item?id=39378305) - [Commercial property deals in the US are starting to pick up at deep discounts](https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices)
