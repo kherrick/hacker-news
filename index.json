@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-15, 09:45:32",
+      "https://news.ycombinator.com/item?id=39380790"
+    ],
+    [
+      "Goodbye Auth0",
+      "https://www.joshcanhelp.com/goodbye-auth0/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 09:12:42",
+      "https://news.ycombinator.com/item?id=39380595"
+    ],
+    [
+      "Why the EU needs more integrated electricity markets",
+      "https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 07:52:48",
       "https://news.ycombinator.com/item?id=39380165"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-02-15, 06:59:13",
-      "https://news.ycombinator.com/item?id=39379872"
+      "2024-02-15, 06:35:46",
+      "https://news.ycombinator.com/item?id=39379782"
     ],
     [
-      "Greybeard's tomb: the lost treasure of language design (2019)",
-      "https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml"
+      "DockGuard: The easiest way to backup your Docker containers",
+      "https://github.com/daanschenkel/DockGuard"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Show HN: Aldi Price Map",
       "https://www.aldipricemap.com/navel_oranges.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 04:58:02",
-      "https://news.ycombinator.com/item?id=39379273"
-    ],
-    [
-      "Anonymous Block Forwarding in Ruby",
-      "https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Freenginx: Core Nginx developer announces fork",
       "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 17:00:52",
-      "https://news.ycombinator.com/item?id=39372159"
-    ],
-    [
-      "Show HN: Reor – An AI note-taking app that runs models locally",
-      "https://github.com/reorproject/reor"
     ]
   ],
   [
