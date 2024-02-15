@@ -13,7 +13,6 @@
 * [2024-02-14, 19:10:37](https://news.ycombinator.com/item?id=39373829) - [Out of Control by Kevin Kelly (1994)](https://kk.org/books/out-of-control)
 * [2024-02-14, 19:09:29](https://news.ycombinator.com/item?id=39373814) - [BASE TTS: The largest text-to-speech model to-date](https://amazon-ltts-paper.com/)
 * [2024-02-14, 19:08:24](https://news.ycombinator.com/item?id=39373800) - [Show HN: FoldMation – Interactive origami learning and creation](https://foldmation.com)
-* [2024-02-14, 19:03:55](https://news.ycombinator.com/item?id=39373744) - [Show HN: Natural Language to SQL \"Text-to-SQL\" API](https://www.dataherald.com/news/introducing-dhai)
 * [2024-02-14, 18:53:17](https://news.ycombinator.com/item?id=39373612) - [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
 * [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Freenginx: Core Nginx developer announces fork](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 17:18:56](https://news.ycombinator.com/item?id=39372384) - [Just one bad packet can bring down a vulnerable DNS server thanks to DNSSEC](https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/)
@@ -28,6 +27,7 @@
 * [2024-02-13, 10:17:32](https://news.ycombinator.com/item?id=39356259) - [The Last Linotype Newspaper (2022)](https://www.koaa.com/news/news5-originals/the-last-linotype-newspaper-operating-the-saguache-crescent)
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-13, 07:44:24](https://news.ycombinator.com/item?id=39355498) - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
+* [2024-02-12, 20:12:05](https://news.ycombinator.com/item?id=39349793) - [A custom Zigbee doorbell (2023)](https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/)
 * [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
 * [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
