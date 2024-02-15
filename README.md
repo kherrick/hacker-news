@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
-* [2024-02-15, 15:48:31](https://news.ycombinator.com/item?id=39384137) - [Ask HN: Why is OpenAI and ChatGPT design so bad?](https://news.ycombinator.com/item?id=39384137)
 * [2024-02-15, 15:26:37](https://news.ycombinator.com/item?id=39383798) - [Asahi Linux project's OpenGL support on Apple Silicon officially surpasses Apple](https://arstechnica.com/gadgets/2024/02/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples/)
 * [2024-02-15, 15:22:36](https://news.ycombinator.com/item?id=39383739) - [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
 * [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
@@ -11,6 +10,7 @@
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 * [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-15, 12:54:17](https://news.ycombinator.com/item?id=39382092) - [A quantitative test of Diamond’s axis of orientation hypothesis](https://phys.org/news/2024-02-eurasia-dominant-east-west-axis.html)
+* [2024-02-15, 12:41:53](https://news.ycombinator.com/item?id=39381977) - [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
 * [2024-02-15, 11:17:22](https://news.ycombinator.com/item?id=39381390) - [British intelligence able to read and flag private Snapchat messages](https://www.reuters.com/world/europe/spanish-judge-clears-british-teen-menorca-flight-bomb-hoax-charges-2024-01-25/)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark “GPT” has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
