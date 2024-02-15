@@ -9,9 +9,8 @@
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 19:50:24](https://news.ycombinator.com/item?id=39387640) - [Two Ethereum DeFi traders just made $120M using a strategy called 'looping'](https://www.dlnews.com/articles/defi/two-ethereum-defi-traders-made-120-million-million-looping/)
-* [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic (2013)](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
+* [2024-02-15, 19:28:13](https://news.ycombinator.com/item?id=39387304) - [PWAs wont replace native iOS apps](https://app.campsite.co/campsite/p/notes/rengvq2txami)
 * [2024-02-15, 19:20:41](https://news.ycombinator.com/item?id=39387191) - [Renesas Buys Altium](https://www.renesas.com/us/en/about/press-room/renesas-acquire-pcb-design-software-leader-altium-make-electronics-design-accessible-broader-market)
-* [2024-02-15, 18:43:48](https://news.ycombinator.com/item?id=39386611) - [Safe and reliable production changes, and how Rivian recently got this wrong](https://blog.substrate.tools/safe-and-reliable-production-changes-for-fast-moving-teams-and-how-rivian-recently-got-this-wrong/)
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
 * [2024-02-15, 18:24:31](https://news.ycombinator.com/item?id=39386293) - [The Fine Art of Baloney Detection (1995) [pdf]](https://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
@@ -30,6 +29,7 @@
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-12, 13:38:28](https://news.ycombinator.com/item?id=39344583) - [When every ketchup but one went extinct (2022)](https://www.atlasobscura.com/articles/history-of-heinz-ketchup)
+* [2024-02-12, 12:04:19](https://news.ycombinator.com/item?id=39343912) - [Nextdoor's Heisensubscribe (and Other Dark Patterns)](https://taylor.town/nextdoor)
 
 ## [Archives](archives/index.md)
 

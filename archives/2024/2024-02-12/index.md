@@ -79,6 +79,7 @@
 * [2024-02-12, 12:11:00](https://news.ycombinator.com/item?id=39343948) - [Contents of Charles Darwin's entire personal library revealed for first time](https://www.theguardian.com/science/2024/feb/11/charles-darwin-entire-personal-library-revealed-first-time)
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
+* [2024-02-12, 12:04:19](https://news.ycombinator.com/item?id=39343912) - [Nextdoor's Heisensubscribe (and Other Dark Patterns)](https://taylor.town/nextdoor)
 * [2024-02-12, 12:00:46](https://news.ycombinator.com/item?id=39343895) - [My Visit to Deep Springs College (2009)](https://www.harrisonbarnes.com/do-not-trust-appearances-my-visit-to-deep-springs-college/)
 * [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 * [2024-02-12, 11:40:20](https://news.ycombinator.com/item?id=39343777) - [Measuring Stack Usage the Hard Way](https://interrupt.memfault.com/blog/measuring-stack-usage)
