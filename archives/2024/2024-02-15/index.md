@@ -6,6 +6,7 @@
 
 * [2024-02-15, 22:20:00](https://news.ycombinator.com/item?id=39389969) - [Greece legalizes same-sex marriage in a first for an Orthodox Christian nation](https://www.nbcnews.com/nbc-out/out-news/greece-same-sex-marriage-legal-orthodox-christian-country-rcna138968)
 * [2024-02-15, 22:12:11](https://news.ycombinator.com/item?id=39389858) - [Show HN: Galactic Compass, an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
+* [2024-02-15, 21:59:14](https://news.ycombinator.com/item?id=39389655) - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 21:45:53](https://news.ycombinator.com/item?id=39389448) - [Solar and Batteries Make Up 81% of New US Electric-Generating Capacity in 2024](https://cleantechnica.com/2024/02/15/solar-battery-storage-to-make-up-81-of-new-u-s-electric-generating-capacity-in-2024/)
 * [2024-02-15, 21:41:37](https://news.ycombinator.com/item?id=39389375) - [Breaking BFT: Quantifying the Cost to Attack Bitcoin and Ethereum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4727999)
 * [2024-02-15, 21:30:18](https://news.ycombinator.com/item?id=39389201) - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
@@ -16,6 +17,7 @@
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:52:57](https://news.ycombinator.com/item?id=39387692) - [Drug offers 'wonderful' breakthrough in treatment of asbestos-linked cancer](https://www.theguardian.com/science/2024/feb/15/drug-offers-wonderful-breakthrough-in-treatment-of-asbestos-linked-cancer)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
+* [2024-02-15, 19:50:24](https://news.ycombinator.com/item?id=39387640) - [Two Ethereum DeFi traders just made $120M using a strategy called 'looping'](https://www.dlnews.com/articles/defi/two-ethereum-defi-traders-made-120-million-million-looping/)
 * [2024-02-15, 19:45:55](https://news.ycombinator.com/item?id=39387578) - [Sam Altman owns OpenAI's venture capital fund](https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund)
 * [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic script](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
 * [2024-02-15, 19:32:15](https://news.ycombinator.com/item?id=39387387) - [Plastics producers deceived public about recycling, report reveals](https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report)
@@ -46,6 +48,7 @@
 * [2024-02-15, 16:58:28](https://news.ycombinator.com/item?id=39385092) - [I'm eating raw chicken every day for 100 days – or until I'm hospitalized](https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/)
 * [2024-02-15, 16:54:28](https://news.ycombinator.com/item?id=39385043) - [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+* [2024-02-15, 16:12:01](https://news.ycombinator.com/item?id=39384458) - [The existence of a new kind of magnetism has been confirmed](https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/)
 * [2024-02-15, 15:50:22](https://news.ycombinator.com/item?id=39384158) - [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
 * [2024-02-15, 15:48:31](https://news.ycombinator.com/item?id=39384137) - [Ask HN: Why is OpenAI and ChatGPT design so bad?](https://news.ycombinator.com/item?id=39384137)
 * [2024-02-15, 15:26:37](https://news.ycombinator.com/item?id=39383798) - [Asahi Linux project's OpenGL support on Apple Silicon officially surpasses Apple](https://arstechnica.com/gadgets/2024/02/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples/)
