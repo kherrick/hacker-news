@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 04:21:45](https://news.ycombinator.com/item?id=39379073) - [The Netflix Logo with Yarn was a lie](https://kevinparry.tv/blog/i-lied-about-recreating-the-netflix-intro)
+* [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
 * [2024-02-15, 02:22:07](https://news.ycombinator.com/item?id=39378386) - [Miguel de Icaza shadowbanned from X for posting about Gaza](https://twitter.com/migueldeicaza/status/1757761702550994961)
