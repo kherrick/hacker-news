@@ -2,7 +2,6 @@
 
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-15, 09:12:42](https://news.ycombinator.com/item?id=39380595) - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
-* [2024-02-15, 09:05:11](https://news.ycombinator.com/item?id=39380556) - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark \"GPT\" has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 * [2024-02-15, 07:00:54](https://news.ycombinator.com/item?id=39379882) - [PhotoRoom (YC S20) Is Hiring an API Designer in Paris (Node, Rust)](https://news.ycombinator.com/item?id=39379882)
 * [2024-02-15, 06:35:46](https://news.ycombinator.com/item?id=39379782) - [DockGuard: The easiest way to backup your Docker containers](https://github.com/daanschenkel/DockGuard)
@@ -23,6 +22,7 @@
 * [2024-02-14, 16:18:44](https://news.ycombinator.com/item?id=39371669) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:37:24](https://news.ycombinator.com/item?id=39371064) - [Show HN: Frontend Fuzzy Search](https://github.com/m31coding/fuzzy-search)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
+* [2024-02-14, 04:19:12](https://news.ycombinator.com/item?id=39366435) - [Portal](http://macintoshgarden.org/games/portal)
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-12, 20:12:05](https://news.ycombinator.com/item?id=39349793) - [A custom Zigbee doorbell (2023)](https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
