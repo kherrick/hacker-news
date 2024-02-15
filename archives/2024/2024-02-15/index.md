@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+* [2024-02-15, 19:52:57](https://news.ycombinator.com/item?id=39387692) - [Drug offers 'wonderful' breakthrough in treatment of asbestos-linked cancer](https://www.theguardian.com/science/2024/feb/15/drug-offers-wonderful-breakthrough-in-treatment-of-asbestos-linked-cancer)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 19:45:55](https://news.ycombinator.com/item?id=39387578) - [Sam Altman owns OpenAI's venture capital fund](https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund)
 * [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic script](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)

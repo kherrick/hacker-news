@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
+* [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+* [2024-02-15, 19:52:57](https://news.ycombinator.com/item?id=39387692) - [Drug offers 'wonderful' breakthrough in treatment of asbestos-linked cancer](https://www.theguardian.com/science/2024/feb/15/drug-offers-wonderful-breakthrough-in-treatment-of-asbestos-linked-cancer)
+* [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 19:45:55](https://news.ycombinator.com/item?id=39387578) - [Sam Altman owns OpenAI's venture capital fund](https://www.axios.com/2024/02/15/sam-altman-openai-startup-fund)
 * [2024-02-15, 19:36:55](https://news.ycombinator.com/item?id=39387447) - [Hello world: meet قلب (Qalb) a programming language based on Arabic script](https://www.theverge.com/2013/1/25/3914150/alb-programming-language-based-on-arabic-script)
 * [2024-02-15, 19:32:15](https://news.ycombinator.com/item?id=39387387) - [Plastics producers deceived public about recycling, report reveals](https://www.theguardian.com/us-news/2024/feb/15/recycling-plastics-producers-report)
@@ -15,7 +17,6 @@
 * [2024-02-15, 17:48:51](https://news.ycombinator.com/item?id=39385809) - [License University of Michigan's Databases of Academic Speech and Student Papers](https://llm-academic-speech-data.catalystresearch.io/)
 * [2024-02-15, 17:45:07](https://news.ycombinator.com/item?id=39385739) - [Unreal Engine 5 ported to WebGPU](https://twitter.com/spatialweeb/status/1757581115609817236)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
-* [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds want to ban the Flipper Zero – Experts say it's a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 * [2024-02-15, 17:10:15](https://news.ycombinator.com/item?id=39385228) - [Three Virtues of a Great Programmer](https://thethreevirtues.com/)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
@@ -26,9 +27,8 @@
 * [2024-02-15, 14:44:18](https://news.ycombinator.com/item?id=39383246) - [Show HN: Just Ship, a free and open source SvelteKit SaaS boilerplate](https://www.justship.today/)
 * [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
-* [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark “GPT” has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
 * [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
-* [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
+* [2024-02-14, 05:05:31](https://news.ycombinator.com/item?id=39366715) - [Artobiography: Two critics locate themselves in Netherlandish painting](https://www.the-tls.co.uk/articles/thunderclap-laura-cumming-book-review-hettie-judah/)
 * [2024-02-12, 13:36:52](https://news.ycombinator.com/item?id=39344568) - [Baird's beaked whales found in shallower waters than previously observed](https://phys.org/news/2024-02-behavior-mammals-world.html)
 
 ## [Archives](archives/index.md)
