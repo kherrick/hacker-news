@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 12:24:47](https://news.ycombinator.com/item?id=39381835) - [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
 * [2024-02-15, 12:10:12](https://news.ycombinator.com/item?id=39381740) - [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
 * [2024-02-15, 11:59:08](https://news.ycombinator.com/item?id=39381662) - [Ask HN: Does anyone feel anxious about the Sun's death or is it just me?](https://news.ycombinator.com/item?id=39381662)
