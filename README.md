@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds Want to Ban the Cutest Hacking Device. Experts Say It's a Scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
+* [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds want to ban the Flipper Zero – Experts say it's a scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 * [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
 * [2024-02-15, 16:54:28](https://news.ycombinator.com/item?id=39385043) - [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
