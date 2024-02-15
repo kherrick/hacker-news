@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 17:15:08](https://news.ycombinator.com/item?id=39385301) - [Feds Want to Ban the Cutest Hacking Device. Experts Say It's a Scapegoat](https://www.vice.com/en/article/4a388g/flipper-zero-ban-canada-hacking-car-thefts)
 * [2024-02-15, 17:05:55](https://news.ycombinator.com/item?id=39385172) - [EU to make AI generated child abuse material criminal](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_631)
-* [2024-02-15, 17:02:47](https://news.ycombinator.com/item?id=39385150) - [Bitcoin could support renewable energy development](https://news.cornell.edu/stories/2023/11/bitcoin-could-support-renewable-energy-development)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) Is a Fintech Hiring Software Engineers (US Remote)](https://www.finleycms.com/careers/)
-* [2024-02-15, 16:58:28](https://news.ycombinator.com/item?id=39385092) - [I'm eating raw chicken every day for 100 days – or until I'm hospitalized](https://nypost.com/2024/02/13/lifestyle/florida-man-eating-raw-chicken-every-day-for-100-days/)
 * [2024-02-15, 16:54:28](https://news.ycombinator.com/item?id=39385043) - [Air Force OKs Autonomous Cargo Flights Across California After Successful Test](https://timesofsandiego.com/military/2024/02/14/air-force-oks-autonomous-cargo-flights-across-california-after-successful-test/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 * [2024-02-15, 15:26:37](https://news.ycombinator.com/item?id=39383798) - [Asahi Linux project's OpenGL support on Apple Silicon officially surpasses Apple](https://arstechnica.com/gadgets/2024/02/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples/)
@@ -26,6 +25,7 @@
 * [2024-02-14, 15:37:24](https://news.ycombinator.com/item?id=39371064) - [Show HN: Frontend Fuzzy Search](https://github.com/m31coding/fuzzy-search)
 * [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 04:19:12](https://news.ycombinator.com/item?id=39366435) - [Portal (2021)](http://macintoshgarden.org/games/portal)
+* [2024-02-13, 09:27:55](https://news.ycombinator.com/item?id=39356005) - [Montaigne Documentation](https://docs.montaigne.io)
 * [2024-02-13, 09:15:23](https://news.ycombinator.com/item?id=39355944) - [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of database management system](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
