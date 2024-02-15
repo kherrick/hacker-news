@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-15, 05:35:54](https://news.ycombinator.com/item?id=39379483) - [Free Nginx](https://freenginx.org/)
-* [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi's Price Map](https://www.aldipricemap.com/navel_oranges.html)
+* [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
 * [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
@@ -29,6 +28,7 @@
 * [2024-02-13, 07:44:24](https://news.ycombinator.com/item?id=39355498) - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-12, 20:12:05](https://news.ycombinator.com/item?id=39349793) - [A custom Zigbee doorbell (2023)](https://www.stevestreeting.com/2023/03/26/a-custom-zigbee-doorbell/)
 * [2024-02-12, 13:44:01](https://news.ycombinator.com/item?id=39344643) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
+* [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
 * [2024-02-12, 11:48:51](https://news.ycombinator.com/item?id=39343831) - [systemd by Example (2021)](https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/)
 
 ## [Archives](archives/index.md)
