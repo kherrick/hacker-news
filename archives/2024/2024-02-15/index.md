@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 * [2024-02-15, 15:50:22](https://news.ycombinator.com/item?id=39384158) - [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
+* [2024-02-15, 15:48:31](https://news.ycombinator.com/item?id=39384137) - [Ask HN: Why is OpenAI and ChatGPT design so bad?](https://news.ycombinator.com/item?id=39384137)
+* [2024-02-15, 15:26:37](https://news.ycombinator.com/item?id=39383798) - [Asahi Linux project's OpenGL support on Apple Silicon officially surpasses Apple](https://arstechnica.com/gadgets/2024/02/asahi-linux-projects-opengl-support-on-apple-silicon-officially-surpasses-apples/)
 * [2024-02-15, 15:22:36](https://news.ycombinator.com/item?id=39383739) - [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
 * [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
 * [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
