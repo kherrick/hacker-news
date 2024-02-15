@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-15, 13:09:51",
+      "https://news.ycombinator.com/item?id=39382227"
+    ],
+    [
+      "Managing mutable data in Elixir with Rust",
+      "https://www.lambdafunctions.com/articles/elixir-and-rust"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 13:01:53",
+      "https://news.ycombinator.com/item?id=39382148"
+    ],
+    [
+      "\"I'm sorry, Dave. I'm afraid that computation is too carbon intensive.\"",
+      "https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 12:41:53",
+      "https://news.ycombinator.com/item?id=39381977"
+    ],
+    [
+      "Google is making a map of methane leaks for the whole world to see",
+      "https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 12:24:47",
       "https://news.ycombinator.com/item?id=39381835"
     ],
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2024-02-15, 02:14:15",
-      "https://news.ycombinator.com/item?id=39378342"
-    ],
-    [
-      "What you've got is in fact a people problem",
-      "https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 02:09:45",
-      "https://news.ycombinator.com/item?id=39378305"
-    ],
-    [
-      "Commercial property deals in the US are starting to pick up at deep discounts",
-      "https://www.bloomberg.com/news/features/2024-02-14/real-estate-lenders-confront-falling-us-commercial-property-prices"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 00:22:10",
       "https://news.ycombinator.com/item?id=39377508"
     ],
@@ -167,16 +177,6 @@
     [
       "Inside the proton, the ‘most complicated thing you could possibly imagine’",
       "https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 17:00:52",
-      "https://news.ycombinator.com/item?id=39372159"
-    ],
-    [
-      "Show HN: Reor – An AI note-taking app that runs models locally",
-      "https://github.com/reorproject/reor"
     ]
   ],
   [
