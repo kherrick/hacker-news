@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-15, 15:50:22](https://news.ycombinator.com/item?id=39384158) - [Apple Vision Nope: Why I returned mine](https://www.jorgeherskovic.net/apple-vision-nope/)
+* [2024-02-15, 15:22:36](https://news.ycombinator.com/item?id=39383739) - [Chlormequat in food and urine from adults in the United States from 2017 to 2023](https://www.nature.com/articles/s41370-024-00643-4)
 * [2024-02-15, 15:12:36](https://news.ycombinator.com/item?id=39383593) - [Gemini 1.5 Pro](https://twitter.com/JeffDean/status/1758146022726041615)
-* [2024-02-15, 15:05:21](https://news.ycombinator.com/item?id=39383498) - [Google slips as OpenAI said to be working on search product: report](https://seekingalpha.com/news/4067581-google-slips-openai-working-on-search-product-report)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
@@ -17,7 +18,6 @@
 * [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 00:22:10](https://news.ycombinator.com/item?id=39377508) - [Show HN: Gitlab Meeting Simulator 2024](https://benjamin-brady.github.io/gitlab-simulator/)
-* [2024-02-15, 00:07:46](https://news.ycombinator.com/item?id=39377382) - [How to copy a file between devices? (2022)](https://grdw.nl/2022/10/03/how-to-copy-a-file-between-devices.html)
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Machine Assisted Proof [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
 * [2024-02-14, 19:26:18](https://news.ycombinator.com/item?id=39374020) - [Inside the proton, the ‘most complicated thing you could possibly imagine’](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
 * [2024-02-14, 16:31:57](https://news.ycombinator.com/item?id=39371805) - [YC: Requests for Startups](https://www.ycombinator.com/rfs)
