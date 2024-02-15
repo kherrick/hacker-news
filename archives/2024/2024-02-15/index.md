@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
+* [2024-02-15, 13:01:53](https://news.ycombinator.com/item?id=39382148) - [\"I'm sorry, Dave. I'm afraid that computation is too carbon intensive.\"](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
+* [2024-02-15, 12:41:53](https://news.ycombinator.com/item?id=39381977) - [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
 * [2024-02-15, 12:24:47](https://news.ycombinator.com/item?id=39381835) - [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
 * [2024-02-15, 12:10:12](https://news.ycombinator.com/item?id=39381740) - [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
