@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
+* [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 * [2024-02-15, 13:13:59](https://news.ycombinator.com/item?id=39382263) - [Why software 'security debt' is becoming a serious problem for developers](https://www.itpro.com/security/why-software-security-debt-is-becoming-a-serious-problem-for-developers)
 * [2024-02-15, 13:09:51](https://news.ycombinator.com/item?id=39382227) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-15, 13:01:53](https://news.ycombinator.com/item?id=39382148) - [\"I'm sorry, Dave. I'm afraid that computation is too carbon intensive.\"](https://shkspr.mobi/blog/2024/02/im-sorry-dave-im-afraid-that-computation-is-too-carbon-intensive/)
+* [2024-02-15, 12:54:17](https://news.ycombinator.com/item?id=39382092) - [Quantitative Test of Guns Germs and Steel Cultural Transmission Hypothesis](https://phys.org/news/2024-02-eurasia-dominant-east-west-axis.html)
 * [2024-02-15, 12:41:53](https://news.ycombinator.com/item?id=39381977) - [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
 * [2024-02-15, 12:24:47](https://news.ycombinator.com/item?id=39381835) - [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
 * [2024-02-15, 12:10:12](https://news.ycombinator.com/item?id=39381740) - [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
