@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
+* [2024-02-16, 16:52:50](https://news.ycombinator.com/item?id=39399591) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
@@ -27,7 +28,6 @@
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-* [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [A Fuss Budget (1885)](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
 

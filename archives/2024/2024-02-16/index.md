@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
 * [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
+* [2024-02-16, 16:52:50](https://news.ycombinator.com/item?id=39399591) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
