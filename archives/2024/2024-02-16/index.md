@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
 * [2024-02-16, 11:53:46](https://news.ycombinator.com/item?id=39395752) - [Aleksei Navalny has died, according to Russian authorities](https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny)
 * [2024-02-16, 11:35:24](https://news.ycombinator.com/item?id=39395642) - [News: Alexey Navalny Is Dead](https://tass.ru/politika/20006209)
