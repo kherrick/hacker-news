@@ -20,7 +20,7 @@
 * [2024-02-15, 17:10:15](https://news.ycombinator.com/item?id=39385228) - [Three virtues of a great programmer](https://thethreevirtues.com/)
 * [2024-02-15, 17:00:21](https://news.ycombinator.com/item?id=39385121) - [Finley (YC W21) is a fintech hiring software engineers (US remote)](https://www.finleycms.com/careers/)
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every default macOS wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
-* [2024-02-15, 16:12:01](https://news.ycombinator.com/item?id=39384458) - [The existence of a new kind of magnetism has been confirmed](https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/)
+* [2024-02-15, 16:12:01](https://news.ycombinator.com/item?id=39384458) - [The existence of a new kind of magnet has been confirmed](https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today – alternatives?](https://news.ycombinator.com/item?id=39382590)
