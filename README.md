@@ -14,7 +14,6 @@
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device tests for breast cancer in under 5 seconds: study](https://studyfinds.org/device-breast-cancer-5-seconds/)
-* [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [Showmax has displaced Netflix in Africa](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:36:56](https://news.ycombinator.com/item?id=39396130) - [No one cares about open-source, until](https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/)
@@ -30,6 +29,7 @@
 * [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
+* [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [A Fuss Budget (1885)](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
 
 ## [Archives](archives/index.md)
 
