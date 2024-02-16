@@ -76,6 +76,7 @@
 * [2024-02-14, 10:03:44](https://news.ycombinator.com/item?id=39368269) - [The Awfulness of Elite Hypocrisy on Marriage](https://www.theatlantic.com/ideas/archive/2024/02/elitism-marriage-rates-hypocrisy/677401/)
 * [2024-02-14, 09:54:41](https://news.ycombinator.com/item?id=39368233) - [Popular XMPP App \"Conversations\" Removed from PlayStore by Google](https://gultsch.social/@daniel/111929074071688694)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
+* [2024-02-14, 09:08:29](https://news.ycombinator.com/item?id=39368009) - [Deliveroo and Uber Eats Riders Strike on Valentine's Day](https://www.bbc.co.uk/news/business-68274158)
 * [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 07:51:07](https://news.ycombinator.com/item?id=39367540) - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)

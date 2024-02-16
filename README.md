@@ -17,7 +17,6 @@
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation (2023)](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
-* [2024-02-15, 18:24:31](https://news.ycombinator.com/item?id=39386293) - [The Fine Art of Baloney Detection (1995) [pdf]](https://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:41:53](https://news.ycombinator.com/item?id=39385683) - [Fitness trackers find new symptom of depression: body temperature](https://www.sacbee.com/news/nation-world/national/article285256032.html)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
@@ -29,6 +28,7 @@
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368302) - [Upstart retrofits an Nvidia GH200 server into a workstation](https://www.theregister.com/2024/02/14/german_gh200_workstation/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
+* [2024-02-14, 09:08:29](https://news.ycombinator.com/item?id=39368009) - [Deliveroo and Uber Eats Riders Strike on Valentine's Day](https://www.bbc.co.uk/news/business-68274158)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
 
 ## [Archives](archives/index.md)
