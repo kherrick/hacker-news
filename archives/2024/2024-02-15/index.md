@@ -18,6 +18,7 @@
 * [2024-02-15, 20:43:06](https://news.ycombinator.com/item?id=39388505) - [Georgia Attorney-General claims that not having a phone makes you a criminal](https://georgiarecorder.com/2024/02/12/georgia-ag-claims-not-having-a-phone-makes-you-a-criminal/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
+* [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and batteries to make up 81% of new 2024 U.S. electric-generating capacity](https://www.eia.gov/todayinenergy/detail.php?id=61424)
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:52:57](https://news.ycombinator.com/item?id=39387692) - [Drug offers 'wonderful' breakthrough in treatment of asbestos-linked cancer](https://www.theguardian.com/science/2024/feb/15/drug-offers-wonderful-breakthrough-in-treatment-of-asbestos-linked-cancer)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [uv: Python Packaging in Rust](https://astral.sh/blog/uv)
