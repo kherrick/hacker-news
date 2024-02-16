@@ -100,6 +100,7 @@
 * [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi's Price Map](https://www.aldipricemap.com/navel_oranges.html)
 * [2024-02-15, 04:58:02](https://news.ycombinator.com/item?id=39379273) - [Anonymous Block Forwarding in Ruby](https://www.writesoftwarewell.com/anonymous-block-forwarding-in-ruby/)
 * [2024-02-15, 04:21:45](https://news.ycombinator.com/item?id=39379073) - [The Netflix Logo with Yarn was a lie](https://kevinparry.tv/blog/i-lied-about-recreating-the-netflix-intro)
+* [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-15, 03:29:20](https://news.ycombinator.com/item?id=39378773) - [Show HN: NeuralFlow – Visualize the intermediate output of Mistral 7B](https://github.com/valine/NeuralFlow)
 * [2024-02-15, 03:03:04](https://news.ycombinator.com/item?id=39378618) - [Antagonistic AI](https://arxiv.org/abs/2402.07350)
 * [2024-02-15, 02:24:36](https://news.ycombinator.com/item?id=39378402) - [Nobel Prize winner Gregg Semenza tallies tenth retraction](https://retractionwatch.com/2023/10/02/nobel-prize-winner-gregg-semenza-tallies-tenth-retraction/)
