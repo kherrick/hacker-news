@@ -11,6 +11,7 @@
 * [2024-02-13, 22:17:56](https://news.ycombinator.com/item?id=39363613) - [A 1.9 solar mass neutron star candidate in a 2-year orbit](https://arxiv.org/abs/2402.06722)
 * [2024-02-13, 22:06:51](https://news.ycombinator.com/item?id=39363499) - [Fly.io Has GPUs Now](https://fly.io/blog/fly-io-has-gpus-now/)
 * [2024-02-13, 22:04:31](https://news.ycombinator.com/item?id=39363479) - [The Sneaky Standard – Intel PCI Standardization History](https://tedium.co/2024/02/09/intel-pci-standardization-history/)
+* [2024-02-13, 21:11:01](https://news.ycombinator.com/item?id=39362869) - [Readjusting observational grids in dragonfly field guides](https://journals.sagepub.com/doi/full/10.1177/03063127231183011)
 * [2024-02-13, 21:01:29](https://news.ycombinator.com/item?id=39362777) - [Compiling History: A brief tour of C compilers](https://www.deusinmachina.net/p/compiling-history-a-brief-tour-of)
 * [2024-02-13, 21:01:15](https://news.ycombinator.com/item?id=39362774) - [Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-02-13, 20:34:40](https://news.ycombinator.com/item?id=39362481) - [Mozilla downsizes as it refocuses on Firefox and AI](https://techcrunch.com/2024/02/13/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai-read-the-memo/)

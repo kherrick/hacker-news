@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-15, 23:56:06](https://news.ycombinator.com/item?id=39391034) - [Scientists aghast at AI rat with genitals in peer-reviewed article](https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/)
+* [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+* [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 * [2024-02-15, 22:12:11](https://news.ycombinator.com/item?id=39389858) - [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
-* [2024-02-15, 21:59:14](https://news.ycombinator.com/item?id=39389655) - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 21:48:05](https://news.ycombinator.com/item?id=39389478) - [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
 * [2024-02-15, 21:30:18](https://news.ycombinator.com/item?id=39389201) - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
@@ -15,7 +15,6 @@
 * [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
 * [2024-02-15, 18:24:31](https://news.ycombinator.com/item?id=39386293) - [The Fine Art of Baloney Detection (1995) [pdf]](https://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
-* [2024-02-15, 17:49:03](https://news.ycombinator.com/item?id=39385811) - [Personality trait recognition using ECG spectrograms and deep learning](https://arxiv.org/abs/2402.04326)
 * [2024-02-15, 17:41:53](https://news.ycombinator.com/item?id=39385683) - [Fitness trackers find new symptom of depression: body temperature](https://www.sacbee.com/news/nation-world/national/article285256032.html)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
 * [2024-02-15, 17:10:15](https://news.ycombinator.com/item?id=39385228) - [Three virtues of a great programmer](https://thethreevirtues.com/)
@@ -29,6 +28,7 @@
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
+* [2024-02-13, 21:11:01](https://news.ycombinator.com/item?id=39362869) - [Readjusting observational grids in dragonfly field guides](https://journals.sagepub.com/doi/full/10.1177/03063127231183011)
 * [2024-02-12, 12:04:19](https://news.ycombinator.com/item?id=39343912) - [Nextdoor's Heisensubscribe (and Other Dark Patterns)](https://taylor.town/nextdoor)
 
 ## [Archives](archives/index.md)
