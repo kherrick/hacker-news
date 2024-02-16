@@ -93,6 +93,7 @@
 * [2024-02-15, 06:59:13](https://news.ycombinator.com/item?id=39379872) - [Greybeard's tomb: the lost treasure of language design (2019)](https://michael.orlitzky.com/articles/greybeards_tomb:_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-15, 06:35:46](https://news.ycombinator.com/item?id=39379782) - [DockGuard: The easiest way to backup your Docker containers](https://github.com/daanschenkel/DockGuard)
 * [2024-02-15, 06:15:15](https://news.ycombinator.com/item?id=39379678) - [How to Make a Decision (By Robots)](https://randsinrepose.com/archives/how-to-make-a-decision-by-robots/)
+* [2024-02-15, 05:47:25](https://news.ycombinator.com/item?id=39379552) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-15, 05:35:54](https://news.ycombinator.com/item?id=39379483) - [Free Nginx](https://freenginx.org/)
 * [2024-02-15, 05:35:48](https://news.ycombinator.com/item?id=39379480) - [Reverse engineering a forgotten 1970s Intel dual core beast: 8271, a new ISA](https://scarybeastsecurity.blogspot.com/2020/11/reverse-engineering-forgotten-1970s.html)
 * [2024-02-15, 05:09:45](https://news.ycombinator.com/item?id=39379339) - [Show HN: Aldi's Price Map](https://www.aldipricemap.com/navel_oranges.html)
