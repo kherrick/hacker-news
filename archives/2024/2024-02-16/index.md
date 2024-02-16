@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
 * [2024-02-16, 11:53:46](https://news.ycombinator.com/item?id=39395752) - [Aleksei Navalny has died, according to Russian authorities](https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny)
