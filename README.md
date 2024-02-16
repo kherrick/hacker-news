@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-16, 20:58:19](https://news.ycombinator.com/item?id=39402876) - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
+* [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
 * [2024-02-16, 19:52:50](https://news.ycombinator.com/item?id=39402101) - [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
@@ -14,7 +15,6 @@
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device tests for breast cancer in under 5 seconds: study](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
-* [2024-02-16, 14:06:45](https://news.ycombinator.com/item?id=39397161) - [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [Showmax has displaced Netflix in Africa](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:36:56](https://news.ycombinator.com/item?id=39396130) - [No one cares about open-source, until](https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/)

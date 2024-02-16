@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
 * [2024-02-16, 20:58:19](https://news.ycombinator.com/item?id=39402876) - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
+* [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
 * [2024-02-16, 19:52:50](https://news.ycombinator.com/item?id=39402101) - [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 19:49:52](https://news.ycombinator.com/item?id=39402057) - [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)
