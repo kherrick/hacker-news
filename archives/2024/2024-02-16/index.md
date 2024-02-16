@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 10:40:31](https://news.ycombinator.com/item?id=39395329) - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
 * [2024-02-16, 09:38:40](https://news.ycombinator.com/item?id=39394990) - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
 * [2024-02-16, 06:15:03](https://news.ycombinator.com/item?id=39393794) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
