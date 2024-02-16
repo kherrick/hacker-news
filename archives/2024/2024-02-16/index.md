@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 14:37:29](https://news.ycombinator.com/item?id=39397580) - [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
+* [2024-02-16, 14:34:34](https://news.ycombinator.com/item?id=39397538) - [Erlang/OTP 27.0 Release Candidate 1](https://www.erlang.org/news/167)
 * [2024-02-16, 14:06:45](https://news.ycombinator.com/item?id=39397161) - [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 13:26:39](https://news.ycombinator.com/item?id=39396685) - [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
+* [2024-02-16, 12:36:56](https://news.ycombinator.com/item?id=39396130) - [No one cares about open-source, until](https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/)
 * [2024-02-16, 11:53:46](https://news.ycombinator.com/item?id=39395752) - [Aleksei Navalny has died, according to Russian authorities](https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny)
 * [2024-02-16, 11:35:24](https://news.ycombinator.com/item?id=39395642) - [News: Alexey Navalny Is Dead](https://tass.ru/politika/20006209)
 * [2024-02-16, 11:34:21](https://news.ycombinator.com/item?id=39395631) - [Alexei Navalny Died in Prison](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
