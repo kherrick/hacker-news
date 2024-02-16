@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
@@ -8,7 +9,6 @@
 * [2024-02-16, 15:06:07](https://news.ycombinator.com/item?id=39397995) - [Microsoft 'retires' Azure IoT Central in platform rethink](https://www.theregister.com/2024/02/15/microsoft_retires_azure_iot_central/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
-* [2024-02-16, 14:54:03](https://news.ycombinator.com/item?id=39397817) - [Smoking has long-term effects on the immune system](https://www.pasteur.fr/en/home/press-area/press-documents/smoking-has-long-term-effects-immune-system)
 * [2024-02-16, 14:37:29](https://news.ycombinator.com/item?id=39397580) - [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
 * [2024-02-16, 14:34:34](https://news.ycombinator.com/item?id=39397538) - [Erlang/OTP 27.0 Release Candidate 1](https://www.erlang.org/news/167)
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
