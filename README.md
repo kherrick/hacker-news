@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-16, 14:06:45](https://news.ycombinator.com/item?id=39397161) - [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
+* [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 13:26:39](https://news.ycombinator.com/item?id=39396685) - [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
@@ -29,7 +30,6 @@
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [A Fuss Budget (1885)](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
-* [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
 
 ## [Archives](archives/index.md)
 
