@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [2024-02-16, 02:10:37](https://news.ycombinator.com/item?id=39392257) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-us/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 * [2024-02-16, 01:53:04](https://news.ycombinator.com/item?id=39392107) - [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
@@ -23,7 +24,6 @@
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today – alternatives?](https://news.ycombinator.com/item?id=39382590)
-* [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
