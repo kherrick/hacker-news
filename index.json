@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-15, 23:56:06",
-      "https://news.ycombinator.com/item?id=39391034"
+      "2024-02-16, 01:02:36",
+      "https://news.ycombinator.com/item?id=39391688"
     ],
     [
-      "Scientists aghast at AI rat with genitals in peer-reviewed article",
-      "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/"
+      "Magika: AI powered fast and efficient file type identification",
+      "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 00:38:20",
+      "https://news.ycombinator.com/item?id=39391458"
+    ],
+    [
+      "Video generation models as world simulators",
+      "https://openai.com/research/video-generation-models-as-world-simulators"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Show HN: Galactic Compass – an app that points to the galactic center",
       "https://interconnected.org/home/2024/02/15/galactic-compass"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 21:59:14",
-      "https://news.ycombinator.com/item?id=39389655"
-    ],
-    [
-      "Remote user impersonation and takeover via cache poisoning in Mastodon",
-      "https://arcanican.is/excerpts/cve-2024-23832/discovery.htm"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Sora: Creating video from text",
       "https://openai.com/sora"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 17:49:03",
-      "https://news.ycombinator.com/item?id=39385811"
-    ],
-    [
-      "Personality trait recognition using ECG spectrograms and deep learning",
-      "https://arxiv.org/abs/2402.04326"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Linux/ELF .eh_frame from the bottom up",
       "https://www.corsix.org/content/elf-eh-frame"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 21:11:01",
+      "https://news.ycombinator.com/item?id=39362869"
+    ],
+    [
+      "Readjusting observational grids in dragonfly field guides",
+      "https://journals.sagepub.com/doi/full/10.1177/03063127231183011"
     ]
   ],
   [
