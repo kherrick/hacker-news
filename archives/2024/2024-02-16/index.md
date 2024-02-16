@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 22:39:37](https://news.ycombinator.com/item?id=39403958) - [Leak of Russian 'Threat' Part of a Bid to Kill US Surveillance Reform, Sources](https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 * [2024-02-16, 22:01:05](https://news.ycombinator.com/item?id=39403519) - [Why Tesla's Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
 * [2024-02-16, 21:01:56](https://news.ycombinator.com/item?id=39402917) - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
