@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 04:19:59](https://news.ycombinator.com/item?id=39393113) - [Cybertruck Owners Say They're Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 03:22:06](https://news.ycombinator.com/item?id=39392810) - [Air Canada must pay damages – chatbot lies to grieving passenger about discount](https://www.theregister.com/2024/02/15/air_canada_chatbot_fine/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
+* [2024-02-16, 02:22:27](https://news.ycombinator.com/item?id=39392339) - [Ask HN: 36 months of unemployment and depression. How to go back?](https://news.ycombinator.com/item?id=39392339)
 * [2024-02-16, 02:10:37](https://news.ycombinator.com/item?id=39392257) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-us/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 * [2024-02-16, 01:53:04](https://news.ycombinator.com/item?id=39392107) - [Foods You Didn't Know You Could Freeze](https://menuaid.co.nz/blog/can-you-freeze/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
