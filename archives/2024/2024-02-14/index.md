@@ -95,6 +95,7 @@
 * [2024-02-14, 05:05:31](https://news.ycombinator.com/item?id=39366715) - [Artobiography: Two critics locate themselves in Netherlandish painting](https://www.the-tls.co.uk/articles/thunderclap-laura-cumming-book-review-hettie-judah/)
 * [2024-02-14, 04:38:29](https://news.ycombinator.com/item?id=39366542) - [Bob Moore, Who Founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
 * [2024-02-14, 04:19:12](https://news.ycombinator.com/item?id=39366435) - [Portal](http://macintoshgarden.org/games/portal)
+* [2024-02-14, 03:26:57](https://news.ycombinator.com/item?id=39366074) - [Dogxim, the Adorable Dog-Fox Hybrid](https://www.wideopenspaces.com/dogxim-dog-fox-hybrid/)
 * [2024-02-14, 03:12:12](https://news.ycombinator.com/item?id=39365970) - [US Federal Reserve says its goal is 'to get wages down' (2022)](https://canadiandimension.com/articles/view/us-federal-reserve-says-its-goal-is-to-get-wages-down)
 * [2024-02-14, 03:08:18](https://news.ycombinator.com/item?id=39365935) - [Andrej Karpathy: I left OpenAI yesterday](https://twitter.com/karpathy/status/1757600075281547344)
 * [2024-02-14, 03:06:37](https://news.ycombinator.com/item?id=39365919) - [Mark Zuckerberg on Apple Vision Pro](https://www.instagram.com/zuck/reel/C3TkhmivNzt/)
