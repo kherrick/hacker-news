@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 21:01:56](https://news.ycombinator.com/item?id=39402917) - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 * [2024-02-16, 20:58:19](https://news.ycombinator.com/item?id=39402876) - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
 * [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
@@ -11,7 +12,6 @@
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [Why we stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
-* [2024-02-16, 15:54:12](https://news.ycombinator.com/item?id=39398631) - [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device tests for breast cancer in under 5 seconds: study](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
