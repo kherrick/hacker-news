@@ -68,6 +68,7 @@
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
 * [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [OpenAI: Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 * [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
+* [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 10:27:40](https://news.ycombinator.com/item?id=39368370) - [I Grew My Substack from 439 to 451 Free Subscribers in Just 11 Months](https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to)
