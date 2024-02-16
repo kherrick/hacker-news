@@ -73,6 +73,7 @@
 * [2024-02-12, 13:36:52](https://news.ycombinator.com/item?id=39344568) - [Baird's beaked whales found in shallower waters than previously observed](https://phys.org/news/2024-02-behavior-mammals-world.html)
 * [2024-02-12, 13:27:55](https://news.ycombinator.com/item?id=39344493) - [WoWMIPS – MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-12, 13:26:15](https://news.ycombinator.com/item?id=39344478) - [The internet used to be fun](https://projects.kwon.nyc/internet-is-fun/)
+* [2024-02-12, 13:26:13](https://news.ycombinator.com/item?id=39344477) - [The largest body of water west of the Mississippi disappeared 130 years ago](https://phys.org/news/2024-02-largest-body-west-mississippi-years.html)
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 * [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
