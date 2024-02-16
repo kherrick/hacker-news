@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-16, 20:57:26",
+      "https://news.ycombinator.com/item?id=39402868"
+    ],
+    [
+      "Recording and visualising the 20k system calls it takes to \"import seaborn\"",
+      "http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 19:55:59",
       "https://news.ycombinator.com/item?id=39402142"
     ],
@@ -137,16 +147,6 @@
     [
       "The Emacsen family, the design of an Emacs and the importance of Lisp (2023)",
       "https://emacsconf.org/2023/talks/emacsen/"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 14:06:45",
-      "https://news.ycombinator.com/item?id=39397161"
-    ],
-    [
-      "How much electricity does AI consume?",
-      "https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption"
     ]
   ],
   [
