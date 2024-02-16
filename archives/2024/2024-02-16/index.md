@@ -6,11 +6,13 @@
 
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
+* [2024-02-16, 15:54:12](https://news.ycombinator.com/item?id=39398631) - [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
 * [2024-02-16, 15:42:43](https://news.ycombinator.com/item?id=39398481) - [I'm an Old Fart and AI Makes Me Sad](https://medium.com/@alex.suzuki/im-an-old-fart-and-ai-makes-me-sad-06003bfb6750)
 * [2024-02-16, 15:38:45](https://news.ycombinator.com/item?id=39398448) - [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
 * [2024-02-16, 15:26:41](https://news.ycombinator.com/item?id=39398286) - [Did You Know: Burger King Had a Windows 7 Whopper with 7 Stacked Beef Patties](https://news.softpedia.com/news/did-you-know-burger-king-had-a-windows-7-whopper-with-7-stacked-beef-patties-529410.shtml)
 * [2024-02-16, 15:13:58](https://news.ycombinator.com/item?id=39398096) - [AMD crams five compute architectures onto a single board](https://www.theregister.com/2024/02/07/amd_compute_systems/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
+* [2024-02-16, 15:06:07](https://news.ycombinator.com/item?id=39397995) - [Microsoft 'retires' Azure IoT Central in platform rethink](https://www.theregister.com/2024/02/15/microsoft_retires_azure_iot_central/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
 * [2024-02-16, 14:54:03](https://news.ycombinator.com/item?id=39397817) - [Smoking has long-term effects on the immune system](https://www.pasteur.fr/en/home/press-area/press-documents/smoking-has-long-term-effects-immune-system)
