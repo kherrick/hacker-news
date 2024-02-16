@@ -8,7 +8,6 @@
 * [2024-02-15, 21:30:18](https://news.ycombinator.com/item?id=39389201) - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
-* [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and batteries to make up 81% of new 2024 U.S. electric-generating capacity](https://www.eia.gov/todayinenergy/detail.php?id=61424)
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 19:20:41](https://news.ycombinator.com/item?id=39387191) - [Renesas Buys Altium](https://www.renesas.com/us/en/about/press-room/renesas-acquire-pcb-design-software-leader-altium-make-electronics-design-accessible-broader-market)
@@ -29,6 +28,7 @@
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
 * [2024-02-13, 21:11:01](https://news.ycombinator.com/item?id=39362869) - [Readjusting observational grids in dragonfly field guides](https://journals.sagepub.com/doi/full/10.1177/03063127231183011)
+* [2024-02-12, 12:16:10](https://news.ycombinator.com/item?id=39343987) - [Using a 50-years old technique for solving modern issues (2022)](https://chshersh.com/cps)
 * [2024-02-12, 12:04:19](https://news.ycombinator.com/item?id=39343912) - [Nextdoor's Heisensubscribe (and Other Dark Patterns)](https://taylor.town/nextdoor)
 
 ## [Archives](archives/index.md)

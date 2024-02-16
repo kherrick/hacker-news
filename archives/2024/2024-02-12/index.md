@@ -76,6 +76,7 @@
 * [2024-02-12, 13:19:56](https://news.ycombinator.com/item?id=39344433) - [Acoustic cameras can see sound (2023) [video]](https://www.youtube.com/watch?v=QtMTvsi-4Hw)
 * [2024-02-12, 13:09:47](https://news.ycombinator.com/item?id=39344355) - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 * [2024-02-12, 13:01:07](https://news.ycombinator.com/item?id=39344292) - [The story of Signature Plastics](https://kbd.news/The-story-of-Signature-Plastics-2271.html)
+* [2024-02-12, 12:16:10](https://news.ycombinator.com/item?id=39343987) - [Using a 50-years old technique for solving modern issues (2022)](https://chshersh.com/cps)
 * [2024-02-12, 12:11:00](https://news.ycombinator.com/item?id=39343948) - [Contents of Charles Darwin's entire personal library revealed for first time](https://www.theguardian.com/science/2024/feb/11/charles-darwin-entire-personal-library-revealed-first-time)
 * [2024-02-12, 12:10:40](https://news.ycombinator.com/item?id=39343945) - [Smartphone screens are about to become speakers](https://spectrum.ieee.org/piezoelectric-speakers)
 * [2024-02-12, 12:05:41](https://news.ycombinator.com/item?id=39343919) - [Native macOS fix for applications hiding under the MacBook Pro notch](https://flaky.build/native-fix-for-applications-hiding-under-the-macbook-pro-notch)
