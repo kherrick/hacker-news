@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
 * [2024-02-16, 15:42:43](https://news.ycombinator.com/item?id=39398481) - [I'm an Old Fart and AI Makes Me Sad](https://medium.com/@alex.suzuki/im-an-old-fart-and-ai-makes-me-sad-06003bfb6750)
 * [2024-02-16, 15:38:45](https://news.ycombinator.com/item?id=39398448) - [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
