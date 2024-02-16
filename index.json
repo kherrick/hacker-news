@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-02-16, 19:49:52",
-      "https://news.ycombinator.com/item?id=39402057"
-    ],
-    [
-      "Unreal Engine 5 now has WebGPU support",
-      "https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 19:11:34",
-      "https://news.ycombinator.com/item?id=39401598"
-    ],
-    [
-      "If you're just going to sit there doing nothing, at least do nothing correctly",
-      "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 19:01:44",
       "https://news.ycombinator.com/item?id=39401487"
     ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39399281"
     ],
     [
-      "UI = F(statesⁿ)",
+      "UI = f(statesⁿ)",
       "https://daverupert.com/2024/02/ui-states/"
     ]
   ],
@@ -127,6 +107,16 @@
     [
       "The Emacsen family, the design of an Emacs and the importance of Lisp (2023)",
       "https://emacsconf.org/2023/talks/emacsen/"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 14:06:45",
+      "https://news.ycombinator.com/item?id=39397161"
+    ],
+    [
+      "How much electricity does AI consume?",
+      "https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-02-16, 06:15:03",
+      "https://news.ycombinator.com/item?id=39393794"
+    ],
+    [
+      "Forgejo forks its own path forward",
+      "https://forgejo.org/2024-02-forking-forward/"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 05:55:05",
       "https://news.ycombinator.com/item?id=39393681"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=39381727"
     ],
     [
-      "Not without us – Joseph Weizenbaum(1986)",
+      "Not Without Us – Joseph Weizenbaum (1986)",
       "https://dl.acm.org/doi/pdf/10.1145/15483.15484"
     ]
   ],
