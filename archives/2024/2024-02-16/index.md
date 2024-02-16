@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
 * [2024-02-16, 15:42:43](https://news.ycombinator.com/item?id=39398481) - [I'm an Old Fart and AI Makes Me Sad](https://medium.com/@alex.suzuki/im-an-old-fart-and-ai-makes-me-sad-06003bfb6750)
+* [2024-02-16, 15:38:45](https://news.ycombinator.com/item?id=39398448) - [Amazon joins companies arguing US labor board is unconstitutional](https://www.reuters.com/technology/amazon-joins-companies-arguing-us-labor-board-is-unconstitutional-2024-02-16/)
 * [2024-02-16, 15:26:41](https://news.ycombinator.com/item?id=39398286) - [Did You Know: Burger King Had a Windows 7 Whopper with 7 Stacked Beef Patties](https://news.softpedia.com/news/did-you-know-burger-king-had-a-windows-7-whopper-with-7-stacked-beef-patties-529410.shtml)
 * [2024-02-16, 15:13:58](https://news.ycombinator.com/item?id=39398096) - [AMD crams five compute architectures onto a single board](https://www.theregister.com/2024/02/07/amd_compute_systems/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
+* [2024-02-16, 14:54:03](https://news.ycombinator.com/item?id=39397817) - [Smoking has long-term effects on the immune system](https://www.pasteur.fr/en/home/press-area/press-documents/smoking-has-long-term-effects-immune-system)
 * [2024-02-16, 14:37:29](https://news.ycombinator.com/item?id=39397580) - [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
 * [2024-02-16, 14:34:34](https://news.ycombinator.com/item?id=39397538) - [Erlang/OTP 27.0 Release Candidate 1](https://www.erlang.org/news/167)
 * [2024-02-16, 14:06:45](https://news.ycombinator.com/item?id=39397161) - [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
