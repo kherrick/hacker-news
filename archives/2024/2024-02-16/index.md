@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 19:17:20](https://news.ycombinator.com/item?id=39401669) - [Amazon Joins SpaceX in Mission to Destroy NLRB](https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional)
+* [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
+* [2024-02-16, 19:05:13](https://news.ycombinator.com/item?id=39401521) - [Learning about Debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-02-16, 18:51:49](https://news.ycombinator.com/item?id=39401333) - [Corruption Pervades Police Forces in Australia and the United Kingdom (2023)](https://www.sydneycriminallawyers.com.au/blog/corruption-pervades-police-forces-in-australia-and-the-united-kingdom/)
 * [2024-02-16, 18:31:39](https://news.ycombinator.com/item?id=39401071) - [Universal Basic Income Has Been Tried over and over Again. It Works Every Time](https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547)
 * [2024-02-16, 17:58:21](https://news.ycombinator.com/item?id=39400572) - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
 * [2024-02-16, 17:47:23](https://news.ycombinator.com/item?id=39400415) - [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
 * [2024-02-16, 17:45:03](https://news.ycombinator.com/item?id=39400374) - [Air Canada must honor refund policy invented by airline's chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
+* [2024-02-16, 17:43:47](https://news.ycombinator.com/item?id=39400352) - [Popular Git Config Options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 17:42:54](https://news.ycombinator.com/item?id=39400339) - [Why do military personnel wear watches upside down?](https://smithandbradley.com/blogs/blog/why-do-military-personnel-wear-watches-upside-down)
 * [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
 * [2024-02-16, 17:05:52](https://news.ycombinator.com/item?id=39399781) - [AI assets are a legal risk and need to be banned from the marketplace](https://forums.unrealengine.com/t/ai-assets-are-a-legal-risk-need-to-be-banned-from-the-marketplace/1292039)
