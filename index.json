@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-02-16, 18:51:49",
-      "https://news.ycombinator.com/item?id=39401333"
+      "2024-02-16, 19:17:20",
+      "https://news.ycombinator.com/item?id=39401669"
     ],
     [
-      "Corruption Pervades Police Forces in Australia and the United Kingdom (2023)",
-      "https://www.sydneycriminallawyers.com.au/blog/corruption-pervades-police-forces-in-australia-and-the-united-kingdom/"
+      "Amazon Joins SpaceX in Mission to Destroy NLRB",
+      "https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 19:11:34",
+      "https://news.ycombinator.com/item?id=39401598"
+    ],
+    [
+      "If you're just going to sit there doing nothing, at least do nothing correctly",
+      "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 19:05:13",
+      "https://news.ycombinator.com/item?id=39401521"
+    ],
+    [
+      "Learning about Debuggers",
+      "https://werat.dev/blog/learning-about-debuggers/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "GPU synchronization in Godot 4.3 is getting a major upgrade",
       "https://godotengine.org/article/rendering-acyclic-graph/"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 17:43:47",
+      "https://news.ycombinator.com/item?id=39400352"
+    ],
+    [
+      "Popular Git Config Options",
+      "https://jvns.ca/blog/2024/02/16/popular-git-config-options/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-02-16, 12:39:58",
-      "https://news.ycombinator.com/item?id=39396151"
-    ],
-    [
-      "The fifth epoch of distributed computing",
-      "https://cloud.google.com/blog/topics/systems/the-fifth-epoch-of-distributed-computing"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 12:36:56",
       "https://news.ycombinator.com/item?id=39396130"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-02-16, 06:15:03",
-      "https://news.ycombinator.com/item?id=39393794"
-    ],
-    [
-      "Forgejo forks its own path forward",
-      "https://forgejo.org/2024-02-forking-forward/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 05:55:05",
       "https://news.ycombinator.com/item?id=39393681"
     ],
@@ -227,16 +237,6 @@
     [
       "Magika: AI powered fast and efficient file type identification",
       "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 18:14:18",
-      "https://news.ycombinator.com/item?id=39386156"
-    ],
-    [
-      "Sora: Creating video from text",
-      "https://openai.com/sora"
     ]
   ],
   [
