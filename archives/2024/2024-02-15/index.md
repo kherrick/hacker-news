@@ -77,6 +77,7 @@
 * [2024-02-15, 12:41:53](https://news.ycombinator.com/item?id=39381977) - [Google is making a map of methane leaks for the whole world to see](https://www.businessinsider.com/google-map-methane-leaks-world-can-see-2024-2)
 * [2024-02-15, 12:24:47](https://news.ycombinator.com/item?id=39381835) - [Why the Serverless Revolution Has Stalled](https://www.infoq.com/articles/serverless-stalled/)
 * [2024-02-15, 12:10:12](https://news.ycombinator.com/item?id=39381740) - [UK Fell into Recession in 2023](https://www.bbc.co.uk/news/business-52986863)
+* [2024-02-15, 12:08:39](https://news.ycombinator.com/item?id=39381727) - [Not without us – Joseph Weizenbaum(1986)](https://dl.acm.org/doi/pdf/10.1145/15483.15484)
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
 * [2024-02-15, 11:59:08](https://news.ycombinator.com/item?id=39381662) - [Ask HN: Does anyone feel anxious about the Sun's death or is it just me?](https://news.ycombinator.com/item?id=39381662)
 * [2024-02-15, 11:45:05](https://news.ycombinator.com/item?id=39381567) - [Google enables OS upgrades for older PCs post-Windows 10 support cutoff](https://www.reuters.com/technology/google-enables-os-upgrades-older-pcs-post-windows-10-support-cutoff-2024-02-14/)
