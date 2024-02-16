@@ -2,7 +2,6 @@
 
 * [2024-02-16, 04:19:59](https://news.ycombinator.com/item?id=39393113) - [Cybertruck Owners Say They're Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-* [2024-02-16, 03:22:06](https://news.ycombinator.com/item?id=39392810) - [Air Canada must pay damages – chatbot lies to grieving passenger about discount](https://www.theregister.com/2024/02/15/air_canada_chatbot_fine/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [2024-02-16, 02:22:27](https://news.ycombinator.com/item?id=39392339) - [Ask HN: 36 months of unemployment and depression. How to go back?](https://news.ycombinator.com/item?id=39392339)
@@ -15,8 +14,9 @@
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 * [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and battery to make up 81% of new US electric-generating capacity in 2024](https://www.eia.gov/todayinenergy/detail.php?id=61424)
-* [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
+* [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation (2023)](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
+* [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:41:53](https://news.ycombinator.com/item?id=39385683) - [Fitness trackers find new symptom of depression: body temperature](https://www.sacbee.com/news/nation-world/national/article285256032.html)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
