@@ -58,6 +58,7 @@
 * [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
 * [2024-02-14, 13:59:10](https://news.ycombinator.com/item?id=39369793) - [Mark Zuckerberg says Quest 3 'is the better product, period'](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
 * [2024-02-14, 13:56:22](https://news.ycombinator.com/item?id=39369766) - [YC's Latest Request for Startups](https://www.ycombinator.com/blog/ycs-latest-request-for-startups/)
+* [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 13:44:45](https://news.ycombinator.com/item?id=39369653) - [European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 * [2024-02-14, 13:06:13](https://news.ycombinator.com/item?id=39369353) - [PySimpleGUI 4 will be sunsetted in Q2 2024](https://docs.PySimpleGUI.com/en/latest/readme/sunset/)
 * [2024-02-14, 13:01:31](https://news.ycombinator.com/item?id=39369319) - [Over 50% of the population of Germany does not own their home](https://ec.europa.eu/eurostat/cache/digpub/housing/bloc-1a.html)
