@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 22:01:05](https://news.ycombinator.com/item?id=39403519) - [Why Tesla's Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
 * [2024-02-16, 21:01:56](https://news.ycombinator.com/item?id=39402917) - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 * [2024-02-16, 20:58:19](https://news.ycombinator.com/item?id=39402876) - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
 * [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
@@ -11,7 +12,6 @@
 * [2024-02-16, 17:43:47](https://news.ycombinator.com/item?id=39400352) - [Popular Git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
-* [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [Why we stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device tests for breast cancer in under 5 seconds: study](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
@@ -24,12 +24,12 @@
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 12:08:39](https://news.ycombinator.com/item?id=39381727) - [Not Without Us – Joseph Weizenbaum (1986)](https://dl.acm.org/doi/pdf/10.1145/15483.15484)
+* [2024-02-15, 11:35:16](https://news.ycombinator.com/item?id=39381505) - [How to commit part of file in Git](https://newbeelearn.com/blog/git-commit-part-of-file/)
 * [2024-02-15, 05:47:25](https://news.ycombinator.com/item?id=39379552) - [Visualizing Packrat Parsing (2021)](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-15, 05:41:54](https://news.ycombinator.com/item?id=39379518) - [Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]](https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf)
 * [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
-* [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [A Fuss Budget (1885)](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
 
 ## [Archives](archives/index.md)
 

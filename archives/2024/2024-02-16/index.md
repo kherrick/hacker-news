@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 22:01:05](https://news.ycombinator.com/item?id=39403519) - [Why Tesla's Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
 * [2024-02-16, 21:01:56](https://news.ycombinator.com/item?id=39402917) - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 * [2024-02-16, 20:58:19](https://news.ycombinator.com/item?id=39402876) - [The majority of traffic from X may have been fake during the Super Bowl](https://mashable.com/article/x-twitter-elon-musk-bots-fake-traffic)
 * [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
