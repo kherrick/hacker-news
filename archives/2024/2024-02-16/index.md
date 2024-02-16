@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
 * [2024-02-16, 04:19:59](https://news.ycombinator.com/item?id=39393113) - [Cybertruck Owners Say They're Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
+* [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:48:29](https://news.ycombinator.com/item?id=39392973) - [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 03:22:06](https://news.ycombinator.com/item?id=39392810) - [Air Canada must pay damages – chatbot lies to grieving passenger about discount](https://www.theregister.com/2024/02/15/air_canada_chatbot_fine/)

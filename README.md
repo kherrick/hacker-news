@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-16, 04:19:59](https://news.ycombinator.com/item?id=39393113) - [Cybertruck Owners Say They're Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
+* [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:48:29](https://news.ycombinator.com/item?id=39392973) - [YouTube Introduces Remixes](https://blog.youtube/news-and-events/youtube-shorts-remix/)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
@@ -16,7 +17,6 @@
 * [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and battery to make up 81% of new US electric-generating capacity in 2024](https://www.eia.gov/todayinenergy/detail.php?id=61424)
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation (2023)](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 19:50:27](https://news.ycombinator.com/item?id=39387641) - [Uv: Python packaging in Rust](https://astral.sh/blog/uv)
-* [2024-02-15, 18:41:12](https://news.ycombinator.com/item?id=39386572) - [Show HN: SlideCross – a combination of a crossword and Rubik's Cube](https://slidecross.io)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:41:53](https://news.ycombinator.com/item?id=39385683) - [Fitness trackers find new symptom of depression: body temperature](https://www.sacbee.com/news/nation-world/national/article285256032.html)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
