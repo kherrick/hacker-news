@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-16, 19:17:20](https://news.ycombinator.com/item?id=39401669) - [Amazon Joins SpaceX in Mission to Destroy NLRB](https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional)
+* [2024-02-16, 19:49:52](https://news.ycombinator.com/item?id=39402057) - [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
-* [2024-02-16, 19:05:13](https://news.ycombinator.com/item?id=39401521) - [Learning about Debuggers](https://werat.dev/blog/learning-about-debuggers/)
+* [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 * [2024-02-16, 17:58:21](https://news.ycombinator.com/item?id=39400572) - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
-* [2024-02-16, 17:43:47](https://news.ycombinator.com/item?id=39400352) - [Popular Git Config Options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+* [2024-02-16, 17:43:47](https://news.ycombinator.com/item?id=39400352) - [Popular Git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Findaway's new terms of service are unacceptable](https://mwl.io/archives/23448)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to generate text with citations via fine-grained rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = F(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
