@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
 * [2024-02-16, 11:34:21](https://news.ycombinator.com/item?id=39395631) - [Alexei Navalny has died – authorities](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
 * [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
@@ -13,6 +12,7 @@
 * [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
+* [2024-02-16, 01:53:01](https://news.ycombinator.com/item?id=39392104) - [V-JEPA: Video Joint Embedding Predictive Architecture (V-JEPA) Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
