@@ -2,11 +2,11 @@
 
 * [2024-02-16, 09:38:40](https://news.ycombinator.com/item?id=39394990) - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+* [2024-02-16, 06:15:03](https://news.ycombinator.com/item?id=39393794) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 05:55:05](https://news.ycombinator.com/item?id=39393681) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
-* [2024-02-16, 01:53:01](https://news.ycombinator.com/item?id=39392104) - [V-JEPA: Video Joint Embedding Predictive Architecture (V-JEPA) Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
