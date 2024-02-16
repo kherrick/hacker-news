@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
 * [2024-02-16, 15:54:12](https://news.ycombinator.com/item?id=39398631) - [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
