@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
@@ -7,7 +8,6 @@
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 * [2024-02-15, 22:12:11](https://news.ycombinator.com/item?id=39389858) - [Show HN: Galactic Compass – an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
 * [2024-02-15, 21:48:05](https://news.ycombinator.com/item?id=39389478) - [What you need to know about the future of Mozilla Hubs](https://hubs.mozilla.com/labs/sunset/)
-* [2024-02-15, 21:30:18](https://news.ycombinator.com/item?id=39389201) - [Passing stars changed the orbits of planets in the solar system](https://www.universetoday.com/165727/passing-stars-changed-the-orbits-of-planets-in-the-solar-system/)
 * [2024-02-15, 20:25:32](https://news.ycombinator.com/item?id=39388269) - [Build your own 3D printed Hexapod](https://github.com/MakeYourPet/hexapod)
 * [2024-02-15, 20:22:09](https://news.ycombinator.com/item?id=39388218) - [Apple confirms it's breaking iPhone web apps in the EU on purpose](https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/)
 * [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and batteries to make up 81% of new 2024 U.S. electric-generating capacity](https://www.eia.gov/todayinenergy/detail.php?id=61424)
