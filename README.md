@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 13:26:39](https://news.ycombinator.com/item?id=39396685) - [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
@@ -7,7 +8,7 @@
 * [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 10:40:31](https://news.ycombinator.com/item?id=39395329) - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
 * [2024-02-16, 09:38:40](https://news.ycombinator.com/item?id=39394990) - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
-* [2024-02-16, 08:46:10](https://news.ycombinator.com/item?id=39394674) - [SPACE Attack: Spoofing EID's Password Authenticated Connection Establishment](https://ctrlalt.medium.com/space-attack-spoofing-eids-password-authenticated-connection-establishment-11561e5657b1)
+* [2024-02-16, 08:46:10](https://news.ycombinator.com/item?id=39394674) - [sPACE Attack: Spoofing eID’s Password Authenticated Connection Establishment](https://ctrlalt.medium.com/space-attack-spoofing-eids-password-authenticated-connection-establishment-11561e5657b1)
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
 * [2024-02-16, 06:15:03](https://news.ycombinator.com/item?id=39393794) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 05:55:05](https://news.ycombinator.com/item?id=39393681) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
@@ -18,7 +19,6 @@
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
-* [2024-02-15, 20:02:22](https://news.ycombinator.com/item?id=39387862) - [Solar and battery to make up 81% of new US electric-generating capacity in 2024](https://www.eia.gov/todayinenergy/detail.php?id=61424)
 * [2024-02-15, 20:01:52](https://news.ycombinator.com/item?id=39387850) - [Building an LLM from Scratch: Automatic Differentiation (2023)](https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html)
 * [2024-02-15, 18:14:18](https://news.ycombinator.com/item?id=39386156) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 17:39:48](https://news.ycombinator.com/item?id=39385635) - [Launch HN: Zenfetch (YC W23) – Turn notes/browser history into an AI assistant](https://news.ycombinator.com/item?id=39385635)
