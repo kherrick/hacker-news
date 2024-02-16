@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
 * [2024-02-16, 14:37:29](https://news.ycombinator.com/item?id=39397580) - [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
@@ -14,6 +15,7 @@
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
 * [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
+* [2024-02-16, 12:39:58](https://news.ycombinator.com/item?id=39396151) - [The fifth epoch of distributed computing](https://cloud.google.com/blog/topics/systems/the-fifth-epoch-of-distributed-computing)
 * [2024-02-16, 12:36:56](https://news.ycombinator.com/item?id=39396130) - [No one cares about open-source, until](https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/)
 * [2024-02-16, 11:53:46](https://news.ycombinator.com/item?id=39395752) - [Aleksei Navalny has died, according to Russian authorities](https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny)
 * [2024-02-16, 11:35:24](https://news.ycombinator.com/item?id=39395642) - [News: Alexey Navalny Is Dead](https://tass.ru/politika/20006209)

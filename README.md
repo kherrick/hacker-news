@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
 * [2024-02-16, 14:37:29](https://news.ycombinator.com/item?id=39397580) - [You Sound Like a Bot](https://www.theverge.com/24067999/ai-bot-chatgpt-chatbot-dungeon)
@@ -8,6 +9,7 @@
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 13:26:39](https://news.ycombinator.com/item?id=39396685) - [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
+* [2024-02-16, 12:39:58](https://news.ycombinator.com/item?id=39396151) - [The fifth epoch of distributed computing](https://cloud.google.com/blog/topics/systems/the-fifth-epoch-of-distributed-computing)
 * [2024-02-16, 12:36:56](https://news.ycombinator.com/item?id=39396130) - [No one cares about open-source, until](https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/)
 * [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 10:40:31](https://news.ycombinator.com/item?id=39395329) - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
@@ -18,7 +20,6 @@
 * [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
-* [2024-02-16, 01:53:01](https://news.ycombinator.com/item?id=39392104) - [V-JEPA: Video Joint Embedding Predictive Architecture (V-JEPA) Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
@@ -29,7 +30,6 @@
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [A Fuss Budget (1885)](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
-* [2024-02-14, 03:26:57](https://news.ycombinator.com/item?id=39366074) - [Dogxim, the Adorable Dog-Fox Hybrid](https://www.wideopenspaces.com/dogxim-dog-fox-hybrid/)
 
 ## [Archives](archives/index.md)
 
