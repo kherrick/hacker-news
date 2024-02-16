@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 02:34:03](https://news.ycombinator.com/item?id=39392428) - [Firefly III: A free and open source personal finance manager](https://www.firefly-iii.org/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
@@ -25,6 +24,7 @@
 * [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today – alternatives?](https://news.ycombinator.com/item?id=39382590)
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
+* [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368302) - [Upstart retrofits an Nvidia GH200 server into a €47,500 workstation](https://www.theregister.com/2024/02/14/german_gh200_workstation/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
 * [2024-02-12, 13:26:13](https://news.ycombinator.com/item?id=39344477) - [The largest body of water west of the Mississippi disappeared 130 years ago](https://phys.org/news/2024-02-largest-body-west-mississippi-years.html)
