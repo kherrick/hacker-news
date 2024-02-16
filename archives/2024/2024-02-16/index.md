@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 17:58:21](https://news.ycombinator.com/item?id=39400572) - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
+* [2024-02-16, 17:47:23](https://news.ycombinator.com/item?id=39400415) - [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
 * [2024-02-16, 17:45:03](https://news.ycombinator.com/item?id=39400374) - [Air Canada must honor refund policy invented by airline's chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
 * [2024-02-16, 17:08:37](https://news.ycombinator.com/item?id=39399826) - [Dear writers: Delete your Findaway Voices account NOW](https://mwl.io/archives/23448)
+* [2024-02-16, 17:05:52](https://news.ycombinator.com/item?id=39399781) - [AI assets are a legal risk and need to be banned from the marketplace](https://forums.unrealengine.com/t/ai-assets-are-a-legal-risk-need-to-be-banned-from-the-marketplace/1292039)
 * [2024-02-16, 16:52:50](https://news.ycombinator.com/item?id=39399591) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
