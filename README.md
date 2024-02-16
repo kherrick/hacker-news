@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-16, 11:53:46](https://news.ycombinator.com/item?id=39395752) - [Aleksei Navalny has died, according to Russian authorities](https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny)
+* [2024-02-16, 12:48:58](https://news.ycombinator.com/item?id=39396254) - [Nvidia GeForce RTX 2080 Ti with 22GB Memory Appears on eBay for USD500](https://www.tomshardware.com/pc-components/gpus/chinese-workshops-recondition-nvidias-old-flagship-gaming-gpu-for-ai-rtx-2080-ti-upgraded-to-22gb-for-dollar499)
 * [2024-02-16, 11:35:24](https://news.ycombinator.com/item?id=39395642) - [News: Alexey Navalny Is Dead](https://tass.ru/politika/20006209)
-* [2024-02-16, 11:34:21](https://news.ycombinator.com/item?id=39395631) - [Alexei Navalny Died in Prison](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
+* [2024-02-16, 11:34:21](https://news.ycombinator.com/item?id=39395631) - [Alexei Navalny has died – authorities](https://www.reuters.com/world/europe/jailed-russian-opposition-leader-navalny-dead-prison-service-2024-02-16/)
 * [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 10:40:31](https://news.ycombinator.com/item?id=39395329) - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
 * [2024-02-16, 09:38:40](https://news.ycombinator.com/item?id=39394990) - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
