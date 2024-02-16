@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 14:06:45](https://news.ycombinator.com/item?id=39397161) - [How much electricity does AI consume?](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 * [2024-02-16, 13:26:39](https://news.ycombinator.com/item?id=39396685) - [Forgetting the history of Unix is coding us into a corner](https://www.theregister.com/2024/02/16/what_is_unix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 12:53:45](https://news.ycombinator.com/item?id=39396305) - [The U.S. Government Will Soon Spend More on Interest Payments Than Defense](https://www.wsj.com/finance/the-u-s-government-will-soon-spend-more-on-interest-payments-than-defense-ee6fbeec)
