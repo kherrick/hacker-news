@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 15:13:58](https://news.ycombinator.com/item?id=39398096) - [AMD crams five compute architectures onto a single board](https://www.theregister.com/2024/02/07/amd_compute_systems/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My Sixth Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 15:04:09](https://news.ycombinator.com/item?id=39397961) - [$5 device accurately tests for breast cancer in under 5 seconds](https://studyfinds.org/device-breast-cancer-5-seconds/)
 * [2024-02-16, 15:02:15](https://news.ycombinator.com/item?id=39397942) - [The Emacsen family, the design of an Emacs and the importance of Lisp (2023)](https://emacsconf.org/2023/talks/emacsen/)
