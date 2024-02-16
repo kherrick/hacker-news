@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 10:40:31](https://news.ycombinator.com/item?id=39395329) - [German credit agency earns millions through unlawful customer manipulation](https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation)
 * [2024-02-16, 09:38:40](https://news.ycombinator.com/item?id=39394990) - [Trading Trust](https://seths.blog/2024/02/trading-trust/)
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
@@ -25,7 +26,6 @@
 * [2024-02-15, 16:29:39](https://news.ycombinator.com/item?id=39384731) - [Every default macOS wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 * [2024-02-15, 16:12:01](https://news.ycombinator.com/item?id=39384458) - [The existence of a new kind of magnet has been confirmed](https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/)
 * [2024-02-15, 15:02:09](https://news.ycombinator.com/item?id=39383446) - [Our next-generation model: Gemini 1.5](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/)
-* [2024-02-15, 14:57:49](https://news.ycombinator.com/item?id=39383386) - [Observable 2.0, a static site generator for data apps](https://observablehq.com/blog/observable-2-0)
 * [2024-02-14, 19:44:33](https://news.ycombinator.com/item?id=39374249) - [Show me the prompt](https://hamel.dev/blog/posts/prompt/)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
