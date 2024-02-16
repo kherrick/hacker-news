@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-16, 11:53:46",
+      "https://news.ycombinator.com/item?id=39395752"
+    ],
+    [
+      "Aleksei Navalny has died, according to Russian authorities",
+      "https://www.nytimes.com/live/2024/02/16/world/aleksei-navalny"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 11:35:24",
+      "https://news.ycombinator.com/item?id=39395642"
+    ],
+    [
+      "News: Alexey Navalny Is Dead",
+      "https://tass.ru/politika/20006209"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 11:34:21",
       "https://news.ycombinator.com/item?id=39395631"
     ],
@@ -37,6 +57,16 @@
     [
       "Trading Trust",
       "https://seths.blog/2024/02/trading-trust/"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 08:46:10",
+      "https://news.ycombinator.com/item?id=39394674"
+    ],
+    [
+      "SPACE Attack: Spoofing EID's Password Authenticated Connection Establishment",
+      "https://ctrlalt.medium.com/space-attack-spoofing-eids-password-authenticated-connection-establishment-11561e5657b1"
     ]
   ],
   [
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2024-02-16, 01:53:01",
+      "https://news.ycombinator.com/item?id=39392104"
+    ],
+    [
+      "V-JEPA: Video Joint Embedding Predictive Architecture (V-JEPA) Model",
+      "https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 01:02:36",
       "https://news.ycombinator.com/item?id=39391688"
     ],
@@ -151,26 +191,6 @@
   ],
   [
     [
-      "2024-02-15, 20:25:32",
-      "https://news.ycombinator.com/item?id=39388269"
-    ],
-    [
-      "Build your own 3D printed Hexapod",
-      "https://github.com/MakeYourPet/hexapod"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 20:22:09",
-      "https://news.ycombinator.com/item?id=39388218"
-    ],
-    [
-      "Apple confirms it's breaking iPhone web apps in the EU on purpose",
-      "https://techcrunch.com/2024/02/15/apple-confirms-its-breaking-iphone-web-apps-in-the-eu-on-purpose/"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 20:02:22",
       "https://news.ycombinator.com/item?id=39387862"
     ],
@@ -187,16 +207,6 @@
     [
       "Building an LLM from Scratch: Automatic Differentiation (2023)",
       "https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 19:50:27",
-      "https://news.ycombinator.com/item?id=39387641"
-    ],
-    [
-      "Uv: Python packaging in Rust",
-      "https://astral.sh/blog/uv"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Observable 2.0, a static site generator for data apps",
       "https://observablehq.com/blog/observable-2-0"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 19:44:33",
-      "https://news.ycombinator.com/item?id=39374249"
-    ],
-    [
-      "Show me the prompt",
-      "https://hamel.dev/blog/posts/prompt/"
     ]
   ],
   [
