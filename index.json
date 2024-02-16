@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-16, 18:31:39",
+      "https://news.ycombinator.com/item?id=39401071"
+    ],
+    [
+      "Universal Basic Income Has Been Tried over and over Again. It Works Every Time",
+      "https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 17:58:21",
       "https://news.ycombinator.com/item?id=39400572"
     ],
@@ -31,32 +41,22 @@
   ],
   [
     [
-      "2024-02-16, 17:05:52",
-      "https://news.ycombinator.com/item?id=39399781"
-    ],
-    [
-      "AI assets are a legal risk and need to be banned from the marketplace",
-      "https://forums.unrealengine.com/t/ai-assets-are-a-legal-risk-need-to-be-banned-from-the-marketplace/1292039"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 16:52:50",
-      "https://news.ycombinator.com/item?id=39399591"
-    ],
-    [
-      "FreeBSD Status Report 2023 Q4",
-      "https://www.freebsd.org/status/report-2023-10-2023-12/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 16:42:37",
       "https://news.ycombinator.com/item?id=39399418"
     ],
     [
       "Training LLMs to generate text with citations via fine-grained rewards",
       "https://arxiv.org/abs/2402.04315"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 16:35:00",
+      "https://news.ycombinator.com/item?id=39399281"
+    ],
+    [
+      "UI = F(statesⁿ)",
+      "https://daverupert.com/2024/02/ui-states/"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-02-16, 15:06:07",
-      "https://news.ycombinator.com/item?id=39397995"
-    ],
-    [
-      "Microsoft 'retires' Azure IoT Central in platform rethink",
-      "https://www.theregister.com/2024/02/15/microsoft_retires_azure_iot_central/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 15:04:09",
       "https://news.ycombinator.com/item?id=39397961"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-02-16, 14:34:34",
-      "https://news.ycombinator.com/item?id=39397538"
-    ],
-    [
-      "Erlang/OTP 27.0 Release Candidate 1",
-      "https://www.erlang.org/news/167"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 14:06:45",
       "https://news.ycombinator.com/item?id=39397161"
     ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=39397064"
     ],
     [
-      "How an African streaming service dethroned Netflix",
+      "Showmax has displaced Netflix in Africa",
       "https://restofworld.org/2024/showmax-subscription-africa-netflix/"
     ]
   ],
@@ -205,7 +185,7 @@
       "https://news.ycombinator.com/item?id=39394990"
     ],
     [
-      "Trading Trust",
+      "Trading trust",
       "https://seths.blog/2024/02/trading-trust/"
     ]
   ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-02-16, 02:52:01",
+      "https://news.ycombinator.com/item?id=39392582"
+    ],
+    [
+      "Show HN: I made a Pinterest clone using SigLIP image embeddings",
+      "https://mood-amber.vercel.app"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 01:02:36",
       "https://news.ycombinator.com/item?id=39391688"
     ],
@@ -261,11 +251,21 @@
   ],
   [
     [
+      "2024-02-15, 12:08:39",
+      "https://news.ycombinator.com/item?id=39381727"
+    ],
+    [
+      "Not without us – Joseph Weizenbaum(1986)",
+      "https://dl.acm.org/doi/pdf/10.1145/15483.15484"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 05:47:25",
       "https://news.ycombinator.com/item?id=39379552"
     ],
     [
-      "Visualizing Packrat Parsing",
+      "Visualizing Packrat Parsing (2021)",
       "https://dubroy.com/blog/visualizing-packrat-parsing/"
     ]
   ],
