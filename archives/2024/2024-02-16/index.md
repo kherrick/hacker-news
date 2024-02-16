@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+* [2024-02-16, 06:15:03](https://news.ycombinator.com/item?id=39393794) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 05:55:05](https://news.ycombinator.com/item?id=39393681) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:19:59](https://news.ycombinator.com/item?id=39393113) - [Cybertruck Owners Say They're Already Rusting](https://futurism.com/cybertruck-owners-already-rusting)
 * [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)

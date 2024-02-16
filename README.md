@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-16, 06:59:04](https://news.ycombinator.com/item?id=39394060) - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
+* [2024-02-16, 06:15:03](https://news.ycombinator.com/item?id=39393794) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 05:55:05](https://news.ycombinator.com/item?id=39393681) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:06:01](https://news.ycombinator.com/item?id=39393049) - [Orgzly Revived: a community-maintained version of Orgzly](https://github.com/orgzly-revived/orgzly-android-revived)
 * [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
@@ -28,7 +29,6 @@
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368302) - [Upstart retrofits an Nvidia GH200 server into a workstation](https://www.theregister.com/2024/02/14/german_gh200_workstation/)
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
-* [2024-02-14, 09:08:29](https://news.ycombinator.com/item?id=39368009) - [Deliveroo and Uber Eats Riders Strike on Valentine's Day](https://www.bbc.co.uk/news/business-68274158)
 * [2024-02-14, 06:56:32](https://news.ycombinator.com/item?id=39367243) - [Linux/ELF .eh_frame from the bottom up](https://www.corsix.org/content/elf-eh-frame)
 
 ## [Archives](archives/index.md)
