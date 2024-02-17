@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-17, 03:14:00",
+      "https://news.ycombinator.com/item?id=39405996"
+    ],
+    [
+      "Automated Unit Test Improvement Using Large Language Models at Meta",
+      "https://arxiv.org/abs/2402.09171"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 02:13:21",
       "https://news.ycombinator.com/item?id=39405653"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2024-02-16, 23:09:26",
+      "https://news.ycombinator.com/item?id=39404262"
+    ],
+    [
+      "FDA Approves First Medication to Treat Severe Frostbite",
+      "https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 22:37:38",
       "https://news.ycombinator.com/item?id=39403935"
     ],
@@ -57,16 +77,6 @@
     [
       "How did the settlers of the Canary Islands survive a millennium of isolation?",
       "https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 20:57:26",
-      "https://news.ycombinator.com/item?id=39402868"
-    ],
-    [
-      "Recording and visualising the 20k system calls it takes to \"import seaborn\"",
-      "http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html"
     ]
   ],
   [
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2024-02-16, 12:57:24",
-      "https://news.ycombinator.com/item?id=39396337"
-    ],
-    [
-      "Data structures as topological spaces (2002) [pdf]",
-      "http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 03:32:20",
-      "https://news.ycombinator.com/item?id=39392881"
-    ],
-    [
-      "Think Python, 3rd Edition",
-      "https://allendowney.github.io/ThinkPython/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 02:52:01",
       "https://news.ycombinator.com/item?id=39392582"
     ],
@@ -287,6 +277,16 @@
     [
       "Firehouse Five and the Cinderella Surprise",
       "https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 18:24:19",
+      "https://news.ycombinator.com/item?id=39373254"
+    ],
+    [
+      "The Pleasure of Pattern",
+      "https://tidyfirst.substack.com/p/the-pleasure-of-pattern"
     ]
   ],
   [
