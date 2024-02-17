@@ -82,6 +82,7 @@
 * [2024-02-15, 12:01:16](https://news.ycombinator.com/item?id=39381673) - [Fella Health (YC W20) Is Hiring](https://www.ycombinator.com/companies/fella-health/jobs/DgPldJf-lifecycle-marketing-lead)
 * [2024-02-15, 11:59:08](https://news.ycombinator.com/item?id=39381662) - [Ask HN: Does anyone feel anxious about the Sun's death or is it just me?](https://news.ycombinator.com/item?id=39381662)
 * [2024-02-15, 11:45:05](https://news.ycombinator.com/item?id=39381567) - [Google enables OS upgrades for older PCs post-Windows 10 support cutoff](https://www.reuters.com/technology/google-enables-os-upgrades-older-pcs-post-windows-10-support-cutoff-2024-02-14/)
+* [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 11:35:16](https://news.ycombinator.com/item?id=39381505) - [How to commit part of file in Git](https://newbeelearn.com/blog/git-commit-part-of-file/)
 * [2024-02-15, 11:32:18](https://news.ycombinator.com/item?id=39381478) - [Four SpaceX rockets on four launch pads in Florida, California, and Texas](https://twitter.com/SpaceX/status/1757880623115714837)
 * [2024-02-15, 11:24:56](https://news.ycombinator.com/item?id=39381435) - [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
