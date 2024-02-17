@@ -12,6 +12,7 @@
 * [2024-02-17, 18:23:18](https://news.ycombinator.com/item?id=39411933) - [There's a Reason McDonald's Coke Tastes Better Than All Others](https://www.allrecipes.com/article/why-mcdonalds-coke-tastes-better-than-all-others/)
 * [2024-02-17, 18:21:42](https://news.ycombinator.com/item?id=39411912) - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
 * [2024-02-17, 18:13:43](https://news.ycombinator.com/item?id=39411829) - [Amazon argues that national labor board is unconstitutional](https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e)
+* [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 17:46:01](https://news.ycombinator.com/item?id=39411576) - [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
