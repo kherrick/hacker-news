@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-16, 23:41:57](https://news.ycombinator.com/item?id=39404546) - [OpenAI Completes Deal That Values the Company at $80B](https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html)
 * [2024-02-16, 23:21:46](https://news.ycombinator.com/item?id=39404364) - [Air Canada ordered to pay customer who was misled by airline's chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 22:48:15](https://news.ycombinator.com/item?id=39404046) - [Pro CCP 'spamouflage' network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
@@ -21,7 +22,6 @@
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [Showmax has displaced Netflix in Africa](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
-* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
