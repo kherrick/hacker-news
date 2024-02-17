@@ -88,6 +88,7 @@
 * [2024-02-15, 11:17:22](https://news.ycombinator.com/item?id=39381390) - [British intelligence able to read and flag private Snapchat messages](https://www.reuters.com/world/europe/spanish-judge-clears-british-teen-menorca-flight-bomb-hoax-charges-2024-01-25/)
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
+* [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
 * [2024-02-15, 09:12:42](https://news.ycombinator.com/item?id=39380595) - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
 * [2024-02-15, 09:05:11](https://news.ycombinator.com/item?id=39380556) - [Apple fans are starting to return their Vision Pros](https://www.theverge.com/2024/2/14/24072792/apple-vision-pro-early-adopters-returns)
 * [2024-02-15, 07:52:48](https://news.ycombinator.com/item?id=39380165) - [OpenAI – Application for US trademark \"GPT\" has failed](https://tsdr.uspto.gov/documentviewer?caseId=sn97733259&docId=FREF20240206125856&linkId=1#docIndex=0&page=1)
