@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 05:37:20](https://news.ycombinator.com/item?id=39406743) - [76% of Traffic from X to Clients' Sites Was Fake During Super Bowl Weekend](https://twitter.com/MattBinder/status/1758567335261061381)
+* [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406566) - [Three Six Mafia: A silly look at the value of an inch downstairs](https://divingintheshallowend.com/three-six-mafia/)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-* [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
 * [2024-02-17, 02:02:20](https://news.ycombinator.com/item?id=39405593) - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
 * [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
@@ -20,7 +21,6 @@
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:21:30](https://news.ycombinator.com/item?id=39399064) - [Show HN: Host a planet-scale geocoder for $10/mo](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 12:08:39](https://news.ycombinator.com/item?id=39381727) - [Not Without Us – Joseph Weizenbaum (1986)](https://dl.acm.org/doi/pdf/10.1145/15483.15484)
