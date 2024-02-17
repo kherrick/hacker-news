@@ -21,7 +21,6 @@
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [Showmax has displaced Netflix in Africa](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
 * [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
-* [2024-02-16, 11:05:15](https://news.ycombinator.com/item?id=39395474) - [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 02:52:01](https://news.ycombinator.com/item?id=39392582) - [Show HN: I made a Pinterest clone using SigLIP image embeddings](https://mood-amber.vercel.app)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
@@ -30,6 +29,7 @@
 * [2024-02-15, 05:41:54](https://news.ycombinator.com/item?id=39379518) - [Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]](https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf)
 * [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
+* [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368303) - [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
 
 ## [Archives](archives/index.md)
 
