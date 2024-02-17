@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-17, 21:06:37](https://news.ycombinator.com/item?id=39413562) - [Releasing my tools under the MIT License was probably a mistake](https://donatstudios.com/License-Grumbles)
+* [2024-02-17, 21:06:37](https://news.ycombinator.com/item?id=39413562) - [Releasing my tools under the MIT License was probably a mistake (2023)](https://donatstudios.com/License-Grumbles)
 * [2024-02-17, 20:48:21](https://news.ycombinator.com/item?id=39413417) - [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
 * [2024-02-17, 20:39:28](https://news.ycombinator.com/item?id=39413339) - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot Friday](https://os-copilot.github.io/)
