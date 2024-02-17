@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+* [2024-02-17, 22:03:06](https://news.ycombinator.com/item?id=39413956) - [Htmx become 0 clause BSD-licensed](https://github.com/bigskysoftware/htmx/blob/master/LICENSE)
+* [2024-02-17, 21:43:32](https://news.ycombinator.com/item?id=39413832) - [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
 * [2024-02-17, 21:06:37](https://news.ycombinator.com/item?id=39413562) - [Releasing my tools under the MIT License was probably a mistake](https://donatstudios.com/License-Grumbles)
 * [2024-02-17, 20:48:21](https://news.ycombinator.com/item?id=39413417) - [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
 * [2024-02-17, 20:39:28](https://news.ycombinator.com/item?id=39413339) - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
