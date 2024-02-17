@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 * [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [IPissed: Apple is after web capabilities to protect close to 100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 * [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)

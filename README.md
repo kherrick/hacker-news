@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 * [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [It’s Official, Apple Kills Web Apps in the EU](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 * [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
@@ -24,7 +25,6 @@
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
-* [2024-02-14, 18:24:19](https://news.ycombinator.com/item?id=39373254) - [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern)
 * [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
 * [2024-02-14, 10:33:40](https://news.ycombinator.com/item?id=39368392) - [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
