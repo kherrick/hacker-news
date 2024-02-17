@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 23:11:22](https://news.ycombinator.com/item?id=39414439) - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 21:43:32](https://news.ycombinator.com/item?id=39413832) - [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
 * [2024-02-17, 21:06:37](https://news.ycombinator.com/item?id=39413562) - [Releasing my tools under the MIT License was probably a mistake (2023)](https://donatstudios.com/License-Grumbles)
@@ -11,7 +12,6 @@
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
-* [2024-02-17, 16:06:40](https://news.ycombinator.com/item?id=39410669) - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)

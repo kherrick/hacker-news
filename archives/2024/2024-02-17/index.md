@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 23:11:22](https://news.ycombinator.com/item?id=39414439) - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 22:03:06](https://news.ycombinator.com/item?id=39413956) - [Htmx become 0 clause BSD-licensed](https://github.com/bigskysoftware/htmx/blob/master/LICENSE)
 * [2024-02-17, 21:52:00](https://news.ycombinator.com/item?id=39413891) - [Me Getting Banned from Sending PR to Zig for a Year](https://www.1a-insec.net/frag/18-zig-what/)
