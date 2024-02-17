@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
+* [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [It’s Official, Apple Kills Web Apps in the EU](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 * [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
 * [2024-02-17, 10:20:22](https://news.ycombinator.com/item?id=39408158) - [Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/)
 * [2024-02-17, 10:19:49](https://news.ycombinator.com/item?id=39408155) - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
@@ -16,7 +17,6 @@
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 23:09:26](https://news.ycombinator.com/item?id=39404262) - [FDA Approves First Medication to Treat Severe Frostbite](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
-* [2024-02-16, 22:03:16](https://news.ycombinator.com/item?id=39403534) - [LLM agents can autonomously hack websites](https://arxiv.org/abs/2402.06664)
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
