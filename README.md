@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 05:14:46](https://news.ycombinator.com/item?id=39406617) - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
-* [2024-02-17, 05:11:47](https://news.ycombinator.com/item?id=39406603) - [Indian politician drinks water from polluted 'holy' river, gets hospitalised](https://www.independent.co.uk/asia/india/bhagwant-mann-hospitalised-water-river-b2128915.html)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
@@ -20,6 +19,7 @@
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:21:30](https://news.ycombinator.com/item?id=39399064) - [Show HN: Host a planet-scale geocoder for $10/mo](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
+* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 12:08:39](https://news.ycombinator.com/item?id=39381727) - [Not Without Us – Joseph Weizenbaum (1986)](https://dl.acm.org/doi/pdf/10.1145/15483.15484)
