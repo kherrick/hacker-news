@@ -114,4 +114,5 @@
 * [2024-02-14, 01:13:56](https://news.ycombinator.com/item?id=39365135) - [Show HN: Instantly play the game I'm developing directly on its website](https://athenacrisis.com)
 * [2024-02-14, 01:13:33](https://news.ycombinator.com/item?id=39365132) - [Sam Altman Wants $7T](https://www.astralcodexten.com/p/sam-altman-wants-7-trillion)
 * [2024-02-14, 01:09:36](https://news.ycombinator.com/item?id=39365104) - [Protein biomarkers predict dementia 15 years before diagnosis in new study](https://warwick.ac.uk/newsandevents/pressreleases/?newsItem=8a17841a8d79730b018d9e2bbb0e054b)
+* [2024-02-14, 01:02:44](https://news.ycombinator.com/item?id=39365058) - [How to make your anger work for you](https://www.vox.com/the-highlight/24034907/use-anger-productively-motivation-problem-solving)
 * [2024-02-14, 00:00:15](https://news.ycombinator.com/item?id=39364576) - [Handwriting but not typewriting leads to widespread brain connectivity](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219945/full)

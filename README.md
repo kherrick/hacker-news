@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [IPissed: Apple is after web capabilities to protect close to 100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
+* [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
+* [2024-02-17, 10:19:49](https://news.ycombinator.com/item?id=39408155) - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
 * [2024-02-17, 10:06:32](https://news.ycombinator.com/item?id=39408076) - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
 * [2024-02-17, 08:45:49](https://news.ycombinator.com/item?id=39407643) - [Show HN: Simple tool to generate mock APIs for testing](https://endpts.io/tools/mock-api)
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
@@ -8,7 +11,6 @@
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 04:25:00](https://news.ycombinator.com/item?id=39406344) - [Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-* [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
 * [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 23:09:26](https://news.ycombinator.com/item?id=39404262) - [FDA Approves First Medication to Treat Severe Frostbite](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite)
@@ -17,11 +19,8 @@
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
-* [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
-* [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
@@ -30,6 +29,7 @@
 * [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
 * [2024-02-14, 10:33:40](https://news.ycombinator.com/item?id=39368392) - [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
+* [2024-02-14, 01:02:44](https://news.ycombinator.com/item?id=39365058) - [How to make your anger work for you](https://www.vox.com/the-highlight/24034907/use-anger-productively-motivation-problem-solving)
 
 ## [Archives](archives/index.md)
 
