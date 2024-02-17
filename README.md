@@ -2,7 +2,7 @@
 
 * [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:02:20](https://news.ycombinator.com/item?id=39405593) - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
-* [2024-02-16, 23:38:25](https://news.ycombinator.com/item?id=39404517) - [Understanding the Gell-Mann Amnesia Effect](https://wmathison.substack.com/p/understanding-the-gell-mann-amnesia)
+* [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
