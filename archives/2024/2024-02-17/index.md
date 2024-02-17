@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 14:25:24](https://news.ycombinator.com/item?id=39409665) - [My MacBook Setup (the 2024 version)](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
+* [2024-02-17, 14:05:01](https://news.ycombinator.com/item?id=39409499) - [Reddit signs $60M content licensing deal with AI company](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
 * [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
