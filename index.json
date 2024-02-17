@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-17, 08:47:29",
+      "https://news.ycombinator.com/item?id=39407655"
+    ],
+    [
+      "Mark Zuckerberg explains why so many tech companies are doing layoffs",
+      "https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 08:42:37",
+      "https://news.ycombinator.com/item?id=39407631"
+    ],
+    [
+      "Considerations for a long-running Raspberry Pi",
+      "https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 05:52:01",
       "https://news.ycombinator.com/item?id=39406804"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-02-16, 17:58:21",
-      "https://news.ycombinator.com/item?id=39400572"
-    ],
-    [
-      "GPU synchronization in Godot 4.3 is getting a major upgrade",
-      "https://godotengine.org/article/rendering-acyclic-graph/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 17:43:47",
       "https://news.ycombinator.com/item?id=39400352"
     ],
@@ -197,16 +207,6 @@
     [
       "My sixth year as a bootstrapped founder",
       "https://mtlynch.io/solo-developer-year-6/"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 03:32:20",
-      "https://news.ycombinator.com/item?id=39392881"
-    ],
-    [
-      "Think Python, 3rd Edition",
-      "https://allendowney.github.io/ThinkPython/"
     ]
   ],
   [
