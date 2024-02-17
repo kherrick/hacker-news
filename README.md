@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 15:33:56](https://news.ycombinator.com/item?id=39410364) - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 * [2024-02-17, 14:25:24](https://news.ycombinator.com/item?id=39409665) - [My MacBook Setup (the 2024 version)](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
+* [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
-* [2024-02-17, 14:05:01](https://news.ycombinator.com/item?id=39409499) - [Reddit signs $60M content licensing deal with AI company](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
 * [2024-02-17, 13:58:19](https://news.ycombinator.com/item?id=39409445) - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
@@ -22,7 +23,6 @@
 * [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
 * [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
