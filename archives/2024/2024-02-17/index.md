@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 * [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [IPissed: Apple is after web capabilities to protect close to 100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
@@ -16,6 +17,7 @@
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 08:20:52](https://news.ycombinator.com/item?id=39407525) - [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
 * [2024-02-17, 07:45:46](https://news.ycombinator.com/item?id=39407328) - [Options for genuine ECC RAM on the desktop in (early) 2024](https://utcc.utoronto.ca/~cks/space/blog/tech/DesktopECCOptions2024)
+* [2024-02-17, 06:59:22](https://news.ycombinator.com/item?id=39407081) - [Mushroom Sprouting Out of a Living Fro](https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 * [2024-02-17, 05:37:20](https://news.ycombinator.com/item?id=39406743) - [76% of Traffic from X to Clients' Sites Was Fake During Super Bowl Weekend](https://twitter.com/MattBinder/status/1758567335261061381)
 * [2024-02-17, 05:14:46](https://news.ycombinator.com/item?id=39406617) - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
