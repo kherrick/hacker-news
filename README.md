@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 08:47:29](https://news.ycombinator.com/item?id=39407655) - [Mark Zuckerberg explains why so many tech companies are doing layoffs](https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2)
+* [2024-02-17, 08:45:49](https://news.ycombinator.com/item?id=39407643) - [Show HN: Simple tool to generate mock APIs for testing](https://endpts.io/tools/mock-api)
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 08:20:52](https://news.ycombinator.com/item?id=39407525) - [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
@@ -23,7 +24,6 @@
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
-* [2024-02-15, 11:35:16](https://news.ycombinator.com/item?id=39381505) - [How to commit part of file in Git](https://newbeelearn.com/blog/git-commit-part-of-file/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
 * [2024-02-15, 05:41:54](https://news.ycombinator.com/item?id=39379518) - [Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]](https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf)
 * [2024-02-14, 18:24:19](https://news.ycombinator.com/item?id=39373254) - [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern)
