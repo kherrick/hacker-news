@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 08:47:29](https://news.ycombinator.com/item?id=39407655) - [Mark Zuckerberg explains why so many tech companies are doing layoffs](https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2)
+* [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 * [2024-02-17, 05:14:46](https://news.ycombinator.com/item?id=39406617) - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
@@ -17,10 +19,8 @@
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 * [2024-02-16, 17:58:35](https://news.ycombinator.com/item?id=39400581) - [Ledger: Stripe's system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
-* [2024-02-16, 17:58:21](https://news.ycombinator.com/item?id=39400572) - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
 * [2024-02-16, 17:43:47](https://news.ycombinator.com/item?id=39400352) - [Popular Git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-16, 03:32:20](https://news.ycombinator.com/item?id=39392881) - [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)

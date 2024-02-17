@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 08:47:29](https://news.ycombinator.com/item?id=39407655) - [Mark Zuckerberg explains why so many tech companies are doing layoffs](https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2)
+* [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 * [2024-02-17, 05:37:20](https://news.ycombinator.com/item?id=39406743) - [76% of Traffic from X to Clients' Sites Was Fake During Super Bowl Weekend](https://twitter.com/MattBinder/status/1758567335261061381)
 * [2024-02-17, 05:14:46](https://news.ycombinator.com/item?id=39406617) - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
