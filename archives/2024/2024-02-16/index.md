@@ -37,6 +37,7 @@
 * [2024-02-16, 16:52:50](https://news.ycombinator.com/item?id=39399591) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:42:37](https://news.ycombinator.com/item?id=39399418) - [Training LLMs to Generate Text with Citations via Fine-Grained Rewards](https://arxiv.org/abs/2402.04315)
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = F(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
+* [2024-02-16, 16:21:30](https://news.ycombinator.com/item?id=39399064) - [Show HN: Host a planet-scale geocoder for $10/mo](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 * [2024-02-16, 16:15:54](https://news.ycombinator.com/item?id=39398972) - [How to keep engineers out of meeting hell](https://morethancoding.com/2024/02/16/how-to-keep-engineers-out-of-meeting-hell/)
 * [2024-02-16, 16:04:40](https://news.ycombinator.com/item?id=39398803) - [We stopped building cut and cover](https://worksinprogress.co/issue/why-we-stopped-building-cut-and-cover/)
 * [2024-02-16, 15:54:12](https://news.ycombinator.com/item?id=39398631) - [LWM – Open LLM with 1M Tokens Context Window](https://github.com/LargeWorldModel/LWM)
