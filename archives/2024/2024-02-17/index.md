@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 20:01:13](https://news.ycombinator.com/item?id=39412940) - [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 19:17:25](https://news.ycombinator.com/item?id=39412480) - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
 * [2024-02-17, 19:01:02](https://news.ycombinator.com/item?id=39412321) - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 * [2024-02-17, 18:56:22](https://news.ycombinator.com/item?id=39412283) - [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
