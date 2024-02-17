@@ -19,6 +19,7 @@
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406566) - [Three Six Mafia: A silly look at the value of an inch downstairs](https://divingintheshallowend.com/three-six-mafia/)
 * [2024-02-17, 04:25:00](https://news.ycombinator.com/item?id=39406344) - [Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
+* [2024-02-17, 03:46:24](https://news.ycombinator.com/item?id=39406168) - [Mistral AI launches Mixtral-Next](https://chat.lmsys.org/)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding Is Here to Stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows stronger](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
