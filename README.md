@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 20:39:28](https://news.ycombinator.com/item?id=39413339) - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
 * [2024-02-17, 20:01:13](https://news.ycombinator.com/item?id=39412940) - [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 19:17:25](https://news.ycombinator.com/item?id=39412480) - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
 * [2024-02-17, 19:01:02](https://news.ycombinator.com/item?id=39412321) - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
-* [2024-02-17, 18:27:27](https://news.ycombinator.com/item?id=39411976) - [New Google Chrome feature blocks attacks against home networks](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/)
 * [2024-02-17, 18:21:42](https://news.ycombinator.com/item?id=39411912) - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
@@ -26,9 +26,9 @@
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
+* [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman (KMP)'S Lisp Eliza from MIT-AI's Its History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 * [2024-02-14, 12:21:24](https://news.ycombinator.com/item?id=39369017) - [The Heart Shape](https://www.artandobject.com/news/history-heart-shape)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
-* [2024-02-14, 10:26:17](https://news.ycombinator.com/item?id=39368364) - [Proust's Panmnemonicon](https://www.the-hinternet.com/p/prousts-panmnemonicon)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [You Can't Handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
 
 ## [Archives](archives/index.md)

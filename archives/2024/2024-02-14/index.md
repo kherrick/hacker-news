@@ -28,6 +28,7 @@
 * [2024-02-14, 19:03:55](https://news.ycombinator.com/item?id=39373744) - [Show HN: Natural Language to SQL \"Text-to-SQL\" API](https://console.dataherald.ai/playground)
 * [2024-02-14, 18:58:06](https://news.ycombinator.com/item?id=39373662) - [Ask HN: What are some actual use cases of AI Agents right now?](https://news.ycombinator.com/item?id=39373662)
 * [2024-02-14, 18:53:17](https://news.ycombinator.com/item?id=39373612) - [Nginx Security Advisory](https://mailman.nginx.org/pipermail/nginx-announce/2024/NW6MNW34VZ6HDIHH5YFBIJYZJN7FGNAV.html)
+* [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman (KMP)'S Lisp Eliza from MIT-AI's Its History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 * [2024-02-14, 18:45:44](https://news.ycombinator.com/item?id=39373538) - [Carbon capture tech a 'complete falsehood', says Fortescue Metals chairman](https://www.reuters.com/business/energy/carbon-capture-tech-complete-falsehood-says-fortescue-metals-chairman-2024-02-13/)
 * [2024-02-14, 18:43:06](https://news.ycombinator.com/item?id=39373495) - [A 'Lobby' Where a Molecule Mob Tells Genes What to Do](https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/)
 * [2024-02-14, 18:29:40](https://news.ycombinator.com/item?id=39373327) - [Core Nginx developer announces fork, freenginx](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
