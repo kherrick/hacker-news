@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-02-17, 20:01:13",
-      "https://news.ycombinator.com/item?id=39412940"
+      "2024-02-17, 20:26:18",
+      "https://news.ycombinator.com/item?id=39413215"
     ],
     [
-      "Bevy 0.13: ECS-driven game engine built in Rust",
-      "https://bevyengine.org/news/bevy-0-13/"
+      "OS-Copilot Friday",
+      "https://os-copilot.github.io/"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Unreal Engine 5 can now run in a web browser",
       "https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 19:01:02",
-      "https://news.ycombinator.com/item?id=39412321"
-    ],
-    [
-      "Inner Platform Effect",
-      "https://en.wikipedia.org/wiki/Inner-platform_effect"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "The epidemic of fraudulent DMCA takedowns",
       "https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 17:24:56",
-      "https://news.ycombinator.com/item?id=39411380"
-    ],
-    [
-      "Experimenting with GPTs custom actions, an example written in Rust",
-      "https://danielegarbagnati.com/articles/neuro-rs"
     ]
   ],
   [
@@ -161,16 +141,6 @@
   ],
   [
     [
-      "2024-02-17, 13:18:10",
-      "https://news.ycombinator.com/item?id=39409159"
-    ],
-    [
-      "Greenmask: PostgreSQL Dump and Obfuscation Tool",
-      "https://github.com/GreenmaskIO/greenmask"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 12:44:34",
       "https://news.ycombinator.com/item?id=39408934"
     ],
@@ -231,12 +201,42 @@
   ],
   [
     [
+      "2024-02-17, 03:17:27",
+      "https://news.ycombinator.com/item?id=39406014"
+    ],
+    [
+      "Most people with addiction simply grow out of it (2014)",
+      "https://psmag.com/social-justice/people-addiction-simply-grow-widely-denied-91605"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 08:44:11",
+      "https://news.ycombinator.com/item?id=39394659"
+    ],
+    [
+      "US safety regulations make it difficult to automakers to add adaptive headlights",
+      "https://www.cnn.com/2024/02/15/cars/headlights-tech-adaptable-high-beams-cars/index.html"
+    ]
+  ],
+  [
+    [
       "2024-02-15, 23:30:36",
       "https://news.ycombinator.com/item?id=39390789"
     ],
     [
       "Old Online Chevy Manuals",
       "https://chevy.oldcarmanualproject.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 23:24:30",
+      "https://news.ycombinator.com/item?id=39390723"
+    ],
+    [
+      "What DevRel means to me",
+      "https://christine.website/blog/devrel/"
     ]
   ],
   [
