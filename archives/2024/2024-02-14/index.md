@@ -70,6 +70,7 @@
 * [2024-02-14, 12:15:32](https://news.ycombinator.com/item?id=39368972) - [The history of Digital Research's Gemdos for the Atari ST](http://cd.textfiles.com/crawlycrypt1/program/books/progem/gemdos.15)
 * [2024-02-14, 12:00:09](https://news.ycombinator.com/item?id=39368868) - [Lightdash (YC S20) Is hiring an analytics engineering advocate](https://www.ycombinator.com/companies/hubble/jobs/IZ0giSa-analytics-engineering-advocate)
 * [2024-02-14, 11:58:05](https://news.ycombinator.com/item?id=39368859) - [OpenAI: Disrupting malicious uses of AI by state-affiliated threat actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
+* [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
 * [2024-02-14, 11:47:16](https://news.ycombinator.com/item?id=39368776) - [Grade Inflation at UC Riverside, and Institutional Pressures for Easier Grading](http://schwitzsplinters.blogspot.com/2024/02/grade-inflation-at-uc-riverside-and.html)
 * [2024-02-14, 11:35:55](https://news.ycombinator.com/item?id=39368700) - [Satya Nadella uses an IBM AS/400 in 1993](https://thechipletter.substack.com/p/satya-nadella-uses-an-ibm-as400-in)
 * [2024-02-14, 11:14:10](https://news.ycombinator.com/item?id=39368586) - [Xonsh: Python-powered, cross-platform, Unix-gazing shell](https://github.com/xonsh/xonsh)

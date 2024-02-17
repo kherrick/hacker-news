@@ -13,6 +13,7 @@
 * [2024-02-16, 22:48:15](https://news.ycombinator.com/item?id=39404046) - [Pro CCP 'spamouflage' network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
 * [2024-02-16, 22:39:37](https://news.ycombinator.com/item?id=39403958) - [Leak of Russian 'Threat' Part of a Bid to Kill US Surveillance Reform, Sources](https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
+* [2024-02-16, 22:03:16](https://news.ycombinator.com/item?id=39403534) - [LLM Agents Can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664)
 * [2024-02-16, 22:01:05](https://news.ycombinator.com/item?id=39403519) - [Why Tesla's Stainless Steel Cybertrucks May Be Rusting](https://www.wired.com/story/this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting/)
 * [2024-02-16, 21:01:56](https://news.ycombinator.com/item?id=39402917) - [Plastic industry knew recycling was a farce for decades](https://www.euronews.com/green/2024/02/16/plastic-industry-knew-recycling-was-a-farce-for-decades-yet-deceived-the-public-report-rev)
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did humans survive alone for 1000 years on desert islands off Africa?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
