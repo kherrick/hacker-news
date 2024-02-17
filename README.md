@@ -8,7 +8,6 @@
 * [2024-02-17, 18:21:42](https://news.ycombinator.com/item?id=39411912) - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
-* [2024-02-17, 17:24:56](https://news.ycombinator.com/item?id=39411380) - [Experimenting with GPTs custom actions, an example written in Rust](https://danielegarbagnati.com/articles/neuro-rs)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 16:06:40](https://news.ycombinator.com/item?id=39410669) - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
@@ -28,6 +27,7 @@
 * [2024-02-15, 23:24:30](https://news.ycombinator.com/item?id=39390723) - [What DevRel means to me](https://christine.website/blog/devrel/)
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
+* [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making My Bookshelves Clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman (KMP)'S Lisp Eliza from MIT-AI's Its History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 
