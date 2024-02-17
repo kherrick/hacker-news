@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-17, 08:47:29](https://news.ycombinator.com/item?id=39407655) - [Mark Zuckerberg explains why so many tech companies are doing layoffs](https://www.businessinsider.com/mark-zuckerberg-comments-tech-company-layoffs-2024-2)
+* [2024-02-17, 10:06:32](https://news.ycombinator.com/item?id=39408076) - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
 * [2024-02-17, 08:45:49](https://news.ycombinator.com/item?id=39407643) - [Show HN: Simple tool to generate mock APIs for testing](https://endpts.io/tools/mock-api)
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 08:20:52](https://news.ycombinator.com/item?id=39407525) - [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
