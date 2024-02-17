@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 18:23:18](https://news.ycombinator.com/item?id=39411933) - [There's a Reason McDonald's Coke Tastes Better Than All Others](https://www.allrecipes.com/article/why-mcdonalds-coke-tastes-better-than-all-others/)
 * [2024-02-17, 17:46:01](https://news.ycombinator.com/item?id=39411576) - [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 16:44:16](https://news.ycombinator.com/item?id=39411056) - [In Defense of Eating Brains](https://www.atlasobscura.com/articles/history-of-brain-as-food)
 * [2024-02-17, 16:27:45](https://news.ycombinator.com/item?id=39410872) - [I'm a doctor who went to Gaza. What I saw wasn't war – it was annihilation](https://www.latimes.com/opinion/story/2024-02-16/rafah-gaza-hospitals-surgery-israel-bombing-ground-offensive-children)
+* [2024-02-17, 16:06:40](https://news.ycombinator.com/item?id=39410669) - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
 * [2024-02-17, 15:33:56](https://news.ycombinator.com/item?id=39410364) - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:25:24](https://news.ycombinator.com/item?id=39409665) - [My MacBook Setup (the 2024 version)](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
