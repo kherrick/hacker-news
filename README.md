@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
+* [2024-02-17, 16:27:45](https://news.ycombinator.com/item?id=39410872) - [I'm a doctor who went to Gaza. What I saw wasn't war – it was annihilation](https://www.latimes.com/opinion/story/2024-02-16/rafah-gaza-hospitals-surgery-israel-bombing-ground-offensive-children)
 * [2024-02-17, 15:33:56](https://news.ycombinator.com/item?id=39410364) - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
@@ -19,8 +21,6 @@
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 03:46:24](https://news.ycombinator.com/item?id=39406168) - [Mistral AI launches Mixtral-Next](https://chat.lmsys.org/)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-* [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
-* [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
