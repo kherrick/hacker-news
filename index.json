@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-17, 05:52:01",
+      "https://news.ycombinator.com/item?id=39406804"
+    ],
+    [
+      "From engineer to manager: what I love, what I hate",
+      "https://thoughtspile.github.io/2024/02/16/eng-to-em/"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 05:14:46",
       "https://news.ycombinator.com/item?id=39406617"
     ],
@@ -17,6 +27,16 @@
     [
       "Progman: X11 WM modeled after Program Manager from the Windows 3 era",
       "https://github.com/jcs/progman"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 04:25:00",
+      "https://news.ycombinator.com/item?id=39406344"
+    ],
+    [
+      "Agile Is a Tainted Term",
+      "https://www.pcloadletter.dev/blog/agile/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-02-16, 16:42:37",
-      "https://news.ycombinator.com/item?id=39399418"
-    ],
-    [
-      "Training LLMs to generate text with citations via fine-grained rewards",
-      "https://arxiv.org/abs/2402.04315"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 16:35:00",
       "https://news.ycombinator.com/item?id=39399281"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2024-02-15, 12:08:39",
-      "https://news.ycombinator.com/item?id=39381727"
-    ],
-    [
-      "Not Without Us – Joseph Weizenbaum (1986)",
-      "https://dl.acm.org/doi/pdf/10.1145/15483.15484"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 11:44:06",
       "https://news.ycombinator.com/item?id=39381560"
     ],
     [
       "GRUB2 Modules (2010)",
       "http://blog.fpmurphy.com/2010/06/grub2-modules.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-15, 11:35:16",
+      "https://news.ycombinator.com/item?id=39381505"
+    ],
+    [
+      "How to commit part of file in Git",
+      "https://newbeelearn.com/blog/git-commit-part-of-file/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "UFO: A UI-Focused AI Agent for Windows OS Interaction",
       "https://github.com/microsoft/UFO"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 06:18:06",
-      "https://news.ycombinator.com/item?id=39367045"
-    ],
-    [
-      "Lithographs from Franz Wilhelm Junghuhn's Java-Album (1854)",
-      "https://publicdomainreview.org/collection/junghuhn-java-album/"
     ]
   ]
 ]
