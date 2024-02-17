@@ -30,6 +30,7 @@
 * [2024-02-16, 18:51:49](https://news.ycombinator.com/item?id=39401333) - [Corruption Pervades Police Forces in Australia and the United Kingdom (2023)](https://www.sydneycriminallawyers.com.au/blog/corruption-pervades-police-forces-in-australia-and-the-united-kingdom/)
 * [2024-02-16, 18:31:39](https://news.ycombinator.com/item?id=39401071) - [Universal Basic Income Has Been Tried over and over Again. It Works Every Time](https://gizmodo.com/universal-basic-income-has-been-tried-over-and-over-aga-1851255547)
 * [2024-02-16, 17:58:35](https://news.ycombinator.com/item?id=39400581) - [Ledger: Stripe's system for tracking and validating money movement](https://stripe.com/blog/ledger-stripe-system-for-tracking-and-validating-money-movement)
+* [2024-02-16, 17:58:29](https://news.ycombinator.com/item?id=39400576) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-16, 17:58:21](https://news.ycombinator.com/item?id=39400572) - [GPU synchronization in Godot 4.3 is getting a major upgrade](https://godotengine.org/article/rendering-acyclic-graph/)
 * [2024-02-16, 17:47:23](https://news.ycombinator.com/item?id=39400415) - [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
 * [2024-02-16, 17:45:03](https://news.ycombinator.com/item?id=39400374) - [Air Canada must honor refund policy invented by airline's chatbot](https://arstechnica.com/tech-policy/2024/02/air-canada-must-honor-refund-policy-invented-by-airlines-chatbot/)
