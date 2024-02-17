@@ -85,6 +85,7 @@
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 11:35:16](https://news.ycombinator.com/item?id=39381505) - [How to commit part of file in Git](https://newbeelearn.com/blog/git-commit-part-of-file/)
 * [2024-02-15, 11:32:18](https://news.ycombinator.com/item?id=39381478) - [Four SpaceX rockets on four launch pads in Florida, California, and Texas](https://twitter.com/SpaceX/status/1757880623115714837)
+* [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
 * [2024-02-15, 11:24:56](https://news.ycombinator.com/item?id=39381435) - [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
 * [2024-02-15, 11:17:22](https://news.ycombinator.com/item?id=39381390) - [British intelligence able to read and flag private Snapchat messages](https://www.reuters.com/world/europe/spanish-judge-clears-british-teen-menorca-flight-bomb-hoax-charges-2024-01-25/)
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
