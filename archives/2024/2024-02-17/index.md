@@ -7,6 +7,7 @@
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
+* [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 * [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [IPissed: Apple is after web capabilities to protect close to 100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 * [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
