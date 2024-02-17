@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-02-16, 17:58:21",
+      "https://news.ycombinator.com/item?id=39400572"
+    ],
+    [
+      "GPU synchronization in Godot 4.3 is getting a major upgrade",
+      "https://godotengine.org/article/rendering-acyclic-graph/"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 17:43:47",
       "https://news.ycombinator.com/item?id=39400352"
     ],
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2024-02-16, 16:21:30",
-      "https://news.ycombinator.com/item?id=39399064"
-    ],
-    [
-      "Show HN: Host a planet-scale geocoder for $10/mo",
-      "https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 15:07:15",
       "https://news.ycombinator.com/item?id=39398009"
     ],
     [
       "My sixth year as a bootstrapped founder",
       "https://mtlynch.io/solo-developer-year-6/"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 03:32:20",
+      "https://news.ycombinator.com/item?id=39392881"
+    ],
+    [
+      "Think Python, 3rd Edition",
+      "https://allendowney.github.io/ThinkPython/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "New Nvidia driver adds 16bit float support to OpenCL [pdf]",
       "https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 05:47:25",
-      "https://news.ycombinator.com/item?id=39379552"
-    ],
-    [
-      "Visualizing Packrat Parsing (2021)",
-      "https://dubroy.com/blog/visualizing-packrat-parsing/"
     ]
   ],
   [
