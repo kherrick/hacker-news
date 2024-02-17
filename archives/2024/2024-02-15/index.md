@@ -68,6 +68,7 @@
 * [2024-02-15, 14:03:44](https://news.ycombinator.com/item?id=39382803) - [Show HN: Dstack – an open-source engine for running GPU workloads](https://dstack.ai/)
 * [2024-02-15, 13:48:38](https://news.ycombinator.com/item?id=39382625) - [Boeing Disaster Proves Americans Businesses Greedy Mentality Is Broken](https://www.businessinsider.com/boeing-disaster-american-businesses-greedy-broken-stock-market-wall-street-2024-2)
 * [2024-02-15, 13:45:02](https://news.ycombinator.com/item?id=39382590) - [Ask HN: Nitter officially declared \"over\" today, alternatives?](https://news.ycombinator.com/item?id=39382590)
+* [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 13:15:14](https://news.ycombinator.com/item?id=39382281) - [GitHub now officially supports polar.sh as a funding platform](https://twitter.com/birk/status/1758087210211909649)
 * [2024-02-15, 13:14:06](https://news.ycombinator.com/item?id=39382264) - [How deceptive design is used to compromise your privacy and how to fight back](https://consciousdigital.org/deceptive-design-patterns/)
 * [2024-02-15, 13:13:59](https://news.ycombinator.com/item?id=39382263) - [Why software 'security debt' is becoming a serious problem for developers](https://www.itpro.com/security/why-software-security-debt-is-becoming-a-serious-problem-for-developers)

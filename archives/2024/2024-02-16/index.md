@@ -6,6 +6,7 @@
 
 * [2024-02-16, 23:54:37](https://news.ycombinator.com/item?id=39404637) - [Amazon and SpaceX are quietly trying to demolish national labor law](https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/)
 * [2024-02-16, 23:21:46](https://news.ycombinator.com/item?id=39404364) - [Air Canada ordered to pay customer who was misled by airline's chatbot](https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit)
+* [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 22:48:15](https://news.ycombinator.com/item?id=39404046) - [Pro CCP 'spamouflage' network pivoting to focus on US election](https://www.isdglobal.org/digital_dispatches/pro-ccp-spamouflage-net-work-focuses-on-us-election/)
 * [2024-02-16, 22:39:37](https://news.ycombinator.com/item?id=39403958) - [Leak of Russian 'Threat' Part of a Bid to Kill US Surveillance Reform, Sources](https://www.wired.com/story/section-702-privacy-reforms-sabotage-campaign/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
