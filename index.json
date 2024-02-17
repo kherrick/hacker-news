@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-17, 19:37:07",
+      "https://news.ycombinator.com/item?id=39412680"
+    ],
+    [
+      "Run Llama 2 uncensored locally",
+      "https://ollama.com/blog/run-llama2-uncensored-locally"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 19:17:25",
       "https://news.ycombinator.com/item?id=39412480"
     ],
@@ -67,6 +77,16 @@
     [
       "The epidemic of fraudulent DMCA takedowns",
       "https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 17:24:56",
+      "https://news.ycombinator.com/item?id=39411380"
+    ],
+    [
+      "Experimenting with GPTs custom actions, an example written in Rust",
+      "https://danielegarbagnati.com/articles/neuro-rs"
     ]
   ],
   [
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2024-02-16, 08:44:11",
-      "https://news.ycombinator.com/item?id=39394659"
+      "2024-02-16, 17:58:29",
+      "https://news.ycombinator.com/item?id=39400576"
     ],
     [
-      "US safety regulations make it difficult to automakers to add adaptive headlights",
-      "https://www.cnn.com/2024/02/15/cars/headlights-tech-adaptable-high-beams-cars/index.html"
+      "EffVer: Version your code by the effort required to upgrade",
+      "https://jacobtomlinson.dev/effver/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Kent Pitman (KMP)'S Lisp Eliza from MIT-AI's Its History Project",
       "https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 11:48:32",
-      "https://news.ycombinator.com/item?id=39368792"
-    ],
-    [
-      "Juvenile great apes love to tease and annoy their elders, study finds",
-      "https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 07:52:18",
-      "https://news.ycombinator.com/item?id=39367543"
-    ],
-    [
-      "You Can't Handle Errors",
-      "https://btmc.substack.com/p/you-cant-handle-errors"
     ]
   ]
 ]
