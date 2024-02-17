@@ -95,6 +95,7 @@
 * [2024-02-14, 06:43:42](https://news.ycombinator.com/item?id=39367182) - [Caching with Redis](https://nintyzeros.substack.com/p/power-of-redis-a-deep-dive-into-caching)
 * [2024-02-14, 06:34:59](https://news.ycombinator.com/item?id=39367141) - [UC Berkley: World Model on Million-Length Video and Language with RingAttention](https://largeworldmodel.github.io/)
 * [2024-02-14, 06:27:39](https://news.ycombinator.com/item?id=39367103) - [Quarto](https://quarto.org/)
+* [2024-02-14, 06:20:34](https://news.ycombinator.com/item?id=39367061) - [The End of Britain's Weeks-Long General Elections](https://www.historytoday.com/archive/history-matters/end-britains-weeks-long-general-elections)
 * [2024-02-14, 06:18:06](https://news.ycombinator.com/item?id=39367045) - [Lithographs from Franz Wilhelm Junghuhn's Java-Album (1854)](https://publicdomainreview.org/collection/junghuhn-java-album/)
 * [2024-02-14, 05:54:10](https://news.ycombinator.com/item?id=39366957) - [Oink: An open source API for PHP in a single file](https://github.com/jcarlosroldan/oink)
 * [2024-02-14, 05:26:08](https://news.ycombinator.com/item?id=39366816) - [Apple, Microsoft win exemptions for iMessage, Bing from EU rules](https://www.reuters.com/markets/europe/eu-says-several-apple-microsoft-platforms-dont-qualify-gatekeepers-2024-02-13/)

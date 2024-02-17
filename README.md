@@ -21,7 +21,6 @@
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 11:44:06](https://news.ycombinator.com/item?id=39381560) - [GRUB2 Modules (2010)](http://blog.fpmurphy.com/2010/06/grub2-modules.html)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
@@ -29,6 +28,7 @@
 * [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
 * [2024-02-14, 10:33:40](https://news.ycombinator.com/item?id=39368392) - [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
+* [2024-02-14, 06:20:34](https://news.ycombinator.com/item?id=39367061) - [The End of Britain's Weeks-Long General Elections](https://www.historytoday.com/archive/history-matters/end-britains-weeks-long-general-elections)
 * [2024-02-14, 01:02:44](https://news.ycombinator.com/item?id=39365058) - [How to make your anger work for you](https://www.vox.com/the-highlight/24034907/use-anger-productively-motivation-problem-solving)
 
 ## [Archives](archives/index.md)
