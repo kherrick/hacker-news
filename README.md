@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
+* [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
 * [2024-02-17, 02:02:20](https://news.ycombinator.com/item?id=39405593) - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
 * [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
-* [2024-02-16, 23:38:25](https://news.ycombinator.com/item?id=39404517) - [Understanding the Gell-Mann Amnesia Effect](https://wmathison.substack.com/p/understanding-the-gell-mann-amnesia)
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 23:09:26](https://news.ycombinator.com/item?id=39404262) - [FDA Approves First Medication to Treat Severe Frostbite](https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-treat-severe-frostbite)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
