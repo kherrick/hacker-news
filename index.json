@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-17, 10:30:04",
+      "https://news.ycombinator.com/item?id=39408196"
+    ],
+    [
+      "IPissed: Apple is after web capabilities to protect close to 100B App Store Tax",
+      "https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 10:24:00",
+      "https://news.ycombinator.com/item?id=39408171"
+    ],
+    [
+      "\"Stolen\" radio tower missing for at least a year",
+      "https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 10:19:49",
+      "https://news.ycombinator.com/item?id=39408155"
+    ],
+    [
+      "Microsoft bets on Germany in 3.2B euro AI push",
+      "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 10:06:32",
       "https://news.ycombinator.com/item?id=39408076"
     ],
@@ -77,16 +107,6 @@
     [
       "Automated Unit Test Improvement Using Large Language Models at Meta",
       "https://arxiv.org/abs/2402.09171"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 02:12:52",
-      "https://news.ycombinator.com/item?id=39405649"
-    ],
-    [
-      "Why diets backfire: A year after weight loss, the desire to eat grows (2018)",
-      "https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-02-16, 19:11:34",
-      "https://news.ycombinator.com/item?id=39401598"
-    ],
-    [
-      "If you're just going to sit there doing nothing, at least do nothing correctly",
-      "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 19:01:44",
       "https://news.ycombinator.com/item?id=39401487"
     ],
@@ -197,26 +207,6 @@
     [
       "My sixth year as a bootstrapped founder",
       "https://mtlynch.io/solo-developer-year-6/"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 03:32:20",
-      "https://news.ycombinator.com/item?id=39392881"
-    ],
-    [
-      "Think Python, 3rd Edition",
-      "https://allendowney.github.io/ThinkPython/"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 01:02:36",
-      "https://news.ycombinator.com/item?id=39391688"
-    ],
-    [
-      "Magika: AI powered fast and efficient file type identification",
-      "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "UFO: A UI-Focused AI Agent for Windows OS Interaction",
       "https://github.com/microsoft/UFO"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 01:02:44",
+      "https://news.ycombinator.com/item?id=39365058"
+    ],
+    [
+      "How to make your anger work for you",
+      "https://www.vox.com/the-highlight/24034907/use-anger-productively-motivation-problem-solving"
     ]
   ]
 ]
