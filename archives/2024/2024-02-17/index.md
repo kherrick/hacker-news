@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 * [2024-02-17, 05:37:20](https://news.ycombinator.com/item?id=39406743) - [76% of Traffic from X to Clients' Sites Was Fake During Super Bowl Weekend](https://twitter.com/MattBinder/status/1758567335261061381)
 * [2024-02-17, 05:14:46](https://news.ycombinator.com/item?id=39406617) - [Raising Children on the Eve of AI](https://juliawise.net/raising-children-on-the-eve-of-ai/)
 * [2024-02-17, 05:11:47](https://news.ycombinator.com/item?id=39406603) - [Indian politician drinks water from polluted 'holy' river, gets hospitalised](https://www.independent.co.uk/asia/india/bhagwant-mann-hospitalised-water-river-b2128915.html)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406566) - [Three Six Mafia: A silly look at the value of an inch downstairs](https://divingintheshallowend.com/three-six-mafia/)
+* [2024-02-17, 04:25:00](https://news.ycombinator.com/item?id=39406344) - [Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding Is Here to Stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows stronger](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
