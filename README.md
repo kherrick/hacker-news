@@ -2,9 +2,9 @@
 
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 16:44:16](https://news.ycombinator.com/item?id=39411056) - [In Defense of Eating Brains](https://www.atlasobscura.com/articles/history-of-brain-as-food)
-* [2024-02-17, 15:33:56](https://news.ycombinator.com/item?id=39410364) - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
+* [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 13:58:19](https://news.ycombinator.com/item?id=39409445) - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)

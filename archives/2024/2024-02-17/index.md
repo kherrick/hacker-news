@@ -11,6 +11,7 @@
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:25:24](https://news.ycombinator.com/item?id=39409665) - [My MacBook Setup (the 2024 version)](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
+* [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 14:05:01](https://news.ycombinator.com/item?id=39409499) - [Reddit signs $60M content licensing deal with AI company](https://www.reuters.com/technology/reddit-signs-content-licensing-deal-with-ai-company-ahead-ipo-bloomberg-reports-2024-02-16/)
 * [2024-02-17, 13:58:19](https://news.ycombinator.com/item?id=39409445) - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
