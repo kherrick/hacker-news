@@ -8,7 +8,6 @@
 * [2024-02-17, 18:13:43](https://news.ycombinator.com/item?id=39411829) - [Amazon argues that national labor board is unconstitutional](https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
-* [2024-02-17, 17:24:56](https://news.ycombinator.com/item?id=39411380) - [Experimenting with GPTs custom actions, an example written in Rust](https://danielegarbagnati.com/articles/neuro-rs)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 16:06:40](https://news.ycombinator.com/item?id=39410669) - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
@@ -29,6 +28,7 @@
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
+* [2024-02-14, 10:26:17](https://news.ycombinator.com/item?id=39368364) - [Proust's Panmnemonicon](https://www.the-hinternet.com/p/prousts-panmnemonicon)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [You Can't Handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
 
 ## [Archives](archives/index.md)

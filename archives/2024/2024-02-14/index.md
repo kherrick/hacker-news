@@ -79,6 +79,7 @@
 * [2024-02-14, 11:07:14](https://news.ycombinator.com/item?id=39368561) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 10:33:40](https://news.ycombinator.com/item?id=39368392) - [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
 * [2024-02-14, 10:27:40](https://news.ycombinator.com/item?id=39368370) - [I Grew My Substack from 439 to 451 Free Subscribers in Just 11 Months](https://shadesofgreaves.substack.com/p/how-i-grew-my-substack-from-439-to)
+* [2024-02-14, 10:26:17](https://news.ycombinator.com/item?id=39368364) - [Proust's Panmnemonicon](https://www.the-hinternet.com/p/prousts-panmnemonicon)
 * [2024-02-14, 10:12:12](https://news.ycombinator.com/item?id=39368308) - [X-ray survey bolsters prevailing theory of universe's expansion](https://www.science.org/content/article/x-ray-survey-bolsters-prevailing-theory-of-universes-expansion)
 * [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368303) - [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
 * [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368302) - [Upstart retrofits an Nvidia GH200 server into a €47,500 workstation](https://www.theregister.com/2024/02/14/german_gh200_workstation/)
