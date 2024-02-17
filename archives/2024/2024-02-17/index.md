@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
