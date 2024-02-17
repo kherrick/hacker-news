@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
 * [2024-02-17, 20:39:28](https://news.ycombinator.com/item?id=39413339) - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
+* [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot Friday](https://os-copilot.github.io/)
 * [2024-02-17, 20:01:13](https://news.ycombinator.com/item?id=39412940) - [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 19:17:25](https://news.ycombinator.com/item?id=39412480) - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
 * [2024-02-17, 19:01:02](https://news.ycombinator.com/item?id=39412321) - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
@@ -54,6 +55,7 @@
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406566) - [Three Six Mafia: A silly look at the value of an inch downstairs](https://divingintheshallowend.com/three-six-mafia/)
 * [2024-02-17, 04:25:00](https://news.ycombinator.com/item?id=39406344) - [Agile Is a Tainted Term](https://www.pcloadletter.dev/blog/agile/)
 * [2024-02-17, 03:46:24](https://news.ycombinator.com/item?id=39406168) - [Mistral AI launches Mixtral-Next](https://chat.lmsys.org/)
+* [2024-02-17, 03:17:27](https://news.ycombinator.com/item?id=39406014) - [Most people with addiction simply grow out of it (2014)](https://psmag.com/social-justice/people-addiction-simply-grow-widely-denied-91605)
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding Is Here to Stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows stronger](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
