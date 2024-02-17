@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-17, 18:56:22",
+      "https://news.ycombinator.com/item?id=39412283"
+    ],
+    [
+      "AI hiring tools may be filtering out the best job applicants",
+      "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 18:21:42",
       "https://news.ycombinator.com/item?id=39411912"
     ],
     [
       "I worry our Copilot is leaving some passengers behind",
       "https://joshcollinsworth.com/blog/copilot"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 18:13:43",
+      "https://news.ycombinator.com/item?id=39411829"
+    ],
+    [
+      "Amazon argues that national labor board is unconstitutional",
+      "https://apnews.com/article/amazon-nlrb-unconstitutional-union-labor-459331e9b77f5be0e5202c147654993e"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2024-02-17, 09:18:48",
+      "https://news.ycombinator.com/item?id=39407821"
+    ],
+    [
+      "Pgtemp: The easiest way to write tests with Postgres in Rust, without Docker",
+      "https://github.com/boustrophedon/pgtemp"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 08:42:37",
       "https://news.ycombinator.com/item?id=39407631"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2024-02-17, 03:14:00",
-      "https://news.ycombinator.com/item?id=39405996"
-    ],
-    [
-      "Automated Unit Test Improvement Using Large Language Models at Meta",
-      "https://arxiv.org/abs/2402.09171"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 11:35:39",
       "https://news.ycombinator.com/item?id=39381508"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-02-14, 12:21:24",
-      "https://news.ycombinator.com/item?id=39369017"
-    ],
-    [
-      "The Heart Shape",
-      "https://www.artandobject.com/news/history-heart-shape"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 11:48:32",
       "https://news.ycombinator.com/item?id=39368792"
     ],
@@ -287,16 +297,6 @@
     [
       "You Can't Handle Errors",
       "https://btmc.substack.com/p/you-cant-handle-errors"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 06:20:34",
-      "https://news.ycombinator.com/item?id=39367061"
-    ],
-    [
-      "The End of Britain's Weeks-Long General Elections",
-      "https://www.historytoday.com/archive/history-matters/end-britains-weeks-long-general-elections"
     ]
   ]
 ]
