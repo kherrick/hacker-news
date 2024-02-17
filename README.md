@@ -15,7 +15,7 @@
 * [2024-02-17, 09:18:48](https://news.ycombinator.com/item?id=39407821) - [Pgtemp: The easiest way to write tests with Postgres in Rust, without Docker](https://github.com/boustrophedon/pgtemp)
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 07:45:46](https://news.ycombinator.com/item?id=39407328) - [Options for genuine ECC RAM on the desktop in (early) 2024](https://utcc.utoronto.ca/~cks/space/blog/tech/DesktopECCOptions2024)
-* [2024-02-17, 06:59:22](https://news.ycombinator.com/item?id=39407081) - [Mushroom Sprouting Out of a Living Fro](https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
+* [2024-02-17, 06:59:22](https://news.ycombinator.com/item?id=39407081) - [Mushroom Sprouting Out of a Living Frog](https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
 * [2024-02-17, 05:05:41](https://news.ycombinator.com/item?id=39406568) - [Progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-17, 03:46:24](https://news.ycombinator.com/item?id=39406168) - [Mistral AI launches Mixtral-Next](https://chat.lmsys.org/)
