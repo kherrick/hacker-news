@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
-* [2024-02-17, 16:27:45](https://news.ycombinator.com/item?id=39410872) - [I'm a doctor who went to Gaza. What I saw wasn't war – it was annihilation](https://www.latimes.com/opinion/story/2024-02-16/rafah-gaza-hospitals-surgery-israel-bombing-ground-offensive-children)
+* [2024-02-17, 16:44:16](https://news.ycombinator.com/item?id=39411056) - [In Defense of Eating Brains](https://www.atlasobscura.com/articles/history-of-brain-as-food)
 * [2024-02-17, 15:33:56](https://news.ycombinator.com/item?id=39410364) - [I Ended Up with Just 0.15% of My Own Startup](https://news.ycombinator.com/item?id=39410364)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US for $1B+](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
