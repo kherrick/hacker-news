@@ -21,7 +21,7 @@
 * [2024-02-16, 16:35:00](https://news.ycombinator.com/item?id=39399281) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:21:30](https://news.ycombinator.com/item?id=39399064) - [Show HN: Host a planet-scale geocoder for $10/mo](https://blog.ellenhp.me/host-a-planet-scale-geocoder-for-10-month)
 * [2024-02-16, 15:07:15](https://news.ycombinator.com/item?id=39398009) - [My sixth year as a bootstrapped founder](https://mtlynch.io/solo-developer-year-6/)
-* [2024-02-16, 13:57:58](https://news.ycombinator.com/item?id=39397064) - [Showmax has displaced Netflix in Africa](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
+* [2024-02-16, 12:57:24](https://news.ycombinator.com/item?id=39396337) - [Data structures as topological spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 * [2024-02-15, 13:25:12](https://news.ycombinator.com/item?id=39382396) - [Fully documented source code for Lander on the Acorn Archimedes](https://github.com/markmoxon/archimedes-lander)
 * [2024-02-15, 12:08:39](https://news.ycombinator.com/item?id=39381727) - [Not Without Us – Joseph Weizenbaum (1986)](https://dl.acm.org/doi/pdf/10.1145/15483.15484)
