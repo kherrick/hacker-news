@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-17, 22:05:23",
+      "https://news.ycombinator.com/item?id=39413972"
+    ],
+    [
+      "My Notes on Gitlab's Postgres Schema Design (2022)",
+      "https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 22:03:06",
+      "https://news.ycombinator.com/item?id=39413956"
+    ],
+    [
+      "Htmx become 0 clause BSD-licensed",
+      "https://github.com/bigskysoftware/htmx/blob/master/LICENSE"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 21:43:32",
+      "https://news.ycombinator.com/item?id=39413832"
+    ],
+    [
+      "JSR first impressions: a JavaScript package manager by the Deno team",
+      "https://www.kitsonkelly.com/posts/jsr-first-impressions"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 21:06:37",
       "https://news.ycombinator.com/item?id=39413562"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39413215"
     ],
     [
-      "OS-Copilot Friday",
+      "OS-Copilot: Towards Generalist Computer Agents with Self-Improvement",
       "https://os-copilot.github.io/"
     ]
   ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-02-17, 17:24:56",
-      "https://news.ycombinator.com/item?id=39411380"
-    ],
-    [
-      "Experimenting with GPTs custom actions, an example written in Rust",
-      "https://danielegarbagnati.com/articles/neuro-rs"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 17:00:52",
       "https://news.ycombinator.com/item?id=39411189"
     ],
     [
       "Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms",
       "https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 16:06:40",
-      "https://news.ycombinator.com/item?id=39410669"
-    ],
-    [
-      "Chain-of-Thought Reasoning Without Prompting",
-      "https://arxiv.org/abs/2402.10200"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "\"Stolen\" radio tower missing for at least a year",
       "https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 10:19:49",
-      "https://news.ycombinator.com/item?id=39408155"
-    ],
-    [
-      "Microsoft bets on Germany in €3.2B AI push",
-      "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=39380520"
     ],
     [
-      "Making My Bookshelves Clickable",
+      "Making my bookshelves clickable",
       "https://jamesg.blog/2024/02/14/clickable-bookshelves/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39373567"
     ],
     [
-      "Kent Pitman (KMP)'S Lisp Eliza from MIT-AI's Its History Project",
+      "Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project",
       "https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd"
     ]
   ]
