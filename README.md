@@ -7,7 +7,6 @@
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 * [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
-* [2024-02-16, 19:52:50](https://news.ycombinator.com/item?id=39402101) - [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
@@ -30,6 +29,7 @@
 * [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)
 * [2024-02-14, 10:10:54](https://news.ycombinator.com/item?id=39368303) - [A Quadrillion Mainframes on Your Lap](https://spectrum.ieee.org/ibm-mainframe)
+* [2024-02-14, 06:18:06](https://news.ycombinator.com/item?id=39367045) - [Lithographs from Franz Wilhelm Junghuhn's Java-Album (1854)](https://publicdomainreview.org/collection/junghuhn-java-album/)
 
 ## [Archives](archives/index.md)
 
