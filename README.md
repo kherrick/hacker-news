@@ -2,12 +2,12 @@
 
 * [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:02:20](https://news.ycombinator.com/item?id=39405593) - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
+* [2024-02-16, 23:38:25](https://news.ycombinator.com/item?id=39404517) - [Understanding the Gell-Mann Amnesia Effect](https://wmathison.substack.com/p/understanding-the-gell-mann-amnesia)
 * [2024-02-16, 23:10:24](https://news.ycombinator.com/item?id=39404268) - [GPlates: Open-source software for interactive visualisation of plate tectonics](https://www.gplates.org/)
 * [2024-02-16, 22:37:38](https://news.ycombinator.com/item?id=39403935) - [Coding in Vision Pro](https://willem.com/blog/2024-02-16_vision-pro/)
 * [2024-02-16, 21:00:52](https://news.ycombinator.com/item?id=39402906) - [How did the settlers of the Canary Islands survive a millennium of isolation?](https://www.science.org/content/article/humans-survive-alone-1000-years-desert-islands-off-africa)
 * [2024-02-16, 20:57:26](https://news.ycombinator.com/item?id=39402868) - [Recording and visualising the 20k system calls it takes to \"import seaborn\"](http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html)
 * [2024-02-16, 19:55:59](https://news.ycombinator.com/item?id=39402142) - [Show HN: Driftmania – an open source PICO-8 racing game](https://frenchie14.itch.io/driftmania)
-* [2024-02-16, 19:52:50](https://news.ycombinator.com/item?id=39402101) - [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-16, 19:01:44](https://news.ycombinator.com/item?id=39401487) - [The seventh most popular easily understood unsolved problem on MathOverflow](https://mathstodon.xyz/@johncarlosbaez/111942324712561452)
