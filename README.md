@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-17, 18:23:18](https://news.ycombinator.com/item?id=39411933) - [There's a Reason McDonald's Coke Tastes Better Than All Others](https://www.allrecipes.com/article/why-mcdonalds-coke-tastes-better-than-all-others/)
+* [2024-02-17, 18:21:42](https://news.ycombinator.com/item?id=39411912) - [I worry our Copilot is leaving some passengers behind](https://joshcollinsworth.com/blog/copilot)
 * [2024-02-17, 17:46:01](https://news.ycombinator.com/item?id=39411576) - [Kremlin runs disinformation campaign to undermine Zelensky, documents show](https://www.washingtonpost.com/world/2024/02/16/russian-disinformation-zelensky-zaluzhny/)
 * [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
@@ -25,7 +25,7 @@
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 11:26:19](https://news.ycombinator.com/item?id=39381447) - [Stuffit – 30 Years of File Compression](https://www.stuffit.com/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
-* [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
+* [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 12:21:24](https://news.ycombinator.com/item?id=39369017) - [The Heart Shape](https://www.artandobject.com/news/history-heart-shape)
 * [2024-02-14, 11:48:32](https://news.ycombinator.com/item?id=39368792) - [Juvenile great apes love to tease and annoy their elders, study finds](https://www.theguardian.com/science/2024/feb/14/juvenile-great-apes-love-to-tease-and-annoy-their-elders-study-finds)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [You Can't Handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
