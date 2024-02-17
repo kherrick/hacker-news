@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-17, 03:14:00](https://news.ycombinator.com/item?id=39405996) - [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
-* [2024-02-17, 02:13:21](https://news.ycombinator.com/item?id=39405653) - [Wirebonding is here to stay](https://semiengineering.com/wirebonding-is-here-to-stay/)
 * [2024-02-17, 02:12:52](https://news.ycombinator.com/item?id=39405649) - [Why diets backfire: A year after weight loss, the desire to eat grows (2018)](https://www.latimes.com/science/sciencenow/la-sci-sn-weight-loss-hunger-20180202-story.html)
 * [2024-02-17, 02:02:20](https://news.ycombinator.com/item?id=39405593) - [The adult consequences of being bullied in childhood](https://www.sciencedirect.com/science/article/pii/S0277953624001345)
 * [2024-02-17, 01:54:34](https://news.ycombinator.com/item?id=39405547) - [Big Pharma spends billions more on executives and stockholders than on R&D](https://arstechnica.com/science/2024/02/big-pharma-spends-billions-more-on-executives-and-stockholders-than-on-rd/)
@@ -29,6 +28,7 @@
 * [2024-02-15, 05:41:54](https://news.ycombinator.com/item?id=39379518) - [Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]](https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf)
 * [2024-02-15, 03:55:41](https://news.ycombinator.com/item?id=39378935) - [Firehouse Five and the Cinderella Surprise](https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/)
 * [2024-02-14, 18:24:19](https://news.ycombinator.com/item?id=39373254) - [The Pleasure of Pattern](https://tidyfirst.substack.com/p/the-pleasure-of-pattern)
+* [2024-02-14, 10:33:40](https://news.ycombinator.com/item?id=39368392) - [UFO: A UI-Focused AI Agent for Windows OS Interaction](https://github.com/microsoft/UFO)
 * [2024-02-14, 06:18:06](https://news.ycombinator.com/item?id=39367045) - [Lithographs from Franz Wilhelm Junghuhn's Java-Album (1854)](https://publicdomainreview.org/collection/junghuhn-java-album/)
 
 ## [Archives](archives/index.md)
