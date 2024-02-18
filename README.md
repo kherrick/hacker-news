@@ -24,7 +24,7 @@
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 10:09:45](https://news.ycombinator.com/item?id=39408099) - [Treksit – Interstellar puzzle based on Graph Theory](https://treksit.com/index.html)
-* [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
+* [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 * [2024-02-15, 11:52:40](https://news.ycombinator.com/item?id=39381611) - [Platform for publishing and engaging with small tasks repeatedly over time](https://github.com/andymatuschak/orbit)
 * [2024-02-15, 11:06:57](https://news.ycombinator.com/item?id=39381323) - [Start in the Middle (2010)](https://coderoom.wordpress.com/2010/05/18/start-in-the-middle/)
 * [2024-02-14, 23:59:30](https://news.ycombinator.com/item?id=39377308) - [Recovering the Lost Aviators of World War II](https://www.smithsonianmag.com/history/recovering-lost-aviators-world-war-ii-180983690/)
