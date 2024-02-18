@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-02-18, 00:30:43",
-      "https://news.ycombinator.com/item?id=39414886"
-    ],
-    [
-      "AI Restaurant Menu with RAG",
-      "https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 23:46:17",
       "https://news.ycombinator.com/item?id=39414630"
     ],
@@ -187,6 +177,16 @@
     [
       "So long, and thanks for all the bytes",
       "https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 12:44:34",
+      "https://news.ycombinator.com/item?id=39408934"
+    ],
+    [
+      "Visualize Latent Spaces",
+      "https://github.com/enjalot/latent-scope"
     ]
   ],
   [
