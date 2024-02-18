@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
 * [2024-02-18, 09:06:23](https://news.ycombinator.com/item?id=39417459) - [Laughing Off the Dark Mode Lobby](https://www.lloydatkinson.net/posts/2024/the-dark-mode-lobby/)
+* [2024-02-18, 09:00:45](https://news.ycombinator.com/item?id=39417420) - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 * [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
 * [2024-02-18, 05:49:36](https://news.ycombinator.com/item?id=39416558) - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
