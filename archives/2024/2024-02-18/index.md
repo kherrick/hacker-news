@@ -12,6 +12,7 @@
 * [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:53:52](https://news.ycombinator.com/item?id=39419087) - [Stop Basing Your Self-Worth on Other People's Opinions](https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
+* [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 * [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
