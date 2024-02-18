@@ -14,7 +14,7 @@
 * [2024-02-18, 16:39:57](https://news.ycombinator.com/item?id=39420453) - [RoR Debugbar](https://debugbar.dev/)
 * [2024-02-18, 16:34:13](https://news.ycombinator.com/item?id=39420385) - [A random dungeon generator that fits on a business card](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 * [2024-02-18, 16:29:15](https://news.ycombinator.com/item?id=39420336) - [What's an obelisk, anyway?](https://www.science.org/content/blog-post/what-s-obelisk-anyway)
-* [2024-02-18, 16:00:48](https://news.ycombinator.com/item?id=39420111) - [Everything Is a Linear Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
+* [2024-02-18, 16:00:48](https://news.ycombinator.com/item?id=39420111) - [Everything is a linear model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
 * [2024-02-18, 15:39:49](https://news.ycombinator.com/item?id=39419917) - [A beginner's guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 * [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
