@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 14:59:01](https://news.ycombinator.com/item?id=39419558) - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
+* [2024-02-18, 14:23:15](https://news.ycombinator.com/item?id=39419300) - [Scientists Censoring Science](https://www.stevestewartwilliams.com/p/scientists-censoring-science)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
+* [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 * [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 * [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:53:52](https://news.ycombinator.com/item?id=39419087) - [Stop Basing Your Self-Worth on Other People's Opinions](https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+* [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
 * [2024-02-18, 12:16:41](https://news.ycombinator.com/item?id=39418440) - [Argentina Sees First Monthly Budget Surplus in 12 Years](https://www.barrons.com/news/argentina-sees-first-monthly-budget-surplus-in-12-years-a148e46a)
 * [2024-02-18, 12:12:40](https://news.ycombinator.com/item?id=39418412) - [Epic CEO: Apple broke web apps for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
 * [2024-02-18, 12:06:38](https://news.ycombinator.com/item?id=39418386) - [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
