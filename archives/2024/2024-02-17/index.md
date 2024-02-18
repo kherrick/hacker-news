@@ -24,6 +24,7 @@
 * [2024-02-17, 19:17:25](https://news.ycombinator.com/item?id=39412480) - [Unreal Engine 5 can now run in a web browser](https://www.pcgameshardware.de/Unreal-Engine-Software-239301/News/5-Entwickler-zeigt-Spiel-im-Browser-dank-WebGPU-1440861/)
 * [2024-02-17, 19:01:02](https://news.ycombinator.com/item?id=39412321) - [Inner Platform Effect](https://en.wikipedia.org/wiki/Inner-platform_effect)
 * [2024-02-17, 18:56:22](https://news.ycombinator.com/item?id=39412283) - [AI hiring tools may be filtering out the best job applicants](https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination)
+* [2024-02-17, 18:55:24](https://news.ycombinator.com/item?id=39412276) - [Nebula is not the fastest mesh VPN, but neither are the others](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 18:27:27](https://news.ycombinator.com/item?id=39411976) - [New Google Chrome feature blocks attacks against home networks](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/)
 * [2024-02-17, 18:23:18](https://news.ycombinator.com/item?id=39411933) - [There's a Reason McDonald's Coke Tastes Better Than All Others](https://www.allrecipes.com/article/why-mcdonalds-coke-tastes-better-than-all-others/)
