@@ -24,6 +24,7 @@
 * [2024-02-18, 16:08:34](https://news.ycombinator.com/item?id=39420181) - [The Death of Free Shipping](https://www.msn.com/en-us/money/companies/ar-BB1isY2R)
 * [2024-02-18, 16:00:48](https://news.ycombinator.com/item?id=39420111) - [Everything Is a Linear Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
 * [2024-02-18, 15:55:00](https://news.ycombinator.com/item?id=39420060) - [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
+* [2024-02-18, 15:39:49](https://news.ycombinator.com/item?id=39419917) - [A beginner's guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
 * [2024-02-18, 15:27:49](https://news.ycombinator.com/item?id=39419799) - [She Stole $54M from Her Town. Then Something Unexpected Happened](https://www.politico.com/news/magazine/2023/05/12/dixon-illinois-city-fraud-betrayal-00075869)
 * [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 * [2024-02-18, 14:59:01](https://news.ycombinator.com/item?id=39419558) - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
