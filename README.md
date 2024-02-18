@@ -19,7 +19,7 @@
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So long, and thanks for all the bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
-* [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
+* [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-16, 17:58:29](https://news.ycombinator.com/item?id=39400576) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 12:05:21](https://news.ycombinator.com/item?id=39381704) - [The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)
