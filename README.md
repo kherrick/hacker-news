@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 18:26:18](https://news.ycombinator.com/item?id=39421590) - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
+* [2024-02-18, 18:25:35](https://news.ycombinator.com/item?id=39421582) - [I Ended Up with Just 0.15% of My Own Startup](https://twitter.com/johnrushx/status/1758876724123619497)
 * [2024-02-18, 17:40:17](https://news.ycombinator.com/item?id=39421129) - [Why Some of Apple's Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
@@ -21,14 +23,12 @@
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
-* [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 09:41:09](https://news.ycombinator.com/item?id=39417638) - [Show HN: I create a free website for download YouTube transcript, subtitle](https://www.downloadyoutubesubtitle.com/)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
 * [2024-02-18, 09:00:45](https://news.ycombinator.com/item?id=39417420) - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 * [2024-02-18, 08:26:43](https://news.ycombinator.com/item?id=39417231) - [Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 07:27:26](https://news.ycombinator.com/item?id=39416966) - [MIT researchers demonstrate rapid liquid metal 3D printing technique](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/mit-researchers-demonstrate-rapid-liquid-metal-3d-printing-technique/)
-* [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
 
 ## [Archives](archives/index.md)
