@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
+* [2024-02-18, 20:33:32](https://news.ycombinator.com/item?id=39422916) - [Simon Peyton Jones – Haskell is useless [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 19:59:48](https://news.ycombinator.com/item?id=39422528) - [The AI Bullshit Singularity](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/)

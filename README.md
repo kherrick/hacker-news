@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
+* [2024-02-18, 20:33:32](https://news.ycombinator.com/item?id=39422916) - [Simon Peyton Jones – Haskell is useless [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 19:45:32](https://news.ycombinator.com/item?id=39422399) - [Poland's PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
@@ -20,7 +21,6 @@
 * [2024-02-18, 15:39:49](https://news.ycombinator.com/item?id=39419917) - [A beginner's guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 * [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
-* [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
