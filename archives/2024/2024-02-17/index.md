@@ -6,7 +6,9 @@
 
 * [2024-02-17, 23:59:42](https://news.ycombinator.com/item?id=39414720) - [Millions of donkeys killed each year to make medicine](https://www.bbc.com/news/science-environment-68230069)
 * [2024-02-17, 23:46:17](https://news.ycombinator.com/item?id=39414630) - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+* [2024-02-17, 23:33:11](https://news.ycombinator.com/item?id=39414570) - [Welding of Plutonium (1958) [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
 * [2024-02-17, 23:26:29](https://news.ycombinator.com/item?id=39414532) - [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
+* [2024-02-17, 23:19:06](https://news.ycombinator.com/item?id=39414491) - [Altman's Ambition](https://thezvi.substack.com/p/ai-51-altmans-ambition)
 * [2024-02-17, 23:11:22](https://news.ycombinator.com/item?id=39414439) - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 22:03:06](https://news.ycombinator.com/item?id=39413956) - [Htmx become 0 clause BSD-licensed](https://github.com/bigskysoftware/htmx/blob/master/LICENSE)
@@ -45,6 +47,7 @@
 * [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
+* [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
 * [2024-02-17, 10:30:04](https://news.ycombinator.com/item?id=39408196) - [IPissed: Apple is after web capabilities to protect close to 100B App Store Tax](https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/)
 * [2024-02-17, 10:24:00](https://news.ycombinator.com/item?id=39408171) - [\"Stolen\" radio tower missing for at least a year](https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751)
