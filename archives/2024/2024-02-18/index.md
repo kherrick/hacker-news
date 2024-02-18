@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
+* [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
+* [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 * [2024-02-18, 12:16:41](https://news.ycombinator.com/item?id=39418440) - [Argentina Sees First Monthly Budget Surplus in 12 Years](https://www.barrons.com/news/argentina-sees-first-monthly-budget-surplus-in-12-years-a148e46a)
