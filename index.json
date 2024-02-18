@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=39421838"
     ],
     [
-      "Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch",
+      "Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch",
       "https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 18:29:14",
+      "https://news.ycombinator.com/item?id=39421618"
+    ],
+    [
+      "Sent – simple plaintext presentation tool",
+      "https://tools.suckless.org/sent/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Why is everything based on likelihoods even though likelihoods are so small?",
       "https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 12:34:33",
-      "https://news.ycombinator.com/item?id=39418530"
-    ],
-    [
-      "PhotoPea: Advanced Image Editor",
-      "https://www.photopea.com/"
     ]
   ],
   [
