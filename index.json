@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=39407407"
     ],
     [
-      "Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm",
+      "Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization",
       "https://github.com/karpathy/minbpe"
     ]
   ],
