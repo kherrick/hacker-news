@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-18, 13:53:52",
+      "https://news.ycombinator.com/item?id=39419087"
+    ],
+    [
+      "Stop Basing Your Self-Worth on Other People's Opinions",
+      "https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 13:44:54",
       "https://news.ycombinator.com/item?id=39419010"
     ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39417231"
     ],
     [
-      "Ten Python datetime pitfalls, and what libraries are (not) doing about it",
+      "Python datetime pitfalls, and what libraries are (not) doing about it",
       "https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "My notes on Gitlab's Postgres schema design (2022)",
       "https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 14:23:47",
-      "https://news.ycombinator.com/item?id=39409650"
-    ],
-    [
-      "Ollama is now available on Windows in preview",
-      "https://ollama.com/blog/windows-preview"
     ]
   ],
   [
