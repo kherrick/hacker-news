@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-18, 01:38:31](https://news.ycombinator.com/item?id=39415301) - [Palworld fans concerned after Nintendo issues surprise takedown](https://www.gamingbible.com/news/platform/palworld-fans-concerned-after-nintendo-takedown-574758-20240215)
 * [2024-02-18, 01:24:12](https://news.ycombinator.com/item?id=39415234) - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 * [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's Upzoning Would Be Among Nation's Largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 * [2024-02-18, 00:40:07](https://news.ycombinator.com/item?id=39414945) - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
@@ -20,6 +19,7 @@
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So long, and thanks for all the bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
+* [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
 * [2024-02-16, 17:58:29](https://news.ycombinator.com/item?id=39400576) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 12:05:21](https://news.ycombinator.com/item?id=39381704) - [The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)

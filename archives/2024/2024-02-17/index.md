@@ -59,6 +59,7 @@
 * [2024-02-17, 08:45:49](https://news.ycombinator.com/item?id=39407643) - [Show HN: Simple tool to generate mock APIs for testing](https://endpts.io/tools/mock-api)
 * [2024-02-17, 08:42:37](https://news.ycombinator.com/item?id=39407631) - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
 * [2024-02-17, 08:20:52](https://news.ycombinator.com/item?id=39407525) - [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
+* [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
 * [2024-02-17, 07:45:46](https://news.ycombinator.com/item?id=39407328) - [Options for genuine ECC RAM on the desktop in (early) 2024](https://utcc.utoronto.ca/~cks/space/blog/tech/DesktopECCOptions2024)
 * [2024-02-17, 06:59:22](https://news.ycombinator.com/item?id=39407081) - [Mushroom Sprouting Out of a Living Fro](https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
