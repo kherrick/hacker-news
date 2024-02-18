@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 15:55:00](https://news.ycombinator.com/item?id=39420060) - [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
+* [2024-02-18, 15:27:49](https://news.ycombinator.com/item?id=39419799) - [She Stole $54M from Her Town. Then Something Unexpected Happened](https://www.politico.com/news/magazine/2023/05/12/dixon-illinois-city-fraud-betrayal-00075869)
 * [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 * [2024-02-18, 14:59:01](https://news.ycombinator.com/item?id=39419558) - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
 * [2024-02-18, 14:23:15](https://news.ycombinator.com/item?id=39419300) - [Scientists Censoring Science](https://www.stevestewartwilliams.com/p/scientists-censoring-science)
@@ -24,6 +26,7 @@
 * [2024-02-18, 12:06:38](https://news.ycombinator.com/item?id=39418386) - [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+* [2024-02-18, 10:26:50](https://news.ycombinator.com/item?id=39417895) - [FuturesUnordered and the Order of Futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 10:16:41](https://news.ycombinator.com/item?id=39417829) - [Zed Editor: All Occurrences Search from 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 * [2024-02-18, 09:41:09](https://news.ycombinator.com/item?id=39417638) - [Show HN: I create a free website for download YouTube transcript, subtitle](https://www.downloadyoutubesubtitle.com/)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
