@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 23:59:42](https://news.ycombinator.com/item?id=39414720) - [Millions of donkeys killed each year to make medicine](https://www.bbc.com/news/science-environment-68230069)
+* [2024-02-17, 23:46:17](https://news.ycombinator.com/item?id=39414630) - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
+* [2024-02-17, 23:26:29](https://news.ycombinator.com/item?id=39414532) - [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
 * [2024-02-17, 23:11:22](https://news.ycombinator.com/item?id=39414439) - [TrueType Fonts for OpenTTD](https://www.openttd.org/news/2024/02/17/openttd-truetype-fonts)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 22:03:06](https://news.ycombinator.com/item?id=39413956) - [Htmx become 0 clause BSD-licensed](https://github.com/bigskysoftware/htmx/blob/master/LICENSE)

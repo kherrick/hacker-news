@@ -93,6 +93,7 @@
 * [2024-02-15, 11:24:56](https://news.ycombinator.com/item?id=39381435) - [Indian government moves to ban ProtonMail after bomb threat](https://www.androidcentral.com/apps-software/indian-government-moves-to-ban-protonmail-after-bomb-threat)
 * [2024-02-15, 11:17:22](https://news.ycombinator.com/item?id=39381390) - [British intelligence able to read and flag private Snapchat messages](https://www.reuters.com/world/europe/spanish-judge-clears-british-teen-menorca-flight-bomb-hoax-charges-2024-01-25/)
 * [2024-02-15, 11:03:33](https://news.ycombinator.com/item?id=39381300) - [EncroChat](https://en.wikipedia.org/wiki/EncroChat)
+* [2024-02-15, 10:01:51](https://news.ycombinator.com/item?id=39380890) - [Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests](https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html)
 * [2024-02-15, 09:45:32](https://news.ycombinator.com/item?id=39380790) - [Goodbye Auth0](https://www.joshcanhelp.com/goodbye-auth0/)
 * [2024-02-15, 09:38:13](https://news.ycombinator.com/item?id=39380745) - [New Nvidia driver adds 16bit float support to OpenCL [pdf]](https://us.download.nvidia.com/Windows/551.52/551.52-win11-win10-release-notes.pdf)
 * [2024-02-15, 09:12:42](https://news.ycombinator.com/item?id=39380595) - [Why the EU needs more integrated electricity markets](https://www.bruegel.org/policy-brief/unity-power-power-unity-why-eu-needs-more-integrated-electricity-markets)
