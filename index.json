@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-18, 05:26:55",
+      "https://news.ycombinator.com/item?id=39416466"
+    ],
+    [
+      "Quantum Country",
+      "https://quantum.country/"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 05:21:39",
       "https://news.ycombinator.com/item?id=39416443"
     ],
@@ -207,16 +217,6 @@
     [
       "Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm",
       "https://github.com/karpathy/minbpe"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 17:58:29",
-      "https://news.ycombinator.com/item?id=39400576"
-    ],
-    [
-      "EffVer: Version your code by the effort required to upgrade",
-      "https://jacobtomlinson.dev/effver/"
     ]
   ],
   [
