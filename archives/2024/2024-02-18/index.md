@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
+* [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
 * [2024-02-18, 17:14:21](https://news.ycombinator.com/item?id=39420845) - [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-18, 17:08:22](https://news.ycombinator.com/item?id=39420774) - [Israel uses new remote sniping weapon on teen who threw rocks](https://twitter.com/QudsNen/status/1759179087967297897)
 * [2024-02-18, 17:07:56](https://news.ycombinator.com/item?id=39420769) - [I Taught the Iliad to Chinese Teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
