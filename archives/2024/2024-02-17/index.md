@@ -16,6 +16,7 @@
 * [2024-02-17, 21:43:32](https://news.ycombinator.com/item?id=39413832) - [JSR first impressions: a JavaScript package manager by the Deno team](https://www.kitsonkelly.com/posts/jsr-first-impressions)
 * [2024-02-17, 21:06:37](https://news.ycombinator.com/item?id=39413562) - [Releasing my tools under the MIT License was probably a mistake](https://donatstudios.com/License-Grumbles)
 * [2024-02-17, 20:48:21](https://news.ycombinator.com/item?id=39413417) - [Signal v7.0.0 with phone number privacy](https://github.com/signalapp/Signal-Android/compare/v6.47.4...v7.0.0)
+* [2024-02-17, 20:45:04](https://news.ycombinator.com/item?id=39413381) - [Ink/Stitch: An open-source machine embroidery design platform based on Inkscape](https://inkstitch.org/)
 * [2024-02-17, 20:39:28](https://news.ycombinator.com/item?id=39413339) - [Hitchhiking cancer vaccine makes progress in the clinic](https://news.mit.edu/2024/hitchhiking-cancer-vaccine-makes-progress-in-clinic-0215)
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot Friday](https://os-copilot.github.io/)
 * [2024-02-17, 20:01:13](https://news.ycombinator.com/item?id=39412940) - [Bevy 0.13: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-13/)
