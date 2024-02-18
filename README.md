@@ -6,7 +6,6 @@
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 19:47:27](https://news.ycombinator.com/item?id=39422417) - [Ask HN: Best resources on starting a lifestyle business?](https://news.ycombinator.com/item?id=39422417)
-* [2024-02-18, 19:45:32](https://news.ycombinator.com/item?id=39422399) - [Poland’s PM says previous government illegally used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:29:14](https://news.ycombinator.com/item?id=39421618) - [Sent – Simple plaintext presentation tool](https://tools.suckless.org/sent/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
@@ -29,6 +28,7 @@
 * [2024-02-18, 04:42:30](https://news.ycombinator.com/item?id=39416277) - [Applying Grease to TLS Extensibility (2016)](https://datatracker.ietf.org/doc/html/draft-davidben-tls-grease-01)
 * [2024-02-17, 18:55:24](https://news.ycombinator.com/item?id=39412276) - [Nebula is not the fastest mesh VPN, but neither are the others](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
+* [2024-02-17, 07:14:25](https://news.ycombinator.com/item?id=39407162) - [Show HN: I built an alternative to product tours](https://vykee.co/)
 * [2024-02-16, 19:29:29](https://news.ycombinator.com/item?id=39401818) - [Ancient Rome's failed building projects](https://www.historytoday.com/archive/history-matters/ancient-romes-failed-building-projects)
 
 ## [Archives](archives/index.md)
