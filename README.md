@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [The steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
 * [2024-02-18, 20:33:32](https://news.ycombinator.com/item?id=39422916) - [Haskell is Useless (2011) [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
@@ -25,7 +26,6 @@
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 09:41:09](https://news.ycombinator.com/item?id=39417638) - [Show HN: I create a free website for download YouTube transcript, subtitle](https://www.downloadyoutubesubtitle.com/)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
-* [2024-02-18, 09:00:45](https://news.ycombinator.com/item?id=39417420) - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 * [2024-02-18, 07:27:26](https://news.ycombinator.com/item?id=39416966) - [MIT researchers demonstrate rapid liquid metal 3D printing technique](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/mit-researchers-demonstrate-rapid-liquid-metal-3d-printing-technique/)
 * [2024-02-18, 04:42:30](https://news.ycombinator.com/item?id=39416277) - [Applying Grease to TLS Extensibility (2016)](https://datatracker.ietf.org/doc/html/draft-davidben-tls-grease-01)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
