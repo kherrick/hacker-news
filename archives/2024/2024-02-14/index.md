@@ -90,6 +90,7 @@
 * [2024-02-14, 09:37:39](https://news.ycombinator.com/item?id=39368155) - [YouTube Oddities](https://github.com/mattwright324/youtube-metadata/wiki/YouTube-Oddities)
 * [2024-02-14, 09:08:30](https://news.ycombinator.com/item?id=39368010) - [Quantified boredom. The distance between heads in listless crowd began to vary](https://www.futilitycloset.com/2024/02/14/a-fuss-budget/)
 * [2024-02-14, 09:08:29](https://news.ycombinator.com/item?id=39368009) - [Deliveroo and Uber Eats Riders Strike on Valentine's Day](https://www.bbc.co.uk/news/business-68274158)
+* [2024-02-14, 08:50:10](https://news.ycombinator.com/item?id=39367886) - [The cruel Thames: the job of pulling bodies from a dark, dangerous river](https://www.theguardian.com/uk-news/2024/feb/14/the-cruel-thames-the-job-of-pulling-bodies-from-a-dark-dangerous-river)
 * [2024-02-14, 08:32:20](https://news.ycombinator.com/item?id=39367763) - [Friction is Good: Let's add it to our digital experiences](https://www.theregister.com/2024/02/14/friction_is_good/)
 * [2024-02-14, 08:01:04](https://news.ycombinator.com/item?id=39367580) - [Memory Profiling: Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [You Can't Handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)

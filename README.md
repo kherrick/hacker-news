@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-* [2024-02-18, 05:26:55](https://news.ycombinator.com/item?id=39416466) - [Quantum Country](https://quantum.country/)
 * [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
 * [2024-02-18, 05:18:23](https://news.ycombinator.com/item?id=39416435) - ['Zombie Fires' burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
 * [2024-02-18, 05:15:52](https://news.ycombinator.com/item?id=39416422) - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
@@ -26,10 +25,11 @@
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 12:05:21](https://news.ycombinator.com/item?id=39381704) - [The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)
 * [2024-02-15, 11:52:40](https://news.ycombinator.com/item?id=39381611) - [Platform for publishing and engaging with small tasks repeatedly over time](https://github.com/andymatuschak/orbit)
+* [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and puzzle fonts/typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 * [2024-02-14, 14:01:41](https://news.ycombinator.com/item?id=39369828) - [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
-* [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [Faults, errors, and failures](https://btmc.substack.com/p/you-cant-handle-errors)
+* [2024-02-14, 08:50:10](https://news.ycombinator.com/item?id=39367886) - [The cruel Thames: the job of pulling bodies from a dark, dangerous river](https://www.theguardian.com/uk-news/2024/feb/14/the-cruel-thames-the-job-of-pulling-bodies-from-a-dark-dangerous-river)
 
 ## [Archives](archives/index.md)
 
