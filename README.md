@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 19:00:30](https://news.ycombinator.com/item?id=39421959) - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:26:18](https://news.ycombinator.com/item?id=39421590) - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
-* [2024-02-18, 17:40:17](https://news.ycombinator.com/item?id=39421129) - [Why Some of Apple's Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 * [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
