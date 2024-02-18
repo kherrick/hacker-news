@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 17:40:17](https://news.ycombinator.com/item?id=39421129) - [Why Some of Apple's Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 * [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
@@ -12,6 +13,7 @@
 * [2024-02-18, 17:07:56](https://news.ycombinator.com/item?id=39420769) - [I Taught the Iliad to Chinese Teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
 * [2024-02-18, 17:05:07](https://news.ycombinator.com/item?id=39420720) - [Bitmagnet Allows People to Run Their Own Decentralized Torrent Indexer Locally](https://torrentfreak.com/bitmagnet-allows-people-to-run-their-own-decentralized-torrent-indexer-locally-240218/)
 * [2024-02-18, 16:55:40](https://news.ycombinator.com/item?id=39420622) - [Foldit](https://en.wikipedia.org/wiki/Foldit)
+* [2024-02-18, 16:54:49](https://news.ycombinator.com/item?id=39420614) - [Magic AI Secures $117M to Build an AI Software Engineer](https://www.maginative.com/article/magic-ai-secures-117-million-to-build-an-ai-software-engineer/)
 * [2024-02-18, 16:50:48](https://news.ycombinator.com/item?id=39420574) - [Climate experts sound alarm over thriving plant life at Greenland ice sheet](https://www.theguardian.com/world/2024/feb/13/flourishing-vegetation-greenland-ice-sheet-alarm-climate-crisis)
 * [2024-02-18, 16:49:38](https://news.ycombinator.com/item?id=39420564) - [How Norway Built an EV Utopia While the US Is Struggling to Go Electric](https://www.youtube.com/watch?v=R5DbRyeZNRk)
 * [2024-02-18, 16:43:30](https://news.ycombinator.com/item?id=39420505) - [How China Built BYD, Its Tesla Killer](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
