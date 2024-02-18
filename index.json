@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-02-18, 00:40:07",
+      "https://news.ycombinator.com/item?id=39414945"
+    ],
+    [
+      "Disconnecting the Playstation 5 from Internet installs DVD games faster",
+      "https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 00:30:43",
+      "https://news.ycombinator.com/item?id=39414886"
+    ],
+    [
+      "AI Restaurant Menu with RAG",
+      "https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 23:59:42",
+      "https://news.ycombinator.com/item?id=39414720"
+    ],
+    [
+      "Millions of donkeys killed each year to make medicine",
+      "https://www.bbc.com/news/science-environment-68230069"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 23:46:17",
+      "https://news.ycombinator.com/item?id=39414630"
+    ],
+    [
+      "Basic proxy implementation using io_uring",
+      "https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 23:26:29",
+      "https://news.ycombinator.com/item?id=39414532"
+    ],
+    [
+      "Representation Engineering: Mistral-7B on Acid",
+      "https://vgel.me/posts/representation-engineering/"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 23:11:22",
       "https://news.ycombinator.com/item?id=39414439"
     ],
@@ -25,18 +75,8 @@
       "https://news.ycombinator.com/item?id=39413832"
     ],
     [
-      "JSR first impressions: a JavaScript package manager by the Deno team",
+      "JSR first impressions: a JavaScript package manager by the Deno team (2023)",
       "https://www.kitsonkelly.com/posts/jsr-first-impressions"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 21:06:37",
-      "https://news.ycombinator.com/item?id=39413562"
-    ],
-    [
-      "Releasing my tools under the MIT License was probably a mistake (2023)",
-      "https://donatstudios.com/License-Grumbles"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Replicate vs. Fly GPU cold-start latency",
       "https://venki.dev/notes/replicate-vs-fly"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 17:45:26",
-      "https://news.ycombinator.com/item?id=39411570"
-    ],
-    [
-      "The epidemic of fraudulent DMCA takedowns",
-      "https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/"
     ]
   ],
   [
@@ -161,52 +191,12 @@
   ],
   [
     [
-      "2024-02-17, 10:45:22",
-      "https://news.ycombinator.com/item?id=39408288"
-    ],
-    [
-      "We Have to Start Over: From Atom to Zed",
-      "https://zed.dev/blog/we-have-to-start-over"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 10:24:00",
       "https://news.ycombinator.com/item?id=39408171"
     ],
     [
       "\"Stolen\" radio tower missing for at least a year",
       "https://www.radiodiscussions.com/threads/wjlx-wjbe-and-werh-oh-my.769948/#post-6697751"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 10:19:49",
-      "https://news.ycombinator.com/item?id=39408155"
-    ],
-    [
-      "Microsoft bets on Germany in €3.2B AI push",
-      "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 10:06:32",
-      "https://news.ycombinator.com/item?id=39408076"
-    ],
-    [
-      "Spnec fast-tracks ₱200B solar farm in Central Luzon",
-      "https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 08:42:37",
-      "https://news.ycombinator.com/item?id=39407631"
-    ],
-    [
-      "Considerations for a long-running Raspberry Pi",
-      "https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html"
     ]
   ],
   [
@@ -231,21 +221,11 @@
   ],
   [
     [
-      "2024-02-15, 23:24:30",
-      "https://news.ycombinator.com/item?id=39390723"
-    ],
-    [
-      "What DevRel means to me",
-      "https://christine.website/blog/devrel/"
-    ]
-  ],
-  [
-    [
       "2024-02-15, 12:05:21",
       "https://news.ycombinator.com/item?id=39381704"
     ],
     [
-      "The World of Yakuza Fan Magazines",
+      "The world of Yakuza fan magazines (2009)",
       "https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/"
     ]
   ],
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2024-02-15, 11:26:19",
-      "https://news.ycombinator.com/item?id=39381447"
+      "2024-02-15, 10:01:51",
+      "https://news.ycombinator.com/item?id=39380890"
     ],
     [
-      "Stuffit – 30 Years of File Compression",
-      "https://www.stuffit.com/"
+      "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html"
     ]
   ],
   [
@@ -285,7 +265,7 @@
       "https://news.ycombinator.com/item?id=39379661"
     ],
     [
-      "Mathematical and Puzzle Fonts/Typefaces",
+      "Mathematical and puzzle fonts/typefaces",
       "https://erikdemaine.org/fonts/"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project",
       "https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 07:52:18",
+      "https://news.ycombinator.com/item?id=39367543"
+    ],
+    [
+      "Faults, errors, and failures",
+      "https://btmc.substack.com/p/you-cant-handle-errors"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 06:20:34",
+      "https://news.ycombinator.com/item?id=39367061"
+    ],
+    [
+      "The end of Britain's weeks-long general elections",
+      "https://www.historytoday.com/archive/history-matters/end-britains-weeks-long-general-elections"
     ]
   ]
 ]
