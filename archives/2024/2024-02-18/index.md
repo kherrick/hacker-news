@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+* [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
 * [2024-02-18, 05:15:52](https://news.ycombinator.com/item?id=39416422) - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
 * [2024-02-18, 03:23:16](https://news.ycombinator.com/item?id=39415878) - [What's the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
 * [2024-02-18, 03:06:08](https://news.ycombinator.com/item?id=39415787) - [But this mind-blowingly server just, like, arrived](https://www.theregister.com/2024/02/16/on_call/)

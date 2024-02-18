@@ -59,6 +59,7 @@
 * [2024-02-14, 14:14:25](https://news.ycombinator.com/item?id=39369973) - [The Golden Age of Cordless Power Tools](https://toolguyd.com/golden-age-of-cordless-power-tools/)
 * [2024-02-14, 14:05:58](https://news.ycombinator.com/item?id=39369878) - [AMD Ryzen Master Utility for Overclocking Control](https://www.amd.com/en/technologies/ryzen-master)
 * [2024-02-14, 14:03:37](https://news.ycombinator.com/item?id=39369853) - [We sped up time series by 20-30x](https://www.rerun.io/blog/primary-query-caching)
+* [2024-02-14, 14:01:41](https://news.ycombinator.com/item?id=39369828) - [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
 * [2024-02-14, 13:59:10](https://news.ycombinator.com/item?id=39369793) - [Mark Zuckerberg says Quest 3 'is the better product, period'](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3)
 * [2024-02-14, 13:56:22](https://news.ycombinator.com/item?id=39369766) - [YC's Latest Request for Startups](https://www.ycombinator.com/blog/ycs-latest-request-for-startups/)
 * [2024-02-14, 13:55:10](https://news.ycombinator.com/item?id=39369749) - [Pure Bash Web Server](https://github.com/dzove855/Bash-web-server)

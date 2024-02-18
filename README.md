@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+* [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
 * [2024-02-18, 05:15:52](https://news.ycombinator.com/item?id=39416422) - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
 * [2024-02-18, 01:24:12](https://news.ycombinator.com/item?id=39415234) - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 * [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's upzoning would be among nation's largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
@@ -14,8 +16,6 @@
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
-* [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
-* [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
@@ -25,10 +25,10 @@
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 12:05:21](https://news.ycombinator.com/item?id=39381704) - [The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)
 * [2024-02-15, 11:52:40](https://news.ycombinator.com/item?id=39381611) - [Platform for publishing and engaging with small tasks repeatedly over time](https://github.com/andymatuschak/orbit)
-* [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
 * [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and puzzle fonts/typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
+* [2024-02-14, 14:01:41](https://news.ycombinator.com/item?id=39369828) - [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [Faults, errors, and failures](https://btmc.substack.com/p/you-cant-handle-errors)
 
 ## [Archives](archives/index.md)
