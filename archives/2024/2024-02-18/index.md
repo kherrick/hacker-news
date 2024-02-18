@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 * [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 * [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:53:52](https://news.ycombinator.com/item?id=39419087) - [Stop Basing Your Self-Worth on Other People's Opinions](https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions)
