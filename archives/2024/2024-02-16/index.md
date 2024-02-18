@@ -23,6 +23,7 @@
 * [2024-02-16, 19:52:50](https://news.ycombinator.com/item?id=39402101) - [Paying people to work on open source is good](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 19:49:52](https://news.ycombinator.com/item?id=39402057) - [Unreal Engine 5 now has WebGPU support](https://videocardz.com/newz/upcoming-project-enables-unreal-engine-5-to-run-through-a-web-browser)
 * [2024-02-16, 19:42:50](https://news.ycombinator.com/item?id=39401973) - [Hyrum's Law](https://www.hyrumslaw.com)
+* [2024-02-16, 19:29:29](https://news.ycombinator.com/item?id=39401818) - [Ancient Rome's Failed Building Projects](https://www.historytoday.com/archive/history-matters/ancient-romes-failed-building-projects)
 * [2024-02-16, 19:17:20](https://news.ycombinator.com/item?id=39401669) - [Amazon Joins SpaceX in Mission to Destroy NLRB](https://www.vice.com/en/article/3ake93/amazon-spacex-nlrb-unconstitutional)
 * [2024-02-16, 19:11:34](https://news.ycombinator.com/item?id=39401598) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-16, 19:05:13](https://news.ycombinator.com/item?id=39401521) - [Learning about Debuggers](https://werat.dev/blog/learning-about-debuggers/)

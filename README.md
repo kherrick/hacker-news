@@ -9,7 +9,6 @@
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 * [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
-* [2024-02-18, 17:14:21](https://news.ycombinator.com/item?id=39420845) - [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-18, 17:05:07](https://news.ycombinator.com/item?id=39420720) - [Bitmagnet Allows People to Run Their Own Decentralized Torrent Indexer Locally](https://torrentfreak.com/bitmagnet-allows-people-to-run-their-own-decentralized-torrent-indexer-locally-240218/)
 * [2024-02-18, 16:43:30](https://news.ycombinator.com/item?id=39420505) - [How China Built BYD](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
 * [2024-02-18, 16:39:57](https://news.ycombinator.com/item?id=39420453) - [RoR Debugbar](https://debugbar.dev/)
@@ -30,6 +29,7 @@
 * [2024-02-18, 08:26:43](https://news.ycombinator.com/item?id=39417231) - [Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 07:27:26](https://news.ycombinator.com/item?id=39416966) - [MIT researchers demonstrate rapid liquid metal 3D printing technique](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/mit-researchers-demonstrate-rapid-liquid-metal-3d-printing-technique/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
+* [2024-02-16, 19:29:29](https://news.ycombinator.com/item?id=39401818) - [Ancient Rome's Failed Building Projects](https://www.historytoday.com/archive/history-matters/ancient-romes-failed-building-projects)
 
 ## [Archives](archives/index.md)
 
