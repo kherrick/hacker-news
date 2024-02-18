@@ -9,6 +9,7 @@
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-18, 05:26:55](https://news.ycombinator.com/item?id=39416466) - [Quantum Country](https://quantum.country/)
 * [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
+* [2024-02-18, 05:18:29](https://news.ycombinator.com/item?id=39416436) - [Why You're Still Single (2023)](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
 * [2024-02-18, 05:18:23](https://news.ycombinator.com/item?id=39416435) - ['Zombie Fires' burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
 * [2024-02-18, 05:15:52](https://news.ycombinator.com/item?id=39416422) - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
 * [2024-02-18, 05:13:50](https://news.ycombinator.com/item?id=39416412) - [Jeffrey Katzenberg Says A.I. Will Eliminate 90% of Artist Jobs on Animated Films](https://www.indiewire.com/news/business/jeffrey-katzenberg-ai-will-take-90-percent-animation-jobs-1234924809/)

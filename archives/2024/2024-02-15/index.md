@@ -8,6 +8,7 @@
 * [2024-02-15, 23:48:54](https://news.ycombinator.com/item?id=39390965) - [It Was 33 Years Ago Today: Happy Birthday Lemmings](https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/)
 * [2024-02-15, 23:30:36](https://news.ycombinator.com/item?id=39390789) - [Old Online Chevy Manuals](https://chevy.oldcarmanualproject.com/)
 * [2024-02-15, 23:24:30](https://news.ycombinator.com/item?id=39390723) - [What DevRel means to me](https://christine.website/blog/devrel/)
+* [2024-02-15, 22:28:17](https://news.ycombinator.com/item?id=39390091) - [Dark UX doesn't work in the long run](https://www.pcloadletter.dev/blog/dark-ux/)
 * [2024-02-15, 22:20:00](https://news.ycombinator.com/item?id=39389969) - [Greece legalizes same-sex marriage in a first for an Orthodox Christian nation](https://www.nbcnews.com/nbc-out/out-news/greece-same-sex-marriage-legal-orthodox-christian-country-rcna138968)
 * [2024-02-15, 22:12:11](https://news.ycombinator.com/item?id=39389858) - [Show HN: Galactic Compass, an app that points to the galactic center](https://interconnected.org/home/2024/02/15/galactic-compass)
 * [2024-02-15, 21:59:14](https://news.ycombinator.com/item?id=39389655) - [Remote user impersonation and takeover via cache poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
