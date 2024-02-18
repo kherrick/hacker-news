@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-02-18, 14:59:01",
+      "https://news.ycombinator.com/item?id=39419558"
+    ],
+    [
+      "The hottest trend in U.S. cities? Changing zoning rules to allow more housing",
+      "https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 14:23:15",
+      "https://news.ycombinator.com/item?id=39419300"
+    ],
+    [
+      "Scientists Censoring Science",
+      "https://www.stevestewartwilliams.com/p/scientists-censoring-science"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 14:12:21",
       "https://news.ycombinator.com/item?id=39419210"
     ],
     [
       "Access over 181,000 USGS Historical Topographic Maps",
       "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 14:09:37",
+      "https://news.ycombinator.com/item?id=39419195"
+    ],
+    [
+      "SPAD: Spatially Aware Multiview Diffusers",
+      "https://yashkant.github.io/spad/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Why is everything based on likelihoods even though likelihoods are so small?",
       "https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 12:34:33",
+      "https://news.ycombinator.com/item?id=39418530"
+    ],
+    [
+      "PhotoPea: Advanced Image Editor",
+      "https://www.photopea.com/"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2024-02-17, 23:46:17",
-      "https://news.ycombinator.com/item?id=39414630"
-    ],
-    [
-      "Basic proxy implementation using io_uring",
-      "https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 23:26:29",
       "https://news.ycombinator.com/item?id=39414532"
     ],
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-02-17, 14:23:47",
-      "https://news.ycombinator.com/item?id=39409650"
-    ],
-    [
-      "Ollama is now available on Windows in preview",
-      "https://ollama.com/blog/windows-preview"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 12:36:06",
-      "https://news.ycombinator.com/item?id=39408889"
-    ],
-    [
-      "Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)",
-      "https://btxx.org/posts/x201/"
-    ]
-  ],
-  [
-    [
       "2024-02-17, 10:09:45",
       "https://news.ycombinator.com/item?id=39408099"
     ],
@@ -247,16 +257,6 @@
     [
       "Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization",
       "https://github.com/karpathy/minbpe"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 11:52:40",
-      "https://news.ycombinator.com/item?id=39381611"
-    ],
-    [
-      "Platform for publishing and engaging with small tasks repeatedly over time",
-      "https://github.com/andymatuschak/orbit"
     ]
   ],
   [
