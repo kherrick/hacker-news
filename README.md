@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
 * [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
@@ -15,7 +16,6 @@
 * [2024-02-17, 20:45:04](https://news.ycombinator.com/item?id=39413381) - [Ink/Stitch: An open-source machine embroidery design platform based on Inkscape](https://inkstitch.org/)
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
-* [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 13:07:26](https://news.ycombinator.com/item?id=39409088) - [The Ramen Lord](https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/)
 * [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding](https://twitter.com/ylecun/status/1758740106955952191)
