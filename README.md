@@ -17,6 +17,7 @@
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
+* [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So long, and thanks for all the bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 * [2024-02-17, 13:07:26](https://news.ycombinator.com/item?id=39409088) - [The Ramen Lord](https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/)
 * [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding](https://twitter.com/ylecun/status/1758740106955952191)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
@@ -27,7 +28,6 @@
 * [2024-02-15, 11:52:40](https://news.ycombinator.com/item?id=39381611) - [Platform for publishing and engaging with small tasks repeatedly over time](https://github.com/andymatuschak/orbit)
 * [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-14, 23:59:30](https://news.ycombinator.com/item?id=39377308) - [Recovering the Lost Aviators of World War II](https://www.smithsonianmag.com/history/recovering-lost-aviators-world-war-ii-180983690/)
-* [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 * [2024-02-14, 14:01:41](https://news.ycombinator.com/item?id=39369828) - [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
 * [2024-02-14, 08:50:10](https://news.ycombinator.com/item?id=39367886) - [The cruel Thames: the job of pulling bodies from a dark, dangerous river](https://www.theguardian.com/uk-news/2024/feb/14/the-cruel-thames-the-job-of-pulling-bodies-from-a-dark-dangerous-river)
 
