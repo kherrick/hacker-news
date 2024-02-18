@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
 * [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
+* [2024-02-18, 05:49:36](https://news.ycombinator.com/item?id=39416558) - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-18, 05:26:55](https://news.ycombinator.com/item?id=39416466) - [Quantum Country](https://quantum.country/)
 * [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
 * [2024-02-18, 05:18:23](https://news.ycombinator.com/item?id=39416435) - ['Zombie Fires' burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
 * [2024-02-18, 05:15:52](https://news.ycombinator.com/item?id=39416422) - [Carbon Capture Facility in World Creates 25x More CO2 from Use of Product](https://cleantechnica.com/2024/02/15/ccs-redux-best-carbon-capture-facility-in-world-creates-25x-more-co2-from-use-of-product/)
+* [2024-02-18, 05:13:50](https://news.ycombinator.com/item?id=39416412) - [Jeffrey Katzenberg Says A.I. Will Eliminate 90% of Artist Jobs on Animated Films](https://www.indiewire.com/news/business/jeffrey-katzenberg-ai-will-take-90-percent-animation-jobs-1234924809/)
 * [2024-02-18, 03:23:16](https://news.ycombinator.com/item?id=39415878) - [What's the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
 * [2024-02-18, 03:06:08](https://news.ycombinator.com/item?id=39415787) - [But this mind-blowingly server just, like, arrived](https://www.theregister.com/2024/02/16/on_call/)
 * [2024-02-18, 01:38:31](https://news.ycombinator.com/item?id=39415301) - [Palworld fans concerned after Nintendo issues surprise takedown](https://www.gamingbible.com/news/platform/palworld-fans-concerned-after-nintendo-takedown-574758-20240215)
