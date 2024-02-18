@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 22:28:30](https://news.ycombinator.com/item?id=39424132) - [Questions about DuckDuckGo's Future](https://thejollyteapot.com/2024/02/17/questions-about-duckduckgos-future)
 * [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [The steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 * [2024-02-18, 21:25:39](https://news.ycombinator.com/item?id=39423539) - [Frozen embryos are 'children,' Alabama Supreme Court rules](https://www.al.com/news/mobile/2024/02/frozen-embryos-are-children-alabama-supreme-court-rules-in-reviving-couples-wrongful-death-suits.html)
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
