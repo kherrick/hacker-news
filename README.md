@@ -12,6 +12,7 @@
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
+* [2024-02-17, 17:45:26](https://news.ycombinator.com/item?id=39411570) - [The epidemic of fraudulent DMCA takedowns](https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/)
 * [2024-02-17, 17:00:52](https://news.ycombinator.com/item?id=39411189) - [Charge Robotics (YC S21) is hiring SWEs to work on robots that build solar farms](https://www.ycombinator.com/companies/charge-robotics/jobs/MiQeDgi-senior-robotics-software-engineer)
 * [2024-02-17, 14:41:56](https://news.ycombinator.com/item?id=39409816) - [Show HN: macOS-cross-compiler – Compile binaries for macOS on Linux](https://github.com/shepherdjerred/macos-cross-compiler)
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
@@ -29,7 +30,6 @@
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and puzzle fonts/typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
 * [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [Faults, errors, and failures](https://btmc.substack.com/p/you-cant-handle-errors)
-* [2024-02-14, 06:20:34](https://news.ycombinator.com/item?id=39367061) - [The end of Britain's weeks-long general elections](https://www.historytoday.com/archive/history-matters/end-britains-weeks-long-general-elections)
 
 ## [Archives](archives/index.md)
 
