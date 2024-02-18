@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-18, 03:23:16](https://news.ycombinator.com/item?id=39415878) - [What's the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
+* [2024-02-18, 03:06:08](https://news.ycombinator.com/item?id=39415787) - [But this mind-blowingly server just, like, arrived](https://www.theregister.com/2024/02/16/on_call/)
 * [2024-02-18, 01:24:12](https://news.ycombinator.com/item?id=39415234) - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 * [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's upzoning would be among nation's largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 * [2024-02-18, 00:40:07](https://news.ycombinator.com/item?id=39414945) - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
@@ -10,7 +11,6 @@
 * [2024-02-17, 23:19:06](https://news.ycombinator.com/item?id=39414491) - [Altman's Ambition](https://thezvi.substack.com/p/ai-51-altmans-ambition)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My Notes on Gitlab's Postgres Schema Design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 21:43:32](https://news.ycombinator.com/item?id=39413832) - [JSR first impressions: a JavaScript package manager by the Deno team (2023)](https://www.kitsonkelly.com/posts/jsr-first-impressions)
-* [2024-02-17, 20:45:04](https://news.ycombinator.com/item?id=39413381) - [Ink/Stitch: An open-source machine embroidery design platform based on Inkscape](https://inkstitch.org/)
 * [2024-02-17, 20:26:18](https://news.ycombinator.com/item?id=39413215) - [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://os-copilot.github.io/)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
