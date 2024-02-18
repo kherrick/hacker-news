@@ -17,7 +17,7 @@
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 18:03:26](https://news.ycombinator.com/item?id=39411748) - [Replicate vs. Fly GPU cold-start latency](https://venki.dev/notes/replicate-vs-fly)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
-* [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding here](https://twitter.com/ylecun/status/1758740106955952191)
+* [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding](https://twitter.com/ylecun/status/1758740106955952191)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
