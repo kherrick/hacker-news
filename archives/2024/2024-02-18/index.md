@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 19:59:48](https://news.ycombinator.com/item?id=39422528) - [The AI Bullshit Singularity](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/)
+* [2024-02-18, 19:45:32](https://news.ycombinator.com/item?id=39422399) - [Poland's PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
+* [2024-02-18, 19:42:49](https://news.ycombinator.com/item?id=39422364) - [Sora could ruin peoples lives](https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220)
 * [2024-02-18, 19:00:30](https://news.ycombinator.com/item?id=39421959) - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:29:14](https://news.ycombinator.com/item?id=39421618) - [Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)
