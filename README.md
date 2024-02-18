@@ -29,7 +29,7 @@
 * [2024-02-17, 23:26:29](https://news.ycombinator.com/item?id=39414532) - [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My notes on Gitlab's Postgres schema design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
-* [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
+* [2024-02-17, 10:09:45](https://news.ycombinator.com/item?id=39408099) - [Treksit – Interstellar puzzle based on Graph Theory](https://treksit.com/index.html)
 
 ## [Archives](archives/index.md)
 
