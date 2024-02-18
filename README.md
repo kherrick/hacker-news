@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 03:23:16](https://news.ycombinator.com/item?id=39415878) - [What's the fun in writing on the internet anymore?](https://jamesshelley.com/blog/writing-on-the-internet.html)
 * [2024-02-18, 01:24:12](https://news.ycombinator.com/item?id=39415234) - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
-* [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's Upzoning Would Be Among Nation's Largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
+* [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's upzoning would be among nation's largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 * [2024-02-18, 00:40:07](https://news.ycombinator.com/item?id=39414945) - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
 * [2024-02-17, 23:46:17](https://news.ycombinator.com/item?id=39414630) - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
 * [2024-02-17, 23:33:11](https://news.ycombinator.com/item?id=39414570) - [Welding of Plutonium (1958) [pdf]](https://sgp.fas.org/othergov/doe/lanl/lib-www/la-pubs/00414797.pdf)
@@ -18,7 +19,7 @@
 * [2024-02-17, 14:24:14](https://news.ycombinator.com/item?id=39409653) - [The Ute Tribe will construct one of the largest solar farms in the US](https://www.ksut.org/news/2024-02-15/ute-mountain-ute-tribe-will-construct-one-of-the-largest-solar-farms-in-the-u-s)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 14:09:37](https://news.ycombinator.com/item?id=39409535) - [So long, and thanks for all the bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
-* [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
+* [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
 * [2024-02-16, 17:58:29](https://news.ycombinator.com/item?id=39400576) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
@@ -29,7 +30,6 @@
 * [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and puzzle fonts/typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
-* [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [Faults, errors, and failures](https://btmc.substack.com/p/you-cant-handle-errors)
 
 ## [Archives](archives/index.md)
 
