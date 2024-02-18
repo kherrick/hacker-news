@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-18, 06:02:10](https://news.ycombinator.com/item?id=39416602) - [Apple Watch Ultra 2 Hacked](https://discussions.apple.com/thread/255453237)
-* [2024-02-18, 05:49:36](https://news.ycombinator.com/item?id=39416558) - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-18, 05:21:39](https://news.ycombinator.com/item?id=39416443) - [Ask HN: Which Python type checker should I use?](https://news.ycombinator.com/item?id=39416443)
 * [2024-02-18, 05:18:29](https://news.ycombinator.com/item?id=39416436) - [Why You're Still Single (2023)](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
 * [2024-02-18, 05:18:23](https://news.ycombinator.com/item?id=39416435) - ['Zombie Fires' burning at an alarming rate in Canada](https://www.bbc.com/news/world-us-canada-68228943)
 * [2024-02-18, 05:13:50](https://news.ycombinator.com/item?id=39416412) - [Jeffrey Katzenberg Says A.I. Will Eliminate 90% of Artist Jobs on Animated Films](https://www.indiewire.com/news/business/jeffrey-katzenberg-ai-will-take-90-percent-animation-jobs-1234924809/)
+* [2024-02-18, 01:24:12](https://news.ycombinator.com/item?id=39415234) - [Science fiction authors were excluded from awards for fear of offending China](https://www.nbcnews.com/news/world/science-fiction-authors-excluded-hugo-awards-china-rcna139134)
 * [2024-02-18, 00:41:13](https://news.ycombinator.com/item?id=39414954) - [Berkeley's upzoning would be among nation's largest](https://darrellowens.substack.com/p/berkeleys-upzoning-would-be-among)
 * [2024-02-18, 00:40:07](https://news.ycombinator.com/item?id=39414945) - [Disconnecting the Playstation 5 from Internet installs DVD games faster](https://old.reddit.com/r/PS5/comments/t6nfyl/question_how_long_does_your_disk_installations/)
 * [2024-02-17, 23:46:17](https://news.ycombinator.com/item?id=39414630) - [Basic proxy implementation using io_uring](https://git.kernel.dk/cgit/liburing/tree/examples/proxy.c)
