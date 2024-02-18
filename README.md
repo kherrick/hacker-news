@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 21:25:39](https://news.ycombinator.com/item?id=39423539) - [Frozen embryos are 'children,' Alabama Supreme Court rules](https://www.al.com/news/mobile/2024/02/frozen-embryos-are-children-alabama-supreme-court-rules-in-reviving-couples-wrongful-death-suits.html)
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
 * [2024-02-18, 20:33:32](https://news.ycombinator.com/item?id=39422916) - [Simon Peyton Jones – Haskell is useless [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 19:45:32](https://news.ycombinator.com/item?id=39422399) - [Poland's PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
-* [2024-02-18, 18:50:14](https://news.ycombinator.com/item?id=39421839) - [Everyone Wants Your Email Address. Think Twice Before Sharing It](https://www.nytimes.com/2023/01/25/technology/personaltech/email-address-digital-tracking.html)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:29:14](https://news.ycombinator.com/item?id=39421618) - [Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
