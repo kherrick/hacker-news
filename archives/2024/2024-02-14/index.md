@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 23:59:30](https://news.ycombinator.com/item?id=39377308) - [Recovering the Lost Aviators of World War II](https://www.smithsonianmag.com/history/recovering-lost-aviators-world-war-ii-180983690/)
 * [2024-02-14, 23:28:34](https://news.ycombinator.com/item?id=39377055) - [Terence Tao, \"Machine Assisted Proof\" [video]](https://www.youtube.com/watch?v=AayZuuDDKP0)
 * [2024-02-14, 23:28:27](https://news.ycombinator.com/item?id=39377052) - [Stable pseudonyms create a more civil environment than real names: study (2021)](https://theconversation.com/online-anonymity-study-found-stable-pseudonyms-created-a-more-civil-environment-than-real-user-names-171374)
 * [2024-02-14, 23:04:56](https://news.ycombinator.com/item?id=39376845) - [Valve Prism](https://www.valveprism.com/)
