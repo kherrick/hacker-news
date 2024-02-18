@@ -27,9 +27,9 @@
 * [2024-02-15, 12:05:21](https://news.ycombinator.com/item?id=39381704) - [The world of Yakuza fan magazines (2009)](https://publishingperspectives.com/2009/10/the-strange-world-of-yakuza-fan-magazines/)
 * [2024-02-15, 11:52:40](https://news.ycombinator.com/item?id=39381611) - [Platform for publishing and engaging with small tasks repeatedly over time](https://github.com/andymatuschak/orbit)
 * [2024-02-15, 11:35:39](https://news.ycombinator.com/item?id=39381508) - [So you think you understand IP fragmentation?](https://lwn.net/Articles/960913/)
-* [2024-02-15, 08:58:56](https://news.ycombinator.com/item?id=39380520) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-15, 06:10:43](https://news.ycombinator.com/item?id=39379661) - [Mathematical and puzzle fonts/typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-14, 18:47:57](https://news.ycombinator.com/item?id=39373567) - [Kent Pitman's Lisp Eliza from MIT-AI's ITS History Project](https://sites.google.com/view/elizagen-org/#h.rle1hgawpigd)
+* [2024-02-14, 07:52:18](https://news.ycombinator.com/item?id=39367543) - [Faults, errors, and failures](https://btmc.substack.com/p/you-cant-handle-errors)
 
 ## [Archives](archives/index.md)
 
