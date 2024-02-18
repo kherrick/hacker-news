@@ -10,6 +10,7 @@
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 19:59:48](https://news.ycombinator.com/item?id=39422528) - [The AI Bullshit Singularity](https://successfulsoftware.net/2024/02/18/the-ai-bullshit-singularity/)
+* [2024-02-18, 19:47:27](https://news.ycombinator.com/item?id=39422417) - [Ask HN: Best resources on starting a lifestyle business?](https://news.ycombinator.com/item?id=39422417)
 * [2024-02-18, 19:45:32](https://news.ycombinator.com/item?id=39422399) - [Poland's PM says authorities in the previous gov widely used Pegasus spyware](https://apnews.com/article/poland-government-pegasus-spyware-tusk-duda-78420fc7099401926d28b5be98669192)
 * [2024-02-18, 19:42:49](https://news.ycombinator.com/item?id=39422364) - [Sora could ruin peoples lives](https://community.openai.com/t/sora-could-ruin-peoples-lifes/635220)
 * [2024-02-18, 19:00:30](https://news.ycombinator.com/item?id=39421959) - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
