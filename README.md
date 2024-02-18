@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:26:18](https://news.ycombinator.com/item?id=39421590) - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
 * [2024-02-18, 17:40:17](https://news.ycombinator.com/item?id=39421129) - [Why Some of Apple's Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
@@ -8,7 +9,6 @@
 * [2024-02-18, 17:14:21](https://news.ycombinator.com/item?id=39420845) - [With the rise of AI, web crawlers are suddenly controversial](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-18, 17:05:07](https://news.ycombinator.com/item?id=39420720) - [Bitmagnet Allows People to Run Their Own Decentralized Torrent Indexer Locally](https://torrentfreak.com/bitmagnet-allows-people-to-run-their-own-decentralized-torrent-indexer-locally-240218/)
 * [2024-02-18, 16:55:40](https://news.ycombinator.com/item?id=39420622) - [Foldit](https://en.wikipedia.org/wiki/Foldit)
-* [2024-02-18, 16:54:49](https://news.ycombinator.com/item?id=39420614) - [Magic AI Secures $117M to Build an AI Software Engineer](https://www.maginative.com/article/magic-ai-secures-117-million-to-build-an-ai-software-engineer/)
 * [2024-02-18, 16:43:30](https://news.ycombinator.com/item?id=39420505) - [How China Built BYD](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
 * [2024-02-18, 16:39:57](https://news.ycombinator.com/item?id=39420453) - [RoR Debugbar](https://debugbar.dev/)
 * [2024-02-18, 16:34:13](https://news.ycombinator.com/item?id=39420385) - [A random dungeon generator that fits on a business card](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)

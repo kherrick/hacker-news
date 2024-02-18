@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:26:18](https://news.ycombinator.com/item?id=39421590) - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
 * [2024-02-18, 18:25:35](https://news.ycombinator.com/item?id=39421582) - [I Ended Up with Just 0.15% of My Own Startup](https://twitter.com/johnrushx/status/1758876724123619497)
 * [2024-02-18, 17:40:17](https://news.ycombinator.com/item?id=39421129) - [Why Some of Apple's Biggest Fans Are Returning Their Vision Pros](https://www.bloomberg.com/news/newsletters/2024-02-18/apple-vision-pro-returning-3-500-device-over-comfort-lack-of-apps-and-price-lsrk88mq)
