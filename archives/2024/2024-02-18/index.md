@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 12:12:40](https://news.ycombinator.com/item?id=39418412) - [Epic CEO: Apple broke web apps for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
 * [2024-02-18, 12:06:38](https://news.ycombinator.com/item?id=39418386) - [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)

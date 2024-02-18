@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 12:12:40](https://news.ycombinator.com/item?id=39418412) - [Epic CEO: Apple broke web apps for anticompetitive reasons](https://techcrunch.com/2024/02/16/epic-games-ceo-suggests-apple-broke-iphone-web-apps-in-the-eu-for-anticompetitive-reasons/)
 * [2024-02-18, 12:06:38](https://news.ycombinator.com/item?id=39418386) - [EU to hit Apple with first ever fine in €500M penalty over music streaming](https://www.ft.com/content/1e677a7e-9494-4f5b-a724-9e58ef26b34f)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
@@ -18,7 +19,6 @@
 * [2024-02-17, 21:43:32](https://news.ycombinator.com/item?id=39413832) - [JSR first impressions: a JavaScript package manager by the Deno team (2023)](https://www.kitsonkelly.com/posts/jsr-first-impressions)
 * [2024-02-17, 18:49:07](https://news.ycombinator.com/item?id=39412198) - [Headphone and Amp Impedance (2011)](http://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html)
 * [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
-* [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding](https://twitter.com/ylecun/status/1758740106955952191)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet (2019)](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 10:09:45](https://news.ycombinator.com/item?id=39408099) - [Treksit – Interstellar puzzle based on Graph Theory](https://treksit.com/index.html)
