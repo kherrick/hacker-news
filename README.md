@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 16:34:13](https://news.ycombinator.com/item?id=39420385) - [A random dungeon generator that fits on a business card](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+* [2024-02-18, 16:27:45](https://news.ycombinator.com/item?id=39420319) - [Are We Transitioning from Capitalism to Silicon Serfdom?](https://jacobin.com/2024/02/yanis-varoufakis-techno-feudalism-capitalism-interview/)
 * [2024-02-18, 15:55:00](https://news.ycombinator.com/item?id=39420060) - [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
 * [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
@@ -26,9 +28,7 @@
 * [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 23:26:29](https://news.ycombinator.com/item?id=39414532) - [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
 * [2024-02-17, 22:05:23](https://news.ycombinator.com/item?id=39413972) - [My notes on Gitlab's Postgres schema design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
-* [2024-02-17, 14:23:47](https://news.ycombinator.com/item?id=39409650) - [Ollama is now available on Windows in preview](https://ollama.com/blog/windows-preview)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
-* [2024-02-17, 10:09:45](https://news.ycombinator.com/item?id=39408099) - [Treksit – Interstellar puzzle based on Graph Theory](https://treksit.com/index.html)
 * [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 
 ## [Archives](archives/index.md)

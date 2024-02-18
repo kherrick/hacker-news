@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 16:34:13](https://news.ycombinator.com/item?id=39420385) - [A random dungeon generator that fits on a business card](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
+* [2024-02-18, 16:27:45](https://news.ycombinator.com/item?id=39420319) - [Are We Transitioning from Capitalism to Silicon Serfdom?](https://jacobin.com/2024/02/yanis-varoufakis-techno-feudalism-capitalism-interview/)
 * [2024-02-18, 15:55:00](https://news.ycombinator.com/item?id=39420060) - [She Wanted to Make Her Frank Lloyd Wright House Greener](https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e)
 * [2024-02-18, 15:27:49](https://news.ycombinator.com/item?id=39419799) - [She Stole $54M from Her Town. Then Something Unexpected Happened](https://www.politico.com/news/magazine/2023/05/12/dixon-illinois-city-fraud-betrayal-00075869)
 * [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
