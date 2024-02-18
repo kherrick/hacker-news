@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-18, 19:00:30](https://news.ycombinator.com/item?id=39421959) - [KYC. No, Thanks](https://blog.kycnot.me/p/kyc-no-thanks)
-* [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing the Successor to LoRA (Low-Rank Adaptation) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+* [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
+* [2024-02-18, 18:29:14](https://news.ycombinator.com/item?id=39421618) - [Sent – simple plaintext presentation tool](https://tools.suckless.org/sent/)
 * [2024-02-18, 18:26:18](https://news.ycombinator.com/item?id=39421590) - [Airline Takes Revenge After Bad Review, Posts Passenger's Passport Online](https://viewfromthewing.com/airline-takes-revenge-after-bad-review-posts-passengers-passport-online/)
 * [2024-02-18, 17:36:31](https://news.ycombinator.com/item?id=39421090) - [Lapce](https://lapce.dev/)
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
@@ -22,7 +23,6 @@
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
-* [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 09:41:09](https://news.ycombinator.com/item?id=39417638) - [Show HN: I create a free website for download YouTube transcript, subtitle](https://www.downloadyoutubesubtitle.com/)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
