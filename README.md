@@ -14,7 +14,6 @@
 * [2024-02-18, 16:29:15](https://news.ycombinator.com/item?id=39420336) - [What's an obelisk, anyway?](https://www.science.org/content/blog-post/what-s-obelisk-anyway)
 * [2024-02-18, 16:08:34](https://news.ycombinator.com/item?id=39420181) - [The Death of Free Shipping](https://www.msn.com/en-us/money/companies/ar-BB1isY2R)
 * [2024-02-18, 16:00:48](https://news.ycombinator.com/item?id=39420111) - [Everything Is a Linear Model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
-* [2024-02-18, 15:39:49](https://news.ycombinator.com/item?id=39419917) - [A beginner's guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 * [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 * [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
@@ -29,6 +28,7 @@
 * [2024-02-18, 09:00:45](https://news.ycombinator.com/item?id=39417420) - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 * [2024-02-18, 08:26:43](https://news.ycombinator.com/item?id=39417231) - [Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 07:27:26](https://news.ycombinator.com/item?id=39416966) - [MIT researchers demonstrate rapid liquid metal 3D printing technique](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/mit-researchers-demonstrate-rapid-liquid-metal-3d-printing-technique/)
+* [2024-02-18, 05:44:58](https://news.ycombinator.com/item?id=39416543) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
 
 ## [Archives](archives/index.md)
