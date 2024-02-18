@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-18, 17:32:22",
+      "https://news.ycombinator.com/item?id=39421043"
+    ],
+    [
+      "A small Rust binary indeed (2022)",
+      "https://darkcoding.net/software/a-very-small-rust-binary-indeed/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 17:14:21",
+      "https://news.ycombinator.com/item?id=39420845"
+    ],
+    [
+      "With the rise of AI, web crawlers are suddenly controversial",
+      "https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 17:07:56",
       "https://news.ycombinator.com/item?id=39420769"
     ],
@@ -31,32 +51,22 @@
   ],
   [
     [
-      "2024-02-18, 16:50:48",
-      "https://news.ycombinator.com/item?id=39420574"
-    ],
-    [
-      "Climate experts sound alarm over thriving plant life at Greenland ice sheet",
-      "https://www.theguardian.com/world/2024/feb/13/flourishing-vegetation-greenland-ice-sheet-alarm-climate-crisis"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 16:49:38",
-      "https://news.ycombinator.com/item?id=39420564"
-    ],
-    [
-      "How Norway Built an EV Utopia While the US Is Struggling to Go Electric",
-      "https://www.youtube.com/watch?v=R5DbRyeZNRk"
-    ]
-  ],
-  [
-    [
       "2024-02-18, 16:43:30",
       "https://news.ycombinator.com/item?id=39420505"
     ],
     [
       "How China Built BYD, Its Tesla Killer",
       "https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 16:39:57",
+      "https://news.ycombinator.com/item?id=39420453"
+    ],
+    [
+      "RoR Debugbar",
+      "https://debugbar.dev/"
     ]
   ],
   [
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2024-02-18, 15:55:00",
-      "https://news.ycombinator.com/item?id=39420060"
+      "2024-02-18, 16:00:48",
+      "https://news.ycombinator.com/item?id=39420111"
     ],
     [
-      "She Wanted to Make Her Frank Lloyd Wright House Greener",
-      "https://www.wsj.com/story/she-wanted-to-make-her-frank-lloyd-wright-house-greener-heres-how-it-went-45eaf89e"
+      "Everything Is a Linear Model",
+      "https://danielroelfs.com/blog/everything-is-a-linear-model/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "The Layoff",
       "https://xeiaso.net/blog/2024/the-layoff/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 22:05:23",
-      "https://news.ycombinator.com/item?id=39413972"
-    ],
-    [
-      "My notes on Gitlab's Postgres schema design (2022)",
-      "https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/"
     ]
   ],
   [
