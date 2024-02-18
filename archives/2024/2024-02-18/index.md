@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 * [2024-02-18, 14:59:01](https://news.ycombinator.com/item?id=39419558) - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
 * [2024-02-18, 14:23:15](https://news.ycombinator.com/item?id=39419300) - [Scientists Censoring Science](https://www.stevestewartwilliams.com/p/scientists-censoring-science)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)

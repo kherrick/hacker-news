@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-18, 15:25:04](https://news.ycombinator.com/item?id=39419774) - [No focus, no fights, and a bad back – 16 ways technology has ruined my life](https://www.theguardian.com/technology/2024/feb/17/no-focus-no-fights-and-a-bad-back-16-ways-technology-has-ruined-my-life-tim-dowling)
 * [2024-02-18, 14:59:01](https://news.ycombinator.com/item?id=39419558) - [The hottest trend in U.S. cities? Changing zoning rules to allow more housing](https://www.npr.org/2024/02/17/1229867031/housing-shortage-zoning-reform-cities)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [Access over 181,000 USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
 * [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 * [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 * [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:53:52](https://news.ycombinator.com/item?id=39419087) - [Stop Basing Your Self-Worth on Other People's Opinions](https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions)
-* [2024-02-18, 13:49:03](https://news.ycombinator.com/item?id=39419048) - [Why New York City Can't Fix Its Ugly Scaffolding Problem](https://www.wsj.com/us-news/new-york-city-cant-fix-sidewalk-shed-problem-5f46aef3)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
