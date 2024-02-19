@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 23:44:15](https://news.ycombinator.com/item?id=39436238) - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-19, 23:05:15](https://news.ycombinator.com/item?id=39435897) - [AI Determines Sex of Person from Brain Scans](https://neurosciencenews.com/ai-gender-identification-25631/)
 * [2024-02-19, 22:15:44](https://news.ycombinator.com/item?id=39435486) - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
-* [2024-02-19, 22:15:37](https://news.ycombinator.com/item?id=39435483) - [Falls are a leading cause of bone breaks, brain injuries for U.S. seniors](https://www.washingtonpost.com/wellness/2024/02/19/falls-aging-brain-hip-fractures/)
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
