@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=39435397"
     ],
     [
-      "endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox",
+      "Endgame: A dashboard exploit for the original Xbox",
       "https://github.com/XboxDev/endgame-exploit"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 21:56:37",
-      "https://news.ycombinator.com/item?id=39435318"
-    ],
-    [
-      "Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law",
-      "https://www.thenation.com/article/politics/michigan-right-to-work-law/"
     ]
   ],
   [
@@ -25,18 +15,8 @@
       "https://news.ycombinator.com/item?id=39435262"
     ],
     [
-      "Building a Hybrid Native Application with Gleam and Tauri",
+      "Building a hybrid native application with Gleam and Tauri",
       "https://www.wezm.net/v2/posts/2024/gleam-tauri/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 21:49:11",
-      "https://news.ycombinator.com/item?id=39435244"
-    ],
-    [
-      "The Story of Curl",
-      "https://un.curl.dev/mine/curl"
     ]
   ],
   [
@@ -51,12 +31,12 @@
   ],
   [
     [
-      "2024-02-19, 21:23:49",
-      "https://news.ycombinator.com/item?id=39434991"
+      "2024-02-19, 21:05:17",
+      "https://news.ycombinator.com/item?id=39434803"
     ],
     [
-      "Wyze camera breach let 13,000 strangers look into other people's homes",
-      "https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/"
+      "The Oxford Comma and the Internet (2013)",
+      "http://blog.anguscroll.com/oxford-comma"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-02-19, 14:24:40",
+      "https://news.ycombinator.com/item?id=39430027"
+    ],
+    [
+      "Wyze security incident update",
+      "https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 13:12:18",
       "https://news.ycombinator.com/item?id=39429370"
     ],
@@ -257,6 +247,16 @@
     [
       "The boundary of neural network trainability is fractal",
       "https://arxiv.org/abs/2402.06184"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 10:22:10",
+      "https://news.ycombinator.com/item?id=39428002"
+    ],
+    [
+      "My PHP Problems",
+      "https://www.dantleech.com/blog/2024/02/18/my-php-problems/"
     ]
   ],
   [
