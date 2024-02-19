@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 20:43:39](https://news.ycombinator.com/item?id=39434566) - [Star Trek: Borg – Remastered](https://borgremastered.com/)
 * [2024-02-19, 20:29:24](https://news.ycombinator.com/item?id=39434417) - [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
 * [2024-02-19, 20:29:05](https://news.ycombinator.com/item?id=39434411) - [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
+* [2024-02-19, 20:28:26](https://news.ycombinator.com/item?id=39434403) - [Free SVG generators, color tools and web design tools](https://fffuel.co/)
 * [2024-02-19, 20:17:36](https://news.ycombinator.com/item?id=39434271) - [Hono on Cloudflare Workers is 3x faster than alternatives](https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render)
 * [2024-02-19, 20:10:28](https://news.ycombinator.com/item?id=39434180) - [Linux 6.9 Adding AMD MI300 Row Retirement Support for Problematic HBM Memory](https://www.phoronix.com/news/Linux-6.9-AMD-MI300-EDAC)
 * [2024-02-19, 19:34:40](https://news.ycombinator.com/item?id=39433709) - [Why Are LLMs So Gullible?](https://amistrongeryet.substack.com/p/why-are-llms-so-gullible)
 * [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
+* [2024-02-19, 18:59:10](https://news.ycombinator.com/item?id=39433339) - [What is a species, anyway?](https://www.nytimes.com/2024/02/19/science/what-is-a-species.html)
 * [2024-02-19, 18:48:21](https://news.ycombinator.com/item?id=39433231) - [Show HN: Qoord, a simple quantum circuit simulator](https://github.com/scottmckuen/qoord)
 * [2024-02-19, 18:40:51](https://news.ycombinator.com/item?id=39433153) - [Latest GPT-4 training data updated to December 2023](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
 * [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
