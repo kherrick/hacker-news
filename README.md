@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-19, 18:14:39](https://news.ycombinator.com/item?id=39432883) - [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
-* [2024-02-19, 18:12:27](https://news.ycombinator.com/item?id=39432851) - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
 * [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's software team (which is currently hiring)](https://news.ycombinator.com/item?id=39432015)
@@ -18,6 +17,7 @@
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+* [2024-02-19, 11:02:39](https://news.ycombinator.com/item?id=39428409) - [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
 * [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 10:11:11](https://news.ycombinator.com/item?id=39427940) - [Bach’s Cantata Calendar](https://whichbachcantata.be/)
 * [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
