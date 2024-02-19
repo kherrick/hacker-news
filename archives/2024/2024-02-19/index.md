@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 19:34:40](https://news.ycombinator.com/item?id=39433709) - [Why Are LLMs So Gullible?](https://amistrongeryet.substack.com/p/why-are-llms-so-gullible)
 * [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
+* [2024-02-19, 18:48:21](https://news.ycombinator.com/item?id=39433231) - [Show HN: Qoord, a simple quantum circuit simulator](https://github.com/scottmckuen/qoord)
+* [2024-02-19, 18:40:51](https://news.ycombinator.com/item?id=39433153) - [Latest GPT-4 training data updated to December 2023](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo)
 * [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
+* [2024-02-19, 18:34:52](https://news.ycombinator.com/item?id=39433104) - [Practicing Rust, Learning Bevy, Creating a WASM Snake Game for the Browser](https://bbarrows.com/posts/bevy-snake)
 * [2024-02-19, 18:14:39](https://news.ycombinator.com/item?id=39432883) - [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
 * [2024-02-19, 18:14:12](https://news.ycombinator.com/item?id=39432876) - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
 * [2024-02-19, 18:12:27](https://news.ycombinator.com/item?id=39432851) - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
@@ -37,6 +41,7 @@
 * [2024-02-19, 12:05:16](https://news.ycombinator.com/item?id=39428874) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-19, 11:46:49](https://news.ycombinator.com/item?id=39428766) - [Show HN: CodeRev.app – Code Review as Interview](https://coderev.app)
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
+* [2024-02-19, 11:32:37](https://news.ycombinator.com/item?id=39428646) - [Show HN: CaveRibbon (SFCave Remake)](https://memalign.github.io/m/cr/index.html)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:30:50](https://news.ycombinator.com/item?id=39428633) - [Tell HN: Hard to change default search engine in Chrome to DuckDuckGo](https://news.ycombinator.com/item?id=39428633)
 * [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
