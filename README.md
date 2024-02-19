@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 05:19:24](https://news.ycombinator.com/item?id=39426452) - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
 * [2024-02-19, 03:54:48](https://news.ycombinator.com/item?id=39426107) - [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
 * [2024-02-19, 03:30:09](https://news.ycombinator.com/item?id=39425996) - [\"Rabbit Test\" Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
 * [2024-02-19, 03:27:14](https://news.ycombinator.com/item?id=39425980) - [The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer](https://www.popularmechanics.com/science/animals/a46799706/mutant-wolves-of-chernobyl/)
@@ -22,7 +23,6 @@
 * [2024-02-18, 16:00:48](https://news.ycombinator.com/item?id=39420111) - [Everything is a linear model](https://danielroelfs.com/blog/everything-is-a-linear-model/)
 * [2024-02-18, 15:39:49](https://news.ycombinator.com/item?id=39419917) - [A beginner's guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/)
 * [2024-02-18, 14:12:21](https://news.ycombinator.com/item?id=39419210) - [USGS Historical Topographic Maps](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/)
-* [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 * [2024-02-18, 09:49:09](https://news.ycombinator.com/item?id=39417676) - [Nude awakening: Japan's 'naked men' festival succumbs to ageing population](https://www.scmp.com/news/asia/east-asia/article/3252318/itawe-japans-naked-men-festival-succumbs-ageing-population-difficult-continue)
 * [2024-02-17, 18:55:24](https://news.ycombinator.com/item?id=39412276) - [Nebula is not the fastest mesh VPN, but neither are the others](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
