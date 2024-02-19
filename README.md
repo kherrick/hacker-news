@@ -17,7 +17,6 @@
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
-* [2024-02-19, 11:11:00](https://news.ycombinator.com/item?id=39428466) - [First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
 * [2024-02-19, 11:02:39](https://news.ycombinator.com/item?id=39428409) - [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
 * [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 10:11:11](https://news.ycombinator.com/item?id=39427940) - [Bach’s Cantata Calendar](https://whichbachcantata.be/)
@@ -28,6 +27,7 @@
 * [2024-02-18, 20:23:25](https://news.ycombinator.com/item?id=39422778) - [House cleaners find two of the first desktop PCs in random boxes](https://www.tomshardware.com/desktops/house-cleaners-find-two-of-the-worlds-first-desktop-pcs-in-random-boxes)
 * [2024-02-18, 11:24:50](https://news.ycombinator.com/item?id=39418196) - [Fort Botox, Where a Deadly Toxin Yields $2.8B Drug (2017)](https://www.bloomberg.com/news/features/2017-10-26/inside-fort-botox-where-a-deadly-toxin-yields-2-8-billion-drug)
 * [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
+* [2024-02-17, 13:14:59](https://news.ycombinator.com/item?id=39409140) - [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/)
 * [2024-02-17, 12:17:13](https://news.ycombinator.com/item?id=39408770) - [Mysterious 280M-year-old fossil is mostly just black paint](https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/)
 * [2024-02-16, 01:01:03](https://news.ycombinator.com/item?id=39391675) - [Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
 

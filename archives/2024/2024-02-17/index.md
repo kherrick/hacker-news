@@ -48,6 +48,7 @@
 * [2024-02-17, 13:58:19](https://news.ycombinator.com/item?id=39409445) - [The game theory of seduction and marriage with Jane Austen](https://www.optimallyirrational.com/p/the-game-theory-of-seduction-and)
 * [2024-02-17, 13:45:44](https://news.ycombinator.com/item?id=39409352) - [The US military is embedded in the gaming world. Its target: teen recruits](https://www.theguardian.com/us-news/2024/feb/14/us-military-recruiting-video-games-targeting-teenagers)
 * [2024-02-17, 13:18:10](https://news.ycombinator.com/item?id=39409159) - [Greenmask: PostgreSQL Dump and Obfuscation Tool](https://github.com/GreenmaskIO/greenmask)
+* [2024-02-17, 13:14:59](https://news.ycombinator.com/item?id=39409140) - [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/)
 * [2024-02-17, 13:07:26](https://news.ycombinator.com/item?id=39409088) - [The Ramen Lord](https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/)
 * [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding here](https://twitter.com/ylecun/status/1758740106955952191)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
