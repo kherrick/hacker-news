@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 21:00:30](https://news.ycombinator.com/item?id=39434757) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-02-19, 20:43:39](https://news.ycombinator.com/item?id=39434566) - [Star Trek: Borg – Remastered](https://borgremastered.com/)
 * [2024-02-19, 20:29:24](https://news.ycombinator.com/item?id=39434417) - [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
 * [2024-02-19, 20:29:05](https://news.ycombinator.com/item?id=39434411) - [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
