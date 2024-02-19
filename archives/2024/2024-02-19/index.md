@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
 * [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
 * [2024-02-19, 18:14:39](https://news.ycombinator.com/item?id=39432883) - [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
 * [2024-02-19, 18:14:12](https://news.ycombinator.com/item?id=39432876) - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
