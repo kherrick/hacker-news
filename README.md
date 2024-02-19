@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists Discover Four New Octopus Species in the Deep Ocean Off Costa Rica](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 * [2024-02-19, 07:55:44](https://news.ycombinator.com/item?id=39427172) - [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
 * [2024-02-19, 07:01:05](https://news.ycombinator.com/item?id=39426898) - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
@@ -16,7 +17,6 @@
 * [2024-02-19, 01:03:51](https://news.ycombinator.com/item?id=39425181) - [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
 * [2024-02-19, 00:42:33](https://news.ycombinator.com/item?id=39425086) - [Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
 * [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-* [2024-02-18, 23:15:27](https://news.ycombinator.com/item?id=39424527) - [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
 * [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [A steep rise of Hacker News in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 * [2024-02-18, 18:29:14](https://news.ycombinator.com/item?id=39421618) - [Sent – Simple plaintext presentation tool](https://tools.suckless.org/sent/)

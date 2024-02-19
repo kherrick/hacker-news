@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists Discover Four New Octopus Species in the Deep Ocean Off Costa Rica](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 * [2024-02-19, 07:55:44](https://news.ycombinator.com/item?id=39427172) - [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
 * [2024-02-19, 07:01:05](https://news.ycombinator.com/item?id=39426898) - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
