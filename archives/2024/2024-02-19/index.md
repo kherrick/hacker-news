@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
 * [2024-02-19, 03:54:48](https://news.ycombinator.com/item?id=39426107) - [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
+* [2024-02-19, 03:30:09](https://news.ycombinator.com/item?id=39425996) - [\"Rabbit Test\" Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
 * [2024-02-19, 02:03:00](https://news.ycombinator.com/item?id=39425510) - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
 * [2024-02-19, 01:59:58](https://news.ycombinator.com/item?id=39425492) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
 * [2024-02-19, 01:48:37](https://news.ycombinator.com/item?id=39425430) - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
