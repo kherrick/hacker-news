@@ -2,7 +2,6 @@
 
 * [2024-02-19, 02:03:00](https://news.ycombinator.com/item?id=39425510) - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
 * [2024-02-19, 01:59:58](https://news.ycombinator.com/item?id=39425492) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
-* [2024-02-19, 01:03:51](https://news.ycombinator.com/item?id=39425181) - [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
 * [2024-02-19, 00:42:33](https://news.ycombinator.com/item?id=39425086) - [Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
 * [2024-02-19, 00:42:32](https://news.ycombinator.com/item?id=39425085) - [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
 * [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
@@ -30,6 +29,7 @@
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
 * [2024-02-17, 07:14:25](https://news.ycombinator.com/item?id=39407162) - [Show HN: I built an alternative to product tours](https://vykee.co/)
 * [2024-02-16, 19:29:29](https://news.ycombinator.com/item?id=39401818) - [Ancient Rome's failed building projects](https://www.historytoday.com/archive/history-matters/ancient-romes-failed-building-projects)
+* [2024-02-16, 13:01:20](https://news.ycombinator.com/item?id=39396373) - [Clean your codebase with basic information theory](https://taylor.town/compress-code)
 
 ## [Archives](archives/index.md)
 
