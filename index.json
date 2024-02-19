@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39425430"
     ],
     [
-      "Serving a Website from a Git Repo Without Cloning It",
+      "Serving a website from a Git repo without cloning it",
       "https://mediocregopher.com/posts/git-proxy"
     ]
   ],
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2024-02-18, 22:10:28",
-      "https://news.ycombinator.com/item?id=39423978"
+      "2024-02-18, 22:06:13",
+      "https://news.ycombinator.com/item?id=39423949"
     ],
     [
-      "Why are amplitudes complex numbers? (2018)",
-      "https://scottaaronson.blog/?p=4021"
+      "A steep rise of Hacker News in Google rankings",
+      "https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI end-to-end tests",
       "https://news.ycombinator.com/item?id=39423303"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 20:06:36",
+      "https://news.ycombinator.com/item?id=39422588"
+    ],
+    [
+      "The Internet Scheme Repository",
+      "https://legacy.cs.indiana.edu/scheme-repository/"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=39419917"
     ],
     [
-      "A beginner's guide to making beautiful slides for your talks",
+      "A beginner's guide to making beautiful slides for talks",
       "https://ines.io/blog/beginners-guide-beautiful-slides-talks/"
     ]
   ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2024-02-18, 09:49:09",
-      "https://news.ycombinator.com/item?id=39417676"
+      "2024-02-18, 11:45:03",
+      "https://news.ycombinator.com/item?id=39418283"
     ],
     [
-      "Nude awakening: Japan's 'naked men' festival succumbs to ageing population",
-      "https://www.scmp.com/news/asia/east-asia/article/3252318/itawe-japans-naked-men-festival-succumbs-ageing-population-difficult-continue"
+      "CorsixTH: Open-source clone of Theme Hospital",
+      "https://github.com/CorsixTH/CorsixTH"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Nebula is not the fastest mesh VPN, but neither are the others",
       "https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 10:20:49",
-      "https://news.ycombinator.com/item?id=39408162"
-    ],
-    [
-      "A vision of a multi-threaded Emacs (2022)",
-      "https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/"
     ]
   ],
   [
