@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 06:03:38](https://news.ycombinator.com/item?id=39426631) - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
 * [2024-02-19, 05:19:24](https://news.ycombinator.com/item?id=39426452) - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
 * [2024-02-19, 04:59:19](https://news.ycombinator.com/item?id=39426370) - [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
-* [2024-02-19, 04:49:25](https://news.ycombinator.com/item?id=39426330) - [SoraApp got 7,500 on the waitlist](https://soraapp.art)
 * [2024-02-19, 04:45:08](https://news.ycombinator.com/item?id=39426310) - [The Namingless Programming Language](https://github.com/akalenuk/the_namingless_programming_language)
 * [2024-02-19, 04:24:52](https://news.ycombinator.com/item?id=39426209) - [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 * [2024-02-19, 03:27:14](https://news.ycombinator.com/item?id=39425980) - [The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer](https://www.popularmechanics.com/science/animals/a46799706/mutant-wolves-of-chernobyl/)
