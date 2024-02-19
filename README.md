@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 10:55:26](https://news.ycombinator.com/item?id=39428343) - [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)
 * [2024-02-19, 09:57:37](https://news.ycombinator.com/item?id=39427876) - [The day I canceled my Spotify subscription](https://blog.raed.dev/posts/goodbye_spotify)
 * [2024-02-19, 09:48:55](https://news.ycombinator.com/item?id=39427821) - [AI is making critical health care decisions, but is unregulated](https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768)
 * [2024-02-19, 08:31:12](https://news.ycombinator.com/item?id=39427346) - [Largest natural gas leak from Nord Stream pipeline](https://doi.org/10.1016/j.isci.2023.108772)
@@ -25,7 +26,6 @@
 * [2024-02-18, 16:29:15](https://news.ycombinator.com/item?id=39420336) - [What's an obelisk, anyway?](https://www.science.org/content/blog-post/what-s-obelisk-anyway)
 * [2024-02-18, 13:21:10](https://news.ycombinator.com/item?id=39418830) - [What Is Woodshedding? Mastering the Art of Focused Music Practice](https://audioapartment.com/techniques-and-performance/what-is-woodshedding/)
 * [2024-02-17, 18:55:24](https://news.ycombinator.com/item?id=39412276) - [Nebula is not the fastest mesh VPN, but neither are the others](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/)
-* [2024-02-17, 12:02:44](https://news.ycombinator.com/item?id=39408698) - [\"When you use a Walkman all the memories come back\": In love with old tech](https://www.theguardian.com/technology/2024/feb/17/walkman-memories-still-in-love-with-old-tech)
 * [2024-02-17, 10:30:01](https://news.ycombinator.com/item?id=39408195) - [Tree-Sitter](https://tree-sitter.github.io/tree-sitter/)
 * [2024-02-17, 10:15:54](https://news.ycombinator.com/item?id=39408135) - [Master of the Playing Cards](https://en.wikipedia.org/wiki/Master_of_the_Playing_Cards)
 * [2024-02-16, 13:01:20](https://news.ycombinator.com/item?id=39396373) - [Clean your codebase with basic information theory](https://taylor.town/compress-code)
