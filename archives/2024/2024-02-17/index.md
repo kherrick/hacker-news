@@ -68,6 +68,7 @@
 * [2024-02-17, 08:20:52](https://news.ycombinator.com/item?id=39407525) - [New chip opens door to AI computing at light speed](https://phys.org/news/2024-02-chip-door-ai.html)
 * [2024-02-17, 07:58:00](https://news.ycombinator.com/item?id=39407407) - [Educational code for the (byte-level) Byte Pair Encoding (BPE) algorithm](https://github.com/karpathy/minbpe)
 * [2024-02-17, 07:45:46](https://news.ycombinator.com/item?id=39407328) - [Options for genuine ECC RAM on the desktop in (early) 2024](https://utcc.utoronto.ca/~cks/space/blog/tech/DesktopECCOptions2024)
+* [2024-02-17, 07:44:50](https://news.ycombinator.com/item?id=39407319) - [How to Solve a Multi-Atwood Machine Assembly](https://www.physicsforums.com/insights/how-to-solve-a-multi-atwood-machine-assembly/)
 * [2024-02-17, 07:14:25](https://news.ycombinator.com/item?id=39407162) - [Show HN: I built an alternative to product tours](https://vykee.co/)
 * [2024-02-17, 06:59:22](https://news.ycombinator.com/item?id=39407081) - [Mushroom Sprouting Out of a Living Fro](https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496)
 * [2024-02-17, 05:52:01](https://news.ycombinator.com/item?id=39406804) - [From engineer to manager: what I love, what I hate](https://thoughtspile.github.io/2024/02/16/eng-to-em/)
