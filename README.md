@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 01:03:51](https://news.ycombinator.com/item?id=39425181) - [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
+* [2024-02-19, 00:42:33](https://news.ycombinator.com/item?id=39425086) - [Google Cloud's New Assured Open Source Software Service](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
 * [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
-* [2024-02-18, 23:20:21](https://news.ycombinator.com/item?id=39424566) - [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
 * [2024-02-18, 23:15:27](https://news.ycombinator.com/item?id=39424527) - [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
 * [2024-02-18, 22:10:28](https://news.ycombinator.com/item?id=39423978) - [Why are amplitudes complex numbers? (2018)](https://scottaaronson.blog/?p=4021)
 * [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
@@ -13,7 +14,6 @@
 * [2024-02-18, 17:32:22](https://news.ycombinator.com/item?id=39421043) - [A small Rust binary indeed (2022)](https://darkcoding.net/software/a-very-small-rust-binary-indeed/)
 * [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
 * [2024-02-18, 17:07:56](https://news.ycombinator.com/item?id=39420769) - [I taught the Iliad to Chinese teenagers](https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/)
-* [2024-02-18, 16:43:30](https://news.ycombinator.com/item?id=39420505) - [How China Built BYD](https://www.nytimes.com/2024/02/12/business/byd-china-electric-vehicle.html)
 * [2024-02-18, 16:39:57](https://news.ycombinator.com/item?id=39420453) - [RoR Debugbar](https://debugbar.dev/)
 * [2024-02-18, 16:34:13](https://news.ycombinator.com/item?id=39420385) - [A random dungeon generator that fits on a business card (2019)](https://gist.github.com/munificent/b1bcd969063da3e6c298be070a22b604)
 * [2024-02-18, 16:29:15](https://news.ycombinator.com/item?id=39420336) - [What's an obelisk, anyway?](https://www.science.org/content/blog-post/what-s-obelisk-anyway)
