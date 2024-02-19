@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
 * [2024-02-19, 07:01:05](https://news.ycombinator.com/item?id=39426898) - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
+* [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-19, 06:24:28](https://news.ycombinator.com/item?id=39426712) - [\"A Plea for Lean Software\" by Prof. Niklaus Wirth](https://liam-on-linux.dreamwidth.org/88032.html)
 * [2024-02-19, 06:03:38](https://news.ycombinator.com/item?id=39426631) - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
 * [2024-02-19, 05:19:24](https://news.ycombinator.com/item?id=39426452) - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
