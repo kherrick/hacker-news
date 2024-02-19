@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 * [2024-02-19, 14:39:12](https://news.ycombinator.com/item?id=39430189) - [What If Public Housing Were for Everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 * [2024-02-19, 14:31:18](https://news.ycombinator.com/item?id=39430095) - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
 * [2024-02-19, 14:24:40](https://news.ycombinator.com/item?id=39430027) - [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
@@ -21,7 +22,6 @@
 * [2024-02-19, 04:24:52](https://news.ycombinator.com/item?id=39426209) - [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 * [2024-02-19, 02:39:12](https://news.ycombinator.com/item?id=39425706) - [Show HN: RAM Prices](https://ramstickprices.com/)
 * [2024-02-19, 01:03:51](https://news.ycombinator.com/item?id=39425181) - [Why are shopping carts always broken?](https://www.cnn.com/2024/02/17/business/shopping-carts-wonky-wheel-explained/index.html)
-* [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 20:23:25](https://news.ycombinator.com/item?id=39422778) - [House cleaners find two of the first desktop PCs in random boxes](https://www.tomshardware.com/desktops/house-cleaners-find-two-of-the-worlds-first-desktop-pcs-in-random-boxes)
 * [2024-02-18, 17:26:04](https://news.ycombinator.com/item?id=39420966) - [Show HN: Domino Fit – Domino Tiling Puzzle](https://dominofit.isotropic.us/)
 * [2024-02-18, 11:08:01](https://news.ycombinator.com/item?id=39418107) - [An Extreme Antipattern for Programming Books (2023)](https://logicgrimoire.wordpress.com/2023/12/05/an-extreme-antipattern-for-programming-books/)

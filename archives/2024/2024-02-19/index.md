@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 * [2024-02-19, 14:39:12](https://news.ycombinator.com/item?id=39430189) - [What If Public Housing Were for Everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 * [2024-02-19, 14:31:18](https://news.ycombinator.com/item?id=39430095) - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
 * [2024-02-19, 14:24:40](https://news.ycombinator.com/item?id=39430027) - [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
