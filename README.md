@@ -2,8 +2,8 @@
 
 * [2024-02-19, 02:03:00](https://news.ycombinator.com/item?id=39425510) - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
 * [2024-02-19, 01:59:58](https://news.ycombinator.com/item?id=39425492) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
+* [2024-02-19, 01:48:37](https://news.ycombinator.com/item?id=39425430) - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 * [2024-02-19, 00:42:33](https://news.ycombinator.com/item?id=39425086) - [Google Cloud's New Assured Open Source Software Service (2022)](https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service)
-* [2024-02-19, 00:42:32](https://news.ycombinator.com/item?id=39425085) - [Mac Virtual Display on Vision Pro Requires Same Apple ID](https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/)
 * [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 * [2024-02-18, 23:15:27](https://news.ycombinator.com/item?id=39424527) - [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
 * [2024-02-18, 22:10:28](https://news.ycombinator.com/item?id=39423978) - [Why are amplitudes complex numbers? (2018)](https://scottaaronson.blog/?p=4021)
