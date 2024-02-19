@@ -45,8 +45,8 @@
       "https://news.ycombinator.com/item?id=39433674"
     ],
     [
-      "FTC bans AI impersonations of individuals",
-      "https://www.techradar.com/pro/security/the-ftc-bans-ai-impersonations-of-individuals-and-unveils-greater-powers-to-win-stolen-money-back"
+      "FTC proposes new protections to combat AI impersonation of individuals",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-proposes-new-protections-combat-ai-impersonation-individuals"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: Qoord, a simple quantum circuit simulator",
       "https://github.com/scottmckuen/qoord"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 18:40:51",
-      "https://news.ycombinator.com/item?id=39433153"
-    ],
-    [
-      "Latest GPT-4 training data updated to December 2023",
-      "https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo"
     ]
   ],
   [
@@ -151,22 +141,32 @@
   ],
   [
     [
+      "2024-02-19, 14:51:55",
+      "https://news.ycombinator.com/item?id=39430349"
+    ],
+    [
+      "Extreme video compression with prediction using pre-trainded diffusion models",
+      "https://github.com/ElesionKyrie/Extreme-Video-Compression-With-Prediction-Using-Pre-trainded-Diffusion-Models-"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 14:51:05",
+      "https://news.ycombinator.com/item?id=39430336"
+    ],
+    [
+      "One place Planet 9 could be hiding",
+      "https://www.universetoday.com/165774/theres-one-last-place-planet-9-could-be-hiding/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 14:31:18",
       "https://news.ycombinator.com/item?id=39430095"
     ],
     [
       "AstraZeneca unveils successes in treatment of lung cancer",
       "https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 13:43:32",
-      "https://news.ycombinator.com/item?id=39429627"
-    ],
-    [
-      "Porting to GCC 14: C language issues",
-      "https://gcc.gnu.org/gcc-14/porting_to.html#c"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-02-19, 10:11:11",
-      "https://news.ycombinator.com/item?id=39427940"
-    ],
-    [
-      "Bach’s Cantata Calendar",
-      "https://whichbachcantata.be/"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 08:00:43",
       "https://news.ycombinator.com/item?id=39427202"
     ],
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2024-02-19, 06:03:38",
-      "https://news.ycombinator.com/item?id=39426631"
+      "2024-02-19, 07:16:30",
+      "https://news.ycombinator.com/item?id=39426975"
     ],
     [
-      "Castle Engine – Free open-source cross-platform 3D/2D game engine using Pascal",
-      "https://castle-engine.io/"
+      "Well Temperaments (Part 5)",
+      "https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 21:13:50",
+      "https://news.ycombinator.com/item?id=39423407"
+    ],
+    [
+      "J vs. K by Example (2005)",
+      "https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm"
     ]
   ],
   [
