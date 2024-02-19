@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-02-19, 18:34:52",
-      "https://news.ycombinator.com/item?id=39433104"
-    ],
-    [
-      "Show HN: Creating a Snake game clone with Rust/Bevy",
-      "https://bbarrows.com/posts/bevy-snake"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 18:14:12",
       "https://news.ycombinator.com/item?id=39432876"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: PRQL in PostgreSQL",
       "https://github.com/kaspermarstal/plprql"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 10:27:52",
+      "https://news.ycombinator.com/item?id=39428047"
+    ],
+    [
+      "The boundary of neural network trainability is fractal",
+      "https://arxiv.org/abs/2402.06184"
     ]
   ],
   [
