@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-18, 23:37:15",
+      "https://news.ycombinator.com/item?id=39424688"
+    ],
+    [
+      "Diseconomies of scale in fraud, spam, support, and moderation",
+      "https://danluu.com/diseconomies-scale/"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 23:20:21",
       "https://news.ycombinator.com/item?id=39424566"
     ],
     [
       "Open Source Games",
       "https://project-awesome.org/michelpereira/awesome-open-source-games"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 23:15:27",
+      "https://news.ycombinator.com/item?id=39424527"
+    ],
+    [
+      "FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against"
     ]
   ],
   [
@@ -37,26 +57,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI end-to-end tests",
       "https://news.ycombinator.com/item?id=39423303"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 20:33:32",
-      "https://news.ycombinator.com/item?id=39422916"
-    ],
-    [
-      "Haskell is Useless (2011) [video]",
-      "https://www.youtube.com/watch?v=iSmkqocn0oQ"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 20:30:06",
-      "https://news.ycombinator.com/item?id=39422869"
-    ],
-    [
-      "Earth-1217: where every CSV file has two header rows: column names and units",
-      "https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "I taught the Iliad to Chinese teenagers",
       "https://scholars-stage.org/how-i-taught-the-iliad-to-chinese-teenagers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 17:05:07",
-      "https://news.ycombinator.com/item?id=39420720"
-    ],
-    [
-      "Bitmagnet Allows People to Run Their Own Decentralized Torrent Indexer Locally",
-      "https://torrentfreak.com/bitmagnet-allows-people-to-run-their-own-decentralized-torrent-indexer-locally-240218/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "CorsixTH: Open-source clone of Theme Hospital",
       "https://github.com/CorsixTH/CorsixTH"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 09:15:33",
+      "https://news.ycombinator.com/item?id=39417503"
+    ],
+    [
+      "Wddbfs – Mount a SQLite database as a filesystem",
+      "https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/"
     ]
   ],
   [
