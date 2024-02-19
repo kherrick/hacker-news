@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 21:00:30",
+      "https://news.ycombinator.com/item?id=39434757"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 20:43:39",
       "https://news.ycombinator.com/item?id=39434566"
     ],
@@ -45,8 +55,18 @@
       "https://news.ycombinator.com/item?id=39434271"
     ],
     [
-      "Hono on Cloudflare Workers is 3x faster than alternatives",
+      "Monitoring latency: Cloudflare Workers vs Fly vs Koyeb vs Railway vs Render",
       "https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 20:10:28",
+      "https://news.ycombinator.com/item?id=39434180"
+    ],
+    [
+      "Linux 6.9 Adding AMD MI300 Row Retirement Support for Problematic HBM Memory",
+      "https://www.phoronix.com/news/Linux-6.9-AMD-MI300-EDAC"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=39432876"
     ],
     [
-      "My productivity app is a never-ending .txt file",
+      "My productivity app is a never-ending .txt file (2022)",
       "https://jeffhuang.com/productivity_text_file/"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "OTP at a High Level (2019)",
       "https://adoptingerlang.org/docs/development/otp_high_level/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 17:00:28",
-      "https://news.ycombinator.com/item?id=39432015"
-    ],
-    [
-      "About Y Combinator's software team (which is currently hiring)",
-      "https://news.ycombinator.com/item?id=39432015"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2024-02-19, 11:32:37",
+      "https://news.ycombinator.com/item?id=39428646"
+    ],
+    [
+      "Show HN: CaveRibbon (SFCave Remake)",
+      "https://memalign.github.io/m/cr/index.html"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 11:27:51",
       "https://news.ycombinator.com/item?id=39428609"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-02-18, 10:39:33",
-      "https://news.ycombinator.com/item?id=39417968"
-    ],
-    [
-      "A800 40GB Active Graphics Card",
-      "https://www.nvidia.com/en-us/design-visualization/a800/"
-    ]
-  ],
-  [
-    [
       "2024-02-18, 10:28:15",
       "https://news.ycombinator.com/item?id=39417905"
     ],
     [
       "Notes on Text Editing",
       "https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 13:14:59",
-      "https://news.ycombinator.com/item?id=39409140"
-    ],
-    [
-      "Making SVG Loading Spinners: An Interactive Guide",
-      "https://fffuel.co/svg-spinner/"
     ]
   ]
 ]
