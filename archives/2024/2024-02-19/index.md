@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 12:05:16](https://news.ycombinator.com/item?id=39428874) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
+* [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
+* [2024-02-19, 11:30:50](https://news.ycombinator.com/item?id=39428633) - [Tell HN: Hard to change default search engine in Chrome to DuckDuckGo](https://news.ycombinator.com/item?id=39428633)
+* [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+* [2024-02-19, 11:11:00](https://news.ycombinator.com/item?id=39428466) - [First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
 * [2024-02-19, 11:02:39](https://news.ycombinator.com/item?id=39428409) - [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
 * [2024-02-19, 10:55:26](https://news.ycombinator.com/item?id=39428343) - [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)
 * [2024-02-19, 10:47:13](https://news.ycombinator.com/item?id=39428253) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)

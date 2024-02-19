@@ -52,6 +52,7 @@
 * [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding here](https://twitter.com/ylecun/status/1758740106955952191)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
+* [2024-02-17, 12:17:13](https://news.ycombinator.com/item?id=39408770) - [Mysterious 280M-year-old fossil is mostly just black paint](https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/)
 * [2024-02-17, 12:02:44](https://news.ycombinator.com/item?id=39408698) - [When you use a Walkman the memories come back: the people in love with old tech](https://www.theguardian.com/technology/2024/feb/17/walkman-memories-still-in-love-with-old-tech)
 * [2024-02-17, 11:56:39](https://news.ycombinator.com/item?id=39408657) - [The Early History of Usenet](https://www.cs.columbia.edu/~smb/blog/2019-11/2019-11-14.html)
 * [2024-02-17, 10:45:22](https://news.ycombinator.com/item?id=39408288) - [We Have to Start Over: From Atom to Zed](https://zed.dev/blog/we-have-to-start-over)
