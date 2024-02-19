@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=39425086"
     ],
     [
-      "Google Cloud's New Assured Open Source Software Service",
+      "Google Cloud's New Assured Open Source Software Service (2022)",
       "https://cloud.google.com/blog/products/identity-security/introducing-assured-open-source-software-service"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 00:42:32",
+      "https://news.ycombinator.com/item?id=39425085"
+    ],
+    [
+      "Mac Virtual Display on Vision Pro Requires Same Apple ID",
+      "https://blog.pinola.co/blog/apple-has-been-augmenting-reality-for-years/"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Diseconomies of scale in fraud, spam, support, and moderation",
       "https://danluu.com/diseconomies-scale/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 23:20:21",
+      "https://news.ycombinator.com/item?id=39424566"
+    ],
+    [
+      "Open Source Games",
+      "https://project-awesome.org/michelpereira/awesome-open-source-games"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Sent – Simple plaintext presentation tool",
       "https://tools.suckless.org/sent/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 17:32:22",
-      "https://news.ycombinator.com/item?id=39421043"
-    ],
-    [
-      "A small Rust binary indeed (2022)",
-      "https://darkcoding.net/software/a-very-small-rust-binary-indeed/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "CorsixTH: Open-source clone of Theme Hospital",
       "https://github.com/CorsixTH/CorsixTH"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 09:15:33",
-      "https://news.ycombinator.com/item?id=39417503"
-    ],
-    [
-      "Wddbfs – Mount a SQLite database as a filesystem",
-      "https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/"
     ]
   ],
   [
