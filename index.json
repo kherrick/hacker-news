@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 05:19:24",
+      "https://news.ycombinator.com/item?id=39426452"
+    ],
+    [
+      "Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author",
+      "https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 03:54:48",
       "https://news.ycombinator.com/item?id=39426107"
     ],
@@ -217,16 +227,6 @@
     [
       "USGS Historical Topographic Maps",
       "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/access-over-181000-usgs-historical-topographic-maps/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 14:09:37",
-      "https://news.ycombinator.com/item?id=39419195"
-    ],
-    [
-      "SPAD: Spatially Aware Multiview Diffusers",
-      "https://yashkant.github.io/spad/"
     ]
   ],
   [
