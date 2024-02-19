@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-02-19, 13:43:32",
+      "https://news.ycombinator.com/item?id=39429627"
+    ],
+    [
+      "Porting to GCC 14: C language issues",
+      "https://gcc.gnu.org/gcc-14/porting_to.html#c"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 13:23:50",
       "https://news.ycombinator.com/item?id=39429460"
     ],
     [
       "California's war on plastic bag use seems to have backfired",
       "https://www.latimes.com/environment/story/2024-02-12/californias-war-on-plastic-bag-use-seems-to-have-backfired"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 13:12:18",
+      "https://news.ycombinator.com/item?id=39429370"
+    ],
+    [
+      "Show HN: htmz – a low power tool for HTML",
+      "https://leanrada.com/htmz/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Show HN: PRQL in PostgreSQL",
       "https://github.com/kaspermarstal/plprql"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 11:16:09",
-      "https://news.ycombinator.com/item?id=39428511"
-    ],
-    [
-      "Inquiry launches into Polish ex-government's 'Pegasus' spying",
-      "https://euobserver.com/eu-political/158094"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Show HN: RAM Prices",
       "https://ramstickprices.com/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 01:48:37",
-      "https://news.ycombinator.com/item?id=39425430"
-    ],
-    [
-      "Serving a website from a Git repo without cloning it",
-      "https://mediocregopher.com/posts/git-proxy"
     ]
   ],
   [
