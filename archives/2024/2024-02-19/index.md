@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's Software Team](https://news.ycombinator.com/item?id=39432015)
 * [2024-02-19, 17:00:00](https://news.ycombinator.com/item?id=39432011) - [Why do so many big tech companies have awful apps and many indie apps are great?](https://old.reddit.com/r/androiddev/comments/1auiume/why_do_so_many_large_tech_companies_have_awful/)
+* [2024-02-19, 16:43:05](https://news.ycombinator.com/item?id=39431809) - [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
 * [2024-02-19, 15:55:24](https://news.ycombinator.com/item?id=39431130) - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 * [2024-02-19, 15:11:54](https://news.ycombinator.com/item?id=39430585) - [City of London ditches Oracle for SAP in search of ERP enlightenment](https://www.theregister.com/2024/02/19/city_of_london_sap_si/)
+* [2024-02-19, 14:58:45](https://news.ycombinator.com/item?id=39430434) - [Show HN: A new search engine for finding leads](https://singulatron.com/home)
 * [2024-02-19, 14:56:59](https://news.ycombinator.com/item?id=39430409) - [Wyze says camera breach let 13,000 customers see into other people's homes](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
 * [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 * [2024-02-19, 14:39:12](https://news.ycombinator.com/item?id=39430189) - [What If Public Housing Were for Everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
