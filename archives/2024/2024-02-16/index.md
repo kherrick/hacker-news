@@ -90,4 +90,5 @@
 * [2024-02-16, 01:53:01](https://news.ycombinator.com/item?id=39392104) - [V-JEPA: Video Joint Embedding Predictive Architecture (V-JEPA) Model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)
 * [2024-02-16, 01:32:59](https://news.ycombinator.com/item?id=39391934) - [Unfolding the Mysteries of Polygonal Billiards](https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/)
 * [2024-02-16, 01:02:36](https://news.ycombinator.com/item?id=39391688) - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+* [2024-02-16, 01:01:03](https://news.ycombinator.com/item?id=39391675) - [Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
 * [2024-02-16, 00:38:20](https://news.ycombinator.com/item?id=39391458) - [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)
