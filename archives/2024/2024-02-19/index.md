@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 13:23:50](https://news.ycombinator.com/item?id=39429460) - [California's war on plastic bag use seems to have backfired](https://www.latimes.com/environment/story/2024-02-12/californias-war-on-plastic-bag-use-seems-to-have-backfired)
 * [2024-02-19, 13:02:41](https://news.ycombinator.com/item?id=39429299) - [Ask HN: My company went bankrupt today and I have 2 options](https://news.ycombinator.com/item?id=39429299)
 * [2024-02-19, 12:46:36](https://news.ycombinator.com/item?id=39429160) - [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
 * [2024-02-19, 12:09:02](https://news.ycombinator.com/item?id=39428899) - [Do not install Docker Desktop on GNU/Linux systems](https://news.ycombinator.com/item?id=39428899)
