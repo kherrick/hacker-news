@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-02-19, 11:02:39",
+      "https://news.ycombinator.com/item?id=39428409"
+    ],
+    [
+      "How to make a better default Firefox UI",
+      "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 10:55:26",
       "https://news.ycombinator.com/item?id=39428343"
     ],
     [
-      "French telecom company Orange fined €650k for violation of GPL license",
+      "Orange fined €650k for violation of GPL license",
       "https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "The boundary of neural network trainability is fractal",
       "https://arxiv.org/abs/2402.06184"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 10:22:10",
+      "https://news.ycombinator.com/item?id=39428002"
+    ],
+    [
+      "My PHP Problems",
+      "https://www.dantleech.com/blog/2024/02/18/my-php-problems/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Biologists discover four new octopus species",
       "https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 07:55:44",
-      "https://news.ycombinator.com/item?id=39427172"
-    ],
-    [
-      "Oxide reimagines private cloud as a 3k-pound blade server",
-      "https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "J vs. K by Example (2005)",
       "https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 18:29:14",
-      "https://news.ycombinator.com/item?id=39421618"
-    ],
-    [
-      "Sent – Simple plaintext presentation tool",
-      "https://tools.suckless.org/sent/"
     ]
   ],
   [
