@@ -2,7 +2,6 @@
 
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
-* [2024-02-19, 15:11:54](https://news.ycombinator.com/item?id=39430585) - [City of London ditches Oracle for SAP in search of ERP enlightenment](https://www.theregister.com/2024/02/19/city_of_london_sap_si/)
 * [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 * [2024-02-19, 14:31:18](https://news.ycombinator.com/item?id=39430095) - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
 * [2024-02-19, 14:24:40](https://news.ycombinator.com/item?id=39430027) - [Wyze security incident update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
@@ -14,6 +13,7 @@
 * [2024-02-19, 11:46:49](https://news.ycombinator.com/item?id=39428766) - [Show HN: CodeRev.app – Code Review as Interview](https://coderev.app)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+* [2024-02-19, 11:11:00](https://news.ycombinator.com/item?id=39428466) - [First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey](https://eos.org/thelandslideblog/copler-mine-3)
 * [2024-02-19, 11:02:39](https://news.ycombinator.com/item?id=39428409) - [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
 * [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 10:11:11](https://news.ycombinator.com/item?id=39427940) - [Bach’s Cantata Calendar](https://whichbachcantata.be/)
