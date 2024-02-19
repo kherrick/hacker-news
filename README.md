@@ -9,7 +9,7 @@
 * [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 * [2024-02-18, 23:15:27](https://news.ycombinator.com/item?id=39424527) - [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
 * [2024-02-18, 22:10:28](https://news.ycombinator.com/item?id=39423978) - [Why are amplitudes complex numbers? (2018)](https://scottaaronson.blog/?p=4021)
-* [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [A steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
+* [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [A steep rise of Hacker News in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI end-to-end tests](https://news.ycombinator.com/item?id=39423303)
 * [2024-02-18, 20:06:36](https://news.ycombinator.com/item?id=39422588) - [The Internet Scheme Repository](https://legacy.cs.indiana.edu/scheme-repository/)
 * [2024-02-18, 18:50:13](https://news.ycombinator.com/item?id=39421838) - [Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
