@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 12:46:36](https://news.ycombinator.com/item?id=39429160) - [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
 * [2024-02-19, 12:05:16](https://news.ycombinator.com/item?id=39428874) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
