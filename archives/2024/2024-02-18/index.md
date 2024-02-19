@@ -11,6 +11,7 @@
 * [2024-02-18, 22:10:28](https://news.ycombinator.com/item?id=39423978) - [Why are amplitudes complex numbers? (2018)](https://scottaaronson.blog/?p=4021)
 * [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [The steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
 * [2024-02-18, 21:25:39](https://news.ycombinator.com/item?id=39423539) - [Frozen embryos are 'children,' Alabama Supreme Court rules](https://www.al.com/news/mobile/2024/02/frozen-embryos-are-children-alabama-supreme-court-rules-in-reviving-couples-wrongful-death-suits.html)
+* [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 21:02:44](https://news.ycombinator.com/item?id=39423303) - [Meticulous (YC S21) is hiring to eliminate UI e2e tests](https://news.ycombinator.com/item?id=39423303)
 * [2024-02-18, 20:33:32](https://news.ycombinator.com/item?id=39422916) - [Simon Peyton Jones – Haskell is useless [video]](https://www.youtube.com/watch?v=iSmkqocn0oQ)
 * [2024-02-18, 20:30:06](https://news.ycombinator.com/item?id=39422869) - [Earth-1217: where every CSV file has two header rows: column names and units](https://hachyderm.io/deck/@gvwilson@mastodon.social/111954365835588784)
