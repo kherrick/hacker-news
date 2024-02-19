@@ -6,6 +6,8 @@
 
 * [2024-02-19, 05:19:24](https://news.ycombinator.com/item?id=39426452) - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
 * [2024-02-19, 04:59:19](https://news.ycombinator.com/item?id=39426370) - [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+* [2024-02-19, 04:49:25](https://news.ycombinator.com/item?id=39426330) - [SoraApp got 7,500 on the waitlist](https://soraapp.art)
+* [2024-02-19, 04:45:08](https://news.ycombinator.com/item?id=39426310) - [The Namingless Programming Language](https://github.com/akalenuk/the_namingless_programming_language)
 * [2024-02-19, 04:24:52](https://news.ycombinator.com/item?id=39426209) - [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 * [2024-02-19, 03:54:48](https://news.ycombinator.com/item?id=39426107) - [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
 * [2024-02-19, 03:30:09](https://news.ycombinator.com/item?id=39425996) - [\"Rabbit Test\" Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
