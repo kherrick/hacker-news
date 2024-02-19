@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
+* [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
+* [2024-02-19, 15:11:54](https://news.ycombinator.com/item?id=39430585) - [City of London ditches Oracle for SAP in search of ERP enlightenment](https://www.theregister.com/2024/02/19/city_of_london_sap_si/)
 * [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
 * [2024-02-19, 14:39:12](https://news.ycombinator.com/item?id=39430189) - [What If Public Housing Were for Everyone?](https://www.vox.com/policy/2024/2/10/24065342/social-housing-public-housing-affordable-crisis)
 * [2024-02-19, 14:31:18](https://news.ycombinator.com/item?id=39430095) - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
@@ -14,6 +17,7 @@
 * [2024-02-19, 13:02:41](https://news.ycombinator.com/item?id=39429299) - [Ask HN: My company went bankrupt today and I have 2 options](https://news.ycombinator.com/item?id=39429299)
 * [2024-02-19, 12:46:36](https://news.ycombinator.com/item?id=39429160) - [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
 * [2024-02-19, 12:09:02](https://news.ycombinator.com/item?id=39428899) - [Do not install Docker Desktop on GNU/Linux systems](https://news.ycombinator.com/item?id=39428899)
+* [2024-02-19, 12:06:01](https://news.ycombinator.com/item?id=39428880) - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://groq.com/)
 * [2024-02-19, 12:05:16](https://news.ycombinator.com/item?id=39428874) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-19, 11:46:49](https://news.ycombinator.com/item?id=39428766) - [Show HN: CodeRev.app – Code Review as Interview](https://coderev.app)
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
