@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's Software Team](https://news.ycombinator.com/item?id=39432015)
 * [2024-02-19, 17:00:00](https://news.ycombinator.com/item?id=39432011) - [Why do so many big tech companies have awful apps and many indie apps are great?](https://old.reddit.com/r/androiddev/comments/1auiume/why_do_so_many_large_tech_companies_have_awful/)

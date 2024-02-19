@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's software team (which is currently hiring)](https://news.ycombinator.com/item?id=39432015)
 * [2024-02-19, 16:43:05](https://news.ycombinator.com/item?id=39431809) - [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
@@ -24,7 +25,6 @@
 * [2024-02-19, 06:03:38](https://news.ycombinator.com/item?id=39426631) - [Castle Engine – Free open-source cross-platform 3D/2D game engine using Pascal](https://castle-engine.io/)
 * [2024-02-19, 04:52:38](https://news.ycombinator.com/item?id=39426341) - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 * [2024-02-19, 04:45:08](https://news.ycombinator.com/item?id=39426310) - [The Namingless Programming Language](https://github.com/akalenuk/the_namingless_programming_language)
-* [2024-02-19, 02:39:12](https://news.ycombinator.com/item?id=39425706) - [Show HN: RAM Prices](https://ramstickprices.com/)
 * [2024-02-18, 20:23:25](https://news.ycombinator.com/item?id=39422778) - [House cleaners find two of the first desktop PCs in random boxes](https://www.tomshardware.com/desktops/house-cleaners-find-two-of-the-worlds-first-desktop-pcs-in-random-boxes)
 * [2024-02-18, 11:24:50](https://news.ycombinator.com/item?id=39418196) - [Fort Botox, Where a Deadly Toxin Yields $2.8B Drug (2017)](https://www.bloomberg.com/news/features/2017-10-26/inside-fort-botox-where-a-deadly-toxin-yields-2-8-billion-drug)
 * [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
