@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 18:14:39](https://news.ycombinator.com/item?id=39432883) - [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
+* [2024-02-19, 18:12:27](https://news.ycombinator.com/item?id=39432851) - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
 * [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's software team (which is currently hiring)](https://news.ycombinator.com/item?id=39432015)
@@ -9,7 +11,6 @@
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 * [2024-02-19, 14:51:05](https://news.ycombinator.com/item?id=39430336) - [There's one last place Planet 9 could be hiding](https://www.universetoday.com/165774/theres-one-last-place-planet-9-could-be-hiding/)
 * [2024-02-19, 14:31:18](https://news.ycombinator.com/item?id=39430095) - [AstraZeneca unveils successes in treatment of lung cancer](https://www.ft.com/content/b845e8ab-9cbc-482c-aa22-0b5c020be099)
-* [2024-02-19, 14:24:40](https://news.ycombinator.com/item?id=39430027) - [Wyze security incident update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
 * [2024-02-19, 13:43:32](https://news.ycombinator.com/item?id=39429627) - [Porting to GCC 14: C language issues](https://gcc.gnu.org/gcc-14/porting_to.html#c)
 * [2024-02-19, 13:12:18](https://news.ycombinator.com/item?id=39429370) - [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
 * [2024-02-19, 12:06:01](https://news.ycombinator.com/item?id=39428880) - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://groq.com/)
@@ -17,7 +18,6 @@
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:27:51](https://news.ycombinator.com/item?id=39428609) - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
-* [2024-02-19, 11:02:39](https://news.ycombinator.com/item?id=39428409) - [How to make a better default Firefox UI](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI)
 * [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 10:11:11](https://news.ycombinator.com/item?id=39427940) - [Bach’s Cantata Calendar](https://whichbachcantata.be/)
 * [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists discover four new octopus species](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)

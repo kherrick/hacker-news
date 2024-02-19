@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 18:14:39](https://news.ycombinator.com/item?id=39432883) - [The Empty Adderall Factory](https://nymag.com/intelligencer/article/adderall-shortage-adhd-medication-ascent-pharmaceuticals.html)
+* [2024-02-19, 18:12:27](https://news.ycombinator.com/item?id=39432851) - [The Feds Just Bet Even Bigger on American-Made Heat Pumps](https://www.wired.com/story/the-feds-just-bet-even-bigger-on-american-made-heat-pumps/)
 * [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's Software Team](https://news.ycombinator.com/item?id=39432015)
