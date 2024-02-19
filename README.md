@@ -3,7 +3,6 @@
 * [2024-02-19, 22:15:44](https://news.ycombinator.com/item?id=39435486) - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
-* [2024-02-19, 22:05:04](https://news.ycombinator.com/item?id=39435391) - [Job posts for workers without degrees are booming, but not the hiring](https://www.cnbc.com/2024/02/19/job-posts-for-workers-without-degrees-are-booming-but-not-the-hiring.html)
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 21:41:40](https://news.ycombinator.com/item?id=39435159) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
@@ -30,6 +29,7 @@
 * [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 03:37:31](https://news.ycombinator.com/item?id=39415947) - [The long-running joke of a moon made of cheese](https://snackstack.net/2024/02/17/the-long-running-joke-of-a-moon-made-of-cheese/)
+* [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear Old Hard drive sounds](https://deervo.itch.io/diskclick)
 
 ## [Archives](archives/index.md)
 
