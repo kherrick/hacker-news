@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox](https://github.com/XboxDev/endgame-exploit)
+* [2024-02-19, 21:56:37](https://news.ycombinator.com/item?id=39435318) - [Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law](https://www.thenation.com/article/politics/michigan-right-to-work-law/)
+* [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a Hybrid Native Application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+* [2024-02-19, 21:49:11](https://news.ycombinator.com/item?id=39435244) - [The Story of Curl](https://un.curl.dev/mine/curl)
+* [2024-02-19, 21:41:40](https://news.ycombinator.com/item?id=39435159) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
+* [2024-02-19, 21:23:49](https://news.ycombinator.com/item?id=39434991) - [Wyze camera breach let 13,000 strangers look into other people's homes](https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/)
 * [2024-02-19, 21:00:30](https://news.ycombinator.com/item?id=39434757) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-02-19, 20:56:02](https://news.ycombinator.com/item?id=39434701) - [Death Valley National Park now offering a rare opportunity – kayaking](https://edition.cnn.com/travel/death-valley-national-park-kayaking-temporary-lake/index.html)
 * [2024-02-19, 20:43:39](https://news.ycombinator.com/item?id=39434566) - [Star Trek: Borg – Remastered](https://borgremastered.com/)
