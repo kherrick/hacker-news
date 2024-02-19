@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 23:37:15](https://news.ycombinator.com/item?id=39424688) - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
 * [2024-02-18, 23:20:21](https://news.ycombinator.com/item?id=39424566) - [Open Source Games](https://project-awesome.org/michelpereira/awesome-open-source-games)
+* [2024-02-18, 23:15:27](https://news.ycombinator.com/item?id=39424527) - [FTC Obtains $195M Judgment and Ban on Simple Health for Sham Insurance Offering](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-obtains-195-million-judgment-permanent-ban-telemarketing-selling-healthcare-products-against)
 * [2024-02-18, 22:28:30](https://news.ycombinator.com/item?id=39424132) - [Questions about DuckDuckGo's Future](https://thejollyteapot.com/2024/02/17/questions-about-duckduckgos-future)
 * [2024-02-18, 22:10:28](https://news.ycombinator.com/item?id=39423978) - [Why are amplitudes complex numbers? (2018)](https://scottaaronson.blog/?p=4021)
 * [2024-02-18, 22:06:13](https://news.ycombinator.com/item?id=39423949) - [The steep rise of Hackernews in Google rankings](https://jonathanpagel.com/the-steep-rise-of-hackernews-in-google-rankings/)
