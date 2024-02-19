@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 13:02:41](https://news.ycombinator.com/item?id=39429299) - [Ask HN: My company went bankrupt today and I have 2 options](https://news.ycombinator.com/item?id=39429299)
 * [2024-02-19, 12:46:36](https://news.ycombinator.com/item?id=39429160) - [Amiga Emulator: WinUAE 5.2.0](https://www.winuae.net/2024/02/19/winuae-5-2-0/)
 * [2024-02-19, 12:05:16](https://news.ycombinator.com/item?id=39428874) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
@@ -18,6 +19,7 @@
 * [2024-02-19, 10:47:13](https://news.ycombinator.com/item?id=39428253) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 10:22:10](https://news.ycombinator.com/item?id=39428002) - [My PHP Problems](https://www.dantleech.com/blog/2024/02/18/my-php-problems/)
+* [2024-02-19, 10:11:11](https://news.ycombinator.com/item?id=39427940) - [Bach's Cantata Calendar](https://whichbachcantata.be/)
 * [2024-02-19, 09:57:37](https://news.ycombinator.com/item?id=39427876) - [The day I canceled my Spotify subscription](https://blog.raed.dev/posts/goodbye_spotify)
 * [2024-02-19, 09:48:55](https://news.ycombinator.com/item?id=39427821) - [AI is making critical health care decisions, but is unregulated](https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768)
 * [2024-02-19, 09:43:12](https://news.ycombinator.com/item?id=39427778) - [Enforced Amnesia as Way to Mitigate Risk of Silent Suffering in the Conscious AI](https://yegortkachenko.com/posts/aiamnesia.html)
