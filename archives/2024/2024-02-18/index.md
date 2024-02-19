@@ -73,6 +73,7 @@
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:08:01](https://news.ycombinator.com/item?id=39418107) - [An Extreme Antipattern for Programming Books (2023)](https://logicgrimoire.wordpress.com/2023/12/05/an-extreme-antipattern-for-programming-books/)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
+* [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2024-02-18, 10:26:50](https://news.ycombinator.com/item?id=39417895) - [FuturesUnordered and the Order of Futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 10:16:41](https://news.ycombinator.com/item?id=39417829) - [Zed Editor: All Occurrences Search from 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 * [2024-02-18, 09:49:09](https://news.ycombinator.com/item?id=39417676) - [Nude awakening: Japan's 'naked men' festival succumbs to ageing population](https://www.scmp.com/news/asia/east-asia/article/3252318/itawe-japans-naked-men-festival-succumbs-ageing-population-difficult-continue)
