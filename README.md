@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 20:29:24](https://news.ycombinator.com/item?id=39434417) - [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
+* [2024-02-19, 20:29:05](https://news.ycombinator.com/item?id=39434411) - [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
+* [2024-02-19, 20:17:36](https://news.ycombinator.com/item?id=39434271) - [Hono on Cloudflare Workers is 3x faster than alternatives](https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render)
 * [2024-02-19, 19:34:40](https://news.ycombinator.com/item?id=39433709) - [Why Are LLMs So Gullible?](https://amistrongeryet.substack.com/p/why-are-llms-so-gullible)
 * [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [Big media publishers are inundating the web with subpar product recommendations](https://housefresh.com/david-vs-digital-goliaths/)
 * [2024-02-19, 18:48:21](https://news.ycombinator.com/item?id=39433231) - [Show HN: Qoord, a simple quantum circuit simulator](https://github.com/scottmckuen/qoord)
@@ -7,7 +10,6 @@
 * [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
 * [2024-02-19, 18:34:52](https://news.ycombinator.com/item?id=39433104) - [Practicing Rust, Learning Bevy, Creating a WASM Snake Game for the Browser](https://bbarrows.com/posts/bevy-snake)
 * [2024-02-19, 18:14:12](https://news.ycombinator.com/item?id=39432876) - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
-* [2024-02-19, 17:31:54](https://news.ycombinator.com/item?id=39432349) - [EU opens formal investigation into TikTok over possible online content breaches](https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's software team (which is currently hiring)](https://news.ycombinator.com/item?id=39432015)
 * [2024-02-19, 16:43:05](https://news.ycombinator.com/item?id=39431809) - [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
@@ -28,8 +30,6 @@
 * [2024-02-18, 10:39:33](https://news.ycombinator.com/item?id=39417968) - [A800 40GB Active Graphics Card](https://www.nvidia.com/en-us/design-visualization/a800/)
 * [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2024-02-17, 13:14:59](https://news.ycombinator.com/item?id=39409140) - [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/)
-* [2024-02-17, 12:17:13](https://news.ycombinator.com/item?id=39408770) - [Mysterious 280M-year-old fossil is mostly just black paint](https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/)
-* [2024-02-16, 01:01:03](https://news.ycombinator.com/item?id=39391675) - [Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
 
 ## [Archives](archives/index.md)
 

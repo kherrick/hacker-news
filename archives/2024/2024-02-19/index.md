@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 20:29:24](https://news.ycombinator.com/item?id=39434417) - [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
+* [2024-02-19, 20:29:05](https://news.ycombinator.com/item?id=39434411) - [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
+* [2024-02-19, 20:17:36](https://news.ycombinator.com/item?id=39434271) - [Hono on Cloudflare Workers is 3x faster than alternatives](https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render)
 * [2024-02-19, 19:34:40](https://news.ycombinator.com/item?id=39433709) - [Why Are LLMs So Gullible?](https://amistrongeryet.substack.com/p/why-are-llms-so-gullible)
 * [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [How Google is killing independent sites like ours](https://housefresh.com/david-vs-digital-goliaths/)
 * [2024-02-19, 18:48:21](https://news.ycombinator.com/item?id=39433231) - [Show HN: Qoord, a simple quantum circuit simulator](https://github.com/scottmckuen/qoord)
