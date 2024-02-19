@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 19:34:40",
+      "https://news.ycombinator.com/item?id=39433709"
+    ],
+    [
+      "Why Are LLMs So Gullible?",
+      "https://amistrongeryet.substack.com/p/why-are-llms-so-gullible"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 19:09:19",
       "https://news.ycombinator.com/item?id=39433451"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2024-02-19, 18:48:21",
+      "https://news.ycombinator.com/item?id=39433231"
+    ],
+    [
+      "Show HN: Qoord, a simple quantum circuit simulator",
+      "https://github.com/scottmckuen/qoord"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 18:40:51",
+      "https://news.ycombinator.com/item?id=39433153"
+    ],
+    [
+      "Latest GPT-4 training data updated to December 2023",
+      "https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 18:36:14",
       "https://news.ycombinator.com/item?id=39433120"
     ],
     [
       "Show HN: I made a simple daily word puzzle",
       "https://triword.net"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 18:34:52",
+      "https://news.ycombinator.com/item?id=39433104"
+    ],
+    [
+      "Practicing Rust, Learning Bevy, Creating a WASM Snake Game for the Browser",
+      "https://bbarrows.com/posts/bevy-snake"
     ]
   ],
   [
@@ -81,26 +121,6 @@
   ],
   [
     [
-      "2024-02-19, 15:03:57",
-      "https://news.ycombinator.com/item?id=39430496"
-    ],
-    [
-      "Gender differences in Dutch research funding over time",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297311"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 14:58:45",
-      "https://news.ycombinator.com/item?id=39430434"
-    ],
-    [
-      "Show HN: A new search engine for finding leads",
-      "https://singulatron.com/home"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 14:31:18",
       "https://news.ycombinator.com/item?id=39430095"
     ],
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2024-02-19, 11:31:26",
-      "https://news.ycombinator.com/item?id=39428640"
+      "2024-02-19, 11:32:37",
+      "https://news.ycombinator.com/item?id=39428646"
     ],
     [
-      "GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont",
-      "https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html"
+      "Show HN: CaveRibbon (SFCave Remake)",
+      "https://memalign.github.io/m/cr/index.html"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Show HN: PRQL in PostgreSQL",
       "https://github.com/kaspermarstal/plprql"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 11:11:00",
-      "https://news.ycombinator.com/item?id=39428466"
-    ],
-    [
-      "First satellite imagery of the Feb-13, 2024 landslide at Çöpler Mine in Turkey",
-      "https://eos.org/thelandslideblog/copler-mine-3"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 11:02:39",
-      "https://news.ycombinator.com/item?id=39428409"
-    ],
-    [
-      "How to make a better default Firefox UI",
-      "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI"
     ]
   ],
   [
