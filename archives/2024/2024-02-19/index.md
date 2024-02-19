@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 07:55:44](https://news.ycombinator.com/item?id=39427172) - [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
 * [2024-02-19, 07:01:05](https://news.ycombinator.com/item?id=39426898) - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-19, 06:24:28](https://news.ycombinator.com/item?id=39426712) - [\"A Plea for Lean Software\" by Prof. Niklaus Wirth](https://liam-on-linux.dreamwidth.org/88032.html)

@@ -61,6 +61,7 @@
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)
 * [2024-02-17, 10:20:22](https://news.ycombinator.com/item?id=39408158) - [Show HN: AI Generated (Not-Real) User Avatar Images for Development Needs](https://avatars.tzador.com/)
 * [2024-02-17, 10:19:49](https://news.ycombinator.com/item?id=39408155) - [Microsoft bets on Germany in 3.2B euro AI push](https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/)
+* [2024-02-17, 10:15:54](https://news.ycombinator.com/item?id=39408135) - [Master of the Playing Cards](https://en.wikipedia.org/wiki/Master_of_the_Playing_Cards)
 * [2024-02-17, 10:09:45](https://news.ycombinator.com/item?id=39408099) - [Treksit – Interstellar puzzle based on Graph Theory](https://treksit.com/index.html)
 * [2024-02-17, 10:06:32](https://news.ycombinator.com/item?id=39408076) - [Spnec fast-tracks ₱200B solar farm in Central Luzon](https://businessmirror.com.ph/2024/01/03/spnec-fast-tracks-p200-b-solar-farm-in-central-luzon/)
 * [2024-02-17, 09:18:48](https://news.ycombinator.com/item?id=39407821) - [Pgtemp: The easiest way to write tests with Postgres in Rust, without Docker](https://github.com/boustrophedon/pgtemp)
