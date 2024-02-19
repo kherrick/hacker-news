@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 15:55:24](https://news.ycombinator.com/item?id=39431130) - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 * [2024-02-19, 15:11:54](https://news.ycombinator.com/item?id=39430585) - [City of London ditches Oracle for SAP in search of ERP enlightenment](https://www.theregister.com/2024/02/19/city_of_london_sap_si/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-19, 15:55:24](https://news.ycombinator.com/item?id=39431130) - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 * [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The case against caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
@@ -27,7 +28,6 @@
 * [2024-02-18, 11:08:01](https://news.ycombinator.com/item?id=39418107) - [An Extreme Antipattern for Programming Books (2023)](https://logicgrimoire.wordpress.com/2023/12/05/an-extreme-antipattern-for-programming-books/)
 * [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2024-02-17, 12:17:13](https://news.ycombinator.com/item?id=39408770) - [Mysterious 280M-year-old fossil is mostly just black paint](https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/)
-* [2024-02-17, 10:15:54](https://news.ycombinator.com/item?id=39408135) - [Master of the Playing Cards](https://en.wikipedia.org/wiki/Master_of_the_Playing_Cards)
 * [2024-02-16, 13:01:20](https://news.ycombinator.com/item?id=39396373) - [Clean your codebase with basic information theory](https://taylor.town/compress-code)
 * [2024-02-16, 01:01:03](https://news.ycombinator.com/item?id=39391675) - [Optimization Example: Mandelbrot Set (part 1)](https://www.orange-kiwi.com/posts/optimization-example-mandelbrot-part-1/)
 
