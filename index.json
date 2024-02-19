@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-02-19, 22:05:43",
+      "https://news.ycombinator.com/item?id=39435397"
+    ],
+    [
+      "endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox",
+      "https://github.com/XboxDev/endgame-exploit"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 21:56:37",
+      "https://news.ycombinator.com/item?id=39435318"
+    ],
+    [
+      "Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law",
+      "https://www.thenation.com/article/politics/michigan-right-to-work-law/"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 21:51:19",
+      "https://news.ycombinator.com/item?id=39435262"
+    ],
+    [
+      "Building a Hybrid Native Application with Gleam and Tauri",
+      "https://www.wezm.net/v2/posts/2024/gleam-tauri/"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 21:49:11",
+      "https://news.ycombinator.com/item?id=39435244"
+    ],
+    [
+      "The Story of Curl",
+      "https://un.curl.dev/mine/curl"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 21:41:40",
+      "https://news.ycombinator.com/item?id=39435159"
+    ],
+    [
+      "Measuring energy usage: regular code vs. SIMD code",
+      "https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 21:23:49",
+      "https://news.ycombinator.com/item?id=39434991"
+    ],
+    [
+      "Wyze camera breach let 13,000 strangers look into other people's homes",
+      "https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 20:56:02",
       "https://news.ycombinator.com/item?id=39434701"
     ],
@@ -67,16 +127,6 @@
     [
       "What is a species, anyway?",
       "https://www.nytimes.com/2024/02/19/science/what-is-a-species.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 18:48:21",
-      "https://news.ycombinator.com/item?id=39433231"
-    ],
-    [
-      "Show HN: Qoord, a simple quantum circuit simulator",
-      "https://github.com/scottmckuen/qoord"
     ]
   ],
   [
@@ -151,16 +201,6 @@
   ],
   [
     [
-      "2024-02-19, 14:51:05",
-      "https://news.ycombinator.com/item?id=39430336"
-    ],
-    [
-      "One place Planet 9 could be hiding",
-      "https://www.universetoday.com/165774/theres-one-last-place-planet-9-could-be-hiding/"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 14:31:18",
       "https://news.ycombinator.com/item?id=39430095"
     ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2024-02-19, 11:46:49",
-      "https://news.ycombinator.com/item?id=39428766"
-    ],
-    [
-      "Show HN: CodeRev.app – Code Review as Interview",
-      "https://coderev.app"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 11:36:40",
       "https://news.ycombinator.com/item?id=39428677"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2024-02-19, 11:32:37",
-      "https://news.ycombinator.com/item?id=39428646"
-    ],
-    [
-      "Show HN: CaveRibbon (SFCave Remake)",
-      "https://memalign.github.io/m/cr/index.html"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 11:27:51",
       "https://news.ycombinator.com/item?id=39428609"
     ],
     [
       "Show HN: PRQL in PostgreSQL",
       "https://github.com/kaspermarstal/plprql"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 11:02:39",
-      "https://news.ycombinator.com/item?id=39428409"
-    ],
-    [
-      "How to make a better default Firefox UI",
-      "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-1.-How-to-make-a-better-default-Firefox-UI"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "An accessible one-handed keyboard, inspired by FrogPad",
       "https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 10:28:15",
-      "https://news.ycombinator.com/item?id=39417905"
-    ],
-    [
-      "Notes on Text Editing",
-      "https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org"
     ]
   ]
 ]
