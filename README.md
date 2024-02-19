@@ -23,7 +23,7 @@
 * [2024-02-18, 14:09:37](https://news.ycombinator.com/item?id=39419195) - [SPAD: Spatially Aware Multiview Diffusers](https://yashkant.github.io/spad/)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
-* [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+* [2024-02-18, 09:49:09](https://news.ycombinator.com/item?id=39417676) - [Nude awakening: Japan's 'naked men' festival succumbs to ageing population](https://www.scmp.com/news/asia/east-asia/article/3252318/itawe-japans-naked-men-festival-succumbs-ageing-population-difficult-continue)
 * [2024-02-18, 04:42:30](https://news.ycombinator.com/item?id=39416277) - [Applying Grease to TLS Extensibility (2016)](https://datatracker.ietf.org/doc/html/draft-davidben-tls-grease-01)
 * [2024-02-17, 18:55:24](https://news.ycombinator.com/item?id=39412276) - [Nebula is not the fastest mesh VPN, but neither are the others](https://www.defined.net/blog/nebula-is-not-the-fastest-mesh-vpn/)
 * [2024-02-17, 10:20:49](https://news.ycombinator.com/item?id=39408162) - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/)

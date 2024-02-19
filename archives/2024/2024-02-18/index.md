@@ -70,6 +70,7 @@
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [2024-02-18, 10:26:50](https://news.ycombinator.com/item?id=39417895) - [FuturesUnordered and the Order of Futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 10:16:41](https://news.ycombinator.com/item?id=39417829) - [Zed Editor: All Occurrences Search from 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
+* [2024-02-18, 09:49:09](https://news.ycombinator.com/item?id=39417676) - [Nude awakening: Japan's 'naked men' festival succumbs to ageing population](https://www.scmp.com/news/asia/east-asia/article/3252318/itawe-japans-naked-men-festival-succumbs-ageing-population-difficult-continue)
 * [2024-02-18, 09:41:09](https://news.ycombinator.com/item?id=39417638) - [Show HN: I create a free website for download YouTube transcript, subtitle](https://www.downloadyoutubesubtitle.com/)
 * [2024-02-18, 09:15:33](https://news.ycombinator.com/item?id=39417503) - [Wddbfs – Mount a SQLite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
 * [2024-02-18, 09:06:23](https://news.ycombinator.com/item?id=39417459) - [Laughing Off the Dark Mode Lobby](https://www.lloydatkinson.net/posts/2024/the-dark-mode-lobby/)
