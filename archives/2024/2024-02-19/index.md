@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
 * [2024-02-19, 05:19:24](https://news.ycombinator.com/item?id=39426452) - [Gemini 1.5 outshines GPT-4-Turbo-128K on long code prompts, HVM author](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
+* [2024-02-19, 04:59:19](https://news.ycombinator.com/item?id=39426370) - [Show HN: Searchbase – Plug-n-play semantic/fuzzy search for your data](https://searchbase.dev/)
+* [2024-02-19, 04:24:52](https://news.ycombinator.com/item?id=39426209) - [Show HN: I built a vector database API on Cloudflare](https://github.com/TimeSurgeLabs/athenadb)
 * [2024-02-19, 03:54:48](https://news.ycombinator.com/item?id=39426107) - [Air Canada chatbot promised a discount. Now the airline has to pay it](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/)
 * [2024-02-19, 03:30:09](https://news.ycombinator.com/item?id=39425996) - [\"Rabbit Test\" Unwins the Hugo Award](https://samtasticbooks.com/2024/02/17/rabbit-test-unwins-the-hugo/)
 * [2024-02-19, 03:27:14](https://news.ycombinator.com/item?id=39425980) - [The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer](https://www.popularmechanics.com/science/animals/a46799706/mutant-wolves-of-chernobyl/)
+* [2024-02-19, 02:39:12](https://news.ycombinator.com/item?id=39425706) - [Show HN: RAM Prices](https://ramstickprices.com/)
 * [2024-02-19, 02:03:00](https://news.ycombinator.com/item?id=39425510) - [Who's winning in Sarah Silverman's copyright suit against OpenAI?](https://www.msn.com/en-us/news/crime/column-who-s-really-winning-in-sarah-silverman-s-copyright-suit-against-openai/ar-BB1inelI)
 * [2024-02-19, 01:59:58](https://news.ycombinator.com/item?id=39425492) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/17/vpp-freebsd-2.html)
 * [2024-02-19, 01:48:37](https://news.ycombinator.com/item?id=39425430) - [Serving a Website from a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
