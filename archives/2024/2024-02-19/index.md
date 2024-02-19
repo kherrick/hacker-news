@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
 * [2024-02-19, 10:55:26](https://news.ycombinator.com/item?id=39428343) - [French telecom company Orange fined €650k for violation of GPL license](https://web.archive.org/web/20240216164701/https://www.legalis.net/actualite/orange-condamne-a-650-000-e-pour-non-respect-de-la-licence-gpl/)
+* [2024-02-19, 10:47:13](https://news.ycombinator.com/item?id=39428253) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
+* [2024-02-19, 10:27:52](https://news.ycombinator.com/item?id=39428047) - [The boundary of neural network trainability is fractal](https://arxiv.org/abs/2402.06184)
 * [2024-02-19, 09:57:37](https://news.ycombinator.com/item?id=39427876) - [The day I canceled my Spotify subscription](https://blog.raed.dev/posts/goodbye_spotify)
 * [2024-02-19, 09:48:55](https://news.ycombinator.com/item?id=39427821) - [AI is making critical health care decisions, but is unregulated](https://www.politico.com/news/2024/02/18/artificial-intelligence-health-care-fda-00141768)
 * [2024-02-19, 09:39:13](https://news.ycombinator.com/item?id=39427749) - [The EU Wants Its Own DNS Resolver That Can Block 'Unlawful' Traffic,TorrentFreak](https://torrentfreak.com/the-eu-wants-its-own-dns-resolver-that-can-block-unlawful-traffic-220119/)
