@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [endgame-exploit – A modern dashboard exploit for the original Microsoft Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 21:56:37](https://news.ycombinator.com/item?id=39435318) - [Michigan Becomes First State in 6 Decades to Scrap an Infamous Anti-Union Law](https://www.thenation.com/article/politics/michigan-right-to-work-law/)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a Hybrid Native Application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
