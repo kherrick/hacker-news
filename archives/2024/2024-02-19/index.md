@@ -16,6 +16,7 @@
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)
 * [2024-02-19, 15:18:39](https://news.ycombinator.com/item?id=39430678) - [AMD Zen 5 CPUs Reportedly Made on TSMC's 3nm Process, Mass Production in Q3](https://wccftech.com/amd-zen-5-cpus-reportedly-made-on-tsmc-3nm-process-q2-mass-production-q3-2024/amp/)
 * [2024-02-19, 15:11:54](https://news.ycombinator.com/item?id=39430585) - [City of London ditches Oracle for SAP in search of ERP enlightenment](https://www.theregister.com/2024/02/19/city_of_london_sap_si/)
+* [2024-02-19, 15:03:57](https://news.ycombinator.com/item?id=39430496) - [Gender differences in Dutch research funding over time](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297311)
 * [2024-02-19, 14:58:45](https://news.ycombinator.com/item?id=39430434) - [Show HN: A new search engine for finding leads](https://singulatron.com/home)
 * [2024-02-19, 14:56:59](https://news.ycombinator.com/item?id=39430409) - [Wyze says camera breach let 13,000 customers see into other people's homes](https://www.theverge.com/2024/2/19/24077233/wyze-security-camera-breach-13000-customers-events)
 * [2024-02-19, 14:56:28](https://news.ycombinator.com/item?id=39430401) - [The Case Against Caffeine](https://zantafakari.substack.com/p/the-case-against-caffeine)
