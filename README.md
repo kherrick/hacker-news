@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 00:34:43](https://news.ycombinator.com/item?id=39436623) - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+* [2024-02-20, 00:34:39](https://news.ycombinator.com/item?id=39436621) - [How to Fold a Julia Fractal](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 * [2024-02-20, 00:11:44](https://news.ycombinator.com/item?id=39436445) - [Steam Audio SDK and all included plugins now available under Apache-2.0 license](https://steamcommunity.com/games/596420/announcements/detail/7745698166044243233)
 * [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I Broke IKEA](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
 * [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
@@ -28,7 +29,6 @@
 * [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
-* [2024-02-18, 03:37:31](https://news.ycombinator.com/item?id=39415947) - [The long-running joke of a moon made of cheese](https://snackstack.net/2024/02/17/the-long-running-joke-of-a-moon-made-of-cheese/)
 * [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear old hard drive sounds](https://deervo.itch.io/diskclick)
 
 ## [Archives](archives/index.md)
