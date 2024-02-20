@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-02-20, 15:22:24",
+      "https://news.ycombinator.com/item?id=39442347"
+    ],
+    [
+      "Vietnam to collect biometrics – even DNA – for new ID cards",
+      "https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 15:18:54",
       "https://news.ycombinator.com/item?id=39442298"
     ],
@@ -61,22 +71,12 @@
   ],
   [
     [
-      "2024-02-20, 15:03:52",
-      "https://news.ycombinator.com/item?id=39442117"
+      "2024-02-20, 13:43:14",
+      "https://news.ycombinator.com/item?id=39441115"
     ],
     [
-      "How I got to the top 1% of StackOverflow",
-      "https://medium.com/@borzifrancesco/how-i-got-to-the-top-1-of-stackoverflow-986fd6b5b53f"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 15:02:41",
-      "https://news.ycombinator.com/item?id=39442102"
-    ],
-    [
-      "US will relax pollution-limiting rules for vehicle emissions",
-      "https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs"
+      "Bad property debt exceeds reserves at largest US banks",
+      "https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "I was deliberately infected with Zika to test a vaccine",
       "https://worksinprogress.co/issue/life-in-the-time-of-zika/"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 13:17:01",
+      "https://news.ycombinator.com/item?id=39440808"
+    ],
+    [
+      "Fast memory vulnerabilities, written in 100% safe Rust",
+      "https://github.com/Speykious/cve-rs"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-02-19, 20:58:30",
-      "https://news.ycombinator.com/item?id=39434727"
-    ],
-    [
-      "Opening /proc/self/fd/1 is not the same as dup(1)",
-      "https://blog.gnoack.org/post/proc-fd-is-not-dup/"
-    ]
-  ],
-  [
-    [
       "2024-02-18, 13:50:23",
       "https://news.ycombinator.com/item?id=39419054"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-02-18, 10:07:09",
+      "https://news.ycombinator.com/item?id=39417768"
+    ],
+    [
+      "Maralinga",
+      "https://www.nma.gov.au/defining-moments/resources/maralinga"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 06:41:10",
       "https://news.ycombinator.com/item?id=39416784"
     ],
@@ -277,16 +287,6 @@
     [
       "Films About Virtual Reality",
       "https://www.moriareviews.com/films-about-virtual-reality"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 06:06:03",
-      "https://news.ycombinator.com/item?id=39416623"
-    ],
-    [
-      "Silent data corruptions at scale (2021)",
-      "https://arxiv.org/abs/2102.11245"
     ]
   ],
   [
