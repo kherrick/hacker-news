@@ -90,6 +90,7 @@
 * [2024-02-19, 09:39:13](https://news.ycombinator.com/item?id=39427749) - [The EU Wants Its Own DNS Resolver That Can Block 'Unlawful' Traffic,TorrentFreak](https://torrentfreak.com/the-eu-wants-its-own-dns-resolver-that-can-block-unlawful-traffic-220119/)
 * [2024-02-19, 09:18:20](https://news.ycombinator.com/item?id=39427630) - [The Logitech G Cloud](https://taoofmac.com/space/blog/2024/02/03/2000)
 * [2024-02-19, 08:31:12](https://news.ycombinator.com/item?id=39427346) - [Largest natural gas leak from Nord Stream pipeline](https://doi.org/10.1016/j.isci.2023.108772)
+* [2024-02-19, 08:15:53](https://news.ycombinator.com/item?id=39427265) - [Ethernet: The Basics](https://hackaday.com/2024/02/12/ethernet-for-hackers-the-very-basics/)
 * [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists Discover Four New Octopus Species in the Deep Ocean Off Costa Rica](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
 * [2024-02-19, 07:55:44](https://news.ycombinator.com/item?id=39427172) - [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
 * [2024-02-19, 07:16:30](https://news.ycombinator.com/item?id=39426975) - [Well Temperaments (Part 5)](https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/)
