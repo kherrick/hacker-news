@@ -51,6 +51,7 @@
 * [2024-02-17, 13:14:59](https://news.ycombinator.com/item?id=39409140) - [Making SVG Loading Spinners: An Interactive Guide](https://fffuel.co/svg-spinner/)
 * [2024-02-17, 13:07:26](https://news.ycombinator.com/item?id=39409088) - [The Ramen Lord](https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/)
 * [2024-02-17, 13:07:22](https://news.ycombinator.com/item?id=39409087) - [Let me clear a huge misunderstanding here](https://twitter.com/ylecun/status/1758740106955952191)
+* [2024-02-17, 12:53:07](https://news.ycombinator.com/item?id=39409009) - [Flowers grown floating on polluted waterways can help clean up nutrient runoff](https://arstechnica.com/science/2024/02/flowers-grown-floating-on-polluted-waterways-can-help-clean-up-nutrient-runoff/)
 * [2024-02-17, 12:44:34](https://news.ycombinator.com/item?id=39408934) - [Visualize Latent Spaces](https://github.com/enjalot/latent-scope)
 * [2024-02-17, 12:36:06](https://news.ycombinator.com/item?id=39408889) - [Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)](https://btxx.org/posts/x201/)
 * [2024-02-17, 12:17:13](https://news.ycombinator.com/item?id=39408770) - [Mysterious 280M-year-old fossil is mostly just black paint](https://arstechnica.com/science/2024/02/its-a-fake-mysterious-280-million-year-old-fossil-is-mostly-just-black-paint/)

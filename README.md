@@ -12,7 +12,6 @@
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
-* [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [Big media publishers are inundating the web with subpar product recommendations](https://housefresh.com/david-vs-digital-goliaths/)
 * [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
 * [2024-02-19, 18:14:12](https://news.ycombinator.com/item?id=39432876) - [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
@@ -29,6 +28,7 @@
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 * [2024-02-18, 06:24:33](https://news.ycombinator.com/item?id=39416705) - [Hundred Pages vs. 11 Words](https://praveshkoirala.com/2024/02/18/intelligence-moves-via-abstractions/)
 * [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
+* [2024-02-17, 12:53:07](https://news.ycombinator.com/item?id=39409009) - [Flowers grown floating on polluted waterways can help clean up nutrient runoff](https://arstechnica.com/science/2024/02/flowers-grown-floating-on-polluted-waterways-can-help-clean-up-nutrient-runoff/)
 * [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear old hard drive sounds](https://deervo.itch.io/diskclick)
 
 ## [Archives](archives/index.md)
