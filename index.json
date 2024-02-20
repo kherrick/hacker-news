@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-02-20, 12:00:53",
+      "https://news.ycombinator.com/item?id=39440246"
+    ],
+    [
+      "OneSignal (YC S11) Is Hiring Engineers",
+      "https://onesignal.com/careers#section-job"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 11:50:34",
+      "https://news.ycombinator.com/item?id=39440179"
+    ],
+    [
+      "In Defense of Simple Architectures",
+      "https://danluu.com/simple-architectures/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 11:26:30",
       "https://news.ycombinator.com/item?id=39440034"
     ],
     [
       "Future of 32-bit platform support in FreeBSD",
       "https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 11:25:11",
+      "https://news.ycombinator.com/item?id=39440025"
+    ],
+    [
+      "Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts",
+      "https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/"
     ]
   ],
   [
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2024-02-20, 10:59:05",
-      "https://news.ycombinator.com/item?id=39439836"
-    ],
-    [
-      "Boffins propose regulating AI hardware",
-      "https://www.theregister.com/2024/02/16/boffins_propose_regulating_ai_hardware/"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 10:48:01",
       "https://news.ycombinator.com/item?id=39439771"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
+      "2024-02-20, 10:41:16",
+      "https://news.ycombinator.com/item?id=39439737"
+    ],
+    [
+      "Have front end frameworks destroyed the web?",
+      "https://www.gdnetwork.co/blog/have-frontend-frameworks-destroyed-the-web"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 10:28:01",
       "https://news.ycombinator.com/item?id=39439655"
     ],
     [
       "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly",
       "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 07:54:41",
-      "https://news.ycombinator.com/item?id=39438944"
-    ],
-    [
-      "LKML discusses merging Rust access to filesystem APIs",
-      "https://lwn.net/Articles/958072/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-02-19, 08:15:53",
-      "https://news.ycombinator.com/item?id=39427265"
-    ],
-    [
-      "Ethernet: The Basics",
-      "https://hackaday.com/2024/02/12/ethernet-for-hackers-the-very-basics/"
-    ]
-  ],
-  [
-    [
       "2024-02-18, 13:50:23",
       "https://news.ycombinator.com/item?id=39419054"
     ],
@@ -267,16 +277,6 @@
     [
       "Old London Bridge",
       "https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 10:26:50",
-      "https://news.ycombinator.com/item?id=39417895"
-    ],
-    [
-      "FuturesUnordered and the order of futures",
-      "https://without.boats/blog/futures-unordered/"
     ]
   ],
   [
