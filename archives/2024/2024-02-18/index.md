@@ -59,6 +59,7 @@
 * [2024-02-18, 13:59:15](https://news.ycombinator.com/item?id=39419126) - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
 * [2024-02-18, 13:55:22](https://news.ycombinator.com/item?id=39419098) - [The Linux Kernel Prepares for Rust 1.77 Upgrade](https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77)
 * [2024-02-18, 13:53:52](https://news.ycombinator.com/item?id=39419087) - [Stop Basing Your Self-Worth on Other People's Opinions](https://hbr.org/2024/02/stop-basing-your-self-worth-on-other-peoples-opinions)
+* [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:49:03](https://news.ycombinator.com/item?id=39419048) - [Why New York City Can't Fix Its Ugly Scaffolding Problem](https://www.wsj.com/us-news/new-york-city-cant-fix-sidewalk-shed-problem-5f46aef3)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
 * [2024-02-18, 13:23:58](https://news.ycombinator.com/item?id=39418855) - [Cosmic Desktop Is Slated to Debut with Pop _OS 24.04 LTS](https://linuxiac.com/cosmic-desktop-slated-to-debut-with-popos-24-04-lts/)

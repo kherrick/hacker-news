@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity](https://queue.acm.org/detail.cfm?id=3489047)
 * [2024-02-20, 02:36:45](https://news.ycombinator.com/item?id=39437424) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 * [2024-02-20, 02:28:42](https://news.ycombinator.com/item?id=39437387) - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
