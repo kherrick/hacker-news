@@ -62,6 +62,7 @@
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:49:03](https://news.ycombinator.com/item?id=39419048) - [Why New York City Can't Fix Its Ugly Scaffolding Problem](https://www.wsj.com/us-news/new-york-city-cant-fix-sidewalk-shed-problem-5f46aef3)
 * [2024-02-18, 13:44:54](https://news.ycombinator.com/item?id=39419010) - [WASM Instructions](https://webassembly.github.io/spec/core/binary/instructions.html)
+* [2024-02-18, 13:44:49](https://news.ycombinator.com/item?id=39419008) - [What is a long context window?](https://blog.google/technology/ai/long-context-window-ai-models/)
 * [2024-02-18, 13:23:58](https://news.ycombinator.com/item?id=39418855) - [Cosmic Desktop Is Slated to Debut with Pop _OS 24.04 LTS](https://linuxiac.com/cosmic-desktop-slated-to-debut-with-popos-24-04-lts/)
 * [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 13:21:10](https://news.ycombinator.com/item?id=39418830) - [What Is Woodshedding? Mastering the Art of Focused Music Practice](https://audioapartment.com/techniques-and-performance/what-is-woodshedding/)
