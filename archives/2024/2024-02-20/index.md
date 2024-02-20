@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+* [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
+* [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 20:14:59](https://news.ycombinator.com/item?id=39446305) - [Open Source Encryption for SQLite](https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225)
 * [2024-02-20, 20:13:18](https://news.ycombinator.com/item?id=39446282) - [A modest proposal for reducing mail traffic (1996)](https://cr.yp.to/sarcasm/modest-proposal.txt)
+* [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
 * [2024-02-20, 18:38:38](https://news.ycombinator.com/item?id=39445029) - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
 * [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
@@ -13,6 +17,7 @@
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
 * [2024-02-20, 18:02:13](https://news.ycombinator.com/item?id=39444519) - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+* [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
 * [2024-02-20, 17:35:41](https://news.ycombinator.com/item?id=39444165) - [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
 * [2024-02-20, 17:34:13](https://news.ycombinator.com/item?id=39444144) - [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
 * [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I Broke IKEA](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
+* [2024-02-19, 23:49:29](https://news.ycombinator.com/item?id=39436277) - ['Byron: A Life in Ten Letters': The Regency's rakish rock star](https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd)
 * [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
 * [2024-02-19, 23:44:15](https://news.ycombinator.com/item?id=39436238) - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
