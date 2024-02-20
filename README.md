@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+* [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity (2021)](https://queue.acm.org/detail.cfm?id=3489047)
 * [2024-02-20, 02:36:45](https://news.ycombinator.com/item?id=39437424) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
-* [2024-02-20, 02:28:42](https://news.ycombinator.com/item?id=39437387) - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
 * [2024-02-20, 00:34:43](https://news.ycombinator.com/item?id=39436623) - [Cake – C23 and Beyond (2023)](http://thradams.com/cake/ownership.html)
 * [2024-02-20, 00:34:39](https://news.ycombinator.com/item?id=39436621) - [How to Fold a Julia Fractal (2013)](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 * [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I broke IKEA (2023)](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
