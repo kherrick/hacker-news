@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 18:38:38](https://news.ycombinator.com/item?id=39445029) - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
 * [2024-02-20, 18:14:13](https://news.ycombinator.com/item?id=39444674) - [A response to \"Erlang – overhyped or underestimated\" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
 * [2024-02-20, 18:02:13](https://news.ycombinator.com/item?id=39444519) - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
