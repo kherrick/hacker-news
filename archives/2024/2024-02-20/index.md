@@ -6,6 +6,8 @@
 
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:38:31](https://news.ycombinator.com/item?id=39438876) - [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)
+* [2024-02-20, 07:35:29](https://news.ycombinator.com/item?id=39438861) - [Microsoft's Commitment to Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725)
+* [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity](https://queue.acm.org/detail.cfm?id=3489047)
