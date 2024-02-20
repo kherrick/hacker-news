@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:02:58](https://news.ycombinator.com/item?id=39446866) - [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
