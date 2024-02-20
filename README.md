@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 17:01:13](https://news.ycombinator.com/item?id=39443695) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39443695)
+* [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs Have Become Fast, Except in the Cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 16:50:33](https://news.ycombinator.com/item?id=39443548) - [Faculty group calls on Yale to make teaching 'distinct from activism'](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
 * [2024-02-20, 16:29:27](https://news.ycombinator.com/item?id=39443283) - [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
 * [2024-02-20, 16:23:47](https://news.ycombinator.com/item?id=39443207) - [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
@@ -15,7 +17,6 @@
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Fast memory vulnerabilities, written in 100% safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
-* [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures (2022)](https://danluu.com/simple-architectures/)
 * [2024-02-20, 11:26:30](https://news.ycombinator.com/item?id=39440034) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
@@ -27,7 +28,6 @@
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
-* [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 * [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
 * [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 

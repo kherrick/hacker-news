@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 17:01:13](https://news.ycombinator.com/item?id=39443695) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39443695)
+* [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs Have Become Fast, Except in the Cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 16:50:33](https://news.ycombinator.com/item?id=39443548) - [Faculty group calls on Yale to make teaching 'distinct from activism'](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
 * [2024-02-20, 16:29:27](https://news.ycombinator.com/item?id=39443283) - [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
 * [2024-02-20, 16:23:47](https://news.ycombinator.com/item?id=39443207) - [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
