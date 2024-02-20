@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+* [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [The asteroid that wiped out dinosaurs didn't impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
@@ -29,7 +30,6 @@
 * [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
-* [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films about virtual reality](https://www.moriareviews.com/films-about-virtual-reality)
 
 ## [Archives](archives/index.md)
 
