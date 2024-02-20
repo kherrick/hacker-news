@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 20:14:59",
+      "https://news.ycombinator.com/item?id=39446305"
+    ],
+    [
+      "Open Source Encryption for SQLite",
+      "https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 20:13:18",
       "https://news.ycombinator.com/item?id=39446282"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-02-20, 16:29:27",
-      "https://news.ycombinator.com/item?id=39443283"
-    ],
-    [
-      "Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License",
-      "https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 15:26:11",
       "https://news.ycombinator.com/item?id=39442400"
     ],
@@ -137,16 +137,6 @@
     [
       "Fingerprints can be recreated from the sounds made when you swipe a screen",
       "https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 15:18:50",
-      "https://news.ycombinator.com/item?id=39442296"
-    ],
-    [
-      "Ask HN: How many of you Apple developers still use Objective C?",
-      "https://news.ycombinator.com/item?id=39442296"
     ]
   ],
   [
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2024-02-20, 12:00:53",
-      "https://news.ycombinator.com/item?id=39440246"
-    ],
-    [
-      "OneSignal (YC S11) Is Hiring Engineers",
-      "https://onesignal.com/careers#section-job"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 11:50:34",
       "https://news.ycombinator.com/item?id=39440179"
     ],
     [
       "In Defense of Simple Architectures (2022)",
       "https://danluu.com/simple-architectures/"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 11:25:11",
+      "https://news.ycombinator.com/item?id=39440025"
+    ],
+    [
+      "Adding keyboard shortcuts to a 24 year-old government website with userscripts",
+      "https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "DJI – The ART of obfuscation",
       "https://blog.quarkslab.com/dji-the-art-of-obfuscation.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 23:26:51",
+      "https://news.ycombinator.com/item?id=39436095"
+    ],
+    [
+      "A decades-long art forgery scheme",
+      "https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/"
     ]
   ],
   [
