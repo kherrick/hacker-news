@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:38:31](https://news.ycombinator.com/item?id=39438876) - [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)
 * [2024-02-20, 07:35:29](https://news.ycombinator.com/item?id=39438861) - [Microsoft's Commitment to Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725)
