@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 00:34:43](https://news.ycombinator.com/item?id=39436623) - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
+* [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
 * [2024-02-19, 23:44:15](https://news.ycombinator.com/item?id=39436238) - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
-* [2024-02-19, 23:05:15](https://news.ycombinator.com/item?id=39435897) - [AI Determines Sex of Person from Brain Scans](https://neurosciencenews.com/ai-gender-identification-25631/)
 * [2024-02-19, 22:15:44](https://news.ycombinator.com/item?id=39435486) - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
-* [2024-02-19, 21:41:40](https://news.ycombinator.com/item?id=39435159) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
-* [2024-02-19, 21:05:17](https://news.ycombinator.com/item?id=39434803) - [The Oxford Comma and the Internet (2013)](http://blog.anguscroll.com/oxford-comma)
 * [2024-02-19, 20:56:02](https://news.ycombinator.com/item?id=39434701) - [Death Valley National Park now offering a rare opportunity – kayaking](https://edition.cnn.com/travel/death-valley-national-park-kayaking-temporary-lake/index.html)
 * [2024-02-19, 20:43:39](https://news.ycombinator.com/item?id=39434566) - [Star Trek: Borg – Remastered](https://borgremastered.com/)
 * [2024-02-19, 20:17:36](https://news.ycombinator.com/item?id=39434271) - [Monitoring latency: Cloudflare Workers vs Fly vs Koyeb vs Railway vs Render](https://www.openstatus.dev/blog/monitoring-latency-cf-workers-fly-koyeb-raylway-render)
@@ -28,8 +27,9 @@
 * [2024-02-19, 07:16:30](https://news.ycombinator.com/item?id=39426975) - [Well Temperaments (Part 5)](https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/)
 * [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
+* [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 * [2024-02-18, 03:37:31](https://news.ycombinator.com/item?id=39415947) - [The long-running joke of a moon made of cheese](https://snackstack.net/2024/02/17/the-long-running-joke-of-a-moon-made-of-cheese/)
-* [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear Old Hard drive sounds](https://deervo.itch.io/diskclick)
+* [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear old hard drive sounds](https://deervo.itch.io/diskclick)
 
 ## [Archives](archives/index.md)
 

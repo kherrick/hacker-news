@@ -66,6 +66,7 @@
 * [2024-02-18, 13:21:10](https://news.ycombinator.com/item?id=39418830) - [What Is Woodshedding? Mastering the Art of Focused Music Practice](https://audioapartment.com/techniques-and-performance/what-is-woodshedding/)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
+* [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 * [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
 * [2024-02-18, 12:21:40](https://news.ycombinator.com/item?id=39418468) - [A Colour Chart for London (2013)](https://londonist.com/2013/06/a-colour-chart-for-london)
