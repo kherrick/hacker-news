@@ -6,6 +6,8 @@
 
 * [2024-02-20, 11:26:30](https://news.ycombinator.com/item?id=39440034) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-20, 11:19:35](https://news.ycombinator.com/item?id=39439986) - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
+* [2024-02-20, 11:01:52](https://news.ycombinator.com/item?id=39439859) - [An Executive Bought a Rival's Stock. The SEC Says That's Insider Trading](https://www.wsj.com/finance/regulation/an-executive-bought-a-rivals-stock-the-sec-says-thats-insider-trading-84ef8aae)
+* [2024-02-20, 10:59:05](https://news.ycombinator.com/item?id=39439836) - [Boffins propose regulating AI hardware](https://www.theregister.com/2024/02/16/boffins_propose_regulating_ai_hardware/)
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:42:53](https://news.ycombinator.com/item?id=39439748) - [Why Does the State Have a Monopoly on Money?](https://www.economicforces.xyz/p/why-does-the-state-have-a-monopoly)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
