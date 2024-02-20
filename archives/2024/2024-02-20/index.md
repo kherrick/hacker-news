@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 18:14:13](https://news.ycombinator.com/item?id=39444674) - [A response to \"Erlang – overhyped or underestimated\" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
+* [2024-02-20, 18:02:13](https://news.ycombinator.com/item?id=39444519) - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:35:41](https://news.ycombinator.com/item?id=39444165) - [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
 * [2024-02-20, 17:34:13](https://news.ycombinator.com/item?id=39444144) - [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer (by Andrej Karpathy) [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
+* [2024-02-20, 17:18:21](https://news.ycombinator.com/item?id=39443927) - [Show HN: Swift Mail. Fastmail's modern mail standard delivered natively on macOS](https://www.swiftmail.io)
 * [2024-02-20, 17:01:13](https://news.ycombinator.com/item?id=39443695) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=39443695)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs Have Become Fast, Except in the Cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 16:50:33](https://news.ycombinator.com/item?id=39443548) - [Faculty group calls on Yale to make teaching 'distinct from activism'](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
