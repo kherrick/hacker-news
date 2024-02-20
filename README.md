@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
+* [2024-02-20, 21:02:58](https://news.ycombinator.com/item?id=39446866) - [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [The asteroid that wiped out dinosaurs didn't impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 * [2024-02-20, 20:56:24](https://news.ycombinator.com/item?id=39446789) - [Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
@@ -18,7 +19,6 @@
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
 * [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Implants and other technologies that decode neural activity](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
-* [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Cve-rs: Fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI is a function of your organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures (2022)](https://danluu.com/simple-architectures/)
