@@ -7,6 +7,7 @@
 * [2024-02-20, 15:18:54](https://news.ycombinator.com/item?id=39442298) - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [2024-02-20, 15:18:50](https://news.ycombinator.com/item?id=39442296) - [Ask HN: How many of you Apple developers still use Objective C?](https://news.ycombinator.com/item?id=39442296)
 * [2024-02-20, 15:16:47](https://news.ycombinator.com/item?id=39442273) - [Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
+* [2024-02-20, 15:12:37](https://news.ycombinator.com/item?id=39442225) - [Ask HN: I have applied to 1000 jobs from Sep. 2023 is it that bad?](https://news.ycombinator.com/item?id=39442225)
 * [2024-02-20, 13:43:14](https://news.ycombinator.com/item?id=39441115) - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Fast memory vulnerabilities, written in 100% safe Rust](https://github.com/Speykious/cve-rs)
@@ -26,10 +27,9 @@
 * [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
-* [2024-02-18, 10:07:09](https://news.ycombinator.com/item?id=39417768) - [Maralinga](https://www.nma.gov.au/defining-moments/resources/maralinga)
 * [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
 * [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
-* [2024-02-17, 12:53:07](https://news.ycombinator.com/item?id=39409009) - [Flowers grown floating on polluted waterways can help clean up nutrient runoff](https://arstechnica.com/science/2024/02/flowers-grown-floating-on-polluted-waterways-can-help-clean-up-nutrient-runoff/)
+* [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
 
 ## [Archives](archives/index.md)
 
