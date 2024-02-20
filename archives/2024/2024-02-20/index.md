@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
+* [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
 * [2024-02-20, 12:20:25](https://news.ycombinator.com/item?id=39440374) - [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
+* [2024-02-20, 12:16:47](https://news.ycombinator.com/item?id=39440354) - [Walmart to buy TV maker Vizio for $2.3B](https://www.cnbc.com/2024/02/20/walmart-agrees-to-buy-vizio-to-grow-ad-business.html)
 * [2024-02-20, 12:09:02](https://news.ycombinator.com/item?id=39440296) - [Presenting TOC (Theory of Constraints) [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
 * [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
@@ -14,9 +17,11 @@
 * [2024-02-20, 11:19:35](https://news.ycombinator.com/item?id=39439986) - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
 * [2024-02-20, 11:01:52](https://news.ycombinator.com/item?id=39439859) - [An Executive Bought a Rival's Stock. The SEC Says That's Insider Trading](https://www.wsj.com/finance/regulation/an-executive-bought-a-rivals-stock-the-sec-says-thats-insider-trading-84ef8aae)
 * [2024-02-20, 10:59:05](https://news.ycombinator.com/item?id=39439836) - [Boffins propose regulating AI hardware](https://www.theregister.com/2024/02/16/boffins_propose_regulating_ai_hardware/)
+* [2024-02-20, 10:50:19](https://news.ycombinator.com/item?id=39439782) - [HexWalk – Hex Editor/Viewer/Analyzer](https://github.com/gcarmix/HexWalk)
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:42:53](https://news.ycombinator.com/item?id=39439748) - [Why Does the State Have a Monopoly on Money?](https://www.economicforces.xyz/p/why-does-the-state-have-a-monopoly)
 * [2024-02-20, 10:41:16](https://news.ycombinator.com/item?id=39439737) - [Have front end frameworks destroyed the web?](https://www.gdnetwork.co/blog/have-frontend-frameworks-destroyed-the-web)
+* [2024-02-20, 10:30:03](https://news.ycombinator.com/item?id=39439678) - [Show HN: A CLI tool that enables you to remove files easily and safely](https://github.com/9yokuro/wrm)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
 * [2024-02-20, 09:50:19](https://news.ycombinator.com/item?id=39439463) - [Returns: Brings functional programming to Python land](https://returns.readthedocs.io/en/latest/)
