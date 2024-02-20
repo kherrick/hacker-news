@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 12:20:25](https://news.ycombinator.com/item?id=39440374) - [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
+* [2024-02-20, 12:09:02](https://news.ycombinator.com/item?id=39440296) - [Presenting TOC (Theory of Constraints) [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
 * [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
 * [2024-02-20, 11:26:30](https://news.ycombinator.com/item?id=39440034) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
@@ -16,6 +18,7 @@
 * [2024-02-20, 10:41:16](https://news.ycombinator.com/item?id=39439737) - [Have front end frameworks destroyed the web?](https://www.gdnetwork.co/blog/have-frontend-frameworks-destroyed-the-web)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
+* [2024-02-20, 09:50:19](https://news.ycombinator.com/item?id=39439463) - [Returns: Brings functional programming to Python land](https://returns.readthedocs.io/en/latest/)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
