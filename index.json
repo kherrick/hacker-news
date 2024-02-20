@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-02-20, 00:34:43",
+      "https://news.ycombinator.com/item?id=39436623"
+    ],
+    [
+      "Towards memory safety with ownership checks for C",
+      "http://thradams.com/cake/ownership.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 23:46:39",
+      "https://news.ycombinator.com/item?id=39436252"
+    ],
+    [
+      "Tiny, tamper-proof ID tag can authenticate almost anything",
+      "https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 23:44:15",
       "https://news.ycombinator.com/item?id=39436238"
     ],
     [
       "E2EE on the web: is the web that bad?",
       "https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 23:05:15",
-      "https://news.ycombinator.com/item?id=39435897"
-    ],
-    [
-      "AI Determines Sex of Person from Brain Scans",
-      "https://neurosciencenews.com/ai-gender-identification-25631/"
     ]
   ],
   [
@@ -67,26 +77,6 @@
     [
       "Building a hybrid native application with Gleam and Tauri",
       "https://www.wezm.net/v2/posts/2024/gleam-tauri/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 21:41:40",
-      "https://news.ycombinator.com/item?id=39435159"
-    ],
-    [
-      "Measuring energy usage: regular code vs. SIMD code",
-      "https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 21:05:17",
-      "https://news.ycombinator.com/item?id=39434803"
-    ],
-    [
-      "The Oxford Comma and the Internet (2013)",
-      "http://blog.anguscroll.com/oxford-comma"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2024-02-18, 13:05:12",
+      "https://news.ycombinator.com/item?id=39418707"
+    ],
+    [
+      "Old London Bridge",
+      "https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 03:37:31",
       "https://news.ycombinator.com/item?id=39415947"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39406098"
     ],
     [
-      "DiskClick: Ever wanted to hear Old Hard drive sounds",
+      "DiskClick: Ever wanted to hear old hard drive sounds",
       "https://deervo.itch.io/diskclick"
     ]
   ]
