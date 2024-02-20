@@ -20,7 +20,6 @@
 * [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Implants and other technologies that decode neural activity](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Cve-rs: Fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
-* [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI is a function of your organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures (2022)](https://danluu.com/simple-architectures/)
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding keyboard shortcuts to a 24 year-old government website with userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
@@ -29,6 +28,7 @@
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
+* [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned Air is Unexpectedly Supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 
 ## [Archives](archives/index.md)
