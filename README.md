@@ -6,7 +6,7 @@
 * [2024-02-20, 01:23:38](https://news.ycombinator.com/item?id=39436955) - [Pulsar, the best code editor since Atom](https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/)
 * [2024-02-20, 00:34:43](https://news.ycombinator.com/item?id=39436623) - [Towards memory safety with ownership checks for C](http://thradams.com/cake/ownership.html)
 * [2024-02-20, 00:34:39](https://news.ycombinator.com/item?id=39436621) - [How to Fold a Julia Fractal](https://acko.net/blog/how-to-fold-a-julia-fractal/)
-* [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
+* [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I Broke IKEA (2023)](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
 * [2024-02-19, 23:44:15](https://news.ycombinator.com/item?id=39436238) - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-19, 22:15:44](https://news.ycombinator.com/item?id=39435486) - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
