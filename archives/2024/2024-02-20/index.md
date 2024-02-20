@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
 * [2024-02-20, 12:20:25](https://news.ycombinator.com/item?id=39440374) - [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
 * [2024-02-20, 12:09:02](https://news.ycombinator.com/item?id=39440296) - [Presenting TOC (Theory of Constraints) [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
 * [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)

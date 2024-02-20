@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
 * [2024-02-20, 12:20:25](https://news.ycombinator.com/item?id=39440374) - [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
 * [2024-02-20, 12:09:02](https://news.ycombinator.com/item?id=39440296) - [Presenting TOC (Theory of Constraints) [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
 * [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
@@ -22,7 +23,6 @@
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 20:58:30](https://news.ycombinator.com/item?id=39434727) - [Opening /proc/self/fd/1 is not the same as dup(1)](https://blog.gnoack.org/post/proc-fd-is-not-dup/)
-* [2024-02-19, 13:12:18](https://news.ycombinator.com/item?id=39429370) - [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
 * [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:19:28](https://news.ycombinator.com/item?id=39418817) - [Picking Unfair Fights (2021)](https://www.thewoodshedd.com/posts/2021-06-12-pickinggames/)
