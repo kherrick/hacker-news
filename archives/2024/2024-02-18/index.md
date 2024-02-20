@@ -91,6 +91,7 @@
 * [2024-02-18, 09:00:45](https://news.ycombinator.com/item?id=39417420) - [Pimp Your Board Games](https://brainbaking.com/post/2024/02/pimp-your-boardgame/)
 * [2024-02-18, 08:26:43](https://news.ycombinator.com/item?id=39417231) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 07:27:26](https://news.ycombinator.com/item?id=39416966) - [MIT researchers demonstrate rapid liquid metal 3D printing technique](https://www.tctmagazine.com/additive-manufacturing-3d-printing-news/metal-additive-manufacturing-news/mit-researchers-demonstrate-rapid-liquid-metal-3d-printing-technique/)
+* [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 * [2024-02-18, 06:24:33](https://news.ycombinator.com/item?id=39416705) - [Hundred Pages vs. 11 Words](https://praveshkoirala.com/2024/02/18/intelligence-moves-via-abstractions/)
 * [2024-02-18, 06:14:31](https://news.ycombinator.com/item?id=39416664) - [Script to Screen: \"Five Easy Pieces\" – Hold the Chicken](https://gointothestory.blcklst.com/script-to-screen-five-easy-pieces-b4510b8bde59?gi=e4fd420b52ad)
 * [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent Data Corruptions at Scale (2021)](https://arxiv.org/abs/2102.11245)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 13:07:22](https://news.ycombinator.com/item?id=39440738) - [Alexei Navalny's wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)

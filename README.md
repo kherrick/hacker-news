@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 13:07:22](https://news.ycombinator.com/item?id=39440738) - [Alexei Navalny's wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
@@ -22,12 +23,11 @@
 * [2024-02-20, 00:34:39](https://news.ycombinator.com/item?id=39436621) - [How to Fold a Julia Fractal (2013)](https://acko.net/blog/how-to-fold-a-julia-fractal/)
 * [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I broke IKEA (2023)](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
 * [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
-* [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
 * [2024-02-19, 20:58:30](https://news.ycombinator.com/item?id=39434727) - [Opening /proc/self/fd/1 is not the same as dup(1)](https://blog.gnoack.org/post/proc-fd-is-not-dup/)
-* [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 * [2024-02-18, 10:07:09](https://news.ycombinator.com/item?id=39417768) - [Maralinga](https://www.nma.gov.au/defining-moments/resources/maralinga)
+* [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 * [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
 * [2024-02-17, 12:53:07](https://news.ycombinator.com/item?id=39409009) - [Flowers grown floating on polluted waterways can help clean up nutrient runoff](https://arstechnica.com/science/2024/02/flowers-grown-floating-on-polluted-waterways-can-help-clean-up-nutrient-runoff/)
 
