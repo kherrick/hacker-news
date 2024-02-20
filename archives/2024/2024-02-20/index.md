@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [The asteroid that wiped out dinosaurs didn't impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
+* [2024-02-20, 20:56:24](https://news.ycombinator.com/item?id=39446789) - [Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 20:14:59](https://news.ycombinator.com/item?id=39446305) - [Open Source Encryption for SQLite](https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225)
