@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-20, 20:13:18",
+      "https://news.ycombinator.com/item?id=39446282"
+    ],
+    [
+      "A modest proposal for reducing mail traffic (1996)",
+      "https://cr.yp.to/sarcasm/modest-proposal.txt"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 19:27:38",
+      "https://news.ycombinator.com/item?id=39445713"
+    ],
+    [
+      "Saturn's largest moon most likely uninhabitable",
+      "https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 18:38:38",
       "https://news.ycombinator.com/item?id=39445029"
     ],
@@ -135,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39442344"
     ],
     [
-      "Mind-reading devices are revealing the brain's secrets",
+      "Implants and other technologies that decode neural activity",
       "https://www.nature.com/articles/d41586-024-00481-2"
     ]
   ],
@@ -161,21 +181,11 @@
   ],
   [
     [
-      "2024-02-20, 13:40:30",
-      "https://news.ycombinator.com/item?id=39441088"
-    ],
-    [
-      "I was deliberately infected with Zika to test a vaccine",
-      "https://worksinprogress.co/issue/life-in-the-time-of-zika/"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 13:17:01",
       "https://news.ycombinator.com/item?id=39440808"
     ],
     [
-      "Fast memory vulnerabilities, written in 100% safe Rust",
+      "Cve-rs: Fast memory vulnerabilities, written in safe Rust",
       "https://github.com/Speykious/cve-rs"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "In Defense of Simple Architectures (2022)",
       "https://danluu.com/simple-architectures/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 10:50:19",
-      "https://news.ycombinator.com/item?id=39439782"
-    ],
-    [
-      "HexWalk – Hex Editor/Viewer/Analyzer",
-      "https://github.com/gcarmix/HexWalk"
     ]
   ],
   [
