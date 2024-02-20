@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
+* [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity (2021)](https://queue.acm.org/detail.cfm?id=3489047)
 * [2024-02-20, 02:36:45](https://news.ycombinator.com/item?id=39437424) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 * [2024-02-20, 02:28:42](https://news.ycombinator.com/item?id=39437387) - [Capital One to buy Discover Financial in $35.3B all-stock deal](https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/)
@@ -23,11 +23,11 @@
 * [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 * [2024-02-19, 09:42:20](https://news.ycombinator.com/item?id=39427775) - [OpenAI Deal Lets Employees Sell Shares at $86B Valuation](https://www.bloomberg.com/news/articles/2024-02-17/openai-deal-lets-employees-sell-shares-at-86-billion-valuation)
 * [2024-02-19, 08:15:53](https://news.ycombinator.com/item?id=39427265) - [Ethernet: The Basics](https://hackaday.com/2024/02/12/ethernet-for-hackers-the-very-basics/)
-* [2024-02-18, 21:13:50](https://news.ycombinator.com/item?id=39423407) - [J vs. K by Example (2005)](https://olegykj.sourceforge.net/jbyeg/jkbyeg.htm)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:19:28](https://news.ycombinator.com/item?id=39418817) - [Picking Unfair Fights (2021)](https://www.thewoodshedd.com/posts/2021-06-12-pickinggames/)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
+* [2024-02-18, 06:24:33](https://news.ycombinator.com/item?id=39416705) - [Hundred Pages vs. 11 Words](https://praveshkoirala.com/2024/02/18/intelligence-moves-via-abstractions/)
 * [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
 * [2024-02-17, 03:34:29](https://news.ycombinator.com/item?id=39406098) - [DiskClick: Ever wanted to hear old hard drive sounds](https://deervo.itch.io/diskclick)
 
