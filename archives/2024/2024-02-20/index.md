@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
 * [2024-02-20, 16:29:27](https://news.ycombinator.com/item?id=39443283) - [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
+* [2024-02-20, 16:23:47](https://news.ycombinator.com/item?id=39443207) - [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
 * [2024-02-20, 16:20:45](https://news.ycombinator.com/item?id=39443154) - [How ChatGPT made me lazy](https://newbeelearn.com/blog/how-chatgpt-made-me-lazy/)
 * [2024-02-20, 15:28:22](https://news.ycombinator.com/item?id=39442429) - [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
 * [2024-02-20, 15:26:11](https://news.ycombinator.com/item?id=39442400) - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)

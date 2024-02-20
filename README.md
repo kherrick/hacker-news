@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 16:29:27](https://news.ycombinator.com/item?id=39443283) - [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
+* [2024-02-20, 16:23:47](https://news.ycombinator.com/item?id=39443207) - [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
 * [2024-02-20, 16:20:45](https://news.ycombinator.com/item?id=39443154) - [How ChatGPT made me lazy](https://newbeelearn.com/blog/how-chatgpt-made-me-lazy/)
 * [2024-02-20, 15:28:22](https://news.ycombinator.com/item?id=39442429) - [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
 * [2024-02-20, 15:26:11](https://news.ycombinator.com/item?id=39442400) - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
@@ -29,7 +30,6 @@
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 * [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
 * [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
-* [2024-02-18, 06:06:03](https://news.ycombinator.com/item?id=39416623) - [Silent data corruptions at scale (2021)](https://arxiv.org/abs/2102.11245)
 
 ## [Archives](archives/index.md)
 
