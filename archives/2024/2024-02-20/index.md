@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 23:34:15](https://news.ycombinator.com/item?id=39448398) - [GPU's Rival? What Is Language Processing Unit (LPU)](https://www.turingpost.com/p/fod41)
 * [2024-02-20, 22:49:47](https://news.ycombinator.com/item?id=39448021) - [YouTube's search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
 * [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
@@ -25,6 +26,7 @@
 * [2024-02-20, 18:02:13](https://news.ycombinator.com/item?id=39444519) - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
+* [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:35:41](https://news.ycombinator.com/item?id=39444165) - [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
 * [2024-02-20, 17:34:13](https://news.ycombinator.com/item?id=39444144) - [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)

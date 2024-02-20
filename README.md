@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-20, 22:49:47](https://news.ycombinator.com/item?id=39448021) - [YouTube's search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
+* [2024-02-20, 23:34:15](https://news.ycombinator.com/item?id=39448398) - [GPU's Rival? What Is Language Processing Unit (LPU)](https://www.turingpost.com/p/fod41)
 * [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
-* [2024-02-20, 21:02:58](https://news.ycombinator.com/item?id=39446866) - [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
@@ -14,6 +13,7 @@
 * [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:14:13](https://news.ycombinator.com/item?id=39444674) - [A response to \"Erlang – overhyped or underestimated\" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+* [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
@@ -28,7 +28,7 @@
 * [2024-02-20, 09:58:36](https://news.ycombinator.com/item?id=39439505) - [A visual interactive guide to Bloom filters](https://samwho.dev/bloom-filters/)
 * [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
-* [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned Air is Unexpectedly Supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
+* [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned air is unexpectedly supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 
 ## [Archives](archives/index.md)
