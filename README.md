@@ -15,6 +15,7 @@
 * [2024-02-20, 15:28:22](https://news.ycombinator.com/item?id=39442429) - [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
 * [2024-02-20, 15:26:11](https://news.ycombinator.com/item?id=39442400) - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
+* [2024-02-20, 15:22:24](https://news.ycombinator.com/item?id=39442347) - [Vietnam to collect biometrics – even DNA – for new ID cards](https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/)
 * [2024-02-20, 15:18:54](https://news.ycombinator.com/item?id=39442298) - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [2024-02-20, 15:16:47](https://news.ycombinator.com/item?id=39442273) - [Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
@@ -29,7 +30,6 @@
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon Photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
-* [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 
 ## [Archives](archives/index.md)
 
