@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 16:50:33](https://news.ycombinator.com/item?id=39443548) - [Faculty group calls on Yale to make teaching 'distinct from activism'](https://yaledailynews.com/blog/2024/02/19/faculty-group-calls-on-yale-to-make-teaching-distinct-from-activism/)
 * [2024-02-20, 16:29:27](https://news.ycombinator.com/item?id=39443283) - [Valve Makes All Steam Audio SDK Source Code Available Under Apache 2.0 License](https://www.phoronix.com/news/Steam-Audio-SDK-Fully-Open)
 * [2024-02-20, 16:23:47](https://news.ycombinator.com/item?id=39443207) - [Ask HN: Help, any US-based companies that allow you to work from Europe?](https://news.ycombinator.com/item?id=39443207)
 * [2024-02-20, 16:20:45](https://news.ycombinator.com/item?id=39443154) - [How ChatGPT made me lazy](https://newbeelearn.com/blog/how-chatgpt-made-me-lazy/)
@@ -25,7 +26,6 @@
 * [2024-02-20, 09:58:36](https://news.ycombinator.com/item?id=39439505) - [A Visual Interactive Guide to Bloom Filters](https://samwho.dev/bloom-filters/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
-* [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 * [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
