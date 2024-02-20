@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-20, 10:42:53](https://news.ycombinator.com/item?id=39439748) - [Why Does the State Have a Monopoly on Money?](https://www.economicforces.xyz/p/why-does-the-state-have-a-monopoly)
-* [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
-* [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
+* [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
+* [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
@@ -19,6 +18,7 @@
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 20:58:30](https://news.ycombinator.com/item?id=39434727) - [Opening /proc/self/fd/1 is not the same as dup(1)](https://blog.gnoack.org/post/proc-fd-is-not-dup/)
+* [2024-02-19, 20:31:21](https://news.ycombinator.com/item?id=39434448) - [GCC's Move to C++ (2013)](https://lwn.net/Articles/542457/)
 * [2024-02-19, 13:12:18](https://news.ycombinator.com/item?id=39429370) - [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
 * [2024-02-19, 12:06:01](https://news.ycombinator.com/item?id=39428880) - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://groq.com/)
 * [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)

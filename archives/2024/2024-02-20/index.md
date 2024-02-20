@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:42:53](https://news.ycombinator.com/item?id=39439748) - [Why Does the State Have a Monopoly on Money?](https://www.economicforces.xyz/p/why-does-the-state-have-a-monopoly)
+* [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)

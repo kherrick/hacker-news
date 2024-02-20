@@ -24,6 +24,7 @@
 * [2024-02-19, 20:58:30](https://news.ycombinator.com/item?id=39434727) - [Opening /proc/self/fd/1 is not the same as dup(1)](https://blog.gnoack.org/post/proc-fd-is-not-dup/)
 * [2024-02-19, 20:56:02](https://news.ycombinator.com/item?id=39434701) - [Death Valley National Park now offering a rare opportunity – kayaking](https://edition.cnn.com/travel/death-valley-national-park-kayaking-temporary-lake/index.html)
 * [2024-02-19, 20:43:39](https://news.ycombinator.com/item?id=39434566) - [Star Trek: Borg – Remastered](https://borgremastered.com/)
+* [2024-02-19, 20:31:21](https://news.ycombinator.com/item?id=39434448) - [GCC's Move to C++ (2013)](https://lwn.net/Articles/542457/)
 * [2024-02-19, 20:29:24](https://news.ycombinator.com/item?id=39434417) - [Qualcomm Hardware Support Increasingly in Good Shape with Linux Kernel](https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024)
 * [2024-02-19, 20:29:05](https://news.ycombinator.com/item?id=39434411) - [Peter Norvig: New Python Operators](https://betterprogramming.pub/new-python-operators-9f31b56ddcc7?gi=7918b2c3ccf0)
 * [2024-02-19, 20:28:26](https://news.ycombinator.com/item?id=39434403) - [Free SVG generators, color tools and web design tools](https://fffuel.co/)
