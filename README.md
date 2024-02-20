@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
+* [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:35:41](https://news.ycombinator.com/item?id=39444165) - [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
 * [2024-02-20, 17:34:13](https://news.ycombinator.com/item?id=39444144) - [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
@@ -28,7 +29,6 @@
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon Photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
-* [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
 * [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 
 ## [Archives](archives/index.md)

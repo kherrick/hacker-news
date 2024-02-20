@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
+* [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Signal: Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:35:41](https://news.ycombinator.com/item?id=39444165) - [Why is no one making a new version of old Facebook?](https://12challenges.substack.com/p/why-is-no-one-making-a-new-version)
 * [2024-02-20, 17:34:13](https://news.ycombinator.com/item?id=39444144) - [Ask HN: How are you finding Gemini Ultra?](https://news.ycombinator.com/item?id=39444144)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [Introducing LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
