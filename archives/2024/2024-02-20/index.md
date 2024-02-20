@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
 * [2024-02-20, 18:38:38](https://news.ycombinator.com/item?id=39445029) - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
+* [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:14:13](https://news.ycombinator.com/item?id=39444674) - [A response to \"Erlang – overhyped or underestimated\" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 * [2024-02-20, 18:02:59](https://news.ycombinator.com/item?id=39444530) - [Ask HN: Why isn't there a Rotten Tomatoes for consumer electronics?](https://news.ycombinator.com/item?id=39444530)
 * [2024-02-20, 18:02:13](https://news.ycombinator.com/item?id=39444519) - [Martin Kleppmann talk on local-first (LoFi)](https://bsky.app/profile/martin.kleppmann.com/post/3kltpvnts622e)
@@ -25,6 +26,7 @@
 * [2024-02-20, 15:26:11](https://news.ycombinator.com/item?id=39442400) - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
 * [2024-02-20, 15:22:24](https://news.ycombinator.com/item?id=39442347) - [Vietnam to collect biometrics – even DNA – for new ID cards](https://www.theregister.com/2024/02/20/vietnam_id_cards_dna/)
+* [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Mind-reading devices are revealing the brain's secrets](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 15:18:54](https://news.ycombinator.com/item?id=39442298) - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [2024-02-20, 15:18:50](https://news.ycombinator.com/item?id=39442296) - [Ask HN: How many of you Apple developers still use Objective C?](https://news.ycombinator.com/item?id=39442296)
 * [2024-02-20, 15:16:47](https://news.ycombinator.com/item?id=39442273) - [Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
