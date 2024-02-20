@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 11:26:30](https://news.ycombinator.com/item?id=39440034) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-20, 11:19:35](https://news.ycombinator.com/item?id=39439986) - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
@@ -16,7 +17,6 @@
 * [2024-02-19, 22:15:37](https://news.ycombinator.com/item?id=39435483) - [Falls are a leading cause of bone breaks, brain injuries for U.S. seniors](https://www.washingtonpost.com/wellness/2024/02/19/falls-aging-brain-hip-fractures/)
 * [2024-02-19, 22:12:32](https://news.ycombinator.com/item?id=39435458) - [Sony's Playstation Portal hacked, can now emulate PSP games](https://overkill.wtf/sony-playstation-portal-hacked-emulate-psp-games/)
 * [2024-02-19, 22:05:43](https://news.ycombinator.com/item?id=39435397) - [Endgame: A dashboard exploit for the original Xbox](https://github.com/XboxDev/endgame-exploit)
-* [2024-02-19, 22:05:04](https://news.ycombinator.com/item?id=39435391) - [Job posts for workers without degrees are booming, but not the hiring](https://www.cnbc.com/2024/02/19/job-posts-for-workers-without-degrees-are-booming-but-not-the-hiring.html)
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 20:58:30](https://news.ycombinator.com/item?id=39434727) - [Opening /proc/self/fd/1 is not the same as dup(1)](https://blog.gnoack.org/post/proc-fd-is-not-dup/)
