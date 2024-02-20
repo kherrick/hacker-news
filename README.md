@@ -13,6 +13,7 @@
 * [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:14:13](https://news.ycombinator.com/item?id=39444674) - [A response to \"Erlang – overhyped or underestimated\" (2010)](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
+* [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
 * [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:20:46](https://news.ycombinator.com/item?id=39443972) - [LlamaCloud and LlamaParse](https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b)
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
@@ -29,7 +30,6 @@
 * [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
 * [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned air is unexpectedly supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
-* [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 
 ## [Archives](archives/index.md)
 
