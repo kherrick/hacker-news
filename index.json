@@ -5,18 +5,28 @@
       "https://news.ycombinator.com/item?id=39438908"
     ],
     [
-      "WebKit Switching to Skia for 2D Graphics Rendering",
+      "WebKit switching to Skia for 2d graphics rendering",
       "https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/"
     ]
   ],
   [
     [
-      "2024-02-20, 04:48:14",
-      "https://news.ycombinator.com/item?id=39438155"
+      "2024-02-20, 07:35:29",
+      "https://news.ycombinator.com/item?id=39438861"
     ],
     [
-      "Learning resources for curious software engineers",
-      "https://github.com/charlax/professional-programming"
+      "Microsoft's Commitment to Azure IoT",
+      "https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:31:03",
+      "https://news.ycombinator.com/item?id=39438842"
+    ],
+    [
+      "DJI – The Art of Obfuscation",
+      "https://blog.quarkslab.com/dji-the-art-of-obfuscation.html"
     ]
   ],
   [
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2024-02-19, 18:36:14",
-      "https://news.ycombinator.com/item?id=39433120"
+      "2024-02-19, 20:58:30",
+      "https://news.ycombinator.com/item?id=39434727"
     ],
     [
-      "Show HN: I made a simple daily word puzzle",
-      "https://triword.net"
+      "Opening /proc/self/fd/1 is not the same as dup(1)",
+      "https://blog.gnoack.org/post/proc-fd-is-not-dup/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-02-18, 06:24:33",
-      "https://news.ycombinator.com/item?id=39416705"
+      "2024-02-18, 10:26:50",
+      "https://news.ycombinator.com/item?id=39417895"
     ],
     [
-      "Hundred Pages vs. 11 Words",
-      "https://praveshkoirala.com/2024/02/18/intelligence-moves-via-abstractions/"
+      "FuturesUnordered and the order of futures",
+      "https://without.boats/blog/futures-unordered/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Flowers grown floating on polluted waterways can help clean up nutrient runoff",
       "https://arstechnica.com/science/2024/02/flowers-grown-floating-on-polluted-waterways-can-help-clean-up-nutrient-runoff/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 03:34:29",
-      "https://news.ycombinator.com/item?id=39406098"
-    ],
-    [
-      "DiskClick: Ever wanted to hear old hard drive sounds",
-      "https://deervo.itch.io/diskclick"
     ]
   ]
 ]
