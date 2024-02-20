@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-20, 15:28:22",
+      "https://news.ycombinator.com/item?id=39442429"
+    ],
+    [
+      "Microsoft Is Spying on Users of Its AI Tools",
+      "https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 15:26:11",
+      "https://news.ycombinator.com/item?id=39442400"
+    ],
+    [
+      "Writing a scheduler for Linux in Rust that runs in user-space",
+      "http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 15:24:05",
+      "https://news.ycombinator.com/item?id=39442368"
+    ],
+    [
+      "Launch HN: Dart (YC W22) – Project management with automatic report generation",
+      "https://news.ycombinator.com/item?id=39442368"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 15:18:54",
       "https://news.ycombinator.com/item?id=39442298"
     ],
@@ -57,16 +87,6 @@
     [
       "US will relax pollution-limiting rules for vehicle emissions",
       "https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 13:43:14",
-      "https://news.ycombinator.com/item?id=39441115"
-    ],
-    [
-      "Bad property debt exceeds reserves at largest US banks",
-      "https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-02-20, 00:34:43",
-      "https://news.ycombinator.com/item?id=39436623"
-    ],
-    [
-      "Cake – C23 and Beyond (2023)",
-      "http://thradams.com/cake/ownership.html"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 20:58:30",
       "https://news.ycombinator.com/item?id=39434727"
     ],
@@ -277,16 +287,6 @@
     [
       "Films About Virtual Reality",
       "https://www.moriareviews.com/films-about-virtual-reality"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 06:06:03",
-      "https://news.ycombinator.com/item?id=39416623"
-    ],
-    [
-      "Silent data corruptions at scale (2021)",
-      "https://arxiv.org/abs/2102.11245"
     ]
   ],
   [
