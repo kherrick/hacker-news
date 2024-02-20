@@ -34,6 +34,7 @@
 * [2024-02-20, 15:09:12](https://news.ycombinator.com/item?id=39442181) - [Is It OK to Be Mean to a Chatbot?](https://www.wsj.com/tech/ai/artificial-intelligence-chatbot-manners-65a4edf9)
 * [2024-02-20, 15:03:52](https://news.ycombinator.com/item?id=39442117) - [How I got to the top 1% of StackOverflow](https://medium.com/@borzifrancesco/how-i-got-to-the-top-1-of-stackoverflow-986fd6b5b53f)
 * [2024-02-20, 15:02:41](https://news.ycombinator.com/item?id=39442102) - [US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
+* [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
 * [2024-02-20, 13:43:14](https://news.ycombinator.com/item?id=39441115) - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 * [2024-02-20, 13:36:13](https://news.ycombinator.com/item?id=39441034) - [X suspends the account of Yulia Navalnaya](https://www.timesofisrael.com/liveblog_entry/x-suspends-the-account-of-yulia-navalnaya-widow-of-the-russian-opposition-leader/)
