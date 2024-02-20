@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 15:28:22](https://news.ycombinator.com/item?id=39442429) - [Microsoft Is Spying on Users of Its AI Tools](https://www.schneier.com/blog/archives/2024/02/microsoft-is-spying-on-users-of-its-ai-tools.html)
+* [2024-02-20, 15:26:11](https://news.ycombinator.com/item?id=39442400) - [Writing a scheduler for Linux in Rust that runs in user-space](http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+* [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
 * [2024-02-20, 15:18:54](https://news.ycombinator.com/item?id=39442298) - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [2024-02-20, 15:18:50](https://news.ycombinator.com/item?id=39442296) - [Ask HN: How many of you Apple developers still use Objective C?](https://news.ycombinator.com/item?id=39442296)
 * [2024-02-20, 15:16:47](https://news.ycombinator.com/item?id=39442273) - [Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
