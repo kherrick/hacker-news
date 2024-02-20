@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 15:02:41](https://news.ycombinator.com/item?id=39442102) - [US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
 * [2024-02-20, 13:43:14](https://news.ycombinator.com/item?id=39441115) - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 * [2024-02-20, 13:36:13](https://news.ycombinator.com/item?id=39441034) - [X suspends the account of Yulia Navalnaya](https://www.timesofisrael.com/liveblog_entry/x-suspends-the-account-of-yulia-navalnaya-widow-of-the-russian-opposition-leader/)
@@ -29,6 +30,7 @@
 * [2024-02-20, 10:30:03](https://news.ycombinator.com/item?id=39439678) - [Show HN: A CLI tool that enables you to remove files easily and safely](https://github.com/9yokuro/wrm)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
+* [2024-02-20, 09:58:36](https://news.ycombinator.com/item?id=39439505) - [A Visual Interactive Guide to Bloom Filters](https://samwho.dev/bloom-filters/)
 * [2024-02-20, 09:50:19](https://news.ycombinator.com/item?id=39439463) - [Returns: Brings functional programming to Python land](https://returns.readthedocs.io/en/latest/)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
