@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 21:18:20",
+      "https://news.ycombinator.com/item?id=39447041"
+    ],
+    [
+      "Kagi Sidekick (Alpha)",
+      "https://sidekick.kagi.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 21:01:42",
       "https://news.ycombinator.com/item?id=39446853"
     ],
@@ -17,6 +27,16 @@
     [
       "The asteroid that wiped out dinosaurs didn't impact bird evolution: new study",
       "https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 20:56:24",
+      "https://news.ycombinator.com/item?id=39446789"
+    ],
+    [
+      "Warning: $14k BigQuery charge in 2 hours",
+      "https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-02-20, 15:26:11",
-      "https://news.ycombinator.com/item?id=39442400"
-    ],
-    [
-      "Writing a scheduler for Linux in Rust that runs in user-space",
-      "http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 15:24:05",
       "https://news.ycombinator.com/item?id=39442368"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python",
       "https://github.com/hyperdiv/hyperdiv"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 13:40:30",
-      "https://news.ycombinator.com/item?id=39441088"
-    ],
-    [
-      "I was infected with Zika to test a vaccine",
-      "https://worksinprogress.co/issue/life-in-the-time-of-zika/"
     ]
   ],
   [
