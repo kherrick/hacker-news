@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 13:43:14](https://news.ycombinator.com/item?id=39441115) - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
+* [2024-02-20, 13:36:13](https://news.ycombinator.com/item?id=39441034) - [X suspends the account of Yulia Navalnaya](https://www.timesofisrael.com/liveblog_entry/x-suspends-the-account-of-yulia-navalnaya-widow-of-the-russian-opposition-leader/)
 * [2024-02-20, 13:07:22](https://news.ycombinator.com/item?id=39440738) - [Alexei Navalny's wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
