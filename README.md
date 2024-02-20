@@ -2,7 +2,6 @@
 
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [Learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
-* [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity (2021)](https://queue.acm.org/detail.cfm?id=3489047)
 * [2024-02-20, 02:36:45](https://news.ycombinator.com/item?id=39437424) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier/)
 * [2024-02-20, 00:34:43](https://news.ycombinator.com/item?id=39436623) - [Cake – C23 and Beyond (2023)](http://thradams.com/cake/ownership.html)
 * [2024-02-20, 00:34:39](https://news.ycombinator.com/item?id=39436621) - [How to Fold a Julia Fractal (2013)](https://acko.net/blog/how-to-fold-a-julia-fractal/)
@@ -14,6 +13,7 @@
 * [2024-02-19, 21:56:48](https://news.ycombinator.com/item?id=39435320) - [Jeff Dean: Trends in Machine Learning [video]](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 * [2024-02-19, 21:51:19](https://news.ycombinator.com/item?id=39435262) - [Building a hybrid native application with Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 19:09:19](https://news.ycombinator.com/item?id=39433451) - [Big media publishers are inundating the web with subpar product recommendations](https://housefresh.com/david-vs-digital-goliaths/)
+* [2024-02-19, 18:36:14](https://news.ycombinator.com/item?id=39433120) - [Show HN: I made a simple daily word puzzle](https://triword.net)
 * [2024-02-19, 18:14:12](https://news.ycombinator.com/item?id=39432876) - [My productivity app is a never-ending .txt file (2022)](https://jeffhuang.com/productivity_text_file/)
 * [2024-02-19, 17:06:58](https://news.ycombinator.com/item?id=39432085) - [OTP at a High Level (2019)](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 16:43:05](https://news.ycombinator.com/item?id=39431809) - [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
