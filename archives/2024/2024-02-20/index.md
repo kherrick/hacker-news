@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 20:14:59](https://news.ycombinator.com/item?id=39446305) - [Open Source Encryption for SQLite](https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225)
 * [2024-02-20, 20:13:18](https://news.ycombinator.com/item?id=39446282) - [A modest proposal for reducing mail traffic (1996)](https://cr.yp.to/sarcasm/modest-proposal.txt)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
 * [2024-02-20, 18:38:38](https://news.ycombinator.com/item?id=39445029) - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)

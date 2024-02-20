@@ -7,6 +7,7 @@
 * [2024-02-19, 23:59:42](https://news.ycombinator.com/item?id=39436358) - [I Broke IKEA](https://cohost.org/sirocyl/post/2891449-i-broke-ikea)
 * [2024-02-19, 23:46:39](https://news.ycombinator.com/item?id=39436252) - [Tiny, tamper-proof ID tag can authenticate almost anything](https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218)
 * [2024-02-19, 23:44:15](https://news.ycombinator.com/item?id=39436238) - [E2EE on the web: is the web that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
+* [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 23:05:15](https://news.ycombinator.com/item?id=39435897) - [AI Determines Sex of Person from Brain Scans](https://neurosciencenews.com/ai-gender-identification-25631/)
 * [2024-02-19, 22:15:44](https://news.ycombinator.com/item?id=39435486) - [Reverse graffiti](https://en.wikipedia.org/wiki/Reverse_graffiti)
 * [2024-02-19, 22:15:37](https://news.ycombinator.com/item?id=39435483) - [Falls are a leading cause of bone breaks, brain injuries for U.S. seniors](https://www.washingtonpost.com/wellness/2024/02/19/falls-aging-brain-hip-fractures/)
