@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39444500"
     ],
     [
-      "Signal: Keep your phone number private with Signal usernames",
+      "Keep your phone number private with Signal usernames",
       "https://signal.org/blog/phone-number-privacy-usernames/"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Let's Build the GPT Tokenizer (by Andrej Karpathy) [video]",
       "https://www.youtube.com/watch?v=zduSFxRajkE"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 17:18:21",
-      "https://news.ycombinator.com/item?id=39443927"
-    ],
-    [
-      "Show HN: Swift Mail. Fastmail's modern mail standard delivered natively on macOS",
-      "https://www.swiftmail.io"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2024-02-20, 15:18:50",
+      "https://news.ycombinator.com/item?id=39442296"
+    ],
+    [
+      "Ask HN: How many of you Apple developers still use Objective C?",
+      "https://news.ycombinator.com/item?id=39442296"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 15:16:47",
       "https://news.ycombinator.com/item?id=39442273"
     ],
@@ -207,16 +207,6 @@
     [
       "Fast memory vulnerabilities, written in 100% safe Rust",
       "https://github.com/Speykious/cve-rs"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 12:39:16",
-      "https://news.ycombinator.com/item?id=39440503"
-    ],
-    [
-      "Hetzner GPU Server",
-      "https://robot.hetzner.com/order/index/culture/en_GB"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Capturing Avian Perspectives: Pigeon Photography",
       "https://www.daviddegner.com/blog/a-birds-eye-view/"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 04:42:30",
+      "https://news.ycombinator.com/item?id=39416277"
+    ],
+    [
+      "Applying Grease to TLS Extensibility (2016)",
+      "https://datatracker.ietf.org/doc/html/draft-davidben-tls-grease-01"
     ]
   ]
 ]
