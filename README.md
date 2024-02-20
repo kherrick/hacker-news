@@ -27,7 +27,7 @@
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon Photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
-* [2024-02-18, 13:44:49](https://news.ycombinator.com/item?id=39419008) - [What is a long context window?](https://blog.google/technology/ai/long-context-window-ai-models/)
+* [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 * [2024-02-18, 06:41:10](https://news.ycombinator.com/item?id=39416784) - [How Much Is One Terabyte of Data](https://github.com/SPLWare/esProc/wiki/How-Much-Is-One-Terabyte-of-Data%EF%BC%9F)
 * [2024-02-18, 06:41:09](https://news.ycombinator.com/item?id=39416783) - [Films About Virtual Reality](https://www.moriareviews.com/films-about-virtual-reality)
 
