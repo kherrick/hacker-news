@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-02-20, 07:35:29",
+      "https://news.ycombinator.com/item?id=39438861"
+    ],
+    [
+      "Microsoft's Commitment to Azure IoT",
+      "https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 07:31:03",
       "https://news.ycombinator.com/item?id=39438842"
     ],
     [
-      "DJI – The Art of Obfuscation",
+      "DJI – The ART of obfuscation",
       "https://blog.quarkslab.com/dji-the-art-of-obfuscation.html"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Opening /proc/self/fd/1 is not the same as dup(1)",
       "https://blog.gnoack.org/post/proc-fd-is-not-dup/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 19:09:19",
-      "https://news.ycombinator.com/item?id=39433451"
-    ],
-    [
-      "Big media publishers are inundating the web with subpar product recommendations",
-      "https://housefresh.com/david-vs-digital-goliaths/"
     ]
   ],
   [
