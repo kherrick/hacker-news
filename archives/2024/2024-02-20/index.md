@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)

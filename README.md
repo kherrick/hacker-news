@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
@@ -22,7 +23,6 @@
 * [2024-02-19, 13:12:18](https://news.ycombinator.com/item?id=39429370) - [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
 * [2024-02-19, 12:06:01](https://news.ycombinator.com/item?id=39428880) - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://groq.com/)
 * [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering hard disk physical geometry through microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
-* [2024-02-19, 09:42:20](https://news.ycombinator.com/item?id=39427775) - [OpenAI Deal Lets Employees Sell Shares at $86B Valuation](https://www.bloomberg.com/news/articles/2024-02-17/openai-deal-lets-employees-sell-shares-at-86-billion-valuation)
 * [2024-02-19, 08:15:53](https://news.ycombinator.com/item?id=39427265) - [Ethernet: The Basics](https://hackaday.com/2024/02/12/ethernet-for-hackers-the-very-basics/)
 * [2024-02-18, 13:50:23](https://news.ycombinator.com/item?id=39419054) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-02-18, 13:19:28](https://news.ycombinator.com/item?id=39418817) - [Picking Unfair Fights (2021)](https://www.thewoodshedd.com/posts/2021-06-12-pickinggames/)
