@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 12:27:15",
+      "https://news.ycombinator.com/item?id=39440423"
+    ],
+    [
+      "Rotten Apple",
+      "https://adactio.com/journal/20888"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 12:20:25",
       "https://news.ycombinator.com/item?id=39440374"
     ],
@@ -217,16 +227,6 @@
     [
       "Opening /proc/self/fd/1 is not the same as dup(1)",
       "https://blog.gnoack.org/post/proc-fd-is-not-dup/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 13:12:18",
-      "https://news.ycombinator.com/item?id=39429370"
-    ],
-    [
-      "Show HN: htmz – a low power tool for HTML",
-      "https://leanrada.com/htmz/"
     ]
   ],
   [
