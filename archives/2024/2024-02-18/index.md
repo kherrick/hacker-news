@@ -78,6 +78,7 @@
 * [2024-02-18, 11:45:03](https://news.ycombinator.com/item?id=39418283) - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 * [2024-02-18, 11:24:50](https://news.ycombinator.com/item?id=39418196) - [Fort Botox, Where a Deadly Toxin Yields $2.8B Drug (2017)](https://www.bloomberg.com/news/features/2017-10-26/inside-fort-botox-where-a-deadly-toxin-yields-2-8-billion-drug)
 * [2024-02-18, 11:08:01](https://news.ycombinator.com/item?id=39418107) - [An Extreme Antipattern for Programming Books (2023)](https://logicgrimoire.wordpress.com/2023/12/05/an-extreme-antipattern-for-programming-books/)
+* [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Fifteen ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 * [2024-02-18, 11:07:12](https://news.ycombinator.com/item?id=39418102) - [Why the Web Won't Be Nirvana (1995)](https://www.newsweek.com/clifford-stoll-why-web-wont-be-nirvana-185306)
 * [2024-02-18, 10:39:33](https://news.ycombinator.com/item?id=39417968) - [A800 40GB Active Graphics Card](https://www.nvidia.com/en-us/design-visualization/a800/)
 * [2024-02-18, 10:28:15](https://news.ycombinator.com/item?id=39417905) - [Notes on Text Editing](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)

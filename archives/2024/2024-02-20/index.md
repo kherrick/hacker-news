@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 15:18:54](https://news.ycombinator.com/item?id=39442298) - [Fingerprints can be recreated from the sounds made when you swipe a screen](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
+* [2024-02-20, 15:18:50](https://news.ycombinator.com/item?id=39442296) - [Ask HN: How many of you Apple developers still use Objective C?](https://news.ycombinator.com/item?id=39442296)
+* [2024-02-20, 15:16:47](https://news.ycombinator.com/item?id=39442273) - [Web Scraping in Python – The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
+* [2024-02-20, 15:09:12](https://news.ycombinator.com/item?id=39442181) - [Is It OK to Be Mean to a Chatbot?](https://www.wsj.com/tech/ai/artificial-intelligence-chatbot-manners-65a4edf9)
+* [2024-02-20, 15:03:52](https://news.ycombinator.com/item?id=39442117) - [How I got to the top 1% of StackOverflow](https://medium.com/@borzifrancesco/how-i-got-to-the-top-1-of-stackoverflow-986fd6b5b53f)
 * [2024-02-20, 15:02:41](https://news.ycombinator.com/item?id=39442102) - [US will relax pollution-limiting rules for vehicle emissions](https://www.theverge.com/2024/2/18/24076585/biden-emission-rules-relaxed-pollution-auto-industry-evs)
 * [2024-02-20, 13:43:14](https://news.ycombinator.com/item?id=39441115) - [Bad property debt exceeds reserves at largest US banks](https://www.ft.com/content/4114454c-a924-4929-85f4-5360b2b871c6)
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
