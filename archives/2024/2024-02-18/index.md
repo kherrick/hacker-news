@@ -64,6 +64,7 @@
 * [2024-02-18, 13:23:58](https://news.ycombinator.com/item?id=39418855) - [Cosmic Desktop Is Slated to Debut with Pop _OS 24.04 LTS](https://linuxiac.com/cosmic-desktop-slated-to-debut-with-popos-24-04-lts/)
 * [2024-02-18, 13:22:34](https://news.ycombinator.com/item?id=39418841) - [Revolutionizing PostgreSQL Schema Changes with pg-osc](https://www.mydbops.com/blog/postgresql-schema-changes-with-pg_osc/)
 * [2024-02-18, 13:21:10](https://news.ycombinator.com/item?id=39418830) - [What Is Woodshedding? Mastering the Art of Focused Music Practice](https://audioapartment.com/techniques-and-performance/what-is-woodshedding/)
+* [2024-02-18, 13:19:28](https://news.ycombinator.com/item?id=39418817) - [Picking Unfair Fights (2021)](https://www.thewoodshedd.com/posts/2021-06-12-pickinggames/)
 * [2024-02-18, 13:17:29](https://news.ycombinator.com/item?id=39418810) - [An accessible one-handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
