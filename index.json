@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 19:31:44",
+      "https://news.ycombinator.com/item?id=39458363"
+    ],
+    [
+      "Neural Network Diffusion",
+      "https://arxiv.org/abs/2402.13144"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 19:23:06",
       "https://news.ycombinator.com/item?id=39458264"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-02-21, 17:07:19",
-      "https://news.ycombinator.com/item?id=39456447"
-    ],
-    [
-      "Google Reneged on the Monopolistic Bargain",
-      "https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 17:00:23",
       "https://news.ycombinator.com/item?id=39456338"
     ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-02-21, 16:49:00",
-      "https://news.ycombinator.com/item?id=39456140"
-    ],
-    [
-      "The funding frenzy at Anthropic",
-      "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 16:48:21",
       "https://news.ycombinator.com/item?id=39456135"
     ],
@@ -127,16 +117,6 @@
     [
       "Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)",
       "https://smallest.app/notesollama/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 16:31:36",
-      "https://news.ycombinator.com/item?id=39455915"
-    ],
-    [
-      "Nuclear SMR welding breakthrough: A year's work now takes a day",
-      "https://newatlas.com/energy/nuclear-reactor-weld-one-day/"
     ]
   ],
   [
@@ -187,6 +167,16 @@
     [
       "Things I don't know about AI",
       "https://blog.eladgil.com/p/things-i-dont-know-about-ai"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 13:32:40",
+      "https://news.ycombinator.com/item?id=39453529"
+    ],
+    [
+      "Cuts and jumpers (on a different scale) (1989)",
+      "https://stuff.mit.edu/afs/net/user/tytso/archive/high-power"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Inversion of Control Containers and the Dependency Injection pattern (2004)",
       "https://martinfowler.com/articles/injection.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:16:21",
+      "https://news.ycombinator.com/item?id=39438771"
+    ],
+    [
+      "Winteracter – The Fortran GUI Toolset",
+      "https://www.winteracter.com/"
     ]
   ],
   [
