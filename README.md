@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
+* [2024-02-21, 15:42:49](https://news.ycombinator.com/item?id=39455167) - [Parsing: The Solved Problem That Isn't (2011)](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 * [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
 * [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
 * [2024-02-21, 15:33:39](https://news.ycombinator.com/item?id=39455044) - [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
@@ -11,6 +13,7 @@
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 * [2024-02-21, 13:33:34](https://news.ycombinator.com/item?id=39453543) - [HuggingChat: Chat with Open Source Models](https://huggingface.co/chat/models)
+* [2024-02-21, 13:31:59](https://news.ycombinator.com/item?id=39453525) - [Show HN: A Tool to Help You Understand Your Anxious Friends Better](https://anxietysimulator.com/)
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
@@ -23,11 +26,8 @@
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-21, 05:49:42](https://news.ycombinator.com/item?id=39450574) - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan bets $67B to become a global chip powerhouse once again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
-* [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If architects had to work like programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
-* [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-* [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
 
