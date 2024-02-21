@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 18:11:31](https://news.ycombinator.com/item?id=39457310) - [Mozilla Firefox is below PG&E threshold for support](https://www.pge.com/en/accessibility/supported-browsers.html#tabs-281f6d0cf8-item-5d2127a6b9-tab)
 * [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
 * [2024-02-21, 17:07:19](https://news.ycombinator.com/item?id=39456447) - [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)
 * [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -11,7 +12,6 @@
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
 * [2024-02-21, 16:28:59](https://news.ycombinator.com/item?id=39455874) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-21, 15:42:49](https://news.ycombinator.com/item?id=39455167) - [Parsing: The Solved Problem That Isn't (2011)](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
-* [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
 * [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
 * [2024-02-21, 15:33:39](https://news.ycombinator.com/item?id=39455044) - [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
 * [2024-02-21, 14:16:13](https://news.ycombinator.com/item?id=39454064) - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
