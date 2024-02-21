@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 05:46:28](https://news.ycombinator.com/item?id=39450560) - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
 * [2024-02-21, 04:43:01](https://news.ycombinator.com/item?id=39450237) - [Would von Braun's Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 05:46:28](https://news.ycombinator.com/item?id=39450560) - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
 * [2024-02-21, 04:43:01](https://news.ycombinator.com/item?id=39450237) - [Would von Braun's Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
@@ -22,7 +23,6 @@
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
-* [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Implants and other technologies that decode neural activity](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
 * [2024-02-20, 08:06:53](https://news.ycombinator.com/item?id=39439012) - [The Moon and Serpent Bumper Book of Magic](https://www.topshelfcomix.com/catalog/the-moon-and-serpent-bumper-book-of-magic/578)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
