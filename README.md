@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 * [2024-02-21, 03:07:55](https://news.ycombinator.com/item?id=39449713) - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
 * [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
@@ -22,7 +23,6 @@
 * [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Implants and other technologies that decode neural activity](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Cve-rs: Fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
-* [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI is a function of your organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding keyboard shortcuts to a 24 year-old government website with userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-19, 07:24:49](https://news.ycombinator.com/item?id=39427016) - [Lwarp – Converts LaTeX to HTML](https://ctan.org/pkg/lwarp)
