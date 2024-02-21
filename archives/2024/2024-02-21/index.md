@@ -8,6 +8,7 @@
 * [2024-02-21, 19:02:23](https://news.ycombinator.com/item?id=39457999) - [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
 * [2024-02-21, 19:00:31](https://news.ycombinator.com/item?id=39457974) - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 * [2024-02-21, 18:53:45](https://news.ycombinator.com/item?id=39457875) - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
+* [2024-02-21, 18:49:22](https://news.ycombinator.com/item?id=39457814) - [We've been thinking about software integration wrong for the past 50 years](https://nerve-signals.pika.page/posts/we-ve-been-thinking-about-software-integration-wrong-for-the-past-50-years)
 * [2024-02-21, 18:31:36](https://news.ycombinator.com/item?id=39457574) - [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
 * [2024-02-21, 18:30:23](https://news.ycombinator.com/item?id=39457562) - [How the open source Caddy server uses Grafana Cloud for full-stack observability](https://grafana.com/blog/2024/02/21/how-the-open-source-caddy-server-uses-grafana-cloud-for-full-stack-observability/)
 * [2024-02-21, 18:12:07](https://news.ycombinator.com/item?id=39457315) - [Intel Launches First Systems Foundry Designed for the AI Era](https://www.intc.com/news-events/press-releases/detail/1675/intel-launches-worlds-first-systems-foundry-designed-for)
