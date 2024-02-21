@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 16:48:21",
+      "https://news.ycombinator.com/item?id=39456135"
+    ],
+    [
+      "Encoding tic-tac-toe in 15 bits",
+      "https://cbarrick.dev/posts/2024/02/19/tic-tac-toe"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 16:31:36",
       "https://news.ycombinator.com/item?id=39455915"
     ],
@@ -27,16 +37,6 @@
     [
       "ChatGPT is apparently going off the rails and no one can explain why",
       "https://twitter.com/seanw_m/status/1760115118690509168"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 16:08:49",
-      "https://news.ycombinator.com/item?id=39455576"
-    ],
-    [
-      "SheetSavvy AI – Google Sheets: Automate, Generate, Interpret Like Never Before",
-      "https://workspace.google.com/marketplace/app/sheet_savvy_ai/533954402261"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-02-21, 03:13:14",
-      "https://news.ycombinator.com/item?id=39449748"
-    ],
-    [
-      "Japan bets $67B to become a global chip powerhouse once again",
-      "https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 21:18:20",
       "https://news.ycombinator.com/item?id=39447041"
     ],
@@ -287,6 +277,16 @@
     [
       "Winteracter – The Fortran GUI Toolset",
       "https://www.winteracter.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:09:43",
+      "https://news.ycombinator.com/item?id=39438735"
+    ],
+    [
+      "Code Verify: An open source browser extension for verifying code authenticity",
+      "https://engineering.fb.com/2022/03/10/security/code-verify/"
     ]
   ],
   [
