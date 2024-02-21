@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
-* [2024-02-21, 03:40:33](https://news.ycombinator.com/item?id=39449887) - [What Was Sora Trained On? Creatives Demand Answers](https://in.mashable.com/tech/69813/what-was-sora-trained-on-creatives-demand-answers)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 * [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
 * [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
@@ -12,6 +11,7 @@
 * [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree (2016)](https://allrgb.com/kd-tree)
 * [2024-02-20, 20:36:48](https://news.ycombinator.com/item?id=39446563) - [25 Years Ago: The First Asynchronous Microprocessor (2014)](https://authors.library.caltech.edu/records/92yk4-35643)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
+* [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
 * [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
