@@ -27,8 +27,8 @@
 * [2024-02-20, 11:22:25](https://news.ycombinator.com/item?id=39440006) - [Preview edition of Microsoft OS/2 2.0 sold on eBay](https://www.theregister.com/2024/02/20/microsoft_os2_2_0_beta/)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
+* [2024-02-20, 00:12:33](https://news.ycombinator.com/item?id=39436449) - [VCR Tracking Reminder Bumpers](https://company-bumpers.fandom.com/wiki/VCR_Tracking_Reminder_Bumpers)
 * [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
-* [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet (2022)](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 
 ## [Archives](archives/index.md)
