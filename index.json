@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 19:23:06",
+      "https://news.ycombinator.com/item?id=39458264"
+    ],
+    [
+      "The killer app of Gemini Pro 1.5 is video",
+      "https://simonwillison.net/2024/Feb/21/gemini-pro-video/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 19:00:31",
       "https://news.ycombinator.com/item?id=39457974"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2024-02-21, 18:31:36",
-      "https://news.ycombinator.com/item?id=39457574"
-    ],
-    [
-      "Webhooks suck, but here are alternatives",
-      "https://deno.com/blog/webhooks-suck"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 18:30:23",
       "https://news.ycombinator.com/item?id=39457562"
     ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39457177"
     ],
     [
-      "Unconventional Strategies to Get Unstuck from a Creative Rut",
+      "Get unstuck from a creative rut",
       "https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39456175"
     ],
     [
-      "Algebraic Effects, Ownership, and Borrowing",
+      "Algebraic effects, ownership, and borrowing",
       "https://antelang.org/blog/effects_ownership_and_borrowing/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39456140"
     ],
     [
-      "Inside The Funding Frenzy at Anthropic, One of A.I.'S Hottest Startups",
+      "The funding frenzy at Anthropic",
       "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
     ]
   ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2024-02-21, 11:28:02",
-      "https://news.ycombinator.com/item?id=39452543"
-    ],
-    [
-      "Pijul is a free and open source (GPL2) distributed version control system",
-      "https://pijul.org/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 11:20:49",
       "https://news.ycombinator.com/item?id=39452494"
     ],
     [
       "Insecure vehicles should be banned, not security tools like the Flipper Zero",
       "https://saveflipper.ca/"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 10:58:06",
+      "https://news.ycombinator.com/item?id=39452356"
+    ],
+    [
+      "LaTeX and Neovim for technical note-taking",
+      "https://www.ejmastnak.com/tutorials/vim-latex/intro/"
     ]
   ],
   [
