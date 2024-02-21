@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-21, 19:54:07",
+      "https://news.ycombinator.com/item?id=39458636"
+    ],
+    [
+      "Moving a billion Postgres rows on a $100 budget",
+      "https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 19:31:44",
       "https://news.ycombinator.com/item?id=39458363"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-02-21, 19:02:23",
-      "https://news.ycombinator.com/item?id=39457999"
-    ],
-    [
-      "Boeing ousts 737 MAX chief",
-      "https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 19:00:31",
       "https://news.ycombinator.com/item?id=39457974"
     ],
@@ -67,16 +67,6 @@
     [
       "Useful Uses of Cat",
       "https://two-wrongs.com/useful-uses-of-cat"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 18:49:22",
-      "https://news.ycombinator.com/item?id=39457814"
-    ],
-    [
-      "We've been thinking about software integration wrong for the past 50 years",
-      "https://nerve-signals.pika.page/posts/we-ve-been-thinking-about-software-integration-wrong-for-the-past-50-years"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Inversion of Control Containers and the Dependency Injection pattern (2004)",
       "https://martinfowler.com/articles/injection.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:16:21",
+      "https://news.ycombinator.com/item?id=39438771"
+    ],
+    [
+      "Winteracter – The Fortran GUI Toolset",
+      "https://www.winteracter.com/"
     ]
   ],
   [
