@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 04:43:01](https://news.ycombinator.com/item?id=39450237) - [Would von Braun's Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
 * [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 * [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
@@ -23,7 +24,6 @@
 * [2024-02-20, 15:22:15](https://news.ycombinator.com/item?id=39442344) - [Implants and other technologies that decode neural activity](https://www.nature.com/articles/d41586-024-00481-2)
 * [2024-02-20, 14:23:50](https://news.ycombinator.com/item?id=39441677) - [Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python](https://github.com/hyperdiv/hyperdiv)
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding keyboard shortcuts to a 24 year-old government website with userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
-* [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-19, 07:24:49](https://news.ycombinator.com/item?id=39427016) - [Lwarp – Converts LaTeX to HTML](https://ctan.org/pkg/lwarp)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
