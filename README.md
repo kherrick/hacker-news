@@ -5,6 +5,7 @@
 * [2024-02-21, 20:58:20](https://news.ycombinator.com/item?id=39459456) - [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
 * [2024-02-21, 20:47:06](https://news.ycombinator.com/item?id=39459310) - [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
 * [2024-02-21, 20:43:56](https://news.ycombinator.com/item?id=39459268) - [Show HN: An Experiment with One-Feature Tool Made $7164/Mo](https://news.ycombinator.com/item?id=39459268)
+* [2024-02-21, 20:31:51](https://news.ycombinator.com/item?id=39459102) - [Linkerd no longer shipping open source, stable releases](https://buoyant.io/blog/announcing-linkerd-2-15-vm-workloads-spiffe-identities)
 * [2024-02-21, 19:54:07](https://news.ycombinator.com/item?id=39458636) - [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
 * [2024-02-21, 19:31:44](https://news.ycombinator.com/item?id=39458363) - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
@@ -29,7 +30,6 @@
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT went berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
-* [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 
 ## [Archives](archives/index.md)
 
