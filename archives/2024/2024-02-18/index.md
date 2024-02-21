@@ -72,6 +72,7 @@
 * [2024-02-18, 13:09:03](https://news.ycombinator.com/item?id=39418741) - [Mercury: Council and Parliament strike a deal to phase out mercury in the EU](https://www.consilium.europa.eu/en/press/press-releases/2024/02/08/mercury-council-and-parliament-strike-a-deal-to-completely-phase-out-mercury-in-the-eu/)
 * [2024-02-18, 13:05:12](https://news.ycombinator.com/item?id=39418707) - [Old London Bridge](https://www.english-heritage.org.uk/visit/places/kenwood/history-stories-kenwood/old-london-bridge/)
 * [2024-02-18, 12:53:30](https://news.ycombinator.com/item?id=39418632) - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+* [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 * [2024-02-18, 12:34:33](https://news.ycombinator.com/item?id=39418530) - [PhotoPea: Advanced Image Editor](https://www.photopea.com/)
 * [2024-02-18, 12:21:40](https://news.ycombinator.com/item?id=39418468) - [A Colour Chart for London (2013)](https://londonist.com/2013/06/a-colour-chart-for-london)
 * [2024-02-18, 12:16:41](https://news.ycombinator.com/item?id=39418440) - [Argentina Sees First Monthly Budget Surplus in 12 Years](https://www.barrons.com/news/argentina-sees-first-monthly-budget-surplus-in-12-years-a148e46a)

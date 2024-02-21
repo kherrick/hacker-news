@@ -16,6 +16,7 @@
 * [2024-02-20, 20:56:24](https://news.ycombinator.com/item?id=39446789) - [Warning: $14k BigQuery charge in 2 hours](https://discuss.httparchive.org/t/warning-14-000-bigquery-charge-in-2-hours/2715)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree](https://allrgb.com/kd-tree)
+* [2024-02-20, 20:36:48](https://news.ycombinator.com/item?id=39446563) - [25 Years Ago: The First Asynchronous Microprocessor (2014)](https://authors.library.caltech.edu/records/92yk4-35643)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 20:14:59](https://news.ycombinator.com/item?id=39446305) - [Open Source Encryption for SQLite](https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225)
 * [2024-02-20, 20:13:18](https://news.ycombinator.com/item?id=39446282) - [A modest proposal for reducing mail traffic (1996)](https://cr.yp.to/sarcasm/modest-proposal.txt)
