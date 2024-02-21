@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 01:53:48](https://news.ycombinator.com/item?id=39449308) - [401(k) Will Be Gone Within a Decade](https://www.bloomberg.com/opinion/articles/2024-02-20/retirement-if-you-couldn-t-have-a-401-k-how-would-you-save)
 * [2024-02-20, 23:21:24](https://news.ycombinator.com/item?id=39448296) - [The Average New Yorker Spends $10,454 in Upfront Costs for a Rental](https://streeteasy.com/blog/new-yorkers-spend-over-10k-in-upfront-rental-costs/)
 * [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
@@ -11,7 +12,6 @@
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
-* [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
 * [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)

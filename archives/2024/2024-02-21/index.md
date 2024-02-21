@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-21](index.md)
+
+* [2024-02-21, 01:53:48](https://news.ycombinator.com/item?id=39449308) - [401(k) Will Be Gone Within a Decade](https://www.bloomberg.com/opinion/articles/2024-02-20/retirement-if-you-couldn-t-have-a-401-k-how-would-you-save)
