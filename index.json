@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=39449748"
     ],
     [
-      "Japan Bets $67B to Become a Global Chip Powerhouse Once Again",
+      "Japan bets $67B to become a global chip powerhouse once again",
       "https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=39449713"
     ],
     [
-      "The Lifespan of Large Appliances Is Shrinking",
+      "The lifespan of large appliances is shrinking",
       "https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b"
     ]
   ],
@@ -105,8 +105,18 @@
       "https://news.ycombinator.com/item?id=39449424"
     ],
     [
-      "If Architects had to work like Programmers (1995)",
+      "If architects had to work like programmers (1995)",
       "http://www.gksoft.com/a/fun/architects.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 23:13:34",
+      "https://news.ycombinator.com/item?id=39448223"
+    ],
+    [
+      "Court blocks $1B copyright ruling that punished ISP for its users' piracy",
+      "https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-02-20, 17:20:46",
-      "https://news.ycombinator.com/item?id=39443972"
-    ],
-    [
-      "LlamaCloud and LlamaParse",
-      "https://blog.llamaindex.ai/introducing-llamacloud-and-llamaparse-af8cedf9006b"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 17:20:30",
       "https://news.ycombinator.com/item?id=39443965"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-02-20, 14:23:50",
-      "https://news.ycombinator.com/item?id=39441677"
-    ],
-    [
-      "Show HN: Hyperdiv – Reactive, immediate-mode web UI framework for Python",
-      "https://github.com/hyperdiv/hyperdiv"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 11:22:25",
       "https://news.ycombinator.com/item?id=39440006"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2024-02-20, 07:16:21",
+      "https://news.ycombinator.com/item?id=39438771"
+    ],
+    [
+      "Winteracter – The Fortran GUI Toolset",
+      "https://www.winteracter.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 08:55:10",
       "https://news.ycombinator.com/item?id=39427479"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-02-19, 07:24:49",
-      "https://news.ycombinator.com/item?id=39427016"
+      "2024-02-19, 06:30:57",
+      "https://news.ycombinator.com/item?id=39426753"
     ],
     [
-      "Lwarp – Converts LaTeX to HTML",
-      "https://ctan.org/pkg/lwarp"
+      "Josh: Just One Single History",
+      "https://josh-project.github.io/josh/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=39418536"
     ],
     [
-      "secd chews up CPU cycles and Watch battery life goes in the terlet",
+      "secd chews up CPU cycles and Watch battery life goes in the terlet (2022)",
       "https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/"
     ]
   ]
