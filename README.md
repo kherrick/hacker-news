@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-21, 03:07:55](https://news.ycombinator.com/item?id=39449713) - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
-* [2024-02-20, 23:21:24](https://news.ycombinator.com/item?id=39448296) - [The Average New Yorker Spends $10,454 in Upfront Costs for a Rental](https://streeteasy.com/blog/new-yorkers-spend-over-10k-in-upfront-rental-costs/)
 * [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
+* [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree (2016)](https://allrgb.com/kd-tree)
 * [2024-02-20, 20:36:48](https://news.ycombinator.com/item?id=39446563) - [25 Years Ago: The First Asynchronous Microprocessor (2014)](https://authors.library.caltech.edu/records/92yk4-35643)
