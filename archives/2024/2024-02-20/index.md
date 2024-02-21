@@ -62,6 +62,7 @@
 * [2024-02-20, 13:36:13](https://news.ycombinator.com/item?id=39441034) - [X suspends the account of Yulia Navalnaya](https://www.timesofisrael.com/liveblog_entry/x-suspends-the-account-of-yulia-navalnaya-widow-of-the-russian-opposition-leader/)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Fast memory vulnerabilities, written in 100% safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 13:07:22](https://news.ycombinator.com/item?id=39440738) - [Alexei Navalny's wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
+* [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)

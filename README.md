@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-02-21, 20:47:06](https://news.ycombinator.com/item?id=39459310) - [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
 * [2024-02-21, 19:31:44](https://news.ycombinator.com/item?id=39458363) - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:02:23](https://news.ycombinator.com/item?id=39457999) - [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
@@ -7,7 +9,6 @@
 * [2024-02-21, 18:53:45](https://news.ycombinator.com/item?id=39457875) - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 18:49:22](https://news.ycombinator.com/item?id=39457814) - [We've been thinking about software integration wrong for the past 50 years](https://nerve-signals.pika.page/posts/we-ve-been-thinking-about-software-integration-wrong-for-the-past-50-years)
 * [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Get unstuck from a creative rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
-* [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 17:00:17](https://news.ycombinator.com/item?id=39456335) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic effects, ownership, and borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
@@ -24,11 +25,10 @@
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a hotel](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
-* [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT went berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
+* [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 * [2024-02-20, 12:10:15](https://news.ycombinator.com/item?id=39440303) - [Inversion of Control Containers and the Dependency Injection pattern (2004)](https://martinfowler.com/articles/injection.html)
-* [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 
 ## [Archives](archives/index.md)
