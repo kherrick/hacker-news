@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 * [2024-02-21, 03:40:33](https://news.ycombinator.com/item?id=39449887) - [What Was Sora Trained On? Creatives Demand Answers](https://in.mashable.com/tech/69813/what-was-sora-trained-on-creatives-demand-answers)
 * [2024-02-21, 03:23:28](https://news.ycombinator.com/item?id=39449789) - [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
