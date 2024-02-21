@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
 * [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
+* [2024-02-21, 15:33:39](https://news.ycombinator.com/item?id=39455044) - [The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert](https://www.therubyonrailspodcast.com/508)
+* [2024-02-21, 15:24:47](https://news.ycombinator.com/item?id=39454924) - [ADHD linked to evolutionary success in ancient humans](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/)
 * [2024-02-21, 14:27:39](https://news.ycombinator.com/item?id=39454213) - [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
 * [2024-02-21, 14:16:13](https://news.ycombinator.com/item?id=39454064) - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 * [2024-02-21, 14:07:59](https://news.ycombinator.com/item?id=39453973) - [NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
@@ -13,6 +16,7 @@
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 * [2024-02-21, 13:33:34](https://news.ycombinator.com/item?id=39453543) - [HuggingChat: Chat with Open Source Models](https://huggingface.co/chat/models)
+* [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:30:45](https://news.ycombinator.com/item?id=39453513) - [Hetzner Brings Back GPU Servers](https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/)
 * [2024-02-21, 13:29:24](https://news.ycombinator.com/item?id=39453495) - [The data is in: RTO policies don't improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
