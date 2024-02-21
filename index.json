@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-21, 19:02:23",
+      "https://news.ycombinator.com/item?id=39457999"
+    ],
+    [
+      "Boeing ousts 737 MAX chief",
+      "https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 19:00:31",
       "https://news.ycombinator.com/item?id=39457974"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2024-02-21, 18:12:07",
+      "https://news.ycombinator.com/item?id=39457315"
+    ],
+    [
+      "Intel Launches First Systems Foundry Designed for the AI Era",
+      "https://www.intc.com/news-events/press-releases/detail/1675/intel-launches-worlds-first-systems-foundry-designed-for"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 18:00:11",
       "https://news.ycombinator.com/item?id=39457177"
     ],
     [
       "Get unstuck from a creative rut",
       "https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 17:07:19",
+      "https://news.ycombinator.com/item?id=39456447"
+    ],
+    [
+      "Google Reneged on the Monopolistic Bargain",
+      "https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task"
     ]
   ],
   [
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=39455874"
     ],
     [
-      "How the GNU coreutils are tested",
+      "How the GNU coreutils are tested (2017)",
       "http://www.pixelbeat.org/docs/coreutils-testing.html"
     ]
   ],
@@ -137,26 +167,6 @@
     [
       "Parsing: The Solved Problem That Isn't (2011)",
       "https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:34:39",
-      "https://news.ycombinator.com/item?id=39455057"
-    ],
-    [
-      "Coffee machine camera at Amazon warehouse raises concerns about surveillance",
-      "https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:33:39",
-      "https://news.ycombinator.com/item?id=39455044"
-    ],
-    [
-      "The Ruby on Rails Podcast Episode 508: YJIT with Maxime Chevalier-Boisvert",
-      "https://www.therubyonrailspodcast.com/508"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=39453622"
     ],
     [
-      "Things I Don't Know About AI",
+      "Things I don't know about AI",
       "https://blog.eladgil.com/p/things-i-dont-know-about-ai"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-02-21, 10:58:06",
-      "https://news.ycombinator.com/item?id=39452356"
-    ],
-    [
-      "LaTeX and Neovim for technical note-taking",
-      "https://www.ejmastnak.com/tutorials/vim-latex/intro/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 10:09:57",
       "https://news.ycombinator.com/item?id=39452024"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39440303"
     ],
     [
-      "Inversion of Control Containers and the Dependency Injection Pattern (2004)",
+      "Inversion of Control Containers and the Dependency Injection pattern (2004)",
       "https://martinfowler.com/articles/injection.html"
     ]
   ],
