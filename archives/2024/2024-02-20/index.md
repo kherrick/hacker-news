@@ -66,6 +66,7 @@
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
 * [2024-02-20, 12:20:25](https://news.ycombinator.com/item?id=39440374) - [China is building more coal plants but might burn less coal](https://www.sustainabilitybynumbers.com/p/china-coal-plants)
 * [2024-02-20, 12:16:47](https://news.ycombinator.com/item?id=39440354) - [Walmart to buy TV maker Vizio for $2.3B](https://www.cnbc.com/2024/02/20/walmart-agrees-to-buy-vizio-to-grow-ad-business.html)
+* [2024-02-20, 12:10:15](https://news.ycombinator.com/item?id=39440303) - [Inversion of Control Containers and the Dependency Injection Pattern (2004)](https://martinfowler.com/articles/injection.html)
 * [2024-02-20, 12:09:02](https://news.ycombinator.com/item?id=39440296) - [Presenting TOC (Theory of Constraints) [video]](https://www.youtube.com/watch?v=DQoO8y3En3w)
 * [2024-02-20, 12:00:53](https://news.ycombinator.com/item?id=39440246) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)

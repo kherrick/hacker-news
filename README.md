@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 17:07:19](https://news.ycombinator.com/item?id=39456447) - [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)
 * [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic Effects, Ownership, and Borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 * [2024-02-21, 16:49:00](https://news.ycombinator.com/item?id=39456140) - [Inside The Funding Frenzy at Anthropic, One of A.I.'S Hottest Startups](https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html)
@@ -7,8 +8,6 @@
 * [2024-02-21, 16:46:19](https://news.ycombinator.com/item?id=39456113) - [Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)](https://smallest.app/notesollama/)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
 * [2024-02-21, 16:28:59](https://news.ycombinator.com/item?id=39455874) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
-* [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
-* [2024-02-21, 16:19:08](https://news.ycombinator.com/item?id=39455724) - [ChatGPT is apparently going off the rails and no one can explain why](https://twitter.com/seanw_m/status/1760115118690509168)
 * [2024-02-21, 15:42:49](https://news.ycombinator.com/item?id=39455167) - [Parsing: The Solved Problem That Isn't (2011)](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 * [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
 * [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
@@ -28,6 +27,7 @@
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
+* [2024-02-20, 12:10:15](https://news.ycombinator.com/item?id=39440303) - [Inversion of Control Containers and the Dependency Injection Pattern (2004)](https://martinfowler.com/articles/injection.html)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
 
