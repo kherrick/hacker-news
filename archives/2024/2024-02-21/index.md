@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 18:31:36](https://news.ycombinator.com/item?id=39457574) - [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
+* [2024-02-21, 18:12:07](https://news.ycombinator.com/item?id=39457315) - [Intel Launches First Systems Foundry Designed for the AI Era](https://www.intc.com/news-events/press-releases/detail/1675/intel-launches-worlds-first-systems-foundry-designed-for)
 * [2024-02-21, 18:11:31](https://news.ycombinator.com/item?id=39457310) - [Mozilla Firefox is below PG&E threshold for support](https://www.pge.com/en/accessibility/supported-browsers.html#tabs-281f6d0cf8-item-5d2127a6b9-tab)
 * [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
 * [2024-02-21, 17:07:19](https://news.ycombinator.com/item?id=39456447) - [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)

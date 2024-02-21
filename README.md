@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 18:31:36](https://news.ycombinator.com/item?id=39457574) - [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
+* [2024-02-21, 18:12:07](https://news.ycombinator.com/item?id=39457315) - [Intel Launches First Systems Foundry Designed for the AI Era](https://www.intc.com/news-events/press-releases/detail/1675/intel-launches-worlds-first-systems-foundry-designed-for)
 * [2024-02-21, 18:11:31](https://news.ycombinator.com/item?id=39457310) - [Mozilla Firefox is below PG&E threshold for support](https://www.pge.com/en/accessibility/supported-browsers.html#tabs-281f6d0cf8-item-5d2127a6b9-tab)
 * [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
-* [2024-02-21, 17:07:19](https://news.ycombinator.com/item?id=39456447) - [Google Reneged on the Monopolistic Bargain](https://pluralistic.net/2024/02/21/im-feeling-unlucky/#not-up-to-the-task)
 * [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 17:00:17](https://news.ycombinator.com/item?id=39456335) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic Effects, Ownership, and Borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
@@ -18,7 +19,6 @@
 * [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
-* [2024-02-21, 13:31:59](https://news.ycombinator.com/item?id=39453525) - [Show HN: A Tool to Help You Understand Your Anxious Friends Better](https://anxietysimulator.com/)
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
