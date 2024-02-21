@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 12:40:20](https://news.ycombinator.com/item?id=39453055) - [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 12:13:12](https://news.ycombinator.com/item?id=39452868) - [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)

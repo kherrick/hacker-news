@@ -101,6 +101,7 @@
 * [2024-02-19, 07:55:44](https://news.ycombinator.com/item?id=39427172) - [Oxide reimagines private cloud as a 3k-pound blade server](https://www.theregister.com/2024/02/16/oxide_3000lb_blade_server/)
 * [2024-02-19, 07:24:49](https://news.ycombinator.com/item?id=39427016) - [Lwarp – Converts LaTeX to HTML](https://ctan.org/pkg/lwarp)
 * [2024-02-19, 07:16:30](https://news.ycombinator.com/item?id=39426975) - [Well Temperaments (Part 5)](https://johncarlosbaez.wordpress.com/2024/02/19/well-temperaments-part-5/)
+* [2024-02-19, 07:08:14](https://news.ycombinator.com/item?id=39426931) - [Using content representations to create Open Graph images](https://getkirby.com/docs/cookbook/content/dynamic-og-images)
 * [2024-02-19, 07:01:05](https://news.ycombinator.com/item?id=39426898) - [Bits Credit Card (YC S20) Is Hiring](https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-19, 06:24:28](https://news.ycombinator.com/item?id=39426712) - [\"A Plea for Lean Software\" by Prof. Niklaus Wirth](https://liam-on-linux.dreamwidth.org/88032.html)
