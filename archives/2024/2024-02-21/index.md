@@ -7,6 +7,7 @@
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 12:40:20](https://news.ycombinator.com/item?id=39453055) - [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
+* [2024-02-21, 12:26:17](https://news.ycombinator.com/item?id=39452960) - [AMD's RISC CPU](https://www.youtube.com/watch?v=I5cYxLg7Vfc)
 * [2024-02-21, 12:13:12](https://news.ycombinator.com/item?id=39452868) - [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
 * [2024-02-21, 12:12:53](https://news.ycombinator.com/item?id=39452866) - [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
 * [2024-02-21, 11:52:44](https://news.ycombinator.com/item?id=39452706) - [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
