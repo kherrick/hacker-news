@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-21, 22:56:01](https://news.ycombinator.com/item?id=39460788) - [Tell HN: To be honest.. GPT copilots aren't that great for programming](https://news.ycombinator.com/item?id=39460788)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker (2020)](https://hopkinspokercourse.com/)
@@ -29,6 +28,7 @@
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
+* [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-19, 23:49:29](https://news.ycombinator.com/item?id=39436277) - ['Byron: A Life in Ten Letters': The Regency's rakish rock star](https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd)
 
 ## [Archives](archives/index.md)
