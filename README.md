@@ -6,7 +6,7 @@
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
 * [2024-02-20, 20:41:32](https://news.ycombinator.com/item?id=39446617) - [Exodus Bitcoin Wallet: $490k swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
-* [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree](https://allrgb.com/kd-tree)
+* [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree (2016)](https://allrgb.com/kd-tree)
 * [2024-02-20, 20:36:48](https://news.ycombinator.com/item?id=39446563) - [25 Years Ago: The First Asynchronous Microprocessor (2014)](https://authors.library.caltech.edu/records/92yk4-35643)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
@@ -25,11 +25,11 @@
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI is a function of your organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 11:50:34](https://news.ycombinator.com/item?id=39440179) - [In Defense of Simple Architectures (2022)](https://danluu.com/simple-architectures/)
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding keyboard shortcuts to a 24 year-old government website with userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
-* [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
 * [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned air is unexpectedly supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
 * [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
+* [2024-02-18, 11:07:40](https://news.ycombinator.com/item?id=39418106) - [Ways to use Embark (2021)](https://karthinks.com/software/fifteen-ways-to-use-embark/)
 
 ## [Archives](archives/index.md)
 
