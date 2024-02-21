@@ -85,6 +85,7 @@
 * [2024-02-20, 09:58:36](https://news.ycombinator.com/item?id=39439505) - [A Visual Interactive Guide to Bloom Filters](https://samwho.dev/bloom-filters/)
 * [2024-02-20, 09:50:19](https://news.ycombinator.com/item?id=39439463) - [Returns: Brings functional programming to Python land](https://returns.readthedocs.io/en/latest/)
 * [2024-02-20, 09:10:39](https://news.ycombinator.com/item?id=39439295) - [Multiple Time Dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)
+* [2024-02-20, 08:06:53](https://news.ycombinator.com/item?id=39439012) - [The Moon and Serpent Bumper Book of Magic](https://www.topshelfcomix.com/catalog/the-moon-and-serpent-bumper-book-of-magic/578)
 * [2024-02-20, 07:54:41](https://news.ycombinator.com/item?id=39438944) - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
 * [2024-02-20, 07:46:45](https://news.ycombinator.com/item?id=39438908) - [WebKit Switching to Skia for 2D Graphics Rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 * [2024-02-20, 07:38:31](https://news.ycombinator.com/item?id=39438876) - [Step Away From CNBC. If you want to make money, change this channel](https://slate.com/business/2024/02/cnbc-investing-advice-bad-making-money.html)
