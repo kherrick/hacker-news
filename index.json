@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 19:00:31",
+      "https://news.ycombinator.com/item?id=39457974"
+    ],
+    [
+      "AI behavior guardrails should be public",
+      "https://twitter.com/ID_AA_Carmack/status/1760360183945965853"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 18:53:45",
       "https://news.ycombinator.com/item?id=39457875"
     ],
@@ -17,6 +27,16 @@
     [
       "Webhooks suck, but here are alternatives",
       "https://deno.com/blog/webhooks-suck"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 18:30:23",
+      "https://news.ycombinator.com/item?id=39457562"
+    ],
+    [
+      "How the open source Caddy server uses Grafana Cloud for full-stack observability",
+      "https://grafana.com/blog/2024/02/21/how-the-open-source-caddy-server-uses-grafana-cloud-for-full-stack-observability/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-02-21, 14:16:13",
-      "https://news.ycombinator.com/item?id=39454064"
-    ],
-    [
-      "RFC 9512: YAML Media Type",
-      "https://www.rfc-editor.org/rfc/rfc9512.html"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 13:45:52",
       "https://news.ycombinator.com/item?id=39453695"
     ],
@@ -237,16 +247,6 @@
     [
       "Insecure vehicles should be banned, not security tools like the Flipper Zero",
       "https://saveflipper.ca/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 10:58:06",
-      "https://news.ycombinator.com/item?id=39452356"
-    ],
-    [
-      "LaTeX and Neovim for technical note-taking",
-      "https://www.ejmastnak.com/tutorials/vim-latex/intro/"
     ]
   ],
   [
