@@ -2,7 +2,7 @@
 
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:06:45](https://news.ycombinator.com/item?id=39452003) - [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
-* [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
+* [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a hotel](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 09:07:41](https://news.ycombinator.com/item?id=39451649) - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
 * [2024-02-21, 07:23:55](https://news.ycombinator.com/item?id=39451016) - [Game Programming Patterns (2014)](https://gameprogrammingpatterns.com/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT has gone berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
@@ -12,7 +12,6 @@
 * [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan bets $67B to become a global chip powerhouse once again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 * [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If architects had to work like programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
-* [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
@@ -29,6 +28,7 @@
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 00:12:33](https://news.ycombinator.com/item?id=39436449) - [VCR Tracking Reminder Bumpers](https://company-bumpers.fandom.com/wiki/VCR_Tracking_Reminder_Bumpers)
 * [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
+* [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet (2022)](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 
 ## [Archives](archives/index.md)
