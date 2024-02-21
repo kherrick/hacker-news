@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 14:27:39](https://news.ycombinator.com/item?id=39454213) - [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
 * [2024-02-21, 14:16:13](https://news.ycombinator.com/item?id=39454064) - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 * [2024-02-21, 14:07:59](https://news.ycombinator.com/item?id=39453973) - [NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
 * [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
@@ -25,11 +26,10 @@
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
-* [2024-02-20, 11:05:47](https://news.ycombinator.com/item?id=39439894) - [Biological Hypercrystals](https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012006)
+* [2024-02-20, 11:05:47](https://news.ycombinator.com/item?id=39439894) - [Biological Hypercrystals (2022)](https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012006)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
-* [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
 
 ## [Archives](archives/index.md)
 

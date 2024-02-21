@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 14:27:39](https://news.ycombinator.com/item?id=39454213) - [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
 * [2024-02-21, 14:16:13](https://news.ycombinator.com/item?id=39454064) - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 * [2024-02-21, 14:07:59](https://news.ycombinator.com/item?id=39453973) - [NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
 * [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
