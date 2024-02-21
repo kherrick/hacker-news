@@ -74,6 +74,7 @@
 * [2024-02-19, 11:46:49](https://news.ycombinator.com/item?id=39428766) - [Show HN: CodeRev.app – Code Review as Interview](https://coderev.app)
 * [2024-02-19, 11:42:53](https://news.ycombinator.com/item?id=39428728) - [Discovering Hard Disk Physical Geometry Through Microbenchmarking (2019)](https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/)
 * [2024-02-19, 11:36:40](https://news.ycombinator.com/item?id=39428677) - [GoPro Ride Through an Electron Beam Irradiator at Full Beam Power [video]](https://www.youtube.com/watch?v=Uf4Ux4SlyT4)
+* [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
 * [2024-02-19, 11:32:37](https://news.ycombinator.com/item?id=39428646) - [Show HN: CaveRibbon (SFCave Remake)](https://memalign.github.io/m/cr/index.html)
 * [2024-02-19, 11:31:26](https://news.ycombinator.com/item?id=39428640) - [GlobalFoundries wins $3.1B in CHIPS Act subsidies for NY, Vermont](https://www.syracuse.com/business/2024/02/globalfoundries-wins-31-billion-in-chips-act-subsidies-for-upstate-ny-vermont-expansion.html)
 * [2024-02-19, 11:30:50](https://news.ycombinator.com/item?id=39428633) - [Tell HN: Hard to change default search engine in Chrome to DuckDuckGo](https://news.ycombinator.com/item?id=39428633)

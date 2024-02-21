@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 12:12:53](https://news.ycombinator.com/item?id=39452866) - [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
+* [2024-02-21, 11:52:44](https://news.ycombinator.com/item?id=39452706) - [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
+* [2024-02-21, 11:40:29](https://news.ycombinator.com/item?id=39452614) - [Top reasons to move from CentOS to RHEL (according to Red Hat) are a 404 page](https://www.theregister.com/2024/02/20/red_hat_rhel_reasons/)
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:26:14](https://news.ycombinator.com/item?id=39452142) - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
