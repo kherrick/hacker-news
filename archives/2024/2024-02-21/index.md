@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 12:40:20](https://news.ycombinator.com/item?id=39453055) - [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
+* [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 12:13:12](https://news.ycombinator.com/item?id=39452868) - [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
 * [2024-02-21, 12:12:53](https://news.ycombinator.com/item?id=39452866) - [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
 * [2024-02-21, 11:52:44](https://news.ycombinator.com/item?id=39452706) - [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
@@ -16,6 +18,7 @@
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-21, 09:07:41](https://news.ycombinator.com/item?id=39451649) - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
+* [2024-02-21, 09:04:58](https://news.ycombinator.com/item?id=39451637) - [Advice I Wish I Had Known When I Built My First Payment Application](https://news.alvaroduran.com/p/advice-i-wish-i-had-known-when-i)
 * [2024-02-21, 07:23:55](https://news.ycombinator.com/item?id=39451016) - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 * [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
