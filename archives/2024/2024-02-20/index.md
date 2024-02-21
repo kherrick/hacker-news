@@ -11,6 +11,7 @@
 * [2024-02-20, 22:49:47](https://news.ycombinator.com/item?id=39448021) - [YouTube's search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
 * [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
+* [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 21:02:58](https://news.ycombinator.com/item?id=39446866) - [Show HN: Enumerate Office365/Azure Domains](https://azure-enum.lolware.net/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [The asteroid that wiped out dinosaurs didn't impact bird evolution: new study](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)

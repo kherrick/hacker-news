@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 18:53:45](https://news.ycombinator.com/item?id=39457875) - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 18:31:36](https://news.ycombinator.com/item?id=39457574) - [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
-* [2024-02-21, 18:12:07](https://news.ycombinator.com/item?id=39457315) - [Intel Launches First Systems Foundry Designed for the AI Era](https://www.intc.com/news-events/press-releases/detail/1675/intel-launches-worlds-first-systems-foundry-designed-for)
 * [2024-02-21, 18:11:31](https://news.ycombinator.com/item?id=39457310) - [Mozilla Firefox is below PG&E threshold for support](https://www.pge.com/en/accessibility/supported-browsers.html#tabs-281f6d0cf8-item-5d2127a6b9-tab)
 * [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Unconventional Strategies to Get Unstuck from a Creative Rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
 * [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -27,7 +27,7 @@
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
-* [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
+* [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 12:10:15](https://news.ycombinator.com/item?id=39440303) - [Inversion of Control Containers and the Dependency Injection Pattern (2004)](https://martinfowler.com/articles/injection.html)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 
