@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
+* [2024-02-21, 14:27:39](https://news.ycombinator.com/item?id=39454213) - [Teen Subcultures Are Fading. Pity the Poor Kids](https://www.nytimes.com/2024/02/21/magazine/aesthetics-tiktok-teens.html)
 * [2024-02-21, 14:16:13](https://news.ycombinator.com/item?id=39454064) - [RFC 9512: YAML Media Type](https://www.rfc-editor.org/rfc/rfc9512.html)
 * [2024-02-21, 14:07:59](https://news.ycombinator.com/item?id=39453973) - [NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
 * [2024-02-21, 13:52:01](https://news.ycombinator.com/item?id=39453767) - [Remix Vite Is Now Stable](https://remix.run/blog/remix-vite-stable)
@@ -16,7 +18,6 @@
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
-* [2024-02-21, 10:26:14](https://news.ycombinator.com/item?id=39452142) - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-21, 05:49:42](https://news.ycombinator.com/item?id=39450574) - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
@@ -29,7 +30,6 @@
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
-* [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet (2022)](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 
 ## [Archives](archives/index.md)
 
