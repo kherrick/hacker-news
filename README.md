@@ -20,7 +20,6 @@
 * [2024-02-20, 20:39:39](https://news.ycombinator.com/item?id=39446591) - [RGB K-D Tree (2016)](https://allrgb.com/kd-tree)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-* [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
 * [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
@@ -29,6 +28,7 @@
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
+* [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet (2022)](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 
 ## [Archives](archives/index.md)
