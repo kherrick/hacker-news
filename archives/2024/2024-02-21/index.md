@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
 * [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
+* [2024-02-21, 16:19:08](https://news.ycombinator.com/item?id=39455724) - [ChatGPT is apparently going off the rails and no one can explain why](https://twitter.com/seanw_m/status/1760115118690509168)
 * [2024-02-21, 16:08:49](https://news.ycombinator.com/item?id=39455576) - [SheetSavvy AI – Google Sheets: Automate, Generate, Interpret Like Never Before](https://workspace.google.com/marketplace/app/sheet_savvy_ai/533954402261)
 * [2024-02-21, 15:42:49](https://news.ycombinator.com/item?id=39455167) - [Parsing: The Solved Problem That Isn't (2011)](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 * [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
