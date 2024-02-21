@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 13:30:45](https://news.ycombinator.com/item?id=39453513) - [Hetzner Brings Back GPU Servers](https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/)
+* [2024-02-21, 13:29:24](https://news.ycombinator.com/item?id=39453495) - [The data is in: RTO policies don't improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 12:40:20](https://news.ycombinator.com/item?id=39453055) - [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
@@ -19,7 +21,6 @@
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-* [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:20:30](https://news.ycombinator.com/item?id=39443965) - [Let's Build the GPT Tokenizer [video]](https://www.youtube.com/watch?v=zduSFxRajkE)
 * [2024-02-20, 16:59:43](https://news.ycombinator.com/item?id=39443679) - [SSDs have become fast, except in the cloud](http://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 15:24:05](https://news.ycombinator.com/item?id=39442368) - [Launch HN: Dart (YC W22) – Project management with automatic report generation](https://news.ycombinator.com/item?id=39442368)
@@ -29,7 +30,6 @@
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
 * [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
 * [2024-02-19, 07:08:14](https://news.ycombinator.com/item?id=39426931) - [Using content representations to create Open Graph images](https://getkirby.com/docs/cookbook/content/dynamic-og-images)
-* [2024-02-18, 12:35:37](https://news.ycombinator.com/item?id=39418536) - [secd chews up CPU cycles and Watch battery life goes in the terlet (2022)](https://arstechnica.com/civis/threads/secd-chews-up-cpu-cycles-and-watch-battery-life-goes-in-the-terlet.1485088/)
 
 ## [Archives](archives/index.md)
 
