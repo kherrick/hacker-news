@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 22:34:05](https://news.ycombinator.com/item?id=39460558) - [The Lost Art of Single-Tasking](https://simone.org/single-tasking/)
 * [2024-02-21, 22:22:05](https://news.ycombinator.com/item?id=39460455) - [European Court of Human Rights declares backdoored encryption is illegal](https://www.theregister.com/2024/02/15/echr_backdoor_encryption/)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)

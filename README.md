@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-21, 22:22:05](https://news.ycombinator.com/item?id=39460455) - [European Court of Human Rights declares backdoored encryption is illegal](https://www.theregister.com/2024/02/15/echr_backdoor_encryption/)
+* [2024-02-21, 22:34:05](https://news.ycombinator.com/item?id=39460558) - [The Lost Art of Single-Tasking](https://simone.org/single-tasking/)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2024-02-21, 21:24:46](https://news.ycombinator.com/item?id=39459762) - [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker (2020)](https://hopkinspokercourse.com/)
 * [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-21, 20:58:20](https://news.ycombinator.com/item?id=39459456) - [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
-* [2024-02-21, 20:47:06](https://news.ycombinator.com/item?id=39459310) - [Updated user interface for signing in to or signing up for your Google Account](https://workspaceupdates.googleblog.com/2024/02/new-google-sign-in-page.html)
 * [2024-02-21, 20:43:56](https://news.ycombinator.com/item?id=39459268) - [Show HN: An Experiment with One-Feature Tool Made $7164/Mo](https://news.ycombinator.com/item?id=39459268)
 * [2024-02-21, 19:54:07](https://news.ycombinator.com/item?id=39458636) - [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
 * [2024-02-21, 19:31:44](https://news.ycombinator.com/item?id=39458363) - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
@@ -28,6 +27,7 @@
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
+* [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 
