@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 03:23:28](https://news.ycombinator.com/item?id=39449789) - [Cool website to remove the paywall on any article](https://www.archivebuttons.com/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
 * [2024-02-21, 03:07:55](https://news.ycombinator.com/item?id=39449713) - [The Lifespan of Large Appliances Is Shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
+* [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If Architects had to work like Programmers](http://www.gksoft.com/a/fun/architects.html)
 * [2024-02-21, 01:53:48](https://news.ycombinator.com/item?id=39449308) - [401(k) Will Be Gone Within a Decade](https://www.bloomberg.com/opinion/articles/2024-02-20/retirement-if-you-couldn-t-have-a-401-k-how-would-you-save)
