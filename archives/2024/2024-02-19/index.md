@@ -93,6 +93,7 @@
 * [2024-02-19, 09:42:20](https://news.ycombinator.com/item?id=39427775) - [OpenAI Deal Lets Employees Sell Shares at $86B Valuation](https://www.bloomberg.com/news/articles/2024-02-17/openai-deal-lets-employees-sell-shares-at-86-billion-valuation)
 * [2024-02-19, 09:39:13](https://news.ycombinator.com/item?id=39427749) - [The EU Wants Its Own DNS Resolver That Can Block 'Unlawful' Traffic,TorrentFreak](https://torrentfreak.com/the-eu-wants-its-own-dns-resolver-that-can-block-unlawful-traffic-220119/)
 * [2024-02-19, 09:18:20](https://news.ycombinator.com/item?id=39427630) - [The Logitech G Cloud](https://taoofmac.com/space/blog/2024/02/03/2000)
+* [2024-02-19, 08:55:10](https://news.ycombinator.com/item?id=39427479) - [The Economics of Status (2006)](http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html)
 * [2024-02-19, 08:31:12](https://news.ycombinator.com/item?id=39427346) - [Largest natural gas leak from Nord Stream pipeline](https://doi.org/10.1016/j.isci.2023.108772)
 * [2024-02-19, 08:15:53](https://news.ycombinator.com/item?id=39427265) - [Ethernet: The Basics](https://hackaday.com/2024/02/12/ethernet-for-hackers-the-very-basics/)
 * [2024-02-19, 08:00:43](https://news.ycombinator.com/item?id=39427202) - [Biologists Discover Four New Octopus Species in the Deep Ocean Off Costa Rica](https://www.smithsonianmag.com/smart-news/biologists-discover-four-new-octopus-species-deep-ocean-costa-rica-180983631/)
