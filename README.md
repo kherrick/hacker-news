@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-21, 07:23:55](https://news.ycombinator.com/item?id=39451016) - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-* [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
+* [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS (2022)](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 05:49:42](https://news.ycombinator.com/item?id=39450574) - [100kHz to 6GHz 2 port USB based VNA](https://github.com/jankae/LibreVNA)
 * [2024-02-21, 05:46:28](https://news.ycombinator.com/item?id=39450560) - [DeepComputing ROMA RISC-V Laptop](https://store.deepcomputing.io/products/dc-roma-risc-v-laptop)
