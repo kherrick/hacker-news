@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT Has Gone Berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 04:43:01](https://news.ycombinator.com/item?id=39450237) - [Would von Braun's Mars Landers Have Worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
 * [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan Bets $67B to Become a Global Chip Powerhouse Once Again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
@@ -13,7 +14,6 @@
 * [2024-02-20, 20:36:48](https://news.ycombinator.com/item?id=39446563) - [25 Years Ago: The First Asynchronous Microprocessor (2014)](https://authors.library.caltech.edu/records/92yk4-35643)
 * [2024-02-20, 20:34:12](https://news.ycombinator.com/item?id=39446537) - [LED Matrix Earrings](https://mitxela.com/projects/ledstud)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
-* [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)
 * [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
 * [2024-02-20, 17:51:18](https://news.ycombinator.com/item?id=39444364) - [Updating Gov.uk’s crown](https://insidegovuk.blog.gov.uk/2024/02/19/updating-gov-uks-crown/)
 * [2024-02-20, 17:45:05](https://news.ycombinator.com/item?id=39444282) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
