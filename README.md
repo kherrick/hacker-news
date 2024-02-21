@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 22:22:05](https://news.ycombinator.com/item?id=39460455) - [European Court of Human Rights declares backdoored encryption is illegal](https://www.theregister.com/2024/02/15/echr_backdoor_encryption/)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2024-02-21, 21:24:46](https://news.ycombinator.com/item?id=39459762) - [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
@@ -13,7 +14,6 @@
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:00:31](https://news.ycombinator.com/item?id=39457974) - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 * [2024-02-21, 18:53:45](https://news.ycombinator.com/item?id=39457875) - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
-* [2024-02-21, 18:00:11](https://news.ycombinator.com/item?id=39457177) - [Get unstuck from a creative rut](https://www.holloway.com/s/cd-three-exercises-for-getting-unstuck)
 * [2024-02-21, 17:00:17](https://news.ycombinator.com/item?id=39456335) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic effects, ownership, and borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
