@@ -24,7 +24,7 @@
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
-* [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
+* [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a hotel](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT went berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 12:10:15](https://news.ycombinator.com/item?id=39440303) - [Inversion of Control Containers and the Dependency Injection pattern (2004)](https://martinfowler.com/articles/injection.html)
