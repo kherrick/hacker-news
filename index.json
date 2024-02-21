@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-21, 13:30:45",
-      "https://news.ycombinator.com/item?id=39453513"
+      "2024-02-21, 14:07:59",
+      "https://news.ycombinator.com/item?id=39453973"
     ],
     [
-      "Hetzner Brings Back GPU Servers",
-      "https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/"
+      "NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt",
+      "https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 13:45:52",
+      "https://news.ycombinator.com/item?id=39453695"
+    ],
+    [
+      "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling",
+      "https://junzhan2000.github.io/AnyGPT.github.io/"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-02-21, 11:20:49",
+      "https://news.ycombinator.com/item?id=39452494"
+    ],
+    [
+      "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "https://saveflipper.ca/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 10:58:06",
       "https://news.ycombinator.com/item?id=39452356"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-02-21, 07:23:55",
-      "https://news.ycombinator.com/item?id=39451016"
-    ],
-    [
-      "Game Programming Patterns (2014)",
-      "https://gameprogrammingpatterns.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 05:49:42",
       "https://news.ycombinator.com/item?id=39450574"
     ],
@@ -171,22 +181,22 @@
   ],
   [
     [
-      "2024-02-20, 23:05:57",
-      "https://news.ycombinator.com/item?id=39448154"
-    ],
-    [
-      "Video Game Module for Flipper Zero",
-      "https://shop.flipperzero.one/products/video-game-module-for-flipper-zero"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 21:18:20",
       "https://news.ycombinator.com/item?id=39447041"
     ],
     [
       "Kagi Sidekick (alpha)",
       "https://sidekick.kagi.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 21:01:42",
+      "https://news.ycombinator.com/item?id=39446853"
+    ],
+    [
+      "Spine AI (YC S23) Is Hiring",
+      "https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-02-20, 11:22:25",
-      "https://news.ycombinator.com/item?id=39440006"
+      "2024-02-20, 11:05:47",
+      "https://news.ycombinator.com/item?id=39439894"
     ],
     [
-      "Preview edition of Microsoft OS/2 2.0 sold on eBay",
-      "https://www.theregister.com/2024/02/20/microsoft_os2_2_0_beta/"
+      "Biological Hypercrystals",
+      "https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012006"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Economics of Status (2006)",
       "http://daviddfriedman.blogspot.com/2006/10/economics-of-status.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 07:08:14",
-      "https://news.ycombinator.com/item?id=39426931"
-    ],
-    [
-      "Using content representations to create Open Graph images",
-      "https://getkirby.com/docs/cookbook/content/dynamic-og-images"
     ]
   ]
 ]
