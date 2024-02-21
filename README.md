@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
+* [2024-02-21, 16:46:19](https://news.ycombinator.com/item?id=39456113) - [Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)](https://smallest.app/notesollama/)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
+* [2024-02-21, 16:28:59](https://news.ycombinator.com/item?id=39455874) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
-* [2024-02-21, 16:19:08](https://news.ycombinator.com/item?id=39455724) - [ChatGPT is apparently going off the rails and no one can explain why](https://twitter.com/seanw_m/status/1760115118690509168)
 * [2024-02-21, 15:42:49](https://news.ycombinator.com/item?id=39455167) - [Parsing: The Solved Problem That Isn't (2011)](https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html)
 * [2024-02-21, 15:40:23](https://news.ycombinator.com/item?id=39455131) - [Air Canada Has to Honor a Refund Policy Its Chatbot Made Up](https://www.wired.com/story/air-canada-chatbot-refund-policy)
 * [2024-02-21, 15:34:39](https://news.ycombinator.com/item?id=39455057) - [Coffee machine camera at Amazon warehouse raises concerns about surveillance](https://sahanjournal.com/business-work/amazon-coffee-machine-camera-surveillance/)
@@ -26,8 +28,6 @@
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
-* [2024-02-20, 18:01:05](https://news.ycombinator.com/item?id=39444500) - [Keep your phone number private with Signal usernames](https://signal.org/blog/phone-number-privacy-usernames/)
-* [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-19, 11:36:31](https://news.ycombinator.com/item?id=39428675) - [The Morgan Motor Company designed a modern coupe, the Aeromax](https://arstechnica.com/cars/2024/02/that-time-the-morgan-motor-company-designed-a-modern-coupe-the-aeromax/)
 

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
+* [2024-02-21, 16:46:19](https://news.ycombinator.com/item?id=39456113) - [Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)](https://smallest.app/notesollama/)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
+* [2024-02-21, 16:28:59](https://news.ycombinator.com/item?id=39455874) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
 * [2024-02-21, 16:19:08](https://news.ycombinator.com/item?id=39455724) - [ChatGPT is apparently going off the rails and no one can explain why](https://twitter.com/seanw_m/status/1760115118690509168)
 * [2024-02-21, 16:08:49](https://news.ycombinator.com/item?id=39455576) - [SheetSavvy AI – Google Sheets: Automate, Generate, Interpret Like Never Before](https://workspace.google.com/marketplace/app/sheet_savvy_ai/533954402261)
