@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 19:31:44](https://news.ycombinator.com/item?id=39458363) - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:02:23](https://news.ycombinator.com/item?id=39457999) - [Boeing ousts 737 MAX chief](https://www.seattletimes.com/business/boeing-aerospace/boeing-ousts-head-of-737-max-program-reshuffles-leadership-team/)
 * [2024-02-21, 19:00:31](https://news.ycombinator.com/item?id=39457974) - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
@@ -39,6 +40,7 @@
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 * [2024-02-21, 13:33:34](https://news.ycombinator.com/item?id=39453543) - [HuggingChat: Chat with Open Source Models](https://huggingface.co/chat/models)
+* [2024-02-21, 13:32:40](https://news.ycombinator.com/item?id=39453529) - [Cuts and jumpers (on a different scale) (1989)](https://stuff.mit.edu/afs/net/user/tytso/archive/high-power)
 * [2024-02-21, 13:31:59](https://news.ycombinator.com/item?id=39453525) - [Show HN: A Tool to Help You Understand Your Anxious Friends Better](https://anxietysimulator.com/)
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:30:45](https://news.ycombinator.com/item?id=39453513) - [Hetzner Brings Back GPU Servers](https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/)
