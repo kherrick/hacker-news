@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 21:24:46](https://news.ycombinator.com/item?id=39459762) - [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker](https://hopkinspokercourse.com/)
 * [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-21, 20:58:20](https://news.ycombinator.com/item?id=39459456) - [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
@@ -27,7 +28,6 @@
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a hotel](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
-* [2024-02-21, 06:09:10](https://news.ycombinator.com/item?id=39450669) - [ChatGPT went berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 

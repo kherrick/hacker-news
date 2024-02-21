@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 21:24:46](https://news.ycombinator.com/item?id=39459762) - [Nvidia Announces Financial Results for Fourth Quarter and Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker](https://hopkinspokercourse.com/)
 * [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-21, 20:58:20](https://news.ycombinator.com/item?id=39459456) - [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
