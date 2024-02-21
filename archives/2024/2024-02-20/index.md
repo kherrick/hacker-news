@@ -93,6 +93,7 @@
 * [2024-02-20, 07:35:29](https://news.ycombinator.com/item?id=39438861) - [Microsoft's Commitment to Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
+* [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity](https://queue.acm.org/detail.cfm?id=3489047)
