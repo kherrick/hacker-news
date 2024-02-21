@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:00:31](https://news.ycombinator.com/item?id=39457974) - [AI behavior guardrails should be public](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 * [2024-02-21, 18:53:45](https://news.ycombinator.com/item?id=39457875) - [Useful Uses of Cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 18:31:36](https://news.ycombinator.com/item?id=39457574) - [Webhooks suck, but here are alternatives](https://deno.com/blog/webhooks-suck)
