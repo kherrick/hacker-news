@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-21, 22:34:05](https://news.ycombinator.com/item?id=39460558) - [The Lost Art of Single-Tasking](https://simone.org/single-tasking/)
+* [2024-02-21, 22:56:01](https://news.ycombinator.com/item?id=39460788) - [Tell HN: To be honest.. GPT copilots aren't that great for programming](https://news.ycombinator.com/item?id=39460788)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker (2020)](https://hopkinspokercourse.com/)
 * [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-02-21, 20:58:20](https://news.ycombinator.com/item?id=39459456) - [Show HN: Wiwo – Find events happening around you. Google Maps, but for events.](https://www.wiwo.world/map)
-* [2024-02-21, 20:43:56](https://news.ycombinator.com/item?id=39459268) - [Show HN: An Experiment with One-Feature Tool Made $7164/Mo](https://news.ycombinator.com/item?id=39459268)
 * [2024-02-21, 19:54:07](https://news.ycombinator.com/item?id=39458636) - [Moving a billion Postgres rows on a $100 budget](https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget)
 * [2024-02-21, 19:31:44](https://news.ycombinator.com/item?id=39458363) - [Neural Network Diffusion](https://arxiv.org/abs/2402.13144)
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
@@ -30,6 +29,7 @@
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
+* [2024-02-19, 23:49:29](https://news.ycombinator.com/item?id=39436277) - ['Byron: A Life in Ten Letters': The Regency's rakish rock star](https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd)
 
 ## [Archives](archives/index.md)
 
