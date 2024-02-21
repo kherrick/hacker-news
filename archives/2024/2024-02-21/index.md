@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 14:07:59](https://news.ycombinator.com/item?id=39453973) - [NASA's New Horizons Discovered a Large Surprise in the Kuiper Belt](https://www.sciencealert.com/nasas-new-horizons-discovered-a-large-surprise-in-the-kuiper-belt)
+* [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
 * [2024-02-21, 13:30:45](https://news.ycombinator.com/item?id=39453513) - [Hetzner Brings Back GPU Servers](https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/)
 * [2024-02-21, 13:29:24](https://news.ycombinator.com/item?id=39453495) - [The data is in: RTO policies don't improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
@@ -16,6 +18,7 @@
 * [2024-02-21, 11:52:44](https://news.ycombinator.com/item?id=39452706) - [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
 * [2024-02-21, 11:40:29](https://news.ycombinator.com/item?id=39452614) - [Top reasons to move from CentOS to RHEL (according to Red Hat) are a 404 page](https://www.theregister.com/2024/02/20/red_hat_rhel_reasons/)
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
+* [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:26:14](https://news.ycombinator.com/item?id=39452142) - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)

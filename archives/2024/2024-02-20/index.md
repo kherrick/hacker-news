@@ -74,6 +74,7 @@
 * [2024-02-20, 11:25:11](https://news.ycombinator.com/item?id=39440025) - [Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts](https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/)
 * [2024-02-20, 11:22:25](https://news.ycombinator.com/item?id=39440006) - [Preview edition of Microsoft OS/2 2.0 sold on eBay](https://www.theregister.com/2024/02/20/microsoft_os2_2_0_beta/)
 * [2024-02-20, 11:19:35](https://news.ycombinator.com/item?id=39439986) - [Stonelifting Etiquette](https://liftingstones.org/articles/stonelifting-etiquette)
+* [2024-02-20, 11:05:47](https://news.ycombinator.com/item?id=39439894) - [Biological Hypercrystals](https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012006)
 * [2024-02-20, 11:01:52](https://news.ycombinator.com/item?id=39439859) - [An Executive Bought a Rival's Stock. The SEC Says That's Insider Trading](https://www.wsj.com/finance/regulation/an-executive-bought-a-rivals-stock-the-sec-says-thats-insider-trading-84ef8aae)
 * [2024-02-20, 10:59:05](https://news.ycombinator.com/item?id=39439836) - [Boffins propose regulating AI hardware](https://www.theregister.com/2024/02/16/boffins_propose_regulating_ai_hardware/)
 * [2024-02-20, 10:50:19](https://news.ycombinator.com/item?id=39439782) - [HexWalk – Hex Editor/Viewer/Analyzer](https://github.com/gcarmix/HexWalk)
