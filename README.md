@@ -2,6 +2,7 @@
 
 * [2024-02-21, 17:00:23](https://news.ycombinator.com/item?id=39456338) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic Effects, Ownership, and Borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
+* [2024-02-21, 16:49:00](https://news.ycombinator.com/item?id=39456140) - [Inside The Funding Frenzy at Anthropic, One of A.I.'S Hottest Startups](https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
 * [2024-02-21, 16:46:19](https://news.ycombinator.com/item?id=39456113) - [Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)](https://smallest.app/notesollama/)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough: A year's work now takes a day](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
@@ -17,7 +18,6 @@
 * [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I Don't Know About AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
-* [2024-02-21, 13:33:34](https://news.ycombinator.com/item?id=39453543) - [HuggingChat: Chat with Open Source Models](https://huggingface.co/chat/models)
 * [2024-02-21, 13:31:59](https://news.ycombinator.com/item?id=39453525) - [Show HN: A Tool to Help You Understand Your Anxious Friends Better](https://anxietysimulator.com/)
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
