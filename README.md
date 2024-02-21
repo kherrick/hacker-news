@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:06:45](https://news.ycombinator.com/item?id=39452003) - [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 09:07:41](https://news.ycombinator.com/item?id=39451649) - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
@@ -10,7 +11,6 @@
 * [2024-02-21, 04:43:01](https://news.ycombinator.com/item?id=39450237) - [Would von Braun's Mars landers have worked?](https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/)
 * [2024-02-21, 03:57:57](https://news.ycombinator.com/item?id=39449969) - [Walmart buying TV-brand Vizio for its ad-fueling customer data](https://arstechnica.com/gadgets/2024/02/walmart-buying-tv-brand-vizio-for-its-ad-fueling-customer-data/)
 * [2024-02-21, 03:13:14](https://news.ycombinator.com/item?id=39449748) - [Japan bets $67B to become a global chip powerhouse once again](https://finance.yahoo.com/news/japan-bets-67-billion-become-210013021.html)
-* [2024-02-21, 03:07:55](https://news.ycombinator.com/item?id=39449713) - [The lifespan of large appliances is shrinking](https://www.wsj.com/personal-finance/the-lifespan-of-large-appliances-is-shrinking-e5fb205b)
 * [2024-02-21, 02:11:27](https://news.ycombinator.com/item?id=39449424) - [If architects had to work like programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
 * [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)

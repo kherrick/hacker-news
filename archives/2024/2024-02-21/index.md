@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
 * [2024-02-21, 10:06:45](https://news.ycombinator.com/item?id=39452003) - [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 09:07:41](https://news.ycombinator.com/item?id=39451649) - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
