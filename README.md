@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-20, 23:34:15](https://news.ycombinator.com/item?id=39448398) - [GPU's Rival? What Is Language Processing Unit (LPU)](https://www.turingpost.com/p/fod41)
-* [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
+* [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+* [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:01:42](https://news.ycombinator.com/item?id=39446853) - [Spine AI (YC S23) Is Hiring](https://www.ycombinator.com/companies/spine-ai/jobs/Z1hz3BZ-lead-applied-ml-scientist)
 * [2024-02-20, 20:57:59](https://news.ycombinator.com/item?id=39446814) - [An asteroid wiped out dinosaurs – did it help birds flourish?](https://www.nytimes.com/2024/02/12/science/bird-evolution-asteroid-dinosaurs.html)
@@ -27,7 +27,7 @@
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 09:58:36](https://news.ycombinator.com/item?id=39439505) - [A visual interactive guide to Bloom filters](https://samwho.dev/bloom-filters/)
-* [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
+* [2024-02-19, 06:30:57](https://news.ycombinator.com/item?id=39426753) - [Josh: Just One Single History](https://josh-project.github.io/josh/)
 * [2024-02-19, 05:46:31](https://news.ycombinator.com/item?id=39426569) - [Capturing Avian Perspectives: Pigeon photography](https://www.daviddegner.com/blog/a-birds-eye-view/)
 * [2024-02-18, 15:54:41](https://news.ycombinator.com/item?id=39420056) - [Canned air is unexpectedly supersonic [video]](https://www.youtube.com/watch?v=DfYlLns0els)
 

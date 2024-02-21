@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
 * [2024-02-20, 23:34:15](https://news.ycombinator.com/item?id=39448398) - [GPU's Rival? What Is Language Processing Unit (LPU)](https://www.turingpost.com/p/fod41)
+* [2024-02-20, 23:13:34](https://news.ycombinator.com/item?id=39448223) - [Court blocks $1B copyright ruling that punished ISP for its users' piracy](https://arstechnica.com/tech-policy/2024/02/court-blocks-1-billion-copyright-ruling-that-punished-isp-for-its-users-piracy/)
+* [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 * [2024-02-20, 22:49:47](https://news.ycombinator.com/item?id=39448021) - [YouTube's search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
 * [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
