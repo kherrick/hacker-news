@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-21, 12:40:20",
+      "https://news.ycombinator.com/item?id=39453055"
+    ],
+    [
+      "Tech has graduated from the Star Trek era to the Douglas Adams age",
+      "https://interconnected.org/home/2024/02/21/adams"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 12:39:12",
+      "https://news.ycombinator.com/item?id=39453046"
+    ],
+    [
+      "XL: An Extensible Programming Language",
+      "https://xlr.sourceforge.io/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 12:13:12",
       "https://news.ycombinator.com/item?id=39452868"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=39452866"
     ],
     [
-      "What the fuck is going on in Argentina?",
+      "What is going on in Argentina?",
       "https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 11:52:44",
-      "https://news.ycombinator.com/item?id=39452706"
-    ],
-    [
-      "Rust and Htmx: Making a Slack/campfire clone",
-      "https://github.com/gamedolphin/speakwith"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-02-21, 09:04:58",
+      "https://news.ycombinator.com/item?id=39451637"
+    ],
+    [
+      "Advice I Wish I Had Known When I Built My First Payment Application",
+      "https://news.alvaroduran.com/p/advice-i-wish-i-had-known-when-i"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 07:23:55",
       "https://news.ycombinator.com/item?id=39451016"
     ],
@@ -97,16 +117,6 @@
     [
       "100kHz to 6GHz 2 port USB based VNA",
       "https://github.com/jankae/LibreVNA"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 04:43:01",
-      "https://news.ycombinator.com/item?id=39450237"
-    ],
-    [
-      "Would von Braun's Mars landers have worked?",
-      "https://raypatrick.xyz/blog/2023/11/24/would-von-brauns-mars-landers-have-worked/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Winteracter – The Fortran GUI Toolset",
       "https://www.winteracter.com/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 00:12:33",
-      "https://news.ycombinator.com/item?id=39436449"
-    ],
-    [
-      "VCR Tracking Reminder Bumpers",
-      "https://company-bumpers.fandom.com/wiki/VCR_Tracking_Reminder_Bumpers"
     ]
   ],
   [
