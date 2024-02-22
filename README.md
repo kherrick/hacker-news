@@ -20,7 +20,6 @@
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading \"A Programmer's Guide to Common Lisp\"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
-* [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465838) - [DMD Compiler as a Library: A Call to Arms](https://dlang.org/blog/2024/02/22/dmd-compiler-as-a-library-a-call-to-arms/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
@@ -28,6 +27,7 @@
 * [2024-02-22, 10:15:16](https://news.ycombinator.com/item?id=39465230) - [Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 09:26:37](https://news.ycombinator.com/item?id=39451757) - [United Biscuits Network](https://en.wikipedia.org/wiki/United_Biscuits_Network)
+* [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29 Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 * [2024-02-20, 08:04:44](https://news.ycombinator.com/item?id=39438998) - [Rotating house goes up for sale in New Zealand](https://www.theguardian.com/world/2024/feb/20/new-zealand-rotating-house-sale-auckland-maraeta-hillside-valuation-pictures)
 
