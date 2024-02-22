@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:51:21](https://news.ycombinator.com/item?id=39467031) - [AT&T customers hit by widespread cellular outages in U.S.](https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938)
 * [2024-02-22, 13:45:34](https://news.ycombinator.com/item?id=39466963) - [AT&T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
@@ -11,7 +12,6 @@
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) is hiring a product engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
 * [2024-02-22, 11:57:06](https://news.ycombinator.com/item?id=39465852) - [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
-* [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465839) - [JetBrains IDE new Terminal Interface](https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
 * [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [GIMP 2.99.18: The last development preview before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
