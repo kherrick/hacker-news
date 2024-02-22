@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
+* [2024-02-22, 21:34:37](https://news.ycombinator.com/item?id=39473592) - [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
 * [2024-02-22, 21:24:09](https://news.ycombinator.com/item?id=39473466) - [Apple Pkl](https://github.com/apple/pkl)
 * [2024-02-22, 21:23:16](https://news.ycombinator.com/item?id=39473455) - [SQL Reunion: People, Projects, and Politics (1995)](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
 * [2024-02-22, 21:01:00](https://news.ycombinator.com/item?id=39473170) - [Reflex (YC W23) is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
 * [2024-02-22, 20:33:55](https://news.ycombinator.com/item?id=39472790) - [Xerion: Neural Network Simulator (1995)](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
-* [2024-02-22, 19:35:40](https://news.ycombinator.com/item?id=39471920) - [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 * [2024-02-22, 18:37:52](https://news.ycombinator.com/item?id=39471203) - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
 * [2024-02-22, 18:36:52](https://news.ycombinator.com/item?id=39471188) - [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
@@ -29,7 +30,6 @@
 * [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29—Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
 * [2024-02-21, 08:10:00](https://news.ycombinator.com/item?id=39451266) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
-* [2024-02-20, 12:43:25](https://news.ycombinator.com/item?id=39440538) - [21 Years. 21 Cooking Lessons](https://misterbranzino.substack.com/p/21-cooking-lessons)
 
 ## [Archives](archives/index.md)
 
