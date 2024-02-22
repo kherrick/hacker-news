@@ -90,6 +90,7 @@
 * [2024-02-20, 10:48:01](https://news.ycombinator.com/item?id=39439771) - [AI your home on street view](https://googlemapsmania.blogspot.com/2024/02/ai-your-home-on-street-view.html)
 * [2024-02-20, 10:42:53](https://news.ycombinator.com/item?id=39439748) - [Why Does the State Have a Monopoly on Money?](https://www.economicforces.xyz/p/why-does-the-state-have-a-monopoly)
 * [2024-02-20, 10:41:16](https://news.ycombinator.com/item?id=39439737) - [Have front end frameworks destroyed the web?](https://www.gdnetwork.co/blog/have-frontend-frameworks-destroyed-the-web)
+* [2024-02-20, 10:30:09](https://news.ycombinator.com/item?id=39439680) - [Gentrification Killed NYC's Vibrant '70s Music Scene](https://jacobin.com/2024/02/gentrification-1970s-new-york-music-scene/)
 * [2024-02-20, 10:30:03](https://news.ycombinator.com/item?id=39439678) - [Show HN: A CLI tool that enables you to remove files easily and safely](https://github.com/9yokuro/wrm)
 * [2024-02-20, 10:28:01](https://news.ycombinator.com/item?id=39439655) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 10:05:01](https://news.ycombinator.com/item?id=39439545) - [UK middle classes 'struggling despite incomes of up to £60k a year'](https://www.theguardian.com/business/2024/feb/20/uk-middle-classes-jobs-housing-costs-abrdn-financial-fairness-trust)
