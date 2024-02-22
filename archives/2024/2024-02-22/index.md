@@ -19,6 +19,7 @@
 * [2024-02-22, 11:57:06](https://news.ycombinator.com/item?id=39465852) - [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [Minimum Volume Ellipsoid](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465839) - [JetBrains IDE new Terminal Interface](https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/)
+* [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465838) - [DMD Compiler as a Library: A Call to Arms](https://dlang.org/blog/2024/02/22/dmd-compiler-as-a-library-a-call-to-arms/)
 * [2024-02-22, 11:45:20](https://news.ycombinator.com/item?id=39465761) - [Oil giant fined just $780k after 'one of biggest ever' methane leaks](https://www.independent.co.uk/climate-change/news/kazakhstan-oil-firm-methane-leak-b2498997.html)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
 * [2024-02-22, 11:40:41](https://news.ycombinator.com/item?id=39465727) - [APL – A Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
