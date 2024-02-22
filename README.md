@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 21:24:09](https://news.ycombinator.com/item?id=39473466) - [Apple Pkl](https://github.com/apple/pkl)
 * [2024-02-22, 21:01:00](https://news.ycombinator.com/item?id=39473170) - [Reflex (YC W23) is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
 * [2024-02-22, 20:33:55](https://news.ycombinator.com/item?id=39472790) - [Xerion: Neural Network Simulator (1995)](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
@@ -12,8 +13,6 @@
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
 * [2024-02-22, 16:45:27](https://news.ycombinator.com/item?id=39469657) - [Show HN: Strada – Cloud IDE for Connecting SaaS APIs](https://www.getstrada.com)
 * [2024-02-22, 16:05:57](https://news.ycombinator.com/item?id=39469112) - [The mystery of the garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
-* [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [Gibellina, known as \"Sicily’s Marfa\", is looking for a revival](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
-* [2024-02-22, 14:55:07](https://news.ycombinator.com/item?id=39467975) - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
 * [2024-02-22, 14:49:07](https://news.ycombinator.com/item?id=39467885) - [The Billion Row Challenge (1BRC) – Step-by-Step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
@@ -30,6 +29,7 @@
 * [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29—Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
 * [2024-02-21, 08:10:00](https://news.ycombinator.com/item?id=39451266) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
+* [2024-02-20, 12:43:25](https://news.ycombinator.com/item?id=39440538) - [21 Years. 21 Cooking Lessons](https://misterbranzino.substack.com/p/21-cooking-lessons)
 
 ## [Archives](archives/index.md)
 

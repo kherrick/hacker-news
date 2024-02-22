@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 21:24:09](https://news.ycombinator.com/item?id=39473466) - [Apple Pkl](https://github.com/apple/pkl)
 * [2024-02-22, 21:01:00](https://news.ycombinator.com/item?id=39473170) - [Reflex (YC W23) is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
 * [2024-02-22, 20:33:55](https://news.ycombinator.com/item?id=39472790) - [Xerion: Neural Network Simulator](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody Ever Gets Credit for Fixing Problems That Never Happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)

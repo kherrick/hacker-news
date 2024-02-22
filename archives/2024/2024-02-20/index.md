@@ -69,6 +69,7 @@
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 * [2024-02-20, 13:00:37](https://news.ycombinator.com/item?id=39440689) - [Walmart is buying Vizio for $2.3B](https://edition.cnn.com/2024/02/20/tech/walmart-vizio-tv/index.html)
 * [2024-02-20, 12:45:53](https://news.ycombinator.com/item?id=39440557) - [Jank-Free Image Loads (2018)](https://24ways.org/2018/jank-free-image-loads/)
+* [2024-02-20, 12:43:25](https://news.ycombinator.com/item?id=39440538) - [21 Years. 21 Cooking Lessons](https://misterbranzino.substack.com/p/21-cooking-lessons)
 * [2024-02-20, 12:39:16](https://news.ycombinator.com/item?id=39440503) - [Hetzner GPU Server](https://robot.hetzner.com/order/index/culture/en_GB)
 * [2024-02-20, 12:35:52](https://news.ycombinator.com/item?id=39440480) - [UI Is a Function of Your Organization](https://blog.jim-nielsen.com/2024/ui-fn-org/)
 * [2024-02-20, 12:27:15](https://news.ycombinator.com/item?id=39440423) - [Rotten Apple](https://adactio.com/journal/20888)
