@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 18:36:52](https://news.ycombinator.com/item?id=39471188) - [Linaro FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
+* [2024-02-22, 18:30:44](https://news.ycombinator.com/item?id=39471116) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
 * [2024-02-22, 17:45:07](https://news.ycombinator.com/item?id=39470506) - [Codeweavers released CrossOver 24 today](https://www.codeweavers.com/store/?)
 * [2024-02-22, 17:37:28](https://news.ycombinator.com/item?id=39470381) - [I turned my ThinkPad into a programmable USB device](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 17:10:15](https://news.ycombinator.com/item?id=39469988) - [Did fermented foods fuel brain growth?](https://news.harvard.edu/gazette/story/2024/02/did-fermented-foods-fuel-brain-growth)
