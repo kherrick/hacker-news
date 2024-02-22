@@ -1,11 +1,31 @@
 [
   [
     [
+      "2024-02-22, 18:54:23",
+      "https://news.ycombinator.com/item?id=39471388"
+    ],
+    [
+      "Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster",
+      "https://www.phind.com/blog/introducing-phind-70b"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 18:37:52",
+      "https://news.ycombinator.com/item?id=39471203"
+    ],
+    [
+      "New code for SIGILL faults to help identify misbranches on OpenBSD",
+      "https://www.undeadly.org/cgi?action=article;sid=20240222183703"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 18:36:52",
       "https://news.ycombinator.com/item?id=39471188"
     ],
     [
-      "Linaro FOSDEM 2024",
+      "Linaro at FOSDEM 2024",
       "https://www.linaro.org/blog/linaro-fosdem-2024/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Gibellina, known as \"Sicily’s Marfa\", is looking for a revival",
       "https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 15:11:50",
-      "https://news.ycombinator.com/item?id=39468234"
-    ],
-    [
-      "An 'education legend' has created an AI that will change your mind about AI",
-      "https://www.washingtonpost.com/opinions/2024/02/22/artificial-intelligence-sal-khan/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "LongRoPE: Extending LLM Context Window Beyond 2M Tokens",
       "https://arxiv.org/abs/2402.13753"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 10:19:50",
-      "https://news.ycombinator.com/item?id=39465250"
-    ],
-    [
-      "Google to pause Gemini image generation of people after issues",
-      "https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical"
     ]
   ],
   [
