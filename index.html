@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39467434">
+          <h3>
+            <a
+              class="item"
+              href="https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/"
+              >Yale will again require standardized test scores for admission</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-22 @ 14:21:12</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39467434"
+                  >Comments</a
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="39467413">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=39467413"
@@ -140,11 +161,11 @@
             <h4>
               <span>2024-02-22 @ 14:20:15</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39467413"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -270,6 +291,140 @@
             </div>
           </section>
         </section>
+        <section id="39467132">
+          <h3>
+            <a class="item" href="https://pagescms.org"
+              >Show HN: Pages CMS – A CMS for GitHub</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-22 @ 13:58:03</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39467132"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>1. You log in with your GitHub account.</p>
+              <p>
+                2. You select the GitHub repo where your site/app is at (whether
+                it's Next.js, 11ty, Hugo, Nuxt... as long as you're using flat
+                files for content).
+              </p>
+              <p>
+                3. You add a single config file to your repo to define the
+                content types and other settings (e.g. media folder).
+              </p>
+              <p>
+                4. Congrats: you now have a user friendly CMS to manage content
+                + media BUT all changes are still tracked like regular commits
+                (under your account) on GitHub.
+              </p>
+              <p>
+                I started using Jekyll around 2009 and over the course of the
+                past 10+ years, I've helped build major sites and tiny blogs
+                with Hugo, Gatsby, Next.js and more recently 11ty.
+              </p>
+              <p>I still love it.</p>
+              <p>
+                BUT once you're done building, managing content and media can be
+                a bit of a pain. You have a few options:
+              </p>
+              <p>
+                - Edit files directly (on GitHub or your local). Good luck
+                getting your colleagues on the marketing team to do that.
+              </p>
+              <p>
+                - Hook up a headless CMS like Contentful, Sanity, or Strapi.
+                That works, but it's one more dependency and (IMHO) overkill in
+                most cases.
+              </p>
+              <p>
+                - OR you could use something like [Decap CMS](<a
+                  href="https://decapcms.org/"
+                  >https://decapcms.org/</a
+                >). Really cool project, but I've never been a fan of the UI/UX,
+                and it's been a bit of a pain to setup (maybe that's just me).
+              </p>
+              <p>
+                I wanted something as simple as possible, preferably with
+                nothing to install or deploy.
+              </p>
+              <p>
+                Back in 2018, I had built a prototype (Jekyll+) [1] with the
+                idea of getting a CMS set up by just adding a single
+                configuration file to your GitHub repository.
+              </p>
+              <p>
+                Pages CMS [2] is a continuation of that idea. It's 100% free and
+                Open Source:
+                <a href="https://github.com/pages-cms/pages-cms"
+                  >https://github.com/pages-cms/pages-cms</a
+                >.
+              </p>
+              <p>
+                If you don't want to use the online version because you're not
+                comfortable signing up with your GitHub account, consider the
+                following options:
+              </p>
+              <p>
+                - Use a fine-grained personal access token [3], there's an
+                option on the login screen. There is still a bug if you try to
+                access a repo that isn't part of your token scope, but I'll get
+                it fixed in the next couple of days.
+              </p>
+              <p>
+                - Deploy it yourself (for free) on Cloudflare Pages. Literally 5
+                minutes of work max. I made a video walking you through the
+                process [4].
+              </p>
+              <p>
+                - Check out the intro video on the front page [2] (a bit crap,
+                but I'll get a better one up in the next few days).
+              </p>
+              <p>
+                I use it actively with a few other teams, I hope it will be of
+                use to some of you.
+              </p>
+              <p>
+                I'm already working on adding a few nicer features, like
+                collaborative editing and email invites (to let non-developers
+                login without a GitHub account).
+              </p>
+              <p>
+                PS: I've spent the past 8+ years building a business and only
+                recently got back into coding. I'd love pointers as to what I
+                could do better (and how I can manage my Powerpoint PTSD).
+              </p>
+              <p>
+                [1]:
+                <a href="https://github.com/hunvreus/jekyllplus/"
+                  >https://github.com/hunvreus/jekyllplus/</a
+                >
+              </p>
+              <p>
+                [2]: <a href="https://pagescms.org">https://pagescms.org</a>
+              </p>
+              <p>
+                [3]:
+                <a
+                  href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#fine-grained-personal-access-tokens"
+                  >https://docs.github.com/en/authentication/keeping-your-accou...</a
+                >
+              </p>
+              <p>
+                [4]:
+                <a href="https://pagescms.org/docs/development/"
+                  >https://pagescms.org/docs/development/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39466963">
           <h3>
             <a
@@ -282,11 +437,11 @@
             <h4>
               <span>2024-02-22 @ 13:45:34</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466963"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -301,11 +456,11 @@
             <h4>
               <span>2024-02-22 @ 13:20:39</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466630"
                   >Comments</a
-                ><span class="descendants">: 154</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -322,11 +477,11 @@
             <h4>
               <span>2024-02-22 @ 13:00:22</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466417"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -344,11 +499,11 @@
             <h4>
               <span>2024-02-22 @ 12:42:15</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466246"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -363,11 +518,11 @@
             <h4>
               <span>2024-02-22 @ 12:32:23</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466160"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -383,11 +538,11 @@
             <h4>
               <span>2024-02-22 @ 12:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466021"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -402,7 +557,7 @@
             <h4>
               <span>2024-02-22 @ 12:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465891"
                   >Comments</a
@@ -440,11 +595,11 @@
             <h4>
               <span>2024-02-22 @ 11:57:06</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465852"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -462,7 +617,7 @@
             <h4>
               <span>2024-02-22 @ 11:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465841"
                   >Comments</a
@@ -483,7 +638,7 @@
             <h4>
               <span>2024-02-22 @ 11:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465838"
                   >Comments</a
@@ -505,7 +660,7 @@
             <h4>
               <span>2024-02-22 @ 11:45:20</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465761"
                   >Comments</a
@@ -527,7 +682,7 @@
             <h4>
               <span>2024-02-22 @ 11:41:48</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465740"
                   >Comments</a
@@ -548,11 +703,11 @@
             <h4>
               <span>2024-02-22 @ 11:27:35</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465614"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -567,11 +722,11 @@
             <h4>
               <span>2024-02-22 @ 11:15:42</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465519"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -588,11 +743,11 @@
             <h4>
               <span>2024-02-22 @ 11:09:20</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465485"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -607,11 +762,11 @@
             <h4>
               <span>2024-02-22 @ 10:44:35</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465357"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -628,11 +783,11 @@
             <h4>
               <span>2024-02-22 @ 10:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">274</span></span
+                >Points: <span class="points">292</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465250"
                   >Comments</a
-                ><span class="descendants">: 485</span></span
+                ><span class="descendants">: 513</span></span
               >
             </h4>
           </section>
@@ -649,11 +804,11 @@
             <h4>
               <span>2024-02-22 @ 10:16:24</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465235"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -668,11 +823,11 @@
             <h4>
               <span>2024-02-22 @ 10:15:16</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465230"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -689,32 +844,11 @@
             <h4>
               <span>2024-02-21 @ 19:23:06</span
               ><span class="points-container"
-                >Points: <span class="points">1075</span></span
+                >Points: <span class="points">1077</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39458264"
                   >Comments</a
-                ><span class="descendants">: 445</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39451685">
-          <h3>
-            <a
-              class="item"
-              href="https://susam.net/from-fill-prefix-to-tramp.html"
-              >From Fill Prefix to TRAMP</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-21 @ 09:12:52</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39451685"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 446</span></span
               >
             </h4>
           </section>
@@ -735,7 +869,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39451291"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -753,11 +887,11 @@
             <h4>
               <span>2024-02-21 @ 08:12:24</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39451285"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -778,7 +912,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39450987"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -796,32 +930,11 @@
             <h4>
               <span>2024-02-20 @ 22:04:47</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39447603"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39447125">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/Dicklesworthstone/hoeffdings_d_explainer"
-              >My Favorite Statistical Measure: Hoeffding's D</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-20 @ 21:26:11</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39447125"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -838,11 +951,11 @@
             <h4>
               <span>2024-02-20 @ 10:30:09</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39439680"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -853,11 +966,11 @@
             <h4>
               <span>2024-02-20 @ 06:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39438577"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
