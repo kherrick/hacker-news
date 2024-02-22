@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 23:40:17",
+      "https://news.ycombinator.com/item?id=39461226"
+    ],
+    [
+      "Apple reverses course: app must pay 30% App Store fee on tips sent to teachers",
+      "https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 22:17:07",
       "https://news.ycombinator.com/item?id=39460409"
     ],
@@ -37,16 +47,6 @@
     [
       "Continue (YC S23) is hiring a founding engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 20:43:56",
-      "https://news.ycombinator.com/item?id=39459268"
-    ],
-    [
-      "Show HN: An Experiment with One-Feature Tool Made $7164/Mo",
-      "https://news.ycombinator.com/item?id=39459268"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Algebraic effects, ownership, and borrowing",
       "https://antelang.org/blog/effects_ownership_and_borrowing/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 16:48:21",
-      "https://news.ycombinator.com/item?id=39456135"
-    ],
-    [
-      "Encoding tic-tac-toe in 15 bits",
-      "https://cbarrick.dev/posts/2024/02/19/tic-tac-toe"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2024-02-21, 10:09:57",
+      "https://news.ycombinator.com/item?id=39452024"
+    ],
+    [
+      "Readyset: A MySQL and Postgres wire-compatible caching layer",
+      "https://github.com/readysettech/readyset"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 09:47:34",
       "https://news.ycombinator.com/item?id=39451873"
     ],
     [
       "BT Tower is to be turned into a hotel",
       "https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 09:31:12",
-      "https://news.ycombinator.com/item?id=39451793"
-    ],
-    [
-      "Stop postponing things by embracing the mess",
-      "https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "X.org Server Clears Out Remnants for Supporting Old Compilers",
       "https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:22:28",
+      "https://news.ycombinator.com/item?id=39438804"
+    ],
+    [
+      "Windows Product Activation (2001)",
+      "https://www.licenturion.com/xp/fully-licensed-wpa.txt"
     ]
   ],
   [
