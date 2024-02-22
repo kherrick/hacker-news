@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
+* [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 * [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
 * [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
@@ -17,7 +19,6 @@
 * [2024-02-21, 17:00:17](https://news.ycombinator.com/item?id=39456335) - [Strawberry Pop-Tart Blow-Torches (1994)](https://www.pmichaud.com/toast/)
 * [2024-02-21, 16:49:00](https://news.ycombinator.com/item?id=39456140) - [The funding frenzy at Anthropic](https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
-* [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
@@ -25,7 +26,6 @@
 * [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
 * [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
-* [2024-02-21, 07:04:32](https://news.ycombinator.com/item?id=39450925) - [Delegating tasks to Fly Machines](https://fly.io/blog/delegate-tasks-to-fly-machines/)
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Inside Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
