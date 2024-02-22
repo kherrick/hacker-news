@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
+* [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What Went Wrong at Techstars?](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
 * [2024-02-22, 03:39:04](https://news.ycombinator.com/item?id=39462947) - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 * [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
 * [2024-02-22, 02:41:29](https://news.ycombinator.com/item?id=39462516) - [Things unexpectedly named after people](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [2024-02-22, 02:06:29](https://news.ycombinator.com/item?id=39462253) - [Japan's Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
 * [2024-02-22, 01:42:12](https://news.ycombinator.com/item?id=39462087) - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
-* [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
 * [2024-02-21, 21:56:14](https://news.ycombinator.com/item?id=39460148) - [Atuin – Magical Shell History](https://atuin.sh)
 * [2024-02-21, 21:08:18](https://news.ycombinator.com/item?id=39459579) - [An Introduction to the Theory and Practice of Poker (2020)](https://hopkinspokercourse.com/)
 * [2024-02-21, 21:01:42](https://news.ycombinator.com/item?id=39459507) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
