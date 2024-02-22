@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
 * [2024-02-22, 22:50:45](https://news.ycombinator.com/item?id=39474440) - [Show HN: Just hit $100k MRR with my undetectable AI](https://www.stealthgpt.ai/)
 * [2024-02-22, 22:47:53](https://news.ycombinator.com/item?id=39474414) - [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
+* [2024-02-22, 22:04:09](https://news.ycombinator.com/item?id=39473949) - [What ZIL metrics are exposed by (Open)ZFS on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation)
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 * [2024-02-22, 21:35:55](https://news.ycombinator.com/item?id=39473611) - [I recorded a screen capture of a task. Gemini generated code to replicate it](https://twitter.com/DynamicWebPaige/status/1760537379369304309)
 * [2024-02-22, 21:34:37](https://news.ycombinator.com/item?id=39473592) - [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
