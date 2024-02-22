@@ -71,6 +71,7 @@
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+* [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:26:14](https://news.ycombinator.com/item?id=39452142) - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
 * [2024-02-21, 10:06:45](https://news.ycombinator.com/item?id=39452003) - [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
