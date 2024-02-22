@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Bridging empirical-theoretical gap in neural network formal language learning](https://arxiv.org/abs/2402.10013)
@@ -11,7 +12,6 @@
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
 * [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [GIMP 2.99.18: The last development preview before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
-* [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:10:56](https://news.ycombinator.com/item?id=39465498) - [Scientists discover underlying cause of \"brain fog\" linked with Long Covid](https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-22, 10:44:35](https://news.ycombinator.com/item?id=39465357) - [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
