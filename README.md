@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 14:21:12](https://news.ycombinator.com/item?id=39467434) - [Yale will again require standardized test scores for admission](https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
+* [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 * [2024-02-22, 13:45:34](https://news.ycombinator.com/item?id=39466963) - [AT&T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
@@ -22,12 +24,10 @@
 * [2024-02-22, 10:16:24](https://news.ycombinator.com/item?id=39465235) - [Interesting Uses of Ansible's ternary filter](https://www.zufallsheld.de/2024/02/21/interesting-use-of-ansible-ternary-filter/)
 * [2024-02-22, 10:15:16](https://news.ycombinator.com/item?id=39465230) - [Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
 * [2024-02-21, 19:23:06](https://news.ycombinator.com/item?id=39458264) - [The killer app of Gemini Pro 1.5 is using video as an input](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
-* [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
 * [2024-02-21, 08:13:07](https://news.ycombinator.com/item?id=39451291) - [Projected File System](https://scorpiosoftware.net/2024/02/20/projected-file-system/)
 * [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
-* [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 * [2024-02-20, 10:30:09](https://news.ycombinator.com/item?id=39439680) - [Gentrification Killed NYC's Vibrant '70s Music Scene](https://jacobin.com/2024/02/gentrification-1970s-new-york-music-scene/)
 * [2024-02-20, 06:31:04](https://news.ycombinator.com/item?id=39438577) - [Re2c](https://re2c.org/index.html)
 
