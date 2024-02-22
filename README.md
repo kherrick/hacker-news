@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-22, 21:24:09](https://news.ycombinator.com/item?id=39473466) - [Apple Pkl](https://github.com/apple/pkl)
+* [2024-02-22, 21:23:16](https://news.ycombinator.com/item?id=39473455) - [SQL Reunion: People, Projects, and Politics (1995)](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
 * [2024-02-22, 21:01:00](https://news.ycombinator.com/item?id=39473170) - [Reflex (YC W23) is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
 * [2024-02-22, 20:33:55](https://news.ycombinator.com/item?id=39472790) - [Xerion: Neural Network Simulator (1995)](https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
@@ -19,7 +20,6 @@
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading \"A Programmer's Guide to Common Lisp\"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
-* [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-22, 10:44:35](https://news.ycombinator.com/item?id=39465357) - [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
