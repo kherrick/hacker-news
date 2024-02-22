@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-02-22, 13:33:27",
-      "https://news.ycombinator.com/item?id=39466788"
+      "2024-02-22, 13:51:21",
+      "https://news.ycombinator.com/item?id=39467031"
     ],
     [
-      "New Leak Shows Business Side of China's Apt Menace",
-      "https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/"
+      "AT&T customers hit by widespread cellular outages in U.S.",
+      "https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 13:45:34",
+      "https://news.ycombinator.com/item?id=39466963"
+    ],
+    [
+      "AT&T customers report nationwide service disruptions",
+      "https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Reading a Programmer's Guide to Common Lisp",
       "https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 12:42:15",
+      "https://news.ycombinator.com/item?id=39466246"
+    ],
+    [
+      "A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?",
+      "https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Auth0 OSS alternative Ory Kratos now with passwordless and SMS support",
       "https://github.com/ory/kratos/releases/tag/v1.1.0"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 11:40:41",
-      "https://news.ycombinator.com/item?id=39465727"
-    ],
-    [
-      "APL – A Glimpse of Heaven (2006)",
-      "http://archive.vector.org.uk/art10011550"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM",
       "https://news.ycombinator.com/item?id=39453402"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 13:03:53",
-      "https://news.ycombinator.com/item?id=39453271"
-    ],
-    [
-      "Gemma: New Open Models",
-      "https://blog.google/technology/developers/gemma-open-models/"
     ]
   ],
   [
