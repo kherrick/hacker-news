@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
 * [2024-02-22, 03:56:01](https://news.ycombinator.com/item?id=39463082) - [What Is a Vector Database?](https://blog.meilisearch.com/what-is-a-vector-database/)
+* [2024-02-22, 03:51:40](https://news.ycombinator.com/item?id=39463041) - [Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate](https://sapling.bumpkin.solutions)
+* [2024-02-22, 03:39:04](https://news.ycombinator.com/item?id=39462947) - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 * [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
 * [2024-02-22, 03:01:27](https://news.ycombinator.com/item?id=39462662) - [Google to fix AI picture bot after 'woke' criticism](https://www.bbc.com/news/business-68364690)
 * [2024-02-22, 02:41:29](https://news.ycombinator.com/item?id=39462516) - [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
