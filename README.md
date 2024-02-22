@@ -26,8 +26,8 @@
 * [2024-02-21, 07:04:32](https://news.ycombinator.com/item?id=39450925) - [Delegating Tasks to Fly Machines](https://fly.io/blog/delegate-tasks-to-fly-machines/)
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
+* [2024-02-20, 13:16:35](https://news.ycombinator.com/item?id=39440804) - [A decent VS Code and Ruby on Rails setup](https://railsnotes.xyz/blog/vscode-rails-setup)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
-* [2024-02-20, 13:00:37](https://news.ycombinator.com/item?id=39440689) - [Walmart is buying Vizio for $2.3B](https://edition.cnn.com/2024/02/20/tech/walmart-vizio-tv/index.html)
 * [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Inside Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
 * [2024-02-19, 23:49:29](https://news.ycombinator.com/item?id=39436277) - ['Byron: A Life in Ten Letters': The Regency's rakish rock star](https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd)
 
