@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 19:08:04](https://news.ycombinator.com/item?id=39471568) - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+* [2024-02-22, 18:47:58](https://news.ycombinator.com/item?id=39471317) - [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
 * [2024-02-22, 18:37:52](https://news.ycombinator.com/item?id=39471203) - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
 * [2024-02-22, 18:36:52](https://news.ycombinator.com/item?id=39471188) - [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
 * [2024-02-22, 18:30:44](https://news.ycombinator.com/item?id=39471116) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
@@ -19,7 +21,6 @@
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading \"A Programmer's Guide to Common Lisp\"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
-* [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
@@ -29,7 +30,6 @@
 * [2024-02-21, 09:26:37](https://news.ycombinator.com/item?id=39451757) - [United Biscuits Network](https://en.wikipedia.org/wiki/United_Biscuits_Network)
 * [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29 Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
-* [2024-02-20, 08:04:44](https://news.ycombinator.com/item?id=39438998) - [Rotating house goes up for sale in New Zealand](https://www.theguardian.com/world/2024/feb/20/new-zealand-rotating-house-sale-auckland-maraeta-hillside-valuation-pictures)
 
 ## [Archives](archives/index.md)
 
