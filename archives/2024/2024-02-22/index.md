@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 19:39:03](https://news.ycombinator.com/item?id=39471964) - [Google Secures $60M Deal for Real-Time Access to Reddit Data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
+* [2024-02-22, 19:35:40](https://news.ycombinator.com/item?id=39471920) - [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
 * [2024-02-22, 19:08:04](https://news.ycombinator.com/item?id=39471568) - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 * [2024-02-22, 18:47:58](https://news.ycombinator.com/item?id=39471317) - [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
