@@ -2,6 +2,7 @@
 
 * [2024-02-22, 15:21:39](https://news.ycombinator.com/item?id=39468387) - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
 * [2024-02-22, 14:55:07](https://news.ycombinator.com/item?id=39467975) - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
+* [2024-02-22, 14:30:38](https://news.ycombinator.com/item?id=39467590) - [Why Is California the Way It Is?](https://unchartedterritories.tomaspueyo.com/p/why-is-california-the-way-it-is)
 * [2024-02-22, 14:21:12](https://news.ycombinator.com/item?id=39467434) - [Yale will again require standardized test scores for admission](https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
@@ -11,7 +12,6 @@
 * [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Bridging empirical-theoretical gap in neural network formal language learning](https://arxiv.org/abs/2402.10013)
 * [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) is hiring a product engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
-* [2024-02-22, 11:57:06](https://news.ycombinator.com/item?id=39465852) - [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465838) - [DMD Compiler as a Library: A Call to Arms](https://dlang.org/blog/2024/02/22/dmd-compiler-as-a-library-a-call-to-arms/)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
