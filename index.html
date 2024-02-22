@@ -129,6 +129,147 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="39467413">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=39467413"
+              >Launch HN: Danswer (YC W24) – Open-source AI search and chat over
+              private data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-02-22 @ 14:20:15</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=39467413"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/danswer-ai/danswer"
+                >https://github.com/danswer-ai/danswer</a
+              >). We’re building an open source and self-hostable ChatGPT-style
+              system that can access your team’s unique knowledge by connecting
+              to 25 of the most common workplace tools (Slack, Google Drive,
+              Jira, etc.). You ask questions in natural language and get back
+              answers based on your team’s documents. Where relevant, answers
+              are backed by citations and links to the exact documents used to
+              generate them.
+              <p>
+                Quick Demo:
+                <a href="https://youtu.be/hqSouur2FXw"
+                  >https://youtu.be/hqSouur2FXw</a
+                >
+              </p>
+              <p>
+                Originally Danswer was a side project motivated by a challenge
+                we experienced at work. We noticed that as teams scale, finding
+                the right information becomes more and more challenging. I
+                recall being on call and helping a customer recover from a
+                mission critical failure but the error was related to some
+                obscure legacy feature I had never used. For most projects, a
+                simple question to ChatGPT would have solved it; but in this
+                moment, ChatGPT was completely clueless without additional
+                context (which I also couldn’t find).
+              </p>
+              <p>
+                We believe that within a few years, every org will be using
+                team-specific knowledge assistants. We also understand that
+                teams don’t want to tell us their secrets and not every team has
+                the budget for yet another SaaS solution, so we open-sourced the
+                project. It is just a set of containers that can be deployed on
+                any cloud or on-premise. All of the data is processed and
+                persisted on that same instance. Some teams have even opted to
+                self-host open-source LLMs to truly airgap the system.
+              </p>
+              <p>
+                I also want to share a bit about the actual design of the system
+                (<a href="https://docs.danswer.dev/system_overview"
+                  >https://docs.danswer.dev/system_overview</a
+                >). If you have questions about any parts of the flow such as
+                the model choice, hyperparameters, prompting, etc. we’re happy
+                to go into more depth in the comments.
+              </p>
+              <p>
+                The system revolves around a custom Retrieval Augmented
+                Generation (RAG) pipeline we’ve built. During indexing time (we
+                pull documents from connected sources every 10 minutes),
+                documents are chunked and indexed into hybrid keyword+vector
+                indices (<a
+                  href="https://github.com/danswer-ai/danswer/blob/main/backend/danswer/indexing/indexing_pipeline.py#L211"
+                  >https://github.com/danswer-ai/danswer/blob/main/backend/dans...</a
+                >).
+              </p>
+              <p>
+                For the vector index (which gives the system the flexibility to
+                understand natural language queries), we use state of the art
+                prefix-aware embedding models trained with contrastive loss.
+                Optionally the system can be configured to go over each doc with
+                multiple passes of different granularity to capture wide context
+                vs fine details. We also supplement the vector search with a
+                keyword based BM25 index + N-Grams so that the system performs
+                well even in low data domains. Additionally we’ve added in
+                learning from feedback and time based decay—see our custom
+                ranking function (<a
+                  href="https://github.com/danswer-ai/danswer/blob/main/backend/danswer/document_index/vespa/app_config/schemas/danswer_chunk.sd#L187"
+                  >https://github.com/danswer-ai/danswer/blob/main/backend/dans...</a
+                >
+                – this flexibility is why we love Vespa as a Vector DB).
+              </p>
+              <p>
+                At query time, we preprocess the query with query-augmentation,
+                contextual-rephrasing, as well as standard techniques like
+                removing stopwords and lemmatization. Once the top documents are
+                retrieved, we ask a smaller LLM to decide which of the chunks
+                are “useful for answering the query” (this is something we
+                haven’t seen much of elsewhere, but our tests have shown to be
+                one of the biggest drivers for both precision and recall).
+                Finally the most relevant passages are passed to the LLM along
+                with the user query and chat history to produce the final
+                answer. We post-process by checking guardrails and extracting
+                citations to link the user to relevant documents. (<a
+                  href="https://github.com/danswer-ai/danswer/blob/main/backend/danswer/prompts/chat_prompts.py#L20"
+                  >https://github.com/danswer-ai/danswer/blob/main/backend/dans...</a
+                >)
+              </p>
+              <p>
+                The Vector and Keyword indices are both stored locally and the
+                NLP models run on the same instance (we’ve chosen ones that can
+                run without GPU). The only exception is that the default
+                Generative model is OpenAI’s GPT, however this can also be
+                swapped out (<a
+                  href="https://docs.danswer.dev/gen_ai_configs/overview"
+                  >https://docs.danswer.dev/gen_ai_configs/overview</a
+                >).
+              </p>
+              <p>
+                We’ve seen teams use Danswer on problems like: Improving
+                turnaround times for support by reducing time taken to find
+                relevant documentation; Helping sales teams get customer context
+                instantly by combing through calls and notes; Reducing lost
+                engineering time from answering cross-team questions, building
+                duplicate features due to inability to surface old tickets or
+                code merges, and helping on-calls resolve critical issues faster
+                by providing the complete history on an error in one place;
+                Self-serving onboarding for new members who don’t know where to
+                find information.
+              </p>
+              <p>
+                If you’d like to play around with things locally, check out the
+                quickstart guide here:
+                <a href="https://docs.danswer.dev/quickstart"
+                  >https://docs.danswer.dev/quickstart</a
+                >. If you already have Docker, you should be able to get things
+                up and running in &lt;15 minutes. And for folks who want a
+                zero-effort way of trying it out or don’t want to self-host,
+                please visit our Cloud:
+                <a href="https://www.danswer.ai/">https://www.danswer.ai/</a>
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="39467031">
           <h3>
             <a
@@ -142,11 +283,11 @@
             <h4>
               <span>2024-02-22 @ 13:51:21</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39467031"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -163,11 +304,11 @@
             <h4>
               <span>2024-02-22 @ 13:45:34</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466963"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -182,11 +323,11 @@
             <h4>
               <span>2024-02-22 @ 13:20:39</span
               ><span class="points-container"
-                >Points: <span class="points">227</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466630"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -203,7 +344,7 @@
             <h4>
               <span>2024-02-22 @ 13:00:22</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466417"
                   >Comments</a
@@ -225,7 +366,7 @@
             <h4>
               <span>2024-02-22 @ 12:42:15</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466246"
                   >Comments</a
@@ -264,7 +405,7 @@
             <h4>
               <span>2024-02-22 @ 12:15:03</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39466021"
                   >Comments</a
@@ -283,7 +424,7 @@
             <h4>
               <span>2024-02-22 @ 12:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465891"
                   >Comments</a
@@ -321,11 +462,11 @@
             <h4>
               <span>2024-02-22 @ 11:57:06</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465852"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -343,32 +484,11 @@
             <h4>
               <span>2024-02-22 @ 11:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465841"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="39465839">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/"
-              >JetBrains IDE new Terminal Interface</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-02-22 @ 11:55:32</span
-              ><span class="points-container"
-                >Points: <span class="points">82</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=39465839"
-                  >Comments</a
-                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -386,11 +506,11 @@
             <h4>
               <span>2024-02-22 @ 11:41:48</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465740"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -407,11 +527,11 @@
             <h4>
               <span>2024-02-22 @ 11:27:35</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465614"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -426,11 +546,11 @@
             <h4>
               <span>2024-02-22 @ 11:15:42</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465519"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -447,7 +567,7 @@
             <h4>
               <span>2024-02-22 @ 11:09:20</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465485"
                   >Comments</a
@@ -466,7 +586,7 @@
             <h4>
               <span>2024-02-22 @ 10:44:35</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465357"
                   >Comments</a
@@ -487,11 +607,11 @@
             <h4>
               <span>2024-02-22 @ 10:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465250"
                   >Comments</a
-                ><span class="descendants">: 429</span></span
+                ><span class="descendants">: 452</span></span
               >
             </h4>
           </section>
@@ -527,11 +647,11 @@
             <h4>
               <span>2024-02-22 @ 10:15:16</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39465230"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -548,11 +668,11 @@
             <h4>
               <span>2024-02-22 @ 04:19:22</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39463215"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -573,7 +693,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39458264"
                   >Comments</a
-                ><span class="descendants">: 438</span></span
+                ><span class="descendants">: 440</span></span
               >
             </h4>
           </section>
@@ -680,7 +800,7 @@
             <h4>
               <span>2024-02-21 @ 09:12:52</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39451685"
                   >Comments</a
@@ -705,7 +825,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39451291"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -723,11 +843,11 @@
             <h4>
               <span>2024-02-21 @ 08:12:24</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39451285"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -744,7 +864,7 @@
             <h4>
               <span>2024-02-21 @ 07:18:10</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39450987"
                   >Comments</a
@@ -766,11 +886,11 @@
             <h4>
               <span>2024-02-20 @ 22:04:47</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39447603"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -787,7 +907,7 @@
             <h4>
               <span>2024-02-20 @ 21:26:11</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39447125"
                   >Comments</a
@@ -802,11 +922,11 @@
             <h4>
               <span>2024-02-20 @ 06:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=39438577"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
