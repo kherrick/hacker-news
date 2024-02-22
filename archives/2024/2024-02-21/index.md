@@ -80,6 +80,7 @@
 * [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
 * [2024-02-21, 09:07:41](https://news.ycombinator.com/item?id=39451649) - [Trident missile test fails for a second time in a row](https://www.bbc.co.uk/news/uk-68355395)
 * [2024-02-21, 09:04:58](https://news.ycombinator.com/item?id=39451637) - [Advice I Wish I Had Known When I Built My First Payment Application](https://news.alvaroduran.com/p/advice-i-wish-i-had-known-when-i)
+* [2024-02-21, 08:13:07](https://news.ycombinator.com/item?id=39451291) - [Projected File System](https://scorpiosoftware.net/2024/02/20/projected-file-system/)
 * [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
 * [2024-02-21, 07:23:55](https://news.ycombinator.com/item?id=39451016) - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
