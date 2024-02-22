@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 17:00:56](https://news.ycombinator.com/item?id=39469864) - [Nimbus: Automatic Observability Optimization Is Hiring Founding Engineer](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
+* [2024-02-22, 16:50:09](https://news.ycombinator.com/item?id=39469716) - [YouTube addiction, one month sober](https://www.sophiajt.com/youtube-addiction-one-month-sober/)
 * [2024-02-22, 16:05:57](https://news.ycombinator.com/item?id=39469112) - [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
 * [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [What Can You Do with a 'Failed' Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
 * [2024-02-22, 15:21:39](https://news.ycombinator.com/item?id=39468387) - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
