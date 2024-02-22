@@ -6,6 +6,7 @@
 
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
+* [2024-02-22, 09:56:25](https://news.ycombinator.com/item?id=39465142) - [Ask HN: Cleanest way to manage Windows OS?](https://news.ycombinator.com/item?id=39465142)
 * [2024-02-22, 07:02:20](https://news.ycombinator.com/item?id=39464065) - [Don't dry your iPhone in a bag of rice, says Apple](https://www.bbc.com/news/technology-68357165)
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 * [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What Went Wrong at Techstars?](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)

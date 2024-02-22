@@ -2,6 +2,7 @@
 
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
+* [2024-02-22, 09:56:25](https://news.ycombinator.com/item?id=39465142) - [Ask HN: Cleanest way to manage Windows OS?](https://news.ycombinator.com/item?id=39465142)
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 * [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
 * [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
@@ -21,7 +22,6 @@
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
-* [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 09:45:26](https://news.ycombinator.com/item?id=39451861) - [The Successor to Research Unix Was Plan 9 from Bell Labs](https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/)
 * [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
 * [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
