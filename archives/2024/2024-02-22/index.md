@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
+* [2024-02-22, 23:33:27](https://news.ycombinator.com/item?id=39474847) - [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
 * [2024-02-22, 22:50:45](https://news.ycombinator.com/item?id=39474440) - [Show HN: Just hit $100k MRR with my undetectable AI](https://www.stealthgpt.ai/)
 * [2024-02-22, 22:47:53](https://news.ycombinator.com/item?id=39474414) - [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)

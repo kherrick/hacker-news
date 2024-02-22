@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
+* [2024-02-22, 23:33:27](https://news.ycombinator.com/item?id=39474847) - [Guidelines for playing bluegrass at crypto events](https://github.com/JustinHolmesMusic/.github/blob/main/stage-guidelines.md)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
-* [2024-02-22, 22:47:53](https://news.ycombinator.com/item?id=39474414) - [Htmx vs. React: A Complete Comparison – Semaphore](https://semaphoreci.com/blog/htmx-react)
 * [2024-02-22, 22:04:09](https://news.ycombinator.com/item?id=39473949) - [What ZIL metrics are exposed by (Open)ZFS on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation)
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 * [2024-02-22, 21:35:55](https://news.ycombinator.com/item?id=39473611) - [I recorded a screen capture of a task. Gemini generated code to replicate it](https://twitter.com/DynamicWebPaige/status/1760537379369304309)
@@ -15,7 +16,6 @@
 * [2024-02-22, 18:30:44](https://news.ycombinator.com/item?id=39471116) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
 * [2024-02-22, 17:37:28](https://news.ycombinator.com/item?id=39470381) - [I turned my ThinkPad into a programmable USB device](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
-* [2024-02-22, 16:45:27](https://news.ycombinator.com/item?id=39469657) - [Show HN: Strada – Cloud IDE for Connecting SaaS APIs](https://www.getstrada.com)
 * [2024-02-22, 14:49:07](https://news.ycombinator.com/item?id=39467885) - [The Billion Row Challenge (1BRC) – Step-by-Step from 71s to 1.7s](https://questdb.io/blog/billion-row-challenge-step-by-step/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
