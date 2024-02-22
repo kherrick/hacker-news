@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 01:42:12](https://news.ycombinator.com/item?id=39462087) - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
 * [2024-02-22, 01:16:07](https://news.ycombinator.com/item?id=39461879) - [\"Corolla killer:\" BYD launches $US15,000 EV in direct attack on legacy makers](https://thedriven.io/2024/02/22/corolla-killer-byd-launches-us15000-ev-in-direct-attack-on-legacy-makers/)
 * [2024-02-21, 23:40:17](https://news.ycombinator.com/item?id=39461226) - [Apple reverses course: app must pay 30% App Store fee on tips sent to teachers](https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/)
 * [2024-02-21, 22:17:07](https://news.ycombinator.com/item?id=39460409) - [Go Run](https://breadchris.com/blog/go-run/)
@@ -26,9 +27,8 @@
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
+* [2024-02-20, 12:45:53](https://news.ycombinator.com/item?id=39440557) - [Jank-Free Image Loads (2018)](https://24ways.org/2018/jank-free-image-loads/)
 * [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
-* [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
-* [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-19, 23:49:29](https://news.ycombinator.com/item?id=39436277) - ['Byron: A Life in Ten Letters': The Regency's rakish rock star](https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd)
 
 ## [Archives](archives/index.md)
