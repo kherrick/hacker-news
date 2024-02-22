@@ -61,6 +61,7 @@
 * [2024-02-21, 13:29:24](https://news.ycombinator.com/item?id=39453495) - [The data is in: RTO policies don't improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
+* [2024-02-21, 12:48:03](https://news.ycombinator.com/item?id=39453120) - [Starbucks $10 pork-flavored coffee](https://www.businessinsider.com/starbucks-pork-flavored-coffee-china-chinese-new-year-luckin-2024-2)
 * [2024-02-21, 12:40:20](https://news.ycombinator.com/item?id=39453055) - [Tech has graduated from the Star Trek era to the Douglas Adams age](https://interconnected.org/home/2024/02/21/adams)
 * [2024-02-21, 12:39:12](https://news.ycombinator.com/item?id=39453046) - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
 * [2024-02-21, 12:26:17](https://news.ycombinator.com/item?id=39452960) - [AMD's RISC CPU](https://www.youtube.com/watch?v=I5cYxLg7Vfc)
