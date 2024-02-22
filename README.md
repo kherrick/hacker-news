@@ -20,7 +20,6 @@
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
-* [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading \"A Programmer's Guide to Common Lisp\"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
@@ -29,6 +28,7 @@
 * [2024-02-21, 12:48:03](https://news.ycombinator.com/item?id=39453120) - [Starbucks $10 pork-flavored coffee](https://www.businessinsider.com/starbucks-pork-flavored-coffee-china-chinese-new-year-luckin-2024-2)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 08:10:00](https://news.ycombinator.com/item?id=39451266) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
+* [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 
 ## [Archives](archives/index.md)
