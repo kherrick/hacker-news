@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody Ever Gets Credit for Fixing Problems That Never Happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+* [2024-02-22, 20:01:37](https://news.ycombinator.com/item?id=39472289) - [Show HN: I made a multiplayer browser game](http://boxfight.xyz/)
 * [2024-02-22, 19:39:03](https://news.ycombinator.com/item?id=39471964) - [Google Secures $60M Deal for Real-Time Access to Reddit Data](https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data)
 * [2024-02-22, 19:35:40](https://news.ycombinator.com/item?id=39471920) - [Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome](https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome)
 * [2024-02-22, 19:08:04](https://news.ycombinator.com/item?id=39471568) - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
