@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
-* [2024-02-22, 21:34:37](https://news.ycombinator.com/item?id=39473592) - [Google Pay app will no longer be available](https://support.google.com/googlepay/answer/14555219?hl=en)
+* [2024-02-22, 21:35:55](https://news.ycombinator.com/item?id=39473611) - [I recorded a screen capture of a task. Gemini generated code to replicate it](https://twitter.com/DynamicWebPaige/status/1760537379369304309)
 * [2024-02-22, 21:24:09](https://news.ycombinator.com/item?id=39473466) - [Apple Pkl](https://github.com/apple/pkl)
 * [2024-02-22, 21:23:16](https://news.ycombinator.com/item?id=39473455) - [SQL Reunion: People, Projects, and Politics (1995)](https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
 * [2024-02-22, 21:01:00](https://news.ycombinator.com/item?id=39473170) - [Reflex (YC W23) is hiring SWEs to work on open-source Python web apps](https://news.ycombinator.com/item?id=39473170)
