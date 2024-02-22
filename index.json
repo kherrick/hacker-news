@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=39472790"
     ],
     [
-      "Xerion: Neural Network Simulator",
+      "Xerion: Neural Network Simulator (1995)",
       "https://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/xerion/0.html"
     ]
   ],
@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2024-02-22, 19:39:03",
-      "https://news.ycombinator.com/item?id=39471964"
-    ],
-    [
-      "Google cut a deal with Reddit for AI training data",
-      "https://www.theverge.com/2024/2/22/24080165/google-reddit-ai-training-data"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 19:35:40",
       "https://news.ycombinator.com/item?id=39471920"
     ],
     [
       "Sweeping chronic fatigue study brings clues, not clarity to mysterious syndrome",
       "https://www.science.org/content/article/sweeping-chronic-fatigue-study-brings-clues-not-clarity-mysterious-syndrome"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 19:08:04",
-      "https://news.ycombinator.com/item?id=39471568"
-    ],
-    [
-      "Our Company Is Doing So Well That You're All Fired",
-      "https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-02-22, 14:55:07",
+      "https://news.ycombinator.com/item?id=39467975"
+    ],
+    [
+      "Polypane 18: Introducing Polypane Portal",
+      "https://polypane.app/blog/polypane-18-introducing-polypane-portal/"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 14:49:07",
       "https://news.ycombinator.com/item?id=39467885"
     ],
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2024-02-22, 11:15:42",
-      "https://news.ycombinator.com/item?id=39465519"
+      "2024-02-22, 11:55:51",
+      "https://news.ycombinator.com/item?id=39465841"
     ],
     [
-      "A peek at Intel's future foundry tech",
-      "https://spectrum.ieee.org/intel-18a"
+      "How to optimally trap points in high-dimensional spaces inside ellipsoids",
+      "https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2024-02-21, 09:26:37",
+      "https://news.ycombinator.com/item?id=39451757"
+    ],
+    [
+      "United Biscuits Network",
+      "https://en.wikipedia.org/wiki/United_Biscuits_Network"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 08:43:00",
       "https://news.ycombinator.com/item?id=39451480"
     ],
     [
-      "It's 29 Delphi, I mean",
+      "It's 29—Delphi, I mean",
       "https://blog.marcocantu.com/blog/2024-february-29-delphi.html"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=39451266"
     ],
     [
-      "MMU-Less Systems and Fdpic",
+      "MMU-less systems and FDPIC",
       "https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic"
     ]
   ],
