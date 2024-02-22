@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 12:55:23](https://news.ycombinator.com/item?id=39466384) - [More men are heading to Turkey to cure their baldness, but is it safe? [video]](https://www.youtube.com/watch?v=Ra_SK2fBt0w)
+* [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Neural nets fail on formal languages because the solutions aren't loss optima](https://arxiv.org/abs/2402.10013)
 * [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) Is Hiring a Product Engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
