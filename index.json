@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-02-22, 10:21:34",
-      "https://news.ycombinator.com/item?id=39465255"
-    ],
-    [
-      "Google to Pause Gemini Image Generation of People After Issues",
-      "https://twitter.com/Google_Comms/status/1760603321944121506"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 10:19:50",
       "https://news.ycombinator.com/item?id=39465250"
     ],
     [
-      "Google to Pause Gemini Image Generation of People After Issues",
+      "Google to pause Gemini image generation of people after issues",
       "https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh"
     ]
   ],
@@ -27,6 +17,16 @@
     [
       "Ask HN: Cleanest way to manage Windows OS?",
       "https://news.ycombinator.com/item?id=39465142"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 04:34:34",
+      "https://news.ycombinator.com/item?id=39463296"
+    ],
+    [
+      "YouTube dominates TV streaming in US, per Nielsen's latest report",
+      "https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-02-21, 19:54:07",
-      "https://news.ycombinator.com/item?id=39458636"
-    ],
-    [
-      "Moving a billion Postgres rows on a $100 budget",
-      "https://blog.peerdb.io/moving-a-billion-postgres-rows-on-a-100-budget"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 19:31:44",
       "https://news.ycombinator.com/item?id=39458363"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-02-21, 17:00:17",
-      "https://news.ycombinator.com/item?id=39456335"
-    ],
-    [
-      "Strawberry Pop-Tart Blow-Torches (1994)",
-      "https://www.pmichaud.com/toast/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 16:49:00",
       "https://news.ycombinator.com/item?id=39456140"
     ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-02-21, 13:43:34",
+      "https://news.ycombinator.com/item?id=39453660"
+    ],
+    [
+      "iMessage with PQ3 Cryptographic Protocol",
+      "https://security.apple.com/blog/imessage-pq3/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 13:18:13",
       "https://news.ycombinator.com/item?id=39453402"
     ],
@@ -207,6 +197,16 @@
     [
       "Gemma: New Open Models",
       "https://blog.google/technology/developers/gemma-open-models/"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 11:20:49",
+      "https://news.ycombinator.com/item?id=39452494"
+    ],
+    [
+      "Insecure vehicles should be banned, not security tools like the Flipper Zero",
+      "https://saveflipper.ca/"
     ]
   ],
   [
