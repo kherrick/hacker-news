@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [What Can You Do with a 'Failed' Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
 * [2024-02-22, 15:21:39](https://news.ycombinator.com/item?id=39468387) - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
 * [2024-02-22, 14:59:55](https://news.ycombinator.com/item?id=39468057) - ['It has gotten out of hand': wage theft rampant in US construction](https://www.theguardian.com/us-news/2024/feb/14/construction-worker-unions-wage-theft)
 * [2024-02-22, 14:55:07](https://news.ycombinator.com/item?id=39467975) - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
@@ -13,6 +14,7 @@
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 * [2024-02-22, 13:51:21](https://news.ycombinator.com/item?id=39467031) - [AT&T customers hit by widespread cellular outages in U.S.](https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938)
 * [2024-02-22, 13:45:34](https://news.ycombinator.com/item?id=39466963) - [AT&T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
+* [2024-02-22, 13:38:46](https://news.ycombinator.com/item?id=39466851) - [Africa is building a Great Green Wall to prevent expansion of the Sahara](https://www.youtube.com/watch?v=WCli0gyNwL0)
 * [2024-02-22, 13:33:27](https://news.ycombinator.com/item?id=39466788) - [New Leak Shows Business Side of China's Apt Menace](https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
