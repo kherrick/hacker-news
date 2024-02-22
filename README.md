@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 02:06:29](https://news.ycombinator.com/item?id=39462253) - [Japan's Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
 * [2024-02-22, 01:51:43](https://news.ycombinator.com/item?id=39462149) - [ChatGPT Is Funnier Than You](https://nautil.us/chatgpt-is-funnier-than-you-517984/)
 * [2024-02-22, 01:42:12](https://news.ycombinator.com/item?id=39462087) - [OpenAI postmortem – Unexpected responses from ChatGPT](https://status.openai.com/incidents/ssg8fh7sfyz3)
 * [2024-02-22, 01:16:07](https://news.ycombinator.com/item?id=39461879) - [\"Corolla killer:\" BYD launches $US15,000 EV in direct attack on legacy makers](https://thedriven.io/2024/02/22/corolla-killer-byd-launches-us15000-ev-in-direct-attack-on-legacy-makers/)
@@ -15,7 +16,6 @@
 * [2024-02-21, 16:50:47](https://news.ycombinator.com/item?id=39456175) - [Algebraic effects, ownership, and borrowing](https://antelang.org/blog/effects_ownership_and_borrowing/)
 * [2024-02-21, 16:46:19](https://news.ycombinator.com/item?id=39456113) - [Show HN: NotesOllama – I added local LLM support to Apple Notes (through Ollama)](https://smallest.app/notesollama/)
 * [2024-02-21, 16:28:59](https://news.ycombinator.com/item?id=39455874) - [How the GNU coreutils are tested (2017)](http://www.pixelbeat.org/docs/coreutils-testing.html)
-* [2024-02-21, 13:45:52](https://news.ycombinator.com/item?id=39453695) - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://junzhan2000.github.io/AnyGPT.github.io/)
 * [2024-02-21, 13:43:34](https://news.ycombinator.com/item?id=39453660) - [iMessage with PQ3 Cryptographic Protocol](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 13:40:03](https://news.ycombinator.com/item?id=39453622) - [Things I don't know about AI](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
