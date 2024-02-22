@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 14:59:55](https://news.ycombinator.com/item?id=39468057) - ['It has gotten out of hand': wage theft rampant in US construction](https://www.theguardian.com/us-news/2024/feb/14/construction-worker-unions-wage-theft)
+* [2024-02-22, 14:55:07](https://news.ycombinator.com/item?id=39467975) - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
 * [2024-02-22, 14:21:12](https://news.ycombinator.com/item?id=39467434) - [Yale will again require standardized test scores for admission](https://www.washingtonpost.com/education/2024/02/22/yale-sat-act-admissions-requirement-reinstated/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
