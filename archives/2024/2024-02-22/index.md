@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 16:05:57](https://news.ycombinator.com/item?id=39469112) - [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
 * [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [What Can You Do with a 'Failed' Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
 * [2024-02-22, 15:21:39](https://news.ycombinator.com/item?id=39468387) - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
 * [2024-02-22, 14:59:55](https://news.ycombinator.com/item?id=39468057) - ['It has gotten out of hand': wage theft rampant in US construction](https://www.theguardian.com/us-news/2024/feb/14/construction-worker-unions-wage-theft)

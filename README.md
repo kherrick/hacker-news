@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 16:05:57](https://news.ycombinator.com/item?id=39469112) - [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
 * [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [What Can You Do with a 'Failed' Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)
 * [2024-02-22, 15:21:39](https://news.ycombinator.com/item?id=39468387) - [Show HN: Released Chartbrew v3.0 an open source client reporting platform](https://github.com/chartbrew/chartbrew/releases/tag/v3.0.0)
 * [2024-02-22, 14:55:07](https://news.ycombinator.com/item?id=39467975) - [Polypane 18: Introducing Polypane Portal](https://polypane.app/blog/polypane-18-introducing-polypane-portal/)
@@ -11,7 +12,6 @@
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading \"A Programmer's Guide to Common Lisp\"](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
-* [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Bridging empirical-theoretical gap in neural network formal language learning](https://arxiv.org/abs/2402.10013)
 * [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) is hiring a product engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
