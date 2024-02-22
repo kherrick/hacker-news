@@ -85,6 +85,7 @@
 * [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29 Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
 * [2024-02-21, 08:13:07](https://news.ycombinator.com/item?id=39451291) - [Projected File System](https://scorpiosoftware.net/2024/02/20/projected-file-system/)
 * [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
+* [2024-02-21, 08:10:00](https://news.ycombinator.com/item?id=39451266) - [MMU-Less Systems and Fdpic](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 07:23:55](https://news.ycombinator.com/item?id=39451016) - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
 * [2024-02-21, 07:07:24](https://news.ycombinator.com/item?id=39450943) - [So You Want to Ship a Command-Line Tool for macOS](https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/)

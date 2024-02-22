@@ -8,7 +8,6 @@
 * [2024-02-22, 18:37:52](https://news.ycombinator.com/item?id=39471203) - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
 * [2024-02-22, 18:36:52](https://news.ycombinator.com/item?id=39471188) - [Linaro at FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
 * [2024-02-22, 18:30:44](https://news.ycombinator.com/item?id=39471116) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
-* [2024-02-22, 17:45:07](https://news.ycombinator.com/item?id=39470506) - [Codeweavers released CrossOver 24 today](https://www.codeweavers.com/store/?)
 * [2024-02-22, 17:37:28](https://news.ycombinator.com/item?id=39470381) - [I turned my ThinkPad into a programmable USB device](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 17:00:56](https://news.ycombinator.com/item?id=39469864) - [Nimbus (YC W21, Observability Optimization) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/nimbus-3/jobs/TgQFIkz-founding-engineer)
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
@@ -29,6 +28,7 @@
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 09:26:37](https://news.ycombinator.com/item?id=39451757) - [United Biscuits Network](https://en.wikipedia.org/wiki/United_Biscuits_Network)
 * [2024-02-21, 08:43:00](https://news.ycombinator.com/item?id=39451480) - [It's 29 Delphi, I mean](https://blog.marcocantu.com/blog/2024-february-29-delphi.html)
+* [2024-02-21, 08:10:00](https://news.ycombinator.com/item?id=39451266) - [MMU-Less Systems and Fdpic](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 
 ## [Archives](archives/index.md)
