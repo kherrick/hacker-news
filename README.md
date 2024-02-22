@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
-* [2024-02-22, 03:51:40](https://news.ycombinator.com/item?id=39463041) - [Show HN: Sapling is a business-ready TypeScript, Express.js, React boilerplate](https://sapling.bumpkin.solutions)
 * [2024-02-22, 03:39:04](https://news.ycombinator.com/item?id=39462947) - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
 * [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
 * [2024-02-22, 02:41:29](https://news.ycombinator.com/item?id=39462516) - [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
@@ -19,6 +18,7 @@
 * [2024-02-21, 16:49:00](https://news.ycombinator.com/item?id=39456140) - [The funding frenzy at Anthropic](https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html)
 * [2024-02-21, 16:48:21](https://news.ycombinator.com/item?id=39456135) - [Encoding tic-tac-toe in 15 bits](https://cbarrick.dev/posts/2024/02/19/tic-tac-toe)
 * [2024-02-21, 16:31:36](https://news.ycombinator.com/item?id=39455915) - [Nuclear SMR welding breakthrough](https://newatlas.com/energy/nuclear-reactor-weld-one-day/)
+* [2024-02-21, 16:20:52](https://news.ycombinator.com/item?id=39455750) - [Stephen Wolfram – 4-Hour Conversational Documentary on My Entire Arc of Life [video]](https://www.youtube.com/watch?v=VOFSllSc354)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
