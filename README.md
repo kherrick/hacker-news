@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-22, 13:33:27](https://news.ycombinator.com/item?id=39466788) - [New Leak Shows Business Side of China's Apt Menace](https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
@@ -10,9 +11,9 @@
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [How to optimally trap points in high-dimensional spaces inside ellipsoids](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465839) - [JetBrains IDE new Terminal Interface](https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
+* [2024-02-22, 11:40:41](https://news.ycombinator.com/item?id=39465727) - [APL – A Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
 * [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [GIMP 2.99.18: The last development preview before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A peek at Intel's future foundry tech](https://spectrum.ieee.org/intel-18a)
-* [2024-02-22, 11:10:56](https://news.ycombinator.com/item?id=39465498) - [Scientists discover underlying cause of \"brain fog\" linked with Long Covid](https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-22, 10:44:35](https://news.ycombinator.com/item?id=39465357) - [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to pause Gemini image generation of people after issues](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
@@ -28,7 +29,6 @@
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
 * [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
-* [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Inside Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
 * [2024-02-20, 06:31:04](https://news.ycombinator.com/item?id=39438577) - [Re2c](https://re2c.org/index.html)
 
 ## [Archives](archives/index.md)

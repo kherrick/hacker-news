@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 13:33:27](https://news.ycombinator.com/item?id=39466788) - [New Leak Shows Business Side of China's Apt Menace](https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:55:23](https://news.ycombinator.com/item?id=39466384) - [More men are heading to Turkey to cure their baldness, but is it safe? [video]](https://www.youtube.com/watch?v=Ra_SK2fBt0w)
@@ -15,6 +16,7 @@
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [Minimum Volume Ellipsoid](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:55:32](https://news.ycombinator.com/item?id=39465839) - [JetBrains IDE new Terminal Interface](https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
+* [2024-02-22, 11:40:41](https://news.ycombinator.com/item?id=39465727) - [APL – A Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
 * [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
