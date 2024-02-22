@@ -24,6 +24,7 @@
 * [2024-02-20, 20:14:59](https://news.ycombinator.com/item?id=39446305) - [Open Source Encryption for SQLite](https://blog.turso.tech/fully-open-source-encryption-for-sqlite-b3858225)
 * [2024-02-20, 20:13:18](https://news.ycombinator.com/item?id=39446282) - [A modest proposal for reducing mail traffic (1996)](https://cr.yp.to/sarcasm/modest-proposal.txt)
 * [2024-02-20, 19:48:03](https://news.ycombinator.com/item?id=39445997) - [Study suggests a 'dark mirror' universe within ours where atoms failed to form](https://www.livescience.com/space/cosmology/there-may-be-a-dark-mirror-universe-within-ours-where-atoms-failed-to-form-new-study-suggests)
+* [2024-02-20, 19:43:16](https://news.ycombinator.com/item?id=39445926) - [Panama Canal expansion rewrites history of worlds most ecologically diverse bats](https://phys.org/news/2024-02-panama-canal-expansion-rewrites-history.html)
 * [2024-02-20, 19:27:38](https://news.ycombinator.com/item?id=39445713) - [Saturn's largest moon most likely uninhabitable](https://phys.org/news/2024-02-saturn-largest-moon-uninhabitable.html)
 * [2024-02-20, 18:38:38](https://news.ycombinator.com/item?id=39445029) - [Yes Prime Minister, questionnaire design matters](https://www.ipsos.com/en-uk/yes-prime-minister-questionnaire-design-matters)
 * [2024-02-20, 18:36:15](https://news.ycombinator.com/item?id=39444995) - [Moore's Scofflaws](https://oxide.computer/blog/moores-scofflaws)

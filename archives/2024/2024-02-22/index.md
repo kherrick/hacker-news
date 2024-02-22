@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 03:27:07](https://news.ycombinator.com/item?id=39462851) - [Blue Origin has emerged as the likely buyer for United Launch Alliance](https://arstechnica.com/space/2024/02/blue-origin-has-emerged-as-the-likely-buyer-for-united-launch-alliance/)
 * [2024-02-22, 03:01:27](https://news.ycombinator.com/item?id=39462662) - [Google to fix AI picture bot after 'woke' criticism](https://www.bbc.com/news/business-68364690)
 * [2024-02-22, 02:41:29](https://news.ycombinator.com/item?id=39462516) - [Things Unexpectedly Named After People](https://notes.rolandcrosby.com/posts/unexpectedly-eponymous/)
 * [2024-02-22, 02:06:29](https://news.ycombinator.com/item?id=39462253) - [Japan's Nikkei surpasses 1989 all-time high](https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html)
