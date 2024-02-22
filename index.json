@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-02-21, 23:40:17",
-      "https://news.ycombinator.com/item?id=39461226"
-    ],
-    [
-      "Apple reverses course: app must pay 30% App Store fee on tips sent to teachers",
-      "https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 22:17:07",
       "https://news.ycombinator.com/item?id=39460409"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2024-02-21, 16:48:21",
+      "https://news.ycombinator.com/item?id=39456135"
+    ],
+    [
+      "Encoding tic-tac-toe in 15 bits",
+      "https://cbarrick.dev/posts/2024/02/19/tic-tac-toe"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 16:46:19",
       "https://news.ycombinator.com/item?id=39456113"
     ],
@@ -147,16 +147,6 @@
     [
       "How the GNU coreutils are tested (2017)",
       "http://www.pixelbeat.org/docs/coreutils-testing.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:42:49",
-      "https://news.ycombinator.com/item?id=39455167"
-    ],
-    [
-      "Parsing: The Solved Problem That Isn't (2011)",
-      "https://tratt.net/laurie/blog/2011/parsing_the_solved_problem_that_isnt.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Windows Product Activation (2001)",
       "https://www.licenturion.com/xp/fully-licensed-wpa.txt"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 07:09:43",
+      "https://news.ycombinator.com/item?id=39438735"
+    ],
+    [
+      "Code Verify: An open source browser extension for verifying code authenticity",
+      "https://engineering.fb.com/2022/03/10/security/code-verify/"
     ]
   ],
   [
