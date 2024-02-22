@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 13:51:21](https://news.ycombinator.com/item?id=39467031) - [AT&T customers hit by widespread cellular outages in U.S.](https://www.nbcnews.com/news/us-news/t-verizon-t-mobile-customers-hit-widespread-cellular-outages-us-rcna139938)
+* [2024-02-22, 13:45:34](https://news.ycombinator.com/item?id=39466963) - [AT&T customers report nationwide service disruptions](https://www.theverge.com/2024/2/22/24079910/att-network-outage-sos-mode)
 * [2024-02-22, 13:33:27](https://news.ycombinator.com/item?id=39466788) - [New Leak Shows Business Side of China's Apt Menace](https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:55:23](https://news.ycombinator.com/item?id=39466384) - [More men are heading to Turkey to cure their baldness, but is it safe? [video]](https://www.youtube.com/watch?v=Ra_SK2fBt0w)
+* [2024-02-22, 12:42:15](https://news.ycombinator.com/item?id=39466246) - [A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
 * [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Neural nets fail on formal languages because the solutions aren't loss optima](https://arxiv.org/abs/2402.10013)
 * [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
