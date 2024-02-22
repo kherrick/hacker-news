@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-02-22, 12:15:03",
+      "https://news.ycombinator.com/item?id=39466021"
+    ],
+    [
+      "Neural nets fail on formal languages because the solutions aren't loss optima",
+      "https://arxiv.org/abs/2402.10013"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 12:01:42",
+      "https://news.ycombinator.com/item?id=39465891"
+    ],
+    [
+      "SN Pro Typeface",
+      "https://supernotes.app/open-source/sn-pro/"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 12:00:36",
       "https://news.ycombinator.com/item?id=39465878"
     ],
     [
-      "Stepful (YC S21) Is Hiring a Product Engineer in New York",
+      "Stepful (YC S21) is hiring a product engineer in New York",
       "https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:57:06",
+      "https://news.ycombinator.com/item?id=39465852"
+    ],
+    [
+      "The mothers fighting a scandal bigger than thalidomide",
+      "https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe"
     ]
   ],
   [
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39465841"
     ],
     [
-      "Minimum Volume Ellipsoid",
+      "How to optimally trap points in high-dimensional spaces inside ellipsoids",
       "https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=39465614"
     ],
     [
-      "Gimp 2.99.18 Released: The Last Development Preview Before 3.0",
+      "GIMP 2.99.18: The last development preview before 3.0",
       "https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/"
     ]
   ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=39465519"
     ],
     [
-      "A Peek at Intel's Future Foundry Tech",
+      "A peek at Intel's future foundry tech",
       "https://spectrum.ieee.org/intel-18a"
     ]
   ],
@@ -57,6 +87,16 @@
     [
       "Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users",
       "https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:10:56",
+      "https://news.ycombinator.com/item?id=39465498"
+    ],
+    [
+      "Scientists discover underlying cause of \"brain fog\" linked with Long Covid",
+      "https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Ask HN: Cleanest way to manage Windows OS?",
       "https://news.ycombinator.com/item?id=39465142"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 09:21:53",
-      "https://news.ycombinator.com/item?id=39464924"
-    ],
-    [
-      "Tell HN: AT&T is currently having an outage",
-      "https://news.ycombinator.com/item?id=39464924"
     ]
   ],
   [
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2024-02-21, 22:17:07",
-      "https://news.ycombinator.com/item?id=39460409"
-    ],
-    [
-      "Go run",
-      "https://breadchris.com/blog/go-run/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 21:56:14",
       "https://news.ycombinator.com/item?id=39460148"
     ],
     [
       "Atuin – Magical shell history",
       "https://atuin.sh"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 21:08:18",
-      "https://news.ycombinator.com/item?id=39459579"
-    ],
-    [
-      "An Introduction to the Theory and Practice of Poker (2020)",
-      "https://hopkinspokercourse.com/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 19:31:44",
-      "https://news.ycombinator.com/item?id=39458363"
-    ],
-    [
-      "Neural Network Diffusion",
-      "https://arxiv.org/abs/2402.13144"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Gemma: New Open Models",
       "https://blog.google/technology/developers/gemma-open-models/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 09:45:26",
-      "https://news.ycombinator.com/item?id=39451861"
-    ],
-    [
-      "The Successor to Research Unix Was Plan 9 from Bell Labs",
-      "https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Inside Windows Product Activation (2001)",
       "https://www.licenturion.com/xp/fully-licensed-wpa.txt"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 06:31:04",
+      "https://news.ycombinator.com/item?id=39438577"
+    ],
+    [
+      "Re2c",
+      "https://re2c.org/index.html"
     ]
   ],
   [
