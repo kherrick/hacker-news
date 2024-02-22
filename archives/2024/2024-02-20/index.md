@@ -105,6 +105,7 @@
 * [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
+* [2024-02-20, 06:31:04](https://news.ycombinator.com/item?id=39438577) - [Re2c](https://re2c.org/index.html)
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 * [2024-02-20, 04:05:02](https://news.ycombinator.com/item?id=39437948) - [GALA3D: Towards Text-to-3D Complex Scene Generation](https://gala3d.github.io/)
 * [2024-02-20, 03:51:28](https://news.ycombinator.com/item?id=39437873) - [Patent Absurdity](https://queue.acm.org/detail.cfm?id=3489047)

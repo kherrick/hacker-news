@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 12:15:03](https://news.ycombinator.com/item?id=39466021) - [Neural nets fail on formal languages because the solutions aren't loss optima](https://arxiv.org/abs/2402.10013)
+* [2024-02-22, 12:01:42](https://news.ycombinator.com/item?id=39465891) - [SN Pro Typeface](https://supernotes.app/open-source/sn-pro/)
 * [2024-02-22, 12:00:36](https://news.ycombinator.com/item?id=39465878) - [Stepful (YC S21) Is Hiring a Product Engineer in New York](https://www.ycombinator.com/companies/stepful/jobs/iLjGDJ0-product-engineer)
+* [2024-02-22, 11:57:06](https://news.ycombinator.com/item?id=39465852) - [The mothers fighting a scandal bigger than thalidomide](https://www.theguardian.com/society/2024/feb/22/the-mothers-fighting-a-scandal-bigger-than-thalidomide-we-were-told-the-medication-was-safe)
 * [2024-02-22, 11:55:51](https://news.ycombinator.com/item?id=39465841) - [Minimum Volume Ellipsoid](https://www.adrianriv.com/blog/2024/02/19/minimum_volume_ellipsoid/)
 * [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
 * [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
 * [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
+* [2024-02-22, 11:10:56](https://news.ycombinator.com/item?id=39465498) - [Scientists discover underlying cause of \"brain fog\" linked with Long Covid](https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/)
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to pause Gemini image generation of people after issues](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
