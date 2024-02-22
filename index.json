@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-02-22, 11:55:32",
+      "https://news.ycombinator.com/item?id=39465839"
+    ],
+    [
+      "JetBrains IDE new Terminal Interface",
+      "https://blog.jetbrains.com/idea/2024/02/the-new-terminal-beta-is-now-in-jetbrains-ides/"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 11:41:48",
       "https://news.ycombinator.com/item?id=39465740"
     ],
@@ -97,6 +107,26 @@
     [
       "Scientists discover underlying cause of \"brain fog\" linked with Long Covid",
       "https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:09:20",
+      "https://news.ycombinator.com/item?id=39465485"
+    ],
+    [
+      "Screen-free coding for children: the xylophone maze",
+      "https://20y.hu/~slink/journal/xylophone-duplo/"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 10:44:35",
+      "https://news.ycombinator.com/item?id=39465357"
+    ],
+    [
+      "LongRoPE: Extending LLM Context Window Beyond 2M Tokens",
+      "https://arxiv.org/abs/2402.13753"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2024-02-22, 02:06:29",
-      "https://news.ycombinator.com/item?id=39462253"
-    ],
-    [
-      "Japan's Nikkei surpasses 1989 all-time high",
-      "https://www.cnbc.com/2024/02/22/japans-nikkei-hits-all-time-high-on-reforms-robust-corporate-earnings.html"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 01:42:12",
       "https://news.ycombinator.com/item?id=39462087"
     ],
     [
       "Unexpected responses from ChatGPT: Incident Report",
       "https://status.openai.com/incidents/ssg8fh7sfyz3"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 21:56:14",
-      "https://news.ycombinator.com/item?id=39460148"
-    ],
-    [
-      "Atuin – Magical shell history",
-      "https://atuin.sh"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Re2c",
       "https://re2c.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 23:49:29",
-      "https://news.ycombinator.com/item?id=39436277"
-    ],
-    [
-      "'Byron: A Life in Ten Letters': The Regency's rakish rock star",
-      "https://www.wsj.com/arts-culture/books/byron-a-life-in-ten-letters-review-the-regencys-rakish-rock-star-b1157bfd"
     ]
   ]
 ]
