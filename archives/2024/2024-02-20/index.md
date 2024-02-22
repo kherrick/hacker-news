@@ -10,6 +10,7 @@
 * [2024-02-20, 23:05:57](https://news.ycombinator.com/item?id=39448154) - [Video Game Module for Flipper Zero](https://shop.flipperzero.one/products/video-game-module-for-flipper-zero)
 * [2024-02-20, 22:49:47](https://news.ycombinator.com/item?id=39448021) - [YouTube's search function is atrocious now [video]](https://www.youtube.com/watch?v=Z3dSkkEr-wk)
 * [2024-02-20, 22:41:24](https://news.ycombinator.com/item?id=39447947) - [The Windows Context Menu – Is It a Lost Cause?](https://enderman.ch/blog/the-windows-context-menu)
+* [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 * [2024-02-20, 21:18:20](https://news.ycombinator.com/item?id=39447041) - [Kagi Sidekick (Alpha)](https://sidekick.kagi.com/)
 * [2024-02-20, 21:16:26](https://news.ycombinator.com/item?id=39447024) - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
