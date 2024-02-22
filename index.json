@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-02-22, 11:41:48",
+      "https://news.ycombinator.com/item?id=39465740"
+    ],
+    [
+      "Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support",
+      "https://github.com/ory/kratos/releases/tag/v1.1.0"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:27:35",
+      "https://news.ycombinator.com/item?id=39465614"
+    ],
+    [
+      "Gimp 2.99.18 Released: The Last Development Preview Before 3.0",
+      "https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:15:42",
+      "https://news.ycombinator.com/item?id=39465519"
+    ],
+    [
+      "A Peek at Intel's Future Foundry Tech",
+      "https://spectrum.ieee.org/intel-18a"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 11:15:05",
+      "https://news.ycombinator.com/item?id=39465517"
+    ],
+    [
+      "Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users",
+      "https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 10:19:50",
       "https://news.ycombinator.com/item?id=39465250"
     ],
@@ -17,16 +57,6 @@
     [
       "Ask HN: Cleanest way to manage Windows OS?",
       "https://news.ycombinator.com/item?id=39465142"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 04:34:34",
-      "https://news.ycombinator.com/item?id=39463296"
-    ],
-    [
-      "YouTube dominates TV streaming in US, per Nielsen's latest report",
-      "https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2024-02-21, 16:31:36",
-      "https://news.ycombinator.com/item?id=39455915"
-    ],
-    [
-      "Nuclear SMR welding breakthrough",
-      "https://newatlas.com/energy/nuclear-reactor-weld-one-day/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 13:43:34",
-      "https://news.ycombinator.com/item?id=39453660"
-    ],
-    [
-      "iMessage with PQ3 Cryptographic Protocol",
-      "https://security.apple.com/blog/imessage-pq3/"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 13:18:13",
       "https://news.ycombinator.com/item?id=39453402"
     ],
@@ -197,16 +207,6 @@
     [
       "Gemma: New Open Models",
       "https://blog.google/technology/developers/gemma-open-models/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 11:20:49",
-      "https://news.ycombinator.com/item?id=39452494"
-    ],
-    [
-      "Insecure vehicles should be banned, not security tools like the Flipper Zero",
-      "https://saveflipper.ca/"
     ]
   ],
   [
