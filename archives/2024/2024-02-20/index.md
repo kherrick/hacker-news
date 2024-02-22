@@ -62,6 +62,7 @@
 * [2024-02-20, 13:40:30](https://news.ycombinator.com/item?id=39441088) - [I was deliberately infected with Zika to test a vaccine](https://worksinprogress.co/issue/life-in-the-time-of-zika/)
 * [2024-02-20, 13:36:13](https://news.ycombinator.com/item?id=39441034) - [X suspends the account of Yulia Navalnaya](https://www.timesofisrael.com/liveblog_entry/x-suspends-the-account-of-yulia-navalnaya-widow-of-the-russian-opposition-leader/)
 * [2024-02-20, 13:17:01](https://news.ycombinator.com/item?id=39440808) - [Fast memory vulnerabilities, written in 100% safe Rust](https://github.com/Speykious/cve-rs)
+* [2024-02-20, 13:16:35](https://news.ycombinator.com/item?id=39440804) - [A decent VS Code and Ruby on Rails setup](https://railsnotes.xyz/blog/vscode-rails-setup)
 * [2024-02-20, 13:07:22](https://news.ycombinator.com/item?id=39440738) - [Alexei Navalny's wife Yulia Navalnaya has X social media account suspended](https://news.sky.com/story/alexei-navalnys-wife-yulia-navalnaya-has-x-social-media-account-suspended-13076185)
 * [2024-02-20, 13:03:15](https://news.ycombinator.com/item?id=39440712) - [X.org Server Clears Out Remnants for Supporting Old Compilers](https://www.phoronix.com/news/XServer-Clear-Out-Old-Compilers)
 * [2024-02-20, 12:45:53](https://news.ycombinator.com/item?id=39440557) - [Jank-Free Image Loads (2018)](https://24ways.org/2018/jank-free-image-loads/)
