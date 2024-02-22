@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-22, 07:02:20](https://news.ycombinator.com/item?id=39464065) - [Don't dry your iPhone in a bag of rice, says Apple](https://www.bbc.com/news/technology-68357165)
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 * [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What went wrong at Techstars](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
 * [2024-02-22, 03:39:04](https://news.ycombinator.com/item?id=39462947) - [A Python Library to 6-7x the inference speed of your HF models](https://github.com/MDK8888/GPTFast)
@@ -24,6 +23,7 @@
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 09:12:52](https://news.ycombinator.com/item?id=39451685) - [From Fill Prefix to TRAMP](https://susam.net/from-fill-prefix-to-tramp.html)
+* [2024-02-21, 08:12:24](https://news.ycombinator.com/item?id=39451285) - [Use of decimal point is 1.5 centuries older than historians thought](https://phys.org/news/2024-02-decimal-centuries-older-historians-thought.html)
 * [2024-02-21, 07:18:10](https://news.ycombinator.com/item?id=39450987) - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
 * [2024-02-21, 07:04:32](https://news.ycombinator.com/item?id=39450925) - [Delegating tasks to Fly Machines](https://fly.io/blog/delegate-tasks-to-fly-machines/)
 * [2024-02-20, 21:26:11](https://news.ycombinator.com/item?id=39447125) - [My Favorite Statistical Measure: Hoeffding's D](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
