@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 11:41:48](https://news.ycombinator.com/item?id=39465740) - [Show HN: Auth0 OSS alternative Ory Kratos now with passwordless and SMS support](https://github.com/ory/kratos/releases/tag/v1.1.0)
+* [2024-02-22, 11:27:35](https://news.ycombinator.com/item?id=39465614) - [Gimp 2.99.18 Released: The Last Development Preview Before 3.0](https://www.gimp.org/news/2024/02/21/gimp-2-99-18-released/)
+* [2024-02-22, 11:15:42](https://news.ycombinator.com/item?id=39465519) - [A Peek at Intel's Future Foundry Tech](https://spectrum.ieee.org/intel-18a)
+* [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
 * [2024-02-22, 09:56:25](https://news.ycombinator.com/item?id=39465142) - [Ask HN: Cleanest way to manage Windows OS?](https://news.ycombinator.com/item?id=39465142)
