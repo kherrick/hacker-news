@@ -97,6 +97,7 @@
 * [2024-02-20, 07:35:29](https://news.ycombinator.com/item?id=39438861) - [Microsoft's Commitment to Azure IoT](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-s-commitment-to-azure-iot/ba-p/4059725)
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
+* [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-20, 04:48:14](https://news.ycombinator.com/item?id=39438155) - [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)

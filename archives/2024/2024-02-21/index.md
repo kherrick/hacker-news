@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 23:40:17](https://news.ycombinator.com/item?id=39461226) - [Apple reverses course: app must pay 30% App Store fee on tips sent to teachers](https://9to5mac.com/2024/02/21/insight-timer-meditation-app-store-rules/)
 * [2024-02-21, 22:56:01](https://news.ycombinator.com/item?id=39460788) - [Tell HN: To be honest.. GPT copilots aren't that great for programming](https://news.ycombinator.com/item?id=39460788)
 * [2024-02-21, 22:34:05](https://news.ycombinator.com/item?id=39460558) - [The Lost Art of Single-Tasking](https://simone.org/single-tasking/)
 * [2024-02-21, 22:22:05](https://news.ycombinator.com/item?id=39460455) - [European Court of Human Rights declares backdoored encryption is illegal](https://www.theregister.com/2024/02/15/echr_backdoor_encryption/)
