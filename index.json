@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-23, 09:14:59",
+      "https://news.ycombinator.com/item?id=39478551"
+    ],
+    [
+      "Intel Processor Instability Causing Oodle Decompression Failures",
+      "https://www.radgametools.com/oodleintel.htm"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 07:22:42",
       "https://news.ycombinator.com/item?id=39477848"
     ],
@@ -57,16 +67,6 @@
     [
       "A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes",
       "https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 01:44:10",
-      "https://news.ycombinator.com/item?id=39475863"
-    ],
-    [
-      "The Fed Is Behind the Capital One/Discover Merger",
-      "https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover"
     ]
   ],
   [
