@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 13:24:08](https://news.ycombinator.com/item?id=39480257) - [US intelligence casts doubt on Israeli claims of UNRWA-Hamas links, report says](https://www.theguardian.com/world/2024/feb/22/us-intelligence-unrwa-hamas)
+* [2024-02-23, 13:57:56](https://news.ycombinator.com/item?id=39480608) - [Stuff Happening at Dropbox](https://twitter.com/ghosttyped/status/1760734197311000828)
+* [2024-02-23, 13:49:02](https://news.ycombinator.com/item?id=39480513) - [High Interest Savings Leaderboard](https://www.highinterest.io/)
+* [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
 * [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 * [2024-02-23, 11:32:52](https://news.ycombinator.com/item?id=39479361) - [Ask HN: Does procrastination advice help you?](https://news.ycombinator.com/item?id=39479361)
@@ -8,7 +10,6 @@
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
-* [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
@@ -28,7 +29,6 @@
 * [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
-* [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 
 ## [Archives](archives/index.md)
