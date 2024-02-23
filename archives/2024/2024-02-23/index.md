@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 17:42:13](https://news.ycombinator.com/item?id=39483712) - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)
 * [2024-02-23, 17:25:12](https://news.ycombinator.com/item?id=39483504) - [Tesla cancels $16K pie order at last minute leaving CA bakery owner high and dry](https://nypost.com/2024/02/22/business/tesla-cancels-16k-pie-order-at-last-minute-leaving-california-bakery-owner-high-and-dry/)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 17:00:05](https://news.ycombinator.com/item?id=39483125) - [Salient (YC W23) Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
@@ -12,7 +13,9 @@
 * [2024-02-23, 16:00:53](https://news.ycombinator.com/item?id=39482246) - [Leaked Files Show the Secret World of China's Hackers for Hire](https://www.nytimes.com/2024/02/22/business/china-leaked-files.html)
 * [2024-02-23, 15:56:57](https://news.ycombinator.com/item?id=39482175) - [Apple reverses decision to not take 30% of donations to Insight Timer's teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
 * [2024-02-23, 15:42:07](https://news.ycombinator.com/item?id=39481948) - [A Peek Inside a 'Scam Manual' Written to Help Immigrants Not Become Victims](https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists)
+* [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub Commits and How to Reveal Them](https://neodyme.io/en/blog/github_secrets/)
 * [2024-02-23, 15:33:41](https://news.ycombinator.com/item?id=39481824) - [AI Is in the Midst of a Fever Dream and It's Only Getting Worse](https://gizmodo.com/ai-fever-dream-it-s-only-getting-worse-1851279436)
+* [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Dog 'Language Geniuses' Are Rare but Apparently Real](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
 * [2024-02-23, 15:30:01](https://news.ycombinator.com/item?id=39481774) - [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt)
 * [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
