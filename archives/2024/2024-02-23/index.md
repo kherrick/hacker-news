@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 03:44:14](https://news.ycombinator.com/item?id=39476695) - [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
+* [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-23, 03:07:35](https://news.ycombinator.com/item?id=39476491) - [Landlords Are Enforcing No-Sex Tenancy Clauses Now](https://www.vice.com/en/article/n7ema8/no-sex-tenancy-clauses-landlords)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:02:31](https://news.ycombinator.com/item?id=39476015) - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
