@@ -24,6 +24,7 @@
 * [2024-02-22, 19:08:04](https://news.ycombinator.com/item?id=39471568) - [Our Company Is Doing So Well That You're All Fired](https://www.mcsweeneys.net/articles/our-company-is-doing-so-well-that-youre-all-fired)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 * [2024-02-22, 18:47:58](https://news.ycombinator.com/item?id=39471317) - [Expanding Our Partnership with Google](https://www.redditinc.com/blog/reddit-and-google-expand-partnership)
+* [2024-02-22, 18:39:42](https://news.ycombinator.com/item?id=39471221) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 18:37:52](https://news.ycombinator.com/item?id=39471203) - [New code for SIGILL faults to help identify misbranches on OpenBSD](https://www.undeadly.org/cgi?action=article;sid=20240222183703)
 * [2024-02-22, 18:36:52](https://news.ycombinator.com/item?id=39471188) - [Linaro FOSDEM 2024](https://www.linaro.org/blog/linaro-fosdem-2024/)
 * [2024-02-22, 18:30:44](https://news.ycombinator.com/item?id=39471116) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
