@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 05:46:55](https://news.ycombinator.com/item?id=39477389) - [60% of OpenAI model's responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
 * [2024-02-23, 04:22:46](https://news.ycombinator.com/item?id=39476941) - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 * [2024-02-23, 03:44:14](https://news.ycombinator.com/item?id=39476695) - [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
 * [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
