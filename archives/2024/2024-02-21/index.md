@@ -60,6 +60,7 @@
 * [2024-02-21, 13:31:40](https://news.ycombinator.com/item?id=39453524) - [GaussianObject: Just Taking Four Images to Get a High-Quality 3D Object](https://gaussianobject.github.io/)
 * [2024-02-21, 13:30:45](https://news.ycombinator.com/item?id=39453513) - [Hetzner Brings Back GPU Servers](https://old.reddit.com/r/hetzner/comments/1avjy65/hetzner_brings_back_gpu_servers/)
 * [2024-02-21, 13:29:24](https://news.ycombinator.com/item?id=39453495) - [The data is in: RTO policies don't improve employee performance or company value](https://www.businessinsider.com/rto-policies-dont-improve-employee-performance-company-value-controlling-bosses-2024-1)
+* [2024-02-21, 13:26:47](https://news.ycombinator.com/item?id=39453468) - [Darwin Online has virtually reassembled the naturalist's personal library](https://arstechnica.com/science/2024/02/you-can-now-browse-charles-darwins-complete-personal-library-online/)
 * [2024-02-21, 13:18:13](https://news.ycombinator.com/item?id=39453402) - [Launch HN: Retell AI (YC W24) – Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402)
 * [2024-02-21, 13:03:53](https://news.ycombinator.com/item?id=39453271) - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 * [2024-02-21, 12:48:03](https://news.ycombinator.com/item?id=39453120) - [Starbucks $10 pork-flavored coffee](https://www.businessinsider.com/starbucks-pork-flavored-coffee-china-chinese-new-year-luckin-2024-2)

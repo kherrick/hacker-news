@@ -24,11 +24,11 @@
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
-* [2024-02-22, 10:15:16](https://news.ycombinator.com/item?id=39465230) - [Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
 * [2024-02-22, 09:42:26](https://news.ycombinator.com/item?id=39465049) - [Mathematical Foundations of Joy](https://hypercubed.github.io/joy/html/j02maf.html)
 * [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
+* [2024-02-21, 13:26:47](https://news.ycombinator.com/item?id=39453468) - [Darwin Online has virtually reassembled the naturalist's personal library](https://arstechnica.com/science/2024/02/you-can-now-browse-charles-darwins-complete-personal-library-online/)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 
 ## [Archives](archives/index.md)
