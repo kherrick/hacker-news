@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 21:58:49](https://news.ycombinator.com/item?id=39486649) - [Chief justice's Christian reasoning in IVF opinion sparks alarm](https://apnews.com/article/alabama-frozen-embryos-conservative-christian-views-ruling-d9b7f720b5ef865ab35205ad36061f2d)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)
+* [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 * [2024-02-23, 20:51:06](https://news.ycombinator.com/item?id=39485926) - [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
 * [2024-02-23, 20:48:04](https://news.ycombinator.com/item?id=39485900) - [Guess the Video Generated with AI](https://www.aiguessit.com/)
 * [2024-02-23, 20:43:43](https://news.ycombinator.com/item?id=39485850) - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
 * [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
+* [2024-02-23, 19:56:03](https://news.ycombinator.com/item?id=39485333) - [FDA stands against using smartwatches to monitor blood glucose](https://9to5mac.com/2024/02/21/fda-smartwatches-blood-glucose/)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
@@ -17,6 +20,7 @@
 * [2024-02-23, 19:12:12](https://news.ycombinator.com/item?id=39484878) - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
 * [2024-02-23, 19:11:30](https://news.ycombinator.com/item?id=39484866) - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
+* [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
 * [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
