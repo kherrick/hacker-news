@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-02-23, 17:42:13",
-      "https://news.ycombinator.com/item?id=39483712"
+      "2024-02-23, 18:28:45",
+      "https://news.ycombinator.com/item?id=39484328"
     ],
     [
-      "Spotify HiFi is still MIA after three years, and now so is my subscription",
-      "https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip"
+      "The 'Pro' Paradox and the Allure of Style over Substance",
+      "https://simone.org/pro-paradox/"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 18:28:29",
+      "https://news.ycombinator.com/item?id=39484321"
+    ],
+    [
+      "AMD ROCm Software Blogs",
+      "https://rocm.blogs.amd.com/"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 18:07:19",
+      "https://news.ycombinator.com/item?id=39484050"
+    ],
+    [
+      "Deploy Gemma 7B with TensorRT-LLM and achieve > 500 tok/s",
+      "https://docs.mystic.ai/docs/deploy-gemma7b-tensorrt-llm"
     ]
   ],
   [
@@ -107,26 +127,6 @@
     [
       "Dog 'Language Geniuses' Are Rare but Apparently Real",
       "https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 15:30:01",
-      "https://news.ycombinator.com/item?id=39481774"
-    ],
-    [
-      "What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?",
-      "https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 15:26:56",
-      "https://news.ycombinator.com/item?id=39481720"
-    ],
-    [
-      "Fixed-Point Combinator",
-      "https://en.wikipedia.org/wiki/Fixed-point_combinator"
     ]
   ],
   [
