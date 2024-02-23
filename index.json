@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-02-22, 22:04:09",
-      "https://news.ycombinator.com/item?id=39473949"
-    ],
-    [
-      "What ZIL metrics are exposed by (Open)ZFS on Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 21:49:39",
       "https://news.ycombinator.com/item?id=39473773"
     ],
@@ -227,6 +217,16 @@
     [
       "Knots on Mars (and a few thoughts on NASA's knots) (2012)",
       "https://forum.igkt.net/index.php?topic=4028.0"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 09:24:17",
+      "https://news.ycombinator.com/item?id=39464938"
+    ],
+    [
+      "The Fossil Sync Protocol",
+      "https://fossil-scm.org/home/doc/trunk/www/sync.wiki"
     ]
   ],
   [
