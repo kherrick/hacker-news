@@ -9,7 +9,6 @@
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:57:30](https://news.ycombinator.com/item?id=39485996) - [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
 * [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
-* [2024-02-23, 20:50:41](https://news.ycombinator.com/item?id=39485921) - [IKV: embedded key-value store, 100x faster than Redis](https://github.com/inlinedio/ikv-store)
 * [2024-02-23, 20:43:43](https://news.ycombinator.com/item?id=39485850) - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
 * [2024-02-23, 19:56:03](https://news.ycombinator.com/item?id=39485333) - [FDA stands against using smartwatches to monitor blood glucose](https://9to5mac.com/2024/02/21/fda-smartwatches-blood-glucose/)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
@@ -28,6 +27,7 @@
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, this is why we keep getting phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
+* [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [Vvvv – A hybrid visual/textual development environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 10:22:08](https://news.ycombinator.com/item?id=39465258) - [LilyPond: Music notation for everyone](https://lilypond.org/)
 
