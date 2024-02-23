@@ -2,6 +2,7 @@
 
 * [2024-02-23, 14:30:38](https://news.ycombinator.com/item?id=39480975) - [Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
+* [2024-02-23, 14:07:42](https://news.ycombinator.com/item?id=39480718) - [Tyler Perry halts $800M studio expansion after being shocked by AI](https://www.theguardian.com/technology/2024/feb/23/tyler-perry-halts-800m-studio-expansion-after-being-shocked-by-ai)
 * [2024-02-23, 13:49:02](https://news.ycombinator.com/item?id=39480513) - [High Interest Savings Leaderboard](https://www.highinterest.io/)
 * [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
@@ -9,7 +10,6 @@
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
-* [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
