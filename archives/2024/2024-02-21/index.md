@@ -68,6 +68,7 @@
 * [2024-02-21, 12:13:12](https://news.ycombinator.com/item?id=39452868) - [Open-Source Nvidia Driver Moving to NVK and Zink for OpenGL on Newer GPUs](https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL)
 * [2024-02-21, 12:12:53](https://news.ycombinator.com/item?id=39452866) - [What the fuck is going on in Argentina?](https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina)
 * [2024-02-21, 11:52:44](https://news.ycombinator.com/item?id=39452706) - [Rust and Htmx: Making a Slack/campfire clone](https://github.com/gamedolphin/speakwith)
+* [2024-02-21, 11:51:51](https://news.ycombinator.com/item?id=39452697) - [Priceless barn find: first microcomputers discovered by cleaners](https://newatlas.com/computers/first-microcomputer-found/)
 * [2024-02-21, 11:40:29](https://news.ycombinator.com/item?id=39452614) - [Top reasons to move from CentOS to RHEL (according to Red Hat) are a 404 page](https://www.theregister.com/2024/02/20/red_hat_rhel_reasons/)
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
