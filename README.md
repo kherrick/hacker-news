@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 03:44:14](https://news.ycombinator.com/item?id=39476695) - [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:02:31](https://news.ycombinator.com/item?id=39476015) - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
@@ -9,7 +10,6 @@
 * [2024-02-23, 00:49:03](https://news.ycombinator.com/item?id=39475467) - [Form to DB](https://www.formtodb.com/)
 * [2024-02-23, 00:19:44](https://news.ycombinator.com/item?id=39475231) - [Relationships: Start with Several](https://lukebechtel.com/blog/relationships-start-with-several)
 * [2024-02-23, 00:15:21](https://news.ycombinator.com/item?id=39475205) - [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
-* [2024-02-23, 00:12:42](https://news.ycombinator.com/item?id=39475186) - [Apple Vision Pro users reporting cracked outer surfaces](https://old.reddit.com/r/VisionPro/comments/1axj5sp/comment/kror2jt/)
 * [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
