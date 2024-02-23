@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 04:22:46](https://news.ycombinator.com/item?id=39476941) - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 * [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
@@ -29,6 +28,7 @@
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 * [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
 * [2024-02-20, 07:16:46](https://news.ycombinator.com/item?id=39438773) - [The Old House at Home (1940)](https://www.newyorker.com/magazine/1940/04/13/the-old-house-at-home)
+* [2024-02-19, 23:26:51](https://news.ycombinator.com/item?id=39436095) - [A decades-long art forgery scheme](https://www.smithsonianmag.com/arts-culture/inside-biggest-art-fraud-history-180983692/)
 * [2024-02-19, 16:17:27](https://news.ycombinator.com/item?id=39431438) - [Brightest and fastest-growing: astronomers identify record-breaking quasar](https://www.eso.org/public/news/eso2402/)
 
 ## [Archives](archives/index.md)
