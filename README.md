@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
+* [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 19:12:12](https://news.ycombinator.com/item?id=39484878) - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
 * [2024-02-23, 19:11:30](https://news.ycombinator.com/item?id=39484866) - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
@@ -29,7 +30,6 @@
 * [2024-02-22, 10:17:50](https://news.ycombinator.com/item?id=39465242) - [Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
 * [2024-02-22, 08:23:57](https://news.ycombinator.com/item?id=39464582) - [Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)](https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
-* [2024-02-21, 10:46:46](https://news.ycombinator.com/item?id=39452271) - [John C. Dvorak on Intel's First Neural Network Chip in 1990](https://thechipletter.substack.com/p/john-c-dvorak-on-intels-first-neural)
 
 ## [Archives](archives/index.md)
 
