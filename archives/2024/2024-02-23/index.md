@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 16:25:40](https://news.ycombinator.com/item?id=39482641) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
+* [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
+* [2024-02-23, 15:56:57](https://news.ycombinator.com/item?id=39482175) - [Apple reverses decision to not take 30% of donations to Insight Timer's teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
 * [2024-02-23, 15:33:41](https://news.ycombinator.com/item?id=39481824) - [AI Is in the Midst of a Fever Dream and It's Only Getting Worse](https://gizmodo.com/ai-fever-dream-it-s-only-getting-worse-1851279436)
 * [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
