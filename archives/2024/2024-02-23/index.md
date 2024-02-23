@@ -7,6 +7,7 @@
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
 * [2024-02-23, 18:07:19](https://news.ycombinator.com/item?id=39484050) - [Deploy Gemma 7B with TensorRT-LLM and achieve > 500 tok/s](https://docs.mystic.ai/docs/deploy-gemma7b-tensorrt-llm)
+* [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
 * [2024-02-23, 17:42:13](https://news.ycombinator.com/item?id=39483712) - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)
 * [2024-02-23, 17:25:12](https://news.ycombinator.com/item?id=39483504) - [Tesla cancels $16K pie order at last minute leaving CA bakery owner high and dry](https://nypost.com/2024/02/22/business/tesla-cancels-16k-pie-order-at-last-minute-leaving-california-bakery-owner-high-and-dry/)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)

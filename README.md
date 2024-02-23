@@ -2,7 +2,7 @@
 
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
-* [2024-02-23, 18:07:19](https://news.ycombinator.com/item?id=39484050) - [Deploy Gemma 7B with TensorRT-LLM and achieve > 500 tok/s](https://docs.mystic.ai/docs/deploy-gemma7b-tensorrt-llm)
+* [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 17:19:43](https://news.ycombinator.com/item?id=39483421) - [US judge says FTX can sell its Anthropic shares; FTX invested $500M in 2021](https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/)
 * [2024-02-23, 17:00:05](https://news.ycombinator.com/item?id=39483125) - [Salient (YC W23) Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
@@ -12,7 +12,7 @@
 * [2024-02-23, 16:00:53](https://news.ycombinator.com/item?id=39482246) - [Leaked Files Show the Secret World of China's Hackers for Hire](https://www.nytimes.com/2024/02/22/business/china-leaked-files.html)
 * [2024-02-23, 15:42:07](https://news.ycombinator.com/item?id=39481948) - [A 'scam manual' written to help immigrants not become victims](https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists)
 * [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub Commits and How to Reveal Them](https://neodyme.io/en/blog/github_secrets/)
-* [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Dog 'Language Geniuses' Are Rare but Apparently Real](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
+* [2024-02-23, 15:30:01](https://news.ycombinator.com/item?id=39481774) - [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:57:31](https://news.ycombinator.com/item?id=39480605) - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
