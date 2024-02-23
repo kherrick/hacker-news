@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
+* [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:48:37](https://news.ycombinator.com/item?id=39481188) - [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
