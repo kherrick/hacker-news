@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 13:24:08](https://news.ycombinator.com/item?id=39480257) - [US intelligence casts doubt on Israeli claims of UNRWA-Hamas links, report says](https://www.theguardian.com/world/2024/feb/22/us-intelligence-unrwa-hamas)
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
 * [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 * [2024-02-23, 11:32:52](https://news.ycombinator.com/item?id=39479361) - [Ask HN: Does procrastination advice help you?](https://news.ycombinator.com/item?id=39479361)
@@ -27,7 +28,6 @@
 * [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
-* [2024-02-21, 10:43:35](https://news.ycombinator.com/item?id=39452243) - [U.S. to invest billions to replace China-made cranes at nation's ports](https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 
