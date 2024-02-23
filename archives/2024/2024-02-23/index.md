@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 17:25:12](https://news.ycombinator.com/item?id=39483504) - [Tesla cancels $16K pie order at last minute leaving CA bakery owner high and dry](https://nypost.com/2024/02/22/business/tesla-cancels-16k-pie-order-at-last-minute-leaving-california-bakery-owner-high-and-dry/)
 * [2024-02-23, 17:00:05](https://news.ycombinator.com/item?id=39483125) - [Salient (YC W23) Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
 * [2024-02-23, 16:25:40](https://news.ycombinator.com/item?id=39482641) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)

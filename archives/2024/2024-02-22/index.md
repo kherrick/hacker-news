@@ -54,6 +54,7 @@
 * [2024-02-22, 13:38:46](https://news.ycombinator.com/item?id=39466851) - [Africa is building a Great Green Wall to prevent expansion of the Sahara](https://www.youtube.com/watch?v=WCli0gyNwL0)
 * [2024-02-22, 13:33:27](https://news.ycombinator.com/item?id=39466788) - [New Leak Shows Business Side of China's Apt Menace](https://krebsonsecurity.com/2024/02/new-leak-shows-business-side-of-chinas-apt-menace/)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
+* [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 13:00:22](https://news.ycombinator.com/item?id=39466417) - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 * [2024-02-22, 12:55:23](https://news.ycombinator.com/item?id=39466384) - [More men are heading to Turkey to cure their baldness, but is it safe? [video]](https://www.youtube.com/watch?v=Ra_SK2fBt0w)
 * [2024-02-22, 12:42:15](https://news.ycombinator.com/item?id=39466246) - [A Plastic Tsunami Is Taking over Farms. What Will Stop Plasticulture?](https://modernfarmer.com/2024/02/plastic-farms-stop-plasticulture/)
