@@ -27,6 +27,7 @@
 * [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
 * [2024-02-23, 07:02:44](https://news.ycombinator.com/item?id=39477757) - [The Windows Ubuntu Operating System](https://www.wubuntu.org/)
 * [2024-02-23, 06:02:34](https://news.ycombinator.com/item?id=39477467) - [The first round of U.S. secondary sanctions on Russia is working](http://jpkoning.blogspot.com/2024/02/the-first-round-of-us-secondary.html)
+* [2024-02-23, 06:00:42](https://news.ycombinator.com/item?id=39477457) - [PGlite – Postgres in WASM](https://github.com/electric-sql/pglite)
 * [2024-02-23, 05:56:14](https://news.ycombinator.com/item?id=39477435) - [Don't Worry About the Vase](https://thezvi.wordpress.com/2024/02/22/gemini-has-a-problem/)
 * [2024-02-23, 05:46:55](https://news.ycombinator.com/item?id=39477389) - [60% of OpenAI model's responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
 * [2024-02-23, 04:22:46](https://news.ycombinator.com/item?id=39476941) - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
