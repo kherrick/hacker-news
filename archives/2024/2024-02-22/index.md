@@ -35,6 +35,7 @@
 * [2024-02-22, 16:50:09](https://news.ycombinator.com/item?id=39469716) - [YouTube addiction, one month sober](https://www.sophiajt.com/youtube-addiction-one-month-sober/)
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
 * [2024-02-22, 16:45:27](https://news.ycombinator.com/item?id=39469657) - [Show HN: Strada – Cloud IDE for Connecting SaaS APIs](https://www.getstrada.com)
+* [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [VVVV – A Hybrid Visual/Textual Development Environment](https://vvvv.org/)
 * [2024-02-22, 16:05:57](https://news.ycombinator.com/item?id=39469112) - [The Mystery of the Garage](https://www.strangeloopcanon.com/p/the-mystery-of-the-garage)
 * [2024-02-22, 16:01:45](https://news.ycombinator.com/item?id=39469039) - [What Will It Take to Save Our Cities from a Scorching Future?](https://e360.yale.edu/features/eleni-myrivili-interview)
 * [2024-02-22, 15:39:42](https://news.ycombinator.com/item?id=39468686) - [What Can You Do with a 'Failed' Postmodern Utopia?](https://www.atlasobscura.com/articles/gibellina-failed-modernist-utopia)

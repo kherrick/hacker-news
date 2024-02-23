@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 16:25:40](https://news.ycombinator.com/item?id=39482641) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
 * [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:48:37](https://news.ycombinator.com/item?id=39481188) - [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
 * [2024-02-23, 14:44:18](https://news.ycombinator.com/item?id=39481131) - [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://www.reuters.com/technology/global-markets-marketcap-pix-2024-02-23/)
-* [2024-02-23, 14:42:34](https://news.ycombinator.com/item?id=39481109) - [Tinder Owner Signs ChatGPT Deal. Enjoy the AI Dating Tidal Wave](https://gizmodo.com/tinder-owner-signs-chatgpt-deal-enjoy-the-ai-dating-ti-1851275100)
 * [2024-02-23, 14:34:53](https://news.ycombinator.com/item?id=39481020) - [Privacy Isn't Dead. Far from It](https://www.eff.org/deeplinks/2024/02/privacy-isnt-dead-far-it)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:57:31](https://news.ycombinator.com/item?id=39480605) - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
@@ -22,6 +22,7 @@
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+* [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [VVVV – A Hybrid Visual/Textual Development Environment](https://vvvv.org/)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 09:42:26](https://news.ycombinator.com/item?id=39465049) - [Mathematical Foundations of Joy](https://hypercubed.github.io/joy/html/j02maf.html)
 * [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
@@ -29,7 +30,6 @@
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
 * [2024-02-21, 13:26:47](https://news.ycombinator.com/item?id=39453468) - [Darwin Online has virtually reassembled the naturalist's personal library](https://arstechnica.com/science/2024/02/you-can-now-browse-charles-darwins-complete-personal-library-online/)
 * [2024-02-21, 10:46:46](https://news.ycombinator.com/item?id=39452271) - [John C. Dvorak on Intel's First Neural Network Chip in 1990](https://thechipletter.substack.com/p/john-c-dvorak-on-intels-first-neural)
-* [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 
 ## [Archives](archives/index.md)
 
