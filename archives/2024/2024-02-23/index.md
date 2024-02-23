@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 19:11:30](https://news.ycombinator.com/item?id=39484866) - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
+* [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 * [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
 * [2024-02-23, 18:16:21](https://news.ycombinator.com/item?id=39484158) - [What's Wrong with Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
 * [2024-02-23, 18:07:19](https://news.ycombinator.com/item?id=39484050) - [Deploy Gemma 7B with TensorRT-LLM and achieve > 500 tok/s](https://docs.mystic.ai/docs/deploy-gemma7b-tensorrt-llm)
+* [2024-02-23, 18:03:52](https://news.ycombinator.com/item?id=39484015) - [The Eagle Obsession – Space: 1999 documentary](https://eagledocumentary.com/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
 * [2024-02-23, 17:42:13](https://news.ycombinator.com/item?id=39483712) - [Spotify HiFi is still MIA after three years, and now so is my subscription](https://www.theverge.com/24080999/spotify-hifi-lossless-high-res-audio-three-years-rip)
 * [2024-02-23, 17:25:12](https://news.ycombinator.com/item?id=39483504) - [Tesla cancels $16K pie order at last minute leaving CA bakery owner high and dry](https://nypost.com/2024/02/22/business/tesla-cancels-16k-pie-order-at-last-minute-leaving-california-bakery-owner-high-and-dry/)
