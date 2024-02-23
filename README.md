@@ -12,6 +12,7 @@
 * [2024-02-23, 00:12:42](https://news.ycombinator.com/item?id=39475186) - [Apple Vision Pro users reporting cracked outer surfaces](https://old.reddit.com/r/VisionPro/comments/1axj5sp/comment/kror2jt/)
 * [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
+* [2024-02-22, 22:04:09](https://news.ycombinator.com/item?id=39473949) - [What ZIL metrics are exposed by (Open)ZFS on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation)
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
@@ -29,7 +30,6 @@
 * [2024-02-21, 10:02:19](https://news.ycombinator.com/item?id=39451974) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 * [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
-* [2024-02-20, 22:04:47](https://news.ycombinator.com/item?id=39447603) - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
 
 ## [Archives](archives/index.md)
 
