@@ -2,6 +2,7 @@
 
 * [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
+* [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:02:31](https://news.ycombinator.com/item?id=39476015) - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
@@ -9,7 +10,6 @@
 * [2024-02-23, 01:23:31](https://news.ycombinator.com/item?id=39475729) - [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
 * [2024-02-23, 01:02:20](https://news.ycombinator.com/item?id=39475552) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
 * [2024-02-23, 00:49:03](https://news.ycombinator.com/item?id=39475467) - [Form to DB](https://www.formtodb.com/)
-* [2024-02-23, 00:19:44](https://news.ycombinator.com/item?id=39475231) - [Relationships: Start with Several](https://lukebechtel.com/blog/relationships-start-with-several)
 * [2024-02-23, 00:15:21](https://news.ycombinator.com/item?id=39475205) - [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
 * [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
@@ -26,9 +26,9 @@
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
-* [2024-02-21, 10:02:19](https://news.ycombinator.com/item?id=39451974) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 * [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
+* [2024-02-20, 07:16:46](https://news.ycombinator.com/item?id=39438773) - [The Old House at Home (1940)](https://www.newyorker.com/magazine/1940/04/13/the-old-house-at-home)
 * [2024-02-19, 16:17:27](https://news.ycombinator.com/item?id=39431438) - [Brightest and fastest-growing: astronomers identify record-breaking quasar](https://www.eso.org/public/news/eso2402/)
 
 ## [Archives](archives/index.md)

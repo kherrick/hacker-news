@@ -107,6 +107,7 @@
 * [2024-02-20, 07:31:03](https://news.ycombinator.com/item?id=39438842) - [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-20, 07:23:30](https://news.ycombinator.com/item?id=39438811) - [TCP Puzzlers (2016)](https://www.tritondatacenter.com/blog/tcp-puzzlers)
 * [2024-02-20, 07:22:28](https://news.ycombinator.com/item?id=39438804) - [Windows Product Activation (2001)](https://www.licenturion.com/xp/fully-licensed-wpa.txt)
+* [2024-02-20, 07:16:46](https://news.ycombinator.com/item?id=39438773) - [The Old House at Home (1940)](https://www.newyorker.com/magazine/1940/04/13/the-old-house-at-home)
 * [2024-02-20, 07:16:21](https://news.ycombinator.com/item?id=39438771) - [Winteracter – The Fortran GUI Toolset](https://www.winteracter.com/)
 * [2024-02-20, 07:09:43](https://news.ycombinator.com/item?id=39438735) - [Code Verify: An open source browser extension for verifying code authenticity](https://engineering.fb.com/2022/03/10/security/code-verify/)
 * [2024-02-20, 06:31:04](https://news.ycombinator.com/item?id=39438577) - [Re2c](https://re2c.org/index.html)
