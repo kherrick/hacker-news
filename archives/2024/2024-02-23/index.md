@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 14:30:38](https://news.ycombinator.com/item?id=39480975) - [Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
+* [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:57:56](https://news.ycombinator.com/item?id=39480608) - [Stuff Happening at Dropbox](https://twitter.com/ghosttyped/status/1760734197311000828)
 * [2024-02-23, 13:49:02](https://news.ycombinator.com/item?id=39480513) - [High Interest Savings Leaderboard](https://www.highinterest.io/)
 * [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia CUDA, x86 – 'CUDA's a swamp, not a moat, like x86'](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
