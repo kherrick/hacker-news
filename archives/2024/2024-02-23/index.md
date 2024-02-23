@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)
+* [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)

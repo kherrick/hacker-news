@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)
+* [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
@@ -16,7 +18,6 @@
 * [2024-02-23, 16:25:40](https://news.ycombinator.com/item?id=39482641) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
 * [2024-02-23, 16:25:19](https://news.ycombinator.com/item?id=39482631) - [Astronomers observe the Radcliffe Wave oscillating](https://phys.org/news/2024-02-astronomers-radcliffe-oscillating.html)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
-* [2024-02-23, 16:00:53](https://news.ycombinator.com/item?id=39482246) - [Leaked Files Show the Secret World of China's Hackers for Hire](https://www.nytimes.com/2024/02/22/business/china-leaked-files.html)
 * [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub Commits and How to Reveal Them](https://neodyme.io/en/blog/github_secrets/)
 * [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Certain dogs are capable of learning the names for more than 100 different toys](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
@@ -28,7 +29,6 @@
 * [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [VVVV – A Hybrid Visual/Textual Development Environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 10:17:50](https://news.ycombinator.com/item?id=39465242) - [Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
-* [2024-02-22, 08:23:57](https://news.ycombinator.com/item?id=39464582) - [Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)](https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/)
 * [2024-02-22, 08:09:16](https://news.ycombinator.com/item?id=39464490) - [Kyber](https://pq-crystals.org/kyber/)
 
 ## [Archives](archives/index.md)
