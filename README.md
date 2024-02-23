@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
 * [2024-02-23, 22:41:17](https://news.ycombinator.com/item?id=39487081) - [Vending machine error reveals secret face image database of college students](https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/)
 * [2024-02-23, 22:35:30](https://news.ycombinator.com/item?id=39487026) - [Open Source Motion Capture for Autonomous Drones](https://joshuabird.com/blog/post/mocap-drones)
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
@@ -17,7 +18,6 @@
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 * [2024-02-23, 15:42:07](https://news.ycombinator.com/item?id=39481948) - [A 'scam manual' written to help immigrants not become victims](https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists)
-* [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub commits and how to reveal them](https://neodyme.io/en/blog/github_secrets/)
 * [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Certain dogs are capable of learning the names for more than 100 different toys](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
