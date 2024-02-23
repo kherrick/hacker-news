@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)
+* [2024-02-23, 20:51:06](https://news.ycombinator.com/item?id=39485926) - [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
+* [2024-02-23, 20:43:43](https://news.ycombinator.com/item?id=39485850) - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
 * [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
