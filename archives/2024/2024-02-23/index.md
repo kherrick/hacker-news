@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 11:23:51](https://news.ycombinator.com/item?id=39479300) - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 10:09:51](https://news.ycombinator.com/item?id=39478904) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
+* [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 07:35:10](https://news.ycombinator.com/item?id=39477906) - [Shaun Maguire could't be promoted for being white, at Google](https://twitter.com/shaunmmaguire/status/1760872265892458792)
 * [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
