@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 23:33:32](https://news.ycombinator.com/item?id=39487522) - [Covid is more likely to be of zoonotic origin than a product of engineering](https://drive.google.com/file/d/1YhmkYB32RpGsXvQTsX4xZ0Yul1wiwh8Z/view?pli=1)
 * [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:51:54](https://news.ycombinator.com/item?id=39487173) - [Women as Worriers Who Exclude](https://www.overcomingbias.com/p/women-as-worriers-who-exclude)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
@@ -14,6 +15,7 @@
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:58:49](https://news.ycombinator.com/item?id=39486649) - [Chief justice's Christian reasoning in IVF opinion sparks alarm](https://apnews.com/article/alabama-frozen-embryos-conservative-christian-views-ruling-d9b7f720b5ef865ab35205ad36061f2d)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
+* [2024-02-23, 20:57:30](https://news.ycombinator.com/item?id=39485996) - [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
 * [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)
 * [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 * [2024-02-23, 20:51:06](https://news.ycombinator.com/item?id=39485926) - [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
