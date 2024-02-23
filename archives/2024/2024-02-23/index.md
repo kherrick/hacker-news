@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 01:44:10](https://news.ycombinator.com/item?id=39475863) - [The Fed Is Behind the Capital One/Discover Merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
 * [2024-02-23, 01:08:46](https://news.ycombinator.com/item?id=39475610) - [Tyler Perry Puts $800M Studio Expansion on Hold After Seeing OpenAI's Sora](https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
 * [2024-02-23, 01:02:20](https://news.ycombinator.com/item?id=39475552) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
 * [2024-02-23, 00:49:03](https://news.ycombinator.com/item?id=39475467) - [Form to DB](https://www.formtodb.com/)
