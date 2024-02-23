@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 06:02:34](https://news.ycombinator.com/item?id=39477467) - [The first round of U.S. secondary sanctions on Russia is working](http://jpkoning.blogspot.com/2024/02/the-first-round-of-us-secondary.html)
 * [2024-02-23, 05:46:55](https://news.ycombinator.com/item?id=39477389) - [60% of OpenAI model's responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
 * [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
@@ -10,7 +11,6 @@
 * [2024-02-23, 01:23:31](https://news.ycombinator.com/item?id=39475729) - [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
 * [2024-02-23, 01:02:20](https://news.ycombinator.com/item?id=39475552) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=39475552)
 * [2024-02-23, 00:49:03](https://news.ycombinator.com/item?id=39475467) - [Form to DB](https://www.formtodb.com/)
-* [2024-02-23, 00:15:21](https://news.ycombinator.com/item?id=39475205) - [US achieves first moon landing in half century with private spacecraft](https://www.reuters.com/technology/space/us-nears-attempt-first-moon-landing-half-century-with-private-robot-spacecraft-2024-02-22/)
 * [2024-02-22, 23:39:36](https://news.ycombinator.com/item?id=39474909) - [Intuitive Machines successfully lands on the Moon](https://www.theguardian.com/science/live/2024/feb/22/nasa-odysseus-moon-landing-intuitive-machines)
 * [2024-02-22, 22:52:46](https://news.ycombinator.com/item?id=39474467) - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/)
 * [2024-02-22, 21:49:39](https://news.ycombinator.com/item?id=39473773) - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)

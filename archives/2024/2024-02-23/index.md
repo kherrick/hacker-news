@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 06:02:34](https://news.ycombinator.com/item?id=39477467) - [The first round of U.S. secondary sanctions on Russia is working](http://jpkoning.blogspot.com/2024/02/the-first-round-of-us-secondary.html)
 * [2024-02-23, 05:46:55](https://news.ycombinator.com/item?id=39477389) - [60% of OpenAI model's responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
 * [2024-02-23, 04:22:46](https://news.ycombinator.com/item?id=39476941) - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 * [2024-02-23, 03:44:14](https://news.ycombinator.com/item?id=39476695) - [Tumblr CEO publicly spars with trans user over account ban](https://techcrunch.com/2024/02/22/tumblr-ceo-publicly-spars-with-trans-user-over-account-ban-revealing-private-account-names-in-the-process/)
