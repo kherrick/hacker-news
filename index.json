@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-02-22, 13:20:39",
-      "https://news.ycombinator.com/item?id=39466630"
-    ],
-    [
-      "Stable Diffusion 3",
-      "https://stability.ai/news/stable-diffusion-3"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 11:09:20",
       "https://news.ycombinator.com/item?id=39465485"
     ],
@@ -267,6 +257,16 @@
     [
       "The code worked differently when the moon was full (2021)",
       "https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 10:02:19",
+      "https://news.ycombinator.com/item?id=39451974"
+    ],
+    [
+      "How to write unit tests in C++ relying on non-code files?",
+      "https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources"
     ]
   ],
   [
