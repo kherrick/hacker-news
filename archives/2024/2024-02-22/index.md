@@ -78,6 +78,7 @@
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to pause Gemini image generation of people after issues](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
+* [2024-02-22, 10:17:50](https://news.ycombinator.com/item?id=39465242) - [Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
 * [2024-02-22, 10:16:24](https://news.ycombinator.com/item?id=39465235) - [Interesting Uses of Ansible's ternary filter](https://www.zufallsheld.de/2024/02/21/interesting-use-of-ansible-ternary-filter/)
 * [2024-02-22, 10:15:16](https://news.ycombinator.com/item?id=39465230) - [Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
 * [2024-02-22, 09:56:25](https://news.ycombinator.com/item?id=39465142) - [Ask HN: Cleanest way to manage Windows OS?](https://news.ycombinator.com/item?id=39465142)
