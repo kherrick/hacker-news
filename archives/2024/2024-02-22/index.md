@@ -75,6 +75,7 @@
 * [2024-02-22, 11:10:56](https://news.ycombinator.com/item?id=39465498) - [Scientists discover underlying cause of \"brain fog\" linked with Long Covid](https://www.tcd.ie/news_events/articles/2024/trinity-team-discovers-underlying-cause-of-brain-fog-linked-with-long-covid/)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [Screen-free coding for children: the xylophone maze](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-22, 10:44:35](https://news.ycombinator.com/item?id=39465357) - [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
+* [2024-02-22, 10:22:08](https://news.ycombinator.com/item?id=39465258) - [LilyPond: Music Notation for Everyone](https://lilypond.org/)
 * [2024-02-22, 10:21:34](https://news.ycombinator.com/item?id=39465255) - [Google to Pause Gemini Image Generation of People After Issues](https://twitter.com/Google_Comms/status/1760603321944121506)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to pause Gemini image generation of people after issues](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical)
 * [2024-02-22, 10:19:50](https://news.ycombinator.com/item?id=39465250) - [Google to Pause Gemini Image Generation of People After Issues](https://www.bloomberg.com/news/articles/2024-02-22/google-to-pause-gemini-image-generation-of-people-after-issues-lsx286rh)
