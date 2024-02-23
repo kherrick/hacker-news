@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
 * [2024-02-23, 22:13:07](https://news.ycombinator.com/item?id=39486821) - [Tesla cancels pie order, hurting black business owner on Black History month](https://www.kron4.com/news/bay-area/tesla-cancels-large-pie-order-hurting-small-san-jose-business/)
+* [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:58:49](https://news.ycombinator.com/item?id=39486649) - [Chief justice's Christian reasoning in IVF opinion sparks alarm](https://apnews.com/article/alabama-frozen-embryos-conservative-christian-views-ruling-d9b7f720b5ef865ab35205ad36061f2d)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:52:33](https://news.ycombinator.com/item?id=39485943) - [Pestilence Defends Their AI Album Cover, Is Wrong](https://metalinjection.net/news/pestilence-defends-their-ai-album-cover-is-wrong)

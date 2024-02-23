@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 22:13:07](https://news.ycombinator.com/item?id=39486821) - [Tesla cancels pie order, hurting black business owner on Black History month](https://www.kron4.com/news/bay-area/tesla-cancels-large-pie-order-hurting-small-san-jose-business/)
+* [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 * [2024-02-23, 20:43:43](https://news.ycombinator.com/item?id=39485850) - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
@@ -8,7 +8,6 @@
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
-* [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
 * [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:03:52](https://news.ycombinator.com/item?id=39484015) - [The Eagle Obsession – Space: 1999 documentary](https://eagledocumentary.com/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
@@ -23,6 +22,7 @@
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:37:56](https://news.ycombinator.com/item?id=39480407) - [Satoshi – Sirius emails 2009-2011](https://mmalmi.github.io/satoshi/)
+* [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, this is why we keep getting phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at university](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
