@@ -79,6 +79,7 @@
 * [2024-02-22, 10:16:24](https://news.ycombinator.com/item?id=39465235) - [Interesting Uses of Ansible's ternary filter](https://www.zufallsheld.de/2024/02/21/interesting-use-of-ansible-ternary-filter/)
 * [2024-02-22, 10:15:16](https://news.ycombinator.com/item?id=39465230) - [Private company landing on the moon today](https://www.intuitivemachines.com/im-1)
 * [2024-02-22, 09:56:25](https://news.ycombinator.com/item?id=39465142) - [Ask HN: Cleanest way to manage Windows OS?](https://news.ycombinator.com/item?id=39465142)
+* [2024-02-22, 09:42:26](https://news.ycombinator.com/item?id=39465049) - [Mathematical Foundations of Joy](https://hypercubed.github.io/joy/html/j02maf.html)
 * [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-22, 09:21:53](https://news.ycombinator.com/item?id=39464924) - [Tell HN: AT&T is currently having an outage](https://news.ycombinator.com/item?id=39464924)
