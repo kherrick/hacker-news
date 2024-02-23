@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 12:02:39](https://news.ycombinator.com/item?id=39479535) - [AI Is a 'Glorified Tape Recorder,' Says Theoretical Physicist Michio Kaku (2023)](https://observer.com/2023/08/michio-kaku-ai-chabot/)
+* [2024-02-23, 12:02:39](https://news.ycombinator.com/item?id=39479535) - [AI is a 'Glorified Tape Recorder,' Says Theoretical Physicist Michio Kaku (2023)](https://observer.com/2023/08/michio-kaku-ai-chabot/)
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
+* [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 * [2024-02-23, 11:27:23](https://news.ycombinator.com/item?id=39479334) - [American drivers even more distracted by phones. Pedestrian deaths are soaring](https://www.vox.com/24078289/us-drivers-distracted-driving-cellphone-road-deaths-pedestrians)
 * [2024-02-23, 11:23:51](https://news.ycombinator.com/item?id=39479300) - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
@@ -10,7 +11,6 @@
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
-* [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
 * [2024-02-23, 01:44:10](https://news.ycombinator.com/item?id=39475863) - [The Fed is behind the Capital One/Discover merger](https://www.thebignewsletter.com/p/the-fed-is-behind-the-capital-onediscover)
