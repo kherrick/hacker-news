@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 22:41:17](https://news.ycombinator.com/item?id=39487081) - [Vending machine error reveals secret face image database of college students](https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/)
+* [2024-02-23, 22:35:30](https://news.ycombinator.com/item?id=39487026) - [Open Source Motion Capture for Autonomous Drones](https://joshuabird.com/blog/post/mocap-drones)
 * [2024-02-23, 22:13:07](https://news.ycombinator.com/item?id=39486821) - [Tesla cancels pie order, hurting black business owner on Black History month](https://www.kron4.com/news/bay-area/tesla-cancels-large-pie-order-hurting-small-san-jose-business/)
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:58:49](https://news.ycombinator.com/item?id=39486649) - [Chief justice's Christian reasoning in IVF opinion sparks alarm](https://apnews.com/article/alabama-frozen-embryos-conservative-christian-views-ruling-d9b7f720b5ef865ab35205ad36061f2d)
