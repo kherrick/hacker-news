@@ -77,6 +77,7 @@
 * [2024-02-21, 10:26:14](https://news.ycombinator.com/item?id=39452142) - [Scientists Developed a Tool to Reveal Who's at Risk of Burnout, and It's Free](https://www.sciencealert.com/scientists-developed-a-tool-to-reveal-whos-at-risk-of-burnout-and-its-free)
 * [2024-02-21, 10:09:57](https://news.ycombinator.com/item?id=39452024) - [Readyset: A MySQL and Postgres wire-compatible caching layer](https://github.com/readysettech/readyset)
 * [2024-02-21, 10:06:45](https://news.ycombinator.com/item?id=39452003) - [How smart do you have to be to get a degree?](https://www.cremieux.xyz/p/education-isnt-what-it-used-to-be)
+* [2024-02-21, 10:02:19](https://news.ycombinator.com/item?id=39451974) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 09:47:34](https://news.ycombinator.com/item?id=39451873) - [BT Tower is to be turned into a HOTEL](https://www.ianvisits.co.uk/articles/bt-tower-is-to-be-turned-into-a-hotel-70413/)
 * [2024-02-21, 09:45:26](https://news.ycombinator.com/item?id=39451861) - [The Successor to Research Unix Was Plan 9 from Bell Labs](https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/)
 * [2024-02-21, 09:31:12](https://news.ycombinator.com/item?id=39451793) - [Stop postponing things by embracing the mess](https://www.deprocrastination.co/blog/stop-postponing-things-by-embracing-the-mess)
