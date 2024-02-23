@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 19:12:12](https://news.ycombinator.com/item?id=39484878) - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)

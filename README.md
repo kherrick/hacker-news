@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 19:12:12](https://news.ycombinator.com/item?id=39484878) - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
@@ -21,7 +22,6 @@
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:10:11](https://news.ycombinator.com/item?id=39480751) - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
 * [2024-02-23, 13:57:31](https://news.ycombinator.com/item?id=39480605) - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
-* [2024-02-23, 13:32:30](https://news.ycombinator.com/item?id=39480341) - [Jim Keller criticizes Nvidia's CUDA, x86](https://www.tomshardware.com/tech-industry/artificial-intelligence/jim-keller-criticizes-nvidias-cuda-and-x86-cudas-a-swamp-not-a-moat-x86-was-a-swamp-too)
 * [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
