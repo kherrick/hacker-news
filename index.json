@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2024-02-23, 22:41:17",
-      "https://news.ycombinator.com/item?id=39487081"
-    ],
-    [
-      "Vending machine error reveals secret face image database of college students",
-      "https://arstechnica.com/tech-policy/2024/02/vending-machine-error-reveals-secret-face-image-database-of-college-students/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 22:35:30",
       "https://news.ycombinator.com/item?id=39487026"
     ],
     [
-      "Open Source Motion Capture for Autonomous Drones",
+      "Open Source Motion Capture for Autonomous Drones (2023)",
       "https://joshuabird.com/blog/post/mocap-drones"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 22:29:31",
+      "https://news.ycombinator.com/item?id=39486971"
+    ],
+    [
+      "Global biggest industries by revenue in 2024",
+      "https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Reconductoring: An easy way to expand the grid",
       "https://heatmap.news/climate/clean-energy-grid-reconductoring"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 20:50:41",
+      "https://news.ycombinator.com/item?id=39485921"
+    ],
+    [
+      "IKV: embedded key-value store, 100x faster than Redis",
+      "https://github.com/inlinedio/ikv-store"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-02-23, 18:16:21",
+      "https://news.ycombinator.com/item?id=39484158"
+    ],
+    [
+      "Recognizing the limitations of cloud drives",
+      "https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 18:03:52",
       "https://news.ycombinator.com/item?id=39484015"
     ],
@@ -187,16 +207,6 @@
     [
       "Certain dogs are capable of learning the names for more than 100 different toys",
       "https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 15:26:56",
-      "https://news.ycombinator.com/item?id=39481720"
-    ],
-    [
-      "Fixed-point combinator",
-      "https://en.wikipedia.org/wiki/Fixed-point_combinator"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "LilyPond: Music notation for everyone",
       "https://lilypond.org/"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 10:17:50",
-      "https://news.ycombinator.com/item?id=39465242"
-    ],
-    [
-      "Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws",
-      "https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws"
     ]
   ]
 ]
