@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-23, 20:48:04",
-      "https://news.ycombinator.com/item?id=39485900"
-    ],
-    [
-      "Guess the Video Generated with AI",
-      "https://www.aiguessit.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 20:43:43",
       "https://news.ycombinator.com/item?id=39485850"
     ],
@@ -51,22 +41,22 @@
   ],
   [
     [
-      "2024-02-23, 19:27:31",
-      "https://news.ycombinator.com/item?id=39485039"
-    ],
-    [
-      "Curl HTTP/3 security audit",
-      "https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 19:14:18",
       "https://news.ycombinator.com/item?id=39484907"
     ],
     [
       "Scuttlebutt social network: a decentralised platform",
       "https://scuttlebutt.nz/"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 19:11:30",
+      "https://news.ycombinator.com/item?id=39484866"
+    ],
+    [
+      "Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs",
+      "https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=39483924"
     ],
     [
-      "3D-printable tissue adhesive sets a new standard in biomedical technology",
+      "3D-printable tissue adhesive",
       "https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html"
     ]
   ],
@@ -137,16 +127,6 @@
     [
       "Salient (YC W23) Is Hiring",
       "https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 16:25:40",
-      "https://news.ycombinator.com/item?id=39482641"
-    ],
-    [
-      "Why Writing by Hand Is Better for Memory and Learning",
-      "https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/"
     ]
   ],
   [
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39481933"
     ],
     [
-      "Hidden GitHub Commits and How to Reveal Them",
+      "Hidden GitHub commits and how to reveal them",
       "https://neodyme.io/en/blog/github_secrets/"
     ]
   ],
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=39479001"
     ],
     [
-      "Thanks FedEx, This Is Why We Keep Getting Phished",
+      "Thanks FedEx, this is why we keep getting phished",
       "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/"
     ]
   ],
@@ -275,7 +255,7 @@
       "https://news.ycombinator.com/item?id=39469274"
     ],
     [
-      "VVVV – A Hybrid Visual/Textual Development Environment",
+      "Vvvv – A hybrid visual/textual development environment",
       "https://vvvv.org/"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws",
       "https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 08:23:57",
+      "https://news.ycombinator.com/item?id=39464582"
+    ],
+    [
+      "Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)",
+      "https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 16:05:55",
+      "https://news.ycombinator.com/item?id=39455522"
+    ],
+    [
+      "Graphic Presentation (1939)",
+      "https://archive.org/details/graphicpresentat00brinrich"
     ]
   ]
 ]
