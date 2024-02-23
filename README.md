@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
-* [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
+* [2024-02-23, 18:16:21](https://news.ycombinator.com/item?id=39484158) - [What's Wrong with Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 17:19:43](https://news.ycombinator.com/item?id=39483421) - [US judge says FTX can sell its Anthropic shares; FTX invested $500M in 2021](https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/)
