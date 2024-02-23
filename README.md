@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive sets a new standard in biomedical technology](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
@@ -28,7 +29,6 @@
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-22, 08:23:57](https://news.ycombinator.com/item?id=39464582) - [Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)](https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
-* [2024-02-21, 13:26:47](https://news.ycombinator.com/item?id=39453468) - [Darwin Online has virtually reassembled the naturalist's personal library](https://arstechnica.com/science/2024/02/you-can-now-browse-charles-darwins-complete-personal-library-online/)
 * [2024-02-21, 10:46:46](https://news.ycombinator.com/item?id=39452271) - [John C. Dvorak on Intel's First Neural Network Chip in 1990](https://thechipletter.substack.com/p/john-c-dvorak-on-intels-first-neural)
 
 ## [Archives](archives/index.md)

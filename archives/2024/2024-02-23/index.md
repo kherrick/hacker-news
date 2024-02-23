@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:28:45](https://news.ycombinator.com/item?id=39484328) - [The 'Pro' Paradox and the Allure of Style over Substance](https://simone.org/pro-paradox/)
 * [2024-02-23, 18:28:29](https://news.ycombinator.com/item?id=39484321) - [AMD ROCm Software Blogs](https://rocm.blogs.amd.com/)
 * [2024-02-23, 18:07:19](https://news.ycombinator.com/item?id=39484050) - [Deploy Gemma 7B with TensorRT-LLM and achieve > 500 tok/s](https://docs.mystic.ai/docs/deploy-gemma7b-tensorrt-llm)
