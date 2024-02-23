@@ -75,6 +75,7 @@
 * [2024-02-21, 11:28:02](https://news.ycombinator.com/item?id=39452543) - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 * [2024-02-21, 11:20:49](https://news.ycombinator.com/item?id=39452494) - [Insecure vehicles should be banned, not security tools like the Flipper Zero](https://saveflipper.ca/)
 * [2024-02-21, 10:58:06](https://news.ycombinator.com/item?id=39452356) - [LaTeX and Neovim for technical note-taking](https://www.ejmastnak.com/tutorials/vim-latex/intro/)
+* [2024-02-21, 10:46:46](https://news.ycombinator.com/item?id=39452271) - [John C. Dvorak on Intel's First Neural Network Chip in 1990](https://thechipletter.substack.com/p/john-c-dvorak-on-intels-first-neural)
 * [2024-02-21, 10:43:35](https://news.ycombinator.com/item?id=39452243) - [U.S. to Invest Billions to Replace China-Made Cranes at Nation's Ports](https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)

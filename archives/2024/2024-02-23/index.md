@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
+* [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
+* [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
 * [2024-02-23, 14:48:37](https://news.ycombinator.com/item?id=39481188) - [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
 * [2024-02-23, 14:44:18](https://news.ycombinator.com/item?id=39481131) - [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://www.reuters.com/technology/global-markets-marketcap-pix-2024-02-23/)
 * [2024-02-23, 14:30:38](https://news.ycombinator.com/item?id=39480975) - [Work for you? Again? After you lied about the job and stole my stuff? No thanks](https://www.theregister.com/2024/02/23/on_call/)
