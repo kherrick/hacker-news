@@ -23,7 +23,7 @@
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 13:58:03](https://news.ycombinator.com/item?id=39467132) - [Show HN: Pages CMS – A CMS for GitHub](https://pagescms.org)
 * [2024-02-22, 13:20:39](https://news.ycombinator.com/item?id=39466630) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
-* [2024-02-22, 11:15:05](https://news.ycombinator.com/item?id=39465517) - [Cellular outage in U.S. hits AT&T, T-Mobile and Verizon users](https://www.cnbc.com/2024/02/22/cellular-outage-in-us-hits-att-t-mobile-and-verizon-users-downdetector-shows-.html)
+* [2024-02-22, 12:32:23](https://news.ycombinator.com/item?id=39466160) - [Replacement PCB Replicates Early 80s Modem](https://tempestfpga.com/)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
