@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 23:10:11](https://news.ycombinator.com/item?id=39487341) - [A former Gizmodo writer changed name to 'Slackbot', stayed undetected for months](https://www.theverge.com/2024/2/23/24081249/slack-slackbot-gizmodo-tom-mckay)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
 * [2024-02-23, 22:35:30](https://news.ycombinator.com/item?id=39487026) - [Open Source Motion Capture for Autonomous Drones (2023)](https://joshuabird.com/blog/post/mocap-drones)
 * [2024-02-23, 22:29:31](https://news.ycombinator.com/item?id=39486971) - [Global biggest industries by revenue in 2024](https://www.ibisworld.com/global/industry-trends/biggest-industries-by-revenue/)
@@ -13,7 +14,6 @@
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 * [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
-* [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 * [2024-02-23, 18:16:21](https://news.ycombinator.com/item?id=39484158) - [Recognizing the limitations of cloud drives](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
 * [2024-02-23, 18:03:52](https://news.ycombinator.com/item?id=39484015) - [The Eagle Obsession – Space: 1999 documentary](https://eagledocumentary.com/)
 * [2024-02-23, 17:56:54](https://news.ycombinator.com/item?id=39483924) - [3D-printable tissue adhesive](https://medicalxpress.com/news/2024-02-3d-printable-tissue-adhesive-standard.html)
