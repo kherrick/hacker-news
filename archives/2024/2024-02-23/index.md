@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 17:00:05](https://news.ycombinator.com/item?id=39483125) - [Salient (YC W23) Is Hiring](https://www.ycombinator.com/companies/salient/jobs/aFIMuS5-founding-engineer)
 * [2024-02-23, 16:25:40](https://news.ycombinator.com/item?id=39482641) - [Why Writing by Hand Is Better for Memory and Learning](https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 * [2024-02-23, 15:56:57](https://news.ycombinator.com/item?id=39482175) - [Apple reverses decision to not take 30% of donations to Insight Timer's teachers](https://techcrunch.com/2024/02/21/in-a-reversal-apple-is-now-demanding-30-of-the-donations-to-meditation-app-insight-timers-teachers/)
 * [2024-02-23, 15:33:41](https://news.ycombinator.com/item?id=39481824) - [AI Is in the Midst of a Fever Dream and It's Only Getting Worse](https://gizmodo.com/ai-fever-dream-it-s-only-getting-worse-1851279436)
+* [2024-02-23, 15:30:01](https://news.ycombinator.com/item?id=39481774) - [What Happens to Your Sensitive Data When a Data Broker Goes Bankrupt?](https://themarkup.org/privacy/2024/02/23/what-happens-to-your-sensitive-data-when-a-data-broker-goes-bankrupt)
 * [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
+* [2024-02-23, 15:04:09](https://news.ycombinator.com/item?id=39481380) - [UK Ruling Has Potential to Free Up Public Domain; Museums Might Still Block It](https://www.techdirt.com/2024/02/22/uk-court-ruling-has-potential-to-free-up-the-public-domain-but-museums-might-still-block-it/)
 * [2024-02-23, 14:48:37](https://news.ycombinator.com/item?id=39481188) - [German Bundestag Passes Cannabis Legalization](https://www.bundestag.de/dokumente/textarchiv/2024/kw08-de-cannabis-990684)
 * [2024-02-23, 14:44:18](https://news.ycombinator.com/item?id=39481131) - [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://www.reuters.com/technology/global-markets-marketcap-pix-2024-02-23/)
 * [2024-02-23, 14:42:34](https://news.ycombinator.com/item?id=39481109) - [Tinder Owner Signs ChatGPT Deal. Enjoy the AI Dating Tidal Wave](https://gizmodo.com/tinder-owner-signs-chatgpt-deal-enjoy-the-ai-dating-ti-1851275100)
