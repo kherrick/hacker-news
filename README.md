@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-02-23, 20:51:06](https://news.ycombinator.com/item?id=39485926) - [Avast ordered to stop selling browsing data from its browsing privacy apps](https://arstechnica.com/tech-policy/2024/02/avast-ordered-to-stop-selling-browsing-data-from-its-browsing-privacy-apps/)
+* [2024-02-23, 20:48:04](https://news.ycombinator.com/item?id=39485900) - [Guess the Video Generated with AI](https://www.aiguessit.com/)
 * [2024-02-23, 20:43:43](https://news.ycombinator.com/item?id=39485850) - [The Angel, Islington](https://diamondgeezer.blogspot.com/2024/02/the-angel-islington.html)
-* [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist Backlash Against Globalization: A Meta-Analysis of the Causal Evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
+* [2024-02-23, 20:37:35](https://news.ycombinator.com/item?id=39485793) - [Populist backlash against globalization: A meta-analysis of the causal evidence](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/populist-backlash-against-globalization-a-metaanalysis-of-the-causal-evidence/A672BE773701512F9F4E0B171049E4DF)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:33:53](https://news.ycombinator.com/item?id=39485098) - [Tauri 2.0 tries to make mobile apps crossplatform](https://beta.tauri.app/guides/)
 * [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
@@ -29,7 +30,6 @@
 * [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [VVVV – A Hybrid Visual/Textual Development Environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 10:17:50](https://news.ycombinator.com/item?id=39465242) - [Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
-* [2024-02-22, 08:09:16](https://news.ycombinator.com/item?id=39464490) - [Kyber](https://pq-crystals.org/kyber/)
 
 ## [Archives](archives/index.md)
 
