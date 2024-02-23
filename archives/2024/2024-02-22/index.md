@@ -87,6 +87,7 @@
 * [2024-02-22, 09:24:17](https://news.ycombinator.com/item?id=39464938) - [The Fossil Sync Protocol](https://fossil-scm.org/home/doc/trunk/www/sync.wiki)
 * [2024-02-22, 09:21:53](https://news.ycombinator.com/item?id=39464924) - [Tell HN: AT&T is currently having an outage](https://news.ycombinator.com/item?id=39464924)
 * [2024-02-22, 08:23:57](https://news.ycombinator.com/item?id=39464582) - [Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)](https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/)
+* [2024-02-22, 08:09:16](https://news.ycombinator.com/item?id=39464490) - [Kyber](https://pq-crystals.org/kyber/)
 * [2024-02-22, 07:02:20](https://news.ycombinator.com/item?id=39464065) - [Don't dry your iPhone in a bag of rice, says Apple](https://www.bbc.com/news/technology-68357165)
 * [2024-02-22, 04:34:34](https://news.ycombinator.com/item?id=39463296) - [YouTube dominates TV streaming in US, per Nielsen's latest report](https://techcrunch.com/2024/02/20/youtube-dominates-tv-streaming-in-u-s-per-nielsens-latest-report/)
 * [2024-02-22, 04:19:22](https://news.ycombinator.com/item?id=39463215) - [What Went Wrong at Techstars?](https://www.founderscoop.com/2024/what-went-wrong-at-techstars/)
