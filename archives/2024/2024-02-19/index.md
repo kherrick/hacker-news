@@ -49,6 +49,7 @@
 * [2024-02-19, 17:00:28](https://news.ycombinator.com/item?id=39432015) - [About Y Combinator's Software Team](https://news.ycombinator.com/item?id=39432015)
 * [2024-02-19, 17:00:00](https://news.ycombinator.com/item?id=39432011) - [Why do so many big tech companies have awful apps and many indie apps are great?](https://old.reddit.com/r/androiddev/comments/1auiume/why_do_so_many_large_tech_companies_have_awful/)
 * [2024-02-19, 16:43:05](https://news.ycombinator.com/item?id=39431809) - [Hip to be square – 70 years of the Citroën H Van](https://www.adrianflux.co.uk/influx/culture/hip-square-70-years-citroen-h-van/)
+* [2024-02-19, 16:17:27](https://news.ycombinator.com/item?id=39431438) - [Brightest and fastest-growing: astronomers identify record-breaking quasar](https://www.eso.org/public/news/eso2402/)
 * [2024-02-19, 15:55:24](https://news.ycombinator.com/item?id=39431130) - [Union, intersection, difference, and more are coming to JavaScript Sets](https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/)
 * [2024-02-19, 15:53:06](https://news.ycombinator.com/item?id=39431100) - [Greener cities: A necessity or a luxury?](https://www.nature.com/articles/d41586-024-00477-y)
 * [2024-02-19, 15:23:01](https://news.ycombinator.com/item?id=39430730) - [Working from home can bring big health benefits, study finds](https://www.theguardian.com/business/2024/feb/17/working-from-home-can-bring-big-health-benefits-study-finds)

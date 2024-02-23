@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 03:07:35](https://news.ycombinator.com/item?id=39476491) - [Landlords Are Enforcing No-Sex Tenancy Clauses Now](https://www.vice.com/en/article/n7ema8/no-sex-tenancy-clauses-landlords)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:02:31](https://news.ycombinator.com/item?id=39476015) - [Kagi Smallweb [a directory of small/personal websites]](https://kagi.com/smallweb/)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
@@ -30,6 +29,7 @@
 * [2024-02-21, 10:02:19](https://news.ycombinator.com/item?id=39451974) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 * [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
+* [2024-02-19, 16:17:27](https://news.ycombinator.com/item?id=39431438) - [Brightest and fastest-growing: astronomers identify record-breaking quasar](https://www.eso.org/public/news/eso2402/)
 
 ## [Archives](archives/index.md)
 
