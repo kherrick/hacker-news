@@ -2,7 +2,6 @@
 
 * [2024-02-23, 07:22:42](https://news.ycombinator.com/item?id=39477848) - [Show HN: GPU Prices on eBay](https://gpupricecompare.com)
 * [2024-02-23, 07:02:44](https://news.ycombinator.com/item?id=39477757) - [The Windows Ubuntu Operating System](https://www.wubuntu.org/)
-* [2024-02-23, 04:22:46](https://news.ycombinator.com/item?id=39476941) - [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
@@ -23,6 +22,7 @@
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
+* [2024-02-22, 09:33:35](https://news.ycombinator.com/item?id=39464998) - [Knots on Mars (and a few thoughts on NASA's knots) (2012)](https://forum.igkt.net/index.php?topic=4028.0)
 * [2024-02-21, 10:43:35](https://news.ycombinator.com/item?id=39452243) - [U.S. to Invest Billions to Replace China-Made Cranes at Nation's Ports](https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
