@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 15:29:42](https://news.ycombinator.com/item?id=39481768) - [Handful of Apple Vision Pro Units Develop Identical Crack in Cover Glass](https://www.macrumors.com/2024/02/23/apple-vision-pro-front-glass-cracked-reports/)
 * [2024-02-23, 15:26:56](https://news.ycombinator.com/item?id=39481720) - [Fixed-Point Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [2024-02-23, 15:23:40](https://news.ycombinator.com/item?id=39481670) - [I Spent a Week with Gemini Pro 1.5–It's Fantastic](https://every.to/chain-of-thought/i-spent-a-week-with-gemini-pro-1-5-it-s-fantastic)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
@@ -19,7 +20,6 @@
 * [2024-02-23, 09:14:59](https://news.ycombinator.com/item?id=39478551) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 02:09:43](https://news.ycombinator.com/item?id=39476074) - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
 * [2024-02-23, 02:01:09](https://news.ycombinator.com/item?id=39476002) - [A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes](https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage)
-* [2024-02-23, 01:23:31](https://news.ycombinator.com/item?id=39475729) - [FOSDEM 2024: PineTime Talk](https://blog.mlich.cz/2024/02/fosdem-2024/)
 * [2024-02-22, 20:26:56](https://news.ycombinator.com/item?id=39472693) - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 * [2024-02-22, 18:54:23](https://news.ycombinator.com/item?id=39471388) - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
