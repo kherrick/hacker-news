@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-23, 06:02:34](https://news.ycombinator.com/item?id=39477467) - [The first round of U.S. secondary sanctions on Russia is working](http://jpkoning.blogspot.com/2024/02/the-first-round-of-us-secondary.html)
-* [2024-02-23, 05:46:55](https://news.ycombinator.com/item?id=39477389) - [60% of OpenAI model's responses contain plagiarism](https://www.axios.com/2024/02/22/copyleaks-openai-chatgpt-plagiarism)
 * [2024-02-23, 03:26:36](https://news.ycombinator.com/item?id=39476608) - [Rye Grows with UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-23, 03:00:48](https://news.ycombinator.com/item?id=39476446) - [Resend – Incident report for February 21st, 2024](https://resend.com/blog/incident-report-for-february-21-2024)
 * [2024-02-23, 02:38:57](https://news.ycombinator.com/item?id=39476304) - [Facial recognition error message on vending machine sparks concern at University](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
@@ -23,8 +21,10 @@
 * [2024-02-22, 16:47:39](https://news.ycombinator.com/item?id=39469684) - [Math, Physics, and Engineering Applets](http://falstad.com/mathphysics.html)
 * [2024-02-22, 14:20:15](https://news.ycombinator.com/item?id=39467413) - [Launch HN: Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413)
 * [2024-02-22, 11:09:20](https://news.ycombinator.com/item?id=39465485) - [The Xylophone Maze: Screen-free coding for children](https://20y.hu/~slink/journal/xylophone-duplo/)
+* [2024-02-21, 10:43:35](https://news.ycombinator.com/item?id=39452243) - [U.S. to Invest Billions to Replace China-Made Cranes at Nation's Ports](https://www.wsj.com/politics/national-security/u-s-to-invest-billions-to-replace-china-made-cranes-at-nations-ports-d451ef8f)
 * [2024-02-21, 10:39:24](https://news.ycombinator.com/item?id=39452211) - [APL at Volvo](https://www.dyalog.com/case-studies/hercules.htm)
 * [2024-02-21, 10:36:34](https://news.ycombinator.com/item?id=39452193) - [The code worked differently when the moon was full (2021)](https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full)
+* [2024-02-21, 10:02:19](https://news.ycombinator.com/item?id=39451974) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 09:32:38](https://news.ycombinator.com/item?id=39451800) - [Data will not tell you what to do](https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do)
 * [2024-02-21, 05:57:45](https://news.ycombinator.com/item?id=39450622) - [Online Shopping in the 1950s](https://www.messynessychic.com/2016/01/14/online-shopping-in-the-1950s/)
 * [2024-02-20, 07:16:46](https://news.ycombinator.com/item?id=39438773) - [The Old House at Home (1940)](https://www.newyorker.com/magazine/1940/04/13/the-old-house-at-home)
