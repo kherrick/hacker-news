@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-23, 19:27:31](https://news.ycombinator.com/item?id=39485039) - [Curl HTTP/3 security audit](https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/)
+* [2024-02-23, 19:12:12](https://news.ycombinator.com/item?id=39484878) - [Forum reactions to Satoshi's Bitcoin paper](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject%3A%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1&ref=blog.lopp.net)
 * [2024-02-23, 19:11:30](https://news.ycombinator.com/item?id=39484866) - [Nvidia open source driver to use NVK and Zink for OpenGL on newer GPUs](https://www.gamingonlinux.com/2024/02/nvidia-open-source-driver-to-use-nvk-zink-for-opengl-on-newer-gpus/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 * [2024-02-23, 18:43:35](https://news.ycombinator.com/item?id=39484536) - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
@@ -13,7 +15,6 @@
 * [2024-02-23, 16:25:19](https://news.ycombinator.com/item?id=39482631) - [Astronomers observe the Radcliffe Wave oscillating](https://phys.org/news/2024-02-astronomers-radcliffe-oscillating.html)
 * [2024-02-23, 16:11:58](https://news.ycombinator.com/item?id=39482428) - [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
 * [2024-02-23, 16:00:53](https://news.ycombinator.com/item?id=39482246) - [Leaked Files Show the Secret World of China's Hackers for Hire](https://www.nytimes.com/2024/02/22/business/china-leaked-files.html)
-* [2024-02-23, 15:42:07](https://news.ycombinator.com/item?id=39481948) - [A 'scam manual' written to help immigrants not become victims](https://www.atlasobscura.com/articles/columns-scam-guide-books-con-artists)
 * [2024-02-23, 15:41:13](https://news.ycombinator.com/item?id=39481933) - [Hidden GitHub Commits and How to Reveal Them](https://neodyme.io/en/blog/github_secrets/)
 * [2024-02-23, 15:31:53](https://news.ycombinator.com/item?id=39481805) - [Certain dogs are capable of learning the names for more than 100 different toys](https://www.scientificamerican.com/article/dog-language-geniuses-are-rare-but-apparently-real/)
 * [2024-02-23, 15:15:23](https://news.ycombinator.com/item?id=39481554) - [Gemma.cpp: lightweight, standalone C++ inference engine for Gemma models](https://github.com/google/gemma.cpp)
@@ -26,7 +27,6 @@
 * [2024-02-22, 16:16:51](https://news.ycombinator.com/item?id=39469274) - [VVVV – A Hybrid Visual/Textual Development Environment](https://vvvv.org/)
 * [2024-02-22, 13:11:07](https://news.ycombinator.com/item?id=39466529) - [Researchers use electron beams to eradicate forever chemicals in water](https://phys.org/news/2024-02-electron-eradicate-chemicals.html)
 * [2024-02-22, 10:17:50](https://news.ycombinator.com/item?id=39465242) - [Mass trespass on Dartmoor to highlight England's 'piecemeal' right to roam laws](https://www.theguardian.com/uk-news/2024/feb/19/mass-trespass-dartmoor-england-right-to-roam-laws)
-* [2024-02-22, 09:42:26](https://news.ycombinator.com/item?id=39465049) - [Mathematical Foundations of Joy](https://hypercubed.github.io/joy/html/j02maf.html)
 * [2024-02-22, 08:23:57](https://news.ycombinator.com/item?id=39464582) - [Killing Sir Walter Scott: A Philosophical Exploration of Weeding (2013)](https://www.inthelibrarywiththeleadpipe.org/2013/killing-sir-walter-scott-a-philosophical-exploration-of-weeding/)
 * [2024-02-21, 16:05:55](https://news.ycombinator.com/item?id=39455522) - [Graphic Presentation (1939)](https://archive.org/details/graphicpresentat00brinrich)
 * [2024-02-21, 10:46:46](https://news.ycombinator.com/item?id=39452271) - [John C. Dvorak on Intel's First Neural Network Chip in 1990](https://thechipletter.substack.com/p/john-c-dvorak-on-intels-first-neural)
