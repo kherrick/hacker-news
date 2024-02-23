@@ -2,7 +2,7 @@
 
 * [2024-02-23, 12:01:02](https://news.ycombinator.com/item?id=39479522) - [FlutterFlow (YC W21) Is Hiring](https://news.ycombinator.com/item?id=39479522)
 * [2024-02-23, 11:53:25](https://news.ycombinator.com/item?id=39479478) - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
-* [2024-02-23, 11:27:23](https://news.ycombinator.com/item?id=39479334) - [American drivers even more distracted by phones. Pedestrian deaths are soaring](https://www.vox.com/24078289/us-drivers-distracted-driving-cellphone-road-deaths-pedestrians)
+* [2024-02-23, 11:32:52](https://news.ycombinator.com/item?id=39479361) - [Ask HN: Does procrastination advice help you?](https://news.ycombinator.com/item?id=39479361)
 * [2024-02-23, 11:23:51](https://news.ycombinator.com/item?id=39479300) - [Hiroshima fallout debris linked to first solar system condensates](https://phys.org/news/2024-02-hiroshima-fallout-debris-linked-solar.html)
 * [2024-02-23, 10:26:01](https://news.ycombinator.com/item?id=39479001) - [Thanks FedEx, This Is Why We Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 09:35:49](https://news.ycombinator.com/item?id=39478677) - [Brave's AI assistant now integrates with PDFs and Google Drive](https://brave.com/leo-docsupport/)
