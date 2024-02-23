@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-23, 02:01:09",
+      "https://news.ycombinator.com/item?id=39476002"
+    ],
+    [
+      "A Distributed File System in Go Cut Average Metadata Memory Usage to 100 Bytes",
+      "https://juicefs.com/en/blog/engineering/reduce-metadata-memory-usage"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 01:44:10",
       "https://news.ycombinator.com/item?id=39475863"
     ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Real-time image generation with SDXL Lightning",
       "https://fastsdxl.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 22:04:09",
-      "https://news.ycombinator.com/item?id=39473949"
-    ],
-    [
-      "What ZIL metrics are exposed by (Open)ZFS on Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSGlobalZILInformation"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-02-22, 12:32:23",
-      "https://news.ycombinator.com/item?id=39466160"
-    ],
-    [
-      "Replacement PCB Replicates Early 80s Modem",
-      "https://tempestfpga.com/"
-    ]
-  ],
-  [
-    [
       "2024-02-22, 11:09:20",
       "https://news.ycombinator.com/item?id=39465485"
     ],
@@ -277,6 +267,16 @@
     [
       "How to write unit tests in C++ relying on non-code files?",
       "https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 09:32:38",
+      "https://news.ycombinator.com/item?id=39451800"
+    ],
+    [
+      "Data will not tell you what to do",
+      "https://mikkeldengsoe.substack.com/p/data-will-not-tell-you-what-to-do"
     ]
   ],
   [
