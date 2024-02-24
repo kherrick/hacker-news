@@ -7,6 +7,7 @@
 * [2024-02-24, 15:50:28](https://news.ycombinator.com/item?id=39492423) - [Plastic experts say recycling is a scam. Should we even do it anymore?](https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/)
 * [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
 * [2024-02-24, 15:05:13](https://news.ycombinator.com/item?id=39491968) - [Peter Thiel's $100k offer to skip college is more popular than ever](https://www.wsj.com/finance/peter-thiels-100-000-offer-to-skip-college-is-more-popular-than-ever-162e281b)
+* [2024-02-24, 14:57:14](https://news.ycombinator.com/item?id=39491889) - [Ask HN: Anyone use a code to mindmap/flowchart tool?](https://news.ycombinator.com/item?id=39491889)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 14:45:11](https://news.ycombinator.com/item?id=39491795) - [Every. Single. New. Google. Product](https://twitter.com/MarcosBL/status/1761094858205229430)
 * [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
