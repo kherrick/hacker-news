@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 13:55:54](https://news.ycombinator.com/item?id=39491510) - [Lawyer fined for legal filings that included hallucinated AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
 * [2024-02-24, 10:25:13](https://news.ycombinator.com/item?id=39490543) - [How to Not Die by a Thousand Cuts. Or How to Think About Software Quality (2022)](https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html)
 * [2024-02-24, 10:24:52](https://news.ycombinator.com/item?id=39490540) - [Almost an open-source boot chain for Rockchip's RK3588](https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/)
@@ -19,7 +20,6 @@
 * [2024-02-24, 01:44:00](https://news.ycombinator.com/item?id=39488375) - [DVD's New Cousin Can Store More Than a Petabit](https://spectrum.ieee.org/data-storage-petabit-optical-disc)
 * [2024-02-23, 22:46:46](https://news.ycombinator.com/item?id=39487124) - [Generative Models: What do they know? Do they know things? Let's find out](https://intrinsic-lora.github.io/)
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
-* [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 17:23:23](https://news.ycombinator.com/item?id=39483482) - [Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere](https://ok-robot.github.io/)
 * [2024-02-23, 13:52:18](https://news.ycombinator.com/item?id=39480545) - [Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
 * [2024-02-23, 13:16:42](https://news.ycombinator.com/item?id=39480177) - [Shakespeare expert overturns fly-tipper myth about playwright's father](https://www.theguardian.com/culture/2024/feb/23/shakespeare-expert-overturns-fly-tipper-myth-about-playwrights-father)
