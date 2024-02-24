@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 21:01:59](https://news.ycombinator.com/item?id=39495125) - [Emerge (YC W21) is hiring a growth engineer (small team remote)](https://www.emergetools.com/careers/jobs/growth-engineer)
+* [2024-02-24, 20:49:54](https://news.ycombinator.com/item?id=39495044) - [Simple script to generate RSS feeds](https://www.zoraster.org/blog/script-to-generate-rss-feed)
 * [2024-02-24, 20:08:34](https://news.ycombinator.com/item?id=39494741) - [We were not accepted into Google Summer of Code. So, we started our own](https://qdrant.tech/blog/qdrant-summer-of-code-24/)
 * [2024-02-24, 20:07:25](https://news.ycombinator.com/item?id=39494735) - [Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment](https://www.science.org/doi/10.1126/sciadv.adk3198)
 * [2024-02-24, 20:03:27](https://news.ycombinator.com/item?id=39494698) - [Portugal eased its opioid epidemic, while U.S. drug deaths skyrocketed](https://text.npr.org/1230188789)
 * [2024-02-24, 19:19:29](https://news.ycombinator.com/item?id=39494348) - [The \"KeyTrap\" DNS Vulnerability](https://lwn.net/Articles/962924/#Comments)
 * [2024-02-24, 19:16:47](https://news.ycombinator.com/item?id=39494331) - [Unidentified balloon belongs to amateur balloonist: US official](https://www.nbcnews.com/politics/national-security/us-monitoring-high-altitude-balloon-west-rcna140275)
+* [2024-02-24, 19:05:13](https://news.ycombinator.com/item?id=39494227) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
+* [2024-02-24, 18:53:11](https://news.ycombinator.com/item?id=39494112) - [Project Oberon](https://www.projectoberon.net/)
+* [2024-02-24, 18:40:36](https://news.ycombinator.com/item?id=39493989) - [A simple MUD server in Python which can be run on a Raspberry Pi](https://github.com/Frimkron/mud-pi)
 * [2024-02-24, 18:16:19](https://news.ycombinator.com/item?id=39493770) - [Google helped destroy adoption of RSS feeds](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds)
 * [2024-02-24, 18:09:22](https://news.ycombinator.com/item?id=39493713) - [U.S. rice exports to Haiti have unhealthy levels of arsenic, study finds](https://www.reuters.com/world/americas/us-rice-exports-haiti-have-unhealthy-levels-arsenic-study-finds-2024-02-24/)
 * [2024-02-24, 17:49:20](https://news.ycombinator.com/item?id=39493513) - [Mass Retraction of unethical Chinese Forensic Genetics Papers](https://www.science.org/content/article/ethics-not-checkbox-exercise-bioinformatician-yves-moreau-reacts-mass-retraction-papers)
