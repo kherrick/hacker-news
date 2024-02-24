@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-24, 15:15:12](https://news.ycombinator.com/item?id=39492070) - [Problems in Gemini's Approach to Diversity](https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism)
+* [2024-02-24, 15:50:28](https://news.ycombinator.com/item?id=39492423) - [Plastic experts say recycling is a scam. Should we even do it anymore?](https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/)
 * [2024-02-24, 14:53:08](https://news.ycombinator.com/item?id=39491863) - [Institutions try to preserve the problem to which they are the solution](https://effectiviology.com/shirky-principle/)
 * [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 13:55:54](https://news.ycombinator.com/item?id=39491510) - [Lawyer fined for legal filings that included 'hallucinated' AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
