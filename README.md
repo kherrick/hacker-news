@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-02-24, 11:03:09](https://news.ycombinator.com/item?id=39490696) - [25 years of studying the brain: Avoid these 4 habits that destroy our memory](https://www.cnbc.com/2024/02/23/ive-spent-25-years-studying-the-brain-i-always-avoid-these-habits-that-destroy-our-memory-as-we-age.html)
 * [2024-02-24, 09:44:18](https://news.ycombinator.com/item?id=39490381) - [Geospatial Nix – create, use and deploy today](https://geospatial-nix.today/)
 * [2024-02-24, 09:08:48](https://news.ycombinator.com/item?id=39490247) - [Herr Bischoff's Spam Blocklists](https://ipbl.herrbischoff.com/)
 * [2024-02-24, 08:39:55](https://news.ycombinator.com/item?id=39490139) - [Contributing Scrutiny to Nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
+* [2024-02-24, 05:36:11](https://news.ycombinator.com/item?id=39489395) - [Neutrino (2010) [pdf]](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf)
 * [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please make your table headings sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-24, 03:14:07](https://news.ycombinator.com/item?id=39488823) - [JavaScript has multiple (ambiguous) operator precedence chains](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized)
 * [2024-02-24, 02:54:22](https://news.ycombinator.com/item?id=39488719) - [The Ultimate Guide to PostgreSQL Data Change Tracking](https://exaspark.medium.com/the-ultimate-guide-to-postgresql-data-change-tracking-c3fa88779572)

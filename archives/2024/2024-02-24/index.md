@@ -14,6 +14,7 @@
 * [2024-02-24, 07:20:03](https://news.ycombinator.com/item?id=39489805) - [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
 * [2024-02-24, 06:09:46](https://news.ycombinator.com/item?id=39489519) - [Quality is a hard sell in big tech](https://www.pcloadletter.dev/blog/big-tech-quality/)
+* [2024-02-24, 05:36:11](https://news.ycombinator.com/item?id=39489395) - [Neutrino (2010) [pdf]](http://theor.jinr.ru/~vnaumov/Eng/JINR_Lectures/books/Close2010.pdf)
 * [2024-02-24, 03:16:51](https://news.ycombinator.com/item?id=39488836) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-24, 03:16:05](https://news.ycombinator.com/item?id=39488833) - [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
 * [2024-02-24, 03:14:07](https://news.ycombinator.com/item?id=39488823) - [JavaScript has multiple (ambiguous) operator precedence chains](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Cant_use_nullish_coalescing_unparenthesized)
