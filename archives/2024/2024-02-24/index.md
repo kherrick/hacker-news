@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 14:45:11](https://news.ycombinator.com/item?id=39491795) - [Every. Single. New. Google. Product](https://twitter.com/MarcosBL/status/1761094858205229430)
 * [2024-02-24, 14:18:20](https://news.ycombinator.com/item?id=39491646) - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 * [2024-02-24, 13:55:54](https://news.ycombinator.com/item?id=39491510) - [Lawyer fined for legal filings that included hallucinated AI citations](https://www.universalhub.com/2024/lawyer-learns-hard-way-ai-still-sucks-fined-legal)
 * [2024-02-24, 13:31:37](https://news.ycombinator.com/item?id=39491349) - [Microsoft Joins the MapLibre Sponsorship Program](https://maplibre.org/news/2024-02-20-msft-announcement/)
