@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-02-24, 16:02:43",
-      "https://news.ycombinator.com/item?id=39492556"
+      "2024-02-24, 17:00:42",
+      "https://news.ycombinator.com/item?id=39493068"
     ],
     [
-      "Deeper Cut: Lovecraftian Movie Posters from Ghana",
-      "https://deepcuts.blog/2024/02/24/deeper-cut-lovecraftian-movie-posters-from-ghana/"
+      "GoGoGrandparent (YC S16) is hiring senior/staff back end and lead engineers",
+      "https://news.ycombinator.com/item?id=39493068"
     ]
   ],
   [
     [
-      "2024-02-24, 15:50:28",
-      "https://news.ycombinator.com/item?id=39492423"
+      "2024-02-24, 16:57:53",
+      "https://news.ycombinator.com/item?id=39493046"
     ],
     [
-      "Plastic experts say recycling is a scam. Should we even do it anymore?",
-      "https://www.salon.com/2024/02/23/plastic-experts-say-recycling-is-a-scam-should-we-even-do-it-anymore/"
+      "Some OpenBSD features that aren't widely known",
+      "https://dataswamp.org/~solene/2024-02-20-rarely-known-openbsd-features.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 15:15:12",
+      "https://news.ycombinator.com/item?id=39492070"
+    ],
+    [
+      "Problems in Gemini's Approach to Diversity",
+      "https://www.noahpinion.blog/p/this-is-not-a-good-way-to-fight-racism"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=39491646"
     ],
     [
-      "Understanding, Using, and Finetuning Gemma",
+      "Understanding, using, and finetuning Gemma",
       "https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma"
     ]
   ],
@@ -61,22 +71,22 @@
   ],
   [
     [
-      "2024-02-24, 11:22:34",
-      "https://news.ycombinator.com/item?id=39490781"
-    ],
-    [
-      "Rendering Emails with SvelteKit",
-      "https://www.yieldcode.blog/post/rendering-emails-with-svelte/"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 10:25:13",
       "https://news.ycombinator.com/item?id=39490543"
     ],
     [
       "How to think about software quality (2022)",
       "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 10:24:52",
+      "https://news.ycombinator.com/item?id=39490540"
+    ],
+    [
+      "Almost an open-source boot chain for Rockchip's RK3588",
+      "https://www.collabora.com/news-and-blog/blog/2024/02/21/almost-a-fully-open-source-boot-chain-for-rockchips-rk3588/"
     ]
   ],
   [
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2024-02-23, 17:23:23",
-      "https://news.ycombinator.com/item?id=39483482"
-    ],
-    [
-      "Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere",
-      "https://ok-robot.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 13:52:18",
       "https://news.ycombinator.com/item?id=39480545"
     ],
     [
-      "Building a Deep Learning Rig",
+      "Building a deep learning rig",
       "https://samsja.github.io/blogs/rig/part_1/"
     ]
   ],
