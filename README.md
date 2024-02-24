@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 08:26:47](https://news.ycombinator.com/item?id=39490075) - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 07:20:03](https://news.ycombinator.com/item?id=39489805) - [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
@@ -16,7 +17,6 @@
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator is a sneak peek to the future of development](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:57:30](https://news.ycombinator.com/item?id=39485996) - [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
-* [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
 * [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
