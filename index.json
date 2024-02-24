@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-02-24, 22:35:21",
-      "https://news.ycombinator.com/item?id=39495752"
+      "2024-02-24, 22:47:29",
+      "https://news.ycombinator.com/item?id=39495837"
     ],
     [
-      "Intel CPU is faulty and has Core errors. It's not your GPU, its your CPU",
-      "https://steamcommunity.com/app/1928980/discussions/0/7221029098493967556/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 22:17:24",
-      "https://news.ycombinator.com/item?id=39495626"
-    ],
-    [
-      "\"The issue was detected by our new AI-powered vulnerability scanner\"",
-      "https://mastodon.social/@bagder/111988660459265387"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 22:04:59",
-      "https://news.ycombinator.com/item?id=39495543"
-    ],
-    [
-      "So You Want to be a Big Shot: Advice on playing the promotion game",
-      "https://davidreiscto.substack.com/p/so-you-want-to-be-a-big-shot"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 21:59:51",
-      "https://news.ycombinator.com/item?id=39495494"
-    ],
-    [
-      "Two More Cases of Hallucinated Citations in Court Filings Leading to Sanctions",
-      "https://www.lawnext.com/2024/02/not-again-two-more-cases-just-this-week-of-hallucinated-citations-in-court-filings-leading-to-sanctions.html"
+      "Science Fiction Short: Hijack",
+      "https://spectrum.ieee.org/hard-science-fiction-computer"
     ]
   ],
   [
@@ -45,8 +15,28 @@
       "https://news.ycombinator.com/item?id=39495476"
     ],
     [
-      "Analysis: Does Offering ChatGPT a Tip Cause It to Generate Better Text?",
+      "Does offering ChatGPT a tip cause it to generate better text?",
       "https://minimaxir.com/2024/02/chatgpt-tips-analysis/"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 21:56:22",
+      "https://news.ycombinator.com/item?id=39495466"
+    ],
+    [
+      "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 21:38:04",
+      "https://news.ycombinator.com/item?id=39495355"
+    ],
+    [
+      "How Does Bluesky Work?",
+      "https://steveklabnik.com/writing/how-does-bluesky-work"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=39495125"
     ],
     [
-      "Emerge (YC W21) is hiring a growth engineer (small team remote)",
+      "Emerge (YC W21) is hiring a growth engineer (remote)",
       "https://www.emergetools.com/careers/jobs/growth-engineer"
     ]
   ],
@@ -67,6 +57,26 @@
     [
       "Architecture.md (2021)",
       "https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 20:16:37",
+      "https://news.ycombinator.com/item?id=39494796"
+    ],
+    [
+      "Cities stripping out concrete for earth and plants",
+      "https://www.bbc.com/future/article/20240222-depaving-the-cities-replacing-concrete-with-earth-and-plants"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 20:11:56",
+      "https://news.ycombinator.com/item?id=39494760"
+    ],
+    [
+      "NTIA Solicits Comments on Open-Weight AI Models",
+      "https://www.commerce.gov/news/press-releases/2024/02/ntia-solicits-comments-open-weight-ai-models"
     ]
   ],
   [
@@ -85,18 +95,8 @@
       "https://news.ycombinator.com/item?id=39494735"
     ],
     [
-      "Long-lasting plasticity from patterned ultrasound-induced brainwave entrainment",
+      "Plasticity through patterned ultrasound-induced brainwave entrainment in mice",
       "https://www.science.org/doi/10.1126/sciadv.adk3198"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 19:48:38",
-      "https://news.ycombinator.com/item?id=39494598"
-    ],
-    [
-      "Bitcoin Is Time",
-      "https://dergigi.com/2021/01/14/bitcoin-is-time/"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=39493179"
     ],
     [
-      "Iterating over Bit Sets Quickly",
+      "Iterating over bit sets quickly",
       "https://alexharri.com/blog/bit-set-iteration"
     ]
   ],
