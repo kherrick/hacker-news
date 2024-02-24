@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 09:01:04](https://news.ycombinator.com/item?id=39490218) - [Argentina's Economy Is Screaming at Top of Its Lungs](https://www.nakedcapitalism.com/2024/02/after-just-a-month-a-half-of-mileis-high-voltage-shock-treatment-argentinas-economy-is-screaming.html)
 * [2024-02-24, 08:26:47](https://news.ycombinator.com/item?id=39490075) - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 07:20:03](https://news.ycombinator.com/item?id=39489805) - [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)

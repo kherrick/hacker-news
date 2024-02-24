@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-02-24, 09:01:04](https://news.ycombinator.com/item?id=39490218) - [Argentina's Economy Is Screaming at Top of Its Lungs](https://www.nakedcapitalism.com/2024/02/after-just-a-month-a-half-of-mileis-high-voltage-shock-treatment-argentinas-economy-is-screaming.html)
 * [2024-02-24, 08:26:47](https://news.ycombinator.com/item?id=39490075) - [Considering then abandoning JSX for structured YAML config](https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html)
 * [2024-02-24, 07:47:15](https://news.ycombinator.com/item?id=39489920) - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 * [2024-02-24, 06:43:23](https://news.ycombinator.com/item?id=39489660) - [Never-Repeating Tiles Can Safeguard Quantum Information](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
@@ -16,8 +17,6 @@
 * [2024-02-23, 22:04:58](https://news.ycombinator.com/item?id=39486717) - [Meta's new LLM-based test generator](https://read.engineerscodex.com/p/metas-new-llm-based-test-generator)
 * [2024-02-23, 21:45:03](https://news.ycombinator.com/item?id=39486517) - [Glass Health (YC W23) is hiring across multiple engineering roles](https://jobs.lever.co/glass-health-inc?team=Product%20%26%20Engineering)
 * [2024-02-23, 20:57:30](https://news.ycombinator.com/item?id=39485996) - [Emergence of stone-tool use behavior in a population of common macaques](https://pubmed.ncbi.nlm.nih.gov/38012960/)
-* [2024-02-23, 20:52:11](https://news.ycombinator.com/item?id=39485940) - [Reconductoring: An easy way to expand the grid](https://heatmap.news/climate/clean-energy-grid-reconductoring)
-* [2024-02-23, 19:49:03](https://news.ycombinator.com/item?id=39485259) - [Tell HN: Equifax free credit report dark patterns](https://news.ycombinator.com/item?id=39485259)
 * [2024-02-23, 19:14:18](https://news.ycombinator.com/item?id=39484907) - [Scuttlebutt social network: a decentralised platform](https://scuttlebutt.nz/)
 * [2024-02-23, 18:54:46](https://news.ycombinator.com/item?id=39484685) - [Show HN: Little Fixes – a spatial forum to improve your city](https://littlefixes.xyz/)
 * [2024-02-23, 18:47:23](https://news.ycombinator.com/item?id=39484590) - [Show HN: Refractify – Optical software against myopia](https://refractify.io/)
@@ -27,6 +26,7 @@
 * [2024-02-23, 10:14:20](https://news.ycombinator.com/item?id=39478935) - [Lessons from my third year running a SaaS](https://maxrozen.com/lessons-from-my-third-year-running-a-saas)
 * [2024-02-23, 10:03:33](https://news.ycombinator.com/item?id=39478860) - [Shoes makes building little graphical programs for Mac, Windows, Linux simple](http://shoesrb.com/)
 * [2024-02-23, 08:57:35](https://news.ycombinator.com/item?id=39478441) - [Lisp Programming with Vim (2019)](https://susam.net/lisp-in-vim.html)
+* [2024-02-23, 08:03:43](https://news.ycombinator.com/item?id=39478074) - [Ten years of remembering every day that passes](http://lembransation.blogspot.com/2022/01/ten-years-of-remembering-every-day-that.html)
 * [2024-02-23, 07:19:03](https://news.ycombinator.com/item?id=39477821) - [Go(lang): Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
 * [2024-02-22, 12:06:36](https://news.ycombinator.com/item?id=39465932) - [J3blocks is a Janet scripting system for i3bar and swaybar](https://codeberg.org/amano.kenji/j3blocks)
 * [2024-02-22, 10:22:08](https://news.ycombinator.com/item?id=39465258) - [LilyPond: Music notation for everyone](https://lilypond.org/)
